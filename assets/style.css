@@ -425,12 +425,12 @@ body{background:var(--bg)}
 }
 
 
-/* IndexAI — high-contrast orbit caption in both themes. */
+/* IndexAI — accessible orbit caption, discreet and clearly non-interactive. */
 .hero-nebula .orbit-caption{
   z-index:5;
   left:50%;
   right:auto;
-  bottom:5px;
+  bottom:-10px; /* 15px lower than previous placement */
   width:max-content;
   max-width:calc(100% - 20px);
   transform:translateX(-50%);
@@ -450,6 +450,19 @@ body{background:var(--bg)}
   -webkit-backdrop-filter:blur(12px);
   backdrop-filter:blur(12px);
 }
+/* In light mode this is a plain caption, NOT a button or chip. */
+:root[data-theme=light] .hero-nebula .orbit-caption{
+  padding:0;
+  border:0;
+  border-radius:0;
+  background:transparent;
+  box-shadow:none;
+  -webkit-backdrop-filter:none;
+  backdrop-filter:none;
+  color:#39261a;
+  text-shadow:0 1px 2px rgba(255,250,239,.98), 0 0 12px rgba(255,250,239,.85);
+}
+/* Preserve the contrast-protecting dark-mode surface. */
 :root[data-theme=dark] .hero-nebula .orbit-caption{
   color:#fff7e8;
   background:rgba(34,24,22,.92);
@@ -459,11 +472,12 @@ body{background:var(--bg)}
 }
 @media(max-width:700px){
   .hero-nebula .orbit-caption{
-    bottom:8px;
+    bottom:-3px; /* slightly lower on small screens */
     max-width:calc(100% - 14px);
     padding:7px 10px;
     font-size:14px;
     white-space:normal;
   }
+  :root[data-theme=light] .hero-nebula .orbit-caption{padding:0}
   .hero-nebula .nebula-motion-toggle{bottom:52px}
 }
