@@ -120,7 +120,7 @@ export function mountNebula(stage) {
     const [cx, cy] = center();
     const shiftX = pointerX * (w < 680 ? 11 : 24);
     const shiftY = pointerY * 14;
-    const twist = motion ? Math.sin(time * .15) * .022 : 0;
+    const twist = motion ? Math.sin(time * .35) * .06 : 0;
     if (haze) {
       ctx.save();
       ctx.translate(cx + shiftX * .48, cy + shiftY * .48);
@@ -129,8 +129,8 @@ export function mountNebula(stage) {
       ctx.drawImage(haze, -cx, -cy, w, h);
       ctx.restore();
     }
-    const ambient = dark ? .28 : .23;
-    const spin = motion ? time * .018 : 0;
+    const ambient = dark ? .42 : .38;
+    const spin = motion ? time * .15 : 0;
     // A gently turning field of stars suspended inside the cloud structure.
     ctx.save();
     ctx.globalCompositeOperation = dark ? 'lighter' : 'source-over';
