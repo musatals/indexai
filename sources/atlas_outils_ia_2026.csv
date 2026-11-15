@@ -1,0 +1,809 @@
+﻿ID,Outil / ressource,Catégorie principale,Autres catégories,Site officiel (à confirmer),Nature,État vérification,Source d’orientation,Date d’inventaire
+AI-0001,ChatGPT,Assistants généralistes,,https://chatgpt.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0002,Claude,Assistants généralistes,,https://claude.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0003,Gemini,Assistants généralistes,,https://gemini.google.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0004,Microsoft Copilot,Assistants généralistes,,https://copilot.microsoft.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0005,Perplexity,Assistants généralistes,Recherche web et réponses,https://www.perplexity.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0006,Grok,Assistants généralistes,,https://grok.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0007,Le Chat Mistral,Assistants généralistes,,https://chat.mistral.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0008,DeepSeek Chat,Assistants généralistes,,https://chat.deepseek.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0009,Qwen Chat,Assistants généralistes,,https://chat.qwen.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0010,Kimi,Assistants généralistes,,https://kimi.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0011,Poe,Assistants généralistes,,https://poe.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0012,Meta AI,Assistants généralistes,,https://www.meta.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0013,Pi,Assistants généralistes,,https://pi.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0014,You.com,Assistants généralistes,Recherche web et réponses,https://you.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0015,Duck.ai,Assistants généralistes,,https://duck.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0016,HuggingChat,Assistants généralistes,,https://huggingface.co/chat,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0017,Character.AI,Assistants généralistes,,https://character.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0018,Replika,Assistants généralistes,,https://replika.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0019,Phind,Recherche web et réponses,,https://www.phind.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0020,Brave Search AI,Recherche web et réponses,,https://search.brave.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0021,Andi,Recherche web et réponses,,https://andisearch.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0022,Komo,Recherche web et réponses,,https://komo.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0023,Exa,Recherche web et réponses,,https://exa.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0024,Tavily,Recherche web et réponses,,https://tavily.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0025,Genspark,Recherche web et réponses,Agents autonomes et orchestration,https://www.genspark.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0026,Consensus,Recherche web et réponses,Recherche académique et science,https://consensus.app,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0027,Elicit,Recherche web et réponses,Recherche académique et science,https://elicit.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0028,Scite,Recherche web et réponses,Recherche académique et science,https://scite.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0029,Felo,Recherche web et réponses,,https://felo.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0030,Kagi Assistant,Recherche web et réponses,,https://kagi.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0031,Wolfram Alpha,Recherche web et réponses,,https://www.wolframalpha.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0032,Semantic Scholar,Recherche académique et science,,https://www.semanticscholar.org,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0033,ResearchRabbit,Recherche académique et science,,https://www.researchrabbit.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0034,Connected Papers,Recherche académique et science,,https://www.connectedpapers.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0035,Litmaps,Recherche académique et science,,https://www.litmaps.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0036,Inciteful,Recherche académique et science,,https://inciteful.xyz,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0037,SciSpace,Recherche académique et science,,https://typeset.io,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0038,Scholarcy,Recherche académique et science,,https://www.scholarcy.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0039,Explainpaper,Recherche académique et science,,https://www.explainpaper.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0040,Undermind,Recherche académique et science,,https://www.undermind.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0041,Paperpal,Recherche académique et science,,https://paperpal.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0042,Jenni AI,Recherche académique et science,,https://jenni.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0043,Iris.ai,Recherche académique et science,,https://iris.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0044,Dimensions,Recherche académique et science,,https://www.dimensions.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0045,OpenAlex,Recherche académique et science,,https://openalex.org,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0046,NotebookLM,Recherche académique et science,Éducation et tutorat,https://notebooklm.google,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0047,Zotero,Recherche académique et science,,https://www.zotero.org,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0048,Jasper,Rédaction et correction,Marketing et publicité,https://www.jasper.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0049,Copy.ai,Rédaction et correction,Marketing et publicité,https://www.copy.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0050,Writesonic,Rédaction et correction,,https://writesonic.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0051,Rytr,Rédaction et correction,,https://rytr.me,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0052,Grammarly,Rédaction et correction,Email et communication,https://www.grammarly.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0053,QuillBot,Rédaction et correction,,https://quillbot.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0054,Wordtune,Rédaction et correction,,https://www.wordtune.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0055,Sudowrite,Rédaction et correction,,https://www.sudowrite.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0056,NovelAI,Rédaction et correction,,https://novelai.net,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0057,HyperWrite,Rédaction et correction,,https://www.hyperwriteai.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0058,Writer,Rédaction et correction,,https://writer.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0059,Anyword,Rédaction et correction,Marketing et publicité,https://anyword.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0060,TextCortex,Rédaction et correction,,https://textcortex.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0061,ProWritingAid,Rédaction et correction,,https://prowritingaid.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0062,LanguageTool,Rédaction et correction,,https://languagetool.org,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0063,DeepL Write,Rédaction et correction,,https://www.deepl.com/write,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0064,Lex,Rédaction et correction,,https://lex.page,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0065,Simplified,Rédaction et correction,,https://simplified.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0066,DeepL,Traduction et localisation,,https://www.deepl.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0067,Google Translate,Traduction et localisation,,https://translate.google.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0068,Microsoft Translator,Traduction et localisation,,https://www.microsoft.com/translator,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0069,Reverso,Traduction et localisation,,https://www.reverso.net,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0070,Lara Translate,Traduction et localisation,,https://laratranslate.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0071,Smartcat,Traduction et localisation,,https://www.smartcat.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0072,Phrase,Traduction et localisation,,https://phrase.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0073,Lokalise,Traduction et localisation,,https://lokalise.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0074,Crowdin,Traduction et localisation,,https://crowdin.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0075,Unbabel,Traduction et localisation,,https://unbabel.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0076,Rask AI,Traduction et localisation,"Avatars, présentateurs et doublage",https://www.rask.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0077,Papercup,Traduction et localisation,"Avatars, présentateurs et doublage",https://www.papercup.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0078,ElevenLabs Dubbing,Traduction et localisation,,https://elevenlabs.io,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0079,HeyGen Translate,Traduction et localisation,,https://www.heygen.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0080,Midjourney,Images génératives,,https://www.midjourney.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0081,Adobe Firefly,Images génératives,,https://firefly.adobe.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0082,Ideogram,Images génératives,,https://ideogram.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0083,Leonardo AI,Images génératives,"3D, spatial et XR, Jeux vidéo et personnages",https://leonardo.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0084,Recraft,Images génératives,Design graphique et branding,https://www.recraft.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0085,FLUX,Images génératives,,https://blackforestlabs.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0086,Stable Diffusion,Images génératives,,https://stability.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0087,DreamStudio,Images génératives,,https://dreamstudio.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0088,Playground AI,Images génératives,,https://playground.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0089,Krea,Images génératives,,https://www.krea.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0090,Freepik AI,Images génératives,,https://www.freepik.com/ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0091,OpenArt,Images génératives,,https://openart.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0092,NightCafe,Images génératives,,https://nightcafe.studio,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0093,Civitai,Images génératives,,https://civitai.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0094,Tensor.Art,Images génératives,,https://tensor.art,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0095,SeaArt,Images génératives,,https://www.seaart.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0096,Mage.space,Images génératives,,https://www.mage.space,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0097,Artbreeder,Images génératives,,https://www.artbreeder.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0098,ImagineArt,Images génératives,,https://www.imagine.art,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0099,Microsoft Designer,Images génératives,Design graphique et branding,https://designer.microsoft.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0100,Canva Magic Media,Images génératives,,https://www.canva.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0101,Google ImageFX,Images génératives,,https://labs.google/fx/tools/image-fx,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0102,Adobe Photoshop,Retouche et restauration d’images,,https://www.adobe.com/products/photoshop.html,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0103,Photoroom,Retouche et restauration d’images,,https://www.photoroom.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0104,remove.bg,Retouche et restauration d’images,,https://www.remove.bg,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0105,Topaz Photo,Retouche et restauration d’images,,https://www.topazlabs.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0106,Magnific AI,Retouche et restauration d’images,,https://magnific.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0107,Let's Enhance,Retouche et restauration d’images,,https://letsenhance.io,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0108,Clipdrop,Retouche et restauration d’images,,https://clipdrop.co,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0109,Cleanup.pictures,Retouche et restauration d’images,,https://cleanup.pictures,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0110,Remini,Retouche et restauration d’images,,https://remini.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0111,Pixelcut,Retouche et restauration d’images,,https://www.pixelcut.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0112,Picsart,Retouche et restauration d’images,,https://picsart.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0113,Fotor,Retouche et restauration d’images,,https://www.fotor.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0114,Luminar Neo,Retouche et restauration d’images,,https://skylum.com/luminar,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0115,VanceAI,Retouche et restauration d’images,,https://vanceai.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0116,Upscayl,Retouche et restauration d’images,,https://upscayl.org,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0117,GFPGAN,Retouche et restauration d’images,,https://github.com/TencentARC/GFPGAN,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0118,Real-ESRGAN,Retouche et restauration d’images,,https://github.com/xinntao/Real-ESRGAN,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0119,Runway,Vidéo générative,,https://runwayml.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0120,Pika,Vidéo générative,,https://pika.art,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0121,Luma Dream Machine,Vidéo générative,,https://lumalabs.ai/dream-machine,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0122,Kling AI,Vidéo générative,,https://klingai.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0123,Hailuo AI,Vidéo générative,,https://hailuoai.video,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0124,Google Flow,Vidéo générative,,https://labs.google/fx/tools/flow,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0125,Veo,Vidéo générative,,https://deepmind.google/models/veo,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0126,Sora,Vidéo générative,,https://sora.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0127,Haiper,Vidéo générative,,https://haiper.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0128,PixVerse,Vidéo générative,,https://pixverse.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0129,Vidu,Vidéo générative,,https://www.vidu.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0130,Kaiber,Vidéo générative,,https://kaiber.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0131,Genmo,Vidéo générative,,https://www.genmo.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0132,Higgsfield,Vidéo générative,,https://higgsfield.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0133,LTX Studio,Vidéo générative,,https://ltx.studio,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0134,Pollo AI,Vidéo générative,,https://pollo.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0135,Open-Sora,Vidéo générative,,https://github.com/hpcaitech/Open-Sora,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0136,Wan AI,Vidéo générative,,https://wan.video,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0137,CapCut,Montage vidéo et clips,,https://www.capcut.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0138,Descript,Montage vidéo et clips,"Audio, podcasts et traitement",https://www.descript.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0139,OpusClip,Montage vidéo et clips,,https://www.opus.pro,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0140,VEED,Montage vidéo et clips,,https://www.veed.io,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0141,Kapwing,Montage vidéo et clips,,https://www.kapwing.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0142,InVideo,Montage vidéo et clips,,https://invideo.io,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0143,Wisecut,Montage vidéo et clips,,https://www.wisecut.video,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0144,Vizard,Montage vidéo et clips,,https://vizard.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0145,Captions,Montage vidéo et clips,,https://www.captions.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0146,Submagic,Montage vidéo et clips,,https://www.submagic.co,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0147,Filmora,Montage vidéo et clips,,https://filmora.wondershare.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0148,Adobe Premiere Pro,Montage vidéo et clips,,https://www.adobe.com/products/premiere.html,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0149,DaVinci Resolve,Montage vidéo et clips,,https://www.blackmagicdesign.com/products/davinciresolve,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0150,Riverside,Montage vidéo et clips,"Audio, podcasts et traitement",https://riverside.fm,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0151,Munch,Montage vidéo et clips,,https://www.getmunch.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0152,Choppity,Montage vidéo et clips,,https://www.choppity.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0153,Synthesia,"Avatars, présentateurs et doublage",,https://www.synthesia.io,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0154,HeyGen,"Avatars, présentateurs et doublage",,https://www.heygen.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0155,D-ID,"Avatars, présentateurs et doublage",,https://www.d-id.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0156,Colossyan,"Avatars, présentateurs et doublage",,https://www.colossyan.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0157,Elai.io,"Avatars, présentateurs et doublage",,https://elai.io,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0158,Hour One,"Avatars, présentateurs et doublage",,https://hourone.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0159,DeepBrain AI,"Avatars, présentateurs et doublage",,https://www.aistudios.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0160,Tavus,"Avatars, présentateurs et doublage",Agents vocaux et téléphonie,https://www.tavus.io,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0161,AKOOL,"Avatars, présentateurs et doublage",,https://akool.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0162,Vidnoz,"Avatars, présentateurs et doublage",,https://www.vidnoz.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0163,Pipio,"Avatars, présentateurs et doublage",,https://www.pipio.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0164,Dubverse,"Avatars, présentateurs et doublage",,https://dubverse.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0165,ElevenLabs,Voix et synthèse vocale,,https://elevenlabs.io,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0166,Murf,Voix et synthèse vocale,,https://murf.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0167,PlayHT,Voix et synthèse vocale,,https://play.ht,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0168,Speechify,Voix et synthèse vocale,,https://speechify.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0169,WellSaid Labs,Voix et synthèse vocale,,https://wellsaidlabs.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0170,Resemble AI,Voix et synthèse vocale,,https://www.resemble.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0171,LOVO,Voix et synthèse vocale,,https://lovo.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0172,Listnr,Voix et synthèse vocale,,https://www.listnr.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0173,Narakeet,Voix et synthèse vocale,,https://www.narakeet.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0174,NaturalReader,Voix et synthèse vocale,,https://www.naturalreaders.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0175,Cartesia,Voix et synthèse vocale,,https://cartesia.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0176,Hume AI,Voix et synthèse vocale,Agents vocaux et téléphonie,https://www.hume.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0177,OpenAI TTS,Voix et synthèse vocale,,https://platform.openai.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0178,Azure AI Speech,Voix et synthèse vocale,,https://azure.microsoft.com/products/ai-services/ai-speech,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0179,Google Cloud Text-to-Speech,Voix et synthèse vocale,,https://cloud.google.com/text-to-speech,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0180,Amazon Polly,Voix et synthèse vocale,,https://aws.amazon.com/polly,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0181,Whisper,Transcription et réunions,,https://github.com/openai/whisper,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0182,Otter,Transcription et réunions,,https://otter.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0183,Fireflies.ai,Transcription et réunions,,https://fireflies.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0184,Fathom,Transcription et réunions,,https://fathom.video,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0185,tl,Transcription et réunions,,,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0186,dv,Transcription et réunions,,https://tldv.io,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0187,Avoma,Transcription et réunions,,https://www.avoma.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0188,Sembly,Transcription et réunions,,https://www.sembly.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0189,MeetGeek,Transcription et réunions,,https://meetgeek.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0190,Krisp,Transcription et réunions,"Audio, podcasts et traitement",https://krisp.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0191,Granola,Transcription et réunions,,https://www.granola.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0192,Supernormal,Transcription et réunions,,https://supernormal.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0193,Notta,Transcription et réunions,,https://www.notta.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0194,Sonix,Transcription et réunions,,https://sonix.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0195,Trint,Transcription et réunions,,https://trint.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0196,AssemblyAI,Transcription et réunions,,https://www.assemblyai.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0197,Deepgram,Transcription et réunions,,https://deepgram.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0198,Gladia,Transcription et réunions,,https://www.gladia.io,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0199,Suno,Musique et composition,,https://suno.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0200,Udio,Musique et composition,,https://www.udio.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0201,AIVA,Musique et composition,,https://www.aiva.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0202,Soundraw,Musique et composition,,https://soundraw.io,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0203,Beatoven.ai,Musique et composition,,https://www.beatoven.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0204,Boomy,Musique et composition,,https://boomy.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0205,Loudly,Musique et composition,,https://www.loudly.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0206,Mubert,Musique et composition,,https://mubert.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0207,Stable Audio,Musique et composition,,https://www.stableaudio.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0208,MusicGen,Musique et composition,,https://huggingface.co/facebook/musicgen-small,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0209,Riffusion,Musique et composition,,https://www.riffusion.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0210,SOUNDVERSE,Musique et composition,,https://www.soundverse.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0211,Ecrett Music,Musique et composition,,https://ecrettmusic.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0212,Amper Music,Musique et composition,,,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0213,Moises,Musique et composition,,https://moises.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0214,LANDR,Musique et composition,,https://www.landr.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0215,Kits AI,Musique et composition,,https://www.kits.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0216,LALAL.AI,Musique et composition,"Audio, podcasts et traitement",https://www.lalal.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0217,Adobe Podcast,"Audio, podcasts et traitement",,https://podcast.adobe.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0218,Auphonic,"Audio, podcasts et traitement",,https://auphonic.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0219,Podcastle,"Audio, podcasts et traitement",,https://podcastle.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0220,Cleanvoice,"Audio, podcasts et traitement",,https://cleanvoice.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0221,Wondercraft,"Audio, podcasts et traitement",,https://www.wondercraft.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0222,Alitu,"Audio, podcasts et traitement",,https://alitu.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0223,Podium,"Audio, podcasts et traitement",,https://hello.podium.page,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0224,Ultimate Vocal Remover,"Audio, podcasts et traitement",,https://ultimatevocalremover.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0225,Demucs,"Audio, podcasts et traitement",,https://github.com/facebookresearch/demucs,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0226,Canva,Design graphique et branding,,https://www.canva.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0227,Adobe Express,Design graphique et branding,,https://www.adobe.com/express,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0228,Looka,Design graphique et branding,,https://looka.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0229,Brandmark,Design graphique et branding,,https://brandmark.io,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0230,LogoAI,Design graphique et branding,,https://www.logoai.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0231,Designs.ai,Design graphique et branding,,https://designs.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0232,Kittl,Design graphique et branding,,https://www.kittl.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0233,Uizard,Design graphique et branding,,https://uizard.io,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0234,Visme,Design graphique et branding,Présentations et infographies,https://www.visme.co,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0235,Piktochart,Design graphique et branding,Présentations et infographies,https://piktochart.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0236,Khroma,Design graphique et branding,,https://www.khroma.co,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0237,Galileo AI,Design graphique et branding,,https://www.usegalileo.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0238,Figma AI,Design graphique et branding,,https://www.figma.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0239,Framer AI,Design graphique et branding,,https://www.framer.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0240,Gamma,Présentations et infographies,,https://gamma.app,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0241,Beautiful.ai,Présentations et infographies,,https://www.beautiful.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0242,Tome,Présentations et infographies,,https://tome.app,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0243,Pitch,Présentations et infographies,,https://pitch.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0244,SlidesAI,Présentations et infographies,,https://www.slidesai.io,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0245,Plus AI,Présentations et infographies,,https://plusai.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0246,Decktopus,Présentations et infographies,,https://www.decktopus.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0247,Presentations.AI,Présentations et infographies,,https://www.presentations.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0248,MagicSlides,Présentations et infographies,,https://www.magicslides.app,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0249,Canva Presentations,Présentations et infographies,,https://www.canva.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0250,Napkin AI,Présentations et infographies,,https://www.napkin.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0251,Prezi AI,Présentations et infographies,,https://prezi.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0252,SlideSpeak,Présentations et infographies,,https://slidespeak.co,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0253,GitHub Copilot,Programmation assistée,,https://github.com/features/copilot,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0254,Cursor,Programmation assistée,,https://cursor.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0255,Windsurf,Programmation assistée,,https://windsurf.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0256,Claude Code,Programmation assistée,,https://www.anthropic.com/claude-code,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0257,OpenAI Codex,Programmation assistée,,https://openai.com/codex,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0258,Gemini Code Assist,Programmation assistée,,https://cloud.google.com/products/gemini/code-assist,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0259,Amazon Q Developer,Programmation assistée,,https://aws.amazon.com/q/developer,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0260,Tabnine,Programmation assistée,,https://www.tabnine.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0261,Sourcegraph Cody,Programmation assistée,,https://sourcegraph.com/cody,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0262,Continue,Programmation assistée,,https://continue.dev,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0263,Aider,Programmation assistée,,https://aider.chat,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0264,Cline,Programmation assistée,,https://cline.bot,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0265,Roo Code,Programmation assistée,,https://roocode.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0266,OpenHands,Programmation assistée,,https://www.all-hands.dev,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0267,Devin,Programmation assistée,Agents autonomes et orchestration,https://devin.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0268,Codeium,Programmation assistée,,https://codeium.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0269,Qodo,Programmation assistée,,https://www.qodo.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0270,CodeRabbit,Programmation assistée,,https://www.coderabbit.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0271,Greptile,Programmation assistée,,https://www.greptile.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0272,JetBrains AI,Programmation assistée,,https://www.jetbrains.com/ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0273,Augment Code,Programmation assistée,,https://www.augmentcode.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0274,SWE-agent,Programmation assistée,,https://swe-agent.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0275,Replit Agent,Programmation assistée,,https://replit.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0276,Lovable,Création de sites et applications,,https://lovable.dev,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0277,Bolt.new,Création de sites et applications,,https://bolt.new,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0278,v0,Création de sites et applications,,https://v0.app,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0279,Replit,Création de sites et applications,,https://replit.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0280,Firebase Studio,Création de sites et applications,,https://firebase.studio,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0281,Framer,Création de sites et applications,,https://www.framer.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0282,Webflow AI,Création de sites et applications,,https://webflow.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0283,Wix AI,Création de sites et applications,,https://www.wix.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0284,Durable,Création de sites et applications,,https://durable.co,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0285,10Web,Création de sites et applications,,https://10web.io,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0286,Hostinger AI Website Builder,Création de sites et applications,,https://www.hostinger.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0287,Appy Pie,Création de sites et applications,,https://www.appypie.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0288,Bubble,Création de sites et applications,,https://bubble.io,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0289,FlutterFlow,Création de sites et applications,,https://flutterflow.io,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0290,Softr,Création de sites et applications,,https://www.softr.io,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0291,Glide,Création de sites et applications,,https://www.glideapps.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0292,Create,Création de sites et applications,,https://www.create.xyz,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0293,Base44,Création de sites et applications,,https://base44.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0294,Momen,Création de sites et applications,,https://momen.app,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0295,Manus,Agents autonomes et orchestration,,https://manus.im,Agent / framework / plateforme,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0296,AutoGPT,Agents autonomes et orchestration,,https://agpt.co,Agent / framework / plateforme,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0297,CrewAI,Agents autonomes et orchestration,,https://www.crewai.com,Agent / framework / plateforme,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0298,LangChain,Agents autonomes et orchestration,"RAG, bases vectorielles et recherche",https://www.langchain.com,Agent / framework / plateforme,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0299,LangGraph,Agents autonomes et orchestration,,https://www.langchain.com/langgraph,Agent / framework / plateforme,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0300,LlamaIndex,Agents autonomes et orchestration,"RAG, bases vectorielles et recherche",https://www.llamaindex.ai,Agent / framework / plateforme,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0301,Microsoft Copilot Studio,Agents autonomes et orchestration,,https://www.microsoft.com/microsoft-copilot/microsoft-copilot-studio,Agent / framework / plateforme,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0302,Dify,Agents autonomes et orchestration,,https://dify.ai,Agent / framework / plateforme,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0303,Langflow,Agents autonomes et orchestration,,https://www.langflow.org,Agent / framework / plateforme,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0304,Flowise,Agents autonomes et orchestration,,https://flowiseai.com,Agent / framework / plateforme,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0305,Agno,Agents autonomes et orchestration,,https://www.agno.com,Agent / framework / plateforme,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0306,AutoGen,Agents autonomes et orchestration,,https://github.com/microsoft/autogen,Agent / framework / plateforme,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0307,Semantic Kernel,Agents autonomes et orchestration,,https://github.com/microsoft/semantic-kernel,Agent / framework / plateforme,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0308,Pydantic AI,Agents autonomes et orchestration,,https://ai.pydantic.dev,Agent / framework / plateforme,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0309,Smolagents,Agents autonomes et orchestration,,https://huggingface.co/docs/smolagents,Agent / framework / plateforme,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0310,Mastra,Agents autonomes et orchestration,,https://mastra.ai,Agent / framework / plateforme,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0311,Letta,Agents autonomes et orchestration,,https://www.letta.com,Agent / framework / plateforme,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0312,Relevance AI,Agents autonomes et orchestration,,https://relevanceai.com,Agent / framework / plateforme,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0313,Lindy,Agents autonomes et orchestration,,https://www.lindy.ai,Agent / framework / plateforme,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0314,Taskade,Agents autonomes et orchestration,Organisation et productivité,https://www.taskade.com,Agent / framework / plateforme,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0315,Composio,Agents autonomes et orchestration,,https://composio.dev,Agent / framework / plateforme,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0316,Browser Use,Agents autonomes et orchestration,,https://browser-use.com,Agent / framework / plateforme,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0317,OpenAI Agents SDK,Agents autonomes et orchestration,,https://openai.github.io/openai-agents-python,Agent / framework / plateforme,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0318,Zapier,Automatisation et intégrations,,https://zapier.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0319,Make,Automatisation et intégrations,,https://www.make.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0320,n8n,Automatisation et intégrations,,https://n8n.io,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0321,Pipedream,Automatisation et intégrations,,https://pipedream.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0322,Bardeen,Automatisation et intégrations,,https://www.bardeen.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0323,Gumloop,Automatisation et intégrations,,https://www.gumloop.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0324,Relay.app,Automatisation et intégrations,,https://www.relay.app,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0325,Activepieces,Automatisation et intégrations,,https://www.activepieces.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0326,Latenode,Automatisation et intégrations,,https://latenode.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0327,Workato,Automatisation et intégrations,,https://www.workato.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0328,UiPath,Automatisation et intégrations,,https://www.uipath.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0329,Automation Anywhere,Automatisation et intégrations,,https://www.automationanywhere.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0330,Microsoft Power Automate,Automatisation et intégrations,,https://www.microsoft.com/power-platform/products/power-automate,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0331,IFTTT,Automatisation et intégrations,,https://ifttt.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0332,Axiom.ai,Automatisation et intégrations,,https://axiom.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0333,Browse AI,Automatisation et intégrations,,https://www.browse.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0334,Apify,Automatisation et intégrations,,https://apify.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0335,Robocorp,Automatisation et intégrations,,https://robocorp.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0336,Notion AI,Organisation et productivité,,https://www.notion.so/product/ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0337,Microsoft 365 Copilot,Organisation et productivité,,https://www.microsoft.com/microsoft-365/copilot,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0338,Gemini for Workspace,Organisation et productivité,,https://workspace.google.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0339,ClickUp Brain,Organisation et productivité,,https://clickup.com/ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0340,Coda AI,Organisation et productivité,,https://coda.io/product/ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0341,Mem,Organisation et productivité,,https://mem.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0342,Reflect,Organisation et productivité,,https://reflect.app,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0343,Tana,Organisation et productivité,,https://tana.inc,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0344,Capacities,Organisation et productivité,,https://capacities.io,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0345,Motion,Organisation et productivité,,https://www.usemotion.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0346,Reclaim AI,Organisation et productivité,,https://reclaim.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0347,Clockwise,Organisation et productivité,,https://www.getclockwise.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0348,Sunsama,Organisation et productivité,,https://www.sunsama.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0349,Read AI,Organisation et productivité,,https://www.read.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0350,Todoist Assist,Organisation et productivité,,https://todoist.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0351,Airtable AI,Organisation et productivité,,https://www.airtable.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0352,Asana AI,Organisation et productivité,,https://asana.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0353,Monday AI,Organisation et productivité,,https://monday.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0354,Slack AI,Organisation et productivité,,https://slack.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0355,Zoom AI Companion,Organisation et productivité,,https://www.zoom.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0356,Superhuman,Email et communication,,https://superhuman.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0357,Shortwave,Email et communication,,https://www.shortwave.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0358,Spark Mail,Email et communication,,https://sparkmailapp.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0359,Mailbutler,Email et communication,,https://www.mailbutler.io,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0360,SaneBox,Email et communication,,https://www.sanebox.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0361,Missive,Email et communication,,https://missiveapp.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0362,Lavender,Email et communication,,https://www.lavender.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0363,Flowrite,Email et communication,,https://www.flowrite.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0364,HubSpot AI Email,Email et communication,,https://www.hubspot.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0365,Microsoft Outlook Copilot,Email et communication,,https://www.microsoft.com/microsoft-365/outlook,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0366,Gemini in Gmail,Email et communication,,https://workspace.google.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0367,AdCreative.ai,Marketing et publicité,,https://www.adcreative.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0368,Creatify,Marketing et publicité,,https://creatify.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0369,Pencil,Marketing et publicité,,https://www.trypencil.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0370,Typeface,Marketing et publicité,,https://www.typeface.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0371,HubSpot Breeze,Marketing et publicité,"Ventes, prospection et CRM",https://www.hubspot.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0372,Mutiny,Marketing et publicité,,https://www.mutinyhq.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0373,Persado,Marketing et publicité,,https://www.persado.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0374,Phrasee,Marketing et publicité,,https://phrasee.co,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0375,Ocoya,Marketing et publicité,,https://www.ocoya.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0376,Predis.ai,Marketing et publicité,,https://predis.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0377,Lately AI,Marketing et publicité,,https://www.lately.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0378,Hootsuite OwlyWriter,Marketing et publicité,,https://www.hootsuite.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0379,Buffer AI,Marketing et publicité,,https://buffer.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0380,Lumen5,Marketing et publicité,,https://lumen5.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0381,Promo.com,Marketing et publicité,,https://promo.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0382,Semrush,SEO et visibilité IA,,https://www.semrush.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0383,Ahrefs,SEO et visibilité IA,,https://ahrefs.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0384,Surfer SEO,SEO et visibilité IA,,https://surferseo.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0385,Clearscope,SEO et visibilité IA,,https://www.clearscope.io,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0386,Frase,SEO et visibilité IA,,https://www.frase.io,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0387,MarketMuse,SEO et visibilité IA,,https://www.marketmuse.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0388,NeuronWriter,SEO et visibilité IA,,https://neuronwriter.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0389,SE Ranking,SEO et visibilité IA,,https://seranking.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0390,Outranking,SEO et visibilité IA,,https://www.outranking.io,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0391,Scalenut,SEO et visibilité IA,,https://www.scalenut.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0392,ContentShake AI,SEO et visibilité IA,,https://www.semrush.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0393,Alli AI,SEO et visibilité IA,,https://www.alliai.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0394,Rank Math,SEO et visibilité IA,,https://rankmath.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0395,Yoast SEO,SEO et visibilité IA,,https://yoast.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0396,Profound,SEO et visibilité IA,,https://www.tryprofound.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0397,Otterly.AI,SEO et visibilité IA,,https://otterly.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0398,Peec AI,SEO et visibilité IA,,https://peec.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0399,Salesforce Einstein,"Ventes, prospection et CRM",,https://www.salesforce.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0400,Gong,"Ventes, prospection et CRM",,https://www.gong.io,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0401,Clari,"Ventes, prospection et CRM",,https://www.clari.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0402,Apollo,"Ventes, prospection et CRM",,https://www.apollo.io,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0403,Clay,"Ventes, prospection et CRM",,https://www.clay.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0404,ZoomInfo Copilot,"Ventes, prospection et CRM",,https://www.zoominfo.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0405,Outreach,"Ventes, prospection et CRM",,https://www.outreach.io,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0406,Salesloft,"Ventes, prospection et CRM",,https://www.salesloft.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0407,Regie.ai,"Ventes, prospection et CRM",,https://www.regie.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0408,Conversica,"Ventes, prospection et CRM",,https://www.conversica.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0409,People.ai,"Ventes, prospection et CRM",,https://www.people.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0410,6sense,"Ventes, prospection et CRM",,https://6sense.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0411,Reply.io,"Ventes, prospection et CRM",,https://reply.io,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0412,Instantly,"Ventes, prospection et CRM",,https://instantly.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0413,Amplemarket,"Ventes, prospection et CRM",,https://www.amplemarket.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0414,Intercom Fin,Support client et chatbots,,https://www.intercom.com/fin,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0415,Zendesk AI,Support client et chatbots,,https://www.zendesk.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0416,Ada,Support client et chatbots,,https://www.ada.cx,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0417,Sierra,Support client et chatbots,,https://sierra.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0418,Decagon,Support client et chatbots,,https://decagon.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0419,Forethought,Support client et chatbots,,https://forethought.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0420,Kore.ai,Support client et chatbots,,https://kore.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0421,Cognigy,Support client et chatbots,Agents vocaux et téléphonie,https://www.cognigy.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0422,Botpress,Support client et chatbots,,https://botpress.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0423,Voiceflow,Support client et chatbots,,https://www.voiceflow.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0424,Tidio Lyro,Support client et chatbots,,https://www.tidio.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0425,Freshworks Freddy AI,Support client et chatbots,,https://www.freshworks.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0426,Gorgias,Support client et chatbots,,https://www.gorgias.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0427,Kustomer,Support client et chatbots,,https://www.kustomer.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0428,LivePerson,Support client et chatbots,,https://www.liveperson.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0429,Yellow.ai,Support client et chatbots,,https://yellow.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0430,IBM watsonx Orchestrate,Support client et chatbots,,https://www.ibm.com/products/watsonx-orchestrate,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0431,Vapi,Agents vocaux et téléphonie,,https://vapi.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0432,Retell AI,Agents vocaux et téléphonie,,https://www.retellai.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0433,Bland AI,Agents vocaux et téléphonie,,https://www.bland.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0434,Synthflow,Agents vocaux et téléphonie,,https://synthflow.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0435,Air AI,Agents vocaux et téléphonie,,https://www.air.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0436,PolyAI,Agents vocaux et téléphonie,,https://poly.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0437,ElevenLabs Conversational AI,Agents vocaux et téléphonie,,https://elevenlabs.io,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0438,LiveKit Agents,Agents vocaux et téléphonie,,https://livekit.io,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0439,Pipecat,Agents vocaux et téléphonie,,https://github.com/pipecat-ai/pipecat,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0440,Vocode,Agents vocaux et téléphonie,,https://www.vocode.dev,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0441,Twilio AI,Agents vocaux et téléphonie,,https://www.twilio.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0442,Khanmigo,Éducation et tutorat,,https://www.khanacademy.org/khan-labs,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0443,MagicSchool AI,Éducation et tutorat,,https://www.magicschool.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0444,Eduaide.AI,Éducation et tutorat,,https://www.eduaide.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0445,Brisk Teaching,Éducation et tutorat,,https://www.briskteaching.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0446,Diffit,Éducation et tutorat,,https://www.diffit.me,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0447,Curipod,Éducation et tutorat,,https://curipod.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0448,SchoolAI,Éducation et tutorat,,https://schoolai.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0449,Quizizz,Éducation et tutorat,,https://quizizz.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0450,Kahoot!,Éducation et tutorat,,https://kahoot.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0451,Quizlet,Éducation et tutorat,,https://quizlet.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0452,Socratic,Éducation et tutorat,,https://socratic.org,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0453,Photomath,Éducation et tutorat,,https://photomath.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0454,Duolingo Max,Éducation et tutorat,"Voyages, loisirs et vie quotidienne",https://www.duolingo.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0455,Speak,Éducation et tutorat,,https://www.speak.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0456,ELSA Speak,Éducation et tutorat,,https://elsaspeak.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0457,TalkPal,Éducation et tutorat,,https://talkpal.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0458,TutorAI,Éducation et tutorat,,https://www.tutorai.me,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0459,Knowt,Éducation et tutorat,,https://knowt.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0460,StudyFetch,Éducation et tutorat,,https://www.studyfetch.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0461,Julius AI,"Données, BI et analytique",,https://julius.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0462,Hex,"Données, BI et analytique",,https://hex.tech,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0463,ThoughtSpot,"Données, BI et analytique",,https://www.thoughtspot.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0464,Power BI Copilot,"Données, BI et analytique",,https://www.microsoft.com/power-platform/products/power-bi,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0465,Tableau AI,"Données, BI et analytique",,https://www.tableau.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0466,Qlik Staige,"Données, BI et analytique",,https://www.qlik.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0467,Dataiku,"Données, BI et analytique",,https://www.dataiku.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0468,Alteryx AiDIN,"Données, BI et analytique",,https://www.alteryx.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0469,Akkio,"Données, BI et analytique",,https://www.akkio.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0470,Obviously AI,"Données, BI et analytique",,https://www.obviously.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0471,Polymer,"Données, BI et analytique",,https://www.polymersearch.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0472,Rows AI,"Données, BI et analytique",,https://rows.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0473,Formula Bot,"Données, BI et analytique",,https://www.formulabot.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0474,Databricks AI/BI,"Données, BI et analytique",,https://www.databricks.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0475,Snowflake Cortex,"Données, BI et analytique",,https://www.snowflake.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0476,Pecan AI,"Données, BI et analytique",,https://www.pecan.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0477,H2O.ai,"Données, BI et analytique",,https://h2o.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0478,Nanonets,Extraction documentaire et OCR,,https://nanonets.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0479,Rossum,Extraction documentaire et OCR,,https://rossum.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0480,Veryfi,Extraction documentaire et OCR,,https://www.veryfi.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0481,Mindee,Extraction documentaire et OCR,,https://www.mindee.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0482,Docsumo,Extraction documentaire et OCR,,https://www.docsumo.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0483,Klippa,Extraction documentaire et OCR,,https://www.klippa.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0484,Azure AI Document Intelligence,Extraction documentaire et OCR,,https://azure.microsoft.com/products/ai-services/ai-document-intelligence,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0485,Google Document AI,Extraction documentaire et OCR,,https://cloud.google.com/document-ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0486,Amazon Textract,Extraction documentaire et OCR,,https://aws.amazon.com/textract,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0487,Unstructured,Extraction documentaire et OCR,"RAG, bases vectorielles et recherche",https://unstructured.io,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0488,LlamaParse,Extraction documentaire et OCR,,https://www.llamaindex.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0489,Mistral OCR,Extraction documentaire et OCR,,https://mistral.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0490,Adobe Acrobat AI Assistant,Extraction documentaire et OCR,,https://www.adobe.com/acrobat,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0491,Humata,Extraction documentaire et OCR,,https://www.humata.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0492,ChatPDF,Extraction documentaire et OCR,,https://www.chatpdf.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0493,AskYourPDF,Extraction documentaire et OCR,,https://askyourpdf.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0494,Meshy,"3D, spatial et XR",Jeux vidéo et personnages,https://www.meshy.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0495,Tripo AI,"3D, spatial et XR",,https://www.tripo3d.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0496,Rodin,"3D, spatial et XR",,https://hyper3d.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0497,Luma AI,"3D, spatial et XR",,https://lumalabs.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0498,Spline AI,"3D, spatial et XR",,https://spline.design,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0499,Kaedim,"3D, spatial et XR",,https://www.kaedim3d.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0500,Masterpiece X,"3D, spatial et XR",,https://www.masterpiecex.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0501,Scenario,"3D, spatial et XR",Jeux vidéo et personnages,https://www.scenario.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0502,Blockade Labs Skybox,"3D, spatial et XR",,https://www.blockadelabs.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0503,Polycam,"3D, spatial et XR",,https://poly.cam,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0504,RealityScan,"3D, spatial et XR",,https://www.realityscan.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0505,3DFY.ai,"3D, spatial et XR",,https://3dfy.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0506,CSM AI,"3D, spatial et XR",,https://www.csm.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0507,World Labs,"3D, spatial et XR",,https://www.worldlabs.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0508,Gaussian Splatting,"3D, spatial et XR",,https://github.com/graphdeco-inria/gaussian-splatting,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0509,Nerfstudio,"3D, spatial et XR",,https://docs.nerf.studio,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0510,Wonder Studio,"3D, spatial et XR",,https://wonderdynamics.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0511,Interior AI,"Architecture, immobilier et intérieur",,https://interiorai.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0512,RoomGPT,"Architecture, immobilier et intérieur",,https://www.roomgpt.io,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0513,REimagineHome,"Architecture, immobilier et intérieur",,https://www.reimaginehome.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0514,Homestyler,"Architecture, immobilier et intérieur",,https://www.homestyler.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0515,Planner 5D,"Architecture, immobilier et intérieur",,https://planner5d.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0516,Coohom,"Architecture, immobilier et intérieur",,https://www.coohom.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0517,Foyr Neo,"Architecture, immobilier et intérieur",,https://foyr.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0518,LookX AI,"Architecture, immobilier et intérieur",,https://www.lookx.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0519,Maket,"Architecture, immobilier et intérieur",,https://www.maket.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0520,TestFit,"Architecture, immobilier et intérieur",,https://www.testfit.io,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0521,Autodesk Forma,"Architecture, immobilier et intérieur",,https://www.autodesk.com/products/forma,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0522,Veras,"Architecture, immobilier et intérieur",,https://www.evolvelab.io/veras,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0523,Virtual Staging AI,"Architecture, immobilier et intérieur",,https://www.virtualstagingai.app,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0524,Restb.ai,"Architecture, immobilier et intérieur",,https://restb.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0525,Matterport,"Architecture, immobilier et intérieur",,https://matterport.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0526,Inworld AI,Jeux vidéo et personnages,,https://inworld.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0527,Convai,Jeux vidéo et personnages,,https://convai.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0528,Ludo.ai,Jeux vidéo et personnages,,https://ludo.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0529,Rosebud AI,Jeux vidéo et personnages,,https://rosebud.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0530,Layer AI,Jeux vidéo et personnages,,https://www.layer.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0531,Ready Player Me,Jeux vidéo et personnages,,https://readyplayer.me,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0532,Charisma AI,Jeux vidéo et personnages,,https://charisma.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0533,Replica Studios,Jeux vidéo et personnages,,https://replicastudios.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0534,Unity Muse,Jeux vidéo et personnages,,https://unity.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0535,NVIDIA ACE,Jeux vidéo et personnages,,https://developer.nvidia.com/ace,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0536,OpenEvidence,Santé et médecine,,https://www.openevidence.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0537,Abridge,Santé et médecine,,https://www.abridge.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0538,Nuance Dragon Copilot,Santé et médecine,,https://www.microsoft.com/health-solutions,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0539,Ambience Healthcare,Santé et médecine,,https://www.ambiencehealthcare.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0540,Suki,Santé et médecine,,https://www.suki.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0541,Nabla,Santé et médecine,,https://www.nabla.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0542,Heidi Health,Santé et médecine,,https://www.heidihealth.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0543,Aidoc,Santé et médecine,,https://www.aidoc.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0544,Viz.ai,Santé et médecine,,https://www.viz.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0545,Tempus,Santé et médecine,,https://www.tempus.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0546,PathAI,Santé et médecine,,https://www.pathai.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0547,Qure.ai,Santé et médecine,,https://www.qure.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0548,Lunit,Santé et médecine,,https://www.lunit.io,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0549,Ada Health,Santé et médecine,,https://ada.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0550,Buoy Health,Santé et médecine,,https://www.buoyhealth.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0551,Insilico Medicine,Santé et médecine,,https://insilico.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0552,Isomorphic Labs,Santé et médecine,,https://www.isomorphiclabs.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0553,Harvey,Droit et conformité,,https://www.harvey.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0554,Thomson Reuters CoCounsel,Droit et conformité,,https://www.thomsonreuters.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0555,Lexis+ AI,Droit et conformité,,https://www.lexisnexis.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0556,vLex Vincent AI,Droit et conformité,,https://vlex.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0557,Spellbook,Droit et conformité,,https://www.spellbook.legal,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0558,Luminance,Droit et conformité,,https://www.luminance.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0559,Robin AI,Droit et conformité,,https://www.robinai.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0560,Lawgeex,Droit et conformité,,https://www.lawgeex.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0561,Evisort,Droit et conformité,,https://www.evisort.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0562,Ironclad AI,Droit et conformité,,https://ironcladapp.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0563,ContractPodAi,Droit et conformité,,https://contractpodai.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0564,Paxton AI,Droit et conformité,,https://www.paxton.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0565,EvenUp,Droit et conformité,,https://www.evenuplaw.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0566,CaseText,Droit et conformité,,https://casetext.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0567,Ramp,"Finance, comptabilité et assurance",,https://ramp.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0568,Brex,"Finance, comptabilité et assurance",,https://www.brex.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0569,Vic.ai,"Finance, comptabilité et assurance",,https://www.vic.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0570,Dext,"Finance, comptabilité et assurance",,https://dext.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0571,Botkeeper,"Finance, comptabilité et assurance",,https://www.botkeeper.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0572,FloQast,"Finance, comptabilité et assurance",,https://floqast.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0573,BlackLine,"Finance, comptabilité et assurance",,https://www.blackline.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0574,HighRadius,"Finance, comptabilité et assurance",,https://www.highradius.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0575,Kavout,"Finance, comptabilité et assurance",,https://www.kavout.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0576,AlphaSense,"Finance, comptabilité et assurance",,https://www.alpha-sense.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0577,FinChat,"Finance, comptabilité et assurance",,https://finchat.io,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0578,FiscalNote,"Finance, comptabilité et assurance",,https://fiscalnote.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0579,Hebbia,"Finance, comptabilité et assurance",,https://www.hebbia.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0580,Zest AI,"Finance, comptabilité et assurance",,https://www.zest.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0581,Shift Technology,"Finance, comptabilité et assurance",,https://www.shift-technology.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0582,Tractable,"Finance, comptabilité et assurance",,https://tractable.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0583,Eightfold AI,"RH, recrutement et carrières",,https://eightfold.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0584,HireVue,"RH, recrutement et carrières",,https://www.hirevue.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0585,Paradox,"RH, recrutement et carrières",,https://www.paradox.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0586,Textio,"RH, recrutement et carrières",,https://textio.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0587,SeekOut,"RH, recrutement et carrières",,https://www.seekout.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0588,Humanly,"RH, recrutement et carrières",,https://humanly.io,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0589,Workable AI,"RH, recrutement et carrières",,https://www.workable.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0590,Ashby,"RH, recrutement et carrières",,https://www.ashbyhq.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0591,Beamery,"RH, recrutement et carrières",,https://beamery.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0592,Phenom,"RH, recrutement et carrières",,https://www.phenom.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0593,Teal,"RH, recrutement et carrières",,https://www.tealhq.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0594,Rezi,"RH, recrutement et carrières",,https://www.rezi.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0595,Kickresume,"RH, recrutement et carrières",,https://www.kickresume.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0596,Enhancv,"RH, recrutement et carrières",,https://enhancv.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0597,Jobscan,"RH, recrutement et carrières",,https://www.jobscan.co,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0598,Final Round AI,"RH, recrutement et carrières",,https://www.finalroundai.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0599,Microsoft Security Copilot,Cybersécurité et détection,,https://www.microsoft.com/security/business/ai-machine-learning/microsoft-security-copilot,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0600,CrowdStrike Charlotte AI,Cybersécurité et détection,,https://www.crowdstrike.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0601,SentinelOne Purple AI,Cybersécurité et détection,,https://www.sentinelone.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0602,Darktrace,Cybersécurité et détection,,https://darktrace.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0603,Vectra AI,Cybersécurité et détection,,https://www.vectra.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0604,Abnormal AI,Cybersécurité et détection,,https://abnormal.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0605,Snyk DeepCode,Cybersécurité et détection,,https://snyk.io,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0606,Wiz,Cybersécurité et détection,,https://www.wiz.io,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0607,Protect AI,Cybersécurité et détection,,https://protectai.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0608,Lakera Guard,Cybersécurité et détection,"Prompts, tests et red teaming",https://www.lakera.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0609,HiddenLayer,Cybersécurité et détection,,https://hiddenlayer.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0610,Prompt Security,Cybersécurité et détection,,https://www.prompt.security,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0611,Robust Intelligence,Cybersécurité et détection,,https://www.robustintelligence.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0612,Palo Alto Cortex XSIAM,Cybersécurité et détection,,https://www.paloaltonetworks.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0613,Reality Defender,Cybersécurité et détection,Détection IA et authenticité,https://www.realitydefender.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0614,Hive Moderation,Cybersécurité et détection,,https://thehive.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0615,GPTZero,Détection IA et authenticité,,https://gptzero.me,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0616,Originality.ai,Détection IA et authenticité,,https://originality.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0617,Copyleaks,Détection IA et authenticité,,https://copyleaks.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0618,Turnitin,Détection IA et authenticité,,https://www.turnitin.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0619,Winston AI,Détection IA et authenticité,,https://gowinston.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0620,ZeroGPT,Détection IA et authenticité,,https://www.zerogpt.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0621,Sightengine,Détection IA et authenticité,,https://sightengine.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0622,Hive AI,Détection IA et authenticité,,https://thehive.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0623,Truepic,Détection IA et authenticité,,https://www.truepic.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0624,Content Credentials,Détection IA et authenticité,,https://contentcredentials.org,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0625,C2PA,Détection IA et authenticité,,https://c2pa.org,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0626,AI or Not,Détection IA et authenticité,,https://www.aiornot.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0627,Shopify Magic,E-commerce et retail,,https://www.shopify.com/magic,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0628,Shopify Sidekick,E-commerce et retail,,https://www.shopify.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0629,Klaviyo AI,E-commerce et retail,,https://www.klaviyo.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0630,Octane AI,E-commerce et retail,,https://www.octaneai.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0631,Nosto,E-commerce et retail,,https://www.nosto.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0632,Bloomreach,E-commerce et retail,,https://www.bloomreach.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0633,Algolia,E-commerce et retail,,https://www.algolia.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0634,Constructor,E-commerce et retail,,https://constructor.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0635,Dynamic Yield,E-commerce et retail,,https://www.dynamicyield.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0636,Syte,E-commerce et retail,,https://www.syte.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0637,ViSenze,E-commerce et retail,,https://www.visenze.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0638,Rebuy,E-commerce et retail,,https://www.rebuyengine.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0639,Rep AI,E-commerce et retail,,https://www.hellorep.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0640,Yotpo,E-commerce et retail,,https://www.yotpo.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0641,Lily AI,E-commerce et retail,,https://www.lily.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0642,OpenAI API,"LLM, modèles et fournisseurs",,https://platform.openai.com,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0643,Anthropic API,"LLM, modèles et fournisseurs",,https://console.anthropic.com,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0644,Google Gemini API,"LLM, modèles et fournisseurs",,https://ai.google.dev,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0645,Google Vertex AI,"LLM, modèles et fournisseurs",,https://cloud.google.com/vertex-ai,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0646,Mistral AI,"LLM, modèles et fournisseurs",,https://mistral.ai,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0647,Meta Llama,"LLM, modèles et fournisseurs",,https://www.llama.com,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0648,DeepSeek,"LLM, modèles et fournisseurs",,https://www.deepseek.com,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0649,Qwen,"LLM, modèles et fournisseurs",,https://qwenlm.github.io,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0650,Cohere,"LLM, modèles et fournisseurs",,https://cohere.com,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0651,AI21 Labs,"LLM, modèles et fournisseurs",,https://www.ai21.com,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0652,Amazon Bedrock,"LLM, modèles et fournisseurs",,https://aws.amazon.com/bedrock,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0653,Azure AI Foundry,"LLM, modèles et fournisseurs",,https://ai.azure.com,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0654,IBM watsonx.ai,"LLM, modèles et fournisseurs",,https://www.ibm.com/products/watsonx-ai,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0655,Hugging Face,"LLM, modèles et fournisseurs",,https://huggingface.co,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0656,Together AI,"LLM, modèles et fournisseurs",,https://www.together.ai,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0657,Fireworks AI,"LLM, modèles et fournisseurs",,https://fireworks.ai,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0658,GroqCloud,"LLM, modèles et fournisseurs",,https://groq.com,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0659,Cerebras Inference,"LLM, modèles et fournisseurs",,https://www.cerebras.ai,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0660,Replicate,"LLM, modèles et fournisseurs",,https://replicate.com,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0661,fal.ai,"LLM, modèles et fournisseurs",,https://fal.ai,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0662,OpenRouter,"LLM, modèles et fournisseurs",,https://openrouter.ai,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0663,DeepInfra,"LLM, modèles et fournisseurs",,https://deepinfra.com,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0664,SambaNova Cloud,"LLM, modèles et fournisseurs",,https://cloud.sambanova.ai,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0665,NVIDIA NIM,"LLM, modèles et fournisseurs",,https://build.nvidia.com,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0666,Ollama,"IA locale, inference et déploiement",,https://ollama.com,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0667,LM Studio,"IA locale, inference et déploiement",,https://lmstudio.ai,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0668,Jan,"IA locale, inference et déploiement",,https://jan.ai,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0669,GPT4All,"IA locale, inference et déploiement",,https://www.nomic.ai/gpt4all,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0670,Open WebUI,"IA locale, inference et déploiement",,https://openwebui.com,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0671,AnythingLLM,"IA locale, inference et déploiement",,https://anythingllm.com,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0672,LocalAI,"IA locale, inference et déploiement",,https://localai.io,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0673,llama.cpp,"IA locale, inference et déploiement",,https://github.com/ggml-org/llama.cpp,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0674,vLLM,"IA locale, inference et déploiement",,https://vllm.ai,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0675,SGLang,"IA locale, inference et déploiement",,https://github.com/sgl-project/sglang,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0676,TensorRT-LLM,"IA locale, inference et déploiement",,https://github.com/NVIDIA/TensorRT-LLM,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0677,Text Generation Inference,"IA locale, inference et déploiement",,https://github.com/huggingface/text-generation-inference,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0678,llamafile,"IA locale, inference et déploiement",,https://github.com/Mozilla-Ocho/llamafile,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0679,MLX,"IA locale, inference et déploiement",,https://github.com/ml-explore/mlx,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0680,ONNX Runtime,"IA locale, inference et déploiement",,https://onnxruntime.ai,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0681,OpenVINO,"IA locale, inference et déploiement","Vision, robotique et edge AI",https://www.intel.com/content/www/us/en/developer/tools/openvino-toolkit/overview.html,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0682,BentoML,"IA locale, inference et déploiement",,https://www.bentoml.com,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0683,Ray Serve,"IA locale, inference et déploiement",,https://docs.ray.io/en/latest/serve/index.html,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0684,KServe,"IA locale, inference et déploiement",,https://kserve.github.io/website,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0685,Modal,"IA locale, inference et déploiement",,https://modal.com,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0686,RunPod,"IA locale, inference et déploiement",,https://www.runpod.io,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0687,Pinecone,"RAG, bases vectorielles et recherche",,https://www.pinecone.io,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0688,Weaviate,"RAG, bases vectorielles et recherche",,https://weaviate.io,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0689,Qdrant,"RAG, bases vectorielles et recherche",,https://qdrant.tech,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0690,Milvus,"RAG, bases vectorielles et recherche",,https://milvus.io,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0691,Chroma,"RAG, bases vectorielles et recherche",,https://www.trychroma.com,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0692,FAISS,"RAG, bases vectorielles et recherche",,https://github.com/facebookresearch/faiss,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0693,LanceDB,"RAG, bases vectorielles et recherche",,https://lancedb.com,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0694,Vespa,"RAG, bases vectorielles et recherche",,https://vespa.ai,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0695,Elasticsearch,"RAG, bases vectorielles et recherche",,https://www.elastic.co/elasticsearch,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0696,OpenSearch,"RAG, bases vectorielles et recherche",,https://opensearch.org,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0697,Redis Vector Search,"RAG, bases vectorielles et recherche",,https://redis.io,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0698,pgvector,"RAG, bases vectorielles et recherche",,https://github.com/pgvector/pgvector,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0699,Haystack,"RAG, bases vectorielles et recherche",,https://haystack.deepset.ai,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0700,RAGFlow,"RAG, bases vectorielles et recherche",,https://ragflow.io,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0701,GraphRAG,"RAG, bases vectorielles et recherche",,https://github.com/microsoft/graphrag,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0702,Neo4j GraphRAG,"RAG, bases vectorielles et recherche",,https://neo4j.com,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0703,Weights & Biases,"MLOps, suivi et évaluation",,https://wandb.ai,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0704,MLflow,"MLOps, suivi et évaluation",,https://mlflow.org,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0705,LangSmith,"MLOps, suivi et évaluation","Prompts, tests et red teaming",https://smith.langchain.com,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0706,Langfuse,"MLOps, suivi et évaluation","Prompts, tests et red teaming",https://langfuse.com,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0707,Arize Phoenix,"MLOps, suivi et évaluation",,https://phoenix.arize.com,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0708,Arize AI,"MLOps, suivi et évaluation",,https://arize.com,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0709,Helicone,"MLOps, suivi et évaluation",,https://www.helicone.ai,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0710,Braintrust,"MLOps, suivi et évaluation","Prompts, tests et red teaming",https://www.braintrust.dev,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0711,Humanloop,"MLOps, suivi et évaluation","Prompts, tests et red teaming",https://humanloop.com,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0712,PromptLayer,"MLOps, suivi et évaluation","Prompts, tests et red teaming",https://www.promptlayer.com,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0713,TruLens,"MLOps, suivi et évaluation",,https://www.trulens.org,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0714,Ragas,"MLOps, suivi et évaluation",,https://docs.ragas.io,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0715,DeepEval,"MLOps, suivi et évaluation",,https://www.confident-ai.com,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0716,Giskard,"MLOps, suivi et évaluation","Prompts, tests et red teaming",https://www.giskard.ai,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0717,Evidently AI,"MLOps, suivi et évaluation",,https://www.evidentlyai.com,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0718,Fiddler AI,"MLOps, suivi et évaluation",,https://www.fiddler.ai,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0719,Comet,"MLOps, suivi et évaluation",,https://www.comet.com,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0720,Neptune.ai,"MLOps, suivi et évaluation",,https://neptune.ai,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0721,DVC,"MLOps, suivi et évaluation",,https://dvc.org,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0722,ClearML,"MLOps, suivi et évaluation",,https://clear.ml,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0723,Label Studio,"Données, annotation et entraînement",,https://labelstud.io,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0724,Labelbox,"Données, annotation et entraînement",,https://labelbox.com,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0725,Scale AI,"Données, annotation et entraînement",,https://scale.com,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0726,Snorkel AI,"Données, annotation et entraînement",,https://snorkel.ai,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0727,Argilla,"Données, annotation et entraînement",,https://argilla.io,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0728,Roboflow,"Données, annotation et entraînement","Vision, robotique et edge AI",https://roboflow.com,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0729,SuperAnnotate,"Données, annotation et entraînement",,https://www.superannotate.com,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0730,Encord,"Données, annotation et entraînement",,https://encord.com,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0731,V7 Darwin,"Données, annotation et entraînement",,https://www.v7labs.com,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0732,CVAT,"Données, annotation et entraînement",,https://www.cvat.ai,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0733,Prodigy,"Données, annotation et entraînement",,https://prodi.gy,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0734,Hugging Face Datasets,"Données, annotation et entraînement",,https://huggingface.co/datasets,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0735,Hugging Face TRL,"Données, annotation et entraînement",,https://huggingface.co/docs/trl,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0736,Axolotl,"Données, annotation et entraînement",,https://github.com/axolotl-ai-cloud/axolotl,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0737,Unsloth,"Données, annotation et entraînement",,https://unsloth.ai,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0738,LLaMA-Factory,"Données, annotation et entraînement",,https://github.com/hiyouga/LLaMA-Factory,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0739,PEFT,"Données, annotation et entraînement",,https://huggingface.co/docs/peft,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0740,DeepSpeed,"Données, annotation et entraînement",,https://www.deepspeed.ai,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0741,PyTorch,"Données, annotation et entraînement",,https://pytorch.org,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0742,TensorFlow,"Données, annotation et entraînement",,https://www.tensorflow.org,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0743,Ultralytics YOLO,"Vision, robotique et edge AI",,https://www.ultralytics.com,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0744,OpenCV,"Vision, robotique et edge AI",,https://opencv.org,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0745,MediaPipe,"Vision, robotique et edge AI",,https://ai.google.dev/edge/mediapipe/solutions/guide,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0746,NVIDIA Isaac,"Vision, robotique et edge AI",,https://developer.nvidia.com/isaac,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0747,NVIDIA Jetson AI,"Vision, robotique et edge AI",,https://developer.nvidia.com/embedded-computing,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0748,ROS,"Vision, robotique et edge AI",,https://www.ros.org,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0749,Hugging Face LeRobot,"Vision, robotique et edge AI",,https://github.com/huggingface/lerobot,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0750,Edge Impulse,"Vision, robotique et edge AI",,https://edgeimpulse.com,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0751,Landing AI,"Vision, robotique et edge AI",,https://landing.ai,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0752,Clarifai,"Vision, robotique et edge AI",,https://www.clarifai.com,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0753,Google Cloud Vision AI,"Vision, robotique et edge AI",,https://cloud.google.com/vision,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0754,Amazon Rekognition,"Vision, robotique et edge AI",,https://aws.amazon.com/rekognition,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0755,Azure AI Vision,"Vision, robotique et edge AI",,https://azure.microsoft.com/products/ai-services/ai-vision,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0756,Supervisely,"Vision, robotique et edge AI",,https://supervisely.com,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0757,Plantix,"Agriculture, climat et géospatial",,https://plantix.net,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0758,Cropin,"Agriculture, climat et géospatial",,https://www.cropin.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0759,Taranis,"Agriculture, climat et géospatial",,https://www.taranis.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0760,Prospera,"Agriculture, climat et géospatial",,https://prospera.ag,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0761,OneSoil,"Agriculture, climat et géospatial",,https://onesoil.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0762,Climate FieldView,"Agriculture, climat et géospatial",,https://climatefieldview.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0763,EOSDA Crop Monitoring,"Agriculture, climat et géospatial",,https://eos.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0764,Satellier,"Agriculture, climat et géospatial",,,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0765,Descartes Labs,"Agriculture, climat et géospatial",,https://descarteslabs.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0766,Planet Labs,"Agriculture, climat et géospatial",,https://www.planet.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0767,Google Earth Engine,"Agriculture, climat et géospatial",,https://earthengine.google.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0768,Tomorrow.io,"Agriculture, climat et géospatial",,https://www.tomorrow.io,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0769,Jupiter Intelligence,"Agriculture, climat et géospatial",,https://jupiterintel.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0770,Pachama,"Agriculture, climat et géospatial",,https://pachama.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0771,Mindtrip,"Voyages, loisirs et vie quotidienne",,https://mindtrip.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0772,Layla,"Voyages, loisirs et vie quotidienne",,https://layla.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0773,Wonderplan,"Voyages, loisirs et vie quotidienne",,https://wonderplan.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0774,GuideGeek,"Voyages, loisirs et vie quotidienne",,https://guidegeek.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0775,Vacay,"Voyages, loisirs et vie quotidienne",,https://www.usevacay.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0776,Roam Around,"Voyages, loisirs et vie quotidienne",,https://www.roamaround.io,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0777,Trip Planner AI,"Voyages, loisirs et vie quotidienne",,https://tripplanner.ai,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0778,Wanderlog,"Voyages, loisirs et vie quotidienne",,https://wanderlog.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0779,Google Maps Gemini,"Voyages, loisirs et vie quotidienne",,https://maps.google.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0780,Yummly,"Voyages, loisirs et vie quotidienne",,https://www.yummly.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0781,ChefGPT,"Voyages, loisirs et vie quotidienne",,https://www.chefgpt.xyz,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0782,Goblin.tools,"Voyages, loisirs et vie quotidienne",,https://goblin.tools,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0783,Be My Eyes,"Voyages, loisirs et vie quotidienne",,https://www.bemyeyes.com,Application / service,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0784,Promptfoo,"Prompts, tests et red teaming",,https://www.promptfoo.dev,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0785,Portkey,"Prompts, tests et red teaming",,https://portkey.ai,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0786,OpenAI Evals,"Prompts, tests et red teaming",,https://github.com/openai/evals,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0787,Inspect AI,"Prompts, tests et red teaming",,https://inspect.aisi.org.uk,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0788,Garak,"Prompts, tests et red teaming",,https://github.com/NVIDIA/garak,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0789,PyRIT,"Prompts, tests et red teaming",,https://github.com/Azure/PyRIT,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0790,PromptPerfect,"Prompts, tests et red teaming",,https://promptperfect.jina.ai,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0791,AIPRM,"Prompts, tests et red teaming",,https://www.aiprm.com,Technologie / plateforme / logiciel,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0792,There’s An AI For That,Annuaires et plateformes de découverte,,https://theresanaiforthat.com,Annuaire,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0793,Futurepedia,Annuaires et plateformes de découverte,,https://www.futurepedia.io,Annuaire,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0794,Toolify,Annuaires et plateformes de découverte,,https://www.toolify.ai,Annuaire,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0795,AIxploria,Annuaires et plateformes de découverte,,https://www.aixploria.com,Annuaire,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0796,FutureTools,Annuaires et plateformes de découverte,,https://www.futuretools.io,Annuaire,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0797,TopAI.tools,Annuaires et plateformes de découverte,,https://topai.tools,Annuaire,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0798,Hugging Face Spaces,Annuaires et plateformes de découverte,,https://huggingface.co/spaces,Annuaire,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0799,Product Hunt AI,Annuaires et plateformes de découverte,,https://www.producthunt.com,Annuaire,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0800,AI Tools Radar,Annuaires et plateformes de découverte,,https://aitoolsradar.com/en/tools,Annuaire,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0801,FutureToolAI,Annuaires et plateformes de découverte,,https://futuretoolai.com/ai-tools,Annuaire,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0802,NAVS AI,Annuaires et plateformes de découverte,,https://navs.site/discover-ai,Annuaire,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0803,allAilists,Annuaires et plateformes de découverte,,https://allailists.com,Annuaire,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0804,ExploreAI Directory,Annuaires et plateformes de découverte,,https://www.exploreai.directory/tools,Annuaire,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0805,CuratedAI,Annuaires et plateformes de découverte,,https://www.curatedai.net/directory,Annuaire,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0806,HuntScreens,Annuaires et plateformes de découverte,,https://huntscreens.com/featured,Annuaire,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0807,The AI Tool Bible,Annuaires et plateformes de découverte,,https://theaitoolbible.com,Annuaire,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
+AI-0808,AI Gear Base,Annuaires et plateformes de découverte,,https://aigearbase.com,Annuaire,Lien non contrôlé individuellement,https://allailists.com/,2026-11-15
