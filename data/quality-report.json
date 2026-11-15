@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-15T17:08:02.963435+00:00",
+  "generatedAt": "2026-11-15T21:33:00Z",
   "source": "sources/atlas_outils_ia_2026.csv",
-  "total": 808,
-  "categories": 50,
-  "toolsWithUrl": 805,
+  "total": 909,
+  "categories": 55,
+  "toolsWithUrl": 906,
   "missingUrls": [
     {
       "id": "AI-0185",
@@ -120,15 +120,42 @@
   ],
   "invalidUrls": [],
   "individuallyVerified": 0,
-  "descriptionsPresent": 209,
+  "descriptionsPresent": 310,
   "pricingVerified": 32,
-  "editorialReviewPending": 209,
+  "editorialReviewPending": 310,
   "nameDuplicates": [],
-  "deepProfiles": 69,
-  "deepProfilesOfficialSourceReviewed": 69,
+  "deepProfiles": 78,
+  "deepProfilesOfficialSourceReviewed": 78,
   "discontinuedProductsFlagged": [
     "Sora"
   ],
   "deepResearchDate": "2026-11-15",
-  "researchScope": "Vendor pages/documentation, not end-to-end product testing; claims require verification at time of use."
+  "researchScope": "Official product sources for 78 in-depth dossiers; other entries are editorial summaries of vendor offerings and must not be treated as independent product testing.",
+  "agentExpansion": {
+    "date": "2026-11-15",
+    "newAgentRecords": 101,
+    "sections": [
+      {
+        "name": "Agents IA personnels et proactifs",
+        "count": 19
+      },
+      {
+        "name": "Agents Web et navigateurs autonomes",
+        "count": 14
+      },
+      {
+        "name": "Agents IA de programmation",
+        "count": 18
+      },
+      {
+        "name": "Agents IA métiers et entreprises",
+        "count": 27
+      },
+      {
+        "name": "Plateformes de création d'agents IA",
+        "count": 23
+      }
+    ],
+    "description": "Vendor-referenced inventory, not an exhaustive census; 9 dossiers reviewed from official resources; other new entries are editorial summaries."
+  }
 }

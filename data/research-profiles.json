@@ -3249,5 +3249,413 @@
     "reviewedAt": "2026-11-15",
     "status": "documented",
     "evidence": "official"
+  },
+  "Muse (Meta)": {
+    "headline": "Agent personnel proactif de Meta utilisant un ordinateur virtuel sécurisé, un navigateur et des connecteurs.",
+    "audiences": [
+      "Particuliers souhaitant déléguer des tâches numériques",
+      "Utilisateurs à l'aise avec les autorisations d'accès aux services"
+    ],
+    "cases": [
+      "Organiser des rendez-vous et suivre des objectifs",
+      "Préparer des achats, documents et démarches Web",
+      "Utiliser des applications connectées sous contrôle utilisateur"
+    ],
+    "advantages": [
+      "Actions multiétapes et suivi de tâches en arrière-plan",
+      "Ordinateur dédié Muse Secure VM",
+      "Validations et historique d'activités annoncés"
+    ],
+    "limits": [
+      "Déploiement et langues limités selon pays",
+      "Les actions sensibles demandent une surveillance de l'utilisateur",
+      "L'exécution sur le Web peut échouer ou rencontrer des interfaces inconnues"
+    ],
+    "gettingStarted": [
+      "Vérifier la disponibilité géographique et l'âge requis sur le site Muse.",
+      "Créer votre compte et examiner les autorisations avant de connecter des applications.",
+      "Commencer par une tâche non sensible; vérifier l'historique et les demandes d'approbation."
+    ],
+    "examples": [
+      "Recherche trois options de rendez-vous la semaine prochaine et demande ma validation avant réservation.",
+      "Organise les étapes d'un projet personnel et propose un suivi hebdomadaire."
+    ],
+    "pricing": "Usage gratuit limité puis abonnements payants; disponibilité et plafonds à vérifier sur la page officielle.",
+    "privacy": "Meta annonce stockage protégé des identifiants, validation des actions sensibles, historique et paramétrage des autorisations. Examiner les conditions en vigueur avant de connecter des comptes.",
+    "selection": [
+      "Intéressant pour des tâches personnelles et démarches Web répétitives.",
+      "Préférer un agent local si le contrôle des données et des identifiants prime."
+    ],
+    "sources": [
+      {
+        "url": "https://ai.meta.com/muse/",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      },
+      {
+        "url": "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official"
+  },
+  "Dots (OpenAI)": {
+    "headline": "Agents personnels permanents d'OpenAI qui font avancer des projets avec leur propre ordinateur cloud.",
+    "audiences": [
+      "Professionnels ayant des projets réguliers",
+      "Développeurs, chercheurs et équipes éligibles"
+    ],
+    "cases": [
+      "Suivre des projets entre les conversations",
+      "Effectuer des recherches récurrentes à partir de sources connectées",
+      "Préparer des documents ou modifications de logiciels à revoir"
+    ],
+    "advantages": [
+      "Mémoire de contexte et travail au long cours",
+      "Ordinateur cloud distinct; connecteurs d'applications",
+      "Contrôles de permissions, règles personnalisées et supervision"
+    ],
+    "limits": [
+      "Éligibilité et déploiement limités selon le pays et le forfait",
+      "Accès à certaines applications soumis aux permissions et limites",
+      "Les tâches demandant des décisions importantes doivent être supervisées"
+    ],
+    "gettingStarted": [
+      "Vérifier les forfaits et pays éligibles sur le Centre d'aide OpenAI.",
+      "Créer un dot dans ChatGPT sur bureau ou Web.",
+      "Connecter les services strictement nécessaires et définir les règles d'approbation."
+    ],
+    "examples": [
+      "Suis l'évolution de mon projet, résume les nouveautés et prépare les points à arbitrer.",
+      "Analyse ces demandes clients chaque semaine et propose des correctifs sans publier sans mon accord."
+    ],
+    "pricing": "Disponible selon éligibilité notamment sur certains forfaits Pro et professionnels; dot initial et allocations de travail selon l'offre.",
+    "privacy": "Chaque dot utilise un ordinateur cloud séparé; contrôle des connexions, règles d'autorisation et suivi de l'activité. Vérifier les options de protection et de conservation propres au compte.",
+    "selection": [
+      "Convient au travail récurrent avec un contexte accumulé.",
+      "Vérifier l'accès réel depuis votre pays et votre abonnement avant de planifier son utilisation."
+    ],
+    "sources": [
+      {
+        "url": "https://openai.com/index/introducing-dots/",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      },
+      {
+        "url": "https://help.openai.com/en/articles/20001530-getting-started-with-your-dot",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official"
+  },
+  "Gemini Spark": {
+    "headline": "Agent personnel de Google au sein de Gemini pour des tâches prolongées entre fichiers et Workspace.",
+    "audiences": [
+      "Utilisateurs de Google Workspace",
+      "Personnes recherchant l'automatisation de tâches numériques"
+    ],
+    "cases": [
+      "Préparer des documents à partir de fichiers autorisés",
+      "Effectuer des workflows Workspace",
+      "Organiser des dossiers et projets sur appareils compatibles"
+    ],
+    "advantages": [
+      "Intégration à l'écosystème Google",
+      "Fonctions orientées tâches et fichiers"
+    ],
+    "limits": [
+      "Déploiement progressif et disponibilité régionale",
+      "Certaines fonctions exigent un abonnement ou un appareil pris en charge"
+    ],
+    "gettingStarted": [
+      "Consulter les notes de version de Gemini et l'accès à Spark sur le compte."
+    ],
+    "examples": [
+      "Classe les notes autorisées de ce projet et propose un résumé."
+    ],
+    "pricing": "Disponibilité selon forfaits Gemini, notamment Google AI Ultra pour certains accès; détails régionaux à vérifier.",
+    "privacy": "Vérifier les autorisations Google Workspace et l'accès aux fichiers avant de confier une tâche.",
+    "selection": [
+      "Pertinent pour les utilisateurs de l'écosystème Google."
+    ],
+    "sources": [
+      {
+        "url": "https://gemini.google.com/updates",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official"
+  },
+  "ChatGPT agent": {
+    "headline": "Mode agent de ChatGPT pour déléguer des opérations sur des sites et applications.",
+    "audiences": [
+      "Utilisateurs ChatGPT éligibles",
+      "Professionnels souhaitant automatiser des démarches ponctuelles"
+    ],
+    "cases": [
+      "Rechercher et comparer des offres",
+      "Exécuter des démarches Web avec vérification humaine"
+    ],
+    "advantages": [
+      "Navigation et outils de ChatGPT",
+      "Capacité à enchaîner des étapes"
+    ],
+    "limits": [
+      "Certaines actions demandent une approbation",
+      "Disponibilité et quotas variables selon abonnement"
+    ],
+    "gettingStarted": [
+      "Consulter l'option agent de votre ChatGPT et vérifier la prise en charge."
+    ],
+    "examples": [
+      "Recherche des offres, compare-les et montre-moi les étapes à valider."
+    ],
+    "pricing": "Selon plan ChatGPT; vérifier les limites actuelles.",
+    "privacy": "Contrôler les sites autorisés et confirmer les actions sensibles.",
+    "selection": [
+      "Pour des tâches Web occasionnelles, avec supervision."
+    ],
+    "sources": [
+      {
+        "url": "https://help.openai.com/en/articles/11752874-chatgpt-agent",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official"
+  },
+  "Claude Cowork": {
+    "headline": "Environnement agentique d'Anthropic pour prendre en charge des tâches complexes de travail.",
+    "audiences": [
+      "Professionnels et équipes",
+      "Utilisateurs de Claude avec plan éligible"
+    ],
+    "cases": [
+      "Organiser des fichiers et préparer des livrables",
+      "Exécuter un workflow avec connecteurs et navigateur"
+    ],
+    "advantages": [
+      "Utilisation de fichiers et connecteurs",
+      "Travail dans navigateur ou ordinateur selon permissions",
+      "Activités consultables et reprenables"
+    ],
+    "limits": [
+      "Disponibilité variable par plan et plateforme",
+      "Usage de l'ordinateur comporte des risques et nécessite surveillance"
+    ],
+    "gettingStarted": [
+      "Activer Cowork sur un forfait compatible.",
+      "Délimiter fichiers, dossiers et connexions autorisés."
+    ],
+    "examples": [
+      "Classe ces comptes rendus et prépare une synthèse structurée."
+    ],
+    "pricing": "Accessible sur des forfaits payants Claude, selon les conditions et plateformes.",
+    "privacy": "Contrôler les permissions de fichiers et d'ordinateur; éviter les données sensibles sans garanties adaptées.",
+    "selection": [
+      "Pertinent pour les tâches de bureau et la création de livrables."
+    ],
+    "sources": [
+      {
+        "url": "https://claude.com/product/cowork",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      },
+      {
+        "url": "https://support.claude.com/en/articles/15520349-use-claude-cowork-on-web-desktop-and-mobile",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official"
+  },
+  "OpenClaw": {
+    "headline": "Assistant IA open source auto-hébergé pour agir depuis ses messageries.",
+    "audiences": [
+      "Utilisateurs techniques souhaitant un agent personnel local",
+      "Équipes capables de sécuriser leur infrastructure"
+    ],
+    "cases": [
+      "Gérer des calendriers et messages autorisés",
+      "Déclencher des actions ou routines sur ses outils connectés"
+    ],
+    "advantages": [
+      "Open source et contrôle de l'hébergement",
+      "Nombreux canaux de messagerie et intégrations"
+    ],
+    "limits": [
+      "Installation et sécurité plus complexes",
+      "Pouvoir d'action élevé si les permissions sont trop larges"
+    ],
+    "gettingStarted": [
+      "Lire la documentation de sécurité et préparer une instance isolée.",
+      "Limiter strictement les accès et clés; tester avec des données non sensibles."
+    ],
+    "examples": [
+      "Prépare un résumé quotidien des messages qui demandent une réponse."
+    ],
+    "pricing": "Logiciel libre; coûts d'hébergement, modèles et services tiers éventuels.",
+    "privacy": "Les données peuvent rester sur votre infrastructure, mais la configuration et le modèle choisi déterminent les transferts.",
+    "selection": [
+      "Pour les personnes privilégiant le contrôle technique et la personnalisation."
+    ],
+    "sources": [
+      {
+        "url": "https://openclaw.ai/",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      },
+      {
+        "url": "https://docs.openclaw.ai/help/faq/what-is-openclaw",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official"
+  },
+  "Opera Neon": {
+    "headline": "Navigateur doté d'agents pouvant chercher, naviguer, automatiser et créer.",
+    "audiences": [
+      "Utilisateurs avancés du Web",
+      "Professionnels automatisant des recherches et tâches"
+    ],
+    "cases": [
+      "Rechercher et rassembler des données Web",
+      "Automatiser une suite d'actions et tâches de navigateur"
+    ],
+    "advantages": [
+      "Agents intégrés au navigateur",
+      "Intégration d'agents externes avec MCP et CLI"
+    ],
+    "limits": [
+      "Certaines fonctions nécessitent un abonnement",
+      "Les actions sur sites tiers demandent une validation"
+    ],
+    "gettingStarted": [
+      "Télécharger Opera Neon depuis le site officiel.",
+      "Configurer les agents et limiter les actions automatisées."
+    ],
+    "examples": [
+      "Recherche les caractéristiques de cinq services et présente un comparatif sourcé."
+    ],
+    "pricing": "Navigateur de base disponible gratuitement; fonctions IA intégrées selon formule, tarif à confirmer.",
+    "privacy": "Examiner les permissions accordées au navigateur et aux agents intégrés ou externes.",
+    "selection": [
+      "Pour la recherche et les tâches directement liées au Web."
+    ],
+    "sources": [
+      {
+        "url": "https://operaneon.com/",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      },
+      {
+        "url": "https://blogs.opera.com/news/2026/08/your-ai-agents-can-use-opera-neon-free-of-charge/",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official"
+  },
+  "Amazon Bedrock AgentCore": {
+    "headline": "Infrastructure AWS pour déployer et gouverner des agents IA de production.",
+    "audiences": [
+      "Développeurs cloud",
+      "Équipes sécurité et architecture IA"
+    ],
+    "cases": [
+      "Déployer des agents avec mémoire et outils",
+      "Superviser les traces et contrôler les autorisations"
+    ],
+    "advantages": [
+      "Infrastructure gérée et compatible avec plusieurs frameworks",
+      "Services de mémoire, passerelle, identité et supervision"
+    ],
+    "limits": [
+      "Configuration et facturation cloud à maîtriser",
+      "Ne constitue pas un assistant clé en main pour particuliers"
+    ],
+    "gettingStarted": [
+      "Consulter la documentation AWS et définir les accès IAM minimaux.",
+      "Créer un agent de test dans un environnement isolé."
+    ],
+    "examples": [
+      "Déploie un agent FAQ interne avec accès en lecture aux documents autorisés."
+    ],
+    "pricing": "Facturation cloud AWS selon les composants; devis à vérifier avant usage.",
+    "privacy": "Utiliser les politiques d'identité et les contrôles AWS pour limiter les actions et accès.",
+    "selection": [
+      "Pour déployer des agents métiers robustes plutôt que pour un usage conversationnel immédiat."
+    ],
+    "sources": [
+      {
+        "url": "https://aws.amazon.com/bedrock/agentcore/",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      },
+      {
+        "url": "https://aws.amazon.com/bedrock/agentcore/faqs/",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official"
+  },
+  "Google Project Mariner": {
+    "headline": "Prototype de recherche Google DeepMind pour des actions dans le navigateur.",
+    "audiences": [
+      "Chercheurs et utilisateurs intéressés par les agents Web",
+      "Développeurs suivant les expérimentations"
+    ],
+    "cases": [
+      "Exécuter des actions sur pages Web sous contrôle humain"
+    ],
+    "advantages": [
+      "Recherche sur l'interaction avec les interfaces Web"
+    ],
+    "limits": [
+      "Statut expérimental et accès limité",
+      "Fiabilité et limites de sécurité en cours d'étude"
+    ],
+    "gettingStarted": [
+      "Lire les annonces Google DeepMind; vérifier les programmes d'accès disponibles."
+    ],
+    "examples": [
+      "Observer un prototype de navigation agentique avec validation d'achat."
+    ],
+    "pricing": "Prototype de recherche; offre commerciale non établie.",
+    "privacy": "Éviter les données sensibles et vérifier les conditions du programme d'essai.",
+    "selection": [
+      "Utile pour suivre l'état de la recherche, pas comme garantie d'un service grand public."
+    ],
+    "sources": [
+      {
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/google-gemini-ai-update-december-2024/",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official"
   }
 }

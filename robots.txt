@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://index-ai-eight.vercel.app/sitemap.xml

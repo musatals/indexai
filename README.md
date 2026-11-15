@@ -2,13 +2,13 @@
 
 **Version 2.0 — 15 novembre 2026** · Interface sable, ivoire et terracotta · Français / anglais
 
-IndexAI est un portail de consultation regroupant **808 ressources IA dans 50 catégories**. La v2 remplace l'appellation Atlas IA par **IndexAI**, modernise l'interface en beige et tons naturels, et ajoute des fiches descriptives spécifiques ainsi que des informations pratiques traçables.
+IndexAI est un portail de consultation regroupant **909 ressources IA dans 55 catégories**. La v2 remplace l'appellation Atlas IA par **IndexAI**, modernise l'interface en beige et tons naturels, et ajoute des fiches descriptives spécifiques ainsi que des informations pratiques traçables.
 
 ## Couverture et limites de la recherche
 
 | Mesure | Volume |
 |---|---:|
-| Références du catalogue initial intégralement conservées | 808 |
+| Références du catalogue initial intégralement conservées | 909 |
 | Catégories d'origine | 50 |
 | Présentations éditoriales spécifiques FR/EN | 209 |
 | Fiches dotées de tarifs/formules provenant de pages officielles consultées | 32 |
@@ -34,7 +34,7 @@ Ouvrir `http://localhost:8000`. La lecture directe par `file://` ne fonctionne p
 
 - Accueil et navigation responsive ; thèmes **clair beige** et **sombre brun** ; identité et icône **IndexAI**.
 - Répertoire complet avec recherche par nom, catégories et **texte des descriptions**, tri, filtres, pagination ; affichages cartes/liste/tableau/icônes.
-- 50 pages de catégories et 808 pages de fiches, chacune ayant une URL stable.
+- 50 pages de catégories et 909 pages de fiches, chacune ayant une URL stable.
 - Fiches : présentation spécifique quand disponible, fonctionnalités documentées pour les pages tarifaires examinées, accès/plateformes lorsque indiqués, modèle tarifaire, lien vers la grille officielle et date ; sinon état « à documenter ».
 - Comparateur de 4 ressources incluant présentation, fonctionnalités et informations tarifaires connues ; favoris dans le navigateur et URL de comparaison partageable.
 - Éléments FR/EN, navigation mobile, exploration thématique, page de transparence et rapport de qualité documentaire.
@@ -70,7 +70,7 @@ python3 scripts/browser_smoke_test.py  # nécessite un environnement de test Pla
 node --check assets/app.js
 ```
 
-Les tests sont ciblés : ils ne constituent **ni** une preuve d'accessibilité WCAG 2.2 AA complète, **ni** un audit de sécurité ou une validation fonctionnelle des 808 fournisseurs.
+Les tests sont ciblés : ils ne constituent **ni** une preuve d'accessibilité WCAG 2.2 AA complète, **ni** un audit de sécurité ou une validation fonctionnelle des 909 fournisseurs.
 
 ## Publication sur Vercel
 
@@ -86,7 +86,7 @@ Aucune publication, aucun paramétrage de domaine et aucune modification d'un pr
 
 ## Évolutions nécessaires
 
-La v2 est un portail documentaire **statique**. Elle ne dispose pas encore de console d'administration authentifiée, d'import XLSX directement dans le navigateur, de surveillance des liens programmée, de moteur vectoriel, de contributions utilisateurs envoyées sur un serveur ni de fiches officiellement contrôlées pour la totalité des 808 ressources. Voir `docs/architecture.md` pour le déploiement d'une API et d'une base PostgreSQL, et `docs/quality-notes.md` pour l'ordre de priorité des vérifications.
+La v2 est un portail documentaire **statique**. Elle ne dispose pas encore de console d'administration authentifiée, d'import XLSX directement dans le navigateur, de surveillance des liens programmée, de moteur vectoriel, de contributions utilisateurs envoyées sur un serveur ni de fiches officiellement contrôlées pour la totalité des 909 ressources. Voir `docs/architecture.md` pour le déploiement d'une API et d'une base PostgreSQL, et `docs/quality-notes.md` pour l'ordre de priorité des vérifications.
 
 ## Enrichissement documentaire du 15 novembre 2026
 
@@ -95,3 +95,8 @@ La v2 est un portail documentaire **statique**. Elle ne dispose pas encore de co
 - **Sora** est explicitement indiqué comme ancien service arrêté.
 - La méthode, les limites de vérification et les références sont disponibles dans [`docs/RECHERCHE_APPROFONDIE_2026-11-15.md`](docs/RECHERCHE_APPROFONDIE_2026-11-15.md).
 - L'enrichissement documentaire n'est pas un test pratique ni une preuve de disponibilité ou de conditions tarifaires permanentes.
+
+
+## Panorama des agents IA — novembre 2026
+
+101 nouvelles fiches réparties dans cinq domaines. Voir [Agents IA](/agents/), [documentation de l'extension](docs/AGENTS_IA_PANORAMA_2026.md) et [données de l'extension](data/agent-inventory-2026.json). Muse de Meta et Dots d'OpenAI disposent de dossiers avec sources officielles. La sélection est évolutive et non exhaustive.

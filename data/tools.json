@@ -6877,7 +6877,9 @@
     "slug": "github-copilot",
     "category": "Programmation assistée",
     "categorySlug": "programmation-assistee",
-    "secondaryCategories": [],
+    "secondaryCategories": [
+      "Agents IA de programmation"
+    ],
     "url": "https://github.com/features/copilot",
     "kind": "Application / service",
     "verification": "unverified",
@@ -7060,7 +7062,9 @@
     "slug": "claude-code",
     "category": "Programmation assistée",
     "categorySlug": "programmation-assistee",
-    "secondaryCategories": [],
+    "secondaryCategories": [
+      "Agents IA de programmation"
+    ],
     "url": "https://www.anthropic.com/claude-code",
     "kind": "Application / service",
     "verification": "unverified",
@@ -7125,7 +7129,9 @@
     "slug": "openai-codex",
     "category": "Programmation assistée",
     "categorySlug": "programmation-assistee",
-    "secondaryCategories": [],
+    "secondaryCategories": [
+      "Agents IA de programmation"
+    ],
     "url": "https://openai.com/codex",
     "kind": "Application / service",
     "verification": "unverified",
@@ -7264,7 +7270,9 @@
     "slug": "aider",
     "category": "Programmation assistée",
     "categorySlug": "programmation-assistee",
-    "secondaryCategories": [],
+    "secondaryCategories": [
+      "Agents IA de programmation"
+    ],
     "url": "https://aider.chat",
     "kind": "Application / service",
     "verification": "unverified",
@@ -7282,7 +7290,9 @@
     "slug": "cline",
     "category": "Programmation assistée",
     "categorySlug": "programmation-assistee",
-    "secondaryCategories": [],
+    "secondaryCategories": [
+      "Agents IA de programmation"
+    ],
     "url": "https://cline.bot",
     "kind": "Application / service",
     "verification": "unverified",
@@ -7300,7 +7310,9 @@
     "slug": "roo-code",
     "category": "Programmation assistée",
     "categorySlug": "programmation-assistee",
-    "secondaryCategories": [],
+    "secondaryCategories": [
+      "Agents IA de programmation"
+    ],
     "url": "https://roocode.com",
     "kind": "Application / service",
     "verification": "unverified",
@@ -7314,7 +7326,9 @@
     "slug": "openhands",
     "category": "Programmation assistée",
     "categorySlug": "programmation-assistee",
-    "secondaryCategories": [],
+    "secondaryCategories": [
+      "Agents IA de programmation"
+    ],
     "url": "https://www.all-hands.dev",
     "kind": "Application / service",
     "verification": "unverified",
@@ -7428,7 +7442,9 @@
     "slug": "swe-agent",
     "category": "Programmation assistée",
     "categorySlug": "programmation-assistee",
-    "secondaryCategories": [],
+    "secondaryCategories": [
+      "Agents IA de programmation"
+    ],
     "url": "https://swe-agent.com",
     "kind": "Application / service",
     "verification": "unverified",
@@ -7442,7 +7458,9 @@
     "slug": "replit-agent",
     "category": "Programmation assistée",
     "categorySlug": "programmation-assistee",
-    "secondaryCategories": [],
+    "secondaryCategories": [
+      "Agents IA de programmation"
+    ],
     "url": "https://replit.com",
     "kind": "Application / service",
     "verification": "unverified",
@@ -8079,7 +8097,9 @@
     "slug": "manus",
     "category": "Agents autonomes et orchestration",
     "categorySlug": "agents-autonomes-et-orchestration",
-    "secondaryCategories": [],
+    "secondaryCategories": [
+      "Agents IA personnels et proactifs"
+    ],
     "url": "https://manus.im",
     "kind": "Agent / framework / plateforme",
     "verification": "unverified",
@@ -8093,7 +8113,9 @@
     "slug": "autogpt",
     "category": "Agents autonomes et orchestration",
     "categorySlug": "agents-autonomes-et-orchestration",
-    "secondaryCategories": [],
+    "secondaryCategories": [
+      "Plateformes de création d'agents IA"
+    ],
     "url": "https://agpt.co",
     "kind": "Agent / framework / plateforme",
     "verification": "unverified",
@@ -8107,7 +8129,9 @@
     "slug": "crewai",
     "category": "Agents autonomes et orchestration",
     "categorySlug": "agents-autonomes-et-orchestration",
-    "secondaryCategories": [],
+    "secondaryCategories": [
+      "Plateformes de création d'agents IA"
+    ],
     "url": "https://www.crewai.com",
     "kind": "Agent / framework / plateforme",
     "verification": "unverified",
@@ -8126,7 +8150,8 @@
     "category": "Agents autonomes et orchestration",
     "categorySlug": "agents-autonomes-et-orchestration",
     "secondaryCategories": [
-      "RAG, bases vectorielles et recherche"
+      "RAG, bases vectorielles et recherche",
+      "Plateformes de création d'agents IA"
     ],
     "url": "https://www.langchain.com",
     "kind": "Agent / framework / plateforme",
@@ -8192,7 +8217,9 @@
     "slug": "langgraph",
     "category": "Agents autonomes et orchestration",
     "categorySlug": "agents-autonomes-et-orchestration",
-    "secondaryCategories": [],
+    "secondaryCategories": [
+      "Plateformes de création d'agents IA"
+    ],
     "url": "https://www.langchain.com/langgraph",
     "kind": "Agent / framework / plateforme",
     "verification": "unverified",
@@ -8258,7 +8285,8 @@
     "category": "Agents autonomes et orchestration",
     "categorySlug": "agents-autonomes-et-orchestration",
     "secondaryCategories": [
-      "RAG, bases vectorielles et recherche"
+      "RAG, bases vectorielles et recherche",
+      "Plateformes de création d'agents IA"
     ],
     "url": "https://www.llamaindex.ai",
     "kind": "Agent / framework / plateforme",
@@ -8277,7 +8305,10 @@
     "slug": "microsoft-copilot-studio",
     "category": "Agents autonomes et orchestration",
     "categorySlug": "agents-autonomes-et-orchestration",
-    "secondaryCategories": [],
+    "secondaryCategories": [
+      "Plateformes de création d'agents IA",
+      "Agents IA métiers et entreprises"
+    ],
     "url": "https://www.microsoft.com/microsoft-copilot/microsoft-copilot-studio",
     "kind": "Agent / framework / plateforme",
     "verification": "unverified",
@@ -8291,7 +8322,9 @@
     "slug": "dify",
     "category": "Agents autonomes et orchestration",
     "categorySlug": "agents-autonomes-et-orchestration",
-    "secondaryCategories": [],
+    "secondaryCategories": [
+      "Plateformes de création d'agents IA"
+    ],
     "url": "https://dify.ai",
     "kind": "Agent / framework / plateforme",
     "verification": "unverified",
@@ -8356,7 +8389,9 @@
     "slug": "langflow",
     "category": "Agents autonomes et orchestration",
     "categorySlug": "agents-autonomes-et-orchestration",
-    "secondaryCategories": [],
+    "secondaryCategories": [
+      "Plateformes de création d'agents IA"
+    ],
     "url": "https://www.langflow.org",
     "kind": "Agent / framework / plateforme",
     "verification": "unverified",
@@ -8370,7 +8405,9 @@
     "slug": "flowise",
     "category": "Agents autonomes et orchestration",
     "categorySlug": "agents-autonomes-et-orchestration",
-    "secondaryCategories": [],
+    "secondaryCategories": [
+      "Plateformes de création d'agents IA"
+    ],
     "url": "https://flowiseai.com",
     "kind": "Agent / framework / plateforme",
     "verification": "unverified",
@@ -8388,7 +8425,9 @@
     "slug": "agno",
     "category": "Agents autonomes et orchestration",
     "categorySlug": "agents-autonomes-et-orchestration",
-    "secondaryCategories": [],
+    "secondaryCategories": [
+      "Plateformes de création d'agents IA"
+    ],
     "url": "https://www.agno.com",
     "kind": "Agent / framework / plateforme",
     "verification": "unverified",
@@ -8402,7 +8441,9 @@
     "slug": "autogen",
     "category": "Agents autonomes et orchestration",
     "categorySlug": "agents-autonomes-et-orchestration",
-    "secondaryCategories": [],
+    "secondaryCategories": [
+      "Plateformes de création d'agents IA"
+    ],
     "url": "https://github.com/microsoft/autogen",
     "kind": "Agent / framework / plateforme",
     "verification": "unverified",
@@ -8416,7 +8457,9 @@
     "slug": "semantic-kernel",
     "category": "Agents autonomes et orchestration",
     "categorySlug": "agents-autonomes-et-orchestration",
-    "secondaryCategories": [],
+    "secondaryCategories": [
+      "Plateformes de création d'agents IA"
+    ],
     "url": "https://github.com/microsoft/semantic-kernel",
     "kind": "Agent / framework / plateforme",
     "verification": "unverified",
@@ -8430,7 +8473,9 @@
     "slug": "pydantic-ai",
     "category": "Agents autonomes et orchestration",
     "categorySlug": "agents-autonomes-et-orchestration",
-    "secondaryCategories": [],
+    "secondaryCategories": [
+      "Plateformes de création d'agents IA"
+    ],
     "url": "https://ai.pydantic.dev",
     "kind": "Agent / framework / plateforme",
     "verification": "unverified",
@@ -8444,7 +8489,9 @@
     "slug": "smolagents",
     "category": "Agents autonomes et orchestration",
     "categorySlug": "agents-autonomes-et-orchestration",
-    "secondaryCategories": [],
+    "secondaryCategories": [
+      "Plateformes de création d'agents IA"
+    ],
     "url": "https://huggingface.co/docs/smolagents",
     "kind": "Agent / framework / plateforme",
     "verification": "unverified",
@@ -8458,7 +8505,9 @@
     "slug": "mastra",
     "category": "Agents autonomes et orchestration",
     "categorySlug": "agents-autonomes-et-orchestration",
-    "secondaryCategories": [],
+    "secondaryCategories": [
+      "Plateformes de création d'agents IA"
+    ],
     "url": "https://mastra.ai",
     "kind": "Agent / framework / plateforme",
     "verification": "unverified",
@@ -8472,7 +8521,9 @@
     "slug": "letta",
     "category": "Agents autonomes et orchestration",
     "categorySlug": "agents-autonomes-et-orchestration",
-    "secondaryCategories": [],
+    "secondaryCategories": [
+      "Plateformes de création d'agents IA"
+    ],
     "url": "https://www.letta.com",
     "kind": "Agent / framework / plateforme",
     "verification": "unverified",
@@ -8486,7 +8537,10 @@
     "slug": "relevance-ai",
     "category": "Agents autonomes et orchestration",
     "categorySlug": "agents-autonomes-et-orchestration",
-    "secondaryCategories": [],
+    "secondaryCategories": [
+      "Plateformes de création d'agents IA",
+      "Agents IA métiers et entreprises"
+    ],
     "url": "https://relevanceai.com",
     "kind": "Agent / framework / plateforme",
     "verification": "unverified",
@@ -8500,7 +8554,9 @@
     "slug": "lindy",
     "category": "Agents autonomes et orchestration",
     "categorySlug": "agents-autonomes-et-orchestration",
-    "secondaryCategories": [],
+    "secondaryCategories": [
+      "Agents IA personnels et proactifs"
+    ],
     "url": "https://www.lindy.ai",
     "kind": "Agent / framework / plateforme",
     "verification": "unverified",
@@ -8515,7 +8571,8 @@
     "category": "Agents autonomes et orchestration",
     "categorySlug": "agents-autonomes-et-orchestration",
     "secondaryCategories": [
-      "Organisation et productivité"
+      "Organisation et productivité",
+      "Plateformes de création d'agents IA"
     ],
     "url": "https://www.taskade.com",
     "kind": "Agent / framework / plateforme",
@@ -8530,7 +8587,9 @@
     "slug": "composio",
     "category": "Agents autonomes et orchestration",
     "categorySlug": "agents-autonomes-et-orchestration",
-    "secondaryCategories": [],
+    "secondaryCategories": [
+      "Plateformes de création d'agents IA"
+    ],
     "url": "https://composio.dev",
     "kind": "Agent / framework / plateforme",
     "verification": "unverified",
@@ -8544,7 +8603,9 @@
     "slug": "browser-use",
     "category": "Agents autonomes et orchestration",
     "categorySlug": "agents-autonomes-et-orchestration",
-    "secondaryCategories": [],
+    "secondaryCategories": [
+      "Agents Web et navigateurs autonomes"
+    ],
     "url": "https://browser-use.com",
     "kind": "Agent / framework / plateforme",
     "verification": "unverified",
@@ -8558,7 +8619,9 @@
     "slug": "openai-agents-sdk",
     "category": "Agents autonomes et orchestration",
     "categorySlug": "agents-autonomes-et-orchestration",
-    "secondaryCategories": [],
+    "secondaryCategories": [
+      "Plateformes de création d'agents IA"
+    ],
     "url": "https://openai.github.io/openai-agents-python",
     "kind": "Agent / framework / plateforme",
     "verification": "unverified",
@@ -8760,7 +8823,9 @@
     "slug": "n8n",
     "category": "Automatisation et intégrations",
     "categorySlug": "automatisation-et-integrations",
-    "secondaryCategories": [],
+    "secondaryCategories": [
+      "Plateformes de création d'agents IA"
+    ],
     "url": "https://n8n.io",
     "kind": "Application / service",
     "verification": "unverified",
@@ -8882,7 +8947,9 @@
     "slug": "gumloop",
     "category": "Automatisation et intégrations",
     "categorySlug": "automatisation-et-integrations",
-    "secondaryCategories": [],
+    "secondaryCategories": [
+      "Plateformes de création d'agents IA"
+    ],
     "url": "https://www.gumloop.com",
     "kind": "Application / service",
     "verification": "unverified",
@@ -8896,7 +8963,9 @@
     "slug": "relay-app",
     "category": "Automatisation et intégrations",
     "categorySlug": "automatisation-et-integrations",
-    "secondaryCategories": [],
+    "secondaryCategories": [
+      "Plateformes de création d'agents IA"
+    ],
     "url": "https://www.relay.app",
     "kind": "Application / service",
     "verification": "unverified",
@@ -9068,7 +9137,9 @@
     "slug": "notion-ai",
     "category": "Organisation et productivité",
     "categorySlug": "organisation-et-productivite",
-    "secondaryCategories": [],
+    "secondaryCategories": [
+      "Agents IA métiers et entreprises"
+    ],
     "url": "https://www.notion.so/product/ai",
     "kind": "Application / service",
     "verification": "unverified",
@@ -9630,7 +9701,8 @@
     "category": "Marketing et publicité",
     "categorySlug": "marketing-et-publicite",
     "secondaryCategories": [
-      "Ventes, prospection et CRM"
+      "Ventes, prospection et CRM",
+      "Agents IA métiers et entreprises"
     ],
     "url": "https://www.hubspot.com",
     "kind": "Application / service",
@@ -10261,7 +10333,9 @@
     "slug": "intercom-fin",
     "category": "Support client et chatbots",
     "categorySlug": "support-client-et-chatbots",
-    "secondaryCategories": [],
+    "secondaryCategories": [
+      "Agents IA métiers et entreprises"
+    ],
     "url": "https://www.intercom.com/fin",
     "kind": "Application / service",
     "verification": "unverified",
@@ -10435,7 +10509,9 @@
     "slug": "botpress",
     "category": "Support client et chatbots",
     "categorySlug": "support-client-et-chatbots",
-    "secondaryCategories": [],
+    "secondaryCategories": [
+      "Plateformes de création d'agents IA"
+    ],
     "url": "https://botpress.com",
     "kind": "Application / service",
     "verification": "unverified",
@@ -10453,7 +10529,9 @@
     "slug": "voiceflow",
     "category": "Support client et chatbots",
     "categorySlug": "support-client-et-chatbots",
-    "secondaryCategories": [],
+    "secondaryCategories": [
+      "Plateformes de création d'agents IA"
+    ],
     "url": "https://www.voiceflow.com",
     "kind": "Application / service",
     "verification": "unverified",
@@ -10555,7 +10633,9 @@
     "slug": "ibm-watsonx-orchestrate",
     "category": "Support client et chatbots",
     "categorySlug": "support-client-et-chatbots",
-    "secondaryCategories": [],
+    "secondaryCategories": [
+      "Agents IA métiers et entreprises"
+    ],
     "url": "https://www.ibm.com/products/watsonx-orchestrate",
     "kind": "Application / service",
     "verification": "unverified",
@@ -16482,5 +16562,4554 @@
     "source": "https://allailists.com/",
     "inventoriedAt": "2026-11-15",
     "sharedUrlCount": 1
+  },
+  {
+    "id": "AI-0809",
+    "name": "Muse (Meta)",
+    "slug": "muse-meta",
+    "category": "Agents IA personnels et proactifs",
+    "categorySlug": "agents-ia-personnels",
+    "secondaryCategories": [],
+    "url": "https://ai.meta.com/muse/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://ai.meta.com/muse/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Agent personnel de Meta qui agit sur le Web et dans les applications connectées avec validations des actions sensibles.",
+    "descriptionEn": "Meta personal AI agent for multi-step web and connected-app tasks with approval for sensitive actions.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "personal",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Actions et objectifs",
+      "Assistance aux tâches",
+      "Supervision utilisateur"
+    ],
+    "featuresEn": [
+      "Tasks and goals",
+      "Task assistance",
+      "User oversight"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://ai.meta.com/muse/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "official-source-reviewed",
+    "research": {
+      "headline": "Agent personnel proactif de Meta utilisant un ordinateur virtuel sécurisé, un navigateur et des connecteurs.",
+      "audiences": [
+        "Particuliers souhaitant déléguer des tâches numériques",
+        "Utilisateurs à l'aise avec les autorisations d'accès aux services"
+      ],
+      "cases": [
+        "Organiser des rendez-vous et suivre des objectifs",
+        "Préparer des achats, documents et démarches Web",
+        "Utiliser des applications connectées sous contrôle utilisateur"
+      ],
+      "advantages": [
+        "Actions multiétapes et suivi de tâches en arrière-plan",
+        "Ordinateur dédié Muse Secure VM",
+        "Validations et historique d'activités annoncés"
+      ],
+      "limits": [
+        "Déploiement et langues limités selon pays",
+        "Les actions sensibles demandent une surveillance de l'utilisateur",
+        "L'exécution sur le Web peut échouer ou rencontrer des interfaces inconnues"
+      ],
+      "gettingStarted": [
+        "Vérifier la disponibilité géographique et l'âge requis sur le site Muse.",
+        "Créer votre compte et examiner les autorisations avant de connecter des applications.",
+        "Commencer par une tâche non sensible; vérifier l'historique et les demandes d'approbation."
+      ],
+      "examples": [
+        "Recherche trois options de rendez-vous la semaine prochaine et demande ma validation avant réservation.",
+        "Organise les étapes d'un projet personnel et propose un suivi hebdomadaire."
+      ],
+      "pricing": "Usage gratuit limité puis abonnements payants; disponibilité et plafonds à vérifier sur la page officielle.",
+      "privacy": "Meta annonce stockage protégé des identifiants, validation des actions sensibles, historique et paramétrage des autorisations. Examiner les conditions en vigueur avant de connecter des comptes.",
+      "selection": [
+        "Intéressant pour des tâches personnelles et démarches Web répétitives.",
+        "Préférer un agent local si le contrôle des données et des identifiants prime."
+      ],
+      "sources": [
+        {
+          "url": "https://ai.meta.com/muse/",
+          "type": "official",
+          "reviewedAt": "2026-11-15"
+        },
+        {
+          "url": "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/",
+          "type": "official",
+          "reviewedAt": "2026-11-15"
+        }
+      ],
+      "reviewedAt": "2026-11-15",
+      "status": "documented",
+      "evidence": "official"
+    }
+  },
+  {
+    "id": "AI-0810",
+    "name": "Dots (OpenAI)",
+    "slug": "dots-openai",
+    "category": "Agents IA personnels et proactifs",
+    "categorySlug": "agents-ia-personnels",
+    "secondaryCategories": [],
+    "url": "https://openai.com/index/introducing-dots/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://openai.com/index/introducing-dots/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Agents personnels d'OpenAI, persistants et proactifs, équipés d'un ordinateur cloud, accessibles dans ChatGPT selon l'éligibilité.",
+    "descriptionEn": "OpenAI always-on proactive personal agents with cloud computers, accessible through eligible ChatGPT plans.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "personal",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Actions et objectifs",
+      "Assistance aux tâches",
+      "Supervision utilisateur"
+    ],
+    "featuresEn": [
+      "Tasks and goals",
+      "Task assistance",
+      "User oversight"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://openai.com/index/introducing-dots/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "official-source-reviewed",
+    "research": {
+      "headline": "Agents personnels permanents d'OpenAI qui font avancer des projets avec leur propre ordinateur cloud.",
+      "audiences": [
+        "Professionnels ayant des projets réguliers",
+        "Développeurs, chercheurs et équipes éligibles"
+      ],
+      "cases": [
+        "Suivre des projets entre les conversations",
+        "Effectuer des recherches récurrentes à partir de sources connectées",
+        "Préparer des documents ou modifications de logiciels à revoir"
+      ],
+      "advantages": [
+        "Mémoire de contexte et travail au long cours",
+        "Ordinateur cloud distinct; connecteurs d'applications",
+        "Contrôles de permissions, règles personnalisées et supervision"
+      ],
+      "limits": [
+        "Éligibilité et déploiement limités selon le pays et le forfait",
+        "Accès à certaines applications soumis aux permissions et limites",
+        "Les tâches demandant des décisions importantes doivent être supervisées"
+      ],
+      "gettingStarted": [
+        "Vérifier les forfaits et pays éligibles sur le Centre d'aide OpenAI.",
+        "Créer un dot dans ChatGPT sur bureau ou Web.",
+        "Connecter les services strictement nécessaires et définir les règles d'approbation."
+      ],
+      "examples": [
+        "Suis l'évolution de mon projet, résume les nouveautés et prépare les points à arbitrer.",
+        "Analyse ces demandes clients chaque semaine et propose des correctifs sans publier sans mon accord."
+      ],
+      "pricing": "Disponible selon éligibilité notamment sur certains forfaits Pro et professionnels; dot initial et allocations de travail selon l'offre.",
+      "privacy": "Chaque dot utilise un ordinateur cloud séparé; contrôle des connexions, règles d'autorisation et suivi de l'activité. Vérifier les options de protection et de conservation propres au compte.",
+      "selection": [
+        "Convient au travail récurrent avec un contexte accumulé.",
+        "Vérifier l'accès réel depuis votre pays et votre abonnement avant de planifier son utilisation."
+      ],
+      "sources": [
+        {
+          "url": "https://openai.com/index/introducing-dots/",
+          "type": "official",
+          "reviewedAt": "2026-11-15"
+        },
+        {
+          "url": "https://help.openai.com/en/articles/20001530-getting-started-with-your-dot",
+          "type": "official",
+          "reviewedAt": "2026-11-15"
+        }
+      ],
+      "reviewedAt": "2026-11-15",
+      "status": "documented",
+      "evidence": "official"
+    }
+  },
+  {
+    "id": "AI-0811",
+    "name": "Gemini Spark",
+    "slug": "gemini-spark",
+    "category": "Agents IA personnels et proactifs",
+    "categorySlug": "agents-ia-personnels",
+    "secondaryCategories": [],
+    "url": "https://gemini.google.com/updates",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://gemini.google.com/updates",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Agent personnel de Google dans Gemini, conçu pour effectuer des tâches multiétapes et travailler avec Workspace et des fichiers.",
+    "descriptionEn": "Google personal agent in Gemini for multi-step work with Workspace and files.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "personal",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Actions et objectifs",
+      "Assistance aux tâches",
+      "Supervision utilisateur"
+    ],
+    "featuresEn": [
+      "Tasks and goals",
+      "Task assistance",
+      "User oversight"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://gemini.google.com/updates",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "official-source-reviewed",
+    "research": {
+      "headline": "Agent personnel de Google au sein de Gemini pour des tâches prolongées entre fichiers et Workspace.",
+      "audiences": [
+        "Utilisateurs de Google Workspace",
+        "Personnes recherchant l'automatisation de tâches numériques"
+      ],
+      "cases": [
+        "Préparer des documents à partir de fichiers autorisés",
+        "Effectuer des workflows Workspace",
+        "Organiser des dossiers et projets sur appareils compatibles"
+      ],
+      "advantages": [
+        "Intégration à l'écosystème Google",
+        "Fonctions orientées tâches et fichiers"
+      ],
+      "limits": [
+        "Déploiement progressif et disponibilité régionale",
+        "Certaines fonctions exigent un abonnement ou un appareil pris en charge"
+      ],
+      "gettingStarted": [
+        "Consulter les notes de version de Gemini et l'accès à Spark sur le compte."
+      ],
+      "examples": [
+        "Classe les notes autorisées de ce projet et propose un résumé."
+      ],
+      "pricing": "Disponibilité selon forfaits Gemini, notamment Google AI Ultra pour certains accès; détails régionaux à vérifier.",
+      "privacy": "Vérifier les autorisations Google Workspace et l'accès aux fichiers avant de confier une tâche.",
+      "selection": [
+        "Pertinent pour les utilisateurs de l'écosystème Google."
+      ],
+      "sources": [
+        {
+          "url": "https://gemini.google.com/updates",
+          "type": "official",
+          "reviewedAt": "2026-11-15"
+        }
+      ],
+      "reviewedAt": "2026-11-15",
+      "status": "documented",
+      "evidence": "official"
+    }
+  },
+  {
+    "id": "AI-0812",
+    "name": "ChatGPT agent",
+    "slug": "chatgpt-agent",
+    "category": "Agents IA personnels et proactifs",
+    "categorySlug": "agents-ia-personnels",
+    "secondaryCategories": [],
+    "url": "https://help.openai.com/en/articles/11752874-chatgpt-agent",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://help.openai.com/en/articles/11752874-chatgpt-agent",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Mode agent de ChatGPT pour exécuter des tâches en plusieurs étapes à l'aide de son navigateur et de ses outils.",
+    "descriptionEn": "ChatGPT agent mode for multi-step browser and tool-driven tasks.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "personal",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Actions et objectifs",
+      "Assistance aux tâches",
+      "Supervision utilisateur"
+    ],
+    "featuresEn": [
+      "Tasks and goals",
+      "Task assistance",
+      "User oversight"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://help.openai.com/en/articles/11752874-chatgpt-agent",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "official-source-reviewed",
+    "research": {
+      "headline": "Mode agent de ChatGPT pour déléguer des opérations sur des sites et applications.",
+      "audiences": [
+        "Utilisateurs ChatGPT éligibles",
+        "Professionnels souhaitant automatiser des démarches ponctuelles"
+      ],
+      "cases": [
+        "Rechercher et comparer des offres",
+        "Exécuter des démarches Web avec vérification humaine"
+      ],
+      "advantages": [
+        "Navigation et outils de ChatGPT",
+        "Capacité à enchaîner des étapes"
+      ],
+      "limits": [
+        "Certaines actions demandent une approbation",
+        "Disponibilité et quotas variables selon abonnement"
+      ],
+      "gettingStarted": [
+        "Consulter l'option agent de votre ChatGPT et vérifier la prise en charge."
+      ],
+      "examples": [
+        "Recherche des offres, compare-les et montre-moi les étapes à valider."
+      ],
+      "pricing": "Selon plan ChatGPT; vérifier les limites actuelles.",
+      "privacy": "Contrôler les sites autorisés et confirmer les actions sensibles.",
+      "selection": [
+        "Pour des tâches Web occasionnelles, avec supervision."
+      ],
+      "sources": [
+        {
+          "url": "https://help.openai.com/en/articles/11752874-chatgpt-agent",
+          "type": "official",
+          "reviewedAt": "2026-11-15"
+        }
+      ],
+      "reviewedAt": "2026-11-15",
+      "status": "documented",
+      "evidence": "official"
+    }
+  },
+  {
+    "id": "AI-0813",
+    "name": "Claude Cowork",
+    "slug": "claude-cowork",
+    "category": "Agents IA personnels et proactifs",
+    "categorySlug": "agents-ia-personnels",
+    "secondaryCategories": [],
+    "url": "https://claude.com/product/cowork",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://claude.com/product/cowork",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Agent de travail d'Anthropic pour traiter des fichiers, utiliser des outils et livrer des résultats supervisables.",
+    "descriptionEn": "Anthropic work agent that operates across files and tools to deliver reviewable outputs.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "personal",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Actions et objectifs",
+      "Assistance aux tâches",
+      "Supervision utilisateur"
+    ],
+    "featuresEn": [
+      "Tasks and goals",
+      "Task assistance",
+      "User oversight"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://claude.com/product/cowork",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "official-source-reviewed",
+    "research": {
+      "headline": "Environnement agentique d'Anthropic pour prendre en charge des tâches complexes de travail.",
+      "audiences": [
+        "Professionnels et équipes",
+        "Utilisateurs de Claude avec plan éligible"
+      ],
+      "cases": [
+        "Organiser des fichiers et préparer des livrables",
+        "Exécuter un workflow avec connecteurs et navigateur"
+      ],
+      "advantages": [
+        "Utilisation de fichiers et connecteurs",
+        "Travail dans navigateur ou ordinateur selon permissions",
+        "Activités consultables et reprenables"
+      ],
+      "limits": [
+        "Disponibilité variable par plan et plateforme",
+        "Usage de l'ordinateur comporte des risques et nécessite surveillance"
+      ],
+      "gettingStarted": [
+        "Activer Cowork sur un forfait compatible.",
+        "Délimiter fichiers, dossiers et connexions autorisés."
+      ],
+      "examples": [
+        "Classe ces comptes rendus et prépare une synthèse structurée."
+      ],
+      "pricing": "Accessible sur des forfaits payants Claude, selon les conditions et plateformes.",
+      "privacy": "Contrôler les permissions de fichiers et d'ordinateur; éviter les données sensibles sans garanties adaptées.",
+      "selection": [
+        "Pertinent pour les tâches de bureau et la création de livrables."
+      ],
+      "sources": [
+        {
+          "url": "https://claude.com/product/cowork",
+          "type": "official",
+          "reviewedAt": "2026-11-15"
+        },
+        {
+          "url": "https://support.claude.com/en/articles/15520349-use-claude-cowork-on-web-desktop-and-mobile",
+          "type": "official",
+          "reviewedAt": "2026-11-15"
+        }
+      ],
+      "reviewedAt": "2026-11-15",
+      "status": "documented",
+      "evidence": "official"
+    }
+  },
+  {
+    "id": "AI-0814",
+    "name": "Perplexity Assistant",
+    "slug": "perplexity-assistant",
+    "category": "Agents IA personnels et proactifs",
+    "categorySlug": "agents-ia-personnels",
+    "secondaryCategories": [],
+    "url": "https://www.perplexity.ai/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://www.perplexity.ai/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Assistant Perplexity axé sur la recherche et l'assistance aux tâches ; vérifier la disponibilité des actions selon la plateforme.",
+    "descriptionEn": "Perplexity search-centered assistant with task assistance, with platform-dependent action availability.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "personal",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Actions et objectifs",
+      "Assistance aux tâches",
+      "Supervision utilisateur"
+    ],
+    "featuresEn": [
+      "Tasks and goals",
+      "Task assistance",
+      "User oversight"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://www.perplexity.ai/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0815",
+    "name": "Amazon Alexa+",
+    "slug": "amazon-alexa",
+    "category": "Agents IA personnels et proactifs",
+    "categorySlug": "agents-ia-personnels",
+    "secondaryCategories": [],
+    "url": "https://www.amazon.com/alexaplus",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://www.amazon.com/alexaplus",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Assistant vocal et agent personnel d'Amazon pour organiser, rechercher, acheter et piloter des appareils compatibles.",
+    "descriptionEn": "Amazon voice and personal assistant for organization, search, shopping and supported devices.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "personal",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Actions et objectifs",
+      "Assistance aux tâches",
+      "Supervision utilisateur"
+    ],
+    "featuresEn": [
+      "Tasks and goals",
+      "Task assistance",
+      "User oversight"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://www.amazon.com/alexaplus",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0816",
+    "name": "OpenClaw",
+    "slug": "openclaw",
+    "category": "Agents IA personnels et proactifs",
+    "categorySlug": "agents-ia-personnels",
+    "secondaryCategories": [],
+    "url": "https://openclaw.ai/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://openclaw.ai/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Agent personnel open source auto-hébergeable avec mémoire, outils et interactions via des messageries ; la sécurité exige une configuration prudente.",
+    "descriptionEn": "Self-hostable open-source personal agent with memory, tools and messaging integrations; security configuration matters.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "personal",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Actions et objectifs",
+      "Assistance aux tâches",
+      "Supervision utilisateur"
+    ],
+    "featuresEn": [
+      "Tasks and goals",
+      "Task assistance",
+      "User oversight"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://openclaw.ai/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "official-source-reviewed",
+    "research": {
+      "headline": "Assistant IA open source auto-hébergé pour agir depuis ses messageries.",
+      "audiences": [
+        "Utilisateurs techniques souhaitant un agent personnel local",
+        "Équipes capables de sécuriser leur infrastructure"
+      ],
+      "cases": [
+        "Gérer des calendriers et messages autorisés",
+        "Déclencher des actions ou routines sur ses outils connectés"
+      ],
+      "advantages": [
+        "Open source et contrôle de l'hébergement",
+        "Nombreux canaux de messagerie et intégrations"
+      ],
+      "limits": [
+        "Installation et sécurité plus complexes",
+        "Pouvoir d'action élevé si les permissions sont trop larges"
+      ],
+      "gettingStarted": [
+        "Lire la documentation de sécurité et préparer une instance isolée.",
+        "Limiter strictement les accès et clés; tester avec des données non sensibles."
+      ],
+      "examples": [
+        "Prépare un résumé quotidien des messages qui demandent une réponse."
+      ],
+      "pricing": "Logiciel libre; coûts d'hébergement, modèles et services tiers éventuels.",
+      "privacy": "Les données peuvent rester sur votre infrastructure, mais la configuration et le modèle choisi déterminent les transferts.",
+      "selection": [
+        "Pour les personnes privilégiant le contrôle technique et la personnalisation."
+      ],
+      "sources": [
+        {
+          "url": "https://openclaw.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-15"
+        },
+        {
+          "url": "https://docs.openclaw.ai/help/faq/what-is-openclaw",
+          "type": "official",
+          "reviewedAt": "2026-11-15"
+        }
+      ],
+      "reviewedAt": "2026-11-15",
+      "status": "documented",
+      "evidence": "official"
+    }
+  },
+  {
+    "id": "AI-0817",
+    "name": "Genspark Super Agent",
+    "slug": "genspark-super-agent",
+    "category": "Agents IA personnels et proactifs",
+    "categorySlug": "agents-ia-personnels",
+    "secondaryCategories": [],
+    "url": "https://www.genspark.ai/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://www.genspark.ai/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Agent généraliste Genspark pour déléguer des recherches, des documents et des tâches numériques en plusieurs étapes.",
+    "descriptionEn": "Genspark general-purpose agent for delegated research, documents and multi-step digital tasks.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "personal",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Actions et objectifs",
+      "Assistance aux tâches",
+      "Supervision utilisateur"
+    ],
+    "featuresEn": [
+      "Tasks and goals",
+      "Task assistance",
+      "User oversight"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://www.genspark.ai/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0818",
+    "name": "Kimi Agent",
+    "slug": "kimi-agent",
+    "category": "Agents IA personnels et proactifs",
+    "categorySlug": "agents-ia-personnels",
+    "secondaryCategories": [],
+    "url": "https://www.kimi.com/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://www.kimi.com/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Agent de Moonshot AI pour la recherche, le raisonnement et l'exécution de tâches ; disponibilité variable selon l'offre.",
+    "descriptionEn": "Moonshot AI agent for research, reasoning and task execution; availability varies by plan.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "personal",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Actions et objectifs",
+      "Assistance aux tâches",
+      "Supervision utilisateur"
+    ],
+    "featuresEn": [
+      "Tasks and goals",
+      "Task assistance",
+      "User oversight"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://www.kimi.com/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0819",
+    "name": "Qwen App",
+    "slug": "qwen-app",
+    "category": "Agents IA personnels et proactifs",
+    "categorySlug": "agents-ia-personnels",
+    "secondaryCategories": [],
+    "url": "https://qwen.ai/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://qwen.ai/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Application assistant de l'écosystème Qwen intégrant des capacités orientées tâches ; autonomie variable selon la version.",
+    "descriptionEn": "Qwen ecosystem assistant with task-oriented features; autonomy depends on product version.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "personal",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Actions et objectifs",
+      "Assistance aux tâches",
+      "Supervision utilisateur"
+    ],
+    "featuresEn": [
+      "Tasks and goals",
+      "Task assistance",
+      "User oversight"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://qwen.ai/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0820",
+    "name": "Grok Bot",
+    "slug": "grok-bot",
+    "category": "Agents IA personnels et proactifs",
+    "categorySlug": "agents-ia-personnels",
+    "secondaryCategories": [],
+    "url": "https://grok.com/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://grok.com/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Projet d'agent personnel lié à Grok ; le périmètre et l'accès aux actions autonomes sont à confirmer.",
+    "descriptionEn": "Grok-related personal agent initiative; exact autonomous actions and access need verification.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "personal",
+    "agentStatus": "availability_to_verify",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Actions et objectifs",
+      "Assistance aux tâches",
+      "Supervision utilisateur"
+    ],
+    "featuresEn": [
+      "Tasks and goals",
+      "Task assistance",
+      "User oversight"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://grok.com/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0821",
+    "name": "Samsung Bixby",
+    "slug": "samsung-bixby",
+    "category": "Agents IA personnels et proactifs",
+    "categorySlug": "agents-ia-personnels",
+    "secondaryCategories": [],
+    "url": "https://www.samsung.com/us/apps/bixby/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://www.samsung.com/us/apps/bixby/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Assistant Samsung destiné aux appareils Galaxy ; fonctions agentiques selon appareil, pays et logiciel.",
+    "descriptionEn": "Samsung Galaxy assistant; agentic features depend on device, location and software.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "personal",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Actions et objectifs",
+      "Assistance aux tâches",
+      "Supervision utilisateur"
+    ],
+    "featuresEn": [
+      "Tasks and goals",
+      "Task assistance",
+      "User oversight"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://www.samsung.com/us/apps/bixby/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0822",
+    "name": "Huawei Celia",
+    "slug": "huawei-celia",
+    "category": "Agents IA personnels et proactifs",
+    "categorySlug": "agents-ia-personnels",
+    "secondaryCategories": [],
+    "url": "https://consumer.huawei.com/en/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://consumer.huawei.com/en/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Assistant intelligent Huawei intégré à certains appareils ; évolution agentique et disponibilité régionale à vérifier.",
+    "descriptionEn": "Huawei device assistant; agentic functionality and regional availability need confirmation.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "personal",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Actions et objectifs",
+      "Assistance aux tâches",
+      "Supervision utilisateur"
+    ],
+    "featuresEn": [
+      "Tasks and goals",
+      "Task assistance",
+      "User oversight"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://consumer.huawei.com/en/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0823",
+    "name": "Xiaomi MiClaw",
+    "slug": "xiaomi-miclaw",
+    "category": "Agents IA personnels et proactifs",
+    "categorySlug": "agents-ia-personnels",
+    "secondaryCategories": [],
+    "url": "https://www.mi.com/global/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://www.mi.com/global/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Projet d'agent intelligent de Xiaomi pour son écosystème ; disponibilité et fonctionnalités à confirmer.",
+    "descriptionEn": "Xiaomi intelligent agent initiative; access and features require confirmation.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "personal",
+    "agentStatus": "availability_to_verify",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Actions et objectifs",
+      "Assistance aux tâches",
+      "Supervision utilisateur"
+    ],
+    "featuresEn": [
+      "Tasks and goals",
+      "Task assistance",
+      "User oversight"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://www.mi.com/global/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0824",
+    "name": "Doubao",
+    "slug": "doubao",
+    "category": "Agents IA personnels et proactifs",
+    "categorySlug": "agents-ia-personnels",
+    "secondaryCategories": [],
+    "url": "https://www.doubao.com/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://www.doubao.com/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Assistant ByteDance avec fonctions conversationnelles et d'exécution selon versions et marchés.",
+    "descriptionEn": "ByteDance assistant with conversational and task-oriented capabilities varying by version and market.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "personal",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Actions et objectifs",
+      "Assistance aux tâches",
+      "Supervision utilisateur"
+    ],
+    "featuresEn": [
+      "Tasks and goals",
+      "Task assistance",
+      "User oversight"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://www.doubao.com/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0825",
+    "name": "Z.ai AutoGLM",
+    "slug": "z-ai-autoglm",
+    "category": "Agents IA personnels et proactifs",
+    "categorySlug": "agents-ia-personnels",
+    "secondaryCategories": [],
+    "url": "https://z.ai/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://z.ai/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Agent de l'écosystème Z.ai orienté interaction avec interfaces et tâches numériques ; périmètre selon version.",
+    "descriptionEn": "Z.ai ecosystem agent focused on interacting with interfaces and digital tasks; capabilities vary by version.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "personal",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Actions et objectifs",
+      "Assistance aux tâches",
+      "Supervision utilisateur"
+    ],
+    "featuresEn": [
+      "Tasks and goals",
+      "Task assistance",
+      "User oversight"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://z.ai/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0826",
+    "name": "Google Project Astra",
+    "slug": "google-project-astra",
+    "category": "Agents IA personnels et proactifs",
+    "categorySlug": "agents-ia-personnels",
+    "secondaryCategories": [],
+    "url": "https://deepmind.google/technologies/project-astra/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://deepmind.google/technologies/project-astra/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Projet de recherche Google DeepMind sur les assistants multimodaux capables de comprendre l'environnement.",
+    "descriptionEn": "Google DeepMind research project on multimodal agents that understand the surrounding environment.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "personal",
+    "agentStatus": "research",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Actions et objectifs",
+      "Assistance aux tâches",
+      "Supervision utilisateur"
+    ],
+    "featuresEn": [
+      "Tasks and goals",
+      "Task assistance",
+      "User oversight"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://deepmind.google/technologies/project-astra/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0827",
+    "name": "Hermes Agent",
+    "slug": "hermes-agent",
+    "category": "Agents IA personnels et proactifs",
+    "categorySlug": "agents-ia-personnels",
+    "secondaryCategories": [],
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://github.com/NousResearch/hermes-agent",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Agent personnel open source de Nous Research, configurable pour des outils et des tâches à long terme.",
+    "descriptionEn": "Nous Research open-source personal agent configurable with tools and ongoing tasks.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "personal",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Actions et objectifs",
+      "Assistance aux tâches",
+      "Supervision utilisateur"
+    ],
+    "featuresEn": [
+      "Tasks and goals",
+      "Task assistance",
+      "User oversight"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://github.com/NousResearch/hermes-agent",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0828",
+    "name": "Perplexity Comet",
+    "slug": "perplexity-comet",
+    "category": "Agents Web et navigateurs autonomes",
+    "categorySlug": "agents-web-navigateurs",
+    "secondaryCategories": [],
+    "url": "https://www.perplexity.ai/comet",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://www.perplexity.ai/comet",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Navigateur agentique de Perplexity associant recherche, contexte de navigation et assistance à l'exécution de tâches.",
+    "descriptionEn": "Perplexity agentic browser combining search, browsing context and task assistance.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "web",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Recherche et navigation Web",
+      "Automatisation des interfaces",
+      "Supervision des actions"
+    ],
+    "featuresEn": [
+      "Web research and browsing",
+      "Browser interaction automation",
+      "Action oversight"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://www.perplexity.ai/comet",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0829",
+    "name": "ChatGPT Atlas",
+    "slug": "chatgpt-atlas",
+    "category": "Agents Web et navigateurs autonomes",
+    "categorySlug": "agents-web-navigateurs",
+    "secondaryCategories": [],
+    "url": "https://chatgpt.com/atlas",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://chatgpt.com/atlas",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Navigateur d'OpenAI intégrant ChatGPT et des fonctions orientées tâches ; vérifier les fonctionnalités selon la plateforme.",
+    "descriptionEn": "OpenAI browser integrating ChatGPT and task-oriented capabilities, with platform-specific availability.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "web",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Recherche et navigation Web",
+      "Automatisation des interfaces",
+      "Supervision des actions"
+    ],
+    "featuresEn": [
+      "Web research and browsing",
+      "Browser interaction automation",
+      "Action oversight"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://chatgpt.com/atlas",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0830",
+    "name": "Google Project Mariner",
+    "slug": "google-project-mariner",
+    "category": "Agents Web et navigateurs autonomes",
+    "categorySlug": "agents-web-navigateurs",
+    "secondaryCategories": [],
+    "url": "https://deepmind.google/technologies/project-mariner/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://deepmind.google/technologies/project-mariner/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Prototype de recherche de Google pour la navigation Web pilotée par un agent.",
+    "descriptionEn": "Google research prototype for agent-driven web browsing.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "web",
+    "agentStatus": "research",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Recherche et navigation Web",
+      "Automatisation des interfaces",
+      "Supervision des actions"
+    ],
+    "featuresEn": [
+      "Web research and browsing",
+      "Browser interaction automation",
+      "Action oversight"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://deepmind.google/technologies/project-mariner/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "official-source-reviewed",
+    "research": {
+      "headline": "Prototype de recherche Google DeepMind pour des actions dans le navigateur.",
+      "audiences": [
+        "Chercheurs et utilisateurs intéressés par les agents Web",
+        "Développeurs suivant les expérimentations"
+      ],
+      "cases": [
+        "Exécuter des actions sur pages Web sous contrôle humain"
+      ],
+      "advantages": [
+        "Recherche sur l'interaction avec les interfaces Web"
+      ],
+      "limits": [
+        "Statut expérimental et accès limité",
+        "Fiabilité et limites de sécurité en cours d'étude"
+      ],
+      "gettingStarted": [
+        "Lire les annonces Google DeepMind; vérifier les programmes d'accès disponibles."
+      ],
+      "examples": [
+        "Observer un prototype de navigation agentique avec validation d'achat."
+      ],
+      "pricing": "Prototype de recherche; offre commerciale non établie.",
+      "privacy": "Éviter les données sensibles et vérifier les conditions du programme d'essai.",
+      "selection": [
+        "Utile pour suivre l'état de la recherche, pas comme garantie d'un service grand public."
+      ],
+      "sources": [
+        {
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/google-gemini-ai-update-december-2024/",
+          "type": "official",
+          "reviewedAt": "2026-11-15"
+        }
+      ],
+      "reviewedAt": "2026-11-15",
+      "status": "documented",
+      "evidence": "official"
+    }
+  },
+  {
+    "id": "AI-0831",
+    "name": "Claude in Chrome",
+    "slug": "claude-in-chrome",
+    "category": "Agents Web et navigateurs autonomes",
+    "categorySlug": "agents-web-navigateurs",
+    "secondaryCategories": [],
+    "url": "https://support.claude.com/fr/articles/12012173-commencer-avec-claude-dans-chrome",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://support.claude.com/fr/articles/12012173-commencer-avec-claude-dans-chrome",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Extension d'Anthropic qui permet à Claude de consulter des pages et d'effectuer des actions dans Chrome.",
+    "descriptionEn": "Anthropic browser extension allowing Claude to inspect pages and act within Chrome.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "web",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Recherche et navigation Web",
+      "Automatisation des interfaces",
+      "Supervision des actions"
+    ],
+    "featuresEn": [
+      "Web research and browsing",
+      "Browser interaction automation",
+      "Action oversight"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://support.claude.com/fr/articles/12012173-commencer-avec-claude-dans-chrome",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0832",
+    "name": "Opera Neon",
+    "slug": "opera-neon",
+    "category": "Agents Web et navigateurs autonomes",
+    "categorySlug": "agents-web-navigateurs",
+    "secondaryCategories": [],
+    "url": "https://operaneon.com/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://operaneon.com/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Navigateur d'Opera doté d'agents de recherche, de navigation et d'automatisation.",
+    "descriptionEn": "Opera browser with research, browsing and automation agents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "web",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Recherche et navigation Web",
+      "Automatisation des interfaces",
+      "Supervision des actions"
+    ],
+    "featuresEn": [
+      "Web research and browsing",
+      "Browser interaction automation",
+      "Action oversight"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://operaneon.com/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "official-source-reviewed",
+    "research": {
+      "headline": "Navigateur doté d'agents pouvant chercher, naviguer, automatiser et créer.",
+      "audiences": [
+        "Utilisateurs avancés du Web",
+        "Professionnels automatisant des recherches et tâches"
+      ],
+      "cases": [
+        "Rechercher et rassembler des données Web",
+        "Automatiser une suite d'actions et tâches de navigateur"
+      ],
+      "advantages": [
+        "Agents intégrés au navigateur",
+        "Intégration d'agents externes avec MCP et CLI"
+      ],
+      "limits": [
+        "Certaines fonctions nécessitent un abonnement",
+        "Les actions sur sites tiers demandent une validation"
+      ],
+      "gettingStarted": [
+        "Télécharger Opera Neon depuis le site officiel.",
+        "Configurer les agents et limiter les actions automatisées."
+      ],
+      "examples": [
+        "Recherche les caractéristiques de cinq services et présente un comparatif sourcé."
+      ],
+      "pricing": "Navigateur de base disponible gratuitement; fonctions IA intégrées selon formule, tarif à confirmer.",
+      "privacy": "Examiner les permissions accordées au navigateur et aux agents intégrés ou externes.",
+      "selection": [
+        "Pour la recherche et les tâches directement liées au Web."
+      ],
+      "sources": [
+        {
+          "url": "https://operaneon.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-15"
+        },
+        {
+          "url": "https://blogs.opera.com/news/2026/08/your-ai-agents-can-use-opera-neon-free-of-charge/",
+          "type": "official",
+          "reviewedAt": "2026-11-15"
+        }
+      ],
+      "reviewedAt": "2026-11-15",
+      "status": "documented",
+      "evidence": "official"
+    }
+  },
+  {
+    "id": "AI-0833",
+    "name": "Skyvern",
+    "slug": "skyvern",
+    "category": "Agents Web et navigateurs autonomes",
+    "categorySlug": "agents-web-navigateurs",
+    "secondaryCategories": [],
+    "url": "https://www.skyvern.com/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://www.skyvern.com/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Agent d'automatisation de sites Web et de formulaires à l'aide d'un navigateur.",
+    "descriptionEn": "Agent for automating websites and forms through a browser.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "web",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Recherche et navigation Web",
+      "Automatisation des interfaces",
+      "Supervision des actions"
+    ],
+    "featuresEn": [
+      "Web research and browsing",
+      "Browser interaction automation",
+      "Action oversight"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://www.skyvern.com/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0834",
+    "name": "Agent TARS",
+    "slug": "agent-tars",
+    "category": "Agents Web et navigateurs autonomes",
+    "categorySlug": "agents-web-navigateurs",
+    "secondaryCategories": [],
+    "url": "https://github.com/bytedance/UI-TARS-desktop",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://github.com/bytedance/UI-TARS-desktop",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Projet d'agent informatique et navigateur de ByteDance fondé sur l'interaction avec les interfaces.",
+    "descriptionEn": "ByteDance computer-use agent project driven by interface interaction.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "web",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Recherche et navigation Web",
+      "Automatisation des interfaces",
+      "Supervision des actions"
+    ],
+    "featuresEn": [
+      "Web research and browsing",
+      "Browser interaction automation",
+      "Action oversight"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://github.com/bytedance/UI-TARS-desktop",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0835",
+    "name": "Stagehand",
+    "slug": "stagehand",
+    "category": "Agents Web et navigateurs autonomes",
+    "categorySlug": "agents-web-navigateurs",
+    "secondaryCategories": [],
+    "url": "https://www.browserbase.com/stagehand",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://www.browserbase.com/stagehand",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Framework Browserbase pour piloter le navigateur avec des commandes d'IA.",
+    "descriptionEn": "Browserbase framework for controlling browsers with AI instructions.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "web",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Recherche et navigation Web",
+      "Automatisation des interfaces",
+      "Supervision des actions"
+    ],
+    "featuresEn": [
+      "Web research and browsing",
+      "Browser interaction automation",
+      "Action oversight"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://www.browserbase.com/stagehand",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0836",
+    "name": "Browserbase",
+    "slug": "browserbase",
+    "category": "Agents Web et navigateurs autonomes",
+    "categorySlug": "agents-web-navigateurs",
+    "secondaryCategories": [],
+    "url": "https://www.browserbase.com/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://www.browserbase.com/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Infrastructure de navigateurs gérés pour agents, automatisation et extraction Web.",
+    "descriptionEn": "Managed browser infrastructure for agents, automation and web extraction.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "web",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Recherche et navigation Web",
+      "Automatisation des interfaces",
+      "Supervision des actions"
+    ],
+    "featuresEn": [
+      "Web research and browsing",
+      "Browser interaction automation",
+      "Action oversight"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://www.browserbase.com/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0837",
+    "name": "Fellou",
+    "slug": "fellou",
+    "category": "Agents Web et navigateurs autonomes",
+    "categorySlug": "agents-web-navigateurs",
+    "secondaryCategories": [],
+    "url": "https://fellou.ai/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://fellou.ai/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Navigateur agentique orienté recherche et exécution de tâches Web ; offres à vérifier.",
+    "descriptionEn": "Agentic browser for research and web tasks; plan details need verification.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "web",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Recherche et navigation Web",
+      "Automatisation des interfaces",
+      "Supervision des actions"
+    ],
+    "featuresEn": [
+      "Web research and browsing",
+      "Browser interaction automation",
+      "Action oversight"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://fellou.ai/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0838",
+    "name": "BrowserOS",
+    "slug": "browseros",
+    "category": "Agents Web et navigateurs autonomes",
+    "categorySlug": "agents-web-navigateurs",
+    "secondaryCategories": [],
+    "url": "https://browseros.com/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://browseros.com/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Navigateur open source conçu pour l'exécution d'agents d'IA et les automatisations Web.",
+    "descriptionEn": "Open-source browser designed for AI agents and web automation.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "web",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Recherche et navigation Web",
+      "Automatisation des interfaces",
+      "Supervision des actions"
+    ],
+    "featuresEn": [
+      "Web research and browsing",
+      "Browser interaction automation",
+      "Action oversight"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://browseros.com/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0839",
+    "name": "Nanobrowser",
+    "slug": "nanobrowser",
+    "category": "Agents Web et navigateurs autonomes",
+    "categorySlug": "agents-web-navigateurs",
+    "secondaryCategories": [],
+    "url": "https://github.com/nanobrowser/nanobrowser",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://github.com/nanobrowser/nanobrowser",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Extension open source de navigateur pour automatisations utilisant des modèles d'IA.",
+    "descriptionEn": "Open-source browser extension for model-driven browser automation.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "web",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Recherche et navigation Web",
+      "Automatisation des interfaces",
+      "Supervision des actions"
+    ],
+    "featuresEn": [
+      "Web research and browsing",
+      "Browser interaction automation",
+      "Action oversight"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://github.com/nanobrowser/nanobrowser",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0840",
+    "name": "AgentQL",
+    "slug": "agentql",
+    "category": "Agents Web et navigateurs autonomes",
+    "categorySlug": "agents-web-navigateurs",
+    "secondaryCategories": [],
+    "url": "https://www.agentql.com/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://www.agentql.com/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Outil d'interaction et d'extraction Web utilisé dans les systèmes d'agents navigateurs.",
+    "descriptionEn": "Web extraction and interaction toolkit used in browser agents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "web",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Recherche et navigation Web",
+      "Automatisation des interfaces",
+      "Supervision des actions"
+    ],
+    "featuresEn": [
+      "Web research and browsing",
+      "Browser interaction automation",
+      "Action oversight"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://www.agentql.com/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0841",
+    "name": "Hugging Face Computer Agent",
+    "slug": "hugging-face-computer-agent",
+    "category": "Agents Web et navigateurs autonomes",
+    "categorySlug": "agents-web-navigateurs",
+    "secondaryCategories": [],
+    "url": "https://huggingface.co/blog/cua",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://huggingface.co/blog/cua",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Démonstrations et approches open source d'agents capables de piloter des interfaces informatiques.",
+    "descriptionEn": "Hugging Face open-source computer-use agent demonstrations and approaches.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "web",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Recherche et navigation Web",
+      "Automatisation des interfaces",
+      "Supervision des actions"
+    ],
+    "featuresEn": [
+      "Web research and browsing",
+      "Browser interaction automation",
+      "Action oversight"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://huggingface.co/blog/cua",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0842",
+    "name": "Google Jules",
+    "slug": "google-jules",
+    "category": "Agents IA de programmation",
+    "categorySlug": "agents-ia-programmation",
+    "secondaryCategories": [],
+    "url": "https://jules.google/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://jules.google/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Agent de programmation asynchrone de Google pour les dépôts de code et les corrections.",
+    "descriptionEn": "Google asynchronous coding agent for repositories and code changes.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "coding",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Analyse de code",
+      "Modifications de fichiers",
+      "Tests et revue humaine"
+    ],
+    "featuresEn": [
+      "Code analysis",
+      "File changes",
+      "Testing and review"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://jules.google/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0843",
+    "name": "Devin (Cognition)",
+    "slug": "devin-cognition",
+    "category": "Agents IA de programmation",
+    "categorySlug": "agents-ia-programmation",
+    "secondaryCategories": [],
+    "url": "https://devin.ai/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://devin.ai/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Agent de génie logiciel de Cognition pour prendre en charge des tâches et tickets de développement.",
+    "descriptionEn": "Cognition software engineering agent for handling development tickets and tasks.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "coding",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Analyse de code",
+      "Modifications de fichiers",
+      "Tests et revue humaine"
+    ],
+    "featuresEn": [
+      "Code analysis",
+      "File changes",
+      "Testing and review"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://devin.ai/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0844",
+    "name": "Cursor Agent",
+    "slug": "cursor-agent",
+    "category": "Agents IA de programmation",
+    "categorySlug": "agents-ia-programmation",
+    "secondaryCategories": [],
+    "url": "https://cursor.com/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://cursor.com/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Mode agent de l'éditeur Cursor pour planifier et modifier du code dans les projets.",
+    "descriptionEn": "Cursor editor agent mode for planning and implementing code changes.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "coding",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Analyse de code",
+      "Modifications de fichiers",
+      "Tests et revue humaine"
+    ],
+    "featuresEn": [
+      "Code analysis",
+      "File changes",
+      "Testing and review"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://cursor.com/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0845",
+    "name": "Windsurf Cascade",
+    "slug": "windsurf-cascade",
+    "category": "Agents IA de programmation",
+    "categorySlug": "agents-ia-programmation",
+    "secondaryCategories": [],
+    "url": "https://windsurf.com/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://windsurf.com/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Assistant agentique intégré à l'environnement de développement Windsurf.",
+    "descriptionEn": "Agentic assistant integrated into the Windsurf development environment.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "coding",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Analyse de code",
+      "Modifications de fichiers",
+      "Tests et revue humaine"
+    ],
+    "featuresEn": [
+      "Code analysis",
+      "File changes",
+      "Testing and review"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://windsurf.com/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0846",
+    "name": "JetBrains Junie",
+    "slug": "jetbrains-junie",
+    "category": "Agents IA de programmation",
+    "categorySlug": "agents-ia-programmation",
+    "secondaryCategories": [],
+    "url": "https://www.jetbrains.com/junie/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://www.jetbrains.com/junie/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Agent de développement JetBrains intégré à certains IDE pour coder et tester.",
+    "descriptionEn": "JetBrains software agent in supported IDEs for coding and testing.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "coding",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Analyse de code",
+      "Modifications de fichiers",
+      "Tests et revue humaine"
+    ],
+    "featuresEn": [
+      "Code analysis",
+      "File changes",
+      "Testing and review"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://www.jetbrains.com/junie/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0847",
+    "name": "Kiro",
+    "slug": "kiro",
+    "category": "Agents IA de programmation",
+    "categorySlug": "agents-ia-programmation",
+    "secondaryCategories": [],
+    "url": "https://kiro.dev/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://kiro.dev/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "IDE et agents de développement orientés spécifications, tâches et tests.",
+    "descriptionEn": "Specification-driven IDE and development agents for tasks and tests.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "coding",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Analyse de code",
+      "Modifications de fichiers",
+      "Tests et revue humaine"
+    ],
+    "featuresEn": [
+      "Code analysis",
+      "File changes",
+      "Testing and review"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://kiro.dev/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0848",
+    "name": "OpenCode",
+    "slug": "opencode",
+    "category": "Agents IA de programmation",
+    "categorySlug": "agents-ia-programmation",
+    "secondaryCategories": [],
+    "url": "https://opencode.ai/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://opencode.ai/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Agent de programmation open source utilisable en terminal et dans des environnements de code.",
+    "descriptionEn": "Open-source coding agent for terminals and development workflows.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "coding",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Analyse de code",
+      "Modifications de fichiers",
+      "Tests et revue humaine"
+    ],
+    "featuresEn": [
+      "Code analysis",
+      "File changes",
+      "Testing and review"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://opencode.ai/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0849",
+    "name": "Goose (Block)",
+    "slug": "goose-block",
+    "category": "Agents IA de programmation",
+    "categorySlug": "agents-ia-programmation",
+    "secondaryCategories": [],
+    "url": "https://block.github.io/goose/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://block.github.io/goose/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Agent de développement open source fonctionnant avec des modèles et outils configurables.",
+    "descriptionEn": "Open-source development agent with configurable models and tools.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "coding",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Analyse de code",
+      "Modifications de fichiers",
+      "Tests et revue humaine"
+    ],
+    "featuresEn": [
+      "Code analysis",
+      "File changes",
+      "Testing and review"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://block.github.io/goose/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0850",
+    "name": "Factory Droids",
+    "slug": "factory-droids",
+    "category": "Agents IA de programmation",
+    "categorySlug": "agents-ia-programmation",
+    "secondaryCategories": [],
+    "url": "https://factory.ai/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://factory.ai/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Agents de développement pour traiter des tâches d'ingénierie logicielle dans les équipes.",
+    "descriptionEn": "Software engineering agents for team development tasks.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "coding",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Analyse de code",
+      "Modifications de fichiers",
+      "Tests et revue humaine"
+    ],
+    "featuresEn": [
+      "Code analysis",
+      "File changes",
+      "Testing and review"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://factory.ai/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0851",
+    "name": "Amp (Sourcegraph)",
+    "slug": "amp-sourcegraph",
+    "category": "Agents IA de programmation",
+    "categorySlug": "agents-ia-programmation",
+    "secondaryCategories": [],
+    "url": "https://ampcode.com/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://ampcode.com/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Agent de programmation de Sourcegraph pour raisonner sur le code et exécuter des modifications.",
+    "descriptionEn": "Sourcegraph coding agent for reasoning over code and implementing changes.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "coding",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Analyse de code",
+      "Modifications de fichiers",
+      "Tests et revue humaine"
+    ],
+    "featuresEn": [
+      "Code analysis",
+      "File changes",
+      "Testing and review"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://ampcode.com/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0852",
+    "name": "Augment Agent",
+    "slug": "augment-agent",
+    "category": "Agents IA de programmation",
+    "categorySlug": "agents-ia-programmation",
+    "secondaryCategories": [],
+    "url": "https://www.augmentcode.com/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://www.augmentcode.com/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Agent de développement appuyé sur la compréhension de bases de code volumineuses.",
+    "descriptionEn": "Coding agent emphasizing large-codebase understanding.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "coding",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Analyse de code",
+      "Modifications de fichiers",
+      "Tests et revue humaine"
+    ],
+    "featuresEn": [
+      "Code analysis",
+      "File changes",
+      "Testing and review"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://www.augmentcode.com/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0853",
+    "name": "Gemini CLI",
+    "slug": "gemini-cli",
+    "category": "Agents IA de programmation",
+    "categorySlug": "agents-ia-programmation",
+    "secondaryCategories": [],
+    "url": "https://github.com/google-gemini/gemini-cli",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://github.com/google-gemini/gemini-cli",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Agent de développement open source de Google en ligne de commande.",
+    "descriptionEn": "Google open-source command-line coding agent.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "coding",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Analyse de code",
+      "Modifications de fichiers",
+      "Tests et revue humaine"
+    ],
+    "featuresEn": [
+      "Code analysis",
+      "File changes",
+      "Testing and review"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://github.com/google-gemini/gemini-cli",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0854",
+    "name": "Qwen Code",
+    "slug": "qwen-code",
+    "category": "Agents IA de programmation",
+    "categorySlug": "agents-ia-programmation",
+    "secondaryCategories": [],
+    "url": "https://github.com/QwenLM/qwen-code",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://github.com/QwenLM/qwen-code",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Agent de programmation open source en terminal de l'écosystème Qwen.",
+    "descriptionEn": "Qwen ecosystem open-source terminal coding agent.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "coding",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Analyse de code",
+      "Modifications de fichiers",
+      "Tests et revue humaine"
+    ],
+    "featuresEn": [
+      "Code analysis",
+      "File changes",
+      "Testing and review"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://github.com/QwenLM/qwen-code",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0855",
+    "name": "Zed Agent",
+    "slug": "zed-agent",
+    "category": "Agents IA de programmation",
+    "categorySlug": "agents-ia-programmation",
+    "secondaryCategories": [],
+    "url": "https://zed.dev/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://zed.dev/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Capacités agentiques de l'éditeur Zed pour le développement assisté.",
+    "descriptionEn": "Agentic coding features in the Zed editor.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "coding",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Analyse de code",
+      "Modifications de fichiers",
+      "Tests et revue humaine"
+    ],
+    "featuresEn": [
+      "Code analysis",
+      "File changes",
+      "Testing and review"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://zed.dev/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0856",
+    "name": "Tabnine Agent",
+    "slug": "tabnine-agent",
+    "category": "Agents IA de programmation",
+    "categorySlug": "agents-ia-programmation",
+    "secondaryCategories": [],
+    "url": "https://www.tabnine.com/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://www.tabnine.com/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Fonctions agentiques de l'assistant de programmation Tabnine pour équipes et entreprises.",
+    "descriptionEn": "Tabnine agentic code-assistant features for teams and enterprises.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "coding",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Analyse de code",
+      "Modifications de fichiers",
+      "Tests et revue humaine"
+    ],
+    "featuresEn": [
+      "Code analysis",
+      "File changes",
+      "Testing and review"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://www.tabnine.com/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0857",
+    "name": "Plandex",
+    "slug": "plandex",
+    "category": "Agents IA de programmation",
+    "categorySlug": "agents-ia-programmation",
+    "secondaryCategories": [],
+    "url": "https://plandex.ai/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://plandex.ai/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Agent de programmation open source conçu pour des modifications de code complexes.",
+    "descriptionEn": "Open-source programming agent for complex code changes.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "coding",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Analyse de code",
+      "Modifications de fichiers",
+      "Tests et revue humaine"
+    ],
+    "featuresEn": [
+      "Code analysis",
+      "File changes",
+      "Testing and review"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://plandex.ai/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0858",
+    "name": "GitHub Copilot Coding Agent",
+    "slug": "github-copilot-coding-agent",
+    "category": "Agents IA de programmation",
+    "categorySlug": "agents-ia-programmation",
+    "secondaryCategories": [],
+    "url": "https://github.com/features/copilot",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://github.com/features/copilot",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Fonctionnalité de GitHub Copilot permettant de déléguer des tickets et des modifications de code à un agent.",
+    "descriptionEn": "GitHub Copilot feature for delegating issues and code changes to an agent.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "coding",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Analyse de code",
+      "Modifications de fichiers",
+      "Tests et revue humaine"
+    ],
+    "featuresEn": [
+      "Code analysis",
+      "File changes",
+      "Testing and review"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://github.com/features/copilot",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0859",
+    "name": "Amazon Q Developer Agent",
+    "slug": "amazon-q-developer-agent",
+    "category": "Agents IA de programmation",
+    "categorySlug": "agents-ia-programmation",
+    "secondaryCategories": [],
+    "url": "https://aws.amazon.com/q/developer/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://aws.amazon.com/q/developer/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Fonctions agentiques d'Amazon Q Developer pour développer et moderniser des applications.",
+    "descriptionEn": "Amazon Q Developer agentic features for coding and application modernization.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "coding",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Analyse de code",
+      "Modifications de fichiers",
+      "Tests et revue humaine"
+    ],
+    "featuresEn": [
+      "Code analysis",
+      "File changes",
+      "Testing and review"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://aws.amazon.com/q/developer/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0860",
+    "name": "Salesforce Agentforce",
+    "slug": "salesforce-agentforce",
+    "category": "Agents IA métiers et entreprises",
+    "categorySlug": "agents-ia-entreprise",
+    "secondaryCategories": [],
+    "url": "https://www.salesforce.com/agentforce/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://www.salesforce.com/agentforce/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Plateforme d'agents métiers de Salesforce, notamment pour la vente et le service client.",
+    "descriptionEn": "Salesforce business agents for sales, service and enterprise workflows.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "enterprise",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Processus métiers",
+      "Intégrations professionnelles",
+      "Contrôles administrateur"
+    ],
+    "featuresEn": [
+      "Business workflows",
+      "Enterprise integrations",
+      "Admin controls"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://www.salesforce.com/agentforce/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0861",
+    "name": "Gemini Enterprise Agents",
+    "slug": "gemini-enterprise-agents",
+    "category": "Agents IA métiers et entreprises",
+    "categorySlug": "agents-ia-entreprise",
+    "secondaryCategories": [],
+    "url": "https://cloud.google.com/products/gemini-enterprise",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://cloud.google.com/products/gemini-enterprise",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Agents Google pour rechercher des informations d'entreprise et automatiser des processus ; succède à Agentspace.",
+    "descriptionEn": "Google enterprise agents for connected knowledge and workflows; successor to Agentspace.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "enterprise",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Processus métiers",
+      "Intégrations professionnelles",
+      "Contrôles administrateur"
+    ],
+    "featuresEn": [
+      "Business workflows",
+      "Enterprise integrations",
+      "Admin controls"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://cloud.google.com/products/gemini-enterprise",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0862",
+    "name": "SAP Joule",
+    "slug": "sap-joule",
+    "category": "Agents IA métiers et entreprises",
+    "categorySlug": "agents-ia-entreprise",
+    "secondaryCategories": [],
+    "url": "https://www.sap.com/products/artificial-intelligence/ai-assistant.html",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://www.sap.com/products/artificial-intelligence/ai-assistant.html",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Assistant et agents métier intégrés à l'écosystème SAP.",
+    "descriptionEn": "Business assistant and agents integrated into the SAP ecosystem.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "enterprise",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Processus métiers",
+      "Intégrations professionnelles",
+      "Contrôles administrateur"
+    ],
+    "featuresEn": [
+      "Business workflows",
+      "Enterprise integrations",
+      "Admin controls"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://www.sap.com/products/artificial-intelligence/ai-assistant.html",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0863",
+    "name": "ServiceNow AI Agents",
+    "slug": "servicenow-ai-agents",
+    "category": "Agents IA métiers et entreprises",
+    "categorySlug": "agents-ia-entreprise",
+    "secondaryCategories": [],
+    "url": "https://www.servicenow.com/products/ai-agents.html",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://www.servicenow.com/products/ai-agents.html",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Agents pour automatiser des processus et demandes dans la plateforme ServiceNow.",
+    "descriptionEn": "Agents for automating requests and processes across ServiceNow.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "enterprise",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Processus métiers",
+      "Intégrations professionnelles",
+      "Contrôles administrateur"
+    ],
+    "featuresEn": [
+      "Business workflows",
+      "Enterprise integrations",
+      "Admin controls"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://www.servicenow.com/products/ai-agents.html",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0864",
+    "name": "Workday Illuminate Agents",
+    "slug": "workday-illuminate-agents",
+    "category": "Agents IA métiers et entreprises",
+    "categorySlug": "agents-ia-entreprise",
+    "secondaryCategories": [],
+    "url": "https://www.workday.com/en-us/artificial-intelligence.html",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://www.workday.com/en-us/artificial-intelligence.html",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Agents et automatisations pour les processus RH et financiers Workday.",
+    "descriptionEn": "Agents and automation for Workday HR and finance processes.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "enterprise",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Processus métiers",
+      "Intégrations professionnelles",
+      "Contrôles administrateur"
+    ],
+    "featuresEn": [
+      "Business workflows",
+      "Enterprise integrations",
+      "Admin controls"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://www.workday.com/en-us/artificial-intelligence.html",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0865",
+    "name": "Oracle AI Agent Studio",
+    "slug": "oracle-ai-agent-studio",
+    "category": "Agents IA métiers et entreprises",
+    "categorySlug": "agents-ia-entreprise",
+    "secondaryCategories": [],
+    "url": "https://www.oracle.com/artificial-intelligence/ai-agents/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://www.oracle.com/artificial-intelligence/ai-agents/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Outils Oracle pour créer et configurer des agents sur des applications d'entreprise.",
+    "descriptionEn": "Oracle tools for creating and configuring agents in business applications.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "enterprise",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Processus métiers",
+      "Intégrations professionnelles",
+      "Contrôles administrateur"
+    ],
+    "featuresEn": [
+      "Business workflows",
+      "Enterprise integrations",
+      "Admin controls"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://www.oracle.com/artificial-intelligence/ai-agents/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0866",
+    "name": "WRITER Action Agent",
+    "slug": "writer-action-agent",
+    "category": "Agents IA métiers et entreprises",
+    "categorySlug": "agents-ia-entreprise",
+    "secondaryCategories": [],
+    "url": "https://writer.com/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://writer.com/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Agents de l'entreprise WRITER pour orchestrer des actions et contenus dans les opérations.",
+    "descriptionEn": "WRITER enterprise agents for actions and content workflows.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "enterprise",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Processus métiers",
+      "Intégrations professionnelles",
+      "Contrôles administrateur"
+    ],
+    "featuresEn": [
+      "Business workflows",
+      "Enterprise integrations",
+      "Admin controls"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://writer.com/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0867",
+    "name": "HubSpot Breeze Agents",
+    "slug": "hubspot-breeze-agents",
+    "category": "Agents IA métiers et entreprises",
+    "categorySlug": "agents-ia-entreprise",
+    "secondaryCategories": [],
+    "url": "https://www.hubspot.com/products/artificial-intelligence",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://www.hubspot.com/products/artificial-intelligence",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Agents HubSpot pour automatiser des processus marketing, ventes et service.",
+    "descriptionEn": "HubSpot agents for marketing, sales and service processes.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "enterprise",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Processus métiers",
+      "Intégrations professionnelles",
+      "Contrôles administrateur"
+    ],
+    "featuresEn": [
+      "Business workflows",
+      "Enterprise integrations",
+      "Admin controls"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://www.hubspot.com/products/artificial-intelligence",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0868",
+    "name": "Moveworks AI Agents",
+    "slug": "moveworks-ai-agents",
+    "category": "Agents IA métiers et entreprises",
+    "categorySlug": "agents-ia-entreprise",
+    "secondaryCategories": [],
+    "url": "https://www.moveworks.com/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://www.moveworks.com/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Agents d'assistance aux employés et d'automatisation des tâches professionnelles.",
+    "descriptionEn": "Employee support and workplace task automation agents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "enterprise",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Processus métiers",
+      "Intégrations professionnelles",
+      "Contrôles administrateur"
+    ],
+    "featuresEn": [
+      "Business workflows",
+      "Enterprise integrations",
+      "Admin controls"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://www.moveworks.com/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0869",
+    "name": "Sierra AI",
+    "slug": "sierra-ai",
+    "category": "Agents IA métiers et entreprises",
+    "categorySlug": "agents-ia-entreprise",
+    "secondaryCategories": [],
+    "url": "https://sierra.ai/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://sierra.ai/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Agents conversationnels pour l'expérience client et le service après-vente.",
+    "descriptionEn": "Conversational agents for customer experience and service.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "enterprise",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Processus métiers",
+      "Intégrations professionnelles",
+      "Contrôles administrateur"
+    ],
+    "featuresEn": [
+      "Business workflows",
+      "Enterprise integrations",
+      "Admin controls"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://sierra.ai/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0870",
+    "name": "Zendesk AI Agents",
+    "slug": "zendesk-ai-agents",
+    "category": "Agents IA métiers et entreprises",
+    "categorySlug": "agents-ia-entreprise",
+    "secondaryCategories": [],
+    "url": "https://www.zendesk.com/ai/ai-agents/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://www.zendesk.com/ai/ai-agents/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Agents de service client de Zendesk pour traiter des demandes et automatiser des réponses.",
+    "descriptionEn": "Zendesk customer service agents for handling requests and automating responses.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "enterprise",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Processus métiers",
+      "Intégrations professionnelles",
+      "Contrôles administrateur"
+    ],
+    "featuresEn": [
+      "Business workflows",
+      "Enterprise integrations",
+      "Admin controls"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://www.zendesk.com/ai/ai-agents/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0871",
+    "name": "Ada AI Agent",
+    "slug": "ada-ai-agent",
+    "category": "Agents IA métiers et entreprises",
+    "categorySlug": "agents-ia-entreprise",
+    "secondaryCategories": [],
+    "url": "https://www.ada.cx/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://www.ada.cx/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Agents d'assistance client automatisée conçus pour plusieurs canaux.",
+    "descriptionEn": "Automated customer support agents for multiple channels.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "enterprise",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Processus métiers",
+      "Intégrations professionnelles",
+      "Contrôles administrateur"
+    ],
+    "featuresEn": [
+      "Business workflows",
+      "Enterprise integrations",
+      "Admin controls"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://www.ada.cx/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0872",
+    "name": "Kore.ai Agents",
+    "slug": "kore-ai-agents",
+    "category": "Agents IA métiers et entreprises",
+    "categorySlug": "agents-ia-entreprise",
+    "secondaryCategories": [],
+    "url": "https://kore.ai/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://kore.ai/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Plateforme d'agents conversationnels et de workflows pour organisations.",
+    "descriptionEn": "Enterprise platform for conversational agents and workflows.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "enterprise",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Processus métiers",
+      "Intégrations professionnelles",
+      "Contrôles administrateur"
+    ],
+    "featuresEn": [
+      "Business workflows",
+      "Enterprise integrations",
+      "Admin controls"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://kore.ai/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0873",
+    "name": "Cognigy AI Agents",
+    "slug": "cognigy-ai-agents",
+    "category": "Agents IA métiers et entreprises",
+    "categorySlug": "agents-ia-entreprise",
+    "secondaryCategories": [],
+    "url": "https://www.cognigy.com/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://www.cognigy.com/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Agents conversationnels professionnels, notamment pour centres de contact.",
+    "descriptionEn": "Enterprise conversational agents, especially for contact centers.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "enterprise",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Processus métiers",
+      "Intégrations professionnelles",
+      "Contrôles administrateur"
+    ],
+    "featuresEn": [
+      "Business workflows",
+      "Enterprise integrations",
+      "Admin controls"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://www.cognigy.com/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0874",
+    "name": "UiPath Agent Builder",
+    "slug": "uipath-agent-builder",
+    "category": "Agents IA métiers et entreprises",
+    "categorySlug": "agents-ia-entreprise",
+    "secondaryCategories": [],
+    "url": "https://www.uipath.com/product/agent-builder",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://www.uipath.com/product/agent-builder",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Outil UiPath de création d'agents combinables avec l'automatisation robotisée.",
+    "descriptionEn": "UiPath tool for building agents alongside robotic automation.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "enterprise",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Processus métiers",
+      "Intégrations professionnelles",
+      "Contrôles administrateur"
+    ],
+    "featuresEn": [
+      "Business workflows",
+      "Enterprise integrations",
+      "Admin controls"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://www.uipath.com/product/agent-builder",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0875",
+    "name": "Automation Anywhere Agentic Automation",
+    "slug": "automation-anywhere-agentic-automation",
+    "category": "Agents IA métiers et entreprises",
+    "categorySlug": "agents-ia-entreprise",
+    "secondaryCategories": [],
+    "url": "https://www.automationanywhere.com/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://www.automationanywhere.com/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Plateforme d'automatisation associant agents IA et processus métiers.",
+    "descriptionEn": "Automation platform combining AI agents and business workflows.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "enterprise",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Processus métiers",
+      "Intégrations professionnelles",
+      "Contrôles administrateur"
+    ],
+    "featuresEn": [
+      "Business workflows",
+      "Enterprise integrations",
+      "Admin controls"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://www.automationanywhere.com/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0876",
+    "name": "Harvey Agents",
+    "slug": "harvey-agents",
+    "category": "Agents IA métiers et entreprises",
+    "categorySlug": "agents-ia-entreprise",
+    "secondaryCategories": [],
+    "url": "https://www.harvey.ai/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://www.harvey.ai/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Agents juridiques conçus pour épauler les professionnels du droit.",
+    "descriptionEn": "Legal-domain agents supporting law professionals.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "enterprise",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Processus métiers",
+      "Intégrations professionnelles",
+      "Contrôles administrateur"
+    ],
+    "featuresEn": [
+      "Business workflows",
+      "Enterprise integrations",
+      "Admin controls"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://www.harvey.ai/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0877",
+    "name": "Palantir AIP Agents",
+    "slug": "palantir-aip-agents",
+    "category": "Agents IA métiers et entreprises",
+    "categorySlug": "agents-ia-entreprise",
+    "secondaryCategories": [],
+    "url": "https://www.palantir.com/platforms/aip/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://www.palantir.com/platforms/aip/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Systèmes agentiques connectés aux données et opérations sur Palantir AIP.",
+    "descriptionEn": "Agentic systems linked to enterprise data and operations in Palantir AIP.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "enterprise",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Processus métiers",
+      "Intégrations professionnelles",
+      "Contrôles administrateur"
+    ],
+    "featuresEn": [
+      "Business workflows",
+      "Enterprise integrations",
+      "Admin controls"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://www.palantir.com/platforms/aip/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0878",
+    "name": "Databricks Agent Bricks",
+    "slug": "databricks-agent-bricks",
+    "category": "Agents IA métiers et entreprises",
+    "categorySlug": "agents-ia-entreprise",
+    "secondaryCategories": [],
+    "url": "https://www.databricks.com/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://www.databricks.com/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Outils Databricks pour concevoir et évaluer des agents sur des données d'entreprise.",
+    "descriptionEn": "Databricks tools for designing and evaluating agents over enterprise data.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "enterprise",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Processus métiers",
+      "Intégrations professionnelles",
+      "Contrôles administrateur"
+    ],
+    "featuresEn": [
+      "Business workflows",
+      "Enterprise integrations",
+      "Admin controls"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://www.databricks.com/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0879",
+    "name": "Cohere North",
+    "slug": "cohere-north",
+    "category": "Agents IA métiers et entreprises",
+    "categorySlug": "agents-ia-entreprise",
+    "secondaryCategories": [],
+    "url": "https://cohere.com/north",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://cohere.com/north",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Plateforme d'agents d'entreprise connectant les données aux workflows.",
+    "descriptionEn": "Enterprise agent platform connecting knowledge and workflows.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "enterprise",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Processus métiers",
+      "Intégrations professionnelles",
+      "Contrôles administrateur"
+    ],
+    "featuresEn": [
+      "Business workflows",
+      "Enterprise integrations",
+      "Admin controls"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://cohere.com/north",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0880",
+    "name": "Beam AI",
+    "slug": "beam-ai",
+    "category": "Agents IA métiers et entreprises",
+    "categorySlug": "agents-ia-entreprise",
+    "secondaryCategories": [],
+    "url": "https://beam.ai/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://beam.ai/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Plateforme d'agents pour automatiser les opérations et processus d'entreprise.",
+    "descriptionEn": "Platform for agents automating enterprise operations and processes.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "enterprise",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Processus métiers",
+      "Intégrations professionnelles",
+      "Contrôles administrateur"
+    ],
+    "featuresEn": [
+      "Business workflows",
+      "Enterprise integrations",
+      "Admin controls"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://beam.ai/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0881",
+    "name": "Dust",
+    "slug": "dust",
+    "category": "Agents IA métiers et entreprises",
+    "categorySlug": "agents-ia-entreprise",
+    "secondaryCategories": [],
+    "url": "https://dust.tt/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://dust.tt/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Agents de travail connectés aux connaissances et applications des équipes.",
+    "descriptionEn": "Workplace agents connected to team knowledge and applications.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "enterprise",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Processus métiers",
+      "Intégrations professionnelles",
+      "Contrôles administrateur"
+    ],
+    "featuresEn": [
+      "Business workflows",
+      "Enterprise integrations",
+      "Admin controls"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://dust.tt/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0882",
+    "name": "StackAI",
+    "slug": "stackai",
+    "category": "Agents IA métiers et entreprises",
+    "categorySlug": "agents-ia-entreprise",
+    "secondaryCategories": [],
+    "url": "https://www.stack-ai.com/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://www.stack-ai.com/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Plateforme d'agents et de workflows IA destinée aux équipes et entreprises.",
+    "descriptionEn": "Agent and AI workflow platform for teams and enterprises.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "enterprise",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Processus métiers",
+      "Intégrations professionnelles",
+      "Contrôles administrateur"
+    ],
+    "featuresEn": [
+      "Business workflows",
+      "Enterprise integrations",
+      "Admin controls"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://www.stack-ai.com/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0883",
+    "name": "Pega Agentic AI",
+    "slug": "pega-agentic-ai",
+    "category": "Agents IA métiers et entreprises",
+    "categorySlug": "agents-ia-entreprise",
+    "secondaryCategories": [],
+    "url": "https://www.pega.com/",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://www.pega.com/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Capacités d'agents et d'orchestration intégrées aux processus Pega.",
+    "descriptionEn": "Agentic capabilities and orchestration within Pega processes.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "enterprise",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Processus métiers",
+      "Intégrations professionnelles",
+      "Contrôles administrateur"
+    ],
+    "featuresEn": [
+      "Business workflows",
+      "Enterprise integrations",
+      "Admin controls"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://www.pega.com/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0884",
+    "name": "Notion Agent",
+    "slug": "notion-agent",
+    "category": "Agents IA métiers et entreprises",
+    "categorySlug": "agents-ia-entreprise",
+    "secondaryCategories": [],
+    "url": "https://www.notion.com/product/ai",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://www.notion.com/product/ai",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Fonctions agentiques de Notion pour travailler dans les pages, bases de connaissances et projets.",
+    "descriptionEn": "Notion agentic features for pages, knowledge bases and projects.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "enterprise",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Processus métiers",
+      "Intégrations professionnelles",
+      "Contrôles administrateur"
+    ],
+    "featuresEn": [
+      "Business workflows",
+      "Enterprise integrations",
+      "Admin controls"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://www.notion.com/product/ai",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0885",
+    "name": "Asana AI Teammates",
+    "slug": "asana-ai-teammates",
+    "category": "Agents IA métiers et entreprises",
+    "categorySlug": "agents-ia-entreprise",
+    "secondaryCategories": [],
+    "url": "https://asana.com/product/ai",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://asana.com/product/ai",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Coéquipiers IA d'Asana pour faire avancer les tâches et projets d'équipe.",
+    "descriptionEn": "Asana AI teammates helping move tasks and team projects forward.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "enterprise",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Processus métiers",
+      "Intégrations professionnelles",
+      "Contrôles administrateur"
+    ],
+    "featuresEn": [
+      "Business workflows",
+      "Enterprise integrations",
+      "Admin controls"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://asana.com/product/ai",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0886",
+    "name": "Glean Agents",
+    "slug": "glean-agents",
+    "category": "Agents IA métiers et entreprises",
+    "categorySlug": "agents-ia-entreprise",
+    "secondaryCategories": [],
+    "url": "https://www.glean.com/product/agents",
+    "kind": "Application / service",
+    "verification": "official_source_listed",
+    "source": "https://www.glean.com/product/agents",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Agents connectés à la recherche et aux connaissances d'entreprise Glean.",
+    "descriptionEn": "Agents connected to Glean enterprise search and knowledge.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "enterprise",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Processus métiers",
+      "Intégrations professionnelles",
+      "Contrôles administrateur"
+    ],
+    "featuresEn": [
+      "Business workflows",
+      "Enterprise integrations",
+      "Admin controls"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://www.glean.com/product/agents",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0887",
+    "name": "OpenAI Agents API",
+    "slug": "openai-agents-api",
+    "category": "Plateformes de création d'agents IA",
+    "categorySlug": "plateformes-agents-ia",
+    "secondaryCategories": [],
+    "url": "https://openai.com/index/introducing-the-agents-api/",
+    "kind": "Agent / framework / plateforme",
+    "verification": "official_source_listed",
+    "source": "https://openai.com/index/introducing-the-agents-api/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "API OpenAI de gestion d'agents cloud persistants et de tâches longues.",
+    "descriptionEn": "OpenAI API for managed cloud agents and long-running work.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "platform",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Création d'agents",
+      "Intégration d'outils",
+      "Déploiement ou évaluation"
+    ],
+    "featuresEn": [
+      "Agent development",
+      "Tool integration",
+      "Deployment or evaluation"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://openai.com/index/introducing-the-agents-api/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0888",
+    "name": "OpenAI AgentKit",
+    "slug": "openai-agentkit",
+    "category": "Plateformes de création d'agents IA",
+    "categorySlug": "plateformes-agents-ia",
+    "secondaryCategories": [],
+    "url": "https://openai.com/index/introducing-agentkit/",
+    "kind": "Agent / framework / plateforme",
+    "verification": "official_source_listed",
+    "source": "https://openai.com/index/introducing-agentkit/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Famille d'outils historiques pour agents ; Agent Builder et Evals doivent être retirés le 30 novembre 2026.",
+    "descriptionEn": "Historical agent tooling suite; Agent Builder and Evals are scheduled for retirement November 30, 2026.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "platform",
+    "agentStatus": "sunsetting",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Création d'agents",
+      "Intégration d'outils",
+      "Déploiement ou évaluation"
+    ],
+    "featuresEn": [
+      "Agent development",
+      "Tool integration",
+      "Deployment or evaluation"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://openai.com/index/introducing-agentkit/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0889",
+    "name": "Google Agent Development Kit",
+    "slug": "google-agent-development-kit",
+    "category": "Plateformes de création d'agents IA",
+    "categorySlug": "plateformes-agents-ia",
+    "secondaryCategories": [],
+    "url": "https://google.github.io/adk-docs/",
+    "kind": "Agent / framework / plateforme",
+    "verification": "official_source_listed",
+    "source": "https://google.github.io/adk-docs/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Kit de développement open source Google pour créer et orchestrer des agents IA.",
+    "descriptionEn": "Google open-source development kit for building and orchestrating AI agents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "platform",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Création d'agents",
+      "Intégration d'outils",
+      "Déploiement ou évaluation"
+    ],
+    "featuresEn": [
+      "Agent development",
+      "Tool integration",
+      "Deployment or evaluation"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://google.github.io/adk-docs/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0890",
+    "name": "Vertex AI Agent Builder",
+    "slug": "vertex-ai-agent-builder",
+    "category": "Plateformes de création d'agents IA",
+    "categorySlug": "plateformes-agents-ia",
+    "secondaryCategories": [],
+    "url": "https://cloud.google.com/products/agent-builder",
+    "kind": "Agent / framework / plateforme",
+    "verification": "official_source_listed",
+    "source": "https://cloud.google.com/products/agent-builder",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Outils Google Cloud pour créer et mettre en production des agents IA.",
+    "descriptionEn": "Google Cloud tools for building and deploying AI agents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "platform",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Création d'agents",
+      "Intégration d'outils",
+      "Déploiement ou évaluation"
+    ],
+    "featuresEn": [
+      "Agent development",
+      "Tool integration",
+      "Deployment or evaluation"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://cloud.google.com/products/agent-builder",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0891",
+    "name": "Amazon Bedrock Agents",
+    "slug": "amazon-bedrock-agents",
+    "category": "Plateformes de création d'agents IA",
+    "categorySlug": "plateformes-agents-ia",
+    "secondaryCategories": [],
+    "url": "https://aws.amazon.com/bedrock/agents/",
+    "kind": "Agent / framework / plateforme",
+    "verification": "official_source_listed",
+    "source": "https://aws.amazon.com/bedrock/agents/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Service AWS pour orchestrer des agents avec outils, actions et bases de connaissances.",
+    "descriptionEn": "AWS service for agents using tools, actions and knowledge bases.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "platform",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Création d'agents",
+      "Intégration d'outils",
+      "Déploiement ou évaluation"
+    ],
+    "featuresEn": [
+      "Agent development",
+      "Tool integration",
+      "Deployment or evaluation"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://aws.amazon.com/bedrock/agents/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0892",
+    "name": "Amazon Bedrock AgentCore",
+    "slug": "amazon-bedrock-agentcore",
+    "category": "Plateformes de création d'agents IA",
+    "categorySlug": "plateformes-agents-ia",
+    "secondaryCategories": [],
+    "url": "https://aws.amazon.com/bedrock/agentcore/",
+    "kind": "Agent / framework / plateforme",
+    "verification": "official_source_listed",
+    "source": "https://aws.amazon.com/bedrock/agentcore/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Infrastructure managée AWS d'exécution, mémoire, sécurité et supervision des agents.",
+    "descriptionEn": "AWS managed infrastructure for agent runtime, memory, security and monitoring.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "platform",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Création d'agents",
+      "Intégration d'outils",
+      "Déploiement ou évaluation"
+    ],
+    "featuresEn": [
+      "Agent development",
+      "Tool integration",
+      "Deployment or evaluation"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://aws.amazon.com/bedrock/agentcore/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "official-source-reviewed",
+    "research": {
+      "headline": "Infrastructure AWS pour déployer et gouverner des agents IA de production.",
+      "audiences": [
+        "Développeurs cloud",
+        "Équipes sécurité et architecture IA"
+      ],
+      "cases": [
+        "Déployer des agents avec mémoire et outils",
+        "Superviser les traces et contrôler les autorisations"
+      ],
+      "advantages": [
+        "Infrastructure gérée et compatible avec plusieurs frameworks",
+        "Services de mémoire, passerelle, identité et supervision"
+      ],
+      "limits": [
+        "Configuration et facturation cloud à maîtriser",
+        "Ne constitue pas un assistant clé en main pour particuliers"
+      ],
+      "gettingStarted": [
+        "Consulter la documentation AWS et définir les accès IAM minimaux.",
+        "Créer un agent de test dans un environnement isolé."
+      ],
+      "examples": [
+        "Déploie un agent FAQ interne avec accès en lecture aux documents autorisés."
+      ],
+      "pricing": "Facturation cloud AWS selon les composants; devis à vérifier avant usage.",
+      "privacy": "Utiliser les politiques d'identité et les contrôles AWS pour limiter les actions et accès.",
+      "selection": [
+        "Pour déployer des agents métiers robustes plutôt que pour un usage conversationnel immédiat."
+      ],
+      "sources": [
+        {
+          "url": "https://aws.amazon.com/bedrock/agentcore/",
+          "type": "official",
+          "reviewedAt": "2026-11-15"
+        },
+        {
+          "url": "https://aws.amazon.com/bedrock/agentcore/faqs/",
+          "type": "official",
+          "reviewedAt": "2026-11-15"
+        }
+      ],
+      "reviewedAt": "2026-11-15",
+      "status": "documented",
+      "evidence": "official"
+    }
+  },
+  {
+    "id": "AI-0893",
+    "name": "Microsoft Foundry Agent Service",
+    "slug": "microsoft-foundry-agent-service",
+    "category": "Plateformes de création d'agents IA",
+    "categorySlug": "plateformes-agents-ia",
+    "secondaryCategories": [],
+    "url": "https://learn.microsoft.com/en-us/azure/ai-foundry/agents/overview",
+    "kind": "Agent / framework / plateforme",
+    "verification": "official_source_listed",
+    "source": "https://learn.microsoft.com/en-us/azure/ai-foundry/agents/overview",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Service Microsoft Azure pour héberger, piloter et gouverner des agents d'entreprise.",
+    "descriptionEn": "Microsoft Azure service for hosting and governing enterprise agents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "platform",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Création d'agents",
+      "Intégration d'outils",
+      "Déploiement ou évaluation"
+    ],
+    "featuresEn": [
+      "Agent development",
+      "Tool integration",
+      "Deployment or evaluation"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://learn.microsoft.com/en-us/azure/ai-foundry/agents/overview",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0894",
+    "name": "Microsoft Magentic-UI",
+    "slug": "microsoft-magentic-ui",
+    "category": "Plateformes de création d'agents IA",
+    "categorySlug": "plateformes-agents-ia",
+    "secondaryCategories": [],
+    "url": "https://github.com/microsoft/magentic-ui",
+    "kind": "Agent / framework / plateforme",
+    "verification": "official_source_listed",
+    "source": "https://github.com/microsoft/magentic-ui",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Projet open source Microsoft de collaboration homme-agent avec pilotage d'interfaces.",
+    "descriptionEn": "Microsoft open-source human-agent collaboration project with interface control.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "platform",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Création d'agents",
+      "Intégration d'outils",
+      "Déploiement ou évaluation"
+    ],
+    "featuresEn": [
+      "Agent development",
+      "Tool integration",
+      "Deployment or evaluation"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://github.com/microsoft/magentic-ui",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0895",
+    "name": "Strands Agents",
+    "slug": "strands-agents",
+    "category": "Plateformes de création d'agents IA",
+    "categorySlug": "plateformes-agents-ia",
+    "secondaryCategories": [],
+    "url": "https://strandsagents.com/",
+    "kind": "Agent / framework / plateforme",
+    "verification": "official_source_listed",
+    "source": "https://strandsagents.com/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "SDK open source de développement d'agents avec outils et modèles configurables.",
+    "descriptionEn": "Open-source SDK for building agents using configurable models and tools.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "platform",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Création d'agents",
+      "Intégration d'outils",
+      "Déploiement ou évaluation"
+    ],
+    "featuresEn": [
+      "Agent development",
+      "Tool integration",
+      "Deployment or evaluation"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://strandsagents.com/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0896",
+    "name": "Zapier Agents",
+    "slug": "zapier-agents",
+    "category": "Plateformes de création d'agents IA",
+    "categorySlug": "plateformes-agents-ia",
+    "secondaryCategories": [],
+    "url": "https://zapier.com/agents",
+    "kind": "Agent / framework / plateforme",
+    "verification": "official_source_listed",
+    "source": "https://zapier.com/agents",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Agents connectés aux applications et automatisations Zapier.",
+    "descriptionEn": "Agents connected to apps and automations through Zapier.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "platform",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Création d'agents",
+      "Intégration d'outils",
+      "Déploiement ou évaluation"
+    ],
+    "featuresEn": [
+      "Agent development",
+      "Tool integration",
+      "Deployment or evaluation"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://zapier.com/agents",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0897",
+    "name": "LangSmith Agent Builder",
+    "slug": "langsmith-agent-builder",
+    "category": "Plateformes de création d'agents IA",
+    "categorySlug": "plateformes-agents-ia",
+    "secondaryCategories": [],
+    "url": "https://www.langchain.com/",
+    "kind": "Agent / framework / plateforme",
+    "verification": "official_source_listed",
+    "source": "https://www.langchain.com/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Outils LangChain pour concevoir, observer et améliorer des agents et workflows.",
+    "descriptionEn": "LangChain tooling for agent design, observability and improvement.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "platform",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Création d'agents",
+      "Intégration d'outils",
+      "Déploiement ou évaluation"
+    ],
+    "featuresEn": [
+      "Agent development",
+      "Tool integration",
+      "Deployment or evaluation"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://www.langchain.com/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0898",
+    "name": "MindStudio",
+    "slug": "mindstudio",
+    "category": "Plateformes de création d'agents IA",
+    "categorySlug": "plateformes-agents-ia",
+    "secondaryCategories": [],
+    "url": "https://www.mindstudio.ai/",
+    "kind": "Agent / framework / plateforme",
+    "verification": "official_source_listed",
+    "source": "https://www.mindstudio.ai/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Plateforme no-code de création et de publication d'agents IA.",
+    "descriptionEn": "No-code platform for creating and publishing AI agents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "platform",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Création d'agents",
+      "Intégration d'outils",
+      "Déploiement ou évaluation"
+    ],
+    "featuresEn": [
+      "Agent development",
+      "Tool integration",
+      "Deployment or evaluation"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://www.mindstudio.ai/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0899",
+    "name": "AgentOps",
+    "slug": "agentops",
+    "category": "Plateformes de création d'agents IA",
+    "categorySlug": "plateformes-agents-ia",
+    "secondaryCategories": [],
+    "url": "https://www.agentops.ai/",
+    "kind": "Agent / framework / plateforme",
+    "verification": "official_source_listed",
+    "source": "https://www.agentops.ai/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Service d'observabilité, traces et évaluation pour agents IA.",
+    "descriptionEn": "Observability, tracing and evaluation for AI agents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "platform",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Création d'agents",
+      "Intégration d'outils",
+      "Déploiement ou évaluation"
+    ],
+    "featuresEn": [
+      "Agent development",
+      "Tool integration",
+      "Deployment or evaluation"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://www.agentops.ai/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0900",
+    "name": "E2B",
+    "slug": "e2b",
+    "category": "Plateformes de création d'agents IA",
+    "categorySlug": "plateformes-agents-ia",
+    "secondaryCategories": [],
+    "url": "https://e2b.dev/",
+    "kind": "Agent / framework / plateforme",
+    "verification": "official_source_listed",
+    "source": "https://e2b.dev/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Environnements isolés d'exécution de code pour agents et applications IA.",
+    "descriptionEn": "Isolated code execution environments for agents and AI apps.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "platform",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Création d'agents",
+      "Intégration d'outils",
+      "Déploiement ou évaluation"
+    ],
+    "featuresEn": [
+      "Agent development",
+      "Tool integration",
+      "Deployment or evaluation"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://e2b.dev/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0901",
+    "name": "Arcade.dev",
+    "slug": "arcade-dev",
+    "category": "Plateformes de création d'agents IA",
+    "categorySlug": "plateformes-agents-ia",
+    "secondaryCategories": [],
+    "url": "https://www.arcade.dev/",
+    "kind": "Agent / framework / plateforme",
+    "verification": "official_source_listed",
+    "source": "https://www.arcade.dev/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Infrastructure d'outils et d'authentification pour agents connectés aux applications.",
+    "descriptionEn": "Tools and authentication infrastructure for agents using connected apps.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "platform",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Création d'agents",
+      "Intégration d'outils",
+      "Déploiement ou évaluation"
+    ],
+    "featuresEn": [
+      "Agent development",
+      "Tool integration",
+      "Deployment or evaluation"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://www.arcade.dev/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0902",
+    "name": "Pipedream AI Agents",
+    "slug": "pipedream-ai-agents",
+    "category": "Plateformes de création d'agents IA",
+    "categorySlug": "plateformes-agents-ia",
+    "secondaryCategories": [],
+    "url": "https://pipedream.com/",
+    "kind": "Agent / framework / plateforme",
+    "verification": "official_source_listed",
+    "source": "https://pipedream.com/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Composants d'intégration et d'exécution d'actions pour agents sur les applications SaaS.",
+    "descriptionEn": "App integrations and action execution components for AI agents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "platform",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Création d'agents",
+      "Intégration d'outils",
+      "Déploiement ou évaluation"
+    ],
+    "featuresEn": [
+      "Agent development",
+      "Tool integration",
+      "Deployment or evaluation"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://pipedream.com/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0903",
+    "name": "NVIDIA NeMo Agent Toolkit",
+    "slug": "nvidia-nemo-agent-toolkit",
+    "category": "Plateformes de création d'agents IA",
+    "categorySlug": "plateformes-agents-ia",
+    "secondaryCategories": [],
+    "url": "https://developer.nvidia.com/nemo-agent-toolkit",
+    "kind": "Agent / framework / plateforme",
+    "verification": "official_source_listed",
+    "source": "https://developer.nvidia.com/nemo-agent-toolkit",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Bibliothèque NVIDIA pour évaluer, orchestrer et optimiser des systèmes agentiques.",
+    "descriptionEn": "NVIDIA library for evaluating, orchestrating and optimizing agent systems.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "platform",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Création d'agents",
+      "Intégration d'outils",
+      "Déploiement ou évaluation"
+    ],
+    "featuresEn": [
+      "Agent development",
+      "Tool integration",
+      "Deployment or evaluation"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://developer.nvidia.com/nemo-agent-toolkit",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0904",
+    "name": "Cloudflare Agents",
+    "slug": "cloudflare-agents",
+    "category": "Plateformes de création d'agents IA",
+    "categorySlug": "plateformes-agents-ia",
+    "secondaryCategories": [],
+    "url": "https://developers.cloudflare.com/agents/",
+    "kind": "Agent / framework / plateforme",
+    "verification": "official_source_listed",
+    "source": "https://developers.cloudflare.com/agents/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Infrastructure Cloudflare pour déployer des agents avec état et connexions réseau.",
+    "descriptionEn": "Cloudflare infrastructure for stateful connected agents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "platform",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Création d'agents",
+      "Intégration d'outils",
+      "Déploiement ou évaluation"
+    ],
+    "featuresEn": [
+      "Agent development",
+      "Tool integration",
+      "Deployment or evaluation"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://developers.cloudflare.com/agents/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0905",
+    "name": "Agentuity",
+    "slug": "agentuity",
+    "category": "Plateformes de création d'agents IA",
+    "categorySlug": "plateformes-agents-ia",
+    "secondaryCategories": [],
+    "url": "https://agentuity.com/",
+    "kind": "Agent / framework / plateforme",
+    "verification": "official_source_listed",
+    "source": "https://agentuity.com/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Plateforme de construction et d'hébergement d'agents IA.",
+    "descriptionEn": "Platform for building and hosting AI agents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "platform",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Création d'agents",
+      "Intégration d'outils",
+      "Déploiement ou évaluation"
+    ],
+    "featuresEn": [
+      "Agent development",
+      "Tool integration",
+      "Deployment or evaluation"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://agentuity.com/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0906",
+    "name": "Haystack Agents",
+    "slug": "haystack-agents",
+    "category": "Plateformes de création d'agents IA",
+    "categorySlug": "plateformes-agents-ia",
+    "secondaryCategories": [],
+    "url": "https://haystack.deepset.ai/",
+    "kind": "Agent / framework / plateforme",
+    "verification": "official_source_listed",
+    "source": "https://haystack.deepset.ai/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Framework Haystack pour créer des pipelines et agents de recherche sur documents.",
+    "descriptionEn": "Haystack framework for document retrieval pipelines and agents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "platform",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Création d'agents",
+      "Intégration d'outils",
+      "Déploiement ou évaluation"
+    ],
+    "featuresEn": [
+      "Agent development",
+      "Tool integration",
+      "Deployment or evaluation"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://haystack.deepset.ai/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0907",
+    "name": "OpenManus",
+    "slug": "openmanus",
+    "category": "Plateformes de création d'agents IA",
+    "categorySlug": "plateformes-agents-ia",
+    "secondaryCategories": [],
+    "url": "https://github.com/FoundationAgents/OpenManus",
+    "kind": "Agent / framework / plateforme",
+    "verification": "official_source_listed",
+    "source": "https://github.com/FoundationAgents/OpenManus",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Projet open source d'agent généraliste inspiré des workflows autonomes.",
+    "descriptionEn": "Open-source general-purpose agent research project.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "platform",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Création d'agents",
+      "Intégration d'outils",
+      "Déploiement ou évaluation"
+    ],
+    "featuresEn": [
+      "Agent development",
+      "Tool integration",
+      "Deployment or evaluation"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://github.com/FoundationAgents/OpenManus",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0908",
+    "name": "Sakana AI Scientist",
+    "slug": "sakana-ai-scientist",
+    "category": "Plateformes de création d'agents IA",
+    "categorySlug": "plateformes-agents-ia",
+    "secondaryCategories": [],
+    "url": "https://sakana.ai/ai-scientist/",
+    "kind": "Agent / framework / plateforme",
+    "verification": "official_source_listed",
+    "source": "https://sakana.ai/ai-scientist/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Projet de recherche visant à automatiser certaines étapes des expérimentations scientifiques.",
+    "descriptionEn": "Research project for automating parts of scientific experimentation.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "platform",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Création d'agents",
+      "Intégration d'outils",
+      "Déploiement ou évaluation"
+    ],
+    "featuresEn": [
+      "Agent development",
+      "Tool integration",
+      "Deployment or evaluation"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://sakana.ai/ai-scientist/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
+  },
+  {
+    "id": "AI-0909",
+    "name": "BeeAI",
+    "slug": "beeai",
+    "category": "Plateformes de création d'agents IA",
+    "categorySlug": "plateformes-agents-ia",
+    "secondaryCategories": [],
+    "url": "https://beeai.dev/",
+    "kind": "Agent / framework / plateforme",
+    "verification": "official_source_listed",
+    "source": "https://beeai.dev/",
+    "inventoriedAt": "2026-11-15",
+    "sharedUrlCount": 1,
+    "descriptionFr": "Écosystème open source d'agents et d'outils de développement collaboratifs.",
+    "descriptionEn": "Open-source ecosystem for agents and collaborative agent tooling.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "agentType": "platform",
+    "agentStatus": "listed",
+    "pricingStatus": "not_reviewed",
+    "featuresFr": [
+      "Création d'agents",
+      "Intégration d'outils",
+      "Déploiement ou évaluation"
+    ],
+    "featuresEn": [
+      "Agent development",
+      "Tool integration",
+      "Deployment or evaluation"
+    ],
+    "accessFr": "Consulter le site de l'éditeur; accès variable selon pays, forfait et version.",
+    "accessEn": "Check the vendor site; access varies by region, plan and version.",
+    "officialSources": [
+      {
+        "url": "https://beeai.dev/",
+        "checkedAt": "2026-11-15",
+        "scope": "official_product_reference"
+      }
+    ],
+    "researchStatus": "editorial-overview"
   }
 ]

@@ -1,0 +1,950 @@
+{
+  "updatedAt": "2026-11-15",
+  "totalAdded": 101,
+  "scope": "Research-based selected directory, non-exhaustive; official vendor destinations may change",
+  "categories": [
+    {
+      "name": "Agents IA personnels et proactifs",
+      "count": 19
+    },
+    {
+      "name": "Agents Web et navigateurs autonomes",
+      "count": 14
+    },
+    {
+      "name": "Agents IA de programmation",
+      "count": 18
+    },
+    {
+      "name": "Agents IA métiers et entreprises",
+      "count": 27
+    },
+    {
+      "name": "Plateformes de création d'agents IA",
+      "count": 23
+    }
+  ],
+  "newTools": [
+    {
+      "id": "AI-0809",
+      "name": "Muse (Meta)",
+      "slug": "muse-meta",
+      "agentType": "personal",
+      "category": "Agents IA personnels et proactifs",
+      "url": "https://ai.meta.com/muse/",
+      "verification": "official_source_reviewed"
+    },
+    {
+      "id": "AI-0810",
+      "name": "Dots (OpenAI)",
+      "slug": "dots-openai",
+      "agentType": "personal",
+      "category": "Agents IA personnels et proactifs",
+      "url": "https://openai.com/index/introducing-dots/",
+      "verification": "official_source_reviewed"
+    },
+    {
+      "id": "AI-0811",
+      "name": "Gemini Spark",
+      "slug": "gemini-spark",
+      "agentType": "personal",
+      "category": "Agents IA personnels et proactifs",
+      "url": "https://gemini.google.com/updates",
+      "verification": "official_source_reviewed"
+    },
+    {
+      "id": "AI-0812",
+      "name": "ChatGPT agent",
+      "slug": "chatgpt-agent",
+      "agentType": "personal",
+      "category": "Agents IA personnels et proactifs",
+      "url": "https://help.openai.com/en/articles/11752874-chatgpt-agent",
+      "verification": "official_source_reviewed"
+    },
+    {
+      "id": "AI-0813",
+      "name": "Claude Cowork",
+      "slug": "claude-cowork",
+      "agentType": "personal",
+      "category": "Agents IA personnels et proactifs",
+      "url": "https://claude.com/product/cowork",
+      "verification": "official_source_reviewed"
+    },
+    {
+      "id": "AI-0814",
+      "name": "Perplexity Assistant",
+      "slug": "perplexity-assistant",
+      "agentType": "personal",
+      "category": "Agents IA personnels et proactifs",
+      "url": "https://www.perplexity.ai/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0815",
+      "name": "Amazon Alexa+",
+      "slug": "amazon-alexa",
+      "agentType": "personal",
+      "category": "Agents IA personnels et proactifs",
+      "url": "https://www.amazon.com/alexaplus",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0816",
+      "name": "OpenClaw",
+      "slug": "openclaw",
+      "agentType": "personal",
+      "category": "Agents IA personnels et proactifs",
+      "url": "https://openclaw.ai/",
+      "verification": "official_source_reviewed"
+    },
+    {
+      "id": "AI-0817",
+      "name": "Genspark Super Agent",
+      "slug": "genspark-super-agent",
+      "agentType": "personal",
+      "category": "Agents IA personnels et proactifs",
+      "url": "https://www.genspark.ai/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0818",
+      "name": "Kimi Agent",
+      "slug": "kimi-agent",
+      "agentType": "personal",
+      "category": "Agents IA personnels et proactifs",
+      "url": "https://www.kimi.com/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0819",
+      "name": "Qwen App",
+      "slug": "qwen-app",
+      "agentType": "personal",
+      "category": "Agents IA personnels et proactifs",
+      "url": "https://qwen.ai/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0820",
+      "name": "Grok Bot",
+      "slug": "grok-bot",
+      "agentType": "personal",
+      "category": "Agents IA personnels et proactifs",
+      "url": "https://grok.com/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0821",
+      "name": "Samsung Bixby",
+      "slug": "samsung-bixby",
+      "agentType": "personal",
+      "category": "Agents IA personnels et proactifs",
+      "url": "https://www.samsung.com/us/apps/bixby/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0822",
+      "name": "Huawei Celia",
+      "slug": "huawei-celia",
+      "agentType": "personal",
+      "category": "Agents IA personnels et proactifs",
+      "url": "https://consumer.huawei.com/en/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0823",
+      "name": "Xiaomi MiClaw",
+      "slug": "xiaomi-miclaw",
+      "agentType": "personal",
+      "category": "Agents IA personnels et proactifs",
+      "url": "https://www.mi.com/global/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0824",
+      "name": "Doubao",
+      "slug": "doubao",
+      "agentType": "personal",
+      "category": "Agents IA personnels et proactifs",
+      "url": "https://www.doubao.com/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0825",
+      "name": "Z.ai AutoGLM",
+      "slug": "z-ai-autoglm",
+      "agentType": "personal",
+      "category": "Agents IA personnels et proactifs",
+      "url": "https://z.ai/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0826",
+      "name": "Google Project Astra",
+      "slug": "google-project-astra",
+      "agentType": "personal",
+      "category": "Agents IA personnels et proactifs",
+      "url": "https://deepmind.google/technologies/project-astra/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0827",
+      "name": "Hermes Agent",
+      "slug": "hermes-agent",
+      "agentType": "personal",
+      "category": "Agents IA personnels et proactifs",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0828",
+      "name": "Perplexity Comet",
+      "slug": "perplexity-comet",
+      "agentType": "web",
+      "category": "Agents Web et navigateurs autonomes",
+      "url": "https://www.perplexity.ai/comet",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0829",
+      "name": "ChatGPT Atlas",
+      "slug": "chatgpt-atlas",
+      "agentType": "web",
+      "category": "Agents Web et navigateurs autonomes",
+      "url": "https://chatgpt.com/atlas",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0830",
+      "name": "Google Project Mariner",
+      "slug": "google-project-mariner",
+      "agentType": "web",
+      "category": "Agents Web et navigateurs autonomes",
+      "url": "https://deepmind.google/technologies/project-mariner/",
+      "verification": "official_source_reviewed"
+    },
+    {
+      "id": "AI-0831",
+      "name": "Claude in Chrome",
+      "slug": "claude-in-chrome",
+      "agentType": "web",
+      "category": "Agents Web et navigateurs autonomes",
+      "url": "https://support.claude.com/fr/articles/12012173-commencer-avec-claude-dans-chrome",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0832",
+      "name": "Opera Neon",
+      "slug": "opera-neon",
+      "agentType": "web",
+      "category": "Agents Web et navigateurs autonomes",
+      "url": "https://operaneon.com/",
+      "verification": "official_source_reviewed"
+    },
+    {
+      "id": "AI-0833",
+      "name": "Skyvern",
+      "slug": "skyvern",
+      "agentType": "web",
+      "category": "Agents Web et navigateurs autonomes",
+      "url": "https://www.skyvern.com/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0834",
+      "name": "Agent TARS",
+      "slug": "agent-tars",
+      "agentType": "web",
+      "category": "Agents Web et navigateurs autonomes",
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0835",
+      "name": "Stagehand",
+      "slug": "stagehand",
+      "agentType": "web",
+      "category": "Agents Web et navigateurs autonomes",
+      "url": "https://www.browserbase.com/stagehand",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0836",
+      "name": "Browserbase",
+      "slug": "browserbase",
+      "agentType": "web",
+      "category": "Agents Web et navigateurs autonomes",
+      "url": "https://www.browserbase.com/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0837",
+      "name": "Fellou",
+      "slug": "fellou",
+      "agentType": "web",
+      "category": "Agents Web et navigateurs autonomes",
+      "url": "https://fellou.ai/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0838",
+      "name": "BrowserOS",
+      "slug": "browseros",
+      "agentType": "web",
+      "category": "Agents Web et navigateurs autonomes",
+      "url": "https://browseros.com/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0839",
+      "name": "Nanobrowser",
+      "slug": "nanobrowser",
+      "agentType": "web",
+      "category": "Agents Web et navigateurs autonomes",
+      "url": "https://github.com/nanobrowser/nanobrowser",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0840",
+      "name": "AgentQL",
+      "slug": "agentql",
+      "agentType": "web",
+      "category": "Agents Web et navigateurs autonomes",
+      "url": "https://www.agentql.com/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0841",
+      "name": "Hugging Face Computer Agent",
+      "slug": "hugging-face-computer-agent",
+      "agentType": "web",
+      "category": "Agents Web et navigateurs autonomes",
+      "url": "https://huggingface.co/blog/cua",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0842",
+      "name": "Google Jules",
+      "slug": "google-jules",
+      "agentType": "coding",
+      "category": "Agents IA de programmation",
+      "url": "https://jules.google/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0843",
+      "name": "Devin (Cognition)",
+      "slug": "devin-cognition",
+      "agentType": "coding",
+      "category": "Agents IA de programmation",
+      "url": "https://devin.ai/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0844",
+      "name": "Cursor Agent",
+      "slug": "cursor-agent",
+      "agentType": "coding",
+      "category": "Agents IA de programmation",
+      "url": "https://cursor.com/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0845",
+      "name": "Windsurf Cascade",
+      "slug": "windsurf-cascade",
+      "agentType": "coding",
+      "category": "Agents IA de programmation",
+      "url": "https://windsurf.com/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0846",
+      "name": "JetBrains Junie",
+      "slug": "jetbrains-junie",
+      "agentType": "coding",
+      "category": "Agents IA de programmation",
+      "url": "https://www.jetbrains.com/junie/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0847",
+      "name": "Kiro",
+      "slug": "kiro",
+      "agentType": "coding",
+      "category": "Agents IA de programmation",
+      "url": "https://kiro.dev/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0848",
+      "name": "OpenCode",
+      "slug": "opencode",
+      "agentType": "coding",
+      "category": "Agents IA de programmation",
+      "url": "https://opencode.ai/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0849",
+      "name": "Goose (Block)",
+      "slug": "goose-block",
+      "agentType": "coding",
+      "category": "Agents IA de programmation",
+      "url": "https://block.github.io/goose/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0850",
+      "name": "Factory Droids",
+      "slug": "factory-droids",
+      "agentType": "coding",
+      "category": "Agents IA de programmation",
+      "url": "https://factory.ai/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0851",
+      "name": "Amp (Sourcegraph)",
+      "slug": "amp-sourcegraph",
+      "agentType": "coding",
+      "category": "Agents IA de programmation",
+      "url": "https://ampcode.com/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0852",
+      "name": "Augment Agent",
+      "slug": "augment-agent",
+      "agentType": "coding",
+      "category": "Agents IA de programmation",
+      "url": "https://www.augmentcode.com/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0853",
+      "name": "Gemini CLI",
+      "slug": "gemini-cli",
+      "agentType": "coding",
+      "category": "Agents IA de programmation",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0854",
+      "name": "Qwen Code",
+      "slug": "qwen-code",
+      "agentType": "coding",
+      "category": "Agents IA de programmation",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0855",
+      "name": "Zed Agent",
+      "slug": "zed-agent",
+      "agentType": "coding",
+      "category": "Agents IA de programmation",
+      "url": "https://zed.dev/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0856",
+      "name": "Tabnine Agent",
+      "slug": "tabnine-agent",
+      "agentType": "coding",
+      "category": "Agents IA de programmation",
+      "url": "https://www.tabnine.com/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0857",
+      "name": "Plandex",
+      "slug": "plandex",
+      "agentType": "coding",
+      "category": "Agents IA de programmation",
+      "url": "https://plandex.ai/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0858",
+      "name": "GitHub Copilot Coding Agent",
+      "slug": "github-copilot-coding-agent",
+      "agentType": "coding",
+      "category": "Agents IA de programmation",
+      "url": "https://github.com/features/copilot",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0859",
+      "name": "Amazon Q Developer Agent",
+      "slug": "amazon-q-developer-agent",
+      "agentType": "coding",
+      "category": "Agents IA de programmation",
+      "url": "https://aws.amazon.com/q/developer/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0860",
+      "name": "Salesforce Agentforce",
+      "slug": "salesforce-agentforce",
+      "agentType": "enterprise",
+      "category": "Agents IA métiers et entreprises",
+      "url": "https://www.salesforce.com/agentforce/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0861",
+      "name": "Gemini Enterprise Agents",
+      "slug": "gemini-enterprise-agents",
+      "agentType": "enterprise",
+      "category": "Agents IA métiers et entreprises",
+      "url": "https://cloud.google.com/products/gemini-enterprise",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0862",
+      "name": "SAP Joule",
+      "slug": "sap-joule",
+      "agentType": "enterprise",
+      "category": "Agents IA métiers et entreprises",
+      "url": "https://www.sap.com/products/artificial-intelligence/ai-assistant.html",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0863",
+      "name": "ServiceNow AI Agents",
+      "slug": "servicenow-ai-agents",
+      "agentType": "enterprise",
+      "category": "Agents IA métiers et entreprises",
+      "url": "https://www.servicenow.com/products/ai-agents.html",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0864",
+      "name": "Workday Illuminate Agents",
+      "slug": "workday-illuminate-agents",
+      "agentType": "enterprise",
+      "category": "Agents IA métiers et entreprises",
+      "url": "https://www.workday.com/en-us/artificial-intelligence.html",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0865",
+      "name": "Oracle AI Agent Studio",
+      "slug": "oracle-ai-agent-studio",
+      "agentType": "enterprise",
+      "category": "Agents IA métiers et entreprises",
+      "url": "https://www.oracle.com/artificial-intelligence/ai-agents/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0866",
+      "name": "WRITER Action Agent",
+      "slug": "writer-action-agent",
+      "agentType": "enterprise",
+      "category": "Agents IA métiers et entreprises",
+      "url": "https://writer.com/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0867",
+      "name": "HubSpot Breeze Agents",
+      "slug": "hubspot-breeze-agents",
+      "agentType": "enterprise",
+      "category": "Agents IA métiers et entreprises",
+      "url": "https://www.hubspot.com/products/artificial-intelligence",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0868",
+      "name": "Moveworks AI Agents",
+      "slug": "moveworks-ai-agents",
+      "agentType": "enterprise",
+      "category": "Agents IA métiers et entreprises",
+      "url": "https://www.moveworks.com/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0869",
+      "name": "Sierra AI",
+      "slug": "sierra-ai",
+      "agentType": "enterprise",
+      "category": "Agents IA métiers et entreprises",
+      "url": "https://sierra.ai/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0870",
+      "name": "Zendesk AI Agents",
+      "slug": "zendesk-ai-agents",
+      "agentType": "enterprise",
+      "category": "Agents IA métiers et entreprises",
+      "url": "https://www.zendesk.com/ai/ai-agents/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0871",
+      "name": "Ada AI Agent",
+      "slug": "ada-ai-agent",
+      "agentType": "enterprise",
+      "category": "Agents IA métiers et entreprises",
+      "url": "https://www.ada.cx/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0872",
+      "name": "Kore.ai Agents",
+      "slug": "kore-ai-agents",
+      "agentType": "enterprise",
+      "category": "Agents IA métiers et entreprises",
+      "url": "https://kore.ai/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0873",
+      "name": "Cognigy AI Agents",
+      "slug": "cognigy-ai-agents",
+      "agentType": "enterprise",
+      "category": "Agents IA métiers et entreprises",
+      "url": "https://www.cognigy.com/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0874",
+      "name": "UiPath Agent Builder",
+      "slug": "uipath-agent-builder",
+      "agentType": "enterprise",
+      "category": "Agents IA métiers et entreprises",
+      "url": "https://www.uipath.com/product/agent-builder",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0875",
+      "name": "Automation Anywhere Agentic Automation",
+      "slug": "automation-anywhere-agentic-automation",
+      "agentType": "enterprise",
+      "category": "Agents IA métiers et entreprises",
+      "url": "https://www.automationanywhere.com/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0876",
+      "name": "Harvey Agents",
+      "slug": "harvey-agents",
+      "agentType": "enterprise",
+      "category": "Agents IA métiers et entreprises",
+      "url": "https://www.harvey.ai/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0877",
+      "name": "Palantir AIP Agents",
+      "slug": "palantir-aip-agents",
+      "agentType": "enterprise",
+      "category": "Agents IA métiers et entreprises",
+      "url": "https://www.palantir.com/platforms/aip/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0878",
+      "name": "Databricks Agent Bricks",
+      "slug": "databricks-agent-bricks",
+      "agentType": "enterprise",
+      "category": "Agents IA métiers et entreprises",
+      "url": "https://www.databricks.com/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0879",
+      "name": "Cohere North",
+      "slug": "cohere-north",
+      "agentType": "enterprise",
+      "category": "Agents IA métiers et entreprises",
+      "url": "https://cohere.com/north",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0880",
+      "name": "Beam AI",
+      "slug": "beam-ai",
+      "agentType": "enterprise",
+      "category": "Agents IA métiers et entreprises",
+      "url": "https://beam.ai/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0881",
+      "name": "Dust",
+      "slug": "dust",
+      "agentType": "enterprise",
+      "category": "Agents IA métiers et entreprises",
+      "url": "https://dust.tt/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0882",
+      "name": "StackAI",
+      "slug": "stackai",
+      "agentType": "enterprise",
+      "category": "Agents IA métiers et entreprises",
+      "url": "https://www.stack-ai.com/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0883",
+      "name": "Pega Agentic AI",
+      "slug": "pega-agentic-ai",
+      "agentType": "enterprise",
+      "category": "Agents IA métiers et entreprises",
+      "url": "https://www.pega.com/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0884",
+      "name": "Notion Agent",
+      "slug": "notion-agent",
+      "agentType": "enterprise",
+      "category": "Agents IA métiers et entreprises",
+      "url": "https://www.notion.com/product/ai",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0885",
+      "name": "Asana AI Teammates",
+      "slug": "asana-ai-teammates",
+      "agentType": "enterprise",
+      "category": "Agents IA métiers et entreprises",
+      "url": "https://asana.com/product/ai",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0886",
+      "name": "Glean Agents",
+      "slug": "glean-agents",
+      "agentType": "enterprise",
+      "category": "Agents IA métiers et entreprises",
+      "url": "https://www.glean.com/product/agents",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0887",
+      "name": "OpenAI Agents API",
+      "slug": "openai-agents-api",
+      "agentType": "platform",
+      "category": "Plateformes de création d'agents IA",
+      "url": "https://openai.com/index/introducing-the-agents-api/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0888",
+      "name": "OpenAI AgentKit",
+      "slug": "openai-agentkit",
+      "agentType": "platform",
+      "category": "Plateformes de création d'agents IA",
+      "url": "https://openai.com/index/introducing-agentkit/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0889",
+      "name": "Google Agent Development Kit",
+      "slug": "google-agent-development-kit",
+      "agentType": "platform",
+      "category": "Plateformes de création d'agents IA",
+      "url": "https://google.github.io/adk-docs/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0890",
+      "name": "Vertex AI Agent Builder",
+      "slug": "vertex-ai-agent-builder",
+      "agentType": "platform",
+      "category": "Plateformes de création d'agents IA",
+      "url": "https://cloud.google.com/products/agent-builder",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0891",
+      "name": "Amazon Bedrock Agents",
+      "slug": "amazon-bedrock-agents",
+      "agentType": "platform",
+      "category": "Plateformes de création d'agents IA",
+      "url": "https://aws.amazon.com/bedrock/agents/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0892",
+      "name": "Amazon Bedrock AgentCore",
+      "slug": "amazon-bedrock-agentcore",
+      "agentType": "platform",
+      "category": "Plateformes de création d'agents IA",
+      "url": "https://aws.amazon.com/bedrock/agentcore/",
+      "verification": "official_source_reviewed"
+    },
+    {
+      "id": "AI-0893",
+      "name": "Microsoft Foundry Agent Service",
+      "slug": "microsoft-foundry-agent-service",
+      "agentType": "platform",
+      "category": "Plateformes de création d'agents IA",
+      "url": "https://learn.microsoft.com/en-us/azure/ai-foundry/agents/overview",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0894",
+      "name": "Microsoft Magentic-UI",
+      "slug": "microsoft-magentic-ui",
+      "agentType": "platform",
+      "category": "Plateformes de création d'agents IA",
+      "url": "https://github.com/microsoft/magentic-ui",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0895",
+      "name": "Strands Agents",
+      "slug": "strands-agents",
+      "agentType": "platform",
+      "category": "Plateformes de création d'agents IA",
+      "url": "https://strandsagents.com/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0896",
+      "name": "Zapier Agents",
+      "slug": "zapier-agents",
+      "agentType": "platform",
+      "category": "Plateformes de création d'agents IA",
+      "url": "https://zapier.com/agents",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0897",
+      "name": "LangSmith Agent Builder",
+      "slug": "langsmith-agent-builder",
+      "agentType": "platform",
+      "category": "Plateformes de création d'agents IA",
+      "url": "https://www.langchain.com/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0898",
+      "name": "MindStudio",
+      "slug": "mindstudio",
+      "agentType": "platform",
+      "category": "Plateformes de création d'agents IA",
+      "url": "https://www.mindstudio.ai/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0899",
+      "name": "AgentOps",
+      "slug": "agentops",
+      "agentType": "platform",
+      "category": "Plateformes de création d'agents IA",
+      "url": "https://www.agentops.ai/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0900",
+      "name": "E2B",
+      "slug": "e2b",
+      "agentType": "platform",
+      "category": "Plateformes de création d'agents IA",
+      "url": "https://e2b.dev/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0901",
+      "name": "Arcade.dev",
+      "slug": "arcade-dev",
+      "agentType": "platform",
+      "category": "Plateformes de création d'agents IA",
+      "url": "https://www.arcade.dev/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0902",
+      "name": "Pipedream AI Agents",
+      "slug": "pipedream-ai-agents",
+      "agentType": "platform",
+      "category": "Plateformes de création d'agents IA",
+      "url": "https://pipedream.com/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0903",
+      "name": "NVIDIA NeMo Agent Toolkit",
+      "slug": "nvidia-nemo-agent-toolkit",
+      "agentType": "platform",
+      "category": "Plateformes de création d'agents IA",
+      "url": "https://developer.nvidia.com/nemo-agent-toolkit",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0904",
+      "name": "Cloudflare Agents",
+      "slug": "cloudflare-agents",
+      "agentType": "platform",
+      "category": "Plateformes de création d'agents IA",
+      "url": "https://developers.cloudflare.com/agents/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0905",
+      "name": "Agentuity",
+      "slug": "agentuity",
+      "agentType": "platform",
+      "category": "Plateformes de création d'agents IA",
+      "url": "https://agentuity.com/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0906",
+      "name": "Haystack Agents",
+      "slug": "haystack-agents",
+      "agentType": "platform",
+      "category": "Plateformes de création d'agents IA",
+      "url": "https://haystack.deepset.ai/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0907",
+      "name": "OpenManus",
+      "slug": "openmanus",
+      "agentType": "platform",
+      "category": "Plateformes de création d'agents IA",
+      "url": "https://github.com/FoundationAgents/OpenManus",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0908",
+      "name": "Sakana AI Scientist",
+      "slug": "sakana-ai-scientist",
+      "agentType": "platform",
+      "category": "Plateformes de création d'agents IA",
+      "url": "https://sakana.ai/ai-scientist/",
+      "verification": "editorial_overview"
+    },
+    {
+      "id": "AI-0909",
+      "name": "BeeAI",
+      "slug": "beeai",
+      "agentType": "platform",
+      "category": "Plateformes de création d'agents IA",
+      "url": "https://beeai.dev/",
+      "verification": "editorial_overview"
+    }
+  ],
+  "skippedDuplicates": [
+    "OpenAI Codex",
+    "Claude Code",
+    "OpenHands",
+    "Roo Code",
+    "Aider",
+    "Intercom Fin",
+    "Gumloop",
+    "Botpress",
+    "Voiceflow",
+    "Relay.app"
+  ]
+}
