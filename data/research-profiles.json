@@ -1,0 +1,3253 @@
+{
+  "ChatGPT": {
+    "headline": "Assistant généraliste pour produire, comprendre et transformer des contenus de formats variés.",
+    "audiences": [
+      "Étudiants, enseignants et chercheurs",
+      "Professionnels, indépendants et équipes",
+      "Développeurs et créateurs de contenus"
+    ],
+    "cases": [
+      "Préparer un cours, un dossier ou une première synthèse",
+      "Analyser un PDF, un tableur ou des données",
+      "Écrire et réviser un texte, coder, générer des visuels",
+      "Rechercher et confronter des sources avec les outils adaptés"
+    ],
+    "advantages": [
+      "Assistant polyvalent, utilisable sans programmation",
+      "Outils de fichiers, de données, de recherche et de création",
+      "Possibilité d’itérer en conversation avec un objectif précis"
+    ],
+    "limits": [
+      "Peut inventer des références, chiffres ou passages de documents",
+      "Accès aux modèles, à la recherche et aux outils variable selon la formule",
+      "Une réponse fluide ne constitue pas une vérification factuelle"
+    ],
+    "gettingStarted": [
+      "Indiquer votre objectif, votre public, votre format final et vos contraintes; joindre les sources autorisées puis contrôler citations et résultats."
+    ],
+    "examples": [
+      "À partir de ce rapport joint, distingue faits, hypothèses et points non établis, avec renvois aux pages.",
+      "Propose un plan de cours de 45 minutes avec objectifs, activités et évaluation."
+    ],
+    "pricing": "Offre Free; abonnements individuels Go, Plus et Pro; offres professionnelles distinctes. Les limites et tarifs dépendent du pays et de la formule.",
+    "privacy": "Éviter de téléverser des données confidentielles sans vérifier les règles de conservation, de partage et d’entraînement applicables au compte.",
+    "selection": [
+      "Choisir ChatGPT pour la polyvalence; préférer un moteur de recherche scientifique pour établir un état de l’art reproductible."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://chatgpt.com/pricing/",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      },
+      {
+        "url": "https://help.openai.com/en/articles/11989085-what-is-chatgpt-go",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Claude": {
+    "headline": "Assistant conversationnel pour la rédaction approfondie, les documents, l’analyse et les travaux structurés.",
+    "audiences": [
+      "Rédacteurs et analystes",
+      "Étudiants, chercheurs et enseignants",
+      "Développeurs et équipes documentaires"
+    ],
+    "cases": [
+      "Réviser un long texte en respectant des consignes",
+      "Produire des documents ou artefacts réutilisables",
+      "Analyser des dossiers de travail et organiser des projets",
+      "Accompagner des tâches de programmation avec Claude Code"
+    ],
+    "advantages": [
+      "Gestion de projets et de documents",
+      "Création de fichiers et d’artefacts",
+      "Versions web, mobile et bureau, outils et connecteurs selon formule"
+    ],
+    "limits": [
+      "Réponses et citations à vérifier",
+      "Quota de messages et fonctions soumis aux conditions du plan",
+      "Les services de codage et de recherche peuvent demander une formule payante"
+    ],
+    "gettingStarted": [
+      "Créer un projet thématique, joindre un corpus autorisé, demander une réponse structurée et exiger les extraits de preuve pour chaque affirmation importante."
+    ],
+    "examples": [
+      "Compare ces deux contrats selon obligations, risques et ambiguïtés sans donner de conseil juridique définitif.",
+      "Rédige une note de synthèse à partir des pièces jointes en citant chaque source."
+    ],
+    "pricing": "Claude Free, Pro, Max, Team et Enterprise; Pro annoncé à 20 USD/mois en facturation mensuelle sur la page américaine consultée.",
+    "privacy": "Les offres d’équipe disposent de conditions différentes des comptes personnels; examiner les politiques de confidentialité avant tout usage sensible.",
+    "selection": [
+      "Particulièrement utile pour les documents et la collaboration rédactionnelle; les performances dépendent de la tâche et du modèle choisi."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://claude.com/pricing",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Gemini": {
+    "headline": "Assistant de Google associé à son écosystème de recherche, de productivité et de création.",
+    "audiences": [
+      "Utilisateurs de Google Workspace",
+      "Étudiants et professionnels",
+      "Créateurs travaillant avec les services Google"
+    ],
+    "cases": [
+      "Expliquer un concept et faire émerger des pistes",
+      "Travailler avec des contenus multimodaux",
+      "Assister la rédaction de courriels et documents selon les intégrations disponibles",
+      "Explorer des fonctionnalités Google AI via des abonnements adaptés"
+    ],
+    "advantages": [
+      "Intégration à l’écosystème de Google",
+      "Plusieurs formules Google AI avec accès progressif aux fonctions",
+      "Exploitation multimodale selon application et abonnement"
+    ],
+    "limits": [
+      "Disponibilité variable selon pays, âge, langue et offre",
+      "Ne pas confondre l’application Gemini, l’API Gemini et NotebookLM",
+      "Vérification des sources indispensable pour les réponses factuelles"
+    ],
+    "gettingStarted": [
+      "Choisir l’application Gemini pour échanger, puis vérifier les accès au compte Google et les autorisations des services éventuellement connectés."
+    ],
+    "examples": [
+      "Explique cet article pour des élèves de seconde avec les termes à apprendre.",
+      "Propose trois variantes d’un message professionnel, avec les hypothèses explicites."
+    ],
+    "pricing": "Accès gratuit et offres Google AI Plus, Pro et Ultra; contenu de chaque offre et quotas affichés par Google selon la région.",
+    "privacy": "Prendre connaissance des réglages d’activité et des accès à Google Workspace avant d’insérer des documents personnels.",
+    "selection": [
+      "À envisager pour un usage fréquent de l’écosystème Google; NotebookLM est souvent plus adapté à un corpus documentaire fermé."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://one.google.com/about/google-ai-plans/",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Microsoft Copilot": {
+    "headline": "Assistant de Microsoft pour la recherche, la rédaction et la productivité, distinct des offres Microsoft 365 professionnelles.",
+    "audiences": [
+      "Usagers Windows et Edge",
+      "Équipes équipées de Microsoft 365",
+      "Étudiants et salariés travaillant avec Office"
+    ],
+    "cases": [
+      "Obtenir de l’aide rédactionnelle ou des réponses pratiques",
+      "Résumer des contenus selon l’environnement",
+      "Préparer des tâches liées à Word, Excel ou PowerPoint avec les droits requis",
+      "Assister la collaboration dans Microsoft 365"
+    ],
+    "advantages": [
+      "Présence dans l’écosystème Microsoft",
+      "Possibilités de travail dans les applications bureautiques sous licence adaptée",
+      "Offres destinées aux particuliers et organisations"
+    ],
+    "limits": [
+      "Le Copilot grand public et Microsoft 365 Copilot ne donnent pas accès aux mêmes données",
+      "Des abonnements et autorisations Microsoft 365 peuvent être nécessaires",
+      "Résultats de calcul et synthèses à contrôler"
+    ],
+    "gettingStarted": [
+      "Vérifier d’abord la version utilisée : Copilot grand public ou licence Microsoft 365 Copilot, puis les droits d’accès aux données professionnelles."
+    ],
+    "examples": [
+      "Transforme ces notes en compte rendu avec décisions et points ouverts.",
+      "Prépare un plan de présentation pour une réunion d’équipe."
+    ],
+    "pricing": "Offres et licences distinctes selon usage personnel ou professionnel; tarification Microsoft 365 Copilot par utilisateur à consulter sur la page officielle.",
+    "privacy": "En entreprise, les autorisations Microsoft 365 et les politiques de l’administrateur conditionnent l’accès aux données.",
+    "selection": [
+      "Prioritaire pour les organisations utilisant déjà Microsoft 365; ne pas supposer que les fonctions Office sont incluses dans Copilot gratuit."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://www.microsoft.com/en-us/microsoft-365-copilot/pricing",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Perplexity": {
+    "headline": "Moteur de réponses et de recherche web conçu pour montrer les sources utilisées.",
+    "audiences": [
+      "Veilleurs et journalistes",
+      "Étudiants et chercheurs en phase exploratoire",
+      "Professionnels qui recherchent des informations actualisées"
+    ],
+    "cases": [
+      "Obtenir rapidement une réponse accompagnée de liens",
+      "Explorer un sujet et identifier des sources primaires",
+      "Effectuer une recherche approfondie selon la formule",
+      "Comparer plusieurs interprétations d’informations trouvées en ligne"
+    ],
+    "advantages": [
+      "Références et liens visibles à côté des réponses",
+      "Accès à différents modèles selon l’offre",
+      "Recherche web et recherches approfondies"
+    ],
+    "limits": [
+      "Une citation fournie ne garantit pas que la source soutienne la phrase",
+      "Les résultats dépendent de l’indexation et de la disponibilité du web",
+      "Vérifier dates, conflits d’intérêts et documents originaux"
+    ],
+    "gettingStarted": [
+      "Formuler une question avec dates et contexte géographique; ouvrir au moins deux sources citées et vérifier les passages réellement pertinents."
+    ],
+    "examples": [
+      "Quels changements officiels sont intervenus dans cette réglementation depuis janvier, avec liens gouvernementaux ?",
+      "Distingue étude scientifique, communiqué de presse et commentaire dans ces résultats."
+    ],
+    "pricing": "Free pour la recherche de base, offres Pro et Max avec davantage de recherche approfondie, de modèles et d’usage; page consultée : Pro annoncé à 20 USD/mois.",
+    "privacy": "Traiter les liens et extraits web comme contenus externes; éviter de divulguer des documents confidentiels.",
+    "selection": [
+      "Excellent point de départ pour une veille sourcée; une analyse académique méthodique demande des bases scientifiques spécialisées."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://www.perplexity.ai/fr/hub/pricing",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      },
+      {
+        "url": "https://www.perplexity.ai/fr/hub/products/search",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "NotebookLM": {
+    "headline": "Assistant documentaire de Google qui répond principalement à partir des sources ajoutées à un carnet.",
+    "audiences": [
+      "Enseignants, étudiants et chercheurs",
+      "Lecteurs de rapports volumineux",
+      "Équipes de formation et de documentation"
+    ],
+    "cases": [
+      "Interroger un corpus de PDF et de documents",
+      "Transformer des sources en synthèse, FAQ ou support pédagogique",
+      "Créer des présentations audio ou vidéo à partir d’un corpus",
+      "Analyser des sources YouTube, des fichiers audio et des documents compatibles"
+    ],
+    "advantages": [
+      "Réponses ancrées dans les documents du carnet",
+      "Citations renvoyant aux sources chargées",
+      "Supports de synthèse et audio utiles à l’apprentissage"
+    ],
+    "limits": [
+      "La fiabilité dépend de la qualité des sources choisies",
+      "Des citations n’empêchent pas les erreurs de compréhension",
+      "Les quotas et fonctions peuvent varier selon formule et pays"
+    ],
+    "gettingStarted": [
+      "Créer un carnet par sujet, importer des documents primaires identifiés, puis poser des questions exigeant citations et contradictions."
+    ],
+    "examples": [
+      "Quelles conclusions contradictoires apparaissent dans ces six articles ? Cite les passages.",
+      "Prépare une fiche de révision avec définitions et questions de compréhension fondées sur ces cours."
+    ],
+    "pricing": "Service accessible avec un compte Google, avec limites et avantages variables selon les offres Google AI; vérifier les conditions actuelles.",
+    "privacy": "Ne pas importer de documents protégés ou confidentiels sans examiner les règles de partage du carnet et du compte.",
+    "selection": [
+      "Meilleur choix pour apprendre à partir de ses propres documents; ne remplace pas un moteur de recherche web généraliste."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://blog.google/innovation-and-ai/products/notebooklm/notebooklm-google-io-2026/",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      },
+      {
+        "url": "https://blog.google/innovation-and-ai/products/notebooklm-audio-video-sources/",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Poe": {
+    "headline": "Plateforme d’accès à de nombreux assistants et générateurs de contenus au sein d’une interface commune.",
+    "audiences": [
+      "Curieux qui comparent plusieurs modèles",
+      "Créateurs d’assistants spécialisés",
+      "Utilisateurs de texte, image, audio et vidéo"
+    ],
+    "cases": [
+      "Tester différentes familles de modèles",
+      "Construire un bot spécialisé sur un usage",
+      "Générer des médias depuis plusieurs fournisseurs",
+      "Comparer la qualité de réponses sur un même sujet"
+    ],
+    "advantages": [
+      "Catalogue de modèles et de bots issus de plusieurs fournisseurs",
+      "Création de bots personnalisés",
+      "Approche multi-modèles au lieu d’un assistant unique"
+    ],
+    "limits": [
+      "Les bots ont des politiques et performances hétérogènes",
+      "Quotas par points et coûts variables selon les modèles",
+      "Vérifier quel fournisseur traite les données"
+    ],
+    "gettingStarted": [
+      "Sélectionner un bot, lire sa description et son fournisseur; comparer un même prompt sur deux bots avant d’adopter un flux de travail."
+    ],
+    "examples": [
+      "Compare les limites et points forts de deux bots multimodaux sur ce texte.",
+      "Conçois le descriptif d’un bot de révision de notions scientifiques."
+    ],
+    "pricing": "Usage gratuit limité et abonnements/points selon bots et modèles; vérifier les règles du service et le coût en points.",
+    "privacy": "Un bot peut dépendre d’un fournisseur tiers; examiner les conditions et ne pas partager de secrets.",
+    "selection": [
+      "Utile pour découvrir et comparer; pour un déploiement d’entreprise, vérifier directement les garanties du fournisseur du modèle."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://help.poe.com/hc/fr/articles/19944206309524-FAQ-Poe",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Le Chat Mistral": {
+    "headline": "Anciennement Le Chat, désormais Mistral Vibe : assistant et agent de productivité, de recherche et de programmation.",
+    "audiences": [
+      "Professionnels et particuliers",
+      "Équipes souhaitant comparer des fournisseurs de modèles",
+      "Créateurs francophones"
+    ],
+    "cases": [
+      "Rédiger et reformuler des contenus",
+      "Faire des recherches et résumés",
+      "Explorer des modèles et services Mistral",
+      "Évaluer un fournisseur européen pour des usages professionnels"
+    ],
+    "advantages": [
+      "Fournisseur Mistral AI identifiable",
+      "Interface conversationnelle orientée productivité",
+      "Écosystème API et modèles distinct de l’application"
+    ],
+    "limits": [
+      "Fonctions et plans susceptibles de changer rapidement",
+      "Ne pas confondre le produit Le Chat et les API pour développeurs",
+      "Affirmations factuelles à contrôler",
+      "Le Chat a été renommé Vibe le 12 août 2026 : les anciennes fiches et appellations peuvent prêter à confusion."
+    ],
+    "gettingStarted": [
+      "Ouvrir Le Chat, préciser langue et objectif; tester avec un document non confidentiel et vérifier si les fonctions souhaitées sont actives."
+    ],
+    "examples": [
+      "Reformule cette note en français soutenu et en version accessible.",
+      "Propose un tableau de critères pour comparer trois solutions IA."
+    ],
+    "pricing": "Vibe dispose d’un usage gratuit et d’offres Pro/équipe selon les fonctions; confirmer les conditions actuelles sur le site officiel.",
+    "privacy": "Contrôler l’hébergement, la conservation et les conditions contractuelles selon le service réellement souscrit.",
+    "selection": [
+      "Solution à considérer pour diversifier les fournisseurs; comparer fonctionnalités, conformité et langues sur la base de contrats."
+    ],
+    "source": null,
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://help.mistral.ai/fr/articles/682992-le-chat-devient-vibe",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      },
+      {
+        "url": "https://mistral.ai/fr/products/vibe/",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "DeepL": {
+    "headline": "Outil de traduction et de rédaction multilingue spécialisé dans les usages professionnels.",
+    "audiences": [
+      "Traducteurs et relecteurs",
+      "Services marketing et communication",
+      "Équipes internationales"
+    ],
+    "cases": [
+      "Traduire des paragraphes et documents",
+      "Réviser le style de textes multilingues",
+      "Maintenir une terminologie cohérente avec des glossaires",
+      "Automatiser des flux via produits et API appropriés"
+    ],
+    "advantages": [
+      "Traduction de documents et outils terminologiques",
+      "Offres professionnelles avec contrôle des données",
+      "Flux individuels et équipes"
+    ],
+    "limits": [
+      "Relecture humaine nécessaire pour juridique, médical et communication sensible",
+      "Fichiers et volumes de caractères limités selon abonnement",
+      "Langues et formats pris en charge à vérifier au cas par cas"
+    ],
+    "gettingStarted": [
+      "Choisir langue source et cible, préparer une liste de termes à préserver, puis relire la traduction avec un locuteur compétent."
+    ],
+    "examples": [
+      "Traduis cette notice vers l’anglais sans modifier les noms commerciaux.",
+      "Harmonise ces traductions autour du glossaire fourni."
+    ],
+    "pricing": "Version d’accès libre et DeepL Pro en formules individuelles/équipes ; les offres professionnelles sont décomptées en caractères et traductions de fichiers.",
+    "privacy": "La page DeepL Pro consultée indique une politique de non-utilisation des données pour l’entraînement dans l’offre professionnelle; vérifier contrat et paramétrage.",
+    "selection": [
+      "Préférer DeepL pour la traduction et les glossaires plutôt qu’un assistant généraliste, avec relecture humaine pour les textes critiques."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://www.deepl.com/en/pro",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Grammarly": {
+    "headline": "Assistant de correction et de réécriture, principalement centré sur la qualité de la rédaction.",
+    "audiences": [
+      "Rédacteurs anglophones",
+      "Étudiants et professionnels",
+      "Équipes éditoriales"
+    ],
+    "cases": [
+      "Corriger grammaire et ponctuation",
+      "Améliorer lisibilité et ton d’un message",
+      "Réécrire des passages et vérifier certaines citations",
+      "Détecter des risques de plagiat selon offre"
+    ],
+    "advantages": [
+      "Aide à la qualité du style et à la cohérence",
+      "Intégration dans des environnements de rédaction",
+      "Outils de reformulation et génération selon forfait"
+    ],
+    "limits": [
+      "Les suggestions automatiques peuvent altérer la nuance ou la terminologie",
+      "Niveau d’aide variable selon les langues",
+      "Contrôles de détection IA et plagiat non infaillibles"
+    ],
+    "gettingStarted": [
+      "Rédiger un paragraphe, accepter seulement les corrections pertinentes, puis relire avec les exigences de ton et de domaine."
+    ],
+    "examples": [
+      "Réécris cet e-mail en anglais clair et concis sans changer les engagements.",
+      "Signale les passages ambigus d’une notice, sans inventer de faits."
+    ],
+    "pricing": "Offres Free, Pro et Enterprise; quotas de génération et fonctions de sécurité différents selon les offres.",
+    "privacy": "Vérifier la confidentialité des textes traités, surtout pour les informations contractuelles.",
+    "selection": [
+      "Particulièrement indiqué pour la révision linguistique; un correcteur ne remplace pas la vérification des faits."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://www.grammarly.com/plans",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Canva": {
+    "headline": "Plateforme de design accessible avec assistants IA intégrés pour créer des supports visuels.",
+    "audiences": [
+      "Enseignants et équipes pédagogiques",
+      "Responsables de communication",
+      "Indépendants sans logiciel de design complexe"
+    ],
+    "cases": [
+      "Créer affiches, infographies, présentations et réseaux sociaux",
+      "Adapter des formats et des chartes graphiques",
+      "Modifier des images avec les outils Magic",
+      "Préparer des contenus visuels réutilisables en équipe"
+    ],
+    "advantages": [
+      "Bibliothèque de modèles et éditeur simple",
+      "Magic Write, génération et retouches accessibles selon offre",
+      "Flux de collaboration et gestion de marque"
+    ],
+    "limits": [
+      "Fonctions IA et quotas partagés variables selon la formule",
+      "Rendu final à examiner pour les logos, chiffres et typographie",
+      "Droits des éléments visuels et modèles à vérifier"
+    ],
+    "gettingStarted": [
+      "Choisir un modèle correspondant au format attendu, compléter un brief éditorial puis vérifier tous les textes et les licences avant publication."
+    ],
+    "examples": [
+      "Conçois une infographie A4 pour présenter cinq étapes d’une démarche scientifique.",
+      "Propose une charte graphique cohérente pour un atelier pédagogique."
+    ],
+    "pricing": "Canva Free, Pro, Business et Enterprise; fonctions IA limitées sur l’offre gratuite avec quotas progressifs.",
+    "privacy": "Examiner les droits des contenus importés et les conditions de traitement des médias, surtout pour des photos de personnes.",
+    "selection": [
+      "Rapide pour les visuels de communication; Figma est souvent préférable pour un système de design d’interface complexe."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://www.canva.com/pricing/",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Figma AI": {
+    "headline": "Fonctionnalités IA intégrées à Figma pour le design d’interface, le prototypage et les tâches répétitives.",
+    "audiences": [
+      "Designers UI/UX",
+      "Équipes produit et développeurs",
+      "Responsables de design systems"
+    ],
+    "cases": [
+      "Générer et ajuster des propositions d’interface",
+      "Travailler avec Figma Make sur des prototypes interactifs",
+      "Réécrire des contenus d’interface",
+      "Examiner et documenter un système de design"
+    ],
+    "advantages": [
+      "Fonctions IA à l’intérieur des fichiers de design",
+      "Figma Make orienté prototype et application",
+      "Flux de collaboration visuelle"
+    ],
+    "limits": [
+      "L’IA ne garantit pas l’accessibilité, la qualité ergonomique ou la conformité",
+      "Fonctions avancées et crédits selon licences",
+      "Prototypes générés à tester avant la production"
+    ],
+    "gettingStarted": [
+      "Créer un fichier avec un objectif d’utilisateur et quelques composants, puis demander une proposition et contrôler lisibilité, clavier et responsive."
+    ],
+    "examples": [
+      "Propose un parcours d’inscription accessible en trois écrans.",
+      "Génère les variantes d’un composant bouton, avec états de chargement et d’erreur."
+    ],
+    "pricing": "Figma AI s’insère dans les offres et quotas Figma; les crédits et disponibilités sont à vérifier selon le siège et le forfait.",
+    "privacy": "Vérifier les droits sur maquettes et composants internes avant de les exposer à des fonctions IA.",
+    "selection": [
+      "Pour le design collaboratif d’interfaces et systèmes de composants; Canva est plus immédiat pour les supports marketing."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://help.figma.com/hc/en-us/articles/23870272542231-Get-started-with-Figma-AI",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Gamma": {
+    "headline": "Outil de génération et d’édition de présentations, documents et pages visuelles.",
+    "audiences": [
+      "Enseignants et formateurs",
+      "Consultants et équipes commerciales",
+      "Créateurs de propositions et rapports"
+    ],
+    "cases": [
+      "Transformer un plan en présentation",
+      "Convertir des contenus PDF/PPTX en supports visuels",
+      "Publier un document ou mini-site",
+      "Exporter des présentations pour diffusion"
+    ],
+    "advantages": [
+      "Structure des diapositives et design assistés",
+      "Exports PDF, PPTX, images et Google Slides annoncés",
+      "Gestion de marque et API dans certaines formules"
+    ],
+    "limits": [
+      "Les données et chiffres générés demandent vérification",
+      "Mise en page et illustrations à relire",
+      "Quotas et crédits spécifiques aux fonctions premium"
+    ],
+    "gettingStarted": [
+      "Préparer un plan avec public cible, messages clés et durée puis générer une première version; contrôler chaque chiffre et graphique."
+    ],
+    "examples": [
+      "Crée une présentation de huit diapositives sur les applications responsables de l’IA.",
+      "Transforme cette note en argumentaire visuel avec une diapositive par idée."
+    ],
+    "pricing": "Offres Free, Plus, Pro et Ultra; l’offre gratuite permet de commencer avec un quota de crédits, les fonctions avancées consomment des crédits.",
+    "privacy": "Relire le partage et les droits d’accès des présentations publiées et des sources importées.",
+    "selection": [
+      "Excellent pour produire rapidement des supports structurés; un logiciel bureautique reste utile pour une édition très fine."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://gamma.app/pricing",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Midjourney": {
+    "headline": "Service de génération et de direction artistique d’images par instructions et références.",
+    "audiences": [
+      "Illustrateurs et designers",
+      "Directeurs artistiques",
+      "Créateurs de concepts visuels"
+    ],
+    "cases": [
+      "Générer des illustrations et concepts",
+      "Construire une cohérence stylistique avec des références",
+      "Explorer des cadrages, matières et ambiances",
+      "Produire des variantes d’un brief visuel"
+    ],
+    "advantages": [
+      "Contrôle de l’esthétique par prompts et références de style",
+      "Modes de génération aux vitesses et crédits différents",
+      "Outils de personnalisation visuelle"
+    ],
+    "limits": [
+      "Résultats parfois imprécis pour texte, identité et détails anatomiques",
+      "Confidentialité des générations dépendant du plan; mode Stealth limité",
+      "Droits commerciaux soumis aux conditions et à la taille de l’entreprise"
+    ],
+    "gettingStarted": [
+      "Écrire un prompt précisant sujet, composition, lumière, style, aspect et exclusions; comparer plusieurs itérations et vérifier les droits."
+    ],
+    "examples": [
+      "Illustration éditoriale panoramique d’un laboratoire avec lumière naturelle et perspective rigoureuse.",
+      "Moodboard minimaliste de trois ambiances pour une exposition numérique."
+    ],
+    "pricing": "Abonnement requis selon quatre niveaux Basic, Standard, Pro et Mega. La grille consultée indique 10, 30, 60 et 120 USD/mois, avec différences Fast/Relax et Stealth.",
+    "privacy": "Le mode Stealth de confidentialité est réservé aux formules Pro/Mega dans la documentation consultée.",
+    "selection": [
+      "Privilégier pour une exploration artistique; Canva et Firefly conviennent davantage au flux de design intégré."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://docs.midjourney.com/hc/en-us/articles/27870484040333-Comparing-Midjourney-Plans",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      },
+      {
+        "url": "https://docs.midjourney.com/hc/en-us/articles/32180011136653-Style-Reference",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Adobe Firefly": {
+    "headline": "Ensemble d’outils génératifs Adobe pour images, vecteurs, vidéo et audio.",
+    "audiences": [
+      "Graphistes et créatifs Adobe",
+      "Équipes marketing",
+      "Professionnels de l’édition visuelle"
+    ],
+    "cases": [
+      "Générer et retoucher des visuels",
+      "Étendre une image ou supprimer des éléments",
+      "Créer des vecteurs et effets textuels",
+      "Tester des modèles image, vidéo et audio depuis un flux Adobe"
+    ],
+    "advantages": [
+      "Intégration à Creative Cloud",
+      "Outils de remplissage et extension génératifs",
+      "Accès à des modèles partenaires et fonctionnalités premium"
+    ],
+    "limits": [
+      "Crédits distincts pour les fonctions premium",
+      "Qualité et droits d’utilisation à contrôler selon le modèle choisi",
+      "Disponibilité et génération vidéo soumises à quotas"
+    ],
+    "gettingStarted": [
+      "Partir d’un brief et d’un format de sortie, générer des variantes, puis retoucher manuellement et examiner les conditions commerciales."
+    ],
+    "examples": [
+      "Génère une affiche pédagogique avec espace de texte volontairement laissé vide.",
+      "Étends cette photographie en conservant les proportions du sujet."
+    ],
+    "pricing": "Version gratuite avec générations quotidiennes limitées; abonnements Standard, Pro, Pro Plus et Premium avec crédits génératifs.",
+    "privacy": "Examiner les conditions de modèle partenaire, la traçabilité et les droits des médias fournis.",
+    "selection": [
+      "Adapté aux équipes Creative Cloud; distinguer génération d’illustrations et retouche professionnelle des originaux."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://www.adobe.com/products/firefly/plans.html",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Leonardo AI": {
+    "headline": "Studio de création d’images et de vidéos avec modèles, guidage visuel et outils d’édition.",
+    "audiences": [
+      "Créateurs de personnages et concepts",
+      "Designers et studios de jeux",
+      "Équipes marketing et audiovisuel"
+    ],
+    "cases": [
+      "Illustrer personnages, objets et environnements",
+      "Utiliser des images de référence pour guider la génération",
+      "Retoucher, agrandir et décliner des images",
+      "Expérimenter différents modèles depuis une plateforme"
+    ],
+    "advantages": [
+      "Nombreux modèles et préréglages",
+      "Générations par jetons et certains modes Relaxed",
+      "Guidage d’image et options de modèles personnalisés sur plans payants"
+    ],
+    "limits": [
+      "Tous les modèles ne sont pas éligibles au mode sans limites",
+      "Les générations peuvent être publiques selon formule",
+      "Contrôle rigoureux des droits nécessaire pour les références et personnages"
+    ],
+    "gettingStarted": [
+      "Choisir un modèle et un style, fournir une image de référence si nécessaire, puis vérifier niveau de confidentialité et coût en jetons."
+    ],
+    "examples": [
+      "Génère trois propositions cohérentes de personnage de jeu et de costume.",
+      "Représente ce produit en studio avec trois éclairages comparables."
+    ],
+    "pricing": "Free avec allocation de jetons, Essential, Premium et Ultimate; limites de jetons, modèles et confidentialité variables selon abonnement.",
+    "privacy": "La grille précise des différences de droits et de visibilité entre utilisateurs gratuits et payants; vérifier avant de produire des créations confidentielles.",
+    "selection": [
+      "Utile pour l’exploration visuelle multi-modèles; Midjourney met particulièrement l’accent sur les références esthétiques."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://leonardo.ai/pricing",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Ideogram": {
+    "headline": "Générateur d’images, de visuels textuels et de créations graphiques avec crédits et API.",
+    "audiences": [
+      "Graphistes et créateurs de branding",
+      "Équipes publicitaires",
+      "Concepteurs d’affiches et de miniatures"
+    ],
+    "cases": [
+      "Générer des affiches associant image et typographie",
+      "Explorer plusieurs compositions d’un brief",
+      "Créer et éditer des images",
+      "Utiliser des crédits ou une API selon le projet"
+    ],
+    "advantages": [
+      "Outils pour visuels typographiques",
+      "Offres avec génération privée et traitements par lot",
+      "Produits image et vidéo avec tarification à l’usage"
+    ],
+    "limits": [
+      "La restitution de textes reste à contrôler lettre par lettre",
+      "Tarification complexe par crédit, modèle et résolution",
+      "Droits et confidentialité à vérifier dans chaque formule"
+    ],
+    "gettingStarted": [
+      "Donner le texte exact à faire apparaître, un style, un cadrage et une disposition; relire soigneusement les caractères produits."
+    ],
+    "examples": [
+      "Affiche minimaliste avec le titre exact « Science et imagination ».",
+      "Crée trois compositions de couverture respectant les mêmes couleurs."
+    ],
+    "pricing": "Offres payantes Plus, Pro, Team et Enterprise; consommation par crédits et prix API variables selon modèle et résolution.",
+    "privacy": "Activer les options de génération privée lorsque nécessaires et contrôler les conditions propres au plan.",
+    "selection": [
+      "À explorer pour affiches et composition image/texte; finaliser tout texte critique dans un éditeur vectoriel."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://ideogram.ai/pricing/",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Runway": {
+    "headline": "Suite de génération et de montage vidéo assistés par IA pour créateurs et studios.",
+    "audiences": [
+      "Réalisateurs et créateurs vidéo",
+      "Studios créatifs et agences",
+      "Formateurs et communicateurs"
+    ],
+    "cases": [
+      "Générer de courtes séquences depuis un texte ou une image",
+      "Animer des images de référence",
+      "Modifier des éléments vidéo à l’aide d’outils dédiés",
+      "Produire des concepts avant montage final"
+    ],
+    "advantages": [
+      "Plusieurs générations de modèles et fonctionnalités ciblées",
+      "Crédits de consommation par outil",
+      "Outils de vidéo-à-vidéo et d’édition selon plan"
+    ],
+    "limits": [
+      "Les mouvements et continuités restent parfois imprécis",
+      "Coûts et crédits consommés selon la durée, le modèle et l’outil",
+      "Les modèles anciens et récents ont des capacités différentes"
+    ],
+    "gettingStarted": [
+      "Rédiger un storyboard court, générer un plan test, vérifier mouvements et détails avant des rendus plus coûteux."
+    ],
+    "examples": [
+      "Animer cette photographie avec un léger travelling avant, sans déformer les visages.",
+      "Proposer une succession de trois plans de cinq secondes pour une vidéo éducative."
+    ],
+    "pricing": "Free avec crédit initial limité et offres Standard, Pro, Unlimited, Max, Team; crédits mensuels et coûts par fonctionnalité.",
+    "privacy": "Ne pas utiliser de photos de personnes sans autorisation; vérifier les droits de diffusion des contenus générés.",
+    "selection": [
+      "Pertinent pour la réalisation audiovisuelle; un éditeur traditionnel reste nécessaire pour la continuité et la finition."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://help.runwayml.com/hc/en-us/articles/15124877443219-How-do-credits-work",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      },
+      {
+        "url": "https://help.runwayml.com/hc/en-us/articles/37327109429011-Creating-with-Gen-4-Video",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Sora": {
+    "headline": "Ancien service de génération vidéo d’OpenAI : applications et API arrêtées en 2026.",
+    "audiences": [
+      "Chercheurs en histoire de la vidéo générative",
+      "Personnes ayant créé des contenus Sora"
+    ],
+    "cases": [
+      "Comprendre l’évolution de la génération vidéo par IA",
+      "Consulter la documentation historique de Sora",
+      "Rechercher les modalités officielles d’export des anciens contenus"
+    ],
+    "advantages": [
+      "Référence historique majeure du domaine de la vidéo générative",
+      "Documentation technique et exemples accessibles pour étude"
+    ],
+    "limits": [
+      "Le service web et les applications ont fermé le 26 avril 2026",
+      "L’API Sora a fermé le 24 septembre 2026",
+      "Ce service ne doit plus être recommandé comme solution vidéo actuellement accessible"
+    ],
+    "gettingStarted": [
+      "Ne pas chercher à créer de nouveaux projets Sora; consulter la documentation officielle de fermeture et les éventuelles options d’export."
+    ],
+    "examples": [
+      "Compare les approches historiques de Sora et de Runway, sans présumer de leur disponibilité actuelle."
+    ],
+    "pricing": "Service arrêté; anciens forfaits non pertinents pour un nouvel utilisateur.",
+    "privacy": "Pour les contenus historiques, suivre les consignes officielles d’export et de suppression des données.",
+    "selection": [
+      "Fiche d’archive. Pour une création vidéo actuelle, consulter des alternatives actives telles que Runway."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "discontinued",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://help.openai.com/fr-fr/articles/20001152-what-to-know-about-the-sora-discontinuation",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "HeyGen": {
+    "headline": "Plateforme de vidéos avec avatars, voix de synthèse et localisation multilingue.",
+    "audiences": [
+      "Équipes de formation",
+      "Marketing et communication",
+      "Services client et entreprises internationales"
+    ],
+    "cases": [
+      "Créer une vidéo de présentation avec avatar",
+      "Localiser une vidéo en plusieurs langues",
+      "Faire des tutoriels et messages internes",
+      "Produire des vidéos sans tournage traditionnel"
+    ],
+    "advantages": [
+      "Avatars prédéfinis et personnalisables",
+      "Voix, doublage et langues multiples",
+      "Fonctions de collaboration et gabarits selon formule"
+    ],
+    "limits": [
+      "Qualité de synchronisation et d’expressivité variable",
+      "Droits à l’image et consentement nécessaires pour avatars et voix clonées",
+      "Résolution, durée et quotas varient selon l’offre"
+    ],
+    "gettingStarted": [
+      "Rédiger un scénario court, choisir un avatar autorisé, tester voix et prononciation avant la version finale."
+    ],
+    "examples": [
+      "Crée le script d’une vidéo d’accueil de 60 secondes pour un cours.",
+      "Localise cette présentation en espagnol sans modifier les noms propres."
+    ],
+    "pricing": "Offre Free limitée à trois vidéos par mois d’une minute avec filigrane d’après la page consultée; Creator et offres supérieures.",
+    "privacy": "Exiger consentement pour toute reproduction de visage ou de voix; éviter d’induire le public en erreur.",
+    "selection": [
+      "Particulièrement utile pour les présentateurs virtuels; montage classique préférable pour scènes d’action réalistes."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://www.heygen.com/pricing",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Synthesia": {
+    "headline": "Studio de vidéos de formation et de communication à base d’avatars et de modèles.",
+    "audiences": [
+      "Services formation/RH",
+      "Équipes internes de communication",
+      "Organisations déployant des contenus multilingues"
+    ],
+    "cases": [
+      "Produire des modules de formation",
+      "Créer une présentation avec avatar",
+      "Doubler des vidéos",
+      "Décliner des vidéos en plusieurs langues"
+    ],
+    "advantages": [
+      "Flux dédié à l’apprentissage et aux supports professionnels",
+      "Gabarits, bibliothèques et contenus interactifs",
+      "API et options de gouvernance selon offre"
+    ],
+    "limits": [
+      "Crédits ou minutes de génération limités",
+      "Les sujets techniques exigent vérification du script",
+      "Le consentement et la transparence restent essentiels pour les avatars"
+    ],
+    "gettingStarted": [
+      "Rédiger un texte court avec objectifs d’apprentissage, sélectionner voix/présentateur et visionner un brouillon avec des apprenants."
+    ],
+    "examples": [
+      "Vidéo de sécurité informatique de 90 secondes pour nouveaux employés.",
+      "Script de microlearning avec question de compréhension."
+    ],
+    "pricing": "Offres Basic (gratuite), Starter, Pro et offres entreprise; budget calculé en crédits pour vidéo, doublage et fonctions associées.",
+    "privacy": "Respecter droits à l’image, données internes et politiques d’entreprise pour des vidéos diffusées à grande échelle.",
+    "selection": [
+      "Adapté aux vidéos pédagogiques à avatar; HeyGen se distingue aussi par les flux marketing et localisation."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://www.synthesia.io/pricing",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "ElevenLabs": {
+    "headline": "Plateforme de voix et d’audio par IA pour synthèse, transcription, doublage et production sonore.",
+    "audiences": [
+      "Podcasteurs et narrateurs",
+      "Développeurs d’applications vocales",
+      "Créateurs vidéo et équipes de localisation"
+    ],
+    "cases": [
+      "Créer une narration à partir d’un texte",
+      "Transcrire ou doubler un enregistrement",
+      "Explorer des voix adaptées au contenu",
+      "Intégrer de l’audio via API selon usage"
+    ],
+    "advantages": [
+      "Large éventail d’outils vocaux",
+      "Voix et sorties audio variées",
+      "Accès à des fonctionnalités API et studios selon forfait"
+    ],
+    "limits": [
+      "Clonage de voix soumis au consentement et à des règles spécifiques",
+      "Qualité variable selon langue, émotion et phonétique",
+      "Crédits et droits commerciaux dépendants du plan"
+    ],
+    "gettingStarted": [
+      "Sélectionner une voix autorisée, tester un texte court avec noms propres, corriger la prononciation et vérifier la licence."
+    ],
+    "examples": [
+      "Génère une narration claire de 30 secondes pour une animation de musée.",
+      "Prépare les phrases d’une interface vocale inclusive."
+    ],
+    "pricing": "Offres Free puis Starter, Creator, Pro, Scale, Business et Enterprise avec allocations mensuelles de crédits.",
+    "privacy": "Ne pas reproduire une voix identifiable sans accord explicite; vérifier consentement et droits de diffusion.",
+    "selection": [
+      "Pour la création de voix et l’audio; un simple outil de transcription peut suffire sans synthèse vocale."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://elevenlabs.io/pricing",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Suno": {
+    "headline": "Service de génération de morceaux musicaux à partir de consignes textuelles et musicales.",
+    "audiences": [
+      "Musiciens et créateurs d’ébauches",
+      "Créateurs vidéo et d’expériences",
+      "Enseignants travaillant sur la composition"
+    ],
+    "cases": [
+      "Explorer des idées de chansons et d’arrangements",
+      "Générer des accompagnements et maquettes",
+      "Travailler sur des variantes de style et d’instrumentation",
+      "Créer une base musicale pour des projets dont la licence le permet"
+    ],
+    "advantages": [
+      "Création musicale par description",
+      "Fonctions d’édition et studio selon plan",
+      "Offres avec droits commerciaux spécifiques"
+    ],
+    "limits": [
+      "Les droits commerciaux ne sont pas inclus dans l’offre Free",
+      "L’identité des voix et similitudes musicales exigent prudence",
+      "Les crédits et téléchargements restent limités"
+    ],
+    "gettingStarted": [
+      "Décrire style, tempo, instruments et structure souhaités; écouter attentivement les résultats et vérifier les droits avant diffusion."
+    ],
+    "examples": [
+      "Compose une maquette originale instrumentale de 30 secondes, acoustique et chaleureuse.",
+      "Propose trois styles différents pour accompagner une visite virtuelle."
+    ],
+    "pricing": "Free avec crédits quotidiens mais sans droits commerciaux; Pro et Premier avec quotas mensuels et usage commercial selon conditions.",
+    "privacy": "La musique produite ne doit pas reproduire intentionnellement des œuvres protégées ou voix de tiers sans droits.",
+    "selection": [
+      "À privilégier pour expérimenter la création musicale; vérifier la licence avant toute monétisation."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://suno.com/pricing",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Otter": {
+    "headline": "Assistant de réunions pour transcription, recherche dans les échanges et synthèses.",
+    "audiences": [
+      "Équipes projet",
+      "Journalistes et intervieweurs",
+      "Étudiants en réunion ou entretien"
+    ],
+    "cases": [
+      "Transcrire une réunion Zoom/Meet/Teams",
+      "Repérer décisions, points ouverts et tâches",
+      "Rechercher un passage d’échange",
+      "Conserver un historique de réunions selon permissions"
+    ],
+    "advantages": [
+      "Transcription en direct et identification de locuteurs",
+      "Assistant de recherche et workflows de réunion",
+      "Intégrations professionnelles selon plan"
+    ],
+    "limits": [
+      "Accents, noms et jargon peuvent être mal transcrits",
+      "Consentement et règles locales d’enregistrement indispensables",
+      "Durée mensuelle et imports limités selon offre"
+    ],
+    "gettingStarted": [
+      "Obtenir l’accord des participants, tester le micro, enregistrer une courte réunion puis relire les noms et décisions."
+    ],
+    "examples": [
+      "Extrais décisions et responsables de cette réunion, avec horodatages.",
+      "Prépare un suivi de projet à partir de cette transcription."
+    ],
+    "pricing": "Basic gratuit limité; Pro, Business et Enterprise avec durées de transcription et intégrations étendues.",
+    "privacy": "L’enregistrement et la conservation de réunions nécessitent une base légale, une information des participants et des droits d’accès adaptés.",
+    "selection": [
+      "Adapté aux comptes rendus récurrents; pour une simple transcription de fichier, un moteur de transcription peut suffire."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://otter.ai/pricing",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Fireflies.ai": {
+    "headline": "Assistant de réunion orienté transcription, résumés, recherche et automatisations de suivi.",
+    "audiences": [
+      "Équipes commerciales et opérationnelles",
+      "Chefs de projet",
+      "Organisations avec réunions régulières"
+    ],
+    "cases": [
+      "Enregistrer et transcrire des échanges autorisés",
+      "Créer des synthèses et tâches",
+      "Rechercher des thèmes dans des réunions",
+      "Transmettre des actions aux outils de travail"
+    ],
+    "advantages": [
+      "Connexions aux réunions et aux outils d’équipe",
+      "Transcription multilingue",
+      "API et fonctions d’analyse selon formule"
+    ],
+    "limits": [
+      "Le bot de réunion doit être déclaré aux participants",
+      "Erreurs de transcription possibles",
+      "Résumé et stockage limités selon plan"
+    ],
+    "gettingStarted": [
+      "Choisir les réunions où la prise de notes est autorisée, vérifier les consentements et relire la synthèse avant sa diffusion."
+    ],
+    "examples": [
+      "Liste les décisions, objections et tâches attribuées lors de ce point client.",
+      "Rédige un message de suivi neutre sans ajouter d’engagements."
+    ],
+    "pricing": "Free, Pro, Business et Enterprise; accès aux résumés, stockage, intégrations et crédits selon la formule.",
+    "privacy": "Options de conservation, SSO et conformité dépendent du plan; organiser les accès avant enregistrement.",
+    "selection": [
+      "Utile pour équipes qui veulent connecter le suivi des réunions à leurs flux métier."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://fireflies.ai/fr/pricing",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Descript": {
+    "headline": "Éditeur audio/vidéo où l’on peut monter un enregistrement en travaillant aussi sur sa transcription.",
+    "audiences": [
+      "Podcasteurs",
+      "Créateurs vidéo et formateurs",
+      "Équipes de communication"
+    ],
+    "cases": [
+      "Monter une interview en supprimant des passages du texte",
+      "Sous-titrer et reformater une vidéo",
+      "Améliorer un son avec des outils IA",
+      "Créer des clips et narrations selon les fonctions disponibles"
+    ],
+    "advantages": [
+      "Montage fondé sur la transcription",
+      "Outils Studio Sound et suppression de tics de langage",
+      "Flux de création audio et vidéo dans une interface"
+    ],
+    "limits": [
+      "Corriger les transcriptions avant de supprimer des segments",
+      "Clonage de voix exige droits et consentement",
+      "Heures et crédits IA limités selon plan"
+    ],
+    "gettingStarted": [
+      "Importer un clip test, contrôler le texte transcrit, effectuer un montage simple puis visionner/exporter une version brouillon."
+    ],
+    "examples": [
+      "Montage d’un entretien de cinq minutes en conservant le sens des réponses.",
+      "Crée trois extraits sous-titrés de cette conférence."
+    ],
+    "pricing": "Offres gratuites et payantes dont Hobbyist et Creator; heures de médias, crédits IA et résolutions variables.",
+    "privacy": "Enregistrer la permission des invités avant publication ou usage de voix de synthèse.",
+    "selection": [
+      "Approche très accessible pour podcasts et interviews; les montages complexes peuvent nécessiter un éditeur professionnel."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://www.descript.com/pricing",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "CapCut": {
+    "headline": "Éditeur vidéo multi-plateforme avec assistance IA pour sous-titres, recadrage et montage.",
+    "audiences": [
+      "Créateurs de réseaux sociaux",
+      "Enseignants et communicants",
+      "Utilisateurs mobiles et débutants"
+    ],
+    "cases": [
+      "Monter des vidéos courtes",
+      "Générer et corriger des sous-titres",
+      "Découper et réorganiser des clips",
+      "Appliquer des corrections visuelles et sonores"
+    ],
+    "advantages": [
+      "Édition sur mobile, web et bureau",
+      "Timeline éditable après intervention IA",
+      "Modèles et automatisations accessibles"
+    ],
+    "limits": [
+      "Fonctions variables selon appareil et région",
+      "Sous-titres automatiques toujours à relire",
+      "Effets et licences des médias à vérifier"
+    ],
+    "gettingStarted": [
+      "Importer des séquences, construire le récit sur la timeline, activer les sous-titres puis vérifier synchronisation et droits."
+    ],
+    "examples": [
+      "Crée une vidéo verticale de 45 secondes à partir de ce tutoriel.",
+      "Supprime les hésitations et ajoute des titres accessibles."
+    ],
+    "pricing": "Fonctions gratuites et payantes selon version et région; tarifs détaillés à vérifier dans l’application utilisée.",
+    "privacy": "Examiner les autorisations sur les vidéos personnelles et les conditions d’usage des médias intégrés.",
+    "selection": [
+      "Pratique pour montage rapide de vidéos courtes; Descript privilégie le montage par texte."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://www.capcut.com/resource/ai-video-editor-guide",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "GitHub Copilot": {
+    "headline": "Assistant de programmation et agents de codage intégrés à GitHub et aux environnements de développement.",
+    "audiences": [
+      "Développeurs et équipes logicielles",
+      "Étudiants en informatique",
+      "Responsables de maintenance applicative"
+    ],
+    "cases": [
+      "Compléter du code et suggérer des modifications",
+      "Expliquer un projet ou corriger des erreurs",
+      "Générer des tests et assister des revues de code",
+      "Déléguer certaines tâches à des agents suivant le plan"
+    ],
+    "advantages": [
+      "Intégration à GitHub et aux éditeurs",
+      "Suggestions, chat, revue et agents selon offre",
+      "Gestion centralisée des accès dans les organisations"
+    ],
+    "limits": [
+      "Code proposé à tester et auditer pour sécurité/licences",
+      "Crédits IA et accès aux modèles selon formule",
+      "Les agents ne remplacent pas une revue des changements"
+    ],
+    "gettingStarted": [
+      "Activer Copilot dans un dépôt de démonstration, demander un test unitaire, inspecter le diff puis exécuter tests et analyse statique."
+    ],
+    "examples": [
+      "Écris des tests de bord pour cette fonction sans modifier son API.",
+      "Explique ce bug et propose un correctif minimal avec test de non-régression."
+    ],
+    "pricing": "Copilot Free avec quotas, Pro annoncé à 10 USD/mois, Pro+ à 39 USD/mois et formules organisations; usage d’agents décompté en crédits.",
+    "privacy": "Pour les dépôts privés, lire la politique de rétention, les réglages de suggestions et les autorisations des agents.",
+    "selection": [
+      "Naturel si le développement se fait sur GitHub; Cursor convient aussi aux changements transversaux dans un éditeur."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://github.com/features/copilot/plans",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      },
+      {
+        "url": "https://docs.github.com/en/copilot/get-started/plans",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Cursor": {
+    "headline": "Environnement de développement assisté par agents capables de parcourir, modifier et tester un projet.",
+    "audiences": [
+      "Développeurs autonomes et équipes",
+      "Créateurs de prototypes",
+      "Responsables de refactorisation"
+    ],
+    "cases": [
+      "Comprendre une base de code",
+      "Modifier plusieurs fichiers à partir d’une demande",
+      "Lancer tests et corrections avec l’agent",
+      "Planifier une fonctionnalité avant exécution"
+    ],
+    "advantages": [
+      "Agent multi-fichiers et accès au terminal",
+      "Modes Ask, Plan, Debug ou Agent selon interface",
+      "Intégration dans le flux de codage quotidien"
+    ],
+    "limits": [
+      "Toute opération autonome peut produire des modifications inadaptées",
+      "Déploiement, exécution de scripts et secrets à contrôler",
+      "Tarification et accès aux modèles tiers très variables selon plan"
+    ],
+    "gettingStarted": [
+      "Ouvrir un dépôt Git avec branche de travail, demander un plan avant modification, examiner le diff et exécuter les tests."
+    ],
+    "examples": [
+      "Ajoute un filtre accessible sans modifier la structure des URL existantes.",
+      "Recherche la cause de ce test cassé et fournis une correction limitée."
+    ],
+    "pricing": "Offres Free, Plus, Premium, Super, Ultra et Teams; modèles tiers pouvant être facturés séparément au tarif API.",
+    "privacy": "Restreindre accès aux secrets et aux systèmes de production; tenir compte de l’exécution de commandes par l’agent.",
+    "selection": [
+      "Très adapté à la programmation interactive sur une base de code; comparer coût réel des modèles et besoins de contrôle."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://cursor.com/help/ai-features/agent",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      },
+      {
+        "url": "https://cursor.com/pricing",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Claude Code": {
+    "headline": "Agent de développement Anthropic destiné à agir sur une base de code avec outils et commandes.",
+    "audiences": [
+      "Développeurs expérimentés",
+      "Équipes de maintenance",
+      "Ingénieurs automatisant des tâches de code"
+    ],
+    "cases": [
+      "Explorer et expliquer un projet",
+      "Implémenter des changements documentés",
+      "Exécuter tests et refactorisation",
+      "Automatiser une tâche de maintenance avec supervision"
+    ],
+    "advantages": [
+      "Approche agentique du code",
+      "Intégration au travail local et à certaines formules Claude",
+      "Possibilité de raisonner sur le contexte du dépôt"
+    ],
+    "limits": [
+      "Permission des outils et accès à l’environnement à encadrer",
+      "Le code doit être revu et testé",
+      "Abonnement et limites d’usage selon offres Claude"
+    ],
+    "gettingStarted": [
+      "Travailler sur une branche dédiée, interdire toute modification de secrets et demander tests, résumé de diff et justification."
+    ],
+    "examples": [
+      "Réorganise cette classe sans changer les comportements publics.",
+      "Génère un plan de migration avec étapes réversibles et tests."
+    ],
+    "pricing": "Claude Code est inclus dans certaines offres Claude payantes; des modalités API et quotas spécifiques existent.",
+    "privacy": "Minimiser la portée des commandes et les accès de lecture/écriture pour les projets confidentiels.",
+    "selection": [
+      "Pour du codage guidé par agent; GitHub Copilot est un autre choix proche des PR et environnements GitHub."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://claude.com/pricing",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "OpenAI Codex": {
+    "headline": "Agent de programmation OpenAI pour comprendre, modifier, tester et livrer du code.",
+    "audiences": [
+      "Développeurs et équipes produit",
+      "Créateurs d’applications",
+      "Mainteneurs de dépôts"
+    ],
+    "cases": [
+      "Implémenter une fonction décrite en langage naturel",
+      "Proposer des correctifs avec tests",
+      "Lire et expliquer des modules",
+      "Automatiser des tâches de développement sous contrôle"
+    ],
+    "advantages": [
+      "Agent adapté à des projets avec fichiers et commandes",
+      "Flux de développement, tests et revue de code",
+      "Fonctionnalités disponibles dans divers environnements Codex"
+    ],
+    "limits": [
+      "Résultats nécessitant vérification et tests",
+      "Le périmètre des actions et secrets doit être limité",
+      "Accès, quotas et modes d’exécution variables"
+    ],
+    "gettingStarted": [
+      "Fournir un dépôt de test, un résultat attendu mesurable et demander un diff, une batterie de tests et un inventaire des incertitudes."
+    ],
+    "examples": [
+      "Écris une page responsive respectant cette charte et teste les liens.",
+      "Corrige cette erreur de déploiement sans modifier les variables secrètes."
+    ],
+    "pricing": "Accès et tarifs liés à la formule ChatGPT ou à l’API employée; contrôler les conditions de Codex en vigueur.",
+    "privacy": "Éviter les clés et données privées dans les prompts; examiner les permissions de travail et validations avant déploiement.",
+    "selection": [
+      "Adapté à l’implémentation de tâches de code bout en bout, avec approbation humaine obligatoire pour publier."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://developers.openai.com/learn/codex",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Lovable": {
+    "headline": "Environnement de création d’applications web à partir de descriptions en langage naturel.",
+    "audiences": [
+      "Entrepreneurs et porteurs de projets",
+      "Designers qui prototypent",
+      "Équipes produit sans équipe complète au démarrage"
+    ],
+    "cases": [
+      "Créer une interface web fonctionnelle rapidement",
+      "Construire un prototype CRUD",
+      "Expérimenter des parcours d’inscription et tableaux de bord",
+      "Itérer sur design, données et logique applicative"
+    ],
+    "advantages": [
+      "Flux prompt-vers-application",
+      "Création et publication de sites",
+      "Gestion de projets et collaboration selon l’offre"
+    ],
+    "limits": [
+      "Code et sécurité à auditer avant exposition publique",
+      "Crédits d’édition et de cloud limités",
+      "Les applications complexes demandent une architecture réfléchie"
+    ],
+    "gettingStarted": [
+      "Décrire utilisateurs, données, écrans et règles de sécurité; générer un prototype sans données sensibles, puis tester chaque parcours."
+    ],
+    "examples": [
+      "Crée un répertoire d’outils avec catégories, filtres et fiches liées.",
+      "Propose un mini-CRM avec rôles simples et export CSV."
+    ],
+    "pricing": "Offre Free et abonnement Pro; quotas de crédits pour génération, cloud et fonctions IA de l’application.",
+    "privacy": "Éviter de mettre des secrets dans le code côté client; vérifier la configuration des bases et des droits d’accès.",
+    "selection": [
+      "Très pratique pour tester une idée; le passage en production nécessite tests, sauvegardes et surveillance."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://lovable.dev/fr/pricing",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Bolt.new": {
+    "headline": "Constructeur d’applications et de sites par IA avec aperçu, hébergement et gestion de projet.",
+    "audiences": [
+      "Développeurs et créateurs de prototypes",
+      "Start-up et indépendants",
+      "Formateurs en développement web"
+    ],
+    "cases": [
+      "Générer une application web par description",
+      "Modifier une interface en conversation",
+      "Héberger des prototypes",
+      "Expérimenter des applications connectées à des données"
+    ],
+    "advantages": [
+      "Passage rapide du prompt au site utilisable",
+      "Hébergement intégré et domaines selon offre",
+      "Projets publics ou privés et outils de données"
+    ],
+    "limits": [
+      "Quotas de jetons et limites de projet",
+      "Une application générée peut comporter des erreurs de sécurité",
+      "Tests d’accessibilité, performance et conformité restent nécessaires"
+    ],
+    "gettingStarted": [
+      "Définir un périmètre minimal, demander une première version, puis valider navigation, persistance et permissions en tests réels."
+    ],
+    "examples": [
+      "Construis un tableau de bord pédagogique à partir de ce JSON.",
+      "Ajoute une recherche accessible et des états vides clairs."
+    ],
+    "pricing": "Offre gratuite avec limite de jetons; Pro et Teams avec quotas augmentés et domaines personnalisés.",
+    "privacy": "Vérifier le mode privé des projets, la base de données et la gestion des clés côté serveur.",
+    "selection": [
+      "Alternative directe à Lovable pour prototyper; privilégier les tests concrets plutôt que les promesses du constructeur."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://bolt.new/pricing",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "v0": {
+    "headline": "Générateur d’interfaces et d’applications web de Vercel avec édition visuelle et déploiement.",
+    "audiences": [
+      "Développeurs front-end",
+      "Designers produits",
+      "Créateurs de prototypes web"
+    ],
+    "cases": [
+      "Générer des composants et pages web",
+      "Passer d’un brief à une interface utilisable",
+      "Synchroniser le code avec GitHub",
+      "Déployer un projet sur Vercel"
+    ],
+    "advantages": [
+      "Édition visuelle et aperçus",
+      "Synchronisation Git et déploiement Vercel",
+      "Approche itérative du design et du code"
+    ],
+    "limits": [
+      "Quotas de messages et crédits selon formule",
+      "Composants produits à tester sur mobile et au clavier",
+      "Les secrets et autorisations ne doivent pas être laissés dans le client"
+    ],
+    "gettingStarted": [
+      "Créer une page test avec contraintes graphiques et accessibilité, valider la prévisualisation, puis synchroniser un dépôt de test."
+    ],
+    "examples": [
+      "Crée une fiche d’outil IA avec badges, citations et mise en page responsive.",
+      "Conçois un comparateur de quatre produits accessible au clavier."
+    ],
+    "pricing": "Free, Plus, Business et Enterprise; crédits et quotas de messages suivant les offres.",
+    "privacy": "Relire la configuration des dépôts synchronisés, des clés API et des paramètres de déploiement.",
+    "selection": [
+      "Intéressant lorsque Vercel est la plateforme de publication cible; une revue des modifications Git reste nécessaire."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://v0.app/pricing",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Replit": {
+    "headline": "Environnement de développement et d’hébergement en ligne avec agent IA.",
+    "audiences": [
+      "Apprenants et enseignants en programmation",
+      "Développeurs de prototypes",
+      "Petites équipes"
+    ],
+    "cases": [
+      "Créer et exécuter du code dans le navigateur",
+      "Faire évoluer une application avec un agent",
+      "Partager un prototype hébergé",
+      "Expérimenter des projets de programmation"
+    ],
+    "advantages": [
+      "Édition, exécution et hébergement dans le même environnement",
+      "Agent orienté développement",
+      "Collaboration et publication de projets"
+    ],
+    "limits": [
+      "Coûts de l’agent ou de l’hébergement selon la charge",
+      "Les suggestions peuvent contenir des erreurs",
+      "L’accès public aux projets et données doit être vérifié"
+    ],
+    "gettingStarted": [
+      "Choisir un projet simple, écrire les critères de réussite, demander une première version puis tester interface et données."
+    ],
+    "examples": [
+      "Crée une application de quiz avec sauvegarde locale.",
+      "Ajoute un export JSON et un contrôle de formulaire."
+    ],
+    "pricing": "Formules gratuites et payantes; facturation et crédits pour Agent et déploiements à consulter sur la grille officielle.",
+    "privacy": "Contrôler la visibilité des projets et des variables d’environnement avant publication.",
+    "selection": [
+      "Bon environnement pédagogique et de prototypage; déterminer le budget de déploiement avant un projet intensif."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://replit.com/pricing",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "LangChain": {
+    "headline": "Bibliothèque et cadre logiciel pour assembler modèles, outils, recherches et agents IA.",
+    "audiences": [
+      "Développeurs Python/TypeScript",
+      "Ingénieurs RAG",
+      "Équipes bâtissant des assistants internes"
+    ],
+    "cases": [
+      "Connecter modèles et fournisseurs",
+      "Composer des agents avec outils",
+      "Intégrer une recherche documentaire",
+      "Construire des chaînes de traitement paramétrables"
+    ],
+    "advantages": [
+      "Bibliothèques et intégrations nombreuses",
+      "Abstraction de fournisseurs de modèles",
+      "Composition de middlewares et appels d’outils"
+    ],
+    "limits": [
+      "Nécessite programmation et maintenance",
+      "Les coûts proviennent aussi des API et services associés",
+      "Évaluer traces, permissions, tests et robustesse en production"
+    ],
+    "gettingStarted": [
+      "Créer un petit cas d’usage reproductible et tester avec un jeu de questions; mesurer les sources et erreurs plutôt que la seule fluidité."
+    ],
+    "examples": [
+      "Construis un assistant RAG sur dix PDF avec citations.",
+      "Définis un agent qui interroge une base et valide le schéma de sortie."
+    ],
+    "pricing": "Framework open source; coûts éventuels des modèles, du stockage et des services commerciaux complémentaires.",
+    "privacy": "Ne pas transmettre de documents internes à des modèles distants sans autorisation; journaliser les actions des agents.",
+    "selection": [
+      "Choisir pour développer un assistant configurable; LangGraph donne plus de contrôle sur les flux complexes."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://www.langchain.com/oss-overview",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "LangGraph": {
+    "headline": "Moteur d’orchestration pour agents à états, tâches longues et flux mêlant IA et logique déterministe.",
+    "audiences": [
+      "Développeurs d’agents complexes",
+      "Architectes IA",
+      "Équipes de production devant tracer les décisions"
+    ],
+    "cases": [
+      "Définir des étapes d’un agent et ses transitions",
+      "Conserver un état entre plusieurs actions",
+      "Ajouter une intervention humaine avant une opération sensible",
+      "Reprendre des tâches longues ou interrompues"
+    ],
+    "advantages": [
+      "Exécution durable, streaming et mémoire",
+      "Étapes explicites et contrôles humains",
+      "Architecture adaptée aux agents de longue durée"
+    ],
+    "limits": [
+      "Courbe d’apprentissage supérieure à un chat simple",
+      "Coût et complexité de l’observabilité en production",
+      "Les graphes n’empêchent pas des résultats erronés du modèle"
+    ],
+    "gettingStarted": [
+      "Dessiner les états et transitions, prévoir des points d’arrêt humains, puis simuler échecs d’API et reprises."
+    ],
+    "examples": [
+      "Orchestre collecte, critique et publication de fiches avec validation humaine.",
+      "Crée un agent à étapes avec reprise après échec réseau."
+    ],
+    "pricing": "Moteur open source; les services d’hébergement et d’observabilité, ainsi que les API de modèles, peuvent être facturés.",
+    "privacy": "Limiter les permissions de chaque nœud et conserver un journal d’approbation des actions sensibles.",
+    "selection": [
+      "À privilégier pour agents durables et workflow contrôlé, pas pour une simple question-réponse."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://reference.langchain.com/",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Zapier": {
+    "headline": "Plateforme d’automatisation entre applications avec fonctions IA et agents.",
+    "audiences": [
+      "Équipes non techniques",
+      "Marketing et opérations",
+      "Entreprises connectant plusieurs SaaS"
+    ],
+    "cases": [
+      "Transférer des données entre applications",
+      "Déclencher des workflows à partir d’événements",
+      "Enrichir un flux avec un modèle IA",
+      "Créer des formulaires et tables reliés aux automatisations"
+    ],
+    "advantages": [
+      "Nombreux connecteurs d’applications",
+      "Flux visuels avec déclencheurs et actions",
+      "MCP, assistants et outils IA au sein de la plateforme"
+    ],
+    "limits": [
+      "Les tâches peuvent générer des coûts croissants",
+      "Attention aux boucles et duplications d’automatisation",
+      "Droits des applications connectées à limiter"
+    ],
+    "gettingStarted": [
+      "Choisir un processus répétitif et réversible, tester sur des données fictives, observer journaux et quota avant activation."
+    ],
+    "examples": [
+      "Quand un formulaire est reçu, créer une ligne dans une table et notifier une équipe.",
+      "Qualifier des demandes entrantes sans envoyer de réponse automatique."
+    ],
+    "pricing": "Gratuit avec tâches mensuelles limitées; paliers payants facturés selon volume et fonctions de l’orchestration.",
+    "privacy": "Examiner l’accès aux applications connectées et éviter la circulation inutile de données personnelles.",
+    "selection": [
+      "Indiqué pour connecter rapidement des SaaS; n8n apporte aussi l’option d’autohébergement."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://zapier.com/pricing",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Make": {
+    "headline": "Plateforme visuelle de scénarios d’automatisation et d’agents IA entre applications.",
+    "audiences": [
+      "Responsables opérationnels",
+      "Intégrateurs no-code",
+      "Équipes marketing et données"
+    ],
+    "cases": [
+      "Construire des scénarios déclenchés par événements",
+      "Transformer et router des données",
+      "Appeler des services IA dans un workflow",
+      "Superviser des opérations et erreurs"
+    ],
+    "advantages": [
+      "Éditeur visuel de scénarios",
+      "Nombreuses intégrations et outils IA",
+      "Fonctions de transformation, de code et de suivi selon formule"
+    ],
+    "limits": [
+      "La consommation de crédits et les opérations doivent être anticipées",
+      "La maintenance peut devenir complexe sur de grands scénarios",
+      "Des erreurs de branchement peuvent causer des actions involontaires"
+    ],
+    "gettingStarted": [
+      "Dessiner les étapes d’un scénario, utiliser un jeu de test, activer les logs et définir un traitement des erreurs."
+    ],
+    "examples": [
+      "Importer des réponses à un questionnaire, normaliser les colonnes et générer une synthèse.",
+      "Créer un parcours de validation avant publication d’une fiche."
+    ],
+    "pricing": "Free, Core, Pro, Teams et Enterprise; facturation selon consommation et capacités du scénario.",
+    "privacy": "Limiter les droits des connexions et distinguer les environnements de test et de production.",
+    "selection": [
+      "Convient aux scénarios visuels sophistiqués; Zapier met l’accent sur sa vaste bibliothèque d’intégrations."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://www.make.com/en/pricing",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "n8n": {
+    "headline": "Automatisation de workflows et agents IA avec offre hébergée et édition communautaire autohébergeable.",
+    "audiences": [
+      "Développeurs et intégrateurs",
+      "Équipes cherchant la maîtrise de l’hébergement",
+      "Services métiers automatisant des données"
+    ],
+    "cases": [
+      "Créer un agent reliant services et modèles",
+      "Automatiser collecte, transformation et publication",
+      "Héberger des processus en interne",
+      "Déclencher des workflows avec contrôles d’erreur"
+    ],
+    "advantages": [
+      "Éditeur visuel et nœuds IA",
+      "Community Edition autohébergeable",
+      "Tarification cloud basée sur les exécutions de workflow plutôt que sur le nombre d’étapes"
+    ],
+    "limits": [
+      "Autohébergement demande compétences serveur, sauvegarde et sécurité",
+      "Gestion des identifiants et des permissions indispensable",
+      "Exécutions concurrentes et quotas variables selon offre"
+    ],
+    "gettingStarted": [
+      "Créer un workflow non destructif, valider chaque sortie sur des données fictives, puis ajouter gestion d’erreurs et secrets protégés."
+    ],
+    "examples": [
+      "Surveille une liste de sources officielles et prépare un brouillon d’actualisation.",
+      "Reçois un formulaire puis crée une synthèse validée avant diffusion."
+    ],
+    "pricing": "Community Edition disponible en autohébergement; cloud Starter annoncé à 20 EUR/mois en facturation annuelle et Pro à 50 EUR/mois sur la grille consultée.",
+    "privacy": "La confidentialité dépend de l’hébergement, des intégrations et des modèles distants utilisés.",
+    "selection": [
+      "Très intéressant pour des workflows personnalisés à contrôler; prévoir la maintenance technique."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://n8n.io/pricing/",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Notion AI": {
+    "headline": "Fonctions IA au sein d’un espace Notion pour documents, bases de données et connaissance d’équipe.",
+    "audiences": [
+      "Équipes projet et documentation",
+      "PME et indépendants",
+      "Organisations de connaissance"
+    ],
+    "cases": [
+      "Résumer et rédiger des pages",
+      "Interroger des documents internes autorisés",
+      "Enrichir des bases de données",
+      "Préparer suivis et comptes rendus"
+    ],
+    "advantages": [
+      "IA au sein des pages et bases existantes",
+      "Fonctions de recherche d’entreprise selon plan",
+      "Agents et notes de réunion selon la formule"
+    ],
+    "limits": [
+      "Accès aux fonctions avancées selon abonnement et crédits",
+      "La qualité dépend des permissions et des documents",
+      "Risques de diffusion accidentelle si pages mal partagées"
+    ],
+    "gettingStarted": [
+      "Organiser un espace propre avec titres et permissions, puis tester l’IA sur une page non confidentielle avec demandes ciblées."
+    ],
+    "examples": [
+      "Résume cette base de tâches par priorité et responsable.",
+      "Prépare une page de réunion avec décisions et points bloquants."
+    ],
+    "pricing": "Free, Plus, Business et Enterprise; l’accès complet aux fonctions IA et agents dépend du plan et de crédits.",
+    "privacy": "Vérifier les permissions des pages, les paramètres d’entreprise et les règles de rétention des données.",
+    "selection": [
+      "Adapté si la documentation d’équipe est déjà dans Notion; un moteur documentaire externe peut suffire pour un corpus ponctuel."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://www.notion.com/pricing",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Consensus": {
+    "headline": "Moteur de recherche scientifique assisté par IA qui interroge la littérature académique avant de synthétiser.",
+    "audiences": [
+      "Chercheurs et étudiants",
+      "Professionnels de santé en recherche documentaire",
+      "Enseignants"
+    ],
+    "cases": [
+      "Trouver des articles évalués par les pairs",
+      "Identifier résultats et divergences d’études",
+      "Vérifier les affirmations d’une synthèse",
+      "Explorer un domaine de recherche"
+    ],
+    "advantages": [
+      "Recherche prioritairement fondée sur la littérature",
+      "Liens vers des publications et références",
+      "Synthèses pour accélérer la phase exploratoire"
+    ],
+    "limits": [
+      "Une synthèse IA n’est pas une revue systématique",
+      "Vérifier échantillons, biais et robustesse des études",
+      "Toutes les disciplines et publications ne sont pas couvertes également"
+    ],
+    "gettingStarted": [
+      "Formuler une question de recherche précise, examiner protocoles et dates des études, puis construire sa propre bibliographie."
+    ],
+    "examples": [
+      "Quelles études évaluent l’effet de la récupération active sur l’apprentissage ?",
+      "Cartographie les résultats contradictoires et leurs limites méthodologiques."
+    ],
+    "pricing": "Formules d’accès gratuit et payantes selon fonctionnalités; prix détaillés à vérifier chez le fournisseur.",
+    "privacy": "Ne pas considérer une synthèse comme un avis clinique; évaluer indépendamment les données de santé.",
+    "selection": [
+      "Préférer pour exploration d’articles scientifiques; Perplexity couvre plus largement le web."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://help.consensus.app/en/articles/9922673-how-consensus-works",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Elicit": {
+    "headline": "Assistant de recherche scientifique pour trouver, comparer et extraire des informations de publications.",
+    "audiences": [
+      "Chercheurs en revue de littérature",
+      "Doctorants et bibliothécaires",
+      "Équipes de recherche appliquée"
+    ],
+    "cases": [
+      "Chercher des publications sur une question",
+      "Extraire des variables dans un tableau",
+      "Préparer une revue de littérature",
+      "Structurer une sélection d’études"
+    ],
+    "advantages": [
+      "Recherche scientifique et tables d’extraction",
+      "Workflows de revue systématique dans certaines offres",
+      "Exports bibliographiques et outils d’équipe"
+    ],
+    "limits": [
+      "Ne remplace pas des critères de sélection reproductibles",
+      "Extraction de données à auditer contre chaque article",
+      "Quotas et volumes de screening propres aux plans"
+    ],
+    "gettingStarted": [
+      "Définir une question de type PICO ou critères explicites, tester dix articles puis vérifier manuellement chaque donnée extraite."
+    ],
+    "examples": [
+      "Liste méthodes, échantillons et limites de ces articles en colonnes.",
+      "Identifie les études exclues et justifie la décision par critères."
+    ],
+    "pricing": "Basic gratuit pour exploration, Plus/Pro et formules institutionnelles; niveaux de recherche et d’extraction différents.",
+    "privacy": "Les protocoles ou articles non publics doivent être importés uniquement avec droits appropriés.",
+    "selection": [
+      "Choisir pour l’extraction structurée de littérature; Consensus convient à la recherche initiale de résultats."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://elicit.com/pricing",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Hugging Face": {
+    "headline": "Plateforme communautaire pour modèles d’apprentissage automatique, jeux de données et démonstrations.",
+    "audiences": [
+      "Ingénieurs ML et chercheurs",
+      "Étudiants en IA",
+      "Développeurs évaluant des modèles"
+    ],
+    "cases": [
+      "Découvrir et télécharger des modèles",
+      "Consulter licences, model cards et jeux de données",
+      "Tester des démos Spaces",
+      "Partager un modèle et collaborer sur sa version"
+    ],
+    "advantages": [
+      "Hub de modèles et de datasets",
+      "Historique Git des ressources et model cards",
+      "Spaces et services d’inférence pour prototypage"
+    ],
+    "limits": [
+      "Licence, provenance et qualité varient d’un dépôt à l’autre",
+      "Poids lourds et coûts de calcul peuvent être élevés",
+      "Un modèle public n’est pas forcément sûr ou compatible commercialement"
+    ],
+    "gettingStarted": [
+      "Sélectionner un modèle avec model card, licence et évaluation; tester localement sur données non sensibles et consigner ses résultats."
+    ],
+    "examples": [
+      "Compare trois modèles francophones en taille, licence et limites.",
+      "Construis un Space de démonstration avec un jeu de données public."
+    ],
+    "pricing": "Accès à de nombreux dépôts publics; ressources d’inférence et de calcul additionnelles payantes selon usage.",
+    "privacy": "Examiner licences, modèles, jeux de données et éventuelle télémétrie avant usage professionnel.",
+    "selection": [
+      "Référence pour explorer des modèles ouverts; Ollama facilite souvent l’exécution locale de modèles compatibles."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://huggingface.co/docs/hub/main/index",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Ollama": {
+    "headline": "Outil pour récupérer et exécuter des modèles compatibles en local ou via services associés.",
+    "audiences": [
+      "Développeurs et expérimentateurs",
+      "Équipes souhaitant contrôler leurs données",
+      "Étudiants en modèles génératifs"
+    ],
+    "cases": [
+      "Faire tourner un modèle téléchargé sur sa machine",
+      "Créer un prototype d’assistant local",
+      "Comparer des modèles et leurs tailles",
+      "Exposer un modèle via une interface locale"
+    ],
+    "advantages": [
+      "Catalogue de modèles avec capacités et tailles",
+      "Approche locale possible",
+      "Flux simple pour expérimentations techniques"
+    ],
+    "limits": [
+      "Performances contraintes par RAM, mémoire GPU et matériel",
+      "Tous les modèles ne conviennent pas à toutes les tâches ou langues",
+      "Une exécution locale ne garantit pas une sécurité totale"
+    ],
+    "gettingStarted": [
+      "Choisir un modèle dimensionné pour votre ordinateur, lire sa licence, démarrer un test local puis mesurer latence et qualité."
+    ],
+    "examples": [
+      "Compare un petit modèle et un grand sur dix questions en français.",
+      "Prototyper un assistant local sans document confidentiel au départ."
+    ],
+    "pricing": "Logiciel local et modèles proposés avec licences propres; calcul local et éventuels services cloud à distinguer.",
+    "privacy": "Vérifier que le mode réellement utilisé est local, couper la télémétrie si nécessaire et contrôler les ports exposés.",
+    "selection": [
+      "Utile pour expérimentation locale; Hugging Face offre davantage de ressources de découverte et de modèles."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://ollama.com/search",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "OpenAI API": {
+    "headline": "Interface de développement permettant d’intégrer des modèles OpenAI et des outils dans des applications.",
+    "audiences": [
+      "Développeurs et architectes IA",
+      "Éditeurs SaaS",
+      "Équipes créant des agents ou assistants métiers"
+    ],
+    "cases": [
+      "Générer du texte et des résultats structurés",
+      "Traiter images et sons selon endpoints",
+      "Appeler des outils et rechercher dans des fichiers",
+      "Construire des agents intégrés à une application"
+    ],
+    "advantages": [
+      "API Responses et outils documentés",
+      "SDK et intégrations pour plusieurs langages",
+      "Gestion programmatique des modèles et workflows"
+    ],
+    "limits": [
+      "Facturation à la consommation et limitations de débit",
+      "Nécessite gestion de clés, sécurité et tests",
+      "Les modèles peuvent produire des erreurs ou résultats non déterministes"
+    ],
+    "gettingStarted": [
+      "Créer une clé dans un projet dédié, la stocker côté serveur, tester une requête simple puis ajouter métriques de coûts et évaluations."
+    ],
+    "examples": [
+      "Produis une sortie JSON conforme à un schéma validé.",
+      "Implémente une FAQ avec recherche dans des fichiers et liens de provenance."
+    ],
+    "pricing": "Paiement à l’usage selon modèle, tokens et outils; abonnement ChatGPT et API sont deux services distincts.",
+    "privacy": "Ne jamais exposer une clé API dans du JavaScript client; limiter les droits, budgets et données transmises.",
+    "selection": [
+      "Choisir pour bâtir un produit sur les modèles OpenAI; une application ChatGPT prête à l’emploi convient mieux sans développement."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://developers.openai.com/api/docs",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Grok": {
+    "headline": "Assistant de xAI combinant conversation, recherche web et sur X, voix et création multimédia.",
+    "audiences": [
+      "Utilisateurs cherchant une veille rapide",
+      "Créateurs et équipes de communication",
+      "Développeurs évaluant les modèles xAI"
+    ],
+    "cases": [
+      "Chercher et discuter des informations publiées récemment sur le web ou X",
+      "Analyser des fichiers, tableaux ou captures",
+      "Créer des images et vidéos dans les limites du forfait",
+      "Utiliser des modes avancés et agents selon accès"
+    ],
+    "advantages": [
+      "Recherche web et X intégrée",
+      "Modes voix, images et vidéo",
+      "Offres web et applications mobiles synchronisées"
+    ],
+    "limits": [
+      "Les résultats des réseaux sociaux peuvent être erronés ou trompeurs",
+      "Fonctions et quotas changent selon Free et SuperGrok",
+      "L’accès à X ne remplace pas une vérification auprès de sources primaires"
+    ],
+    "gettingStarted": [
+      "Tester une question de veille, demander des liens sources précis, les ouvrir puis distinguer déclarations sur X et preuves indépendantes."
+    ],
+    "examples": [
+      "Compare ces annonces et vérifie les faits dans les communiqués officiels.",
+      "Explique ce graphique partagé sur X et signale ses éventuelles limites."
+    ],
+    "pricing": "Free disponible; formules SuperGrok et autres offres supérieures augmentent les limites; tarifs et crédits selon la page officielle.",
+    "privacy": "Avant de connecter des outils personnels, examiner les droits d’accès, l’historique et les conditions de traitement des données.",
+    "selection": [
+      "Pertinent pour explorer le web et X; moins adapté comme seule source d’une recherche scientifique ou d’un dossier sensible."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://x.ai/pricing",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      },
+      {
+        "url": "https://docs.x.ai/grok/overview",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "DeepSeek Chat": {
+    "headline": "Assistant conversationnel de DeepSeek pour rédaction, recherche, raisonnement et compréhension de documents.",
+    "audiences": [
+      "Étudiants et professionnels",
+      "Développeurs et utilisateurs avancés",
+      "Personnes explorant des modèles alternatifs"
+    ],
+    "cases": [
+      "Comprendre des documents et poser des questions",
+      "Rechercher des informations sur Internet",
+      "Résoudre des problèmes et rédiger du code",
+      "Comparer réponses et démarche de raisonnement"
+    ],
+    "advantages": [
+      "Application conversationnelle accessible sur le web",
+      "Capacités de recherche et de traitement de fichiers",
+      "API distincte offrant différents modèles"
+    ],
+    "limits": [
+      "Les noms de modèles et les fonctions changent au fil des versions",
+      "Une réponse raisonnée peut rester fausse",
+      "L’application et l’API n’ont pas les mêmes modalités de facturation"
+    ],
+    "gettingStarted": [
+      "Essayer une tâche réelle dans l’application, vérifier les références citées; pour une intégration technique, lire la documentation API officielle."
+    ],
+    "examples": [
+      "À partir de ce document, prépare un plan argumenté et signale les passages incertains.",
+      "Réécris cette fonction avec tests unitaires et explique les hypothèses."
+    ],
+    "pricing": "Ne pas confondre l’accès à DeepSeek Chat avec l’API facturée aux tokens; consulter la grille officielle pour les modèles et modes.",
+    "privacy": "Éviter les données confidentielles sans vérification des conditions, des transferts internationaux et des obligations applicables.",
+    "selection": [
+      "Utile pour tester un assistant concurrent; comparer précision, langue, disponibilité et gouvernance avec vos contraintes."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://api-docs.deepseek.com/guides/build_a_chatbot/",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      },
+      {
+        "url": "https://api-docs.deepseek.com/quick_start/pricing/",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Qwen Chat": {
+    "headline": "Assistant grand public reposant sur les modèles Qwen, avec fonctions de création, recherche et analyse.",
+    "audiences": [
+      "Utilisateurs en recherche d’un assistant polyvalent",
+      "Développeurs curieux des modèles Qwen",
+      "Créateurs utilisant texte et image"
+    ],
+    "cases": [
+      "Effectuer des recherches ou poser des questions",
+      "Analyser et modifier des images",
+      "Créer des contenus visuels selon modèle disponible",
+      "Produire des artefacts ou préparer des tâches web"
+    ],
+    "advantages": [
+      "Assistant web et applications téléchargeables",
+      "Outils de réflexion, recherche et création multimédia",
+      "Écosystème de modèles et API distincte"
+    ],
+    "limits": [
+      "Ne pas confondre accès gratuit à l’interface et tarifs des services API",
+      "Capacités liées au modèle et à la région",
+      "Vérification nécessaire pour réponses factuelles"
+    ],
+    "gettingStarted": [
+      "Ouvrir l’application, tester un besoin concret puis consulter le mode choisi et la disponibilité des fonctions indiquées."
+    ],
+    "examples": [
+      "Crée un tableau comparatif de ces textes avec incertitudes.",
+      "Propose une variation de style sur cette image sans changer l’objet principal."
+    ],
+    "pricing": "Qwen Chat annoncé gratuit sur le site consulté; usage API et quotas peuvent suivre d’autres conditions.",
+    "privacy": "Examiner la politique et les permissions avant partage de données personnelles ou professionnelles.",
+    "selection": [
+      "Alternative polyvalente pour expérimenter des modèles Qwen; comparer la qualité sur vos propres tâches."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://qwen.ai/",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Kimi": {
+    "headline": "Assistant de Moonshot AI combinant conversation, recherche web, documents, agents et programmation.",
+    "audiences": [
+      "Chercheurs et travailleurs du savoir",
+      "Analystes manipulant de longs fichiers",
+      "Développeurs et créateurs de présentations"
+    ],
+    "cases": [
+      "Synthétiser des corpus importants",
+      "Préparer une présentation ou analyser un tableur",
+      "Effectuer une recherche à étapes multiples",
+      "Utiliser un agent ou des outils de programmation"
+    ],
+    "advantages": [
+      "Recherche connectée au web",
+      "Prise en charge de documents et formats variés",
+      "Agents et produits distincts pour bureau et code"
+    ],
+    "limits": [
+      "Consommation de crédits variable selon modèle et mode",
+      "Nombre de fonctions importantes réservées aux offres et versions compatibles",
+      "Les productions et citations exigent contrôle humain"
+    ],
+    "gettingStarted": [
+      "Démarrer par une question documentée avec des sources, puis essayer Docs, Sheets ou Agent sur un petit projet et vérifier le résultat."
+    ],
+    "examples": [
+      "À partir de ces fichiers, prépare un compte rendu et une liste d’actions.",
+      "Analyse cet ensemble de documents et sépare faits, hypothèses et questions ouvertes."
+    ],
+    "pricing": "Accès et crédits selon mode, modèle et abonnement; consulter le centre d’aide pour les formules mises à jour.",
+    "privacy": "Contrôler l’accès de l’agent aux fichiers et au navigateur; ne pas déléguer sans supervision des actions irréversibles.",
+    "selection": [
+      "À considérer pour les tâches complexes documentaires et agents; comparer la fidélité des exports et le coût réel."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://www.kimi.com/en/help/new-user-guide/overview",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      },
+      {
+        "url": "https://www.kimi.com/en/products/",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "QuillBot": {
+    "headline": "Assistant de paraphrase, correction, résumé, citation et traduction conçu pour accompagner l’écriture.",
+    "audiences": [
+      "Étudiants et universitaires",
+      "Rédacteurs et traducteurs",
+      "Personnes qui améliorent des textes en langue étrangère"
+    ],
+    "cases": [
+      "Reformuler un paragraphe en conservant son sens",
+      "Corriger grammaire et style",
+      "Résumer un texte long",
+      "Préparer des références ou contrôler des risques de plagiat"
+    ],
+    "advantages": [
+      "Fonctions centrées sur la réécriture plutôt que la conversation généraliste",
+      "Outils de citation et de synthèse",
+      "Modes de paraphrase et langues multiples"
+    ],
+    "limits": [
+      "Une paraphrase peut déformer le sens d’un texte scientifique",
+      "Les détecteurs d’IA ne sont pas des preuves fiables de provenance",
+      "Les limites gratuites sont plus restrictives que Premium"
+    ],
+    "gettingStarted": [
+      "Comparer la version d’origine et la reformulation phrase par phrase; maintenir les citations quand les idées viennent d’autrui."
+    ],
+    "examples": [
+      "Reformule ce passage en français académique sans ajouter de faits.",
+      "Signale les ambiguïtés de cette introduction et propose trois corrections."
+    ],
+    "pricing": "Free avec restrictions (notamment paraphrase courte) et Premium/Team; le tarif Premium annuel affiché varie selon le pays et les promotions.",
+    "privacy": "Vérifier les conditions avant d’y coller travaux confidentiels, manuscrits ou documents protégés.",
+    "selection": [
+      "À privilégier pour améliorer des textes existants; un assistant généraliste couvre plus de tâches mais moins de contrôles spécialisés."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://quillbot.com/premium",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Photoroom": {
+    "headline": "Éditeur de visuels de produits pour e-commerce : détourage, arrière-plans IA, retouches et publicités.",
+    "audiences": [
+      "Commerçants en ligne et gestionnaires de catalogue",
+      "Créateurs de visuels marketing",
+      "Photographes de produits et petites entreprises"
+    ],
+    "cases": [
+      "Supprimer l’arrière-plan de photos de produit",
+      "Créer un fond cohérent pour une boutique",
+      "Retoucher, éclairer et redimensionner en série",
+      "Créer des visuels publicitaires selon l’offre"
+    ],
+    "advantages": [
+      "Flux de travail orienté fiches produit",
+      "Outils de détourage et retouche",
+      "Formules avec quotas de crédits et exports explicites"
+    ],
+    "limits": [
+      "Certaines fonctions vidéo et haute résolution réservées à des plans supérieurs",
+      "Une retouche générative peut modifier les caractéristiques du produit",
+      "Export et crédits constituent deux types de limites différents"
+    ],
+    "gettingStarted": [
+      "Importer une photo témoin puis comparer le produit exporté avec l’original; calibrer les couleurs avant diffusion commerciale."
+    ],
+    "examples": [
+      "Produis un fond neutre cohérent sans modifier l’étiquette du produit.",
+      "Prépare trois mises en scène publicitaires à partir de ce packshot."
+    ],
+    "pricing": "Pro, Max, Ultra et Enterprise selon la page officielle; crédits IA et exports mensuels distincts. API facturée séparément.",
+    "privacy": "Vérifier les droits sur les visuels, la politique de stockage et la confidentialité des catalogues produits.",
+    "selection": [
+      "Recommandé pour la photo produit et le commerce; moins adapté à une retouche photographique générale très poussée."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://www.photoroom.com/fr/pricing",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Stable Diffusion": {
+    "headline": "Famille de modèles de génération d’images de Stability AI, déployables via API ou environnements compatibles.",
+    "audiences": [
+      "Artistes techniques et développeurs",
+      "Laboratoires et équipes de prototypage",
+      "Créateurs souhaitant ajuster leur pipeline image"
+    ],
+    "cases": [
+      "Générer des images depuis des descriptions",
+      "Créer des variations et développer une identité visuelle",
+      "Utiliser un modèle via API",
+      "Tester un déploiement local si licence, matériel et poids le permettent"
+    ],
+    "advantages": [
+      "Plusieurs versions et tailles de modèles",
+      "Nombreux outils et interfaces tierces",
+      "Possibilité de maîtriser certaines étapes du flux de génération"
+    ],
+    "limits": [
+      "Qualité et vitesse dépendantes du modèle et du matériel",
+      "Licences et possibilités commerciales varient selon version et hébergement",
+      "Les solutions tierces peuvent modifier fortement prix, filtrage et confidentialité"
+    ],
+    "gettingStarted": [
+      "Choisir une version officiellement documentée et vérifier sa licence, puis tester les mêmes prompts, tailles et graines sur plusieurs exécutions."
+    ],
+    "examples": [
+      "Génère une illustration sans texte de cette scène selon quatre formats.",
+      "Compare deux modèles sur la fidélité anatomique et la maîtrise des détails."
+    ],
+    "pricing": "Les API officielles emploient des crédits selon le modèle et l’opération; l’hébergement local entraîne des coûts d’infrastructure et licences éventuelles.",
+    "privacy": "L’exécution locale peut réduire certains transferts, mais exige une gestion correcte de l’hébergement et des modèles.",
+    "selection": [
+      "Adapté aux pipelines visuels personnalisables; un service SaaS clé en main demande moins de maintenance."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://platform.stability.ai/pricing",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Pika": {
+    "headline": "Plateforme de création vidéo IA basée sur des modèles et effets de génération ou transformation visuelle.",
+    "audiences": [
+      "Créateurs vidéo et réseaux sociaux",
+      "Équipes de communication",
+      "Artistes qui expérimentent des clips"
+    ],
+    "cases": [
+      "Générer de courtes séquences depuis une idée",
+      "Créer des variations à partir d’images",
+      "Tester plusieurs modèles vidéo depuis une plateforme",
+      "Monter des clips à incorporer dans une présentation"
+    ],
+    "advantages": [
+      "Plateforme avec plusieurs modèles disponibles selon l’offre",
+      "Système de crédits transparent",
+      "Droits commerciaux prévus sur certains abonnements"
+    ],
+    "limits": [
+      "Les forfaits de base et gratuit peuvent ne pas inclure de licence commerciale",
+      "Coûts variables selon modèle, durée et résolution",
+      "Les effets peuvent produire artefacts et mouvements incohérents"
+    ],
+    "gettingStarted": [
+      "Créer un clip court à faible résolution, comparer la consommation de crédits, puis vérifier les droits d’exploitation avant publication."
+    ],
+    "examples": [
+      "Anime progressivement un objet immobile pendant cinq secondes.",
+      "Transforme cette illustration en courte boucle visuelle sans changer le sujet."
+    ],
+    "pricing": "Free, Starter, Creator et offres supérieures; crédit par génération, avec accès commercial dépendant du plan.",
+    "privacy": "S’assurer de l’autorisation pour toute personne représentée; vérifier le stockage et les droits sur les images téléversées.",
+    "selection": [
+      "Approprié pour tester rapidement des clips; une production audiovisuelle nécessite montage et contrôle qualité supplémentaires."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://pika.art/pricing?interval=month",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Luma Dream Machine": {
+    "headline": "Outil de génération et transformation visuelle de Luma pour clips, séquences et création multimédia.",
+    "audiences": [
+      "Réalisateurs, communicants et designers",
+      "Studios de production visuelle",
+      "Créateurs cherchant plusieurs modèles de vidéo"
+    ],
+    "cases": [
+      "Produire des séquences à partir d’instructions",
+      "Créer du mouvement depuis une image",
+      "Explorer des pistes scénaristiques",
+      "Collaborer et produire des médias selon l’abonnement"
+    ],
+    "advantages": [
+      "Offres intégrant des modèles Luma et tiers selon la formule",
+      "Planification orientée crédits et usages",
+      "Formules individuelles et équipes"
+    ],
+    "limits": [
+      "Droits commerciaux, collaborateurs et volume d’utilisation dépendent du plan",
+      "Fidélité des scènes complexes non garantie",
+      "Coût élevé possible pour des itérations nombreuses"
+    ],
+    "gettingStarted": [
+      "Tester d’abord un plan de 5 à 10 secondes, juger la continuité visuelle, puis ajuster le prompt et suivre les crédits utilisés."
+    ],
+    "examples": [
+      "Crée un travelling lent autour d’un objet photographié.",
+      "Développe un storyboard de trois plans d’introduction."
+    ],
+    "pricing": "Offres Plus, Pro, Ultra, Team et Enterprise selon la page officielle; montants et limites évolutifs.",
+    "privacy": "Examiner l’accord de licence et les politiques concernant les images d’entrée et créations partagées.",
+    "selection": [
+      "Intéressant pour explorations vidéo avancées; comparer coûts et droits commerciaux avant projet de production."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://lumalabs.ai/pricing",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Jasper": {
+    "headline": "Plateforme de production de contenus et de workflows marketing visant la cohérence de marque.",
+    "audiences": [
+      "Équipes marketing et communication",
+      "Agences de contenu et responsables de marque",
+      "Entreprises avec plusieurs segments d’audience"
+    ],
+    "cases": [
+      "Créer des campagnes multicanales",
+      "Utiliser une voix de marque et des connaissances d’entreprise",
+      "Automatiser des opérations de contenu",
+      "Coordonner la production entre plusieurs collaborateurs"
+    ],
+    "advantages": [
+      "Conception orientée workflows marketing",
+      "Personnalisation par Brand Voices et audiences",
+      "Fonctions d’agents et contrôles d’entreprise selon plan"
+    ],
+    "limits": [
+      "Coût par utilisateur et fonctions Business personnalisées",
+      "Les textes doivent être relus pour exactitude et conformité",
+      "Nécessite gouvernance de marque pour obtenir des résultats cohérents"
+    ],
+    "gettingStarted": [
+      "Définir le guide éditorial, le profil d’audience et deux exemples validés; tester une campagne pilote avec revue humaine."
+    ],
+    "examples": [
+      "Propose quatre messages de lancement adaptés à notre charte.",
+      "Élabore un calendrier de contenus en distinguant hypothèses et faits."
+    ],
+    "pricing": "Formule Pro par siège, Business sur devis; montant affiché variant selon la fréquence de paiement.",
+    "privacy": "Régler les accès aux bases de connaissances, la rétention et les responsabilités de validation des messages.",
+    "selection": [
+      "Adapté à une organisation marketing structurée; pour un usage occasionnel, un assistant généraliste peut suffire."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://www.jasper.ai/pricing",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Adobe Photoshop": {
+    "headline": "Éditeur d’images professionnel enrichi d’outils génératifs, dont Generative Fill et modèles Firefly.",
+    "audiences": [
+      "Photographes et retoucheurs",
+      "Designers et agences de création",
+      "Responsables de production graphique"
+    ],
+    "cases": [
+      "Remplacer ou étendre des zones d’image",
+      "Combiner retouche manuelle et remplissage génératif",
+      "Produire des variantes sur calques non destructifs",
+      "Préparer des images destinées à l’impression et à la publication"
+    ],
+    "advantages": [
+      "Écosystème de retouche photographique très complet",
+      "Outils génératifs intégrés au travail sur calques",
+      "Choix de modèles et variations selon l’édition"
+    ],
+    "limits": [
+      "Exige apprentissage et abonnement adapté",
+      "Les créations génératives peuvent inventer détails et textures",
+      "Disponibilité et crédits des modèles partenaires changent"
+    ],
+    "gettingStarted": [
+      "Dupliquer l’image, sélectionner une zone, lancer Generative Fill, comparer les variations, puis contrôler les contours à 100 %."
+    ],
+    "examples": [
+      "Retire cet élément du décor sans modifier la personne principale.",
+      "Étends ce fond horizontalement pour créer un bandeau."
+    ],
+    "pricing": "Abonnement Photoshop et éventuelles modalités de crédits génératifs selon formule Adobe; consulter les offres régionales.",
+    "privacy": "Évaluer les conditions Creative Cloud et l’usage éventuel de modèles tiers avant de traiter des photos de clients.",
+    "selection": [
+      "Référence pour retouche professionnelle; Photoroom convient mieux aux opérations e-commerce répétitives simples."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://helpx.adobe.com/photoshop/desktop/create-open-import-images/create-images/edit-images-with-generative-fill.html",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Dify": {
+    "headline": "Plateforme low-code pour créer agents, workflows IA et bases de connaissances déployables.",
+    "audiences": [
+      "Développeurs et intégrateurs",
+      "Équipes produits et opérations",
+      "Organisations qui construisent des applications IA"
+    ],
+    "cases": [
+      "Créer un agent avec outils et connaissances",
+      "Assembler des tâches sous forme de workflow",
+      "Préparer une base documentaire RAG",
+      "Publier une application IA via interface ou API"
+    ],
+    "advantages": [
+      "Studio de workflows visuel",
+      "Pipelines de connaissance et indexation",
+      "Plugins, modèles et observabilité de déploiement"
+    ],
+    "limits": [
+      "Une architecture fiable exige tests et supervision",
+      "Coûts des modèles et des services tiers distincts",
+      "Le low-code ne dispense pas des exigences de sécurité"
+    ],
+    "gettingStarted": [
+      "Démarrer avec un cas métier limité, sélectionner un fournisseur de modèle, charger des documents non sensibles puis tester l’évaluation des réponses."
+    ],
+    "examples": [
+      "Construis un chatbot documentaire qui cite les extraits de référence.",
+      "Crée un workflow de tri des demandes avec validation humaine."
+    ],
+    "pricing": "Formules cloud et options de déploiement technique; vérifier l’offre, les ressources et les frais API externes.",
+    "privacy": "Définir les autorisations sur les jeux de documents, les clés API, les journaux et les lieux d’hébergement.",
+    "selection": [
+      "Bon choix pour agents et RAG avec interface visuelle; programmation sur mesure pour besoin très spécifique."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://www.dify.ai/",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "OpenRouter": {
+    "headline": "Passerelle API donnant accès à des modèles de fournisseurs différents via une interface unifiée.",
+    "audiences": [
+      "Développeurs d’applications multi-modèles",
+      "Équipes de recherche et d’évaluation",
+      "Entreprises qui optimisent les coûts IA"
+    ],
+    "cases": [
+      "Comparer plusieurs modèles à interface commune",
+      "Router les requêtes selon coût et fournisseurs",
+      "Mettre en place budgets et contrôles de dépenses",
+      "Intégrer différentes modalités de modèles sans changer toute l’application"
+    ],
+    "advantages": [
+      "API unifiée et catalogue étendu",
+      "Fournisseurs multiples et modèles gratuits sous restrictions",
+      "Contrôles de routage, budgets et politiques selon abonnement"
+    ],
+    "limits": [
+      "Les modèles et quotas disponibles changent",
+      "Les conditions de traitement varient selon fournisseur effectif",
+      "Des frais de plateforme peuvent s’ajouter aux coûts d’inférence"
+    ],
+    "gettingStarted": [
+      "Choisir des modèles compatibles avec les contraintes de données, créer une clé limitée, exécuter un jeu de tests et examiner facture et latence."
+    ],
+    "examples": [
+      "Compare trois modèles pour classifier cinquante messages.",
+      "Sélectionne un fournisseur qui répond à notre politique de données."
+    ],
+    "pricing": "Offre Free avec restrictions; Standard, Business et Enterprise avec facturation à l’usage et frais de plateforme selon plan.",
+    "privacy": "Contrôler les routes autorisées et les politiques du fournisseur final, pas seulement les conditions de l’agrégateur.",
+    "selection": [
+      "Choisir si l’application doit comparer ou changer de modèle; une API directe simplifie certains besoins mono-fournisseur."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://openrouter.ai/pricing",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Intercom Fin": {
+    "headline": "Agent IA pour support client, commerce et qualification des demandes, associé à Intercom et à d’autres helpdesks.",
+    "audiences": [
+      "Services clients et centres d’assistance",
+      "Équipes e-commerce et opérations",
+      "Responsables de support multicanal"
+    ],
+    "cases": [
+      "Répondre aux questions de clients depuis une base validée",
+      "Effectuer des procédures assistées",
+      "Acheminer vers un agent humain",
+      "Mesurer et optimiser la qualité des résolutions"
+    ],
+    "advantages": [
+      "Agent configuré sur les règles et contenus de l’organisation",
+      "Intégration à Intercom et à certains helpdesks tiers",
+      "Modes d’analyse et de contrôle de qualité"
+    ],
+    "limits": [
+      "Des résultats automatiques nécessitent suivi et tests",
+      "Facturation liée aux issues traitées et parfois aux sièges",
+      "Gestion stricte des données clients nécessaire"
+    ],
+    "gettingStarted": [
+      "Définir vingt demandes fréquentes, relier un corpus approuvé et tester les procédures et l’escalade humaine avant ouverture au public."
+    ],
+    "examples": [
+      "Réponds à une demande de remboursement en utilisant seulement notre politique.",
+      "Achemine les cas urgents ou sensibles vers un humain avec résumé."
+    ],
+    "pricing": "Fin à partir de 0,99 USD par issue facturable sur la page officielle; sièges Intercom et autres charges possibles selon formule.",
+    "privacy": "Réduire les permissions du support automatisé; examiner les journaux, les données clients et la gouvernance de la connaissance.",
+    "selection": [
+      "Pertinent pour automatiser un support déjà structuré, pas pour remplacer sans supervision les décisions sensibles."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://www.intercom.com/help/en/articles/9061614-fin-and-intercom-plans-explained",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      },
+      {
+        "url": "https://www.intercom.com/help/en/articles/9515824-what-is-fin",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Character.AI": {
+    "headline": "Plateforme de conversations avec des personnages IA, centrée sur le divertissement et l’expression créative.",
+    "audiences": [
+      "Utilisateurs de conversation ludique",
+      "Auteurs explorant les dialogues",
+      "Communautés de personnages fictifs"
+    ],
+    "cases": [
+      "Explorer des personnages conversationnels",
+      "Développer un dialogue de fiction",
+      "Tester des styles de réponses et scénarios",
+      "Personnaliser certaines mémoires et discussions selon offre"
+    ],
+    "advantages": [
+      "Grande variété de personnages",
+      "Expérience sociale et créative",
+      "Offres d’accès progressives selon préférences"
+    ],
+    "limits": [
+      "Les personnages peuvent inventer des faits et se comporter de manière imprévisible",
+      "Ne remplace ni un professionnel de santé ni un conseiller réel",
+      "Certaines interactions sont soumises à restrictions d’âge et règles de sécurité"
+    ],
+    "gettingStarted": [
+      "Choisir un personnage clairement fictif, éviter les données privées et fixer des limites d’usage, particulièrement pour les mineurs."
+    ],
+    "examples": [
+      "Jouons une scène de dialogue historique fictif sans prétendre reconstituer des faits exacts.",
+      "Aide-moi à écrire une conversation entre deux personnages de roman."
+    ],
+    "pricing": "Free, c.ai lite et c.ai+ avec différences de publicités, mémoire et styles de discussion; vérifier les formules actuelles.",
+    "privacy": "Prendre connaissance des protections d’âge, paramètres publics des personnages et conditions de conservation des conversations.",
+    "selection": [
+      "Choisir pour la fiction interactive, pas comme source d’information validée ni outil de conseil professionnel."
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://support.character.ai/hc/en-us/articles/56173313531675-About-c-ai-lite",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ]
+  },
+  "Meta AI": {
+    "headline": "Assistant multimodal de Meta, intégré au Web et à ses applications sociales, pour répondre, rechercher et créer.",
+    "audiences": [
+      "Grand public et communautés utilisant WhatsApp, Instagram ou Facebook",
+      "Indépendants, créateurs et petites entreprises",
+      "Utilisateurs souhaitant un assistant vocal et multimodal"
+    ],
+    "cases": [
+      "Poser une question et obtenir des réponses contextualisées",
+      "Préparer un message, un plan ou une première recherche",
+      "Expliquer et comparer des images, photographies et documents",
+      "Créer ou modifier des visuels et utiliser l’assistant dans les applications Meta"
+    ],
+    "advantages": [
+      "Accès au Web et dans plusieurs applications familières",
+      "Interactions textuelles, vocales et visuelles",
+      "Certaines fonctions de recherche approfondie et de tâches"
+    ],
+    "limits": [
+      "Fonctionnalités et limitations variables selon pays, compte et application",
+      "Informations en provenance de réseaux sociaux à recouper avec des sources indépendantes",
+      "Qualité du raisonnement et des réponses à vérifier"
+    ],
+    "gettingStarted": [
+      "Ouvrir Meta AI sur le Web ou depuis une application compatible; demander un résultat précis puis contrôler ses sources."
+    ],
+    "examples": [
+      "Prépare trois versions de cette annonce adaptées à Instagram et WhatsApp.",
+      "Résume ce document, puis distingue les faits certains des hypothèses."
+    ],
+    "pricing": "Accès gratuit aux usages courants; Meta indique tester des limites et des abonnements pour les usages intensifs. Vérifier selon la région.",
+    "privacy": "L’utilisation dans les services Meta implique les règles de confidentialité du compte et de l’application. Examiner les réglages et éviter les données sensibles avant tout import.",
+    "selection": [
+      "Intéressant pour une utilisation quotidienne et sociale; moins approprié pour documenter une recherche scientifique reproductible."
+    ],
+    "sources": [
+      {
+        "url": "https://ai.meta.com/meta-ai/",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official"
+  },
+  "Brave Search AI": {
+    "headline": "Recherche web indépendante avec synthèses assistées par IA et liens vers les pages sources.",
+    "audiences": [
+      "Personnes recherchant une alternative aux grands moteurs de recherche",
+      "Journalistes, étudiants et veilleurs",
+      "Professionnels voulant explorer rapidement le Web"
+    ],
+    "cases": [
+      "Obtenir une première réponse à une question avec références",
+      "Faire une recherche approfondie et poser des questions de suivi",
+      "Explorer des actualités et comparer des informations publiées en ligne"
+    ],
+    "advantages": [
+      "Sources originales généralement visibles",
+      "Service de recherche utilisable sur ordinateur et mobile",
+      "Attention particulière à la vie privée dans le positionnement officiel"
+    ],
+    "limits": [
+      "Les synthèses peuvent déformer les pages originales",
+      "La qualité dépend de la couverture et de la fraîcheur de l’index",
+      "Toutes les pages Web ne sont pas des sources de qualité équivalente"
+    ],
+    "gettingStarted": [
+      "Ouvrir Brave Search, saisir une question précise et ouvrir au moins deux sources citées avant de réutiliser une information."
+    ],
+    "examples": [
+      "Compare les informations de plusieurs sources sur une actualité récente.",
+      "Trouve les documents officiels relatifs à cette norme et indique leur date."
+    ],
+    "pricing": "Recherche accessible gratuitement; fonctionnalités et limitations peuvent évoluer.",
+    "privacy": "Le fournisseur met en avant une recherche sans profilage. Vérifier ses politiques pour les recherches sensibles.",
+    "selection": [
+      "À privilégier pour explorer des sources Web; à compléter par la consultation des originaux et des bases spécialisées."
+    ],
+    "sources": [
+      {
+        "url": "https://search.brave.com/help/ai",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      },
+      {
+        "url": "https://brave.com/ai/",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official"
+  },
+  "ResearchRabbit": {
+    "headline": "Exploration et cartographie de la littérature scientifique par relations entre publications et auteurs.",
+    "audiences": [
+      "Étudiants en master et doctorants",
+      "Chercheurs réalisant des revues de littérature",
+      "Bibliothécaires et équipes de veille scientifique"
+    ],
+    "cases": [
+      "Partir de quelques articles de référence et découvrir les travaux connexes",
+      "Visualiser les liens entre auteurs et publications",
+      "Surveiller les nouveaux travaux d’un domaine",
+      "Organiser un parcours de lecture"
+    ],
+    "advantages": [
+      "Cartographies interactives favorisant la découverte",
+      "Recommandations qui évoluent selon la navigation",
+      "Complément utile aux moteurs de recherche traditionnels"
+    ],
+    "limits": [
+      "Les cartes ne remplacent pas une recherche bibliographique systématique",
+      "Couverture bibliographique différente selon les domaines",
+      "Présence sur une carte ne valide pas la qualité scientifique"
+    ],
+    "gettingStarted": [
+      "Importer trois articles centraux, explorer leurs relations, examiner les résumés et consigner une stratégie de recherche complémentaire."
+    ],
+    "examples": [
+      "Identifie les groupes de travaux proches de cet article de référence.",
+      "Repère les auteurs et publications qui relient ces deux thèmes."
+    ],
+    "pricing": "Modalités d’utilisation et d’abonnement à vérifier sur le site officiel avant un projet long.",
+    "privacy": "Vérifier les droits de partage des collections de travaux et les données associées au compte.",
+    "selection": [
+      "Excellent pour élargir une bibliographie; compléter par OpenAlex, bases éditeurs et recherches reproductibles."
+    ],
+    "sources": [
+      {
+        "url": "https://www.researchrabbit.ai/features",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official"
+  },
+  "Scite": {
+    "headline": "Plateforme de recherche scientifique qui contextualise les citations et distingue notamment soutien, contraste et mention.",
+    "audiences": [
+      "Chercheurs et enseignants-chercheurs",
+      "Doctorants préparant une revue de littérature",
+      "Rédacteurs scientifiques et comités éditoriaux"
+    ],
+    "cases": [
+      "Évaluer comment une publication est citée dans la littérature",
+      "Examiner des études soutenant ou contestant une affirmation",
+      "Chercher dans le texte intégral des travaux couverts",
+      "Contrôler les références d’un manuscrit et suivre un corpus"
+    ],
+    "advantages": [
+      "Smart Citations avec contexte textuel",
+      "Assistant fondé sur un corpus de travaux scientifiques",
+      "Rapports de citations et collections de veille"
+    ],
+    "limits": [
+      "La catégorie de citation est une classification automatisée, pas une preuve définitive",
+      "Couverture inégale des éditeurs, langues et domaines",
+      "Accès aux textes, quotas et fonctions pouvant dépendre de l’offre"
+    ],
+    "gettingStarted": [
+      "Rechercher un article par DOI, ouvrir le rapport de citations, lire les passages originaux puis vérifier les études contradictoires."
+    ],
+    "examples": [
+      "Quelles publications soutiennent et lesquelles contestent cette conclusion ?",
+      "Contrôle cette liste de références et identifie les éventuelles rétractations."
+    ],
+    "pricing": "Plateforme avec essai et offres commerciales; contrôler les conditions, limites et éventuels contrats institutionnels.",
+    "privacy": "Éviter d’importer des manuscrits confidentiels sans accord; vérifier les modalités de traitement des PDF et métadonnées.",
+    "selection": [
+      "Particulièrement utile pour interpréter le contexte des citations, sans dispenser de lire les études originales."
+    ],
+    "sources": [
+      {
+        "url": "https://scite.ai/features",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      },
+      {
+        "url": "https://scite.ai/getting-started",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official"
+  },
+  "Recraft": {
+    "headline": "Studio de création visuelle par IA orienté design, images, vecteurs et cohérence graphique.",
+    "audiences": [
+      "Graphistes, designers de marque et illustrateurs",
+      "Agences marketing et créateurs de contenus",
+      "Professionnels préparant des éléments visuels réutilisables"
+    ],
+    "cases": [
+      "Créer des illustrations et des visuels pour une identité de marque",
+      "Générer des images et des rendus vectoriels selon les modèles disponibles",
+      "Produire des variantes de style cohérentes",
+      "Retoucher des images dans un environnement graphique"
+    ],
+    "advantages": [
+      "Accent mis sur les besoins graphiques et les vecteurs",
+      "Accès à plusieurs modèles de génération dans un même studio",
+      "Édition visuelle au-delà du seul texte-vers-image"
+    ],
+    "limits": [
+      "L’export vectoriel et les droits commerciaux dépendent des fonctions et de l’offre",
+      "La génération ne garantit pas une marque unique ou juridiquement protégeable",
+      "Vérifier l’exactitude des textes, logos et détails fins"
+    ],
+    "gettingStarted": [
+      "Créer un projet, définir une palette, préciser le format final et générer plusieurs variations avant validation manuelle."
+    ],
+    "examples": [
+      "Conçois trois pistes d’illustrations vectorielles au style éditorial minimaliste.",
+      "Crée une série de pictogrammes cohérents pour une application pédagogique."
+    ],
+    "pricing": "Offres et crédits variables selon l’accès au studio et aux modèles; consulter les grilles officielles actualisées.",
+    "privacy": "Ne pas importer de créations clients ou de marques confidentielles sans vérification des règles d’utilisation des contenus.",
+    "selection": [
+      "Pertinent pour des visuels réellement destinés à une chaîne de production graphique."
+    ],
+    "sources": [
+      {
+        "url": "https://www.recraft.ai/ai-models",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official"
+  },
+  "Freepik AI": {
+    "headline": "Suite créative d’images, de vidéos et de sons, combinant différents modèles génératifs et outils d’édition.",
+    "audiences": [
+      "Créateurs de contenus et équipes marketing",
+      "Agences, studios et indépendants du design",
+      "Professionnels produisant des variantes visuelles et multimédias"
+    ],
+    "cases": [
+      "Produire des images et des déclinaisons pour campagnes",
+      "Créer des clips ou animer des images avec des modèles vidéo",
+      "Améliorer la définition et éditer des images",
+      "Assembler des flux créatifs multimodaux"
+    ],
+    "advantages": [
+      "Plusieurs modèles et outils au sein d’un même environnement",
+      "Production image, vidéo et audio",
+      "Bibliothèque de ressources créatives et outils d’amélioration"
+    ],
+    "limits": [
+      "La consommation de crédits peut varier fortement selon modèle et résolution",
+      "Les droits commerciaux et conditions de chaque modèle doivent être vérifiés",
+      "La disponibilité des modèles peut changer rapidement"
+    ],
+    "gettingStarted": [
+      "Sélectionner une famille de contenu, fixer budget et résolution, comparer deux modèles et calculer le coût de la production finale."
+    ],
+    "examples": [
+      "Crée six propositions de visuels au format 4:5 pour une campagne pédagogique.",
+      "Décline ce storyboard en trois scènes cohérentes et estime la consommation de crédits."
+    ],
+    "pricing": "Offres payantes et consommation de crédits, parfois avec modes d’utilisation inclus ou illimités; tarifs et calculs à vérifier sur le site officiel.",
+    "privacy": "Consulter les conditions de traitement des images importées, des contenus commerciaux et de leur éventuelle réutilisation.",
+    "selection": [
+      "Intéressant pour comparer plusieurs modèles sans multiplier les outils indépendants."
+    ],
+    "sources": [
+      {
+        "url": "https://www.freepik.com/ai",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      },
+      {
+        "url": "https://www.freepik.com/pricing",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official"
+  },
+  "Google Flow": {
+    "headline": "Environnement de création de séquences vidéo par IA conçu par Google autour des modèles Veo et outils de narration.",
+    "audiences": [
+      "Réalisateurs et créateurs vidéo",
+      "Agences, studios de communication et enseignants en audiovisuel",
+      "Équipes préparant des prototypes de scènes"
+    ],
+    "cases": [
+      "Passer d’une idée à des plans cinématographiques",
+      "Explorer différentes compositions et mouvements de caméra",
+      "Itérer sur un ensemble de clips pour un storyboard",
+      "Prévisualiser une direction visuelle avant tournage"
+    ],
+    "advantages": [
+      "Conception orientée narration et création de séquences",
+      "Intégration étroite à l’écosystème de modèles Google",
+      "Possibilités d’itération sur des scènes"
+    ],
+    "limits": [
+      "Cohérence entre plans, personnages et voix à contrôler",
+      "Accès et crédits dépendant de l’abonnement, du pays et des fonctions",
+      "Droits à l’image, marques et contenus protégés à respecter"
+    ],
+    "gettingStarted": [
+      "Écrire un storyboard de trois plans, décrire personnage, lumière et mouvement, puis comparer les résultats à l’intention initiale."
+    ],
+    "examples": [
+      "Crée un plan d’ouverture cinématographique d’un musée imaginaire en lumière matinale.",
+      "Propose une suite de trois plans visuellement cohérents pour une vidéo de vulgarisation."
+    ],
+    "pricing": "Accès associé à des offres et crédits de l’écosystème Google AI; vérifier disponibilité et conditions dans votre pays.",
+    "privacy": "Ne pas générer ou importer l’image de personnes réelles sans consentement adapté; contrôler les règles de réutilisation des clips.",
+    "selection": [
+      "À privilégier pour l’expérimentation audiovisuelle et le storyboard, pas comme garantie d’un film final sans montage."
+    ],
+    "sources": [
+      {
+        "url": "https://blog.google/innovation-and-ai/products/google-flow-veo-ai-filmmaking-tool/",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official"
+  },
+  "OpenAlex": {
+    "headline": "Graphe ouvert de la recherche mondiale permettant de chercher, relier et analyser publications, auteurs et institutions.",
+    "audiences": [
+      "Bibliothécaires, chercheurs et spécialistes de scientométrie",
+      "Développeurs d’outils de recherche et de veille",
+      "Équipes produisant des analyses bibliométriques"
+    ],
+    "cases": [
+      "Rechercher un corpus de publications par thème, DOI ou auteur",
+      "Explorer les liens entre institutions, sources et travaux",
+      "Créer des tableaux de bord bibliométriques via API",
+      "Exporter des données de référence pour une revue systématique"
+    ],
+    "advantages": [
+      "Graphe de métadonnées riche et connecté",
+      "API documentée et accès gratuit de démarrage",
+      "Identifiants pérennes et nombreuses possibilités de filtrage"
+    ],
+    "limits": [
+      "Une notice bibliographique n’est pas une preuve de qualité scientifique",
+      "Doublons, identifiants et métadonnées à contrôler avant analyse",
+      "Les limites d’API et les conditions tarifaires changent selon le volume"
+    ],
+    "gettingStarted": [
+      "Faire une recherche dans le portail, sélectionner un jeu d’identifiants stables puis reproduire le filtrage dans l’API."
+    ],
+    "examples": [
+      "Construis un corpus des travaux en libre accès sur la réalité augmentée dans l’enseignement.",
+      "Compare l’évolution annuelle des publications par institution et domaine."
+    ],
+    "pricing": "Accès de base libre; API gratuite pour commencer puis budget/crédits selon le volume. Voir la documentation officielle.",
+    "privacy": "Les données sont principalement des métadonnées scientifiques publiques; interpréter avec prudence les indicateurs individuels de chercheurs.",
+    "selection": [
+      "Approprié pour l’analyse bibliographique et la création d’outils; pas un assistant de rédaction scientifique à lui seul."
+    ],
+    "sources": [
+      {
+        "url": "https://help.openalex.org/api/",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      },
+      {
+        "url": "https://help.openalex.org/access/overview/",
+        "type": "official",
+        "reviewedAt": "2026-11-15"
+      }
+    ],
+    "reviewedAt": "2026-11-15",
+    "status": "documented",
+    "evidence": "official"
+  }
+}

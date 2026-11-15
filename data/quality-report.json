@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T12:05:12.681445+00:00",
+  "generatedAt": "2026-11-15T17:08:02.963435+00:00",
   "source": "sources/atlas_outils_ia_2026.csv",
   "total": 808,
   "categories": 50,
@@ -120,6 +120,15 @@
   ],
   "invalidUrls": [],
   "individuallyVerified": 0,
-  "descriptionsPresent": 0,
-  "nameDuplicates": []
+  "descriptionsPresent": 209,
+  "pricingVerified": 32,
+  "editorialReviewPending": 209,
+  "nameDuplicates": [],
+  "deepProfiles": 69,
+  "deepProfilesOfficialSourceReviewed": 69,
+  "discontinuedProductsFlagged": [
+    "Sora"
+  ],
+  "deepResearchDate": "2026-11-15",
+  "researchScope": "Vendor pages/documentation, not end-to-end product testing; claims require verification at time of use."
 }

@@ -1,0 +1,2182 @@
+{
+  "ChatGPT": {
+    "descriptionFr": "Assistant conversationnel d’OpenAI pour rédiger, raisonner, apprendre, analyser des documents et travailler avec différents formats de contenu.",
+    "descriptionEn": "OpenAI’s conversational assistant for writing, reasoning, learning, analyzing documents and working across content formats.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "featuresFr": [
+      "Conversation et rédaction",
+      "Analyse et téléversement de fichiers",
+      "Génération d’images",
+      "Recherche approfondie selon abonnement"
+    ],
+    "featuresEn": [
+      "Chat and writing",
+      "File uploads and analysis",
+      "Image generation",
+      "Deep research by plan"
+    ],
+    "accessFr": "Web et applications",
+    "accessEn": "Web and apps",
+    "pricing": {
+      "fr": "Gratuit (Free) ; offres Go, Plus et Pro pour les particuliers, Business et Enterprise pour les organisations. Tarifs selon le pays et la formule.",
+      "en": "Free plan; Go, Plus and Pro for individuals, Business and Enterprise for organizations. Localized prices vary.",
+      "sourceUrl": "https://chatgpt.com/pricing/",
+      "verifiedAt": "2026-11-15",
+      "model": "freemium"
+    },
+    "pricingStatus": "official_reviewed",
+    "officialSources": [
+      {
+        "url": "https://chatgpt.com/pricing/",
+        "checkedAt": "2026-11-15",
+        "scope": "features_and_pricing"
+      }
+    ]
+  },
+  "Claude": {
+    "descriptionFr": "Assistant d’Anthropic conçu pour la rédaction, l’analyse de documents, la programmation et le travail sur des projets complexes.",
+    "descriptionEn": "Anthropic’s assistant for writing, document analysis, coding and complex project work.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "featuresFr": [
+      "Recherche web",
+      "Création et analyse de fichiers",
+      "Exécution de code",
+      "Projets et connecteurs"
+    ],
+    "featuresEn": [
+      "Web search",
+      "File creation and analysis",
+      "Code execution",
+      "Projects and connectors"
+    ],
+    "accessFr": "Web, application mobile et ordinateur",
+    "accessEn": "Web, mobile and desktop",
+    "pricing": {
+      "fr": "Gratuit, Pro 20 $/mois en facturation mensuelle, Max dès 100 $/mois. Offres Team et Enterprise.",
+      "en": "Free, Pro $20/month billed monthly, Max from $100/month; Team and Enterprise plans.",
+      "sourceUrl": "https://claude.com/pricing",
+      "verifiedAt": "2026-11-15",
+      "model": "freemium"
+    },
+    "pricingStatus": "official_reviewed",
+    "officialSources": [
+      {
+        "url": "https://claude.com/pricing",
+        "checkedAt": "2026-11-15",
+        "scope": "features_and_pricing"
+      }
+    ]
+  },
+  "Gemini": {
+    "descriptionFr": "Assistant multimodal de Google pour poser des questions, créer des contenus et travailler avec des services Google.",
+    "descriptionEn": "Google’s multimodal assistant for questions, content creation and Google services.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Microsoft Copilot": {
+    "descriptionFr": "Assistant de Microsoft pour rechercher des réponses, produire du contenu et accompagner des tâches professionnelles.",
+    "descriptionEn": "Microsoft’s assistant for answers, content creation and workplace tasks.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Perplexity": {
+    "descriptionFr": "Moteur de réponses combinant recherche web, synthèse et références consultables pour approfondir un sujet.",
+    "descriptionEn": "An answer engine combining web search, synthesis and source links for research.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "featuresFr": [
+      "Recherche approfondie",
+      "Accès à plusieurs modèles",
+      "Production de documents et applications"
+    ],
+    "featuresEn": [
+      "Deep research",
+      "Multiple models",
+      "Documents and apps"
+    ],
+    "accessFr": "Navigateur web",
+    "accessEn": "Web browser",
+    "pricing": {
+      "fr": "Gratuit ; Pro 17 $/mois en équivalent annuel, Max 167 $/mois en équivalent annuel.",
+      "en": "Free; Pro equivalent to $17/month billed annually, Max equivalent to $167/month annually.",
+      "sourceUrl": "https://www.perplexity.ai/pro",
+      "verifiedAt": "2026-11-15",
+      "model": "freemium"
+    },
+    "pricingStatus": "official_reviewed",
+    "officialSources": [
+      {
+        "url": "https://www.perplexity.ai/pro",
+        "checkedAt": "2026-11-15",
+        "scope": "features_and_pricing"
+      }
+    ]
+  },
+  "Grok": {
+    "descriptionFr": "Assistant conversationnel de xAI qui répond aux questions et contribue à des tâches d’analyse et de création.",
+    "descriptionEn": "xAI’s conversational assistant for questions, analysis and creative tasks.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Le Chat Mistral": {
+    "descriptionFr": "Interface conversationnelle de Mistral AI pour la recherche, la rédaction et l’exploitation de modèles d’intelligence artificielle.",
+    "descriptionEn": "Mistral AI’s conversational interface for research, writing and using AI models.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "DeepSeek Chat": {
+    "descriptionFr": "Assistant conversationnel associé aux modèles DeepSeek, utilisé notamment pour le raisonnement et le code.",
+    "descriptionEn": "Conversational assistant based on DeepSeek models, especially for reasoning and coding.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Qwen Chat": {
+    "descriptionFr": "Interface d’assistance fondée sur la famille de modèles Qwen d’Alibaba pour des usages multimodaux et textuels.",
+    "descriptionEn": "AI assistant built on Alibaba’s Qwen models for text and multimodal tasks.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Kimi": {
+    "descriptionFr": "Assistant conversationnel de Moonshot AI, orienté vers la recherche, le traitement d’information et les documents.",
+    "descriptionEn": "Moonshot AI’s assistant for research, information processing and documents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Poe": {
+    "descriptionFr": "Plateforme de Quora donnant accès à plusieurs assistants et modèles d’IA à travers une même interface.",
+    "descriptionEn": "Quora’s platform offering access to multiple AI assistants and models.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Meta AI": {
+    "descriptionFr": "Assistant développé par Meta et intégré à plusieurs expériences et applications de son écosystème.",
+    "descriptionEn": "Meta’s assistant integrated into experiences and apps across its ecosystem.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Pi": {
+    "descriptionFr": "Assistant conversationnel conçu pour des échanges naturels et un accompagnement personnel.",
+    "descriptionEn": "Conversational assistant designed for natural dialogue and personal support.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "You.com": {
+    "descriptionFr": "Plateforme combinant recherche sur le web et fonctionnalités d’assistance par intelligence artificielle.",
+    "descriptionEn": "Platform combining web search with AI assistance.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Duck.ai": {
+    "descriptionFr": "Interface de conversations IA proposée dans l’écosystème DuckDuckGo, avec un accent sur la confidentialité.",
+    "descriptionEn": "AI chat interface in the DuckDuckGo ecosystem with a privacy focus.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "HuggingChat": {
+    "descriptionFr": "Service de conversation donnant accès à des modèles ouverts disponibles dans l’écosystème Hugging Face.",
+    "descriptionEn": "Chat interface for open models from the Hugging Face ecosystem.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Character.AI": {
+    "descriptionFr": "Plateforme de conversations avec des personnages virtuels personnalisés et créés par les utilisateurs.",
+    "descriptionEn": "Platform for conversations with customizable virtual characters.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Replika": {
+    "descriptionFr": "Compagnon conversationnel numérique conçu pour des échanges personnels avec un avatar d’IA.",
+    "descriptionEn": "AI conversational companion for personal dialogue with a digital avatar.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Phind": {
+    "descriptionFr": "Moteur de réponses techniques et d’aide à la programmation, destiné notamment aux développeurs.",
+    "descriptionEn": "Technical answer engine and coding assistant for developers.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Brave Search AI": {
+    "descriptionFr": "Fonctions de synthèse et de réponse intégrées au moteur de recherche Brave Search.",
+    "descriptionEn": "AI summaries and answers integrated into Brave Search.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Exa": {
+    "descriptionFr": "Moteur de recherche et API orientés vers la découverte de pages et l’alimentation d’applications IA.",
+    "descriptionEn": "Search engine and API for web discovery and AI applications.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Tavily": {
+    "descriptionFr": "API de recherche web conçue pour fournir aux agents IA des informations recherchables et structurées.",
+    "descriptionEn": "Web search API for retrieving structured information in AI agents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Genspark": {
+    "descriptionFr": "Espace de recherche et de production assisté par des agents IA pour explorer et organiser l’information.",
+    "descriptionEn": "AI agent workspace for researching and organizing information.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Consensus": {
+    "descriptionFr": "Moteur de recherche qui interroge la littérature scientifique et synthétise des résultats d’études.",
+    "descriptionEn": "Research search engine for academic evidence and study summaries.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Elicit": {
+    "descriptionFr": "Assistant de recherche qui aide à rechercher des publications et à extraire des informations d’articles scientifiques.",
+    "descriptionEn": "Research assistant for finding papers and extracting information from studies.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Scite": {
+    "descriptionFr": "Service d’analyse des citations scientifiques et du contexte dans lequel les articles sont cités.",
+    "descriptionEn": "Scientific citation analysis service showing how research is cited.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Wolfram Alpha": {
+    "descriptionFr": "Moteur de calcul de connaissances capable de répondre à des questions quantitatives et scientifiques.",
+    "descriptionEn": "Computational knowledge engine answering quantitative and scientific questions.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Semantic Scholar": {
+    "descriptionFr": "Moteur de recherche universitaire gratuit utilisant l’IA pour découvrir des publications scientifiques.",
+    "descriptionEn": "Free AI-powered academic paper discovery service.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "ResearchRabbit": {
+    "descriptionFr": "Outil visuel d’exploration de publications et d’auteurs, utile pour cartographier un domaine de recherche.",
+    "descriptionEn": "Visual tool for exploring scholarly papers and authors.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Connected Papers": {
+    "descriptionFr": "Visualisation de réseaux d’articles scientifiques à partir de leurs proximités bibliographiques.",
+    "descriptionEn": "Visualization of related academic papers and bibliographic connections.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Litmaps": {
+    "descriptionFr": "Outil de cartographie et de suivi des publications scientifiques pour les revues de littérature.",
+    "descriptionEn": "Research mapping and literature monitoring tool.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "SciSpace": {
+    "descriptionFr": "Plateforme d’assistance à la lecture et à la recherche d’articles scientifiques, proposant des explications contextualisées.",
+    "descriptionEn": "Platform for reading and researching academic papers with contextual explanations.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "NotebookLM": {
+    "descriptionFr": "Outil de recherche et de prise de notes de Google permettant d’interroger un ensemble de documents fournis.",
+    "descriptionEn": "Google’s research and notes tool for querying uploaded source material.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Zotero": {
+    "descriptionFr": "Logiciel libre de gestion bibliographique pour collecter, organiser et citer des sources scientifiques.",
+    "descriptionEn": "Open-source reference manager to collect, organize and cite research sources.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Jasper": {
+    "descriptionFr": "Plateforme de rédaction et de contenus marketing assistée par IA, conçue pour les équipes de communication.",
+    "descriptionEn": "AI-powered marketing content platform for communications teams.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Copy.ai": {
+    "descriptionFr": "Plateforme de contenus et de flux de travail automatisés pour le marketing et les équipes commerciales.",
+    "descriptionEn": "Content and workflow platform for marketing and sales teams.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Grammarly": {
+    "descriptionFr": "Assistant d’écriture proposant correction grammaticale, suggestions de style et assistance à la reformulation.",
+    "descriptionEn": "Writing assistant for grammar, style suggestions and rewriting.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "featuresFr": [
+      "Corrections d’écriture",
+      "Suggestions de tonalité",
+      "Réécriture",
+      "Génération de texte selon forfait"
+    ],
+    "featuresEn": [
+      "Writing corrections",
+      "Tone suggestions",
+      "Rewriting",
+      "AI text generation by plan"
+    ],
+    "accessFr": "Web et intégrations",
+    "accessEn": "Web and integrations",
+    "pricing": {
+      "fr": "Offre Free, Pro et Enterprise. Prix Pro selon durée et région : consulter la grille officielle.",
+      "en": "Free, Pro and Enterprise plans; check official page for regional and billing prices.",
+      "sourceUrl": "https://www.grammarly.com/plans",
+      "verifiedAt": "2026-11-15",
+      "model": "freemium"
+    },
+    "pricingStatus": "official_reviewed",
+    "officialSources": [
+      {
+        "url": "https://www.grammarly.com/plans",
+        "checkedAt": "2026-11-15",
+        "scope": "features_and_pricing"
+      }
+    ]
+  },
+  "QuillBot": {
+    "descriptionFr": "Suite de reformulation et de correction de textes avec des fonctions d’aide à la rédaction.",
+    "descriptionEn": "Text paraphrasing and editing suite.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Sudowrite": {
+    "descriptionFr": "Assistant d’écriture créative destiné aux auteurs de fiction, du brouillon à la révision.",
+    "descriptionEn": "Creative writing companion for fiction authors.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "LanguageTool": {
+    "descriptionFr": "Correcteur multilingue de grammaire, d’orthographe et de style avec une offre open source.",
+    "descriptionEn": "Multilingual grammar, spelling and style checker with open-source components.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "DeepL": {
+    "descriptionFr": "Service de traduction automatique de textes et de documents, avec options pour les professionnels.",
+    "descriptionEn": "Machine translation for text and documents, including professional plans.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "featuresFr": [
+      "Traduction de textes et fichiers",
+      "Glossaires",
+      "Traduction par lots selon offre",
+      "API selon produit"
+    ],
+    "featuresEn": [
+      "Text and file translation",
+      "Glossaries",
+      "Bulk translation by plan",
+      "API by product"
+    ],
+    "accessFr": "Web, applications et API selon produit",
+    "accessEn": "Web, apps and API by product",
+    "pricing": {
+      "fr": "Traduction gratuite limitée ; DeepL Pro Individual dès 8,74 $/mois en facturation annuelle (tarif en USD selon région).",
+      "en": "Limited free translation; DeepL Pro Individual from $8.74/month billed annually (USD region-specific).",
+      "sourceUrl": "https://www.deepl.com/en/pro",
+      "verifiedAt": "2026-11-15",
+      "model": "freemium"
+    },
+    "pricingStatus": "official_reviewed",
+    "officialSources": [
+      {
+        "url": "https://www.deepl.com/en/pro",
+        "checkedAt": "2026-11-15",
+        "scope": "features_and_pricing"
+      }
+    ]
+  },
+  "Smartcat": {
+    "descriptionFr": "Plateforme de traduction et de localisation de contenus pour les équipes multilingues.",
+    "descriptionEn": "Translation and localization platform for multilingual teams.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Lokalise": {
+    "descriptionFr": "Outil de gestion de la localisation et de collaboration sur les traductions de produits numériques.",
+    "descriptionEn": "Localization management and translation collaboration tool.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Crowdin": {
+    "descriptionFr": "Plateforme de gestion des traductions et de la localisation de logiciels et de sites.",
+    "descriptionEn": "Localization and translation management platform for software and websites.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Rask AI": {
+    "descriptionFr": "Service de traduction et de doublage de vidéos assisté par intelligence artificielle.",
+    "descriptionEn": "AI-powered video translation and dubbing platform.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Midjourney": {
+    "descriptionFr": "Service de création visuelle par IA permettant de générer et de faire varier des images à partir d’instructions.",
+    "descriptionEn": "AI visual creation service for generating and varying images from prompts.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "featuresFr": [
+      "Génération d’images",
+      "Génération vidéo",
+      "Mode Relax selon abonnement",
+      "Mode privé Stealth selon abonnement"
+    ],
+    "featuresEn": [
+      "Image generation",
+      "Video generation",
+      "Relax mode on selected plans",
+      "Stealth mode on selected plans"
+    ],
+    "accessFr": "Plateforme web",
+    "accessEn": "Web platform",
+    "pricing": {
+      "fr": "Abonnements Basic 10 $, Standard 30 $, Pro 60 $ et Mega 120 $/mois ; réduction annuelle proposée.",
+      "en": "Monthly subscriptions: Basic $10, Standard $30, Pro $60, Mega $120; annual discount available.",
+      "sourceUrl": "https://docs.midjourney.com/hc/en-us/articles/27870484040333-Comparing-Midjourney-Plans",
+      "verifiedAt": "2026-11-15",
+      "model": "paid"
+    },
+    "pricingStatus": "official_reviewed",
+    "officialSources": [
+      {
+        "url": "https://docs.midjourney.com/hc/en-us/articles/27870484040333-Comparing-Midjourney-Plans",
+        "checkedAt": "2026-11-15",
+        "scope": "features_and_pricing"
+      }
+    ]
+  },
+  "Adobe Firefly": {
+    "descriptionFr": "Ensemble d’outils génératifs d’Adobe pour créer et modifier des images, des vidéos et d’autres médias.",
+    "descriptionEn": "Adobe’s generative tools for creating and editing images, video and other media.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "featuresFr": [
+      "Génération d’images",
+      "Génération vidéo",
+      "Génération audio",
+      "Crédits génératifs"
+    ],
+    "featuresEn": [
+      "Image generation",
+      "Video generation",
+      "Audio generation",
+      "Generative credits"
+    ],
+    "accessFr": "Applications Adobe et plateforme web",
+    "accessEn": "Adobe apps and web platform",
+    "pricing": {
+      "fr": "Accès gratuit limité ; Standard 9,99 $/mois, Pro 19,99 $, Pro Plus 49,99 $, Premium 199,99 $.",
+      "en": "Limited free access; Standard $9.99/month, Pro $19.99, Pro Plus $49.99, Premium $199.99.",
+      "sourceUrl": "https://www.adobe.com/products/firefly/plans.html",
+      "verifiedAt": "2026-11-15",
+      "model": "freemium"
+    },
+    "pricingStatus": "official_reviewed",
+    "officialSources": [
+      {
+        "url": "https://www.adobe.com/products/firefly/plans.html",
+        "checkedAt": "2026-11-15",
+        "scope": "features_and_pricing"
+      }
+    ]
+  },
+  "Ideogram": {
+    "descriptionFr": "Plateforme de génération visuelle à partir de texte, notamment utilisée pour les images comprenant de la typographie.",
+    "descriptionEn": "Visual generation platform, notably for images containing typography.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "featuresFr": [
+      "Génération d’images",
+      "Modèles vidéo",
+      "Génération privée sur offres payantes",
+      "API facturée en crédits"
+    ],
+    "featuresEn": [
+      "Image generation",
+      "Video models",
+      "Private generation on paid plans",
+      "Credit-based API"
+    ],
+    "accessFr": "Plateforme web et API",
+    "accessEn": "Web platform and API",
+    "pricing": {
+      "fr": "Abonnements Plus 20 $/mois et Pro 60 $/mois en facturation mensuelle ; crédits API à l’usage.",
+      "en": "Plus $20/month and Pro $60/month on monthly billing; usage-based API credits.",
+      "sourceUrl": "https://ideogram.ai/pricing/",
+      "verifiedAt": "2026-11-15",
+      "model": "paid"
+    },
+    "pricingStatus": "official_reviewed",
+    "officialSources": [
+      {
+        "url": "https://ideogram.ai/pricing/",
+        "checkedAt": "2026-11-15",
+        "scope": "features_and_pricing"
+      }
+    ]
+  },
+  "Leonardo AI": {
+    "descriptionFr": "Suite de création d’images et de ressources visuelles par IA pour les créateurs et les studios.",
+    "descriptionEn": "AI image and visual asset creation suite for creators and studios.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Recraft": {
+    "descriptionFr": "Générateur et éditeur graphique assisté par IA, adapté aux illustrations, visuels et ressources de marque.",
+    "descriptionEn": "AI graphic generation and editing for illustrations, visuals and brand assets.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "FLUX": {
+    "descriptionFr": "Famille de modèles génératifs d’images développée par Black Forest Labs.",
+    "descriptionEn": "Family of image generation models from Black Forest Labs.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Stable Diffusion": {
+    "descriptionFr": "Famille de modèles de diffusion générative d’images avec un vaste écosystème d’outils et de variantes.",
+    "descriptionEn": "Image diffusion model family with a broad ecosystem of tools and variants.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Civitai": {
+    "descriptionFr": "Communauté et catalogue de modèles et de ressources pour la génération d’images par IA.",
+    "descriptionEn": "Community and library of models and resources for AI image generation.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Krea": {
+    "descriptionFr": "Espace créatif pour générer, transformer et améliorer des images et des vidéos à l’aide de l’IA.",
+    "descriptionEn": "Creative workspace for generating, editing and enhancing AI images and videos.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Adobe Photoshop": {
+    "descriptionFr": "Logiciel de retouche d’images d’Adobe intégrant des fonctionnalités d’édition générative.",
+    "descriptionEn": "Adobe’s image editing software with generative editing features.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Photoroom": {
+    "descriptionFr": "Outil de création et de retouche de photographies de produits, avec détourage et génération d’arrière-plans.",
+    "descriptionEn": "Product photo creation and editing, including background removal and generation.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "featuresFr": [
+      "Suppression de fond",
+      "Retouche produit",
+      "Ombres IA",
+      "Génération vidéo selon formule"
+    ],
+    "featuresEn": [
+      "Background removal",
+      "Product photo retouching",
+      "AI shadows",
+      "Video generation by plan"
+    ],
+    "accessFr": "Web et applications",
+    "accessEn": "Web and apps",
+    "pricing": {
+      "fr": "Pro dès 7,50 $/mois, Max dès 20,99 $/mois, Ultra dès 82,50 $/mois en équivalent annuel.",
+      "en": "Pro from $7.50/month, Max from $20.99/month, Ultra from $82.50/month billed annually.",
+      "sourceUrl": "https://www.photoroom.com/fr/pricing",
+      "verifiedAt": "2026-11-15",
+      "model": "paid"
+    },
+    "pricingStatus": "official_reviewed",
+    "officialSources": [
+      {
+        "url": "https://www.photoroom.com/fr/pricing",
+        "checkedAt": "2026-11-15",
+        "scope": "features_and_pricing"
+      }
+    ]
+  },
+  "remove.bg": {
+    "descriptionFr": "Service de suppression automatique de l’arrière-plan des images.",
+    "descriptionEn": "Automatic image background removal service.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Topaz Photo": {
+    "descriptionFr": "Logiciel de traitement photographique fondé sur l’IA pour l’amélioration et la restauration de détails.",
+    "descriptionEn": "AI-powered photo enhancement and restoration software.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Magnific AI": {
+    "descriptionFr": "Service d’agrandissement et de transformation détaillée d’images par intelligence artificielle.",
+    "descriptionEn": "AI image upscaling and detail enhancement service.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Upscayl": {
+    "descriptionFr": "Application open source d’agrandissement d’images s’appuyant sur des modèles d’IA.",
+    "descriptionEn": "Open-source AI image upscaling application.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Runway": {
+    "descriptionFr": "Plateforme de création audiovisuelle combinant génération et montage vidéo assistés par IA.",
+    "descriptionEn": "AI video creation platform combining generation and editing.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Pika": {
+    "descriptionFr": "Outil de génération et de transformation de courtes vidéos à partir de consignes ou de médias.",
+    "descriptionEn": "Tool for generating and transforming short videos from prompts or media.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Luma Dream Machine": {
+    "descriptionFr": "Outil de génération vidéo et de création visuelle développé par Luma AI.",
+    "descriptionEn": "Video generation and visual creation by Luma AI.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Kling AI": {
+    "descriptionFr": "Plateforme de génération de vidéos et d’images fondée sur les modèles Kling.",
+    "descriptionEn": "Image and video generation platform using Kling models.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Veo": {
+    "descriptionFr": "Famille de modèles de génération de vidéos développée par Google.",
+    "descriptionEn": "Google’s video generation model family.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Sora": {
+    "descriptionFr": "Outil de création de vidéos à partir de consignes et d’éléments visuels, développé par OpenAI.",
+    "descriptionEn": "OpenAI video creation tool using prompts and visual assets.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "CapCut": {
+    "descriptionFr": "Éditeur de vidéos avec modèles de montage, sous-titrage et fonctions de création assistées par IA.",
+    "descriptionEn": "Video editor with templates, captions and AI-assisted creation.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "featuresFr": [
+      "Montage vidéo",
+      "Modèles prêts à l’emploi",
+      "Génération vidéo IA sur offres payantes",
+      "Stockage de projets"
+    ],
+    "featuresEn": [
+      "Video editing",
+      "Ready-made templates",
+      "AI video generation on paid plans",
+      "Project storage"
+    ],
+    "accessFr": "Web et applications",
+    "accessEn": "Web and apps",
+    "pricing": {
+      "fr": "Free ; Pro affiché à 19,99 $/mois, Ultra 79 $/mois (prix indicatifs selon compte et région).",
+      "en": "Free; listed Pro $19.99/month and Ultra $79/month (indicative by account and region).",
+      "sourceUrl": "https://www.capcut.com/pricing/",
+      "verifiedAt": "2026-11-15",
+      "model": "freemium"
+    },
+    "pricingStatus": "official_reviewed",
+    "officialSources": [
+      {
+        "url": "https://www.capcut.com/pricing/",
+        "checkedAt": "2026-11-15",
+        "scope": "features_and_pricing"
+      }
+    ]
+  },
+  "Descript": {
+    "descriptionFr": "Éditeur audio et vidéo permettant de monter des enregistrements en modifiant une transcription.",
+    "descriptionEn": "Audio and video editor that supports transcript-based editing.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "featuresFr": [
+      "Montage audio et vidéo",
+      "Transcription",
+      "Nettoyage audio",
+      "Export vidéo"
+    ],
+    "featuresEn": [
+      "Audio and video editing",
+      "Transcription",
+      "Audio cleaning",
+      "Video export"
+    ],
+    "accessFr": "Application",
+    "accessEn": "Application",
+    "pricing": {
+      "fr": "Gratuit ; Hobbyist dès 16 $/personne/mois en annuel et Creator dès 24 $/personne/mois en annuel.",
+      "en": "Free; Hobbyist from $16/person/month annually and Creator from $24/person/month annually.",
+      "sourceUrl": "https://www.descript.com/pricing",
+      "verifiedAt": "2026-11-15",
+      "model": "freemium"
+    },
+    "pricingStatus": "official_reviewed",
+    "officialSources": [
+      {
+        "url": "https://www.descript.com/pricing",
+        "checkedAt": "2026-11-15",
+        "scope": "features_and_pricing"
+      }
+    ]
+  },
+  "OpusClip": {
+    "descriptionFr": "Outil de transformation de longues vidéos en extraits courts adaptés aux plateformes sociales.",
+    "descriptionEn": "Tool for turning long videos into short social-media clips.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "VEED": {
+    "descriptionFr": "Éditeur vidéo en ligne intégrant sous-titrage, enregistrement et fonctions IA.",
+    "descriptionEn": "Online video editor with captions, recording and AI features.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Synthesia": {
+    "descriptionFr": "Plateforme de vidéos avec avatars numériques, conçue notamment pour la formation et la communication.",
+    "descriptionEn": "Digital avatar video platform for training and communication.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "featuresFr": [
+      "Création de vidéos",
+      "Avatars",
+      "Doublage",
+      "Exports sur formules payantes"
+    ],
+    "featuresEn": [
+      "Video creation",
+      "Avatars",
+      "Dubbing",
+      "Exports on paid plans"
+    ],
+    "accessFr": "Plateforme web",
+    "accessEn": "Web platform",
+    "pricing": {
+      "fr": "Basic gratuit ; Starter dès 29 $/mois en facturation annuelle ; Pro dès 64 $/mois en facturation annuelle.",
+      "en": "Free Basic; Starter from $29/month billed yearly; Pro from $64/month billed yearly.",
+      "sourceUrl": "https://www.synthesia.io/pricing",
+      "verifiedAt": "2026-11-15",
+      "model": "freemium"
+    },
+    "pricingStatus": "official_reviewed",
+    "officialSources": [
+      {
+        "url": "https://www.synthesia.io/pricing",
+        "checkedAt": "2026-11-15",
+        "scope": "features_and_pricing"
+      }
+    ]
+  },
+  "HeyGen": {
+    "descriptionFr": "Service de création de vidéos avec avatars, présentateurs virtuels et doublage multilingue.",
+    "descriptionEn": "AI avatar video creation and multilingual dubbing service.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "featuresFr": [
+      "Avatars vidéo",
+      "Génération de vidéos IA",
+      "Traduction et doublage vidéo",
+      "Synthèse et clonage vocal selon offre"
+    ],
+    "featuresEn": [
+      "Video avatars",
+      "AI video generation",
+      "Video translation and dubbing",
+      "Text-to-speech and voice cloning by plan"
+    ],
+    "accessFr": "Plateforme web",
+    "accessEn": "Web platform",
+    "pricing": {
+      "fr": "Free à 0 $/mois (3 vidéos filigranées) ; Creator 29 $/mois ; Pro 49 $/mois, en facturation mensuelle.",
+      "en": "Free $0/month (3 watermarked videos); Creator $29/month; Pro $49/month with monthly billing.",
+      "sourceUrl": "https://www.heygen.com/pricing",
+      "verifiedAt": "2026-11-15",
+      "model": "freemium"
+    },
+    "pricingStatus": "official_reviewed",
+    "officialSources": [
+      {
+        "url": "https://www.heygen.com/pricing",
+        "checkedAt": "2026-11-15",
+        "scope": "features_and_pricing"
+      }
+    ]
+  },
+  "D-ID": {
+    "descriptionFr": "Plateforme de génération d’avatars parlants et de vidéos à partir de portraits.",
+    "descriptionEn": "Talking avatar and portrait-to-video generation platform.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "ElevenLabs": {
+    "descriptionFr": "Plateforme de génération et de traitement vocal proposant des voix synthétiques, de la transcription et du doublage.",
+    "descriptionEn": "Voice generation and processing platform for speech synthesis, transcription and dubbing.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "featuresFr": [
+      "Synthèse vocale",
+      "Transcription",
+      "Clonage de voix selon forfait",
+      "Doublage et effets sonores"
+    ],
+    "featuresEn": [
+      "Text-to-speech",
+      "Speech-to-text",
+      "Voice cloning on eligible plans",
+      "Dubbing and sound effects"
+    ],
+    "accessFr": "Web et API",
+    "accessEn": "Web and API",
+    "pricing": {
+      "fr": "Offre gratuite ; Starter dès 6 $/mois (après promotion du premier mois), Creator 22 $/mois, Pro 99 $/mois.",
+      "en": "Free plan; Starter from $6/month after first-month promotion, Creator $22/month, Pro $99/month.",
+      "sourceUrl": "https://elevenlabs.io/pricing",
+      "verifiedAt": "2026-11-15",
+      "model": "freemium"
+    },
+    "pricingStatus": "official_reviewed",
+    "officialSources": [
+      {
+        "url": "https://elevenlabs.io/pricing",
+        "checkedAt": "2026-11-15",
+        "scope": "features_and_pricing"
+      }
+    ]
+  },
+  "Murf": {
+    "descriptionFr": "Service de synthèse vocale destiné aux vidéos, formations et contenus de communication.",
+    "descriptionEn": "Text-to-speech service for video, e-learning and communications.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Speechify": {
+    "descriptionFr": "Application de lecture vocale de textes et de documents avec des voix générées par IA.",
+    "descriptionEn": "Text-to-speech app for reading text and documents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Whisper": {
+    "descriptionFr": "Modèle de reconnaissance automatique de la parole d’OpenAI pour convertir l’audio en texte.",
+    "descriptionEn": "OpenAI speech recognition model for transcribing audio.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Otter": {
+    "descriptionFr": "Assistant de réunions qui enregistre, transcrit et synthétise les échanges.",
+    "descriptionEn": "Meeting assistant for recording, transcribing and summarizing conversations.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "featuresFr": [
+      "Transcription en direct",
+      "Identification des intervenants",
+      "Résumé et discussion IA",
+      "Connexions Zoom, Meet, Teams"
+    ],
+    "featuresEn": [
+      "Live transcription",
+      "Speaker identification",
+      "AI meeting chat",
+      "Zoom, Meet and Teams"
+    ],
+    "accessFr": "Web, iOS et Android",
+    "accessEn": "Web, iOS and Android",
+    "pricing": {
+      "fr": "Basic gratuit ; Pro 16,99 $/utilisateur/mois en mensuel ; Business 30 $/utilisateur/mois avant promotions.",
+      "en": "Free Basic; Pro $16.99/user/month monthly; Business $30/user/month before promotions.",
+      "sourceUrl": "https://otter.ai/pricing",
+      "verifiedAt": "2026-11-15",
+      "model": "freemium"
+    },
+    "pricingStatus": "official_reviewed",
+    "officialSources": [
+      {
+        "url": "https://otter.ai/pricing",
+        "checkedAt": "2026-11-15",
+        "scope": "features_and_pricing"
+      }
+    ]
+  },
+  "Fireflies.ai": {
+    "descriptionFr": "Assistant de réunions qui transcrit les appels, prépare des résumés et facilite la recherche dans les échanges.",
+    "descriptionEn": "Meeting assistant for transcription, summaries and search across calls.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "featuresFr": [
+      "Transcription de réunions",
+      "Résumés IA",
+      "Recherche de conversations",
+      "Intégrations Zoom, Meet et Teams"
+    ],
+    "featuresEn": [
+      "Meeting transcription",
+      "AI summaries",
+      "Conversation search",
+      "Zoom, Meet and Teams integration"
+    ],
+    "accessFr": "Web, mobile et API",
+    "accessEn": "Web, mobile and API",
+    "pricing": {
+      "fr": "Gratuit ; Pro 10 $/utilisateur/mois en annuel, Business 19 $ et Enterprise 39 $.",
+      "en": "Free; Pro $10/user/month annually, Business $19, Enterprise $39.",
+      "sourceUrl": "https://fireflies.ai/fr/pricing",
+      "verifiedAt": "2026-11-15",
+      "model": "freemium"
+    },
+    "pricingStatus": "official_reviewed",
+    "officialSources": [
+      {
+        "url": "https://fireflies.ai/fr/pricing",
+        "checkedAt": "2026-11-15",
+        "scope": "features_and_pricing"
+      }
+    ]
+  },
+  "Krisp": {
+    "descriptionFr": "Outil audio destiné à l’amélioration des réunions, avec réduction du bruit et fonctions de prise de notes.",
+    "descriptionEn": "Meeting audio tool with noise reduction and note-taking features.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Deepgram": {
+    "descriptionFr": "API de reconnaissance et de synthèse vocales pour intégrer des fonctionnalités audio aux applications.",
+    "descriptionEn": "Speech recognition and synthesis APIs for developers.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Suno": {
+    "descriptionFr": "Plateforme de création musicale par intelligence artificielle à partir d’idées et d’instructions textuelles.",
+    "descriptionEn": "AI music creation platform that turns ideas and prompts into songs.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "featuresFr": [
+      "Création de chansons",
+      "Import audio",
+      "Séparation de pistes sur offres payantes",
+      "Droits commerciaux selon abonnement"
+    ],
+    "featuresEn": [
+      "Song creation",
+      "Audio upload",
+      "Stem separation on paid plans",
+      "Commercial rights by plan"
+    ],
+    "accessFr": "Plateforme web",
+    "accessEn": "Web platform",
+    "pricing": {
+      "fr": "Free 0 $ ; Pro 10 $/mois ou 8 $/mois en équivalent annuel ; Premier 30 $/mois ou 24 $/mois en équivalent annuel.",
+      "en": "Free $0; Pro $10/month or $8/month equivalent annually; Premier $30/month or $24/month annually.",
+      "sourceUrl": "https://suno.com/pricing",
+      "verifiedAt": "2026-11-15",
+      "model": "freemium"
+    },
+    "pricingStatus": "official_reviewed",
+    "officialSources": [
+      {
+        "url": "https://suno.com/pricing",
+        "checkedAt": "2026-11-15",
+        "scope": "features_and_pricing"
+      }
+    ]
+  },
+  "Udio": {
+    "descriptionFr": "Plateforme de génération musicale et d’exploration de morceaux avec assistance IA.",
+    "descriptionEn": "AI music generation and track creation platform.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "AIVA": {
+    "descriptionFr": "Assistant de composition musicale pour créer des musiques instrumentales et des bandes sonores.",
+    "descriptionEn": "AI music composition assistant for instrumental tracks and soundtracks.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Soundraw": {
+    "descriptionFr": "Générateur de musiques destiné aux créateurs de vidéos et de contenus numériques.",
+    "descriptionEn": "Music generation tool for video and digital content creators.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "MusicGen": {
+    "descriptionFr": "Famille de modèles de génération musicale publiée par Meta.",
+    "descriptionEn": "Music generation model family released by Meta.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "LALAL.AI": {
+    "descriptionFr": "Service de séparation de pistes audio permettant d’isoler voix et instruments.",
+    "descriptionEn": "Audio stem separation service for isolating vocals and instruments.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Adobe Podcast": {
+    "descriptionFr": "Outils d’enregistrement et de nettoyage audio pour améliorer la qualité de la parole.",
+    "descriptionEn": "Recording and speech enhancement tools for podcasts and voice.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Auphonic": {
+    "descriptionFr": "Service de postproduction audio automatique, notamment pour la normalisation et l’amélioration sonore.",
+    "descriptionEn": "Automatic audio post-production for loudness normalization and sound cleanup.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Canva": {
+    "descriptionFr": "Plateforme de conception graphique pour visuels, documents, présentations et vidéos, avec des outils IA.",
+    "descriptionEn": "Design platform for visuals, documents, presentations and videos, with AI tools.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "featuresFr": [
+      "Conception graphique",
+      "Présentations",
+      "Montage vidéo",
+      "Fonctions de création IA"
+    ],
+    "featuresEn": [
+      "Graphic design",
+      "Presentations",
+      "Video creation",
+      "AI design features"
+    ],
+    "accessFr": "Web et applications",
+    "accessEn": "Web and apps",
+    "pricing": {
+      "fr": "Offre gratuite ; formules Pro, Business et Enterprise. Prix variables selon région et durée.",
+      "en": "Free tier; Pro, Business and Enterprise plans. Prices vary by region and billing.",
+      "sourceUrl": "https://www.canva.com/pricing/",
+      "verifiedAt": "2026-11-15",
+      "model": "freemium"
+    },
+    "pricingStatus": "official_reviewed",
+    "officialSources": [
+      {
+        "url": "https://www.canva.com/pricing/",
+        "checkedAt": "2026-11-15",
+        "scope": "features_and_pricing"
+      }
+    ]
+  },
+  "Adobe Express": {
+    "descriptionFr": "Application de création rapide de contenus graphiques, vidéos et supports de communication.",
+    "descriptionEn": "Quick creative application for graphics, video and communication materials.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Figma AI": {
+    "descriptionFr": "Fonctions IA intégrées à Figma pour accompagner la conception et la production d’interfaces.",
+    "descriptionEn": "AI features in Figma for interface design and creation.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Gamma": {
+    "descriptionFr": "Outil de création de présentations, documents et pages web à partir d’idées ou de contenus.",
+    "descriptionEn": "Tool for creating presentations, documents and websites from ideas or content.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "featuresFr": [
+      "Présentations et documents",
+      "Sites web",
+      "Import PDF et PPTX",
+      "Export PDF et PPTX"
+    ],
+    "featuresEn": [
+      "Presentations and documents",
+      "Websites",
+      "PDF and PPTX import",
+      "PDF and PPTX export"
+    ],
+    "accessFr": "Navigateur web et API selon offre",
+    "accessEn": "Web browser and API on eligible tiers",
+    "pricing": {
+      "fr": "Offre Free ; abonnements Plus, Pro et Ultra. Prix exact à consulter selon la facturation.",
+      "en": "Free plan plus Plus, Pro and Ultra subscriptions. Check exact prices by billing cycle.",
+      "sourceUrl": "https://gamma.app/fr/pricing",
+      "verifiedAt": "2026-11-15",
+      "model": "freemium"
+    },
+    "pricingStatus": "official_reviewed",
+    "officialSources": [
+      {
+        "url": "https://gamma.app/fr/pricing",
+        "checkedAt": "2026-11-15",
+        "scope": "features_and_pricing"
+      }
+    ]
+  },
+  "Beautiful.ai": {
+    "descriptionFr": "Application de présentations proposant des mises en page assistées et des modèles intelligents.",
+    "descriptionEn": "Presentation software with assisted layouts and smart templates.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Napkin AI": {
+    "descriptionFr": "Outil de transformation d’idées ou de textes en schémas et visuels explicatifs.",
+    "descriptionEn": "Tool for turning ideas and text into explanatory visuals.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "GitHub Copilot": {
+    "descriptionFr": "Assistant de programmation intégré aux environnements de développement et à la plateforme GitHub.",
+    "descriptionEn": "Coding assistant integrated into developer tools and GitHub.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "featuresFr": [
+      "Complétion de code",
+      "Chat de programmation",
+      "Agents cloud",
+      "Relecture de code"
+    ],
+    "featuresEn": [
+      "Code completions",
+      "Coding chat",
+      "Cloud coding agents",
+      "Code review"
+    ],
+    "accessFr": "GitHub et environnements de développement",
+    "accessEn": "GitHub and development environments",
+    "pricing": {
+      "fr": "Gratuit ; Pro 10 $/mois, Pro+ 39 $/mois, Max 100 $/mois pour les particuliers.",
+      "en": "Free; Pro $10/month, Pro+ $39/month, Max $100/month for individuals.",
+      "sourceUrl": "https://github.com/features/copilot/plans",
+      "verifiedAt": "2026-11-15",
+      "model": "freemium"
+    },
+    "pricingStatus": "official_reviewed",
+    "officialSources": [
+      {
+        "url": "https://github.com/features/copilot/plans",
+        "checkedAt": "2026-11-15",
+        "scope": "features_and_pricing"
+      }
+    ]
+  },
+  "Cursor": {
+    "descriptionFr": "Éditeur de code avec assistant IA contextuel pour comprendre, écrire et modifier un projet logiciel.",
+    "descriptionEn": "AI-assisted code editor for understanding, writing and modifying software projects.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Claude Code": {
+    "descriptionFr": "Agent de programmation d’Anthropic utilisable depuis les environnements de développement et le terminal.",
+    "descriptionEn": "Anthropic’s coding agent for development environments and terminals.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "OpenAI Codex": {
+    "descriptionFr": "Agent d’ingénierie logicielle d’OpenAI pour travailler sur des tâches de développement et des dépôts de code.",
+    "descriptionEn": "OpenAI software engineering agent for coding tasks and repositories.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Continue": {
+    "descriptionFr": "Assistant de programmation open source personnalisable et intégrable à des éditeurs de code.",
+    "descriptionEn": "Customizable open-source coding assistant for code editors.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Aider": {
+    "descriptionFr": "Outil en ligne de commande permettant de modifier un projet logiciel avec l’aide d’un modèle IA.",
+    "descriptionEn": "Terminal-based AI coding assistant for editing codebases.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Cline": {
+    "descriptionFr": "Agent de programmation open source utilisé dans des environnements de développement.",
+    "descriptionEn": "Open-source coding agent for development environments.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Lovable": {
+    "descriptionFr": "Plateforme de création d’applications web en langage naturel avec édition et déploiement des projets.",
+    "descriptionEn": "Natural-language web app builder with project editing and deployment.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "featuresFr": [
+      "Création d’applications",
+      "Hébergement cloud",
+      "Domaines personnalisés sur offres payantes",
+      "Collaboration"
+    ],
+    "featuresEn": [
+      "App creation",
+      "Cloud hosting",
+      "Custom domains on paid plans",
+      "Collaboration"
+    ],
+    "accessFr": "Application web",
+    "accessEn": "Web application",
+    "pricing": {
+      "fr": "Gratuit ; Pro 25 $/mois, Business 50 $/mois (offres avec crédits), Enterprise sur devis.",
+      "en": "Free; Pro $25/month, Business $50/month with credits; enterprise custom pricing.",
+      "sourceUrl": "https://lovable.dev/fr/pricing",
+      "verifiedAt": "2026-11-15",
+      "model": "freemium"
+    },
+    "pricingStatus": "official_reviewed",
+    "officialSources": [
+      {
+        "url": "https://lovable.dev/fr/pricing",
+        "checkedAt": "2026-11-15",
+        "scope": "features_and_pricing"
+      }
+    ]
+  },
+  "Bolt.new": {
+    "descriptionFr": "Environnement de création de sites et d’applications web avec assistance IA directement dans le navigateur.",
+    "descriptionEn": "Browser-based AI-assisted website and web app builder.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "featuresFr": [
+      "Création de sites et applications",
+      "Hébergement web",
+      "Base de données",
+      "Domaines personnalisés sur offre Pro"
+    ],
+    "featuresEn": [
+      "Website and app building",
+      "Web hosting",
+      "Database",
+      "Custom domains on Pro"
+    ],
+    "accessFr": "Navigateur web",
+    "accessEn": "Web browser",
+    "pricing": {
+      "fr": "Free 0 $ ; Pro 25 $/mois, Teams 30 $/utilisateur/mois en facturation mensuelle.",
+      "en": "Free $0; Pro $25/month, Teams $30/user/month on monthly billing.",
+      "sourceUrl": "https://bolt.new/pricing",
+      "verifiedAt": "2026-11-15",
+      "model": "freemium"
+    },
+    "pricingStatus": "official_reviewed",
+    "officialSources": [
+      {
+        "url": "https://bolt.new/pricing",
+        "checkedAt": "2026-11-15",
+        "scope": "features_and_pricing"
+      }
+    ]
+  },
+  "v0": {
+    "descriptionFr": "Assistant de création d’interfaces et d’applications web proposé par Vercel.",
+    "descriptionEn": "Vercel’s AI assistant for building web interfaces and apps.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Replit": {
+    "descriptionFr": "Environnement de programmation en ligne avec outils IA pour créer, tester et publier des applications.",
+    "descriptionEn": "Online coding environment with AI tools for building and publishing apps.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "featuresFr": [
+      "Création de sites et applications par instructions",
+      "Agents de programmation",
+      "Hébergement et publication",
+      "Facturation à la consommation"
+    ],
+    "featuresEn": [
+      "Website and app creation with prompts",
+      "Coding agents",
+      "Hosting and publishing",
+      "Usage-based billing"
+    ],
+    "accessFr": "Plateforme web",
+    "accessEn": "Web platform",
+    "pricing": {
+      "fr": "Offres sur abonnement et crédits de consommation pour l’agent Replit ; réductions allant jusqu’à 10 % en facturation annuelle. Prix du plan non accessible dans la version textuelle consultée.",
+      "en": "Subscription plans with consumption credits for Replit Agent; up to 10% off on annual billing. Exact plan prices were unavailable in the checked page text.",
+      "sourceUrl": "https://replit.com/pricing",
+      "verifiedAt": "2026-11-15",
+      "model": "usage_based"
+    },
+    "pricingStatus": "official_reviewed",
+    "officialSources": [
+      {
+        "url": "https://replit.com/pricing",
+        "checkedAt": "2026-11-15",
+        "scope": "features_and_pricing"
+      }
+    ]
+  },
+  "Framer": {
+    "descriptionFr": "Outil de conception et de publication de sites web visuels avec des fonctionnalités IA.",
+    "descriptionEn": "Visual website design and publishing platform with AI features.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "featuresFr": [
+      "Conception de sites",
+      "CMS",
+      "Hébergement",
+      "SEO et localisation en option"
+    ],
+    "featuresEn": [
+      "Website design",
+      "CMS",
+      "Hosting",
+      "SEO and optional localization"
+    ],
+    "accessFr": "Web",
+    "accessEn": "Web",
+    "pricing": {
+      "fr": "Free ; Basic dès 10 $/mois et Pro dès 30 $/mois en facturation annuelle.",
+      "en": "Free; Basic from $10/month and Pro from $30/month billed annually.",
+      "sourceUrl": "https://www.framer.com/pricing",
+      "verifiedAt": "2026-11-15",
+      "model": "freemium"
+    },
+    "pricingStatus": "official_reviewed",
+    "officialSources": [
+      {
+        "url": "https://www.framer.com/pricing",
+        "checkedAt": "2026-11-15",
+        "scope": "features_and_pricing"
+      }
+    ]
+  },
+  "Webflow AI": {
+    "descriptionFr": "Fonctionnalités IA intégrées à l’environnement de conception et de publication Webflow.",
+    "descriptionEn": "AI tools integrated into Webflow’s website design and publishing platform.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "featuresFr": [
+      "Génération de sections",
+      "Génération de composants",
+      "Assistance SEO",
+      "Gestion de contenu"
+    ],
+    "featuresEn": [
+      "Section generation",
+      "Component generation",
+      "SEO assistance",
+      "Content management"
+    ],
+    "accessFr": "Web",
+    "accessEn": "Web",
+    "pricing": {
+      "fr": "Webflow propose une formule Starter gratuite et des forfaits Site payants ; les fonctions IA dépendent du plan.",
+      "en": "Webflow offers a free Starter tier and paid site plans; AI functions depend on the plan.",
+      "sourceUrl": "https://webflow.com/pricing",
+      "verifiedAt": "2026-11-15",
+      "model": "freemium"
+    },
+    "pricingStatus": "official_reviewed",
+    "officialSources": [
+      {
+        "url": "https://webflow.com/pricing",
+        "checkedAt": "2026-11-15",
+        "scope": "features_and_pricing"
+      }
+    ]
+  },
+  "CrewAI": {
+    "descriptionFr": "Framework destiné à concevoir des systèmes multi-agents qui répartissent le travail entre plusieurs agents IA.",
+    "descriptionEn": "Framework for multi-agent systems that coordinate work among agents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "LangChain": {
+    "descriptionFr": "Écosystème de bibliothèques pour développer des applications fondées sur les modèles de langage.",
+    "descriptionEn": "Libraries and tools for building language-model applications.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "LangGraph": {
+    "descriptionFr": "Framework pour créer des agents et des workflows IA à états, avec contrôle du déroulement.",
+    "descriptionEn": "Framework for stateful AI agents and controlled workflows.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "LlamaIndex": {
+    "descriptionFr": "Framework de connexion des modèles de langage aux données, notamment pour les systèmes de recherche augmentée.",
+    "descriptionEn": "Framework connecting language models to data for RAG and search.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Dify": {
+    "descriptionFr": "Plateforme de développement d’applications et de workflows d’IA avec une interface de configuration.",
+    "descriptionEn": "Platform for building AI apps and workflows through visual configuration.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Flowise": {
+    "descriptionFr": "Outil visuel de construction de chaînes, d’agents et d’applications fondées sur les modèles de langage.",
+    "descriptionEn": "Visual builder for LLM chains, agents and apps.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Zapier": {
+    "descriptionFr": "Plateforme d’automatisation reliant des applications et des workflows sans développement complexe.",
+    "descriptionEn": "Automation platform connecting apps and workflows without extensive coding.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "featuresFr": [
+      "Automatisation par Zaps",
+      "Formulaires et tables",
+      "Connexions entre applications",
+      "Agents et fonctionnalités IA"
+    ],
+    "featuresEn": [
+      "Workflow automation with Zaps",
+      "Forms and tables",
+      "App connections",
+      "AI agents and features"
+    ],
+    "accessFr": "Plateforme web",
+    "accessEn": "Web platform",
+    "pricing": {
+      "fr": "Offre Free à 0 $/mois (100 tâches/mois) ; Professional dès 19,99 $/mois ; Team dès 69 $/mois ; Enterprise sur devis.",
+      "en": "Free at $0/month (100 tasks/month); Professional from $19.99/month; Team from $69/month; custom Enterprise pricing.",
+      "sourceUrl": "https://zapier.com/pricing",
+      "verifiedAt": "2026-11-15",
+      "model": "freemium"
+    },
+    "pricingStatus": "official_reviewed",
+    "officialSources": [
+      {
+        "url": "https://zapier.com/pricing",
+        "checkedAt": "2026-11-15",
+        "scope": "features_and_pricing"
+      }
+    ]
+  },
+  "Make": {
+    "descriptionFr": "Environnement visuel d’automatisation de processus reliant des applications, APIs et services IA.",
+    "descriptionEn": "Visual automation platform connecting apps, APIs and AI services.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "featuresFr": [
+      "Scénarios visuels",
+      "Intégrations applicatives",
+      "Agents IA",
+      "Serveur MCP"
+    ],
+    "featuresEn": [
+      "Visual scenarios",
+      "App integrations",
+      "AI agents",
+      "MCP server"
+    ],
+    "accessFr": "Cloud",
+    "accessEn": "Cloud",
+    "pricing": {
+      "fr": "Free, Core, Pro, Teams et Enterprise, avec facturation selon les crédits et la formule.",
+      "en": "Free, Core, Pro, Teams and Enterprise tiers, billed by credits and plan.",
+      "sourceUrl": "https://www.make.com/en/pricing",
+      "verifiedAt": "2026-11-15",
+      "model": "freemium"
+    },
+    "pricingStatus": "official_reviewed",
+    "officialSources": [
+      {
+        "url": "https://www.make.com/en/pricing",
+        "checkedAt": "2026-11-15",
+        "scope": "features_and_pricing"
+      }
+    ]
+  },
+  "n8n": {
+    "descriptionFr": "Plateforme d’automatisation à base de workflows visuels, extensible par du code et des nœuds IA.",
+    "descriptionEn": "Visual workflow automation platform extensible with code and AI nodes.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "featuresFr": [
+      "Workflows visuels",
+      "Nœuds IA et agents",
+      "Intégration MCP",
+      "Exécutions planifiées"
+    ],
+    "featuresEn": [
+      "Visual workflows",
+      "AI nodes and agents",
+      "MCP integration",
+      "Scheduled workflows"
+    ],
+    "accessFr": "Cloud ou auto-hébergement",
+    "accessEn": "Cloud or self-hosted",
+    "pricing": {
+      "fr": "Version Community auto-hébergée ; Cloud Starter dès 20 €/mois et Pro dès 50 €/mois, facturés annuellement.",
+      "en": "Self-hosted Community Edition; cloud Starter from €20/month and Pro from €50/month, billed annually.",
+      "sourceUrl": "https://n8n.io/pricing/",
+      "verifiedAt": "2026-11-15",
+      "model": "open_source_and_paid"
+    },
+    "pricingStatus": "official_reviewed",
+    "officialSources": [
+      {
+        "url": "https://n8n.io/pricing/",
+        "checkedAt": "2026-11-15",
+        "scope": "features_and_pricing"
+      }
+    ]
+  },
+  "UiPath": {
+    "descriptionFr": "Plateforme d’automatisation robotisée de processus et d’orchestration de tâches d’entreprise.",
+    "descriptionEn": "Robotic process automation and enterprise task orchestration platform.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Notion AI": {
+    "descriptionFr": "Fonctionnalités d’IA intégrées à Notion pour travailler sur des notes, documents et espaces collaboratifs.",
+    "descriptionEn": "AI features in Notion for notes, documents and collaborative workspaces.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Microsoft 365 Copilot": {
+    "descriptionFr": "Assistant intégré à la suite Microsoft 365 pour les tâches bureautiques et le travail collaboratif.",
+    "descriptionEn": "AI assistant embedded in Microsoft 365 for productivity and collaboration.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "ClickUp Brain": {
+    "descriptionFr": "Fonctionnalités IA de ClickUp pour la gestion de tâches, de documents et de projets.",
+    "descriptionEn": "ClickUp AI for managing tasks, documents and projects.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Superhuman": {
+    "descriptionFr": "Client de messagerie orienté productivité intégrant des fonctions d’assistance IA.",
+    "descriptionEn": "Productivity-focused email client with AI assistance.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Shortwave": {
+    "descriptionFr": "Client de messagerie avec fonctions d’organisation et de recherche assistées par IA.",
+    "descriptionEn": "Email client with AI-based organization and search.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "AdCreative.ai": {
+    "descriptionFr": "Outil de conception de créations publicitaires et de variations de visuels marketing.",
+    "descriptionEn": "Tool for generating advertising creatives and marketing visual variations.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "HubSpot Breeze": {
+    "descriptionFr": "Ensemble de fonctions d’IA intégrées à l’écosystème marketing, vente et service HubSpot.",
+    "descriptionEn": "AI capabilities across HubSpot marketing, sales and service.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Semrush": {
+    "descriptionFr": "Plateforme de recherche SEO et de marketing numérique proposant des fonctions analytiques et IA.",
+    "descriptionEn": "SEO and digital marketing platform with analytics and AI tools.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Ahrefs": {
+    "descriptionFr": "Suite d’analyse SEO utilisée pour étudier les mots-clés, les liens et la visibilité des sites web.",
+    "descriptionEn": "SEO analysis suite for keywords, backlinks and website visibility.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Surfer SEO": {
+    "descriptionFr": "Outil d’optimisation de contenus pour la recherche, avec analyse de pages et recommandations éditoriales.",
+    "descriptionEn": "Search content optimization tool with page analysis and editorial recommendations.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Salesforce Einstein": {
+    "descriptionFr": "Ensemble de fonctions IA intégrées aux applications CRM Salesforce.",
+    "descriptionEn": "AI capabilities embedded in Salesforce CRM applications.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Gong": {
+    "descriptionFr": "Plateforme d’intelligence commerciale analysant les interactions et les processus de vente.",
+    "descriptionEn": "Revenue intelligence platform for analyzing sales interactions.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Clay": {
+    "descriptionFr": "Plateforme d’enrichissement de données et d’orchestration des workflows de prospection commerciale.",
+    "descriptionEn": "Data enrichment and sales prospecting workflow platform.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Intercom Fin": {
+    "descriptionFr": "Agent de support client fondé sur l’IA et associé à l’écosystème Intercom.",
+    "descriptionEn": "AI customer support agent within the Intercom platform.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Zendesk AI": {
+    "descriptionFr": "Fonctions d’IA pour le support client et l’assistance aux équipes de service dans Zendesk.",
+    "descriptionEn": "AI support functions within the Zendesk customer service suite.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Botpress": {
+    "descriptionFr": "Plateforme de conception et de déploiement d’agents conversationnels pour les organisations.",
+    "descriptionEn": "Platform for building and deploying conversational agents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Voiceflow": {
+    "descriptionFr": "Outil de conception conversationnelle et de prototypage d’agents et d’assistants IA.",
+    "descriptionEn": "Conversational design tool for prototyping agents and assistants.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Vapi": {
+    "descriptionFr": "Plateforme et API de développement d’agents vocaux capables de converser par téléphone ou application.",
+    "descriptionEn": "Platform and API for building conversational voice agents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Retell AI": {
+    "descriptionFr": "Infrastructure pour créer des agents vocaux en temps réel, notamment pour les appels téléphoniques.",
+    "descriptionEn": "Infrastructure for real-time AI voice agents, including phone calls.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Khanmigo": {
+    "descriptionFr": "Assistant pédagogique de Khan Academy destiné à soutenir l’apprentissage et le travail des enseignants.",
+    "descriptionEn": "Khan Academy’s teaching and learning assistant.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "MagicSchool AI": {
+    "descriptionFr": "Plateforme d’outils IA destinée à aider les enseignants à préparer leurs activités pédagogiques.",
+    "descriptionEn": "AI tools for teachers preparing learning activities.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Diffit": {
+    "descriptionFr": "Outil pédagogique de préparation et d’adaptation de ressources à différents niveaux d’apprentissage.",
+    "descriptionEn": "Teaching tool for adapting learning materials to different levels.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Duolingo Max": {
+    "descriptionFr": "Offre d’apprentissage des langues de Duolingo avec des expériences conversationnelles IA.",
+    "descriptionEn": "Duolingo language-learning experience with AI conversation features.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Julius AI": {
+    "descriptionFr": "Assistant d’analyse de données permettant de poser des questions et de produire des visualisations.",
+    "descriptionEn": "Data analysis assistant for asking questions and creating visualizations.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Hex": {
+    "descriptionFr": "Environnement collaboratif de données combinant notebooks, requêtes et applications analytiques.",
+    "descriptionEn": "Collaborative data workspace combining notebooks, queries and analytics apps.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "ThoughtSpot": {
+    "descriptionFr": "Plateforme d’analyse et de recherche dans les données d’entreprise à l’aide du langage naturel.",
+    "descriptionEn": "Business analytics platform with natural-language data search.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Nanonets": {
+    "descriptionFr": "Plateforme d’automatisation du traitement documentaire avec extraction de données à partir de fichiers.",
+    "descriptionEn": "Document processing automation platform for extracting information from files.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Mistral OCR": {
+    "descriptionFr": "Service de reconnaissance de documents développé par Mistral AI pour extraire du contenu structuré.",
+    "descriptionEn": "Mistral AI document recognition service for extracting structured content.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Google Document AI": {
+    "descriptionFr": "Services de traitement de documents de Google Cloud pour la classification et l’extraction de données.",
+    "descriptionEn": "Google Cloud document processing for classification and extraction.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Meshy": {
+    "descriptionFr": "Plateforme de génération et de texturage de ressources 3D à partir de textes ou d’images.",
+    "descriptionEn": "AI 3D asset generation and texturing from text and images.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Tripo AI": {
+    "descriptionFr": "Outil de production de modèles 3D à partir de textes ou d’images et d’affinage des maillages.",
+    "descriptionEn": "Text/image-to-3D tool with mesh refinement.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "featuresFr": [
+      "Génération de modèles 3D",
+      "Texturage",
+      "Édition de maillages",
+      "Export vers logiciels 3D"
+    ],
+    "featuresEn": [
+      "3D model generation",
+      "Texturing",
+      "Mesh editing",
+      "Export to 3D software"
+    ],
+    "accessFr": "Studio web",
+    "accessEn": "Web studio",
+    "pricing": {
+      "fr": "Free 0 $ ; Pro 20 $/mois en facturation annuelle ; Max 90 $/mois en facturation annuelle.",
+      "en": "Free $0; Pro $20/month annually; Max $90/month annually.",
+      "sourceUrl": "https://www.tripo3d.ai/fr/pricing",
+      "verifiedAt": "2026-11-15",
+      "model": "freemium"
+    },
+    "pricingStatus": "official_reviewed",
+    "officialSources": [
+      {
+        "url": "https://www.tripo3d.ai/fr/pricing",
+        "checkedAt": "2026-11-15",
+        "scope": "features_and_pricing"
+      }
+    ]
+  },
+  "World Labs": {
+    "descriptionFr": "Plateforme de recherche et de création d’environnements spatiaux à partir de médias et de modèles génératifs.",
+    "descriptionEn": "Research and creation platform for generative spatial environments.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Polycam": {
+    "descriptionFr": "Application de capture 3D et de numérisation d’objets ou d’espaces à l’aide de photos et de capteurs.",
+    "descriptionEn": "3D capture app for scanning objects and spaces using photos and sensors.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Matterport": {
+    "descriptionFr": "Plateforme de numérisation et de visualisation immersive d’espaces immobiliers et professionnels.",
+    "descriptionEn": "Immersive digital twin and space capture platform.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Interior AI": {
+    "descriptionFr": "Outil de visualisation et de réaménagement intérieur à partir de photographies et de styles proposés.",
+    "descriptionEn": "AI interior redesign and visualization from photos and styles.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "TestFit": {
+    "descriptionFr": "Logiciel de planification immobilière pour étudier des scénarios de conception et de faisabilité.",
+    "descriptionEn": "Real estate planning software for early design and feasibility scenarios.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Inworld AI": {
+    "descriptionFr": "Outils de développement de personnages et d’expériences interactives fondés sur des agents IA.",
+    "descriptionEn": "Tools for developing AI-driven characters and interactive experiences.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Convai": {
+    "descriptionFr": "Plateforme de personnages conversationnels IA pour les jeux et les expériences immersives.",
+    "descriptionEn": "Conversational AI characters for games and immersive experiences.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "OpenEvidence": {
+    "descriptionFr": "Service de recherche de connaissances cliniques conçu pour les professionnels de santé.",
+    "descriptionEn": "Clinical knowledge research service for healthcare professionals.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Abridge": {
+    "descriptionFr": "Solution de documentation médicale qui transforme les conversations cliniques en notes structurées.",
+    "descriptionEn": "Clinical documentation platform turning medical conversations into structured notes.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Aidoc": {
+    "descriptionFr": "Plateforme d’IA clinique associée à l’analyse d’imagerie médicale et aux workflows hospitaliers.",
+    "descriptionEn": "Clinical AI platform for medical imaging and hospital workflows.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Harvey": {
+    "descriptionFr": "Plateforme d’IA juridique pour assister la recherche, l’analyse et la production de documents juridiques.",
+    "descriptionEn": "Legal AI platform for research, analysis and document workflows.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Thomson Reuters CoCounsel": {
+    "descriptionFr": "Assistant professionnel fondé sur l’IA pour les métiers du droit et de la recherche documentaire.",
+    "descriptionEn": "Professional AI assistant for legal research and document work.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Ramp": {
+    "descriptionFr": "Plateforme de dépenses et de gestion financière d’entreprise avec automatisation des flux comptables.",
+    "descriptionEn": "Business spend and financial management platform with workflow automation.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "AlphaSense": {
+    "descriptionFr": "Plateforme de recherche d’informations financières et sectorielles destinée aux analystes et entreprises.",
+    "descriptionEn": "Market and financial intelligence search platform for analysts and organizations.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Eightfold AI": {
+    "descriptionFr": "Solution de gestion des talents utilisant l’IA pour identifier les compétences et accompagner les recrutements.",
+    "descriptionEn": "Talent intelligence platform for skills discovery and recruiting.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "HireVue": {
+    "descriptionFr": "Plateforme d’évaluation et d’entretiens numériques utilisée dans les processus de recrutement.",
+    "descriptionEn": "Digital assessment and interviewing platform for hiring workflows.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Microsoft Security Copilot": {
+    "descriptionFr": "Assistant d’investigation et d’analyse de sécurité intégré à l’écosystème Microsoft Security.",
+    "descriptionEn": "Security analysis and investigation assistant in Microsoft’s security ecosystem.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Darktrace": {
+    "descriptionFr": "Plateforme de cybersécurité utilisant des modèles d’IA pour détecter et analyser des comportements suspects.",
+    "descriptionEn": "Cybersecurity platform for detecting and investigating suspicious behavior.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "GPTZero": {
+    "descriptionFr": "Outil d’analyse de textes visant à estimer la probabilité qu’ils aient été générés par l’IA.",
+    "descriptionEn": "Text analysis tool estimating whether content was generated with AI.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Copyleaks": {
+    "descriptionFr": "Plateforme de contrôle de similarité textuelle, de plagiat et d’analyse de contenus IA.",
+    "descriptionEn": "Text similarity, plagiarism checking and AI-content analysis platform.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "C2PA": {
+    "descriptionFr": "Spécification ouverte pour attacher à des contenus numériques des informations de provenance et d’authenticité.",
+    "descriptionEn": "Open specification for digital content provenance and authenticity metadata.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Shopify Magic": {
+    "descriptionFr": "Fonctions d’assistance IA disponibles dans l’écosystème Shopify pour la gestion d’une boutique.",
+    "descriptionEn": "AI tools in Shopify for online store management.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Algolia": {
+    "descriptionFr": "Plateforme de recherche et de découverte pour sites et applications, avec fonctions de classement et de personnalisation.",
+    "descriptionEn": "Search and discovery platform for websites and apps with ranking and personalization.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "OpenAI API": {
+    "descriptionFr": "Interfaces de programmation permettant d’intégrer des modèles et capacités d’OpenAI dans des applications.",
+    "descriptionEn": "APIs for integrating OpenAI models and capabilities into applications.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "featuresFr": [
+      "Modèles multimodaux",
+      "Génération de texte",
+      "Audio et image",
+      "Recherche et outils intégrés"
+    ],
+    "featuresEn": [
+      "Multimodal models",
+      "Text generation",
+      "Audio and image",
+      "Search and built-in tools"
+    ],
+    "accessFr": "API pour développeurs",
+    "accessEn": "Developer API",
+    "pricing": {
+      "fr": "Facturation à l’usage selon le modèle, les jetons et les outils sollicités ; consulter les prix par modèle.",
+      "en": "Usage-based pricing by model, tokens and tools; check per-model rates.",
+      "sourceUrl": "https://developers.openai.com/api/docs/pricing",
+      "verifiedAt": "2026-11-15",
+      "model": "usage_based"
+    },
+    "pricingStatus": "official_reviewed",
+    "officialSources": [
+      {
+        "url": "https://developers.openai.com/api/docs/pricing",
+        "checkedAt": "2026-11-15",
+        "scope": "features_and_pricing"
+      }
+    ]
+  },
+  "Anthropic API": {
+    "descriptionFr": "API de modèles Claude destinée à la génération, au raisonnement et à l’intégration en application.",
+    "descriptionEn": "API access to Claude models for reasoning and application development.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Google Gemini API": {
+    "descriptionFr": "Interface de programmation donnant accès aux modèles Gemini et à leurs fonctionnalités multimodales.",
+    "descriptionEn": "API for accessing Gemini multimodal models.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Mistral AI": {
+    "descriptionFr": "Entreprise développant des modèles d’IA et des services de génération destinés aux organisations.",
+    "descriptionEn": "AI model provider offering generative AI tools and services.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Cohere": {
+    "descriptionFr": "Fournisseur de modèles de langage, de recherche sémantique et de services IA pour les entreprises.",
+    "descriptionEn": "Provider of language models, semantic search and enterprise AI services.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "featuresFr": [
+      "Modèles de langage",
+      "Embeddings",
+      "Reranking",
+      "Déploiement d’entreprise"
+    ],
+    "featuresEn": [
+      "Language models",
+      "Embeddings",
+      "Reranking",
+      "Enterprise deployments"
+    ],
+    "accessFr": "API et infrastructure managée",
+    "accessEn": "API and managed infrastructure",
+    "pricing": {
+      "fr": "API et solutions d’entreprise avec tarifs selon modèle et déploiement, ou sur devis.",
+      "en": "API and enterprise services with model-based or custom deployment pricing.",
+      "sourceUrl": "https://cohere.com/fr/pricing",
+      "verifiedAt": "2026-11-15",
+      "model": "usage_based"
+    },
+    "pricingStatus": "official_reviewed",
+    "officialSources": [
+      {
+        "url": "https://cohere.com/fr/pricing",
+        "checkedAt": "2026-11-15",
+        "scope": "features_and_pricing"
+      }
+    ]
+  },
+  "Hugging Face": {
+    "descriptionFr": "Plateforme collaborative de modèles, jeux de données et applications de machine learning.",
+    "descriptionEn": "Collaborative platform for models, datasets and machine-learning demos.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Ollama": {
+    "descriptionFr": "Application et environnement pour télécharger et exécuter des modèles de langage sur son ordinateur.",
+    "descriptionEn": "Application for downloading and running language models locally.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "LM Studio": {
+    "descriptionFr": "Application de bureau permettant d’utiliser des modèles de langage en local et d’exposer une API locale.",
+    "descriptionEn": "Desktop app for local language models and local API serving.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "llama.cpp": {
+    "descriptionFr": "Projet de référence pour l’inférence efficace de modèles de langage, notamment sur des machines locales.",
+    "descriptionEn": "Project for efficient local language-model inference.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "vLLM": {
+    "descriptionFr": "Moteur open source de déploiement et de service de modèles de langage à haute performance.",
+    "descriptionEn": "Open-source high-throughput LLM serving engine.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Pinecone": {
+    "descriptionFr": "Base de données vectorielle gérée et services de recherche sémantique pour applications IA.",
+    "descriptionEn": "Managed vector database and semantic search for AI applications.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15",
+    "featuresFr": [
+      "Index vectoriels denses et clairsemés",
+      "Recherche sémantique",
+      "Inférence",
+      "Assistant RAG"
+    ],
+    "featuresEn": [
+      "Dense and sparse indexes",
+      "Semantic search",
+      "Inference",
+      "RAG assistant"
+    ],
+    "accessFr": "Cloud et API",
+    "accessEn": "Cloud and API",
+    "pricing": {
+      "fr": "Starter gratuit ; Builder 20 $/mois ; Standard avec consommation minimale de 50 $/mois ; Enterprise dès 500 $/mois minimum.",
+      "en": "Free Starter; Builder $20/month; Standard $50/month minimum usage; Enterprise $500/month minimum.",
+      "sourceUrl": "https://www.pinecone.io/pricing/",
+      "verifiedAt": "2026-11-15",
+      "model": "freemium"
+    },
+    "pricingStatus": "official_reviewed",
+    "officialSources": [
+      {
+        "url": "https://www.pinecone.io/pricing/",
+        "checkedAt": "2026-11-15",
+        "scope": "features_and_pricing"
+      }
+    ]
+  },
+  "Weaviate": {
+    "descriptionFr": "Base de données vectorielle open source conçue pour la recherche sémantique et les applications RAG.",
+    "descriptionEn": "Open-source vector database for semantic search and RAG.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Qdrant": {
+    "descriptionFr": "Moteur de recherche vectorielle et base de données pour les systèmes de recherche par similarité.",
+    "descriptionEn": "Vector search engine and database for similarity search.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "FAISS": {
+    "descriptionFr": "Bibliothèque de recherche de voisins proches dans des collections de vecteurs, créée par Meta.",
+    "descriptionEn": "Meta’s library for approximate nearest-neighbor vector search.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "pgvector": {
+    "descriptionFr": "Extension PostgreSQL permettant de stocker et d’interroger des embeddings vectoriels.",
+    "descriptionEn": "PostgreSQL extension for storing and searching vector embeddings.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "MLflow": {
+    "descriptionFr": "Plateforme open source de suivi d’expériences, gestion de modèles et cycle de vie ML.",
+    "descriptionEn": "Open-source experiment tracking and ML model lifecycle platform.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Langfuse": {
+    "descriptionFr": "Plateforme d’observabilité et d’évaluation des applications fondées sur des modèles de langage.",
+    "descriptionEn": "Observability and evaluation platform for LLM applications.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Weights & Biases": {
+    "descriptionFr": "Service de suivi d’expériences et de gestion de projets de machine learning.",
+    "descriptionEn": "Experiment tracking and project management for machine learning.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Label Studio": {
+    "descriptionFr": "Outil d’annotation de données pour entraîner et évaluer des modèles de machine learning.",
+    "descriptionEn": "Data annotation tool for training and evaluating machine learning models.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Roboflow": {
+    "descriptionFr": "Plateforme de constitution de jeux de données et de développement de systèmes de vision par ordinateur.",
+    "descriptionEn": "Computer vision dataset and model development platform.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Unsloth": {
+    "descriptionFr": "Bibliothèque et outils visant à accélérer et simplifier l’affinage de modèles de langage.",
+    "descriptionEn": "Tools and libraries for faster language model fine-tuning.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "PyTorch": {
+    "descriptionFr": "Framework open source d’apprentissage automatique et de calcul différentiable.",
+    "descriptionEn": "Open-source machine-learning and differentiable computing framework.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "TensorFlow": {
+    "descriptionFr": "Framework d’apprentissage automatique pour entraîner et déployer des modèles.",
+    "descriptionEn": "Machine learning framework for training and deploying models.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "OpenCV": {
+    "descriptionFr": "Bibliothèque open source d’algorithmes de vision par ordinateur et de traitement d’images.",
+    "descriptionEn": "Open-source computer vision and image processing library.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Ultralytics YOLO": {
+    "descriptionFr": "Famille de modèles et outils de vision artificielle, notamment pour la détection d’objets.",
+    "descriptionEn": "Computer vision models and tools, including object detection.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "NVIDIA Isaac": {
+    "descriptionFr": "Ensemble de composants de simulation et d’apprentissage pour les applications robotiques.",
+    "descriptionEn": "Robotics simulation and training ecosystem.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Plantix": {
+    "descriptionFr": "Application d’assistance aux cultures permettant notamment d’identifier des problèmes végétaux à partir d’images.",
+    "descriptionEn": "Crop assistance app for identifying plant issues from images.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Google Earth Engine": {
+    "descriptionFr": "Plateforme d’analyse géospatiale permettant de traiter de grands ensembles de données satellitaires.",
+    "descriptionEn": "Geospatial analytics platform for large-scale satellite datasets.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Mindtrip": {
+    "descriptionFr": "Plateforme de planification de voyages assistée par IA avec exploration d’idées et d’itinéraires.",
+    "descriptionEn": "AI-assisted travel planning platform for trip ideas and itineraries.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Wanderlog": {
+    "descriptionFr": "Application de planification collaborative d’itinéraires, de réservations et d’étapes de voyage.",
+    "descriptionEn": "Collaborative travel itinerary planning app.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Be My Eyes": {
+    "descriptionFr": "Service d’assistance visuelle pour personnes aveugles ou malvoyantes, avec aide humaine et IA.",
+    "descriptionEn": "Visual assistance service for blind and low-vision users, with human and AI help.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Promptfoo": {
+    "descriptionFr": "Framework de test et d’évaluation de prompts et d’applications LLM, avec contrôles de sécurité.",
+    "descriptionEn": "Prompt and LLM app evaluation framework with security tests.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Garak": {
+    "descriptionFr": "Outil open source de tests de sécurité et de robustesse des modèles de langage.",
+    "descriptionEn": "Open-source LLM vulnerability and robustness testing tool.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Futurepedia": {
+    "descriptionFr": "Annuaire et plateforme de découverte d’outils et d’usages de l’intelligence artificielle.",
+    "descriptionEn": "Directory and discovery platform for AI tools and use cases.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "There’s An AI For That": {
+    "descriptionFr": "Annuaire d’outils d’intelligence artificielle avec recherche par besoin et par tâche.",
+    "descriptionEn": "AI tool directory with task and use-case discovery.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Hugging Face Spaces": {
+    "descriptionFr": "Galerie d’applications et de démonstrations IA hébergées sur Hugging Face.",
+    "descriptionEn": "Gallery of hosted AI applications and demos on Hugging Face.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  },
+  "Product Hunt AI": {
+    "descriptionFr": "Section de découverte de nouveaux produits d’IA présentés sur Product Hunt.",
+    "descriptionEn": "Product Hunt discovery area for newly launched AI products.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-15"
+  }
+}
