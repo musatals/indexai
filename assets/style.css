@@ -423,3 +423,47 @@ body{background:var(--bg)}
  .hero-nebula .nebula-stage::before,
  .hero-nebula .nebula-stage::after{animation:none!important;will-change:auto}
 }
+
+
+/* IndexAI — high-contrast orbit caption in both themes. */
+.hero-nebula .orbit-caption{
+  z-index:5;
+  left:50%;
+  right:auto;
+  bottom:5px;
+  width:max-content;
+  max-width:calc(100% - 20px);
+  transform:translateX(-50%);
+  box-sizing:border-box;
+  padding:8px 13px;
+  border-radius:999px;
+  border:1px solid rgba(111,75,48,.38);
+  background:rgba(255,249,237,.96);
+  color:#39261a;
+  font-size:12px;
+  line-height:1.4;
+  font-weight:800;
+  text-align:center;
+  letter-spacing:.045em;
+  text-shadow:0 1px 0 rgba(255,255,255,.75);
+  box-shadow:0 4px 20px rgba(63,39,22,.16);
+  -webkit-backdrop-filter:blur(12px);
+  backdrop-filter:blur(12px);
+}
+:root[data-theme=dark] .hero-nebula .orbit-caption{
+  color:#fff7e8;
+  background:rgba(34,24,22,.92);
+  border-color:rgba(255,229,197,.58);
+  text-shadow:0 1px 2px rgba(0,0,0,.72);
+  box-shadow:0 4px 22px rgba(0,0,0,.32);
+}
+@media(max-width:700px){
+  .hero-nebula .orbit-caption{
+    bottom:8px;
+    max-width:calc(100% - 14px);
+    padding:7px 10px;
+    font-size:14px;
+    white-space:normal;
+  }
+  .hero-nebula .nebula-motion-toggle{bottom:52px}
+}
