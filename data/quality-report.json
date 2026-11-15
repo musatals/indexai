@@ -1,0 +1,125 @@
+{
+  "generatedAt": "2026-11-15T12:05:12.681445+00:00",
+  "source": "sources/atlas_outils_ia_2026.csv",
+  "total": 808,
+  "categories": 50,
+  "toolsWithUrl": 805,
+  "missingUrls": [
+    {
+      "id": "AI-0185",
+      "name": "tl"
+    },
+    {
+      "id": "AI-0212",
+      "name": "Amper Music"
+    },
+    {
+      "id": "AI-0764",
+      "name": "Satellier"
+    }
+  ],
+  "candidateSharedUrls": [
+    {
+      "url": "elevenlabs.io",
+      "count": 3,
+      "tools": [
+        "ElevenLabs Dubbing",
+        "ElevenLabs",
+        "ElevenLabs Conversational AI"
+      ]
+    },
+    {
+      "url": "www.heygen.com",
+      "count": 2,
+      "tools": [
+        "HeyGen Translate",
+        "HeyGen"
+      ]
+    },
+    {
+      "url": "www.canva.com",
+      "count": 3,
+      "tools": [
+        "Canva Magic Media",
+        "Canva",
+        "Canva Presentations"
+      ]
+    },
+    {
+      "url": "platform.openai.com",
+      "count": 2,
+      "tools": [
+        "OpenAI TTS",
+        "OpenAI API"
+      ]
+    },
+    {
+      "url": "www.framer.com",
+      "count": 2,
+      "tools": [
+        "Framer AI",
+        "Framer"
+      ]
+    },
+    {
+      "url": "replit.com",
+      "count": 2,
+      "tools": [
+        "Replit Agent",
+        "Replit"
+      ]
+    },
+    {
+      "url": "www.llamaindex.ai",
+      "count": 2,
+      "tools": [
+        "LlamaIndex",
+        "LlamaParse"
+      ]
+    },
+    {
+      "url": "workspace.google.com",
+      "count": 2,
+      "tools": [
+        "Gemini for Workspace",
+        "Gemini in Gmail"
+      ]
+    },
+    {
+      "url": "www.hubspot.com",
+      "count": 2,
+      "tools": [
+        "HubSpot AI Email",
+        "HubSpot Breeze"
+      ]
+    },
+    {
+      "url": "www.semrush.com",
+      "count": 2,
+      "tools": [
+        "Semrush",
+        "ContentShake AI"
+      ]
+    },
+    {
+      "url": "mistral.ai",
+      "count": 2,
+      "tools": [
+        "Mistral OCR",
+        "Mistral AI"
+      ]
+    },
+    {
+      "url": "thehive.ai",
+      "count": 2,
+      "tools": [
+        "Hive Moderation",
+        "Hive AI"
+      ]
+    }
+  ],
+  "invalidUrls": [],
+  "individuallyVerified": 0,
+  "descriptionsPresent": 0,
+  "nameDuplicates": []
+}
