@@ -1446,8 +1446,8 @@
       "Réponses conversationnelles liées à la recherche"
     ],
     "featuresEn": [
-      "Positionnement historique autour des questions techniques",
-      "Réponses conversationnelles liées à la recherche"
+      "Developer-focused technical questions",
+      "Conversational search for programming topics"
     ],
     "accessFr": "Web",
     "accessEn": "Web",
@@ -1592,8 +1592,8 @@
       "Recherche présentée comme une conversation plutôt qu’une simple liste de liens"
     ],
     "featuresEn": [
-      "Interface orientée questions-réponses",
-      "Recherche présentée comme une conversation plutôt qu’une simple liste de liens"
+      "Conversational question-answer interface",
+      "Search in natural language"
     ],
     "accessFr": "Web",
     "accessEn": "Web",
@@ -1670,8 +1670,8 @@
       "Fonction de recherche approfondie mentionnée sur la page de recherche"
     ],
     "featuresEn": [
-      "Réponses accompagnées de références selon la page officielle de recherche",
-      "Fonction de recherche approfondie mentionnée sur la page de recherche"
+      "Source-supported search answers",
+      "Deep-search functionality indicated by official pages"
     ],
     "accessFr": "Web",
     "accessEn": "Web",
@@ -1749,9 +1749,9 @@
       "Options de recherche et enrichissement programmatiques"
     ],
     "featuresEn": [
-      "API Search documentée",
-      "Extraction de contenus et résultats structurés",
-      "Options de recherche et enrichissement programmatiques"
+      "Documented Search API",
+      "Structured content extraction",
+      "Programmatic search and enrichment options"
     ],
     "accessFr": "API et documentation",
     "accessEn": "API and documentation",
@@ -1831,9 +1831,9 @@
       "Paramètres de profondeur et de contenu"
     ],
     "featuresEn": [
-      "API Search et SDK documentés",
-      "Filtres de domaines, dates et langue",
-      "Paramètres de profondeur et de contenu"
+      "Documented Search API and SDK",
+      "Domain, date and language filtering",
+      "Search depth and content controls"
     ],
     "accessFr": "API et documentation",
     "accessEn": "API and documentation",
@@ -1916,9 +1916,9 @@
       "Lecture de fichiers joints"
     ],
     "featuresEn": [
-      "AI Chat avec choix de modèle",
-      "Recherche web et citations lorsque Search Web est activé",
-      "Lecture de fichiers joints"
+      "AI chat with model choice",
+      "Web search and citations when enabled",
+      "Support for uploaded files"
     ],
     "accessFr": "Web",
     "accessEn": "Web",
@@ -2203,9 +2203,9 @@
       "Outils de recherche et de création"
     ],
     "featuresEn": [
-      "Recherche en langage naturel",
-      "Réponses avec liens vers les sources selon l’aide officielle",
-      "Outils de recherche et de création"
+      "Natural-language search",
+      "Answers linked to sources",
+      "Research and creation tools"
     ],
     "accessFr": "Web",
     "accessEn": "Web",
@@ -2296,9 +2296,9 @@
       "Import de fichiers et export de conversations"
     ],
     "featuresEn": [
-      "Choix de modèles et changement de modèle dans une conversation",
-      "Recherche Kagi activable et filtres de recherche",
-      "Import de fichiers et export de conversations"
+      "Choose and change models during chats",
+      "Optional Kagi web search",
+      "File uploads and conversation export"
     ],
     "accessFr": "Web",
     "accessEn": "Web",
@@ -2379,9 +2379,9 @@
       "Provenance des données via boutons de sources lorsqu’ils sont disponibles"
     ],
     "featuresEn": [
-      "Calcul symbolique et numérique",
-      "Base de connaissances structurées",
-      "Provenance des données via boutons de sources lorsqu’ils sont disponibles"
+      "Symbolic and numerical computation",
+      "Structured knowledge base",
+      "Source information where available"
     ],
     "accessFr": "Web",
     "accessEn": "Web",
