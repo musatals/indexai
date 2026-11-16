@@ -1,0 +1,892 @@
+{
+  "gamma": {
+    "descriptionFr": "Création de présentations, documents et pages web à partir d'idées ou de contenus existants.",
+    "descriptionEn": "Creation of presentations, documents and web pages from prompts or existing content.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Génération de présentations",
+      "Pages web partageables",
+      "Export PDF, PNG et PPTX"
+    ],
+    "featuresEn": [
+      "AI slide creation",
+      "Shareable web pages",
+      "PDF, PNG and PPTX exports"
+    ],
+    "accessFr": "Web, extensions et/ou applications selon outil",
+    "accessEn": "Web, extensions and/or apps depending on product",
+    "officialSources": [
+      {
+        "url": "https://help.gamma.app/en/articles/8022861-what-s-the-easiest-way-to-export-my-gamma",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Création de présentations, documents et pages web à partir d'idées ou de contenus existants.",
+      "audiences": [
+        "Enseignants, étudiants et formateurs",
+        "Équipes de communication, consultants et entreprises"
+      ],
+      "cases": [
+        "Créer une présentation pédagogique à partir d'un plan de cours.",
+        "Relire les textes, contrôler les sources et ajuster la hiérarchie visuelle avant présentation."
+      ],
+      "advantages": [
+        "Génération de présentations",
+        "Pages web partageables",
+        "Export PDF, PNG et PPTX"
+      ],
+      "limits": [
+        "Les exports du forfait gratuit comportent un filigrane ; la conversion PPTX peut nécessiter des ajustements de mise en page.",
+        "Les contenus, graphiques et citations produits automatiquement doivent être revus par un humain."
+      ],
+      "gettingStarted": [
+        "Définir le public, l'objectif, la durée et la structure attendue.",
+        "Fournir uniquement des documents autorisés, puis vérifier le plan, les faits et les exports."
+      ],
+      "examples": [
+        "Transforme ce plan en 8 diapositives pédagogiques avec un exemple concret par notion.",
+        "Prépare une présentation exécutive et signale les affirmations nécessitant une source."
+      ],
+      "pricing": "Vérifier les offres actuelles, crédits IA, filigranes, options de partage et d'export sur le site officiel.",
+      "privacy": "Contrôler l'hébergement, les autorisations d'accès et le traitement des documents avant tout import de données confidentielles.",
+      "selection": [
+        "Évaluer Gamma selon le format final, l'éditabilité, la qualité des exportations, l'accessibilité et les coûts."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.gamma.app/en/articles/8022861-what-s-the-easiest-way-to-export-my-gamma",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "beautiful-ai": {
+    "descriptionFr": "Créateur de présentations pour équipes, avec mises en page Smart Slides et contrôle de marque.",
+    "descriptionEn": "Team presentation builder featuring Smart Slides automatic layouts and brand control.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Smart Slides et alignements automatiques",
+      "Présentations assistées par IA",
+      "Graphiques et identité de marque"
+    ],
+    "featuresEn": [
+      "Smart Slides and auto-layouts",
+      "AI-assisted presentations",
+      "Charts and brand control"
+    ],
+    "accessFr": "Web, extensions et/ou applications selon outil",
+    "accessEn": "Web, extensions and/or apps depending on product",
+    "officialSources": [
+      {
+        "url": "https://www.beautiful.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Créateur de présentations pour équipes, avec mises en page Smart Slides et contrôle de marque.",
+      "audiences": [
+        "Enseignants, étudiants et formateurs",
+        "Équipes de communication, consultants et entreprises"
+      ],
+      "cases": [
+        "Mettre en forme un rapport d'entreprise avec des graphiques homogènes.",
+        "Relire les textes, contrôler les sources et ajuster la hiérarchie visuelle avant présentation."
+      ],
+      "advantages": [
+        "Smart Slides et alignements automatiques",
+        "Présentations assistées par IA",
+        "Graphiques et identité de marque"
+      ],
+      "limits": [
+        "Les modèles intelligents facilitent l'alignement mais limitent parfois le contrôle manuel ; vérifier collaboration et exports selon forfait.",
+        "Les contenus, graphiques et citations produits automatiquement doivent être revus par un humain."
+      ],
+      "gettingStarted": [
+        "Définir le public, l'objectif, la durée et la structure attendue.",
+        "Fournir uniquement des documents autorisés, puis vérifier le plan, les faits et les exports."
+      ],
+      "examples": [
+        "Transforme ce plan en 8 diapositives pédagogiques avec un exemple concret par notion.",
+        "Prépare une présentation exécutive et signale les affirmations nécessitant une source."
+      ],
+      "pricing": "Vérifier les offres actuelles, crédits IA, filigranes, options de partage et d'export sur le site officiel.",
+      "privacy": "Contrôler l'hébergement, les autorisations d'accès et le traitement des documents avant tout import de données confidentielles.",
+      "selection": [
+        "Évaluer Beautiful.ai selon le format final, l'éditabilité, la qualité des exportations, l'accessibilité et les coûts."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.beautiful.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "tome": {
+    "descriptionFr": "Ancien service de présentations narratives générées par IA, fermé en avril 2025 selon des sources concordantes.",
+    "descriptionEn": "Former AI-generated narrative presentation service reported closed in April 2025.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Génération narrative historique",
+      "Présentations web historiques",
+      "Service arrêté"
+    ],
+    "featuresEn": [
+      "Historical narrative generation",
+      "Historical web presentations",
+      "Discontinued service"
+    ],
+    "accessFr": "Service historique arrêté",
+    "accessEn": "Discontinued historical service",
+    "officialSources": [],
+    "research": {
+      "headline": "Ancien service de présentations narratives générées par IA, fermé en avril 2025 selon des sources concordantes.",
+      "audiences": [
+        "Enseignants, étudiants et formateurs",
+        "Équipes de communication, consultants et entreprises"
+      ],
+      "cases": [
+        "Étudier l'histoire des présentations génératives et identifier des alternatives actuellement actives.",
+        "Relire les textes, contrôler les sources et ajuster la hiérarchie visuelle avant présentation."
+      ],
+      "advantages": [
+        "Génération narrative historique",
+        "Présentations web historiques",
+        "Service arrêté"
+      ],
+      "limits": [
+        "Le service Tome Slides a été arrêté le 30 avril 2025 selon plusieurs sources indépendantes ; ne pas proposer sa création de nouvelles présentations.",
+        "Les contenus, graphiques et citations produits automatiquement doivent être revus par un humain."
+      ],
+      "gettingStarted": [
+        "Consulter la fiche à titre historique et choisir un service disponible."
+      ],
+      "examples": [
+        "Transforme ce plan en 8 diapositives pédagogiques avec un exemple concret par notion.",
+        "Prépare une présentation exécutive et signale les affirmations nécessitant une source."
+      ],
+      "pricing": "Produit arrêté ; aucun abonnement disponible pour la création de nouvelles présentations.",
+      "privacy": "Contrôler l'hébergement, les autorisations d'accès et le traitement des documents avant tout import de données confidentielles.",
+      "selection": [
+        "Évaluer Tome selon le format final, l'éditabilité, la qualité des exportations, l'accessibilité et les coûts."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "discontinued",
+      "evidence": "third_party",
+      "sources": [
+        {
+          "url": "https://www.nextdocs.io/blogs/what-happened-to-tome",
+          "type": "secondary",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "third_party_discontinued"
+  },
+  "pitch": {
+    "descriptionFr": "Espace collaboratif de création, partage et suivi de présentations avec génération à partir d'instructions.",
+    "descriptionEn": "Collaborative workspace for creating, sharing and tracking presentations with prompt-based generation.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Génération à partir de prompts",
+      "Collaboration en équipe",
+      "Partage de présentations"
+    ],
+    "featuresEn": [
+      "Prompt-to-deck generation",
+      "Team collaboration",
+      "Presentation sharing"
+    ],
+    "accessFr": "Web, extensions et/ou applications selon outil",
+    "accessEn": "Web, extensions and/or apps depending on product",
+    "officialSources": [
+      {
+        "url": "https://pitch.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Espace collaboratif de création, partage et suivi de présentations avec génération à partir d'instructions.",
+      "audiences": [
+        "Enseignants, étudiants et formateurs",
+        "Équipes de communication, consultants et entreprises"
+      ],
+      "cases": [
+        "Produire un argumentaire commercial en équipe et recueillir des retours.",
+        "Relire les textes, contrôler les sources et ajuster la hiérarchie visuelle avant présentation."
+      ],
+      "advantages": [
+        "Génération à partir de prompts",
+        "Collaboration en équipe",
+        "Partage de présentations"
+      ],
+      "limits": [
+        "Les données d'engagement, options d'export et contrôles de collaboration dépendent des offres.",
+        "Les contenus, graphiques et citations produits automatiquement doivent être revus par un humain."
+      ],
+      "gettingStarted": [
+        "Définir le public, l'objectif, la durée et la structure attendue.",
+        "Fournir uniquement des documents autorisés, puis vérifier le plan, les faits et les exports."
+      ],
+      "examples": [
+        "Transforme ce plan en 8 diapositives pédagogiques avec un exemple concret par notion.",
+        "Prépare une présentation exécutive et signale les affirmations nécessitant une source."
+      ],
+      "pricing": "Vérifier les offres actuelles, crédits IA, filigranes, options de partage et d'export sur le site officiel.",
+      "privacy": "Contrôler l'hébergement, les autorisations d'accès et le traitement des documents avant tout import de données confidentielles.",
+      "selection": [
+        "Évaluer Pitch selon le format final, l'éditabilité, la qualité des exportations, l'accessibilité et les coûts."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://pitch.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "slidesai": {
+    "descriptionFr": "Générateur de diapositives à partir de notes, textes, documents et instructions dans les environnements de présentation habituels.",
+    "descriptionEn": "Slide generator from notes, text, documents and prompts across familiar presentation workflows.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Texte et documents vers diapositives",
+      "Intégrations Google Slides et PowerPoint",
+      "Création assistée par IA"
+    ],
+    "featuresEn": [
+      "Text and documents to slides",
+      "Google Slides and PowerPoint integrations",
+      "AI-assisted generation"
+    ],
+    "accessFr": "Web, extensions et/ou applications selon outil",
+    "accessEn": "Web, extensions and/or apps depending on product",
+    "officialSources": [
+      {
+        "url": "https://www.slidesai.io/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Générateur de diapositives à partir de notes, textes, documents et instructions dans les environnements de présentation habituels.",
+      "audiences": [
+        "Enseignants, étudiants et formateurs",
+        "Équipes de communication, consultants et entreprises"
+      ],
+      "cases": [
+        "Transformer des notes de cours en diapositives modifiables.",
+        "Relire les textes, contrôler les sources et ajuster la hiérarchie visuelle avant présentation."
+      ],
+      "advantages": [
+        "Texte et documents vers diapositives",
+        "Intégrations Google Slides et PowerPoint",
+        "Création assistée par IA"
+      ],
+      "limits": [
+        "Contrôler les citations, le volume des crédits, les restrictions des extensions et les mises en page générées.",
+        "Les contenus, graphiques et citations produits automatiquement doivent être revus par un humain."
+      ],
+      "gettingStarted": [
+        "Définir le public, l'objectif, la durée et la structure attendue.",
+        "Fournir uniquement des documents autorisés, puis vérifier le plan, les faits et les exports."
+      ],
+      "examples": [
+        "Transforme ce plan en 8 diapositives pédagogiques avec un exemple concret par notion.",
+        "Prépare une présentation exécutive et signale les affirmations nécessitant une source."
+      ],
+      "pricing": "Vérifier les offres actuelles, crédits IA, filigranes, options de partage et d'export sur le site officiel.",
+      "privacy": "Contrôler l'hébergement, les autorisations d'accès et le traitement des documents avant tout import de données confidentielles.",
+      "selection": [
+        "Évaluer SlidesAI selon le format final, l'éditabilité, la qualité des exportations, l'accessibilité et les coûts."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.slidesai.io/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "plus-ai": {
+    "descriptionFr": "Assistant de création et de révision de présentations directement dans Google Slides et PowerPoint.",
+    "descriptionEn": "AI assistant for creating and revising decks inside Google Slides and PowerPoint.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Google Slides et PowerPoint",
+      "Document vers présentation",
+      "Réécriture et reformatage IA"
+    ],
+    "featuresEn": [
+      "Google Slides and PowerPoint",
+      "Document-to-presentation",
+      "AI rewriting and reformatting"
+    ],
+    "accessFr": "Web, extensions et/ou applications selon outil",
+    "accessEn": "Web, extensions and/or apps depending on product",
+    "officialSources": [
+      {
+        "url": "https://plusai.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Assistant de création et de révision de présentations directement dans Google Slides et PowerPoint.",
+      "audiences": [
+        "Enseignants, étudiants et formateurs",
+        "Équipes de communication, consultants et entreprises"
+      ],
+      "cases": [
+        "Mettre à jour une présentation PowerPoint sans changer d'éditeur.",
+        "Relire les textes, contrôler les sources et ajuster la hiérarchie visuelle avant présentation."
+      ],
+      "advantages": [
+        "Google Slides et PowerPoint",
+        "Document vers présentation",
+        "Réécriture et reformatage IA"
+      ],
+      "limits": [
+        "Vérifier les conditions d'intégration, de confidentialité, de facturation et les éventuels crédits de génération.",
+        "Les contenus, graphiques et citations produits automatiquement doivent être revus par un humain."
+      ],
+      "gettingStarted": [
+        "Définir le public, l'objectif, la durée et la structure attendue.",
+        "Fournir uniquement des documents autorisés, puis vérifier le plan, les faits et les exports."
+      ],
+      "examples": [
+        "Transforme ce plan en 8 diapositives pédagogiques avec un exemple concret par notion.",
+        "Prépare une présentation exécutive et signale les affirmations nécessitant une source."
+      ],
+      "pricing": "Vérifier les offres actuelles, crédits IA, filigranes, options de partage et d'export sur le site officiel.",
+      "privacy": "Contrôler l'hébergement, les autorisations d'accès et le traitement des documents avant tout import de données confidentielles.",
+      "selection": [
+        "Évaluer Plus AI selon le format final, l'éditabilité, la qualité des exportations, l'accessibilité et les coûts."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://plusai.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "decktopus": {
+    "descriptionFr": "Générateur de présentations personnalisées avec charte visuelle, polices et logo de marque.",
+    "descriptionEn": "AI presentation generator with custom branding, fonts and logos.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Sujet vers présentation",
+      "Respect des couleurs de marque",
+      "Modèles et personnalisation"
+    ],
+    "featuresEn": [
+      "Topic-to-deck generation",
+      "Brand colors and typography",
+      "Templates and customization"
+    ],
+    "accessFr": "Web, extensions et/ou applications selon outil",
+    "accessEn": "Web, extensions and/or apps depending on product",
+    "officialSources": [
+      {
+        "url": "https://www.decktopus.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Générateur de présentations personnalisées avec charte visuelle, polices et logo de marque.",
+      "audiences": [
+        "Enseignants, étudiants et formateurs",
+        "Équipes de communication, consultants et entreprises"
+      ],
+      "cases": [
+        "Préparer une présentation de projet avec l'identité d'une organisation.",
+        "Relire les textes, contrôler les sources et ajuster la hiérarchie visuelle avant présentation."
+      ],
+      "advantages": [
+        "Sujet vers présentation",
+        "Respect des couleurs de marque",
+        "Modèles et personnalisation"
+      ],
+      "limits": [
+        "La structure et les chiffres proposés par IA doivent être contrôlés ; vérifier formats d'export et quotas.",
+        "Les contenus, graphiques et citations produits automatiquement doivent être revus par un humain."
+      ],
+      "gettingStarted": [
+        "Définir le public, l'objectif, la durée et la structure attendue.",
+        "Fournir uniquement des documents autorisés, puis vérifier le plan, les faits et les exports."
+      ],
+      "examples": [
+        "Transforme ce plan en 8 diapositives pédagogiques avec un exemple concret par notion.",
+        "Prépare une présentation exécutive et signale les affirmations nécessitant une source."
+      ],
+      "pricing": "Vérifier les offres actuelles, crédits IA, filigranes, options de partage et d'export sur le site officiel.",
+      "privacy": "Contrôler l'hébergement, les autorisations d'accès et le traitement des documents avant tout import de données confidentielles.",
+      "selection": [
+        "Évaluer Decktopus selon le format final, l'éditabilité, la qualité des exportations, l'accessibilité et les coûts."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.decktopus.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "presentations-ai": {
+    "descriptionFr": "Outil de génération de diapositives professionnelles à partir d'idées, documents et données avec sorties PowerPoint éditables.",
+    "descriptionEn": "Professional AI slide generator from ideas, documents and data with editable PowerPoint output.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Documents et données vers slides",
+      "Respect de l'identité visuelle",
+      "PowerPoint éditable"
+    ],
+    "featuresEn": [
+      "Documents and data to slides",
+      "Brand consistency",
+      "Editable PowerPoint"
+    ],
+    "accessFr": "Web, extensions et/ou applications selon outil",
+    "accessEn": "Web, extensions and/or apps depending on product",
+    "officialSources": [
+      {
+        "url": "https://www.presentations.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Outil de génération de diapositives professionnelles à partir d'idées, documents et données avec sorties PowerPoint éditables.",
+      "audiences": [
+        "Enseignants, étudiants et formateurs",
+        "Équipes de communication, consultants et entreprises"
+      ],
+      "cases": [
+        "Transformer des résultats de projet en présentation pour un comité.",
+        "Relire les textes, contrôler les sources et ajuster la hiérarchie visuelle avant présentation."
+      ],
+      "advantages": [
+        "Documents et données vers slides",
+        "Respect de l'identité visuelle",
+        "PowerPoint éditable"
+      ],
+      "limits": [
+        "Vérifier les métriques, graphiques et coûts d'export selon l'offre.",
+        "Les contenus, graphiques et citations produits automatiquement doivent être revus par un humain."
+      ],
+      "gettingStarted": [
+        "Définir le public, l'objectif, la durée et la structure attendue.",
+        "Fournir uniquement des documents autorisés, puis vérifier le plan, les faits et les exports."
+      ],
+      "examples": [
+        "Transforme ce plan en 8 diapositives pédagogiques avec un exemple concret par notion.",
+        "Prépare une présentation exécutive et signale les affirmations nécessitant une source."
+      ],
+      "pricing": "Vérifier les offres actuelles, crédits IA, filigranes, options de partage et d'export sur le site officiel.",
+      "privacy": "Contrôler l'hébergement, les autorisations d'accès et le traitement des documents avant tout import de données confidentielles.",
+      "selection": [
+        "Évaluer Presentations.AI selon le format final, l'éditabilité, la qualité des exportations, l'accessibilité et les coûts."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.presentations.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "magicslides": {
+    "descriptionFr": "Générateur de présentations à partir de sujets, documents, images, contenus audio, vidéos et liens.",
+    "descriptionEn": "Presentation generator from topics, documents, images, audio, videos and links.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Création à partir de PDF et DOC",
+      "Vidéos YouTube et URL en entrées",
+      "Génération multilingue"
+    ],
+    "featuresEn": [
+      "PDF and DOC inputs",
+      "YouTube and URL inputs",
+      "Multilingual generation"
+    ],
+    "accessFr": "Web, extensions et/ou applications selon outil",
+    "accessEn": "Web, extensions and/or apps depending on product",
+    "officialSources": [
+      {
+        "url": "https://www.magicslides.app/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Générateur de présentations à partir de sujets, documents, images, contenus audio, vidéos et liens.",
+      "audiences": [
+        "Enseignants, étudiants et formateurs",
+        "Équipes de communication, consultants et entreprises"
+      ],
+      "cases": [
+        "Créer une synthèse de diapositives depuis un article ou une vidéo autorisée.",
+        "Relire les textes, contrôler les sources et ajuster la hiérarchie visuelle avant présentation."
+      ],
+      "advantages": [
+        "Création à partir de PDF et DOC",
+        "Vidéos YouTube et URL en entrées",
+        "Génération multilingue"
+      ],
+      "limits": [
+        "L'extraction de contenus peut omettre des nuances ; contrôler provenance, droits d'auteur et fidélité au document original.",
+        "Les contenus, graphiques et citations produits automatiquement doivent être revus par un humain."
+      ],
+      "gettingStarted": [
+        "Définir le public, l'objectif, la durée et la structure attendue.",
+        "Fournir uniquement des documents autorisés, puis vérifier le plan, les faits et les exports."
+      ],
+      "examples": [
+        "Transforme ce plan en 8 diapositives pédagogiques avec un exemple concret par notion.",
+        "Prépare une présentation exécutive et signale les affirmations nécessitant une source."
+      ],
+      "pricing": "Vérifier les offres actuelles, crédits IA, filigranes, options de partage et d'export sur le site officiel.",
+      "privacy": "Contrôler l'hébergement, les autorisations d'accès et le traitement des documents avant tout import de données confidentielles.",
+      "selection": [
+        "Évaluer MagicSlides selon le format final, l'éditabilité, la qualité des exportations, l'accessibilité et les coûts."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.magicslides.app/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "canva-presentations": {
+    "descriptionFr": "Outils Canva pour créer des présentations visuelles, avec modèles, collaboration et fonctions de conception assistée.",
+    "descriptionEn": "Canva tools for visual presentations, templates, collaboration and assisted design.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Éditeur de présentations",
+      "Modèles et marque",
+      "Collaboration et éléments visuels"
+    ],
+    "featuresEn": [
+      "Presentation editor",
+      "Templates and branding",
+      "Collaboration and visuals"
+    ],
+    "accessFr": "Web, extensions et/ou applications selon outil",
+    "accessEn": "Web, extensions and/or apps depending on product",
+    "officialSources": [
+      {
+        "url": "https://www.canva.com/presentations/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Outils Canva pour créer des présentations visuelles, avec modèles, collaboration et fonctions de conception assistée.",
+      "audiences": [
+        "Enseignants, étudiants et formateurs",
+        "Équipes de communication, consultants et entreprises"
+      ],
+      "cases": [
+        "Produire un diaporama pédagogique et des supports assortis.",
+        "Relire les textes, contrôler les sources et ajuster la hiérarchie visuelle avant présentation."
+      ],
+      "advantages": [
+        "Éditeur de présentations",
+        "Modèles et marque",
+        "Collaboration et éléments visuels"
+      ],
+      "limits": [
+        "Vérifier la licence des éléments, leur accessibilité et les options d'export dans l'abonnement.",
+        "Les contenus, graphiques et citations produits automatiquement doivent être revus par un humain."
+      ],
+      "gettingStarted": [
+        "Définir le public, l'objectif, la durée et la structure attendue.",
+        "Fournir uniquement des documents autorisés, puis vérifier le plan, les faits et les exports."
+      ],
+      "examples": [
+        "Transforme ce plan en 8 diapositives pédagogiques avec un exemple concret par notion.",
+        "Prépare une présentation exécutive et signale les affirmations nécessitant une source."
+      ],
+      "pricing": "Vérifier les offres actuelles, crédits IA, filigranes, options de partage et d'export sur le site officiel.",
+      "privacy": "Contrôler l'hébergement, les autorisations d'accès et le traitement des documents avant tout import de données confidentielles.",
+      "selection": [
+        "Évaluer Canva Presentations selon le format final, l'éditabilité, la qualité des exportations, l'accessibilité et les coûts."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.canva.com/presentations/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "napkin-ai": {
+    "descriptionFr": "Générateur de schémas et de visuels explicatifs à partir de textes, avec fonctionnalité Slides annoncée en bêta.",
+    "descriptionEn": "Generator of diagrams and explanatory visuals from text, with a Slides feature marked beta.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Texte vers schémas",
+      "Visuels éditables",
+      "Slides en bêta"
+    ],
+    "featuresEn": [
+      "Text-to-diagrams",
+      "Editable visuals",
+      "Slides in beta"
+    ],
+    "accessFr": "Web, extensions et/ou applications selon outil",
+    "accessEn": "Web, extensions and/or apps depending on product",
+    "officialSources": [
+      {
+        "url": "https://www.napkin.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Générateur de schémas et de visuels explicatifs à partir de textes, avec fonctionnalité Slides annoncée en bêta.",
+      "audiences": [
+        "Enseignants, étudiants et formateurs",
+        "Équipes de communication, consultants et entreprises"
+      ],
+      "cases": [
+        "Transformer une explication technique en organigramme facile à intégrer à une présentation.",
+        "Relire les textes, contrôler les sources et ajuster la hiérarchie visuelle avant présentation."
+      ],
+      "advantages": [
+        "Texte vers schémas",
+        "Visuels éditables",
+        "Slides en bêta"
+      ],
+      "limits": [
+        "Les figures générées sont des interprétations visuelles : contrôler relations, légendes et exactitude conceptuelle.",
+        "Les contenus, graphiques et citations produits automatiquement doivent être revus par un humain."
+      ],
+      "gettingStarted": [
+        "Définir le public, l'objectif, la durée et la structure attendue.",
+        "Fournir uniquement des documents autorisés, puis vérifier le plan, les faits et les exports."
+      ],
+      "examples": [
+        "Transforme ce plan en 8 diapositives pédagogiques avec un exemple concret par notion.",
+        "Prépare une présentation exécutive et signale les affirmations nécessitant une source."
+      ],
+      "pricing": "Vérifier les offres actuelles, crédits IA, filigranes, options de partage et d'export sur le site officiel.",
+      "privacy": "Contrôler l'hébergement, les autorisations d'accès et le traitement des documents avant tout import de données confidentielles.",
+      "selection": [
+        "Évaluer Napkin AI selon le format final, l'éditabilité, la qualité des exportations, l'accessibilité et les coûts."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.napkin.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "prezi-ai": {
+    "descriptionFr": "Plateforme de présentations visuelles et interactives offrant une création assistée par IA à partir d'un sujet ou de diapositives.",
+    "descriptionEn": "Visual and interactive presentation platform offering AI-assisted generation from a topic or slides.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Présentations visuelles",
+      "Création assistée par IA",
+      "Interaction avec le public"
+    ],
+    "featuresEn": [
+      "Visual presentations",
+      "AI-assisted creation",
+      "Audience engagement"
+    ],
+    "accessFr": "Web, extensions et/ou applications selon outil",
+    "accessEn": "Web, extensions and/or apps depending on product",
+    "officialSources": [
+      {
+        "url": "https://prezi.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de présentations visuelles et interactives offrant une création assistée par IA à partir d'un sujet ou de diapositives.",
+      "audiences": [
+        "Enseignants, étudiants et formateurs",
+        "Équipes de communication, consultants et entreprises"
+      ],
+      "cases": [
+        "Présenter une carte conceptuelle avec navigation dynamique.",
+        "Relire les textes, contrôler les sources et ajuster la hiérarchie visuelle avant présentation."
+      ],
+      "advantages": [
+        "Présentations visuelles",
+        "Création assistée par IA",
+        "Interaction avec le public"
+      ],
+      "limits": [
+        "Les animations peuvent distraire ou gêner certains publics ; privilégier l'accessibilité et la sobriété.",
+        "Les contenus, graphiques et citations produits automatiquement doivent être revus par un humain."
+      ],
+      "gettingStarted": [
+        "Définir le public, l'objectif, la durée et la structure attendue.",
+        "Fournir uniquement des documents autorisés, puis vérifier le plan, les faits et les exports."
+      ],
+      "examples": [
+        "Transforme ce plan en 8 diapositives pédagogiques avec un exemple concret par notion.",
+        "Prépare une présentation exécutive et signale les affirmations nécessitant une source."
+      ],
+      "pricing": "Vérifier les offres actuelles, crédits IA, filigranes, options de partage et d'export sur le site officiel.",
+      "privacy": "Contrôler l'hébergement, les autorisations d'accès et le traitement des documents avant tout import de données confidentielles.",
+      "selection": [
+        "Évaluer Prezi AI selon le format final, l'éditabilité, la qualité des exportations, l'accessibilité et les coûts."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://prezi.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "slidespeak": {
+    "descriptionFr": "Assistant de génération et d'édition de PowerPoint à partir de documents, avec fonctions de traduction, narration et intégration API.",
+    "descriptionEn": "PowerPoint generation and editing assistant from documents, with translation, narration and API integration.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Document ou idée vers diaporama",
+      "Édition aux couleurs de marque",
+      "API et serveur MCP"
+    ],
+    "featuresEn": [
+      "Document or idea to slides",
+      "Brand-aware editing",
+      "API and MCP server"
+    ],
+    "accessFr": "Web, extensions et/ou applications selon outil",
+    "accessEn": "Web, extensions and/or apps depending on product",
+    "officialSources": [
+      {
+        "url": "https://slidespeak.co/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Assistant de génération et d'édition de PowerPoint à partir de documents, avec fonctions de traduction, narration et intégration API.",
+      "audiences": [
+        "Enseignants, étudiants et formateurs",
+        "Équipes de communication, consultants et entreprises"
+      ],
+      "cases": [
+        "Créer une présentation à partir d'un rapport puis harmoniser son identité visuelle.",
+        "Relire les textes, contrôler les sources et ajuster la hiérarchie visuelle avant présentation."
+      ],
+      "advantages": [
+        "Document ou idée vers diaporama",
+        "Édition aux couleurs de marque",
+        "API et serveur MCP"
+      ],
+      "limits": [
+        "Les formats, limites de traitement et possibilités d'intégration doivent être testés selon l'offre.",
+        "Les contenus, graphiques et citations produits automatiquement doivent être revus par un humain."
+      ],
+      "gettingStarted": [
+        "Définir le public, l'objectif, la durée et la structure attendue.",
+        "Fournir uniquement des documents autorisés, puis vérifier le plan, les faits et les exports."
+      ],
+      "examples": [
+        "Transforme ce plan en 8 diapositives pédagogiques avec un exemple concret par notion.",
+        "Prépare une présentation exécutive et signale les affirmations nécessitant une source."
+      ],
+      "pricing": "Vérifier les offres actuelles, crédits IA, filigranes, options de partage et d'export sur le site officiel.",
+      "privacy": "Contrôler l'hébergement, les autorisations d'accès et le traitement des documents avant tout import de données confidentielles.",
+      "selection": [
+        "Évaluer SlideSpeak selon le format final, l'éditabilité, la qualité des exportations, l'accessibilité et les coûts."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://slidespeak.co/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  }
+}
