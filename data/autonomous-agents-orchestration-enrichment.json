@@ -1,0 +1,1655 @@
+{
+  "manus": {
+    "descriptionFr": "Assistant agentique destiné à mener des tâches complexes, notamment recherches, création de sites et contenus, avec modes Chat et Agent.",
+    "descriptionEn": "Agentic assistant for complex tasks including research, website and content creation, with Chat and Agent modes.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Modes Chat et Agent",
+      "Planification et production de livrables",
+      "Applications web et mobiles selon offre"
+    ],
+    "featuresEn": [
+      "Chat and Agent modes",
+      "Planning and deliverable creation",
+      "Web and mobile apps by plan"
+    ],
+    "accessFr": "Service web et applications selon offre",
+    "accessEn": "Web service and apps by plan",
+    "officialSources": [
+      {
+        "url": "https://help.manus.im/en/articles/17768086-what-are-the-differences-between-chat-mode-and-agent-mode",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Assistant agentique destiné à mener des tâches complexes, notamment recherches, création de sites et contenus, avec modes Chat et Agent.",
+      "audiences": [
+        "Développeurs, équipes produit et responsables d'automatisation",
+        "Chercheurs, formateurs et organisations expérimentant les agents"
+      ],
+      "cases": [
+        "Produire un dossier comparatif de solutions et vérifier les sources citées.",
+        "Mesurer les erreurs, les coûts d'exécution et la robustesse sur un jeu de tests représentatif."
+      ],
+      "advantages": [
+        "Modes Chat et Agent",
+        "Planification et production de livrables",
+        "Applications web et mobiles selon offre"
+      ],
+      "limits": [
+        "L'exécution en mode Agent consomme des crédits ; superviser accès, résultats et actions externes.",
+        "Les agents peuvent se tromper, multiplier les appels et déclencher des actions non voulues : limiter leurs permissions et valider les résultats."
+      ],
+      "gettingStarted": [
+        "Définir une tâche testable, les sources autorisées, les outils et les permissions minimales.",
+        "Tester dans un bac à sable, activer les journaux et placer une approbation humaine avant toute opération irréversible."
+      ],
+      "examples": [
+        "Construis un flux en trois étapes : collecte sourcée, vérification des faits, puis rédaction avec journal des actions.",
+        "Propose un plan d'agent avec outils à accès limité, critères d'arrêt, budget d'appels et procédure de reprise après erreur."
+      ],
+      "pricing": "Bibliothèque open source ou service commercial selon l'outil ; vérifier les licences, abonnements, frais d'inférence et coûts des connecteurs.",
+      "privacy": "Éviter les clés en clair, appliquer le principe du moindre privilège, contrôler les transferts vers les modèles et conserver des traces exploitables.",
+      "selection": [
+        "Choisir Manus selon son type (service), le contrôle des outils, la persistance, l'observabilité et les coûts d'exploitation."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.manus.im/en/articles/17768086-what-are-the-differences-between-chat-mode-and-agent-mode",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "autogpt": {
+    "descriptionFr": "Écosystème open source historique d'agents autonomes, avec projets et interfaces d'automatisation à vérifier selon la distribution.",
+    "descriptionEn": "Historical open-source autonomous agents ecosystem, with automation projects and interfaces varying by distribution.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Agents autonomes et automatisations",
+      "Code et écosystème open source",
+      "Évolutions de plateforme à vérifier"
+    ],
+    "featuresEn": [
+      "Autonomous agents and automation",
+      "Open-source ecosystem",
+      "Check platform evolution"
+    ],
+    "accessFr": "Plateforme open source, installation à vérifier",
+    "accessEn": "Open-source platform; installation to verify",
+    "officialSources": [
+      {
+        "url": "https://docs.agpt.co/",
+        "checkedAt": "2026-11-16",
+        "scope": "product_overview"
+      }
+    ],
+    "research": {
+      "headline": "Écosystème open source historique d'agents autonomes, avec projets et interfaces d'automatisation à vérifier selon la distribution.",
+      "audiences": [
+        "Développeurs, équipes produit et responsables d'automatisation",
+        "Chercheurs, formateurs et organisations expérimentant les agents"
+      ],
+      "cases": [
+        "Étudier l'automatisation d'une tâche de recherche répétable dans un environnement isolé.",
+        "Mesurer les erreurs, les coûts d'exécution et la robustesse sur un jeu de tests représentatif."
+      ],
+      "advantages": [
+        "Agents autonomes et automatisations",
+        "Code et écosystème open source",
+        "Évolutions de plateforme à vérifier"
+      ],
+      "limits": [
+        "Les tutoriels historiques AutoGPT peuvent ne plus correspondre aux versions actuelles ; vérifier installation et maintenance.",
+        "Les agents peuvent se tromper, multiplier les appels et déclencher des actions non voulues : limiter leurs permissions et valider les résultats."
+      ],
+      "gettingStarted": [
+        "Définir une tâche testable, les sources autorisées, les outils et les permissions minimales.",
+        "Tester dans un bac à sable, activer les journaux et placer une approbation humaine avant toute opération irréversible."
+      ],
+      "examples": [
+        "Construis un flux en trois étapes : collecte sourcée, vérification des faits, puis rédaction avec journal des actions.",
+        "Propose un plan d'agent avec outils à accès limité, critères d'arrêt, budget d'appels et procédure de reprise après erreur."
+      ],
+      "pricing": "Bibliothèque open source ou service commercial selon l'outil ; vérifier les licences, abonnements, frais d'inférence et coûts des connecteurs.",
+      "privacy": "Éviter les clés en clair, appliquer le principe du moindre privilège, contrôler les transferts vers les modèles et conserver des traces exploitables.",
+      "selection": [
+        "Choisir AutoGPT selon son type (overview), le contrôle des outils, la persistance, l'observabilité et les coûts d'exploitation."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "product_overview",
+      "evidence": "official_product_overview",
+      "sources": [
+        {
+          "url": "https://docs.agpt.co/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_product_overview"
+  },
+  "crewai": {
+    "descriptionFr": "Framework Python pour équipes d'agents spécialisés, orchestrés par Crews et Flows avec mémoire et observabilité.",
+    "descriptionEn": "Python framework for specialized agent teams orchestrated by Crews and Flows with memory and observability.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Crews et rôles d'agents",
+      "Flows avec état et reprise",
+      "Garde-fous et observabilité"
+    ],
+    "featuresEn": [
+      "Agent roles and crews",
+      "Stateful resumable flows",
+      "Guardrails and observability"
+    ],
+    "accessFr": "Bibliothèque de développement et/ou SDK",
+    "accessEn": "Development library and/or SDK",
+    "officialSources": [
+      {
+        "url": "https://docs.crewai.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Framework Python pour équipes d'agents spécialisés, orchestrés par Crews et Flows avec mémoire et observabilité.",
+      "audiences": [
+        "Développeurs, équipes produit et responsables d'automatisation",
+        "Chercheurs, formateurs et organisations expérimentant les agents"
+      ],
+      "cases": [
+        "Organiser une veille avec agents chercheur, vérificateur et rédacteur.",
+        "Mesurer les erreurs, les coûts d'exécution et la robustesse sur un jeu de tests représentatif."
+      ],
+      "advantages": [
+        "Crews et rôles d'agents",
+        "Flows avec état et reprise",
+        "Garde-fous et observabilité"
+      ],
+      "limits": [
+        "La collaboration multi-agents ajoute latence et coût ; imposer des limites et validations à chaque transfert.",
+        "Les agents peuvent se tromper, multiplier les appels et déclencher des actions non voulues : limiter leurs permissions et valider les résultats."
+      ],
+      "gettingStarted": [
+        "Définir une tâche testable, les sources autorisées, les outils et les permissions minimales.",
+        "Tester dans un bac à sable, activer les journaux et placer une approbation humaine avant toute opération irréversible."
+      ],
+      "examples": [
+        "Construis un flux en trois étapes : collecte sourcée, vérification des faits, puis rédaction avec journal des actions.",
+        "Propose un plan d'agent avec outils à accès limité, critères d'arrêt, budget d'appels et procédure de reprise après erreur."
+      ],
+      "pricing": "Bibliothèque open source ou service commercial selon l'outil ; vérifier les licences, abonnements, frais d'inférence et coûts des connecteurs.",
+      "privacy": "Éviter les clés en clair, appliquer le principe du moindre privilège, contrôler les transferts vers les modèles et conserver des traces exploitables.",
+      "selection": [
+        "Choisir CrewAI selon son type (framework), le contrôle des outils, la persistance, l'observabilité et les coûts d'exploitation."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.crewai.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "langchain": {
+    "descriptionFr": "Bibliothèques de composants et intégrations pour construire des agents, outils et applications RAG en Python ou JavaScript.",
+    "descriptionEn": "Libraries and integrations for agents, tools and RAG applications in Python or JavaScript.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Agents et outils",
+      "Intégrations de modèles et de données",
+      "Patterns RAG et recherche"
+    ],
+    "featuresEn": [
+      "Agents and tools",
+      "Model and data integrations",
+      "RAG and retrieval patterns"
+    ],
+    "accessFr": "Bibliothèque de développement et/ou SDK",
+    "accessEn": "Development library and/or SDK",
+    "officialSources": [
+      {
+        "url": "https://docs.langchain.com/oss/python/learn",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Bibliothèques de composants et intégrations pour construire des agents, outils et applications RAG en Python ou JavaScript.",
+      "audiences": [
+        "Développeurs Python/TypeScript",
+        "Ingénieurs RAG",
+        "Équipes bâtissant des assistants internes",
+        "Développeurs, équipes produit et responsables d'automatisation",
+        "Chercheurs, formateurs et organisations expérimentant les agents"
+      ],
+      "cases": [
+        "Connecter modèles et fournisseurs",
+        "Composer des agents avec outils",
+        "Intégrer une recherche documentaire",
+        "Construire des chaînes de traitement paramétrables",
+        "Créer un assistant documentaire avec recherche et contrôle des passages sources.",
+        "Mesurer les erreurs, les coûts d'exécution et la robustesse sur un jeu de tests représentatif."
+      ],
+      "advantages": [
+        "Bibliothèques et intégrations nombreuses",
+        "Abstraction de fournisseurs de modèles",
+        "Composition de middlewares et appels d’outils",
+        "Agents et outils",
+        "Intégrations de modèles et de données",
+        "Patterns RAG et recherche"
+      ],
+      "limits": [
+        "Nécessite programmation et maintenance",
+        "Les coûts proviennent aussi des API et services associés",
+        "Évaluer traces, permissions, tests et robustesse en production",
+        "LangChain n'est pas un assistant clé en main ; les modèles, le stockage et la sécurité restent à configurer.",
+        "Les agents peuvent se tromper, multiplier les appels et déclencher des actions non voulues : limiter leurs permissions et valider les résultats."
+      ],
+      "gettingStarted": [
+        "Créer un petit cas d’usage reproductible et tester avec un jeu de questions; mesurer les sources et erreurs plutôt que la seule fluidité.",
+        "Définir une tâche testable, les sources autorisées, les outils et les permissions minimales.",
+        "Tester dans un bac à sable, activer les journaux et placer une approbation humaine avant toute opération irréversible."
+      ],
+      "examples": [
+        "Construis un assistant RAG sur dix PDF avec citations.",
+        "Définis un agent qui interroge une base et valide le schéma de sortie.",
+        "Construis un flux en trois étapes : collecte sourcée, vérification des faits, puis rédaction avec journal des actions.",
+        "Propose un plan d'agent avec outils à accès limité, critères d'arrêt, budget d'appels et procédure de reprise après erreur."
+      ],
+      "pricing": "Framework open source; coûts éventuels des modèles, du stockage et des services commerciaux complémentaires.",
+      "privacy": "Ne pas transmettre de documents internes à des modèles distants sans autorisation; journaliser les actions des agents.",
+      "selection": [
+        "Choisir pour développer un assistant configurable; LangGraph donne plus de contrôle sur les flux complexes.",
+        "Choisir LangChain selon son type (framework), le contrôle des outils, la persistance, l'observabilité et les coûts d'exploitation."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.langchain.com/oss-overview",
+          "type": "official",
+          "reviewedAt": "2026-11-15"
+        },
+        {
+          "url": "https://docs.langchain.com/oss/python/learn",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "langgraph": {
+    "descriptionFr": "Framework de graphes à état pour agents et processus durables, avec checkpoints, interruptions et validation humaine.",
+    "descriptionEn": "State-graph framework for durable agents and processes with checkpoints, interruptions and human approval.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Graphes à état",
+      "Persistance et reprise",
+      "Contrôle humain et traçage"
+    ],
+    "featuresEn": [
+      "Stateful graphs",
+      "Persistence and resume",
+      "Human review and tracing"
+    ],
+    "accessFr": "Bibliothèque de développement et/ou SDK",
+    "accessEn": "Development library and/or SDK",
+    "officialSources": [
+      {
+        "url": "https://docs.langchain.com/oss/javascript/langgraph/thinking-in-langgraph",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Framework de graphes à état pour agents et processus durables, avec checkpoints, interruptions et validation humaine.",
+      "audiences": [
+        "Développeurs d’agents complexes",
+        "Architectes IA",
+        "Équipes de production devant tracer les décisions",
+        "Développeurs, équipes produit et responsables d'automatisation",
+        "Chercheurs, formateurs et organisations expérimentant les agents"
+      ],
+      "cases": [
+        "Définir des étapes d’un agent et ses transitions",
+        "Conserver un état entre plusieurs actions",
+        "Ajouter une intervention humaine avant une opération sensible",
+        "Reprendre des tâches longues ou interrompues",
+        "Construire un flux d'assistance qui suspend l'envoi d'un message pour validation.",
+        "Mesurer les erreurs, les coûts d'exécution et la robustesse sur un jeu de tests représentatif."
+      ],
+      "advantages": [
+        "Exécution durable, streaming et mémoire",
+        "Étapes explicites et contrôles humains",
+        "Architecture adaptée aux agents de longue durée",
+        "Graphes à état",
+        "Persistance et reprise",
+        "Contrôle humain et traçage"
+      ],
+      "limits": [
+        "Courbe d’apprentissage supérieure à un chat simple",
+        "Coût et complexité de l’observabilité en production",
+        "Les graphes n’empêchent pas des résultats erronés du modèle",
+        "La reprise nécessite une configuration correcte des checkpoints et du stockage, et une gestion explicite des erreurs.",
+        "Les agents peuvent se tromper, multiplier les appels et déclencher des actions non voulues : limiter leurs permissions et valider les résultats."
+      ],
+      "gettingStarted": [
+        "Dessiner les états et transitions, prévoir des points d’arrêt humains, puis simuler échecs d’API et reprises.",
+        "Définir une tâche testable, les sources autorisées, les outils et les permissions minimales.",
+        "Tester dans un bac à sable, activer les journaux et placer une approbation humaine avant toute opération irréversible."
+      ],
+      "examples": [
+        "Orchestre collecte, critique et publication de fiches avec validation humaine.",
+        "Crée un agent à étapes avec reprise après échec réseau.",
+        "Construis un flux en trois étapes : collecte sourcée, vérification des faits, puis rédaction avec journal des actions.",
+        "Propose un plan d'agent avec outils à accès limité, critères d'arrêt, budget d'appels et procédure de reprise après erreur."
+      ],
+      "pricing": "Moteur open source; les services d’hébergement et d’observabilité, ainsi que les API de modèles, peuvent être facturés.",
+      "privacy": "Limiter les permissions de chaque nœud et conserver un journal d’approbation des actions sensibles.",
+      "selection": [
+        "À privilégier pour agents durables et workflow contrôlé, pas pour une simple question-réponse.",
+        "Choisir LangGraph selon son type (framework), le contrôle des outils, la persistance, l'observabilité et les coûts d'exploitation."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://reference.langchain.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-15"
+        },
+        {
+          "url": "https://docs.langchain.com/oss/javascript/langgraph/thinking-in-langgraph",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "llamaindex": {
+    "descriptionFr": "Framework de connexion des agents aux données privées et aux documents, avec outils RAG et workflows événementiels.",
+    "descriptionEn": "Framework connecting agents with private data and documents via RAG and event-driven workflows.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Pipelines RAG",
+      "Workflows événementiels",
+      "Connecteurs de documents"
+    ],
+    "featuresEn": [
+      "RAG pipelines",
+      "Event-driven workflows",
+      "Document connectors"
+    ],
+    "accessFr": "Bibliothèque de développement et/ou SDK",
+    "accessEn": "Development library and/or SDK",
+    "officialSources": [
+      {
+        "url": "https://developers.llamaindex.ai/typescript/framework/modules/agents/workflows/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Framework de connexion des agents aux données privées et aux documents, avec outils RAG et workflows événementiels.",
+      "audiences": [
+        "Développeurs, équipes produit et responsables d'automatisation",
+        "Chercheurs, formateurs et organisations expérimentant les agents"
+      ],
+      "cases": [
+        "Créer une recherche documentaire qui extrait les références puis génère une synthèse sourcée.",
+        "Mesurer les erreurs, les coûts d'exécution et la robustesse sur un jeu de tests représentatif."
+      ],
+      "advantages": [
+        "Pipelines RAG",
+        "Workflows événementiels",
+        "Connecteurs de documents"
+      ],
+      "limits": [
+        "La qualité dépend de l'ingestion, du découpage documentaire et des permissions sur les données interrogées.",
+        "Les agents peuvent se tromper, multiplier les appels et déclencher des actions non voulues : limiter leurs permissions et valider les résultats."
+      ],
+      "gettingStarted": [
+        "Définir une tâche testable, les sources autorisées, les outils et les permissions minimales.",
+        "Tester dans un bac à sable, activer les journaux et placer une approbation humaine avant toute opération irréversible."
+      ],
+      "examples": [
+        "Construis un flux en trois étapes : collecte sourcée, vérification des faits, puis rédaction avec journal des actions.",
+        "Propose un plan d'agent avec outils à accès limité, critères d'arrêt, budget d'appels et procédure de reprise après erreur."
+      ],
+      "pricing": "Bibliothèque open source ou service commercial selon l'outil ; vérifier les licences, abonnements, frais d'inférence et coûts des connecteurs.",
+      "privacy": "Éviter les clés en clair, appliquer le principe du moindre privilège, contrôler les transferts vers les modèles et conserver des traces exploitables.",
+      "selection": [
+        "Choisir LlamaIndex selon son type (framework), le contrôle des outils, la persistance, l'observabilité et les coûts d'exploitation."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://developers.llamaindex.ai/typescript/framework/modules/agents/workflows/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "microsoft-copilot-studio": {
+    "descriptionFr": "Plateforme low-code pour concevoir et publier des agents Microsoft avec outils, connaissances, déclencheurs et orchestration générative.",
+    "descriptionEn": "Low-code Microsoft platform for building and publishing agents with tools, knowledge, triggers and generative orchestration.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Orchestration générative",
+      "Connecteurs et sources de connaissances",
+      "Déclencheurs et contrôle des actions"
+    ],
+    "featuresEn": [
+      "Generative orchestration",
+      "Connectors and knowledge",
+      "Triggers and action controls"
+    ],
+    "accessFr": "Web, plateforme visuelle et/ou auto-hébergement selon outil",
+    "accessEn": "Web, visual platform and/or self-hosting by tool",
+    "officialSources": [
+      {
+        "url": "https://learn.microsoft.com/en-us/microsoft-copilot-studio/guidance/generative-orchestration",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme low-code pour concevoir et publier des agents Microsoft avec outils, connaissances, déclencheurs et orchestration générative.",
+      "audiences": [
+        "Développeurs, équipes produit et responsables d'automatisation",
+        "Chercheurs, formateurs et organisations expérimentant les agents"
+      ],
+      "cases": [
+        "Créer un agent d'assistance interne qui consulte une base de connaissances et escalade les cas sensibles.",
+        "Mesurer les erreurs, les coûts d'exécution et la robustesse sur un jeu de tests représentatif."
+      ],
+      "advantages": [
+        "Orchestration générative",
+        "Connecteurs et sources de connaissances",
+        "Déclencheurs et contrôle des actions"
+      ],
+      "limits": [
+        "Séparer opérations déterministes et décisions IA ; contrôler gouvernance des connecteurs, licences et autorisations.",
+        "Les agents peuvent se tromper, multiplier les appels et déclencher des actions non voulues : limiter leurs permissions et valider les résultats."
+      ],
+      "gettingStarted": [
+        "Définir une tâche testable, les sources autorisées, les outils et les permissions minimales.",
+        "Tester dans un bac à sable, activer les journaux et placer une approbation humaine avant toute opération irréversible."
+      ],
+      "examples": [
+        "Construis un flux en trois étapes : collecte sourcée, vérification des faits, puis rédaction avec journal des actions.",
+        "Propose un plan d'agent avec outils à accès limité, critères d'arrêt, budget d'appels et procédure de reprise après erreur."
+      ],
+      "pricing": "Bibliothèque open source ou service commercial selon l'outil ; vérifier les licences, abonnements, frais d'inférence et coûts des connecteurs.",
+      "privacy": "Éviter les clés en clair, appliquer le principe du moindre privilège, contrôler les transferts vers les modèles et conserver des traces exploitables.",
+      "selection": [
+        "Choisir Microsoft Copilot Studio selon son type (low-code), le contrôle des outils, la persistance, l'observabilité et les coûts d'exploitation."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://learn.microsoft.com/en-us/microsoft-copilot-studio/guidance/generative-orchestration",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "dify": {
+    "descriptionFr": "Plateforme visuelle de création d'applications IA, de workflows et d'agents réutilisables, avec déploiement cloud ou auto-hébergé.",
+    "descriptionEn": "Visual platform for AI apps, workflows and reusable agents with cloud or self-hosted deployment.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Workflows à nœuds",
+      "Agents réutilisables en bêta",
+      "Bases de connaissances et outils"
+    ],
+    "featuresEn": [
+      "Node-based workflows",
+      "Reusable agents in beta",
+      "Knowledge bases and tools"
+    ],
+    "accessFr": "Web, plateforme visuelle et/ou auto-hébergement selon outil",
+    "accessEn": "Web, visual platform and/or self-hosting by tool",
+    "officialSources": [
+      {
+        "url": "https://dify.ai/blog/introducing-new-dify-agent",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme visuelle de création d'applications IA, de workflows et d'agents réutilisables, avec déploiement cloud ou auto-hébergé.",
+      "audiences": [
+        "Développeurs et intégrateurs",
+        "Équipes produits et opérations",
+        "Organisations qui construisent des applications IA",
+        "Développeurs, équipes produit et responsables d'automatisation",
+        "Chercheurs, formateurs et organisations expérimentant les agents"
+      ],
+      "cases": [
+        "Créer un agent avec outils et connaissances",
+        "Assembler des tâches sous forme de workflow",
+        "Préparer une base documentaire RAG",
+        "Publier une application IA via interface ou API",
+        "Créer un assistant RAG puis intégrer un agent dans une étape de workflow.",
+        "Mesurer les erreurs, les coûts d'exécution et la robustesse sur un jeu de tests représentatif."
+      ],
+      "advantages": [
+        "Studio de workflows visuel",
+        "Pipelines de connaissance et indexation",
+        "Plugins, modèles et observabilité de déploiement",
+        "Workflows à nœuds",
+        "Agents réutilisables en bêta",
+        "Bases de connaissances et outils"
+      ],
+      "limits": [
+        "Une architecture fiable exige tests et supervision",
+        "Coûts des modèles et des services tiers distincts",
+        "Le low-code ne dispense pas des exigences de sécurité",
+        "Le nouvel agent et son exécution sandbox sont encore en bêta ; en auto-hébergement, isoler les travaux non fiables.",
+        "Les agents peuvent se tromper, multiplier les appels et déclencher des actions non voulues : limiter leurs permissions et valider les résultats."
+      ],
+      "gettingStarted": [
+        "Démarrer avec un cas métier limité, sélectionner un fournisseur de modèle, charger des documents non sensibles puis tester l’évaluation des réponses.",
+        "Définir une tâche testable, les sources autorisées, les outils et les permissions minimales.",
+        "Tester dans un bac à sable, activer les journaux et placer une approbation humaine avant toute opération irréversible."
+      ],
+      "examples": [
+        "Construis un chatbot documentaire qui cite les extraits de référence.",
+        "Crée un workflow de tri des demandes avec validation humaine.",
+        "Construis un flux en trois étapes : collecte sourcée, vérification des faits, puis rédaction avec journal des actions.",
+        "Propose un plan d'agent avec outils à accès limité, critères d'arrêt, budget d'appels et procédure de reprise après erreur."
+      ],
+      "pricing": "Formules cloud et options de déploiement technique; vérifier l’offre, les ressources et les frais API externes.",
+      "privacy": "Définir les autorisations sur les jeux de documents, les clés API, les journaux et les lieux d’hébergement.",
+      "selection": [
+        "Bon choix pour agents et RAG avec interface visuelle; programmation sur mesure pour besoin très spécifique.",
+        "Choisir Dify selon son type (low-code), le contrôle des outils, la persistance, l'observabilité et les coûts d'exploitation."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.dify.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-15"
+        },
+        {
+          "url": "https://dify.ai/blog/introducing-new-dify-agent",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "langflow": {
+    "descriptionFr": "Éditeur visuel de flux et agents LLM avec composants, outils et connexions de modèles.",
+    "descriptionEn": "Visual editor for LLM flows and agents with components, tools and model connections.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Canevas de composants",
+      "Agent avec outils",
+      "Connexions de modèles"
+    ],
+    "featuresEn": [
+      "Component canvas",
+      "Tool-using agent",
+      "Model connections"
+    ],
+    "accessFr": "Web, plateforme visuelle et/ou auto-hébergement selon outil",
+    "accessEn": "Web, visual platform and/or self-hosting by tool",
+    "officialSources": [
+      {
+        "url": "https://docs.langflow.org/agents",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Éditeur visuel de flux et agents LLM avec composants, outils et connexions de modèles.",
+      "audiences": [
+        "Développeurs, équipes produit et responsables d'automatisation",
+        "Chercheurs, formateurs et organisations expérimentant les agents"
+      ],
+      "cases": [
+        "Prototyper un agent qui interroge une base documentaire et appelle une API.",
+        "Mesurer les erreurs, les coûts d'exécution et la robustesse sur un jeu de tests représentatif."
+      ],
+      "advantages": [
+        "Canevas de composants",
+        "Agent avec outils",
+        "Connexions de modèles"
+      ],
+      "limits": [
+        "Les flux exigent gestion des secrets, des versions de modèles et tests de non-régression.",
+        "Les agents peuvent se tromper, multiplier les appels et déclencher des actions non voulues : limiter leurs permissions et valider les résultats."
+      ],
+      "gettingStarted": [
+        "Définir une tâche testable, les sources autorisées, les outils et les permissions minimales.",
+        "Tester dans un bac à sable, activer les journaux et placer une approbation humaine avant toute opération irréversible."
+      ],
+      "examples": [
+        "Construis un flux en trois étapes : collecte sourcée, vérification des faits, puis rédaction avec journal des actions.",
+        "Propose un plan d'agent avec outils à accès limité, critères d'arrêt, budget d'appels et procédure de reprise après erreur."
+      ],
+      "pricing": "Bibliothèque open source ou service commercial selon l'outil ; vérifier les licences, abonnements, frais d'inférence et coûts des connecteurs.",
+      "privacy": "Éviter les clés en clair, appliquer le principe du moindre privilège, contrôler les transferts vers les modèles et conserver des traces exploitables.",
+      "selection": [
+        "Choisir Langflow selon son type (low-code), le contrôle des outils, la persistance, l'observabilité et les coûts d'exploitation."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.langflow.org/agents",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "flowise": {
+    "descriptionFr": "Constructeur visuel open source d'agents et workflows avec Agentflow, branchements, RAG et possibilité d'auto-hébergement.",
+    "descriptionEn": "Open-source visual agent and workflow builder with Agentflow, branching, RAG and self-hosting.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Agentflow et multi-agents",
+      "Intégrations RAG et MCP",
+      "Déploiement auto-hébergé"
+    ],
+    "featuresEn": [
+      "Agentflow and multi-agents",
+      "RAG and MCP integrations",
+      "Self-hosted deployment"
+    ],
+    "accessFr": "Web, plateforme visuelle et/ou auto-hébergement selon outil",
+    "accessEn": "Web, visual platform and/or self-hosting by tool",
+    "officialSources": [
+      {
+        "url": "https://docs.flowiseai.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Constructeur visuel open source d'agents et workflows avec Agentflow, branchements, RAG et possibilité d'auto-hébergement.",
+      "audiences": [
+        "Développeurs, équipes produit et responsables d'automatisation",
+        "Chercheurs, formateurs et organisations expérimentant les agents"
+      ],
+      "cases": [
+        "Concevoir un agent interne avec branchements, recherche et journalisation des actions.",
+        "Mesurer les erreurs, les coûts d'exécution et la robustesse sur un jeu de tests représentatif."
+      ],
+      "advantages": [
+        "Agentflow et multi-agents",
+        "Intégrations RAG et MCP",
+        "Déploiement auto-hébergé"
+      ],
+      "limits": [
+        "L'auto-hébergement impose de sécuriser API, identifiants, accès aux outils et persistance des historiques.",
+        "Les agents peuvent se tromper, multiplier les appels et déclencher des actions non voulues : limiter leurs permissions et valider les résultats."
+      ],
+      "gettingStarted": [
+        "Définir une tâche testable, les sources autorisées, les outils et les permissions minimales.",
+        "Tester dans un bac à sable, activer les journaux et placer une approbation humaine avant toute opération irréversible."
+      ],
+      "examples": [
+        "Construis un flux en trois étapes : collecte sourcée, vérification des faits, puis rédaction avec journal des actions.",
+        "Propose un plan d'agent avec outils à accès limité, critères d'arrêt, budget d'appels et procédure de reprise après erreur."
+      ],
+      "pricing": "Bibliothèque open source ou service commercial selon l'outil ; vérifier les licences, abonnements, frais d'inférence et coûts des connecteurs.",
+      "privacy": "Éviter les clés en clair, appliquer le principe du moindre privilège, contrôler les transferts vers les modèles et conserver des traces exploitables.",
+      "selection": [
+        "Choisir Flowise selon son type (low-code), le contrôle des outils, la persistance, l'observabilité et les coûts d'exploitation."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.flowiseai.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "agno": {
+    "descriptionFr": "Plateforme et SDK d'agents avec AgentOS : équipes, workflows, mémoire, approbations humaines et exécution durable.",
+    "descriptionEn": "Agent platform and SDK with AgentOS for teams, workflows, memory, approvals and durable execution.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "AgentOS et API",
+      "Équipes d'agents et workflows",
+      "Mémoire, traçage et approbations"
+    ],
+    "featuresEn": [
+      "AgentOS and APIs",
+      "Agent teams and workflows",
+      "Memory, tracing and approvals"
+    ],
+    "accessFr": "Bibliothèque de développement et/ou SDK",
+    "accessEn": "Development library and/or SDK",
+    "officialSources": [
+      {
+        "url": "https://docs.agno.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme et SDK d'agents avec AgentOS : équipes, workflows, mémoire, approbations humaines et exécution durable.",
+      "audiences": [
+        "Développeurs, équipes produit et responsables d'automatisation",
+        "Chercheurs, formateurs et organisations expérimentant les agents"
+      ],
+      "cases": [
+        "Exposer un ensemble d'agents spécialisés comme service avec suivi et approbation des actions.",
+        "Mesurer les erreurs, les coûts d'exécution et la robustesse sur un jeu de tests représentatif."
+      ],
+      "advantages": [
+        "AgentOS et API",
+        "Équipes d'agents et workflows",
+        "Mémoire, traçage et approbations"
+      ],
+      "limits": [
+        "La durabilité des travaux requiert une file adaptée ; définir RBAC, journaux et persistance avant production.",
+        "Les agents peuvent se tromper, multiplier les appels et déclencher des actions non voulues : limiter leurs permissions et valider les résultats."
+      ],
+      "gettingStarted": [
+        "Définir une tâche testable, les sources autorisées, les outils et les permissions minimales.",
+        "Tester dans un bac à sable, activer les journaux et placer une approbation humaine avant toute opération irréversible."
+      ],
+      "examples": [
+        "Construis un flux en trois étapes : collecte sourcée, vérification des faits, puis rédaction avec journal des actions.",
+        "Propose un plan d'agent avec outils à accès limité, critères d'arrêt, budget d'appels et procédure de reprise après erreur."
+      ],
+      "pricing": "Bibliothèque open source ou service commercial selon l'outil ; vérifier les licences, abonnements, frais d'inférence et coûts des connecteurs.",
+      "privacy": "Éviter les clés en clair, appliquer le principe du moindre privilège, contrôler les transferts vers les modèles et conserver des traces exploitables.",
+      "selection": [
+        "Choisir Agno selon son type (framework), le contrôle des outils, la persistance, l'observabilité et les coûts d'exploitation."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.agno.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "autogen": {
+    "descriptionFr": "Framework Microsoft historique de collaboration multi-agents, remplacé pour les nouveaux projets par Microsoft Agent Framework.",
+    "descriptionEn": "Microsoft multi-agent framework superseded for new projects by Microsoft Agent Framework.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Conversations entre agents",
+      "Orchestration multi-agents historique",
+      "Migration vers Agent Framework"
+    ],
+    "featuresEn": [
+      "Multi-agent conversations",
+      "Historical agent orchestration",
+      "Migration to Agent Framework"
+    ],
+    "accessFr": "Framework historique, migration recommandée",
+    "accessEn": "Legacy framework; migration advised",
+    "officialSources": [
+      {
+        "url": "https://learn.microsoft.com/en-us/agent-framework/overview/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Framework Microsoft historique de collaboration multi-agents, remplacé pour les nouveaux projets par Microsoft Agent Framework.",
+      "audiences": [
+        "Développeurs, équipes produit et responsables d'automatisation",
+        "Chercheurs, formateurs et organisations expérimentant les agents"
+      ],
+      "cases": [
+        "Migrer un projet AutoGen vers Microsoft Agent Framework en conservant les tests de scénarios.",
+        "Mesurer les erreurs, les coûts d'exécution et la robustesse sur un jeu de tests représentatif."
+      ],
+      "advantages": [
+        "Conversations entre agents",
+        "Orchestration multi-agents historique",
+        "Migration vers Agent Framework"
+      ],
+      "limits": [
+        "Microsoft Agent Framework est le successeur officiel ; AutoGen ne doit pas être présenté comme premier choix d'un nouveau projet pérenne.",
+        "Les agents peuvent se tromper, multiplier les appels et déclencher des actions non voulues : limiter leurs permissions et valider les résultats."
+      ],
+      "gettingStarted": [
+        "Définir une tâche testable, les sources autorisées, les outils et les permissions minimales.",
+        "Tester dans un bac à sable, activer les journaux et placer une approbation humaine avant toute opération irréversible."
+      ],
+      "examples": [
+        "Construis un flux en trois étapes : collecte sourcée, vérification des faits, puis rédaction avec journal des actions.",
+        "Propose un plan d'agent avec outils à accès limité, critères d'arrêt, budget d'appels et procédure de reprise après erreur."
+      ],
+      "pricing": "Bibliothèque open source ou service commercial selon l'outil ; vérifier les licences, abonnements, frais d'inférence et coûts des connecteurs.",
+      "privacy": "Éviter les clés en clair, appliquer le principe du moindre privilège, contrôler les transferts vers les modèles et conserver des traces exploitables.",
+      "selection": [
+        "Choisir AutoGen selon son type (superseded), le contrôle des outils, la persistance, l'observabilité et les coûts d'exploitation."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "successor_available",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://learn.microsoft.com/en-us/agent-framework/overview/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_successor_documented"
+  },
+  "semantic-kernel": {
+    "descriptionFr": "SDK Microsoft d'orchestration de fonctions et agents avec état, désormais relayé par Microsoft Agent Framework.",
+    "descriptionEn": "Microsoft SDK for orchestrating functions and stateful agents, now succeeded by Microsoft Agent Framework.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Plugins et appels de fonctions",
+      "Gestion d'état historique",
+      "Guide de migration Agent Framework"
+    ],
+    "featuresEn": [
+      "Plugins and function calls",
+      "Historical state management",
+      "Agent Framework migration guidance"
+    ],
+    "accessFr": "Framework historique, migration recommandée",
+    "accessEn": "Legacy framework; migration advised",
+    "officialSources": [
+      {
+        "url": "https://learn.microsoft.com/en-us/agent-framework/overview/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "SDK Microsoft d'orchestration de fonctions et agents avec état, désormais relayé par Microsoft Agent Framework.",
+      "audiences": [
+        "Développeurs, équipes produit et responsables d'automatisation",
+        "Chercheurs, formateurs et organisations expérimentant les agents"
+      ],
+      "cases": [
+        "Faire évoluer une application Semantic Kernel vers les abstractions Agent Framework.",
+        "Mesurer les erreurs, les coûts d'exécution et la robustesse sur un jeu de tests représentatif."
+      ],
+      "advantages": [
+        "Plugins et appels de fonctions",
+        "Gestion d'état historique",
+        "Guide de migration Agent Framework"
+      ],
+      "limits": [
+        "Ne pas annoncer de date de fermeture non publiée ; comparer les compatibilités et guides de migration officiels.",
+        "Les agents peuvent se tromper, multiplier les appels et déclencher des actions non voulues : limiter leurs permissions et valider les résultats."
+      ],
+      "gettingStarted": [
+        "Définir une tâche testable, les sources autorisées, les outils et les permissions minimales.",
+        "Tester dans un bac à sable, activer les journaux et placer une approbation humaine avant toute opération irréversible."
+      ],
+      "examples": [
+        "Construis un flux en trois étapes : collecte sourcée, vérification des faits, puis rédaction avec journal des actions.",
+        "Propose un plan d'agent avec outils à accès limité, critères d'arrêt, budget d'appels et procédure de reprise après erreur."
+      ],
+      "pricing": "Bibliothèque open source ou service commercial selon l'outil ; vérifier les licences, abonnements, frais d'inférence et coûts des connecteurs.",
+      "privacy": "Éviter les clés en clair, appliquer le principe du moindre privilège, contrôler les transferts vers les modèles et conserver des traces exploitables.",
+      "selection": [
+        "Choisir Semantic Kernel selon son type (superseded), le contrôle des outils, la persistance, l'observabilité et les coûts d'exploitation."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "successor_available",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://learn.microsoft.com/en-us/agent-framework/overview/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_successor_documented"
+  },
+  "pydantic-ai": {
+    "descriptionFr": "Framework Python d'agents typés privilégiant outils, injection de dépendances et sorties structurées validées par Pydantic.",
+    "descriptionEn": "Type-safe Python agent framework with tools, dependency injection and Pydantic-validated structured outputs.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Sorties validées par schémas",
+      "Outils Python typés",
+      "Injection de dépendances"
+    ],
+    "featuresEn": [
+      "Schema-validated outputs",
+      "Typed Python tools",
+      "Dependency injection"
+    ],
+    "accessFr": "Bibliothèque de développement et/ou SDK",
+    "accessEn": "Development library and/or SDK",
+    "officialSources": [
+      {
+        "url": "https://pydantic.dev/docs/ai/core-concepts/agent/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Framework Python d'agents typés privilégiant outils, injection de dépendances et sorties structurées validées par Pydantic.",
+      "audiences": [
+        "Développeurs, équipes produit et responsables d'automatisation",
+        "Chercheurs, formateurs et organisations expérimentant les agents"
+      ],
+      "cases": [
+        "Extraire des informations de factures dans un modèle de données validé.",
+        "Mesurer les erreurs, les coûts d'exécution et la robustesse sur un jeu de tests représentatif."
+      ],
+      "advantages": [
+        "Sorties validées par schémas",
+        "Outils Python typés",
+        "Injection de dépendances"
+      ],
+      "limits": [
+        "La validation du schéma n'atteste pas la véracité des valeurs ; vérifier les résultats et les appels d'outils.",
+        "Les agents peuvent se tromper, multiplier les appels et déclencher des actions non voulues : limiter leurs permissions et valider les résultats."
+      ],
+      "gettingStarted": [
+        "Définir une tâche testable, les sources autorisées, les outils et les permissions minimales.",
+        "Tester dans un bac à sable, activer les journaux et placer une approbation humaine avant toute opération irréversible."
+      ],
+      "examples": [
+        "Construis un flux en trois étapes : collecte sourcée, vérification des faits, puis rédaction avec journal des actions.",
+        "Propose un plan d'agent avec outils à accès limité, critères d'arrêt, budget d'appels et procédure de reprise après erreur."
+      ],
+      "pricing": "Bibliothèque open source ou service commercial selon l'outil ; vérifier les licences, abonnements, frais d'inférence et coûts des connecteurs.",
+      "privacy": "Éviter les clés en clair, appliquer le principe du moindre privilège, contrôler les transferts vers les modèles et conserver des traces exploitables.",
+      "selection": [
+        "Choisir Pydantic AI selon son type (framework), le contrôle des outils, la persistance, l'observabilité et les coûts d'exploitation."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://pydantic.dev/docs/ai/core-concepts/agent/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "smolagents": {
+    "descriptionFr": "Bibliothèque Python légère de Hugging Face proposant CodeAgent et ToolCallingAgent pour exécuter des actions avec modèles et outils.",
+    "descriptionEn": "Lightweight Hugging Face Python library with CodeAgent and ToolCallingAgent for model-driven actions.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "CodeAgent en Python",
+      "ToolCallingAgent structuré",
+      "Modèles et outils interchangeables"
+    ],
+    "featuresEn": [
+      "Python CodeAgent",
+      "Structured ToolCallingAgent",
+      "Pluggable models and tools"
+    ],
+    "accessFr": "Bibliothèque de développement et/ou SDK",
+    "accessEn": "Development library and/or SDK",
+    "officialSources": [
+      {
+        "url": "https://huggingface.co/docs/smolagents/index",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Bibliothèque Python légère de Hugging Face proposant CodeAgent et ToolCallingAgent pour exécuter des actions avec modèles et outils.",
+      "audiences": [
+        "Développeurs, équipes produit et responsables d'automatisation",
+        "Chercheurs, formateurs et organisations expérimentant les agents"
+      ],
+      "cases": [
+        "Développer un agent de recherche qui appelle des outils en sandbox.",
+        "Mesurer les erreurs, les coûts d'exécution et la robustesse sur un jeu de tests représentatif."
+      ],
+      "advantages": [
+        "CodeAgent en Python",
+        "ToolCallingAgent structuré",
+        "Modèles et outils interchangeables"
+      ],
+      "limits": [
+        "L'exécution de code généré peut être dangereuse hors environnement isolé ; l'API est susceptible d'évoluer.",
+        "Les agents peuvent se tromper, multiplier les appels et déclencher des actions non voulues : limiter leurs permissions et valider les résultats."
+      ],
+      "gettingStarted": [
+        "Définir une tâche testable, les sources autorisées, les outils et les permissions minimales.",
+        "Tester dans un bac à sable, activer les journaux et placer une approbation humaine avant toute opération irréversible."
+      ],
+      "examples": [
+        "Construis un flux en trois étapes : collecte sourcée, vérification des faits, puis rédaction avec journal des actions.",
+        "Propose un plan d'agent avec outils à accès limité, critères d'arrêt, budget d'appels et procédure de reprise après erreur."
+      ],
+      "pricing": "Bibliothèque open source ou service commercial selon l'outil ; vérifier les licences, abonnements, frais d'inférence et coûts des connecteurs.",
+      "privacy": "Éviter les clés en clair, appliquer le principe du moindre privilège, contrôler les transferts vers les modèles et conserver des traces exploitables.",
+      "selection": [
+        "Choisir Smolagents selon son type (framework), le contrôle des outils, la persistance, l'observabilité et les coûts d'exploitation."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://huggingface.co/docs/smolagents/index",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "mastra": {
+    "descriptionFr": "Framework TypeScript de création d'agents et workflows avec mémoire, intégrations, évaluation et traçage.",
+    "descriptionEn": "TypeScript framework for agents and workflows with memory, integrations, evaluation and tracing.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Agents TypeScript",
+      "Workflows conditionnels",
+      "Mémoire et évaluations"
+    ],
+    "featuresEn": [
+      "TypeScript agents",
+      "Conditional workflows",
+      "Memory and evaluations"
+    ],
+    "accessFr": "Bibliothèque de développement et/ou SDK",
+    "accessEn": "Development library and/or SDK",
+    "officialSources": [
+      {
+        "url": "https://mastra.ai/docs",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Framework TypeScript de création d'agents et workflows avec mémoire, intégrations, évaluation et traçage.",
+      "audiences": [
+        "Développeurs, équipes produit et responsables d'automatisation",
+        "Chercheurs, formateurs et organisations expérimentant les agents"
+      ],
+      "cases": [
+        "Construire un agent qui parcourt une base d'articles et exécute un workflow éditorial.",
+        "Mesurer les erreurs, les coûts d'exécution et la robustesse sur un jeu de tests représentatif."
+      ],
+      "advantages": [
+        "Agents TypeScript",
+        "Workflows conditionnels",
+        "Mémoire et évaluations"
+      ],
+      "limits": [
+        "Surveiller coût des modèles, gestion des identités et permissions de lecture/écriture des outils.",
+        "Les agents peuvent se tromper, multiplier les appels et déclencher des actions non voulues : limiter leurs permissions et valider les résultats."
+      ],
+      "gettingStarted": [
+        "Définir une tâche testable, les sources autorisées, les outils et les permissions minimales.",
+        "Tester dans un bac à sable, activer les journaux et placer une approbation humaine avant toute opération irréversible."
+      ],
+      "examples": [
+        "Construis un flux en trois étapes : collecte sourcée, vérification des faits, puis rédaction avec journal des actions.",
+        "Propose un plan d'agent avec outils à accès limité, critères d'arrêt, budget d'appels et procédure de reprise après erreur."
+      ],
+      "pricing": "Bibliothèque open source ou service commercial selon l'outil ; vérifier les licences, abonnements, frais d'inférence et coûts des connecteurs.",
+      "privacy": "Éviter les clés en clair, appliquer le principe du moindre privilège, contrôler les transferts vers les modèles et conserver des traces exploitables.",
+      "selection": [
+        "Choisir Mastra selon son type (framework), le contrôle des outils, la persistance, l'observabilité et les coûts d'exploitation."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://mastra.ai/docs",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "letta": {
+    "descriptionFr": "Plateforme d'agents persistants dotés de mémoire longue durée, outils et conversations réutilisables.",
+    "descriptionEn": "Persistent agent platform with long-term memory, tools and reusable conversations.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Identité d'agent persistante",
+      "Mémoire longue durée MemFS",
+      "Multiples conversations"
+    ],
+    "featuresEn": [
+      "Persistent agent identity",
+      "Long-term MemFS memory",
+      "Multiple conversations"
+    ],
+    "accessFr": "Web, plateforme visuelle et/ou auto-hébergement selon outil",
+    "accessEn": "Web, visual platform and/or self-hosting by tool",
+    "officialSources": [
+      {
+        "url": "https://docs.letta.com/concepts/stateful-agents",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme d'agents persistants dotés de mémoire longue durée, outils et conversations réutilisables.",
+      "audiences": [
+        "Développeurs, équipes produit et responsables d'automatisation",
+        "Chercheurs, formateurs et organisations expérimentant les agents"
+      ],
+      "cases": [
+        "Créer un agent de suivi de projet qui conserve ses connaissances entre plusieurs sessions.",
+        "Mesurer les erreurs, les coûts d'exécution et la robustesse sur un jeu de tests représentatif."
+      ],
+      "advantages": [
+        "Identité d'agent persistante",
+        "Mémoire longue durée MemFS",
+        "Multiples conversations"
+      ],
+      "limits": [
+        "La mémoire persistante doit être gouvernée : contrôle des accès, mise à jour et suppression des données sensibles.",
+        "Les agents peuvent se tromper, multiplier les appels et déclencher des actions non voulues : limiter leurs permissions et valider les résultats."
+      ],
+      "gettingStarted": [
+        "Définir une tâche testable, les sources autorisées, les outils et les permissions minimales.",
+        "Tester dans un bac à sable, activer les journaux et placer une approbation humaine avant toute opération irréversible."
+      ],
+      "examples": [
+        "Construis un flux en trois étapes : collecte sourcée, vérification des faits, puis rédaction avec journal des actions.",
+        "Propose un plan d'agent avec outils à accès limité, critères d'arrêt, budget d'appels et procédure de reprise après erreur."
+      ],
+      "pricing": "Bibliothèque open source ou service commercial selon l'outil ; vérifier les licences, abonnements, frais d'inférence et coûts des connecteurs.",
+      "privacy": "Éviter les clés en clair, appliquer le principe du moindre privilège, contrôler les transferts vers les modèles et conserver des traces exploitables.",
+      "selection": [
+        "Choisir Letta selon son type (platform), le contrôle des outils, la persistance, l'observabilité et les coûts d'exploitation."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.letta.com/concepts/stateful-agents",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "relevance-ai": {
+    "descriptionFr": "Plateforme no-code d'équipes d'agents (« AI Workforce ») avec connaissances, outils et escalade humaine.",
+    "descriptionEn": "No-code multi-agent AI workforce platform with knowledge, tools and human escalation.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Workforces multi-agents",
+      "Connecteurs et outils no-code",
+      "Escalade et approbations"
+    ],
+    "featuresEn": [
+      "Multi-agent workforces",
+      "No-code tools and connectors",
+      "Escalation and approvals"
+    ],
+    "accessFr": "Web, plateforme visuelle et/ou auto-hébergement selon outil",
+    "accessEn": "Web, visual platform and/or self-hosting by tool",
+    "officialSources": [
+      {
+        "url": "https://relevanceai.com/docs/get-started/introduction",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme no-code d'équipes d'agents (« AI Workforce ») avec connaissances, outils et escalade humaine.",
+      "audiences": [
+        "Développeurs, équipes produit et responsables d'automatisation",
+        "Chercheurs, formateurs et organisations expérimentant les agents"
+      ],
+      "cases": [
+        "Assembler un agent de qualification de demandes et un agent de vérification avant envoi.",
+        "Mesurer les erreurs, les coûts d'exécution et la robustesse sur un jeu de tests représentatif."
+      ],
+      "advantages": [
+        "Workforces multi-agents",
+        "Connecteurs et outils no-code",
+        "Escalade et approbations"
+      ],
+      "limits": [
+        "La supervision et l'identité des utilisateurs sont essentielles lorsque les agents agissent sur des CRM et messageries.",
+        "Les agents peuvent se tromper, multiplier les appels et déclencher des actions non voulues : limiter leurs permissions et valider les résultats."
+      ],
+      "gettingStarted": [
+        "Définir une tâche testable, les sources autorisées, les outils et les permissions minimales.",
+        "Tester dans un bac à sable, activer les journaux et placer une approbation humaine avant toute opération irréversible."
+      ],
+      "examples": [
+        "Construis un flux en trois étapes : collecte sourcée, vérification des faits, puis rédaction avec journal des actions.",
+        "Propose un plan d'agent avec outils à accès limité, critères d'arrêt, budget d'appels et procédure de reprise après erreur."
+      ],
+      "pricing": "Bibliothèque open source ou service commercial selon l'outil ; vérifier les licences, abonnements, frais d'inférence et coûts des connecteurs.",
+      "privacy": "Éviter les clés en clair, appliquer le principe du moindre privilège, contrôler les transferts vers les modèles et conserver des traces exploitables.",
+      "selection": [
+        "Choisir Relevance AI selon son type (platform), le contrôle des outils, la persistance, l'observabilité et les coûts d'exploitation."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://relevanceai.com/docs/get-started/introduction",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "lindy": {
+    "descriptionFr": "Assistant agentique connecté aux outils de travail, aux réunions et aux messages avec routines récurrentes.",
+    "descriptionEn": "Agentic assistant connected to work tools, meetings and messages with recurring routines.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Assistant email et calendrier",
+      "Réunions et suivi",
+      "Routines, mémoire et compétences"
+    ],
+    "featuresEn": [
+      "Email and calendar assistant",
+      "Meetings and follow-up",
+      "Routines, memory and skills"
+    ],
+    "accessFr": "Service web et applications selon offre",
+    "accessEn": "Web service and apps by plan",
+    "officialSources": [
+      {
+        "url": "https://docs.lindy.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Assistant agentique connecté aux outils de travail, aux réunions et aux messages avec routines récurrentes.",
+      "audiences": [
+        "Développeurs, équipes produit et responsables d'automatisation",
+        "Chercheurs, formateurs et organisations expérimentant les agents"
+      ],
+      "cases": [
+        "Préparer un brief avant une réunion et proposer un compte rendu de suivi.",
+        "Mesurer les erreurs, les coûts d'exécution et la robustesse sur un jeu de tests représentatif."
+      ],
+      "advantages": [
+        "Assistant email et calendrier",
+        "Réunions et suivi",
+        "Routines, mémoire et compétences"
+      ],
+      "limits": [
+        "Vérifier consentements d'enregistrement, permissions d'agenda et validations avant envoi de messages.",
+        "Les agents peuvent se tromper, multiplier les appels et déclencher des actions non voulues : limiter leurs permissions et valider les résultats."
+      ],
+      "gettingStarted": [
+        "Définir une tâche testable, les sources autorisées, les outils et les permissions minimales.",
+        "Tester dans un bac à sable, activer les journaux et placer une approbation humaine avant toute opération irréversible."
+      ],
+      "examples": [
+        "Construis un flux en trois étapes : collecte sourcée, vérification des faits, puis rédaction avec journal des actions.",
+        "Propose un plan d'agent avec outils à accès limité, critères d'arrêt, budget d'appels et procédure de reprise après erreur."
+      ],
+      "pricing": "Bibliothèque open source ou service commercial selon l'outil ; vérifier les licences, abonnements, frais d'inférence et coûts des connecteurs.",
+      "privacy": "Éviter les clés en clair, appliquer le principe du moindre privilège, contrôler les transferts vers les modèles et conserver des traces exploitables.",
+      "selection": [
+        "Choisir Lindy selon son type (service), le contrôle des outils, la persistance, l'observabilité et les coûts d'exploitation."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.lindy.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "taskade": {
+    "descriptionFr": "Plateforme Taskade Genesis combinant applications sans code, agents, données structurées et automatisations.",
+    "descriptionEn": "Taskade Genesis combines no-code apps, agents, structured data and automation.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Apps Genesis",
+      "Agents liés aux projets",
+      "Automatisations et intégrations"
+    ],
+    "featuresEn": [
+      "Genesis apps",
+      "Project-connected agents",
+      "Automation and integrations"
+    ],
+    "accessFr": "Web, plateforme visuelle et/ou auto-hébergement selon outil",
+    "accessEn": "Web, visual platform and/or self-hosting by tool",
+    "officialSources": [
+      {
+        "url": "https://help.taskade.com/en/articles/13930547-what-is-taskade-genesis",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme Taskade Genesis combinant applications sans code, agents, données structurées et automatisations.",
+      "audiences": [
+        "Développeurs, équipes produit et responsables d'automatisation",
+        "Chercheurs, formateurs et organisations expérimentant les agents"
+      ],
+      "cases": [
+        "Créer un tableau de suivi de projets piloté par des agents de synthèse et de rappel.",
+        "Mesurer les erreurs, les coûts d'exécution et la robustesse sur un jeu de tests représentatif."
+      ],
+      "advantages": [
+        "Apps Genesis",
+        "Agents liés aux projets",
+        "Automatisations et intégrations"
+      ],
+      "limits": [
+        "Les appels IA, outils et étapes d'automatisation consomment des crédits ; vérifier droits d'accès aux données.",
+        "Les agents peuvent se tromper, multiplier les appels et déclencher des actions non voulues : limiter leurs permissions et valider les résultats."
+      ],
+      "gettingStarted": [
+        "Définir une tâche testable, les sources autorisées, les outils et les permissions minimales.",
+        "Tester dans un bac à sable, activer les journaux et placer une approbation humaine avant toute opération irréversible."
+      ],
+      "examples": [
+        "Construis un flux en trois étapes : collecte sourcée, vérification des faits, puis rédaction avec journal des actions.",
+        "Propose un plan d'agent avec outils à accès limité, critères d'arrêt, budget d'appels et procédure de reprise après erreur."
+      ],
+      "pricing": "Bibliothèque open source ou service commercial selon l'outil ; vérifier les licences, abonnements, frais d'inférence et coûts des connecteurs.",
+      "privacy": "Éviter les clés en clair, appliquer le principe du moindre privilège, contrôler les transferts vers les modèles et conserver des traces exploitables.",
+      "selection": [
+        "Choisir Taskade selon son type (low-code), le contrôle des outils, la persistance, l'observabilité et les coûts d'exploitation."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.taskade.com/en/articles/13930547-what-is-taskade-genesis",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "composio": {
+    "descriptionFr": "Infrastructure de connexion d'agents à des applications tierces par toolkits, sessions et comptes authentifiés.",
+    "descriptionEn": "Infrastructure connecting agents to third-party apps through toolkits, sessions and authenticated accounts.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Toolkits applicatifs",
+      "Sessions et OAuth",
+      "Découverte et exécution d'actions"
+    ],
+    "featuresEn": [
+      "App toolkits",
+      "Sessions and OAuth",
+      "Tool discovery and execution"
+    ],
+    "accessFr": "API, SDK et services cloud",
+    "accessEn": "API, SDK and cloud services",
+    "officialSources": [
+      {
+        "url": "https://docs.composio.dev/docs/toolkits",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Infrastructure de connexion d'agents à des applications tierces par toolkits, sessions et comptes authentifiés.",
+      "audiences": [
+        "Développeurs, équipes produit et responsables d'automatisation",
+        "Chercheurs, formateurs et organisations expérimentant les agents"
+      ],
+      "cases": [
+        "Autoriser un agent à lire des tickets puis créer un brouillon sans droit de suppression.",
+        "Mesurer les erreurs, les coûts d'exécution et la robustesse sur un jeu de tests représentatif."
+      ],
+      "advantages": [
+        "Toolkits applicatifs",
+        "Sessions et OAuth",
+        "Découverte et exécution d'actions"
+      ],
+      "limits": [
+        "L'activation d'un toolkit n'accorde pas l'accès aux données ; limiter les scopes OAuth et les actions exposées.",
+        "Les agents peuvent se tromper, multiplier les appels et déclencher des actions non voulues : limiter leurs permissions et valider les résultats."
+      ],
+      "gettingStarted": [
+        "Définir une tâche testable, les sources autorisées, les outils et les permissions minimales.",
+        "Tester dans un bac à sable, activer les journaux et placer une approbation humaine avant toute opération irréversible."
+      ],
+      "examples": [
+        "Construis un flux en trois étapes : collecte sourcée, vérification des faits, puis rédaction avec journal des actions.",
+        "Propose un plan d'agent avec outils à accès limité, critères d'arrêt, budget d'appels et procédure de reprise après erreur."
+      ],
+      "pricing": "Bibliothèque open source ou service commercial selon l'outil ; vérifier les licences, abonnements, frais d'inférence et coûts des connecteurs.",
+      "privacy": "Éviter les clés en clair, appliquer le principe du moindre privilège, contrôler les transferts vers les modèles et conserver des traces exploitables.",
+      "selection": [
+        "Choisir Composio selon son type (infrastructure), le contrôle des outils, la persistance, l'observabilité et les coûts d'exploitation."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.composio.dev/docs/toolkits",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "browser-use": {
+    "descriptionFr": "Infrastructure de navigation automatisée et agents navigateur exécutables localement ou sur un navigateur cloud.",
+    "descriptionEn": "Browser automation infrastructure and agents running locally or in managed cloud browsers.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Agents navigateurs",
+      "Sessions navigateur cloud",
+      "SDK et intégration Playwright"
+    ],
+    "featuresEn": [
+      "Browser agents",
+      "Cloud browser sessions",
+      "SDK and Playwright integration"
+    ],
+    "accessFr": "API, SDK et services cloud",
+    "accessEn": "API, SDK and cloud services",
+    "officialSources": [
+      {
+        "url": "https://docs.browser-use.com/cloud/quickstart",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Infrastructure de navigation automatisée et agents navigateur exécutables localement ou sur un navigateur cloud.",
+      "audiences": [
+        "Développeurs, équipes produit et responsables d'automatisation",
+        "Chercheurs, formateurs et organisations expérimentant les agents"
+      ],
+      "cases": [
+        "Collecter des informations autorisées sur un site et contrôler les résultats.",
+        "Mesurer les erreurs, les coûts d'exécution et la robustesse sur un jeu de tests représentatif."
+      ],
+      "advantages": [
+        "Agents navigateurs",
+        "Sessions navigateur cloud",
+        "SDK et intégration Playwright"
+      ],
+      "limits": [
+        "Distinguer l'agent hébergé de l'infrastructure navigateur ; respecter les accès, les conditions d'utilisation et les données privées.",
+        "Les agents peuvent se tromper, multiplier les appels et déclencher des actions non voulues : limiter leurs permissions et valider les résultats."
+      ],
+      "gettingStarted": [
+        "Définir une tâche testable, les sources autorisées, les outils et les permissions minimales.",
+        "Tester dans un bac à sable, activer les journaux et placer une approbation humaine avant toute opération irréversible."
+      ],
+      "examples": [
+        "Construis un flux en trois étapes : collecte sourcée, vérification des faits, puis rédaction avec journal des actions.",
+        "Propose un plan d'agent avec outils à accès limité, critères d'arrêt, budget d'appels et procédure de reprise après erreur."
+      ],
+      "pricing": "Bibliothèque open source ou service commercial selon l'outil ; vérifier les licences, abonnements, frais d'inférence et coûts des connecteurs.",
+      "privacy": "Éviter les clés en clair, appliquer le principe du moindre privilège, contrôler les transferts vers les modèles et conserver des traces exploitables.",
+      "selection": [
+        "Choisir Browser Use selon son type (infrastructure), le contrôle des outils, la persistance, l'observabilité et les coûts d'exploitation."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.browser-use.com/cloud/quickstart",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "openai-agents-sdk": {
+    "descriptionFr": "SDK OpenAI pour construire des agents, délégations entre agents, outils, garde-fous et traçage.",
+    "descriptionEn": "OpenAI SDK for agents, handoffs, tools, guardrails and tracing.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Agents et handoffs",
+      "Garde-fous et approbations",
+      "Traçage et outils MCP"
+    ],
+    "featuresEn": [
+      "Agents and handoffs",
+      "Guardrails and approvals",
+      "Tracing and MCP tools"
+    ],
+    "accessFr": "Bibliothèque de développement et/ou SDK",
+    "accessEn": "Development library and/or SDK",
+    "officialSources": [
+      {
+        "url": "https://openai.github.io/openai-agents-python/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "SDK OpenAI pour construire des agents, délégations entre agents, outils, garde-fous et traçage.",
+      "audiences": [
+        "Développeurs, équipes produit et responsables d'automatisation",
+        "Chercheurs, formateurs et organisations expérimentant les agents"
+      ],
+      "cases": [
+        "Créer un agent de tri des demandes qui délègue aux spécialistes après validation des actions sensibles.",
+        "Mesurer les erreurs, les coûts d'exécution et la robustesse sur un jeu de tests représentatif."
+      ],
+      "advantages": [
+        "Agents et handoffs",
+        "Garde-fous et approbations",
+        "Traçage et outils MCP"
+      ],
+      "limits": [
+        "Les contrôles ne remplacent pas les vérifications d'autorisation applicatives ; maîtriser le coût et la collecte des traces.",
+        "Les agents peuvent se tromper, multiplier les appels et déclencher des actions non voulues : limiter leurs permissions et valider les résultats."
+      ],
+      "gettingStarted": [
+        "Définir une tâche testable, les sources autorisées, les outils et les permissions minimales.",
+        "Tester dans un bac à sable, activer les journaux et placer une approbation humaine avant toute opération irréversible."
+      ],
+      "examples": [
+        "Construis un flux en trois étapes : collecte sourcée, vérification des faits, puis rédaction avec journal des actions.",
+        "Propose un plan d'agent avec outils à accès limité, critères d'arrêt, budget d'appels et procédure de reprise après erreur."
+      ],
+      "pricing": "Bibliothèque open source ou service commercial selon l'outil ; vérifier les licences, abonnements, frais d'inférence et coûts des connecteurs.",
+      "privacy": "Éviter les clés en clair, appliquer le principe du moindre privilège, contrôler les transferts vers les modèles et conserver des traces exploitables.",
+      "selection": [
+        "Choisir OpenAI Agents SDK selon son type (framework), le contrôle des outils, la persistance, l'observabilité et les coûts d'exploitation."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://openai.github.io/openai-agents-python/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  }
+}
