@@ -308,10 +308,27 @@
     ]
   },
   "Phind": {
-    "descriptionFr": "Moteur de réponses techniques et d’aide à la programmation, destiné notamment aux développeurs.",
-    "descriptionEn": "Technical answer engine and coding assistant for developers.",
+    "descriptionFr": "Moteur de réponses techniques historiquement consacré aux questions de programmation et à la recherche pour développeurs.",
+    "descriptionEn": "Moteur de réponses techniques historiquement consacré aux questions de programmation et à la recherche pour développeurs.",
     "descriptionStatus": "editorial",
-    "editorialDate": "2026-11-15"
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Positionnement historique autour des questions techniques",
+      "Réponses conversationnelles liées à la recherche"
+    ],
+    "featuresEn": [
+      "Positionnement historique autour des questions techniques",
+      "Réponses conversationnelles liées à la recherche"
+    ],
+    "accessFr": "Web",
+    "accessEn": "Web",
+    "officialSources": [
+      {
+        "url": "https://www.phind.com",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
   },
   "Brave Search AI": {
     "descriptionFr": "Fonctions de synthèse et de réponse intégrées au moteur de recherche Brave Search.",
@@ -320,22 +337,79 @@
     "editorialDate": "2026-11-15"
   },
   "Exa": {
-    "descriptionFr": "Moteur de recherche et API orientés vers la découverte de pages et l’alimentation d’applications IA.",
-    "descriptionEn": "Search engine and API for web discovery and AI applications.",
+    "descriptionFr": "Infrastructure de recherche web et d’extraction de contenu, destinée en particulier aux applications IA, agents et workflows de recherche.",
+    "descriptionEn": "Infrastructure de recherche web et d’extraction de contenu, destinée en particulier aux applications IA, agents et workflows de recherche.",
     "descriptionStatus": "editorial",
-    "editorialDate": "2026-11-15"
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "API Search documentée",
+      "Extraction de contenus et résultats structurés",
+      "Options de recherche et enrichissement programmatiques"
+    ],
+    "featuresEn": [
+      "API Search documentée",
+      "Extraction de contenus et résultats structurés",
+      "Options de recherche et enrichissement programmatiques"
+    ],
+    "accessFr": "API et documentation",
+    "accessEn": "API and documentation",
+    "officialSources": [
+      {
+        "url": "https://exa.ai/docs/reference/search",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
   },
   "Tavily": {
-    "descriptionFr": "API de recherche web conçue pour fournir aux agents IA des informations recherchables et structurées.",
-    "descriptionEn": "Web search API for retrieving structured information in AI agents.",
+    "descriptionFr": "API de recherche web pensée pour fournir aux agents IA des résultats et des contenus exploitables.",
+    "descriptionEn": "API de recherche web pensée pour fournir aux agents IA des résultats et des contenus exploitables.",
     "descriptionStatus": "editorial",
-    "editorialDate": "2026-11-15"
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "API Search et SDK documentés",
+      "Filtres de domaines, dates et langue",
+      "Paramètres de profondeur et de contenu"
+    ],
+    "featuresEn": [
+      "API Search et SDK documentés",
+      "Filtres de domaines, dates et langue",
+      "Paramètres de profondeur et de contenu"
+    ],
+    "accessFr": "API et documentation",
+    "accessEn": "API and documentation",
+    "officialSources": [
+      {
+        "url": "https://docs.tavily.com/documentation/api-reference/endpoint/search",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
   },
   "Genspark": {
-    "descriptionFr": "Espace de recherche et de production assisté par des agents IA pour explorer et organiser l’information.",
-    "descriptionEn": "AI agent workspace for researching and organizing information.",
+    "descriptionFr": "Espace IA combinant conversations avec modèles sélectionnables, recherche web et outils de production assistés par agents.",
+    "descriptionEn": "Espace IA combinant conversations avec modèles sélectionnables, recherche web et outils de production assistés par agents.",
     "descriptionStatus": "editorial",
-    "editorialDate": "2026-11-15"
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "AI Chat avec choix de modèle",
+      "Recherche web et citations lorsque Search Web est activé",
+      "Lecture de fichiers joints"
+    ],
+    "featuresEn": [
+      "AI Chat avec choix de modèle",
+      "Recherche web et citations lorsque Search Web est activé",
+      "Lecture de fichiers joints"
+    ],
+    "accessFr": "Web",
+    "accessEn": "Web",
+    "officialSources": [
+      {
+        "url": "https://www.genspark.ai/helpcenter/ai-chat",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
   },
   "Consensus": {
     "descriptionFr": "Moteur de recherche qui interroge la littérature scientifique et synthétise des résultats d’études.",
@@ -356,10 +430,29 @@
     "editorialDate": "2026-11-15"
   },
   "Wolfram Alpha": {
-    "descriptionFr": "Moteur de calcul de connaissances capable de répondre à des questions quantitatives et scientifiques.",
-    "descriptionEn": "Computational knowledge engine answering quantitative and scientific questions.",
+    "descriptionFr": "Moteur de connaissances calculables produisant des résultats quantitatifs et scientifiques à partir de calculs et de données structurées.",
+    "descriptionEn": "Moteur de connaissances calculables produisant des résultats quantitatifs et scientifiques à partir de calculs et de données structurées.",
     "descriptionStatus": "editorial",
-    "editorialDate": "2026-11-15"
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Calcul symbolique et numérique",
+      "Base de connaissances structurées",
+      "Provenance des données via boutons de sources lorsqu’ils sont disponibles"
+    ],
+    "featuresEn": [
+      "Calcul symbolique et numérique",
+      "Base de connaissances structurées",
+      "Provenance des données via boutons de sources lorsqu’ils sont disponibles"
+    ],
+    "accessFr": "Web",
+    "accessEn": "Web",
+    "officialSources": [
+      {
+        "url": "https://www.wolframalpha.com/faqs/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
   },
   "Semantic Scholar": {
     "descriptionFr": "Moteur de recherche universitaire gratuit utilisant l’IA pour découvrir des publications scientifiques.",
@@ -2293,5 +2386,106 @@
     "descriptionEn": "Product Hunt discovery area for newly launched AI products.",
     "descriptionStatus": "editorial",
     "editorialDate": "2026-11-15"
+  },
+  "Andi": {
+    "descriptionFr": "Moteur de recherche conversationnel combinant recherche web et réponses formulées en langage naturel.",
+    "descriptionEn": "Moteur de recherche conversationnel combinant recherche web et réponses formulées en langage naturel.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Interface orientée questions-réponses",
+      "Recherche présentée comme une conversation plutôt qu’une simple liste de liens"
+    ],
+    "featuresEn": [
+      "Interface orientée questions-réponses",
+      "Recherche présentée comme une conversation plutôt qu’une simple liste de liens"
+    ],
+    "accessFr": "Web",
+    "accessEn": "Web",
+    "officialSources": [
+      {
+        "url": "https://andisearch.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "Komo": {
+    "descriptionFr": "Interface de recherche conversationnelle présentant des réponses avec sources et des options de recherche approfondie.",
+    "descriptionEn": "Interface de recherche conversationnelle présentant des réponses avec sources et des options de recherche approfondie.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Réponses accompagnées de références selon la page officielle de recherche",
+      "Fonction de recherche approfondie mentionnée sur la page de recherche"
+    ],
+    "featuresEn": [
+      "Réponses accompagnées de références selon la page officielle de recherche",
+      "Fonction de recherche approfondie mentionnée sur la page de recherche"
+    ],
+    "accessFr": "Web",
+    "accessEn": "Web",
+    "officialSources": [
+      {
+        "url": "https://komo.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "Felo": {
+    "descriptionFr": "Moteur de recherche conversationnel multilingue proposant des réponses sourcées et des outils de création.",
+    "descriptionEn": "Moteur de recherche conversationnel multilingue proposant des réponses sourcées et des outils de création.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Recherche en langage naturel",
+      "Réponses avec liens vers les sources selon l’aide officielle",
+      "Outils de recherche et de création"
+    ],
+    "featuresEn": [
+      "Recherche en langage naturel",
+      "Réponses avec liens vers les sources selon l’aide officielle",
+      "Outils de recherche et de création"
+    ],
+    "accessFr": "Web",
+    "accessEn": "Web",
+    "officialSources": [
+      {
+        "url": "https://felo.ai/en/faq/felo-search-features",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://felo.ai/en/version",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "Kagi Assistant": {
+    "descriptionFr": "Assistant multi-modèles associé au moteur de recherche Kagi, avec accès au web facultatif et personnalisation.",
+    "descriptionEn": "Assistant multi-modèles associé au moteur de recherche Kagi, avec accès au web facultatif et personnalisation.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Choix de modèles et changement de modèle dans une conversation",
+      "Recherche Kagi activable et filtres de recherche",
+      "Import de fichiers et export de conversations"
+    ],
+    "featuresEn": [
+      "Choix de modèles et changement de modèle dans une conversation",
+      "Recherche Kagi activable et filtres de recherche",
+      "Import de fichiers et export de conversations"
+    ],
+    "accessFr": "Web",
+    "accessEn": "Web",
+    "officialSources": [
+      {
+        "url": "https://help.kagi.com/kagi/ai/assistant.html",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
   }
 }
