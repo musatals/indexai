@@ -1,0 +1,1157 @@
+{
+  "salesforce-einstein": {
+    "descriptionFr": "Intelligence artificielle intégrée à Salesforce Sales Cloud : scores d'opportunités, prévisions, signaux de vente et automatisations Agentforce.",
+    "descriptionEn": "Salesforce Sales Cloud AI for opportunity scoring, forecasting, deal signals and Agentforce automation.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Einstein Opportunity Scoring et Deal Insights",
+      "Einstein Forecasting et résumés CRM",
+      "Agentforce pour comptes et pipeline"
+    ],
+    "featuresEn": [
+      "Einstein Opportunity Scoring and Deal Insights",
+      "Einstein Forecasting and CRM summaries",
+      "Agentforce for accounts and pipeline"
+    ],
+    "accessFr": "Fonctions IA dans Salesforce Sales Cloud",
+    "accessEn": "AI features in Salesforce Sales Cloud",
+    "officialSources": [
+      {
+        "url": "https://help.salesforce.com/s/articleView?id=sales.sales_pipe_visibility_ai_solutions.htm&language=en_US&type=5",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      },
+      {
+        "url": "https://www.salesforce.com/sales/ai",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Intelligence artificielle intégrée à Salesforce Sales Cloud : scores d'opportunités, prévisions, signaux de vente et automatisations Agentforce.",
+      "audiences": [
+        "Responsables CRM et prévisions commerciales",
+        "Responsables de conformité, ventes et opérations"
+      ],
+      "cases": [
+        "Analyser un portefeuille d'opportunités, identifier les risques et faire valider les mises à jour CRM.",
+        "Contrôler les sources des données et faire valider les actions de contact ou les modifications CRM."
+      ],
+      "advantages": [
+        "Einstein Opportunity Scoring et Deal Insights",
+        "Einstein Forecasting et résumés CRM",
+        "Agentforce pour comptes et pipeline"
+      ],
+      "limits": [
+        "Les scores s'appuient sur des données historiques et ne prédisent pas une vente certaine. Fonctions, licences et paramétrage Agentforce sont distincts selon l'édition.",
+        "Les suggestions générées, scores d'intérêt ou prévisions commerciales doivent être confrontés aux données réelles et revus par une personne."
+      ],
+      "gettingStarted": [
+        "Définir le public cible, l'usage autorisé des données et la mesure de succès avant de connecter le CRM.",
+        "Tester sur des contacts autorisés, configurer les désinscriptions, limiter les permissions et approuver manuellement les envois et mises à jour."
+      ],
+      "examples": [
+        "À partir de fiches de comptes autorisées, prépare une segmentation avec la provenance de chaque signal et les incertitudes.",
+        "Propose une séquence de suivi professionnelle qui respecte les refus de contact ; fais valider chaque message avant l'envoi."
+      ],
+      "pricing": "Comparer les licences utilisateurs, crédits de données, recherches, sièges, accès aux agents et coûts d'intégration sur les conditions officielles ; les tarifs peuvent être personnalisés.",
+      "privacy": "Limiter les accès aux CRM, emails, réunions et données de contact ; vérifier les bases légales, le consentement à l'enregistrement, les oppositions à la prospection et la conservation.",
+      "selection": [
+        "Choisir Salesforce Einstein selon le besoin (crm), la couverture des données, les contrôles de conformité, les intégrations et les frais récurrents."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.salesforce.com/s/articleView?id=sales.sales_pipe_visibility_ai_solutions.htm&language=en_US&type=5",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.salesforce.com/sales/ai",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "gong": {
+    "descriptionFr": "Plateforme Revenue AI de transcription et d'analyse des échanges commerciaux, avec coaching, suivi des opportunités et outils de prospection.",
+    "descriptionEn": "Revenue AI platform for capturing and analyzing sales interactions with coaching, deal tracking and prospecting tools.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Enregistrement et transcription des échanges",
+      "Analyse des risques et signaux d'achat",
+      "Gong Engage, Forecast et Enable"
+    ],
+    "featuresEn": [
+      "Conversation recording and transcription",
+      "Deal risks and buying signals",
+      "Gong Engage, Forecast and Enable"
+    ],
+    "accessFr": "Web et intégrations CRM/API selon offre",
+    "accessEn": "Web and CRM/API integrations depending on plan",
+    "officialSources": [
+      {
+        "url": "https://www.gong.io/conversation-intelligence",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      },
+      {
+        "url": "https://www.gong.io/press/gong-growth-accelerates-past-55-yoy-arr-tops-500m",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme Revenue AI de transcription et d'analyse des échanges commerciaux, avec coaching, suivi des opportunités et outils de prospection.",
+      "audiences": [
+        "Équipes commerciales, prospection et développement B2B",
+        "Responsables de conformité, ventes et opérations"
+      ],
+      "cases": [
+        "Analyser les objections récurrentes dans les entretiens clients et préparer un coaching commercial.",
+        "Contrôler les sources des données et faire valider les actions de contact ou les modifications CRM."
+      ],
+      "advantages": [
+        "Enregistrement et transcription des échanges",
+        "Analyse des risques et signaux d'achat",
+        "Gong Engage, Forecast et Enable"
+      ],
+      "limits": [
+        "Les conversations contiennent des données personnelles et doivent être enregistrées dans un cadre légal. Les prévisions, résumés et analyses d'émotions ne sont pas des faits certains.",
+        "Les suggestions générées, scores d'intérêt ou prévisions commerciales doivent être confrontés aux données réelles et revus par une personne."
+      ],
+      "gettingStarted": [
+        "Définir le public cible, l'usage autorisé des données et la mesure de succès avant de connecter le CRM.",
+        "Tester sur des contacts autorisés, configurer les désinscriptions, limiter les permissions et approuver manuellement les envois et mises à jour."
+      ],
+      "examples": [
+        "À partir de fiches de comptes autorisées, prépare une segmentation avec la provenance de chaque signal et les incertitudes.",
+        "Propose une séquence de suivi professionnelle qui respecte les refus de contact ; fais valider chaque message avant l'envoi."
+      ],
+      "pricing": "Comparer les licences utilisateurs, crédits de données, recherches, sièges, accès aux agents et coûts d'intégration sur les conditions officielles ; les tarifs peuvent être personnalisés.",
+      "privacy": "Limiter les accès aux CRM, emails, réunions et données de contact ; vérifier les bases légales, le consentement à l'enregistrement, les oppositions à la prospection et la conservation.",
+      "selection": [
+        "Choisir Gong selon le besoin (conversation), la couverture des données, les contrôles de conformité, les intégrations et les frais récurrents."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.gong.io/conversation-intelligence",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.gong.io/press/gong-growth-accelerates-past-55-yoy-arr-tops-500m",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "clari": {
+    "descriptionFr": "Solution historique d'intelligence du revenu et de prévisions, désormais intégrée à Salesloft ; Clari Forecast conserve son appellation produit.",
+    "descriptionEn": "Legacy revenue intelligence and forecasting solution now part of Salesloft; Clari Forecast retains its product name.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Clari Forecast et prévisions de revenus",
+      "Inspection de pipeline et risques",
+      "Intelligence conversationnelle intégrée à Salesloft"
+    ],
+    "featuresEn": [
+      "Clari Forecast and revenue forecasting",
+      "Pipeline inspection and risks",
+      "Conversation intelligence within Salesloft"
+    ],
+    "accessFr": "Plateforme commune Salesloft ; Clari Forecast conservé",
+    "accessEn": "Salesloft unified platform; Clari Forecast retained",
+    "officialSources": [
+      {
+        "url": "https://www.salesloft.com/clari-salesloft-merger",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      },
+      {
+        "url": "https://www.salesloft.com/company/newsroom/salesloft-unveils-unified-brand-identity",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Solution historique d'intelligence du revenu et de prévisions, désormais intégrée à Salesloft ; Clari Forecast conserve son appellation produit.",
+      "audiences": [
+        "Responsables CRM et prévisions commerciales",
+        "Responsables de conformité, ventes et opérations"
+      ],
+      "cases": [
+        "Comparer les prévisions trimestrielles et les signaux qui justifient un changement de probabilité.",
+        "Contrôler les sources des données et faire valider les actions de contact ou les modifications CRM."
+      ],
+      "advantages": [
+        "Clari Forecast et prévisions de revenus",
+        "Inspection de pipeline et risques",
+        "Intelligence conversationnelle intégrée à Salesloft"
+      ],
+      "limits": [
+        "Depuis septembre 2026, Clari et Salesloft opèrent sous Salesloft ; il ne s'agit pas de deux sociétés indépendantes. Clari Forecast reste nommé ainsi ; aucune suppression générale des fonctionnalités n'a été annoncée.",
+        "Les suggestions générées, scores d'intérêt ou prévisions commerciales doivent être confrontés aux données réelles et revus par une personne."
+      ],
+      "gettingStarted": [
+        "Définir le public cible, l'usage autorisé des données et la mesure de succès avant de connecter le CRM.",
+        "Tester sur des contacts autorisés, configurer les désinscriptions, limiter les permissions et approuver manuellement les envois et mises à jour."
+      ],
+      "examples": [
+        "À partir de fiches de comptes autorisées, prépare une segmentation avec la provenance de chaque signal et les incertitudes.",
+        "Propose une séquence de suivi professionnelle qui respecte les refus de contact ; fais valider chaque message avant l'envoi."
+      ],
+      "pricing": "Comparer les licences utilisateurs, crédits de données, recherches, sièges, accès aux agents et coûts d'intégration sur les conditions officielles ; les tarifs peuvent être personnalisés.",
+      "privacy": "Limiter les accès aux CRM, emails, réunions et données de contact ; vérifier les bases légales, le consentement à l'enregistrement, les oppositions à la prospection et la conservation.",
+      "selection": [
+        "Choisir Clari selon le besoin (forecasting), la couverture des données, les contrôles de conformité, les intégrations et les frais récurrents."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "merged_with_salesloft",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.salesloft.com/clari-salesloft-merger",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.salesloft.com/company/newsroom/salesloft-unveils-unified-brand-identity",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_merged"
+  },
+  "apollo": {
+    "descriptionFr": "Plateforme de données B2B et de prospection multicanale avec séquences email, appels, LinkedIn et assistant IA.",
+    "descriptionEn": "B2B prospecting and outreach platform with email sequences, calls, LinkedIn tasks and an AI assistant.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Recherche de prospects et enrichissement",
+      "Séquences de prospection multicanales",
+      "Assistant IA pour rédaction et optimisation"
+    ],
+    "featuresEn": [
+      "Lead search and enrichment",
+      "Multichannel outreach sequences",
+      "AI assistant for writing and optimization"
+    ],
+    "accessFr": "Web et intégrations CRM/API selon offre",
+    "accessEn": "Web and CRM/API integrations depending on plan",
+    "officialSources": [
+      {
+        "url": "https://knowledge.apollo.io/hc/en-us/articles/4409237165837-Sequences-Overview",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      },
+      {
+        "url": "https://knowledge.apollo.io/hc/en-us/articles/43614439541133-Engage-Prospects-with-the-AI-Assistant",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de données B2B et de prospection multicanale avec séquences email, appels, LinkedIn et assistant IA.",
+      "audiences": [
+        "Équipes commerciales, prospection et développement B2B",
+        "Responsables de conformité, ventes et opérations"
+      ],
+      "cases": [
+        "Créer une séquence de contact B2B ciblée avec validation des messages et critères d'arrêt à la réponse.",
+        "Contrôler les sources des données et faire valider les actions de contact ou les modifications CRM."
+      ],
+      "advantages": [
+        "Recherche de prospects et enrichissement",
+        "Séquences de prospection multicanales",
+        "Assistant IA pour rédaction et optimisation"
+      ],
+      "limits": [
+        "Les actions de prospection consomment des crédits et les données de contacts peuvent être incomplètes ; respecter opposition à la prospection, délivrabilité et règles locales.",
+        "Les suggestions générées, scores d'intérêt ou prévisions commerciales doivent être confrontés aux données réelles et revus par une personne."
+      ],
+      "gettingStarted": [
+        "Définir le public cible, l'usage autorisé des données et la mesure de succès avant de connecter le CRM.",
+        "Tester sur des contacts autorisés, configurer les désinscriptions, limiter les permissions et approuver manuellement les envois et mises à jour."
+      ],
+      "examples": [
+        "À partir de fiches de comptes autorisées, prépare une segmentation avec la provenance de chaque signal et les incertitudes.",
+        "Propose une séquence de suivi professionnelle qui respecte les refus de contact ; fais valider chaque message avant l'envoi."
+      ],
+      "pricing": "Comparer les licences utilisateurs, crédits de données, recherches, sièges, accès aux agents et coûts d'intégration sur les conditions officielles ; les tarifs peuvent être personnalisés.",
+      "privacy": "Limiter les accès aux CRM, emails, réunions et données de contact ; vérifier les bases légales, le consentement à l'enregistrement, les oppositions à la prospection et la conservation.",
+      "selection": [
+        "Choisir Apollo selon le besoin (prospecting), la couverture des données, les contrôles de conformité, les intégrations et les frais récurrents."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://knowledge.apollo.io/hc/en-us/articles/4409237165837-Sequences-Overview",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://knowledge.apollo.io/hc/en-us/articles/43614439541133-Engage-Prospects-with-the-AI-Assistant",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "clay": {
+    "descriptionFr": "Enrichissement et orchestration de données commerciales avec plusieurs fournisseurs, recherches Claygent et budgets de crédits.",
+    "descriptionEn": "Sales data enrichment and orchestration across data providers, Claygent research and credit budgets.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Waterfall enrichment multicapteurs",
+      "Claygent et recherches IA",
+      "Budgets de crédits par workbook ou workflow"
+    ],
+    "featuresEn": [
+      "Multi-provider waterfall enrichment",
+      "Claygent AI research",
+      "Workbook and workflow credit budgets"
+    ],
+    "accessFr": "Application web, API et intégrations",
+    "accessEn": "Web app, APIs and integrations",
+    "officialSources": [
+      {
+        "url": "https://www.clay.com/faq/do-unsuccessful-searches-consume-data-credits-what-about-actions",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      },
+      {
+        "url": "https://university.clay.com/docs/credit-budgets",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Enrichissement et orchestration de données commerciales avec plusieurs fournisseurs, recherches Claygent et budgets de crédits.",
+      "audiences": [
+        "Équipes commerciales, prospection et développement B2B",
+        "Responsables de conformité, ventes et opérations"
+      ],
+      "cases": [
+        "Compléter des fiches d'entreprises en croisant plusieurs fournisseurs et ne conserver que les données vérifiées.",
+        "Contrôler les sources des données et faire valider les actions de contact ou les modifications CRM."
+      ],
+      "advantages": [
+        "Waterfall enrichment multicapteurs",
+        "Claygent et recherches IA",
+        "Budgets de crédits par workbook ou workflow"
+      ],
+      "limits": [
+        "Les validations et enrichissements réussis peuvent consommer actions et crédits ; les données de contact doivent être vérifiées et l'usage doit respecter les bases légales et les contrats des fournisseurs.",
+        "Les suggestions générées, scores d'intérêt ou prévisions commerciales doivent être confrontés aux données réelles et revus par une personne."
+      ],
+      "gettingStarted": [
+        "Définir le public cible, l'usage autorisé des données et la mesure de succès avant de connecter le CRM.",
+        "Tester sur des contacts autorisés, configurer les désinscriptions, limiter les permissions et approuver manuellement les envois et mises à jour."
+      ],
+      "examples": [
+        "À partir de fiches de comptes autorisées, prépare une segmentation avec la provenance de chaque signal et les incertitudes.",
+        "Propose une séquence de suivi professionnelle qui respecte les refus de contact ; fais valider chaque message avant l'envoi."
+      ],
+      "pricing": "Comparer les licences utilisateurs, crédits de données, recherches, sièges, accès aux agents et coûts d'intégration sur les conditions officielles ; les tarifs peuvent être personnalisés.",
+      "privacy": "Limiter les accès aux CRM, emails, réunions et données de contact ; vérifier les bases légales, le consentement à l'enregistrement, les oppositions à la prospection et la conservation.",
+      "selection": [
+        "Choisir Clay selon le besoin (enrichment), la couverture des données, les contrôles de conformité, les intégrations et les frais récurrents."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.clay.com/faq/do-unsuccessful-searches-consume-data-credits-what-about-actions",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://university.clay.com/docs/credit-budgets",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "zoominfo-copilot": {
+    "descriptionFr": "Assistant commercial IA de ZoomInfo combinant intelligence B2B, signaux d'intention, informations de comptes et actions CRM.",
+    "descriptionEn": "ZoomInfo AI sales copilot combining B2B intelligence, intent signals, account insights and CRM actions.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "ZoomInfo Copilot et signaux d'achat",
+      "Recherche de sociétés et de contacts",
+      "Enrichissement CRM et workflows"
+    ],
+    "featuresEn": [
+      "ZoomInfo Copilot and buying signals",
+      "Company and contact research",
+      "CRM enrichment and workflows"
+    ],
+    "accessFr": "Web et intégrations CRM/API selon offre",
+    "accessEn": "Web and CRM/API integrations depending on plan",
+    "officialSources": [
+      {
+        "url": "https://www.zoominfo.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "product_overview"
+      }
+    ],
+    "research": {
+      "headline": "Assistant commercial IA de ZoomInfo combinant intelligence B2B, signaux d'intention, informations de comptes et actions CRM.",
+      "audiences": [
+        "Équipes commerciales, prospection et développement B2B",
+        "Responsables de conformité, ventes et opérations"
+      ],
+      "cases": [
+        "Préparer une fiche compte, vérifier les décideurs et prioriser les prospects présentant des signaux pertinents.",
+        "Contrôler les sources des données et faire valider les actions de contact ou les modifications CRM."
+      ],
+      "advantages": [
+        "ZoomInfo Copilot et signaux d'achat",
+        "Recherche de sociétés et de contacts",
+        "Enrichissement CRM et workflows"
+      ],
+      "limits": [
+        "L'exactitude et le droit d'utilisation des données professionnelles dépendent de la couverture et du contrat ; ne pas assimiler signaux d'intention et consentement au contact.",
+        "Les suggestions générées, scores d'intérêt ou prévisions commerciales doivent être confrontés aux données réelles et revus par une personne."
+      ],
+      "gettingStarted": [
+        "Définir le public cible, l'usage autorisé des données et la mesure de succès avant de connecter le CRM.",
+        "Tester sur des contacts autorisés, configurer les désinscriptions, limiter les permissions et approuver manuellement les envois et mises à jour."
+      ],
+      "examples": [
+        "À partir de fiches de comptes autorisées, prépare une segmentation avec la provenance de chaque signal et les incertitudes.",
+        "Propose une séquence de suivi professionnelle qui respecte les refus de contact ; fais valider chaque message avant l'envoi."
+      ],
+      "pricing": "Comparer les licences utilisateurs, crédits de données, recherches, sièges, accès aux agents et coûts d'intégration sur les conditions officielles ; les tarifs peuvent être personnalisés.",
+      "privacy": "Limiter les accès aux CRM, emails, réunions et données de contact ; vérifier les bases légales, le consentement à l'enregistrement, les oppositions à la prospection et la conservation.",
+      "selection": [
+        "Choisir ZoomInfo Copilot selon le besoin (intelligence), la couverture des données, les contrôles de conformité, les intégrations et les frais récurrents."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "product_overview",
+      "evidence": "official_product_page",
+      "sources": [
+        {
+          "url": "https://www.zoominfo.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_product_overview"
+  },
+  "outreach": {
+    "descriptionFr": "Plateforme de vente intégrant des agents pour la recherche de prospects, la personnalisation, la préparation de réunions et le suivi des opportunités.",
+    "descriptionEn": "Sales execution platform with agents for prospect research, personalization, meeting preparation and opportunity management.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Outreach Omni et Agent Studio",
+      "Research, Personalization et Deal Agents",
+      "Outreach Kaia et séquences de contact"
+    ],
+    "featuresEn": [
+      "Outreach Omni and Agent Studio",
+      "Research, Personalization and Deal Agents",
+      "Outreach Kaia and sequences"
+    ],
+    "accessFr": "Web et intégrations CRM/API selon offre",
+    "accessEn": "Web and CRM/API integrations depending on plan",
+    "officialSources": [
+      {
+        "url": "https://support.outreach.io/support/solutions/articles/159000433239-agents-ai-overview",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      },
+      {
+        "url": "https://support.outreach.io/support/solutions/articles/159000425192",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de vente intégrant des agents pour la recherche de prospects, la personnalisation, la préparation de réunions et le suivi des opportunités.",
+      "audiences": [
+        "Équipes commerciales, prospection et développement B2B",
+        "Responsables de conformité, ventes et opérations"
+      ],
+      "cases": [
+        "Préparer une réunion à partir des échanges d'un prospect et proposer un plan de suivi à confirmer.",
+        "Contrôler les sources des données et faire valider les actions de contact ou les modifications CRM."
+      ],
+      "advantages": [
+        "Outreach Omni et Agent Studio",
+        "Research, Personalization et Deal Agents",
+        "Outreach Kaia et séquences de contact"
+      ],
+      "limits": [
+        "Les agents et capacités Amplify nécessitent des licences et droits spécifiques ; limiter les actions autonomes sur le CRM ou les messages sortants.",
+        "Les suggestions générées, scores d'intérêt ou prévisions commerciales doivent être confrontés aux données réelles et revus par une personne."
+      ],
+      "gettingStarted": [
+        "Définir le public cible, l'usage autorisé des données et la mesure de succès avant de connecter le CRM.",
+        "Tester sur des contacts autorisés, configurer les désinscriptions, limiter les permissions et approuver manuellement les envois et mises à jour."
+      ],
+      "examples": [
+        "À partir de fiches de comptes autorisées, prépare une segmentation avec la provenance de chaque signal et les incertitudes.",
+        "Propose une séquence de suivi professionnelle qui respecte les refus de contact ; fais valider chaque message avant l'envoi."
+      ],
+      "pricing": "Comparer les licences utilisateurs, crédits de données, recherches, sièges, accès aux agents et coûts d'intégration sur les conditions officielles ; les tarifs peuvent être personnalisés.",
+      "privacy": "Limiter les accès aux CRM, emails, réunions et données de contact ; vérifier les bases légales, le consentement à l'enregistrement, les oppositions à la prospection et la conservation.",
+      "selection": [
+        "Choisir Outreach selon le besoin (engagement), la couverture des données, les contrôles de conformité, les intégrations et les frais récurrents."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://support.outreach.io/support/solutions/articles/159000433239-agents-ai-overview",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://support.outreach.io/support/solutions/articles/159000425192",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "salesloft": {
+    "descriptionFr": "Plateforme commerciale fusionnée avec Clari, réunissant engagement, intelligence du revenu et prévisions dans un système unifié.",
+    "descriptionEn": "Sales execution platform merged with Clari, unifying engagement, revenue intelligence and forecasting.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Sales Engagement et cadences",
+      "Clari Forecast et intelligence pipeline",
+      "Predictive Revenue System"
+    ],
+    "featuresEn": [
+      "Sales engagement and cadences",
+      "Clari Forecast and pipeline intelligence",
+      "Predictive Revenue System"
+    ],
+    "accessFr": "Plateforme commune Salesloft ; Clari Forecast conservé",
+    "accessEn": "Salesloft unified platform; Clari Forecast retained",
+    "officialSources": [
+      {
+        "url": "https://www.salesloft.com/clari-salesloft-merger",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      },
+      {
+        "url": "https://www.salesloft.com/company/newsroom/salesloft-unveils-unified-brand-identity",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme commerciale fusionnée avec Clari, réunissant engagement, intelligence du revenu et prévisions dans un système unifié.",
+      "audiences": [
+        "Équipes commerciales, prospection et développement B2B",
+        "Responsables de conformité, ventes et opérations"
+      ],
+      "cases": [
+        "Relier des prévisions de vente aux actions de suivi et aux signaux issus des conversations clients.",
+        "Contrôler les sources des données et faire valider les actions de contact ou les modifications CRM."
+      ],
+      "advantages": [
+        "Sales Engagement et cadences",
+        "Clari Forecast et intelligence pipeline",
+        "Predictive Revenue System"
+      ],
+      "limits": [
+        "Salesloft est la marque commune avec Clari depuis septembre 2026 : ne pas compter deux entreprises distinctes ; les migrations produits sont progressives et les droits varient selon le contrat.",
+        "Les suggestions générées, scores d'intérêt ou prévisions commerciales doivent être confrontés aux données réelles et revus par une personne."
+      ],
+      "gettingStarted": [
+        "Définir le public cible, l'usage autorisé des données et la mesure de succès avant de connecter le CRM.",
+        "Tester sur des contacts autorisés, configurer les désinscriptions, limiter les permissions et approuver manuellement les envois et mises à jour."
+      ],
+      "examples": [
+        "À partir de fiches de comptes autorisées, prépare une segmentation avec la provenance de chaque signal et les incertitudes.",
+        "Propose une séquence de suivi professionnelle qui respecte les refus de contact ; fais valider chaque message avant l'envoi."
+      ],
+      "pricing": "Comparer les licences utilisateurs, crédits de données, recherches, sièges, accès aux agents et coûts d'intégration sur les conditions officielles ; les tarifs peuvent être personnalisés.",
+      "privacy": "Limiter les accès aux CRM, emails, réunions et données de contact ; vérifier les bases légales, le consentement à l'enregistrement, les oppositions à la prospection et la conservation.",
+      "selection": [
+        "Choisir Salesloft selon le besoin (engagement), la couverture des données, les contrôles de conformité, les intégrations et les frais récurrents."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "merged_with_salesloft",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.salesloft.com/clari-salesloft-merger",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.salesloft.com/company/newsroom/salesloft-unveils-unified-brand-identity",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_merged"
+  },
+  "regie-ai": {
+    "descriptionFr": "Plateforme RegieGO de prospection avec agents IA pour enrichissement, signaux d'achat, email et préparation des appels.",
+    "descriptionEn": "RegieGO AI prospecting platform for enrichment, buying signals, email outreach and call preparation.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "RegieGO et prospection assistée",
+      "Signaux d'opportunité et enrichissement",
+      "Dialer avec vérification des listes d'opposition"
+    ],
+    "featuresEn": [
+      "RegieGO assisted prospecting",
+      "Intent signals and enrichment",
+      "Dialer with do-not-call controls"
+    ],
+    "accessFr": "Web et intégrations CRM/API selon offre",
+    "accessEn": "Web and CRM/API integrations depending on plan",
+    "officialSources": [
+      {
+        "url": "https://regie.ai/about",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      },
+      {
+        "url": "https://regie.ai/dialer",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme RegieGO de prospection avec agents IA pour enrichissement, signaux d'achat, email et préparation des appels.",
+      "audiences": [
+        "Équipes commerciales, prospection et développement B2B",
+        "Responsables de conformité, ventes et opérations"
+      ],
+      "cases": [
+        "Identifier des comptes en mouvement puis préparer des appels humains à partir des signaux publics.",
+        "Contrôler les sources des données et faire valider les actions de contact ou les modifications CRM."
+      ],
+      "advantages": [
+        "RegieGO et prospection assistée",
+        "Signaux d'opportunité et enrichissement",
+        "Dialer avec vérification des listes d'opposition"
+      ],
+      "limits": [
+        "Le respect des listes d'opposition ne remplace pas les obligations locales de consentement ; comparer les limites d'appel, les coûts et les intégrations.",
+        "Les suggestions générées, scores d'intérêt ou prévisions commerciales doivent être confrontés aux données réelles et revus par une personne."
+      ],
+      "gettingStarted": [
+        "Définir le public cible, l'usage autorisé des données et la mesure de succès avant de connecter le CRM.",
+        "Tester sur des contacts autorisés, configurer les désinscriptions, limiter les permissions et approuver manuellement les envois et mises à jour."
+      ],
+      "examples": [
+        "À partir de fiches de comptes autorisées, prépare une segmentation avec la provenance de chaque signal et les incertitudes.",
+        "Propose une séquence de suivi professionnelle qui respecte les refus de contact ; fais valider chaque message avant l'envoi."
+      ],
+      "pricing": "Comparer les licences utilisateurs, crédits de données, recherches, sièges, accès aux agents et coûts d'intégration sur les conditions officielles ; les tarifs peuvent être personnalisés.",
+      "privacy": "Limiter les accès aux CRM, emails, réunions et données de contact ; vérifier les bases légales, le consentement à l'enregistrement, les oppositions à la prospection et la conservation.",
+      "selection": [
+        "Choisir Regie.ai selon le besoin (agentic_sdr), la couverture des données, les contrôles de conformité, les intégrations et les frais récurrents."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://regie.ai/about",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://regie.ai/dialer",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "conversica": {
+    "descriptionFr": "Assistants conversationnels de suivi commercial automatisant l'échange avec les prospects et la transmission des contacts qualifiés aux équipes.",
+    "descriptionEn": "Conversational sales assistants automating lead follow-up and handing qualified contacts to teams.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Revenue Digital Assistants",
+      "Suivi et qualification des prospects",
+      "API et transfert vers CRM"
+    ],
+    "featuresEn": [
+      "Revenue Digital Assistants",
+      "Lead nurturing and qualification",
+      "API and CRM handoff"
+    ],
+    "accessFr": "Web et intégrations CRM/API selon offre",
+    "accessEn": "Web and CRM/API integrations depending on plan",
+    "officialSources": [
+      {
+        "url": "https://help.conversica.com/hc/en-us/articles/360048601712-Conversica-API-Integration-Manual",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      },
+      {
+        "url": "https://help.conversica.com/hc/en-us/articles/37653311820955-Providing-AI-Feedback",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Assistants conversationnels de suivi commercial automatisant l'échange avec les prospects et la transmission des contacts qualifiés aux équipes.",
+      "audiences": [
+        "Équipes commerciales, prospection et développement B2B",
+        "Responsables de conformité, ventes et opérations"
+      ],
+      "cases": [
+        "Réengager des prospects déjà connus, faire qualifier les réponses et confier les cas intéressés à un conseiller.",
+        "Contrôler les sources des données et faire valider les actions de contact ou les modifications CRM."
+      ],
+      "advantages": [
+        "Revenue Digital Assistants",
+        "Suivi et qualification des prospects",
+        "API et transfert vers CRM"
+      ],
+      "limits": [
+        "L'interprétation de l'intérêt d'un prospect peut être imparfaite ; surveiller les cadences, la désinscription et la transparence sur l'utilisation d'un assistant.",
+        "Les suggestions générées, scores d'intérêt ou prévisions commerciales doivent être confrontés aux données réelles et revus par une personne."
+      ],
+      "gettingStarted": [
+        "Définir le public cible, l'usage autorisé des données et la mesure de succès avant de connecter le CRM.",
+        "Tester sur des contacts autorisés, configurer les désinscriptions, limiter les permissions et approuver manuellement les envois et mises à jour."
+      ],
+      "examples": [
+        "À partir de fiches de comptes autorisées, prépare une segmentation avec la provenance de chaque signal et les incertitudes.",
+        "Propose une séquence de suivi professionnelle qui respecte les refus de contact ; fais valider chaque message avant l'envoi."
+      ],
+      "pricing": "Comparer les licences utilisateurs, crédits de données, recherches, sièges, accès aux agents et coûts d'intégration sur les conditions officielles ; les tarifs peuvent être personnalisés.",
+      "privacy": "Limiter les accès aux CRM, emails, réunions et données de contact ; vérifier les bases légales, le consentement à l'enregistrement, les oppositions à la prospection et la conservation.",
+      "selection": [
+        "Choisir Conversica selon le besoin (conversational), la couverture des données, les contrôles de conformité, les intégrations et les frais récurrents."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.conversica.com/hc/en-us/articles/360048601712-Conversica-API-Integration-Manual",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://help.conversica.com/hc/en-us/articles/37653311820955-Providing-AI-Feedback",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "people-ai": {
+    "descriptionFr": "Plateforme Backstory de People.ai pour consolider interactions commerciales, CRM, prévisions et plans d'affaires.",
+    "descriptionEn": "People.ai Backstory platform for consolidating sales activity, CRM records, forecasts and account plans.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Backstory Activity Capture et synchronisation CRM",
+      "Prévisions et intelligence des comptes",
+      "ClosePlan et Backstory MCP"
+    ],
+    "featuresEn": [
+      "Backstory activity capture and CRM sync",
+      "Forecasting and account intelligence",
+      "ClosePlan and Backstory MCP"
+    ],
+    "accessFr": "Web et intégrations CRM/API selon offre",
+    "accessEn": "Web and CRM/API integrations depending on plan",
+    "officialSources": [
+      {
+        "url": "https://help.people.ai/en/articles/15088537-introduction-to-backstory",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme Backstory de People.ai pour consolider interactions commerciales, CRM, prévisions et plans d'affaires.",
+      "audiences": [
+        "Responsables CRM et prévisions commerciales",
+        "Responsables de conformité, ventes et opérations"
+      ],
+      "cases": [
+        "Reconstituer l'historique d'un compte depuis les réunions et les emails autorisés pour préparer une revue de pipeline.",
+        "Contrôler les sources des données et faire valider les actions de contact ou les modifications CRM."
+      ],
+      "advantages": [
+        "Backstory Activity Capture et synchronisation CRM",
+        "Prévisions et intelligence des comptes",
+        "ClosePlan et Backstory MCP"
+      ],
+      "limits": [
+        "L'analyse des réunions et emails requiert autorisations, filtres de données sensibles et conformité ; l'exhaustivité de la capture doit être vérifiée.",
+        "Les suggestions générées, scores d'intérêt ou prévisions commerciales doivent être confrontés aux données réelles et revus par une personne."
+      ],
+      "gettingStarted": [
+        "Définir le public cible, l'usage autorisé des données et la mesure de succès avant de connecter le CRM.",
+        "Tester sur des contacts autorisés, configurer les désinscriptions, limiter les permissions et approuver manuellement les envois et mises à jour."
+      ],
+      "examples": [
+        "À partir de fiches de comptes autorisées, prépare une segmentation avec la provenance de chaque signal et les incertitudes.",
+        "Propose une séquence de suivi professionnelle qui respecte les refus de contact ; fais valider chaque message avant l'envoi."
+      ],
+      "pricing": "Comparer les licences utilisateurs, crédits de données, recherches, sièges, accès aux agents et coûts d'intégration sur les conditions officielles ; les tarifs peuvent être personnalisés.",
+      "privacy": "Limiter les accès aux CRM, emails, réunions et données de contact ; vérifier les bases légales, le consentement à l'enregistrement, les oppositions à la prospection et la conservation.",
+      "selection": [
+        "Choisir People.ai selon le besoin (revenue_intelligence), la couverture des données, les contrôles de conformité, les intégrations et les frais récurrents."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "product_repositioned_to_backstory",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.people.ai/en/articles/15088537-introduction-to-backstory",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_product_update"
+  },
+  "6sense": {
+    "descriptionFr": "Plateforme de données et signaux d'intention B2B utilisant modèles prédictifs pour identifier les comptes et les étapes d'achat.",
+    "descriptionEn": "B2B data and buying-intent platform using predictive models for account identification and buying stages.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Signaux d'intention et données d'entreprises",
+      "RevvyAI et intelligence prédictive",
+      "Détection des comptes visitant le site"
+    ],
+    "featuresEn": [
+      "Intent signals and firmographic data",
+      "RevvyAI and predictive intelligence",
+      "Website account identification"
+    ],
+    "accessFr": "Web et intégrations CRM/API selon offre",
+    "accessEn": "Web and CRM/API integrations depending on plan",
+    "officialSources": [
+      {
+        "url": "https://6sense.com/platform/foundation",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      },
+      {
+        "url": "https://6sense.com/platform/data-intelligence",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de données et signaux d'intention B2B utilisant modèles prédictifs pour identifier les comptes et les étapes d'achat.",
+      "audiences": [
+        "Équipes commerciales, prospection et développement B2B",
+        "Responsables de conformité, ventes et opérations"
+      ],
+      "cases": [
+        "Prioriser des entreprises par adéquation et intérêt potentiel, puis vérifier manuellement les sources.",
+        "Contrôler les sources des données et faire valider les actions de contact ou les modifications CRM."
+      ],
+      "advantages": [
+        "Signaux d'intention et données d'entreprises",
+        "RevvyAI et intelligence prédictive",
+        "Détection des comptes visitant le site"
+      ],
+      "limits": [
+        "Les signaux d'intention et la désanonymisation concernent des probabilités et nécessitent une évaluation juridique et une transparence appropriées ; aucune prédiction ne garantit un achat.",
+        "Les suggestions générées, scores d'intérêt ou prévisions commerciales doivent être confrontés aux données réelles et revus par une personne."
+      ],
+      "gettingStarted": [
+        "Définir le public cible, l'usage autorisé des données et la mesure de succès avant de connecter le CRM.",
+        "Tester sur des contacts autorisés, configurer les désinscriptions, limiter les permissions et approuver manuellement les envois et mises à jour."
+      ],
+      "examples": [
+        "À partir de fiches de comptes autorisées, prépare une segmentation avec la provenance de chaque signal et les incertitudes.",
+        "Propose une séquence de suivi professionnelle qui respecte les refus de contact ; fais valider chaque message avant l'envoi."
+      ],
+      "pricing": "Comparer les licences utilisateurs, crédits de données, recherches, sièges, accès aux agents et coûts d'intégration sur les conditions officielles ; les tarifs peuvent être personnalisés.",
+      "privacy": "Limiter les accès aux CRM, emails, réunions et données de contact ; vérifier les bases légales, le consentement à l'enregistrement, les oppositions à la prospection et la conservation.",
+      "selection": [
+        "Choisir 6sense selon le besoin (intent), la couverture des données, les contrôles de conformité, les intégrations et les frais récurrents."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://6sense.com/platform/foundation",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://6sense.com/platform/data-intelligence",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "reply-io": {
+    "descriptionFr": "Plateforme de prospection multicanale avec Jason AI SDR pour générer des séquences, répondre aux prospects et réserver des réunions.",
+    "descriptionEn": "Multichannel outreach platform with Jason AI SDR for sequences, prospect replies and meeting booking.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Jason AI SDR et génération de séquences",
+      "Prospection email et LinkedIn",
+      "Modes approbation ou automatique"
+    ],
+    "featuresEn": [
+      "Jason AI SDR and sequence creation",
+      "Email and LinkedIn outreach",
+      "Approval and automatic modes"
+    ],
+    "accessFr": "Web et intégrations CRM/API selon offre",
+    "accessEn": "Web and CRM/API integrations depending on plan",
+    "officialSources": [
+      {
+        "url": "https://support.reply.io/hc/reply-help-center/articles/how-to-create-and-launch-an-ai-sdr-sequence",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      },
+      {
+        "url": "https://support.reply.io/hc/reply-help-center/articles/jason-ai-assistant-overview",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de prospection multicanale avec Jason AI SDR pour générer des séquences, répondre aux prospects et réserver des réunions.",
+      "audiences": [
+        "Équipes commerciales, prospection et développement B2B",
+        "Responsables de conformité, ventes et opérations"
+      ],
+      "cases": [
+        "Créer une campagne B2B avec revue humaine de chaque premier message, réponse et prise de rendez-vous.",
+        "Contrôler les sources des données et faire valider les actions de contact ou les modifications CRM."
+      ],
+      "advantages": [
+        "Jason AI SDR et génération de séquences",
+        "Prospection email et LinkedIn",
+        "Modes approbation ou automatique"
+      ],
+      "limits": [
+        "L'envoi automatique peut être activé ; configurer explicitement les approbations, les désinscriptions et les limites quotidiennes pour éviter des messages non souhaités.",
+        "Les suggestions générées, scores d'intérêt ou prévisions commerciales doivent être confrontés aux données réelles et revus par une personne."
+      ],
+      "gettingStarted": [
+        "Définir le public cible, l'usage autorisé des données et la mesure de succès avant de connecter le CRM.",
+        "Tester sur des contacts autorisés, configurer les désinscriptions, limiter les permissions et approuver manuellement les envois et mises à jour."
+      ],
+      "examples": [
+        "À partir de fiches de comptes autorisées, prépare une segmentation avec la provenance de chaque signal et les incertitudes.",
+        "Propose une séquence de suivi professionnelle qui respecte les refus de contact ; fais valider chaque message avant l'envoi."
+      ],
+      "pricing": "Comparer les licences utilisateurs, crédits de données, recherches, sièges, accès aux agents et coûts d'intégration sur les conditions officielles ; les tarifs peuvent être personnalisés.",
+      "privacy": "Limiter les accès aux CRM, emails, réunions et données de contact ; vérifier les bases légales, le consentement à l'enregistrement, les oppositions à la prospection et la conservation.",
+      "selection": [
+        "Choisir Reply.io selon le besoin (agentic_sdr), la couverture des données, les contrôles de conformité, les intégrations et les frais récurrents."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://support.reply.io/hc/reply-help-center/articles/how-to-create-and-launch-an-ai-sdr-sequence",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://support.reply.io/hc/reply-help-center/articles/jason-ai-assistant-overview",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "instantly": {
+    "descriptionFr": "Plateforme de prospection par email regroupant recherche de prospects, campagnes, agents IA et suivi des réponses.",
+    "descriptionEn": "Email-first prospecting platform for lead sourcing, campaigns, AI agents and reply management.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Recherche de leads et création de campagnes",
+      "AI Copilot et agents commerciaux",
+      "Suivi des réponses et des performances"
+    ],
+    "featuresEn": [
+      "Lead discovery and campaigns",
+      "AI Copilot and sales agents",
+      "Reply and performance monitoring"
+    ],
+    "accessFr": "Web et intégrations CRM/API selon offre",
+    "accessEn": "Web and CRM/API integrations depending on plan",
+    "officialSources": [
+      {
+        "url": "https://instantly.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "product_overview"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de prospection par email regroupant recherche de prospects, campagnes, agents IA et suivi des réponses.",
+      "audiences": [
+        "Équipes commerciales, prospection et développement B2B",
+        "Responsables de conformité, ventes et opérations"
+      ],
+      "cases": [
+        "Préparer une campagne ciblée de faible volume avec une vérification des contacts et un traitement manuel des réponses.",
+        "Contrôler les sources des données et faire valider les actions de contact ou les modifications CRM."
+      ],
+      "advantages": [
+        "Recherche de leads et création de campagnes",
+        "AI Copilot et agents commerciaux",
+        "Suivi des réponses et des performances"
+      ],
+      "limits": [
+        "Le warmup et les recommandations de délivrabilité ne garantissent pas l'arrivée en boîte de réception ; respecter les obligations anti-spam et contrôler les comptes connectés.",
+        "Les suggestions générées, scores d'intérêt ou prévisions commerciales doivent être confrontés aux données réelles et revus par une personne."
+      ],
+      "gettingStarted": [
+        "Définir le public cible, l'usage autorisé des données et la mesure de succès avant de connecter le CRM.",
+        "Tester sur des contacts autorisés, configurer les désinscriptions, limiter les permissions et approuver manuellement les envois et mises à jour."
+      ],
+      "examples": [
+        "À partir de fiches de comptes autorisées, prépare une segmentation avec la provenance de chaque signal et les incertitudes.",
+        "Propose une séquence de suivi professionnelle qui respecte les refus de contact ; fais valider chaque message avant l'envoi."
+      ],
+      "pricing": "Comparer les licences utilisateurs, crédits de données, recherches, sièges, accès aux agents et coûts d'intégration sur les conditions officielles ; les tarifs peuvent être personnalisés.",
+      "privacy": "Limiter les accès aux CRM, emails, réunions et données de contact ; vérifier les bases légales, le consentement à l'enregistrement, les oppositions à la prospection et la conservation.",
+      "selection": [
+        "Choisir Instantly selon le besoin (prospecting), la couverture des données, les contrôles de conformité, les intégrations et les frais récurrents."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "product_overview",
+      "evidence": "official_product_page",
+      "sources": [
+        {
+          "url": "https://instantly.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_product_overview"
+  },
+  "amplemarket": {
+    "descriptionFr": "Outil de prospection B2B avec Duo Copilot, signaux d'achat, recherche de comptes et séquences personnalisées multicanales.",
+    "descriptionEn": "B2B prospecting platform with Duo Copilot, buying signals, account research and personalized multichannel sequences.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Duo Copilot et recherche de prospects",
+      "Signaux d'achat et recherche contextualisée",
+      "Séquences multicanales avec revue humaine"
+    ],
+    "featuresEn": [
+      "Duo Copilot and prospect research",
+      "Buying signals and contextual research",
+      "Multichannel sequences with human review"
+    ],
+    "accessFr": "Web et intégrations CRM/API selon offre",
+    "accessEn": "Web and CRM/API integrations depending on plan",
+    "officialSources": [
+      {
+        "url": "https://www.amplemarket.com/duo",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      },
+      {
+        "url": "https://landing.amplemarket.com/pricing",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Outil de prospection B2B avec Duo Copilot, signaux d'achat, recherche de comptes et séquences personnalisées multicanales.",
+      "audiences": [
+        "Équipes commerciales, prospection et développement B2B",
+        "Responsables de conformité, ventes et opérations"
+      ],
+      "cases": [
+        "Identifier des entreprises présentant un signal d'achat et préparer une prise de contact contextualisée.",
+        "Contrôler les sources des données et faire valider les actions de contact ou les modifications CRM."
+      ],
+      "advantages": [
+        "Duo Copilot et recherche de prospects",
+        "Signaux d'achat et recherche contextualisée",
+        "Séquences multicanales avec revue humaine"
+      ],
+      "limits": [
+        "Les signaux peuvent être mal interprétés et les données de contact évoluer ; le vendeur précise que les commerciaux contrôlent les recommandations avant envoi.",
+        "Les suggestions générées, scores d'intérêt ou prévisions commerciales doivent être confrontés aux données réelles et revus par une personne."
+      ],
+      "gettingStarted": [
+        "Définir le public cible, l'usage autorisé des données et la mesure de succès avant de connecter le CRM.",
+        "Tester sur des contacts autorisés, configurer les désinscriptions, limiter les permissions et approuver manuellement les envois et mises à jour."
+      ],
+      "examples": [
+        "À partir de fiches de comptes autorisées, prépare une segmentation avec la provenance de chaque signal et les incertitudes.",
+        "Propose une séquence de suivi professionnelle qui respecte les refus de contact ; fais valider chaque message avant l'envoi."
+      ],
+      "pricing": "Comparer les licences utilisateurs, crédits de données, recherches, sièges, accès aux agents et coûts d'intégration sur les conditions officielles ; les tarifs peuvent être personnalisés.",
+      "privacy": "Limiter les accès aux CRM, emails, réunions et données de contact ; vérifier les bases légales, le consentement à l'enregistrement, les oppositions à la prospection et la conservation.",
+      "selection": [
+        "Choisir Amplemarket selon le besoin (prospecting), la couverture des données, les contrôles de conformité, les intégrations et les frais récurrents."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.amplemarket.com/duo",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://landing.amplemarket.com/pricing",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  }
+}
