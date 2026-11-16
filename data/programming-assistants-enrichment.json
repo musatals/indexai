@@ -1,0 +1,1601 @@
+{
+  "github-copilot": {
+    "featuresFr": [
+      "Complétion dans l'éditeur",
+      "Copilot CLI et agents",
+      "Revue de pull requests"
+    ],
+    "featuresEn": [
+      "In-editor completion",
+      "Copilot CLI and agents",
+      "Pull request review"
+    ],
+    "accessFr": "IDE, terminal, web et/ou cloud selon produit",
+    "accessEn": "IDE, terminal, web and/or cloud by product",
+    "officialSources": [
+      {
+        "url": "https://github.com/features/copilot/plans",
+        "checkedAt": "2026-11-15",
+        "scope": "features_and_pricing"
+      },
+      {
+        "url": "https://docs.github.com/en/copilot/get-started/where-to-use-github-copilot",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Assistant et agents de programmation de GitHub pour complétion, discussion, modification, revue et tâches de dépôt.",
+      "audiences": [
+        "Développeurs et équipes logicielles",
+        "Étudiants en informatique",
+        "Responsables de maintenance applicative"
+      ],
+      "cases": [
+        "Compléter du code et suggérer des modifications",
+        "Expliquer un projet ou corriger des erreurs",
+        "Générer des tests et assister des revues de code",
+        "Déléguer certaines tâches à des agents suivant le plan",
+        "Écrire des tests et faire réviser une pull request."
+      ],
+      "advantages": [
+        "Intégration à GitHub et aux éditeurs",
+        "Suggestions, chat, revue et agents selon offre",
+        "Gestion centralisée des accès dans les organisations",
+        "Complétion dans l'éditeur",
+        "Copilot CLI et agents",
+        "Revue de pull requests"
+      ],
+      "limits": [
+        "Code proposé à tester et auditer pour sécurité/licences",
+        "Crédits IA et accès aux modèles selon formule",
+        "Les agents ne remplacent pas une revue des changements",
+        "Les fonctionnalités d'agent, les politiques d'organisation et les quotas diffèrent selon l'offre."
+      ],
+      "gettingStarted": [
+        "Activer Copilot dans un dépôt de démonstration, demander un test unitaire, inspecter le diff puis exécuter tests et analyse statique."
+      ],
+      "examples": [
+        "Écris des tests de bord pour cette fonction sans modifier son API.",
+        "Explique ce bug et propose un correctif minimal avec test de non-régression."
+      ],
+      "pricing": "Copilot Free avec quotas, Pro annoncé à 10 USD/mois, Pro+ à 39 USD/mois et formules organisations; usage d’agents décompté en crédits.",
+      "privacy": "Pour les dépôts privés, lire la politique de rétention, les réglages de suggestions et les autorisations des agents.",
+      "selection": [
+        "Naturel si le développement se fait sur GitHub; Cursor convient aussi aux changements transversaux dans un éditeur.",
+        "Choisir GitHub Copilot en comparant intégrations, qualité du contexte, validation humaine, tarification et état du service."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://github.com/features/copilot/plans",
+          "type": "official",
+          "reviewedAt": "2026-11-15"
+        },
+        {
+          "url": "https://docs.github.com/en/copilot/get-started/plans",
+          "type": "official",
+          "reviewedAt": "2026-11-15"
+        },
+        {
+          "url": "https://docs.github.com/en/copilot/get-started/where-to-use-github-copilot",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "cursor": {
+    "featuresFr": [
+      "Agent de programmation multi-fichiers",
+      "Commandes terminal",
+      "Checkpoints et règles"
+    ],
+    "featuresEn": [
+      "Multi-file coding agent",
+      "Terminal commands",
+      "Checkpoints and rules"
+    ],
+    "accessFr": "IDE, terminal, web et/ou cloud selon produit",
+    "accessEn": "IDE, terminal, web and/or cloud by product",
+    "officialSources": [
+      {
+        "url": "https://docs.cursor.com/en/agent/overview",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Éditeur IA orienté agent capable d'explorer les projets, modifier plusieurs fichiers, exécuter des commandes et restaurer des checkpoints.",
+      "audiences": [
+        "Développeurs autonomes et équipes",
+        "Créateurs de prototypes",
+        "Responsables de refactorisation"
+      ],
+      "cases": [
+        "Comprendre une base de code",
+        "Modifier plusieurs fichiers à partir d’une demande",
+        "Lancer tests et corrections avec l’agent",
+        "Planifier une fonctionnalité avant exécution",
+        "Refactoriser plusieurs composants et examiner le diff."
+      ],
+      "advantages": [
+        "Agent multi-fichiers et accès au terminal",
+        "Modes Ask, Plan, Debug ou Agent selon interface",
+        "Intégration dans le flux de codage quotidien",
+        "Agent de programmation multi-fichiers",
+        "Commandes terminal",
+        "Checkpoints et règles"
+      ],
+      "limits": [
+        "Toute opération autonome peut produire des modifications inadaptées",
+        "Déploiement, exécution de scripts et secrets à contrôler",
+        "Tarification et accès aux modèles tiers très variables selon plan",
+        "Les checkpoints ne remplacent pas Git ; limiter les autorisations sur les commandes sensibles."
+      ],
+      "gettingStarted": [
+        "Ouvrir un dépôt Git avec branche de travail, demander un plan avant modification, examiner le diff et exécuter les tests."
+      ],
+      "examples": [
+        "Ajoute un filtre accessible sans modifier la structure des URL existantes.",
+        "Recherche la cause de ce test cassé et fournis une correction limitée."
+      ],
+      "pricing": "Offres Free, Plus, Premium, Super, Ultra et Teams; modèles tiers pouvant être facturés séparément au tarif API.",
+      "privacy": "Restreindre accès aux secrets et aux systèmes de production; tenir compte de l’exécution de commandes par l’agent.",
+      "selection": [
+        "Très adapté à la programmation interactive sur une base de code; comparer coût réel des modèles et besoins de contrôle.",
+        "Choisir Cursor en comparant intégrations, qualité du contexte, validation humaine, tarification et état du service."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://cursor.com/help/ai-features/agent",
+          "type": "official",
+          "reviewedAt": "2026-11-15"
+        },
+        {
+          "url": "https://cursor.com/pricing",
+          "type": "official",
+          "reviewedAt": "2026-11-15"
+        },
+        {
+          "url": "https://docs.cursor.com/en/agent/overview",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "windsurf": {
+    "descriptionFr": "Ancien nom de l'éditeur désormais présenté comme Devin Desktop, avec IDE intégré et centre de gestion d'agents locaux et cloud.",
+    "descriptionEn": "Former name of the editor now branded Devin Desktop, combining a full IDE with local and cloud agent management.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "IDE et complétion",
+      "Agent Command Center",
+      "Cascade et intégrations"
+    ],
+    "featuresEn": [
+      "IDE and completion",
+      "Agent Command Center",
+      "Cascade and integrations"
+    ],
+    "accessFr": "Produit renommé Devin Desktop",
+    "accessEn": "Product renamed Devin Desktop",
+    "officialSources": [
+      {
+        "url": "https://devin.ai/desktop",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Ancien nom de l'éditeur désormais présenté comme Devin Desktop, avec IDE intégré et centre de gestion d'agents locaux et cloud.",
+      "audiences": [
+        "Développeurs et équipes logicielles",
+        "Étudiants en programmation et mainteneurs"
+      ],
+      "cases": [
+        "Coordonner des agents et inspecter leurs modifications dans l'IDE."
+      ],
+      "advantages": [
+        "IDE et complétion",
+        "Agent Command Center",
+        "Cascade et intégrations"
+      ],
+      "limits": [
+        "Windsurf a changé de nom en Devin Desktop ; vérifier les procédures de migration, les abonnements et les intégrations."
+      ],
+      "gettingStarted": [
+        "Travailler sur une branche Git dédiée et préparer une consigne testable.",
+        "Vérifier le diff et exécuter tests, analyses statiques et contrôles de sécurité avant fusion."
+      ],
+      "examples": [
+        "Analyse cette issue puis propose un correctif minimal avec test de non-régression.",
+        "Présente le diff, les risques et les résultats de tests sans accéder aux secrets."
+      ],
+      "pricing": "Vérifier les crédits, quotas, coûts de modèles, licences d'équipe et éventuels frais d'exécution sur le site officiel.",
+      "privacy": "Protéger le code privé, les clés et les secrets ; restreindre l'accès au shell, aux dépôts et aux environnements de production.",
+      "selection": [
+        "Choisir Windsurf en comparant intégrations, qualité du contexte, validation humaine, tarification et état du service."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "renamed",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://devin.ai/desktop",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_rebranded"
+  },
+  "claude-code": {
+    "featuresFr": [
+      "Agent terminal",
+      "Manipulation contrôlée de fichiers",
+      "Intégrations IDE et outils"
+    ],
+    "featuresEn": [
+      "Terminal agent",
+      "Controlled file editing",
+      "IDE and tool integrations"
+    ],
+    "accessFr": "IDE, terminal, web et/ou cloud selon produit",
+    "accessEn": "IDE, terminal, web and/or cloud by product",
+    "officialSources": [
+      {
+        "url": "https://code.claude.com/docs/en/overview",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Agent de programmation Anthropic utilisable en terminal et dans les éditeurs pour explorer, modifier, tester et automatiser des projets.",
+      "audiences": [
+        "Développeurs expérimentés",
+        "Équipes de maintenance",
+        "Ingénieurs automatisant des tâches de code"
+      ],
+      "cases": [
+        "Explorer et expliquer un projet",
+        "Implémenter des changements documentés",
+        "Exécuter tests et refactorisation",
+        "Automatiser une tâche de maintenance avec supervision",
+        "Corriger un bogue et lancer ses tests dans une branche dédiée."
+      ],
+      "advantages": [
+        "Approche agentique du code",
+        "Intégration au travail local et à certaines formules Claude",
+        "Possibilité de raisonner sur le contexte du dépôt",
+        "Agent terminal",
+        "Manipulation contrôlée de fichiers",
+        "Intégrations IDE et outils"
+      ],
+      "limits": [
+        "Permission des outils et accès à l’environnement à encadrer",
+        "Le code doit être revu et testé",
+        "Abonnement et limites d’usage selon offres Claude",
+        "Les commandes et accès aux fichiers doivent être restreints et révisés ; la disponibilité varie selon la formule."
+      ],
+      "gettingStarted": [
+        "Travailler sur une branche dédiée, interdire toute modification de secrets et demander tests, résumé de diff et justification."
+      ],
+      "examples": [
+        "Réorganise cette classe sans changer les comportements publics.",
+        "Génère un plan de migration avec étapes réversibles et tests."
+      ],
+      "pricing": "Claude Code est inclus dans certaines offres Claude payantes; des modalités API et quotas spécifiques existent.",
+      "privacy": "Minimiser la portée des commandes et les accès de lecture/écriture pour les projets confidentiels.",
+      "selection": [
+        "Pour du codage guidé par agent; GitHub Copilot est un autre choix proche des PR et environnements GitHub.",
+        "Choisir Claude Code en comparant intégrations, qualité du contexte, validation humaine, tarification et état du service."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://claude.com/pricing",
+          "type": "official",
+          "reviewedAt": "2026-11-15"
+        },
+        {
+          "url": "https://code.claude.com/docs/en/overview",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "openai-codex": {
+    "featuresFr": [
+      "Codex CLI et application",
+      "Extension pour éditeur",
+      "Exécution de tâches de code"
+    ],
+    "featuresEn": [
+      "Codex CLI and app",
+      "Editor extension",
+      "Coding task execution"
+    ],
+    "accessFr": "IDE, terminal, web et/ou cloud selon produit",
+    "accessEn": "IDE, terminal, web and/or cloud by product",
+    "officialSources": [
+      {
+        "url": "https://developers.openai.com/learn/codex",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Agent OpenAI de développement capable de traiter des tâches logicielles dans des environnements locaux ou cloud et de produire des changements vérifiables.",
+      "audiences": [
+        "Développeurs et équipes produit",
+        "Créateurs d’applications",
+        "Mainteneurs de dépôts"
+      ],
+      "cases": [
+        "Implémenter une fonction décrite en langage naturel",
+        "Proposer des correctifs avec tests",
+        "Lire et expliquer des modules",
+        "Automatiser des tâches de développement sous contrôle",
+        "Implémenter une fonctionnalité avec tests et résumé des changements."
+      ],
+      "advantages": [
+        "Agent adapté à des projets avec fichiers et commandes",
+        "Flux de développement, tests et revue de code",
+        "Fonctionnalités disponibles dans divers environnements Codex",
+        "Codex CLI et application",
+        "Extension pour éditeur",
+        "Exécution de tâches de code"
+      ],
+      "limits": [
+        "Résultats nécessitant vérification et tests",
+        "Le périmètre des actions et secrets doit être limité",
+        "Accès, quotas et modes d’exécution variables",
+        "Les changements nécessitent une revue, une exécution de tests et une validation des accès avant livraison."
+      ],
+      "gettingStarted": [
+        "Fournir un dépôt de test, un résultat attendu mesurable et demander un diff, une batterie de tests et un inventaire des incertitudes."
+      ],
+      "examples": [
+        "Écris une page responsive respectant cette charte et teste les liens.",
+        "Corrige cette erreur de déploiement sans modifier les variables secrètes."
+      ],
+      "pricing": "Accès et tarifs liés à la formule ChatGPT ou à l’API employée; contrôler les conditions de Codex en vigueur.",
+      "privacy": "Éviter les clés et données privées dans les prompts; examiner les permissions de travail et validations avant déploiement.",
+      "selection": [
+        "Adapté à l’implémentation de tâches de code bout en bout, avec approbation humaine obligatoire pour publier.",
+        "Choisir OpenAI Codex en comparant intégrations, qualité du contexte, validation humaine, tarification et état du service."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://developers.openai.com/learn/codex",
+          "type": "official",
+          "reviewedAt": "2026-11-15"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "gemini-code-assist": {
+    "descriptionFr": "Assistant Google pour IDE avec complétion, discussion sur le code et mode agent intégrant des outils et MCP.",
+    "descriptionEn": "Google coding assistant for IDEs with completion, code chat and tool-using agent mode with MCP.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Chat et génération de code",
+      "Mode agent avec outils",
+      "Connexion MCP"
+    ],
+    "featuresEn": [
+      "Code chat and generation",
+      "Tool-using agent mode",
+      "MCP integration"
+    ],
+    "accessFr": "IDE, terminal, web et/ou cloud selon produit",
+    "accessEn": "IDE, terminal, web and/or cloud by product",
+    "officialSources": [
+      {
+        "url": "https://docs.cloud.google.com/gemini/docs/codeassist/agent-mode",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Assistant Google pour IDE avec complétion, discussion sur le code et mode agent intégrant des outils et MCP.",
+      "audiences": [
+        "Développeurs et équipes logicielles",
+        "Étudiants en programmation et mainteneurs"
+      ],
+      "cases": [
+        "Produire un correctif dans VS Code après validation du plan."
+      ],
+      "advantages": [
+        "Chat et génération de code",
+        "Mode agent avec outils",
+        "Connexion MCP"
+      ],
+      "limits": [
+        "Le mode agent est décrit comme Preview et demande des permissions pour les opérations d'écriture."
+      ],
+      "gettingStarted": [
+        "Travailler sur une branche Git dédiée et préparer une consigne testable.",
+        "Vérifier le diff et exécuter tests, analyses statiques et contrôles de sécurité avant fusion."
+      ],
+      "examples": [
+        "Analyse cette issue puis propose un correctif minimal avec test de non-régression.",
+        "Présente le diff, les risques et les résultats de tests sans accéder aux secrets."
+      ],
+      "pricing": "Vérifier les crédits, quotas, coûts de modèles, licences d'équipe et éventuels frais d'exécution sur le site officiel.",
+      "privacy": "Protéger le code privé, les clés et les secrets ; restreindre l'accès au shell, aux dépôts et aux environnements de production.",
+      "selection": [
+        "Choisir Gemini Code Assist en comparant intégrations, qualité du contexte, validation humaine, tarification et état du service."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.cloud.google.com/gemini/docs/codeassist/agent-mode",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "amazon-q-developer": {
+    "descriptionFr": "Assistant de développement AWS intégré aux IDE pour écrire, comprendre et moderniser du code, notamment des projets Java.",
+    "descriptionEn": "AWS coding assistant in IDEs for writing, understanding and modernizing code, including Java projects.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Suggestions et chat dans l'IDE",
+      "Transformation de code Java",
+      "Outils agentiques et MCP"
+    ],
+    "featuresEn": [
+      "IDE suggestions and chat",
+      "Java code transformation",
+      "Agent tools and MCP"
+    ],
+    "accessFr": "IDE, terminal, web et/ou cloud selon produit",
+    "accessEn": "IDE, terminal, web and/or cloud by product",
+    "officialSources": [
+      {
+        "url": "https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/q-in-IDE.html",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Assistant de développement AWS intégré aux IDE pour écrire, comprendre et moderniser du code, notamment des projets Java.",
+      "audiences": [
+        "Développeurs et équipes logicielles",
+        "Étudiants en programmation et mainteneurs"
+      ],
+      "cases": [
+        "Préparer une migration Java et comparer les changements proposés."
+      ],
+      "advantages": [
+        "Suggestions et chat dans l'IDE",
+        "Transformation de code Java",
+        "Outils agentiques et MCP"
+      ],
+      "limits": [
+        "AWS annonce la fin du support des extensions IDE Amazon Q Developer au 30 avril 2027 ; évaluer la migration vers Kiro."
+      ],
+      "gettingStarted": [
+        "Travailler sur une branche Git dédiée et préparer une consigne testable.",
+        "Vérifier le diff et exécuter tests, analyses statiques et contrôles de sécurité avant fusion."
+      ],
+      "examples": [
+        "Analyse cette issue puis propose un correctif minimal avec test de non-régression.",
+        "Présente le diff, les risques et les résultats de tests sans accéder aux secrets."
+      ],
+      "pricing": "Vérifier les crédits, quotas, coûts de modèles, licences d'équipe et éventuels frais d'exécution sur le site officiel.",
+      "privacy": "Protéger le code privé, les clés et les secrets ; restreindre l'accès au shell, aux dépôts et aux environnements de production.",
+      "selection": [
+        "Choisir Amazon Q Developer en comparant intégrations, qualité du contexte, validation humaine, tarification et état du service."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/q-in-IDE.html",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "tabnine": {
+    "descriptionFr": "Plateforme d'assistance au développement centrée sur la confidentialité et le contexte d'entreprise, acquise par Tricentis.",
+    "descriptionEn": "Privacy-oriented enterprise coding assistant and context platform, acquired by Tricentis.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Complétion et discussion",
+      "Contexte d'entreprise",
+      "Options de confidentialité"
+    ],
+    "featuresEn": [
+      "Code completion and chat",
+      "Enterprise context",
+      "Privacy controls"
+    ],
+    "accessFr": "IDE, terminal, web et/ou cloud selon produit",
+    "accessEn": "IDE, terminal, web and/or cloud by product",
+    "officialSources": [
+      {
+        "url": "https://www.tabnine.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme d'assistance au développement centrée sur la confidentialité et le contexte d'entreprise, acquise par Tricentis.",
+      "audiences": [
+        "Développeurs et équipes logicielles",
+        "Étudiants en programmation et mainteneurs"
+      ],
+      "cases": [
+        "Implémenter des corrections dans un environnement d'équipe contrôlé."
+      ],
+      "advantages": [
+        "Complétion et discussion",
+        "Contexte d'entreprise",
+        "Options de confidentialité"
+      ],
+      "limits": [
+        "Vérifier les configurations de rétention, les modèles utilisés et les garanties contractuelles ; acquisition annoncée par Tricentis."
+      ],
+      "gettingStarted": [
+        "Travailler sur une branche Git dédiée et préparer une consigne testable.",
+        "Vérifier le diff et exécuter tests, analyses statiques et contrôles de sécurité avant fusion."
+      ],
+      "examples": [
+        "Analyse cette issue puis propose un correctif minimal avec test de non-régression.",
+        "Présente le diff, les risques et les résultats de tests sans accéder aux secrets."
+      ],
+      "pricing": "Vérifier les crédits, quotas, coûts de modèles, licences d'équipe et éventuels frais d'exécution sur le site officiel.",
+      "privacy": "Protéger le code privé, les clés et les secrets ; restreindre l'accès au shell, aux dépôts et aux environnements de production.",
+      "selection": [
+        "Choisir Tabnine en comparant intégrations, qualité du contexte, validation humaine, tarification et état du service."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.tabnine.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "sourcegraph-cody": {
+    "descriptionFr": "Assistant de compréhension du code de Sourcegraph dont la fin de vie est annoncée pour le 31 janvier 2027.",
+    "descriptionEn": "Sourcegraph code-understanding assistant with an announced end-of-life date of January 31, 2027.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Chat contextualisé au dépôt",
+      "Recherche de code historique",
+      "Transition vers Deep Search et MCP"
+    ],
+    "featuresEn": [
+      "Repository-aware chat",
+      "Historical code search",
+      "Transition to Deep Search and MCP"
+    ],
+    "accessFr": "IDE, terminal, web et/ou cloud selon produit",
+    "accessEn": "IDE, terminal, web and/or cloud by product",
+    "officialSources": [
+      {
+        "url": "https://sourcegraph.com/blog/sunsetting-cody-future-of-code-intelligence",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Assistant de compréhension du code de Sourcegraph dont la fin de vie est annoncée pour le 31 janvier 2027.",
+      "audiences": [
+        "Développeurs et équipes logicielles",
+        "Étudiants en programmation et mainteneurs"
+      ],
+      "cases": [
+        "Documenter une ancienne intégration Cody et préparer une migration."
+      ],
+      "advantages": [
+        "Chat contextualisé au dépôt",
+        "Recherche de code historique",
+        "Transition vers Deep Search et MCP"
+      ],
+      "limits": [
+        "Sourcegraph a annoncé la fin de vie de Cody le 31 janvier 2027 ; ne pas recommander pour un nouveau déploiement durable."
+      ],
+      "gettingStarted": [
+        "Travailler sur une branche Git dédiée et préparer une consigne testable.",
+        "Vérifier le diff et exécuter tests, analyses statiques et contrôles de sécurité avant fusion."
+      ],
+      "examples": [
+        "Analyse cette issue puis propose un correctif minimal avec test de non-régression.",
+        "Présente le diff, les risques et les résultats de tests sans accéder aux secrets."
+      ],
+      "pricing": "Vérifier les crédits, quotas, coûts de modèles, licences d'équipe et éventuels frais d'exécution sur le site officiel.",
+      "privacy": "Protéger le code privé, les clés et les secrets ; restreindre l'accès au shell, aux dépôts et aux environnements de production.",
+      "selection": [
+        "Choisir Sourcegraph Cody en comparant intégrations, qualité du contexte, validation humaine, tarification et état du service."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "end_of_life_scheduled",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://sourcegraph.com/blog/sunsetting-cody-future-of-code-intelligence",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_end_of_life"
+  },
+  "continue": {
+    "descriptionFr": "Assistant de développement personnalisable avec modes Chat, Plan et Agent, intégrable aux éditeurs et à divers modèles.",
+    "descriptionEn": "Customizable coding assistant with Chat, Plan and Agent modes across editors and model providers.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Modes Chat / Plan / Agent",
+      "Choix des modèles",
+      "Outils de modification de code"
+    ],
+    "featuresEn": [
+      "Chat / Plan / Agent modes",
+      "Model selection",
+      "Code-editing tools"
+    ],
+    "accessFr": "IDE, terminal, web et/ou cloud selon produit",
+    "accessEn": "IDE, terminal, web and/or cloud by product",
+    "officialSources": [
+      {
+        "url": "https://docs.continue.dev/ide-extensions/agent/quick-start",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Assistant de développement personnalisable avec modes Chat, Plan et Agent, intégrable aux éditeurs et à divers modèles.",
+      "audiences": [
+        "Développeurs et équipes logicielles",
+        "Étudiants en programmation et mainteneurs"
+      ],
+      "cases": [
+        "Ajouter des tests à un module avec modèle choisi par l'équipe."
+      ],
+      "advantages": [
+        "Modes Chat / Plan / Agent",
+        "Choix des modèles",
+        "Outils de modification de code"
+      ],
+      "limits": [
+        "Le mode Agent exige un modèle compatible avec l'usage d'outils ; les coûts et la confidentialité dépendent du fournisseur."
+      ],
+      "gettingStarted": [
+        "Travailler sur une branche Git dédiée et préparer une consigne testable.",
+        "Vérifier le diff et exécuter tests, analyses statiques et contrôles de sécurité avant fusion."
+      ],
+      "examples": [
+        "Analyse cette issue puis propose un correctif minimal avec test de non-régression.",
+        "Présente le diff, les risques et les résultats de tests sans accéder aux secrets."
+      ],
+      "pricing": "Vérifier les crédits, quotas, coûts de modèles, licences d'équipe et éventuels frais d'exécution sur le site officiel.",
+      "privacy": "Protéger le code privé, les clés et les secrets ; restreindre l'accès au shell, aux dépôts et aux environnements de production.",
+      "selection": [
+        "Choisir Continue en comparant intégrations, qualité du contexte, validation humaine, tarification et état du service."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.continue.dev/ide-extensions/agent/quick-start",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "aider": {
+    "descriptionFr": "Assistant open source en ligne de commande lié à Git, capable d'éditer des fichiers et d'enregistrer les modifications en commits.",
+    "descriptionEn": "Open-source terminal coding assistant tightly integrated with Git for edits and commits.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Édition en terminal",
+      "Carte de dépôt",
+      "Commits et annulation via Git"
+    ],
+    "featuresEn": [
+      "Terminal-based editing",
+      "Repository map",
+      "Git commits and undo"
+    ],
+    "accessFr": "IDE, terminal, web et/ou cloud selon produit",
+    "accessEn": "IDE, terminal, web and/or cloud by product",
+    "officialSources": [
+      {
+        "url": "https://aider.chat/docs/git.html",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Assistant open source en ligne de commande lié à Git, capable d'éditer des fichiers et d'enregistrer les modifications en commits.",
+      "audiences": [
+        "Développeurs et équipes logicielles",
+        "Étudiants en programmation et mainteneurs"
+      ],
+      "cases": [
+        "Modifier une fonction depuis le terminal et inspecter le commit."
+      ],
+      "advantages": [
+        "Édition en terminal",
+        "Carte de dépôt",
+        "Commits et annulation via Git"
+      ],
+      "limits": [
+        "Les commits générés automatiquement peuvent nécessiter une relecture ; attention aux modifications de fichiers déjà sales."
+      ],
+      "gettingStarted": [
+        "Travailler sur une branche Git dédiée et préparer une consigne testable.",
+        "Vérifier le diff et exécuter tests, analyses statiques et contrôles de sécurité avant fusion."
+      ],
+      "examples": [
+        "Analyse cette issue puis propose un correctif minimal avec test de non-régression.",
+        "Présente le diff, les risques et les résultats de tests sans accéder aux secrets."
+      ],
+      "pricing": "Vérifier les crédits, quotas, coûts de modèles, licences d'équipe et éventuels frais d'exécution sur le site officiel.",
+      "privacy": "Protéger le code privé, les clés et les secrets ; restreindre l'accès au shell, aux dépôts et aux environnements de production.",
+      "selection": [
+        "Choisir Aider en comparant intégrations, qualité du contexte, validation humaine, tarification et état du service."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://aider.chat/docs/git.html",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "cline": {
+    "descriptionFr": "Agent de développement open source proposant édition de fichiers, outils de terminal et contrôle des autorisations.",
+    "descriptionEn": "Open-source coding agent with file editing, shell tools and approval controls.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Agent dans IDE et outils",
+      "Approbation des commandes",
+      "Intégrations et modèles configurables"
+    ],
+    "featuresEn": [
+      "IDE agent and tools",
+      "Command approvals",
+      "Configurable providers and models"
+    ],
+    "accessFr": "IDE, terminal, web et/ou cloud selon produit",
+    "accessEn": "IDE, terminal, web and/or cloud by product",
+    "officialSources": [
+      {
+        "url": "https://docs.cline.bot/cline-sdk/sessions",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Agent de développement open source proposant édition de fichiers, outils de terminal et contrôle des autorisations.",
+      "audiences": [
+        "Développeurs et équipes logicielles",
+        "Étudiants en programmation et mainteneurs"
+      ],
+      "cases": [
+        "Mettre à jour un module après validation de chaque commande."
+      ],
+      "advantages": [
+        "Agent dans IDE et outils",
+        "Approbation des commandes",
+        "Intégrations et modèles configurables"
+      ],
+      "limits": [
+        "Les outils peuvent accéder au shell et à des données locales ; configurer approbations, isolation et secrets."
+      ],
+      "gettingStarted": [
+        "Travailler sur une branche Git dédiée et préparer une consigne testable.",
+        "Vérifier le diff et exécuter tests, analyses statiques et contrôles de sécurité avant fusion."
+      ],
+      "examples": [
+        "Analyse cette issue puis propose un correctif minimal avec test de non-régression.",
+        "Présente le diff, les risques et les résultats de tests sans accéder aux secrets."
+      ],
+      "pricing": "Vérifier les crédits, quotas, coûts de modèles, licences d'équipe et éventuels frais d'exécution sur le site officiel.",
+      "privacy": "Protéger le code privé, les clés et les secrets ; restreindre l'accès au shell, aux dépôts et aux environnements de production.",
+      "selection": [
+        "Choisir Cline en comparant intégrations, qualité du contexte, validation humaine, tarification et état du service."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.cline.bot/cline-sdk/sessions",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "roo-code": {
+    "descriptionFr": "Ancien agent open source d'édition de code ; l'éditeur a fermé ses produits officiels le 15 mai 2026.",
+    "descriptionEn": "Former open-source code-editing agent; its vendor shut down official products on May 15, 2026.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Édition de code historique",
+      "Modes de travail spécialisés",
+      "Extension officielle arrêtée"
+    ],
+    "featuresEn": [
+      "Historical code editing",
+      "Specialized work modes",
+      "Official extension discontinued"
+    ],
+    "accessFr": "Service officiel arrêté",
+    "accessEn": "Official service discontinued",
+    "officialSources": [
+      {
+        "url": "https://github.com/RooCodeInc/Roo-Code-Docs/blob/main/docs/sunset.md",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Ancien agent open source d'édition de code ; l'éditeur a fermé ses produits officiels le 15 mai 2026.",
+      "audiences": [
+        "Développeurs et équipes logicielles",
+        "Étudiants en programmation et mainteneurs"
+      ],
+      "cases": [
+        "Consulter l'historique puis évaluer Cline ou un fork maintenu."
+      ],
+      "advantages": [
+        "Édition de code historique",
+        "Modes de travail spécialisés",
+        "Extension officielle arrêtée"
+      ],
+      "limits": [
+        "Fermeture officielle de l'extension, du cloud et du routeur le 15 mai 2026 ; ne pas présenter comme service actif."
+      ],
+      "gettingStarted": [
+        "Travailler sur une branche Git dédiée et préparer une consigne testable.",
+        "Vérifier le diff et exécuter tests, analyses statiques et contrôles de sécurité avant fusion."
+      ],
+      "examples": [
+        "Analyse cette issue puis propose un correctif minimal avec test de non-régression.",
+        "Présente le diff, les risques et les résultats de tests sans accéder aux secrets."
+      ],
+      "pricing": "Vérifier les crédits, quotas, coûts de modèles, licences d'équipe et éventuels frais d'exécution sur le site officiel.",
+      "privacy": "Protéger le code privé, les clés et les secrets ; restreindre l'accès au shell, aux dépôts et aux environnements de production.",
+      "selection": [
+        "Choisir Roo Code en comparant intégrations, qualité du contexte, validation humaine, tarification et état du service."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "discontinued",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://github.com/RooCodeInc/Roo-Code-Docs/blob/main/docs/sunset.md",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_discontinued"
+  },
+  "openhands": {
+    "descriptionFr": "Plateforme ouverte pour exécuter, superviser et étendre des agents de développement via interface, SDK et cloud.",
+    "descriptionEn": "Open platform to run, supervise and extend software agents using a UI, SDK and cloud services.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Agent Canvas",
+      "SDK et serveur d'agents",
+      "Cloud et auto-hébergement"
+    ],
+    "featuresEn": [
+      "Agent Canvas",
+      "Agent SDK and server",
+      "Cloud and self-hosting"
+    ],
+    "accessFr": "IDE, terminal, web et/ou cloud selon produit",
+    "accessEn": "IDE, terminal, web and/or cloud by product",
+    "officialSources": [
+      {
+        "url": "https://docs.openhands.dev/overview/introduction",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme ouverte pour exécuter, superviser et étendre des agents de développement via interface, SDK et cloud.",
+      "audiences": [
+        "Développeurs et équipes logicielles",
+        "Étudiants en programmation et mainteneurs"
+      ],
+      "cases": [
+        "Automatiser le traitement d'une issue de dépôt dans un environnement isolé."
+      ],
+      "advantages": [
+        "Agent Canvas",
+        "SDK et serveur d'agents",
+        "Cloud et auto-hébergement"
+      ],
+      "limits": [
+        "L'exécution de code nécessite une isolation adaptée ; surveiller les frais des modèles et les autorisations."
+      ],
+      "gettingStarted": [
+        "Travailler sur une branche Git dédiée et préparer une consigne testable.",
+        "Vérifier le diff et exécuter tests, analyses statiques et contrôles de sécurité avant fusion."
+      ],
+      "examples": [
+        "Analyse cette issue puis propose un correctif minimal avec test de non-régression.",
+        "Présente le diff, les risques et les résultats de tests sans accéder aux secrets."
+      ],
+      "pricing": "Vérifier les crédits, quotas, coûts de modèles, licences d'équipe et éventuels frais d'exécution sur le site officiel.",
+      "privacy": "Protéger le code privé, les clés et les secrets ; restreindre l'accès au shell, aux dépôts et aux environnements de production.",
+      "selection": [
+        "Choisir OpenHands en comparant intégrations, qualité du contexte, validation humaine, tarification et état du service."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.openhands.dev/overview/introduction",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "devin": {
+    "descriptionFr": "Plateforme d'agents logiciels pour traiter des tâches de développement, ouvrir des pull requests et orchestrer les travaux.",
+    "descriptionEn": "Software agent platform for completing coding tasks, opening pull requests and coordinating work.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Agent de développement",
+      "Sessions liées aux dépôts",
+      "Revue et suivi du travail"
+    ],
+    "featuresEn": [
+      "Coding agent",
+      "Repository-connected sessions",
+      "Review and task tracking"
+    ],
+    "accessFr": "IDE, terminal, web et/ou cloud selon produit",
+    "accessEn": "IDE, terminal, web and/or cloud by product",
+    "officialSources": [
+      {
+        "url": "https://docs.devin.ai/get-started/devin-intro",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme d'agents logiciels pour traiter des tâches de développement, ouvrir des pull requests et orchestrer les travaux.",
+      "audiences": [
+        "Développeurs et équipes logicielles",
+        "Étudiants en programmation et mainteneurs"
+      ],
+      "cases": [
+        "Déléguer une correction suivie d'une pull request vérifiée."
+      ],
+      "advantages": [
+        "Agent de développement",
+        "Sessions liées aux dépôts",
+        "Revue et suivi du travail"
+      ],
+      "limits": [
+        "Surveiller les coûts et autorisations ; distinguer Devin (plateforme d'agents) et Devin Desktop (éditeur anciennement Windsurf)."
+      ],
+      "gettingStarted": [
+        "Travailler sur une branche Git dédiée et préparer une consigne testable.",
+        "Vérifier le diff et exécuter tests, analyses statiques et contrôles de sécurité avant fusion."
+      ],
+      "examples": [
+        "Analyse cette issue puis propose un correctif minimal avec test de non-régression.",
+        "Présente le diff, les risques et les résultats de tests sans accéder aux secrets."
+      ],
+      "pricing": "Vérifier les crédits, quotas, coûts de modèles, licences d'équipe et éventuels frais d'exécution sur le site officiel.",
+      "privacy": "Protéger le code privé, les clés et les secrets ; restreindre l'accès au shell, aux dépôts et aux environnements de production.",
+      "selection": [
+        "Choisir Devin en comparant intégrations, qualité du contexte, validation humaine, tarification et état du service."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.devin.ai/get-started/devin-intro",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "codeium": {
+    "descriptionFr": "Ancien nom de marque associé aux extensions de complétion, dont le site redirige désormais vers Devin Desktop.",
+    "descriptionEn": "Legacy brand associated with completion extensions; its website now redirects to Devin Desktop.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Complétion de code historique",
+      "Changement de marque vers Windsurf",
+      "Redirection vers Devin Desktop"
+    ],
+    "featuresEn": [
+      "Historical code completion",
+      "Rebrand to Windsurf",
+      "Redirect to Devin Desktop"
+    ],
+    "accessFr": "Ancienne marque : redirection vers Devin Desktop",
+    "accessEn": "Legacy brand: redirected to Devin Desktop",
+    "officialSources": [
+      {
+        "url": "https://codeium.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Ancien nom de marque associé aux extensions de complétion, dont le site redirige désormais vers Devin Desktop.",
+      "audiences": [
+        "Développeurs et équipes logicielles",
+        "Étudiants en programmation et mainteneurs"
+      ],
+      "cases": [
+        "Comprendre l'ancienne extension Codeium et passer à une solution actuelle."
+      ],
+      "advantages": [
+        "Complétion de code historique",
+        "Changement de marque vers Windsurf",
+        "Redirection vers Devin Desktop"
+      ],
+      "limits": [
+        "Codeium n'est plus à présenter comme produit autonome distinct ; vérifier la migration des extensions et comptes."
+      ],
+      "gettingStarted": [
+        "Travailler sur une branche Git dédiée et préparer une consigne testable.",
+        "Vérifier le diff et exécuter tests, analyses statiques et contrôles de sécurité avant fusion."
+      ],
+      "examples": [
+        "Analyse cette issue puis propose un correctif minimal avec test de non-régression.",
+        "Présente le diff, les risques et les résultats de tests sans accéder aux secrets."
+      ],
+      "pricing": "Vérifier les crédits, quotas, coûts de modèles, licences d'équipe et éventuels frais d'exécution sur le site officiel.",
+      "privacy": "Protéger le code privé, les clés et les secrets ; restreindre l'accès au shell, aux dépôts et aux environnements de production.",
+      "selection": [
+        "Choisir Codeium en comparant intégrations, qualité du contexte, validation humaine, tarification et état du service."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "legacy_brand",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://codeium.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_rebranded"
+  },
+  "qodo": {
+    "descriptionFr": "Plateforme orientée qualité et revue de code IA avec vérifications de pull requests et règles de conformité.",
+    "descriptionEn": "AI code quality and review platform for pull requests and compliance rules.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Revue multi-agent",
+      "Contrôles de conformité",
+      "Analyse inter-dépôts"
+    ],
+    "featuresEn": [
+      "Multi-agent review",
+      "Compliance checks",
+      "Cross-repository analysis"
+    ],
+    "accessFr": "IDE, terminal, web et/ou cloud selon produit",
+    "accessEn": "IDE, terminal, web and/or cloud by product",
+    "officialSources": [
+      {
+        "url": "https://www.qodo.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme orientée qualité et revue de code IA avec vérifications de pull requests et règles de conformité.",
+      "audiences": [
+        "Développeurs et équipes logicielles",
+        "Étudiants en programmation et mainteneurs"
+      ],
+      "cases": [
+        "Analyser une PR selon les conventions d'une équipe."
+      ],
+      "advantages": [
+        "Revue multi-agent",
+        "Contrôles de conformité",
+        "Analyse inter-dépôts"
+      ],
+      "limits": [
+        "Les alertes IA ne remplacent ni les tests, ni une revue indépendante, ni un audit de sécurité."
+      ],
+      "gettingStarted": [
+        "Travailler sur une branche Git dédiée et préparer une consigne testable.",
+        "Vérifier le diff et exécuter tests, analyses statiques et contrôles de sécurité avant fusion."
+      ],
+      "examples": [
+        "Analyse cette issue puis propose un correctif minimal avec test de non-régression.",
+        "Présente le diff, les risques et les résultats de tests sans accéder aux secrets."
+      ],
+      "pricing": "Vérifier les crédits, quotas, coûts de modèles, licences d'équipe et éventuels frais d'exécution sur le site officiel.",
+      "privacy": "Protéger le code privé, les clés et les secrets ; restreindre l'accès au shell, aux dépôts et aux environnements de production.",
+      "selection": [
+        "Choisir Qodo en comparant intégrations, qualité du contexte, validation humaine, tarification et état du service."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.qodo.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "coderabbit": {
+    "descriptionFr": "Assistant de revue de code IA proposant commentaires automatiques de pull requests et aide à la priorisation.",
+    "descriptionEn": "AI code review assistant providing automated pull-request comments and review prioritization.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Revue automatique des PR",
+      "Suggestions contextualisées",
+      "Priorisation de correctifs"
+    ],
+    "featuresEn": [
+      "Automatic PR review",
+      "Context-aware suggestions",
+      "Fix prioritization"
+    ],
+    "accessFr": "IDE, terminal, web et/ou cloud selon produit",
+    "accessEn": "IDE, terminal, web and/or cloud by product",
+    "officialSources": [
+      {
+        "url": "https://www.coderabbit.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Assistant de revue de code IA proposant commentaires automatiques de pull requests et aide à la priorisation.",
+      "audiences": [
+        "Développeurs et équipes logicielles",
+        "Étudiants en programmation et mainteneurs"
+      ],
+      "cases": [
+        "Signaler des risques de régression dans une PR avant fusion."
+      ],
+      "advantages": [
+        "Revue automatique des PR",
+        "Suggestions contextualisées",
+        "Priorisation de correctifs"
+      ],
+      "limits": [
+        "Risque de faux positifs ou de problèmes non détectés ; la validation humaine reste indispensable."
+      ],
+      "gettingStarted": [
+        "Travailler sur une branche Git dédiée et préparer une consigne testable.",
+        "Vérifier le diff et exécuter tests, analyses statiques et contrôles de sécurité avant fusion."
+      ],
+      "examples": [
+        "Analyse cette issue puis propose un correctif minimal avec test de non-régression.",
+        "Présente le diff, les risques et les résultats de tests sans accéder aux secrets."
+      ],
+      "pricing": "Vérifier les crédits, quotas, coûts de modèles, licences d'équipe et éventuels frais d'exécution sur le site officiel.",
+      "privacy": "Protéger le code privé, les clés et les secrets ; restreindre l'accès au shell, aux dépôts et aux environnements de production.",
+      "selection": [
+        "Choisir CodeRabbit en comparant intégrations, qualité du contexte, validation humaine, tarification et état du service."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.coderabbit.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "greptile": {
+    "descriptionFr": "Service d'analyse des pull requests qui indexe le graphe de code et détecte des problèmes au-delà du diff.",
+    "descriptionEn": "Pull request reviewer that indexes codebase structure and looks for issues beyond the diff.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Index du graphe du dépôt",
+      "Revue multi-agent des PR",
+      "Contexte de code personnalisé"
+    ],
+    "featuresEn": [
+      "Codebase graph indexing",
+      "Multi-agent PR review",
+      "Custom codebase context"
+    ],
+    "accessFr": "IDE, terminal, web et/ou cloud selon produit",
+    "accessEn": "IDE, terminal, web and/or cloud by product",
+    "officialSources": [
+      {
+        "url": "https://www.greptile.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Service d'analyse des pull requests qui indexe le graphe de code et détecte des problèmes au-delà du diff.",
+      "audiences": [
+        "Développeurs et équipes logicielles",
+        "Étudiants en programmation et mainteneurs"
+      ],
+      "cases": [
+        "Identifier les impacts d'une modification transversale dans plusieurs modules."
+      ],
+      "advantages": [
+        "Index du graphe du dépôt",
+        "Revue multi-agent des PR",
+        "Contexte de code personnalisé"
+      ],
+      "limits": [
+        "Les affirmations de performance commerciales ne sont pas des mesures indépendantes ; contrôler chaque signalement."
+      ],
+      "gettingStarted": [
+        "Travailler sur une branche Git dédiée et préparer une consigne testable.",
+        "Vérifier le diff et exécuter tests, analyses statiques et contrôles de sécurité avant fusion."
+      ],
+      "examples": [
+        "Analyse cette issue puis propose un correctif minimal avec test de non-régression.",
+        "Présente le diff, les risques et les résultats de tests sans accéder aux secrets."
+      ],
+      "pricing": "Vérifier les crédits, quotas, coûts de modèles, licences d'équipe et éventuels frais d'exécution sur le site officiel.",
+      "privacy": "Protéger le code privé, les clés et les secrets ; restreindre l'accès au shell, aux dépôts et aux environnements de production.",
+      "selection": [
+        "Choisir Greptile en comparant intégrations, qualité du contexte, validation humaine, tarification et état du service."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.greptile.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "jetbrains-ai": {
+    "descriptionFr": "Suite IA intégrée aux IDE JetBrains : complétion, chat et agents de programmation tels que Junie.",
+    "descriptionEn": "AI suite in JetBrains IDEs offering completion, chat and coding agents such as Junie.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "AI Assistant et chat contextuel",
+      "Junie pour tâches multi-étapes",
+      "Outils MCP et agents tiers"
+    ],
+    "featuresEn": [
+      "AI Assistant and contextual chat",
+      "Junie for multi-step work",
+      "MCP tools and third-party agents"
+    ],
+    "accessFr": "IDE, terminal, web et/ou cloud selon produit",
+    "accessEn": "IDE, terminal, web and/or cloud by product",
+    "officialSources": [
+      {
+        "url": "https://www.jetbrains.com/help/ai-assistant/about-ai-assistant.html",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Suite IA intégrée aux IDE JetBrains : complétion, chat et agents de programmation tels que Junie.",
+      "audiences": [
+        "Développeurs et équipes logicielles",
+        "Étudiants en programmation et mainteneurs"
+      ],
+      "cases": [
+        "Planifier un refactoring et exécuter ses tests dans IntelliJ IDEA."
+      ],
+      "advantages": [
+        "AI Assistant et chat contextuel",
+        "Junie pour tâches multi-étapes",
+        "Outils MCP et agents tiers"
+      ],
+      "limits": [
+        "Le mode agent peut exécuter des commandes sensibles ; contrôler permissions, quotas et modèles autorisés."
+      ],
+      "gettingStarted": [
+        "Travailler sur une branche Git dédiée et préparer une consigne testable.",
+        "Vérifier le diff et exécuter tests, analyses statiques et contrôles de sécurité avant fusion."
+      ],
+      "examples": [
+        "Analyse cette issue puis propose un correctif minimal avec test de non-régression.",
+        "Présente le diff, les risques et les résultats de tests sans accéder aux secrets."
+      ],
+      "pricing": "Vérifier les crédits, quotas, coûts de modèles, licences d'équipe et éventuels frais d'exécution sur le site officiel.",
+      "privacy": "Protéger le code privé, les clés et les secrets ; restreindre l'accès au shell, aux dépôts et aux environnements de production.",
+      "selection": [
+        "Choisir JetBrains AI en comparant intégrations, qualité du contexte, validation humaine, tarification et état du service."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.jetbrains.com/help/ai-assistant/about-ai-assistant.html",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "augment-code": {
+    "descriptionFr": "Plateforme de développement IA privilégiant compréhension du code, agents et automatisations de cycle de vie logiciel.",
+    "descriptionEn": "AI development platform focused on codebase understanding, coding agents and software lifecycle automation.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Contexte de dépôt",
+      "Auggie CLI",
+      "Cosmos et automatisations"
+    ],
+    "featuresEn": [
+      "Repository context",
+      "Auggie CLI",
+      "Cosmos automations"
+    ],
+    "accessFr": "IDE, terminal, web et/ou cloud selon produit",
+    "accessEn": "IDE, terminal, web and/or cloud by product",
+    "officialSources": [
+      {
+        "url": "https://docs.augmentcode.com/introduction",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de développement IA privilégiant compréhension du code, agents et automatisations de cycle de vie logiciel.",
+      "audiences": [
+        "Développeurs et équipes logicielles",
+        "Étudiants en programmation et mainteneurs"
+      ],
+      "cases": [
+        "Explorer une grande base de code et orchestrer une correction contrôlée."
+      ],
+      "advantages": [
+        "Contexte de dépôt",
+        "Auggie CLI",
+        "Cosmos et automatisations"
+      ],
+      "limits": [
+        "Comparer les capacités selon l'éditeur, le forfait et la protection des données de l'organisation."
+      ],
+      "gettingStarted": [
+        "Travailler sur une branche Git dédiée et préparer une consigne testable.",
+        "Vérifier le diff et exécuter tests, analyses statiques et contrôles de sécurité avant fusion."
+      ],
+      "examples": [
+        "Analyse cette issue puis propose un correctif minimal avec test de non-régression.",
+        "Présente le diff, les risques et les résultats de tests sans accéder aux secrets."
+      ],
+      "pricing": "Vérifier les crédits, quotas, coûts de modèles, licences d'équipe et éventuels frais d'exécution sur le site officiel.",
+      "privacy": "Protéger le code privé, les clés et les secrets ; restreindre l'accès au shell, aux dépôts et aux environnements de production.",
+      "selection": [
+        "Choisir Augment Code en comparant intégrations, qualité du contexte, validation humaine, tarification et état du service."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.augmentcode.com/introduction",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "swe-agent": {
+    "descriptionFr": "Projet de recherche open source utilisant des modèles pour résoudre des issues GitHub ; l'équipe recommande désormais mini-SWE-agent.",
+    "descriptionEn": "Open-source research project using models to solve GitHub issues; maintainers now recommend mini-SWE-agent.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Réparation d'issues GitHub",
+      "Évaluation de tâches logicielles",
+      "Successeur mini-SWE-agent"
+    ],
+    "featuresEn": [
+      "GitHub issue repair",
+      "Software task evaluation",
+      "mini-SWE-agent successor"
+    ],
+    "accessFr": "Projet open source ; successeur recommandé",
+    "accessEn": "Open-source project; successor recommended",
+    "officialSources": [
+      {
+        "url": "https://github.com/SWE-agent/SWE-agent/blob/main/README.md",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Projet de recherche open source utilisant des modèles pour résoudre des issues GitHub ; l'équipe recommande désormais mini-SWE-agent.",
+      "audiences": [
+        "Développeurs et équipes logicielles",
+        "Étudiants en programmation et mainteneurs"
+      ],
+      "cases": [
+        "Évaluer un agent sur des issues reproductibles en environnement isolé."
+      ],
+      "advantages": [
+        "Réparation d'issues GitHub",
+        "Évaluation de tâches logicielles",
+        "Successeur mini-SWE-agent"
+      ],
+      "limits": [
+        "Les mainteneurs privilégient mini-SWE-agent ; les agents qui exécutent du code doivent être isolés et supervisés."
+      ],
+      "gettingStarted": [
+        "Travailler sur une branche Git dédiée et préparer une consigne testable.",
+        "Vérifier le diff et exécuter tests, analyses statiques et contrôles de sécurité avant fusion."
+      ],
+      "examples": [
+        "Analyse cette issue puis propose un correctif minimal avec test de non-régression.",
+        "Présente le diff, les risques et les résultats de tests sans accéder aux secrets."
+      ],
+      "pricing": "Vérifier les crédits, quotas, coûts de modèles, licences d'équipe et éventuels frais d'exécution sur le site officiel.",
+      "privacy": "Protéger le code privé, les clés et les secrets ; restreindre l'accès au shell, aux dépôts et aux environnements de production.",
+      "selection": [
+        "Choisir SWE-agent en comparant intégrations, qualité du contexte, validation humaine, tarification et état du service."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "superseded",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://github.com/SWE-agent/SWE-agent/blob/main/README.md",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_superseded"
+  },
+  "replit-agent": {
+    "descriptionFr": "Agent Replit de création, de test et de publication d'applications depuis un environnement de développement cloud.",
+    "descriptionEn": "Replit agent for creating, testing and publishing apps in a cloud development environment.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Création d'applications",
+      "Tests et prévisualisation",
+      "Publication intégrée"
+    ],
+    "featuresEn": [
+      "App creation",
+      "Testing and preview",
+      "Integrated publishing"
+    ],
+    "accessFr": "IDE, terminal, web et/ou cloud selon produit",
+    "accessEn": "IDE, terminal, web and/or cloud by product",
+    "officialSources": [
+      {
+        "url": "https://docs.replit.com/features/agent/overview",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Agent Replit de création, de test et de publication d'applications depuis un environnement de développement cloud.",
+      "audiences": [
+        "Développeurs et équipes logicielles",
+        "Étudiants en programmation et mainteneurs"
+      ],
+      "cases": [
+        "Créer un prototype web fonctionnel puis examiner les paramètres avant publication."
+      ],
+      "advantages": [
+        "Création d'applications",
+        "Tests et prévisualisation",
+        "Publication intégrée"
+      ],
+      "limits": [
+        "Contrôler la facturation d'usage, les données hébergées, la sécurité et les ressources de déploiement."
+      ],
+      "gettingStarted": [
+        "Travailler sur une branche Git dédiée et préparer une consigne testable.",
+        "Vérifier le diff et exécuter tests, analyses statiques et contrôles de sécurité avant fusion."
+      ],
+      "examples": [
+        "Analyse cette issue puis propose un correctif minimal avec test de non-régression.",
+        "Présente le diff, les risques et les résultats de tests sans accéder aux secrets."
+      ],
+      "pricing": "Vérifier les crédits, quotas, coûts de modèles, licences d'équipe et éventuels frais d'exécution sur le site officiel.",
+      "privacy": "Protéger le code privé, les clés et les secrets ; restreindre l'accès au shell, aux dépôts et aux environnements de production.",
+      "selection": [
+        "Choisir Replit Agent en comparant intégrations, qualité du contexte, validation humaine, tarification et état du service."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.replit.com/features/agent/overview",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  }
+}
