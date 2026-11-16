@@ -1,0 +1,1320 @@
+{
+  "shopify-magic": {
+    "descriptionFr": "Ensemble de fonctionnalités IA natives de Shopify pour aider les marchands à créer descriptions de produits, contenus, images et réponses dans diverses parties de l'administration.",
+    "descriptionEn": "Shopify's built-in AI capabilities for merchants creating product descriptions, store content, imagery and suggested replies across the admin.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Génération et révision de descriptions de produits",
+      "Assistance rédactionnelle, images et thèmes selon interface",
+      "Fonctions intégrées à Shopify sans application Magic distincte"
+    ],
+    "featuresEn": [
+      "Drafting and revising product descriptions",
+      "Writing assistance, images and themes where supported",
+      "Built into Shopify rather than a separate Magic application"
+    ],
+    "accessFr": "Fonctionnalités Shopify ou application intégrée, selon offre",
+    "accessEn": "Shopify-native features or integrated app, plan-dependent",
+    "officialSources": [
+      {
+        "url": "https://help.shopify.com/en/manual/ai-powered-tools",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://help.shopify.com/en/manual/products/details/product-descriptions/shopify-magic",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://www.shopify.com/magic",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Ensemble de fonctionnalités IA natives de Shopify pour aider les marchands à créer descriptions de produits, contenus, images et réponses dans diverses parties de l'administration.",
+      "audiences": [
+        "Marchands Shopify et responsables de boutique",
+        "Développeurs de boutiques et équipes d'analyse des conversions"
+      ],
+      "cases": [
+        "Rédiger une fiche produit depuis les caractéristiques réellement connues et vérifier l'exactitude des matériaux, prix et conditions avant publication.",
+        "Contrôler la qualité et la fraîcheur des catalogues, les stocks, les prix et le consentement avant automatisation."
+      ],
+      "advantages": [
+        "Génération et révision de descriptions de produits",
+        "Assistance rédactionnelle, images et thèmes selon interface",
+        "Fonctions intégrées à Shopify sans application Magic distincte"
+      ],
+      "limits": [
+        "Shopify rappelle que le marchand reste responsable de toutes les affirmations produites par l'IA : les modèles peuvent inventer avantages, matériaux ou caractéristiques. Les fonctionnalités et langues varient selon le produit et le plan ; ne pas confondre Magic avec Sidekick.",
+        "Les optimisations IA peuvent générer des recommandations sans stock, des attributs inexacts et des prix incorrects : tester en environnement non productif et surveiller les performances réelles."
+      ],
+      "gettingStarted": [
+        "Définir l'objectif : fiches produit, recherche, conversion, fidélité, catalogue ou automatisation de la relation client.",
+        "Connecter un catalogue test autorisé, configurer droits et consentements, mesurer la qualité des résultats puis déployer progressivement."
+      ],
+      "examples": [
+        "Sur un échantillon de produits réels, explique les filtres, prix, stocks et règles appliquées et signale toute donnée manquante.",
+        "Compare une variante témoin et une variante IA sur pertinence, conversion, retours, panier moyen et expérience utilisateur."
+      ],
+      "pricing": "Vérifier frais par abonnement, volume de commandes, recherches, conversations, produits, API, utilisateurs et modules activés. Les conditions varient selon le pays et la plateforme.",
+      "privacy": "Protéger les données de navigation, historique d'achat, profil client et consentements marketing ; vérifier les sous-traitants IA, la rétention et les permissions des agents d'achat.",
+      "selection": [
+        "Évaluer Shopify Magic selon le besoin (merchant_content), les intégrations, la qualité du catalogue, la transparence des règles, la protection des données et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.shopify.com/en/manual/ai-powered-tools",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://help.shopify.com/en/manual/products/details/product-descriptions/shopify-magic",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.shopify.com/magic",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "shopify-sidekick": {
+    "descriptionFr": "Assistant commerce contextuel dans l'administration Shopify, capable d'analyser les données de la boutique, proposer des changements, automatiser des flux et préparer des tests avec SimGym.",
+    "descriptionEn": "Context-aware Shopify admin assistant that analyzes store data, proposes changes, automates flows and can stage storefront tests with SimGym.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Questions et tâches en langage naturel sur les données de boutique",
+      "Création de workflows Shopify Flow et analyses chiffrées",
+      "Brouillons à approuver et suggestions testées avec SimGym"
+    ],
+    "featuresEn": [
+      "Natural-language tasks grounded in store data",
+      "Shopify Flow automation and computed analysis",
+      "Reviewable drafts and SimGym-tested suggestions"
+    ],
+    "accessFr": "Fonctionnalités Shopify ou application intégrée, selon offre",
+    "accessEn": "Shopify-native features or integrated app, plan-dependent",
+    "officialSources": [
+      {
+        "url": "https://help.shopify.com/en/manual/ai-powered-tools/sidekick",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://www.shopify.com/sidekick",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Assistant commerce contextuel dans l'administration Shopify, capable d'analyser les données de la boutique, proposer des changements, automatiser des flux et préparer des tests avec SimGym.",
+      "audiences": [
+        "Marchands Shopify et responsables de boutique",
+        "Développeurs de boutiques et équipes d'analyse des conversions"
+      ],
+      "cases": [
+        "Demander une liste de références en rupture potentielle, vérifier les calculs puis approuver une règle d'alerte de stock.",
+        "Contrôler la qualité et la fraîcheur des catalogues, les stocks, les prix et le consentement avant automatisation."
+      ],
+      "advantages": [
+        "Questions et tâches en langage naturel sur les données de boutique",
+        "Création de workflows Shopify Flow et analyses chiffrées",
+        "Brouillons à approuver et suggestions testées avec SimGym"
+      ],
+      "limits": [
+        "Sidekick respecte les permissions d'administration et soumet les changements à examen avant application ; vérifier toutefois les prévisions, les effets des automations et les accès du personnel. Inclus aux plans Shopify sous limites variables.",
+        "Les optimisations IA peuvent générer des recommandations sans stock, des attributs inexacts et des prix incorrects : tester en environnement non productif et surveiller les performances réelles."
+      ],
+      "gettingStarted": [
+        "Définir l'objectif : fiches produit, recherche, conversion, fidélité, catalogue ou automatisation de la relation client.",
+        "Connecter un catalogue test autorisé, configurer droits et consentements, mesurer la qualité des résultats puis déployer progressivement."
+      ],
+      "examples": [
+        "Sur un échantillon de produits réels, explique les filtres, prix, stocks et règles appliquées et signale toute donnée manquante.",
+        "Compare une variante témoin et une variante IA sur pertinence, conversion, retours, panier moyen et expérience utilisateur."
+      ],
+      "pricing": "Vérifier frais par abonnement, volume de commandes, recherches, conversations, produits, API, utilisateurs et modules activés. Les conditions varient selon le pays et la plateforme.",
+      "privacy": "Protéger les données de navigation, historique d'achat, profil client et consentements marketing ; vérifier les sous-traitants IA, la rétention et les permissions des agents d'achat.",
+      "selection": [
+        "Évaluer Shopify Sidekick selon le besoin (merchant_agent), les intégrations, la qualité du catalogue, la transparence des règles, la protection des données et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.shopify.com/en/manual/ai-powered-tools/sidekick",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.shopify.com/sidekick",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "klaviyo-ai": {
+    "descriptionFr": "Suite Klaviyo AI de CRM commerce avec Composer, agent marketing disponible depuis octobre 2026, et Customer Agent pour la relation client multicanale.",
+    "descriptionEn": "Klaviyo AI commerce CRM suite with Composer marketing agent, live since October 2026, and multichannel Customer Agent.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Composer : analyses, campagnes, segments, flows et Skills",
+      "Customer Agent : web, email, SMS et WhatsApp",
+      "Données clients, intégrations et actions soumises à permissions"
+    ],
+    "featuresEn": [
+      "Composer insights, campaigns, segments, flows and Skills",
+      "Customer Agent across web, email, SMS and WhatsApp",
+      "Customer data, connectors and permission-governed actions"
+    ],
+    "accessFr": "SaaS et connecteurs selon plateforme, plan et volume",
+    "accessEn": "SaaS and platform connectors by plan and volume",
+    "officialSources": [
+      {
+        "url": "https://www.klaviyo.com/blog/composer-marketing-agent",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://help.klaviyo.com/hc/en-us/articles/52308768755739",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://help.klaviyo.com/hc/en-us/articles/56974158507803",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Suite Klaviyo AI de CRM commerce avec Composer, agent marketing disponible depuis octobre 2026, et Customer Agent pour la relation client multicanale.",
+      "audiences": [
+        "Équipes de commerce en ligne, marketing et relation client",
+        "Développeurs de boutiques et équipes d'analyse des conversions"
+      ],
+      "cases": [
+        "Analyser une baisse de conversion puis créer un brouillon de campagne de réactivation à valider, et tester les règles du Customer Agent.",
+        "Contrôler la qualité et la fraîcheur des catalogues, les stocks, les prix et le consentement avant automatisation."
+      ],
+      "advantages": [
+        "Composer : analyses, campagnes, segments, flows et Skills",
+        "Customer Agent : web, email, SMS et WhatsApp",
+        "Données clients, intégrations et actions soumises à permissions"
+      ],
+      "limits": [
+        "Composer prépare les modifications mais ne publie pas seul les contenus marketing : validation nécessaire. Les travaux marketing Composer consomment des crédits, tandis que Customer Agent est facturé selon les conversations résolues ; vérifier consentement et permissions des outils.",
+        "Les optimisations IA peuvent générer des recommandations sans stock, des attributs inexacts et des prix incorrects : tester en environnement non productif et surveiller les performances réelles."
+      ],
+      "gettingStarted": [
+        "Définir l'objectif : fiches produit, recherche, conversion, fidélité, catalogue ou automatisation de la relation client.",
+        "Connecter un catalogue test autorisé, configurer droits et consentements, mesurer la qualité des résultats puis déployer progressivement."
+      ],
+      "examples": [
+        "Sur un échantillon de produits réels, explique les filtres, prix, stocks et règles appliquées et signale toute donnée manquante.",
+        "Compare une variante témoin et une variante IA sur pertinence, conversion, retours, panier moyen et expérience utilisateur."
+      ],
+      "pricing": "Vérifier frais par abonnement, volume de commandes, recherches, conversations, produits, API, utilisateurs et modules activés. Les conditions varient selon le pays et la plateforme.",
+      "privacy": "Protéger les données de navigation, historique d'achat, profil client et consentements marketing ; vérifier les sous-traitants IA, la rétention et les permissions des agents d'achat.",
+      "selection": [
+        "Évaluer Klaviyo AI selon le besoin (crm_marketing), les intégrations, la qualité du catalogue, la transparence des règles, la protection des données et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "composer_marketing_agent_available",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.klaviyo.com/blog/composer-marketing-agent",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://help.klaviyo.com/hc/en-us/articles/52308768755739",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://help.klaviyo.com/hc/en-us/articles/56974158507803",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed",
+    "name": "Klaviyo AI (Composer & Customer Agent)"
+  },
+  "octane-ai": {
+    "descriptionFr": "Solution de quiz commerciaux personnalisés pour Shopify, incluant Phoenix AI Builder pour créer questions, règles et recommandations par conversation et Shopping Assistant pour les présenter aux acheteurs.",
+    "descriptionEn": "Shopify shopping-quiz solution featuring Phoenix AI Builder to design questions, logic and recommendations conversationally, with Shopping Assistant on storefronts.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Phoenix AI : génération de quiz, pages et logique",
+      "Shopping Assistant : widget de quiz sur la boutique",
+      "Segmentation et recommandations depuis les réponses clients"
+    ],
+    "featuresEn": [
+      "Phoenix AI quiz, page and logic generation",
+      "Shopping Assistant quiz widget on the storefront",
+      "Segmentation and product recommendations from answers"
+    ],
+    "accessFr": "Fonctionnalités Shopify ou application intégrée, selon offre",
+    "accessEn": "Shopify-native features or integrated app, plan-dependent",
+    "officialSources": [
+      {
+        "url": "https://help.octaneai.com/en/articles/17132638-introduction-to-the-octane-ai-phoenix-builder",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://help.octaneai.com/en/articles/17584541-how-to-use-phoenix-ai-assistant",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://help.octaneai.com/en/articles/11898166-using-shopping-assistant-to-publish-your-quizzes",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Solution de quiz commerciaux personnalisés pour Shopify, incluant Phoenix AI Builder pour créer questions, règles et recommandations par conversation et Shopping Assistant pour les présenter aux acheteurs.",
+      "audiences": [
+        "Marchands Shopify et responsables de boutique",
+        "Développeurs de boutiques et équipes d'analyse des conversions"
+      ],
+      "cases": [
+        "Construire un quiz de sélection de produits de soin, tester les règles de recommandation et vérifier la qualité des réponses de chaque branche.",
+        "Contrôler la qualité et la fraîcheur des catalogues, les stocks, les prix et le consentement avant automatisation."
+      ],
+      "advantages": [
+        "Phoenix AI : génération de quiz, pages et logique",
+        "Shopping Assistant : widget de quiz sur la boutique",
+        "Segmentation et recommandations depuis les réponses clients"
+      ],
+      "limits": [
+        "Ne pas collecter de données sensibles sans nécessité ou consentement. Les recommandations dépendent du catalogue Shopify, des règles configurées et des produits réellement disponibles ; tester les parcours avant publication.",
+        "Les optimisations IA peuvent générer des recommandations sans stock, des attributs inexacts et des prix incorrects : tester en environnement non productif et surveiller les performances réelles."
+      ],
+      "gettingStarted": [
+        "Définir l'objectif : fiches produit, recherche, conversion, fidélité, catalogue ou automatisation de la relation client.",
+        "Connecter un catalogue test autorisé, configurer droits et consentements, mesurer la qualité des résultats puis déployer progressivement."
+      ],
+      "examples": [
+        "Sur un échantillon de produits réels, explique les filtres, prix, stocks et règles appliquées et signale toute donnée manquante.",
+        "Compare une variante témoin et une variante IA sur pertinence, conversion, retours, panier moyen et expérience utilisateur."
+      ],
+      "pricing": "Vérifier frais par abonnement, volume de commandes, recherches, conversations, produits, API, utilisateurs et modules activés. Les conditions varient selon le pays et la plateforme.",
+      "privacy": "Protéger les données de navigation, historique d'achat, profil client et consentements marketing ; vérifier les sous-traitants IA, la rétention et les permissions des agents d'achat.",
+      "selection": [
+        "Évaluer Octane AI selon le besoin (quiz_personalization), les intégrations, la qualité du catalogue, la transparence des règles, la protection des données et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.octaneai.com/en/articles/17132638-introduction-to-the-octane-ai-phoenix-builder",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://help.octaneai.com/en/articles/17584541-how-to-use-phoenix-ai-assistant",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://help.octaneai.com/en/articles/11898166-using-shopping-assistant-to-publish-your-quizzes",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "nosto": {
+    "descriptionFr": "Plateforme d'expérience commerce Nosto avec recommandations, merchandising, recherche hybride sémantique et agents Huginn ; Discovery Agent conversationnel reste en accès anticipé.",
+    "descriptionEn": "Nosto commerce experience platform with recommendations, merchandising, hybrid semantic search and Huginn agents; conversational Discovery Agent remains in early access.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Recherche hybride mots-clés + vecteurs configurable",
+      "Merchandising, personnalisation et recommandations",
+      "Huginn Data Analyst ; Discovery Agent en accès anticipé"
+    ],
+    "featuresEn": [
+      "Configurable keyword-and-vector hybrid search",
+      "Merchandising, personalization and recommendations",
+      "Huginn Data Analyst and early-access Discovery Agent"
+    ],
+    "accessFr": "SaaS/API e-commerce et intégrations selon contrat",
+    "accessEn": "Ecommerce SaaS/APIs and contracted integrations",
+    "officialSources": [
+      {
+        "url": "https://www.nosto.com/blog/introducing-nosto-ai-search/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://help.nosto.com/en/articles/15324971-hybrid-vector-search",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://help.nosto.com/en/articles/12456768-which-nosto-modules-are-supported-by-huginn-s-data-analyst-agent",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme d'expérience commerce Nosto avec recommandations, merchandising, recherche hybride sémantique et agents Huginn ; Discovery Agent conversationnel reste en accès anticipé.",
+      "audiences": [
+        "Responsables e-commerce, merchandising et recherche produit",
+        "Développeurs de boutiques et équipes d'analyse des conversions"
+      ],
+      "cases": [
+        "Tester la recherche 'tenue pour bureau froid' sur un catalogue, mesurer les résultats sans réponse et corriger la pertinence des filtres.",
+        "Contrôler la qualité et la fraîcheur des catalogues, les stocks, les prix et le consentement avant automatisation."
+      ],
+      "advantages": [
+        "Recherche hybride mots-clés + vecteurs configurable",
+        "Merchandising, personnalisation et recommandations",
+        "Huginn Data Analyst ; Discovery Agent en accès anticipé"
+      ],
+      "limits": [
+        "Hybrid Vector Search est disponible, mais Attribute Recognition, AI Summaries et d'autres éléments sont annoncés pour plus tard ; Discovery Agent demeure en accès anticipé. Huginn ne gère pas encore tous les modules analytics. Mesurer précision des résultats et latence.",
+        "Les optimisations IA peuvent générer des recommandations sans stock, des attributs inexacts et des prix incorrects : tester en environnement non productif et surveiller les performances réelles."
+      ],
+      "gettingStarted": [
+        "Définir l'objectif : fiches produit, recherche, conversion, fidélité, catalogue ou automatisation de la relation client.",
+        "Connecter un catalogue test autorisé, configurer droits et consentements, mesurer la qualité des résultats puis déployer progressivement."
+      ],
+      "examples": [
+        "Sur un échantillon de produits réels, explique les filtres, prix, stocks et règles appliquées et signale toute donnée manquante.",
+        "Compare une variante témoin et une variante IA sur pertinence, conversion, retours, panier moyen et expérience utilisateur."
+      ],
+      "pricing": "Vérifier frais par abonnement, volume de commandes, recherches, conversations, produits, API, utilisateurs et modules activés. Les conditions varient selon le pays et la plateforme.",
+      "privacy": "Protéger les données de navigation, historique d'achat, profil client et consentements marketing ; vérifier les sous-traitants IA, la rétention et les permissions des agents d'achat.",
+      "selection": [
+        "Évaluer Nosto selon le besoin (discovery), les intégrations, la qualité du catalogue, la transparence des règles, la protection des données et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "hybrid_available_discovery_agent_early_access",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.nosto.com/blog/introducing-nosto-ai-search/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://help.nosto.com/en/articles/15324971-hybrid-vector-search",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://help.nosto.com/en/articles/12456768-which-nosto-modules-are-supported-by-huginn-s-data-analyst-agent",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_ga_vs_early_access"
+  },
+  "bloomreach": {
+    "descriptionFr": "Plateforme Bloomreach de personnalisation e-commerce réunissant recherche, merchandising, engagement et Loomi, son agent conversationnel et orchestrateur de parcours.",
+    "descriptionEn": "Bloomreach ecommerce personalization platform combining search, merchandising, engagement and Loomi conversational journey orchestration.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Loomi Conversational Agent et questions produits complexes",
+      "Ask Me Anything dans la barre de recherche",
+      "Analyses des conversations, informations produit et parcours"
+    ],
+    "featuresEn": [
+      "Loomi Conversational Agent for complex shopping questions",
+      "Ask Me Anything search-bar entry point",
+      "Conversation insights, product grounding and shopper journeys"
+    ],
+    "accessFr": "SaaS/API e-commerce et intégrations selon contrat",
+    "accessEn": "Ecommerce SaaS/APIs and contracted integrations",
+    "officialSources": [
+      {
+        "url": "https://www.bloomreach.com/en/news/2026/bloomreach-transforms-customer-conversation-into-ecommerce-insight-with-conversational-agent/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://www.bloomreach.com/en/news/2026/bloomreach-launces-multi-agent-ask-me-anything-capability",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme Bloomreach de personnalisation e-commerce réunissant recherche, merchandising, engagement et Loomi, son agent conversationnel et orchestrateur de parcours.",
+      "audiences": [
+        "Responsables e-commerce, merchandising et recherche produit",
+        "Développeurs de boutiques et équipes d'analyse des conversions"
+      ],
+      "cases": [
+        "Déployer une recherche conversationnelle sur un catalogue, vérifier que les recommandations correspondent au stock et analyser les questions sans réponse.",
+        "Contrôler la qualité et la fraîcheur des catalogues, les stocks, les prix et le consentement avant automatisation."
+      ],
+      "advantages": [
+        "Loomi Conversational Agent et questions produits complexes",
+        "Ask Me Anything dans la barre de recherche",
+        "Analyses des conversations, informations produit et parcours"
+      ],
+      "limits": [
+        "Le contenu conversationnel peut proposer des produits incompatibles ou indisponibles si les données ne sont pas correctement synchronisées. Ask Me Anything a été annoncé en août 2026 : confirmer les modules/licences disponibles et contrôler le consentement.",
+        "Les optimisations IA peuvent générer des recommandations sans stock, des attributs inexacts et des prix incorrects : tester en environnement non productif et surveiller les performances réelles."
+      ],
+      "gettingStarted": [
+        "Définir l'objectif : fiches produit, recherche, conversion, fidélité, catalogue ou automatisation de la relation client.",
+        "Connecter un catalogue test autorisé, configurer droits et consentements, mesurer la qualité des résultats puis déployer progressivement."
+      ],
+      "examples": [
+        "Sur un échantillon de produits réels, explique les filtres, prix, stocks et règles appliquées et signale toute donnée manquante.",
+        "Compare une variante témoin et une variante IA sur pertinence, conversion, retours, panier moyen et expérience utilisateur."
+      ],
+      "pricing": "Vérifier frais par abonnement, volume de commandes, recherches, conversations, produits, API, utilisateurs et modules activés. Les conditions varient selon le pays et la plateforme.",
+      "privacy": "Protéger les données de navigation, historique d'achat, profil client et consentements marketing ; vérifier les sous-traitants IA, la rétention et les permissions des agents d'achat.",
+      "selection": [
+        "Évaluer Bloomreach selon le besoin (agentic_discovery), les intégrations, la qualité du catalogue, la transparence des règles, la protection des données et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.bloomreach.com/en/news/2026/bloomreach-transforms-customer-conversation-into-ecommerce-insight-with-conversational-agent/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.bloomreach.com/en/news/2026/bloomreach-launces-multi-agent-ask-me-anything-capability",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "algolia": {
+    "descriptionFr": "Moteur de recherche et de découverte de produits avec AI Ranking, Merchandising Studio, Agent Studio et serveur MCP reliant les agents à un catalogue actualisé.",
+    "descriptionEn": "Search and product discovery engine with AI Ranking, Merchandising Studio, Agent Studio and MCP server connecting agents to current catalog data.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Recherche produit, IA de classement et merchandising",
+      "Agent Studio pour commerce conversationnel",
+      "MCP Server pour agents utilisant catalogue, stock et prix"
+    ],
+    "featuresEn": [
+      "Product search, AI ranking and merchandising",
+      "Agent Studio for conversational commerce",
+      "MCP server for agents accessing catalog, stock and prices"
+    ],
+    "accessFr": "SaaS/API e-commerce et intégrations selon contrat",
+    "accessEn": "Ecommerce SaaS/APIs and contracted integrations",
+    "officialSources": [
+      {
+        "url": "https://www.algolia.com/about/news/algolia-launches-production-grade-mcp-for-agentic-commerce",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://www.algolia.com/about/news/algolia-brings-agentic-commerce-to-the-modern-storefront",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://www.algolia.com/about/news/algolia-acquires-velou.html",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Moteur de recherche et de découverte de produits avec AI Ranking, Merchandising Studio, Agent Studio et serveur MCP reliant les agents à un catalogue actualisé.",
+      "audiences": [
+        "Responsables e-commerce, merchandising et recherche produit",
+        "Développeurs de boutiques et équipes d'analyse des conversions"
+      ],
+      "cases": [
+        "Relier un assistant d'achat au catalogue et tester les filtres, stocks et prix en temps réel avant toute interaction client.",
+        "Contrôler la qualité et la fraîcheur des catalogues, les stocks, les prix et le consentement avant automatisation."
+      ],
+      "advantages": [
+        "Recherche produit, IA de classement et merchandising",
+        "Agent Studio pour commerce conversationnel",
+        "MCP Server pour agents utilisant catalogue, stock et prix"
+      ],
+      "limits": [
+        "Le serveur MCP et les agents requièrent permissions et règles de coût. Les chiffres de conversion publiés sont des études clients, non une garantie. L'acquisition de Velou en octobre 2026 étend l'enrichissement des catalogues sans créer une application à part.",
+        "Les optimisations IA peuvent générer des recommandations sans stock, des attributs inexacts et des prix incorrects : tester en environnement non productif et surveiller les performances réelles."
+      ],
+      "gettingStarted": [
+        "Définir l'objectif : fiches produit, recherche, conversion, fidélité, catalogue ou automatisation de la relation client.",
+        "Connecter un catalogue test autorisé, configurer droits et consentements, mesurer la qualité des résultats puis déployer progressivement."
+      ],
+      "examples": [
+        "Sur un échantillon de produits réels, explique les filtres, prix, stocks et règles appliquées et signale toute donnée manquante.",
+        "Compare une variante témoin et une variante IA sur pertinence, conversion, retours, panier moyen et expérience utilisateur."
+      ],
+      "pricing": "Vérifier frais par abonnement, volume de commandes, recherches, conversations, produits, API, utilisateurs et modules activés. Les conditions varient selon le pays et la plateforme.",
+      "privacy": "Protéger les données de navigation, historique d'achat, profil client et consentements marketing ; vérifier les sous-traitants IA, la rétention et les permissions des agents d'achat.",
+      "selection": [
+        "Évaluer Algolia selon le besoin (retrieval), les intégrations, la qualité du catalogue, la transparence des règles, la protection des données et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.algolia.com/about/news/algolia-launches-production-grade-mcp-for-agentic-commerce",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.algolia.com/about/news/algolia-brings-agentic-commerce-to-the-modern-storefront",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.algolia.com/about/news/algolia-acquires-velou.html",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "constructor": {
+    "descriptionFr": "Plateforme de découverte de produits avec Commerce Reasoning Engine, AI Shopping Agent, Product Insights Agent et expérimentation de parcours vers un paiement agentique.",
+    "descriptionEn": "Product discovery platform with Commerce Reasoning Engine, AI Shopping Agent, Product Insights Agent and agentic checkout initiatives.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Recherche, navigation et recommandations personnalisées",
+      "AI Shopping Agent et Product Insights Agent",
+      "Agentic Checkout avec Stripe annoncé en octobre 2026"
+    ],
+    "featuresEn": [
+      "Personalized search, browse and recommendations",
+      "AI Shopping Agent and Product Insights Agent",
+      "Stripe Agentic Checkout initiative announced October 2026"
+    ],
+    "accessFr": "SaaS/API e-commerce et intégrations selon contrat",
+    "accessEn": "Ecommerce SaaS/APIs and contracted integrations",
+    "officialSources": [
+      {
+        "url": "https://constructor.com/blog/enhancing-product-discovery-through-ai-agents",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://constructor.com/blog/introducing-agentic-checkout-from-constructor-and-stripe",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://constructor.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de découverte de produits avec Commerce Reasoning Engine, AI Shopping Agent, Product Insights Agent et expérimentation de parcours vers un paiement agentique.",
+      "audiences": [
+        "Responsables e-commerce, merchandising et recherche produit",
+        "Développeurs de boutiques et équipes d'analyse des conversions"
+      ],
+      "cases": [
+        "Répondre à la demande d'un client sur la compatibilité d'accessoires et présenter des produits avec une validation explicite du panier.",
+        "Contrôler la qualité et la fraîcheur des catalogues, les stocks, les prix et le consentement avant automatisation."
+      ],
+      "advantages": [
+        "Recherche, navigation et recommandations personnalisées",
+        "AI Shopping Agent et Product Insights Agent",
+        "Agentic Checkout avec Stripe annoncé en octobre 2026"
+      ],
+      "limits": [
+        "L'annonce de partenariat Agentic Checkout avec Stripe ne garantit pas un déploiement général : confirmer l'éligibilité et l'état réel. Un agent ne doit pas passer commande ou payer sans autorisation explicite, prix vérifié et contrôles antifraude.",
+        "Les optimisations IA peuvent générer des recommandations sans stock, des attributs inexacts et des prix incorrects : tester en environnement non productif et surveiller les performances réelles."
+      ],
+      "gettingStarted": [
+        "Définir l'objectif : fiches produit, recherche, conversion, fidélité, catalogue ou automatisation de la relation client.",
+        "Connecter un catalogue test autorisé, configurer droits et consentements, mesurer la qualité des résultats puis déployer progressivement."
+      ],
+      "examples": [
+        "Sur un échantillon de produits réels, explique les filtres, prix, stocks et règles appliquées et signale toute donnée manquante.",
+        "Compare une variante témoin et une variante IA sur pertinence, conversion, retours, panier moyen et expérience utilisateur."
+      ],
+      "pricing": "Vérifier frais par abonnement, volume de commandes, recherches, conversations, produits, API, utilisateurs et modules activés. Les conditions varient selon le pays et la plateforme.",
+      "privacy": "Protéger les données de navigation, historique d'achat, profil client et consentements marketing ; vérifier les sous-traitants IA, la rétention et les permissions des agents d'achat.",
+      "selection": [
+        "Évaluer Constructor selon le besoin (agentic_discovery), les intégrations, la qualité du catalogue, la transparence des règles, la protection des données et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "agentic_checkout_announced_not_general_availability",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://constructor.com/blog/enhancing-product-discovery-through-ai-agents",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://constructor.com/blog/introducing-agentic-checkout-from-constructor-and-stripe",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://constructor.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_announced"
+  },
+  "dynamic-yield": {
+    "descriptionFr": "Dynamic Yield, solution Experience OS du groupe Mastercard, permet des expériences web/app personnalisées, Experience Search multimodal et l'assistant d'achat Shopping Muse.",
+    "descriptionEn": "Dynamic Yield, part of Mastercard's Experience OS, delivers web/app personalization, multimodal Experience Search and Shopping Muse shopping assistance.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Experience Web et App, recommandations et A/B testing",
+      "Experience Search : sémantique, visuelle et merchandising",
+      "Shopping Muse avec contexte de navigation et produit"
+    ],
+    "featuresEn": [
+      "Experience Web and App recommendations and A/B tests",
+      "Experience Search semantic and visual merchandising",
+      "Shopping Muse using shopper and product context"
+    ],
+    "accessFr": "SaaS et connecteurs selon plateforme, plan et volume",
+    "accessEn": "SaaS and platform connectors by plan and volume",
+    "officialSources": [
+      {
+        "url": "https://support.dynamicyield.com/hc/en-us/articles/31141618753949-Experience-Search-A-New-Approach-to-Discovery",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://support.dynamicyield.com/hc/en-us/articles/360037790693-New-Releases",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://support.dynamicyield.com/hc/en-us/articles/26617309457309-Experience-Web",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Dynamic Yield, solution Experience OS du groupe Mastercard, permet des expériences web/app personnalisées, Experience Search multimodal et l'assistant d'achat Shopping Muse.",
+      "audiences": [
+        "Équipes de commerce en ligne, marketing et relation client",
+        "Développeurs de boutiques et équipes d'analyse des conversions"
+      ],
+      "cases": [
+        "Comparer une recherche classique et une recherche sémantique sur des requêtes de longue traîne, puis tester un scénario de personnalisation avec témoin.",
+        "Contrôler la qualité et la fraîcheur des catalogues, les stocks, les prix et le consentement avant automatisation."
+      ],
+      "advantages": [
+        "Experience Web et App, recommandations et A/B testing",
+        "Experience Search : sémantique, visuelle et merchandising",
+        "Shopping Muse avec contexte de navigation et produit"
+      ],
+      "limits": [
+        "Les expériences ciblées reposent sur des données de navigation et de profil qui nécessitent une base légale et un suivi des consentements. Les performances et l'accès aux modules varient selon contrat et intégration ; vérifier effets sur SEO et latence.",
+        "Les optimisations IA peuvent générer des recommandations sans stock, des attributs inexacts et des prix incorrects : tester en environnement non productif et surveiller les performances réelles."
+      ],
+      "gettingStarted": [
+        "Définir l'objectif : fiches produit, recherche, conversion, fidélité, catalogue ou automatisation de la relation client.",
+        "Connecter un catalogue test autorisé, configurer droits et consentements, mesurer la qualité des résultats puis déployer progressivement."
+      ],
+      "examples": [
+        "Sur un échantillon de produits réels, explique les filtres, prix, stocks et règles appliquées et signale toute donnée manquante.",
+        "Compare une variante témoin et une variante IA sur pertinence, conversion, retours, panier moyen et expérience utilisateur."
+      ],
+      "pricing": "Vérifier frais par abonnement, volume de commandes, recherches, conversations, produits, API, utilisateurs et modules activés. Les conditions varient selon le pays et la plateforme.",
+      "privacy": "Protéger les données de navigation, historique d'achat, profil client et consentements marketing ; vérifier les sous-traitants IA, la rétention et les permissions des agents d'achat.",
+      "selection": [
+        "Évaluer Dynamic Yield selon le besoin (personalization), les intégrations, la qualité du catalogue, la transparence des règles, la protection des données et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://support.dynamicyield.com/hc/en-us/articles/31141618753949-Experience-Search-A-New-Approach-to-Discovery",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://support.dynamicyield.com/hc/en-us/articles/360037790693-New-Releases",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://support.dynamicyield.com/hc/en-us/articles/26617309457309-Experience-Web",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "syte": {
+    "descriptionFr": "Plateforme Syte de découverte visuelle et merchandising par IA, reconnaissant objets et attributs produits dans les images pour améliorer recherche et recommandations.",
+    "descriptionEn": "Syte visual product discovery and AI merchandising platform recognizing image objects and product attributes to improve search and recommendations.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Visual Discovery, Camera Search et Shop the Look",
+      "Deep Tagging, enrichissement et règles de merchandising",
+      "Recommandations visuelles, tests A/B et API"
+    ],
+    "featuresEn": [
+      "Visual Discovery, Camera Search and Shop the Look",
+      "Deep Tagging, enrichment and merchandising rules",
+      "Visual recommendations, A/B tests and APIs"
+    ],
+    "accessFr": "SaaS/API e-commerce et intégrations selon contrat",
+    "accessEn": "Ecommerce SaaS/APIs and contracted integrations",
+    "officialSources": [
+      {
+        "url": "https://www.syte.ai/product-discovery-platform/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://developers.syte.ai/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://status.syte.ai/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme Syte de découverte visuelle et merchandising par IA, reconnaissant objets et attributs produits dans les images pour améliorer recherche et recommandations.",
+      "audiences": [
+        "Responsables e-commerce, merchandising et recherche produit",
+        "Développeurs de boutiques et équipes d'analyse des conversions"
+      ],
+      "cases": [
+        "Permettre une recherche de meubles à partir d'une photo et contrôler les objets correspondants et les variantes proposées.",
+        "Contrôler la qualité et la fraîcheur des catalogues, les stocks, les prix et le consentement avant automatisation."
+      ],
+      "advantages": [
+        "Visual Discovery, Camera Search et Shop the Look",
+        "Deep Tagging, enrichissement et règles de merchandising",
+        "Recommandations visuelles, tests A/B et API"
+      ],
+      "limits": [
+        "L'API de recherche visuelle exige un développeur vérifié et un accès accordé. La similarité visuelle ne garantit pas les dimensions, matières, couleurs réelles ni les stocks ; évaluer les résultats par segment de produits.",
+        "Les optimisations IA peuvent générer des recommandations sans stock, des attributs inexacts et des prix incorrects : tester en environnement non productif et surveiller les performances réelles."
+      ],
+      "gettingStarted": [
+        "Définir l'objectif : fiches produit, recherche, conversion, fidélité, catalogue ou automatisation de la relation client.",
+        "Connecter un catalogue test autorisé, configurer droits et consentements, mesurer la qualité des résultats puis déployer progressivement."
+      ],
+      "examples": [
+        "Sur un échantillon de produits réels, explique les filtres, prix, stocks et règles appliquées et signale toute donnée manquante.",
+        "Compare une variante témoin et une variante IA sur pertinence, conversion, retours, panier moyen et expérience utilisateur."
+      ],
+      "pricing": "Vérifier frais par abonnement, volume de commandes, recherches, conversations, produits, API, utilisateurs et modules activés. Les conditions varient selon le pays et la plateforme.",
+      "privacy": "Protéger les données de navigation, historique d'achat, profil client et consentements marketing ; vérifier les sous-traitants IA, la rétention et les permissions des agents d'achat.",
+      "selection": [
+        "Évaluer Syte selon le besoin (visual_discovery), les intégrations, la qualité du catalogue, la transparence des règles, la protection des données et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.syte.ai/product-discovery-platform/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://developers.syte.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://status.syte.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "visenze": {
+    "descriptionFr": "Suite ViSenze de découverte commerciale par vision IA : Smart Search à partir d'images, Smart Recommendations et Smart Tagging pour enrichir les fiches produits.",
+    "descriptionEn": "ViSenze visual commerce discovery suite featuring image-based Smart Search, Smart Recommendations and Smart Tagging for product enrichment.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Smart Search depuis image, photo ou capture écran",
+      "Smart Recommendations de produits proches",
+      "Smart Tagging automatique d'attributs produits"
+    ],
+    "featuresEn": [
+      "Image, photo and screenshot Smart Search",
+      "Smart Recommendations for similar products",
+      "Automatic product attribute tagging"
+    ],
+    "accessFr": "SaaS/API e-commerce et intégrations selon contrat",
+    "accessEn": "Ecommerce SaaS/APIs and contracted integrations",
+    "officialSources": [
+      {
+        "url": "https://www.visenze.com/discovery-suite/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://www.visenze.com/discovery-suite/modules/smart-tagging/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://www.visenze.com/ai-visual-search/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Suite ViSenze de découverte commerciale par vision IA : Smart Search à partir d'images, Smart Recommendations et Smart Tagging pour enrichir les fiches produits.",
+      "audiences": [
+        "Responsables e-commerce, merchandising et recherche produit",
+        "Développeurs de boutiques et équipes d'analyse des conversions"
+      ],
+      "cases": [
+        "Rechercher un vêtement depuis une capture d'écran et filtrer les résultats selon matière, tailles et stock réellement disponibles.",
+        "Contrôler la qualité et la fraîcheur des catalogues, les stocks, les prix et le consentement avant automatisation."
+      ],
+      "advantages": [
+        "Smart Search depuis image, photo ou capture écran",
+        "Smart Recommendations de produits proches",
+        "Smart Tagging automatique d'attributs produits"
+      ],
+      "limits": [
+        "Les taux d'exactitude affichés sur le site commercial ne sont pas transférables à chaque catalogue ; photographies, étiquettes et noms produits peuvent biaiser la reconnaissance. Vérifier connecteurs, coût par requête et confidentialité des images.",
+        "Les optimisations IA peuvent générer des recommandations sans stock, des attributs inexacts et des prix incorrects : tester en environnement non productif et surveiller les performances réelles."
+      ],
+      "gettingStarted": [
+        "Définir l'objectif : fiches produit, recherche, conversion, fidélité, catalogue ou automatisation de la relation client.",
+        "Connecter un catalogue test autorisé, configurer droits et consentements, mesurer la qualité des résultats puis déployer progressivement."
+      ],
+      "examples": [
+        "Sur un échantillon de produits réels, explique les filtres, prix, stocks et règles appliquées et signale toute donnée manquante.",
+        "Compare une variante témoin et une variante IA sur pertinence, conversion, retours, panier moyen et expérience utilisateur."
+      ],
+      "pricing": "Vérifier frais par abonnement, volume de commandes, recherches, conversations, produits, API, utilisateurs et modules activés. Les conditions varient selon le pays et la plateforme.",
+      "privacy": "Protéger les données de navigation, historique d'achat, profil client et consentements marketing ; vérifier les sous-traitants IA, la rétention et les permissions des agents d'achat.",
+      "selection": [
+        "Évaluer ViSenze selon le besoin (visual_discovery), les intégrations, la qualité du catalogue, la transparence des règles, la protection des données et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.visenze.com/discovery-suite/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.visenze.com/discovery-suite/modules/smart-tagging/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.visenze.com/ai-visual-search/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "rebuy": {
+    "descriptionFr": "Rebuy propose Smart Cart, recommandations, bundles et offres de ventes croisées pour boutiques Shopify, avec personnalisation par règles et produits recommandés.",
+    "descriptionEn": "Rebuy provides Smart Cart, recommendations, bundles and cross-sell offers for Shopify stores using rules-based and AI-assisted product selection.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Smart Cart personnalisable, remplaçant le tiroir panier du thème",
+      "Widgets upsell, cross-sell et bundles",
+      "Règles de recommandation, promotions et tests"
+    ],
+    "featuresEn": [
+      "Customizable Smart Cart replacing a theme's drawer",
+      "Upsell, cross-sell and bundle widgets",
+      "Recommendation rules, promotions and tests"
+    ],
+    "accessFr": "SaaS et connecteurs selon plateforme, plan et volume",
+    "accessEn": "SaaS and platform connectors by plan and volume",
+    "officialSources": [
+      {
+        "url": "https://help.rebuyengine.com/en/articles/7135807-rebuy-s-smart-cart",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://help.rebuyengine.com/en/articles/14048809-rebuy-plans-and-packages-feature-availability-by-plan",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://help.rebuyengine.com/en/articles/9283208-rebuy-cart-add-on-smart-cart-app",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Rebuy propose Smart Cart, recommandations, bundles et offres de ventes croisées pour boutiques Shopify, avec personnalisation par règles et produits recommandés.",
+      "audiences": [
+        "Équipes de commerce en ligne, marketing et relation client",
+        "Développeurs de boutiques et équipes d'analyse des conversions"
+      ],
+      "cases": [
+        "Tester un bundle proposé dans le panier, vérifier les remises et la compatibilité avec les fonctions existantes du thème Shopify.",
+        "Contrôler la qualité et la fraîcheur des catalogues, les stocks, les prix et le consentement avant automatisation."
+      ],
+      "advantages": [
+        "Smart Cart personnalisable, remplaçant le tiroir panier du thème",
+        "Widgets upsell, cross-sell et bundles",
+        "Règles de recommandation, promotions et tests"
+      ],
+      "limits": [
+        "Smart Cart remplace l'interface native du panier et n'importe pas automatiquement ses personnalisations. L'ancien Legacy Smart Cart est déprécié ; tout supplément payant nécessite le consentement explicite de l'acheteur. Compatibilités et forfaits à tester.",
+        "Les optimisations IA peuvent générer des recommandations sans stock, des attributs inexacts et des prix incorrects : tester en environnement non productif et surveiller les performances réelles."
+      ],
+      "gettingStarted": [
+        "Définir l'objectif : fiches produit, recherche, conversion, fidélité, catalogue ou automatisation de la relation client.",
+        "Connecter un catalogue test autorisé, configurer droits et consentements, mesurer la qualité des résultats puis déployer progressivement."
+      ],
+      "examples": [
+        "Sur un échantillon de produits réels, explique les filtres, prix, stocks et règles appliquées et signale toute donnée manquante.",
+        "Compare une variante témoin et une variante IA sur pertinence, conversion, retours, panier moyen et expérience utilisateur."
+      ],
+      "pricing": "Vérifier frais par abonnement, volume de commandes, recherches, conversations, produits, API, utilisateurs et modules activés. Les conditions varient selon le pays et la plateforme.",
+      "privacy": "Protéger les données de navigation, historique d'achat, profil client et consentements marketing ; vérifier les sous-traitants IA, la rétention et les permissions des agents d'achat.",
+      "selection": [
+        "Évaluer Rebuy selon le besoin (upsell), les intégrations, la qualité du catalogue, la transparence des règles, la protection des données et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "legacy_cart_deprecated_new_supported",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.rebuyengine.com/en/articles/7135807-rebuy-s-smart-cart",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://help.rebuyengine.com/en/articles/14048809-rebuy-plans-and-packages-feature-availability-by-plan",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://help.rebuyengine.com/en/articles/9283208-rebuy-cart-add-on-smart-cart-app",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_legacy_deprecated"
+  },
+  "rep-ai": {
+    "descriptionFr": "Assistant commercial Rep AI pour boutiques Shopify et autres plateformes, reliant recommandations, chat client, disponibilité produit et aides à la conversion.",
+    "descriptionEn": "Rep AI shopping concierge for Shopify and other platforms linking product recommendations, customer chat, inventory data and conversion assistance.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Synchronisation du catalogue Shopify, prix et stock",
+      "Chat commercial, découverte, aide au panier et support",
+      "Actions de catalogue et de panier avec règles produit"
+    ],
+    "featuresEn": [
+      "Shopify catalog, price and inventory sync",
+      "Sales chat, discovery, cart assistance and support",
+      "Product and cart actions with availability rules"
+    ],
+    "accessFr": "Agent commercial connecté à la boutique, selon abonnement",
+    "accessEn": "Store-connected shopping assistant by plan",
+    "officialSources": [
+      {
+        "url": "https://help.hellorep.ai/hc/en-us/articles/29213937936786-Connect-Your-Shopify-Store-to-Enhance-Your-AI-Assistant-s-Capabilities",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://help.hellorep.ai/hc/en-us/articles/11430161683218-Control-product-and-add-to-cart-availability",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://www.hellorep.ai/about",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Assistant commercial Rep AI pour boutiques Shopify et autres plateformes, reliant recommandations, chat client, disponibilité produit et aides à la conversion.",
+      "audiences": [
+        "Équipes de commerce en ligne, marketing et relation client",
+        "Développeurs de boutiques et équipes d'analyse des conversions"
+      ],
+      "cases": [
+        "Répondre aux questions d'une cliente sur la taille et recommander des articles disponibles sans inventer les délais de livraison.",
+        "Contrôler la qualité et la fraîcheur des catalogues, les stocks, les prix et le consentement avant automatisation."
+      ],
+      "advantages": [
+        "Synchronisation du catalogue Shopify, prix et stock",
+        "Chat commercial, découverte, aide au panier et support",
+        "Actions de catalogue et de panier avec règles produit"
+      ],
+      "limits": [
+        "Les actions de disponibilité sont indiquées au niveau du produit plutôt que de chaque variante ; contrôler tailles, coloris, quantité et stock avant confirmation. L'accès aux commandes et aux données clients impose permissions et politique de confidentialité.",
+        "Les optimisations IA peuvent générer des recommandations sans stock, des attributs inexacts et des prix incorrects : tester en environnement non productif et surveiller les performances réelles."
+      ],
+      "gettingStarted": [
+        "Définir l'objectif : fiches produit, recherche, conversion, fidélité, catalogue ou automatisation de la relation client.",
+        "Connecter un catalogue test autorisé, configurer droits et consentements, mesurer la qualité des résultats puis déployer progressivement."
+      ],
+      "examples": [
+        "Sur un échantillon de produits réels, explique les filtres, prix, stocks et règles appliquées et signale toute donnée manquante.",
+        "Compare une variante témoin et une variante IA sur pertinence, conversion, retours, panier moyen et expérience utilisateur."
+      ],
+      "pricing": "Vérifier frais par abonnement, volume de commandes, recherches, conversations, produits, API, utilisateurs et modules activés. Les conditions varient selon le pays et la plateforme.",
+      "privacy": "Protéger les données de navigation, historique d'achat, profil client et consentements marketing ; vérifier les sous-traitants IA, la rétention et les permissions des agents d'achat.",
+      "selection": [
+        "Évaluer Rep AI selon le besoin (shopping_agent), les intégrations, la qualité du catalogue, la transparence des règles, la protection des données et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.hellorep.ai/hc/en-us/articles/29213937936786-Connect-Your-Shopify-Store-to-Enhance-Your-AI-Assistant-s-Capabilities",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://help.hellorep.ai/hc/en-us/articles/11430161683218-Control-product-and-add-to-cart-availability",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.hellorep.ai/about",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "yotpo": {
+    "descriptionFr": "Plateforme Yotpo d'avis, contenus clients et fidélité pour e-commerce, désormais centrée sur Reviews & UGC, Loyalty & Referrals et Discover pour la visibilité IA.",
+    "descriptionEn": "Yotpo ecommerce reviews, UGC and loyalty platform now focused on Reviews & UGC, Loyalty & Referrals and Discover for AI visibility.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Collecte d'avis vérifiés, UGC et résumés IA",
+      "Loyalty, points et parrainage",
+      "Discover pour visibilité des produits dans la découverte IA"
+    ],
+    "featuresEn": [
+      "Verified reviews, UGC and AI summaries",
+      "Loyalty programs, points and referrals",
+      "Discover for AI-driven product visibility"
+    ],
+    "accessFr": "SaaS et connecteurs selon plateforme, plan et volume",
+    "accessEn": "SaaS and platform connectors by plan and volume",
+    "officialSources": [
+      {
+        "url": "https://www.yotpo.com/pricing/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://www.yotpo.com/pricing/reviews/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://www.yotpo.com/blog/email-sms-migration-partners/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme Yotpo d'avis, contenus clients et fidélité pour e-commerce, désormais centrée sur Reviews & UGC, Loyalty & Referrals et Discover pour la visibilité IA.",
+      "audiences": [
+        "Équipes de commerce en ligne, marketing et relation client",
+        "Développeurs de boutiques et équipes d'analyse des conversions"
+      ],
+      "cases": [
+        "Créer une expérience d'avis après achat et un programme de points, sans déclarer des fonctions SMS natives qui n'existent plus.",
+        "Contrôler la qualité et la fraîcheur des catalogues, les stocks, les prix et le consentement avant automatisation."
+      ],
+      "advantages": [
+        "Collecte d'avis vérifiés, UGC et résumés IA",
+        "Loyalty, points et parrainage",
+        "Discover pour visibilité des produits dans la découverte IA"
+      ],
+      "limits": [
+        "Les produits natifs Yotpo Email et SMS ont été retirés au 31 décembre 2025 ; les partenaires recommandés sont Attentive et Omnisend. Yotpo reste actif pour Reviews, Loyalty et Discover. Vérifier les coûts par volume mensuel de commandes et les règles sur avis incités.",
+        "Les optimisations IA peuvent générer des recommandations sans stock, des attributs inexacts et des prix incorrects : tester en environnement non productif et surveiller les performances réelles."
+      ],
+      "gettingStarted": [
+        "Définir l'objectif : fiches produit, recherche, conversion, fidélité, catalogue ou automatisation de la relation client.",
+        "Connecter un catalogue test autorisé, configurer droits et consentements, mesurer la qualité des résultats puis déployer progressivement."
+      ],
+      "examples": [
+        "Sur un échantillon de produits réels, explique les filtres, prix, stocks et règles appliquées et signale toute donnée manquante.",
+        "Compare une variante témoin et une variante IA sur pertinence, conversion, retours, panier moyen et expérience utilisateur."
+      ],
+      "pricing": "Vérifier frais par abonnement, volume de commandes, recherches, conversations, produits, API, utilisateurs et modules activés. Les conditions varient selon le pays et la plateforme.",
+      "privacy": "Protéger les données de navigation, historique d'achat, profil client et consentements marketing ; vérifier les sous-traitants IA, la rétention et les permissions des agents d'achat.",
+      "selection": [
+        "Évaluer Yotpo selon le besoin (reviews_loyalty), les intégrations, la qualité du catalogue, la transparence des règles, la protection des données et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "core_reviews_loyalty_active_email_sms_retired",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.yotpo.com/pricing/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.yotpo.com/pricing/reviews/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.yotpo.com/blog/email-sms-migration-partners/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_partial_product_retirement",
+    "name": "Yotpo (Reviews, Loyalty & Discover)"
+  },
+  "lily-ai": {
+    "descriptionFr": "Lily AI met en avant Lily Max, moteur agentique d'enrichissement des attributs de catalogues, schema et feeds pour recherche, publicité et commerce avec agents.",
+    "descriptionEn": "Lily AI now foregrounds Lily Max, an agentic engine enriching catalog attributes, schemas and feeds for search, ads and AI-assisted commerce.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Lily Max : détection de lacunes et enrichissement produit",
+      "Feeds structurés pour Google Ads, Meta et moteurs IA",
+      "Tests contrôlés, mesures de lift et validation de performances"
+    ],
+    "featuresEn": [
+      "Lily Max catalog gap detection and product enrichment",
+      "Structured feeds for Google, Meta and AI discovery",
+      "Controlled lift tests and outcome measurement"
+    ],
+    "accessFr": "SaaS et connecteurs selon plateforme, plan et volume",
+    "accessEn": "SaaS and platform connectors by plan and volume",
+    "officialSources": [
+      {
+        "url": "https://www.lily.ai/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://www.lily.ai/about",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://www.lily.ai/blog/product-attributes-101",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Lily AI met en avant Lily Max, moteur agentique d'enrichissement des attributs de catalogues, schema et feeds pour recherche, publicité et commerce avec agents.",
+      "audiences": [
+        "Responsables de catalogues, SEO produit et acquisition",
+        "Développeurs de boutiques et équipes d'analyse des conversions"
+      ],
+      "cases": [
+        "Enrichir des fiches de chaussures avec des attributs vérifiés de matière, pointure et usage, puis mesurer les effets dans un test témoin.",
+        "Contrôler la qualité et la fraîcheur des catalogues, les stocks, les prix et le consentement avant automatisation."
+      ],
+      "advantages": [
+        "Lily Max : détection de lacunes et enrichissement produit",
+        "Feeds structurés pour Google Ads, Meta et moteurs IA",
+        "Tests contrôlés, mesures de lift et validation de performances"
+      ],
+      "limits": [
+        "Lily Max améliore la qualité des données mais ne garantit aucun classement ou citation sur ChatGPT, Gemini ou moteurs de recherche. Les études de lift publiées sont contextuelles ; vérifier exactitude des attributs générés et biais de catégorisation.",
+        "Les optimisations IA peuvent générer des recommandations sans stock, des attributs inexacts et des prix incorrects : tester en environnement non productif et surveiller les performances réelles."
+      ],
+      "gettingStarted": [
+        "Définir l'objectif : fiches produit, recherche, conversion, fidélité, catalogue ou automatisation de la relation client.",
+        "Connecter un catalogue test autorisé, configurer droits et consentements, mesurer la qualité des résultats puis déployer progressivement."
+      ],
+      "examples": [
+        "Sur un échantillon de produits réels, explique les filtres, prix, stocks et règles appliquées et signale toute donnée manquante.",
+        "Compare une variante témoin et une variante IA sur pertinence, conversion, retours, panier moyen et expérience utilisateur."
+      ],
+      "pricing": "Vérifier frais par abonnement, volume de commandes, recherches, conversations, produits, API, utilisateurs et modules activés. Les conditions varient selon le pays et la plateforme.",
+      "privacy": "Protéger les données de navigation, historique d'achat, profil client et consentements marketing ; vérifier les sous-traitants IA, la rétention et les permissions des agents d'achat.",
+      "selection": [
+        "Évaluer Lily AI selon le besoin (catalog_intelligence), les intégrations, la qualité du catalogue, la transparence des règles, la protection des données et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "lily_max_current",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.lily.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.lily.ai/about",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.lily.ai/blog/product-attributes-101",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_product_evolution",
+    "name": "Lily AI (Lily Max)"
+  }
+}
