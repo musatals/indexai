@@ -1,0 +1,968 @@
+{
+  "canva": {
+    "descriptionFr": "Plateforme de création graphique collaborative associant modèles, identité visuelle et fonctions IA.",
+    "descriptionEn": "Collaborative design platform with templates, brand identity and AI features.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Création graphique",
+      "Brand Kit",
+      "Génération visuelle et adaptation de formats"
+    ],
+    "featuresEn": [
+      "Graphic design",
+      "Brand kit",
+      "Génération visuelle et adaptation de formats"
+    ],
+    "accessFr": "Web ; applications ou intégrations selon le produit",
+    "accessEn": "Web; apps and integrations depending on product",
+    "officialSources": [
+      {
+        "url": "https://www.canva.com/magic/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de création graphique collaborative associant modèles, identité visuelle et fonctions IA.",
+      "audiences": [
+        "Designers et équipes de communication",
+        "Entrepreneurs, enseignants et créateurs"
+      ],
+      "cases": [
+        "Créer des visuels cohérents pour un portail, ses réseaux sociaux et ses supports pédagogiques.",
+        "Comparer plusieurs propositions et ajuster manuellement typographie, cohérence et accessibilité."
+      ],
+      "advantages": [
+        "Création graphique",
+        "Brand Kit",
+        "Génération visuelle et adaptation de formats"
+      ],
+      "limits": [
+        "Vérifier les licences des éléments et les limites du forfait avant usage commercial.",
+        "Les créations générées peuvent reproduire des conventions visuelles existantes ; les droits et l'originalité exigent une vérification."
+      ],
+      "gettingStarted": [
+        "Définir le public, le support, les couleurs et les contraintes d'identité de marque.",
+        "Créer plusieurs variantes, vérifier la lisibilité, l'originalité et les conditions de licence avant export."
+      ],
+      "examples": [
+        "Propose une identité visuelle cohérente pour un portail éducatif, avec palette accessible et déclinaisons.",
+        "Prépare trois variantes d'un visuel et justifie les choix typographiques et de contraste."
+      ],
+      "pricing": "Vérifier la grille officielle pour les crédits IA, les exports, les droits commerciaux et la collaboration.",
+      "privacy": "Éviter l'import de fichiers de marque confidentiels sans vérifier conservation, partage et traitement des données.",
+      "selection": [
+        "Choisir Canva selon le niveau de contrôle graphique, les formats de sortie, les droits et le besoin de collaboration."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.canva.com/magic/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "adobe-express": {
+    "descriptionFr": "Éditeur graphique et vidéo d'Adobe avec modèles, Firefly et assistant conversationnel IA en bêta.",
+    "descriptionEn": "Adobe's design and video editor with templates, Firefly and a beta conversational AI assistant.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Création de visuels et vidéos",
+      "Assistant IA en bêta",
+      "Brand Kit et modèles"
+    ],
+    "featuresEn": [
+      "Création de visuels et vidéos",
+      "Assistant IA en bêta",
+      "Brand Kit et modèles"
+    ],
+    "accessFr": "Web ; applications ou intégrations selon le produit",
+    "accessEn": "Web; apps and integrations depending on product",
+    "officialSources": [
+      {
+        "url": "https://helpx.adobe.com/express/web/ai-assistant/adobe-express-ai-assistant-overview.html",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Éditeur graphique et vidéo d'Adobe avec modèles, Firefly et assistant conversationnel IA en bêta.",
+      "audiences": [
+        "Designers et équipes de communication",
+        "Entrepreneurs, enseignants et créateurs"
+      ],
+      "cases": [
+        "Concevoir une affiche puis modifier sa mise en page et ses visuels par instructions.",
+        "Comparer plusieurs propositions et ajuster manuellement typographie, cohérence et accessibilité."
+      ],
+      "advantages": [
+        "Création de visuels et vidéos",
+        "Assistant IA en bêta",
+        "Brand Kit et modèles"
+      ],
+      "limits": [
+        "L'assistant IA en bêta dépend de la région, de la langue, du compte et de l'appareil ; certaines offres professionnelles ne sont pas compatibles.",
+        "Les créations générées peuvent reproduire des conventions visuelles existantes ; les droits et l'originalité exigent une vérification."
+      ],
+      "gettingStarted": [
+        "Définir le public, le support, les couleurs et les contraintes d'identité de marque.",
+        "Créer plusieurs variantes, vérifier la lisibilité, l'originalité et les conditions de licence avant export."
+      ],
+      "examples": [
+        "Propose une identité visuelle cohérente pour un portail éducatif, avec palette accessible et déclinaisons.",
+        "Prépare trois variantes d'un visuel et justifie les choix typographiques et de contraste."
+      ],
+      "pricing": "Vérifier la grille officielle pour les crédits IA, les exports, les droits commerciaux et la collaboration.",
+      "privacy": "Éviter l'import de fichiers de marque confidentiels sans vérifier conservation, partage et traitement des données.",
+      "selection": [
+        "Choisir Adobe Express selon le niveau de contrôle graphique, les formats de sortie, les droits et le besoin de collaboration."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://helpx.adobe.com/express/web/ai-assistant/adobe-express-ai-assistant-overview.html",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "looka": {
+    "descriptionFr": "Générateur d'identité de marque comprenant logos et déclinaisons graphiques pour petites entreprises.",
+    "descriptionEn": "Brand-identity generator with logos and graphic collateral for small businesses.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Conception de logos",
+      "Brand Kit",
+      "Déclinaisons de marque"
+    ],
+    "featuresEn": [
+      "Conception de logos",
+      "Brand kit",
+      "Déclinaisons de marque"
+    ],
+    "accessFr": "Web ; applications ou intégrations selon le produit",
+    "accessEn": "Web; apps and integrations depending on product",
+    "officialSources": [
+      {
+        "url": "https://looka.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "product_overview"
+      }
+    ],
+    "research": {
+      "headline": "Générateur d'identité de marque comprenant logos et déclinaisons graphiques pour petites entreprises.",
+      "audiences": [
+        "Designers et équipes de communication",
+        "Entrepreneurs, enseignants et créateurs"
+      ],
+      "cases": [
+        "Créer les premières propositions de logo et de palette pour un nouveau projet.",
+        "Comparer plusieurs propositions et ajuster manuellement typographie, cohérence et accessibilité."
+      ],
+      "advantages": [
+        "Conception de logos",
+        "Brand Kit",
+        "Déclinaisons de marque"
+      ],
+      "limits": [
+        "Contrôler la disponibilité des noms, les droits de marque et les options de fichiers selon l'achat.",
+        "Les créations générées peuvent reproduire des conventions visuelles existantes ; les droits et l'originalité exigent une vérification."
+      ],
+      "gettingStarted": [
+        "Définir le public, le support, les couleurs et les contraintes d'identité de marque.",
+        "Créer plusieurs variantes, vérifier la lisibilité, l'originalité et les conditions de licence avant export."
+      ],
+      "examples": [
+        "Propose une identité visuelle cohérente pour un portail éducatif, avec palette accessible et déclinaisons.",
+        "Prépare trois variantes d'un visuel et justifie les choix typographiques et de contraste."
+      ],
+      "pricing": "Vérifier la grille officielle pour les crédits IA, les exports, les droits commerciaux et la collaboration.",
+      "privacy": "Éviter l'import de fichiers de marque confidentiels sans vérifier conservation, partage et traitement des données.",
+      "selection": [
+        "Choisir Looka selon le niveau de contrôle graphique, les formats de sortie, les droits et le besoin de collaboration."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "product_overview",
+      "evidence": "official_product_page",
+      "sources": [
+        {
+          "url": "https://looka.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_product_overview"
+  },
+  "brandmark": {
+    "descriptionFr": "Service de génération de logos et d'éléments de marque à partir d'un nom et de préférences visuelles.",
+    "descriptionEn": "Logo and brand-asset generator from a name and visual preferences.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Propositions de logos",
+      "Personnalisation de couleurs",
+      "Fichiers de marque selon formule"
+    ],
+    "featuresEn": [
+      "Propositions de logos",
+      "Personnalisation de couleurs",
+      "Fichiers de marque selon formule"
+    ],
+    "accessFr": "Web ; applications ou intégrations selon le produit",
+    "accessEn": "Web; apps and integrations depending on product",
+    "officialSources": [
+      {
+        "url": "https://brandmark.io/",
+        "checkedAt": "2026-11-16",
+        "scope": "product_overview"
+      }
+    ],
+    "research": {
+      "headline": "Service de génération de logos et d'éléments de marque à partir d'un nom et de préférences visuelles.",
+      "audiences": [
+        "Designers et équipes de communication",
+        "Entrepreneurs, enseignants et créateurs"
+      ],
+      "cases": [
+        "Explorer différentes identités visuelles pour une initiative associative.",
+        "Comparer plusieurs propositions et ajuster manuellement typographie, cohérence et accessibilité."
+      ],
+      "advantages": [
+        "Propositions de logos",
+        "Personnalisation de couleurs",
+        "Fichiers de marque selon formule"
+      ],
+      "limits": [
+        "Un logo généré ne garantit ni unicité ni protection juridique ; examiner la licence de téléchargement.",
+        "Les créations générées peuvent reproduire des conventions visuelles existantes ; les droits et l'originalité exigent une vérification."
+      ],
+      "gettingStarted": [
+        "Définir le public, le support, les couleurs et les contraintes d'identité de marque.",
+        "Créer plusieurs variantes, vérifier la lisibilité, l'originalité et les conditions de licence avant export."
+      ],
+      "examples": [
+        "Propose une identité visuelle cohérente pour un portail éducatif, avec palette accessible et déclinaisons.",
+        "Prépare trois variantes d'un visuel et justifie les choix typographiques et de contraste."
+      ],
+      "pricing": "Vérifier la grille officielle pour les crédits IA, les exports, les droits commerciaux et la collaboration.",
+      "privacy": "Éviter l'import de fichiers de marque confidentiels sans vérifier conservation, partage et traitement des données.",
+      "selection": [
+        "Choisir Brandmark selon le niveau de contrôle graphique, les formats de sortie, les droits et le besoin de collaboration."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "product_overview",
+      "evidence": "official_product_page",
+      "sources": [
+        {
+          "url": "https://brandmark.io/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_product_overview"
+  },
+  "logoai": {
+    "descriptionFr": "Outil de conception de logos IA accompagné de déclinaisons pour l'identité visuelle.",
+    "descriptionEn": "AI-assisted logo maker with related brand-identity assets.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Logos générés",
+      "Mise en page de marque",
+      "Exports selon offre"
+    ],
+    "featuresEn": [
+      "Logos générés",
+      "Mise en page de marque",
+      "Exports selon offre"
+    ],
+    "accessFr": "Web ; applications ou intégrations selon le produit",
+    "accessEn": "Web; apps and integrations depending on product",
+    "officialSources": [
+      {
+        "url": "https://www.logoai.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "product_overview"
+      }
+    ],
+    "research": {
+      "headline": "Outil de conception de logos IA accompagné de déclinaisons pour l'identité visuelle.",
+      "audiences": [
+        "Designers et équipes de communication",
+        "Entrepreneurs, enseignants et créateurs"
+      ],
+      "cases": [
+        "Comparer plusieurs directions visuelles pour une marque de formation.",
+        "Comparer plusieurs propositions et ajuster manuellement typographie, cohérence et accessibilité."
+      ],
+      "advantages": [
+        "Logos générés",
+        "Mise en page de marque",
+        "Exports selon offre"
+      ],
+      "limits": [
+        "Vérifier les formats d'export et les droits d'utilisation avant la commande.",
+        "Les créations générées peuvent reproduire des conventions visuelles existantes ; les droits et l'originalité exigent une vérification."
+      ],
+      "gettingStarted": [
+        "Définir le public, le support, les couleurs et les contraintes d'identité de marque.",
+        "Créer plusieurs variantes, vérifier la lisibilité, l'originalité et les conditions de licence avant export."
+      ],
+      "examples": [
+        "Propose une identité visuelle cohérente pour un portail éducatif, avec palette accessible et déclinaisons.",
+        "Prépare trois variantes d'un visuel et justifie les choix typographiques et de contraste."
+      ],
+      "pricing": "Vérifier la grille officielle pour les crédits IA, les exports, les droits commerciaux et la collaboration.",
+      "privacy": "Éviter l'import de fichiers de marque confidentiels sans vérifier conservation, partage et traitement des données.",
+      "selection": [
+        "Choisir LogoAI selon le niveau de contrôle graphique, les formats de sortie, les droits et le besoin de collaboration."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "product_overview",
+      "evidence": "official_product_page",
+      "sources": [
+        {
+          "url": "https://www.logoai.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_product_overview"
+  },
+  "designs-ai": {
+    "descriptionFr": "Ensemble d'outils créatifs assistés par IA pour logos, visuels, vidéos et contenus de marque.",
+    "descriptionEn": "AI-assisted creative suite for logos, graphics, videos and branded content.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Conception de logos",
+      "Création de visuels",
+      "Production de contenus marketing"
+    ],
+    "featuresEn": [
+      "Conception de logos",
+      "Création de visuels",
+      "Production de contenus marketing"
+    ],
+    "accessFr": "Web ; applications ou intégrations selon le produit",
+    "accessEn": "Web; apps and integrations depending on product",
+    "officialSources": [
+      {
+        "url": "https://designs.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "product_overview"
+      }
+    ],
+    "research": {
+      "headline": "Ensemble d'outils créatifs assistés par IA pour logos, visuels, vidéos et contenus de marque.",
+      "audiences": [
+        "Designers et équipes de communication",
+        "Entrepreneurs, enseignants et créateurs"
+      ],
+      "cases": [
+        "Créer un kit visuel coordonné pour un événement.",
+        "Comparer plusieurs propositions et ajuster manuellement typographie, cohérence et accessibilité."
+      ],
+      "advantages": [
+        "Conception de logos",
+        "Création de visuels",
+        "Production de contenus marketing"
+      ],
+      "limits": [
+        "Disponibilité et limitations des modules variables ; ne pas assimiler génération et droits exclusifs.",
+        "Les créations générées peuvent reproduire des conventions visuelles existantes ; les droits et l'originalité exigent une vérification."
+      ],
+      "gettingStarted": [
+        "Définir le public, le support, les couleurs et les contraintes d'identité de marque.",
+        "Créer plusieurs variantes, vérifier la lisibilité, l'originalité et les conditions de licence avant export."
+      ],
+      "examples": [
+        "Propose une identité visuelle cohérente pour un portail éducatif, avec palette accessible et déclinaisons.",
+        "Prépare trois variantes d'un visuel et justifie les choix typographiques et de contraste."
+      ],
+      "pricing": "Vérifier la grille officielle pour les crédits IA, les exports, les droits commerciaux et la collaboration.",
+      "privacy": "Éviter l'import de fichiers de marque confidentiels sans vérifier conservation, partage et traitement des données.",
+      "selection": [
+        "Choisir Designs.ai selon le niveau de contrôle graphique, les formats de sortie, les droits et le besoin de collaboration."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "product_overview",
+      "evidence": "official_product_page",
+      "sources": [
+        {
+          "url": "https://designs.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_product_overview"
+  },
+  "kittl": {
+    "descriptionFr": "Éditeur graphique proposant création d'images et vecteurs IA, modèles modifiables et mockups.",
+    "descriptionEn": "Graphic editor for AI images and vectors, editable templates and mockups.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Vecteurs générés par IA",
+      "Modèles modifiables",
+      "Mockups de produits"
+    ],
+    "featuresEn": [
+      "Vecteurs générés par IA",
+      "Modèles modifiables",
+      "Mockups de produits"
+    ],
+    "accessFr": "Web ; applications ou intégrations selon le produit",
+    "accessEn": "Web; apps and integrations depending on product",
+    "officialSources": [
+      {
+        "url": "https://www.kittl.com/tools",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Éditeur graphique proposant création d'images et vecteurs IA, modèles modifiables et mockups.",
+      "audiences": [
+        "Designers et équipes de communication",
+        "Entrepreneurs, enseignants et créateurs"
+      ],
+      "cases": [
+        "Concevoir une affiche typographique puis la présenter sur un mockup.",
+        "Comparer plusieurs propositions et ajuster manuellement typographie, cohérence et accessibilité."
+      ],
+      "advantages": [
+        "Vecteurs générés par IA",
+        "Modèles modifiables",
+        "Mockups de produits"
+      ],
+      "limits": [
+        "Les exports vectoriels et certaines licences commerciales dépendent du forfait.",
+        "Les créations générées peuvent reproduire des conventions visuelles existantes ; les droits et l'originalité exigent une vérification."
+      ],
+      "gettingStarted": [
+        "Définir le public, le support, les couleurs et les contraintes d'identité de marque.",
+        "Créer plusieurs variantes, vérifier la lisibilité, l'originalité et les conditions de licence avant export."
+      ],
+      "examples": [
+        "Propose une identité visuelle cohérente pour un portail éducatif, avec palette accessible et déclinaisons.",
+        "Prépare trois variantes d'un visuel et justifie les choix typographiques et de contraste."
+      ],
+      "pricing": "Vérifier la grille officielle pour les crédits IA, les exports, les droits commerciaux et la collaboration.",
+      "privacy": "Éviter l'import de fichiers de marque confidentiels sans vérifier conservation, partage et traitement des données.",
+      "selection": [
+        "Choisir Kittl selon le niveau de contrôle graphique, les formats de sortie, les droits et le besoin de collaboration."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.kittl.com/tools",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "uizard": {
+    "descriptionFr": "Plateforme de prototypage UI/UX générant des maquettes multi-écrans à partir de descriptions textuelles.",
+    "descriptionEn": "UI/UX prototyping platform generating multi-screen mockups from text descriptions.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Autodesigner",
+      "Maquettes multi-écrans",
+      "Itérations de design"
+    ],
+    "featuresEn": [
+      "Autodesigner",
+      "Multi-screen mockups",
+      "Design iterations"
+    ],
+    "accessFr": "Web ; applications ou intégrations selon le produit",
+    "accessEn": "Web; apps and integrations depending on product",
+    "officialSources": [
+      {
+        "url": "https://support.uizard.io/en/articles/7728147-guide-to-autodesigner",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de prototypage UI/UX générant des maquettes multi-écrans à partir de descriptions textuelles.",
+      "audiences": [
+        "Designers et équipes de communication",
+        "Entrepreneurs, enseignants et créateurs"
+      ],
+      "cases": [
+        "Préparer la maquette d'un portail avant développement.",
+        "Comparer plusieurs propositions et ajuster manuellement typographie, cohérence et accessibilité."
+      ],
+      "advantages": [
+        "Autodesigner",
+        "Maquettes multi-écrans",
+        "Itérations de design"
+      ],
+      "limits": [
+        "Uizard indique que ses prototypes ne créent pas à eux seuls une application fonctionnelle connectée à une base de données.",
+        "Les créations générées peuvent reproduire des conventions visuelles existantes ; les droits et l'originalité exigent une vérification."
+      ],
+      "gettingStarted": [
+        "Définir le public, le support, les couleurs et les contraintes d'identité de marque.",
+        "Créer plusieurs variantes, vérifier la lisibilité, l'originalité et les conditions de licence avant export."
+      ],
+      "examples": [
+        "Propose une identité visuelle cohérente pour un portail éducatif, avec palette accessible et déclinaisons.",
+        "Prépare trois variantes d'un visuel et justifie les choix typographiques et de contraste."
+      ],
+      "pricing": "Vérifier la grille officielle pour les crédits IA, les exports, les droits commerciaux et la collaboration.",
+      "privacy": "Éviter l'import de fichiers de marque confidentiels sans vérifier conservation, partage et traitement des données.",
+      "selection": [
+        "Choisir Uizard selon le niveau de contrôle graphique, les formats de sortie, les droits et le besoin de collaboration."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://support.uizard.io/en/articles/7728147-guide-to-autodesigner",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "visme": {
+    "descriptionFr": "Outil de communication visuelle pour présentations, graphiques, infographies et supports marketing.",
+    "descriptionEn": "Visual communication platform for presentations, charts, infographics and marketing assets.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Infographies",
+      "Présentations",
+      "Visuels de marque et données"
+    ],
+    "featuresEn": [
+      "Infographics",
+      "Presentations",
+      "Visuels de marque et données"
+    ],
+    "accessFr": "Web ; applications ou intégrations selon le produit",
+    "accessEn": "Web; apps and integrations depending on product",
+    "officialSources": [
+      {
+        "url": "https://www.visme.co/",
+        "checkedAt": "2026-11-16",
+        "scope": "product_overview"
+      }
+    ],
+    "research": {
+      "headline": "Outil de communication visuelle pour présentations, graphiques, infographies et supports marketing.",
+      "audiences": [
+        "Designers et équipes de communication",
+        "Entrepreneurs, enseignants et créateurs"
+      ],
+      "cases": [
+        "Transformer un rapport d'activité en graphiques et visuels éditables.",
+        "Comparer plusieurs propositions et ajuster manuellement typographie, cohérence et accessibilité."
+      ],
+      "advantages": [
+        "Infographies",
+        "Présentations",
+        "Visuels de marque et données"
+      ],
+      "limits": [
+        "Contrôler les données chiffrées, les modèles de licence et les options d'export.",
+        "Les créations générées peuvent reproduire des conventions visuelles existantes ; les droits et l'originalité exigent une vérification."
+      ],
+      "gettingStarted": [
+        "Définir le public, le support, les couleurs et les contraintes d'identité de marque.",
+        "Créer plusieurs variantes, vérifier la lisibilité, l'originalité et les conditions de licence avant export."
+      ],
+      "examples": [
+        "Propose une identité visuelle cohérente pour un portail éducatif, avec palette accessible et déclinaisons.",
+        "Prépare trois variantes d'un visuel et justifie les choix typographiques et de contraste."
+      ],
+      "pricing": "Vérifier la grille officielle pour les crédits IA, les exports, les droits commerciaux et la collaboration.",
+      "privacy": "Éviter l'import de fichiers de marque confidentiels sans vérifier conservation, partage et traitement des données.",
+      "selection": [
+        "Choisir Visme selon le niveau de contrôle graphique, les formats de sortie, les droits et le besoin de collaboration."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "product_overview",
+      "evidence": "official_product_page",
+      "sources": [
+        {
+          "url": "https://www.visme.co/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_product_overview"
+  },
+  "piktochart": {
+    "descriptionFr": "Éditeur d'infographies utilisant l'IA pour transformer textes et documents en visuels structurés et éditables.",
+    "descriptionEn": "Infographic editor using AI to turn text and documents into structured editable visuals.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Infographies à partir de documents",
+      "Édition fine des visuels",
+      "Crédits IA selon forfait"
+    ],
+    "featuresEn": [
+      "Infographies à partir de documents",
+      "Édition fine des visuels",
+      "Crédits IA selon forfait"
+    ],
+    "accessFr": "Web ; applications ou intégrations selon le produit",
+    "accessEn": "Web; apps and integrations depending on product",
+    "officialSources": [
+      {
+        "url": "https://piktochart.com/ai-infographic-generator/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Éditeur d'infographies utilisant l'IA pour transformer textes et documents en visuels structurés et éditables.",
+      "audiences": [
+        "Designers et équipes de communication",
+        "Entrepreneurs, enseignants et créateurs"
+      ],
+      "cases": [
+        "Transformer un rapport PDF en infographie pédagogique.",
+        "Comparer plusieurs propositions et ajuster manuellement typographie, cohérence et accessibilité."
+      ],
+      "advantages": [
+        "Infographies à partir de documents",
+        "Édition fine des visuels",
+        "Crédits IA selon forfait"
+      ],
+      "limits": [
+        "La génération ne vérifie pas les faits ni les données du document ; les crédits et les exports sont soumis à des limites.",
+        "Les créations générées peuvent reproduire des conventions visuelles existantes ; les droits et l'originalité exigent une vérification."
+      ],
+      "gettingStarted": [
+        "Définir le public, le support, les couleurs et les contraintes d'identité de marque.",
+        "Créer plusieurs variantes, vérifier la lisibilité, l'originalité et les conditions de licence avant export."
+      ],
+      "examples": [
+        "Propose une identité visuelle cohérente pour un portail éducatif, avec palette accessible et déclinaisons.",
+        "Prépare trois variantes d'un visuel et justifie les choix typographiques et de contraste."
+      ],
+      "pricing": "Vérifier la grille officielle pour les crédits IA, les exports, les droits commerciaux et la collaboration.",
+      "privacy": "Éviter l'import de fichiers de marque confidentiels sans vérifier conservation, partage et traitement des données.",
+      "selection": [
+        "Choisir Piktochart selon le niveau de contrôle graphique, les formats de sortie, les droits et le besoin de collaboration."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://piktochart.com/ai-infographic-generator/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "khroma": {
+    "descriptionFr": "Outil de découverte et de combinaison de palettes colorées fondé sur des préférences visuelles.",
+    "descriptionEn": "Color palette discovery and combination tool informed by visual preferences.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Palettes de couleurs",
+      "Recherche de combinaisons",
+      "Exploration de contrastes"
+    ],
+    "featuresEn": [
+      "Palettes de couleurs",
+      "Recherche de combinaisons",
+      "Exploration de contrastes"
+    ],
+    "accessFr": "Web ; applications ou intégrations selon le produit",
+    "accessEn": "Web; apps and integrations depending on product",
+    "officialSources": [
+      {
+        "url": "https://www.khroma.co/",
+        "checkedAt": "2026-11-16",
+        "scope": "product_overview"
+      }
+    ],
+    "research": {
+      "headline": "Outil de découverte et de combinaison de palettes colorées fondé sur des préférences visuelles.",
+      "audiences": [
+        "Designers et équipes de communication",
+        "Entrepreneurs, enseignants et créateurs"
+      ],
+      "cases": [
+        "Choisir une palette pour les modes clair et sombre d'un site.",
+        "Comparer plusieurs propositions et ajuster manuellement typographie, cohérence et accessibilité."
+      ],
+      "advantages": [
+        "Palettes de couleurs",
+        "Recherche de combinaisons",
+        "Exploration de contrastes"
+      ],
+      "limits": [
+        "Une palette harmonieuse ne garantit pas l'accessibilité : tester les contrastes WCAG.",
+        "Les créations générées peuvent reproduire des conventions visuelles existantes ; les droits et l'originalité exigent une vérification."
+      ],
+      "gettingStarted": [
+        "Définir le public, le support, les couleurs et les contraintes d'identité de marque.",
+        "Créer plusieurs variantes, vérifier la lisibilité, l'originalité et les conditions de licence avant export."
+      ],
+      "examples": [
+        "Propose une identité visuelle cohérente pour un portail éducatif, avec palette accessible et déclinaisons.",
+        "Prépare trois variantes d'un visuel et justifie les choix typographiques et de contraste."
+      ],
+      "pricing": "Vérifier la grille officielle pour les crédits IA, les exports, les droits commerciaux et la collaboration.",
+      "privacy": "Éviter l'import de fichiers de marque confidentiels sans vérifier conservation, partage et traitement des données.",
+      "selection": [
+        "Choisir Khroma selon le niveau de contrôle graphique, les formats de sortie, les droits et le besoin de collaboration."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "product_overview",
+      "evidence": "official_product_page",
+      "sources": [
+        {
+          "url": "https://www.khroma.co/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_product_overview"
+  },
+  "galileo-ai": {
+    "descriptionFr": "Ancien générateur de maquettes d'interfaces à partir de texte ; disponibilité du produit autonome non confirmée.",
+    "descriptionEn": "Former prompt-to-UI mockup generator; standalone product availability is unconfirmed.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Génération historique de maquettes UI",
+      "Interfaces à partir de prompts",
+      "Statut du produit à vérifier"
+    ],
+    "featuresEn": [
+      "Génération historique de maquettes UI",
+      "Interfaces à partir de prompts",
+      "Statut du produit à vérifier"
+    ],
+    "accessFr": "Web ; applications ou intégrations selon le produit",
+    "accessEn": "Web; apps and integrations depending on product",
+    "officialSources": [
+      {
+        "url": "https://www.usegalileo.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "product_overview"
+      }
+    ],
+    "research": {
+      "headline": "Ancien générateur de maquettes d'interfaces à partir de texte ; disponibilité du produit autonome non confirmée.",
+      "audiences": [
+        "Designers et équipes de communication",
+        "Entrepreneurs, enseignants et créateurs"
+      ],
+      "cases": [
+        "Retrouver une référence historique de conception d'interfaces et comparer les alternatives actives.",
+        "Comparer plusieurs propositions et ajuster manuellement typographie, cohérence et accessibilité."
+      ],
+      "advantages": [
+        "Génération historique de maquettes UI",
+        "Interfaces à partir de prompts",
+        "Statut du produit à vérifier"
+      ],
+      "limits": [
+        "L'organisation GitHub officielle Galileo AI est archivée depuis mars 2026 ; cela ne suffit pas à établir le statut du service commercial.",
+        "Les créations générées peuvent reproduire des conventions visuelles existantes ; les droits et l'originalité exigent une vérification."
+      ],
+      "gettingStarted": [
+        "Définir le public, le support, les couleurs et les contraintes d'identité de marque.",
+        "Créer plusieurs variantes, vérifier la lisibilité, l'originalité et les conditions de licence avant export."
+      ],
+      "examples": [
+        "Propose une identité visuelle cohérente pour un portail éducatif, avec palette accessible et déclinaisons.",
+        "Prépare trois variantes d'un visuel et justifie les choix typographiques et de contraste."
+      ],
+      "pricing": "Vérifier la grille officielle pour les crédits IA, les exports, les droits commerciaux et la collaboration.",
+      "privacy": "Éviter l'import de fichiers de marque confidentiels sans vérifier conservation, partage et traitement des données.",
+      "selection": [
+        "Choisir Galileo AI selon le niveau de contrôle graphique, les formats de sortie, les droits et le besoin de collaboration."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "availability_unconfirmed",
+      "evidence": "official_product_page",
+      "sources": [
+        {
+          "url": "https://www.usegalileo.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "availability_unconfirmed"
+  },
+  "figma-ai": {
+    "descriptionFr": "Fonctions IA de Figma pour édition de design, génération d'images et création de prototypes applicatifs via Figma Make.",
+    "descriptionEn": "Figma AI features for design editing, image generation and app prototyping through Figma Make.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Assistant de design",
+      "Génération et édition d'images",
+      "Figma Make : prototypes interactifs"
+    ],
+    "featuresEn": [
+      "Assistant de design",
+      "Génération et édition d'images",
+      "Figma Make : prototypes interactifs"
+    ],
+    "accessFr": "Web ; applications ou intégrations selon le produit",
+    "accessEn": "Web; apps and integrations depending on product",
+    "officialSources": [
+      {
+        "url": "https://help.figma.com/hc/en-us/articles/23870272542231-Get-started-with-Figma-AI",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Fonctions IA de Figma pour édition de design, génération d'images et création de prototypes applicatifs via Figma Make.",
+      "audiences": [
+        "Designers et équipes de communication",
+        "Entrepreneurs, enseignants et créateurs"
+      ],
+      "cases": [
+        "Créer une maquette interactive puis comparer les variantes d'une interface.",
+        "Comparer plusieurs propositions et ajuster manuellement typographie, cohérence et accessibilité."
+      ],
+      "advantages": [
+        "Assistant de design",
+        "Génération et édition d'images",
+        "Figma Make : prototypes interactifs"
+      ],
+      "limits": [
+        "Les outils et crédits IA dépendent de l'abonnement, des autorisations et du type de compte.",
+        "Les créations générées peuvent reproduire des conventions visuelles existantes ; les droits et l'originalité exigent une vérification."
+      ],
+      "gettingStarted": [
+        "Définir le public, le support, les couleurs et les contraintes d'identité de marque.",
+        "Créer plusieurs variantes, vérifier la lisibilité, l'originalité et les conditions de licence avant export."
+      ],
+      "examples": [
+        "Propose une identité visuelle cohérente pour un portail éducatif, avec palette accessible et déclinaisons.",
+        "Prépare trois variantes d'un visuel et justifie les choix typographiques et de contraste."
+      ],
+      "pricing": "Vérifier la grille officielle pour les crédits IA, les exports, les droits commerciaux et la collaboration.",
+      "privacy": "Éviter l'import de fichiers de marque confidentiels sans vérifier conservation, partage et traitement des données.",
+      "selection": [
+        "Choisir Figma AI selon le niveau de contrôle graphique, les formats de sortie, les droits et le besoin de collaboration."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.figma.com/hc/en-us/articles/23870272542231-Get-started-with-Figma-AI",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "framer-ai": {
+    "descriptionFr": "Outils et agents IA de Framer pour créer, améliorer et publier des sites web sur un canevas visuel.",
+    "descriptionEn": "Framer AI tools and agents for building, refining and publishing websites on a visual canvas.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Création et modification de pages par IA",
+      "Édition visuelle responsive",
+      "CMS, SEO et publication"
+    ],
+    "featuresEn": [
+      "Création et modification de pages par IA",
+      "Édition visuelle responsive",
+      "CMS, SEO et publication"
+    ],
+    "accessFr": "Web ; applications ou intégrations selon le produit",
+    "accessEn": "Web; apps and integrations depending on product",
+    "officialSources": [
+      {
+        "url": "https://www.framer.com/ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Outils et agents IA de Framer pour créer, améliorer et publier des sites web sur un canevas visuel.",
+      "audiences": [
+        "Designers et équipes de communication",
+        "Entrepreneurs, enseignants et créateurs"
+      ],
+      "cases": [
+        "Réaliser une page d'accueil responsive et ajuster les contenus avant publication.",
+        "Comparer plusieurs propositions et ajuster manuellement typographie, cohérence et accessibilité."
+      ],
+      "advantages": [
+        "Création et modification de pages par IA",
+        "Édition visuelle responsive",
+        "CMS, SEO et publication"
+      ],
+      "limits": [
+        "Vérifier l'hébergement, les quotas, le domaine personnalisé et les contraintes de publication du forfait.",
+        "Les créations générées peuvent reproduire des conventions visuelles existantes ; les droits et l'originalité exigent une vérification."
+      ],
+      "gettingStarted": [
+        "Définir le public, le support, les couleurs et les contraintes d'identité de marque.",
+        "Créer plusieurs variantes, vérifier la lisibilité, l'originalité et les conditions de licence avant export."
+      ],
+      "examples": [
+        "Propose une identité visuelle cohérente pour un portail éducatif, avec palette accessible et déclinaisons.",
+        "Prépare trois variantes d'un visuel et justifie les choix typographiques et de contraste."
+      ],
+      "pricing": "Vérifier la grille officielle pour les crédits IA, les exports, les droits commerciaux et la collaboration.",
+      "privacy": "Éviter l'import de fichiers de marque confidentiels sans vérifier conservation, partage et traitement des données.",
+      "selection": [
+        "Choisir Framer AI selon le niveau de contrôle graphique, les formats de sortie, les droits et le besoin de collaboration."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.framer.com/ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  }
+}
