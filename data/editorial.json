@@ -774,28 +774,104 @@
     ]
   },
   "Smartcat": {
-    "descriptionFr": "Plateforme de traduction et de localisation de contenus pour les équipes multilingues.",
-    "descriptionEn": "Translation and localization platform for multilingual teams.",
+    "descriptionFr": "Plateforme de traduction et localisation d'entreprise combinant IA et révision humaine.",
+    "descriptionEn": "Enterprise translation and localization combining AI with human review.",
     "descriptionStatus": "editorial",
-    "editorialDate": "2026-11-15"
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Localisation d'entreprise",
+      "Flux marketing et formation",
+      "Collaboration linguistique"
+    ],
+    "featuresEn": [
+      "Enterprise localization",
+      "Marketing and training workflows",
+      "Linguistic collaboration"
+    ],
+    "accessFr": "Plateforme web et intégrations",
+    "accessEn": "Web platform and integrations",
+    "officialSources": [
+      {
+        "url": "https://www.smartcat.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
   },
   "Lokalise": {
-    "descriptionFr": "Outil de gestion de la localisation et de collaboration sur les traductions de produits numériques.",
-    "descriptionEn": "Localization management and translation collaboration tool.",
+    "descriptionFr": "Localisation collaborative de sites et applications avec automatisation et intégrations.",
+    "descriptionEn": "Collaborative website and application localization with automation and integrations.",
     "descriptionStatus": "editorial",
-    "editorialDate": "2026-11-15"
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Sites et applications",
+      "Intégrations GitHub/Figma",
+      "Automatisation et contexte"
+    ],
+    "featuresEn": [
+      "Websites and apps",
+      "GitHub/Figma integrations",
+      "Automation and context"
+    ],
+    "accessFr": "Plateforme web et intégrations",
+    "accessEn": "Web platform and integrations",
+    "officialSources": [
+      {
+        "url": "https://lokalise.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
   },
   "Crowdin": {
-    "descriptionFr": "Plateforme de gestion des traductions et de la localisation de logiciels et de sites.",
-    "descriptionEn": "Localization and translation management platform for software and websites.",
+    "descriptionFr": "Plateforme de localisation collaborative de contenus numériques avec intégrations et IA.",
+    "descriptionEn": "Collaborative digital localization platform with integrations and AI.",
     "descriptionStatus": "editorial",
-    "editorialDate": "2026-11-15"
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Traductions collaboratives",
+      "Intégrations techniques",
+      "Automatisation IA"
+    ],
+    "featuresEn": [
+      "Collaborative translation",
+      "Technical integrations",
+      "AI automation"
+    ],
+    "accessFr": "Plateforme web et intégrations",
+    "accessEn": "Web platform and integrations",
+    "officialSources": [
+      {
+        "url": "https://crowdin.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
   },
   "Rask AI": {
-    "descriptionFr": "Service de traduction et de doublage de vidéos assisté par intelligence artificielle.",
-    "descriptionEn": "AI-powered video translation and dubbing platform.",
+    "descriptionFr": "Traduction et doublage automatique de vidéos et audio avec voix IA.",
+    "descriptionEn": "AI audio and video translation and dubbing with AI voices.",
     "descriptionStatus": "editorial",
-    "editorialDate": "2026-11-15"
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Doublage multilingue",
+      "Voix IA",
+      "Accès API"
+    ],
+    "featuresEn": [
+      "Multilingual dubbing",
+      "AI voices",
+      "API access"
+    ],
+    "accessFr": "Web et API selon offre",
+    "accessEn": "Web and API depending on plan",
+    "officialSources": [
+      {
+        "url": "https://www.rask.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
   },
   "Midjourney": {
     "descriptionFr": "Service de création visuelle par IA permettant de générer et de faire varier des images à partir d’instructions.",
@@ -3190,6 +3266,256 @@
     "officialSources": [
       {
         "url": "https://simplified.com/fr/ai-writer",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "Google Translate": {
+    "descriptionFr": "Traduction grand public de textes, documents, sites, images et voix.",
+    "descriptionEn": "Consumer translation of text, documents, websites, images and speech.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Texte et voix",
+      "Documents DOCX/PDF/PPTX/XLSX",
+      "Sites et images"
+    ],
+    "featuresEn": [
+      "Text and speech",
+      "DOCX/PDF/PPTX/XLSX documents",
+      "Websites and images"
+    ],
+    "accessFr": "Web et applications selon service",
+    "accessEn": "Web and apps depending on service",
+    "officialSources": [
+      {
+        "url": "https://support.google.com/translate/answer/2534559?hl=en",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://support.google.com/translate/answer/6350850?hl=en",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "Microsoft Translator": {
+    "descriptionFr": "Traduction de textes et documents via services Microsoft et API Azure Translator.",
+    "descriptionEn": "Text and document translation through Microsoft services and Azure Translator APIs.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Traduction texte par API",
+      "Documents en lot ou individuels",
+      "Personnalisation et glossaires"
+    ],
+    "featuresEn": [
+      "Text translation API",
+      "Batch or single documents",
+      "Customization and glossaries"
+    ],
+    "accessFr": "Web et applications selon service",
+    "accessEn": "Web and apps depending on service",
+    "officialSources": [
+      {
+        "url": "https://learn.microsoft.com/en-us/azure/ai-services/translator",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://learn.microsoft.com/en-us/azure/ai-services/translator/document-translation/latest/overview",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "Reverso": {
+    "descriptionFr": "Plateforme de traduction, exemples en contexte, dictionnaires et correction linguistique.",
+    "descriptionEn": "Translation platform with in-context examples, dictionaries and proofreading.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Texte et documents",
+      "Traduction en contexte",
+      "Dictionnaires et grammaire"
+    ],
+    "featuresEn": [
+      "Text and documents",
+      "Translation in context",
+      "Dictionaries and grammar"
+    ],
+    "accessFr": "Web et applications selon service",
+    "accessEn": "Web and apps depending on service",
+    "officialSources": [
+      {
+        "url": "https://www.reverso.net/text-translation",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "Lara Translate": {
+    "descriptionFr": "Traduction contextuelle avec styles, mémoires, glossaires et documents.",
+    "descriptionEn": "Context-aware translation with styles, memories, glossaries and documents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Styles de traduction",
+      "Mémoires et glossaires",
+      "Documents et interprétation"
+    ],
+    "featuresEn": [
+      "Translation styles",
+      "Memories and glossaries",
+      "Documents and interpreting"
+    ],
+    "accessFr": "Web et applications selon service",
+    "accessEn": "Web and apps depending on service",
+    "officialSources": [
+      {
+        "url": "https://laratranslate.com/translate",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "Phrase": {
+    "descriptionFr": "Plateforme TMS de localisation logicielle et multimédia avec automatisation et mesure de qualité.",
+    "descriptionEn": "TMS for software and multimedia localization with automation and quality evaluation.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Gestion des traductions",
+      "Localisation logicielle",
+      "Évaluation de qualité"
+    ],
+    "featuresEn": [
+      "Translation management",
+      "Software localization",
+      "Quality evaluation"
+    ],
+    "accessFr": "Plateforme web et intégrations",
+    "accessEn": "Web platform and integrations",
+    "officialSources": [
+      {
+        "url": "https://phrase.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "Unbabel": {
+    "descriptionFr": "Plateforme d'opérations linguistiques destinée notamment au support client multilingue.",
+    "descriptionEn": "Language operations platform including multilingual customer support.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Traduction du support",
+      "Opérations linguistiques",
+      "IA et contrôle qualité"
+    ],
+    "featuresEn": [
+      "Support translation",
+      "Language operations",
+      "AI and quality assurance"
+    ],
+    "accessFr": "Plateforme web et intégrations",
+    "accessEn": "Web platform and integrations",
+    "officialSources": [
+      {
+        "url": "https://unbabel.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "Papercup": {
+    "descriptionFr": "Ancienne offre de doublage IA, dont le domaine redirige désormais vers les services de RWS.",
+    "descriptionEn": "Former AI dubbing offering whose domain now redirects to RWS services.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Doublage audiovisuel",
+      "Voix off",
+      "Service de localisation RWS"
+    ],
+    "featuresEn": [
+      "Audiovisual dubbing",
+      "Voice-over",
+      "RWS localization service"
+    ],
+    "accessFr": "Web et API selon offre",
+    "accessEn": "Web and API depending on plan",
+    "officialSources": [
+      {
+        "url": "https://www.papercup.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://www.rws.com/localization/services/translation-services/video-and-audio-translation/ai-dubbing-and-vo/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "ElevenLabs Dubbing": {
+    "descriptionFr": "Doublage audio et vidéo multilingue avec Dubbing v2 et Studio v1 historique.",
+    "descriptionEn": "Multilingual audio and video dubbing with v2 and legacy v1 Studio.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Doublage automatique v2",
+      "Langues et dialectes",
+      "API"
+    ],
+    "featuresEn": [
+      "Automatic v2 dubbing",
+      "Languages and dialects",
+      "API"
+    ],
+    "accessFr": "Web et API selon offre",
+    "accessEn": "Web and API depending on plan",
+    "officialSources": [
+      {
+        "url": "https://elevenlabs.io/docs/overview/capabilities/dubbing",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://elevenlabs.io/docs/fr/eleven-creative/products/dubbing/dubbing-studio",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "HeyGen Translate": {
+    "descriptionFr": "Traduction vidéo avec adaptation vocale et synchronisation labiale optionnelle.",
+    "descriptionEn": "Video translation with revoicing and optional lip synchronization.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Traduction vidéo",
+      "Synchronisation labiale",
+      "Import de vidéo"
+    ],
+    "featuresEn": [
+      "Video translation",
+      "Lip synchronization",
+      "Video upload"
+    ],
+    "accessFr": "Web et API selon offre",
+    "accessEn": "Web and API depending on plan",
+    "officialSources": [
+      {
+        "url": "https://help.heygen.com/en/articles/10029081-how-to-get-started-with-video-translation",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://help.heygen.com/en/articles/11391941-video-translation-languages-we-support",
         "checkedAt": "2026-11-16",
         "scope": "features_and_usage"
       }
