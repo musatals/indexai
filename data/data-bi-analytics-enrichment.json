@@ -1,0 +1,1337 @@
+{
+  "julius-ai": {
+    "descriptionFr": "Assistant d'analyse de données en langage naturel pour fichiers et sources connectées : nettoyage, calcul, visualisation et rapports traçables.",
+    "descriptionEn": "Natural-language data analyst for uploaded files and connected sources, supporting cleaning, computation, visualization and traceable reports.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Questions sur CSV, Excel, PDF et bases",
+      "Nettoyage, graphiques et scripts analytiques",
+      "Connecteurs de bases et présentations"
+    ],
+    "featuresEn": [
+      "Questions over CSV, Excel, PDF and databases",
+      "Data cleaning, charts and analysis scripts",
+      "Database connectors and presentations"
+    ],
+    "accessFr": "Web, cloud et connecteurs selon formule",
+    "accessEn": "Web, cloud and connectors by plan",
+    "officialSources": [
+      {
+        "url": "https://julius.ai/feature_page/ai-analysis",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://julius.ai/connectors",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Assistant d'analyse de données en langage naturel pour fichiers et sources connectées : nettoyage, calcul, visualisation et rapports traçables.",
+      "audiences": [
+        "Analystes, chercheurs et responsables de tableaux de bord",
+        "Équipes ayant besoin de rapports vérifiables"
+      ],
+      "cases": [
+        "Analyser des visites mensuelles de sites et produire un graphique en explicitant le calcul de chaque indicateur.",
+        "Auditer les unités, les dates, les dénominateurs et les filtres avant d'interpréter les résultats."
+      ],
+      "advantages": [
+        "Questions sur CSV, Excel, PDF et bases",
+        "Nettoyage, graphiques et scripts analytiques",
+        "Connecteurs de bases et présentations"
+      ],
+      "limits": [
+        "Les réponses peuvent confondre colonnes, unités et périodes ; vérifier jeux de données, code produit et chiffres. Les quotas de messages et crédits évoluent selon le forfait.",
+        "L'IA peut générer des agrégations erronées ou des conclusions non causales : contrôler les calculs sur un échantillon et tracer la provenance des données."
+      ],
+      "gettingStarted": [
+        "Définir la question métier, les sources autorisées, les définitions des mesures et un jeu d'exemples vérifiés.",
+        "Charger des données de démonstration, tester plusieurs questions, vérifier les sorties et protéger les colonnes sensibles."
+      ],
+      "examples": [
+        "Calcule le nombre de dossiers par mois, leur évolution et les valeurs manquantes ; montre la formule et les colonnes utilisées.",
+        "Crée un tableau de bord avec indicateurs définis, sources citées et avertissement explicite sur les estimations et données incomplètes."
+      ],
+      "pricing": "Vérifier l'abonnement, les sièges, crédits IA, volumes analysés, capacités d'entrepôt, calcul, stockage, API et options entreprise.",
+      "privacy": "Privilégier les jeux de données anonymisés, vérifier la résidence et les contrôles d'accès aux sources, l'usage de sous-traitants IA et la journalisation des requêtes.",
+      "selection": [
+        "Évaluer Julius AI selon l'usage (self_service), la gouvernance, la reproductibilité des requêtes, l'explicabilité des résultats et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://julius.ai/feature_page/ai-analysis",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://julius.ai/connectors",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "hex": {
+    "descriptionFr": "Environnement analytique collaboratif associant notebooks SQL/Python, modèles sémantiques, applications de données et agents Notebook/Threads.",
+    "descriptionEn": "Collaborative analytics with SQL/Python notebooks, semantic models, data apps and Notebook/Threads agents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Notebook Agent pour code et analyses",
+      "Threads pour questions sans code",
+      "Applications publiées et modèles sémantiques"
+    ],
+    "featuresEn": [
+      "Notebook Agent for code and analysis",
+      "Threads for no-code questions",
+      "Published apps and semantic models"
+    ],
+    "accessFr": "Web, cloud et connecteurs selon formule",
+    "accessEn": "Web, cloud and connectors by plan",
+    "officialSources": [
+      {
+        "url": "https://learn.hex.tech/docs/getting-started/ai-overview",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://learn.hex.tech/docs/explore-data/notebook-view/notebook-agent",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Environnement analytique collaboratif associant notebooks SQL/Python, modèles sémantiques, applications de données et agents Notebook/Threads.",
+      "audiences": [
+        "Analystes, chercheurs et responsables de tableaux de bord",
+        "Équipes ayant besoin de rapports vérifiables"
+      ],
+      "cases": [
+        "Construire un tableau de bord réutilisable sur une base d'indicateurs approuvés, puis le partager aux équipes.",
+        "Auditer les unités, les dates, les dénominateurs et les filtres avant d'interpréter les résultats."
+      ],
+      "advantages": [
+        "Notebook Agent pour code et analyses",
+        "Threads pour questions sans code",
+        "Applications publiées et modèles sémantiques"
+      ],
+      "limits": [
+        "Notebook Agent exige des droits d'édition et n'est pas disponible dans les applications publiées ; Threads et Chat with App ont des rôles distincts. Contrôler SQL généré et permissions des entrepôts.",
+        "L'IA peut générer des agrégations erronées ou des conclusions non causales : contrôler les calculs sur un échantillon et tracer la provenance des données."
+      ],
+      "gettingStarted": [
+        "Définir la question métier, les sources autorisées, les définitions des mesures et un jeu d'exemples vérifiés.",
+        "Charger des données de démonstration, tester plusieurs questions, vérifier les sorties et protéger les colonnes sensibles."
+      ],
+      "examples": [
+        "Calcule le nombre de dossiers par mois, leur évolution et les valeurs manquantes ; montre la formule et les colonnes utilisées.",
+        "Crée un tableau de bord avec indicateurs définis, sources citées et avertissement explicite sur les estimations et données incomplètes."
+      ],
+      "pricing": "Vérifier l'abonnement, les sièges, crédits IA, volumes analysés, capacités d'entrepôt, calcul, stockage, API et options entreprise.",
+      "privacy": "Privilégier les jeux de données anonymisés, vérifier la résidence et les contrôles d'accès aux sources, l'usage de sous-traitants IA et la journalisation des requêtes.",
+      "selection": [
+        "Évaluer Hex selon l'usage (collaborative), la gouvernance, la reproductibilité des requêtes, l'explicabilité des résultats et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://learn.hex.tech/docs/getting-started/ai-overview",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://learn.hex.tech/docs/explore-data/notebook-view/notebook-agent",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "thoughtspot": {
+    "descriptionFr": "Plateforme BI avec agents Spotter, SpotterModel et SpotterViz pour poser des questions, modéliser les métriques et générer des tableaux de bord gouvernés.",
+    "descriptionEn": "BI platform with Spotter, SpotterModel and SpotterViz agents for questioning, semantic modeling and governed dashboards.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Spotter : analyste conversationnel",
+      "SpotterModel et SpotterViz",
+      "Couche sémantique et contrôles par ligne"
+    ],
+    "featuresEn": [
+      "Spotter conversational analyst",
+      "SpotterModel and SpotterViz",
+      "Semantic layer and row-level access control"
+    ],
+    "accessFr": "Cloud et contrats entreprise selon plateforme",
+    "accessEn": "Cloud and enterprise contracts by platform",
+    "officialSources": [
+      {
+        "url": "https://www.thoughtspot.com/product/agents/spotter",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://www.thoughtspot.com/trust/agentic-analytics",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme BI avec agents Spotter, SpotterModel et SpotterViz pour poser des questions, modéliser les métriques et générer des tableaux de bord gouvernés.",
+      "audiences": [
+        "Analystes BI, administrateurs de données et responsables métiers",
+        "Équipes ayant besoin de rapports vérifiables"
+      ],
+      "cases": [
+        "Explorer les variations de ventes par région à partir de métriques certifiées et vérifier les requêtes produites.",
+        "Auditer les unités, les dates, les dénominateurs et les filtres avant d'interpréter les résultats."
+      ],
+      "advantages": [
+        "Spotter : analyste conversationnel",
+        "SpotterModel et SpotterViz",
+        "Couche sémantique et contrôles par ligne"
+      ],
+      "limits": [
+        "Les statistiques de performance affichées par l'éditeur sont commerciales ; la fiabilité dépend du modèle sémantique, des permissions et de la définition des indicateurs.",
+        "L'IA peut générer des agrégations erronées ou des conclusions non causales : contrôler les calculs sur un échantillon et tracer la provenance des données."
+      ],
+      "gettingStarted": [
+        "Définir la question métier, les sources autorisées, les définitions des mesures et un jeu d'exemples vérifiés.",
+        "Charger des données de démonstration, tester plusieurs questions, vérifier les sorties et protéger les colonnes sensibles."
+      ],
+      "examples": [
+        "Calcule le nombre de dossiers par mois, leur évolution et les valeurs manquantes ; montre la formule et les colonnes utilisées.",
+        "Crée un tableau de bord avec indicateurs définis, sources citées et avertissement explicite sur les estimations et données incomplètes."
+      ],
+      "pricing": "Vérifier l'abonnement, les sièges, crédits IA, volumes analysés, capacités d'entrepôt, calcul, stockage, API et options entreprise.",
+      "privacy": "Privilégier les jeux de données anonymisés, vérifier la résidence et les contrôles d'accès aux sources, l'usage de sous-traitants IA et la journalisation des requêtes.",
+      "selection": [
+        "Évaluer ThoughtSpot selon l'usage (enterprise_bi), la gouvernance, la reproductibilité des requêtes, l'explicabilité des résultats et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.thoughtspot.com/product/agents/spotter",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.thoughtspot.com/trust/agentic-analytics",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "power-bi-copilot": {
+    "descriptionFr": "Copilot Microsoft pour créer et modifier des rapports Power BI, interroger les modèles sémantiques, générer du DAX et synthétiser des graphiques.",
+    "descriptionEn": "Microsoft Copilot for creating/editing Power BI reports, querying semantic models, writing DAX and summarizing visuals.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Création de rapports et synthèses",
+      "Questions sur les modèles sémantiques et DAX",
+      "Aide à la modification des relations et mesures"
+    ],
+    "featuresEn": [
+      "Report creation and summaries",
+      "Semantic model questions and DAX",
+      "Assisted editing of measures and relationships"
+    ],
+    "accessFr": "Cloud et contrats entreprise selon plateforme",
+    "accessEn": "Cloud and enterprise contracts by platform",
+    "officialSources": [
+      {
+        "url": "https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-introduction",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-semantic-models",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Copilot Microsoft pour créer et modifier des rapports Power BI, interroger les modèles sémantiques, générer du DAX et synthétiser des graphiques.",
+      "audiences": [
+        "Analystes BI, administrateurs de données et responsables métiers",
+        "Équipes ayant besoin de rapports vérifiables"
+      ],
+      "cases": [
+        "Créer un rapport sur les données de fréquentation et contrôler le DAX ainsi que les définitions des mesures.",
+        "Auditer les unités, les dates, les dénominateurs et les filtres avant d'interpréter les résultats."
+      ],
+      "advantages": [
+        "Création de rapports et synthèses",
+        "Questions sur les modèles sémantiques et DAX",
+        "Aide à la modification des relations et mesures"
+      ],
+      "limits": [
+        "Copilot requiert une capacité Fabric payante F2+ ou Power BI Premium P1+ et un administrateur l'ayant autorisé ; des restrictions régionales s'appliquent. Une modification de modèle sémantique peut impacter les rapports partagés.",
+        "L'IA peut générer des agrégations erronées ou des conclusions non causales : contrôler les calculs sur un échantillon et tracer la provenance des données."
+      ],
+      "gettingStarted": [
+        "Définir la question métier, les sources autorisées, les définitions des mesures et un jeu d'exemples vérifiés.",
+        "Charger des données de démonstration, tester plusieurs questions, vérifier les sorties et protéger les colonnes sensibles."
+      ],
+      "examples": [
+        "Calcule le nombre de dossiers par mois, leur évolution et les valeurs manquantes ; montre la formule et les colonnes utilisées.",
+        "Crée un tableau de bord avec indicateurs définis, sources citées et avertissement explicite sur les estimations et données incomplètes."
+      ],
+      "pricing": "Vérifier l'abonnement, les sièges, crédits IA, volumes analysés, capacités d'entrepôt, calcul, stockage, API et options entreprise.",
+      "privacy": "Privilégier les jeux de données anonymisés, vérifier la résidence et les contrôles d'accès aux sources, l'usage de sous-traitants IA et la journalisation des requêtes.",
+      "selection": [
+        "Évaluer Power BI Copilot selon l'usage (enterprise_bi), la gouvernance, la reproductibilité des requêtes, l'explicabilité des résultats et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "license_restricted",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-introduction",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-semantic-models",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_capacity_required"
+  },
+  "tableau-ai": {
+    "descriptionFr": "Ensemble IA Tableau autour de Tableau Agent et Tableau Pulse pour concevoir des visualisations, explorer les indicateurs et préparer les données.",
+    "descriptionEn": "Tableau AI features with Tableau Agent and Tableau Pulse for visual authoring, metric exploration and data preparation.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Tableau Agent pour visualisations",
+      "Tableau Prep assisté par IA",
+      "Pulse : suivi et interprétation de métriques"
+    ],
+    "featuresEn": [
+      "Tableau Agent visual authoring",
+      "AI-assisted Tableau Prep",
+      "Pulse metric monitoring and explanations"
+    ],
+    "accessFr": "Cloud et contrats entreprise selon plateforme",
+    "accessEn": "Cloud and enterprise contracts by platform",
+    "officialSources": [
+      {
+        "url": "https://help.tableau.com/current/online/en-us/web_author_einstein_best_practice.htm",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://help.tableau.com/current/prep/en-us/prep_einstein.htm",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Ensemble IA Tableau autour de Tableau Agent et Tableau Pulse pour concevoir des visualisations, explorer les indicateurs et préparer les données.",
+      "audiences": [
+        "Analystes BI, administrateurs de données et responsables métiers",
+        "Équipes ayant besoin de rapports vérifiables"
+      ],
+      "cases": [
+        "Nettoyer les données d'un questionnaire puis comparer plusieurs représentations des réponses.",
+        "Auditer les unités, les dates, les dénominateurs et les filtres avant d'interpréter les résultats."
+      ],
+      "advantages": [
+        "Tableau Agent pour visualisations",
+        "Tableau Prep assisté par IA",
+        "Pulse : suivi et interprétation de métriques"
+      ],
+      "limits": [
+        "Tableau Agent fonctionne mieux sur des données bien modélisées ; il ne comprend pas toutes les jointures ou transformations et certaines interactions de tableau de bord ne prennent en charge que l'anglais.",
+        "L'IA peut générer des agrégations erronées ou des conclusions non causales : contrôler les calculs sur un échantillon et tracer la provenance des données."
+      ],
+      "gettingStarted": [
+        "Définir la question métier, les sources autorisées, les définitions des mesures et un jeu d'exemples vérifiés.",
+        "Charger des données de démonstration, tester plusieurs questions, vérifier les sorties et protéger les colonnes sensibles."
+      ],
+      "examples": [
+        "Calcule le nombre de dossiers par mois, leur évolution et les valeurs manquantes ; montre la formule et les colonnes utilisées.",
+        "Crée un tableau de bord avec indicateurs définis, sources citées et avertissement explicite sur les estimations et données incomplètes."
+      ],
+      "pricing": "Vérifier l'abonnement, les sièges, crédits IA, volumes analysés, capacités d'entrepôt, calcul, stockage, API et options entreprise.",
+      "privacy": "Privilégier les jeux de données anonymisés, vérifier la résidence et les contrôles d'accès aux sources, l'usage de sous-traitants IA et la journalisation des requêtes.",
+      "selection": [
+        "Évaluer Tableau AI selon l'usage (enterprise_bi), la gouvernance, la reproductibilité des requêtes, l'explicabilité des résultats et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.tableau.com/current/online/en-us/web_author_einstein_best_practice.htm",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://help.tableau.com/current/prep/en-us/prep_einstein.htm",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "qlik-staige": {
+    "descriptionFr": "Portefeuille d'IA Qlik Staige incluant Qlik Answers, analyse conversationnelle et Qlik Predict pour le machine learning.",
+    "descriptionEn": "Qlik Staige AI portfolio including Qlik Answers, conversational analytics and Qlik Predict for machine learning.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Qlik Answers pour questions sur applications et connaissances",
+      "Qlik Predict (anciennement AutoML)",
+      "Agents d'analyse et modèles prédictifs"
+    ],
+    "featuresEn": [
+      "Qlik Answers for app and knowledge questions",
+      "Qlik Predict (formerly AutoML)",
+      "Analytical agents and predictive models"
+    ],
+    "accessFr": "Cloud et contrats entreprise selon plateforme",
+    "accessEn": "Cloud and enterprise contracts by platform",
+    "officialSources": [
+      {
+        "url": "https://help.qlik.com/en-us/cloud-services/Subsystems/Hub/Content/Sense_Hub/QlikAnswers/choose-context.htm",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://help.qlik.com/en-US/cloud-admin-playbook/Content/ai_services/qlik_predict.htm",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Portefeuille d'IA Qlik Staige incluant Qlik Answers, analyse conversationnelle et Qlik Predict pour le machine learning.",
+      "audiences": [
+        "Analystes BI, administrateurs de données et responsables métiers",
+        "Équipes ayant besoin de rapports vérifiables"
+      ],
+      "cases": [
+        "Interroger un tableau de gestion puis produire une estimation de désabonnement en séparant analyse et prédiction.",
+        "Auditer les unités, les dates, les dénominateurs et les filtres avant d'interpréter les résultats."
+      ],
+      "advantages": [
+        "Qlik Answers pour questions sur applications et connaissances",
+        "Qlik Predict (anciennement AutoML)",
+        "Agents d'analyse et modèles prédictifs"
+      ],
+      "limits": [
+        "Qlik Predict requiert des droits spécifiques, et les réponses agentiques dépendent du contexte disponible ; ne pas confondre modèles prédictifs et vérités observées.",
+        "L'IA peut générer des agrégations erronées ou des conclusions non causales : contrôler les calculs sur un échantillon et tracer la provenance des données."
+      ],
+      "gettingStarted": [
+        "Définir la question métier, les sources autorisées, les définitions des mesures et un jeu d'exemples vérifiés.",
+        "Charger des données de démonstration, tester plusieurs questions, vérifier les sorties et protéger les colonnes sensibles."
+      ],
+      "examples": [
+        "Calcule le nombre de dossiers par mois, leur évolution et les valeurs manquantes ; montre la formule et les colonnes utilisées.",
+        "Crée un tableau de bord avec indicateurs définis, sources citées et avertissement explicite sur les estimations et données incomplètes."
+      ],
+      "pricing": "Vérifier l'abonnement, les sièges, crédits IA, volumes analysés, capacités d'entrepôt, calcul, stockage, API et options entreprise.",
+      "privacy": "Privilégier les jeux de données anonymisés, vérifier la résidence et les contrôles d'accès aux sources, l'usage de sous-traitants IA et la journalisation des requêtes.",
+      "selection": [
+        "Évaluer Qlik Staige selon l'usage (enterprise_bi), la gouvernance, la reproductibilité des requêtes, l'explicabilité des résultats et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "qlik_predict_rebranded",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.qlik.com/en-us/cloud-services/Subsystems/Hub/Content/Sense_Hub/QlikAnswers/choose-context.htm",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://help.qlik.com/en-US/cloud-admin-playbook/Content/ai_services/qlik_predict.htm",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_rebranded"
+  },
+  "dataiku": {
+    "descriptionFr": "Plateforme de données et d'IA d'entreprise réunissant préparation, ML, LLM Mesh, agents et gouvernance via Agent Hub.",
+    "descriptionEn": "Enterprise data and AI platform combining preparation, machine learning, LLM Mesh, agents and governance through Agent Hub.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Préparation des données et machine learning",
+      "LLM Mesh et Agent Hub",
+      "Traçabilité, rôles et supervision du cycle de vie"
+    ],
+    "featuresEn": [
+      "Data preparation and machine learning",
+      "LLM Mesh and Agent Hub",
+      "Lineage, roles and lifecycle oversight"
+    ],
+    "accessFr": "Cloud et contrats entreprise selon plateforme",
+    "accessEn": "Cloud and enterprise contracts by platform",
+    "officialSources": [
+      {
+        "url": "https://www.dataiku.com/product/agent-hub",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://doc.dataiku.com/dss/14/agents/agent-hub.html",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de données et d'IA d'entreprise réunissant préparation, ML, LLM Mesh, agents et gouvernance via Agent Hub.",
+      "audiences": [
+        "Analystes, chercheurs et responsables de tableaux de bord",
+        "Équipes ayant besoin de rapports vérifiables"
+      ],
+      "cases": [
+        "Créer une chaîne de prédiction auditable puis exposer un agent qui explique les résultats aux métiers.",
+        "Auditer les unités, les dates, les dénominateurs et les filtres avant d'interpréter les résultats."
+      ],
+      "advantages": [
+        "Préparation des données et machine learning",
+        "LLM Mesh et Agent Hub",
+        "Traçabilité, rôles et supervision du cycle de vie"
+      ],
+      "limits": [
+        "La plateforme demande un travail important d'intégration, de gouvernance et de suivi ; la disponibilité des fonctionnalités dépend des versions et licences.",
+        "L'IA peut générer des agrégations erronées ou des conclusions non causales : contrôler les calculs sur un échantillon et tracer la provenance des données."
+      ],
+      "gettingStarted": [
+        "Définir la question métier, les sources autorisées, les définitions des mesures et un jeu d'exemples vérifiés.",
+        "Charger des données de démonstration, tester plusieurs questions, vérifier les sorties et protéger les colonnes sensibles."
+      ],
+      "examples": [
+        "Calcule le nombre de dossiers par mois, leur évolution et les valeurs manquantes ; montre la formule et les colonnes utilisées.",
+        "Crée un tableau de bord avec indicateurs définis, sources citées et avertissement explicite sur les estimations et données incomplètes."
+      ],
+      "pricing": "Vérifier l'abonnement, les sièges, crédits IA, volumes analysés, capacités d'entrepôt, calcul, stockage, API et options entreprise.",
+      "privacy": "Privilégier les jeux de données anonymisés, vérifier la résidence et les contrôles d'accès aux sources, l'usage de sous-traitants IA et la journalisation des requêtes.",
+      "selection": [
+        "Évaluer Dataiku selon l'usage (mlops), la gouvernance, la reproductibilité des requêtes, l'explicabilité des résultats et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.dataiku.com/product/agent-hub",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://doc.dataiku.com/dss/14/agents/agent-hub.html",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "alteryx-aidin": {
+    "descriptionFr": "Fonctions IA d'Alteryx désormais intégrées à Alteryx One : copilote de préparation, automatisation analytique et agents sur des données gouvernées.",
+    "descriptionEn": "Alteryx AI capabilities within Alteryx One: data-prep copilot, analytics automation and governed data agents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Copilot dans Alteryx Designer",
+      "Agent Studio et agents conversationnels",
+      "Connexion MCP et analyses gouvernées"
+    ],
+    "featuresEn": [
+      "Copilot inside Alteryx Designer",
+      "Agent Studio and conversational agents",
+      "MCP connectivity and governed analytics"
+    ],
+    "accessFr": "Web, cloud et connecteurs selon formule",
+    "accessEn": "Web, cloud and connectors by plan",
+    "officialSources": [
+      {
+        "url": "https://www.alteryx.com/platform/whats-new",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://marketplace.alteryx.com/en-US/apps/476096/alteryx-copilo",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Fonctions IA d'Alteryx désormais intégrées à Alteryx One : copilote de préparation, automatisation analytique et agents sur des données gouvernées.",
+      "audiences": [
+        "Analystes, chercheurs et responsables de tableaux de bord",
+        "Équipes ayant besoin de rapports vérifiables"
+      ],
+      "cases": [
+        "Construire et documenter un workflow de nettoyage puis soumettre les transformations à révision.",
+        "Auditer les unités, les dates, les dénominateurs et les filtres avant d'interpréter les résultats."
+      ],
+      "advantages": [
+        "Copilot dans Alteryx Designer",
+        "Agent Studio et agents conversationnels",
+        "Connexion MCP et analyses gouvernées"
+      ],
+      "limits": [
+        "L'ancienne préversion publique du complément Copilot est terminée ; un accès via Designer 25.2 et un plan Alteryx One est requis. Agent Studio est disponible, mais Alteryx Agents demeure en préversion.",
+        "L'IA peut générer des agrégations erronées ou des conclusions non causales : contrôler les calculs sur un échantillon et tracer la provenance des données."
+      ],
+      "gettingStarted": [
+        "Définir la question métier, les sources autorisées, les définitions des mesures et un jeu d'exemples vérifiés.",
+        "Charger des données de démonstration, tester plusieurs questions, vérifier les sorties et protéger les colonnes sensibles."
+      ],
+      "examples": [
+        "Calcule le nombre de dossiers par mois, leur évolution et les valeurs manquantes ; montre la formule et les colonnes utilisées.",
+        "Crée un tableau de bord avec indicateurs définis, sources citées et avertissement explicite sur les estimations et données incomplètes."
+      ],
+      "pricing": "Vérifier l'abonnement, les sièges, crédits IA, volumes analysés, capacités d'entrepôt, calcul, stockage, API et options entreprise.",
+      "privacy": "Privilégier les jeux de données anonymisés, vérifier la résidence et les contrôles d'accès aux sources, l'usage de sous-traitants IA et la journalisation des requêtes.",
+      "selection": [
+        "Évaluer Alteryx AiDIN selon l'usage (enterprise_automation), la gouvernance, la reproductibilité des requêtes, l'explicabilité des résultats et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.alteryx.com/platform/whats-new",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://marketplace.alteryx.com/en-US/apps/476096/alteryx-copilo",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "akkio": {
+    "descriptionFr": "Plateforme d'automatisation des flux de données pour agences média avec modèles sans code, Chat with Data et gouvernance.",
+    "descriptionEn": "Data workflow automation platform for media agencies with no-code modeling, Chat with Data and governance.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Chat with Data et rapports",
+      "Modélisation et transformations sans code",
+      "Contrôle des rôles et observabilité"
+    ],
+    "featuresEn": [
+      "Chat with Data and reports",
+      "No-code modeling and transforms",
+      "Role access and observability"
+    ],
+    "accessFr": "Web, cloud et connecteurs selon formule",
+    "accessEn": "Web, cloud and connectors by plan",
+    "officialSources": [
+      {
+        "url": "https://www.akkio.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://docs.akkio.com/akkio-help-center/akkio-overview/what-is-akkio",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme d'automatisation des flux de données pour agences média avec modèles sans code, Chat with Data et gouvernance.",
+      "audiences": [
+        "Analystes, chercheurs et responsables de tableaux de bord",
+        "Équipes ayant besoin de rapports vérifiables"
+      ],
+      "cases": [
+        "Consolider les résultats d'une campagne publicitaire, expliquer les variations et bâtir un reporting récurrent.",
+        "Auditer les unités, les dates, les dénominateurs et les filtres avant d'interpréter les résultats."
+      ],
+      "advantages": [
+        "Chat with Data et rapports",
+        "Modélisation et transformations sans code",
+        "Contrôle des rôles et observabilité"
+      ],
+      "limits": [
+        "Le positionnement est désormais centré sur les agences média et leurs workflows ; ne pas présenter le produit uniquement comme AutoML générique. Valider connexions et définitions des KPI.",
+        "L'IA peut générer des agrégations erronées ou des conclusions non causales : contrôler les calculs sur un échantillon et tracer la provenance des données."
+      ],
+      "gettingStarted": [
+        "Définir la question métier, les sources autorisées, les définitions des mesures et un jeu d'exemples vérifiés.",
+        "Charger des données de démonstration, tester plusieurs questions, vérifier les sorties et protéger les colonnes sensibles."
+      ],
+      "examples": [
+        "Calcule le nombre de dossiers par mois, leur évolution et les valeurs manquantes ; montre la formule et les colonnes utilisées.",
+        "Crée un tableau de bord avec indicateurs définis, sources citées et avertissement explicite sur les estimations et données incomplètes."
+      ],
+      "pricing": "Vérifier l'abonnement, les sièges, crédits IA, volumes analysés, capacités d'entrepôt, calcul, stockage, API et options entreprise.",
+      "privacy": "Privilégier les jeux de données anonymisés, vérifier la résidence et les contrôles d'accès aux sources, l'usage de sous-traitants IA et la journalisation des requêtes.",
+      "selection": [
+        "Évaluer Akkio selon l'usage (agency_analytics), la gouvernance, la reproductibilité des requêtes, l'explicabilité des résultats et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "repositioned",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.akkio.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://docs.akkio.com/akkio-help-center/akkio-overview/what-is-akkio",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_repositioned"
+  },
+  "obviously-ai": {
+    "descriptionFr": "Plateforme no-code de modèles prédictifs sur données tabulaires pour classification, régression et séries chronologiques avec API de déploiement.",
+    "descriptionEn": "No-code predictive modeling platform for tabular classification, regression and time series with deployment APIs.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Modèles de classification et régression",
+      "Prévision de séries temporelles",
+      "Déploiement via API REST et suivi"
+    ],
+    "featuresEn": [
+      "Classification and regression models",
+      "Time-series forecasting",
+      "REST deployment API and monitoring"
+    ],
+    "accessFr": "Web, cloud et connecteurs selon formule",
+    "accessEn": "Web, cloud and connectors by plan",
+    "officialSources": [
+      {
+        "url": "https://obviously.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://obviously.ai/about-us",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme no-code de modèles prédictifs sur données tabulaires pour classification, régression et séries chronologiques avec API de déploiement.",
+      "audiences": [
+        "Analystes métier, data scientists et responsables de modèles",
+        "Équipes ayant besoin de rapports vérifiables"
+      ],
+      "cases": [
+        "Prévoir le désabonnement de clients avec échantillon de validation indépendant et comparaison à une règle simple.",
+        "Auditer les unités, les dates, les dénominateurs et les filtres avant d'interpréter les résultats."
+      ],
+      "advantages": [
+        "Modèles de classification et régression",
+        "Prévision de séries temporelles",
+        "Déploiement via API REST et suivi"
+      ],
+      "limits": [
+        "Les résultats annoncés par l'éditeur ne garantissent pas la précision sur les données de l'utilisateur ; prévenir les fuites de cible et contrôler qualité et représentativité des données.",
+        "L'IA peut générer des agrégations erronées ou des conclusions non causales : contrôler les calculs sur un échantillon et tracer la provenance des données."
+      ],
+      "gettingStarted": [
+        "Définir la question métier, les sources autorisées, les définitions des mesures et un jeu d'exemples vérifiés.",
+        "Charger des données de démonstration, tester plusieurs questions, vérifier les sorties et protéger les colonnes sensibles."
+      ],
+      "examples": [
+        "Calcule le nombre de dossiers par mois, leur évolution et les valeurs manquantes ; montre la formule et les colonnes utilisées.",
+        "Crée un tableau de bord avec indicateurs définis, sources citées et avertissement explicite sur les estimations et données incomplètes."
+      ],
+      "pricing": "Vérifier l'abonnement, les sièges, crédits IA, volumes analysés, capacités d'entrepôt, calcul, stockage, API et options entreprise.",
+      "privacy": "Privilégier les jeux de données anonymisés, vérifier la résidence et les contrôles d'accès aux sources, l'usage de sous-traitants IA et la journalisation des requêtes.",
+      "selection": [
+        "Évaluer Obviously AI selon l'usage (predictive), la gouvernance, la reproductibilité des requêtes, l'explicabilité des résultats et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://obviously.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://obviously.ai/about-us",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "polymer": {
+    "descriptionFr": "Constructeur no-code de tableaux de bord interactifs qui recommande des graphiques, des filtres et des vues partageables.",
+    "descriptionEn": "No-code interactive dashboard creator recommending charts, filters and shareable views.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Visualisations et tableaux de bord proposés par IA",
+      "Filtres automatiques et mises en page",
+      "Partage, intégration et actualisation de données"
+    ],
+    "featuresEn": [
+      "AI-suggested dashboards and charts",
+      "Automatic filters and layout",
+      "Sharing, embedding and data refresh"
+    ],
+    "accessFr": "Web, cloud et connecteurs selon formule",
+    "accessEn": "Web, cloud and connectors by plan",
+    "officialSources": [
+      {
+        "url": "https://www.polymersearch.com/ai-dashboard-generator",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Constructeur no-code de tableaux de bord interactifs qui recommande des graphiques, des filtres et des vues partageables.",
+      "audiences": [
+        "Analystes, chercheurs et responsables de tableaux de bord",
+        "Équipes ayant besoin de rapports vérifiables"
+      ],
+      "cases": [
+        "Créer un tableau de bord interactif pour des statistiques d'engagement issues d'un fichier CSV.",
+        "Auditer les unités, les dates, les dénominateurs et les filtres avant d'interpréter les résultats."
+      ],
+      "advantages": [
+        "Visualisations et tableaux de bord proposés par IA",
+        "Filtres automatiques et mises en page",
+        "Partage, intégration et actualisation de données"
+      ],
+      "limits": [
+        "Le choix automatique de graphiques peut suggérer des échelles trompeuses ; valider les mesures, les droits de partage des dashboards et les contraintes des connecteurs.",
+        "L'IA peut générer des agrégations erronées ou des conclusions non causales : contrôler les calculs sur un échantillon et tracer la provenance des données."
+      ],
+      "gettingStarted": [
+        "Définir la question métier, les sources autorisées, les définitions des mesures et un jeu d'exemples vérifiés.",
+        "Charger des données de démonstration, tester plusieurs questions, vérifier les sorties et protéger les colonnes sensibles."
+      ],
+      "examples": [
+        "Calcule le nombre de dossiers par mois, leur évolution et les valeurs manquantes ; montre la formule et les colonnes utilisées.",
+        "Crée un tableau de bord avec indicateurs définis, sources citées et avertissement explicite sur les estimations et données incomplètes."
+      ],
+      "pricing": "Vérifier l'abonnement, les sièges, crédits IA, volumes analysés, capacités d'entrepôt, calcul, stockage, API et options entreprise.",
+      "privacy": "Privilégier les jeux de données anonymisés, vérifier la résidence et les contrôles d'accès aux sources, l'usage de sous-traitants IA et la journalisation des requêtes.",
+      "selection": [
+        "Évaluer Polymer selon l'usage (no_code_bi), la gouvernance, la reproductibilité des requêtes, l'explicabilité des résultats et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.polymersearch.com/ai-dashboard-generator",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "rows-ai": {
+    "descriptionFr": "Ancien tableur collaboratif Rows avec analyse IA et connecteurs ; fermeture programmée au 31 mai 2026 après son acquisition annoncée par Superhuman.",
+    "descriptionEn": "Former collaborative Rows spreadsheet with AI analysis and integrations; scheduled to wind down on May 31, 2026 after announced Superhuman acquisition.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Analyse IA dans un tableur (historique)",
+      "Connecteurs et rapports (historiques)",
+      "Transition de l'équipe vers Superhuman/Coda"
+    ],
+    "featuresEn": [
+      "Historical spreadsheet AI analysis",
+      "Historical connectors and reporting",
+      "Team transition to Superhuman/Coda"
+    ],
+    "accessFr": "Ancien service fermé le 31 mai 2026",
+    "accessEn": "Former service closed May 31, 2026",
+    "officialSources": [
+      {
+        "url": "https://rows.com/blog/post/rows-is-joining-superhuman",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://rows.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Ancien tableur collaboratif Rows avec analyse IA et connecteurs ; fermeture programmée au 31 mai 2026 après son acquisition annoncée par Superhuman.",
+      "audiences": [
+        "Lecteurs et équipes documentant des produits historiques",
+        "Équipes ayant besoin de rapports vérifiables"
+      ],
+      "cases": [
+        "Comparer l'ancien tableur et ses alternatives actives pour construire des rapports, plutôt que d'ouvrir un nouveau compte Rows.",
+        "Auditer les unités, les dates, les dénominateurs et les filtres avant d'interpréter les résultats."
+      ],
+      "advantages": [
+        "Analyse IA dans un tableur (historique)",
+        "Connecteurs et rapports (historiques)",
+        "Transition de l'équipe vers Superhuman/Coda"
+      ],
+      "limits": [
+        "Le communiqué officiel annonce l'arrêt complet de Rows.com au 31 mai 2026. Des pages marketing historiques restent accessibles : leur présence ne prouve pas que le produit soit encore opérationnel.",
+        "L'IA peut générer des agrégations erronées ou des conclusions non causales : contrôler les calculs sur un échantillon et tracer la provenance des données."
+      ],
+      "gettingStarted": [
+        "Ne plus démarrer de projet Rows ; sélectionner un service actif et conserver les données exportées.",
+        "Charger des données de démonstration, tester plusieurs questions, vérifier les sorties et protéger les colonnes sensibles."
+      ],
+      "examples": [
+        "Calcule le nombre de dossiers par mois, leur évolution et les valeurs manquantes ; montre la formule et les colonnes utilisées.",
+        "Crée un tableau de bord avec indicateurs définis, sources citées et avertissement explicite sur les estimations et données incomplètes."
+      ],
+      "pricing": "Produit arrêté selon l'annonce officielle de Rows ; aucun nouvel abonnement recommandé.",
+      "privacy": "Privilégier les jeux de données anonymisés, vérifier la résidence et les contrôles d'accès aux sources, l'usage de sous-traitants IA et la journalisation des requêtes.",
+      "selection": [
+        "Évaluer Rows AI selon l'usage (historical), la gouvernance, la reproductibilité des requêtes, l'explicabilité des résultats et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "discontinued",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://rows.com/blog/post/rows-is-joining-superhuman",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://rows.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_discontinued"
+  },
+  "formula-bot": {
+    "descriptionFr": "Formula Bot, devenu Better Analyst, permet l'analyse de fichiers et de données connectées, la génération de graphiques, tableaux de bord et agents réutilisables.",
+    "descriptionEn": "Formula Bot, now Better Analyst, analyzes files and connected data, generates charts and dashboards, and supports reusable analytical agents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Analyse conversationnelle et transformation de données",
+      "Dashboards et rapports périodiques",
+      "Agents personnalisés et Brand Kits"
+    ],
+    "featuresEn": [
+      "Conversational data analysis and preparation",
+      "Dashboards and scheduled reports",
+      "Custom agents and brand kits"
+    ],
+    "accessFr": "Plateforme Better Analyst, anciennement Formula Bot",
+    "accessEn": "Better Analyst platform, formerly Formula Bot",
+    "officialSources": [
+      {
+        "url": "https://analytics.formulabot.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://www.formulabot.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Formula Bot, devenu Better Analyst, permet l'analyse de fichiers et de données connectées, la génération de graphiques, tableaux de bord et agents réutilisables.",
+      "audiences": [
+        "Analystes, chercheurs et responsables de tableaux de bord",
+        "Équipes ayant besoin de rapports vérifiables"
+      ],
+      "cases": [
+        "Importer des données de ventes, produire un tableau de bord et programmer un rapport après vérification des indicateurs.",
+        "Auditer les unités, les dates, les dénominateurs et les filtres avant d'interpréter les résultats."
+      ],
+      "advantages": [
+        "Analyse conversationnelle et transformation de données",
+        "Dashboards et rapports périodiques",
+        "Agents personnalisés et Brand Kits"
+      ],
+      "limits": [
+        "La nouvelle identité Better Analyst est annoncée sur l'application officielle, mais le site historique formulabot.com affiche encore l'ancien nom : préciser la coexistence des deux marques et vérifier la migration des liens.",
+        "L'IA peut générer des agrégations erronées ou des conclusions non causales : contrôler les calculs sur un échantillon et tracer la provenance des données."
+      ],
+      "gettingStarted": [
+        "Définir la question métier, les sources autorisées, les définitions des mesures et un jeu d'exemples vérifiés.",
+        "Charger des données de démonstration, tester plusieurs questions, vérifier les sorties et protéger les colonnes sensibles."
+      ],
+      "examples": [
+        "Calcule le nombre de dossiers par mois, leur évolution et les valeurs manquantes ; montre la formule et les colonnes utilisées.",
+        "Crée un tableau de bord avec indicateurs définis, sources citées et avertissement explicite sur les estimations et données incomplètes."
+      ],
+      "pricing": "Vérifier l'abonnement, les sièges, crédits IA, volumes analysés, capacités d'entrepôt, calcul, stockage, API et options entreprise.",
+      "privacy": "Privilégier les jeux de données anonymisés, vérifier la résidence et les contrôles d'accès aux sources, l'usage de sous-traitants IA et la journalisation des requêtes.",
+      "selection": [
+        "Évaluer Formula Bot selon l'usage (self_service), la gouvernance, la reproductibilité des requêtes, l'explicabilité des résultats et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "rebranded_better_analyst",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://analytics.formulabot.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.formulabot.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_rebranded",
+    "name": "Better Analyst (Formula Bot)",
+    "url": "https://analytics.formulabot.com/"
+  },
+  "databricks-ai-bi": {
+    "descriptionFr": "Suite d'analyse Databricks AI/BI avec dashboards gouvernés, Genie Agents, Genie One et Genie Code pour créer requêtes et visualisations.",
+    "descriptionEn": "Databricks AI/BI suite with governed dashboards, Genie Agents, Genie One and Genie Code for creating queries and visualizations.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Dashboards et métriques Unity Catalog",
+      "Genie Agents et Genie One",
+      "Genie Code et création assistée de dashboards"
+    ],
+    "featuresEn": [
+      "Dashboards and Unity Catalog metrics",
+      "Genie Agents and Genie One",
+      "Genie Code assisted dashboards"
+    ],
+    "accessFr": "Cloud et contrats entreprise selon plateforme",
+    "accessEn": "Cloud and enterprise contracts by platform",
+    "officialSources": [
+      {
+        "url": "https://docs.databricks.com/gcp/en/ai-bi/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://docs.databricks.com/aws/en/genie-code",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Suite d'analyse Databricks AI/BI avec dashboards gouvernés, Genie Agents, Genie One et Genie Code pour créer requêtes et visualisations.",
+      "audiences": [
+        "Analystes BI, administrateurs de données et responsables métiers",
+        "Équipes ayant besoin de rapports vérifiables"
+      ],
+      "cases": [
+        "Interroger des données d'entrepôt et préparer une vue exécutive traçable depuis les définitions des métriques.",
+        "Auditer les unités, les dates, les dénominateurs et les filtres avant d'interpréter les résultats."
+      ],
+      "advantages": [
+        "Dashboards et métriques Unity Catalog",
+        "Genie Agents et Genie One",
+        "Genie Code et création assistée de dashboards"
+      ],
+      "limits": [
+        "Genie Code est facturé à l'usage depuis juillet 2026 ; les autres services disposent de politiques tarifaires distinctes. Respecter les permissions Unity Catalog et contrôler SQL et coûts de calcul.",
+        "L'IA peut générer des agrégations erronées ou des conclusions non causales : contrôler les calculs sur un échantillon et tracer la provenance des données."
+      ],
+      "gettingStarted": [
+        "Définir la question métier, les sources autorisées, les définitions des mesures et un jeu d'exemples vérifiés.",
+        "Charger des données de démonstration, tester plusieurs questions, vérifier les sorties et protéger les colonnes sensibles."
+      ],
+      "examples": [
+        "Calcule le nombre de dossiers par mois, leur évolution et les valeurs manquantes ; montre la formule et les colonnes utilisées.",
+        "Crée un tableau de bord avec indicateurs définis, sources citées et avertissement explicite sur les estimations et données incomplètes."
+      ],
+      "pricing": "Vérifier l'abonnement, les sièges, crédits IA, volumes analysés, capacités d'entrepôt, calcul, stockage, API et options entreprise.",
+      "privacy": "Privilégier les jeux de données anonymisés, vérifier la résidence et les contrôles d'accès aux sources, l'usage de sous-traitants IA et la journalisation des requêtes.",
+      "selection": [
+        "Évaluer Databricks AI/BI selon l'usage (enterprise_bi), la gouvernance, la reproductibilité des requêtes, l'explicabilité des résultats et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.databricks.com/gcp/en/ai-bi/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://docs.databricks.com/aws/en/genie-code",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "snowflake-cortex": {
+    "descriptionFr": "Services IA Snowflake avec Cortex Agents et Cortex Analyst pour questions en langage naturel sur données structurées et non structurées.",
+    "descriptionEn": "Snowflake AI services with Cortex Agents and Cortex Analyst for natural-language questions over structured and unstructured data.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Cortex Agents : orchestration et outils",
+      "Cortex Analyst avec vues sémantiques",
+      "Requêtes SQL traçables et politiques RBAC"
+    ],
+    "featuresEn": [
+      "Cortex Agents orchestration and tools",
+      "Cortex Analyst with semantic views",
+      "Auditable SQL and RBAC policies"
+    ],
+    "accessFr": "Cloud et contrats entreprise selon plateforme",
+    "accessEn": "Cloud and enterprise contracts by platform",
+    "officialSources": [
+      {
+        "url": "https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-analyst",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-agents-manage",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Services IA Snowflake avec Cortex Agents et Cortex Analyst pour questions en langage naturel sur données structurées et non structurées.",
+      "audiences": [
+        "Analystes BI, administrateurs de données et responsables métiers",
+        "Équipes ayant besoin de rapports vérifiables"
+      ],
+      "cases": [
+        "Créer un agent capable de répondre sur les données de commandes à partir de vues sémantiques approuvées.",
+        "Auditer les unités, les dates, les dénominateurs et les filtres avant d'interpréter les résultats."
+      ],
+      "advantages": [
+        "Cortex Agents : orchestration et outils",
+        "Cortex Analyst avec vues sémantiques",
+        "Requêtes SQL traçables et politiques RBAC"
+      ],
+      "limits": [
+        "Snowflake recommande Cortex Agents pour les nouveaux projets, sans annoncer l'arrêt de Cortex Analyst ; les vues sémantiques et permissions sont indispensables à la fiabilité. Tarification basée sur consommation et calcul.",
+        "L'IA peut générer des agrégations erronées ou des conclusions non causales : contrôler les calculs sur un échantillon et tracer la provenance des données."
+      ],
+      "gettingStarted": [
+        "Définir la question métier, les sources autorisées, les définitions des mesures et un jeu d'exemples vérifiés.",
+        "Charger des données de démonstration, tester plusieurs questions, vérifier les sorties et protéger les colonnes sensibles."
+      ],
+      "examples": [
+        "Calcule le nombre de dossiers par mois, leur évolution et les valeurs manquantes ; montre la formule et les colonnes utilisées.",
+        "Crée un tableau de bord avec indicateurs définis, sources citées et avertissement explicite sur les estimations et données incomplètes."
+      ],
+      "pricing": "Vérifier l'abonnement, les sièges, crédits IA, volumes analysés, capacités d'entrepôt, calcul, stockage, API et options entreprise.",
+      "privacy": "Privilégier les jeux de données anonymisés, vérifier la résidence et les contrôles d'accès aux sources, l'usage de sous-traitants IA et la journalisation des requêtes.",
+      "selection": [
+        "Évaluer Snowflake Cortex selon l'usage (enterprise_data), la gouvernance, la reproductibilité des requêtes, l'explicabilité des résultats et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "cortex_agents_recommended",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-analyst",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-agents-manage",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_successor_recommended"
+  },
+  "pecan-ai": {
+    "descriptionFr": "Plateforme de prédiction orientée marketing client, avec agent prédictif pour estimer churn, conversion, valeur future et audiences à activer.",
+    "descriptionEn": "Customer-focused predictive AI platform with an agent for churn, conversion, lifetime-value and audience activation.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Agent prédictif en langage naturel",
+      "Prévisions de churn, conversion et valeur client",
+      "Export d'audiences vers CRM et plateformes marketing"
+    ],
+    "featuresEn": [
+      "Natural-language predictive agent",
+      "Churn, conversion and customer-value forecasts",
+      "Audience export to CRM and marketing tools"
+    ],
+    "accessFr": "Web, cloud et connecteurs selon formule",
+    "accessEn": "Web, cloud and connectors by plan",
+    "officialSources": [
+      {
+        "url": "https://www.pecan.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://www.pecan.ai/pecan-newsroom/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de prédiction orientée marketing client, avec agent prédictif pour estimer churn, conversion, valeur future et audiences à activer.",
+      "audiences": [
+        "Analystes métier, data scientists et responsables de modèles",
+        "Équipes ayant besoin de rapports vérifiables"
+      ],
+      "cases": [
+        "Construire un score de risque de désabonnement, puis comparer une campagne de fidélisation à un groupe témoin.",
+        "Auditer les unités, les dates, les dénominateurs et les filtres avant d'interpréter les résultats."
+      ],
+      "advantages": [
+        "Agent prédictif en langage naturel",
+        "Prévisions de churn, conversion et valeur client",
+        "Export d'audiences vers CRM et plateformes marketing"
+      ],
+      "limits": [
+        "Un score est une estimation fondée sur l'historique, non une preuve de causalité ou un consentement au ciblage ; vérifier le jeu de test, la dérive et le respect de la vie privée.",
+        "L'IA peut générer des agrégations erronées ou des conclusions non causales : contrôler les calculs sur un échantillon et tracer la provenance des données."
+      ],
+      "gettingStarted": [
+        "Définir la question métier, les sources autorisées, les définitions des mesures et un jeu d'exemples vérifiés.",
+        "Charger des données de démonstration, tester plusieurs questions, vérifier les sorties et protéger les colonnes sensibles."
+      ],
+      "examples": [
+        "Calcule le nombre de dossiers par mois, leur évolution et les valeurs manquantes ; montre la formule et les colonnes utilisées.",
+        "Crée un tableau de bord avec indicateurs définis, sources citées et avertissement explicite sur les estimations et données incomplètes."
+      ],
+      "pricing": "Vérifier l'abonnement, les sièges, crédits IA, volumes analysés, capacités d'entrepôt, calcul, stockage, API et options entreprise.",
+      "privacy": "Privilégier les jeux de données anonymisés, vérifier la résidence et les contrôles d'accès aux sources, l'usage de sous-traitants IA et la journalisation des requêtes.",
+      "selection": [
+        "Évaluer Pecan AI selon l'usage (predictive), la gouvernance, la reproductibilité des requêtes, l'explicabilité des résultats et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.pecan.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.pecan.ai/pecan-newsroom/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "h2o-ai": {
+    "descriptionFr": "Écosystème H2O.ai de machine learning et agents d'entreprise, incluant Driverless AI, h2oGPTe, Document AI et H2O AI Super Agent.",
+    "descriptionEn": "H2O.ai enterprise machine-learning and agent platform including Driverless AI, h2oGPTe, Document AI and H2O AI Super Agent.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "AutoML et modèles prédictifs Driverless AI",
+      "h2oGPTe : recherche documentaire avec citations",
+      "Super Agent, outils et déploiements privés"
+    ],
+    "featuresEn": [
+      "Driverless AI AutoML and prediction",
+      "h2oGPTe document-grounded answers",
+      "Super Agent, tools and private deployment"
+    ],
+    "accessFr": "Cloud et contrats entreprise selon plateforme",
+    "accessEn": "Cloud and enterprise contracts by platform",
+    "officialSources": [
+      {
+        "url": "https://h2o.ai/products/h2ogpte",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://docs.h2o.ai/enterprise-h2ogpte/guide/agents/tool-calling",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Écosystème H2O.ai de machine learning et agents d'entreprise, incluant Driverless AI, h2oGPTe, Document AI et H2O AI Super Agent.",
+      "audiences": [
+        "Analystes, chercheurs et responsables de tableaux de bord",
+        "Équipes ayant besoin de rapports vérifiables"
+      ],
+      "cases": [
+        "Comparer un modèle de prévision et une analyse documentaire dans une infrastructure d'entreprise supervisée.",
+        "Auditer les unités, les dates, les dénominateurs et les filtres avant d'interpréter les résultats."
+      ],
+      "advantages": [
+        "AutoML et modèles prédictifs Driverless AI",
+        "h2oGPTe : recherche documentaire avec citations",
+        "Super Agent, outils et déploiements privés"
+      ],
+      "limits": [
+        "Une plateforme RAG et d'agents ne remplace pas la validation statistique des modèles ; la mise en œuvre requiert infrastructure, surveillance, gouvernance des données et contrôle des outils.",
+        "L'IA peut générer des agrégations erronées ou des conclusions non causales : contrôler les calculs sur un échantillon et tracer la provenance des données."
+      ],
+      "gettingStarted": [
+        "Définir la question métier, les sources autorisées, les définitions des mesures et un jeu d'exemples vérifiés.",
+        "Charger des données de démonstration, tester plusieurs questions, vérifier les sorties et protéger les colonnes sensibles."
+      ],
+      "examples": [
+        "Calcule le nombre de dossiers par mois, leur évolution et les valeurs manquantes ; montre la formule et les colonnes utilisées.",
+        "Crée un tableau de bord avec indicateurs définis, sources citées et avertissement explicite sur les estimations et données incomplètes."
+      ],
+      "pricing": "Vérifier l'abonnement, les sièges, crédits IA, volumes analysés, capacités d'entrepôt, calcul, stockage, API et options entreprise.",
+      "privacy": "Privilégier les jeux de données anonymisés, vérifier la résidence et les contrôles d'accès aux sources, l'usage de sous-traitants IA et la journalisation des requêtes.",
+      "selection": [
+        "Évaluer H2O.ai selon l'usage (mlops), la gouvernance, la reproductibilité des requêtes, l'explicabilité des résultats et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://h2o.ai/products/h2ogpte",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://docs.h2o.ai/enterprise-h2ogpte/guide/agents/tool-calling",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  }
+}
