@@ -1,0 +1,1190 @@
+{
+  "interior-ai": {
+    "descriptionFr": "Plateforme de visualisation et réaménagement intérieur par IA à partir d'une photo, avec styles décoratifs, staging, retouches et visites selon abonnement.",
+    "descriptionEn": "AI interior visualization and redesign from room photos with decor styles, virtual staging, image edits and plan-dependent walkthroughs.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Photo vers propositions de décoration",
+      "Virtual staging, retouches locales et modification d'éclairage",
+      "Rendus HD, vidéos de visite et exploration VR selon l'offre"
+    ],
+    "featuresEn": [
+      "Photo-to-decor concepts",
+      "Virtual staging, local edits and lighting changes",
+      "High-resolution renders, walkthrough videos and plan-dependent VR"
+    ],
+    "accessFr": "Web et téléchargements de rendus selon formule",
+    "accessEn": "Web and rendered image downloads by plan",
+    "officialSources": [
+      {
+        "url": "https://interiorai.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de visualisation et réaménagement intérieur par IA à partir d'une photo, avec styles décoratifs, staging, retouches et visites selon abonnement.",
+      "audiences": [
+        "Agents immobiliers, propriétaires et décorateurs",
+        "Équipes souhaitant comparer des variantes de conception"
+      ],
+      "cases": [
+        "Proposer trois aménagements d'un salon à partir d'une photographie tout en conservant les ouvertures existantes.",
+        "Conserver les fichiers ou photos d'origine et la traçabilité des interventions IA."
+      ],
+      "advantages": [
+        "Photo vers propositions de décoration",
+        "Virtual staging, retouches locales et modification d'éclairage",
+        "Rendus HD, vidéos de visite et exploration VR selon l'offre"
+      ],
+      "limits": [
+        "Les rendus sont des visualisations, pas des plans cotés ni une garantie de faisabilité. Le staging, les visites vidéo et la VR sont réservés à certains abonnements ; vérifier les licences commerciales.",
+        "Les visuels séduisants et estimations automatisées ne remplacent pas les relevés, les normes de sécurité, les diagnostics techniques ou la validation par un professionnel."
+      ],
+      "gettingStarted": [
+        "Définir la finalité : inspiration visuelle, plan éditable, étude de faisabilité, visite 3D ou analyse d'annonce.",
+        "Préparer photos ou plans autorisés avec cotes et contraintes, comparer les résultats aux originaux puis vérifier la licence et les exports nécessaires."
+      ],
+      "examples": [
+        "À partir des dimensions et de la photo, propose deux aménagements sans modifier les portes ni fenêtres ; indique ce qui est hypothétique.",
+        "Compare les propositions sur circulation, dimensions, lumière, coût estimatif, réalisme et informations encore à vérifier avant réalisation."
+      ],
+      "pricing": "Comparer les abonnements, crédits de génération, exports, visites hébergées, accès professionnels et licences des rendus auprès de l'éditeur ; tarifs susceptibles d'évoluer.",
+      "privacy": "Vérifier les droits sur photographies et plans, supprimer les informations identifiantes inutiles, contrôler l'hébergement et le partage public des visites et déclarer les images virtuellement modifiées.",
+      "selection": [
+        "Retenir Interior AI si ses sorties (visual_staging) répondent au besoin réel : simple photo améliorée, plan modifiable, faisabilité ou jumeau numérique."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://interiorai.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "roomgpt": {
+    "descriptionFr": "Service simple de relooking visuel d'une pièce depuis une photographie, permettant d'essayer des styles sans créer de plan d'architecture.",
+    "descriptionEn": "Simple room photo restyling service to preview interior styles without generating architectural drawings.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Transformation d'une photo de pièce",
+      "Variations de styles et d'ambiance",
+      "Prévisualisation rapide via service web"
+    ],
+    "featuresEn": [
+      "Room-photo transformation",
+      "Style and mood variations",
+      "Quick web-based preview"
+    ],
+    "accessFr": "Web et téléchargements de rendus selon formule",
+    "accessEn": "Web and rendered image downloads by plan",
+    "officialSources": [
+      {
+        "url": "https://www.roomgpt.io/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.roomgpt.io/dream",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Service simple de relooking visuel d'une pièce depuis une photographie, permettant d'essayer des styles sans créer de plan d'architecture.",
+      "audiences": [
+        "Agents immobiliers, propriétaires et décorateurs",
+        "Équipes souhaitant comparer des variantes de conception"
+      ],
+      "cases": [
+        "Importer une chambre, comparer deux ambiances décoratives et vérifier les changements imaginaires de murs ou de fenêtres.",
+        "Conserver les fichiers ou photos d'origine et la traçabilité des interventions IA."
+      ],
+      "advantages": [
+        "Transformation d'une photo de pièce",
+        "Variations de styles et d'ambiance",
+        "Prévisualisation rapide via service web"
+      ],
+      "limits": [
+        "Le site annonce une génération gratuite pour un nouveau compte ; ce service ne fournit pas de géométrie 3D vérifiée ni de devis. Les images peuvent inventer des volumes ou des meubles irréalisables.",
+        "Les visuels séduisants et estimations automatisées ne remplacent pas les relevés, les normes de sécurité, les diagnostics techniques ou la validation par un professionnel."
+      ],
+      "gettingStarted": [
+        "Définir la finalité : inspiration visuelle, plan éditable, étude de faisabilité, visite 3D ou analyse d'annonce.",
+        "Préparer photos ou plans autorisés avec cotes et contraintes, comparer les résultats aux originaux puis vérifier la licence et les exports nécessaires."
+      ],
+      "examples": [
+        "À partir des dimensions et de la photo, propose deux aménagements sans modifier les portes ni fenêtres ; indique ce qui est hypothétique.",
+        "Compare les propositions sur circulation, dimensions, lumière, coût estimatif, réalisme et informations encore à vérifier avant réalisation."
+      ],
+      "pricing": "Comparer les abonnements, crédits de génération, exports, visites hébergées, accès professionnels et licences des rendus auprès de l'éditeur ; tarifs susceptibles d'évoluer.",
+      "privacy": "Vérifier les droits sur photographies et plans, supprimer les informations identifiantes inutiles, contrôler l'hébergement et le partage public des visites et déclarer les images virtuellement modifiées.",
+      "selection": [
+        "Retenir RoomGPT si ses sorties (visual_staging) répondent au besoin réel : simple photo améliorée, plan modifiable, faisabilité ou jumeau numérique."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.roomgpt.io/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.roomgpt.io/dream",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "reimaginehome": {
+    "descriptionFr": "Plateforme d'aménagement et de valorisation immobilière depuis des photos : relooking conversationnel, meubles achetables, staging et retouches de galeries d'annonces.",
+    "descriptionEn": "Photo-based interior design and property marketing platform combining conversational redesign, shoppable furniture, staging and listing-gallery editing.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Réaménagement par consignes et images de référence",
+      "Visualisation de produits réels selon budget",
+      "Traitement par lot et vérification des photos d'annonces"
+    ],
+    "featuresEn": [
+      "Prompt- and reference-guided redesign",
+      "Budget-aware real-product visualization",
+      "Batch listing photo enhancement and checks"
+    ],
+    "accessFr": "Web et téléchargements de rendus selon formule",
+    "accessEn": "Web and rendered image downloads by plan",
+    "officialSources": [
+      {
+        "url": "https://www.reimaginehome.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.reimaginehome.ai/pricing",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme d'aménagement et de valorisation immobilière depuis des photos : relooking conversationnel, meubles achetables, staging et retouches de galeries d'annonces.",
+      "audiences": [
+        "Agents immobiliers, propriétaires et décorateurs",
+        "Équipes souhaitant comparer des variantes de conception"
+      ],
+      "cases": [
+        "Tester un salon avec un budget mobilier défini puis comparer les produits réels et les propositions générées.",
+        "Conserver les fichiers ou photos d'origine et la traçabilité des interventions IA."
+      ],
+      "advantages": [
+        "Réaménagement par consignes et images de référence",
+        "Visualisation de produits réels selon budget",
+        "Traitement par lot et vérification des photos d'annonces"
+      ],
+      "limits": [
+        "Un visuel avec des articles référencés ne prouve ni les dimensions, ni les prix futurs, ni la disponibilité locale. L'éditeur déclare recevoir des commissions d'affiliation ; distinguer suggestion visuelle et prescription technique.",
+        "Les visuels séduisants et estimations automatisées ne remplacent pas les relevés, les normes de sécurité, les diagnostics techniques ou la validation par un professionnel."
+      ],
+      "gettingStarted": [
+        "Définir la finalité : inspiration visuelle, plan éditable, étude de faisabilité, visite 3D ou analyse d'annonce.",
+        "Préparer photos ou plans autorisés avec cotes et contraintes, comparer les résultats aux originaux puis vérifier la licence et les exports nécessaires."
+      ],
+      "examples": [
+        "À partir des dimensions et de la photo, propose deux aménagements sans modifier les portes ni fenêtres ; indique ce qui est hypothétique.",
+        "Compare les propositions sur circulation, dimensions, lumière, coût estimatif, réalisme et informations encore à vérifier avant réalisation."
+      ],
+      "pricing": "Comparer les abonnements, crédits de génération, exports, visites hébergées, accès professionnels et licences des rendus auprès de l'éditeur ; tarifs susceptibles d'évoluer.",
+      "privacy": "Vérifier les droits sur photographies et plans, supprimer les informations identifiantes inutiles, contrôler l'hébergement et le partage public des visites et déclarer les images virtuellement modifiées.",
+      "selection": [
+        "Retenir REimagineHome si ses sorties (visual_staging) répondent au besoin réel : simple photo améliorée, plan modifiable, faisabilité ou jumeau numérique."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "product_expanded_shoppable",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.reimaginehome.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.reimaginehome.ai/pricing",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "homestyler": {
+    "descriptionFr": "Outil de conception intérieure 2D/3D avec AI Studio, Spark (assistant de design conversationnel), rendu, mobilier et projets modifiables.",
+    "descriptionEn": "2D/3D interior design tool with AI Studio, Spark conversational design assistant, rendering, furniture and editable projects.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Spark et AI Planner pour plans modifiables",
+      "AI Studio : staging, rendu, moodboards et jardin",
+      "Modélisation paramétrique, collaboration et rendus 3D"
+    ],
+    "featuresEn": [
+      "Spark and AI Planner for editable floor plans",
+      "AI Studio staging, renders, moodboards and landscaping",
+      "Parametric modeling, collaboration and 3D rendering"
+    ],
+    "accessFr": "Éditeur web/mobile et rendu cloud selon offre",
+    "accessEn": "Web/mobile editor and cloud rendering by plan",
+    "officialSources": [
+      {
+        "url": "https://resources.homestyler.com/2026/07/22/meet-spark-homestylers-ai-interior-design-agent-for-editable-3d-design/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.homestyler.com/about/updates",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Outil de conception intérieure 2D/3D avec AI Studio, Spark (assistant de design conversationnel), rendu, mobilier et projets modifiables.",
+      "audiences": [
+        "Architectes, designers d'intérieur et propriétaires",
+        "Équipes souhaitant comparer des variantes de conception"
+      ],
+      "cases": [
+        "Construire un séjour en 3D, proposer des agencements par dialogue puis ajuster manuellement les dimensions avant validation.",
+        "Conserver les fichiers ou photos d'origine et la traçabilité des interventions IA."
+      ],
+      "advantages": [
+        "Spark et AI Planner pour plans modifiables",
+        "AI Studio : staging, rendu, moodboards et jardin",
+        "Modélisation paramétrique, collaboration et rendus 3D"
+      ],
+      "limits": [
+        "Spark et AI Studio ont été présentés en 2026 ; le résultat reste un projet à contrôler. Les modèles, catalogues, fonctions d'équipe et exports avancés dépendent du plan.",
+        "Les visuels séduisants et estimations automatisées ne remplacent pas les relevés, les normes de sécurité, les diagnostics techniques ou la validation par un professionnel."
+      ],
+      "gettingStarted": [
+        "Définir la finalité : inspiration visuelle, plan éditable, étude de faisabilité, visite 3D ou analyse d'annonce.",
+        "Préparer photos ou plans autorisés avec cotes et contraintes, comparer les résultats aux originaux puis vérifier la licence et les exports nécessaires."
+      ],
+      "examples": [
+        "À partir des dimensions et de la photo, propose deux aménagements sans modifier les portes ni fenêtres ; indique ce qui est hypothétique.",
+        "Compare les propositions sur circulation, dimensions, lumière, coût estimatif, réalisme et informations encore à vérifier avant réalisation."
+      ],
+      "pricing": "Comparer les abonnements, crédits de génération, exports, visites hébergées, accès professionnels et licences des rendus auprès de l'éditeur ; tarifs susceptibles d'évoluer.",
+      "privacy": "Vérifier les droits sur photographies et plans, supprimer les informations identifiantes inutiles, contrôler l'hébergement et le partage public des visites et déclarer les images virtuellement modifiées.",
+      "selection": [
+        "Retenir Homestyler si ses sorties (editable_3d) répondent au besoin réel : simple photo améliorée, plan modifiable, faisabilité ou jumeau numérique."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "new_spark_agent",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://resources.homestyler.com/2026/07/22/meet-spark-homestylers-ai-interior-design-agent-for-editable-3d-design/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.homestyler.com/about/updates",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "planner-5d": {
+    "descriptionFr": "Planificateur d'espaces 2D/3D avec Smart Wizard, conversion de plans par IA, moodboards, capture de pièces et projets éditables.",
+    "descriptionEn": "2D/3D space planner with Smart Wizard, AI floor-plan conversion, moodboards, room scanning and editable projects.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Reconnaissance de plans image/PDF/DWG/DXF",
+      "Smart Wizard pour pièces et mobilier",
+      "Projet 2D/3D éditable et Home Scanner"
+    ],
+    "featuresEn": [
+      "Image/PDF/DWG/DXF plan recognition",
+      "Smart Wizard for layouts and furniture",
+      "Editable 2D/3D project and Home Scanner"
+    ],
+    "accessFr": "Éditeur web/mobile et rendu cloud selon offre",
+    "accessEn": "Web/mobile editor and cloud rendering by plan",
+    "officialSources": [
+      {
+        "url": "https://support.planner5d.com/en/articles/14434484-how-to-upload-a-floor-plan",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://support.planner5d.com/en/articles/15820080-how-to-get-started-with-planner-5d-on-web",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://planner5d.com/smart-wizard",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Planificateur d'espaces 2D/3D avec Smart Wizard, conversion de plans par IA, moodboards, capture de pièces et projets éditables.",
+      "audiences": [
+        "Architectes, designers d'intérieur et propriétaires",
+        "Équipes souhaitant comparer des variantes de conception"
+      ],
+      "cases": [
+        "Importer le plan d'un logement, contrôler les cotes reconnues puis comparer deux implantations de mobilier.",
+        "Conserver les fichiers ou photos d'origine et la traçabilité des interventions IA."
+      ],
+      "advantages": [
+        "Reconnaissance de plans image/PDF/DWG/DXF",
+        "Smart Wizard pour pièces et mobilier",
+        "Projet 2D/3D éditable et Home Scanner"
+      ],
+      "limits": [
+        "La reconnaissance de plan est réservée aux offres payantes et consomme des crédits IA (50 annoncés pour un plan dans l'aide actuelle). Le service avertit qu'un plan sans dimensions peut être reproduit à une mauvaise échelle.",
+        "Les visuels séduisants et estimations automatisées ne remplacent pas les relevés, les normes de sécurité, les diagnostics techniques ou la validation par un professionnel."
+      ],
+      "gettingStarted": [
+        "Définir la finalité : inspiration visuelle, plan éditable, étude de faisabilité, visite 3D ou analyse d'annonce.",
+        "Préparer photos ou plans autorisés avec cotes et contraintes, comparer les résultats aux originaux puis vérifier la licence et les exports nécessaires."
+      ],
+      "examples": [
+        "À partir des dimensions et de la photo, propose deux aménagements sans modifier les portes ni fenêtres ; indique ce qui est hypothétique.",
+        "Compare les propositions sur circulation, dimensions, lumière, coût estimatif, réalisme et informations encore à vérifier avant réalisation."
+      ],
+      "pricing": "Comparer les abonnements, crédits de génération, exports, visites hébergées, accès professionnels et licences des rendus auprès de l'éditeur ; tarifs susceptibles d'évoluer.",
+      "privacy": "Vérifier les droits sur photographies et plans, supprimer les informations identifiantes inutiles, contrôler l'hébergement et le partage public des visites et déclarer les images virtuellement modifiées.",
+      "selection": [
+        "Retenir Planner 5D si ses sorties (editable_3d) répondent au besoin réel : simple photo améliorée, plan modifiable, faisabilité ou jumeau numérique."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://support.planner5d.com/en/articles/14434484-how-to-upload-a-floor-plan",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://support.planner5d.com/en/articles/15820080-how-to-get-started-with-planner-5d-on-web",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://planner5d.com/smart-wizard",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "coohom": {
+    "descriptionFr": "Plateforme de design intérieur qui transforme plans et descriptions en dispositions aménagées, scènes 3D éditables, panoramas et vidéos.",
+    "descriptionEn": "Interior design platform turning floor plans and prompts into furnished layouts, editable 3D scenes, panoramas and videos.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "AIHom : chat vers plan 2D et espace 3D",
+      "AI Layout, catalogue de meubles et retouches",
+      "Rendus 360°, images, vidéos et partage"
+    ],
+    "featuresEn": [
+      "AIHom chat-to-floorplan and 3D room",
+      "AI Layout, furniture catalogs and edits",
+      "360° renders, images, videos and sharing"
+    ],
+    "accessFr": "Éditeur web/mobile et rendu cloud selon offre",
+    "accessEn": "Web/mobile editor and cloud rendering by plan",
+    "officialSources": [
+      {
+        "url": "https://www.coohom.com/helpcenter/aihom-design-with-aihom",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.coohom.com/case/ai-layout",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de design intérieur qui transforme plans et descriptions en dispositions aménagées, scènes 3D éditables, panoramas et vidéos.",
+      "audiences": [
+        "Architectes, designers d'intérieur et propriétaires",
+        "Équipes souhaitant comparer des variantes de conception"
+      ],
+      "cases": [
+        "Importer le DXF d'un appartement et créer une visite 360° en contrôlant les dégagements et proportions.",
+        "Conserver les fichiers ou photos d'origine et la traçabilité des interventions IA."
+      ],
+      "advantages": [
+        "AIHom : chat vers plan 2D et espace 3D",
+        "AI Layout, catalogue de meubles et retouches",
+        "Rendus 360°, images, vidéos et partage"
+      ],
+      "limits": [
+        "L'essai et les résolutions de rendu dépendent de crédits ou forfaits. Le fournisseur précise que l'agencement IA sert de point de départ ; vérifier dimensions, circulation et produits.",
+        "Les visuels séduisants et estimations automatisées ne remplacent pas les relevés, les normes de sécurité, les diagnostics techniques ou la validation par un professionnel."
+      ],
+      "gettingStarted": [
+        "Définir la finalité : inspiration visuelle, plan éditable, étude de faisabilité, visite 3D ou analyse d'annonce.",
+        "Préparer photos ou plans autorisés avec cotes et contraintes, comparer les résultats aux originaux puis vérifier la licence et les exports nécessaires."
+      ],
+      "examples": [
+        "À partir des dimensions et de la photo, propose deux aménagements sans modifier les portes ni fenêtres ; indique ce qui est hypothétique.",
+        "Compare les propositions sur circulation, dimensions, lumière, coût estimatif, réalisme et informations encore à vérifier avant réalisation."
+      ],
+      "pricing": "Comparer les abonnements, crédits de génération, exports, visites hébergées, accès professionnels et licences des rendus auprès de l'éditeur ; tarifs susceptibles d'évoluer.",
+      "privacy": "Vérifier les droits sur photographies et plans, supprimer les informations identifiantes inutiles, contrôler l'hébergement et le partage public des visites et déclarer les images virtuellement modifiées.",
+      "selection": [
+        "Retenir Coohom si ses sorties (editable_3d) répondent au besoin réel : simple photo améliorée, plan modifiable, faisabilité ou jumeau numérique."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "new_aihom_workflow",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.coohom.com/helpcenter/aihom-design-with-aihom",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.coohom.com/case/ai-layout",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "foyr-neo": {
+    "descriptionFr": "Logiciel cloud Foyr Neo réunissant dessin de plans à l'échelle, aménagement, modèles 3D, rendu 4K et visites pour présenter des projets intérieurs.",
+    "descriptionEn": "Foyr Neo cloud design tool combining scaled floor plans, furnishings, 3D models, 4K rendering and walkthroughs for interiors.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Plans 2D cotés et élévations",
+      "Aménagement et bibliothèque de modèles",
+      "Rendus 4K et visites 3D"
+    ],
+    "featuresEn": [
+      "Scaled 2D plans and elevations",
+      "Furniture layout and model library",
+      "4K renders and 3D walkthroughs"
+    ],
+    "accessFr": "Éditeur web/mobile et rendu cloud selon offre",
+    "accessEn": "Web/mobile editor and cloud rendering by plan",
+    "officialSources": [
+      {
+        "url": "https://foyr.com/neo-interior-design-software/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Logiciel cloud Foyr Neo réunissant dessin de plans à l'échelle, aménagement, modèles 3D, rendu 4K et visites pour présenter des projets intérieurs.",
+      "audiences": [
+        "Architectes, designers d'intérieur et propriétaires",
+        "Équipes souhaitant comparer des variantes de conception"
+      ],
+      "cases": [
+        "Tracer une pièce aux bonnes cotes, positionner une cuisine et générer deux visuels pour validation client.",
+        "Conserver les fichiers ou photos d'origine et la traçabilité des interventions IA."
+      ],
+      "advantages": [
+        "Plans 2D cotés et élévations",
+        "Aménagement et bibliothèque de modèles",
+        "Rendus 4K et visites 3D"
+      ],
+      "limits": [
+        "Les rendus ne remplacent pas des plans d'exécution ou un contrôle des normes. Tester les exports, les dimensions et les conditions de licence des modèles avant une commande réelle.",
+        "Les visuels séduisants et estimations automatisées ne remplacent pas les relevés, les normes de sécurité, les diagnostics techniques ou la validation par un professionnel."
+      ],
+      "gettingStarted": [
+        "Définir la finalité : inspiration visuelle, plan éditable, étude de faisabilité, visite 3D ou analyse d'annonce.",
+        "Préparer photos ou plans autorisés avec cotes et contraintes, comparer les résultats aux originaux puis vérifier la licence et les exports nécessaires."
+      ],
+      "examples": [
+        "À partir des dimensions et de la photo, propose deux aménagements sans modifier les portes ni fenêtres ; indique ce qui est hypothétique.",
+        "Compare les propositions sur circulation, dimensions, lumière, coût estimatif, réalisme et informations encore à vérifier avant réalisation."
+      ],
+      "pricing": "Comparer les abonnements, crédits de génération, exports, visites hébergées, accès professionnels et licences des rendus auprès de l'éditeur ; tarifs susceptibles d'évoluer.",
+      "privacy": "Vérifier les droits sur photographies et plans, supprimer les informations identifiantes inutiles, contrôler l'hébergement et le partage public des visites et déclarer les images virtuellement modifiées.",
+      "selection": [
+        "Retenir Foyr Neo si ses sorties (editable_3d) répondent au besoin réel : simple photo améliorée, plan modifiable, faisabilité ou jumeau numérique."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://foyr.com/neo-interior-design-software/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "lookx-ai": {
+    "descriptionFr": "Outil de conception visuelle pour architectes, générant des rendus à partir de prompts et esquisses, avec modèles personnalisés, vidéo et extensions CAO.",
+    "descriptionEn": "Architectural visual concept tool generating images from prompts and sketches, with custom style models, video and CAD plugins.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Rendu temps réel depuis texte et esquisses",
+      "Entraînement de styles et références visuelles",
+      "Génération vidéo, plugins SketchUp et Rhino"
+    ],
+    "featuresEn": [
+      "Real-time renders from text and sketches",
+      "Style training and reference images",
+      "Video generation and SketchUp/Rhino plugins"
+    ],
+    "accessFr": "Web et plugins de conception selon offre",
+    "accessEn": "Web and design plugins by plan",
+    "officialSources": [
+      {
+        "url": "https://www.lookx.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Outil de conception visuelle pour architectes, générant des rendus à partir de prompts et esquisses, avec modèles personnalisés, vidéo et extensions CAO.",
+      "audiences": [
+        "Architectes, designers d'intérieur et propriétaires",
+        "Équipes souhaitant comparer des variantes de conception"
+      ],
+      "cases": [
+        "Transformer un croquis d'avant-projet en variations d'élévation et comparer les matériaux imaginés.",
+        "Conserver les fichiers ou photos d'origine et la traçabilité des interventions IA."
+      ],
+      "advantages": [
+        "Rendu temps réel depuis texte et esquisses",
+        "Entraînement de styles et références visuelles",
+        "Génération vidéo, plugins SketchUp et Rhino"
+      ],
+      "limits": [
+        "Une image réaliste n'est pas une preuve de conformité BIM, d'échelle, d'ensoleillement ou de sécurité. Vérifier les droits sur références et styles entraînés et les crédits de génération.",
+        "Les visuels séduisants et estimations automatisées ne remplacent pas les relevés, les normes de sécurité, les diagnostics techniques ou la validation par un professionnel."
+      ],
+      "gettingStarted": [
+        "Définir la finalité : inspiration visuelle, plan éditable, étude de faisabilité, visite 3D ou analyse d'annonce.",
+        "Préparer photos ou plans autorisés avec cotes et contraintes, comparer les résultats aux originaux puis vérifier la licence et les exports nécessaires."
+      ],
+      "examples": [
+        "À partir des dimensions et de la photo, propose deux aménagements sans modifier les portes ni fenêtres ; indique ce qui est hypothétique.",
+        "Compare les propositions sur circulation, dimensions, lumière, coût estimatif, réalisme et informations encore à vérifier avant réalisation."
+      ],
+      "pricing": "Comparer les abonnements, crédits de génération, exports, visites hébergées, accès professionnels et licences des rendus auprès de l'éditeur ; tarifs susceptibles d'évoluer.",
+      "privacy": "Vérifier les droits sur photographies et plans, supprimer les informations identifiantes inutiles, contrôler l'hébergement et le partage public des visites et déclarer les images virtuellement modifiées.",
+      "selection": [
+        "Retenir LookX AI si ses sorties (concept_render) répondent au besoin réel : simple photo améliorée, plan modifiable, faisabilité ou jumeau numérique."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.lookx.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "maket": {
+    "descriptionFr": "Atelier de plans résidentiels conceptuels IA : création depuis un brief ou PDF, édition sur canevas, rendus et export DXF/PDF.",
+    "descriptionEn": "AI residential concept floor-plan studio: generate from brief or PDF, edit on canvas, create renders and export DXF/PDF.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Plans de concept depuis texte, photo ou PDF",
+      "Édition de murs et pièces, projets à étages",
+      "Exports DXF/PDF dans les offres compatibles"
+    ],
+    "featuresEn": [
+      "Concept plans from text, photo or PDF",
+      "Editable walls, rooms and multilevel layouts",
+      "Plan-dependent DXF/PDF exports"
+    ],
+    "accessFr": "Web, cloud et logiciels associés selon formule",
+    "accessEn": "Web, cloud and related software by plan",
+    "officialSources": [
+      {
+        "url": "https://www.maket.ai/for-architects",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://help.maket.ai/en/articles/13611439-welcome-to-maket",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Atelier de plans résidentiels conceptuels IA : création depuis un brief ou PDF, édition sur canevas, rendus et export DXF/PDF.",
+      "audiences": [
+        "Architectes, designers d'intérieur et propriétaires",
+        "Équipes souhaitant comparer des variantes de conception"
+      ],
+      "cases": [
+        "Esquisser trois variantes d'une petite maison, exporter un DXF puis faire reprendre les plans par un architecte.",
+        "Conserver les fichiers ou photos d'origine et la traçabilité des interventions IA."
+      ],
+      "advantages": [
+        "Plans de concept depuis texte, photo ou PDF",
+        "Édition de murs et pièces, projets à étages",
+        "Exports DXF/PDF dans les offres compatibles"
+      ],
+      "limits": [
+        "Maket précise explicitement que ses sorties servent à la phase conceptuelle, pas au chantier : les plans ne sont pas des documents d'exécution. Imports validés, étages multiples et exports soumis aux formules.",
+        "Les visuels séduisants et estimations automatisées ne remplacent pas les relevés, les normes de sécurité, les diagnostics techniques ou la validation par un professionnel."
+      ],
+      "gettingStarted": [
+        "Définir la finalité : inspiration visuelle, plan éditable, étude de faisabilité, visite 3D ou analyse d'annonce.",
+        "Préparer photos ou plans autorisés avec cotes et contraintes, comparer les résultats aux originaux puis vérifier la licence et les exports nécessaires."
+      ],
+      "examples": [
+        "À partir des dimensions et de la photo, propose deux aménagements sans modifier les portes ni fenêtres ; indique ce qui est hypothétique.",
+        "Compare les propositions sur circulation, dimensions, lumière, coût estimatif, réalisme et informations encore à vérifier avant réalisation."
+      ],
+      "pricing": "Comparer les abonnements, crédits de génération, exports, visites hébergées, accès professionnels et licences des rendus auprès de l'éditeur ; tarifs susceptibles d'évoluer.",
+      "privacy": "Vérifier les droits sur photographies et plans, supprimer les informations identifiantes inutiles, contrôler l'hébergement et le partage public des visites et déclarer les images virtuellement modifiées.",
+      "selection": [
+        "Retenir Maket si ses sorties (concept_plan) répondent au besoin réel : simple photo améliorée, plan modifiable, faisabilité ou jumeau numérique."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.maket.ai/for-architects",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://help.maket.ai/en/articles/13611439-welcome-to-maket",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "testfit": {
+    "descriptionFr": "Plateforme de faisabilité immobilière automatisant études de sites, stationnement, enveloppes bâties et scénarios économiques pour développeurs et architectes.",
+    "descriptionEn": "Real-estate feasibility platform automating site plans, parking, building massing and project economics for developers and architects.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Parking Solver et Site Solver génératif",
+      "Contraintes de zonage, terrain et rendement",
+      "Urban Planner, Pro Forma et exports CAD/Revit"
+    ],
+    "featuresEn": [
+      "Parking Solver and generative Site Solver",
+      "Zoning, terrain and yield constraints",
+      "Urban Planner, Pro Forma and CAD/Revit exports"
+    ],
+    "accessFr": "Service web et outils professionnels selon licence",
+    "accessEn": "Web service and professional tooling by license",
+    "officialSources": [
+      {
+        "url": "https://www.testfit.io/product/site-solver",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.testfit.io/product/urban-planner",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.testfit.io/pricing",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de faisabilité immobilière automatisant études de sites, stationnement, enveloppes bâties et scénarios économiques pour développeurs et architectes.",
+      "audiences": [
+        "Architectes, urbanistes et promoteurs",
+        "Équipes souhaitant comparer des variantes de conception"
+      ],
+      "cases": [
+        "Comparer des configurations de stationnement et de logements sur un terrain, puis vérifier les règles d'urbanisme locales.",
+        "Conserver les fichiers ou photos d'origine et la traçabilité des interventions IA."
+      ],
+      "advantages": [
+        "Parking Solver et Site Solver génératif",
+        "Contraintes de zonage, terrain et rendement",
+        "Urban Planner, Pro Forma et exports CAD/Revit"
+      ],
+      "limits": [
+        "Les estimations de coûts, FAR, zonage et rendement sont préliminaires et ne valent pas approbation réglementaire. Produits Site Solver et Parking Solver ont des prix et options très différents.",
+        "Les visuels séduisants et estimations automatisées ne remplacent pas les relevés, les normes de sécurité, les diagnostics techniques ou la validation par un professionnel."
+      ],
+      "gettingStarted": [
+        "Définir la finalité : inspiration visuelle, plan éditable, étude de faisabilité, visite 3D ou analyse d'annonce.",
+        "Préparer photos ou plans autorisés avec cotes et contraintes, comparer les résultats aux originaux puis vérifier la licence et les exports nécessaires."
+      ],
+      "examples": [
+        "À partir des dimensions et de la photo, propose deux aménagements sans modifier les portes ni fenêtres ; indique ce qui est hypothétique.",
+        "Compare les propositions sur circulation, dimensions, lumière, coût estimatif, réalisme et informations encore à vérifier avant réalisation."
+      ],
+      "pricing": "Comparer les abonnements, crédits de génération, exports, visites hébergées, accès professionnels et licences des rendus auprès de l'éditeur ; tarifs susceptibles d'évoluer.",
+      "privacy": "Vérifier les droits sur photographies et plans, supprimer les informations identifiantes inutiles, contrôler l'hébergement et le partage public des visites et déclarer les images virtuellement modifiées.",
+      "selection": [
+        "Retenir TestFit si ses sorties (feasibility) répondent au besoin réel : simple photo améliorée, plan modifiable, faisabilité ou jumeau numérique."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.testfit.io/product/site-solver",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.testfit.io/product/urban-planner",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.testfit.io/pricing",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "autodesk-forma": {
+    "descriptionFr": "Autodesk Forma Site Design, l'ancien produit Forma de conception préliminaire : volumes, contexte urbain, analyses environnementales et échange avec Revit.",
+    "descriptionEn": "Autodesk Forma Site Design, the former Forma early-stage product, for massing, site context, environmental analysis and Revit handoff.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Massing et analyse de site",
+      "Analyses environnementales et travail collaboratif",
+      "Forma Board, Revit et intégrations BIM"
+    ],
+    "featuresEn": [
+      "Massing and site analysis",
+      "Environmental analysis and collaborative review",
+      "Forma Board, Revit and BIM integrations"
+    ],
+    "accessFr": "Service web et outils professionnels selon licence",
+    "accessEn": "Web service and professional tooling by license",
+    "officialSources": [
+      {
+        "url": "https://www.autodesk.com/products/forma-site-design/overview",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://aps.autodesk.com/blog/get-know-new-autodesk-forma-industry-cloud",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Autodesk Forma Site Design, l'ancien produit Forma de conception préliminaire : volumes, contexte urbain, analyses environnementales et échange avec Revit.",
+      "audiences": [
+        "Architectes, urbanistes et promoteurs",
+        "Équipes souhaitant comparer des variantes de conception"
+      ],
+      "cases": [
+        "Comparer plusieurs implantations de bâtiment et leurs performances environnementales en phase d'esquisse.",
+        "Conserver les fichiers ou photos d'origine et la traçabilité des interventions IA."
+      ],
+      "advantages": [
+        "Massing et analyse de site",
+        "Analyses environnementales et travail collaboratif",
+        "Forma Board, Revit et intégrations BIM"
+      ],
+      "limits": [
+        "Depuis le 24 mars 2026, 'Autodesk Forma' désigne le cloud sectoriel AEC, et l'ancien outil est nommé Forma Site Design. Bien distinguer Forma Building Design, Forma Site Design et l'ensemble Forma ; analyses préliminaires non opposables.",
+        "Les visuels séduisants et estimations automatisées ne remplacent pas les relevés, les normes de sécurité, les diagnostics techniques ou la validation par un professionnel."
+      ],
+      "gettingStarted": [
+        "Définir la finalité : inspiration visuelle, plan éditable, étude de faisabilité, visite 3D ou analyse d'annonce.",
+        "Préparer photos ou plans autorisés avec cotes et contraintes, comparer les résultats aux originaux puis vérifier la licence et les exports nécessaires."
+      ],
+      "examples": [
+        "À partir des dimensions et de la photo, propose deux aménagements sans modifier les portes ni fenêtres ; indique ce qui est hypothétique.",
+        "Compare les propositions sur circulation, dimensions, lumière, coût estimatif, réalisme et informations encore à vérifier avant réalisation."
+      ],
+      "pricing": "Comparer les abonnements, crédits de génération, exports, visites hébergées, accès professionnels et licences des rendus auprès de l'éditeur ; tarifs susceptibles d'évoluer.",
+      "privacy": "Vérifier les droits sur photographies et plans, supprimer les informations identifiantes inutiles, contrôler l'hébergement et le partage public des visites et déclarer les images virtuellement modifiées.",
+      "selection": [
+        "Retenir Autodesk Forma si ses sorties (feasibility) répondent au besoin réel : simple photo améliorée, plan modifiable, faisabilité ou jumeau numérique."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "renamed_forma_site_design",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.autodesk.com/products/forma-site-design/overview",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://aps.autodesk.com/blog/get-know-new-autodesk-forma-industry-cloud",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_rebranded",
+    "name": "Autodesk Forma Site Design",
+    "url": "https://www.autodesk.com/products/forma-site-design/overview"
+  },
+  "veras": {
+    "descriptionFr": "Veras, outil de visualisation IA d'EvolveLAB désormais dans l'écosystème Chaos, transforme modèles SketchUp, Revit, Rhino ou Forma en concepts de rendu.",
+    "descriptionEn": "Veras, formerly EvolveLAB's AI visualization tool now within Chaos, transforms SketchUp, Revit, Rhino or Forma models into rendering concepts.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Rendus IA guidés par une géométrie existante",
+      "Geometry Override et retouche par sélection",
+      "Intégration Chaos Enscape, V-Ray, Corona"
+    ],
+    "featuresEn": [
+      "Geometry-guided AI rendering",
+      "Geometry Override and selected-area rerendering",
+      "Chaos Enscape, V-Ray and Corona integration"
+    ],
+    "accessFr": "Web et plugins de conception selon offre",
+    "accessEn": "Web and design plugins by plan",
+    "officialSources": [
+      {
+        "url": "https://www.evolvelab.io/veras",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.chaos.com/press/veras-ai-architecture-enscape-vray-corona",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Veras, outil de visualisation IA d'EvolveLAB désormais dans l'écosystème Chaos, transforme modèles SketchUp, Revit, Rhino ou Forma en concepts de rendu.",
+      "audiences": [
+        "Architectes, designers d'intérieur et propriétaires",
+        "Équipes souhaitant comparer des variantes de conception"
+      ],
+      "cases": [
+        "Produire trois variantes de façade depuis un modèle Revit sans modifier le modèle d'exécution.",
+        "Conserver les fichiers ou photos d'origine et la traçabilité des interventions IA."
+      ],
+      "advantages": [
+        "Rendus IA guidés par une géométrie existante",
+        "Geometry Override et retouche par sélection",
+        "Intégration Chaos Enscape, V-Ray, Corona"
+      ],
+      "limits": [
+        "EvolveLAB a été acquis par Chaos en février 2025, et Veras est intégré aux offres Enscape, V-Ray et Corona depuis mai 2026. Le curseur Geometry Override peut modifier fortement la fidélité au modèle source.",
+        "Les visuels séduisants et estimations automatisées ne remplacent pas les relevés, les normes de sécurité, les diagnostics techniques ou la validation par un professionnel."
+      ],
+      "gettingStarted": [
+        "Définir la finalité : inspiration visuelle, plan éditable, étude de faisabilité, visite 3D ou analyse d'annonce.",
+        "Préparer photos ou plans autorisés avec cotes et contraintes, comparer les résultats aux originaux puis vérifier la licence et les exports nécessaires."
+      ],
+      "examples": [
+        "À partir des dimensions et de la photo, propose deux aménagements sans modifier les portes ni fenêtres ; indique ce qui est hypothétique.",
+        "Compare les propositions sur circulation, dimensions, lumière, coût estimatif, réalisme et informations encore à vérifier avant réalisation."
+      ],
+      "pricing": "Comparer les abonnements, crédits de génération, exports, visites hébergées, accès professionnels et licences des rendus auprès de l'éditeur ; tarifs susceptibles d'évoluer.",
+      "privacy": "Vérifier les droits sur photographies et plans, supprimer les informations identifiantes inutiles, contrôler l'hébergement et le partage public des visites et déclarer les images virtuellement modifiées.",
+      "selection": [
+        "Retenir Veras si ses sorties (concept_render) répondent au besoin réel : simple photo améliorée, plan modifiable, faisabilité ou jumeau numérique."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "integrated_with_chaos_ecosystem",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.evolvelab.io/veras",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.chaos.com/press/veras-ai-architecture-enscape-vray-corona",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_integrated",
+    "name": "Veras (Chaos / EvolveLAB)"
+  },
+  "virtual-staging-ai": {
+    "descriptionFr": "Application de home staging virtuel Virtual Staging AI, sur le domaine virtualstagingai.app, qui meuble et redécore des photos de pièces.",
+    "descriptionEn": "Virtual Staging AI at virtualstagingai.app adds virtual furnishings and decor to room photos for property marketing.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Photo de pièce vide vers aménagement",
+      "Suppression de meubles et choix de styles",
+      "Rendus avant/après utilisables en annonce"
+    ],
+    "featuresEn": [
+      "Empty-room photo to furnished staging",
+      "Furniture removal and style selection",
+      "Before/after images for listings"
+    ],
+    "accessFr": "Web et téléchargements de rendus selon formule",
+    "accessEn": "Web and rendered image downloads by plan",
+    "officialSources": [
+      {
+        "url": "https://www.virtualstagingai.app/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Application de home staging virtuel Virtual Staging AI, sur le domaine virtualstagingai.app, qui meuble et redécore des photos de pièces.",
+      "audiences": [
+        "Agents immobiliers, propriétaires et décorateurs",
+        "Équipes souhaitant comparer des variantes de conception"
+      ],
+      "cases": [
+        "Meubler virtuellement un salon vide pour une annonce en conservant la photo originale et une mention de staging.",
+        "Conserver les fichiers ou photos d'origine et la traçabilité des interventions IA."
+      ],
+      "advantages": [
+        "Photo de pièce vide vers aménagement",
+        "Suppression de meubles et choix de styles",
+        "Rendus avant/après utilisables en annonce"
+      ],
+      "limits": [
+        "Le domaine virtualstagingai.app et virtualstaging.ai sont deux services distincts ; conserver le site associé à cette fiche. La mise en scène n'indique pas l'état réel ni les dimensions du bien : signaler clairement les modifications dans les annonces.",
+        "Les visuels séduisants et estimations automatisées ne remplacent pas les relevés, les normes de sécurité, les diagnostics techniques ou la validation par un professionnel."
+      ],
+      "gettingStarted": [
+        "Définir la finalité : inspiration visuelle, plan éditable, étude de faisabilité, visite 3D ou analyse d'annonce.",
+        "Préparer photos ou plans autorisés avec cotes et contraintes, comparer les résultats aux originaux puis vérifier la licence et les exports nécessaires."
+      ],
+      "examples": [
+        "À partir des dimensions et de la photo, propose deux aménagements sans modifier les portes ni fenêtres ; indique ce qui est hypothétique.",
+        "Compare les propositions sur circulation, dimensions, lumière, coût estimatif, réalisme et informations encore à vérifier avant réalisation."
+      ],
+      "pricing": "Comparer les abonnements, crédits de génération, exports, visites hébergées, accès professionnels et licences des rendus auprès de l'éditeur ; tarifs susceptibles d'évoluer.",
+      "privacy": "Vérifier les droits sur photographies et plans, supprimer les informations identifiantes inutiles, contrôler l'hébergement et le partage public des visites et déclarer les images virtuellement modifiées.",
+      "selection": [
+        "Retenir Virtual Staging AI si ses sorties (visual_staging) répondent au besoin réel : simple photo améliorée, plan modifiable, faisabilité ou jumeau numérique."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "distinct_service_verified",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.virtualstagingai.app/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_distinct_domain"
+  },
+  "restb-ai": {
+    "descriptionFr": "Plateforme d'IA immobilière analysant les photos pour classer pièces et caractéristiques, produire descriptions, détecter doublons et contrôler la conformité des annonces.",
+    "descriptionEn": "Real-estate AI for image tagging, room and feature detection, listing descriptions, duplicate checks and listing photo compliance.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Image tagging des pièces et caractéristiques",
+      "Descriptions immobilières et légendes d'accessibilité",
+      "Détection de doublons, qualité et règles MLS"
+    ],
+    "featuresEn": [
+      "Room and property feature tagging",
+      "Property descriptions and accessibility captions",
+      "Duplicate, quality and MLS compliance checks"
+    ],
+    "accessFr": "Web, cloud et logiciels associés selon formule",
+    "accessEn": "Web, cloud and related software by plan",
+    "officialSources": [
+      {
+        "url": "https://restb.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://restb.ai/solutions/real-estate-image-tagging/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://restb.ai/company/faq/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme d'IA immobilière analysant les photos pour classer pièces et caractéristiques, produire descriptions, détecter doublons et contrôler la conformité des annonces.",
+      "audiences": [
+        "Agences immobilières, MLS et fournisseurs de données",
+        "Équipes souhaitant comparer des variantes de conception"
+      ],
+      "cases": [
+        "Automatiser la description d'une annonce à partir de photos puis valider toutes les caractéristiques avant publication.",
+        "Conserver les fichiers ou photos d'origine et la traçabilité des interventions IA."
+      ],
+      "advantages": [
+        "Image tagging des pièces et caractéristiques",
+        "Descriptions immobilières et légendes d'accessibilité",
+        "Détection de doublons, qualité et règles MLS"
+      ],
+      "limits": [
+        "Les caractéristiques détectées et scores de qualité sont des prédictions, non des inspections certifiées. L'éditeur prévoit la confirmation humaine d'attributs avant ajout à l'annonce ; respecter les règles de non-discrimination.",
+        "Les visuels séduisants et estimations automatisées ne remplacent pas les relevés, les normes de sécurité, les diagnostics techniques ou la validation par un professionnel."
+      ],
+      "gettingStarted": [
+        "Définir la finalité : inspiration visuelle, plan éditable, étude de faisabilité, visite 3D ou analyse d'annonce.",
+        "Préparer photos ou plans autorisés avec cotes et contraintes, comparer les résultats aux originaux puis vérifier la licence et les exports nécessaires."
+      ],
+      "examples": [
+        "À partir des dimensions et de la photo, propose deux aménagements sans modifier les portes ni fenêtres ; indique ce qui est hypothétique.",
+        "Compare les propositions sur circulation, dimensions, lumière, coût estimatif, réalisme et informations encore à vérifier avant réalisation."
+      ],
+      "pricing": "Comparer les abonnements, crédits de génération, exports, visites hébergées, accès professionnels et licences des rendus auprès de l'éditeur ; tarifs susceptibles d'évoluer.",
+      "privacy": "Vérifier les droits sur photographies et plans, supprimer les informations identifiantes inutiles, contrôler l'hébergement et le partage public des visites et déclarer les images virtuellement modifiées.",
+      "selection": [
+        "Retenir Restb.ai si ses sorties (real_estate_data) répondent au besoin réel : simple photo améliorée, plan modifiable, faisabilité ou jumeau numérique."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://restb.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://restb.ai/solutions/real-estate-image-tagging/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://restb.ai/company/faq/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "matterport": {
+    "descriptionFr": "Plateforme de jumeaux numériques d'espaces pour captures 3D, visites immersives, mesures, plans et export CAD/BIM ; appartient au groupe CoStar.",
+    "descriptionEn": "Digital twin platform for spaces offering 3D capture, immersive tours, measurements, floor plans and CAD/BIM exports; part of CoStar Group.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Captures 3D et visites immersives",
+      "Cortex AI, plans, mesures et rapports de biens",
+      "Exports CAD, BIM et 3D selon forfait"
+    ],
+    "featuresEn": [
+      "3D capture and immersive tours",
+      "Cortex AI, floor plans, measurements and property reports",
+      "Plan-dependent CAD, BIM and 3D exports"
+    ],
+    "accessFr": "Application de capture, cloud et visites publiées",
+    "accessEn": "Capture app, cloud and published tours",
+    "officialSources": [
+      {
+        "url": "https://matterport.com/news/costar-group-completes-acquisition-of-matterport-ushering-in-a-new-era-of-3d",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://matterport.com/cortex-ai",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://matterport.com/en-gb/features/property-intelligence",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de jumeaux numériques d'espaces pour captures 3D, visites immersives, mesures, plans et export CAD/BIM ; appartient au groupe CoStar.",
+      "audiences": [
+        "Professionnels de la visite virtuelle et gestionnaires de bâtiments",
+        "Équipes souhaitant comparer des variantes de conception"
+      ],
+      "cases": [
+        "Numériser un local en visite interactive et exporter les métrés à vérifier par un professionnel.",
+        "Conserver les fichiers ou photos d'origine et la traçabilité des interventions IA."
+      ],
+      "advantages": [
+        "Captures 3D et visites immersives",
+        "Cortex AI, plans, mesures et rapports de biens",
+        "Exports CAD, BIM et 3D selon forfait"
+      ],
+      "limits": [
+        "CoStar a finalisé l'acquisition le 28 février 2025, sans interruption générale du service. La précision dépend du capteur et de la capture ; les plans, exports techniques et l'hébergement peuvent être facturés séparément.",
+        "Les visuels séduisants et estimations automatisées ne remplacent pas les relevés, les normes de sécurité, les diagnostics techniques ou la validation par un professionnel."
+      ],
+      "gettingStarted": [
+        "Définir la finalité : inspiration visuelle, plan éditable, étude de faisabilité, visite 3D ou analyse d'annonce.",
+        "Préparer photos ou plans autorisés avec cotes et contraintes, comparer les résultats aux originaux puis vérifier la licence et les exports nécessaires."
+      ],
+      "examples": [
+        "À partir des dimensions et de la photo, propose deux aménagements sans modifier les portes ni fenêtres ; indique ce qui est hypothétique.",
+        "Compare les propositions sur circulation, dimensions, lumière, coût estimatif, réalisme et informations encore à vérifier avant réalisation."
+      ],
+      "pricing": "Comparer les abonnements, crédits de génération, exports, visites hébergées, accès professionnels et licences des rendus auprès de l'éditeur ; tarifs susceptibles d'évoluer.",
+      "privacy": "Vérifier les droits sur photographies et plans, supprimer les informations identifiantes inutiles, contrôler l'hébergement et le partage public des visites et déclarer les images virtuellement modifiées.",
+      "selection": [
+        "Retenir Matterport si ses sorties (digital_twin) répondent au besoin réel : simple photo améliorée, plan modifiable, faisabilité ou jumeau numérique."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "acquired_by_costar_active",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://matterport.com/news/costar-group-completes-acquisition-of-matterport-ushering-in-a-new-era-of-3d",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://matterport.com/cortex-ai",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://matterport.com/en-gb/features/property-intelligence",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_acquired_active"
+  }
+}
