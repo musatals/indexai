@@ -1,0 +1,1037 @@
+{
+  "adcreative-ai": {
+    "descriptionFr": "Plateforme de créations publicitaires IA pour générer des bannières, variations et visuels, puis analyser leur score de performance prédit.",
+    "descriptionEn": "AI ad creative platform to generate banners, variations and visuals, then analyze predicted performance scores.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Génération de créations pour différents formats",
+      "Creative Scoring et cartes de saillance",
+      "Marques, modèles et comptes publicitaires"
+    ],
+    "featuresEn": [
+      "Multi-format ad creative generation",
+      "Creative Scoring and saliency maps",
+      "Brand kits, templates and ad account connections"
+    ],
+    "accessFr": "Web, applications et/ou API selon l'offre",
+    "accessEn": "Web, apps and/or API by plan",
+    "officialSources": [
+      {
+        "url": "https://help.adcreative.ai/en/articles/8885776-what-is-creative-scoring-ai-and-how-to-use-it",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de créations publicitaires IA pour générer des bannières, variations et visuels, puis analyser leur score de performance prédit.",
+      "audiences": [
+        "Responsables marketing et créateurs de contenus",
+        "Agences et équipes éditoriales"
+      ],
+      "cases": [
+        "Créer trois versions d'une publicité avec le même objectif puis comparer leurs scores et performances réelles.",
+        "Comparer les résultats aux objectifs de campagne et consigner les sources et validations."
+      ],
+      "advantages": [
+        "Génération de créations pour différents formats",
+        "Creative Scoring et cartes de saillance",
+        "Marques, modèles et comptes publicitaires"
+      ],
+      "limits": [
+        "Un score prédictif ou une affirmation d'exactitude du fournisseur ne garantit ni des conversions ni un résultat publicitaire. Le crédit d'export et le nombre de marques dépendent de l'offre.",
+        "Un résultat publicitaire généré ou évalué par IA ne prouve pas à lui seul son efficacité : mesurer sur des données réelles et contrôler les affirmations."
+      ],
+      "gettingStarted": [
+        "Définir le public, la campagne, les supports, la charte et les droits d'utilisation des médias.",
+        "Produire des variantes, vérifier les allégations et les licences, puis mesurer les performances sur un test à budget limité."
+      ],
+      "examples": [
+        "Propose trois annonces pour le même produit avec des angles distincts, sans inventer de bénéfices ni d'avis client.",
+        "Prépare une grille de vérification de la conformité, des droits d'image, des coûts de diffusion et des résultats de l'expérience."
+      ],
+      "pricing": "Vérifier les crédits de génération/export, les sièges, accès API, limites de marques et conditions d'essai sur la page officielle.",
+      "privacy": "Contrôler les accès aux comptes publicitaires, le traitement des données de clientèle, les droits à l'image et le consentement marketing avant intégration.",
+      "selection": [
+        "Sélectionner AdCreative.ai selon le besoin (ads), les canaux, les possibilités d'édition, la gouvernance et le coût réel."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.adcreative.ai/en/articles/8885776-what-is-creative-scoring-ai-and-how-to-use-it",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "creatify": {
+    "descriptionFr": "Plateforme de vidéos publicitaires IA transformant une fiche produit ou des instructions en scripts, avatars parlants, variations et annonces vidéo.",
+    "descriptionEn": "AI video ad platform turning product pages or prompts into scripts, talking avatars, variations and video ads.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "URL vers vidéo publicitaire",
+      "Ad Agent et Ad Flow",
+      "Avatars, doublage et variantes"
+    ],
+    "featuresEn": [
+      "URL-to-video advertising",
+      "Ad Agent and Ad Flow",
+      "Avatars, dubbing and variations"
+    ],
+    "accessFr": "Web, applications et/ou API selon l'offre",
+    "accessEn": "Web, apps and/or API by plan",
+    "officialSources": [
+      {
+        "url": "https://help.creatify.ai/en/collections/15631647-creative-tools",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de vidéos publicitaires IA transformant une fiche produit ou des instructions en scripts, avatars parlants, variations et annonces vidéo.",
+      "audiences": [
+        "Marques e-commerce et annonceurs",
+        "Agences et équipes éditoriales"
+      ],
+      "cases": [
+        "À partir d'une fiche produit autorisée, créer une vidéo publicitaire verticale puis contrôler prix et promesses.",
+        "Comparer les résultats aux objectifs de campagne et consigner les sources et validations."
+      ],
+      "advantages": [
+        "URL vers vidéo publicitaire",
+        "Ad Agent et Ad Flow",
+        "Avatars, doublage et variantes"
+      ],
+      "limits": [
+        "Les informations extraites d'une page produit peuvent être inexactes ou obsolètes ; vérifier les droits sur les images et l'utilisation d'avatars, ainsi que les crédits et exports.",
+        "Un résultat publicitaire généré ou évalué par IA ne prouve pas à lui seul son efficacité : mesurer sur des données réelles et contrôler les affirmations."
+      ],
+      "gettingStarted": [
+        "Définir le public, la campagne, les supports, la charte et les droits d'utilisation des médias.",
+        "Produire des variantes, vérifier les allégations et les licences, puis mesurer les performances sur un test à budget limité."
+      ],
+      "examples": [
+        "Propose trois annonces pour le même produit avec des angles distincts, sans inventer de bénéfices ni d'avis client.",
+        "Prépare une grille de vérification de la conformité, des droits d'image, des coûts de diffusion et des résultats de l'expérience."
+      ],
+      "pricing": "Vérifier les crédits de génération/export, les sièges, accès API, limites de marques et conditions d'essai sur la page officielle.",
+      "privacy": "Contrôler les accès aux comptes publicitaires, le traitement des données de clientèle, les droits à l'image et le consentement marketing avant intégration.",
+      "selection": [
+        "Sélectionner Creatify selon le besoin (video_ads), les canaux, les possibilités d'édition, la gouvernance et le coût réel."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.creatify.ai/en/collections/15631647-creative-tools",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "pencil": {
+    "descriptionFr": "Plateforme de production de campagnes publicitaires IA avec agents spécialisés, bibliothèques de marque, insights et liens aux comptes média.",
+    "descriptionEn": "AI ad production platform with specialized agents, brand libraries, performance insights and media account integrations.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Agents de recherche et de création",
+      "Gouvernance et bibliothèques de marque",
+      "Analyses des campagnes connectées"
+    ],
+    "featuresEn": [
+      "Research and creative agents",
+      "Brand libraries and governance",
+      "Connected ad campaign insights"
+    ],
+    "accessFr": "Web, applications et/ou API selon l'offre",
+    "accessEn": "Web, apps and/or API by plan",
+    "officialSources": [
+      {
+        "url": "https://help.trypencil.com/en/articles/11452225-introducing-agents-a-smarter-way-to-create-ads-with-pencil",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de production de campagnes publicitaires IA avec agents spécialisés, bibliothèques de marque, insights et liens aux comptes média.",
+      "audiences": [
+        "Responsables marketing et créateurs de contenus",
+        "Agences et équipes éditoriales"
+      ],
+      "cases": [
+        "Construire un ensemble de variantes créatives respectant la charte puis soumettre les résultats à l'équipe.",
+        "Comparer les résultats aux objectifs de campagne et consigner les sources et validations."
+      ],
+      "advantages": [
+        "Agents de recherche et de création",
+        "Gouvernance et bibliothèques de marque",
+        "Analyses des campagnes connectées"
+      ],
+      "limits": [
+        "Les prévisions dépendent des données et de l'objectif ; les visuels et créations doivent être approuvés par une personne, et les droits des actifs vérifiés.",
+        "Un résultat publicitaire généré ou évalué par IA ne prouve pas à lui seul son efficacité : mesurer sur des données réelles et contrôler les affirmations."
+      ],
+      "gettingStarted": [
+        "Définir le public, la campagne, les supports, la charte et les droits d'utilisation des médias.",
+        "Produire des variantes, vérifier les allégations et les licences, puis mesurer les performances sur un test à budget limité."
+      ],
+      "examples": [
+        "Propose trois annonces pour le même produit avec des angles distincts, sans inventer de bénéfices ni d'avis client.",
+        "Prépare une grille de vérification de la conformité, des droits d'image, des coûts de diffusion et des résultats de l'expérience."
+      ],
+      "pricing": "Vérifier les crédits de génération/export, les sièges, accès API, limites de marques et conditions d'essai sur la page officielle.",
+      "privacy": "Contrôler les accès aux comptes publicitaires, le traitement des données de clientèle, les droits à l'image et le consentement marketing avant intégration.",
+      "selection": [
+        "Sélectionner Pencil selon le besoin (ads), les canaux, les possibilités d'édition, la gouvernance et le coût réel."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.trypencil.com/en/articles/11452225-introducing-agents-a-smarter-way-to-create-ads-with-pencil",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "typeface": {
+    "descriptionFr": "Plateforme marketing d'entreprise pour organiser les actifs de marque, générer des contenus coordonnés et vérifier leur conformité aux règles de marque.",
+    "descriptionEn": "Enterprise marketing platform for organizing brand assets, producing consistent content and checking brand-rule compliance.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Arc Graph et recherche de contenus",
+      "Brand Agent et règles de marque",
+      "Gouvernance multicanale"
+    ],
+    "featuresEn": [
+      "Arc Graph and asset search",
+      "Brand Agent and brand rules",
+      "Cross-channel governance"
+    ],
+    "accessFr": "Web, applications et/ou API selon l'offre",
+    "accessEn": "Web, apps and/or API by plan",
+    "officialSources": [
+      {
+        "url": "https://www.typeface.ai/product/brand-hub",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme marketing d'entreprise pour organiser les actifs de marque, générer des contenus coordonnés et vérifier leur conformité aux règles de marque.",
+      "audiences": [
+        "Équipes de marque et communication d'entreprise",
+        "Agences et équipes éditoriales"
+      ],
+      "cases": [
+        "Réutiliser un corpus d'images autorisées pour créer une campagne cohérente dans plusieurs pays.",
+        "Comparer les résultats aux objectifs de campagne et consigner les sources et validations."
+      ],
+      "advantages": [
+        "Arc Graph et recherche de contenus",
+        "Brand Agent et règles de marque",
+        "Gouvernance multicanale"
+      ],
+      "limits": [
+        "Les intégrations aux référentiels internes et les promesses de conformité doivent être évaluées contractuellement ; éviter de transmettre des actifs confidentiels sans garanties.",
+        "Un résultat publicitaire généré ou évalué par IA ne prouve pas à lui seul son efficacité : mesurer sur des données réelles et contrôler les affirmations."
+      ],
+      "gettingStarted": [
+        "Définir le public, la campagne, les supports, la charte et les droits d'utilisation des médias.",
+        "Produire des variantes, vérifier les allégations et les licences, puis mesurer les performances sur un test à budget limité."
+      ],
+      "examples": [
+        "Propose trois annonces pour le même produit avec des angles distincts, sans inventer de bénéfices ni d'avis client.",
+        "Prépare une grille de vérification de la conformité, des droits d'image, des coûts de diffusion et des résultats de l'expérience."
+      ],
+      "pricing": "Vérifier les crédits de génération/export, les sièges, accès API, limites de marques et conditions d'essai sur la page officielle.",
+      "privacy": "Contrôler les accès aux comptes publicitaires, le traitement des données de clientèle, les droits à l'image et le consentement marketing avant intégration.",
+      "selection": [
+        "Sélectionner Typeface selon le besoin (enterprise), les canaux, les possibilités d'édition, la gouvernance et le coût réel."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.typeface.ai/product/brand-hub",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "hubspot-breeze": {
+    "descriptionFr": "Ensemble d'assistants et d'agents HubSpot connectés au CRM pour la rédaction, la qualification et l'automatisation des tâches marketing et commerciales.",
+    "descriptionEn": "HubSpot CRM-connected assistants and agents for content drafting, qualification and marketing/sales automation.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Breeze Assistant dans le CRM",
+      "Constructeur d'agents personnalisés",
+      "Workflows et données clients contextualisées"
+    ],
+    "featuresEn": [
+      "CRM-grounded Breeze Assistant",
+      "Custom agent builder",
+      "Contextual workflows and customer data"
+    ],
+    "accessFr": "Web, applications et/ou API selon l'offre",
+    "accessEn": "Web, apps and/or API by plan",
+    "officialSources": [
+      {
+        "url": "https://www.hubspot.com/products/artificial-intelligence/ai-agents",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Ensemble d'assistants et d'agents HubSpot connectés au CRM pour la rédaction, la qualification et l'automatisation des tâches marketing et commerciales.",
+      "audiences": [
+        "Responsables marketing et créateurs de contenus",
+        "Agences et équipes éditoriales"
+      ],
+      "cases": [
+        "Préparer un brief de campagne lié aux fiches CRM puis soumettre les messages à une validation.",
+        "Comparer les résultats aux objectifs de campagne et consigner les sources et validations."
+      ],
+      "advantages": [
+        "Breeze Assistant dans le CRM",
+        "Constructeur d'agents personnalisés",
+        "Workflows et données clients contextualisées"
+      ],
+      "limits": [
+        "Le constructeur d'agents et les actions personnalisées n'ont pas les mêmes quotas : certains agents consomment des HubSpot Credits ; contrôler les autorisations CRM et le consentement marketing.",
+        "Un résultat publicitaire généré ou évalué par IA ne prouve pas à lui seul son efficacité : mesurer sur des données réelles et contrôler les affirmations."
+      ],
+      "gettingStarted": [
+        "Définir le public, la campagne, les supports, la charte et les droits d'utilisation des médias.",
+        "Produire des variantes, vérifier les allégations et les licences, puis mesurer les performances sur un test à budget limité."
+      ],
+      "examples": [
+        "Propose trois annonces pour le même produit avec des angles distincts, sans inventer de bénéfices ni d'avis client.",
+        "Prépare une grille de vérification de la conformité, des droits d'image, des coûts de diffusion et des résultats de l'expérience."
+      ],
+      "pricing": "Vérifier les crédits de génération/export, les sièges, accès API, limites de marques et conditions d'essai sur la page officielle.",
+      "privacy": "Contrôler les accès aux comptes publicitaires, le traitement des données de clientèle, les droits à l'image et le consentement marketing avant intégration.",
+      "selection": [
+        "Sélectionner HubSpot Breeze selon le besoin (crm), les canaux, les possibilités d'édition, la gouvernance et le coût réel."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.hubspot.com/products/artificial-intelligence/ai-agents",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "mutiny": {
+    "descriptionFr": "Assistant IA pour équipes commerciales produisant des comptes rendus, relances, propositions, dossiers de vente et contenus propres à chaque compte.",
+    "descriptionEn": "AI sales assistant producing meeting recaps, follow-ups, proposals, sales rooms and account-specific assets.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Notes d'appels et suivis",
+      "Propositions et dossiers commerciaux",
+      "Contenus personnalisés au contexte CRM"
+    ],
+    "featuresEn": [
+      "Call notes and follow-up",
+      "Proposals and sales rooms",
+      "CRM-contextualized content"
+    ],
+    "accessFr": "Web, applications et/ou API selon l'offre",
+    "accessEn": "Web, apps and/or API by plan",
+    "officialSources": [
+      {
+        "url": "https://www.mutinyhq.com/llm-info",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Assistant IA pour équipes commerciales produisant des comptes rendus, relances, propositions, dossiers de vente et contenus propres à chaque compte.",
+      "audiences": [
+        "Équipes commerciales et marketing B2B",
+        "Agences et équipes éditoriales"
+      ],
+      "cases": [
+        "À partir d'un compte rendu de réunion, préparer une proposition et un email de suivi à approuver.",
+        "Comparer les résultats aux objectifs de campagne et consigner les sources et validations."
+      ],
+      "advantages": [
+        "Notes d'appels et suivis",
+        "Propositions et dossiers commerciaux",
+        "Contenus personnalisés au contexte CRM"
+      ],
+      "limits": [
+        "L'ancien produit Mutiny de personnalisation de sites et tests A/B est retiré ; ne pas le présenter comme une plateforme CRO active. Vérifier autorisations sur données commerciales.",
+        "Un résultat publicitaire généré ou évalué par IA ne prouve pas à lui seul son efficacité : mesurer sur des données réelles et contrôler les affirmations."
+      ],
+      "gettingStarted": [
+        "Définir le public, la campagne, les supports, la charte et les droits d'utilisation des médias.",
+        "Produire des variantes, vérifier les allégations et les licences, puis mesurer les performances sur un test à budget limité."
+      ],
+      "examples": [
+        "Propose trois annonces pour le même produit avec des angles distincts, sans inventer de bénéfices ni d'avis client.",
+        "Prépare une grille de vérification de la conformité, des droits d'image, des coûts de diffusion et des résultats de l'expérience."
+      ],
+      "pricing": "Vérifier les crédits de génération/export, les sièges, accès API, limites de marques et conditions d'essai sur la page officielle.",
+      "privacy": "Contrôler les accès aux comptes publicitaires, le traitement des données de clientèle, les droits à l'image et le consentement marketing avant intégration.",
+      "selection": [
+        "Sélectionner Mutiny selon le besoin (sales), les canaux, les possibilités d'édition, la gouvernance et le coût réel."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "repositioned",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.mutinyhq.com/llm-info",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_repositioned"
+  },
+  "persado": {
+    "descriptionFr": "Plateforme de prédiction et optimisation des messages marketing sur email, web et applications, avec scoring et réécriture assistés par IA.",
+    "descriptionEn": "Marketing message prediction and optimization platform across email, web and apps using AI scoring and rewriting.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Évaluation prédictive des contenus",
+      "Classement des variantes et réécriture",
+      "Studio, API et intégrations IA"
+    ],
+    "featuresEn": [
+      "Predictive content scoring",
+      "Variant ranking and rewriting",
+      "Studio, API and AI integrations"
+    ],
+    "accessFr": "Web, applications et/ou API selon l'offre",
+    "accessEn": "Web, apps and/or API by plan",
+    "officialSources": [
+      {
+        "url": "https://www.persado.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de prédiction et optimisation des messages marketing sur email, web et applications, avec scoring et réécriture assistés par IA.",
+      "audiences": [
+        "Responsables marketing et créateurs de contenus",
+        "Agences et équipes éditoriales"
+      ],
+      "cases": [
+        "Tester plusieurs formulations d'un email de relance et les comparer sur un groupe témoin.",
+        "Comparer les résultats aux objectifs de campagne et consigner les sources et validations."
+      ],
+      "advantages": [
+        "Évaluation prédictive des contenus",
+        "Classement des variantes et réécriture",
+        "Studio, API et intégrations IA"
+      ],
+      "limits": [
+        "Les scores et taux de conversion projetés sont des prévisions commerciales, pas des gains garantis ; conserver des expérimentations réelles et des validations de conformité.",
+        "Un résultat publicitaire généré ou évalué par IA ne prouve pas à lui seul son efficacité : mesurer sur des données réelles et contrôler les affirmations."
+      ],
+      "gettingStarted": [
+        "Définir le public, la campagne, les supports, la charte et les droits d'utilisation des médias.",
+        "Produire des variantes, vérifier les allégations et les licences, puis mesurer les performances sur un test à budget limité."
+      ],
+      "examples": [
+        "Propose trois annonces pour le même produit avec des angles distincts, sans inventer de bénéfices ni d'avis client.",
+        "Prépare une grille de vérification de la conformité, des droits d'image, des coûts de diffusion et des résultats de l'expérience."
+      ],
+      "pricing": "Vérifier les crédits de génération/export, les sièges, accès API, limites de marques et conditions d'essai sur la page officielle.",
+      "privacy": "Contrôler les accès aux comptes publicitaires, le traitement des données de clientèle, les droits à l'image et le consentement marketing avant intégration.",
+      "selection": [
+        "Sélectionner Persado selon le besoin (optimization), les canaux, les possibilités d'édition, la gouvernance et le coût réel."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.persado.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "phrasee": {
+    "descriptionFr": "Ancien nom de Jacquard : plateforme d'intelligence créative et d'optimisation de messages de marque pour email, SMS, push et autres canaux.",
+    "descriptionEn": "Former Jacquard brand: creative intelligence and brand-message optimization for email, SMS, push and other channels.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Jacquard Language² et règles éditoriales",
+      "Variantes multicanales et personnalisation",
+      "Prédiction et expérimentation"
+    ],
+    "featuresEn": [
+      "Jacquard Language² and brand guardrails",
+      "Cross-channel variants and personalization",
+      "Prediction and experimentation"
+    ],
+    "accessFr": "Ancienne marque ; service actuel Jacquard",
+    "accessEn": "Former brand; current product Jacquard",
+    "officialSources": [
+      {
+        "url": "https://www.jacquard.com/jacquard-platform/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Ancien nom de Jacquard : plateforme d'intelligence créative et d'optimisation de messages de marque pour email, SMS, push et autres canaux.",
+      "audiences": [
+        "Responsables marketing et créateurs de contenus",
+        "Agences et équipes éditoriales"
+      ],
+      "cases": [
+        "Préparer des variantes de messages CRM fidèles au ton de la marque puis mesurer les résultats.",
+        "Comparer les résultats aux objectifs de campagne et consigner les sources et validations."
+      ],
+      "advantages": [
+        "Jacquard Language² et règles éditoriales",
+        "Variantes multicanales et personnalisation",
+        "Prédiction et expérimentation"
+      ],
+      "limits": [
+        "Phrasee a été renommé Jacquard : ne pas traiter les deux comme des services distincts. Les performances annoncées par le vendeur doivent être validées par des essais contrôlés.",
+        "Un résultat publicitaire généré ou évalué par IA ne prouve pas à lui seul son efficacité : mesurer sur des données réelles et contrôler les affirmations."
+      ],
+      "gettingStarted": [
+        "Définir le public, la campagne, les supports, la charte et les droits d'utilisation des médias.",
+        "Produire des variantes, vérifier les allégations et les licences, puis mesurer les performances sur un test à budget limité."
+      ],
+      "examples": [
+        "Propose trois annonces pour le même produit avec des angles distincts, sans inventer de bénéfices ni d'avis client.",
+        "Prépare une grille de vérification de la conformité, des droits d'image, des coûts de diffusion et des résultats de l'expérience."
+      ],
+      "pricing": "Vérifier les crédits de génération/export, les sièges, accès API, limites de marques et conditions d'essai sur la page officielle.",
+      "privacy": "Contrôler les accès aux comptes publicitaires, le traitement des données de clientèle, les droits à l'image et le consentement marketing avant intégration.",
+      "selection": [
+        "Sélectionner Phrasee selon le besoin (messaging), les canaux, les possibilités d'édition, la gouvernance et le coût réel."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "rebranded",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.jacquard.com/jacquard-platform/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_rebranded"
+  },
+  "ocoya": {
+    "descriptionFr": "Plateforme de création et planification de contenus sociaux, visuels et SEO avec IA, calendrier éditorial, automatisations et intégrations.",
+    "descriptionEn": "AI social, visual and SEO content creation and scheduling platform with editorial calendar, automations and integrations.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Posts, visuels et articles assistés par IA",
+      "Calendrier de publication multiréseaux",
+      "Workflows et interface MCP/API"
+    ],
+    "featuresEn": [
+      "AI posts, visuals and articles",
+      "Multi-network publishing calendar",
+      "Workflows and MCP/API access"
+    ],
+    "accessFr": "Web, applications et/ou API selon l'offre",
+    "accessEn": "Web, apps and/or API by plan",
+    "officialSources": [
+      {
+        "url": "https://www.ocoya.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de création et planification de contenus sociaux, visuels et SEO avec IA, calendrier éditorial, automatisations et intégrations.",
+      "audiences": [
+        "Responsables marketing et créateurs de contenus",
+        "Agences et équipes éditoriales"
+      ],
+      "cases": [
+        "Transformer un article de blog en trois publications adaptées à LinkedIn, Instagram et Bluesky.",
+        "Comparer les résultats aux objectifs de campagne et consigner les sources et validations."
+      ],
+      "advantages": [
+        "Posts, visuels et articles assistés par IA",
+        "Calendrier de publication multiréseaux",
+        "Workflows et interface MCP/API"
+      ],
+      "limits": [
+        "Ne pas confondre fonctionnalités actuelles et annonces « coming soon », notamment certains usages de l'email ; vérifier droits, limites de publication et consentements.",
+        "Un résultat publicitaire généré ou évalué par IA ne prouve pas à lui seul son efficacité : mesurer sur des données réelles et contrôler les affirmations."
+      ],
+      "gettingStarted": [
+        "Définir le public, la campagne, les supports, la charte et les droits d'utilisation des médias.",
+        "Produire des variantes, vérifier les allégations et les licences, puis mesurer les performances sur un test à budget limité."
+      ],
+      "examples": [
+        "Propose trois annonces pour le même produit avec des angles distincts, sans inventer de bénéfices ni d'avis client.",
+        "Prépare une grille de vérification de la conformité, des droits d'image, des coûts de diffusion et des résultats de l'expérience."
+      ],
+      "pricing": "Vérifier les crédits de génération/export, les sièges, accès API, limites de marques et conditions d'essai sur la page officielle.",
+      "privacy": "Contrôler les accès aux comptes publicitaires, le traitement des données de clientèle, les droits à l'image et le consentement marketing avant intégration.",
+      "selection": [
+        "Sélectionner Ocoya selon le besoin (social), les canaux, les possibilités d'édition, la gouvernance et le coût réel."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.ocoya.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "predis-ai": {
+    "descriptionFr": "Outil de création de publicités image, vidéo et UGC avec avatars, kits de marque, calendrier et publication sur les réseaux.",
+    "descriptionEn": "Tool for image, video and avatar-led UGC ads, with brand kits, calendars and social publishing.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "URL produit vers publicité vidéo",
+      "Avatars UGC et variantes publicitaires",
+      "Programmation et approbations"
+    ],
+    "featuresEn": [
+      "Product URL to video ad",
+      "UGC avatars and ad variants",
+      "Scheduling and approvals"
+    ],
+    "accessFr": "Web, applications et/ou API selon l'offre",
+    "accessEn": "Web, apps and/or API by plan",
+    "officialSources": [
+      {
+        "url": "https://predis.ai/features/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Outil de création de publicités image, vidéo et UGC avec avatars, kits de marque, calendrier et publication sur les réseaux.",
+      "audiences": [
+        "Marques e-commerce et annonceurs",
+        "Agences et équipes éditoriales"
+      ],
+      "cases": [
+        "Générer deux publicités au format vertical puis comparer leurs messages avant lancement.",
+        "Comparer les résultats aux objectifs de campagne et consigner les sources et validations."
+      ],
+      "advantages": [
+        "URL produit vers publicité vidéo",
+        "Avatars UGC et variantes publicitaires",
+        "Programmation et approbations"
+      ],
+      "limits": [
+        "L'essai annoncé exige une carte et se renouvelle selon ses conditions ; les contenus publicitaires générés nécessitent une validation des droits, des faits et des règles des plateformes.",
+        "Un résultat publicitaire généré ou évalué par IA ne prouve pas à lui seul son efficacité : mesurer sur des données réelles et contrôler les affirmations."
+      ],
+      "gettingStarted": [
+        "Définir le public, la campagne, les supports, la charte et les droits d'utilisation des médias.",
+        "Produire des variantes, vérifier les allégations et les licences, puis mesurer les performances sur un test à budget limité."
+      ],
+      "examples": [
+        "Propose trois annonces pour le même produit avec des angles distincts, sans inventer de bénéfices ni d'avis client.",
+        "Prépare une grille de vérification de la conformité, des droits d'image, des coûts de diffusion et des résultats de l'expérience."
+      ],
+      "pricing": "Vérifier les crédits de génération/export, les sièges, accès API, limites de marques et conditions d'essai sur la page officielle.",
+      "privacy": "Contrôler les accès aux comptes publicitaires, le traitement des données de clientèle, les droits à l'image et le consentement marketing avant intégration.",
+      "selection": [
+        "Sélectionner Predis.ai selon le besoin (video_ads), les canaux, les possibilités d'édition, la gouvernance et le coût réel."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://predis.ai/features/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "lately-ai": {
+    "descriptionFr": "Plateforme de recyclage de contenus et de messages sociaux à l'aide de l'IA, avec une nouvelle version et l'agent Kately annoncés.",
+    "descriptionEn": "AI content repurposing and social message platform with a new version and Kately agent announced.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Réutilisation de contenus longs en publications",
+      "Style rédactionnel de marque",
+      "Kately annoncé en préparation"
+    ],
+    "featuresEn": [
+      "Long-form content repurposing",
+      "Brand writing style",
+      "Upcoming Kately agent"
+    ],
+    "accessFr": "Web ; nouvelle version en préparation",
+    "accessEn": "Web; new version upcoming",
+    "officialSources": [
+      {
+        "url": "https://www.lately.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de recyclage de contenus et de messages sociaux à l'aide de l'IA, avec une nouvelle version et l'agent Kately annoncés.",
+      "audiences": [
+        "Responsables marketing et créateurs de contenus",
+        "Agences et équipes éditoriales"
+      ],
+      "cases": [
+        "Transformer une interview en propositions de publications et relire les citations réutilisées.",
+        "Comparer les résultats aux objectifs de campagne et consigner les sources et validations."
+      ],
+      "advantages": [
+        "Réutilisation de contenus longs en publications",
+        "Style rédactionnel de marque",
+        "Kately annoncé en préparation"
+      ],
+      "limits": [
+        "Le site annonce une nouvelle version et Kately sur liste d'attente ; ne pas supposer que toutes ses fonctionnalités nouvelles sont accessibles aujourd'hui.",
+        "Un résultat publicitaire généré ou évalué par IA ne prouve pas à lui seul son efficacité : mesurer sur des données réelles et contrôler les affirmations."
+      ],
+      "gettingStarted": [
+        "Définir le public, la campagne, les supports, la charte et les droits d'utilisation des médias.",
+        "Produire des variantes, vérifier les allégations et les licences, puis mesurer les performances sur un test à budget limité."
+      ],
+      "examples": [
+        "Propose trois annonces pour le même produit avec des angles distincts, sans inventer de bénéfices ni d'avis client.",
+        "Prépare une grille de vérification de la conformité, des droits d'image, des coûts de diffusion et des résultats de l'expérience."
+      ],
+      "pricing": "Vérifier les crédits de génération/export, les sièges, accès API, limites de marques et conditions d'essai sur la page officielle.",
+      "privacy": "Contrôler les accès aux comptes publicitaires, le traitement des données de clientèle, les droits à l'image et le consentement marketing avant intégration.",
+      "selection": [
+        "Sélectionner Lately AI selon le besoin (social), les canaux, les possibilités d'édition, la gouvernance et le coût réel."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "upcoming_features",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.lately.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_upcoming"
+  },
+  "hootsuite-owlywriter": {
+    "descriptionFr": "Fonctions de rédaction et de stratégie sociale de Hootsuite : l'ancien OwlyWriter a évolué vers OwlyGPT puis Wisdom dans l'expérience Social OS.",
+    "descriptionEn": "Hootsuite social writing and strategy capabilities: legacy OwlyWriter evolved through OwlyGPT to Wisdom in the Social OS experience.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Idées et légendes pour réseaux sociaux",
+      "Wisdom : recherche de tendances et stratégie",
+      "Création et planification Hootsuite"
+    ],
+    "featuresEn": [
+      "Social post ideas and captions",
+      "Wisdom trend and strategy research",
+      "Hootsuite content planning"
+    ],
+    "accessFr": "Intégré à Hootsuite (nouveau nom Wisdom)",
+    "accessEn": "Integrated with Hootsuite (now Wisdom)",
+    "officialSources": [
+      {
+        "url": "https://help.hootsuite.com/s/article/get-started-owlygpt",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Fonctions de rédaction et de stratégie sociale de Hootsuite : l'ancien OwlyWriter a évolué vers OwlyGPT puis Wisdom dans l'expérience Social OS.",
+      "audiences": [
+        "Responsables marketing et créateurs de contenus",
+        "Agences et équipes éditoriales"
+      ],
+      "cases": [
+        "Préparer des légendes conformes à la charte d'une marque puis les valider dans le calendrier Hootsuite.",
+        "Comparer les résultats aux objectifs de campagne et consigner les sources et validations."
+      ],
+      "advantages": [
+        "Idées et légendes pour réseaux sociaux",
+        "Wisdom : recherche de tendances et stratégie",
+        "Création et planification Hootsuite"
+      ],
+      "limits": [
+        "Les interfaces Hootsuite Classic, Social OS et les noms OwlyWriter/OwlyGPT/Wisdom coexistent dans la documentation ; vérifier l'expérience du compte et les quotas de génération.",
+        "Un résultat publicitaire généré ou évalué par IA ne prouve pas à lui seul son efficacité : mesurer sur des données réelles et contrôler les affirmations."
+      ],
+      "gettingStarted": [
+        "Définir le public, la campagne, les supports, la charte et les droits d'utilisation des médias.",
+        "Produire des variantes, vérifier les allégations et les licences, puis mesurer les performances sur un test à budget limité."
+      ],
+      "examples": [
+        "Propose trois annonces pour le même produit avec des angles distincts, sans inventer de bénéfices ni d'avis client.",
+        "Prépare une grille de vérification de la conformité, des droits d'image, des coûts de diffusion et des résultats de l'expérience."
+      ],
+      "pricing": "Vérifier les crédits de génération/export, les sièges, accès API, limites de marques et conditions d'essai sur la page officielle.",
+      "privacy": "Contrôler les accès aux comptes publicitaires, le traitement des données de clientèle, les droits à l'image et le consentement marketing avant intégration.",
+      "selection": [
+        "Sélectionner Hootsuite OwlyWriter selon le besoin (social), les canaux, les possibilités d'édition, la gouvernance et le coût réel."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "renamed_in_product",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.hootsuite.com/s/article/get-started-owlygpt",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_renamed"
+  },
+  "buffer-ai": {
+    "descriptionFr": "Assistant de rédaction pour réseaux sociaux intégré à Buffer, capable de générer, adapter, résumer ou réécrire les publications.",
+    "descriptionEn": "Social copy assistant in Buffer for generating, adapting, summarizing and rewriting posts.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Génération de posts depuis des idées",
+      "Reformulation, réduction et expansion",
+      "Insertion dans l'éditeur et planification"
+    ],
+    "featuresEn": [
+      "Post generation from ideas",
+      "Rephrase, shorten and expand",
+      "Composer integration and scheduling"
+    ],
+    "accessFr": "Web, applications et/ou API selon l'offre",
+    "accessEn": "Web, apps and/or API by plan",
+    "officialSources": [
+      {
+        "url": "https://buffer.com/integrations/openai-ai-assistant",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Assistant de rédaction pour réseaux sociaux intégré à Buffer, capable de générer, adapter, résumer ou réécrire les publications.",
+      "audiences": [
+        "Responsables marketing et créateurs de contenus",
+        "Agences et équipes éditoriales"
+      ],
+      "cases": [
+        "Créer une série de publications éducatives avec variations selon le réseau puis les programmer.",
+        "Comparer les résultats aux objectifs de campagne et consigner les sources et validations."
+      ],
+      "advantages": [
+        "Génération de posts depuis des idées",
+        "Reformulation, réduction et expansion",
+        "Insertion dans l'éditeur et planification"
+      ],
+      "limits": [
+        "L'aide IA propose des brouillons à relire ; vérifier les contraintes des plateformes et les quotas de canaux ou fonctions du forfait.",
+        "Un résultat publicitaire généré ou évalué par IA ne prouve pas à lui seul son efficacité : mesurer sur des données réelles et contrôler les affirmations."
+      ],
+      "gettingStarted": [
+        "Définir le public, la campagne, les supports, la charte et les droits d'utilisation des médias.",
+        "Produire des variantes, vérifier les allégations et les licences, puis mesurer les performances sur un test à budget limité."
+      ],
+      "examples": [
+        "Propose trois annonces pour le même produit avec des angles distincts, sans inventer de bénéfices ni d'avis client.",
+        "Prépare une grille de vérification de la conformité, des droits d'image, des coûts de diffusion et des résultats de l'expérience."
+      ],
+      "pricing": "Vérifier les crédits de génération/export, les sièges, accès API, limites de marques et conditions d'essai sur la page officielle.",
+      "privacy": "Contrôler les accès aux comptes publicitaires, le traitement des données de clientèle, les droits à l'image et le consentement marketing avant intégration.",
+      "selection": [
+        "Sélectionner Buffer AI selon le besoin (social), les canaux, les possibilités d'édition, la gouvernance et le coût réel."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://buffer.com/integrations/openai-ai-assistant",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "lumen5": {
+    "descriptionFr": "Créateur de vidéos marketing à partir de texte, d'un script ou d'une voix, utilisant modèles, formats et montage assisté.",
+    "descriptionEn": "Marketing video builder from text, scripts or narration using templates, formats and assisted editing.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Texte vers storyboard vidéo",
+      "Voix off IA et médias",
+      "Formats horizontal, carré et vertical"
+    ],
+    "featuresEn": [
+      "Text-to-video storyboard",
+      "AI voiceovers and media",
+      "Landscape, square and vertical outputs"
+    ],
+    "accessFr": "Web, applications et/ou API selon l'offre",
+    "accessEn": "Web, apps and/or API by plan",
+    "officialSources": [
+      {
+        "url": "https://help.lumen5.com/en/article/how-do-i-select-a-template-start-creating-a-video-in-lumen5-11aod0v/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Créateur de vidéos marketing à partir de texte, d'un script ou d'une voix, utilisant modèles, formats et montage assisté.",
+      "audiences": [
+        "Responsables marketing et créateurs de contenus",
+        "Agences et équipes éditoriales"
+      ],
+      "cases": [
+        "Transformer un article autorisé en courte vidéo informative avec transitions et sous-titres.",
+        "Comparer les résultats aux objectifs de campagne et consigner les sources et validations."
+      ],
+      "advantages": [
+        "Texte vers storyboard vidéo",
+        "Voix off IA et médias",
+        "Formats horizontal, carré et vertical"
+      ],
+      "limits": [
+        "Le choix de template peut être difficile à changer en cours de projet ; vérifier la fidélité du script, les licences médias et les limitations d'export.",
+        "Un résultat publicitaire généré ou évalué par IA ne prouve pas à lui seul son efficacité : mesurer sur des données réelles et contrôler les affirmations."
+      ],
+      "gettingStarted": [
+        "Définir le public, la campagne, les supports, la charte et les droits d'utilisation des médias.",
+        "Produire des variantes, vérifier les allégations et les licences, puis mesurer les performances sur un test à budget limité."
+      ],
+      "examples": [
+        "Propose trois annonces pour le même produit avec des angles distincts, sans inventer de bénéfices ni d'avis client.",
+        "Prépare une grille de vérification de la conformité, des droits d'image, des coûts de diffusion et des résultats de l'expérience."
+      ],
+      "pricing": "Vérifier les crédits de génération/export, les sièges, accès API, limites de marques et conditions d'essai sur la page officielle.",
+      "privacy": "Contrôler les accès aux comptes publicitaires, le traitement des données de clientèle, les droits à l'image et le consentement marketing avant intégration.",
+      "selection": [
+        "Sélectionner Lumen5 selon le besoin (video), les canaux, les possibilités d'édition, la gouvernance et le coût réel."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.lumen5.com/en/article/how-do-i-select-a-template-start-creating-a-video-in-lumen5-11aod0v/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "promo-com": {
+    "descriptionFr": "Éditeur de vidéos promotionnelles avec bibliothèque de médias sous licence, création assistée par PromoAI et animation de photographies avec ActiveCast.",
+    "descriptionEn": "Promotional video editor with licensed stock media, PromoAI-assisted creation and ActiveCast photo animation.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "PromoAI et calendrier de vidéos",
+      "ActiveCast : photo vers vidéo",
+      "Médias sous licence et modèles"
+    ],
+    "featuresEn": [
+      "PromoAI and video calendar",
+      "ActiveCast photo animation",
+      "Licensed media and templates"
+    ],
+    "accessFr": "Web, applications et/ou API selon l'offre",
+    "accessEn": "Web, apps and/or API by plan",
+    "officialSources": [
+      {
+        "url": "https://promo.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Éditeur de vidéos promotionnelles avec bibliothèque de médias sous licence, création assistée par PromoAI et animation de photographies avec ActiveCast.",
+      "audiences": [
+        "Responsables marketing et créateurs de contenus",
+        "Agences et équipes éditoriales"
+      ],
+      "cases": [
+        "Créer une vidéo promotionnelle à partir de photos autorisées et en préparer plusieurs versions sociales.",
+        "Comparer les résultats aux objectifs de campagne et consigner les sources et validations."
+      ],
+      "advantages": [
+        "PromoAI et calendrier de vidéos",
+        "ActiveCast : photo vers vidéo",
+        "Médias sous licence et modèles"
+      ],
+      "limits": [
+        "Vérifier les limites des vidéos PromoAI et les clauses d'utilisation des photos de personnes réelles ; licences et téléchargements dépendent du plan.",
+        "Un résultat publicitaire généré ou évalué par IA ne prouve pas à lui seul son efficacité : mesurer sur des données réelles et contrôler les affirmations."
+      ],
+      "gettingStarted": [
+        "Définir le public, la campagne, les supports, la charte et les droits d'utilisation des médias.",
+        "Produire des variantes, vérifier les allégations et les licences, puis mesurer les performances sur un test à budget limité."
+      ],
+      "examples": [
+        "Propose trois annonces pour le même produit avec des angles distincts, sans inventer de bénéfices ni d'avis client.",
+        "Prépare une grille de vérification de la conformité, des droits d'image, des coûts de diffusion et des résultats de l'expérience."
+      ],
+      "pricing": "Vérifier les crédits de génération/export, les sièges, accès API, limites de marques et conditions d'essai sur la page officielle.",
+      "privacy": "Contrôler les accès aux comptes publicitaires, le traitement des données de clientèle, les droits à l'image et le consentement marketing avant intégration.",
+      "selection": [
+        "Sélectionner Promo.com selon le besoin (video), les canaux, les possibilités d'édition, la gouvernance et le coût réel."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://promo.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  }
+}
