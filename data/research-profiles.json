@@ -8234,5 +8234,656 @@
         "reviewedAt": "2026-11-16"
       }
     ]
+  },
+  "OpusClip": {
+    "headline": "Transformation de vidéos longues en clips courts avec recadrage automatique, sous-titres animés et édition.",
+    "audiences": [
+      "Créateurs de réseaux sociaux",
+      "Responsables de communication et podcasts"
+    ],
+    "cases": [
+      "Repérer les séquences fortes d'un contenu long",
+      "Créer des clips verticaux sous-titrés",
+      "Vérifier les coupes et publier dans le format ciblé"
+    ],
+    "advantages": [
+      "Découpage automatique",
+      "Recadrage intelligent",
+      "Sous-titres et éditions"
+    ],
+    "limits": [
+      "Score de viralité prédictif sans garantie d'audience ; exports et fonctions dépendent du plan.",
+      "Les coupes et transcriptions générées automatiquement peuvent dénaturer les propos hors contexte."
+    ],
+    "gettingStarted": [
+      "Importer un enregistrement dont vous détenez les droits et choisir le format cible.",
+      "Vérifier l'intégralité des coupures, sous-titres et transitions avant export et publication."
+    ],
+    "examples": [
+      "À partir d'un entretien, propose trois clips de 45 secondes sans altérer le sens des réponses.",
+      "Prépare une version verticale sous-titrée et liste les passages qui méritent une validation humaine."
+    ],
+    "pricing": "Offre gratuite avec filigrane et crédits ; abonnements payants selon l'offre.",
+    "privacy": "Contrôler les conditions d'hébergement des fichiers, les règles de transcription, les droits à l'image et les consentements avant d'importer des médias confidentiels.",
+    "selection": [
+      "Choisir OpusClip selon la longueur des rushes, le contrôle manuel nécessaire, les formats et les limitations du forfait."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://www.opus.pro/learning-center",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      },
+      {
+        "url": "https://www.opus.pro/pricing",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "VEED": {
+    "headline": "Éditeur vidéo en ligne intégrant sous-titrage automatique, transcription et outils IA.",
+    "audiences": [
+      "Créateurs vidéo, enseignants et vidéastes",
+      "Équipes de communication"
+    ],
+    "cases": [
+      "Monter une vidéo avec un rythme cohérent",
+      "Corriger les sous-titres et les coupes suggérées par IA",
+      "Adapter le contenu aux formats de diffusion"
+    ],
+    "advantages": [
+      "Sous-titres automatiques",
+      "Détection des locuteurs selon forfait",
+      "Montage web"
+    ],
+    "limits": [
+      "Détection des locuteurs réservée à une formule payante ; vérifier chaque transcription.",
+      "Les coupes et transcriptions générées automatiquement peuvent dénaturer les propos hors contexte."
+    ],
+    "gettingStarted": [
+      "Importer un enregistrement dont vous détenez les droits et choisir le format cible.",
+      "Vérifier l'intégralité des coupures, sous-titres et transitions avant export et publication."
+    ],
+    "examples": [
+      "À partir d'un entretien, propose trois clips de 45 secondes sans altérer le sens des réponses.",
+      "Prépare une version verticale sous-titrée et liste les passages qui méritent une validation humaine."
+    ],
+    "pricing": "Fonctions de sous-titrage accessibles sur plusieurs offres avec limites.",
+    "privacy": "Contrôler les conditions d'hébergement des fichiers, les règles de transcription, les droits à l'image et les consentements avant d'importer des médias confidentiels.",
+    "selection": [
+      "Choisir VEED selon la longueur des rushes, le contrôle manuel nécessaire, les formats et les limitations du forfait."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://support.veed.io/en/articles/11172739-how-to-add-subtitles-to-your-video-automatically",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Kapwing": {
+    "headline": "Éditeur vidéo collaboratif dans le navigateur avec sous-titres, suppression des silences et outils IA.",
+    "audiences": [
+      "Créateurs vidéo, enseignants et vidéastes",
+      "Équipes de communication"
+    ],
+    "cases": [
+      "Monter une vidéo avec un rythme cohérent",
+      "Corriger les sous-titres et les coupes suggérées par IA",
+      "Adapter le contenu aux formats de diffusion"
+    ],
+    "advantages": [
+      "Sous-titres synchronisés",
+      "Smart Cut",
+      "Redimensionnement et montage collaboratif"
+    ],
+    "limits": [
+      "L'édition assistée nécessite de contrôler manuellement les résultats et le rendu final.",
+      "Les coupes et transcriptions générées automatiquement peuvent dénaturer les propos hors contexte."
+    ],
+    "gettingStarted": [
+      "Importer un enregistrement dont vous détenez les droits et choisir le format cible.",
+      "Vérifier l'intégralité des coupures, sous-titres et transitions avant export et publication."
+    ],
+    "examples": [
+      "À partir d'un entretien, propose trois clips de 45 secondes sans altérer le sens des réponses.",
+      "Prépare une version verticale sous-titrée et liste les passages qui méritent une validation humaine."
+    ],
+    "pricing": "Gratuit avec restrictions ; forfaits selon export, durée et fonctions.",
+    "privacy": "Contrôler les conditions d'hébergement des fichiers, les règles de transcription, les droits à l'image et les consentements avant d'importer des médias confidentiels.",
+    "selection": [
+      "Choisir Kapwing selon la longueur des rushes, le contrôle manuel nécessaire, les formats et les limitations du forfait."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://www.kapwing.com/start",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      },
+      {
+        "url": "https://www.kapwing.com/resources/how-to-use-chatgpt-to-edit-videos/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "InVideo": {
+    "headline": "Éditeur vidéo en navigateur doté d'un assistant agentique pouvant sélectionner les plans et travailler sur une timeline multipiste.",
+    "audiences": [
+      "Créateurs vidéo, enseignants et vidéastes",
+      "Équipes de communication"
+    ],
+    "cases": [
+      "Monter une vidéo avec un rythme cohérent",
+      "Corriger les sous-titres et les coupes suggérées par IA",
+      "Adapter le contenu aux formats de diffusion"
+    ],
+    "advantages": [
+      "Montage piloté en langage naturel",
+      "Première coupe éditable",
+      "Gestion multipiste et multicaméra"
+    ],
+    "limits": [
+      "La première coupe automatique demande une validation narrative ; distinguer éditeur manuel et assistant payant.",
+      "Les coupes et transcriptions générées automatiquement peuvent dénaturer les propos hors contexte."
+    ],
+    "gettingStarted": [
+      "Importer un enregistrement dont vous détenez les droits et choisir le format cible.",
+      "Vérifier l'intégralité des coupures, sous-titres et transitions avant export et publication."
+    ],
+    "examples": [
+      "À partir d'un entretien, propose trois clips de 45 secondes sans altérer le sens des réponses.",
+      "Prépare une version verticale sous-titrée et liste les passages qui méritent une validation humaine."
+    ],
+    "pricing": "Éditeur manuel annoncé gratuit ; modalités de l'agent à vérifier.",
+    "privacy": "Contrôler les conditions d'hébergement des fichiers, les règles de transcription, les droits à l'image et les consentements avant d'importer des médias confidentiels.",
+    "selection": [
+      "Choisir InVideo selon la longueur des rushes, le contrôle manuel nécessaire, les formats et les limitations du forfait."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://invideo.io/news/introducing-invideo-editor/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Wisecut": {
+    "headline": "Outil de montage automatique à partir de la parole, avec découpage et sous-titres.",
+    "audiences": [
+      "Créateurs vidéo, enseignants et vidéastes",
+      "Équipes de communication"
+    ],
+    "cases": [
+      "Monter une vidéo avec un rythme cohérent",
+      "Corriger les sous-titres et les coupes suggérées par IA",
+      "Adapter le contenu aux formats de diffusion"
+    ],
+    "advantages": [
+      "Détection de parole",
+      "Coupes automatiques",
+      "Sous-titrage"
+    ],
+    "limits": [
+      "Un projet peut échouer si la vidéo ne comporte pas de parole ou utilise une langue non prise en charge.",
+      "Les coupes et transcriptions générées automatiquement peuvent dénaturer les propos hors contexte."
+    ],
+    "gettingStarted": [
+      "Importer un enregistrement dont vous détenez les droits et choisir le format cible.",
+      "Vérifier l'intégralité des coupures, sous-titres et transitions avant export et publication."
+    ],
+    "examples": [
+      "À partir d'un entretien, propose trois clips de 45 secondes sans altérer le sens des réponses.",
+      "Prépare une version verticale sous-titrée et liste les passages qui méritent une validation humaine."
+    ],
+    "pricing": "Limites de taille et durée selon formule ; tarification à vérifier.",
+    "privacy": "Contrôler les conditions d'hébergement des fichiers, les règles de transcription, les droits à l'image et les consentements avant d'importer des médias confidentiels.",
+    "selection": [
+      "Choisir Wisecut selon la longueur des rushes, le contrôle manuel nécessaire, les formats et les limitations du forfait."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://help.wisecut.video/article/error-when-creating-a-project-on-wisecut",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Vizard": {
+    "headline": "Outil de réutilisation de vidéos avec extraction de clips, analyse multimodale et AI Edit.",
+    "audiences": [
+      "Créateurs de réseaux sociaux",
+      "Responsables de communication et podcasts"
+    ],
+    "cases": [
+      "Repérer les séquences fortes d'un contenu long",
+      "Créer des clips verticaux sous-titrés",
+      "Vérifier les coupes et publier dans le format ciblé"
+    ],
+    "advantages": [
+      "Repérage de moments forts",
+      "Clips sur prompt",
+      "AI Edit pour vidéos verticales"
+    ],
+    "limits": [
+      "AI Edit exige notamment un format portrait 9:16 et la présence d'un locuteur détecté.",
+      "Les coupes et transcriptions générées automatiquement peuvent dénaturer les propos hors contexte."
+    ],
+    "gettingStarted": [
+      "Importer un enregistrement dont vous détenez les droits et choisir le format cible.",
+      "Vérifier l'intégralité des coupures, sous-titres et transitions avant export et publication."
+    ],
+    "examples": [
+      "À partir d'un entretien, propose trois clips de 45 secondes sans altérer le sens des réponses.",
+      "Prépare une version verticale sous-titrée et liste les passages qui méritent une validation humaine."
+    ],
+    "pricing": "Crédits consommés selon les nouveaux projets ; options selon forfait.",
+    "privacy": "Contrôler les conditions d'hébergement des fichiers, les règles de transcription, les droits à l'image et les consentements avant d'importer des médias confidentiels.",
+    "selection": [
+      "Choisir Vizard selon la longueur des rushes, le contrôle manuel nécessaire, les formats et les limitations du forfait."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://help.vizard.ai/en/articles/9905409-what-is-spark-1-0",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      },
+      {
+        "url": "https://help.vizard.ai/en/articles/16658532-what-is-ai-edit",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Captions": {
+    "headline": "Outil de montage IA pour vidéos parlées, proposant montage automatique, sous-titres et éléments visuels.",
+    "audiences": [
+      "Créateurs vidéo, enseignants et vidéastes",
+      "Équipes de communication"
+    ],
+    "cases": [
+      "Monter une vidéo avec un rythme cohérent",
+      "Corriger les sous-titres et les coupes suggérées par IA",
+      "Adapter le contenu aux formats de diffusion"
+    ],
+    "advantages": [
+      "Montage AI Edit",
+      "Sous-titres stylisés",
+      "Transitions et plans B-roll"
+    ],
+    "limits": [
+      "AI Edit fonctionne surtout sur des vidéos parlées verticales et sous conditions de durée et de plan.",
+      "Les coupes et transcriptions générées automatiquement peuvent dénaturer les propos hors contexte."
+    ],
+    "gettingStarted": [
+      "Importer un enregistrement dont vous détenez les droits et choisir le format cible.",
+      "Vérifier l'intégralité des coupures, sous-titres et transitions avant export et publication."
+    ],
+    "examples": [
+      "À partir d'un entretien, propose trois clips de 45 secondes sans altérer le sens des réponses.",
+      "Prépare une version verticale sous-titrée et liste les passages qui méritent une validation humaine."
+    ],
+    "pricing": "Offres et disponibilité selon appareil et abonnement.",
+    "privacy": "Contrôler les conditions d'hébergement des fichiers, les règles de transcription, les droits à l'image et les consentements avant d'importer des médias confidentiels.",
+    "selection": [
+      "Choisir Captions selon la longueur des rushes, le contrôle manuel nécessaire, les formats et les limitations du forfait."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://captions.ai/help/docs/project/ai-edit",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Submagic": {
+    "headline": "Plateforme de sous-titrage et de finition de clips courts pour les réseaux sociaux.",
+    "audiences": [
+      "Créateurs de réseaux sociaux",
+      "Responsables de communication et podcasts"
+    ],
+    "cases": [
+      "Repérer les séquences fortes d'un contenu long",
+      "Créer des clips verticaux sous-titrés",
+      "Vérifier les coupes et publier dans le format ciblé"
+    ],
+    "advantages": [
+      "Sous-titres vidéo",
+      "Mise en forme des clips",
+      "Outils de montage court"
+    ],
+    "limits": [
+      "Les formats, modèles et quotas précis nécessitent une vérification dans l'offre actuelle.",
+      "Les coupes et transcriptions générées automatiquement peuvent dénaturer les propos hors contexte."
+    ],
+    "gettingStarted": [
+      "Importer un enregistrement dont vous détenez les droits et choisir le format cible.",
+      "Vérifier l'intégralité des coupures, sous-titres et transitions avant export et publication."
+    ],
+    "examples": [
+      "À partir d'un entretien, propose trois clips de 45 secondes sans altérer le sens des réponses.",
+      "Prépare une version verticale sous-titrée et liste les passages qui méritent une validation humaine."
+    ],
+    "pricing": "Conditions et prix courants à consulter sur le site.",
+    "privacy": "Contrôler les conditions d'hébergement des fichiers, les règles de transcription, les droits à l'image et les consentements avant d'importer des médias confidentiels.",
+    "selection": [
+      "Choisir Submagic selon la longueur des rushes, le contrôle manuel nécessaire, les formats et les limitations du forfait."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "provisional",
+    "evidence": "limited_official",
+    "sources": [
+      {
+        "url": "https://www.submagic.co/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Filmora": {
+    "headline": "Logiciel Wondershare de montage vidéo avec Smart Short Clips, coupes intelligentes et outils IA.",
+    "audiences": [
+      "Monteurs et studios audiovisuels",
+      "Professionnels de la postproduction"
+    ],
+    "cases": [
+      "Monter une vidéo avec un rythme cohérent",
+      "Corriger les sous-titres et les coupes suggérées par IA",
+      "Adapter le contenu aux formats de diffusion"
+    ],
+    "advantages": [
+      "Smart Short Clips",
+      "Montage multicaméra",
+      "Effets et montage assistés"
+    ],
+    "limits": [
+      "Certains outils utilisent des crédits IA et varient selon les plateformes.",
+      "Les coupes et transcriptions générées automatiquement peuvent dénaturer les propos hors contexte."
+    ],
+    "gettingStarted": [
+      "Importer un enregistrement dont vous détenez les droits et choisir le format cible.",
+      "Vérifier l'intégralité des coupures, sous-titres et transitions avant export et publication."
+    ],
+    "examples": [
+      "À partir d'un entretien, propose trois clips de 45 secondes sans altérer le sens des réponses.",
+      "Prépare une version verticale sous-titrée et liste les passages qui méritent une validation humaine."
+    ],
+    "pricing": "Licences et crédits variables selon versions et fonctions.",
+    "privacy": "Contrôler les conditions d'hébergement des fichiers, les règles de transcription, les droits à l'image et les consentements avant d'importer des médias confidentiels.",
+    "selection": [
+      "Choisir Filmora selon la longueur des rushes, le contrôle manuel nécessaire, les formats et les limitations du forfait."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://filmora.wondershare.com/guide/smart-short-clips.html",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      },
+      {
+        "url": "https://filmora.wondershare.com/whats-new-in-filmora-video-editor.html",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Adobe Premiere Pro": {
+    "headline": "Montage vidéo professionnel avec sous-titrage, amélioration audio et extension générative de plans via Firefly.",
+    "audiences": [
+      "Monteurs et studios audiovisuels",
+      "Professionnels de la postproduction"
+    ],
+    "cases": [
+      "Monter une vidéo avec un rythme cohérent",
+      "Corriger les sous-titres et les coupes suggérées par IA",
+      "Adapter le contenu aux formats de diffusion"
+    ],
+    "advantages": [
+      "Generative Extend",
+      "Transcription et sous-titres",
+      "Montage professionnel"
+    ],
+    "limits": [
+      "Generative Extend ne prolonge pas le dialogue ; maximum de 2 secondes vidéo et 10 secondes audio selon la FAQ.",
+      "Les coupes et transcriptions générées automatiquement peuvent dénaturer les propos hors contexte."
+    ],
+    "gettingStarted": [
+      "Importer un enregistrement dont vous détenez les droits et choisir le format cible.",
+      "Vérifier l'intégralité des coupures, sous-titres et transitions avant export et publication."
+    ],
+    "examples": [
+      "À partir d'un entretien, propose trois clips de 45 secondes sans altérer le sens des réponses.",
+      "Prépare une version verticale sous-titrée et liste les passages qui méritent une validation humaine."
+    ],
+    "pricing": "Abonnement Creative Cloud, crédits génératifs selon résolution et fréquence d'images.",
+    "privacy": "Contrôler les conditions d'hébergement des fichiers, les règles de transcription, les droits à l'image et les consentements avant d'importer des médias confidentiels.",
+    "selection": [
+      "Choisir Adobe Premiere Pro selon la longueur des rushes, le contrôle manuel nécessaire, les formats et les limitations du forfait."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://helpx.adobe.com/premiere/desktop/edit-projects/edit-with-generative-ai/generative-extend-overview.html",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      },
+      {
+        "url": "https://helpx.adobe.com/premiere/desktop/edit-projects/edit-with-generative-ai/generative-extend-faq.html",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "DaVinci Resolve": {
+    "headline": "Suite professionnelle de montage, étalonnage, son et effets, avec outils Neural Engine principalement dans Studio.",
+    "audiences": [
+      "Monteurs et studios audiovisuels",
+      "Professionnels de la postproduction"
+    ],
+    "cases": [
+      "Monter une vidéo avec un rythme cohérent",
+      "Corriger les sous-titres et les coupes suggérées par IA",
+      "Adapter le contenu aux formats de diffusion"
+    ],
+    "advantages": [
+      "Montage et étalonnage",
+      "Fairlight et Fusion",
+      "Neural Engine selon édition"
+    ],
+    "limits": [
+      "Des fonctions IA sont réservées à Studio et certaines plateformes ; lire la matrice de fonctionnalités.",
+      "Les coupes et transcriptions générées automatiquement peuvent dénaturer les propos hors contexte."
+    ],
+    "gettingStarted": [
+      "Importer un enregistrement dont vous détenez les droits et choisir le format cible.",
+      "Vérifier l'intégralité des coupures, sous-titres et transitions avant export et publication."
+    ],
+    "examples": [
+      "À partir d'un entretien, propose trois clips de 45 secondes sans altérer le sens des réponses.",
+      "Prépare une version verticale sous-titrée et liste les passages qui méritent une validation humaine."
+    ],
+    "pricing": "Version gratuite et édition Studio payante.",
+    "privacy": "Contrôler les conditions d'hébergement des fichiers, les règles de transcription, les droits à l'image et les consentements avant d'importer des médias confidentiels.",
+    "selection": [
+      "Choisir DaVinci Resolve selon la longueur des rushes, le contrôle manuel nécessaire, les formats et les limitations du forfait."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://www.blackmagicdesign.com/products/davinciresolve",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      },
+      {
+        "url": "https://documents.blackmagicdesign.com/SupportNotes/DaVinci_Resolve_Studio_21_Features.pdf",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Riverside": {
+    "headline": "Plateforme d'enregistrement et de montage de podcasts et vidéos avec édition par transcription et Magic Clips.",
+    "audiences": [
+      "Créateurs vidéo, enseignants et vidéastes",
+      "Équipes de communication"
+    ],
+    "cases": [
+      "Monter une vidéo avec un rythme cohérent",
+      "Corriger les sous-titres et les coupes suggérées par IA",
+      "Adapter le contenu aux formats de diffusion"
+    ],
+    "advantages": [
+      "Montage par transcription",
+      "Magic Clips",
+      "Sous-titres et enregistrement"
+    ],
+    "limits": [
+      "La sélection automatique des meilleurs moments doit être révisée et contextualisée.",
+      "Les coupes et transcriptions générées automatiquement peuvent dénaturer les propos hors contexte."
+    ],
+    "gettingStarted": [
+      "Importer un enregistrement dont vous détenez les droits et choisir le format cible.",
+      "Vérifier l'intégralité des coupures, sous-titres et transitions avant export et publication."
+    ],
+    "examples": [
+      "À partir d'un entretien, propose trois clips de 45 secondes sans altérer le sens des réponses.",
+      "Prépare une version verticale sous-titrée et liste les passages qui méritent une validation humaine."
+    ],
+    "pricing": "Offre gratuite annoncée ; fonctionnalités selon abonnement.",
+    "privacy": "Contrôler les conditions d'hébergement des fichiers, les règles de transcription, les droits à l'image et les consentements avant d'importer des médias confidentiels.",
+    "selection": [
+      "Choisir Riverside selon la longueur des rushes, le contrôle manuel nécessaire, les formats et les limitations du forfait."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://riverside.fm/video-editor",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      },
+      {
+        "url": "https://riverside.fm/magic-clips",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Munch": {
+    "headline": "Service de découpage de vidéos longues en extraits courts assisté par IA, destiné à la communication.",
+    "audiences": [
+      "Créateurs de réseaux sociaux",
+      "Responsables de communication et podcasts"
+    ],
+    "cases": [
+      "Repérer les séquences fortes d'un contenu long",
+      "Créer des clips verticaux sous-titrés",
+      "Vérifier les coupes et publier dans le format ciblé"
+    ],
+    "advantages": [
+      "Extraction de clips",
+      "Format réseaux sociaux",
+      "Assistance IA"
+    ],
+    "limits": [
+      "Fonctions, accès et offres actuels insuffisamment confirmés ; vérifier le service avant tout achat.",
+      "Les coupes et transcriptions générées automatiquement peuvent dénaturer les propos hors contexte."
+    ],
+    "gettingStarted": [
+      "Importer un enregistrement dont vous détenez les droits et choisir le format cible.",
+      "Vérifier l'intégralité des coupures, sous-titres et transitions avant export et publication."
+    ],
+    "examples": [
+      "À partir d'un entretien, propose trois clips de 45 secondes sans altérer le sens des réponses.",
+      "Prépare une version verticale sous-titrée et liste les passages qui méritent une validation humaine."
+    ],
+    "pricing": "Tarifs et disponibilité non vérifiés.",
+    "privacy": "Contrôler les conditions d'hébergement des fichiers, les règles de transcription, les droits à l'image et les consentements avant d'importer des médias confidentiels.",
+    "selection": [
+      "Choisir Munch selon la longueur des rushes, le contrôle manuel nécessaire, les formats et les limitations du forfait."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "provisional",
+    "evidence": "limited_official",
+    "sources": [
+      {
+        "url": "https://www.getmunch.com/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Choppity": {
+    "headline": "Outil de production de clips par IA avec recherche de moments, montage textuel et recadrage automatique.",
+    "audiences": [
+      "Créateurs de réseaux sociaux",
+      "Responsables de communication et podcasts"
+    ],
+    "cases": [
+      "Repérer les séquences fortes d'un contenu long",
+      "Créer des clips verticaux sous-titrés",
+      "Vérifier les coupes et publier dans le format ciblé"
+    ],
+    "advantages": [
+      "Sélection automatique de moments",
+      "Montage textuel",
+      "Sous-titres et suivi du locuteur"
+    ],
+    "limits": [
+      "La pertinence des scores et des sélections est indicative ; contrôle éditorial nécessaire.",
+      "Les coupes et transcriptions générées automatiquement peuvent dénaturer les propos hors contexte."
+    ],
+    "gettingStarted": [
+      "Importer un enregistrement dont vous détenez les droits et choisir le format cible.",
+      "Vérifier l'intégralité des coupures, sous-titres et transitions avant export et publication."
+    ],
+    "examples": [
+      "À partir d'un entretien, propose trois clips de 45 secondes sans altérer le sens des réponses.",
+      "Prépare une version verticale sous-titrée et liste les passages qui méritent une validation humaine."
+    ],
+    "pricing": "Limites de durée et volume selon le forfait.",
+    "privacy": "Contrôler les conditions d'hébergement des fichiers, les règles de transcription, les droits à l'image et les consentements avant d'importer des médias confidentiels.",
+    "selection": [
+      "Choisir Choppity selon la longueur des rushes, le contrôle manuel nécessaire, les formats et les limitations du forfait."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://help.choppity.com/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
   }
 }
