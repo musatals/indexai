@@ -1,0 +1,911 @@
+{
+  "vapi": {
+    "descriptionFr": "Plateforme développeur d'agents vocaux capables de répondre à des appels entrants ou sortants, de mobiliser des outils et de coordonner des assistants spécialisés.",
+    "descriptionEn": "Developer platform for inbound and outbound voice agents using tools and coordinated specialized assistants.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Assistants et Squads spécialisés",
+      "Téléphonie entrante et sortante, web et SIP",
+      "Fonctions, journaux et tests de conversation"
+    ],
+    "featuresEn": [
+      "Specialized assistants and squads",
+      "Inbound/outbound telephony, web and SIP",
+      "Tool calls, logs and conversational testing"
+    ],
+    "accessFr": "Web, API, SIP et/ou téléphone selon formule",
+    "accessEn": "Web, API, SIP and/or phone by plan",
+    "officialSources": [
+      {
+        "url": "https://docs.vapi.ai/quickstart/introduction",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      },
+      {
+        "url": "https://docs.vapi.ai/free-telephony",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      },
+      {
+        "url": "https://docs.vapi.ai/assistants/call-recording",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme développeur d'agents vocaux capables de répondre à des appels entrants ou sortants, de mobiliser des outils et de coordonner des assistants spécialisés.",
+      "audiences": [
+        "Équipes de support, accueil et relation client",
+        "Responsables de conformité, sécurité et infrastructures voix"
+      ],
+      "cases": [
+        "Créer un agent de réception qui renseigne sur un service, prend une demande et transfère à un conseiller disponible.",
+        "Évaluer la compréhension des accents, la latence, les interruptions et la précision des actions exécutées."
+      ],
+      "advantages": [
+        "Assistants et Squads spécialisés",
+        "Téléphonie entrante et sortante, web et SIP",
+        "Fonctions, journaux et tests de conversation"
+      ],
+      "limits": [
+        "Les numéros gratuits Vapi sont américains et limités aux appels entrants ; les appels sortants nécessitent un numéro importé. L'enregistrement et la rétention varient selon la configuration et le plan.",
+        "Un agent vocal peut mal entendre des chiffres, noms et consignes ; prévoir des confirmations, des tests de bout en bout et une reprise par un humain."
+      ],
+      "gettingStarted": [
+        "Définir un scénario vocal limité, les appels autorisés et une procédure de transfert vers une personne.",
+        "Tester bruit ambiant, accents, interruptions, silence, erreurs d'API et appels abandonnés avec une ligne de démonstration."
+      ],
+      "examples": [
+        "Réponds aux questions courantes sur un service en demandant confirmation avant de modifier un rendez-vous ; propose un transfert à un humain si nécessaire.",
+        "Simule dix appels, y compris des erreurs de reconnaissance de numéros, puis résume les échecs et les coûts observés."
+      ],
+      "pricing": "Vérifier les frais par minute, les modèles voix/LLM, les numéros de téléphone, les transferts et les options de support avant tout déploiement.",
+      "privacy": "Informer de l'usage de l'IA et des enregistrements conformément au droit applicable ; obtenir le consentement requis, limiter la conservation des transcriptions et contrôler les actions sensibles.",
+      "selection": [
+        "Évaluer Vapi selon le besoin (api), le transfert humain, la stabilité du modèle, la disponibilité internationale et les coûts par appel."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.vapi.ai/quickstart/introduction",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://docs.vapi.ai/free-telephony",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://docs.vapi.ai/assistants/call-recording",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "retell-ai": {
+    "descriptionFr": "Plateforme de création d'agents téléphoniques et web avec bases de connaissances, appels entrants et sortants, fonctions externes et analyse post-appel.",
+    "descriptionEn": "Voice-agent platform for phone and web calls with knowledge bases, inbound/outbound dialing, tool calls, and post-call analytics.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Agents à prompt unique ou parcours guidés",
+      "Connaissances, fonctions et analyse des appels",
+      "Intégration téléphonique et SDK/API"
+    ],
+    "featuresEn": [
+      "Single-prompt agents or guided flows",
+      "Knowledge, tools and call analytics",
+      "Telephony integrations and APIs/SDKs"
+    ],
+    "accessFr": "Web, API, SIP et/ou téléphone selon formule",
+    "accessEn": "Web, API, SIP and/or phone by plan",
+    "officialSources": [
+      {
+        "url": "https://www.retellai.com/learn/how-ai-voice-agents-work-on-a-call",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      },
+      {
+        "url": "https://www.retellai.com/features/voice-ai-api",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      },
+      {
+        "url": "https://www.retellai.com/changelog/gpt-live-1",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de création d'agents téléphoniques et web avec bases de connaissances, appels entrants et sortants, fonctions externes et analyse post-appel.",
+      "audiences": [
+        "Équipes de support, accueil et relation client",
+        "Responsables de conformité, sécurité et infrastructures voix"
+      ],
+      "cases": [
+        "Répondre à une demande de changement de rendez-vous en consultant le calendrier puis rédiger un compte rendu d'appel.",
+        "Évaluer la compréhension des accents, la latence, les interruptions et la précision des actions exécutées."
+      ],
+      "advantages": [
+        "Agents à prompt unique ou parcours guidés",
+        "Connaissances, fonctions et analyse des appels",
+        "Intégration téléphonique et SDK/API"
+      ],
+      "limits": [
+        "Le modèle vocal GPT-Live-1 ajouté en novembre 2026 ne prend pas en charge certains agents à parcours, les transferts ni les agents chat ; tester le modèle adapté à chaque scénario. Les coûts de téléphonie et d'inférence se cumulent.",
+        "Un agent vocal peut mal entendre des chiffres, noms et consignes ; prévoir des confirmations, des tests de bout en bout et une reprise par un humain."
+      ],
+      "gettingStarted": [
+        "Définir un scénario vocal limité, les appels autorisés et une procédure de transfert vers une personne.",
+        "Tester bruit ambiant, accents, interruptions, silence, erreurs d'API et appels abandonnés avec une ligne de démonstration."
+      ],
+      "examples": [
+        "Réponds aux questions courantes sur un service en demandant confirmation avant de modifier un rendez-vous ; propose un transfert à un humain si nécessaire.",
+        "Simule dix appels, y compris des erreurs de reconnaissance de numéros, puis résume les échecs et les coûts observés."
+      ],
+      "pricing": "Vérifier les frais par minute, les modèles voix/LLM, les numéros de téléphone, les transferts et les options de support avant tout déploiement.",
+      "privacy": "Informer de l'usage de l'IA et des enregistrements conformément au droit applicable ; obtenir le consentement requis, limiter la conservation des transcriptions et contrôler les actions sensibles.",
+      "selection": [
+        "Évaluer Retell AI selon le besoin (platform), le transfert humain, la stabilité du modèle, la disponibilité internationale et les coûts par appel."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented_with_model_constraints",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.retellai.com/learn/how-ai-voice-agents-work-on-a-call",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.retellai.com/features/voice-ai-api",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.retellai.com/changelog/gpt-live-1",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "bland-ai": {
+    "descriptionFr": "Plateforme d'agents vocaux d'entreprise orientée appels critiques, tests de scénarios, outils, canaux multiples et supervision des conversations.",
+    "descriptionEn": "Enterprise voice AI platform for high-stakes calling with scenario testing, tools, multichannel deployment, and call observability.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Nouvel éditeur d'agents et outil Norm",
+      "Téléphonie, SMS, iMessage et chat web",
+      "Tests de scénarios et outils métiers"
+    ],
+    "featuresEn": [
+      "New agent builder and Norm",
+      "Phone, SMS, iMessage and web chat",
+      "Scenario testing and business tools"
+    ],
+    "accessFr": "Web, API, SIP et/ou téléphone selon formule",
+    "accessEn": "Web, API, SIP and/or phone by plan",
+    "officialSources": [
+      {
+        "url": "https://www.bland.ai/blog/introducing-dashboard-v2",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      },
+      {
+        "url": "https://www.bland.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme d'agents vocaux d'entreprise orientée appels critiques, tests de scénarios, outils, canaux multiples et supervision des conversations.",
+      "audiences": [
+        "Équipes de support, accueil et relation client",
+        "Responsables de conformité, sécurité et infrastructures voix"
+      ],
+      "cases": [
+        "Mettre en place un agent de rappel de rendez-vous avec procédure de confirmation et transfert humain.",
+        "Évaluer la compréhension des accents, la latence, les interruptions et la précision des actions exécutées."
+      ],
+      "advantages": [
+        "Nouvel éditeur d'agents et outil Norm",
+        "Téléphonie, SMS, iMessage et chat web",
+        "Tests de scénarios et outils métiers"
+      ],
+      "limits": [
+        "Bland a fixé au 15 novembre 2026 la migration des anciens Pathways/Personas vers son nouveau builder pour la production ; vérifier l'état de chaque agent historique. Les engagements de conformité nécessitent une revue contractuelle.",
+        "Un agent vocal peut mal entendre des chiffres, noms et consignes ; prévoir des confirmations, des tests de bout en bout et une reprise par un humain."
+      ],
+      "gettingStarted": [
+        "Définir un scénario vocal limité, les appels autorisés et une procédure de transfert vers une personne.",
+        "Tester bruit ambiant, accents, interruptions, silence, erreurs d'API et appels abandonnés avec une ligne de démonstration."
+      ],
+      "examples": [
+        "Réponds aux questions courantes sur un service en demandant confirmation avant de modifier un rendez-vous ; propose un transfert à un humain si nécessaire.",
+        "Simule dix appels, y compris des erreurs de reconnaissance de numéros, puis résume les échecs et les coûts observés."
+      ],
+      "pricing": "Vérifier les frais par minute, les modèles voix/LLM, les numéros de téléphone, les transferts et les options de support avant tout déploiement.",
+      "privacy": "Informer de l'usage de l'IA et des enregistrements conformément au droit applicable ; obtenir le consentement requis, limiter la conservation des transcriptions et contrôler les actions sensibles.",
+      "selection": [
+        "Évaluer Bland AI selon le besoin (platform), le transfert humain, la stabilité du modèle, la disponibilité internationale et les coûts par appel."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "migration_required",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.bland.ai/blog/introducing-dashboard-v2",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.bland.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_migration_required"
+  },
+  "synthflow": {
+    "descriptionFr": "Studio d'agents vocaux et chat avec connaissances, actions de réservation, appels entrants/sortants, évaluations et transferts téléphoniques.",
+    "descriptionEn": "Voice and chat agent studio with knowledge, bookings, inbound/outbound calling, evaluations, and telephony transfers.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Création vocale entrante, sortante ou widget",
+      "Actions API, calendrier et transfert humain",
+      "Scénarios de test et campagnes"
+    ],
+    "featuresEn": [
+      "Inbound/outbound voice and website widget",
+      "API, calendar, and human-transfer actions",
+      "Test scenarios and campaigns"
+    ],
+    "accessFr": "Web, API, SIP et/ou téléphone selon formule",
+    "accessEn": "Web, API, SIP and/or phone by plan",
+    "officialSources": [
+      {
+        "url": "https://docs.synthflow.ai/getting-started",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      },
+      {
+        "url": "https://docs.synthflow.ai/actions-overview",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      },
+      {
+        "url": "https://docs.synthflow.ai/telephony",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Studio d'agents vocaux et chat avec connaissances, actions de réservation, appels entrants/sortants, évaluations et transferts téléphoniques.",
+      "audiences": [
+        "Équipes de support, accueil et relation client",
+        "Responsables de conformité, sécurité et infrastructures voix"
+      ],
+      "cases": [
+        "Configurer un réceptionniste IA qui propose un créneau libre puis transfère le client à un agent quand nécessaire.",
+        "Évaluer la compréhension des accents, la latence, les interruptions et la précision des actions exécutées."
+      ],
+      "advantages": [
+        "Création vocale entrante, sortante ou widget",
+        "Actions API, calendrier et transfert humain",
+        "Scénarios de test et campagnes"
+      ],
+      "limits": [
+        "L'intégration SIP/PBX est une fonctionnalité Enterprise ; les numéros achetés directement dans Synthflow couvrent un nombre limité de pays et le déploiement international peut nécessiter Twilio ou un opérateur SIP.",
+        "Un agent vocal peut mal entendre des chiffres, noms et consignes ; prévoir des confirmations, des tests de bout en bout et une reprise par un humain."
+      ],
+      "gettingStarted": [
+        "Définir un scénario vocal limité, les appels autorisés et une procédure de transfert vers une personne.",
+        "Tester bruit ambiant, accents, interruptions, silence, erreurs d'API et appels abandonnés avec une ligne de démonstration."
+      ],
+      "examples": [
+        "Réponds aux questions courantes sur un service en demandant confirmation avant de modifier un rendez-vous ; propose un transfert à un humain si nécessaire.",
+        "Simule dix appels, y compris des erreurs de reconnaissance de numéros, puis résume les échecs et les coûts observés."
+      ],
+      "pricing": "Vérifier les frais par minute, les modèles voix/LLM, les numéros de téléphone, les transferts et les options de support avant tout déploiement.",
+      "privacy": "Informer de l'usage de l'IA et des enregistrements conformément au droit applicable ; obtenir le consentement requis, limiter la conservation des transcriptions et contrôler les actions sensibles.",
+      "selection": [
+        "Évaluer Synthflow selon le besoin (no-code), le transfert humain, la stabilité du modèle, la disponibilité internationale et les coûts par appel."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.synthflow.ai/getting-started",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://docs.synthflow.ai/actions-overview",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://docs.synthflow.ai/telephony",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "air-ai": {
+    "descriptionFr": "Ancienne référence d'agent téléphonique commercial Air AI ; l'adresse air.ai présente désormais une plateforme Enterprise Readiness sans offre explicite de téléphonie IA.",
+    "descriptionEn": "Historical Air AI sales phone-agent listing; the air.ai website now presents an Enterprise Readiness platform without an explicit voice-agent offer.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Historique des agents vocaux commerciaux",
+      "Anciennes conversations téléphoniques automatisées",
+      "Disponibilité du produit vocal à confirmer"
+    ],
+    "featuresEn": [
+      "Historical sales voice agents",
+      "Previously advertised automated phone conversations",
+      "Voice product availability unconfirmed"
+    ],
+    "accessFr": "Produit vocal non confirmé sur le domaine recensé",
+    "accessEn": "Voice offering unconfirmed on listed domain",
+    "officialSources": [
+      {
+        "url": "https://air.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "product_url_status"
+      },
+      {
+        "url": "https://air.ai/about",
+        "checkedAt": "2026-11-16",
+        "scope": "product_url_status"
+      }
+    ],
+    "research": {
+      "headline": "Ancienne référence d'agent téléphonique commercial Air AI ; l'adresse air.ai présente désormais une plateforme Enterprise Readiness sans offre explicite de téléphonie IA.",
+      "audiences": [
+        "Équipes de support, accueil et relation client",
+        "Responsables de conformité, sécurité et infrastructures voix"
+      ],
+      "cases": [
+        "Consulter la fiche comme référence historique et comparer des plateformes téléphoniques actuellement documentées.",
+        "Évaluer la compréhension des accents, la latence, les interruptions et la précision des actions exécutées."
+      ],
+      "advantages": [
+        "Historique des agents vocaux commerciaux",
+        "Anciennes conversations téléphoniques automatisées",
+        "Disponibilité du produit vocal à confirmer"
+      ],
+      "limits": [
+        "Le domaine officiel indiqué dans le catalogue décrit aujourd'hui la préparation opérationnelle d'entreprise et non le service de téléphonie précédemment attribué à Air AI. Aucune confirmation de continuité ou de migration de ce produit n'a été établie : ne pas recommander un achat ni inventer un nouveau lien.",
+        "Un agent vocal peut mal entendre des chiffres, noms et consignes ; prévoir des confirmations, des tests de bout en bout et une reprise par un humain."
+      ],
+      "gettingStarted": [
+        "Vérifier l'existence d'une offre de téléphonie active avant toute comparaison commerciale.",
+        "Tester bruit ambiant, accents, interruptions, silence, erreurs d'API et appels abandonnés avec une ligne de démonstration."
+      ],
+      "examples": [
+        "Réponds aux questions courantes sur un service en demandant confirmation avant de modifier un rendez-vous ; propose un transfert à un humain si nécessaire.",
+        "Simule dix appels, y compris des erreurs de reconnaissance de numéros, puis résume les échecs et les coûts observés."
+      ],
+      "pricing": "Aucune offre vocale actuelle vérifiée sur l'URL recensée.",
+      "privacy": "Informer de l'usage de l'IA et des enregistrements conformément au droit applicable ; obtenir le consentement requis, limiter la conservation des transcriptions et contrôler les actions sensibles.",
+      "selection": [
+        "Évaluer Air AI selon le besoin (historical), le transfert humain, la stabilité du modèle, la disponibilité internationale et les coûts par appel."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "availability_unconfirmed",
+      "evidence": "official_domain_mismatch",
+      "sources": [
+        {
+          "url": "https://air.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://air.ai/about",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_domain_mismatch_unconfirmed"
+  },
+  "polyai": {
+    "descriptionFr": "Plateforme PolyAI de dialogues téléphoniques d'entreprise avec Wren Dialog Agent, Dialog Studio et modèles de conversation dédiés.",
+    "descriptionEn": "PolyAI enterprise voice dialogue platform with Wren Dialog Agent, Dialog Studio and specialized dialog models.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Wren Dialog Agent et Dialog Studio",
+      "Gestion de réservations, appels et demandes clients",
+      "APIs, outils et tests de déploiement"
+    ],
+    "featuresEn": [
+      "Wren Dialog Agent and Dialog Studio",
+      "Bookings, call routing and customer requests",
+      "APIs, tools and deployment testing"
+    ],
+    "accessFr": "Web, API, SIP et/ou téléphone selon formule",
+    "accessEn": "Web, API, SIP and/or phone by plan",
+    "officialSources": [
+      {
+        "url": "https://poly.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      },
+      {
+        "url": "https://docs.poly.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme PolyAI de dialogues téléphoniques d'entreprise avec Wren Dialog Agent, Dialog Studio et modèles de conversation dédiés.",
+      "audiences": [
+        "Responsables de centres d'appels et systèmes téléphoniques",
+        "Responsables de conformité, sécurité et infrastructures voix"
+      ],
+      "cases": [
+        "Créer un assistant de réception pour réservations et assistance téléphonique en plusieurs langues.",
+        "Évaluer la compréhension des accents, la latence, les interruptions et la précision des actions exécutées."
+      ],
+      "advantages": [
+        "Wren Dialog Agent et Dialog Studio",
+        "Gestion de réservations, appels et demandes clients",
+        "APIs, outils et tests de déploiement"
+      ],
+      "limits": [
+        "Évaluer le respect des processus métier et la qualité de transfert vers un conseiller ; les tarifs d'entreprise et l'accès à certains modèles/API doivent être vérifiés.",
+        "Un agent vocal peut mal entendre des chiffres, noms et consignes ; prévoir des confirmations, des tests de bout en bout et une reprise par un humain."
+      ],
+      "gettingStarted": [
+        "Définir un scénario vocal limité, les appels autorisés et une procédure de transfert vers une personne.",
+        "Tester bruit ambiant, accents, interruptions, silence, erreurs d'API et appels abandonnés avec une ligne de démonstration."
+      ],
+      "examples": [
+        "Réponds aux questions courantes sur un service en demandant confirmation avant de modifier un rendez-vous ; propose un transfert à un humain si nécessaire.",
+        "Simule dix appels, y compris des erreurs de reconnaissance de numéros, puis résume les échecs et les coûts observés."
+      ],
+      "pricing": "Vérifier les frais par minute, les modèles voix/LLM, les numéros de téléphone, les transferts et les options de support avant tout déploiement.",
+      "privacy": "Informer de l'usage de l'IA et des enregistrements conformément au droit applicable ; obtenir le consentement requis, limiter la conservation des transcriptions et contrôler les actions sensibles.",
+      "selection": [
+        "Évaluer PolyAI selon le besoin (enterprise), le transfert humain, la stabilité du modèle, la disponibilité internationale et les coûts par appel."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "product_line_updated",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://poly.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://docs.poly.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_updated_product"
+  },
+  "elevenlabs-conversational-ai": {
+    "descriptionFr": "ElevenAgents d'ElevenLabs : agents conversationnels vocaux et multimodaux avec voix personnalisables, connaissances, flux, intégration SIP et web.",
+    "descriptionEn": "ElevenLabs ElevenAgents: voice and multimodal conversational agents with customizable voices, knowledge, workflows, SIP and web deployment.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "ElevenAgents : flux, connaissances et outils",
+      "Voix et applications web/mobile",
+      "SIP, Twilio et campagnes sortantes"
+    ],
+    "featuresEn": [
+      "ElevenAgents: workflows, knowledge and tools",
+      "Voice, web and mobile apps",
+      "SIP, Twilio, and outbound campaigns"
+    ],
+    "accessFr": "Web, API, SIP et/ou téléphone selon formule",
+    "accessEn": "Web, API, SIP and/or phone by plan",
+    "officialSources": [
+      {
+        "url": "https://elevenlabs.io/docs/eleven-agents/overview",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      },
+      {
+        "url": "https://elevenlabs.io/docs/eleven-agents/integrate/overview",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "ElevenAgents d'ElevenLabs : agents conversationnels vocaux et multimodaux avec voix personnalisables, connaissances, flux, intégration SIP et web.",
+      "audiences": [
+        "Équipes de support, accueil et relation client",
+        "Responsables de conformité, sécurité et infrastructures voix"
+      ],
+      "cases": [
+        "Ajouter une interface vocale à un assistant documentaire et le relier à une ligne téléphonique.",
+        "Évaluer la compréhension des accents, la latence, les interruptions et la précision des actions exécutées."
+      ],
+      "advantages": [
+        "ElevenAgents : flux, connaissances et outils",
+        "Voix et applications web/mobile",
+        "SIP, Twilio et campagnes sortantes"
+      ],
+      "limits": [
+        "Les voix et capacités annoncées varient suivant le modèle et le canal ; vérifier l'autorisation des enregistrements et du clonage vocal, ainsi que les coûts cumulés d'appel et d'inférence.",
+        "Un agent vocal peut mal entendre des chiffres, noms et consignes ; prévoir des confirmations, des tests de bout en bout et une reprise par un humain."
+      ],
+      "gettingStarted": [
+        "Définir un scénario vocal limité, les appels autorisés et une procédure de transfert vers une personne.",
+        "Tester bruit ambiant, accents, interruptions, silence, erreurs d'API et appels abandonnés avec une ligne de démonstration."
+      ],
+      "examples": [
+        "Réponds aux questions courantes sur un service en demandant confirmation avant de modifier un rendez-vous ; propose un transfert à un humain si nécessaire.",
+        "Simule dix appels, y compris des erreurs de reconnaissance de numéros, puis résume les échecs et les coûts observés."
+      ],
+      "pricing": "Vérifier les frais par minute, les modèles voix/LLM, les numéros de téléphone, les transferts et les options de support avant tout déploiement.",
+      "privacy": "Informer de l'usage de l'IA et des enregistrements conformément au droit applicable ; obtenir le consentement requis, limiter la conservation des transcriptions et contrôler les actions sensibles.",
+      "selection": [
+        "Évaluer ElevenLabs Conversational AI selon le besoin (platform), le transfert humain, la stabilité du modèle, la disponibilité internationale et les coûts par appel."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "rebranded_elevenagents",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://elevenlabs.io/docs/eleven-agents/overview",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://elevenlabs.io/docs/eleven-agents/integrate/overview",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_renamed"
+  },
+  "livekit-agents": {
+    "descriptionFr": "Framework open source LiveKit pour agents vocaux et multimodaux en temps réel, avec WebRTC, SIP et applications Python/Node.js.",
+    "descriptionEn": "Open-source LiveKit framework for real-time voice and multimodal agents using WebRTC, SIP and Python/Node.js.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Sessions agents et transport WebRTC",
+      "SIP pour téléphonie",
+      "SDKs Python et Node.js et Agent Builder"
+    ],
+    "featuresEn": [
+      "Agent sessions and WebRTC",
+      "SIP telephony support",
+      "Python/Node.js SDKs and Agent Builder"
+    ],
+    "accessFr": "Framework open source ; déploiement à configurer",
+    "accessEn": "Open-source framework; deployment required",
+    "officialSources": [
+      {
+        "url": "https://docs.livekit.io/intro/basics/agents/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      },
+      {
+        "url": "https://docs.livekit.io/agents/integrations/openai/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Framework open source LiveKit pour agents vocaux et multimodaux en temps réel, avec WebRTC, SIP et applications Python/Node.js.",
+      "audiences": [
+        "Développeurs d'applications audio et temps réel",
+        "Responsables de conformité, sécurité et infrastructures voix"
+      ],
+      "cases": [
+        "Créer un assistant vocal pour un portail web avec possibilité de joindre le même agent au téléphone.",
+        "Évaluer la compréhension des accents, la latence, les interruptions et la précision des actions exécutées."
+      ],
+      "advantages": [
+        "Sessions agents et transport WebRTC",
+        "SIP pour téléphonie",
+        "SDKs Python et Node.js et Agent Builder"
+      ],
+      "limits": [
+        "Le framework exige intégration, tests de latence et déploiement ; téléphonie, modèles, hébergement et observabilité entraînent des coûts distincts.",
+        "Un agent vocal peut mal entendre des chiffres, noms et consignes ; prévoir des confirmations, des tests de bout en bout et une reprise par un humain."
+      ],
+      "gettingStarted": [
+        "Définir un scénario vocal limité, les appels autorisés et une procédure de transfert vers une personne.",
+        "Tester bruit ambiant, accents, interruptions, silence, erreurs d'API et appels abandonnés avec une ligne de démonstration."
+      ],
+      "examples": [
+        "Réponds aux questions courantes sur un service en demandant confirmation avant de modifier un rendez-vous ; propose un transfert à un humain si nécessaire.",
+        "Simule dix appels, y compris des erreurs de reconnaissance de numéros, puis résume les échecs et les coûts observés."
+      ],
+      "pricing": "Vérifier les frais par minute, les modèles voix/LLM, les numéros de téléphone, les transferts et les options de support avant tout déploiement.",
+      "privacy": "Informer de l'usage de l'IA et des enregistrements conformément au droit applicable ; obtenir le consentement requis, limiter la conservation des transcriptions et contrôler les actions sensibles.",
+      "selection": [
+        "Évaluer LiveKit Agents selon le besoin (framework), le transfert humain, la stabilité du modèle, la disponibilité internationale et les coûts par appel."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.livekit.io/intro/basics/agents/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://docs.livekit.io/agents/integrations/openai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "pipecat": {
+    "descriptionFr": "Framework Python open source Pipecat pour agents vocaux/multimodaux temps réel, composant modèles, transports et flux de conversation.",
+    "descriptionEn": "Open-source Pipecat Python framework for realtime voice and multimodal agents combining models, transports and conversation pipelines.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Pipelines audio/vidéo et flux agents",
+      "Transports Daily, LiveKit et téléphonie",
+      "Pipecat Flows, outils de débogage et tests"
+    ],
+    "featuresEn": [
+      "Audio/video pipelines and agent flows",
+      "Daily, LiveKit and telephony transports",
+      "Pipecat Flows, debugging and tests"
+    ],
+    "accessFr": "Framework open source ; déploiement à configurer",
+    "accessEn": "Open-source framework; deployment required",
+    "officialSources": [
+      {
+        "url": "https://github.com/pipecat-ai/pipecat",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      },
+      {
+        "url": "https://docs.pipecat.ai/pipecat/telephony/overview",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Framework Python open source Pipecat pour agents vocaux/multimodaux temps réel, composant modèles, transports et flux de conversation.",
+      "audiences": [
+        "Développeurs d'applications audio et temps réel",
+        "Responsables de conformité, sécurité et infrastructures voix"
+      ],
+      "cases": [
+        "Développer un agent de conversation web/voix avec intégration des modèles et suivi de la latence.",
+        "Évaluer la compréhension des accents, la latence, les interruptions et la précision des actions exécutées."
+      ],
+      "advantages": [
+        "Pipelines audio/vidéo et flux agents",
+        "Transports Daily, LiveKit et téléphonie",
+        "Pipecat Flows, outils de débogage et tests"
+      ],
+      "limits": [
+        "Un framework ne fournit pas automatiquement un numéro téléphonique ou l'hébergement : prévoir un transport et les prestataires voix/modèles, avec contrôle des coûts et autorisations.",
+        "Un agent vocal peut mal entendre des chiffres, noms et consignes ; prévoir des confirmations, des tests de bout en bout et une reprise par un humain."
+      ],
+      "gettingStarted": [
+        "Définir un scénario vocal limité, les appels autorisés et une procédure de transfert vers une personne.",
+        "Tester bruit ambiant, accents, interruptions, silence, erreurs d'API et appels abandonnés avec une ligne de démonstration."
+      ],
+      "examples": [
+        "Réponds aux questions courantes sur un service en demandant confirmation avant de modifier un rendez-vous ; propose un transfert à un humain si nécessaire.",
+        "Simule dix appels, y compris des erreurs de reconnaissance de numéros, puis résume les échecs et les coûts observés."
+      ],
+      "pricing": "Vérifier les frais par minute, les modèles voix/LLM, les numéros de téléphone, les transferts et les options de support avant tout déploiement.",
+      "privacy": "Informer de l'usage de l'IA et des enregistrements conformément au droit applicable ; obtenir le consentement requis, limiter la conservation des transcriptions et contrôler les actions sensibles.",
+      "selection": [
+        "Évaluer Pipecat selon le besoin (framework), le transfert humain, la stabilité du modèle, la disponibilité internationale et les coûts par appel."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://github.com/pipecat-ai/pipecat",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://docs.pipecat.ai/pipecat/telephony/overview",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "vocode": {
+    "descriptionFr": "Bibliothèque open source historique de création d'agents vocaux en Python pour conversations en flux et appels téléphoniques.",
+    "descriptionEn": "Historical open-source Python library for streaming voice agents and phone conversations.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Vocode Core en Python",
+      "Intégrations audio et téléphoniques historiques",
+      "Code sous licence MIT"
+    ],
+    "featuresEn": [
+      "Vocode Core in Python",
+      "Historical audio and telephony integrations",
+      "MIT-licensed source code"
+    ],
+    "accessFr": "Bibliothèque open source ; maintenance à confirmer",
+    "accessEn": "Open-source library; maintenance to verify",
+    "officialSources": [
+      {
+        "url": "https://github.com/vocodedev/vocode-core",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      },
+      {
+        "url": "https://github.com/vocodedev",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Bibliothèque open source historique de création d'agents vocaux en Python pour conversations en flux et appels téléphoniques.",
+      "audiences": [
+        "Développeurs d'applications audio et temps réel",
+        "Responsables de conformité, sécurité et infrastructures voix"
+      ],
+      "cases": [
+        "Étudier l'architecture d'un agent vocal existant, puis évaluer une bibliothèque activement maintenue avant un nouveau projet.",
+        "Évaluer la compréhension des accents, la latence, les interruptions et la précision des actions exécutées."
+      ],
+      "advantages": [
+        "Vocode Core en Python",
+        "Intégrations audio et téléphoniques historiques",
+        "Code sous licence MIT"
+      ],
+      "limits": [
+        "Le dépôt principal ne montre pas d'activité de développement récente (dernier commit relevé en novembre 2024) et appelle des mainteneurs communautaires. Aucune fermeture formelle confirmée : signaler la maintenance comme incertaine.",
+        "Un agent vocal peut mal entendre des chiffres, noms et consignes ; prévoir des confirmations, des tests de bout en bout et une reprise par un humain."
+      ],
+      "gettingStarted": [
+        "Consulter le code du dépôt et comparer activité/compatibilité avant une installation.",
+        "Tester bruit ambiant, accents, interruptions, silence, erreurs d'API et appels abandonnés avec une ligne de démonstration."
+      ],
+      "examples": [
+        "Réponds aux questions courantes sur un service en demandant confirmation avant de modifier un rendez-vous ; propose un transfert à un humain si nécessaire.",
+        "Simule dix appels, y compris des erreurs de reconnaissance de numéros, puis résume les échecs et les coûts observés."
+      ],
+      "pricing": "Vérifier les frais par minute, les modèles voix/LLM, les numéros de téléphone, les transferts et les options de support avant tout déploiement.",
+      "privacy": "Informer de l'usage de l'IA et des enregistrements conformément au droit applicable ; obtenir le consentement requis, limiter la conservation des transcriptions et contrôler les actions sensibles.",
+      "selection": [
+        "Évaluer Vocode selon le besoin (framework), le transfert humain, la stabilité du modèle, la disponibilité internationale et les coûts par appel."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "maintenance_unconfirmed",
+      "evidence": "official_repository",
+      "sources": [
+        {
+          "url": "https://github.com/vocodedev/vocode-core",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://github.com/vocodedev",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_repository_maintenance_uncertain"
+  },
+  "twilio-ai": {
+    "descriptionFr": "Services Twilio pour construire des agents vocaux avec Conversation Relay, intelligence des conversations et transports téléphoniques programmables.",
+    "descriptionEn": "Twilio services for voice agents using Conversation Relay, conversation intelligence, and programmable telephony.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Conversation Relay : reconnaissance et synthèse vocales",
+      "Programmable Voice, WebSockets et APIs",
+      "Conversation Intelligence et détection des tours de parole"
+    ],
+    "featuresEn": [
+      "Conversation Relay speech-to-text and text-to-speech",
+      "Programmable Voice, WebSockets and APIs",
+      "Conversation Intelligence and turn detection"
+    ],
+    "accessFr": "Web, API, SIP et/ou téléphone selon formule",
+    "accessEn": "Web, API, SIP and/or phone by plan",
+    "officialSources": [
+      {
+        "url": "https://www.twilio.com/docs/ai",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      },
+      {
+        "url": "https://www.twilio.com/docs/voice/conversationrelay",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      },
+      {
+        "url": "https://www.twilio.com/en-us/changelog/general-availability--smart-turn-detection-for-conversationrelay",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Services Twilio pour construire des agents vocaux avec Conversation Relay, intelligence des conversations et transports téléphoniques programmables.",
+      "audiences": [
+        "Équipes de support, accueil et relation client",
+        "Responsables de conformité, sécurité et infrastructures voix"
+      ],
+      "cases": [
+        "Connecter un numéro d'entreprise à un agent vocal hébergé séparément et instrumenter la qualité des échanges.",
+        "Évaluer la compréhension des accents, la latence, les interruptions et la précision des actions exécutées."
+      ],
+      "advantages": [
+        "Conversation Relay : reconnaissance et synthèse vocales",
+        "Programmable Voice, WebSockets et APIs",
+        "Conversation Intelligence et détection des tours de parole"
+      ],
+      "limits": [
+        "La détection intelligente des tours de parole est disponible depuis le 13 novembre 2026, avec des exceptions selon le fournisseur de transcription. Twilio fournit l'infrastructure mais l'application doit gérer le modèle, la sécurité et les actions ; tarification composable.",
+        "Un agent vocal peut mal entendre des chiffres, noms et consignes ; prévoir des confirmations, des tests de bout en bout et une reprise par un humain."
+      ],
+      "gettingStarted": [
+        "Définir un scénario vocal limité, les appels autorisés et une procédure de transfert vers une personne.",
+        "Tester bruit ambiant, accents, interruptions, silence, erreurs d'API et appels abandonnés avec une ligne de démonstration."
+      ],
+      "examples": [
+        "Réponds aux questions courantes sur un service en demandant confirmation avant de modifier un rendez-vous ; propose un transfert à un humain si nécessaire.",
+        "Simule dix appels, y compris des erreurs de reconnaissance de numéros, puis résume les échecs et les coûts observés."
+      ],
+      "pricing": "Vérifier les frais par minute, les modèles voix/LLM, les numéros de téléphone, les transferts et les options de support avant tout déploiement.",
+      "privacy": "Informer de l'usage de l'IA et des enregistrements conformément au droit applicable ; obtenir le consentement requis, limiter la conservation des transcriptions et contrôler les actions sensibles.",
+      "selection": [
+        "Évaluer Twilio AI selon le besoin (infrastructure), le transfert humain, la stabilité du modèle, la disponibilité internationale et les coûts par appel."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "new_feature_ga",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.twilio.com/docs/ai",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.twilio.com/docs/voice/conversationrelay",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.twilio.com/en-us/changelog/general-availability--smart-turn-detection-for-conversationrelay",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_new_capability"
+  }
+}
