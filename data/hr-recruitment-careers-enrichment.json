@@ -1,0 +1,1260 @@
+{
+  "eightfold-ai": {
+    "descriptionFr": "Plateforme Eightfold Talent Intelligence pour recrutement, mobilité interne, cartographie des compétences et planification des ressources ; ses Talent Agents assistent les équipes RH sur plusieurs étapes du parcours.",
+    "descriptionEn": "Eightfold Talent Intelligence supports recruiting, internal mobility, skills mapping and workforce planning, with Talent Agents assisting HR teams throughout the journey.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Talent Acquisition, Talent Management et Workforce Exchange",
+      "AI Interviewer, Candidate Agent et Recruiting Teammate",
+      "Analyses des compétences, mobilité et accès fondés sur les rôles"
+    ],
+    "featuresEn": [
+      "Talent Acquisition, Talent Management and Workforce Exchange",
+      "AI Interviewer, Candidate Agent and Recruiting Teammate",
+      "Skills intelligence, mobility and role-based access"
+    ],
+    "accessFr": "Plateforme SaaS de recrutement selon contrat et intégrations",
+    "accessEn": "Recruiting SaaS with contract-based integrations",
+    "officialSources": [
+      {
+        "url": "https://eightfold.ai/products/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://eightfold.ai/products/talent-agents/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://docs.eightfold.ai/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme Eightfold Talent Intelligence pour recrutement, mobilité interne, cartographie des compétences et planification des ressources ; ses Talent Agents assistent les équipes RH sur plusieurs étapes du parcours.",
+      "audiences": [
+        "Recruteurs, équipes RH et responsables d'acquisition des talents",
+        "Responsables de la conformité, de la protection des données et de l'équité"
+      ],
+      "cases": [
+        "Construire une grille de compétences pour un poste, examiner des candidatures et faire valider les résultats par le recruteur.",
+        "Évaluer la qualité des critères de sélection et documenter les points de désaccord avec les recommandations IA."
+      ],
+      "advantages": [
+        "Talent Acquisition, Talent Management et Workforce Exchange",
+        "AI Interviewer, Candidate Agent et Recruiting Teammate",
+        "Analyses des compétences, mobilité et accès fondés sur les rôles"
+      ],
+      "limits": [
+        "Les évaluations fondées sur l'IA peuvent sous-représenter des parcours atypiques ou certaines catégories de candidats ; auditer critères, accessibilité, écarts statistiques et droits des personnes. L'éditeur dit que les décisions d'embauche sont humaines.",
+        "Les scores et classements automatiques peuvent reproduire des biais ; une personne compétente doit contrôler les critères, les recours et les décisions ayant un effet sur l'emploi."
+      ],
+      "gettingStarted": [
+        "Définir les compétences réellement nécessaires au poste, les étapes de recrutement et une grille d'évaluation objectivement justifiée.",
+        "Tester sur un échantillon autorisé, mesurer les erreurs, examiner les résultats par groupe lorsque licite et définir une procédure de contestation humaine."
+      ],
+      "examples": [
+        "Propose une grille d'entretien avec questions liées au poste, preuves recherchées, critères cohérents et espaces pour justifier chaque note.",
+        "Analyse le processus de sélection et propose des points de contrôle pour le consentement, l'accessibilité et les écarts de traitement."
+      ],
+      "pricing": "Vérifier les licences RH/ATS, sièges, volumes d'entretiens ou de candidatures, crédits d'agents, connecteurs et frais d'accompagnement.",
+      "privacy": "Protéger CV, entretiens et évaluations ; vérifier les obligations de transparence, confidentialité, accès/correction, limitation de conservation, non-discrimination et audits selon les juridictions.",
+      "selection": [
+        "Comparer Eightfold AI selon le besoin (enterprise_talent), la qualité des données, le contrôle des recommandations, la conformité, la transparence et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://eightfold.ai/products/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://eightfold.ai/products/talent-agents/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://docs.eightfold.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "hirevue": {
+    "descriptionFr": "Plateforme de recrutement avec entretiens vidéo en différé ou en direct, évaluations structurées et outils d'analyse des réponses adaptés au poste.",
+    "descriptionEn": "Recruitment platform for on-demand or live video interviews, structured assessments and role-related analysis of candidate responses.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Entretiens à la demande, en direct et planification",
+      "Évaluations vidéo fondées sur le contenu des réponses",
+      "Évaluations fondées sur des jeux et rapports de compétences"
+    ],
+    "featuresEn": [
+      "On-demand and live interviews with scheduling",
+      "Video assessments based on response content",
+      "Game-based assessments and competency reports"
+    ],
+    "accessFr": "Service professionnel et portail candidat",
+    "accessEn": "Enterprise service and candidate portal",
+    "officialSources": [
+      {
+        "url": "https://www.hirevue.com/platform/our-science",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.hirevue.com/candidates/faq",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de recrutement avec entretiens vidéo en différé ou en direct, évaluations structurées et outils d'analyse des réponses adaptés au poste.",
+      "audiences": [
+        "Recruteurs, équipes RH et responsables d'acquisition des talents",
+        "Responsables de la conformité, de la protection des données et de l'équité"
+      ],
+      "cases": [
+        "Faire passer une évaluation structurée sur des compétences professionnelles et contrôler les critères avec l'équipe RH.",
+        "Évaluer la qualité des critères de sélection et documenter les points de désaccord avec les recommandations IA."
+      ],
+      "advantages": [
+        "Entretiens à la demande, en direct et planification",
+        "Évaluations vidéo fondées sur le contenu des réponses",
+        "Évaluations fondées sur des jeux et rapports de compétences"
+      ],
+      "limits": [
+        "HireVue précise ne pas utiliser la reconnaissance faciale ni les expressions, la voix ou l'apparence pour noter les entretiens vidéo évalués par IA : le contenu de la réponse est analysé. Valider accommodations, consentement, pertinence des tests et contrôle des biais avant déploiement.",
+        "Les scores et classements automatiques peuvent reproduire des biais ; une personne compétente doit contrôler les critères, les recours et les décisions ayant un effet sur l'emploi."
+      ],
+      "gettingStarted": [
+        "Définir les compétences réellement nécessaires au poste, les étapes de recrutement et une grille d'évaluation objectivement justifiée.",
+        "Tester sur un échantillon autorisé, mesurer les erreurs, examiner les résultats par groupe lorsque licite et définir une procédure de contestation humaine."
+      ],
+      "examples": [
+        "Propose une grille d'entretien avec questions liées au poste, preuves recherchées, critères cohérents et espaces pour justifier chaque note.",
+        "Analyse le processus de sélection et propose des points de contrôle pour le consentement, l'accessibilité et les écarts de traitement."
+      ],
+      "pricing": "Vérifier les licences RH/ATS, sièges, volumes d'entretiens ou de candidatures, crédits d'agents, connecteurs et frais d'accompagnement.",
+      "privacy": "Protéger CV, entretiens et évaluations ; vérifier les obligations de transparence, confidentialité, accès/correction, limitation de conservation, non-discrimination et audits selon les juridictions.",
+      "selection": [
+        "Comparer HireVue selon le besoin (assessment), la qualité des données, le contrôle des recommandations, la conformité, la transparence et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "video_scoring_content_not_facials",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.hirevue.com/platform/our-science",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.hirevue.com/candidates/faq",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_scoring_explained"
+  },
+  "paradox": {
+    "descriptionFr": "Paradox, désormais intégré à Workday, apporte son Candidate Experience Agent Olivia aux recrutements à fort volume : conversation, qualification initiale, réponses et prise de rendez-vous.",
+    "descriptionEn": "Paradox, now part of Workday, provides the Olivia Candidate Experience Agent for high-volume hiring through chat, initial qualification, answers and interview scheduling.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Olivia et Candidate Experience Agent",
+      "Échanges sur web, SMS et dispositifs mobiles",
+      "Auto-planification et automatisation du recrutement terrain"
+    ],
+    "featuresEn": [
+      "Olivia and Candidate Experience Agent",
+      "Web, SMS and mobile candidate conversations",
+      "Self-scheduling and frontline hiring automation"
+    ],
+    "accessFr": "Plateforme SaaS de recrutement selon contrat et intégrations",
+    "accessEn": "Recruiting SaaS with contract-based integrations",
+    "officialSources": [
+      {
+        "url": "https://newsroom.workday.com/2025-10-01-Workday-Completes-Acquisition-of-Paradox",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Paradox, désormais intégré à Workday, apporte son Candidate Experience Agent Olivia aux recrutements à fort volume : conversation, qualification initiale, réponses et prise de rendez-vous.",
+      "audiences": [
+        "Recruteurs, équipes RH et responsables d'acquisition des talents",
+        "Responsables de la conformité, de la protection des données et de l'équité"
+      ],
+      "cases": [
+        "Automatiser l'organisation d'entretiens pour une campagne de recrutement saisonnier, tout en laissant une équipe humaine traiter les demandes d'accessibilité.",
+        "Évaluer la qualité des critères de sélection et documenter les points de désaccord avec les recommandations IA."
+      ],
+      "advantages": [
+        "Olivia et Candidate Experience Agent",
+        "Échanges sur web, SMS et dispositifs mobiles",
+        "Auto-planification et automatisation du recrutement terrain"
+      ],
+      "limits": [
+        "Workday a finalisé l'acquisition de Paradox le 1er octobre 2025 et propose Workday Paradox Candidate Experience Agent ; ne pas le présenter comme une entreprise logicielle indépendante inchangée. Consentement, disponibilité régionale et intégrations ATS restent à vérifier.",
+        "Les scores et classements automatiques peuvent reproduire des biais ; une personne compétente doit contrôler les critères, les recours et les décisions ayant un effet sur l'emploi."
+      ],
+      "gettingStarted": [
+        "Définir les compétences réellement nécessaires au poste, les étapes de recrutement et une grille d'évaluation objectivement justifiée.",
+        "Tester sur un échantillon autorisé, mesurer les erreurs, examiner les résultats par groupe lorsque licite et définir une procédure de contestation humaine."
+      ],
+      "examples": [
+        "Propose une grille d'entretien avec questions liées au poste, preuves recherchées, critères cohérents et espaces pour justifier chaque note.",
+        "Analyse le processus de sélection et propose des points de contrôle pour le consentement, l'accessibilité et les écarts de traitement."
+      ],
+      "pricing": "Vérifier les licences RH/ATS, sièges, volumes d'entretiens ou de candidatures, crédits d'agents, connecteurs et frais d'accompagnement.",
+      "privacy": "Protéger CV, entretiens et évaluations ; vérifier les obligations de transparence, confidentialité, accès/correction, limitation de conservation, non-discrimination et audits selon les juridictions.",
+      "selection": [
+        "Comparer Paradox selon le besoin (recruitment_automation), la qualité des données, le contrôle des recommandations, la conformité, la transparence et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "acquired_and_active_workday",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://newsroom.workday.com/2025-10-01-Workday-Completes-Acquisition-of-Paradox",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_acquired_active",
+    "name": "Workday Paradox (Olivia)",
+    "url": "https://www.workday.com"
+  },
+  "textio": {
+    "descriptionFr": "Plateforme d'analyse du langage RH pour améliorer les offres d'emploi, structurer les retours d'entretien et produire des évaluations de performance plus claires et inclusives.",
+    "descriptionEn": "HR language intelligence platform improving job descriptions, structuring interview feedback and making performance reviews clearer and more inclusive.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Assistance rédactionnelle sur annonces et communication RH",
+      "Interview Intelligence pour grilles et feedbacks",
+      "Feedback pour évaluations, pairs et autoévaluations"
+    ],
+    "featuresEn": [
+      "Job-posting and recruiting communication guidance",
+      "Interview Intelligence for structured feedback",
+      "Performance, peer and self-review feedback"
+    ],
+    "accessFr": "Plateforme SaaS de recrutement selon contrat et intégrations",
+    "accessEn": "Recruiting SaaS with contract-based integrations",
+    "officialSources": [
+      {
+        "url": "https://textio.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://textio.com/products/feedback",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme d'analyse du langage RH pour améliorer les offres d'emploi, structurer les retours d'entretien et produire des évaluations de performance plus claires et inclusives.",
+      "audiences": [
+        "Recruteurs, équipes RH et responsables d'acquisition des talents",
+        "Responsables de la conformité, de la protection des données et de l'équité"
+      ],
+      "cases": [
+        "Analyser une annonce pour repérer des formulations décourageant certains candidats puis réécrire avec des compétences observables.",
+        "Évaluer la qualité des critères de sélection et documenter les points de désaccord avec les recommandations IA."
+      ],
+      "advantages": [
+        "Assistance rédactionnelle sur annonces et communication RH",
+        "Interview Intelligence pour grilles et feedbacks",
+        "Feedback pour évaluations, pairs et autoévaluations"
+      ],
+      "limits": [
+        "Les alertes de biais sont des signaux rédactionnels, non une garantie de non-discrimination ; vérifier les critères du poste, le contexte local et les effets réels sur les candidatures.",
+        "Les scores et classements automatiques peuvent reproduire des biais ; une personne compétente doit contrôler les critères, les recours et les décisions ayant un effet sur l'emploi."
+      ],
+      "gettingStarted": [
+        "Définir les compétences réellement nécessaires au poste, les étapes de recrutement et une grille d'évaluation objectivement justifiée.",
+        "Tester sur un échantillon autorisé, mesurer les erreurs, examiner les résultats par groupe lorsque licite et définir une procédure de contestation humaine."
+      ],
+      "examples": [
+        "Propose une grille d'entretien avec questions liées au poste, preuves recherchées, critères cohérents et espaces pour justifier chaque note.",
+        "Analyse le processus de sélection et propose des points de contrôle pour le consentement, l'accessibilité et les écarts de traitement."
+      ],
+      "pricing": "Vérifier les licences RH/ATS, sièges, volumes d'entretiens ou de candidatures, crédits d'agents, connecteurs et frais d'accompagnement.",
+      "privacy": "Protéger CV, entretiens et évaluations ; vérifier les obligations de transparence, confidentialité, accès/correction, limitation de conservation, non-discrimination et audits selon les juridictions.",
+      "selection": [
+        "Comparer Textio selon le besoin (hr_writing), la qualité des données, le contrôle des recommandations, la conformité, la transparence et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://textio.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://textio.com/products/feedback",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "seekout": {
+    "descriptionFr": "Plateforme de sourcing et d'évaluation de candidats avec recherche sur profils, Workspaces, Sam AI Screening et agents de recrutement connectables à des assistants via MCP.",
+    "descriptionEn": "Candidate sourcing and evaluation platform with profile search, Workspaces, Sam AI Screening and recruiting agents connectable through MCP to other AI assistants.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Sourcing, candidats ATS et Workspaces",
+      "Sam AI Screening et évaluations sur grille",
+      "MCP, AI Coworker et campagnes de contact"
+    ],
+    "featuresEn": [
+      "Sourcing, ATS candidates and Workspaces",
+      "Sam AI Screening and rubric-based evaluation",
+      "MCP, AI Coworker and outreach sequences"
+    ],
+    "accessFr": "Plateforme SaaS de recrutement selon contrat et intégrations",
+    "accessEn": "Recruiting SaaS with contract-based integrations",
+    "officialSources": [
+      {
+        "url": "https://www.seekout.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://support.seekout.com/en/articles/13719568-ai-features-in-seekout",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.seekout.com/release-notes/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de sourcing et d'évaluation de candidats avec recherche sur profils, Workspaces, Sam AI Screening et agents de recrutement connectables à des assistants via MCP.",
+      "audiences": [
+        "Recruteurs, équipes RH et responsables d'acquisition des talents",
+        "Responsables de la conformité, de la protection des données et de l'équité"
+      ],
+      "cases": [
+        "Rechercher des profils techniques, produire une shortlist avec éléments de preuve et demander au recruteur de vérifier les hypothèses.",
+        "Évaluer la qualité des critères de sélection et documenter les points de désaccord avec les recommandations IA."
+      ],
+      "advantages": [
+        "Sourcing, candidats ATS et Workspaces",
+        "Sam AI Screening et évaluations sur grille",
+        "MCP, AI Coworker et campagnes de contact"
+      ],
+      "limits": [
+        "Les espaces Workspaces ont des contrôles de désactivation de certaines évaluations IA. AI Coworker est présenté comme en accès anticipé ; ne pas le confondre avec des agents tous disponibles par défaut. Contrôler les biais, les sources de données de profils et les règles de prospection.",
+        "Les scores et classements automatiques peuvent reproduire des biais ; une personne compétente doit contrôler les critères, les recours et les décisions ayant un effet sur l'emploi."
+      ],
+      "gettingStarted": [
+        "Définir les compétences réellement nécessaires au poste, les étapes de recrutement et une grille d'évaluation objectivement justifiée.",
+        "Tester sur un échantillon autorisé, mesurer les erreurs, examiner les résultats par groupe lorsque licite et définir une procédure de contestation humaine."
+      ],
+      "examples": [
+        "Propose une grille d'entretien avec questions liées au poste, preuves recherchées, critères cohérents et espaces pour justifier chaque note.",
+        "Analyse le processus de sélection et propose des points de contrôle pour le consentement, l'accessibilité et les écarts de traitement."
+      ],
+      "pricing": "Vérifier les licences RH/ATS, sièges, volumes d'entretiens ou de candidatures, crédits d'agents, connecteurs et frais d'accompagnement.",
+      "privacy": "Protéger CV, entretiens et évaluations ; vérifier les obligations de transparence, confidentialité, accès/correction, limitation de conservation, non-discrimination et audits selon les juridictions.",
+      "selection": [
+        "Comparer SeekOut selon le besoin (sourcing), la qualité des données, le contrôle des recommandations, la conformité, la transparence et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.seekout.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://support.seekout.com/en/articles/13719568-ai-features-in-seekout",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.seekout.com/release-notes/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "humanly": {
+    "descriptionFr": "Plateforme de recrutement conversationnel pour grandes campagnes et postes terrain, combinant AI Recruiter, AI Interviewer et ATS pour présélection, entretien et planification.",
+    "descriptionEn": "Conversational recruiting platform for high-volume and frontline hiring, combining AI Recruiter, AI Interviewer and ATS for screening, interviews and scheduling.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Interactions chat, voix et vidéo",
+      "Entretiens structurés et transcriptions comparables",
+      "Planification, relances et suivi du pipeline"
+    ],
+    "featuresEn": [
+      "Chat, voice and video engagement",
+      "Structured interviews and comparable transcripts",
+      "Scheduling, follow-ups and pipeline tracking"
+    ],
+    "accessFr": "Plateforme SaaS de recrutement selon contrat et intégrations",
+    "accessEn": "Recruiting SaaS with contract-based integrations",
+    "officialSources": [
+      {
+        "url": "https://www.humanly.io/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.humanly.io/products/ai-interviews",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de recrutement conversationnel pour grandes campagnes et postes terrain, combinant AI Recruiter, AI Interviewer et ATS pour présélection, entretien et planification.",
+      "audiences": [
+        "Recruteurs, équipes RH et responsables d'acquisition des talents",
+        "Responsables de la conformité, de la protection des données et de l'équité"
+      ],
+      "cases": [
+        "Qualifier des candidatures pour une chaîne de magasins avec une grille de compétences identique et intervention d'un recruteur en cas de doute.",
+        "Évaluer la qualité des critères de sélection et documenter les points de désaccord avec les recommandations IA."
+      ],
+      "advantages": [
+        "Interactions chat, voix et vidéo",
+        "Entretiens structurés et transcriptions comparables",
+        "Planification, relances et suivi du pipeline"
+      ],
+      "limits": [
+        "Les recommandations automatiques doivent être contextualisées et auditées. Les enregistrements, transcriptions, droits de suppression et informations des candidats exigent une politique claire ; les statistiques de performance publiées sont contextuelles.",
+        "Les scores et classements automatiques peuvent reproduire des biais ; une personne compétente doit contrôler les critères, les recours et les décisions ayant un effet sur l'emploi."
+      ],
+      "gettingStarted": [
+        "Définir les compétences réellement nécessaires au poste, les étapes de recrutement et une grille d'évaluation objectivement justifiée.",
+        "Tester sur un échantillon autorisé, mesurer les erreurs, examiner les résultats par groupe lorsque licite et définir une procédure de contestation humaine."
+      ],
+      "examples": [
+        "Propose une grille d'entretien avec questions liées au poste, preuves recherchées, critères cohérents et espaces pour justifier chaque note.",
+        "Analyse le processus de sélection et propose des points de contrôle pour le consentement, l'accessibilité et les écarts de traitement."
+      ],
+      "pricing": "Vérifier les licences RH/ATS, sièges, volumes d'entretiens ou de candidatures, crédits d'agents, connecteurs et frais d'accompagnement.",
+      "privacy": "Protéger CV, entretiens et évaluations ; vérifier les obligations de transparence, confidentialité, accès/correction, limitation de conservation, non-discrimination et audits selon les juridictions.",
+      "selection": [
+        "Comparer Humanly selon le besoin (high_volume), la qualité des données, le contrôle des recommandations, la conformité, la transparence et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.humanly.io/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.humanly.io/products/ai-interviews",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "workable-ai": {
+    "descriptionFr": "Workable Agent est un système de recrutement IA natif du logiciel ATS Workable, avec agents pour la définition de poste, la recherche, l'évaluation et le dialogue avec les candidats.",
+    "descriptionEn": "Workable Agent is a native AI recruiting system within Workable ATS, using agents for job briefs, sourcing, candidate screening and engagement.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Job Brief, Sourcing, Screening et Engagement Agents",
+      "Gestion des candidatures et critères d'évaluation",
+      "Serveur MCP et facturation par crédits IA"
+    ],
+    "featuresEn": [
+      "Job Brief, Sourcing, Screening and Engagement Agents",
+      "ATS workflows and candidate evaluation criteria",
+      "MCP server and AI-credit billing"
+    ],
+    "accessFr": "Plateforme SaaS de recrutement selon contrat et intégrations",
+    "accessEn": "Recruiting SaaS with contract-based integrations",
+    "officialSources": [
+      {
+        "url": "https://help.workable.com/hc/en-us/articles/38381544828695-Using-the-Workable-Agent",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://resources.workable.com/backstage-at-workable/the-agent-recruits-you-manage-talent-the-workable-agents-are-here/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Workable Agent est un système de recrutement IA natif du logiciel ATS Workable, avec agents pour la définition de poste, la recherche, l'évaluation et le dialogue avec les candidats.",
+      "audiences": [
+        "Recruteurs, équipes RH et responsables d'acquisition des talents",
+        "Responsables de la conformité, de la protection des données et de l'équité"
+      ],
+      "cases": [
+        "Définir des critères incontournables et produire une shortlist à revoir avant toute décision d'embauche ou rejet.",
+        "Évaluer la qualité des critères de sélection et documenter les points de désaccord avec les recommandations IA."
+      ],
+      "advantages": [
+        "Job Brief, Sourcing, Screening et Engagement Agents",
+        "Gestion des candidatures et critères d'évaluation",
+        "Serveur MCP et facturation par crédits IA"
+      ],
+      "limits": [
+        "Workable Agent remplace l'ancien AI Screening Assistant. Les quatre agents sont annoncés pour les clients et consomment des crédits au-delà d'un quota d'essai selon le forfait ; contrôler permissions d'envoi de messages et validation des décisions de rejet.",
+        "Les scores et classements automatiques peuvent reproduire des biais ; une personne compétente doit contrôler les critères, les recours et les décisions ayant un effet sur l'emploi."
+      ],
+      "gettingStarted": [
+        "Définir les compétences réellement nécessaires au poste, les étapes de recrutement et une grille d'évaluation objectivement justifiée.",
+        "Tester sur un échantillon autorisé, mesurer les erreurs, examiner les résultats par groupe lorsque licite et définir une procédure de contestation humaine."
+      ],
+      "examples": [
+        "Propose une grille d'entretien avec questions liées au poste, preuves recherchées, critères cohérents et espaces pour justifier chaque note.",
+        "Analyse le processus de sélection et propose des points de contrôle pour le consentement, l'accessibilité et les écarts de traitement."
+      ],
+      "pricing": "Vérifier les licences RH/ATS, sièges, volumes d'entretiens ou de candidatures, crédits d'agents, connecteurs et frais d'accompagnement.",
+      "privacy": "Protéger CV, entretiens et évaluations ; vérifier les obligations de transparence, confidentialité, accès/correction, limitation de conservation, non-discrimination et audits selon les juridictions.",
+      "selection": [
+        "Comparer Workable AI selon le besoin (ats), la qualité des données, le contrôle des recommandations, la conformité, la transparence et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "workable_agents_replace_legacy_screening",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.workable.com/hc/en-us/articles/38381544828695-Using-the-Workable-Agent",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://resources.workable.com/backstage-at-workable/the-agent-recruits-you-manage-talent-the-workable-agents-are-here/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_agent_platform_updated",
+    "name": "Workable Agent",
+    "url": "https://www.workable.com"
+  },
+  "ashby": {
+    "descriptionFr": "Suite ATS, CRM candidats, planification d'entretiens et analytique du recrutement, enrichie d'un assistant IA, d'un AI Notetaker et de fonctions de qualification structurée.",
+    "descriptionEn": "All-in-one ATS, candidate CRM, interview scheduling and recruiting analytics enhanced with AI assistance, interview notes and structured application review.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "ATS, CRM, scheduling et analytics dans un même environnement",
+      "AI-assisted application review et AI Notetaker",
+      "Ashby Agents, API et workflows personnalisés"
+    ],
+    "featuresEn": [
+      "Unified ATS, CRM, scheduling and analytics",
+      "AI-assisted application review and AI Notetaker",
+      "Ashby Agents, APIs and custom workflows"
+    ],
+    "accessFr": "Plateforme SaaS de recrutement selon contrat et intégrations",
+    "accessEn": "Recruiting SaaS with contract-based integrations",
+    "officialSources": [
+      {
+        "url": "https://www.ashbyhq.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://docs.ashbyhq.com/ashby-agents-use-case-library",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Suite ATS, CRM candidats, planification d'entretiens et analytique du recrutement, enrichie d'un assistant IA, d'un AI Notetaker et de fonctions de qualification structurée.",
+      "audiences": [
+        "Recruteurs, équipes RH et responsables d'acquisition des talents",
+        "Responsables de la conformité, de la protection des données et de l'équité"
+      ],
+      "cases": [
+        "Structurer un entretien, rédiger un compte rendu avec références aux observations et contrôler les données avant toute notation.",
+        "Évaluer la qualité des critères de sélection et documenter les points de désaccord avec les recommandations IA."
+      ],
+      "advantages": [
+        "ATS, CRM, scheduling et analytics dans un même environnement",
+        "AI-assisted application review et AI Notetaker",
+        "Ashby Agents, API et workflows personnalisés"
+      ],
+      "limits": [
+        "Les suggestions de score ou synthèses peuvent omettre des éléments et doivent rester vérifiées par le recruteur. Les fonctions AI Interviewer annoncées sur la page d'accueil ne doivent pas être assimilées sans vérification à une disponibilité générale.",
+        "Les scores et classements automatiques peuvent reproduire des biais ; une personne compétente doit contrôler les critères, les recours et les décisions ayant un effet sur l'emploi."
+      ],
+      "gettingStarted": [
+        "Définir les compétences réellement nécessaires au poste, les étapes de recrutement et une grille d'évaluation objectivement justifiée.",
+        "Tester sur un échantillon autorisé, mesurer les erreurs, examiner les résultats par groupe lorsque licite et définir une procédure de contestation humaine."
+      ],
+      "examples": [
+        "Propose une grille d'entretien avec questions liées au poste, preuves recherchées, critères cohérents et espaces pour justifier chaque note.",
+        "Analyse le processus de sélection et propose des points de contrôle pour le consentement, l'accessibilité et les écarts de traitement."
+      ],
+      "pricing": "Vérifier les licences RH/ATS, sièges, volumes d'entretiens ou de candidatures, crédits d'agents, connecteurs et frais d'accompagnement.",
+      "privacy": "Protéger CV, entretiens et évaluations ; vérifier les obligations de transparence, confidentialité, accès/correction, limitation de conservation, non-discrimination et audits selon les juridictions.",
+      "selection": [
+        "Comparer Ashby selon le besoin (ats), la qualité des données, le contrôle des recommandations, la conformité, la transparence et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.ashbyhq.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://docs.ashbyhq.com/ashby-agents-use-case-library",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "beamery": {
+    "descriptionFr": "Plateforme de Workforce Intelligence centrée sur l'inventaire des compétences, l'analyse des tâches, la mobilité des talents et la planification stratégique des effectifs.",
+    "descriptionEn": "Workforce Intelligence platform focused on skills inventories, task analysis, talent mobility and strategic workforce planning.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Skills Intelligence et Task Intelligence",
+      "Workforce Intelligence Suite et Consultant agentique",
+      "Planification, redéploiement et intégrations RH"
+    ],
+    "featuresEn": [
+      "Skills Intelligence and Task Intelligence",
+      "Workforce Intelligence Suite and agentic consultant",
+      "Workforce planning, redeployment and HR integrations"
+    ],
+    "accessFr": "Contrat entreprise et intégrations SIRH",
+    "accessEn": "Enterprise contract and HRIS integrations",
+    "officialSources": [
+      {
+        "url": "https://beamery.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de Workforce Intelligence centrée sur l'inventaire des compétences, l'analyse des tâches, la mobilité des talents et la planification stratégique des effectifs.",
+      "audiences": [
+        "Directions RH et équipes de mobilité interne",
+        "Responsables de la conformité, de la protection des données et de l'équité"
+      ],
+      "cases": [
+        "Cartographier les compétences présentes dans une organisation et identifier les formations nécessaires pour réaffecter des équipes.",
+        "Évaluer la qualité des critères de sélection et documenter les points de désaccord avec les recommandations IA."
+      ],
+      "advantages": [
+        "Skills Intelligence et Task Intelligence",
+        "Workforce Intelligence Suite et Consultant agentique",
+        "Planification, redéploiement et intégrations RH"
+      ],
+      "limits": [
+        "Beamery se présente surtout comme intelligence des compétences et des effectifs, pas uniquement sourcing de candidats. Les inférences de compétence peuvent être imparfaites ; laisser aux employés la possibilité de corriger leur profil et auditer les usages RH.",
+        "Les scores et classements automatiques peuvent reproduire des biais ; une personne compétente doit contrôler les critères, les recours et les décisions ayant un effet sur l'emploi."
+      ],
+      "gettingStarted": [
+        "Définir les compétences réellement nécessaires au poste, les étapes de recrutement et une grille d'évaluation objectivement justifiée.",
+        "Tester sur un échantillon autorisé, mesurer les erreurs, examiner les résultats par groupe lorsque licite et définir une procédure de contestation humaine."
+      ],
+      "examples": [
+        "Propose une grille d'entretien avec questions liées au poste, preuves recherchées, critères cohérents et espaces pour justifier chaque note.",
+        "Analyse le processus de sélection et propose des points de contrôle pour le consentement, l'accessibilité et les écarts de traitement."
+      ],
+      "pricing": "Vérifier les licences RH/ATS, sièges, volumes d'entretiens ou de candidatures, crédits d'agents, connecteurs et frais d'accompagnement.",
+      "privacy": "Protéger CV, entretiens et évaluations ; vérifier les obligations de transparence, confidentialité, accès/correction, limitation de conservation, non-discrimination et audits selon les juridictions.",
+      "selection": [
+        "Comparer Beamery selon le besoin (workforce_intelligence), la qualité des données, le contrôle des recommandations, la conformité, la transparence et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "repositioned_workforce_intelligence",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://beamery.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_positioning_update"
+  },
+  "phenom": {
+    "descriptionFr": "Plateforme d'expérience des talents avec Phenom X+ Agents pour sourcing, entretien vocal, planification, accompagnement des candidats et mobilité interne.",
+    "descriptionEn": "Talent experience platform with Phenom X+ Agents for sourcing, voice screening, scheduling, candidate guidance and internal mobility.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "X+ Agents pour le cycle de vie RH",
+      "Voice Screening, Scheduling et Candidate Concierge",
+      "Intégrations ATS, talent management et contrôle humain"
+    ],
+    "featuresEn": [
+      "X+ Agents across the HR lifecycle",
+      "Voice Screening, Scheduling and Candidate Concierge",
+      "ATS, talent management and human oversight"
+    ],
+    "accessFr": "Plateforme SaaS de recrutement selon contrat et intégrations",
+    "accessEn": "Recruiting SaaS with contract-based integrations",
+    "officialSources": [
+      {
+        "url": "https://www.phenom.com/x-plus-ai-agents",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.phenom.com/press-release/phenom-releases-massive-wave-of-hr-tech-innovation-talent-experience-engine",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme d'expérience des talents avec Phenom X+ Agents pour sourcing, entretien vocal, planification, accompagnement des candidats et mobilité interne.",
+      "audiences": [
+        "Recruteurs, équipes RH et responsables d'acquisition des talents",
+        "Responsables de la conformité, de la protection des données et de l'équité"
+      ],
+      "cases": [
+        "Déployer un assistant de candidature qui répond aux questions fréquentes et propose un créneau d'entretien sans décision autonome.",
+        "Évaluer la qualité des critères de sélection et documenter les points de désaccord avec les recommandations IA."
+      ],
+      "advantages": [
+        "X+ Agents pour le cycle de vie RH",
+        "Voice Screening, Scheduling et Candidate Concierge",
+        "Intégrations ATS, talent management et contrôle humain"
+      ],
+      "limits": [
+        "Les agents autonomes ne garantissent pas une sélection impartiale ; Phenom affirme que la décision finale reste humaine. Les agents, langues et secteurs peuvent relever de modules distincts ou d'un déploiement contractuel.",
+        "Les scores et classements automatiques peuvent reproduire des biais ; une personne compétente doit contrôler les critères, les recours et les décisions ayant un effet sur l'emploi."
+      ],
+      "gettingStarted": [
+        "Définir les compétences réellement nécessaires au poste, les étapes de recrutement et une grille d'évaluation objectivement justifiée.",
+        "Tester sur un échantillon autorisé, mesurer les erreurs, examiner les résultats par groupe lorsque licite et définir une procédure de contestation humaine."
+      ],
+      "examples": [
+        "Propose une grille d'entretien avec questions liées au poste, preuves recherchées, critères cohérents et espaces pour justifier chaque note.",
+        "Analyse le processus de sélection et propose des points de contrôle pour le consentement, l'accessibilité et les écarts de traitement."
+      ],
+      "pricing": "Vérifier les licences RH/ATS, sièges, volumes d'entretiens ou de candidatures, crédits d'agents, connecteurs et frais d'accompagnement.",
+      "privacy": "Protéger CV, entretiens et évaluations ; vérifier les obligations de transparence, confidentialité, accès/correction, limitation de conservation, non-discrimination et audits selon les juridictions.",
+      "selection": [
+        "Comparer Phenom selon le besoin (talent_experience), la qualité des données, le contrôle des recommandations, la conformité, la transparence et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.phenom.com/x-plus-ai-agents",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.phenom.com/press-release/phenom-releases-massive-wave-of-hr-tech-innovation-talent-experience-engine",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "teal": {
+    "descriptionFr": "Service d'accompagnement à la recherche d'emploi avec création de CV, versions adaptées à chaque poste et suivi des candidatures dans un tableau de bord.",
+    "descriptionEn": "Job-search workspace for building resumes, tailoring versions to roles and tracking applications in one dashboard.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Éditeur et analyseur de CV adaptés aux ATS",
+      "Job Tracker et extension Chrome",
+      "Matching de mots-clés et versions de CV par offre"
+    ],
+    "featuresEn": [
+      "ATS-friendly resume builder and analyzer",
+      "Job tracker and Chrome extension",
+      "Job-keyword matching and tailored resume versions"
+    ],
+    "accessFr": "Service web et/ou application selon l'offre",
+    "accessEn": "Web service and/or application depending on plan",
+    "officialSources": [
+      {
+        "url": "https://www.tealhq.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.tealhq.com/tools/resume-builder",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Service d'accompagnement à la recherche d'emploi avec création de CV, versions adaptées à chaque poste et suivi des candidatures dans un tableau de bord.",
+      "audiences": [
+        "Candidats, étudiants et personnes en transition professionnelle",
+        "Conseillers d'orientation, coachs et centres de carrière"
+      ],
+      "cases": [
+        "Tenir un tableau de 20 candidatures et créer une version de CV mettant en valeur des expériences déjà réelles pour chaque offre.",
+        "Vérifier chaque élément de CV ou d'entretien avant toute candidature."
+      ],
+      "advantages": [
+        "Éditeur et analyseur de CV adaptés aux ATS",
+        "Job Tracker et extension Chrome",
+        "Matching de mots-clés et versions de CV par offre"
+      ],
+      "limits": [
+        "Le score de correspondance dépend d'heuristiques, non d'une prédiction fiable d'embauche. Ne pas inventer de compétences pour améliorer un score ; vérifier les limites de l'offre gratuite et l'usage des données de CV.",
+        "Aucun outil ne garantit un recrutement, et les modèles peuvent générer des compétences, dates ou accomplissements inexacts."
+      ],
+      "gettingStarted": [
+        "Préparer un parcours authentique et l'annonce visée ; sélectionner un format lisible et tester les reformulations.",
+        "Vérifier données personnelles, autorisations de partage, conditions de l'offre gratuite et véracité des sorties."
+      ],
+      "examples": [
+        "À partir de mon expérience réelle, reformule mon CV pour ce poste sans ajouter de diplôme, responsabilité ni résultat non démontré.",
+        "Établis une liste de questions de simulation d'entretien et un retour structuré sans me faire réciter de fausses réalisations."
+      ],
+      "pricing": "Comparer fonctions gratuites, quotas de CV et crédits IA, durée de l'abonnement, export PDF/DOCX et éventuels frais récurrents.",
+      "privacy": "Les CV, offres suivies, réponses et enregistrements peuvent contenir des données personnelles : examiner la conservation, les sous-traitants, la suppression et le consentement des autres participants aux entretiens.",
+      "selection": [
+        "Comparer Teal selon le besoin (job_seeker), la qualité des données, le contrôle des recommandations, la conformité, la transparence et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.tealhq.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.tealhq.com/tools/resume-builder",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "rezi": {
+    "descriptionFr": "Éditeur de CV orienté lisibilité par les ATS, avec génération assistée, analyse de candidatures et RzAI pour la préparation de documents de carrière.",
+    "descriptionEn": "ATS-oriented resume builder with assisted writing, application analysis and RzAI career-document support.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "CV structurés et aide à la rédaction de rubriques",
+      "ATS checking, CV ciblé et lettres de motivation",
+      "RzAI pour conseils de carrière et candidatures"
+    ],
+    "featuresEn": [
+      "Structured resumes and section writing support",
+      "ATS checks, targeting and cover letters",
+      "RzAI career and application assistance"
+    ],
+    "accessFr": "Service web et/ou application selon l'offre",
+    "accessEn": "Web service and/or application depending on plan",
+    "officialSources": [
+      {
+        "url": "https://www.rezi.ai/ai-llm-info",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Éditeur de CV orienté lisibilité par les ATS, avec génération assistée, analyse de candidatures et RzAI pour la préparation de documents de carrière.",
+      "audiences": [
+        "Candidats, étudiants et personnes en transition professionnelle",
+        "Conseillers d'orientation, coachs et centres de carrière"
+      ],
+      "cases": [
+        "Transformer un parcours professionnel vérifié en CV clair pour un poste donné, puis valider chaque expérience et diplôme.",
+        "Vérifier chaque élément de CV ou d'entretien avant toute candidature."
+      ],
+      "advantages": [
+        "CV structurés et aide à la rédaction de rubriques",
+        "ATS checking, CV ciblé et lettres de motivation",
+        "RzAI pour conseils de carrière et candidatures"
+      ],
+      "limits": [
+        "Rezi souligne que les résultats IA doivent être relus et ne garantissent pas une décision ATS ; ses modèles privilégient un format simple, pas des CV infographiques. Vérifier données personnelles, quotas et options d'export.",
+        "Aucun outil ne garantit un recrutement, et les modèles peuvent générer des compétences, dates ou accomplissements inexacts."
+      ],
+      "gettingStarted": [
+        "Préparer un parcours authentique et l'annonce visée ; sélectionner un format lisible et tester les reformulations.",
+        "Vérifier données personnelles, autorisations de partage, conditions de l'offre gratuite et véracité des sorties."
+      ],
+      "examples": [
+        "À partir de mon expérience réelle, reformule mon CV pour ce poste sans ajouter de diplôme, responsabilité ni résultat non démontré.",
+        "Établis une liste de questions de simulation d'entretien et un retour structuré sans me faire réciter de fausses réalisations."
+      ],
+      "pricing": "Comparer fonctions gratuites, quotas de CV et crédits IA, durée de l'abonnement, export PDF/DOCX et éventuels frais récurrents.",
+      "privacy": "Les CV, offres suivies, réponses et enregistrements peuvent contenir des données personnelles : examiner la conservation, les sous-traitants, la suppression et le consentement des autres participants aux entretiens.",
+      "selection": [
+        "Comparer Rezi selon le besoin (job_seeker), la qualité des données, le contrôle des recommandations, la conformité, la transparence et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.rezi.ai/ai-llm-info",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "kickresume": {
+    "descriptionFr": "Générateur de CV, lettres de motivation et ressources de carrière, avec modèles personnalisables, aide IA à l'écriture et préparation d'entretiens.",
+    "descriptionEn": "Resume and cover-letter creator with customizable templates, AI writing and interview preparation resources.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "AI Resume Writer et réécriture de rubriques",
+      "Lettre de motivation, Resume Checker et Career Map",
+      "Génération de questions d'entretien et export"
+    ],
+    "featuresEn": [
+      "AI Resume Writer and section rewrites",
+      "Cover letters, Resume Checker and Career Map",
+      "Interview questions and document exports"
+    ],
+    "accessFr": "Service web et/ou application selon l'offre",
+    "accessEn": "Web service and/or application depending on plan",
+    "officialSources": [
+      {
+        "url": "https://www.kickresume.com/en/ai-resume-writer/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.kickresume.com/en/help-center/general/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Générateur de CV, lettres de motivation et ressources de carrière, avec modèles personnalisables, aide IA à l'écriture et préparation d'entretiens.",
+      "audiences": [
+        "Candidats, étudiants et personnes en transition professionnelle",
+        "Conseillers d'orientation, coachs et centres de carrière"
+      ],
+      "cases": [
+        "Produire une première version de CV étudiant puis remplacer les phrases génériques par des activités et réalisations authentiques.",
+        "Vérifier chaque élément de CV ou d'entretien avant toute candidature."
+      ],
+      "advantages": [
+        "AI Resume Writer et réécriture de rubriques",
+        "Lettre de motivation, Resume Checker et Career Map",
+        "Génération de questions d'entretien et export"
+      ],
+      "limits": [
+        "Une génération depuis le seul intitulé de poste peut inventer des réalisations, dates et compétences ; vérifier chaque affirmation. Les crédits gratuits et modèles premium sont soumis au forfait, et la compatibilité ATS n'est pas garantie pour chaque employeur.",
+        "Aucun outil ne garantit un recrutement, et les modèles peuvent générer des compétences, dates ou accomplissements inexacts."
+      ],
+      "gettingStarted": [
+        "Préparer un parcours authentique et l'annonce visée ; sélectionner un format lisible et tester les reformulations.",
+        "Vérifier données personnelles, autorisations de partage, conditions de l'offre gratuite et véracité des sorties."
+      ],
+      "examples": [
+        "À partir de mon expérience réelle, reformule mon CV pour ce poste sans ajouter de diplôme, responsabilité ni résultat non démontré.",
+        "Établis une liste de questions de simulation d'entretien et un retour structuré sans me faire réciter de fausses réalisations."
+      ],
+      "pricing": "Comparer fonctions gratuites, quotas de CV et crédits IA, durée de l'abonnement, export PDF/DOCX et éventuels frais récurrents.",
+      "privacy": "Les CV, offres suivies, réponses et enregistrements peuvent contenir des données personnelles : examiner la conservation, les sous-traitants, la suppression et le consentement des autres participants aux entretiens.",
+      "selection": [
+        "Comparer Kickresume selon le besoin (job_seeker), la qualité des données, le contrôle des recommandations, la conformité, la transparence et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.kickresume.com/en/ai-resume-writer/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.kickresume.com/en/help-center/general/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "enhancv": {
+    "descriptionFr": "Éditeur de CV avec assistant IA, vérification d'adéquation aux offres, recherche de postes, suivi des candidatures et connecteur MCP pour assistants compatibles.",
+    "descriptionEn": "Resume editor with AI assistance, job-fit checks, job discovery, application tracking and an MCP connector for compatible assistants.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Éditeur de CV et adaptation aux annonces",
+      "Recherche d'emplois, Job Tracker et LinkedIn Coach",
+      "Resume MCP pour assistants compatibles"
+    ],
+    "featuresEn": [
+      "Resume editing and job-tailored versions",
+      "Job discovery, tracker and LinkedIn Coach",
+      "Resume MCP for compatible AI assistants"
+    ],
+    "accessFr": "Service web et/ou application selon l'offre",
+    "accessEn": "Web service and/or application depending on plan",
+    "officialSources": [
+      {
+        "url": "https://enhancv.com/llm-info/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://enhancv.com/features/resume-mcp/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Éditeur de CV avec assistant IA, vérification d'adéquation aux offres, recherche de postes, suivi des candidatures et connecteur MCP pour assistants compatibles.",
+      "audiences": [
+        "Candidats, étudiants et personnes en transition professionnelle",
+        "Conseillers d'orientation, coachs et centres de carrière"
+      ],
+      "cases": [
+        "Comparer deux versions d'un CV sur un poste précis et conserver uniquement des faits vérifiables issus du parcours du candidat.",
+        "Vérifier chaque élément de CV ou d'entretien avant toute candidature."
+      ],
+      "advantages": [
+        "Éditeur de CV et adaptation aux annonces",
+        "Recherche d'emplois, Job Tracker et LinkedIn Coach",
+        "Resume MCP pour assistants compatibles"
+      ],
+      "limits": [
+        "Les scores ATS sont des estimations et peuvent varier fortement entre outils ; aucune note ne garantit une convocation. Examiner la confidentialité des CV partagés et les permissions du connecteur MCP.",
+        "Aucun outil ne garantit un recrutement, et les modèles peuvent générer des compétences, dates ou accomplissements inexacts."
+      ],
+      "gettingStarted": [
+        "Préparer un parcours authentique et l'annonce visée ; sélectionner un format lisible et tester les reformulations.",
+        "Vérifier données personnelles, autorisations de partage, conditions de l'offre gratuite et véracité des sorties."
+      ],
+      "examples": [
+        "À partir de mon expérience réelle, reformule mon CV pour ce poste sans ajouter de diplôme, responsabilité ni résultat non démontré.",
+        "Établis une liste de questions de simulation d'entretien et un retour structuré sans me faire réciter de fausses réalisations."
+      ],
+      "pricing": "Comparer fonctions gratuites, quotas de CV et crédits IA, durée de l'abonnement, export PDF/DOCX et éventuels frais récurrents.",
+      "privacy": "Les CV, offres suivies, réponses et enregistrements peuvent contenir des données personnelles : examiner la conservation, les sous-traitants, la suppression et le consentement des autres participants aux entretiens.",
+      "selection": [
+        "Comparer Enhancv selon le besoin (job_seeker), la qualité des données, le contrôle des recommandations, la conformité, la transparence et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://enhancv.com/llm-info/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://enhancv.com/features/resume-mcp/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "jobscan": {
+    "descriptionFr": "Outil de comparaison d'un CV aux annonces pour identifier mots-clés, intitulés et informations manquantes, avec éditeur ATS, suivi des candidatures et entraînement.",
+    "descriptionEn": "Resume-to-job matching tool identifying missing keywords, titles and skills, with ATS-oriented editing, application tracking and interview practice.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Resume Scanner et analyse mots-clés par annonce",
+      "Identification du système ATS d'après les offres",
+      "Outils CV, LinkedIn, job tracker et pratique d'entretien"
+    ],
+    "featuresEn": [
+      "Resume scanner and job-keyword analysis",
+      "ATS identification from job postings",
+      "Resume, LinkedIn, job tracking and interview tools"
+    ],
+    "accessFr": "Service web et/ou application selon l'offre",
+    "accessEn": "Web service and/or application depending on plan",
+    "officialSources": [
+      {
+        "url": "https://www.jobscan.co/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.jobscan.co/organizations/ats-ready-resumes",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Outil de comparaison d'un CV aux annonces pour identifier mots-clés, intitulés et informations manquantes, avec éditeur ATS, suivi des candidatures et entraînement.",
+      "audiences": [
+        "Candidats, étudiants et personnes en transition professionnelle",
+        "Conseillers d'orientation, coachs et centres de carrière"
+      ],
+      "cases": [
+        "Comparer son CV à une offre et clarifier les compétences réellement possédées plutôt que d'ajouter des mots-clés fictifs.",
+        "Vérifier chaque élément de CV ou d'entretien avant toute candidature."
+      ],
+      "advantages": [
+        "Resume Scanner et analyse mots-clés par annonce",
+        "Identification du système ATS d'après les offres",
+        "Outils CV, LinkedIn, job tracker et pratique d'entretien"
+      ],
+      "limits": [
+        "Jobscan est un outil d'optimisation, pas le moteur ATS de chaque employeur ; une bonne correspondance ne garantit ni lecture ni entretien. Les mécanismes réels de filtrage diffèrent selon les organisations et les postes.",
+        "Aucun outil ne garantit un recrutement, et les modèles peuvent générer des compétences, dates ou accomplissements inexacts."
+      ],
+      "gettingStarted": [
+        "Préparer un parcours authentique et l'annonce visée ; sélectionner un format lisible et tester les reformulations.",
+        "Vérifier données personnelles, autorisations de partage, conditions de l'offre gratuite et véracité des sorties."
+      ],
+      "examples": [
+        "À partir de mon expérience réelle, reformule mon CV pour ce poste sans ajouter de diplôme, responsabilité ni résultat non démontré.",
+        "Établis une liste de questions de simulation d'entretien et un retour structuré sans me faire réciter de fausses réalisations."
+      ],
+      "pricing": "Comparer fonctions gratuites, quotas de CV et crédits IA, durée de l'abonnement, export PDF/DOCX et éventuels frais récurrents.",
+      "privacy": "Les CV, offres suivies, réponses et enregistrements peuvent contenir des données personnelles : examiner la conservation, les sous-traitants, la suppression et le consentement des autres participants aux entretiens.",
+      "selection": [
+        "Comparer Jobscan selon le besoin (job_seeker), la qualité des données, le contrôle des recommandations, la conformité, la transparence et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.jobscan.co/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.jobscan.co/organizations/ats-ready-resumes",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "final-round-ai": {
+    "descriptionFr": "Assistant Final Round AI pour préparer, simuler et analyser des entretiens, avec Interview CoPilot en direct sur ordinateur et débriefs automatiques.",
+    "descriptionEn": "Final Round AI assistant for preparing, practicing and reviewing interviews, with desktop live Interview CoPilot and automatic debriefs.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Simulations, questions et préparation par poste",
+      "Assistance d'entretien en temps réel et Screen Help",
+      "Débrief automatique, application macOS/Windows"
+    ],
+    "featuresEn": [
+      "Mock interviews and job-specific preparation",
+      "Live interview guidance and screen help",
+      "Automatic debrief and macOS/Windows app"
+    ],
+    "accessFr": "Service web et/ou application selon l'offre",
+    "accessEn": "Web service and/or application depending on plan",
+    "officialSources": [
+      {
+        "url": "https://www.finalroundai.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://docs.finalroundai.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Assistant Final Round AI pour préparer, simuler et analyser des entretiens, avec Interview CoPilot en direct sur ordinateur et débriefs automatiques.",
+      "audiences": [
+        "Candidats, étudiants et personnes en transition professionnelle",
+        "Conseillers d'orientation, coachs et centres de carrière"
+      ],
+      "cases": [
+        "Préparer des réponses sur une expérience réelle, s'exercer sur un entretien fictif puis utiliser le débrief pour progresser.",
+        "Vérifier chaque élément de CV ou d'entretien avant toute candidature."
+      ],
+      "advantages": [
+        "Simulations, questions et préparation par poste",
+        "Assistance d'entretien en temps réel et Screen Help",
+        "Débrief automatique, application macOS/Windows"
+      ],
+      "limits": [
+        "Le mode discret en entretien réel peut contrevenir aux règles d'évaluation ou à l'attente de réponses personnelles ; vérifier l'autorisation explicite de l'organisateur et le consentement concernant l'audio. La préparation gratuite ne comprend pas le CoPilot en direct, qui nécessite un abonnement Pro.",
+        "Aucun outil ne garantit un recrutement, et les modèles peuvent générer des compétences, dates ou accomplissements inexacts."
+      ],
+      "gettingStarted": [
+        "Préparer un parcours authentique et l'annonce visée ; sélectionner un format lisible et tester les reformulations.",
+        "Vérifier données personnelles, autorisations de partage, conditions de l'offre gratuite et véracité des sorties."
+      ],
+      "examples": [
+        "À partir de mon expérience réelle, reformule mon CV pour ce poste sans ajouter de diplôme, responsabilité ni résultat non démontré.",
+        "Établis une liste de questions de simulation d'entretien et un retour structuré sans me faire réciter de fausses réalisations."
+      ],
+      "pricing": "Comparer fonctions gratuites, quotas de CV et crédits IA, durée de l'abonnement, export PDF/DOCX et éventuels frais récurrents.",
+      "privacy": "Les CV, offres suivies, réponses et enregistrements peuvent contenir des données personnelles : examiner la conservation, les sous-traitants, la suppression et le consentement des autres participants aux entretiens.",
+      "selection": [
+        "Comparer Final Round AI selon le besoin (interview_coaching), la qualité des données, le contrôle des recommandations, la conformité, la transparence et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "live_assistance_paid_use_policy_dependent",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.finalroundai.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://docs.finalroundai.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_use_and_billing_caveat"
+  }
+}
