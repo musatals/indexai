@@ -347,7 +347,7 @@ async function bootstrap(){document.documentElement.dataset.theme=state.theme;
  [db.tools,db.categories,db.families,db.quality]=r;
  // Enrichissements modulaires : préserver le catalogue central, y compris quand il grossit.
  try {
-   const modules=['video-editing-enrichment','avatar-dubbing-enrichment','voice-synthesis-enrichment','music-composition-enrichment','audio-podcast-enrichment','graphic-branding-enrichment','presentations-infographics-enrichment','programming-assistants-enrichment','site-app-builders-enrichment','autonomous-agents-orchestration-enrichment','automation-integrations-enrichment','organization-productivity-enrichment'];
+   const modules=['video-editing-enrichment','avatar-dubbing-enrichment','voice-synthesis-enrichment','music-composition-enrichment','audio-podcast-enrichment','graphic-branding-enrichment','presentations-infographics-enrichment','programming-assistants-enrichment','site-app-builders-enrichment','autonomous-agents-orchestration-enrichment','automation-integrations-enrichment','organization-productivity-enrichment','email-communication-enrichment'];
    const results=await Promise.all(modules.map(async moduleName=>{
      const response=await fetch('/data/'+moduleName+'.json');
      return response.ok?response.json():{};
