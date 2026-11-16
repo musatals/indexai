@@ -347,9 +347,12 @@ async function bootstrap(){document.documentElement.dataset.theme=state.theme;
  [db.tools,db.categories,db.families,db.quality]=r;
  // Enrichissements modulaires : préserver le catalogue central, y compris quand il grossit.
  try {
-   const response=await fetch('/data/video-editing-enrichment.json');
-   if(response.ok){
-     const updates=await response.json();
+   const modules=['video-editing-enrichment','avatar-dubbing-enrichment'];
+   const results=await Promise.all(modules.map(async moduleName=>{
+     const response=await fetch('/data/'+moduleName+'.json');
+     return response.ok?response.json():{};
+   }));
+   for(const updates of results){
      db.tools.forEach(tool=>{
        const entry=updates[tool.slug];
        if(entry)Object.assign(tool,entry);
