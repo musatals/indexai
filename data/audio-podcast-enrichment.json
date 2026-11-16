@@ -1,0 +1,623 @@
+{
+  "adobe-podcast": {
+    "descriptionFr": "Studio web de capture, de montage basé sur la transcription et d’amélioration de la parole pour podcasts et voix off.",
+    "descriptionEn": "Web studio for recording, transcript-based editing and speech enhancement for podcasts and voiceovers.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Enhance Speech : réduction du bruit et de l'écho",
+      "Montage à partir de la transcription",
+      "Enregistrement distant sur pistes séparées"
+    ],
+    "featuresEn": [
+      "Enhance Speech noise and echo reduction",
+      "Transcript-based editing",
+      "Remote multitrack recording"
+    ],
+    "accessFr": "Web",
+    "accessEn": "Web",
+    "officialSources": [
+      {
+        "url": "https://podcast.adobe.com/feature/enhance",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Studio web de capture, de montage basé sur la transcription et d’amélioration de la parole pour podcasts et voix off.",
+      "audiences": [
+        "Podcasteurs et producteurs audio",
+        "Enseignants, journalistes et créateurs de contenus"
+      ],
+      "cases": [
+        "Enregistrer une interview distante puis nettoyer et monter la parole.",
+        "Comparer le résultat au fichier original et approuver les passages modifiés."
+      ],
+      "advantages": [
+        "Enhance Speech : réduction du bruit et de l'écho",
+        "Montage à partir de la transcription",
+        "Enregistrement distant sur pistes séparées"
+      ],
+      "limits": [
+        "La correction intensive peut modifier la texture de la voix ; vérifier qualité des transcriptions et fonctionnalités selon la formule.",
+        "Les améliorations, transcriptions ou extractions automatiques peuvent introduire des erreurs ou des artefacts."
+      ],
+      "gettingStarted": [
+        "Préparer un enregistrement autorisé et conserver une copie de l'original.",
+        "Tester un court extrait, écouter les transitions et ajuster le traitement avant export."
+      ],
+      "examples": [
+        "Nettoie cette interview sans supprimer les pauses qui changent le sens des réponses.",
+        "Propose des chapitres et des notes d'épisode, puis indique les éléments à vérifier dans l'enregistrement."
+      ],
+      "pricing": "Les tarifs, quotas et fonctionnalités dépendent du plan ou de la disponibilité du projet ; consulter la source officielle.",
+      "privacy": "Recueillir les consentements d'enregistrement et vérifier les règles d'hébergement, de transcription et de réutilisation avant d'importer des voix identifiables.",
+      "selection": [
+        "Choisir Adobe Podcast en fonction de l'enregistrement, du besoin de montage, de l'hébergement, des droits et du coût."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://podcast.adobe.com/feature/enhance",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "auphonic": {
+    "descriptionFr": "Service de postproduction audio automatique pour équilibrer les niveaux, réduire le bruit et préparer des fichiers conformes aux normes de diffusion.",
+    "descriptionEn": "Automatic audio post-production service for loudness leveling, noise reduction and broadcast-ready outputs.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Normalisation du niveau sonore",
+      "Réduction du bruit et filtrage",
+      "Mixage multipiste et API REST"
+    ],
+    "featuresEn": [
+      "Loudness normalization",
+      "Noise reduction and filtering",
+      "Multitrack mixing and REST API"
+    ],
+    "accessFr": "Web et API",
+    "accessEn": "Web and API",
+    "officialSources": [
+      {
+        "url": "https://auphonic.com/help/algorithms/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Service de postproduction audio automatique pour équilibrer les niveaux, réduire le bruit et préparer des fichiers conformes aux normes de diffusion.",
+      "audiences": [
+        "Podcasteurs et producteurs audio",
+        "Enseignants, journalistes et créateurs de contenus"
+      ],
+      "cases": [
+        "Uniformiser les niveaux sonores d'un podcast multi-intervenants.",
+        "Comparer le résultat au fichier original et approuver les passages modifiés."
+      ],
+      "advantages": [
+        "Normalisation du niveau sonore",
+        "Réduction du bruit et filtrage",
+        "Mixage multipiste et API REST"
+      ],
+      "limits": [
+        "Les algorithmes multipistes exigent des pistes séparées et Auphonic précise qu'ils ne sont pas destinés aux productions musicales seules.",
+        "Les améliorations, transcriptions ou extractions automatiques peuvent introduire des erreurs ou des artefacts."
+      ],
+      "gettingStarted": [
+        "Préparer un enregistrement autorisé et conserver une copie de l'original.",
+        "Tester un court extrait, écouter les transitions et ajuster le traitement avant export."
+      ],
+      "examples": [
+        "Nettoie cette interview sans supprimer les pauses qui changent le sens des réponses.",
+        "Propose des chapitres et des notes d'épisode, puis indique les éléments à vérifier dans l'enregistrement."
+      ],
+      "pricing": "Les tarifs, quotas et fonctionnalités dépendent du plan ou de la disponibilité du projet ; consulter la source officielle.",
+      "privacy": "Recueillir les consentements d'enregistrement et vérifier les règles d'hébergement, de transcription et de réutilisation avant d'importer des voix identifiables.",
+      "selection": [
+        "Choisir Auphonic en fonction de l'enregistrement, du besoin de montage, de l'hébergement, des droits et du coût."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://auphonic.com/help/algorithms/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "podcastle": {
+    "descriptionFr": "Podcastle redirige vers Async, plateforme de création et d'édition assistées par IA qui couvre désormais vidéo, voix off, doublage et podcasts.",
+    "descriptionEn": "Podcastle now redirects to Async, an AI-assisted creation and editing platform spanning video, voiceovers, dubbing and podcasts.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Enregistrement de podcasts",
+      "Nettoyage et montage audio",
+      "Création vidéo et doublage avec Async"
+    ],
+    "featuresEn": [
+      "Podcast recording",
+      "Audio cleanup and editing",
+      "AI video creation and dubbing via Async"
+    ],
+    "accessFr": "Web",
+    "accessEn": "Web",
+    "officialSources": [
+      {
+        "url": "https://async.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Podcastle redirige vers Async, plateforme de création et d'édition assistées par IA qui couvre désormais vidéo, voix off, doublage et podcasts.",
+      "audiences": [
+        "Podcasteurs et producteurs audio",
+        "Enseignants, journalistes et créateurs de contenus"
+      ],
+      "cases": [
+        "Enregistrer et monter un podcast avant d'en produire des extraits sociaux.",
+        "Comparer le résultat au fichier original et approuver les passages modifiés."
+      ],
+      "advantages": [
+        "Enregistrement de podcasts",
+        "Nettoyage et montage audio",
+        "Création vidéo et doublage avec Async"
+      ],
+      "limits": [
+        "Le nom, l'interface et l'offre ont évolué vers Async ; ne pas présenter l'ancien produit comme un service autonome inchangé.",
+        "Les améliorations, transcriptions ou extractions automatiques peuvent introduire des erreurs ou des artefacts."
+      ],
+      "gettingStarted": [
+        "Préparer un enregistrement autorisé et conserver une copie de l'original.",
+        "Tester un court extrait, écouter les transitions et ajuster le traitement avant export."
+      ],
+      "examples": [
+        "Nettoie cette interview sans supprimer les pauses qui changent le sens des réponses.",
+        "Propose des chapitres et des notes d'épisode, puis indique les éléments à vérifier dans l'enregistrement."
+      ],
+      "pricing": "Les tarifs, quotas et fonctionnalités dépendent du plan ou de la disponibilité du projet ; consulter la source officielle.",
+      "privacy": "Recueillir les consentements d'enregistrement et vérifier les règles d'hébergement, de transcription et de réutilisation avant d'importer des voix identifiables.",
+      "selection": [
+        "Choisir Podcastle / Async en fonction de l'enregistrement, du besoin de montage, de l'hébergement, des droits et du coût."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://async.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "cleanvoice": {
+    "descriptionFr": "Éditeur audio et vidéo IA spécialisé dans la suppression des hésitations, bruits parasites et tics de langage, avec transcription et résumés.",
+    "descriptionEn": "AI audio/video editor that removes filler words, unwanted sounds and background noise, with transcription and summaries.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Suppression ou mise en sourdine des hésitations",
+      "Nettoyage du bruit et des sons de bouche",
+      "Transcription et résumés"
+    ],
+    "featuresEn": [
+      "Remove or mute filler words",
+      "Noise and mouth-sound cleanup",
+      "Transcripts and summaries"
+    ],
+    "accessFr": "Web",
+    "accessEn": "Web",
+    "officialSources": [
+      {
+        "url": "https://help.cleanvoice.ai/en/articles/3-what-is-cleanvoice",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Éditeur audio et vidéo IA spécialisé dans la suppression des hésitations, bruits parasites et tics de langage, avec transcription et résumés.",
+      "audiences": [
+        "Podcasteurs et producteurs audio",
+        "Enseignants, journalistes et créateurs de contenus"
+      ],
+      "cases": [
+        "Nettoyer les hésitations d'un entretien sans modifier le sens du propos.",
+        "Comparer le résultat au fichier original et approuver les passages modifiés."
+      ],
+      "advantages": [
+        "Suppression ou mise en sourdine des hésitations",
+        "Nettoyage du bruit et des sons de bouche",
+        "Transcription et résumés"
+      ],
+      "limits": [
+        "Une suppression agressive peut rendre le discours artificiel ou retirer des nuances ; vérifier les coupes et le contexte.",
+        "Les améliorations, transcriptions ou extractions automatiques peuvent introduire des erreurs ou des artefacts."
+      ],
+      "gettingStarted": [
+        "Préparer un enregistrement autorisé et conserver une copie de l'original.",
+        "Tester un court extrait, écouter les transitions et ajuster le traitement avant export."
+      ],
+      "examples": [
+        "Nettoie cette interview sans supprimer les pauses qui changent le sens des réponses.",
+        "Propose des chapitres et des notes d'épisode, puis indique les éléments à vérifier dans l'enregistrement."
+      ],
+      "pricing": "Les tarifs, quotas et fonctionnalités dépendent du plan ou de la disponibilité du projet ; consulter la source officielle.",
+      "privacy": "Recueillir les consentements d'enregistrement et vérifier les règles d'hébergement, de transcription et de réutilisation avant d'importer des voix identifiables.",
+      "selection": [
+        "Choisir Cleanvoice en fonction de l'enregistrement, du besoin de montage, de l'hébergement, des droits et du coût."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.cleanvoice.ai/en/articles/3-what-is-cleanvoice",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "wondercraft": {
+    "descriptionFr": "Studio de création IA associant voix, sons, podcasts, vidéo et avatars dans des flux de production éditables.",
+    "descriptionEn": "AI creation studio combining voices, sound, podcasts, video and avatars in editable workflows.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Création de podcasts et voix off",
+      "Doublage et voix synthétiques",
+      "Création et montage vidéo"
+    ],
+    "featuresEn": [
+      "Podcast and voiceover creation",
+      "Dubbing and synthetic voices",
+      "Video generation and editing"
+    ],
+    "accessFr": "Web et API selon service",
+    "accessEn": "Web et API selon service",
+    "officialSources": [
+      {
+        "url": "https://www.wondercraft.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Studio de création IA associant voix, sons, podcasts, vidéo et avatars dans des flux de production éditables.",
+      "audiences": [
+        "Podcasteurs et producteurs audio",
+        "Enseignants, journalistes et créateurs de contenus"
+      ],
+      "cases": [
+        "Transformer un scénario de formation en podcast narré et en vidéo adaptée.",
+        "Comparer le résultat au fichier original et approuver les passages modifiés."
+      ],
+      "advantages": [
+        "Création de podcasts et voix off",
+        "Doublage et voix synthétiques",
+        "Création et montage vidéo"
+      ],
+      "limits": [
+        "Les fonctions audio et vidéo, les modèles proposés et leurs droits de diffusion dépendent du compte et des conditions en vigueur.",
+        "Les améliorations, transcriptions ou extractions automatiques peuvent introduire des erreurs ou des artefacts."
+      ],
+      "gettingStarted": [
+        "Préparer un enregistrement autorisé et conserver une copie de l'original.",
+        "Tester un court extrait, écouter les transitions et ajuster le traitement avant export."
+      ],
+      "examples": [
+        "Nettoie cette interview sans supprimer les pauses qui changent le sens des réponses.",
+        "Propose des chapitres et des notes d'épisode, puis indique les éléments à vérifier dans l'enregistrement."
+      ],
+      "pricing": "Les tarifs, quotas et fonctionnalités dépendent du plan ou de la disponibilité du projet ; consulter la source officielle.",
+      "privacy": "Recueillir les consentements d'enregistrement et vérifier les règles d'hébergement, de transcription et de réutilisation avant d'importer des voix identifiables.",
+      "selection": [
+        "Choisir Wondercraft en fonction de l'enregistrement, du besoin de montage, de l'hébergement, des droits et du coût."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.wondercraft.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "alitu": {
+    "descriptionFr": "Solution intégrée pour enregistrer, nettoyer, monter et publier des épisodes de podcast, avec édition fondée sur la transcription.",
+    "descriptionEn": "All-in-one solution for recording, cleaning, transcript-editing and publishing podcast episodes.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Enregistrement de podcasts audio et vidéo",
+      "Nettoyage automatique et montage textuel",
+      "Hébergement et publication"
+    ],
+    "featuresEn": [
+      "Audio and video podcast recording",
+      "Automatic cleanup and text editing",
+      "Hosting and publishing"
+    ],
+    "accessFr": "Web",
+    "accessEn": "Web",
+    "officialSources": [
+      {
+        "url": "https://alitu.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Solution intégrée pour enregistrer, nettoyer, monter et publier des épisodes de podcast, avec édition fondée sur la transcription.",
+      "audiences": [
+        "Podcasteurs et producteurs audio",
+        "Enseignants, journalistes et créateurs de contenus"
+      ],
+      "cases": [
+        "Préparer et publier régulièrement un podcast avec peu de montage technique.",
+        "Comparer le résultat au fichier original et approuver les passages modifiés."
+      ],
+      "advantages": [
+        "Enregistrement de podcasts audio et vidéo",
+        "Nettoyage automatique et montage textuel",
+        "Hébergement et publication"
+      ],
+      "limits": [
+        "Examiner les plafonds d'hébergement, les conditions d'essai et les limitations de diffusion ; réécouter les coupes automatiques.",
+        "Les améliorations, transcriptions ou extractions automatiques peuvent introduire des erreurs ou des artefacts."
+      ],
+      "gettingStarted": [
+        "Préparer un enregistrement autorisé et conserver une copie de l'original.",
+        "Tester un court extrait, écouter les transitions et ajuster le traitement avant export."
+      ],
+      "examples": [
+        "Nettoie cette interview sans supprimer les pauses qui changent le sens des réponses.",
+        "Propose des chapitres et des notes d'épisode, puis indique les éléments à vérifier dans l'enregistrement."
+      ],
+      "pricing": "Les tarifs, quotas et fonctionnalités dépendent du plan ou de la disponibilité du projet ; consulter la source officielle.",
+      "privacy": "Recueillir les consentements d'enregistrement et vérifier les règles d'hébergement, de transcription et de réutilisation avant d'importer des voix identifiables.",
+      "selection": [
+        "Choisir Alitu en fonction de l'enregistrement, du besoin de montage, de l'hébergement, des droits et du coût."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://alitu.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "podium": {
+    "descriptionFr": "Service historiquement consacré à la transformation d'épisodes en transcriptions, résumés, chapitres et notes de publication ; disponibilité actuelle à contrôler.",
+    "descriptionEn": "Historically an AI service for episode transcripts, summaries, chapters and show notes; current service availability needs checking.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Notes d'épisode et résumés",
+      "Chapitrage et horodatages",
+      "Transcriptions et contenus dérivés"
+    ],
+    "featuresEn": [
+      "Episode show notes and summaries",
+      "Chapters and timestamps",
+      "Transcripts and derivative content"
+    ],
+    "accessFr": "Service historique — accès à vérifier",
+    "accessEn": "Historical service — access unconfirmed",
+    "officialSources": [
+      {
+        "url": "https://hello.podium.page/feature/ai-generated-show-notes",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Service historiquement consacré à la transformation d'épisodes en transcriptions, résumés, chapitres et notes de publication ; disponibilité actuelle à contrôler.",
+      "audiences": [
+        "Podcasteurs et producteurs audio",
+        "Enseignants, journalistes et créateurs de contenus"
+      ],
+      "cases": [
+        "Préparer les notes et les chapitres d'un épisode pour sa mise en ligne.",
+        "Comparer le résultat au fichier original et approuver les passages modifiés."
+      ],
+      "advantages": [
+        "Notes d'épisode et résumés",
+        "Chapitrage et horodatages",
+        "Transcriptions et contenus dérivés"
+      ],
+      "limits": [
+        "La page d'accueil historique renvoie une erreur lors de la consultation ; la disponibilité et les modalités d'accès au service ne sont pas confirmées.",
+        "Les améliorations, transcriptions ou extractions automatiques peuvent introduire des erreurs ou des artefacts."
+      ],
+      "gettingStarted": [
+        "Préparer un enregistrement autorisé et conserver une copie de l'original.",
+        "Tester un court extrait, écouter les transitions et ajuster le traitement avant export."
+      ],
+      "examples": [
+        "Nettoie cette interview sans supprimer les pauses qui changent le sens des réponses.",
+        "Propose des chapitres et des notes d'épisode, puis indique les éléments à vérifier dans l'enregistrement."
+      ],
+      "pricing": "Les tarifs, quotas et fonctionnalités dépendent du plan ou de la disponibilité du projet ; consulter la source officielle.",
+      "privacy": "Recueillir les consentements d'enregistrement et vérifier les règles d'hébergement, de transcription et de réutilisation avant d'importer des voix identifiables.",
+      "selection": [
+        "Choisir Podium en fonction de l'enregistrement, du besoin de montage, de l'hébergement, des droits et du coût."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "availability_unconfirmed",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://hello.podium.page/feature/ai-generated-show-notes",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "availability_unconfirmed"
+  },
+  "ultimate-vocal-remover": {
+    "descriptionFr": "Application graphique libre de séparation de sources audio avec modèles neuronaux, notamment Demucs et MDX.",
+    "descriptionEn": "Open-source desktop interface for neural audio source separation, including Demucs and MDX model families.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Séparation des voix et instruments",
+      "Choix de modèles de séparation",
+      "Traitement local sur ordinateur"
+    ],
+    "featuresEn": [
+      "Vocals/instruments separation",
+      "Model selection",
+      "Local desktop processing"
+    ],
+    "accessFr": "Application de bureau",
+    "accessEn": "Desktop application",
+    "officialSources": [
+      {
+        "url": "https://github.com/Anjok07/ultimatevocalremovergui",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Application graphique libre de séparation de sources audio avec modèles neuronaux, notamment Demucs et MDX.",
+      "audiences": [
+        "Podcasteurs et producteurs audio",
+        "Enseignants, journalistes et créateurs de contenus"
+      ],
+      "cases": [
+        "Extraire la voix d'un fichier dont on dispose des droits afin d'étudier le mixage.",
+        "Comparer le résultat au fichier original et approuver les passages modifiés."
+      ],
+      "advantages": [
+        "Séparation des voix et instruments",
+        "Choix de modèles de séparation",
+        "Traitement local sur ordinateur"
+      ],
+      "limits": [
+        "La qualité varie avec les modèles et le matériel ; les fichiers séparés restent soumis aux droits de l'enregistrement initial.",
+        "Les améliorations, transcriptions ou extractions automatiques peuvent introduire des erreurs ou des artefacts."
+      ],
+      "gettingStarted": [
+        "Préparer un enregistrement autorisé et conserver une copie de l'original.",
+        "Tester un court extrait, écouter les transitions et ajuster le traitement avant export."
+      ],
+      "examples": [
+        "Nettoie cette interview sans supprimer les pauses qui changent le sens des réponses.",
+        "Propose des chapitres et des notes d'épisode, puis indique les éléments à vérifier dans l'enregistrement."
+      ],
+      "pricing": "Les tarifs, quotas et fonctionnalités dépendent du plan ou de la disponibilité du projet ; consulter la source officielle.",
+      "privacy": "Recueillir les consentements d'enregistrement et vérifier les règles d'hébergement, de transcription et de réutilisation avant d'importer des voix identifiables.",
+      "selection": [
+        "Choisir Ultimate Vocal Remover en fonction de l'enregistrement, du besoin de montage, de l'hébergement, des droits et du coût."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://github.com/Anjok07/ultimatevocalremovergui",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "demucs": {
+    "descriptionFr": "Modèles de recherche pour séparer voix, batterie, basse et accompagnement ; le dépôt original Meta est archivé et en lecture seule.",
+    "descriptionEn": "Research models for separating vocals, drums, bass and accompaniment; Meta's original repository is archived and read-only.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Séparation en quatre pistes",
+      "Modèle Hybrid Transformer",
+      "Exécution locale en ligne de commande"
+    ],
+    "featuresEn": [
+      "Four-stem separation",
+      "Hybrid Transformer model",
+      "Local command-line execution"
+    ],
+    "accessFr": "Code et modèles open source",
+    "accessEn": "Open-source code and models",
+    "officialSources": [
+      {
+        "url": "https://github.com/facebookresearch/demucs",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Modèles de recherche pour séparer voix, batterie, basse et accompagnement ; le dépôt original Meta est archivé et en lecture seule.",
+      "audiences": [
+        "Podcasteurs et producteurs audio",
+        "Enseignants, journalistes et créateurs de contenus"
+      ],
+      "cases": [
+        "Isoler les pistes d'un enregistrement autorisé dans une expérimentation locale.",
+        "Comparer le résultat au fichier original et approuver les passages modifiés."
+      ],
+      "advantages": [
+        "Séparation en quatre pistes",
+        "Modèle Hybrid Transformer",
+        "Exécution locale en ligne de commande"
+      ],
+      "limits": [
+        "Dépôt d'origine archivé le 1er janvier 2025 ; le mainteneur signale un fork avec maintenance limitée. Des artefacts et dépendances anciennes sont possibles.",
+        "Les améliorations, transcriptions ou extractions automatiques peuvent introduire des erreurs ou des artefacts."
+      ],
+      "gettingStarted": [
+        "Préparer un enregistrement autorisé et conserver une copie de l'original.",
+        "Tester un court extrait, écouter les transitions et ajuster le traitement avant export."
+      ],
+      "examples": [
+        "Nettoie cette interview sans supprimer les pauses qui changent le sens des réponses.",
+        "Propose des chapitres et des notes d'épisode, puis indique les éléments à vérifier dans l'enregistrement."
+      ],
+      "pricing": "Les tarifs, quotas et fonctionnalités dépendent du plan ou de la disponibilité du projet ; consulter la source officielle.",
+      "privacy": "Recueillir les consentements d'enregistrement et vérifier les règles d'hébergement, de transcription et de réutilisation avant d'importer des voix identifiables.",
+      "selection": [
+        "Choisir Demucs en fonction de l'enregistrement, du besoin de montage, de l'hébergement, des droits et du coût."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "archived_repository",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://github.com/facebookresearch/demucs",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_archived"
+  }
+}
