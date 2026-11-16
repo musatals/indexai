@@ -6232,5 +6232,705 @@
         "reviewedAt": "2026-11-16"
       }
     ]
+  },
+  "FLUX": {
+    "headline": "Famille de modèles d’images de Black Forest Labs proposant génération, édition contextuelle et exécution locale pour certaines versions.",
+    "audiences": [
+      "Développeurs en IA générative",
+      "Studios graphiques et intégrateurs"
+    ],
+    "cases": [
+      "Intégrer la génération d’image à une application",
+      "Comparer modèles hébergés et modèles exécutables localement",
+      "Tester la cohérence de références dans les modifications"
+    ],
+    "advantages": [
+      "Génération texte vers image",
+      "Édition et références multiples",
+      "Poids ouverts pour certaines versions"
+    ],
+    "limits": [
+      "Licences distinctes selon modèle : certaines versions en Apache 2.0, d’autres sous licence non commerciale.",
+      "Les images générées peuvent contenir des erreurs anatomiques, typographiques ou de représentation."
+    ],
+    "gettingStarted": [
+      "Lire les conditions d’accès et la politique de droits du site officiel.",
+      "Rédiger une consigne décrivant sujet, style, cadrage et format ; contrôler les résultats et leur licence."
+    ],
+    "examples": [
+      "Crée une illustration éditoriale au format 16:9 avec un style cohérent et sans logo de tiers.",
+      "Propose trois variantes visuelles de cette idée en conservant le sujet et en changeant la composition."
+    ],
+    "pricing": "API payante et hébergement autonome selon la variante; consulter la grille officielle.",
+    "privacy": "Éviter d’importer des photographies personnelles ou des visuels confidentiels sans examiner les paramètres de partage, d'entraînement et de conservation.",
+    "selection": [
+      "Choisir FLUX selon le besoin de créativité, de contrôle, de modèle et de licence commerciale."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://bfl.ai/models/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      },
+      {
+        "url": "https://github.com/black-forest-labs/flux2",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "DreamStudio": {
+    "headline": "Ancien service de génération d’images de Stability AI, désormais renommé Brand Studio d’après l’éditeur.",
+    "audiences": [
+      "Designers, illustrateurs et créateurs de contenus",
+      "Professionnels de la communication et de l’éducation"
+    ],
+    "cases": [
+      "Produire un concept visuel à partir d’un brief",
+      "Créer plusieurs compositions et itérations",
+      "Adapter un visuel à un format de communication"
+    ],
+    "advantages": [
+      "Génération visuelle historique",
+      "Édition selon l’offre Brand Studio",
+      "Accès et marque à actualiser"
+    ],
+    "limits": [
+      "Le nom DreamStudio est historique : le service est désormais présenté sous la marque Brand Studio.",
+      "Les images générées peuvent contenir des erreurs anatomiques, typographiques ou de représentation."
+    ],
+    "gettingStarted": [
+      "Lire les conditions d’accès et la politique de droits du site officiel.",
+      "Rédiger une consigne décrivant sujet, style, cadrage et format ; contrôler les résultats et leur licence."
+    ],
+    "examples": [
+      "Crée une illustration éditoriale au format 16:9 avec un style cohérent et sans logo de tiers.",
+      "Propose trois variantes visuelles de cette idée en conservant le sujet et en changeant la composition."
+    ],
+    "pricing": "Tarification et interface actuelles de Brand Studio à confirmer.",
+    "privacy": "Éviter d’importer des photographies personnelles ou des visuels confidentiels sans examiner les paramètres de partage, d'entraînement et de conservation.",
+    "selection": [
+      "Choisir DreamStudio selon le besoin de créativité, de contrôle, de modèle et de licence commerciale."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://kb.stability.ai/knowledge-base/-fraud-alert-identifying-genuine-dream-studio-transactions-and-reporting-fraud",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Playground AI": {
+    "headline": "Plateforme de création de visuels et de conceptions assistées par IA accessible via Playground.",
+    "audiences": [
+      "Designers, illustrateurs et créateurs de contenus",
+      "Professionnels de la communication et de l’éducation"
+    ],
+    "cases": [
+      "Produire un concept visuel à partir d’un brief",
+      "Créer plusieurs compositions et itérations",
+      "Adapter un visuel à un format de communication"
+    ],
+    "advantages": [
+      "Création de visuels",
+      "Exploration de designs",
+      "Édition selon les fonctions disponibles"
+    ],
+    "limits": [
+      "Les modèles et fonctions de génération actifs ne sont pas suffisamment documentés par les sources consultées.",
+      "Les images générées peuvent contenir des erreurs anatomiques, typographiques ou de représentation."
+    ],
+    "gettingStarted": [
+      "Lire les conditions d’accès et la politique de droits du site officiel.",
+      "Rédiger une consigne décrivant sujet, style, cadrage et format ; contrôler les résultats et leur licence."
+    ],
+    "examples": [
+      "Crée une illustration éditoriale au format 16:9 avec un style cohérent et sans logo de tiers.",
+      "Propose trois variantes visuelles de cette idée en conservant le sujet et en changeant la composition."
+    ],
+    "pricing": "Tarification et quotas actuels non confirmés.",
+    "privacy": "Éviter d’importer des photographies personnelles ou des visuels confidentiels sans examiner les paramètres de partage, d'entraînement et de conservation.",
+    "selection": [
+      "Choisir Playground AI selon le besoin de créativité, de contrôle, de modèle et de licence commerciale."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "provisional",
+    "evidence": "limited_official",
+    "sources": [
+      {
+        "url": "https://playground.com/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Krea": {
+    "headline": "Suite de création visuelle offrant génération d’images, édition, création en temps réel et amélioration de résolution.",
+    "audiences": [
+      "Designers, illustrateurs et créateurs de contenus",
+      "Professionnels de la communication et de l’éducation"
+    ],
+    "cases": [
+      "Produire un concept visuel à partir d’un brief",
+      "Créer plusieurs compositions et itérations",
+      "Adapter un visuel à un format de communication"
+    ],
+    "advantages": [
+      "Génération et variations d’images",
+      "Création en temps réel",
+      "Retouche et amélioration de résolution"
+    ],
+    "limits": [
+      "Certains modèles et droits d’utilisation commerciale sont réservés aux abonnements payants.",
+      "Les images générées peuvent contenir des erreurs anatomiques, typographiques ou de représentation."
+    ],
+    "gettingStarted": [
+      "Lire les conditions d’accès et la politique de droits du site officiel.",
+      "Rédiger une consigne décrivant sujet, style, cadrage et format ; contrôler les résultats et leur licence."
+    ],
+    "examples": [
+      "Crée une illustration éditoriale au format 16:9 avec un style cohérent et sans logo de tiers.",
+      "Propose trois variantes visuelles de cette idée en conservant le sujet et en changeant la composition."
+    ],
+    "pricing": "Crédits quotidiens gratuits et formules payantes ; tarifs variables.",
+    "privacy": "Éviter d’importer des photographies personnelles ou des visuels confidentiels sans examiner les paramètres de partage, d'entraînement et de conservation.",
+    "selection": [
+      "Choisir Krea selon le besoin de créativité, de contrôle, de modèle et de licence commerciale."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://www.krea.ai/features/ai-image-generator",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      },
+      {
+        "url": "https://www.krea.ai/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "OpenArt": {
+    "headline": "Plateforme de création et modification de visuels générés par IA, avec des outils de retouche et modèles variés.",
+    "audiences": [
+      "Designers, illustrateurs et créateurs de contenus",
+      "Professionnels de la communication et de l’éducation"
+    ],
+    "cases": [
+      "Produire un concept visuel à partir d’un brief",
+      "Créer plusieurs compositions et itérations",
+      "Adapter un visuel à un format de communication"
+    ],
+    "advantages": [
+      "Création d’images",
+      "Modification par instruction",
+      "Retouche de fond et d’objets"
+    ],
+    "limits": [
+      "Les fonctionnalités exactes peuvent dépendre du modèle ou de la formule choisie.",
+      "Les images générées peuvent contenir des erreurs anatomiques, typographiques ou de représentation."
+    ],
+    "gettingStarted": [
+      "Lire les conditions d’accès et la politique de droits du site officiel.",
+      "Rédiger une consigne décrivant sujet, style, cadrage et format ; contrôler les résultats et leur licence."
+    ],
+    "examples": [
+      "Crée une illustration éditoriale au format 16:9 avec un style cohérent et sans logo de tiers.",
+      "Propose trois variantes visuelles de cette idée en conservant le sujet et en changeant la composition."
+    ],
+    "pricing": "Crédits et limites à consulter sur le site.",
+    "privacy": "Éviter d’importer des photographies personnelles ou des visuels confidentiels sans examiner les paramètres de partage, d'entraînement et de conservation.",
+    "selection": [
+      "Choisir OpenArt selon le besoin de créativité, de contrôle, de modèle et de licence commerciale."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://openart.ai/fr/blog/best-ai-photo-editor/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      },
+      {
+        "url": "https://openart.ai/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "NightCafe": {
+    "headline": "Générateur d’art IA communautaire proposant plusieurs modèles et des défis créatifs quotidiens.",
+    "audiences": [
+      "Designers, illustrateurs et créateurs de contenus",
+      "Professionnels de la communication et de l’éducation"
+    ],
+    "cases": [
+      "Produire un concept visuel à partir d’un brief",
+      "Créer plusieurs compositions et itérations",
+      "Adapter un visuel à un format de communication"
+    ],
+    "advantages": [
+      "Génération avec plusieurs modèles",
+      "Défis et communauté",
+      "Crédits quotidiens"
+    ],
+    "limits": [
+      "Le choix des modèles et leurs résultats changent régulièrement ; vérifier les règles de partage communautaire.",
+      "Les images générées peuvent contenir des erreurs anatomiques, typographiques ou de représentation."
+    ],
+    "gettingStarted": [
+      "Lire les conditions d’accès et la politique de droits du site officiel.",
+      "Rédiger une consigne décrivant sujet, style, cadrage et format ; contrôler les résultats et leur licence."
+    ],
+    "examples": [
+      "Crée une illustration éditoriale au format 16:9 avec un style cohérent et sans logo de tiers.",
+      "Propose trois variantes visuelles de cette idée en conservant le sujet et en changeant la composition."
+    ],
+    "pricing": "Crédits gratuits quotidiens, puis crédits ou offres payantes.",
+    "privacy": "Éviter d’importer des photographies personnelles ou des visuels confidentiels sans examiner les paramètres de partage, d'entraînement et de conservation.",
+    "selection": [
+      "Choisir NightCafe selon le besoin de créativité, de contrôle, de modèle et de licence commerciale."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://nightcafe.studio/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Civitai": {
+    "headline": "Catalogue communautaire de modèles génératifs et de ressources de création visuelle, notamment des adaptations LoRA.",
+    "audiences": [
+      "Créateurs utilisant des modèles personnalisés",
+      "Communautés de modèles génératifs"
+    ],
+    "cases": [
+      "Explorer les modèles et styles disponibles",
+      "Comparer les droits associés aux ressources",
+      "Expérimenter différentes instructions et modèles"
+    ],
+    "advantages": [
+      "Découverte de modèles",
+      "Ressources LoRA et workflows",
+      "Publication communautaire"
+    ],
+    "limits": [
+      "Les licences, droits sur les données d’entraînement et règles de chaque modèle sont différents.",
+      "Les images générées peuvent contenir des erreurs anatomiques, typographiques ou de représentation."
+    ],
+    "gettingStarted": [
+      "Lire les conditions d’accès et la politique de droits du site officiel.",
+      "Rédiger une consigne décrivant sujet, style, cadrage et format ; contrôler les résultats et leur licence."
+    ],
+    "examples": [
+      "Crée une illustration éditoriale au format 16:9 avec un style cohérent et sans logo de tiers.",
+      "Propose trois variantes visuelles de cette idée en conservant le sujet et en changeant la composition."
+    ],
+    "pricing": "Accès aux ressources variable ; consulter les conditions de génération et de téléchargement.",
+    "privacy": "Éviter d’importer des photographies personnelles ou des visuels confidentiels sans examiner les paramètres de partage, d'entraînement et de conservation.",
+    "selection": [
+      "Choisir Civitai selon le besoin de créativité, de contrôle, de modèle et de licence commerciale."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "provisional",
+    "evidence": "limited_official",
+    "sources": [
+      {
+        "url": "https://civitai.com/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Tensor.Art": {
+    "headline": "Plateforme communautaire proposant des modèles et la génération d’images par IA selon les ressources disponibles.",
+    "audiences": [
+      "Créateurs utilisant des modèles personnalisés",
+      "Communautés de modèles génératifs"
+    ],
+    "cases": [
+      "Explorer les modèles et styles disponibles",
+      "Comparer les droits associés aux ressources",
+      "Expérimenter différentes instructions et modèles"
+    ],
+    "advantages": [
+      "Découverte de modèles",
+      "Génération visuelle",
+      "Paramètres et modèles communautaires"
+    ],
+    "limits": [
+      "Vérifier la licence du modèle, les quotas de génération et la visibilité publique des créations.",
+      "Les images générées peuvent contenir des erreurs anatomiques, typographiques ou de représentation."
+    ],
+    "gettingStarted": [
+      "Lire les conditions d’accès et la politique de droits du site officiel.",
+      "Rédiger une consigne décrivant sujet, style, cadrage et format ; contrôler les résultats et leur licence."
+    ],
+    "examples": [
+      "Crée une illustration éditoriale au format 16:9 avec un style cohérent et sans logo de tiers.",
+      "Propose trois variantes visuelles de cette idée en conservant le sujet et en changeant la composition."
+    ],
+    "pricing": "Quotas et abonnements actuels non confirmés.",
+    "privacy": "Éviter d’importer des photographies personnelles ou des visuels confidentiels sans examiner les paramètres de partage, d'entraînement et de conservation.",
+    "selection": [
+      "Choisir Tensor.Art selon le besoin de créativité, de contrôle, de modèle et de licence commerciale."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "provisional",
+    "evidence": "limited_official",
+    "sources": [
+      {
+        "url": "https://tensor.art/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "SeaArt": {
+    "headline": "Service communautaire de création visuelle IA donnant accès à des modèles, checkpoints et LoRA.",
+    "audiences": [
+      "Créateurs utilisant des modèles personnalisés",
+      "Communautés de modèles génératifs"
+    ],
+    "cases": [
+      "Explorer les modèles et styles disponibles",
+      "Comparer les droits associés aux ressources",
+      "Expérimenter différentes instructions et modèles"
+    ],
+    "advantages": [
+      "Catalogue de checkpoints",
+      "Styles et LoRA",
+      "Création communautaire"
+    ],
+    "limits": [
+      "Les modèles tiers n’ont pas nécessairement les mêmes licences ou conditions de diffusion.",
+      "Les images générées peuvent contenir des erreurs anatomiques, typographiques ou de représentation."
+    ],
+    "gettingStarted": [
+      "Lire les conditions d’accès et la politique de droits du site officiel.",
+      "Rédiger une consigne décrivant sujet, style, cadrage et format ; contrôler les résultats et leur licence."
+    ],
+    "examples": [
+      "Crée une illustration éditoriale au format 16:9 avec un style cohérent et sans logo de tiers.",
+      "Propose trois variantes visuelles de cette idée en conservant le sujet et en changeant la composition."
+    ],
+    "pricing": "Crédits et abonnements à vérifier.",
+    "privacy": "Éviter d’importer des photographies personnelles ou des visuels confidentiels sans examiner les paramètres de partage, d'entraînement et de conservation.",
+    "selection": [
+      "Choisir SeaArt selon le besoin de créativité, de contrôle, de modèle et de licence commerciale."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://www.seaart.ai/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      },
+      {
+        "url": "https://www.seaart.ai/tagInfo/model/u%3A20f35e630daf44dbfa4c3f68f5399d8c",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Mage.space": {
+    "headline": "Interface en ligne permettant d’expérimenter la création d’images IA sans installation locale.",
+    "audiences": [
+      "Designers, illustrateurs et créateurs de contenus",
+      "Professionnels de la communication et de l’éducation"
+    ],
+    "cases": [
+      "Produire un concept visuel à partir d’un brief",
+      "Créer plusieurs compositions et itérations",
+      "Adapter un visuel à un format de communication"
+    ],
+    "advantages": [
+      "Création visuelle dans le navigateur",
+      "Exploration de styles",
+      "Modèles selon disponibilité"
+    ],
+    "limits": [
+      "Les fonctions, modèles exacts et conditions actuelles n’ont pas été confirmés indépendamment.",
+      "Les images générées peuvent contenir des erreurs anatomiques, typographiques ou de représentation."
+    ],
+    "gettingStarted": [
+      "Lire les conditions d’accès et la politique de droits du site officiel.",
+      "Rédiger une consigne décrivant sujet, style, cadrage et format ; contrôler les résultats et leur licence."
+    ],
+    "examples": [
+      "Crée une illustration éditoriale au format 16:9 avec un style cohérent et sans logo de tiers.",
+      "Propose trois variantes visuelles de cette idée en conservant le sujet et en changeant la composition."
+    ],
+    "pricing": "Tarifs et crédits actuels non vérifiés.",
+    "privacy": "Éviter d’importer des photographies personnelles ou des visuels confidentiels sans examiner les paramètres de partage, d'entraînement et de conservation.",
+    "selection": [
+      "Choisir Mage.space selon le besoin de créativité, de contrôle, de modèle et de licence commerciale."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "provisional",
+    "evidence": "limited_official",
+    "sources": [
+      {
+        "url": "https://www.mage.space/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Artbreeder": {
+    "headline": "Plateforme de composition d’images et d’expérimentation visuelle avec Composer et Collager.",
+    "audiences": [
+      "Designers, illustrateurs et créateurs de contenus",
+      "Professionnels de la communication et de l’éducation"
+    ],
+    "cases": [
+      "Produire un concept visuel à partir d’un brief",
+      "Créer plusieurs compositions et itérations",
+      "Adapter un visuel à un format de communication"
+    ],
+    "advantages": [
+      "Composer avec références",
+      "Collages et contrôle spatial",
+      "Exploration et variations"
+    ],
+    "limits": [
+      "Des outils plus anciens ont été progressivement regroupés ou remplacés ; se référer à Composer.",
+      "Les images générées peuvent contenir des erreurs anatomiques, typographiques ou de représentation."
+    ],
+    "gettingStarted": [
+      "Lire les conditions d’accès et la politique de droits du site officiel.",
+      "Rédiger une consigne décrivant sujet, style, cadrage et format ; contrôler les résultats et leur licence."
+    ],
+    "examples": [
+      "Crée une illustration éditoriale au format 16:9 avec un style cohérent et sans logo de tiers.",
+      "Propose trois variantes visuelles de cette idée en conservant le sujet et en changeant la composition."
+    ],
+    "pricing": "Accès par crédits et abonnements selon l’offre actuelle.",
+    "privacy": "Éviter d’importer des photographies personnelles ou des visuels confidentiels sans examiner les paramètres de partage, d'entraînement et de conservation.",
+    "selection": [
+      "Choisir Artbreeder selon le besoin de créativité, de contrôle, de modèle et de licence commerciale."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://www.artbreeder.com/updates",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      },
+      {
+        "url": "https://www.artbreeder.com/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "ImagineArt": {
+    "headline": "Plateforme de création d’images par IA proposant différentes fonctions visuelles selon son offre.",
+    "audiences": [
+      "Designers, illustrateurs et créateurs de contenus",
+      "Professionnels de la communication et de l’éducation"
+    ],
+    "cases": [
+      "Produire un concept visuel à partir d’un brief",
+      "Créer plusieurs compositions et itérations",
+      "Adapter un visuel à un format de communication"
+    ],
+    "advantages": [
+      "Génération visuelle",
+      "Création d’illustrations",
+      "Fonctions d’édition selon offre"
+    ],
+    "limits": [
+      "Le catalogue exact de modèles, limites et droits commerciaux demande vérification.",
+      "Les images générées peuvent contenir des erreurs anatomiques, typographiques ou de représentation."
+    ],
+    "gettingStarted": [
+      "Lire les conditions d’accès et la politique de droits du site officiel.",
+      "Rédiger une consigne décrivant sujet, style, cadrage et format ; contrôler les résultats et leur licence."
+    ],
+    "examples": [
+      "Crée une illustration éditoriale au format 16:9 avec un style cohérent et sans logo de tiers.",
+      "Propose trois variantes visuelles de cette idée en conservant le sujet et en changeant la composition."
+    ],
+    "pricing": "Offres et crédits actuels non confirmés.",
+    "privacy": "Éviter d’importer des photographies personnelles ou des visuels confidentiels sans examiner les paramètres de partage, d'entraînement et de conservation.",
+    "selection": [
+      "Choisir ImagineArt selon le besoin de créativité, de contrôle, de modèle et de licence commerciale."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "provisional",
+    "evidence": "limited_official",
+    "sources": [
+      {
+        "url": "https://www.imagine.art/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Microsoft Designer": {
+    "headline": "Application Microsoft de création graphique assistée par IA pour générer et modifier des images et des supports visuels.",
+    "audiences": [
+      "Designers, illustrateurs et créateurs de contenus",
+      "Professionnels de la communication et de l’éducation"
+    ],
+    "cases": [
+      "Produire un concept visuel à partir d’un brief",
+      "Créer plusieurs compositions et itérations",
+      "Adapter un visuel à un format de communication"
+    ],
+    "advantages": [
+      "Génération à partir de texte",
+      "Édition et suppression d’arrière-plan",
+      "Visuels pour réseaux sociaux"
+    ],
+    "limits": [
+      "L’ancien éditeur a été abandonné à partir d’octobre 2025 ; les anciennes fonctions Brand Kit et vidéos stock ont changé. Usage commercial soumis aux conditions Microsoft.",
+      "Les images générées peuvent contenir des erreurs anatomiques, typographiques ou de représentation."
+    ],
+    "gettingStarted": [
+      "Lire les conditions d’accès et la politique de droits du site officiel.",
+      "Rédiger une consigne décrivant sujet, style, cadrage et format ; contrôler les résultats et leur licence."
+    ],
+    "examples": [
+      "Crée une illustration éditoriale au format 16:9 avec un style cohérent et sans logo de tiers.",
+      "Propose trois variantes visuelles de cette idée en conservant le sujet et en changeant la composition."
+    ],
+    "pricing": "Offre gratuite avec usages plus fréquents potentiellement soumis à abonnement.",
+    "privacy": "Éviter d’importer des photographies personnelles ou des visuels confidentiels sans examiner les paramètres de partage, d'entraînement et de conservation.",
+    "selection": [
+      "Choisir Microsoft Designer selon le besoin de créativité, de contrôle, de modèle et de licence commerciale."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://support.microsoft.com/en-us/designer/welcome-to-microsoft-designer",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      },
+      {
+        "url": "https://support.microsoft.com/en-us/designer/frequently-asked-questions-about-microsoft-designer",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Canva Magic Media": {
+    "headline": "Outil Canva de génération de visuels et de clips depuis une description, directement intégré à l’éditeur de designs.",
+    "audiences": [
+      "Designers, illustrateurs et créateurs de contenus",
+      "Professionnels de la communication et de l’éducation"
+    ],
+    "cases": [
+      "Produire un concept visuel à partir d’un brief",
+      "Créer plusieurs compositions et itérations",
+      "Adapter un visuel à un format de communication"
+    ],
+    "advantages": [
+      "Images et graphismes depuis texte",
+      "Choix de style et format",
+      "Intégration aux designs Canva"
+    ],
+    "limits": [
+      "Les droits sur les contenus générés ne garantissent pas une protection exclusive; bien distinguer Magic Media et Magic Design.",
+      "Les images générées peuvent contenir des erreurs anatomiques, typographiques ou de représentation."
+    ],
+    "gettingStarted": [
+      "Lire les conditions d’accès et la politique de droits du site officiel.",
+      "Rédiger une consigne décrivant sujet, style, cadrage et format ; contrôler les résultats et leur licence."
+    ],
+    "examples": [
+      "Crée une illustration éditoriale au format 16:9 avec un style cohérent et sans logo de tiers.",
+      "Propose trois variantes visuelles de cette idée en conservant le sujet et en changeant la composition."
+    ],
+    "pricing": "Utilisation soumise aux quotas IA et aux abonnements Canva.",
+    "privacy": "Éviter d’importer des photographies personnelles ou des visuels confidentiels sans examiner les paramètres de partage, d'entraînement et de conservation.",
+    "selection": [
+      "Choisir Canva Magic Media selon le besoin de créativité, de contrôle, de modèle et de licence commerciale."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://www.canva.com/help/using-magic-media/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      },
+      {
+        "url": "https://www.canva.com/help/use-magic-design/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Google ImageFX": {
+    "headline": "Outil expérimental de Google Labs permettant de générer des images à partir de descriptions textuelles.",
+    "audiences": [
+      "Designers, illustrateurs et créateurs de contenus",
+      "Professionnels de la communication et de l’éducation"
+    ],
+    "cases": [
+      "Produire un concept visuel à partir d’un brief",
+      "Créer plusieurs compositions et itérations",
+      "Adapter un visuel à un format de communication"
+    ],
+    "advantages": [
+      "Création d’images par description",
+      "Expérimentation de prompts",
+      "Accès selon pays et disponibilité"
+    ],
+    "limits": [
+      "Disponibilité et fonctionnalités évolutives selon région et compte ; expérience expérimentale.",
+      "Les images générées peuvent contenir des erreurs anatomiques, typographiques ou de représentation."
+    ],
+    "gettingStarted": [
+      "Lire les conditions d’accès et la politique de droits du site officiel.",
+      "Rédiger une consigne décrivant sujet, style, cadrage et format ; contrôler les résultats et leur licence."
+    ],
+    "examples": [
+      "Crée une illustration éditoriale au format 16:9 avec un style cohérent et sans logo de tiers.",
+      "Propose trois variantes visuelles de cette idée en conservant le sujet et en changeant la composition."
+    ],
+    "pricing": "Accès et quotas à contrôler dans Google Labs.",
+    "privacy": "Éviter d’importer des photographies personnelles ou des visuels confidentiels sans examiner les paramètres de partage, d'entraînement et de conservation.",
+    "selection": [
+      "Choisir Google ImageFX selon le besoin de créativité, de contrôle, de modèle et de licence commerciale."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://labs.google/fx/tools/image-fx",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      },
+      {
+        "url": "https://labs.google/fx/faq",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
   }
 }
