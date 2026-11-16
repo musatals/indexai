@@ -1,0 +1,1777 @@
+{
+  "ollama": {
+    "descriptionFr": "Runtime et application Ollama pour utiliser des modèles open-weight sur ordinateur via CLI/API, avec possibilité distincte d'inférer des modèles plus volumineux sur Ollama Cloud.",
+    "descriptionEn": "Ollama model runner and app for local open-weight inference via CLI/API, with a separate option to run larger models on Ollama Cloud.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Téléchargement, exécution et gestion de modèles locaux",
+      "API de chat, embeddings, vision, outils et sorties structurées",
+      "Catalogue de modèles cloud en complément de l'inférence locale"
+    ],
+    "featuresEn": [
+      "Download, run and manage local models",
+      "Chat, embeddings, vision, tools and structured output APIs",
+      "Optional cloud-model catalog alongside local inference"
+    ],
+    "accessFr": "Installation locale et éventuels connecteurs cloud",
+    "accessEn": "Local installation and optional cloud connectors",
+    "officialSources": [
+      {
+        "url": "https://docs.ollama.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      },
+      {
+        "url": "https://docs.ollama.com/cloud",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      },
+      {
+        "url": "https://docs.ollama.com/api/introduction",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Runtime et application Ollama pour utiliser des modèles open-weight sur ordinateur via CLI/API, avec possibilité distincte d'inférer des modèles plus volumineux sur Ollama Cloud.",
+      "audiences": [
+        "Développeurs et expérimentateurs",
+        "Équipes souhaitant contrôler leurs données",
+        "Étudiants en modèles génératifs",
+        "Étudiants, enseignants, développeurs et utilisateurs souhaitant une IA locale",
+        "Responsables de confidentialité, infrastructure et maîtrise des coûts"
+      ],
+      "cases": [
+        "Faire tourner un modèle téléchargé sur sa machine",
+        "Créer un prototype d’assistant local",
+        "Comparer des modèles et leurs tailles",
+        "Exposer un modèle via une interface locale",
+        "Installer un modèle quantifié puis exposer une API locale pour une FAQ pédagogique hors ligne.",
+        "Mesurer latence, mémoire, exactitude, débit et coût du déploiement avec un jeu de tests représentatif."
+      ],
+      "advantages": [
+        "Catalogue de modèles avec capacités et tailles",
+        "Approche locale possible",
+        "Flux simple pour expérimentations techniques",
+        "Téléchargement, exécution et gestion de modèles locaux",
+        "API de chat, embeddings, vision, outils et sorties structurées",
+        "Catalogue de modèles cloud en complément de l'inférence locale"
+      ],
+      "limits": [
+        "Performances contraintes par RAM, mémoire GPU et matériel",
+        "Tous les modèles ne conviennent pas à toutes les tâches ou langues",
+        "Une exécution locale ne garantit pas une sécurité totale",
+        "Une requête vers un modèle Ollama Cloud n'est pas traitée sur le PC ; distinguer explicitement local et cloud. Les poids, la RAM/VRAM et les licences varient selon le modèle ; sécuriser tout accès réseau à l'API.",
+        "Un modèle disponible localement ou sur GPU n'est pas automatiquement privé ou sûr : vérifier réseaux, outils, logs, versions, licences et permissions."
+      ],
+      "gettingStarted": [
+        "Choisir un modèle dimensionné pour votre ordinateur, lire sa licence, démarrer un test local puis mesurer latence et qualité.",
+        "Définir les modèles, formats, matériel, contraintes réseau, confidentialité et charge prévue.",
+        "Tester sur des données de démonstration, surveiller RAM/VRAM, coût et erreurs, puis protéger les endpoints et documenter les licences."
+      ],
+      "examples": [
+        "Compare un petit modèle et un grand sur dix questions en français.",
+        "Prototyper un assistant local sans document confidentiel au départ.",
+        "Compare deux configurations sur 100 requêtes identiques : précision, TTFT, tokens/s, mémoire, p95 et coût total.",
+        "Établis un protocole d'inférence reproductible avec version du runtime, identifiant du modèle, quantification et configuration du serveur."
+      ],
+      "pricing": "Logiciel disponible sans abonnement local obligatoire ; coût du matériel, énergie et poids des modèles. Les connexions cloud éventuelles sont distinctes.",
+      "privacy": "Vérifier que le mode réellement utilisé est local, couper la télémétrie si nécessaire et contrôler les ports exposés.",
+      "selection": [
+        "Utile pour expérimentation locale; Hugging Face offre davantage de ressources de découverte et de modèles.",
+        "Sélectionner Ollama selon l'usage (desktop_runtime), la compatibilité matérielle, les licences, les API, les coûts, le support et le contrôle du trajet des données."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "local_runtime_with_optional_cloud",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://ollama.com/search",
+          "type": "official",
+          "reviewedAt": "2026-11-15"
+        },
+        {
+          "url": "https://docs.ollama.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://docs.ollama.com/cloud",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://docs.ollama.com/api/introduction",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_cloud_vs_local"
+  },
+  "lm-studio": {
+    "descriptionFr": "Application LM Studio pour trouver, charger et interroger des modèles sur son ordinateur, avec serveur local compatible OpenAI et service llmster sans interface graphique.",
+    "descriptionEn": "LM Studio desktop app for discovering, loading and chatting with local models, with OpenAI-compatible serving and headless llmster daemon.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Chat avec modèles et documents entièrement hors ligne après téléchargement",
+      "API REST v1, endpoints compatibles OpenAI/Anthropic et auth",
+      "Service headless llmster, modèles JIT et LM Link interappareils"
+    ],
+    "featuresEn": [
+      "Offline model and document chat after downloading",
+      "REST v1, OpenAI/Anthropic-compatible endpoints and auth",
+      "Headless llmster, just-in-time models and LM Link"
+    ],
+    "accessFr": "Installation locale et éventuels connecteurs cloud",
+    "accessEn": "Local installation and optional cloud connectors",
+    "officialSources": [
+      {
+        "url": "https://lmstudio.ai/docs/app/offline",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      },
+      {
+        "url": "https://lmstudio.ai/docs/developer/core/headless",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      },
+      {
+        "url": "https://lmstudio.ai/docs/developer/rest",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Application LM Studio pour trouver, charger et interroger des modèles sur son ordinateur, avec serveur local compatible OpenAI et service llmster sans interface graphique.",
+      "audiences": [
+        "Étudiants, enseignants, développeurs et utilisateurs souhaitant une IA locale",
+        "Responsables de confidentialité, infrastructure et maîtrise des coûts"
+      ],
+      "cases": [
+        "Créer un assistant documentaire local et comparer des générations sans envoyer de PDF à un serveur distant.",
+        "Mesurer latence, mémoire, exactitude, débit et coût du déploiement avec un jeu de tests représentatif."
+      ],
+      "advantages": [
+        "Chat avec modèles et documents entièrement hors ligne après téléchargement",
+        "API REST v1, endpoints compatibles OpenAI/Anthropic et auth",
+        "Service headless llmster, modèles JIT et LM Link interappareils"
+      ],
+      "limits": [
+        "Le mode local peut rester entièrement hors ligne ; connecter un fournisseur distant ou LM Link modifie le trajet des données. Le serveur local peut être sans authentification par défaut : activer l'authentification avant tout bind réseau ou CORS.",
+        "Un modèle disponible localement ou sur GPU n'est pas automatiquement privé ou sûr : vérifier réseaux, outils, logs, versions, licences et permissions."
+      ],
+      "gettingStarted": [
+        "Définir les modèles, formats, matériel, contraintes réseau, confidentialité et charge prévue.",
+        "Tester sur des données de démonstration, surveiller RAM/VRAM, coût et erreurs, puis protéger les endpoints et documenter les licences."
+      ],
+      "examples": [
+        "Compare deux configurations sur 100 requêtes identiques : précision, TTFT, tokens/s, mémoire, p95 et coût total.",
+        "Établis un protocole d'inférence reproductible avec version du runtime, identifiant du modèle, quantification et configuration du serveur."
+      ],
+      "pricing": "Logiciel disponible sans abonnement local obligatoire ; coût du matériel, énergie et poids des modèles. Les connexions cloud éventuelles sont distinctes.",
+      "privacy": "Pour une exécution réellement locale, désactiver les fournisseurs distants et limiter la télémétrie ; chiffrer les fichiers, contrôler accès réseau, clés API, logs, partage de modèles et rétention.",
+      "selection": [
+        "Sélectionner LM Studio selon l'usage (desktop_runtime), la compatibilité matérielle, les licences, les API, les coûts, le support et le contrôle du trajet des données."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://lmstudio.ai/docs/app/offline",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://lmstudio.ai/docs/developer/core/headless",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://lmstudio.ai/docs/developer/rest",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "jan": {
+    "descriptionFr": "Assistant Jan open source local-first permettant chat hors ligne, assistants, projets, outils MCP et API locale, avec connexions cloud facultatives.",
+    "descriptionEn": "Jan open-source local-first assistant with offline chat, assistants, projects, MCP tools and a local API, plus optional cloud provider connections.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Inférence locale llama.cpp et MLX sur matériel compatible",
+      "Projets, assistants, agents et outils MCP",
+      "Serveur OpenAI-compatible et fournisseurs cloud facultatifs"
+    ],
+    "featuresEn": [
+      "Local llama.cpp inference and MLX on supported hardware",
+      "Projects, assistants, agents and MCP tools",
+      "OpenAI-compatible server and optional cloud providers"
+    ],
+    "accessFr": "Installation locale et éventuels connecteurs cloud",
+    "accessEn": "Local installation and optional cloud connectors",
+    "officialSources": [
+      {
+        "url": "https://docs.jan.ai/desktop/quickstart",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      },
+      {
+        "url": "https://docs.jan.ai/desktop/api-server",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      },
+      {
+        "url": "https://docs.jan.ai/desktop/mcp",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Assistant Jan open source local-first permettant chat hors ligne, assistants, projets, outils MCP et API locale, avec connexions cloud facultatives.",
+      "audiences": [
+        "Étudiants, enseignants, développeurs et utilisateurs souhaitant une IA locale",
+        "Responsables de confidentialité, infrastructure et maîtrise des coûts"
+      ],
+      "cases": [
+        "Tester un assistant d'apprentissage avec un petit modèle local et autoriser chaque outil MCP au cas par cas.",
+        "Mesurer latence, mémoire, exactitude, débit et coût du déploiement avec un jeu de tests représentatif."
+      ],
+      "advantages": [
+        "Inférence locale llama.cpp et MLX sur matériel compatible",
+        "Projets, assistants, agents et outils MCP",
+        "Serveur OpenAI-compatible et fournisseurs cloud facultatifs"
+      ],
+      "limits": [
+        "Le mode cloud transmet les requêtes au fournisseur choisi : local-first ne signifie pas toujours local. Les capacités d'outils dépendent du modèle ; l'approbation de chaque action MCP doit rester active pour éviter des opérations imprévues.",
+        "Un modèle disponible localement ou sur GPU n'est pas automatiquement privé ou sûr : vérifier réseaux, outils, logs, versions, licences et permissions."
+      ],
+      "gettingStarted": [
+        "Définir les modèles, formats, matériel, contraintes réseau, confidentialité et charge prévue.",
+        "Tester sur des données de démonstration, surveiller RAM/VRAM, coût et erreurs, puis protéger les endpoints et documenter les licences."
+      ],
+      "examples": [
+        "Compare deux configurations sur 100 requêtes identiques : précision, TTFT, tokens/s, mémoire, p95 et coût total.",
+        "Établis un protocole d'inférence reproductible avec version du runtime, identifiant du modèle, quantification et configuration du serveur."
+      ],
+      "pricing": "Logiciel disponible sans abonnement local obligatoire ; coût du matériel, énergie et poids des modèles. Les connexions cloud éventuelles sont distinctes.",
+      "privacy": "Pour une exécution réellement locale, désactiver les fournisseurs distants et limiter la télémétrie ; chiffrer les fichiers, contrôler accès réseau, clés API, logs, partage de modèles et rétention.",
+      "selection": [
+        "Sélectionner Jan selon l'usage (desktop_runtime), la compatibilité matérielle, les licences, les API, les coûts, le support et le contrôle du trajet des données."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.jan.ai/desktop/quickstart",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://docs.jan.ai/desktop/api-server",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://docs.jan.ai/desktop/mcp",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "gpt4all": {
+    "descriptionFr": "Application GPT4All de Nomic pour conversations sur modèles locaux et interrogation de fichiers via LocalDocs, fondée notamment sur embeddings Nomic et llama.cpp.",
+    "descriptionEn": "Nomic GPT4All desktop app for local-model chat and private document retrieval through LocalDocs, using Nomic embeddings and llama.cpp.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Téléchargement de modèles GGUF et fonctionnement local",
+      "LocalDocs : indexation et recherche des fichiers d'un dossier",
+      "API locale compatible OpenAI et SDK Python"
+    ],
+    "featuresEn": [
+      "GGUF model downloads and local operation",
+      "LocalDocs folder indexing and document retrieval",
+      "OpenAI-compatible local API and Python SDK"
+    ],
+    "accessFr": "Installation locale et éventuels connecteurs cloud",
+    "accessEn": "Local installation and optional cloud connectors",
+    "officialSources": [
+      {
+        "url": "https://docs.gpt4all.io/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      },
+      {
+        "url": "https://docs.gpt4all.io/gpt4all_desktop/localdocs.html",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      },
+      {
+        "url": "https://docs.gpt4all.io/gpt4all_api_server/home.html",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Application GPT4All de Nomic pour conversations sur modèles locaux et interrogation de fichiers via LocalDocs, fondée notamment sur embeddings Nomic et llama.cpp.",
+      "audiences": [
+        "Étudiants, enseignants, développeurs et utilisateurs souhaitant une IA locale",
+        "Responsables de confidentialité, infrastructure et maîtrise des coûts"
+      ],
+      "cases": [
+        "Créer des collections de cours PDF et poser des questions en consultant les références aux passages.",
+        "Mesurer latence, mémoire, exactitude, débit et coût du déploiement avec un jeu de tests représentatif."
+      ],
+      "advantages": [
+        "Téléchargement de modèles GGUF et fonctionnement local",
+        "LocalDocs : indexation et recherche des fichiers d'un dossier",
+        "API locale compatible OpenAI et SDK Python"
+      ],
+      "limits": [
+        "LocalDocs ne garantit pas la justesse des réponses ni le rappel exhaustif. Le service d'embeddings Nomic externe est une option désactivée par défaut ; le confier au cloud remettrait en cause l'exécution intégralement locale.",
+        "Un modèle disponible localement ou sur GPU n'est pas automatiquement privé ou sûr : vérifier réseaux, outils, logs, versions, licences et permissions."
+      ],
+      "gettingStarted": [
+        "Définir les modèles, formats, matériel, contraintes réseau, confidentialité et charge prévue.",
+        "Tester sur des données de démonstration, surveiller RAM/VRAM, coût et erreurs, puis protéger les endpoints et documenter les licences."
+      ],
+      "examples": [
+        "Compare deux configurations sur 100 requêtes identiques : précision, TTFT, tokens/s, mémoire, p95 et coût total.",
+        "Établis un protocole d'inférence reproductible avec version du runtime, identifiant du modèle, quantification et configuration du serveur."
+      ],
+      "pricing": "Logiciel disponible sans abonnement local obligatoire ; coût du matériel, énergie et poids des modèles. Les connexions cloud éventuelles sont distinctes.",
+      "privacy": "Pour une exécution réellement locale, désactiver les fournisseurs distants et limiter la télémétrie ; chiffrer les fichiers, contrôler accès réseau, clés API, logs, partage de modèles et rétention.",
+      "selection": [
+        "Sélectionner GPT4All selon l'usage (desktop_rag), la compatibilité matérielle, les licences, les API, les coûts, le support et le contrôle du trajet des données."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.gpt4all.io/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://docs.gpt4all.io/gpt4all_desktop/localdocs.html",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://docs.gpt4all.io/gpt4all_api_server/home.html",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "open-webui": {
+    "descriptionFr": "Interface conversationnelle auto-hébergeable connectée à Ollama et à des API compatibles, avec RAG, outils, utilisateurs et gestion des accès.",
+    "descriptionEn": "Self-hostable chat interface connected to Ollama and compatible APIs, with RAG, tools, users and access management.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Docker, Python, Kubernetes et application de bureau",
+      "Connexions à Ollama, OpenAI et fournisseurs compatibles",
+      "RAG, outils, contrôle d'accès, agents et intégrations"
+    ],
+    "featuresEn": [
+      "Docker, Python, Kubernetes and desktop installation",
+      "Ollama, OpenAI and compatible provider connections",
+      "RAG, tools, access controls, agents and integrations"
+    ],
+    "accessFr": "Auto-hébergement sur poste ou serveur, selon configuration",
+    "accessEn": "Self-hosted on workstation or server",
+    "officialSources": [
+      {
+        "url": "https://docs.openwebui.com/getting-started/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      },
+      {
+        "url": "https://docs.openwebui.com/getting-started/quick-start/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Interface conversationnelle auto-hébergeable connectée à Ollama et à des API compatibles, avec RAG, outils, utilisateurs et gestion des accès.",
+      "audiences": [
+        "Développeurs IA, équipes plateforme et administrateurs de modèles",
+        "Responsables de confidentialité, infrastructure et maîtrise des coûts"
+      ],
+      "cases": [
+        "Déployer pour une équipe un portail de chat documentaire connecté uniquement à un modèle local autorisé.",
+        "Mesurer latence, mémoire, exactitude, débit et coût du déploiement avec un jeu de tests représentatif."
+      ],
+      "advantages": [
+        "Docker, Python, Kubernetes et application de bureau",
+        "Connexions à Ollama, OpenAI et fournisseurs compatibles",
+        "RAG, outils, contrôle d'accès, agents et intégrations"
+      ],
+      "limits": [
+        "Open WebUI est une interface, pas un moteur de modèle ; l'inférence peut être locale ou distante. Protéger les comptes, définir WEBUI_SECRET_KEY persistant et vérifier l'activation de terminal, outils, uploads, accès réseau et fournisseurs.",
+        "Un modèle disponible localement ou sur GPU n'est pas automatiquement privé ou sûr : vérifier réseaux, outils, logs, versions, licences et permissions."
+      ],
+      "gettingStarted": [
+        "Définir les modèles, formats, matériel, contraintes réseau, confidentialité et charge prévue.",
+        "Tester sur des données de démonstration, surveiller RAM/VRAM, coût et erreurs, puis protéger les endpoints et documenter les licences."
+      ],
+      "examples": [
+        "Compare deux configurations sur 100 requêtes identiques : précision, TTFT, tokens/s, mémoire, p95 et coût total.",
+        "Établis un protocole d'inférence reproductible avec version du runtime, identifiant du modèle, quantification et configuration du serveur."
+      ],
+      "pricing": "Logiciel souvent open source ; coûts GPU, matériel, exploitation, support et éventuelle licence entreprise selon offre.",
+      "privacy": "Pour une exécution réellement locale, désactiver les fournisseurs distants et limiter la télémétrie ; chiffrer les fichiers, contrôler accès réseau, clés API, logs, partage de modèles et rétention.",
+      "selection": [
+        "Sélectionner Open WebUI selon l'usage (self_hosted_interface), la compatibilité matérielle, les licences, les API, les coûts, le support et le contrôle du trajet des données."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.openwebui.com/getting-started/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://docs.openwebui.com/getting-started/quick-start/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "anythingllm": {
+    "descriptionFr": "Solution de chat documentaire et d'agents utilisant des modèles locaux ou distants, disponible en application de bureau ou en déploiement Docker multi-utilisateurs.",
+    "descriptionEn": "Document chat and agent solution using local or remote models, available as desktop app or multi-user Docker deployment.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Espaces de travail RAG, documents, embeddings et agents",
+      "Version Desktop simplifiée pour une personne",
+      "Version Docker avec rôles, widgets intégrables et gestion d'utilisateurs"
+    ],
+    "featuresEn": [
+      "RAG workspaces, documents, embeddings and agents",
+      "Simplified single-user desktop app",
+      "Docker edition with roles, embeddable widgets and user management"
+    ],
+    "accessFr": "Installation locale et éventuels connecteurs cloud",
+    "accessEn": "Local installation and optional cloud connectors",
+    "officialSources": [
+      {
+        "url": "https://docs.anythingllm.com/installation-desktop/overview",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      },
+      {
+        "url": "https://docs.anythingllm.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Solution de chat documentaire et d'agents utilisant des modèles locaux ou distants, disponible en application de bureau ou en déploiement Docker multi-utilisateurs.",
+      "audiences": [
+        "Étudiants, enseignants, développeurs et utilisateurs souhaitant une IA locale",
+        "Responsables de confidentialité, infrastructure et maîtrise des coûts"
+      ],
+      "cases": [
+        "Construire une base de connaissances pédagogique en RAG puis ouvrir un espace différent à chaque équipe sur Docker.",
+        "Mesurer latence, mémoire, exactitude, débit et coût du déploiement avec un jeu de tests représentatif."
+      ],
+      "advantages": [
+        "Espaces de travail RAG, documents, embeddings et agents",
+        "Version Desktop simplifiée pour une personne",
+        "Version Docker avec rôles, widgets intégrables et gestion d'utilisateurs"
+      ],
+      "limits": [
+        "Les versions Desktop et Docker n'ont pas les mêmes fonctions : les widgets publics et la gestion multi-utilisateur exigent Docker. L'option de modèle cloud peut envoyer des documents ou requêtes à un tiers ; configurer stockage et accès.",
+        "Un modèle disponible localement ou sur GPU n'est pas automatiquement privé ou sûr : vérifier réseaux, outils, logs, versions, licences et permissions."
+      ],
+      "gettingStarted": [
+        "Définir les modèles, formats, matériel, contraintes réseau, confidentialité et charge prévue.",
+        "Tester sur des données de démonstration, surveiller RAM/VRAM, coût et erreurs, puis protéger les endpoints et documenter les licences."
+      ],
+      "examples": [
+        "Compare deux configurations sur 100 requêtes identiques : précision, TTFT, tokens/s, mémoire, p95 et coût total.",
+        "Établis un protocole d'inférence reproductible avec version du runtime, identifiant du modèle, quantification et configuration du serveur."
+      ],
+      "pricing": "Logiciel disponible sans abonnement local obligatoire ; coût du matériel, énergie et poids des modèles. Les connexions cloud éventuelles sont distinctes.",
+      "privacy": "Pour une exécution réellement locale, désactiver les fournisseurs distants et limiter la télémétrie ; chiffrer les fichiers, contrôler accès réseau, clés API, logs, partage de modèles et rétention.",
+      "selection": [
+        "Sélectionner AnythingLLM selon l'usage (desktop_rag), la compatibilité matérielle, les licences, les API, les coûts, le support et le contrôle du trajet des données."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.anythingllm.com/installation-desktop/overview",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://docs.anythingllm.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "localai": {
+    "descriptionFr": "Serveur open source LocalAI offrant une API compatible OpenAI avec de nombreux backends pour textes, audio, image, vidéo, embeddings et autres modalités sur matériels variés.",
+    "descriptionEn": "LocalAI open-source OpenAI-compatible API server with varied backends for text, audio, image, video, embeddings and more across hardware.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Serveur API compatible avec applications existantes",
+      "Backends OCI : llama.cpp, vLLM, MLX, STT, TTS et diffusion",
+      "Déploiement GPU/CPU, workers distants et modules multimodaux"
+    ],
+    "featuresEn": [
+      "API server compatible with existing clients",
+      "OCI backends for llama.cpp, vLLM, MLX, STT, TTS and diffusion",
+      "CPU/GPU setup, remote workers and multimodal modules"
+    ],
+    "accessFr": "Auto-hébergement sur poste ou serveur, selon configuration",
+    "accessEn": "Self-hosted on workstation or server",
+    "officialSources": [
+      {
+        "url": "https://localai.io/docs/overview/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      },
+      {
+        "url": "https://localai.io/docs/models/backends/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Serveur open source LocalAI offrant une API compatible OpenAI avec de nombreux backends pour textes, audio, image, vidéo, embeddings et autres modalités sur matériels variés.",
+      "audiences": [
+        "Développeurs IA, équipes plateforme et administrateurs de modèles",
+        "Responsables de confidentialité, infrastructure et maîtrise des coûts"
+      ],
+      "cases": [
+        "Déployer un service interne texte, embeddings et transcription avec accès aux seuls comptes autorisés.",
+        "Mesurer latence, mémoire, exactitude, débit et coût du déploiement avec un jeu de tests représentatif."
+      ],
+      "advantages": [
+        "Serveur API compatible avec applications existantes",
+        "Backends OCI : llama.cpp, vLLM, MLX, STT, TTS et diffusion",
+        "Déploiement GPU/CPU, workers distants et modules multimodaux"
+      ],
+      "limits": [
+        "Plus de 60 backends sont documentés, mais compatibilité et maintenance varient selon modèle et accélérateur ; benchmarker chaque pipeline. Ne pas exposer un serveur LocalAI non authentifié sur Internet ou à des agents aux permissions excessives.",
+        "Un modèle disponible localement ou sur GPU n'est pas automatiquement privé ou sûr : vérifier réseaux, outils, logs, versions, licences et permissions."
+      ],
+      "gettingStarted": [
+        "Définir les modèles, formats, matériel, contraintes réseau, confidentialité et charge prévue.",
+        "Tester sur des données de démonstration, surveiller RAM/VRAM, coût et erreurs, puis protéger les endpoints et documenter les licences."
+      ],
+      "examples": [
+        "Compare deux configurations sur 100 requêtes identiques : précision, TTFT, tokens/s, mémoire, p95 et coût total.",
+        "Établis un protocole d'inférence reproductible avec version du runtime, identifiant du modèle, quantification et configuration du serveur."
+      ],
+      "pricing": "Logiciel souvent open source ; coûts GPU, matériel, exploitation, support et éventuelle licence entreprise selon offre.",
+      "privacy": "Pour une exécution réellement locale, désactiver les fournisseurs distants et limiter la télémétrie ; chiffrer les fichiers, contrôler accès réseau, clés API, logs, partage de modèles et rétention.",
+      "selection": [
+        "Sélectionner LocalAI selon l'usage (self_hosted_runtime), la compatibilité matérielle, les licences, les API, les coûts, le support et le contrôle du trajet des données."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://localai.io/docs/overview/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://localai.io/docs/models/backends/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "llama-cpp": {
+    "descriptionFr": "Moteur C/C++ d'inférence locale et sur serveur pour modèles quantifiés GGUF, doté de llama-server, de nombreux backends matériels et de fonctions de batching.",
+    "descriptionEn": "C/C++ inference engine for GGUF quantized models locally or in servers with llama-server, diverse hardware backends and batching.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Chargement, quantification et inférence GGUF",
+      "llama-server : API compatibles, vision selon modèle et outils",
+      "KV cache, batching, routeur multimodèle et décodage spéculatif"
+    ],
+    "featuresEn": [
+      "GGUF loading, quantization and inference",
+      "llama-server APIs, model-dependent vision and tools",
+      "KV cache, batching, multi-model router and speculative decoding"
+    ],
+    "accessFr": "Bibliothèque/runtime à installer sur matériel compatible",
+    "accessEn": "Library/runtime installed on supported hardware",
+    "officialSources": [
+      {
+        "url": "https://github.com/ggml-org/llama.cpp",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      },
+      {
+        "url": "https://github.com/ggml-org/llama.cpp/blob/master/tools/server/README.md",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Moteur C/C++ d'inférence locale et sur serveur pour modèles quantifiés GGUF, doté de llama-server, de nombreux backends matériels et de fonctions de batching.",
+      "audiences": [
+        "Ingénieurs ML et responsables de performance d'inférence",
+        "Responsables de confidentialité, infrastructure et maîtrise des coûts"
+      ],
+      "cases": [
+        "Exposer un modèle GGUF quantifié localement et mesurer consommation mémoire, débit et cohérence des sorties.",
+        "Mesurer latence, mémoire, exactitude, débit et coût du déploiement avec un jeu de tests représentatif."
+      ],
+      "advantages": [
+        "Chargement, quantification et inférence GGUF",
+        "llama-server : API compatibles, vision selon modèle et outils",
+        "KV cache, batching, routeur multimodèle et décodage spéculatif"
+      ],
+      "limits": [
+        "Les outils du serveur capables de lire des fichiers doivent rester désactivés par défaut et n'être ouverts que de façon explicite. Les capacités multimodales et le tool calling varient par modèle/version ; vérifier formats et licence des poids.",
+        "Un modèle disponible localement ou sur GPU n'est pas automatiquement privé ou sûr : vérifier réseaux, outils, logs, versions, licences et permissions."
+      ],
+      "gettingStarted": [
+        "Définir les modèles, formats, matériel, contraintes réseau, confidentialité et charge prévue.",
+        "Tester sur des données de démonstration, surveiller RAM/VRAM, coût et erreurs, puis protéger les endpoints et documenter les licences."
+      ],
+      "examples": [
+        "Compare deux configurations sur 100 requêtes identiques : précision, TTFT, tokens/s, mémoire, p95 et coût total.",
+        "Établis un protocole d'inférence reproductible avec version du runtime, identifiant du modèle, quantification et configuration du serveur."
+      ],
+      "pricing": "Logiciel souvent open source ; coûts GPU, matériel, exploitation, support et éventuelle licence entreprise selon offre.",
+      "privacy": "Pour une exécution réellement locale, désactiver les fournisseurs distants et limiter la télémétrie ; chiffrer les fichiers, contrôler accès réseau, clés API, logs, partage de modèles et rétention.",
+      "selection": [
+        "Sélectionner llama.cpp selon l'usage (inference_engine), la compatibilité matérielle, les licences, les API, les coûts, le support et le contrôle du trajet des données."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://github.com/ggml-org/llama.cpp",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://github.com/ggml-org/llama.cpp/blob/master/tools/server/README.md",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "vllm": {
+    "descriptionFr": "Moteur d'inférence haute performance vLLM pour servir des LLM à plusieurs utilisateurs, avec gestion efficace des caches KV, API compatibles et stratégies de parallélisme.",
+    "descriptionEn": "High-performance vLLM engine for multi-user LLM serving with efficient KV-cache management, compatible APIs and parallel strategies.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "API serveur compatible OpenAI et génération structurée",
+      "PagedAttention, continuous batching et prefix caching",
+      "Disaggregated prefill en expérimentation et multi-GPU"
+    ],
+    "featuresEn": [
+      "OpenAI-compatible server and structured output",
+      "PagedAttention, continuous batching and prefix caching",
+      "Experimental disaggregated prefill and multi-GPU"
+    ],
+    "accessFr": "Bibliothèque/runtime à installer sur matériel compatible",
+    "accessEn": "Library/runtime installed on supported hardware",
+    "officialSources": [
+      {
+        "url": "https://docs.vllm.ai/en/latest/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      },
+      {
+        "url": "https://docs.vllm.ai/en/latest/features/disagg_prefill/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Moteur d'inférence haute performance vLLM pour servir des LLM à plusieurs utilisateurs, avec gestion efficace des caches KV, API compatibles et stratégies de parallélisme.",
+      "audiences": [
+        "Ingénieurs ML et responsables de performance d'inférence",
+        "Responsables de confidentialité, infrastructure et maîtrise des coûts"
+      ],
+      "cases": [
+        "Servir un modèle ouvert sur un GPU partagé et mesurer latence p95, coût par mille tokens et requêtes concurrentes.",
+        "Mesurer latence, mémoire, exactitude, débit et coût du déploiement avec un jeu de tests représentatif."
+      ],
+      "advantages": [
+        "API serveur compatible OpenAI et génération structurée",
+        "PagedAttention, continuous batching et prefix caching",
+        "Disaggregated prefill en expérimentation et multi-GPU"
+      ],
+      "limits": [
+        "Le découplage prefill/decode est encore expérimental selon la documentation, et toutes les architectures/quantifications ne sont pas compatibles. Prévoir exploitation GPU, quotas, auth API et mesures sous charge représentative.",
+        "Un modèle disponible localement ou sur GPU n'est pas automatiquement privé ou sûr : vérifier réseaux, outils, logs, versions, licences et permissions."
+      ],
+      "gettingStarted": [
+        "Définir les modèles, formats, matériel, contraintes réseau, confidentialité et charge prévue.",
+        "Tester sur des données de démonstration, surveiller RAM/VRAM, coût et erreurs, puis protéger les endpoints et documenter les licences."
+      ],
+      "examples": [
+        "Compare deux configurations sur 100 requêtes identiques : précision, TTFT, tokens/s, mémoire, p95 et coût total.",
+        "Établis un protocole d'inférence reproductible avec version du runtime, identifiant du modèle, quantification et configuration du serveur."
+      ],
+      "pricing": "Logiciel souvent open source ; coûts GPU, matériel, exploitation, support et éventuelle licence entreprise selon offre.",
+      "privacy": "Pour une exécution réellement locale, désactiver les fournisseurs distants et limiter la télémétrie ; chiffrer les fichiers, contrôler accès réseau, clés API, logs, partage de modèles et rétention.",
+      "selection": [
+        "Sélectionner vLLM selon l'usage (inference_engine), la compatibilité matérielle, les licences, les API, les coûts, le support et le contrôle du trajet des données."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.vllm.ai/en/latest/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://docs.vllm.ai/en/latest/features/disagg_prefill/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "sglang": {
+    "descriptionFr": "Serveur d'inférence de modèles de langage et multimodaux optimisé pour latence et débit avec RadixAttention, cache de préfixe et API compatible OpenAI.",
+    "descriptionEn": "Serving framework for language and multimodal models optimized for throughput and latency with RadixAttention, prefix caching and OpenAI-compatible APIs.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "RadixAttention et réutilisation de préfixes",
+      "Parallélisme GPU et prise en charge multi-matériel",
+      "API compatibles et intégration Hugging Face"
+    ],
+    "featuresEn": [
+      "RadixAttention and prefix reuse",
+      "GPU parallelism and broad hardware support",
+      "Compatible APIs and Hugging Face integrations"
+    ],
+    "accessFr": "Bibliothèque/runtime à installer sur matériel compatible",
+    "accessEn": "Library/runtime installed on supported hardware",
+    "officialSources": [
+      {
+        "url": "https://docs.sglang.io/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      },
+      {
+        "url": "https://github.com/sgl-project/sglang",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Serveur d'inférence de modèles de langage et multimodaux optimisé pour latence et débit avec RadixAttention, cache de préfixe et API compatible OpenAI.",
+      "audiences": [
+        "Ingénieurs ML et responsables de performance d'inférence",
+        "Responsables de confidentialité, infrastructure et maîtrise des coûts"
+      ],
+      "cases": [
+        "Mettre en production un modèle de génération de fiches et comparer sa latence à vLLM à qualité égale.",
+        "Mesurer latence, mémoire, exactitude, débit et coût du déploiement avec un jeu de tests représentatif."
+      ],
+      "advantages": [
+        "RadixAttention et réutilisation de préfixes",
+        "Parallélisme GPU et prise en charge multi-matériel",
+        "API compatibles et intégration Hugging Face"
+      ],
+      "limits": [
+        "Le lien historique docs.sglang.ai redirige vers docs.sglang.io. Les benchmarks dépendent du hardware, modèle, batch et taille des prompts ; prévoir protection API, observabilité et configuration du cache.",
+        "Un modèle disponible localement ou sur GPU n'est pas automatiquement privé ou sûr : vérifier réseaux, outils, logs, versions, licences et permissions."
+      ],
+      "gettingStarted": [
+        "Définir les modèles, formats, matériel, contraintes réseau, confidentialité et charge prévue.",
+        "Tester sur des données de démonstration, surveiller RAM/VRAM, coût et erreurs, puis protéger les endpoints et documenter les licences."
+      ],
+      "examples": [
+        "Compare deux configurations sur 100 requêtes identiques : précision, TTFT, tokens/s, mémoire, p95 et coût total.",
+        "Établis un protocole d'inférence reproductible avec version du runtime, identifiant du modèle, quantification et configuration du serveur."
+      ],
+      "pricing": "Logiciel souvent open source ; coûts GPU, matériel, exploitation, support et éventuelle licence entreprise selon offre.",
+      "privacy": "Pour une exécution réellement locale, désactiver les fournisseurs distants et limiter la télémétrie ; chiffrer les fichiers, contrôler accès réseau, clés API, logs, partage de modèles et rétention.",
+      "selection": [
+        "Sélectionner SGLang selon l'usage (inference_engine), la compatibilité matérielle, les licences, les API, les coûts, le support et le contrôle du trajet des données."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.sglang.io/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://github.com/sgl-project/sglang",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "tensorrt-llm": {
+    "descriptionFr": "Bibliothèque NVIDIA TensorRT-LLM pour optimiser et servir des modèles sur GPU NVIDIA avec trtllm-serve, quantification et parallélisme.",
+    "descriptionEn": "NVIDIA TensorRT-LLM inference library for optimizing and serving models on NVIDIA GPUs using trtllm-serve, quantization and parallelism.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "trtllm-serve avec API compatible OpenAI",
+      "Quantification, KV cache et parallélisme",
+      "LLM API Python, tests de débit et outils de benchmarking"
+    ],
+    "featuresEn": [
+      "trtllm-serve with OpenAI-compatible API",
+      "Quantization, KV caching and parallel execution",
+      "Python LLM API and throughput benchmarks"
+    ],
+    "accessFr": "Bibliothèque/runtime à installer sur matériel compatible",
+    "accessEn": "Library/runtime installed on supported hardware",
+    "officialSources": [
+      {
+        "url": "https://nvidia.github.io/TensorRT-LLM/quick-start-guide.html",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      },
+      {
+        "url": "https://nvidia.github.io/TensorRT-LLM/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Bibliothèque NVIDIA TensorRT-LLM pour optimiser et servir des modèles sur GPU NVIDIA avec trtllm-serve, quantification et parallélisme.",
+      "audiences": [
+        "Ingénieurs ML et responsables de performance d'inférence",
+        "Responsables de confidentialité, infrastructure et maîtrise des coûts"
+      ],
+      "cases": [
+        "Déployer un modèle quantifié sur GPU NVIDIA compatible puis comparer son coût par requête au serveur de référence.",
+        "Mesurer latence, mémoire, exactitude, débit et coût du déploiement avec un jeu de tests représentatif."
+      ],
+      "advantages": [
+        "trtllm-serve avec API compatible OpenAI",
+        "Quantification, KV cache et parallélisme",
+        "LLM API Python, tests de débit et outils de benchmarking"
+      ],
+      "limits": [
+        "Les fonctions d'optimisation dépendent de la génération GPU, pilotes, CUDA et format du modèle. Les modèles à plusieurs milliards de paramètres peuvent nécessiter une forte VRAM et une expertise d'exploitation ; vérifier licences distinctes.",
+        "Un modèle disponible localement ou sur GPU n'est pas automatiquement privé ou sûr : vérifier réseaux, outils, logs, versions, licences et permissions."
+      ],
+      "gettingStarted": [
+        "Définir les modèles, formats, matériel, contraintes réseau, confidentialité et charge prévue.",
+        "Tester sur des données de démonstration, surveiller RAM/VRAM, coût et erreurs, puis protéger les endpoints et documenter les licences."
+      ],
+      "examples": [
+        "Compare deux configurations sur 100 requêtes identiques : précision, TTFT, tokens/s, mémoire, p95 et coût total.",
+        "Établis un protocole d'inférence reproductible avec version du runtime, identifiant du modèle, quantification et configuration du serveur."
+      ],
+      "pricing": "Logiciel souvent open source ; coûts GPU, matériel, exploitation, support et éventuelle licence entreprise selon offre.",
+      "privacy": "Pour une exécution réellement locale, désactiver les fournisseurs distants et limiter la télémétrie ; chiffrer les fichiers, contrôler accès réseau, clés API, logs, partage de modèles et rétention.",
+      "selection": [
+        "Sélectionner TensorRT-LLM selon l'usage (gpu_optimized_engine), la compatibilité matérielle, les licences, les API, les coûts, le support et le contrôle du trajet des données."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://nvidia.github.io/TensorRT-LLM/quick-start-guide.html",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://nvidia.github.io/TensorRT-LLM/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "text-generation-inference": {
+    "descriptionFr": "Text Generation Inference (TGI) de Hugging Face est un ancien moteur de service LLM désormais en maintenance et dont le dépôt a été archivé le 21 mars 2026.",
+    "descriptionEn": "Hugging Face Text Generation Inference (TGI) is a legacy LLM serving engine in maintenance mode, with its repository archived March 21, 2026.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Serving LLM via conteneur (historique)",
+      "Tensor parallelism, streaming, métriques et batching",
+      "Migration recommandée vers vLLM ou SGLang pour nouveaux projets"
+    ],
+    "featuresEn": [
+      "Historical container-based LLM serving",
+      "Tensor parallelism, streaming, metrics and batching",
+      "Recommended migration to vLLM or SGLang for new projects"
+    ],
+    "accessFr": "Code archivé, maintenance limitée ; documentation historique",
+    "accessEn": "Archived codebase, maintenance-only historical docs",
+    "officialSources": [
+      {
+        "url": "https://huggingface.co/docs/text-generation-inference/en/index",
+        "checkedAt": "2026-11-17",
+        "scope": "maintenance_and_archival_status"
+      },
+      {
+        "url": "https://github.com/huggingface/text-generation-inference",
+        "checkedAt": "2026-11-17",
+        "scope": "maintenance_and_archival_status"
+      },
+      {
+        "url": "https://huggingface.co/docs/inference-endpoints/en/engines/tgi",
+        "checkedAt": "2026-11-17",
+        "scope": "maintenance_and_archival_status"
+      }
+    ],
+    "research": {
+      "headline": "Text Generation Inference (TGI) de Hugging Face est un ancien moteur de service LLM désormais en maintenance et dont le dépôt a été archivé le 21 mars 2026.",
+      "audiences": [
+        "Développeurs IA, équipes plateforme et administrateurs de modèles",
+        "Responsables de confidentialité, infrastructure et maîtrise des coûts"
+      ],
+      "cases": [
+        "Documenter une installation TGI existante, préparer un serveur vLLM de remplacement et comparer les sorties sur des tests contrôlés.",
+        "Mesurer latence, mémoire, exactitude, débit et coût du déploiement avec un jeu de tests représentatif."
+      ],
+      "advantages": [
+        "Serving LLM via conteneur (historique)",
+        "Tensor parallelism, streaming, métriques et batching",
+        "Migration recommandée vers vLLM ou SGLang pour nouveaux projets"
+      ],
+      "limits": [
+        "Hugging Face indique TGI en maintenance depuis décembre 2025 et le dépôt GitHub est en lecture seule depuis le 21 mars 2026. Pour un nouveau déploiement, privilégier les moteurs toujours développés ; migration de service et test de compatibilité nécessaires.",
+        "Un modèle disponible localement ou sur GPU n'est pas automatiquement privé ou sûr : vérifier réseaux, outils, logs, versions, licences et permissions."
+      ],
+      "gettingStarted": [
+        "Éviter de choisir TGI pour un nouveau déploiement ; tester une alternative vLLM ou SGLang avant migration.",
+        "Tester sur des données de démonstration, surveiller RAM/VRAM, coût et erreurs, puis protéger les endpoints et documenter les licences."
+      ],
+      "examples": [
+        "Compare deux configurations sur 100 requêtes identiques : précision, TTFT, tokens/s, mémoire, p95 et coût total.",
+        "Établis un protocole d'inférence reproductible avec version du runtime, identifiant du modèle, quantification et configuration du serveur."
+      ],
+      "pricing": "Dépôt open source archivé : pas de nouveau service TGI recommandé. Les coûts de migration et d'hébergement restent à évaluer.",
+      "privacy": "Pour une exécution réellement locale, désactiver les fournisseurs distants et limiter la télémétrie ; chiffrer les fichiers, contrôler accès réseau, clés API, logs, partage de modèles et rétention.",
+      "selection": [
+        "Sélectionner Text Generation Inference selon l'usage (legacy_engine), la compatibilité matérielle, les licences, les API, les coûts, le support et le contrôle du trajet des données."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "archived_repository_maintenance_only",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://huggingface.co/docs/text-generation-inference/en/index",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://github.com/huggingface/text-generation-inference",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://huggingface.co/docs/inference-endpoints/en/engines/tgi",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_repo_archived",
+    "name": "Text Generation Inference (TGI — archivé)",
+    "url": "https://github.com/huggingface/text-generation-inference"
+  },
+  "llamafile": {
+    "descriptionFr": "Outil Mozilla llamafile qui regroupe runtime et poids d'un LLM dans un fichier exécutable portable afin de faciliter la distribution de modèles locaux.",
+    "descriptionEn": "Mozilla llamafile packages an LLM runtime and weights into one portable executable for easier local-model distribution.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Exécutable autonome multi-plateformes",
+      "Conteneur de poids, paramètres et runtime en un seul fichier",
+      "Projet Mozilla.ai et variante whisperfile pour transcription"
+    ],
+    "featuresEn": [
+      "Single-file portable executable across operating systems",
+      "Bundled model weights, defaults and runtime",
+      "Mozilla.ai project and whisperfile transcription variant"
+    ],
+    "accessFr": "Installation locale et éventuels connecteurs cloud",
+    "accessEn": "Local installation and optional cloud connectors",
+    "officialSources": [
+      {
+        "url": "https://github.com/mozilla-ai/llamafile",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      },
+      {
+        "url": "https://github.com/mozilla-ai/llamafile/blob/main/docs/support.md",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Outil Mozilla llamafile qui regroupe runtime et poids d'un LLM dans un fichier exécutable portable afin de faciliter la distribution de modèles locaux.",
+      "audiences": [
+        "Étudiants, enseignants, développeurs et utilisateurs souhaitant une IA locale",
+        "Responsables de confidentialité, infrastructure et maîtrise des coûts"
+      ],
+      "cases": [
+        "Diffuser un petit assistant hors ligne pour ateliers pédagogiques avec un fichier autonome vérifié.",
+        "Mesurer latence, mémoire, exactitude, débit et coût du déploiement avec un jeu de tests représentatif."
+      ],
+      "advantages": [
+        "Exécutable autonome multi-plateformes",
+        "Conteneur de poids, paramètres et runtime en un seul fichier",
+        "Projet Mozilla.ai et variante whisperfile pour transcription"
+      ],
+      "limits": [
+        "Le dépôt actuel est mozilla-ai/llamafile et non l'ancien Mozilla-Ocho. Portable ne signifie pas compatible avec tous CPU/GPU : vérifier AVX, OS, taille des modèles, signatures du binaire et permissions de lancement.",
+        "Un modèle disponible localement ou sur GPU n'est pas automatiquement privé ou sûr : vérifier réseaux, outils, logs, versions, licences et permissions."
+      ],
+      "gettingStarted": [
+        "Définir les modèles, formats, matériel, contraintes réseau, confidentialité et charge prévue.",
+        "Tester sur des données de démonstration, surveiller RAM/VRAM, coût et erreurs, puis protéger les endpoints et documenter les licences."
+      ],
+      "examples": [
+        "Compare deux configurations sur 100 requêtes identiques : précision, TTFT, tokens/s, mémoire, p95 et coût total.",
+        "Établis un protocole d'inférence reproductible avec version du runtime, identifiant du modèle, quantification et configuration du serveur."
+      ],
+      "pricing": "Logiciel disponible sans abonnement local obligatoire ; coût du matériel, énergie et poids des modèles. Les connexions cloud éventuelles sont distinctes.",
+      "privacy": "Pour une exécution réellement locale, désactiver les fournisseurs distants et limiter la télémétrie ; chiffrer les fichiers, contrôler accès réseau, clés API, logs, partage de modèles et rétention.",
+      "selection": [
+        "Sélectionner llamafile selon l'usage (portable_runtime), la compatibilité matérielle, les licences, les API, les coûts, le support et le contrôle du trajet des données."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://github.com/mozilla-ai/llamafile",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://github.com/mozilla-ai/llamafile/blob/main/docs/support.md",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed",
+    "url": "https://github.com/mozilla-ai/llamafile"
+  },
+  "mlx": {
+    "descriptionFr": "Framework de machine learning MLX d'Apple offrant tableaux et opérateurs pour modèles locaux, historiquement sur Apple Silicon mais avec nouveaux backends CUDA et CPU Linux.",
+    "descriptionEn": "Apple MLX machine-learning array framework, historically Apple Silicon-focused but now also offering CUDA and CPU-only Linux backends.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Python, C/C++, Swift et différentiation automatique",
+      "MLX-LM et modèles sur mémoire unifiée Apple",
+      "Installations Linux CUDA 12/13 et CPU-only selon environnement"
+    ],
+    "featuresEn": [
+      "Python, C/C++, Swift and autodiff",
+      "MLX-LM and unified-memory Apple hardware workflows",
+      "Linux CUDA 12/13 and CPU-only install variants"
+    ],
+    "accessFr": "Bibliothèque/runtime à installer sur matériel compatible",
+    "accessEn": "Library/runtime installed on supported hardware",
+    "officialSources": [
+      {
+        "url": "https://github.com/ml-explore/mlx",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      },
+      {
+        "url": "https://github.com/ml-explore/mlx/blob/main/docs/src/install.rst",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      },
+      {
+        "url": "https://github.com/ml-explore/mlx-swift",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Framework de machine learning MLX d'Apple offrant tableaux et opérateurs pour modèles locaux, historiquement sur Apple Silicon mais avec nouveaux backends CUDA et CPU Linux.",
+      "audiences": [
+        "Ingénieurs ML et responsables de performance d'inférence",
+        "Responsables de confidentialité, infrastructure et maîtrise des coûts"
+      ],
+      "cases": [
+        "Adapter un modèle de classification local sur Mac Apple Silicon puis vérifier la possibilité de le reproduire sur une machine Linux compatible.",
+        "Mesurer latence, mémoire, exactitude, débit et coût du déploiement avec un jeu de tests représentatif."
+      ],
+      "advantages": [
+        "Python, C/C++, Swift et différentiation automatique",
+        "MLX-LM et modèles sur mémoire unifiée Apple",
+        "Installations Linux CUDA 12/13 et CPU-only selon environnement"
+      ],
+      "limits": [
+        "MLX est un framework de tableaux/ML, pas une application de chat. Les variantes CUDA et CPU Linux ont des prérequis différents du macOS Apple Silicon ; ne pas supposer que tout code ou opérateur a des performances identiques.",
+        "Un modèle disponible localement ou sur GPU n'est pas automatiquement privé ou sûr : vérifier réseaux, outils, logs, versions, licences et permissions."
+      ],
+      "gettingStarted": [
+        "Définir les modèles, formats, matériel, contraintes réseau, confidentialité et charge prévue.",
+        "Tester sur des données de démonstration, surveiller RAM/VRAM, coût et erreurs, puis protéger les endpoints et documenter les licences."
+      ],
+      "examples": [
+        "Compare deux configurations sur 100 requêtes identiques : précision, TTFT, tokens/s, mémoire, p95 et coût total.",
+        "Établis un protocole d'inférence reproductible avec version du runtime, identifiant du modèle, quantification et configuration du serveur."
+      ],
+      "pricing": "Logiciel souvent open source ; coûts GPU, matériel, exploitation, support et éventuelle licence entreprise selon offre.",
+      "privacy": "Pour une exécution réellement locale, désactiver les fournisseurs distants et limiter la télémétrie ; chiffrer les fichiers, contrôler accès réseau, clés API, logs, partage de modèles et rétention.",
+      "selection": [
+        "Sélectionner MLX selon l'usage (ml_framework), la compatibilité matérielle, les licences, les API, les coûts, le support et le contrôle du trajet des données."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "expanded_from_apple_silicon_to_cuda_linux",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://github.com/ml-explore/mlx",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://github.com/ml-explore/mlx/blob/main/docs/src/install.rst",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://github.com/ml-explore/mlx-swift",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_hardware_expansion"
+  },
+  "onnx-runtime": {
+    "descriptionFr": "Moteur ONNX Runtime de déploiement de modèles sur différents systèmes, avec ONNX Runtime GenAI pour boucles de génération et gestion de caches KV.",
+    "descriptionEn": "Cross-platform ONNX Runtime inference engine, including ONNX Runtime GenAI for generation loops and KV-cache handling.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Execution Providers CPU, CUDA, DirectML et autres",
+      "API GenAI pour génération autoregressive et sampling",
+      "Conversion ONNX, optimisation et déploiement edge"
+    ],
+    "featuresEn": [
+      "CPU, CUDA, DirectML and other Execution Providers",
+      "GenAI API for autoregressive loops and sampling",
+      "ONNX conversion, optimization and edge deployment"
+    ],
+    "accessFr": "Bibliothèque/runtime à installer sur matériel compatible",
+    "accessEn": "Library/runtime installed on supported hardware",
+    "officialSources": [
+      {
+        "url": "https://onnxruntime.ai/docs/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      },
+      {
+        "url": "https://onnxruntime.ai/docs/genai/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      },
+      {
+        "url": "https://onnxruntime.ai/docs/genai/howto/install.html",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Moteur ONNX Runtime de déploiement de modèles sur différents systèmes, avec ONNX Runtime GenAI pour boucles de génération et gestion de caches KV.",
+      "audiences": [
+        "Ingénieurs ML et responsables de performance d'inférence",
+        "Responsables de confidentialité, infrastructure et maîtrise des coûts"
+      ],
+      "cases": [
+        "Embarquer un modèle ONNX sur un PC Windows et comparer l'inférence CPU/DirectML sur données de test.",
+        "Mesurer latence, mémoire, exactitude, débit et coût du déploiement avec un jeu de tests représentatif."
+      ],
+      "advantages": [
+        "Execution Providers CPU, CUDA, DirectML et autres",
+        "API GenAI pour génération autoregressive et sampling",
+        "Conversion ONNX, optimisation et déploiement edge"
+      ],
+      "limits": [
+        "L'API onnxruntime-genai est encore en preview selon Microsoft ; elle ne prend pas en charge toutes les architectures et peut évoluer. Installer un seul package d'exécution adapté et valider quantification et exactitude.",
+        "Un modèle disponible localement ou sur GPU n'est pas automatiquement privé ou sûr : vérifier réseaux, outils, logs, versions, licences et permissions."
+      ],
+      "gettingStarted": [
+        "Définir les modèles, formats, matériel, contraintes réseau, confidentialité et charge prévue.",
+        "Tester sur des données de démonstration, surveiller RAM/VRAM, coût et erreurs, puis protéger les endpoints et documenter les licences."
+      ],
+      "examples": [
+        "Compare deux configurations sur 100 requêtes identiques : précision, TTFT, tokens/s, mémoire, p95 et coût total.",
+        "Établis un protocole d'inférence reproductible avec version du runtime, identifiant du modèle, quantification et configuration du serveur."
+      ],
+      "pricing": "Logiciel souvent open source ; coûts GPU, matériel, exploitation, support et éventuelle licence entreprise selon offre.",
+      "privacy": "Pour une exécution réellement locale, désactiver les fournisseurs distants et limiter la télémétrie ; chiffrer les fichiers, contrôler accès réseau, clés API, logs, partage de modèles et rétention.",
+      "selection": [
+        "Sélectionner ONNX Runtime selon l'usage (portable_inference), la compatibilité matérielle, les licences, les API, les coûts, le support et le contrôle du trajet des données."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "genai_api_preview",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://onnxruntime.ai/docs/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://onnxruntime.ai/docs/genai/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://onnxruntime.ai/docs/genai/howto/install.html",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_preview"
+  },
+  "openvino": {
+    "descriptionFr": "Toolkit Intel OpenVINO 2026.4 pour accélérer l'inférence ML et GenAI sur CPU, GPU et NPU Intel, avec OpenVINO GenAI et Model Server.",
+    "descriptionEn": "Intel OpenVINO 2026.4 toolkit for accelerated conventional ML and GenAI inference on Intel CPUs, GPUs and NPUs, including GenAI and Model Server.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "OpenVINO GenAI pour LLM, audio et vision",
+      "NNCF, compression et quantification de modèles",
+      "OpenVINO Model Server et API d'inférence"
+    ],
+    "featuresEn": [
+      "OpenVINO GenAI for LLMs, audio and vision",
+      "NNCF compression and quantization",
+      "OpenVINO Model Server inference APIs"
+    ],
+    "accessFr": "Bibliothèque/runtime à installer sur matériel compatible",
+    "accessEn": "Library/runtime installed on supported hardware",
+    "officialSources": [
+      {
+        "url": "https://docs.openvino.ai/2026/index.html",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      },
+      {
+        "url": "https://docs.openvino.ai/2026/about-openvino/release-notes-openvino.html",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Toolkit Intel OpenVINO 2026.4 pour accélérer l'inférence ML et GenAI sur CPU, GPU et NPU Intel, avec OpenVINO GenAI et Model Server.",
+      "audiences": [
+        "Ingénieurs ML et responsables de performance d'inférence",
+        "Responsables de confidentialité, infrastructure et maîtrise des coûts"
+      ],
+      "cases": [
+        "Déployer un modèle de reconnaissance de documents sur un PC Intel avec NPU et mesurer latence et mémoire.",
+        "Mesurer latence, mémoire, exactitude, débit et coût du déploiement avec un jeu de tests représentatif."
+      ],
+      "advantages": [
+        "OpenVINO GenAI pour LLM, audio et vision",
+        "NNCF, compression et quantification de modèles",
+        "OpenVINO Model Server et API d'inférence"
+      ],
+      "limits": [
+        "Les modèles, accélérations et fonctionnalités en preview ne sont pas uniformes sur chaque génération de CPU/GPU/NPU. Les performances constructeur varient avec modèle, précision et configuration ; prévoir tests de régression après conversion.",
+        "Un modèle disponible localement ou sur GPU n'est pas automatiquement privé ou sûr : vérifier réseaux, outils, logs, versions, licences et permissions."
+      ],
+      "gettingStarted": [
+        "Définir les modèles, formats, matériel, contraintes réseau, confidentialité et charge prévue.",
+        "Tester sur des données de démonstration, surveiller RAM/VRAM, coût et erreurs, puis protéger les endpoints et documenter les licences."
+      ],
+      "examples": [
+        "Compare deux configurations sur 100 requêtes identiques : précision, TTFT, tokens/s, mémoire, p95 et coût total.",
+        "Établis un protocole d'inférence reproductible avec version du runtime, identifiant du modèle, quantification et configuration du serveur."
+      ],
+      "pricing": "Logiciel souvent open source ; coûts GPU, matériel, exploitation, support et éventuelle licence entreprise selon offre.",
+      "privacy": "Pour une exécution réellement locale, désactiver les fournisseurs distants et limiter la télémétrie ; chiffrer les fichiers, contrôler accès réseau, clés API, logs, partage de modèles et rétention.",
+      "selection": [
+        "Sélectionner OpenVINO selon l'usage (intel_optimization), la compatibilité matérielle, les licences, les API, les coûts, le support et le contrôle du trajet des données."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.openvino.ai/2026/index.html",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://docs.openvino.ai/2026/about-openvino/release-notes-openvino.html",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "bentoml": {
+    "descriptionFr": "Framework Python open source BentoML pour transformer des modèles ML/IA en API et applications déployables ; la documentation de l'ancien BentoCloud est archivée et signale son retrait progressif.",
+    "descriptionEn": "BentoML open-source Python framework for packaging ML/AI models as deployable APIs and applications; legacy BentoCloud documentation is archived and marks a phase-out.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Services Python, packaging, endpoints et batching",
+      "Exécution de modèles et pipelines composés",
+      "Observabilité, logs et API de production"
+    ],
+    "featuresEn": [
+      "Python services, packaging, endpoints and batching",
+      "Model execution and composed pipelines",
+      "Observability, logs and production APIs"
+    ],
+    "accessFr": "Framework Python open source et service cloud distinct",
+    "accessEn": "Open-source Python framework and separate cloud service",
+    "officialSources": [
+      {
+        "url": "https://docs.bentoml.com/en/latest/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      },
+      {
+        "url": "https://docs.bentoml.com/en/bentocloud/get-started/cloud-deployment.html",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Framework Python open source BentoML pour transformer des modèles ML/IA en API et applications déployables ; la documentation de l'ancien BentoCloud est archivée et signale son retrait progressif.",
+      "audiences": [
+        "Développeurs IA, équipes plateforme et administrateurs de modèles",
+        "Responsables de confidentialité, infrastructure et maîtrise des coûts"
+      ],
+      "cases": [
+        "Créer une API de résumé avec BentoML puis la tester dans un environnement isolé avant déploiement.",
+        "Mesurer latence, mémoire, exactitude, débit et coût du déploiement avec un jeu de tests représentatif."
+      ],
+      "advantages": [
+        "Services Python, packaging, endpoints et batching",
+        "Exécution de modèles et pipelines composés",
+        "Observabilité, logs et API de production"
+      ],
+      "limits": [
+        "Ne pas confondre framework BentoML actif avec l'ancien service hébergé BentoCloud dont la documentation est archivée et annonce la suppression progressive. Valider la voie de déploiement cible, les coûts GPU et l'opération des services avant migration.",
+        "Un modèle disponible localement ou sur GPU n'est pas automatiquement privé ou sûr : vérifier réseaux, outils, logs, versions, licences et permissions."
+      ],
+      "gettingStarted": [
+        "Définir les modèles, formats, matériel, contraintes réseau, confidentialité et charge prévue.",
+        "Tester sur des données de démonstration, surveiller RAM/VRAM, coût et erreurs, puis protéger les endpoints et documenter les licences."
+      ],
+      "examples": [
+        "Compare deux configurations sur 100 requêtes identiques : précision, TTFT, tokens/s, mémoire, p95 et coût total.",
+        "Établis un protocole d'inférence reproductible avec version du runtime, identifiant du modèle, quantification et configuration du serveur."
+      ],
+      "pricing": "Logiciel souvent open source ; coûts GPU, matériel, exploitation, support et éventuelle licence entreprise selon offre.",
+      "privacy": "Pour une exécution réellement locale, désactiver les fournisseurs distants et limiter la télémétrie ; chiffrer les fichiers, contrôler accès réseau, clés API, logs, partage de modèles et rétention.",
+      "selection": [
+        "Sélectionner BentoML selon l'usage (ml_serving_framework), la compatibilité matérielle, les licences, les API, les coûts, le support et le contrôle du trajet des données."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "opensource_active_bentocloud_phaseout",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.bentoml.com/en/latest/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://docs.bentoml.com/en/bentocloud/get-started/cloud-deployment.html",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_old_service_phaseout",
+    "name": "BentoML (BentoCloud historique)"
+  },
+  "ray-serve": {
+    "descriptionFr": "Bibliothèque Ray Serve pour exposer des modèles ML et LLM sous forme de services Python distribués, avec Ray Serve LLM, vLLM/SGLang et autoscaling.",
+    "descriptionEn": "Ray Serve library for distributed Python model serving, with Ray Serve LLM, vLLM/SGLang and autoscaling.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Services Python ML et pipelines d'inférence composés",
+      "Ray Serve LLM multi-nœuds et API compatibles",
+      "Autoscaling, multi-LoRA et séparation prefill/decode"
+    ],
+    "featuresEn": [
+      "Python ML services and composed inference pipelines",
+      "Multi-node Ray Serve LLM and compatible APIs",
+      "Autoscaling, multi-LoRA and prefill/decode separation"
+    ],
+    "accessFr": "Auto-hébergement sur poste ou serveur, selon configuration",
+    "accessEn": "Self-hosted on workstation or server",
+    "officialSources": [
+      {
+        "url": "https://docs.ray.io/en/latest/serve/index.html",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      },
+      {
+        "url": "https://docs.ray.io/en/latest/serve/llm/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Bibliothèque Ray Serve pour exposer des modèles ML et LLM sous forme de services Python distribués, avec Ray Serve LLM, vLLM/SGLang et autoscaling.",
+      "audiences": [
+        "Développeurs IA, équipes plateforme et administrateurs de modèles",
+        "Responsables de confidentialité, infrastructure et maîtrise des coûts"
+      ],
+      "cases": [
+        "Faire évoluer un microservice IA de la machine unique vers un cluster et observer p95, débit et coût GPU.",
+        "Mesurer latence, mémoire, exactitude, débit et coût du déploiement avec un jeu de tests représentatif."
+      ],
+      "advantages": [
+        "Services Python ML et pipelines d'inférence composés",
+        "Ray Serve LLM multi-nœuds et API compatibles",
+        "Autoscaling, multi-LoRA et séparation prefill/decode"
+      ],
+      "limits": [
+        "Ray Serve est une couche d'orchestration et non un modèle ni un GPU hébergé par défaut ; nécessite une infrastructure Ray et un moteur d'inférence. Dimensionner autoscaling, ressources, authentification et observabilité.",
+        "Un modèle disponible localement ou sur GPU n'est pas automatiquement privé ou sûr : vérifier réseaux, outils, logs, versions, licences et permissions."
+      ],
+      "gettingStarted": [
+        "Définir les modèles, formats, matériel, contraintes réseau, confidentialité et charge prévue.",
+        "Tester sur des données de démonstration, surveiller RAM/VRAM, coût et erreurs, puis protéger les endpoints et documenter les licences."
+      ],
+      "examples": [
+        "Compare deux configurations sur 100 requêtes identiques : précision, TTFT, tokens/s, mémoire, p95 et coût total.",
+        "Établis un protocole d'inférence reproductible avec version du runtime, identifiant du modèle, quantification et configuration du serveur."
+      ],
+      "pricing": "Logiciel souvent open source ; coûts GPU, matériel, exploitation, support et éventuelle licence entreprise selon offre.",
+      "privacy": "Pour une exécution réellement locale, désactiver les fournisseurs distants et limiter la télémétrie ; chiffrer les fichiers, contrôler accès réseau, clés API, logs, partage de modèles et rétention.",
+      "selection": [
+        "Sélectionner Ray Serve selon l'usage (orchestration), la compatibilité matérielle, les licences, les API, les coûts, le support et le contrôle du trajet des données."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.ray.io/en/latest/serve/index.html",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://docs.ray.io/en/latest/serve/llm/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "kserve": {
+    "descriptionFr": "Plateforme KServe de serving Kubernetes avec InferenceService pour ML classique et LLMInferenceService spécialisé dans les LLM distribués et l'optimisation du cache KV.",
+    "descriptionEn": "KServe Kubernetes serving platform with InferenceService for predictive ML and specialized LLMInferenceService for distributed LLMs and KV-cache optimization.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "CRD InferenceService pour ML et pipelines classiques",
+      "LLMInferenceService pour modèles de langage distribués",
+      "Routage, autoscaling, monitoring et canary rollouts"
+    ],
+    "featuresEn": [
+      "InferenceService CRD for predictive ML",
+      "LLMInferenceService for distributed language models",
+      "Routing, autoscaling, monitoring and canary rollouts"
+    ],
+    "accessFr": "Kubernetes et opérateurs à installer",
+    "accessEn": "Kubernetes and operators to install",
+    "officialSources": [
+      {
+        "url": "https://kserve.github.io/website/docs/model-serving/generative-inference/llmisvc/llmisvc-overview",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      },
+      {
+        "url": "https://kserve.github.io/website/blog/kserve-0.20-release",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme KServe de serving Kubernetes avec InferenceService pour ML classique et LLMInferenceService spécialisé dans les LLM distribués et l'optimisation du cache KV.",
+      "audiences": [
+        "Développeurs IA, équipes plateforme et administrateurs de modèles",
+        "Responsables de confidentialité, infrastructure et maîtrise des coûts"
+      ],
+      "cases": [
+        "Déployer en canary un nouveau serveur de modèles et comparer la précision avant de diriger le trafic principal vers lui.",
+        "Mesurer latence, mémoire, exactitude, débit et coût du déploiement avec un jeu de tests représentatif."
+      ],
+      "advantages": [
+        "CRD InferenceService pour ML et pipelines classiques",
+        "LLMInferenceService pour modèles de langage distribués",
+        "Routage, autoscaling, monitoring et canary rollouts"
+      ],
+      "limits": [
+        "Le nouveau LLMInferenceService est une ressource distincte avec Gateway, cert-manager et opérateurs additionnels selon l'architecture ; certaines fonctions LocalModel ne prennent pas encore en charge LLMInferenceService. Nécessite expertise Kubernetes.",
+        "Un modèle disponible localement ou sur GPU n'est pas automatiquement privé ou sûr : vérifier réseaux, outils, logs, versions, licences et permissions."
+      ],
+      "gettingStarted": [
+        "Définir les modèles, formats, matériel, contraintes réseau, confidentialité et charge prévue.",
+        "Tester sur des données de démonstration, surveiller RAM/VRAM, coût et erreurs, puis protéger les endpoints et documenter les licences."
+      ],
+      "examples": [
+        "Compare deux configurations sur 100 requêtes identiques : précision, TTFT, tokens/s, mémoire, p95 et coût total.",
+        "Établis un protocole d'inférence reproductible avec version du runtime, identifiant du modèle, quantification et configuration du serveur."
+      ],
+      "pricing": "Logiciel souvent open source ; coûts GPU, matériel, exploitation, support et éventuelle licence entreprise selon offre.",
+      "privacy": "Pour une exécution réellement locale, désactiver les fournisseurs distants et limiter la télémétrie ; chiffrer les fichiers, contrôler accès réseau, clés API, logs, partage de modèles et rétention.",
+      "selection": [
+        "Sélectionner KServe selon l'usage (kubernetes_serving), la compatibilité matérielle, les licences, les API, les coûts, le support et le contrôle du trajet des données."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://kserve.github.io/website/docs/model-serving/generative-inference/llmisvc/llmisvc-overview",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://kserve.github.io/website/blog/kserve-0.20-release",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "modal": {
+    "descriptionFr": "Plateforme cloud serverless Python pour tâches GPU et APIs d'inférence avec autoscaling, déploiement de modèles personnalisés et facturation de ressources à l'usage.",
+    "descriptionEn": "Python serverless cloud for GPU jobs and inference APIs with autoscaling, custom model hosting and usage-based compute pricing.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Fonctions et classes Python exécutées sur CPU/GPU cloud",
+      "Endpoints web, files de tâches et GPU autoscaling",
+      "Déploiement de vLLM, SGLang ou modèles personnalisés"
+    ],
+    "featuresEn": [
+      "Python functions and classes on cloud CPUs/GPUs",
+      "Web endpoints, queues and GPU autoscaling",
+      "Hosting vLLM, SGLang and custom models"
+    ],
+    "accessFr": "Infrastructure GPU cloud, compte et facturation à l'usage",
+    "accessEn": "Cloud GPU infrastructure with usage billing",
+    "officialSources": [
+      {
+        "url": "https://modal.com/products/inference",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      },
+      {
+        "url": "https://modal.com/pricing",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      },
+      {
+        "url": "https://modal.com/docs/guide",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme cloud serverless Python pour tâches GPU et APIs d'inférence avec autoscaling, déploiement de modèles personnalisés et facturation de ressources à l'usage.",
+      "audiences": [
+        "Développeurs et équipes exploitant des GPU cloud",
+        "Responsables de confidentialité, infrastructure et maîtrise des coûts"
+      ],
+      "cases": [
+        "Exposer un service de génération de résumés avec GPU à la demande et contrôler le coût par exécution.",
+        "Mesurer latence, mémoire, exactitude, débit et coût du déploiement avec un jeu de tests représentatif."
+      ],
+      "advantages": [
+        "Fonctions et classes Python exécutées sur CPU/GPU cloud",
+        "Endpoints web, files de tâches et GPU autoscaling",
+        "Déploiement de vLLM, SGLang ou modèles personnalisés"
+      ],
+      "limits": [
+        "Modal n'est pas de l'inférence locale : les données et les poids passent par le cloud. L'autoscaling peut générer des démarrages à froid ; vérifier facturation CPU/GPU/stockage/egress et paramètres de résidence.",
+        "Un modèle disponible localement ou sur GPU n'est pas automatiquement privé ou sûr : vérifier réseaux, outils, logs, versions, licences et permissions."
+      ],
+      "gettingStarted": [
+        "Définir les modèles, formats, matériel, contraintes réseau, confidentialité et charge prévue.",
+        "Tester sur des données de démonstration, surveiller RAM/VRAM, coût et erreurs, puis protéger les endpoints et documenter les licences."
+      ],
+      "examples": [
+        "Compare deux configurations sur 100 requêtes identiques : précision, TTFT, tokens/s, mémoire, p95 et coût total.",
+        "Établis un protocole d'inférence reproductible avec version du runtime, identifiant du modèle, quantification et configuration du serveur."
+      ],
+      "pricing": "Facturation cloud selon GPU/CPU, durée, trafic, stockage, workers et volume ; vérifier les plans officiels.",
+      "privacy": "Pour une exécution réellement locale, désactiver les fournisseurs distants et limiter la télémétrie ; chiffrer les fichiers, contrôler accès réseau, clés API, logs, partage de modèles et rétention.",
+      "selection": [
+        "Sélectionner Modal selon l'usage (serverless_gpu), la compatibilité matérielle, les licences, les API, les coûts, le support et le contrôle du trajet des données."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://modal.com/products/inference",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://modal.com/pricing",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://modal.com/docs/guide",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "runpod": {
+    "descriptionFr": "Plateforme Runpod proposant Pods GPU loués, endpoints Serverless, Flash et API de modèles, pour entraîner, adapter ou servir des applications IA.",
+    "descriptionEn": "Runpod GPU platform providing rented Pods, Serverless endpoints, Flash and public model APIs for training, adaptation and inference.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Pods GPU persistants ou temporaires",
+      "Endpoints Serverless et travailleurs autoscalés",
+      "Volumes réseau, Flash et API de modèles publics"
+    ],
+    "featuresEn": [
+      "Persistent or ephemeral GPU Pods",
+      "Serverless endpoints and autoscaling workers",
+      "Network volumes, Flash and public model APIs"
+    ],
+    "accessFr": "Infrastructure GPU cloud, compte et facturation à l'usage",
+    "accessEn": "Cloud GPU infrastructure with usage billing",
+    "officialSources": [
+      {
+        "url": "https://docs.runpod.io/serverless/overview",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      },
+      {
+        "url": "https://docs.runpod.io/pods/overview",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      },
+      {
+        "url": "https://docs.runpod.io/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_deployment_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme Runpod proposant Pods GPU loués, endpoints Serverless, Flash et API de modèles, pour entraîner, adapter ou servir des applications IA.",
+      "audiences": [
+        "Développeurs et équipes exploitant des GPU cloud",
+        "Responsables de confidentialité, infrastructure et maîtrise des coûts"
+      ],
+      "cases": [
+        "Comparer le coût d'un Pod loué et d'un endpoint Serverless sur la même charge de transcription.",
+        "Mesurer latence, mémoire, exactitude, débit et coût du déploiement avec un jeu de tests représentatif."
+      ],
+      "advantages": [
+        "Pods GPU persistants ou temporaires",
+        "Endpoints Serverless et travailleurs autoscalés",
+        "Volumes réseau, Flash et API de modèles publics"
+      ],
+      "limits": [
+        "Runpod est un hébergeur cloud, pas une application locale. Les Pods peuvent facturer le GPU au temps, stockage et réseau selon tarif ; Serverless a des règles de worker, latence et démarrage propres. Vérifier sécurité du conteneur et contrôle des accès.",
+        "Un modèle disponible localement ou sur GPU n'est pas automatiquement privé ou sûr : vérifier réseaux, outils, logs, versions, licences et permissions."
+      ],
+      "gettingStarted": [
+        "Définir les modèles, formats, matériel, contraintes réseau, confidentialité et charge prévue.",
+        "Tester sur des données de démonstration, surveiller RAM/VRAM, coût et erreurs, puis protéger les endpoints et documenter les licences."
+      ],
+      "examples": [
+        "Compare deux configurations sur 100 requêtes identiques : précision, TTFT, tokens/s, mémoire, p95 et coût total.",
+        "Établis un protocole d'inférence reproductible avec version du runtime, identifiant du modèle, quantification et configuration du serveur."
+      ],
+      "pricing": "Facturation cloud selon GPU/CPU, durée, trafic, stockage, workers et volume ; vérifier les plans officiels.",
+      "privacy": "Pour une exécution réellement locale, désactiver les fournisseurs distants et limiter la télémétrie ; chiffrer les fichiers, contrôler accès réseau, clés API, logs, partage de modèles et rétention.",
+      "selection": [
+        "Sélectionner RunPod selon l'usage (gpu_cloud), la compatibilité matérielle, les licences, les API, les coûts, le support et le contrôle du trajet des données."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.runpod.io/serverless/overview",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://docs.runpod.io/pods/overview",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://docs.runpod.io/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  }
+}
