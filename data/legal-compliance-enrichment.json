@@ -1,0 +1,1228 @@
+{
+  "harvey": {
+    "descriptionFr": "Plateforme d'IA juridique destinée aux cabinets et directions juridiques, combinant recherche sourcée, analyse documentaire en masse, rédaction et agents configurables.",
+    "descriptionEn": "Enterprise legal AI platform combining source-grounded research, bulk document analysis, drafting and configurable agents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Harvey Threads et Knowledge pour recherche et rédaction",
+      "Vault et Review Tables pour examen de dossiers",
+      "Workflows, espaces partagés et intégrations documentaires"
+    ],
+    "featuresEn": [
+      "Harvey Threads and Knowledge for research and drafting",
+      "Vault and Review Tables for bulk review",
+      "Workflows, shared spaces and document integrations"
+    ],
+    "accessFr": "Plateforme juridique professionnelle et intégrations selon contrat",
+    "accessEn": "Professional legal platform and contract-based integrations",
+    "officialSources": [
+      {
+        "url": "https://www.harvey.ai/platform",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://help.harvey.ai/articles/getting-started-with-harvey",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://www.harvey.ai/platform/vault",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme d'IA juridique destinée aux cabinets et directions juridiques, combinant recherche sourcée, analyse documentaire en masse, rédaction et agents configurables.",
+      "audiences": [
+        "Avocats, juristes d'entreprise et équipes de recherche juridique",
+        "Professionnels responsables de conformité et gouvernance documentaire"
+      ],
+      "cases": [
+        "Analyser une série de contrats sous contrôle d'un juriste, extraire les clauses de résiliation puis vérifier chaque citation dans les originaux.",
+        "Comparer tout résultat produit par IA aux originaux, aux sources de droit applicables et aux instructions du juriste responsable."
+      ],
+      "advantages": [
+        "Harvey Threads et Knowledge pour recherche et rédaction",
+        "Vault et Review Tables pour examen de dossiers",
+        "Workflows, espaces partagés et intégrations documentaires"
+      ],
+      "limits": [
+        "Une synthèse appuyée sur des documents n'établit pas la validité d'une clause ni la pertinence du droit applicable. Les espaces de dossiers, la recherche et les agents sont soumis aux droits et licences du cabinet.",
+        "Une référence ou une clause générée peut être inventée, inapplicable ou dépassée : toute conclusion juridique doit être validée par un professionnel compétent dans la juridiction concernée."
+      ],
+      "gettingStarted": [
+        "Définir juridiction, droit applicable, type de dossier et politique de confidentialité avant de charger des documents.",
+        "Tester la qualité des citations sur un dossier fictif, examiner les droits d'accès et faire contrôler chaque redline ou affirmation par un juriste."
+      ],
+      "examples": [
+        "Analyse une clause de résiliation en citant précisément la section et en signalant les hypothèses et points à valider juridiquement.",
+        "Prépare une matrice d'obligations, dates, risques et pièces justificatives sans inventer la loi applicable ni engager une signature automatique."
+      ],
+      "pricing": "Comparer licences par professionnel, juridictions couvertes, crédits IA, nombre de dossiers, intégrations, exports et engagements contractuels.",
+      "privacy": "Préserver secret professionnel, confidentialité, privilège légal, données personnelles et informations d'affaires ; vérifier chiffrement, hébergement, sous-traitants, rétention, accès, journalisation et entraînement des modèles.",
+      "selection": [
+        "Choisir Harvey selon le besoin (legal_enterprise), la couverture juridictionnelle, les preuves citables, les contrôles de conformité, les licences et la supervision humaine."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.harvey.ai/platform",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://help.harvey.ai/articles/getting-started-with-harvey",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.harvey.ai/platform/vault",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "thomson-reuters-cocounsel": {
+    "descriptionFr": "CoCounsel Legal de Thomson Reuters, assistant juridique agentique fondé sur Westlaw et Practical Law pour la recherche, la vérification d'autorités, la rédaction et la revue de dossiers.",
+    "descriptionEn": "Thomson Reuters CoCounsel Legal is an agentic legal assistant grounded in Westlaw and Practical Law for research, authority checks, drafting and document review.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Westlaw Deep Research et Westlaw Brief Builder",
+      "Deep Research Verify et Tabular Analysis",
+      "CoCounsel pour Word et espaces de dossiers"
+    ],
+    "featuresEn": [
+      "Westlaw Deep Research and Westlaw Brief Builder",
+      "Deep Research Verify and Tabular Analysis",
+      "CoCounsel for Word and matter workspaces"
+    ],
+    "accessFr": "Plateforme professionnelle, pays et corpus selon licence",
+    "accessEn": "Professional platform with jurisdiction-specific coverage",
+    "officialSources": [
+      {
+        "url": "https://legal.thomsonreuters.com/en/products/cocounsel-legal",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-launches-next-generation-of-cocounsel-legal-the-ai-ecosystem-built-for-legal-professionals",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://www.thomsonreuters.com/en-us/help/cocounsel/legal/get-started/how-it-works",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "CoCounsel Legal de Thomson Reuters, assistant juridique agentique fondé sur Westlaw et Practical Law pour la recherche, la vérification d'autorités, la rédaction et la revue de dossiers.",
+      "audiences": [
+        "Avocats, juristes d'entreprise et équipes de recherche juridique",
+        "Professionnels responsables de conformité et gouvernance documentaire"
+      ],
+      "cases": [
+        "Préparer un projet de mémoire contentieux à partir de pièces et décisions vérifiées, puis contrôler chaque référence dans Westlaw.",
+        "Comparer tout résultat produit par IA aux originaux, aux sources de droit applicables et aux instructions du juriste responsable."
+      ],
+      "advantages": [
+        "Westlaw Deep Research et Westlaw Brief Builder",
+        "Deep Research Verify et Tabular Analysis",
+        "CoCounsel pour Word et espaces de dossiers"
+      ],
+      "limits": [
+        "La nouvelle génération agentique est disponible aux États-Unis depuis août 2026 ; disponibilité ailleurs selon pays, contenu juridique et licence. Les vérifications automatiques n'exonèrent jamais l'avocat de vérifier jurisprudence, citations et stratégie.",
+        "Une référence ou une clause générée peut être inventée, inapplicable ou dépassée : toute conclusion juridique doit être validée par un professionnel compétent dans la juridiction concernée."
+      ],
+      "gettingStarted": [
+        "Définir juridiction, droit applicable, type de dossier et politique de confidentialité avant de charger des documents.",
+        "Tester la qualité des citations sur un dossier fictif, examiner les droits d'accès et faire contrôler chaque redline ou affirmation par un juriste."
+      ],
+      "examples": [
+        "Analyse une clause de résiliation en citant précisément la section et en signalant les hypothèses et points à valider juridiquement.",
+        "Prépare une matrice d'obligations, dates, risques et pièces justificatives sans inventer la loi applicable ni engager une signature automatique."
+      ],
+      "pricing": "Comparer licences par professionnel, juridictions couvertes, crédits IA, nombre de dossiers, intégrations, exports et engagements contractuels.",
+      "privacy": "Préserver secret professionnel, confidentialité, privilège légal, données personnelles et informations d'affaires ; vérifier chiffrement, hébergement, sous-traitants, rétention, accès, journalisation et entraînement des modèles.",
+      "selection": [
+        "Choisir Thomson Reuters CoCounsel selon le besoin (legal_research), la couverture juridictionnelle, les preuves citables, les contrôles de conformité, les licences et la supervision humaine."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "new_edition_us_ga",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://legal.thomsonreuters.com/en/products/cocounsel-legal",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-launches-next-generation-of-cocounsel-legal-the-ai-ecosystem-built-for-legal-professionals",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.thomsonreuters.com/en-us/help/cocounsel/legal/get-started/how-it-works",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "lexis-ai": {
+    "descriptionFr": "Lexis+ avec Protégé, anciennement Lexis+ AI, regroupe recherche juridique, rédaction, analyse documentaire et vérification des citations à partir des ressources LexisNexis.",
+    "descriptionEn": "Lexis+ with Protégé (formerly Lexis+ AI) brings together legal research, drafting, document analysis and citation verification using LexisNexis sources.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Protégé : recherche juridique et rédaction agentique",
+      "Shepard's Verify et vérification des autorités",
+      "Bibliothèques juridiques, dossiers et sources internes"
+    ],
+    "featuresEn": [
+      "Protégé agentic drafting and research",
+      "Shepard's Verify and authority checking",
+      "Legal libraries, matters and internal sources"
+    ],
+    "accessFr": "Plateforme professionnelle, pays et corpus selon licence",
+    "accessEn": "Professional platform with jurisdiction-specific coverage",
+    "officialSources": [
+      {
+        "url": "https://www.lexisnexis.com/en-us/products/lexis-plus-protege.page",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://www.lexisnexis.com/fr-ma/produits/lexis-plus-protege",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://www.lexisnexis.com/community/pressroom/b/news/posts/lexisnexis-launches-next-evolution-of-lexis-with-protege-the-legal-ai-platform-built-on-the-authority-legal-work-demands",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Lexis+ avec Protégé, anciennement Lexis+ AI, regroupe recherche juridique, rédaction, analyse documentaire et vérification des citations à partir des ressources LexisNexis.",
+      "audiences": [
+        "Avocats, juristes d'entreprise et équipes de recherche juridique",
+        "Professionnels responsables de conformité et gouvernance documentaire"
+      ],
+      "cases": [
+        "Rédiger une note juridique en distinguant les textes applicables, les décisions citées et les analyses de la doctrine.",
+        "Comparer tout résultat produit par IA aux originaux, aux sources de droit applicables et aux instructions du juriste responsable."
+      ],
+      "advantages": [
+        "Protégé : recherche juridique et rédaction agentique",
+        "Shepard's Verify et vérification des autorités",
+        "Bibliothèques juridiques, dossiers et sources internes"
+      ],
+      "limits": [
+        "Lexis+ AI a été renommé Lexis+ avec Protégé en 2026 ; la couverture et la date de changement varient par marché. La présence d'une page au Maroc n'établit pas les mêmes bases, droits ou tarifs qu'aux États-Unis.",
+        "Une référence ou une clause générée peut être inventée, inapplicable ou dépassée : toute conclusion juridique doit être validée par un professionnel compétent dans la juridiction concernée."
+      ],
+      "gettingStarted": [
+        "Définir juridiction, droit applicable, type de dossier et politique de confidentialité avant de charger des documents.",
+        "Tester la qualité des citations sur un dossier fictif, examiner les droits d'accès et faire contrôler chaque redline ou affirmation par un juriste."
+      ],
+      "examples": [
+        "Analyse une clause de résiliation en citant précisément la section et en signalant les hypothèses et points à valider juridiquement.",
+        "Prépare une matrice d'obligations, dates, risques et pièces justificatives sans inventer la loi applicable ni engager une signature automatique."
+      ],
+      "pricing": "Comparer licences par professionnel, juridictions couvertes, crédits IA, nombre de dossiers, intégrations, exports et engagements contractuels.",
+      "privacy": "Préserver secret professionnel, confidentialité, privilège légal, données personnelles et informations d'affaires ; vérifier chiffrement, hébergement, sous-traitants, rétention, accès, journalisation et entraînement des modèles.",
+      "selection": [
+        "Choisir Lexis+ AI selon le besoin (legal_research), la couverture juridictionnelle, les preuves citables, les contrôles de conformité, les licences et la supervision humaine."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "rebranded_lexis_protege",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.lexisnexis.com/en-us/products/lexis-plus-protege.page",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.lexisnexis.com/fr-ma/produits/lexis-plus-protege",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.lexisnexis.com/community/pressroom/b/news/posts/lexisnexis-launches-next-evolution-of-lexis-with-protege-the-legal-ai-platform-built-on-the-authority-legal-work-demands",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_rebranded",
+    "name": "Lexis+ avec Protégé (ex-Lexis+ AI)",
+    "url": "https://www.lexisnexis.com/fr-ma/produits/lexis-plus-protege"
+  },
+  "vlex-vincent-ai": {
+    "descriptionFr": "Vincent AI, développé par vLex désormais intégré à Clio, aide les juristes à interroger des sources de droit, analyser des pièces et personnaliser des workflows via Vincent Studio.",
+    "descriptionEn": "Vincent AI, developed by vLex now part of Clio, supports legal research, document analysis and customizable workflows through Vincent Studio.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Recherche juridique et analyse de jurisprudence",
+      "Analyse de contrats et documents de litige",
+      "Vincent Studio pour workflows et bases internes"
+    ],
+    "featuresEn": [
+      "Case law research and legal analysis",
+      "Contract and litigation document review",
+      "Vincent Studio for enterprise workflows"
+    ],
+    "accessFr": "Plateforme professionnelle, pays et corpus selon licence",
+    "accessEn": "Professional platform with jurisdiction-specific coverage",
+    "officialSources": [
+      {
+        "url": "https://www.clio.com/about/press/clio-completes-landmark-1b-vlex-acquisition-series-g-5b-valuation/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://vlex.com/about-us?hsLang=en",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://law.vlex.com/vincent",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Vincent AI, développé par vLex désormais intégré à Clio, aide les juristes à interroger des sources de droit, analyser des pièces et personnaliser des workflows via Vincent Studio.",
+      "audiences": [
+        "Avocats, juristes d'entreprise et équipes de recherche juridique",
+        "Professionnels responsables de conformité et gouvernance documentaire"
+      ],
+      "cases": [
+        "Comparer plusieurs décisions d'une juridiction donnée et vérifier leurs fondements directement dans les sources originales.",
+        "Comparer tout résultat produit par IA aux originaux, aux sources de droit applicables et aux instructions du juriste responsable."
+      ],
+      "advantages": [
+        "Recherche juridique et analyse de jurisprudence",
+        "Analyse de contrats et documents de litige",
+        "Vincent Studio pour workflows et bases internes"
+      ],
+      "limits": [
+        "Clio a finalisé l'acquisition de vLex en novembre 2025 ; Vincent reste une technologie/solution de la plateforme combinée. Le contenu juridique et les fonctions disponibles diffèrent selon les juridictions et contrats.",
+        "Une référence ou une clause générée peut être inventée, inapplicable ou dépassée : toute conclusion juridique doit être validée par un professionnel compétent dans la juridiction concernée."
+      ],
+      "gettingStarted": [
+        "Définir juridiction, droit applicable, type de dossier et politique de confidentialité avant de charger des documents.",
+        "Tester la qualité des citations sur un dossier fictif, examiner les droits d'accès et faire contrôler chaque redline ou affirmation par un juriste."
+      ],
+      "examples": [
+        "Analyse une clause de résiliation en citant précisément la section et en signalant les hypothèses et points à valider juridiquement.",
+        "Prépare une matrice d'obligations, dates, risques et pièces justificatives sans inventer la loi applicable ni engager une signature automatique."
+      ],
+      "pricing": "Comparer licences par professionnel, juridictions couvertes, crédits IA, nombre de dossiers, intégrations, exports et engagements contractuels.",
+      "privacy": "Préserver secret professionnel, confidentialité, privilège légal, données personnelles et informations d'affaires ; vérifier chiffrement, hébergement, sous-traitants, rétention, accès, journalisation et entraînement des modèles.",
+      "selection": [
+        "Choisir vLex Vincent AI selon le besoin (legal_research), la couverture juridictionnelle, les preuves citables, les contrôles de conformité, les licences et la supervision humaine."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "part_of_clio_active",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.clio.com/about/press/clio-completes-landmark-1b-vlex-acquisition-series-g-5b-valuation/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://vlex.com/about-us?hsLang=en",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://law.vlex.com/vincent",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_acquired_active",
+    "name": "Vincent AI (vLex / Clio)",
+    "url": "https://law.vlex.com/vincent"
+  },
+  "spellbook": {
+    "descriptionFr": "Assistant de rédaction et revue de contrats : extension Word pour un document et Associate, application distincte, pour la comparaison et l'analyse de plusieurs documents.",
+    "descriptionEn": "Contract drafting and review assistant with a Word add-in for individual files and separate Associate app for multi-document comparison and analysis.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Draft, Review, Playbooks et suivi des modifications dans Word",
+      "Associate pour comparer plusieurs documents et modèles",
+      "Lecture de PDF via Associate et édition DOCX"
+    ],
+    "featuresEn": [
+      "Draft, Review and Playbooks inside Word",
+      "Associate for cross-document comparison",
+      "PDF reading in Associate and DOCX editing"
+    ],
+    "accessFr": "Plateforme juridique professionnelle et intégrations selon contrat",
+    "accessEn": "Professional legal platform and contract-based integrations",
+    "officialSources": [
+      {
+        "url": "https://help.spellbook.legal/en/articles/9926203-spellbook-overview",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://help.spellbook.legal/en/articles/10438652-associate-overview",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://help.spellbook.legal/en/articles/15031655-reviewing-pdfs-with-spellbook-and-associate",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Assistant de rédaction et revue de contrats : extension Word pour un document et Associate, application distincte, pour la comparaison et l'analyse de plusieurs documents.",
+      "audiences": [
+        "Avocats, juristes d'entreprise et équipes de recherche juridique",
+        "Professionnels responsables de conformité et gouvernance documentaire"
+      ],
+      "cases": [
+        "Comparer un contrat fournisseur à un modèle interne puis préparer un redline que le juriste approuvera manuellement.",
+        "Comparer tout résultat produit par IA aux originaux, aux sources de droit applicables et aux instructions du juriste responsable."
+      ],
+      "advantages": [
+        "Draft, Review, Playbooks et suivi des modifications dans Word",
+        "Associate pour comparer plusieurs documents et modèles",
+        "Lecture de PDF via Associate et édition DOCX"
+      ],
+      "limits": [
+        "L'extension Word n'analyse pas directement les PDF : Associate peut les lire, mais ses modifications s'appliquent aux DOCX. L'accès à Associate, aux playbooks et aux volumes varie selon licence.",
+        "Une référence ou une clause générée peut être inventée, inapplicable ou dépassée : toute conclusion juridique doit être validée par un professionnel compétent dans la juridiction concernée."
+      ],
+      "gettingStarted": [
+        "Définir juridiction, droit applicable, type de dossier et politique de confidentialité avant de charger des documents.",
+        "Tester la qualité des citations sur un dossier fictif, examiner les droits d'accès et faire contrôler chaque redline ou affirmation par un juriste."
+      ],
+      "examples": [
+        "Analyse une clause de résiliation en citant précisément la section et en signalant les hypothèses et points à valider juridiquement.",
+        "Prépare une matrice d'obligations, dates, risques et pièces justificatives sans inventer la loi applicable ni engager une signature automatique."
+      ],
+      "pricing": "Comparer licences par professionnel, juridictions couvertes, crédits IA, nombre de dossiers, intégrations, exports et engagements contractuels.",
+      "privacy": "Préserver secret professionnel, confidentialité, privilège légal, données personnelles et informations d'affaires ; vérifier chiffrement, hébergement, sous-traitants, rétention, accès, journalisation et entraînement des modèles.",
+      "selection": [
+        "Choisir Spellbook selon le besoin (contract_drafting), la couverture juridictionnelle, les preuves citables, les contrôles de conformité, les licences et la supervision humaine."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.spellbook.legal/en/articles/9926203-spellbook-overview",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://help.spellbook.legal/en/articles/10438652-associate-overview",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://help.spellbook.legal/en/articles/15031655-reviewing-pdfs-with-spellbook-and-associate",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "luminance": {
+    "descriptionFr": "Plateforme d'intelligence contractuelle IA pour examiner, négocier et suivre des accords ; son mode Autonomous Negotiation propose des négociations entre agents soumis à des règles configurées.",
+    "descriptionEn": "Contract intelligence platform for reviewing, negotiating and managing agreements; Autonomous Negotiation supports policy-governed agent-to-agent negotiation.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Analyse et comparaison de contrats et clauses",
+      "Autonomous Negotiation avec justification des décisions",
+      "Contrôles de négociation et collaboration interservices"
+    ],
+    "featuresEn": [
+      "Contract and clause analysis and comparison",
+      "Autonomous Negotiation with decision explanations",
+      "Negotiation controls and enterprise collaboration"
+    ],
+    "accessFr": "Service SaaS d'entreprise et intégrations contractuelles",
+    "accessEn": "Professional legal platform and contract-based integrations",
+    "officialSources": [
+      {
+        "url": "https://www.luminance.com/press-releases/luminance-enhances-the-legal-industrys-only-100-ai-autonomous-contract-negotiation-tool-to-show-the-why-behind-every-decision-and-opens-it-to-the-entire-enterprise",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://www.luminance.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme d'intelligence contractuelle IA pour examiner, négocier et suivre des accords ; son mode Autonomous Negotiation propose des négociations entre agents soumis à des règles configurées.",
+      "audiences": [
+        "Directions juridiques, achats et équipes de contrats",
+        "Professionnels responsables de conformité et gouvernance documentaire"
+      ],
+      "cases": [
+        "Tester une négociation de NDA standard sur un périmètre contractuel approuvé et faire valider l'accord final par l'équipe juridique.",
+        "Comparer tout résultat produit par IA aux originaux, aux sources de droit applicables et aux instructions du juriste responsable."
+      ],
+      "advantages": [
+        "Analyse et comparaison de contrats et clauses",
+        "Autonomous Negotiation avec justification des décisions",
+        "Contrôles de négociation et collaboration interservices"
+      ],
+      "limits": [
+        "L'éditeur annonce des négociations entièrement autonomes, mais ce caractère autonome ne garantit ni conformité ni acceptabilité juridique. Définir seuils d'escalade, pouvoirs de signature et limites des agents.",
+        "Une référence ou une clause générée peut être inventée, inapplicable ou dépassée : toute conclusion juridique doit être validée par un professionnel compétent dans la juridiction concernée."
+      ],
+      "gettingStarted": [
+        "Définir juridiction, droit applicable, type de dossier et politique de confidentialité avant de charger des documents.",
+        "Tester la qualité des citations sur un dossier fictif, examiner les droits d'accès et faire contrôler chaque redline ou affirmation par un juriste."
+      ],
+      "examples": [
+        "Analyse une clause de résiliation en citant précisément la section et en signalant les hypothèses et points à valider juridiquement.",
+        "Prépare une matrice d'obligations, dates, risques et pièces justificatives sans inventer la loi applicable ni engager une signature automatique."
+      ],
+      "pricing": "Comparer licences par professionnel, juridictions couvertes, crédits IA, nombre de dossiers, intégrations, exports et engagements contractuels.",
+      "privacy": "Préserver secret professionnel, confidentialité, privilège légal, données personnelles et informations d'affaires ; vérifier chiffrement, hébergement, sous-traitants, rétention, accès, journalisation et entraînement des modèles.",
+      "selection": [
+        "Choisir Luminance selon le besoin (clm), la couverture juridictionnelle, les preuves citables, les contrôles de conformité, les licences et la supervision humaine."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.luminance.com/press-releases/luminance-enhances-the-legal-industrys-only-100-ai-autonomous-contract-negotiation-tool-to-show-the-why-behind-every-decision-and-opens-it-to-the-entire-enterprise",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.luminance.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "robin-ai": {
+    "descriptionFr": "Ancienne plateforme de recherche, rédaction et intelligence contractuelles Robin AI ; son activité indépendante a connu une restructuration et la disponibilité de son logiciel n'est plus confirmée.",
+    "descriptionEn": "Former Robin AI contract intelligence and drafting platform; independent operations were wound down and continued software availability is unconfirmed.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Recherche et extraction de clauses (historique)",
+      "Édition et analyse contractuelles (historique)",
+      "Cession des services managés à Scissero"
+    ],
+    "featuresEn": [
+      "Historical contract search and clause extraction",
+      "Historical contract analysis and editing",
+      "Managed-services division sold to Scissero"
+    ],
+    "accessFr": "Ancien service : disponibilité non confirmée ou arrêtée",
+    "accessEn": "Legacy service: unconfirmed or discontinued availability",
+    "officialSources": [
+      {
+        "url": "https://www.robinai.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "history_and_current_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Ancienne plateforme de recherche, rédaction et intelligence contractuelles Robin AI ; son activité indépendante a connu une restructuration et la disponibilité de son logiciel n'est plus confirmée.",
+      "audiences": [
+        "Chercheurs étudiant les plateformes juridiques historiques",
+        "Professionnels responsables de conformité et gouvernance documentaire"
+      ],
+      "cases": [
+        "Conserver cette référence comme entrée historique et demander une confirmation écrite de la continuité de la plateforme avant tout achat.",
+        "Comparer tout résultat produit par IA aux originaux, aux sources de droit applicables et aux instructions du juriste responsable."
+      ],
+      "advantages": [
+        "Recherche et extraction de clauses (historique)",
+        "Édition et analyse contractuelles (historique)",
+        "Cession des services managés à Scissero"
+      ],
+      "limits": [
+        "En décembre 2025, seule l'activité de services managés a été cédée à Scissero ; la plateforme logicielle ne faisait pas partie de l'opération selon des sources publiques. Le site Robin AI reste accessible mais ne prouve pas que les inscriptions ou le support soient actifs. Ne pas inventer de successeur logiciel.",
+        "Une référence ou une clause générée peut être inventée, inapplicable ou dépassée : toute conclusion juridique doit être validée par un professionnel compétent dans la juridiction concernée."
+      ],
+      "gettingStarted": [
+        "Conserver cette fiche comme référence historique et vérifier le successeur opérationnel avant tout achat.",
+        "Tester la qualité des citations sur un dossier fictif, examiner les droits d'accès et faire contrôler chaque redline ou affirmation par un juriste."
+      ],
+      "examples": [
+        "Analyse une clause de résiliation en citant précisément la section et en signalant les hypothèses et points à valider juridiquement.",
+        "Prépare une matrice d'obligations, dates, risques et pièces justificatives sans inventer la loi applicable ni engager une signature automatique."
+      ],
+      "pricing": "Accès à l'ancien service non confirmé ou interrompu ; demander des conditions écrites du successeur actuel.",
+      "privacy": "Préserver secret professionnel, confidentialité, privilège légal, données personnelles et informations d'affaires ; vérifier chiffrement, hébergement, sous-traitants, rétention, accès, journalisation et entraînement des modèles.",
+      "selection": [
+        "Choisir Robin AI selon le besoin (historical), la couverture juridictionnelle, les preuves citables, les contrôles de conformité, les licences et la supervision humaine."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "independent_software_availability_unconfirmed",
+      "evidence": "official_and_secondary_context",
+      "sources": [
+        {
+          "url": "https://www.robinai.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://news.sky.com/story/stricken-legal-start-up-robin-ai-swooped-on-by-rival-13481339",
+          "type": "secondary",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.legaltechnologyhub.com/vendors/robin-by-scissero/",
+          "type": "secondary",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "secondary_reports_official_site_stale",
+    "name": "Robin AI (service à confirmer)",
+    "url": ""
+  },
+  "lawgeex": {
+    "descriptionFr": "Ancienne solution LawGeex de revue automatisée de contrats ; LegalSifter a acquis une partie de sa clientèle entreprise en 2023 sans que l'offre actuelle sous la marque LawGeex soit confirmée.",
+    "descriptionEn": "Former LawGeex automated contract review solution; LegalSifter acquired part of its enterprise client base in 2023, while the current LawGeex branded service remains unverified.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Revue automatique par règles et playbooks (historique)",
+      "Signalement des écarts de clauses (historique)",
+      "Clients entreprise transférés vers LegalSifter"
+    ],
+    "featuresEn": [
+      "Historical rule- and playbook-based contract review",
+      "Historical nonstandard clause detection",
+      "Enterprise clients transitioned to LegalSifter"
+    ],
+    "accessFr": "Ancien service : disponibilité non confirmée ou arrêtée",
+    "accessEn": "Legacy service: unconfirmed or discontinued availability",
+    "officialSources": [
+      {
+        "url": "https://www.carrickcapitalpartners.com/news/legalsifter-acquires-lawgeex-enterprise-business",
+        "checkedAt": "2026-11-16",
+        "scope": "history_and_current_product_status"
+      },
+      {
+        "url": "https://www.legalsifter.com/company/about/",
+        "checkedAt": "2026-11-16",
+        "scope": "history_and_current_product_status"
+      },
+      {
+        "url": "https://www.lawgeex.com/company/",
+        "checkedAt": "2026-11-16",
+        "scope": "history_and_current_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Ancienne solution LawGeex de revue automatisée de contrats ; LegalSifter a acquis une partie de sa clientèle entreprise en 2023 sans que l'offre actuelle sous la marque LawGeex soit confirmée.",
+      "audiences": [
+        "Chercheurs étudiant les plateformes juridiques historiques",
+        "Professionnels responsables de conformité et gouvernance documentaire"
+      ],
+      "cases": [
+        "Consulter cette fiche pour comparer les générations de revue contractuelle et vérifier les produits LegalSifter actuellement proposés.",
+        "Comparer tout résultat produit par IA aux originaux, aux sources de droit applicables et aux instructions du juriste responsable."
+      ],
+      "advantages": [
+        "Revue automatique par règles et playbooks (historique)",
+        "Signalement des écarts de clauses (historique)",
+        "Clients entreprise transférés vers LegalSifter"
+      ],
+      "limits": [
+        "LegalSifter a acquis un groupe de clients entreprise de LawGeex, pas officiellement tout le produit ni l'ensemble des actifs. La page LawGeex existe encore, sans preuve récente d'accès et de support ; ne pas affirmer que le service est fermé ni opérationnel.",
+        "Une référence ou une clause générée peut être inventée, inapplicable ou dépassée : toute conclusion juridique doit être validée par un professionnel compétent dans la juridiction concernée."
+      ],
+      "gettingStarted": [
+        "Conserver cette fiche comme référence historique et vérifier le successeur opérationnel avant tout achat.",
+        "Tester la qualité des citations sur un dossier fictif, examiner les droits d'accès et faire contrôler chaque redline ou affirmation par un juriste."
+      ],
+      "examples": [
+        "Analyse une clause de résiliation en citant précisément la section et en signalant les hypothèses et points à valider juridiquement.",
+        "Prépare une matrice d'obligations, dates, risques et pièces justificatives sans inventer la loi applicable ni engager une signature automatique."
+      ],
+      "pricing": "Accès à l'ancien service non confirmé ou interrompu ; demander des conditions écrites du successeur actuel.",
+      "privacy": "Préserver secret professionnel, confidentialité, privilège légal, données personnelles et informations d'affaires ; vérifier chiffrement, hébergement, sous-traitants, rétention, accès, journalisation et entraînement des modèles.",
+      "selection": [
+        "Choisir Lawgeex selon le besoin (historical), la couverture juridictionnelle, les preuves citables, les contrôles de conformité, les licences et la supervision humaine."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "enterprise_clients_transferred_availability_unconfirmed",
+      "evidence": "official_and_secondary_context",
+      "sources": [
+        {
+          "url": "https://www.carrickcapitalpartners.com/news/legalsifter-acquires-lawgeex-enterprise-business",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.legalsifter.com/company/about/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.lawgeex.com/company/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_enterprise_transfer_unverified_service",
+    "name": "LawGeex (historique)",
+    "url": ""
+  },
+  "evisort": {
+    "descriptionFr": "Ancien Evisort, intégré à Workday : les fonctionnalités de veille contractuelle et d'automatisation sont proposées dans Workday Contract Intelligence et Workday CLM.",
+    "descriptionEn": "Former Evisort, now part of Workday, powering Workday Contract Intelligence and Workday Contract Lifecycle Management.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Analyse et recherche de contrats en langage naturel",
+      "Extraction des obligations, renouvellements et clauses atypiques",
+      "Workday Contract Intelligence et Workday CLM"
+    ],
+    "featuresEn": [
+      "Natural-language contract search and analysis",
+      "Obligations, renewals and outlier clause extraction",
+      "Workday Contract Intelligence and Workday CLM"
+    ],
+    "accessFr": "Service SaaS d'entreprise et intégrations contractuelles",
+    "accessEn": "Professional legal platform and contract-based integrations",
+    "officialSources": [
+      {
+        "url": "https://investor.workday.com/news-and-events/press-releases/news-details/2025/Evisort-AI-Powered-Contract-Intelligence-Now-Available-Through-Workday-03-27-2025/default.aspx",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://www.workday.com/en-us/customer-stories/q-z/workday-legal-customer-zero-contract-intelligence.html",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Ancien Evisort, intégré à Workday : les fonctionnalités de veille contractuelle et d'automatisation sont proposées dans Workday Contract Intelligence et Workday CLM.",
+      "audiences": [
+        "Directions juridiques, achats et équipes de contrats",
+        "Professionnels responsables de conformité et gouvernance documentaire"
+      ],
+      "cases": [
+        "Examiner les dates de renouvellement d'un portefeuille de contrats et envoyer les anomalies à un gestionnaire pour revue.",
+        "Comparer tout résultat produit par IA aux originaux, aux sources de droit applicables et aux instructions du juriste responsable."
+      ],
+      "advantages": [
+        "Analyse et recherche de contrats en langage naturel",
+        "Extraction des obligations, renouvellements et clauses atypiques",
+        "Workday Contract Intelligence et Workday CLM"
+      ],
+      "limits": [
+        "Workday propose ses offres fondées sur Evisort depuis mars 2025 ; ne pas présenter l'ancien logiciel comme une marque indépendante garantie. Les réductions de coût revendiquées sont des études client et non des performances universelles.",
+        "Une référence ou une clause générée peut être inventée, inapplicable ou dépassée : toute conclusion juridique doit être validée par un professionnel compétent dans la juridiction concernée."
+      ],
+      "gettingStarted": [
+        "Définir juridiction, droit applicable, type de dossier et politique de confidentialité avant de charger des documents.",
+        "Tester la qualité des citations sur un dossier fictif, examiner les droits d'accès et faire contrôler chaque redline ou affirmation par un juriste."
+      ],
+      "examples": [
+        "Analyse une clause de résiliation en citant précisément la section et en signalant les hypothèses et points à valider juridiquement.",
+        "Prépare une matrice d'obligations, dates, risques et pièces justificatives sans inventer la loi applicable ni engager une signature automatique."
+      ],
+      "pricing": "Comparer licences par professionnel, juridictions couvertes, crédits IA, nombre de dossiers, intégrations, exports et engagements contractuels.",
+      "privacy": "Préserver secret professionnel, confidentialité, privilège légal, données personnelles et informations d'affaires ; vérifier chiffrement, hébergement, sous-traitants, rétention, accès, journalisation et entraînement des modèles.",
+      "selection": [
+        "Choisir Evisort selon le besoin (clm), la couverture juridictionnelle, les preuves citables, les contrôles de conformité, les licences et la supervision humaine."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "integrated_into_workday_contract_products",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://investor.workday.com/news-and-events/press-releases/news-details/2025/Evisort-AI-Powered-Contract-Intelligence-Now-Available-Through-Workday-03-27-2025/default.aspx",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.workday.com/en-us/customer-stories/q-z/workday-legal-customer-zero-contract-intelligence.html",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_integrated",
+    "name": "Workday Contract Intelligence (Evisort)",
+    "url": "https://www.workday.com"
+  },
+  "ironclad-ai": {
+    "descriptionFr": "Plateforme de gestion des contrats Ironclad avec Contract Review Agent (ancien Jurist) pour la rédaction, le redlining et l'analyse selon les playbooks de l'entreprise.",
+    "descriptionEn": "Ironclad CLM with Contract Review Agent (formerly Jurist) for drafting, redlining and analysis against company playbooks.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Contract Review Agent pour redlining et risques",
+      "Intégration aux workflows CLM et Microsoft Word",
+      "Playbook Agent en accès anticipé"
+    ],
+    "featuresEn": [
+      "Contract Review Agent for redlines and risks",
+      "CLM workflows and Word integration",
+      "Early-access Playbook Agent"
+    ],
+    "accessFr": "Service SaaS d'entreprise et intégrations contractuelles",
+    "accessEn": "Professional legal platform and contract-based integrations",
+    "officialSources": [
+      {
+        "url": "https://support.ironcladapp.com/hc/en-us/articles/37130596319127-Introduction-to-Contract-Review-Agent",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://support.ironcladapp.com/hc/en-us/articles/43400038871831-What-s-New-in-Ironclad-October-2026",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://support.ironcladapp.com/hc/en-us/articles/44208320099351-What-s-New-in-Ironclad-November-2026",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de gestion des contrats Ironclad avec Contract Review Agent (ancien Jurist) pour la rédaction, le redlining et l'analyse selon les playbooks de l'entreprise.",
+      "audiences": [
+        "Directions juridiques, achats et équipes de contrats",
+        "Professionnels responsables de conformité et gouvernance documentaire"
+      ],
+      "cases": [
+        "Comparer un projet de NDA au playbook interne et valider manuellement chaque clause avant de démarrer le workflow de signature.",
+        "Comparer tout résultat produit par IA aux originaux, aux sources de droit applicables et aux instructions du juriste responsable."
+      ],
+      "advantages": [
+        "Contract Review Agent pour redlining et risques",
+        "Intégration aux workflows CLM et Microsoft Word",
+        "Playbook Agent en accès anticipé"
+      ],
+      "limits": [
+        "Ironclad Jurist a été renommé Contract Review Agent le 8 octobre 2026. Playbook Agent reste en Early Access en novembre ; l'accès à Contract Review Agent est sur abonnement/AI Credits et dépend des permissions.",
+        "Une référence ou une clause générée peut être inventée, inapplicable ou dépassée : toute conclusion juridique doit être validée par un professionnel compétent dans la juridiction concernée."
+      ],
+      "gettingStarted": [
+        "Définir juridiction, droit applicable, type de dossier et politique de confidentialité avant de charger des documents.",
+        "Tester la qualité des citations sur un dossier fictif, examiner les droits d'accès et faire contrôler chaque redline ou affirmation par un juriste."
+      ],
+      "examples": [
+        "Analyse une clause de résiliation en citant précisément la section et en signalant les hypothèses et points à valider juridiquement.",
+        "Prépare une matrice d'obligations, dates, risques et pièces justificatives sans inventer la loi applicable ni engager une signature automatique."
+      ],
+      "pricing": "Comparer licences par professionnel, juridictions couvertes, crédits IA, nombre de dossiers, intégrations, exports et engagements contractuels.",
+      "privacy": "Préserver secret professionnel, confidentialité, privilège légal, données personnelles et informations d'affaires ; vérifier chiffrement, hébergement, sous-traitants, rétention, accès, journalisation et entraînement des modèles.",
+      "selection": [
+        "Choisir Ironclad AI selon le besoin (clm), la couverture juridictionnelle, les preuves citables, les contrôles de conformité, les licences et la supervision humaine."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "contract_review_agent_rebranded",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://support.ironcladapp.com/hc/en-us/articles/37130596319127-Introduction-to-Contract-Review-Agent",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://support.ironcladapp.com/hc/en-us/articles/43400038871831-What-s-New-in-Ironclad-October-2026",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://support.ironcladapp.com/hc/en-us/articles/44208320099351-What-s-New-in-Ironclad-November-2026",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_renamed"
+  },
+  "contractpodai": {
+    "descriptionFr": "ContractPodAi, devenu Leah en janvier 2026, propose Leah Agentic OS, Leah Maestro et des flux contractuels orchestrés pour les équipes juridiques, achats et finance.",
+    "descriptionEn": "ContractPodAi, renamed Leah in January 2026, offers Leah Agentic OS, Leah Maestro and orchestrated contract workflows across legal, procurement and finance.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Leah Agentic OS et orchestration Maestro",
+      "Leah Contracting et cycle de vie des contrats",
+      "Agents spécialisés et contrôles de workflows"
+    ],
+    "featuresEn": [
+      "Leah Agentic OS and Maestro orchestration",
+      "Leah Contracting and contract lifecycle",
+      "Domain-specific agents and workflow controls"
+    ],
+    "accessFr": "Service SaaS d'entreprise et intégrations contractuelles",
+    "accessEn": "Professional legal platform and contract-based integrations",
+    "officialSources": [
+      {
+        "url": "https://leahai.com/press-releases/contractpodai-becomes-leah/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://leahai.com/products/agentic-clm",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://leahai.com/press-releases/the-clm-era-is-over-leah-introduces-a-harness-for-enterprise-contract-work",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "ContractPodAi, devenu Leah en janvier 2026, propose Leah Agentic OS, Leah Maestro et des flux contractuels orchestrés pour les équipes juridiques, achats et finance.",
+      "audiences": [
+        "Directions juridiques, achats et équipes de contrats",
+        "Professionnels responsables de conformité et gouvernance documentaire"
+      ],
+      "cases": [
+        "Automatiser l'arrivée d'un contrat d'achat, extraire ses obligations puis faire approuver les clauses non standard par les juristes.",
+        "Comparer tout résultat produit par IA aux originaux, aux sources de droit applicables et aux instructions du juriste responsable."
+      ],
+      "advantages": [
+        "Leah Agentic OS et orchestration Maestro",
+        "Leah Contracting et cycle de vie des contrats",
+        "Agents spécialisés et contrôles de workflows"
+      ],
+      "limits": [
+        "ContractPodAi est l'ancien nom de Leah, non une offre indépendante supplémentaire. Les agents capables d'engager l'entreprise doivent être limités par des règles de délégation, validations et journalisation.",
+        "Une référence ou une clause générée peut être inventée, inapplicable ou dépassée : toute conclusion juridique doit être validée par un professionnel compétent dans la juridiction concernée."
+      ],
+      "gettingStarted": [
+        "Définir juridiction, droit applicable, type de dossier et politique de confidentialité avant de charger des documents.",
+        "Tester la qualité des citations sur un dossier fictif, examiner les droits d'accès et faire contrôler chaque redline ou affirmation par un juriste."
+      ],
+      "examples": [
+        "Analyse une clause de résiliation en citant précisément la section et en signalant les hypothèses et points à valider juridiquement.",
+        "Prépare une matrice d'obligations, dates, risques et pièces justificatives sans inventer la loi applicable ni engager une signature automatique."
+      ],
+      "pricing": "Comparer licences par professionnel, juridictions couvertes, crédits IA, nombre de dossiers, intégrations, exports et engagements contractuels.",
+      "privacy": "Préserver secret professionnel, confidentialité, privilège légal, données personnelles et informations d'affaires ; vérifier chiffrement, hébergement, sous-traitants, rétention, accès, journalisation et entraînement des modèles.",
+      "selection": [
+        "Choisir ContractPodAi selon le besoin (clm), la couverture juridictionnelle, les preuves citables, les contrôles de conformité, les licences et la supervision humaine."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "rebranded_leah",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://leahai.com/press-releases/contractpodai-becomes-leah/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://leahai.com/products/agentic-clm",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://leahai.com/press-releases/the-clm-era-is-over-leah-introduces-a-harness-for-enterprise-contract-work",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_rebranded",
+    "name": "Leah (ex-ContractPodAi)",
+    "url": "https://leahai.com"
+  },
+  "paxton-ai": {
+    "descriptionFr": "Assistant juridique orienté recherche américaine, rédaction de documents et analyse de dossiers, y compris chronologies médicales pour contentieux.",
+    "descriptionEn": "Legal assistant focused on US law research, drafting and case-file analysis, including medical chronologies for litigation.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Recherche de jurisprudence américaine et AI Citator",
+      "Rédaction de mémoires et analyse de pièces",
+      "Chronologies médicales et récapitulatifs de facturation"
+    ],
+    "featuresEn": [
+      "US case law research and AI Citator",
+      "Legal drafting and document analysis",
+      "Medical timelines and billing summaries"
+    ],
+    "accessFr": "Plateforme juridique professionnelle et intégrations selon contrat",
+    "accessEn": "Professional legal platform and contract-based integrations",
+    "officialSources": [
+      {
+        "url": "https://www.paxton.ai/legal-research",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://help.paxton.ai/help",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://www.paxton.ai/legal/terms-of-service",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Assistant juridique orienté recherche américaine, rédaction de documents et analyse de dossiers, y compris chronologies médicales pour contentieux.",
+      "audiences": [
+        "Avocats, juristes d'entreprise et équipes de recherche juridique",
+        "Professionnels responsables de conformité et gouvernance documentaire"
+      ],
+      "cases": [
+        "Préparer une chronologie probatoire et vérifier les sources juridiques et médicales avant dépôt au tribunal.",
+        "Comparer tout résultat produit par IA aux originaux, aux sources de droit applicables et aux instructions du juriste responsable."
+      ],
+      "advantages": [
+        "Recherche de jurisprudence américaine et AI Citator",
+        "Rédaction de mémoires et analyse de pièces",
+        "Chronologies médicales et récapitulatifs de facturation"
+      ],
+      "limits": [
+        "Le corpus de recherche porte surtout sur les États-Unis et le droit fédéral. Paxton exige une revue humaine de tous les résultats et citations dans ses conditions d'octobre 2026 ; son essai exige une carte bancaire.",
+        "Une référence ou une clause générée peut être inventée, inapplicable ou dépassée : toute conclusion juridique doit être validée par un professionnel compétent dans la juridiction concernée."
+      ],
+      "gettingStarted": [
+        "Définir juridiction, droit applicable, type de dossier et politique de confidentialité avant de charger des documents.",
+        "Tester la qualité des citations sur un dossier fictif, examiner les droits d'accès et faire contrôler chaque redline ou affirmation par un juriste."
+      ],
+      "examples": [
+        "Analyse une clause de résiliation en citant précisément la section et en signalant les hypothèses et points à valider juridiquement.",
+        "Prépare une matrice d'obligations, dates, risques et pièces justificatives sans inventer la loi applicable ni engager une signature automatique."
+      ],
+      "pricing": "Comparer licences par professionnel, juridictions couvertes, crédits IA, nombre de dossiers, intégrations, exports et engagements contractuels.",
+      "privacy": "Préserver secret professionnel, confidentialité, privilège légal, données personnelles et informations d'affaires ; vérifier chiffrement, hébergement, sous-traitants, rétention, accès, journalisation et entraînement des modèles.",
+      "selection": [
+        "Choisir Paxton AI selon le besoin (legal_litigation), la couverture juridictionnelle, les preuves citables, les contrôles de conformité, les licences et la supervision humaine."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.paxton.ai/legal-research",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://help.paxton.ai/help",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.paxton.ai/legal/terms-of-service",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "evenup": {
+    "descriptionFr": "Plateforme d'IA destinée aux cabinets américains spécialisés dans le dommage corporel, avec dossiers médicaux, chronologies de soins et rédaction de demandes d'indemnisation.",
+    "descriptionEn": "AI platform for US personal injury firms, organizing medical records, treatment timelines and demand letter drafts.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Chronologies médicales et détection des pièces manquantes",
+      "Express Demands et dossiers de réclamation",
+      "Citations des dossiers et préparation de la médiation"
+    ],
+    "featuresEn": [
+      "Medical chronologies and missing-record alerts",
+      "Express Demands and claim packages",
+      "Record-linked citations and mediation preparation"
+    ],
+    "accessFr": "Solution pour cabinets américains spécialisés",
+    "accessEn": "US personal injury law firm solution",
+    "officialSources": [
+      {
+        "url": "https://www.evenuplaw.com/products/express-demands/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://www.evenuplaw.com/blog/chandler-volta-evenup-case-preparation/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://www.evenuplaw.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme d'IA destinée aux cabinets américains spécialisés dans le dommage corporel, avec dossiers médicaux, chronologies de soins et rédaction de demandes d'indemnisation.",
+      "audiences": [
+        "Cabinets de réparation du préjudice corporel",
+        "Professionnels responsables de conformité et gouvernance documentaire"
+      ],
+      "cases": [
+        "Reconstituer un parcours de soins depuis des pièces autorisées, puis vérifier chaque fait et chaque montant de préjudice.",
+        "Comparer tout résultat produit par IA aux originaux, aux sources de droit applicables et aux instructions du juriste responsable."
+      ],
+      "advantages": [
+        "Chronologies médicales et détection des pièces manquantes",
+        "Express Demands et dossiers de réclamation",
+        "Citations des dossiers et préparation de la médiation"
+      ],
+      "limits": [
+        "Produit spécialisé pour les actions de dommage corporel aux États-Unis ; les exemples de gains ou montants d'indemnisation sont des cas particuliers et ne garantissent aucun résultat. Données médicales et clients à protéger strictement.",
+        "Une référence ou une clause générée peut être inventée, inapplicable ou dépassée : toute conclusion juridique doit être validée par un professionnel compétent dans la juridiction concernée."
+      ],
+      "gettingStarted": [
+        "Définir juridiction, droit applicable, type de dossier et politique de confidentialité avant de charger des documents.",
+        "Tester la qualité des citations sur un dossier fictif, examiner les droits d'accès et faire contrôler chaque redline ou affirmation par un juriste."
+      ],
+      "examples": [
+        "Analyse une clause de résiliation en citant précisément la section et en signalant les hypothèses et points à valider juridiquement.",
+        "Prépare une matrice d'obligations, dates, risques et pièces justificatives sans inventer la loi applicable ni engager une signature automatique."
+      ],
+      "pricing": "Comparer licences par professionnel, juridictions couvertes, crédits IA, nombre de dossiers, intégrations, exports et engagements contractuels.",
+      "privacy": "Préserver secret professionnel, confidentialité, privilège légal, données personnelles et informations d'affaires ; vérifier chiffrement, hébergement, sous-traitants, rétention, accès, journalisation et entraînement des modèles.",
+      "selection": [
+        "Choisir EvenUp selon le besoin (personal_injury), la couverture juridictionnelle, les preuves citables, les contrôles de conformité, les licences et la supervision humaine."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.evenuplaw.com/products/express-demands/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.evenuplaw.com/blog/chandler-volta-evenup-case-preparation/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.evenuplaw.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "casetext": {
+    "descriptionFr": "Ancienne plateforme de recherche juridique Casetext, rachetée par Thomson Reuters en 2023 puis retirée comme service autonome ; sa technologie CoCounsel est désormais développée chez Thomson Reuters.",
+    "descriptionEn": "Former Casetext legal research platform acquired by Thomson Reuters in 2023 and retired as a standalone service; its CoCounsel technology continues within Thomson Reuters.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Recherche juridique et CARA (historique)",
+      "CoCounsel créé par Casetext (historique)",
+      "Successeur actuel : Thomson Reuters CoCounsel Legal"
+    ],
+    "featuresEn": [
+      "Historical legal search and CARA",
+      "Historical Casetext CoCounsel origin",
+      "Current successor: Thomson Reuters CoCounsel Legal"
+    ],
+    "accessFr": "Ancien service : disponibilité non confirmée ou arrêtée",
+    "accessEn": "Legacy service: unconfirmed or discontinued availability",
+    "officialSources": [
+      {
+        "url": "https://www.thomsonreuters.com/en/press-releases/2023/august/thomson-reuters-completes-acquisition-of-casetext-inc",
+        "checkedAt": "2026-11-16",
+        "scope": "history_and_current_product_status"
+      },
+      {
+        "url": "https://legal.thomsonreuters.com/en/products/cocounsel-legal",
+        "checkedAt": "2026-11-16",
+        "scope": "history_and_current_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Ancienne plateforme de recherche juridique Casetext, rachetée par Thomson Reuters en 2023 puis retirée comme service autonome ; sa technologie CoCounsel est désormais développée chez Thomson Reuters.",
+      "audiences": [
+        "Chercheurs étudiant les plateformes juridiques historiques",
+        "Professionnels responsables de conformité et gouvernance documentaire"
+      ],
+      "cases": [
+        "Consulter l'historique de Casetext et utiliser CoCounsel pour un nouveau workflow légal sans rechercher une inscription Casetext.",
+        "Comparer tout résultat produit par IA aux originaux, aux sources de droit applicables et aux instructions du juriste responsable."
+      ],
+      "advantages": [
+        "Recherche juridique et CARA (historique)",
+        "CoCounsel créé par Casetext (historique)",
+        "Successeur actuel : Thomson Reuters CoCounsel Legal"
+      ],
+      "limits": [
+        "Casetext a été acheté en août 2023, puis son site et sa plateforme autonome ont cessé d'accepter de nouveaux utilisateurs. La date de fermeture du printemps 2025 est documentée par des sources secondaires, sans communiqué officiel de fermeture retrouvé. Ne pas proposer d'abonnement Casetext.",
+        "Une référence ou une clause générée peut être inventée, inapplicable ou dépassée : toute conclusion juridique doit être validée par un professionnel compétent dans la juridiction concernée."
+      ],
+      "gettingStarted": [
+        "Conserver cette fiche comme référence historique et vérifier le successeur opérationnel avant tout achat.",
+        "Tester la qualité des citations sur un dossier fictif, examiner les droits d'accès et faire contrôler chaque redline ou affirmation par un juriste."
+      ],
+      "examples": [
+        "Analyse une clause de résiliation en citant précisément la section et en signalant les hypothèses et points à valider juridiquement.",
+        "Prépare une matrice d'obligations, dates, risques et pièces justificatives sans inventer la loi applicable ni engager une signature automatique."
+      ],
+      "pricing": "Accès à l'ancien service non confirmé ou interrompu ; demander des conditions écrites du successeur actuel.",
+      "privacy": "Préserver secret professionnel, confidentialité, privilège légal, données personnelles et informations d'affaires ; vérifier chiffrement, hébergement, sous-traitants, rétention, accès, journalisation et entraînement des modèles.",
+      "selection": [
+        "Choisir CaseText selon le besoin (historical), la couverture juridictionnelle, les preuves citables, les contrôles de conformité, les licences et la supervision humaine."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "standalone_retired",
+      "evidence": "official_and_secondary_context",
+      "sources": [
+        {
+          "url": "https://www.thomsonreuters.com/en/press-releases/2023/august/thomson-reuters-completes-acquisition-of-casetext-inc",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://legal.thomsonreuters.com/en/products/cocounsel-legal",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.aiforlegalresearch.com/blog/what-happened-to-casetext",
+          "type": "secondary",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_acquisition_secondary_retirement",
+    "name": "Casetext (historique — CoCounsel)",
+    "url": "",
+    "availabilityStatus": "discontinued"
+  }
+}
