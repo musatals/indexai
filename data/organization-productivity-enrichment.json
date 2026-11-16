@@ -1,0 +1,1404 @@
+{
+  "notion-ai": {
+    "descriptionFr": "Fonctions IA de Notion : recherche dans l'espace de travail, création et modification de pages ou bases, notes de réunion et agents.",
+    "descriptionEn": "Notion AI features for workspace search, page/database creation and editing, meeting notes and agents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Notion Agent et agents personnalisés",
+      "Enterprise Search avec citations",
+      "AI Meeting Notes et remplissage de bases"
+    ],
+    "featuresEn": [
+      "Notion Agent and custom agents",
+      "Cited Enterprise Search",
+      "AI Meeting Notes and database autofill"
+    ],
+    "accessFr": "Web, bureau et/ou mobile selon service",
+    "accessEn": "Web, desktop and/or mobile depending on service",
+    "officialSources": [
+      {
+        "url": "https://www.notion.com/help/notion-ai-faqs",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Fonctions IA de Notion : recherche dans l'espace de travail, création et modification de pages ou bases, notes de réunion et agents.",
+      "audiences": [
+        "Équipes projet et documentation",
+        "PME et indépendants",
+        "Organisations de connaissance",
+        "Professionnels et équipes de projet",
+        "Enseignants, chercheurs et créateurs de contenus"
+      ],
+      "cases": [
+        "Résumer et rédiger des pages",
+        "Interroger des documents internes autorisés",
+        "Enrichir des bases de données",
+        "Préparer suivis et comptes rendus",
+        "À partir d'un espace de projet, synthétiser les décisions, préparer les actions et compléter une base de suivi.",
+        "Relire les propositions automatiques, les droits d'accès et les sources avant exploitation."
+      ],
+      "advantages": [
+        "IA au sein des pages et bases existantes",
+        "Fonctions de recherche d’entreprise selon plan",
+        "Agents et notes de réunion selon la formule",
+        "Notion Agent et agents personnalisés",
+        "Enterprise Search avec citations",
+        "AI Meeting Notes et remplissage de bases"
+      ],
+      "limits": [
+        "Accès aux fonctions avancées selon abonnement et crédits",
+        "La qualité dépend des permissions et des documents",
+        "Risques de diffusion accidentelle si pages mal partagées",
+        "Notion AI est principalement proposé dans les plans Business et Enterprise ; les crédits, modèles et connecteurs varient selon l'offre.",
+        "Les synthèses et priorités générées peuvent omettre des informations importantes ; conserver une validation humaine."
+      ],
+      "gettingStarted": [
+        "Organiser un espace propre avec titres et permissions, puis tester l’IA sur une page non confidentielle avec demandes ciblées.",
+        "Configurer une tâche de démonstration avec les permissions minimales, puis confronter les suggestions au contexte réel.",
+        "Examiner les paramètres de partage, l'accès aux fichiers et la présence d'un mécanisme d'annulation avant d'activer les automatisations."
+      ],
+      "examples": [
+        "Résume cette base de tâches par priorité et responsable.",
+        "Prépare une page de réunion avec décisions et points bloquants.",
+        "Prépare un récapitulatif hebdomadaire avec réalisations, blocages, prochaines actions et responsables.",
+        "Organise les éléments fournis sans inventer de décisions et indique toute source manquante."
+      ],
+      "pricing": "Free, Plus, Business et Enterprise; l’accès complet aux fonctions IA et agents dépend du plan et de crédits.",
+      "privacy": "Vérifier les permissions des pages, les paramètres d’entreprise et les règles de rétention des données.",
+      "selection": [
+        "Adapté si la documentation d’équipe est déjà dans Notion; un moteur documentaire externe peut suffire pour un corpus ponctuel.",
+        "Comparer Notion AI selon le type d'usage (suite), les intégrations, la transparence des sources, les permissions et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.notion.com/pricing",
+          "type": "official",
+          "reviewedAt": "2026-11-15"
+        },
+        {
+          "url": "https://www.notion.com/help/notion-ai-faqs",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "microsoft-365-copilot": {
+    "descriptionFr": "Assistant de productivité Microsoft pour Word, Excel, PowerPoint, Outlook et Teams, relié aux données de travail selon la licence.",
+    "descriptionEn": "Microsoft productivity assistant for Word, Excel, PowerPoint, Outlook and Teams with license-dependent work data integration.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Rédaction et révision dans Word et Outlook",
+      "Analyse Excel et présentations PowerPoint",
+      "Synthèses et actions dans Teams"
+    ],
+    "featuresEn": [
+      "Word and Outlook drafting",
+      "Excel analysis and PowerPoint decks",
+      "Teams recaps and action items"
+    ],
+    "accessFr": "Web, bureau et/ou mobile selon service",
+    "accessEn": "Web, desktop and/or mobile depending on service",
+    "officialSources": [
+      {
+        "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/copilot-overview",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Assistant de productivité Microsoft pour Word, Excel, PowerPoint, Outlook et Teams, relié aux données de travail selon la licence.",
+      "audiences": [
+        "Professionnels et équipes de projet",
+        "Enseignants, chercheurs et créateurs de contenus"
+      ],
+      "cases": [
+        "Préparer un compte rendu d'activité avec des données Excel et un brouillon de présentation.",
+        "Relire les propositions automatiques, les droits d'accès et les sources avant exploitation."
+      ],
+      "advantages": [
+        "Rédaction et révision dans Word et Outlook",
+        "Analyse Excel et présentations PowerPoint",
+        "Synthèses et actions dans Teams"
+      ],
+      "limits": [
+        "Distinguer Copilot Chat, les fonctionnalités de base et la licence Microsoft 365 Copilot complète ; accès aux données selon les permissions.",
+        "Les synthèses et priorités générées peuvent omettre des informations importantes ; conserver une validation humaine."
+      ],
+      "gettingStarted": [
+        "Configurer une tâche de démonstration avec les permissions minimales, puis confronter les suggestions au contexte réel.",
+        "Examiner les paramètres de partage, l'accès aux fichiers et la présence d'un mécanisme d'annulation avant d'activer les automatisations."
+      ],
+      "examples": [
+        "Prépare un récapitulatif hebdomadaire avec réalisations, blocages, prochaines actions et responsables.",
+        "Organise les éléments fournis sans inventer de décisions et indique toute source manquante."
+      ],
+      "pricing": "Offres, crédits IA, quotas et fonctions d'équipe variables ; vérifier la grille officielle actuelle et les conditions régionales.",
+      "privacy": "Vérifier les droits d'accès aux espaces, calendriers et enregistrements ainsi que les règles de stockage, consentement et traitement par des modèles tiers.",
+      "selection": [
+        "Comparer Microsoft 365 Copilot selon le type d'usage (suite), les intégrations, la transparence des sources, les permissions et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/copilot-overview",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "gemini-for-workspace": {
+    "descriptionFr": "IA intégrée à Google Workspace pour rédiger, résumer et exploiter des informations dans Gmail, Docs, Sheets, Slides et Meet.",
+    "descriptionEn": "AI integrated into Google Workspace for drafting, summarizing and working with Gmail, Docs, Sheets, Slides and Meet.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Gemini dans Gmail et Docs",
+      "Analyse et formules dans Sheets",
+      "Notes de réunion et aide dans Meet"
+    ],
+    "featuresEn": [
+      "Gemini in Gmail and Docs",
+      "Sheets analysis and formulas",
+      "Meet notes and assistance"
+    ],
+    "accessFr": "Web, bureau et/ou mobile selon service",
+    "accessEn": "Web, desktop and/or mobile depending on service",
+    "officialSources": [
+      {
+        "url": "https://support.google.com/docs/answer/13952129?hl=en",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "IA intégrée à Google Workspace pour rédiger, résumer et exploiter des informations dans Gmail, Docs, Sheets, Slides et Meet.",
+      "audiences": [
+        "Professionnels et équipes de projet",
+        "Enseignants, chercheurs et créateurs de contenus"
+      ],
+      "cases": [
+        "Résumer des échanges Gmail puis créer une note de décision et une présentation dans Workspace.",
+        "Relire les propositions automatiques, les droits d'accès et les sources avant exploitation."
+      ],
+      "advantages": [
+        "Gemini dans Gmail et Docs",
+        "Analyse et formules dans Sheets",
+        "Notes de réunion et aide dans Meet"
+      ],
+      "limits": [
+        "Disponibilité conditionnée par la formule Workspace, le pays et la langue ; la vérification des résultats reste nécessaire.",
+        "Les synthèses et priorités générées peuvent omettre des informations importantes ; conserver une validation humaine."
+      ],
+      "gettingStarted": [
+        "Configurer une tâche de démonstration avec les permissions minimales, puis confronter les suggestions au contexte réel.",
+        "Examiner les paramètres de partage, l'accès aux fichiers et la présence d'un mécanisme d'annulation avant d'activer les automatisations."
+      ],
+      "examples": [
+        "Prépare un récapitulatif hebdomadaire avec réalisations, blocages, prochaines actions et responsables.",
+        "Organise les éléments fournis sans inventer de décisions et indique toute source manquante."
+      ],
+      "pricing": "Offres, crédits IA, quotas et fonctions d'équipe variables ; vérifier la grille officielle actuelle et les conditions régionales.",
+      "privacy": "Vérifier les droits d'accès aux espaces, calendriers et enregistrements ainsi que les règles de stockage, consentement et traitement par des modèles tiers.",
+      "selection": [
+        "Comparer Gemini for Workspace selon le type d'usage (suite), les intégrations, la transparence des sources, les permissions et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://support.google.com/docs/answer/13952129?hl=en",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "clickup-brain": {
+    "descriptionFr": "Assistant ClickUp Brain appuyé sur les tâches, documents, discussions et applications connectées, avec création de contenus et agents.",
+    "descriptionEn": "ClickUp Brain grounded in tasks, docs, chats and connected apps, with content generation and agents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Recherche contextuelle dans le travail",
+      "Création de tâches, documents et rapports",
+      "Super Agents et Brain"
+    ],
+    "featuresEn": [
+      "Work-context search",
+      "Task, document and report creation",
+      "Super Agents and Brain"
+    ],
+    "accessFr": "Web, bureau et/ou mobile selon service",
+    "accessEn": "Web, desktop and/or mobile depending on service",
+    "officialSources": [
+      {
+        "url": "https://help.clickup.com/hc/en-us/articles/12578085238039-What-is-ClickUp-AI",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Assistant ClickUp Brain appuyé sur les tâches, documents, discussions et applications connectées, avec création de contenus et agents.",
+      "audiences": [
+        "Professionnels et équipes de projet",
+        "Enseignants, chercheurs et créateurs de contenus"
+      ],
+      "cases": [
+        "Interroger l'état d'un projet, repérer les tâches bloquées et produire un rapport hebdomadaire.",
+        "Relire les propositions automatiques, les droits d'accès et les sources avant exploitation."
+      ],
+      "advantages": [
+        "Recherche contextuelle dans le travail",
+        "Création de tâches, documents et rapports",
+        "Super Agents et Brain"
+      ],
+      "limits": [
+        "Quotas, modèles et agents disponibles selon les rôles et plans ; éviter toute automatisation irréversible sans revue.",
+        "Les synthèses et priorités générées peuvent omettre des informations importantes ; conserver une validation humaine."
+      ],
+      "gettingStarted": [
+        "Configurer une tâche de démonstration avec les permissions minimales, puis confronter les suggestions au contexte réel.",
+        "Examiner les paramètres de partage, l'accès aux fichiers et la présence d'un mécanisme d'annulation avant d'activer les automatisations."
+      ],
+      "examples": [
+        "Prépare un récapitulatif hebdomadaire avec réalisations, blocages, prochaines actions et responsables.",
+        "Organise les éléments fournis sans inventer de décisions et indique toute source manquante."
+      ],
+      "pricing": "Offres, crédits IA, quotas et fonctions d'équipe variables ; vérifier la grille officielle actuelle et les conditions régionales.",
+      "privacy": "Vérifier les droits d'accès aux espaces, calendriers et enregistrements ainsi que les règles de stockage, consentement et traitement par des modèles tiers.",
+      "selection": [
+        "Comparer ClickUp Brain selon le type d'usage (projects), les intégrations, la transparence des sources, les permissions et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.clickup.com/hc/en-us/articles/12578085238039-What-is-ClickUp-AI",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "coda-ai": {
+    "descriptionFr": "Fonctions IA de Coda intégrées aux documents et tables : conversation, rédaction, colonnes automatisées, résumés et relecture.",
+    "descriptionEn": "Coda AI inside docs and tables: chat, writing, automated columns, summaries and reviewing.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Colonnes IA sur les tables",
+      "Blocs de synthèse et actions",
+      "Assistant et relecteur IA"
+    ],
+    "featuresEn": [
+      "AI-powered table columns",
+      "Summary and action blocks",
+      "AI writing and review"
+    ],
+    "accessFr": "Web, bureau et/ou mobile selon service",
+    "accessEn": "Web, desktop and/or mobile depending on service",
+    "officialSources": [
+      {
+        "url": "https://help.coda.io/hc/en-us/articles/39555802361613-Coda-AI-features",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Fonctions IA de Coda intégrées aux documents et tables : conversation, rédaction, colonnes automatisées, résumés et relecture.",
+      "audiences": [
+        "Professionnels et équipes de projet",
+        "Enseignants, chercheurs et créateurs de contenus"
+      ],
+      "cases": [
+        "Transformer des comptes rendus en tableau de tâches et classer des retours dans des colonnes IA.",
+        "Relire les propositions automatiques, les droits d'accès et les sources avant exploitation."
+      ],
+      "advantages": [
+        "Colonnes IA sur les tables",
+        "Blocs de synthèse et actions",
+        "Assistant et relecteur IA"
+      ],
+      "limits": [
+        "L'accès complet dépend des droits Doc Maker et du plan ; contrôler les formules, les valeurs calculées et les coûts d'exécution.",
+        "Les synthèses et priorités générées peuvent omettre des informations importantes ; conserver une validation humaine."
+      ],
+      "gettingStarted": [
+        "Configurer une tâche de démonstration avec les permissions minimales, puis confronter les suggestions au contexte réel.",
+        "Examiner les paramètres de partage, l'accès aux fichiers et la présence d'un mécanisme d'annulation avant d'activer les automatisations."
+      ],
+      "examples": [
+        "Prépare un récapitulatif hebdomadaire avec réalisations, blocages, prochaines actions et responsables.",
+        "Organise les éléments fournis sans inventer de décisions et indique toute source manquante."
+      ],
+      "pricing": "Offres, crédits IA, quotas et fonctions d'équipe variables ; vérifier la grille officielle actuelle et les conditions régionales.",
+      "privacy": "Vérifier les droits d'accès aux espaces, calendriers et enregistrements ainsi que les règles de stockage, consentement et traitement par des modèles tiers.",
+      "selection": [
+        "Comparer Coda AI selon le type d'usage (documents), les intégrations, la transparence des sources, les permissions et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.coda.io/hc/en-us/articles/39555802361613-Coda-AI-features",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "mem": {
+    "descriptionFr": "Mem Agent pour conserver notes et conversations, identifier tâches et projets et proposer des routines fondées sur la mémoire personnelle.",
+    "descriptionEn": "Mem Agent for capturing notes and conversations, identifying tasks and projects, and running personal-memory routines.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Notes et conversations avec Mem Agent",
+      "Suivi de tâches et de projets",
+      "Mode vocal et routines selon formule"
+    ],
+    "featuresEn": [
+      "Notes and conversations with Mem Agent",
+      "Task and project tracking",
+      "Voice mode and plan-dependent routines"
+    ],
+    "accessFr": "Web, bureau et/ou mobile selon service",
+    "accessEn": "Web, desktop and/or mobile depending on service",
+    "officialSources": [
+      {
+        "url": "https://get.mem.ai/pricing",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Mem Agent pour conserver notes et conversations, identifier tâches et projets et proposer des routines fondées sur la mémoire personnelle.",
+      "audiences": [
+        "Professionnels et équipes de projet",
+        "Enseignants, chercheurs et créateurs de contenus"
+      ],
+      "cases": [
+        "Capturer des idées vocales puis retrouver décisions et tâches récurrentes.",
+        "Relire les propositions automatiques, les droits d'accès et les sources avant exploitation."
+      ],
+      "advantages": [
+        "Notes et conversations avec Mem Agent",
+        "Suivi de tâches et de projets",
+        "Mode vocal et routines selon formule"
+      ],
+      "limits": [
+        "Les limites de notes, de messages, de connexions et du mode vocal varient fortement entre gratuit et payant ; vérifier les règles de mémoire.",
+        "Les synthèses et priorités générées peuvent omettre des informations importantes ; conserver une validation humaine."
+      ],
+      "gettingStarted": [
+        "Configurer une tâche de démonstration avec les permissions minimales, puis confronter les suggestions au contexte réel.",
+        "Examiner les paramètres de partage, l'accès aux fichiers et la présence d'un mécanisme d'annulation avant d'activer les automatisations."
+      ],
+      "examples": [
+        "Prépare un récapitulatif hebdomadaire avec réalisations, blocages, prochaines actions et responsables.",
+        "Organise les éléments fournis sans inventer de décisions et indique toute source manquante."
+      ],
+      "pricing": "Offres, crédits IA, quotas et fonctions d'équipe variables ; vérifier la grille officielle actuelle et les conditions régionales.",
+      "privacy": "Vérifier les droits d'accès aux espaces, calendriers et enregistrements ainsi que les règles de stockage, consentement et traitement par des modèles tiers.",
+      "selection": [
+        "Comparer Mem selon le type d'usage (knowledge), les intégrations, la transparence des sources, les permissions et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://get.mem.ai/pricing",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "reflect": {
+    "descriptionFr": "Application de notes liées entre elles ; Reflect Open introduit une nouvelle architecture locale Markdown, des assistants IA configurables et une synchronisation choisie.",
+    "descriptionEn": "Linked-note app; Reflect Open adds local Markdown files, configurable AI assistants and user-selected synchronization.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Notes Markdown locales dans Reflect Open",
+      "Liens bidirectionnels et recherche",
+      "IA facultative avec clé utilisateur"
+    ],
+    "featuresEn": [
+      "Local Markdown notes in Reflect Open",
+      "Backlinks and search",
+      "Optional bring-your-own-key AI"
+    ],
+    "accessFr": "Application locale Mac/iOS et intégrations configurables",
+    "accessEn": "Local Mac/iOS app and configurable integrations",
+    "officialSources": [
+      {
+        "url": "https://reflect.app/blog/reflect-open",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Application de notes liées entre elles ; Reflect Open introduit une nouvelle architecture locale Markdown, des assistants IA configurables et une synchronisation choisie.",
+      "audiences": [
+        "Professionnels et équipes de projet",
+        "Enseignants, chercheurs et créateurs de contenus"
+      ],
+      "cases": [
+        "Conserver des notes de recherche dans des fichiers Markdown et les interroger avec citations.",
+        "Relire les propositions automatiques, les droits d'accès et les sources avant exploitation."
+      ],
+      "advantages": [
+        "Notes Markdown locales dans Reflect Open",
+        "Liens bidirectionnels et recherche",
+        "IA facultative avec clé utilisateur"
+      ],
+      "limits": [
+        "Reflect Open est un nouveau produit distinct de l'ancien ; une note privée exclue de l'IA peut quand même être synchronisée par iCloud ou Git.",
+        "Les synthèses et priorités générées peuvent omettre des informations importantes ; conserver une validation humaine."
+      ],
+      "gettingStarted": [
+        "Configurer une tâche de démonstration avec les permissions minimales, puis confronter les suggestions au contexte réel.",
+        "Examiner les paramètres de partage, l'accès aux fichiers et la présence d'un mécanisme d'annulation avant d'activer les automatisations."
+      ],
+      "examples": [
+        "Prépare un récapitulatif hebdomadaire avec réalisations, blocages, prochaines actions et responsables.",
+        "Organise les éléments fournis sans inventer de décisions et indique toute source manquante."
+      ],
+      "pricing": "Offres, crédits IA, quotas et fonctions d'équipe variables ; vérifier la grille officielle actuelle et les conditions régionales.",
+      "privacy": "Vérifier les droits d'accès aux espaces, calendriers et enregistrements ainsi que les règles de stockage, consentement et traitement par des modèles tiers.",
+      "selection": [
+        "Comparer Reflect selon le type d'usage (knowledge), les intégrations, la transparence des sources, les permissions et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "new_product_available",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://reflect.app/blog/reflect-open",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_new_product"
+  },
+  "tana": {
+    "descriptionFr": "Espace de connaissances structuré par supertags, avec capture et dialogue vocal IA pour transformer des idées en données organisées.",
+    "descriptionEn": "Knowledge workspace structured with supertags, AI voice capture and conversations turning ideas into organized data.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Supertags et champs structurés",
+      "Conversation vocale IA mobile",
+      "Extraction de tâches et données"
+    ],
+    "featuresEn": [
+      "Supertags and structured fields",
+      "Mobile AI voice conversations",
+      "Task and data extraction"
+    ],
+    "accessFr": "Web, bureau et/ou mobile selon service",
+    "accessEn": "Web, desktop and/or mobile depending on service",
+    "officialSources": [
+      {
+        "url": "https://outliner.tana.inc/blog/ai-voice-chat-on-android-and-ios-can-now-search-tana-and-the-web",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Espace de connaissances structuré par supertags, avec capture et dialogue vocal IA pour transformer des idées en données organisées.",
+      "audiences": [
+        "Professionnels et équipes de projet",
+        "Enseignants, chercheurs et créateurs de contenus"
+      ],
+      "cases": [
+        "Enregistrer oralement des notes de cours et remplir automatiquement les champs d'un supertag.",
+        "Relire les propositions automatiques, les droits d'accès et les sources avant exploitation."
+      ],
+      "advantages": [
+        "Supertags et champs structurés",
+        "Conversation vocale IA mobile",
+        "Extraction de tâches et données"
+      ],
+      "limits": [
+        "La transcription et l'affectation de champs peuvent manquer de précision ; vérifier langues, crédits et consentement vocal.",
+        "Les synthèses et priorités générées peuvent omettre des informations importantes ; conserver une validation humaine."
+      ],
+      "gettingStarted": [
+        "Configurer une tâche de démonstration avec les permissions minimales, puis confronter les suggestions au contexte réel.",
+        "Examiner les paramètres de partage, l'accès aux fichiers et la présence d'un mécanisme d'annulation avant d'activer les automatisations."
+      ],
+      "examples": [
+        "Prépare un récapitulatif hebdomadaire avec réalisations, blocages, prochaines actions et responsables.",
+        "Organise les éléments fournis sans inventer de décisions et indique toute source manquante."
+      ],
+      "pricing": "Offres, crédits IA, quotas et fonctions d'équipe variables ; vérifier la grille officielle actuelle et les conditions régionales.",
+      "privacy": "Vérifier les droits d'accès aux espaces, calendriers et enregistrements ainsi que les règles de stockage, consentement et traitement par des modèles tiers.",
+      "selection": [
+        "Comparer Tana selon le type d'usage (knowledge), les intégrations, la transparence des sources, les permissions et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://outliner.tana.inc/blog/ai-voice-chat-on-android-and-ios-can-now-search-tana-and-the-web",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "capacities": {
+    "descriptionFr": "Application de gestion des connaissances par objets avec IA conversationnelle, recherche, tags et opérations soumises à approbation.",
+    "descriptionEn": "Object-based personal knowledge manager with AI chat, search, tags and approval-gated actions.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Notes et objets connectés",
+      "Assistant IA avec contexte",
+      "Propositions de modifications soumises à approbation"
+    ],
+    "featuresEn": [
+      "Linked notes and objects",
+      "Context-aware AI assistant",
+      "Approval-gated edits"
+    ],
+    "accessFr": "Web, bureau et/ou mobile selon service",
+    "accessEn": "Web, desktop and/or mobile depending on service",
+    "officialSources": [
+      {
+        "url": "https://docs.capacities.io/reference/ai-assistant",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Application de gestion des connaissances par objets avec IA conversationnelle, recherche, tags et opérations soumises à approbation.",
+      "audiences": [
+        "Professionnels et équipes de projet",
+        "Enseignants, chercheurs et créateurs de contenus"
+      ],
+      "cases": [
+        "Construire une base de connaissances sur un sujet avec résumés et liens vers les notes utilisées.",
+        "Relire les propositions automatiques, les droits d'accès et les sources avant exploitation."
+      ],
+      "advantages": [
+        "Notes et objets connectés",
+        "Assistant IA avec contexte",
+        "Propositions de modifications soumises à approbation"
+      ],
+      "limits": [
+        "L'utilisation de l'IA envoie le contexte sélectionné au fournisseur de modèle ; fonctions, budget et intégrations selon l'abonnement.",
+        "Les synthèses et priorités générées peuvent omettre des informations importantes ; conserver une validation humaine."
+      ],
+      "gettingStarted": [
+        "Configurer une tâche de démonstration avec les permissions minimales, puis confronter les suggestions au contexte réel.",
+        "Examiner les paramètres de partage, l'accès aux fichiers et la présence d'un mécanisme d'annulation avant d'activer les automatisations."
+      ],
+      "examples": [
+        "Prépare un récapitulatif hebdomadaire avec réalisations, blocages, prochaines actions et responsables.",
+        "Organise les éléments fournis sans inventer de décisions et indique toute source manquante."
+      ],
+      "pricing": "Offres, crédits IA, quotas et fonctions d'équipe variables ; vérifier la grille officielle actuelle et les conditions régionales.",
+      "privacy": "Vérifier les droits d'accès aux espaces, calendriers et enregistrements ainsi que les règles de stockage, consentement et traitement par des modèles tiers.",
+      "selection": [
+        "Comparer Capacities selon le type d'usage (knowledge), les intégrations, la transparence des sources, les permissions et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.capacities.io/reference/ai-assistant",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "motion": {
+    "descriptionFr": "Planificateur intelligent associant tâches, projets, agenda, comptes rendus et réorganisation automatique des créneaux.",
+    "descriptionEn": "AI planner combining tasks, projects, calendar, meeting notes and automatic rescheduling.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Planification automatique de tâches",
+      "Gestion de projets et échéances",
+      "Notes de réunion et actions"
+    ],
+    "featuresEn": [
+      "Automatic task scheduling",
+      "Project and deadline management",
+      "Meeting notes and action items"
+    ],
+    "accessFr": "Web, bureau et/ou mobile selon service",
+    "accessEn": "Web, desktop and/or mobile depending on service",
+    "officialSources": [
+      {
+        "url": "https://www.usemotion.com/features/ai-calendar",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Planificateur intelligent associant tâches, projets, agenda, comptes rendus et réorganisation automatique des créneaux.",
+      "audiences": [
+        "Professionnels et équipes de projet",
+        "Enseignants, chercheurs et créateurs de contenus"
+      ],
+      "cases": [
+        "Décomposer un projet en tâches et laisser l'agenda réorganiser les créneaux selon échéances et priorités.",
+        "Relire les propositions automatiques, les droits d'accès et les sources avant exploitation."
+      ],
+      "advantages": [
+        "Planification automatique de tâches",
+        "Gestion de projets et échéances",
+        "Notes de réunion et actions"
+      ],
+      "limits": [
+        "La replanification automatique dépend de la qualité des estimations ; vérifier disponibilité, synchronisation et facturation.",
+        "Les synthèses et priorités générées peuvent omettre des informations importantes ; conserver une validation humaine."
+      ],
+      "gettingStarted": [
+        "Configurer une tâche de démonstration avec les permissions minimales, puis confronter les suggestions au contexte réel.",
+        "Examiner les paramètres de partage, l'accès aux fichiers et la présence d'un mécanisme d'annulation avant d'activer les automatisations."
+      ],
+      "examples": [
+        "Prépare un récapitulatif hebdomadaire avec réalisations, blocages, prochaines actions et responsables.",
+        "Organise les éléments fournis sans inventer de décisions et indique toute source manquante."
+      ],
+      "pricing": "Offres, crédits IA, quotas et fonctions d'équipe variables ; vérifier la grille officielle actuelle et les conditions régionales.",
+      "privacy": "Vérifier les droits d'accès aux espaces, calendriers et enregistrements ainsi que les règles de stockage, consentement et traitement par des modèles tiers.",
+      "selection": [
+        "Comparer Motion selon le type d'usage (calendar), les intégrations, la transparence des sources, les permissions et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.usemotion.com/features/ai-calendar",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "reclaim-ai": {
+    "descriptionFr": "Assistant de calendrier Reclaim 2.0 organisant habitudes, temps de concentration, buffers et réunions via des agents.",
+    "descriptionEn": "Reclaim 2.0 calendar assistant coordinating habits, focus time, buffers and meetings through agents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Agents de calendrier Reclaim 2.0",
+      "Habitudes, focus et créneaux tampons",
+      "Réunions intelligentes avec suggestions"
+    ],
+    "featuresEn": [
+      "Reclaim 2.0 calendar agents",
+      "Habits, focus and buffers",
+      "Smart meeting suggestions"
+    ],
+    "accessFr": "Web, bureau et/ou mobile selon service",
+    "accessEn": "Web, desktop and/or mobile depending on service",
+    "officialSources": [
+      {
+        "url": "https://help.reclaim.ai/en/articles/15280604-reclaim-2-0-faq",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Assistant de calendrier Reclaim 2.0 organisant habitudes, temps de concentration, buffers et réunions via des agents.",
+      "audiences": [
+        "Professionnels et équipes de projet",
+        "Enseignants, chercheurs et créateurs de contenus"
+      ],
+      "cases": [
+        "Protéger des plages hebdomadaires de travail approfondi et proposer de nouveaux horaires de réunions.",
+        "Relire les propositions automatiques, les droits d'accès et les sources avant exploitation."
+      ],
+      "advantages": [
+        "Agents de calendrier Reclaim 2.0",
+        "Habitudes, focus et créneaux tampons",
+        "Réunions intelligentes avec suggestions"
+      ],
+      "limits": [
+        "En version 2.0, les Smart Meetings ne sont pas reprogrammées automatiquement sans action humaine ; éviter de mélanger documentations 1.0 et 2.0.",
+        "Les synthèses et priorités générées peuvent omettre des informations importantes ; conserver une validation humaine."
+      ],
+      "gettingStarted": [
+        "Configurer une tâche de démonstration avec les permissions minimales, puis confronter les suggestions au contexte réel.",
+        "Examiner les paramètres de partage, l'accès aux fichiers et la présence d'un mécanisme d'annulation avant d'activer les automatisations."
+      ],
+      "examples": [
+        "Prépare un récapitulatif hebdomadaire avec réalisations, blocages, prochaines actions et responsables.",
+        "Organise les éléments fournis sans inventer de décisions et indique toute source manquante."
+      ],
+      "pricing": "Offres, crédits IA, quotas et fonctions d'équipe variables ; vérifier la grille officielle actuelle et les conditions régionales.",
+      "privacy": "Vérifier les droits d'accès aux espaces, calendriers et enregistrements ainsi que les règles de stockage, consentement et traitement par des modèles tiers.",
+      "selection": [
+        "Comparer Reclaim AI selon le type d'usage (calendar), les intégrations, la transparence des sources, les permissions et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "major_version_2",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.reclaim.ai/en/articles/15280604-reclaim-2-0-faq",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_major_upgrade"
+  },
+  "clockwise": {
+    "descriptionFr": "Ancien assistant de calendrier et de protection du temps de concentration ; service fermé le 27 mars 2026.",
+    "descriptionEn": "Former focus-time and calendar optimization assistant; service shut down on March 27, 2026.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Optimisation historique des réunions",
+      "Blocs de concentration historiques",
+      "Service et liens de réservation arrêtés"
+    ],
+    "featuresEn": [
+      "Historical meeting optimization",
+      "Historical focus blocks",
+      "Service and booking links discontinued"
+    ],
+    "accessFr": "Service fermé depuis mars 2026",
+    "accessEn": "Service discontinued since March 2026",
+    "officialSources": [
+      {
+        "url": "https://getclockwise.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Ancien assistant de calendrier et de protection du temps de concentration ; service fermé le 27 mars 2026.",
+      "audiences": [
+        "Professionnels et équipes de projet",
+        "Enseignants, chercheurs et créateurs de contenus"
+      ],
+      "cases": [
+        "Comparer historiquement Clockwise et ses alternatives actives pour le temps de concentration.",
+        "Relire les propositions automatiques, les droits d'accès et les sources avant exploitation."
+      ],
+      "advantages": [
+        "Optimisation historique des réunions",
+        "Blocs de concentration historiques",
+        "Service et liens de réservation arrêtés"
+      ],
+      "limits": [
+        "Clockwise n'est plus disponible depuis le 27 mars 2026 ; les blocs Smart Hold et les liens de réservation ont été supprimés.",
+        "Les synthèses et priorités générées peuvent omettre des informations importantes ; conserver une validation humaine."
+      ],
+      "gettingStarted": [
+        "Privilégier une alternative active telle que Reclaim pour une nouvelle organisation.",
+        "Examiner les paramètres de partage, l'accès aux fichiers et la présence d'un mécanisme d'annulation avant d'activer les automatisations."
+      ],
+      "examples": [
+        "Prépare un récapitulatif hebdomadaire avec réalisations, blocages, prochaines actions et responsables.",
+        "Organise les éléments fournis sans inventer de décisions et indique toute source manquante."
+      ],
+      "pricing": "Service arrêté : aucun nouvel abonnement opérationnel.",
+      "privacy": "Vérifier les droits d'accès aux espaces, calendriers et enregistrements ainsi que les règles de stockage, consentement et traitement par des modèles tiers.",
+      "selection": [
+        "Comparer Clockwise selon le type d'usage (calendar), les intégrations, la transparence des sources, les permissions et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "discontinued",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://getclockwise.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_discontinued"
+  },
+  "sunsama": {
+    "descriptionFr": "Planificateur journalier collaborant avec l'utilisateur : l'assistant Sunny propose un plan réaliste à valider à partir des tâches et calendriers.",
+    "descriptionEn": "Daily planner with Sunny AI drafting a realistic, user-reviewed plan from tasks and calendars.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Plan journalier guidé par Sunny",
+      "Intégration des tâches et calendriers",
+      "Validation manuelle du programme"
+    ],
+    "featuresEn": [
+      "Sunny-assisted daily planning",
+      "Tasks and calendar integrations",
+      "Manual plan approval"
+    ],
+    "accessFr": "Web, bureau et/ou mobile selon service",
+    "accessEn": "Web, desktop and/or mobile depending on service",
+    "officialSources": [
+      {
+        "url": "https://www.sunsama.com/features/daily-planning",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Planificateur journalier collaborant avec l'utilisateur : l'assistant Sunny propose un plan réaliste à valider à partir des tâches et calendriers.",
+      "audiences": [
+        "Professionnels et équipes de projet",
+        "Enseignants, chercheurs et créateurs de contenus"
+      ],
+      "cases": [
+        "Préparer chaque matin une liste de priorités conciliant tâches, rendez-vous et temps disponible.",
+        "Relire les propositions automatiques, les droits d'accès et les sources avant exploitation."
+      ],
+      "advantages": [
+        "Plan journalier guidé par Sunny",
+        "Intégration des tâches et calendriers",
+        "Validation manuelle du programme"
+      ],
+      "limits": [
+        "Le plan IA reste une proposition ; vérifier intégrations, limites d'essai et données autorisées dans les comptes connectés.",
+        "Les synthèses et priorités générées peuvent omettre des informations importantes ; conserver une validation humaine."
+      ],
+      "gettingStarted": [
+        "Configurer une tâche de démonstration avec les permissions minimales, puis confronter les suggestions au contexte réel.",
+        "Examiner les paramètres de partage, l'accès aux fichiers et la présence d'un mécanisme d'annulation avant d'activer les automatisations."
+      ],
+      "examples": [
+        "Prépare un récapitulatif hebdomadaire avec réalisations, blocages, prochaines actions et responsables.",
+        "Organise les éléments fournis sans inventer de décisions et indique toute source manquante."
+      ],
+      "pricing": "Offres, crédits IA, quotas et fonctions d'équipe variables ; vérifier la grille officielle actuelle et les conditions régionales.",
+      "privacy": "Vérifier les droits d'accès aux espaces, calendriers et enregistrements ainsi que les règles de stockage, consentement et traitement par des modèles tiers.",
+      "selection": [
+        "Comparer Sunsama selon le type d'usage (calendar), les intégrations, la transparence des sources, les permissions et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.sunsama.com/features/daily-planning",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "read-ai": {
+    "descriptionFr": "Assistant de réunion qui produit transcriptions, résumés et décisions, puis recherche les informations dans les réunions et sources connectées.",
+    "descriptionEn": "Meeting assistant providing transcripts, summaries and decisions plus search across meetings and connected sources.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Transcriptions et actions de réunion",
+      "Ask Read et recherche multi-sources",
+      "Intégrations email, calendrier et messagerie"
+    ],
+    "featuresEn": [
+      "Meeting transcripts and action items",
+      "Ask Read multi-source search",
+      "Email, calendar and chat integrations"
+    ],
+    "accessFr": "Web, bureau et/ou mobile selon service",
+    "accessEn": "Web, desktop and/or mobile depending on service",
+    "officialSources": [
+      {
+        "url": "https://support.read.ai/hc/en-us/articles/39009378777875-Using-Ask-Read-to-search-your-meetings-and-connected-apps",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Assistant de réunion qui produit transcriptions, résumés et décisions, puis recherche les informations dans les réunions et sources connectées.",
+      "audiences": [
+        "Professionnels et équipes de projet",
+        "Enseignants, chercheurs et créateurs de contenus"
+      ],
+      "cases": [
+        "Retrouver les décisions prises lors des réunions récentes et préparer les suivis.",
+        "Relire les propositions automatiques, les droits d'accès et les sources avant exploitation."
+      ],
+      "advantages": [
+        "Transcriptions et actions de réunion",
+        "Ask Read et recherche multi-sources",
+        "Intégrations email, calendrier et messagerie"
+      ],
+      "limits": [
+        "Obtenir le consentement des participants, contrôler le partage des comptes rendus ; sources et modèles premium selon le plan.",
+        "Les synthèses et priorités générées peuvent omettre des informations importantes ; conserver une validation humaine."
+      ],
+      "gettingStarted": [
+        "Configurer une tâche de démonstration avec les permissions minimales, puis confronter les suggestions au contexte réel.",
+        "Examiner les paramètres de partage, l'accès aux fichiers et la présence d'un mécanisme d'annulation avant d'activer les automatisations."
+      ],
+      "examples": [
+        "Prépare un récapitulatif hebdomadaire avec réalisations, blocages, prochaines actions et responsables.",
+        "Organise les éléments fournis sans inventer de décisions et indique toute source manquante."
+      ],
+      "pricing": "Offres, crédits IA, quotas et fonctions d'équipe variables ; vérifier la grille officielle actuelle et les conditions régionales.",
+      "privacy": "Vérifier les droits d'accès aux espaces, calendriers et enregistrements ainsi que les règles de stockage, consentement et traitement par des modèles tiers.",
+      "selection": [
+        "Comparer Read AI selon le type d'usage (meetings), les intégrations, la transparence des sources, les permissions et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://support.read.ai/hc/en-us/articles/39009378777875-Using-Ask-Read-to-search-your-meetings-and-connected-apps",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "todoist-assist": {
+    "descriptionFr": "Ensemble d'assistances IA de Todoist pour organiser les tâches, produire des filtres et se connecter aux agents via MCP.",
+    "descriptionEn": "Todoist AI assistants for organizing tasks, building filters and connecting to agents via MCP.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Todoist Assist et Filter Assist",
+      "Connexions IA et serveur MCP",
+      "API et CLI de tâches"
+    ],
+    "featuresEn": [
+      "Todoist Assist and Filter Assist",
+      "AI connections and MCP server",
+      "Task API and CLI"
+    ],
+    "accessFr": "Web, bureau et/ou mobile selon service",
+    "accessEn": "Web, desktop and/or mobile depending on service",
+    "officialSources": [
+      {
+        "url": "https://www.todoist.com/ai-tools",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Ensemble d'assistances IA de Todoist pour organiser les tâches, produire des filtres et se connecter aux agents via MCP.",
+      "audiences": [
+        "Professionnels et équipes de projet",
+        "Enseignants, chercheurs et créateurs de contenus"
+      ],
+      "cases": [
+        "Transformer une idée de projet en liste d'actions et utiliser une recherche structurée de tâches.",
+        "Relire les propositions automatiques, les droits d'accès et les sources avant exploitation."
+      ],
+      "advantages": [
+        "Todoist Assist et Filter Assist",
+        "Connexions IA et serveur MCP",
+        "API et CLI de tâches"
+      ],
+      "limits": [
+        "Fonctions avancées et limites dépendent de la formule ; ne pas autoriser un agent à supprimer des tâches sans contrôle.",
+        "Les synthèses et priorités générées peuvent omettre des informations importantes ; conserver une validation humaine."
+      ],
+      "gettingStarted": [
+        "Configurer une tâche de démonstration avec les permissions minimales, puis confronter les suggestions au contexte réel.",
+        "Examiner les paramètres de partage, l'accès aux fichiers et la présence d'un mécanisme d'annulation avant d'activer les automatisations."
+      ],
+      "examples": [
+        "Prépare un récapitulatif hebdomadaire avec réalisations, blocages, prochaines actions et responsables.",
+        "Organise les éléments fournis sans inventer de décisions et indique toute source manquante."
+      ],
+      "pricing": "Offres, crédits IA, quotas et fonctions d'équipe variables ; vérifier la grille officielle actuelle et les conditions régionales.",
+      "privacy": "Vérifier les droits d'accès aux espaces, calendriers et enregistrements ainsi que les règles de stockage, consentement et traitement par des modèles tiers.",
+      "selection": [
+        "Comparer Todoist Assist selon le type d'usage (tasks), les intégrations, la transparence des sources, les permissions et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.todoist.com/ai-tools",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "airtable-ai": {
+    "descriptionFr": "Airtable Omni 2.0 et Field Agents pour créer des applications, analyser des données et enrichir automatiquement des enregistrements.",
+    "descriptionEn": "Airtable Omni 2.0 and Field Agents for building apps, analyzing data and enriching records.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Omni : construction d'applications",
+      "Field Agents pour champs calculés par IA",
+      "Analyse et automatisations de données"
+    ],
+    "featuresEn": [
+      "Omni app building",
+      "AI Field Agents",
+      "Data analysis and automations"
+    ],
+    "accessFr": "Web, bureau et/ou mobile selon service",
+    "accessEn": "Web, desktop and/or mobile depending on service",
+    "officialSources": [
+      {
+        "url": "https://support.airtable.com/articles/1744327578-using-omni-ai-in-airtable",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Airtable Omni 2.0 et Field Agents pour créer des applications, analyser des données et enrichir automatiquement des enregistrements.",
+      "audiences": [
+        "Professionnels et équipes de projet",
+        "Enseignants, chercheurs et créateurs de contenus"
+      ],
+      "cases": [
+        "Créer une base de suivi éditorial puis classer automatiquement des fiches par sujet.",
+        "Relire les propositions automatiques, les droits d'accès et les sources avant exploitation."
+      ],
+      "advantages": [
+        "Omni : construction d'applications",
+        "Field Agents pour champs calculés par IA",
+        "Analyse et automatisations de données"
+      ],
+      "limits": [
+        "Omni respecte les permissions, mais les Field Agents nécessitent des crédits et ont un contexte limité à leurs enregistrements ; contrôler les automatisations.",
+        "Les synthèses et priorités générées peuvent omettre des informations importantes ; conserver une validation humaine."
+      ],
+      "gettingStarted": [
+        "Configurer une tâche de démonstration avec les permissions minimales, puis confronter les suggestions au contexte réel.",
+        "Examiner les paramètres de partage, l'accès aux fichiers et la présence d'un mécanisme d'annulation avant d'activer les automatisations."
+      ],
+      "examples": [
+        "Prépare un récapitulatif hebdomadaire avec réalisations, blocages, prochaines actions et responsables.",
+        "Organise les éléments fournis sans inventer de décisions et indique toute source manquante."
+      ],
+      "pricing": "Offres, crédits IA, quotas et fonctions d'équipe variables ; vérifier la grille officielle actuelle et les conditions régionales.",
+      "privacy": "Vérifier les droits d'accès aux espaces, calendriers et enregistrements ainsi que les règles de stockage, consentement et traitement par des modèles tiers.",
+      "selection": [
+        "Comparer Airtable AI selon le type d'usage (projects), les intégrations, la transparence des sources, les permissions et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://support.airtable.com/articles/1744327578-using-omni-ai-in-airtable",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "asana-ai": {
+    "descriptionFr": "Asana AI rassemble Dash, AI Studio et fonctions intelligentes pour synthétiser le travail, organiser projets et automatiser des processus.",
+    "descriptionEn": "Asana AI includes Dash, AI Studio and smart features for work summaries, project organization and workflow automation.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Asana Dash et synthèse du travail",
+      "AI Studio pour workflows",
+      "Projets et règles assistés"
+    ],
+    "featuresEn": [
+      "Asana Dash and work summaries",
+      "AI Studio workflows",
+      "AI-assisted projects and rules"
+    ],
+    "accessFr": "Web, bureau et/ou mobile selon service",
+    "accessEn": "Web, desktop and/or mobile depending on service",
+    "officialSources": [
+      {
+        "url": "https://help.asana.com/s/article/get-started-with-asana-ai",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Asana AI rassemble Dash, AI Studio et fonctions intelligentes pour synthétiser le travail, organiser projets et automatiser des processus.",
+      "audiences": [
+        "Professionnels et équipes de projet",
+        "Enseignants, chercheurs et créateurs de contenus"
+      ],
+      "cases": [
+        "Transformer une demande entrante en projet avec responsable, jalons et circuit de validation.",
+        "Relire les propositions automatiques, les droits d'accès et les sources avant exploitation."
+      ],
+      "advantages": [
+        "Asana Dash et synthèse du travail",
+        "AI Studio pour workflows",
+        "Projets et règles assistés"
+      ],
+      "limits": [
+        "Disponibilité et fonctionnalités selon l'abonnement ; soumettre les workflows générés à une revue avant déclenchement.",
+        "Les synthèses et priorités générées peuvent omettre des informations importantes ; conserver une validation humaine."
+      ],
+      "gettingStarted": [
+        "Configurer une tâche de démonstration avec les permissions minimales, puis confronter les suggestions au contexte réel.",
+        "Examiner les paramètres de partage, l'accès aux fichiers et la présence d'un mécanisme d'annulation avant d'activer les automatisations."
+      ],
+      "examples": [
+        "Prépare un récapitulatif hebdomadaire avec réalisations, blocages, prochaines actions et responsables.",
+        "Organise les éléments fournis sans inventer de décisions et indique toute source manquante."
+      ],
+      "pricing": "Offres, crédits IA, quotas et fonctions d'équipe variables ; vérifier la grille officielle actuelle et les conditions régionales.",
+      "privacy": "Vérifier les droits d'accès aux espaces, calendriers et enregistrements ainsi que les règles de stockage, consentement et traitement par des modèles tiers.",
+      "selection": [
+        "Comparer Asana AI selon le type d'usage (projects), les intégrations, la transparence des sources, les permissions et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.asana.com/s/article/get-started-with-asana-ai",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "monday-ai": {
+    "descriptionFr": "Fonctions monday AI pour résumer, créer et mettre à jour des éléments, avec sidekick, blocs IA et agents dans les workflows.",
+    "descriptionEn": "monday AI for summarizing, creating and updating items using sidekick, AI blocks and workflow agents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "monday sidekick conversationnel",
+      "Colonnes et automatisations IA",
+      "Agents et gestion des tableaux"
+    ],
+    "featuresEn": [
+      "Conversational monday sidekick",
+      "AI columns and automation",
+      "Board-connected agents"
+    ],
+    "accessFr": "Web, bureau et/ou mobile selon service",
+    "accessEn": "Web, desktop and/or mobile depending on service",
+    "officialSources": [
+      {
+        "url": "https://support.monday.com/hc/en-us/articles/11512670770834-Get-started-with-monday-AI",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Fonctions monday AI pour résumer, créer et mettre à jour des éléments, avec sidekick, blocs IA et agents dans les workflows.",
+      "audiences": [
+        "Professionnels et équipes de projet",
+        "Enseignants, chercheurs et créateurs de contenus"
+      ],
+      "cases": [
+        "Résumer des demandes sur un tableau puis répartir les actions entre responsables.",
+        "Relire les propositions automatiques, les droits d'accès et les sources avant exploitation."
+      ],
+      "advantages": [
+        "monday sidekick conversationnel",
+        "Colonnes et automatisations IA",
+        "Agents et gestion des tableaux"
+      ],
+      "limits": [
+        "Fonctions agentiques parfois progressivement déployées ; vérifier crédits, permissions et disponibilité par produit.",
+        "Les synthèses et priorités générées peuvent omettre des informations importantes ; conserver une validation humaine."
+      ],
+      "gettingStarted": [
+        "Configurer une tâche de démonstration avec les permissions minimales, puis confronter les suggestions au contexte réel.",
+        "Examiner les paramètres de partage, l'accès aux fichiers et la présence d'un mécanisme d'annulation avant d'activer les automatisations."
+      ],
+      "examples": [
+        "Prépare un récapitulatif hebdomadaire avec réalisations, blocages, prochaines actions et responsables.",
+        "Organise les éléments fournis sans inventer de décisions et indique toute source manquante."
+      ],
+      "pricing": "Offres, crédits IA, quotas et fonctions d'équipe variables ; vérifier la grille officielle actuelle et les conditions régionales.",
+      "privacy": "Vérifier les droits d'accès aux espaces, calendriers et enregistrements ainsi que les règles de stockage, consentement et traitement par des modèles tiers.",
+      "selection": [
+        "Comparer Monday AI selon le type d'usage (projects), les intégrations, la transparence des sources, les permissions et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://support.monday.com/hc/en-us/articles/11512670770834-Get-started-with-monday-AI",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "slack-ai": {
+    "descriptionFr": "Fonctionnalités IA de Slack pour résumés de discussions, récapitulatifs, réponses de recherche et notes de réunions.",
+    "descriptionEn": "Slack AI tools for channel summaries, recaps, search answers and meeting notes.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Résumés de canaux et conversations",
+      "Recherche avec réponses sourcées",
+      "Récapitulatifs et notes de huddles"
+    ],
+    "featuresEn": [
+      "Channel and thread summaries",
+      "Cited search answers",
+      "Recaps and huddle notes"
+    ],
+    "accessFr": "Web, bureau et/ou mobile selon service",
+    "accessEn": "Web, desktop and/or mobile depending on service",
+    "officialSources": [
+      {
+        "url": "https://slack.com/help/articles/25076892548883-Guide-to-AI-features-in-Slack",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Fonctionnalités IA de Slack pour résumés de discussions, récapitulatifs, réponses de recherche et notes de réunions.",
+      "audiences": [
+        "Professionnels et équipes de projet",
+        "Enseignants, chercheurs et créateurs de contenus"
+      ],
+      "cases": [
+        "Obtenir la synthèse d'un canal de projet et retrouver le message ayant validé une décision.",
+        "Relire les propositions automatiques, les droits d'accès et les sources avant exploitation."
+      ],
+      "advantages": [
+        "Résumés de canaux et conversations",
+        "Recherche avec réponses sourcées",
+        "Récapitulatifs et notes de huddles"
+      ],
+      "limits": [
+        "La recherche IA complète et les récapitulatifs ne sont pas inclus dans toutes les formules ; vérifier droits d'accès et conservation.",
+        "Les synthèses et priorités générées peuvent omettre des informations importantes ; conserver une validation humaine."
+      ],
+      "gettingStarted": [
+        "Configurer une tâche de démonstration avec les permissions minimales, puis confronter les suggestions au contexte réel.",
+        "Examiner les paramètres de partage, l'accès aux fichiers et la présence d'un mécanisme d'annulation avant d'activer les automatisations."
+      ],
+      "examples": [
+        "Prépare un récapitulatif hebdomadaire avec réalisations, blocages, prochaines actions et responsables.",
+        "Organise les éléments fournis sans inventer de décisions et indique toute source manquante."
+      ],
+      "pricing": "Offres, crédits IA, quotas et fonctions d'équipe variables ; vérifier la grille officielle actuelle et les conditions régionales.",
+      "privacy": "Vérifier les droits d'accès aux espaces, calendriers et enregistrements ainsi que les règles de stockage, consentement et traitement par des modèles tiers.",
+      "selection": [
+        "Comparer Slack AI selon le type d'usage (communication), les intégrations, la transparence des sources, les permissions et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://slack.com/help/articles/25076892548883-Guide-to-AI-features-in-Slack",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "zoom-ai-companion": {
+    "descriptionFr": "Assistant Zoom pour résumer les réunions, rédiger des documents, retrouver des échanges et traiter des transcriptions.",
+    "descriptionEn": "Zoom assistant for meeting summaries, document drafting, conversation search and transcripts.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Résumés et transcriptions de réunion",
+      "AI Companion sur le web",
+      "Recherche et rédaction dans Zoom"
+    ],
+    "featuresEn": [
+      "Meeting summaries and transcripts",
+      "Web-based AI Companion",
+      "Zoom search and drafting"
+    ],
+    "accessFr": "Web, bureau et/ou mobile selon service",
+    "accessEn": "Web, desktop and/or mobile depending on service",
+    "officialSources": [
+      {
+        "url": "https://www.zoom.com/en/products/whats-new/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Assistant Zoom pour résumer les réunions, rédiger des documents, retrouver des échanges et traiter des transcriptions.",
+      "audiences": [
+        "Professionnels et équipes de projet",
+        "Enseignants, chercheurs et créateurs de contenus"
+      ],
+      "cases": [
+        "Préparer une synthèse de réunion et extraire les décisions à confirmer auprès des participants.",
+        "Relire les propositions automatiques, les droits d'accès et les sources avant exploitation."
+      ],
+      "advantages": [
+        "Résumés et transcriptions de réunion",
+        "AI Companion sur le web",
+        "Recherche et rédaction dans Zoom"
+      ],
+      "limits": [
+        "Consentement et politiques de conservation indispensables ; la recherche approfondie et certaines fonctions exigent un module payant.",
+        "Les synthèses et priorités générées peuvent omettre des informations importantes ; conserver une validation humaine."
+      ],
+      "gettingStarted": [
+        "Configurer une tâche de démonstration avec les permissions minimales, puis confronter les suggestions au contexte réel.",
+        "Examiner les paramètres de partage, l'accès aux fichiers et la présence d'un mécanisme d'annulation avant d'activer les automatisations."
+      ],
+      "examples": [
+        "Prépare un récapitulatif hebdomadaire avec réalisations, blocages, prochaines actions et responsables.",
+        "Organise les éléments fournis sans inventer de décisions et indique toute source manquante."
+      ],
+      "pricing": "Offres, crédits IA, quotas et fonctions d'équipe variables ; vérifier la grille officielle actuelle et les conditions régionales.",
+      "privacy": "Vérifier les droits d'accès aux espaces, calendriers et enregistrements ainsi que les règles de stockage, consentement et traitement par des modèles tiers.",
+      "selection": [
+        "Comparer Zoom AI Companion selon le type d'usage (meetings), les intégrations, la transparence des sources, les permissions et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.zoom.com/en/products/whats-new/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  }
+}
