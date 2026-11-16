@@ -3657,5 +3657,260 @@
     "reviewedAt": "2026-11-15",
     "status": "documented",
     "evidence": "official"
+  },
+  "Pi": {
+    "headline": "Assistant personnel d’Inflection AI centré sur la conversation, la réflexion et les échanges vocaux.",
+    "audiences": [
+      "Personnes souhaitant réfléchir à voix haute ou préparer une conversation",
+      "Utilisateurs recherchant des échanges conversationnels naturels",
+      "Personnes explorant habitudes, curiosité et organisation quotidienne"
+    ],
+    "cases": [
+      "Préparer une discussion délicate avec des formulations possibles",
+      "Clarifier une décision en examinant plusieurs options",
+      "Échanger à l’oral et explorer un sujet nouveau",
+      "Organiser des rappels et des tâches lorsque les fonctions sont disponibles"
+    ],
+    "advantages": [
+      "Approche conversationnelle centrée sur l’écoute et l’échange",
+      "Conversations vocales mises en avant par l’éditeur",
+      "Applications mobiles annoncées pour iOS et Android"
+    ],
+    "limits": [
+      "N’est ni un thérapeute ni un professionnel de santé",
+      "Fiabilité factuelle à contrôler pour les informations importantes",
+      "Fonctions et disponibilité susceptibles d’évoluer selon la plateforme"
+    ],
+    "gettingStarted": [
+      "Ouvrir Pi, formuler un besoin précis puis préciser le ton et le type d’accompagnement attendu.",
+      "Pour une décision importante, demander les arguments contradictoires et vérifier les faits auprès de sources externes."
+    ],
+    "examples": [
+      "Aide-moi à préparer calmement une conversation difficile avec un collègue.",
+      "Pose-moi cinq questions pour clarifier les avantages et les risques de cette décision."
+    ],
+    "pricing": "Consulter le site officiel pour les conditions d’accès et les éventuelles offres ; tarif non vérifié.",
+    "privacy": "Éviter de communiquer des informations personnelles sensibles sans avoir consulté les conditions de confidentialité d’Inflection AI.",
+    "selection": [
+      "Privilégier Pi pour une conversation naturelle et réflexive plutôt qu’une recherche documentaire sourcée."
+    ],
+    "sources": [
+      {
+        "url": "https://hey.pi.ai/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official"
+  },
+  "You.com": {
+    "headline": "Plateforme de recherche et d’intelligence web proposant des réponses sourcées et des API de recherche pour les applications IA.",
+    "audiences": [
+      "Analystes et professionnels en veille",
+      "Développeurs d’agents et d’applications RAG",
+      "Équipes ayant besoin de recherche web exploitable par API"
+    ],
+    "cases": [
+      "Interroger le web pour trouver des informations à vérifier",
+      "Construire une application exploitant des résultats de recherche web",
+      "Obtenir une synthèse avec citations via l’API Answer",
+      "Orchestrer une recherche approfondie multi-étapes via l’API Research"
+    ],
+    "advantages": [
+      "API officielles distinctes pour recherche, contenu, réponse et recherche approfondie",
+      "Documentation technique et contrôles de fraîcheur des résultats",
+      "Possibilité d’intégration à des agents et à des workflows de recherche"
+    ],
+    "limits": [
+      "Ne pas confondre l’interface grand public avec les fonctionnalités facturées des API",
+      "Une citation ne garantit pas à elle seule l’exactitude d’une affirmation",
+      "Conditions, capacités et frais des API variables selon le service et l’utilisation"
+    ],
+    "gettingStarted": [
+      "Identifier si le besoin concerne l’interface You.com ou une API développeur.",
+      "Pour une intégration, comparer Web Search API (résultats) et Research API (synthèse documentée) à partir de la documentation officielle."
+    ],
+    "examples": [
+      "Recherche les sources primaires sur cette annonce et distingue les faits des interprétations.",
+      "Pour un outil RAG, récupère les résultats web récents et conserve les URL et dates."
+    ],
+    "pricing": "API à l’usage, selon le service et le volume ; consulter la page officielle des prix pour les tarifs et l’interface grand public.",
+    "privacy": "Consulter les conditions propres à l’interface utilisée et aux API avant d’envoyer des données internes ou personnelles.",
+    "selection": [
+      "Pertinent lorsque la recherche web et l’intégration technique sont centrales ; vérifier l’offre exacte avant de comparer avec un chatbot généraliste."
+    ],
+    "sources": [
+      {
+        "url": "https://you.com/docs/quickstart",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      },
+      {
+        "url": "https://you.com/docs/guides/research",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official"
+  },
+  "Duck.ai": {
+    "headline": "Service de conversation IA de DuckDuckGo permettant d’utiliser plusieurs modèles tiers avec des mécanismes de confidentialité.",
+    "audiences": [
+      "Personnes attachées à la confidentialité de leurs conversations",
+      "Utilisateurs souhaitant comparer différents modèles de dialogue",
+      "Personnes cherchant une aide à la rédaction ou à la synthèse"
+    ],
+    "cases": [
+      "Rédiger ou reformuler un message",
+      "Comparer les réponses de plusieurs modèles disponibles",
+      "Résumer un texte sans créer un compte auprès de chaque fournisseur",
+      "Poser une question de suivi depuis l’écosystème DuckDuckGo"
+    ],
+    "advantages": [
+      "Choix de plusieurs modèles tiers depuis une seule interface",
+      "Requêtes anonymisées avant transmission aux fournisseurs selon DuckDuckGo",
+      "Conversations récentes sauvegardées localement par défaut, avec options de suppression"
+    ],
+    "limits": [
+      "Certains modèles et limites d’utilisation dépendent de l’abonnement",
+      "Les réponses peuvent être erronées ou incomplètes",
+      "Des exceptions limitées aux règles de conservation sont documentées pour certains fournisseurs ou fonctionnalités"
+    ],
+    "gettingStarted": [
+      "Ouvrir Duck.ai et choisir le modèle dans l’interface.",
+      "Relire les informations sur l’historique local, la synchronisation optionnelle et les règles de confidentialité."
+    ],
+    "examples": [
+      "Compare deux formulations de ce message en conservant un ton professionnel.",
+      "Résume ce paragraphe en cinq points, puis indique ce qui doit être vérifié."
+    ],
+    "pricing": "Accès gratuit à une sélection de modèles ; modèles plus avancés accessibles selon les abonnements DuckDuckGo Plus et Pro. Vérifier les limites et les prix en vigueur.",
+    "privacy": "DuckDuckGo indique anonymiser les chats, exclure leur utilisation pour entraîner les modèles et appliquer des règles contractuelles de suppression aux fournisseurs, avec exceptions documentées. Les historiques locaux et la synchronisation chiffrée optionnelle obéissent à des réglages distincts.",
+    "selection": [
+      "À privilégier pour un accès à plusieurs modèles avec protections de confidentialité documentées ; ce n’est pas une garantie d’exactitude des réponses."
+    ],
+    "sources": [
+      {
+        "url": "https://duckduckgo.com/duckduckgo-help-pages/duckai",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      },
+      {
+        "url": "https://duckduckgo.com/duckduckgo-help-pages/duckai/ai-chat-privacy",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official"
+  },
+  "HuggingChat": {
+    "headline": "Interface de discussion de Hugging Face donnant accès à plusieurs modèles d’IA ouverts.",
+    "audiences": [
+      "Développeurs et passionnés de modèles ouverts",
+      "Étudiants découvrant différentes familles de modèles",
+      "Utilisateurs souhaitant comparer des modèles accessibles dans un navigateur"
+    ],
+    "cases": [
+      "Échanger avec un modèle ouvert sans installation locale",
+      "Tester la qualité des réponses à un même prompt",
+      "Explorer les capacités de rédaction et de programmation de modèles disponibles",
+      "Comparer la sélection automatique de modèles et le choix manuel"
+    ],
+    "advantages": [
+      "Accès à plusieurs modèles open source depuis une même interface",
+      "Sélection du modèle disponible dans le service",
+      "Sélection automatique par Omni présentée dans l’interface officielle"
+    ],
+    "limits": [
+      "Disponibilité et catalogue des modèles évolutifs",
+      "Une interface hébergée ne signifie pas exécution locale ni confidentialité absolue",
+      "Exactitude et capacités variables selon le modèle choisi"
+    ],
+    "gettingStarted": [
+      "Ouvrir HuggingChat et commencer par une consigne courte avec un objectif concret.",
+      "Tester ensuite la même demande sur un autre modèle disponible et comparer les résultats."
+    ],
+    "examples": [
+      "Explique ce concept à un étudiant en donnant un exemple et une limite.",
+      "Compare deux approches pour écrire cette fonction, puis indique leurs compromis."
+    ],
+    "pricing": "Modalités d’accès et limites à consulter dans l’interface officielle ; aucun prix spécifique confirmé lors de cette revue.",
+    "privacy": "Vérifier les règles de gestion des conversations et du modèle choisi avant d’envoyer des données confidentielles.",
+    "selection": [
+      "Adapté à la découverte et à la comparaison de modèles ouverts ; préférer une installation locale si le contrôle de l’hébergement est indispensable."
+    ],
+    "sources": [
+      {
+        "url": "https://huggingface.co/chat/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official"
+  },
+  "Replika": {
+    "headline": "Compagnon conversationnel personnalisé de Luka, centré sur les échanges, la mémoire relationnelle et les interactions avec un avatar.",
+    "audiences": [
+      "Adultes recherchant un compagnon conversationnel numérique",
+      "Personnes appréciant les conversations de rôle ou la personnalisation d’avatar",
+      "Utilisateurs souhaitant explorer un journal de réflexion informel"
+    ],
+    "cases": [
+      "Discuter de centres d’intérêt et d’habitudes",
+      "Personnaliser un avatar et son histoire",
+      "Échanger par messages ou appels selon les fonctionnalités accessibles",
+      "Explorer des scénarios créatifs et des conversations de rôle"
+    ],
+    "advantages": [
+      "Mémoire et personnalisation mises en avant par l’éditeur",
+      "Modes d’interaction incluant les appels et la personnalisation",
+      "Orientation explicite vers la compagnie plutôt que l’automatisation de tâches"
+    ],
+    "limits": [
+      "N’est pas un assistant traditionnel fiable pour les rappels, calculs ou actualités en temps réel, selon l’aide officielle",
+      "Ne remplace pas un professionnel de santé mentale ni une relation humaine",
+      "Service réservé aux adultes de 18 ans et plus selon la politique officielle"
+    ],
+    "gettingStarted": [
+      "Consulter les règles d’âge et de confidentialité, puis créer un compagnon et définir ses préférences.",
+      "Éviter de s’appuyer sur ses réponses pour des informations médicales ou des décisions importantes."
+    ],
+    "examples": [
+      "Propose un scénario de dialogue fictif dans lequel je pratique l’écoute active.",
+      "Aide-moi à formuler un objectif personnel simple pour la semaine."
+    ],
+    "pricing": "Formules et fonctionnalités payantes éventuelles à vérifier auprès de Replika ; tarif précis non confirmé lors de cette revue.",
+    "privacy": "La politique du 28 octobre 2026 décrit le traitement des messages et données de personnalisation et précise que le service est réservé aux adultes ; elle recommande de ne pas transmettre d’informations de santé.",
+    "selection": [
+      "Choisir Replika pour un usage de compagnon conversationnel et non pour des recherches factuelles ou l’exécution de tâches."
+    ],
+    "sources": [
+      {
+        "url": "https://replika.com/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      },
+      {
+        "url": "https://help.replika.com/hc/en-us/articles/5040453297293-Can-Replika-be-my-virtual-assistant",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      },
+      {
+        "url": "https://replika.com/legal/privacy/fr",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official"
   }
 }
