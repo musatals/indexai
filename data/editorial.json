@@ -1123,28 +1123,109 @@
     ]
   },
   "remove.bg": {
-    "descriptionFr": "Service de suppression automatique de l’arrière-plan des images.",
-    "descriptionEn": "Automatic image background removal service.",
+    "descriptionFr": "Détourage automatique et suppression d’arrière-plan.",
+    "descriptionEn": "Détourage automatique et suppression d’arrière-plan.",
     "descriptionStatus": "editorial",
-    "editorialDate": "2026-11-15"
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Suppression de fond",
+      "Détourage produit",
+      "API"
+    ],
+    "featuresEn": [
+      "Background removal",
+      "Product cutouts",
+      "API"
+    ],
+    "accessFr": "Web et applications selon produit",
+    "accessEn": "Web and apps by product",
+    "officialSources": [
+      {
+        "url": "https://www.remove.bg/",
+        "checkedAt": "2026-11-16",
+        "scope": "product_documentation"
+      }
+    ]
   },
   "Topaz Photo": {
-    "descriptionFr": "Logiciel de traitement photographique fondé sur l’IA pour l’amélioration et la restauration de détails.",
-    "descriptionEn": "AI-powered photo enhancement and restoration software.",
+    "descriptionFr": "Logiciel de débruitage, netteté et agrandissement de photos.",
+    "descriptionEn": "Logiciel de débruitage, netteté et agrandissement de photos.",
     "descriptionStatus": "editorial",
-    "editorialDate": "2026-11-15"
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Débruitage",
+      "Netteté",
+      "Agrandissement"
+    ],
+    "featuresEn": [
+      "Denoising",
+      "Sharpening",
+      "Upscaling"
+    ],
+    "accessFr": "Application de bureau",
+    "accessEn": "Desktop application",
+    "officialSources": [
+      {
+        "url": "https://docs.topazlabs.com/topaz-photo/release-summary",
+        "checkedAt": "2026-11-16",
+        "scope": "product_documentation"
+      },
+      {
+        "url": "https://docs.topazlabs.com/topaz-photo/tpai-vs-tp",
+        "checkedAt": "2026-11-16",
+        "scope": "product_documentation"
+      }
+    ]
   },
   "Magnific AI": {
-    "descriptionFr": "Service d’agrandissement et de transformation détaillée d’images par intelligence artificielle.",
-    "descriptionEn": "AI image upscaling and detail enhancement service.",
+    "descriptionFr": "Agrandissement créatif et reconstruction de détails.",
+    "descriptionEn": "Agrandissement créatif et reconstruction de détails.",
     "descriptionStatus": "editorial",
-    "editorialDate": "2026-11-15"
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Upscaling créatif",
+      "Contrôle des détails",
+      "Textures"
+    ],
+    "featuresEn": [
+      "Creative upscaling",
+      "Detail control",
+      "Textures"
+    ],
+    "accessFr": "Web et applications selon produit",
+    "accessEn": "Web and apps by product",
+    "officialSources": [
+      {
+        "url": "https://magnific.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "product_documentation"
+      }
+    ]
   },
   "Upscayl": {
-    "descriptionFr": "Application open source d’agrandissement d’images s’appuyant sur des modèles d’IA.",
-    "descriptionEn": "Open-source AI image upscaling application.",
+    "descriptionFr": "Application open source de super-résolution, exécutable localement.",
+    "descriptionEn": "Application open source de super-résolution, exécutable localement.",
     "descriptionStatus": "editorial",
-    "editorialDate": "2026-11-15"
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Agrandissement local",
+      "Modèles multiples",
+      "Windows/macOS/Linux"
+    ],
+    "featuresEn": [
+      "Local upscaling",
+      "Multiple models",
+      "Windows/macOS/Linux"
+    ],
+    "accessFr": "Local",
+    "accessEn": "Local",
+    "officialSources": [
+      {
+        "url": "https://upscayl.org/download",
+        "checkedAt": "2026-11-16",
+        "scope": "product_documentation"
+      }
+    ]
   },
   "Runway": {
     "descriptionFr": "Plateforme de création audiovisuelle combinant génération et montage vidéo assistés par IA.",
@@ -3915,6 +3996,286 @@
         "url": "https://labs.google/fx/faq",
         "checkedAt": "2026-11-16",
         "scope": "features_and_usage"
+      }
+    ]
+  },
+  "Let's Enhance": {
+    "descriptionFr": "Agrandissement et amélioration d’images pour impressions et visuels produits.",
+    "descriptionEn": "Agrandissement et amélioration d’images pour impressions et visuels produits.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Agrandissement",
+      "Amélioration photo",
+      "Visuels produits"
+    ],
+    "featuresEn": [
+      "Upscaling",
+      "Photo enhancement",
+      "Product images"
+    ],
+    "accessFr": "Web et applications selon produit",
+    "accessEn": "Web and apps by product",
+    "officialSources": [
+      {
+        "url": "https://letsenhance.io/",
+        "checkedAt": "2026-11-16",
+        "scope": "product_documentation"
+      }
+    ]
+  },
+  "Clipdrop": {
+    "descriptionFr": "Suite d’outils de retouche visuelle assistée par IA.",
+    "descriptionEn": "Suite d’outils de retouche visuelle assistée par IA.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Détourage",
+      "Nettoyage d’image",
+      "Retouche"
+    ],
+    "featuresEn": [
+      "Cutouts",
+      "Image cleanup",
+      "Editing"
+    ],
+    "accessFr": "Web et applications selon produit",
+    "accessEn": "Web and apps by product",
+    "officialSources": [
+      {
+        "url": "https://clipdrop.co/",
+        "checkedAt": "2026-11-16",
+        "scope": "product_documentation"
+      }
+    ]
+  },
+  "Cleanup.pictures": {
+    "descriptionFr": "Suppression d’objets et reconstitution de l’arrière-plan.",
+    "descriptionEn": "Suppression d’objets et reconstitution de l’arrière-plan.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Effacement d’objets",
+      "Suppression de distractions",
+      "Pinceau"
+    ],
+    "featuresEn": [
+      "Object removal",
+      "Distraction cleanup",
+      "Brush editing"
+    ],
+    "accessFr": "Web et applications selon produit",
+    "accessEn": "Web and apps by product",
+    "officialSources": [
+      {
+        "url": "https://cleanup.pictures/",
+        "checkedAt": "2026-11-16",
+        "scope": "product_documentation"
+      }
+    ]
+  },
+  "Remini": {
+    "descriptionFr": "Amélioration de portraits et restauration de photos floues.",
+    "descriptionEn": "Amélioration de portraits et restauration de photos floues.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Amélioration faciale",
+      "Défloutage",
+      "Restauration"
+    ],
+    "featuresEn": [
+      "Face enhancement",
+      "Deblurring",
+      "Restoration"
+    ],
+    "accessFr": "Web et applications selon produit",
+    "accessEn": "Web and apps by product",
+    "officialSources": [
+      {
+        "url": "https://remini.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "product_documentation"
+      }
+    ]
+  },
+  "Pixelcut": {
+    "descriptionFr": "Éditeur IA de photographies de produits et de visuels commerciaux.",
+    "descriptionEn": "Éditeur IA de photographies de produits et de visuels commerciaux.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Détourage produit",
+      "Visuels marketing",
+      "Édition"
+    ],
+    "featuresEn": [
+      "Product cutouts",
+      "Marketing visuals",
+      "Editing"
+    ],
+    "accessFr": "Web et applications selon produit",
+    "accessEn": "Web and apps by product",
+    "officialSources": [
+      {
+        "url": "https://www.pixelcut.ai",
+        "checkedAt": "2026-11-16",
+        "scope": "product_documentation"
+      }
+    ]
+  },
+  "Picsart": {
+    "descriptionFr": "Édition photo créative avec outils génératifs.",
+    "descriptionEn": "Édition photo créative avec outils génératifs.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Montage photo",
+      "Suppression de fond",
+      "Effets IA"
+    ],
+    "featuresEn": [
+      "Photo composition",
+      "Background removal",
+      "AI effects"
+    ],
+    "accessFr": "Web et applications selon produit",
+    "accessEn": "Web and apps by product",
+    "officialSources": [
+      {
+        "url": "https://picsart.com",
+        "checkedAt": "2026-11-16",
+        "scope": "product_documentation"
+      }
+    ]
+  },
+  "Fotor": {
+    "descriptionFr": "Retouche et amélioration photo en ligne.",
+    "descriptionEn": "Retouche et amélioration photo en ligne.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Retouche",
+      "Amélioration IA",
+      "Suppression de fond"
+    ],
+    "featuresEn": [
+      "Photo editing",
+      "AI enhancement",
+      "Background removal"
+    ],
+    "accessFr": "Web et applications selon produit",
+    "accessEn": "Web and apps by product",
+    "officialSources": [
+      {
+        "url": "https://www.fotor.com",
+        "checkedAt": "2026-11-16",
+        "scope": "product_documentation"
+      }
+    ]
+  },
+  "Luminar Neo": {
+    "descriptionFr": "Éditeur photo Skylum avec retouche RAW et outils génératifs.",
+    "descriptionEn": "Éditeur photo Skylum avec retouche RAW et outils génératifs.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Retouche RAW",
+      "GenErase",
+      "GenExpand"
+    ],
+    "featuresEn": [
+      "RAW editing",
+      "GenErase",
+      "GenExpand"
+    ],
+    "accessFr": "Application de bureau",
+    "accessEn": "Desktop application",
+    "officialSources": [
+      {
+        "url": "https://skylum.com/luminar/generase",
+        "checkedAt": "2026-11-16",
+        "scope": "product_documentation"
+      },
+      {
+        "url": "https://skylum.com/luminar/genexpand",
+        "checkedAt": "2026-11-16",
+        "scope": "product_documentation"
+      }
+    ]
+  },
+  "VanceAI": {
+    "descriptionFr": "Traitement automatisé d’images : agrandissement, débruitage et amélioration.",
+    "descriptionEn": "Traitement automatisé d’images : agrandissement, débruitage et amélioration.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Upscaling",
+      "Débruitage",
+      "Amélioration"
+    ],
+    "featuresEn": [
+      "Upscaling",
+      "Denoising",
+      "Enhancement"
+    ],
+    "accessFr": "Web et applications selon produit",
+    "accessEn": "Web and apps by product",
+    "officialSources": [
+      {
+        "url": "https://vanceai.com",
+        "checkedAt": "2026-11-16",
+        "scope": "product_documentation"
+      }
+    ]
+  },
+  "GFPGAN": {
+    "descriptionFr": "Projet open source de restauration générative de visages.",
+    "descriptionEn": "Projet open source de restauration générative de visages.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Restauration faciale",
+      "Modèles open source",
+      "Intégration Real-ESRGAN"
+    ],
+    "featuresEn": [
+      "Face restoration",
+      "Open-source models",
+      "Real-ESRGAN integration"
+    ],
+    "accessFr": "Local",
+    "accessEn": "Local",
+    "officialSources": [
+      {
+        "url": "https://github.com/TencentARC/GFPGAN",
+        "checkedAt": "2026-11-16",
+        "scope": "product_documentation"
+      }
+    ]
+  },
+  "Real-ESRGAN": {
+    "descriptionFr": "Projet open source de super-résolution d’images et de vidéos.",
+    "descriptionEn": "Projet open source de super-résolution d’images et de vidéos.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Super-résolution",
+      "Modèles généraux et anime",
+      "Traitement local"
+    ],
+    "featuresEn": [
+      "Super-resolution",
+      "General and anime models",
+      "Local processing"
+    ],
+    "accessFr": "Local",
+    "accessEn": "Local",
+    "officialSources": [
+      {
+        "url": "https://github.com/xinntao/Real-ESRGAN",
+        "checkedAt": "2026-11-16",
+        "scope": "product_documentation"
       }
     ]
   }
