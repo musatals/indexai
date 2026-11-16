@@ -895,5 +895,194 @@
       ]
     },
     "verification": "official_reviewed"
+  },
+  "playht": {
+    "descriptionFr": "Ancien service de synthèse et clonage vocal (PlayAI) ; des sources externes signalent son arrêt en 2025–2026. Disponibilité à confirmer avant toute recommandation.",
+    "descriptionEn": "Former speech synthesis and voice cloning service (PlayAI); third-party sources report its discontinuation in 2025–2026. Verify availability before recommending.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Synthèse vocale historique",
+      "Clonage vocal historique",
+      "Statut d'activité incertain"
+    ],
+    "featuresEn": [
+      "Historical text-to-speech",
+      "Historical voice cloning",
+      "Uncertain operating status"
+    ],
+    "accessFr": "Service historique — disponibilité non confirmée",
+    "accessEn": "Historical service — availability unconfirmed",
+    "officialSources": [],
+    "research": {
+      "headline": "Ancien service de synthèse et clonage vocal (PlayAI) ; des sources externes signalent son arrêt en 2025–2026. Disponibilité à confirmer avant toute recommandation.",
+      "audiences": [
+        "Créateurs de contenus audio",
+        "Développeurs et équipes pédagogiques"
+      ],
+      "cases": [
+        "Documenter l'historique et comparer les alternatives actives."
+      ],
+      "advantages": [
+        "Synthèse vocale historique",
+        "Clonage vocal historique",
+        "Statut d'activité incertain"
+      ],
+      "limits": [
+        "Des sources externes rapportent un arrêt ; ne pas présenter PlayHT comme service opérationnel sans contrôle."
+      ],
+      "gettingStarted": [
+        "Contrôler la disponibilité du service, les conditions de licence et la prise en charge linguistique avant utilisation."
+      ],
+      "examples": [
+        "Préparer un script narratif et contrôler le rendu vocal sur un court extrait."
+      ],
+      "pricing": "Tarification et disponibilité à vérifier sur les sources actuelles.",
+      "privacy": "Obtenir le consentement des personnes concernées pour toute utilisation ou reproduction de voix; contrôler les règles de traitement des fichiers.",
+      "selection": [
+        "Comparer PlayHT selon disponibilité, licences, langues, qualité et coût."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "availability_warning",
+      "evidence": "third_party",
+      "sources": [
+        {
+          "url": "https://tierradar.com/tools/playht/",
+          "type": "third_party",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "third_party_status_warning"
+  },
+  "listnr": {
+    "descriptionFr": "Studio de génération de voix à partir de scripts, avec montage par blocs, plusieurs locuteurs et export audio.",
+    "descriptionEn": "Script-to-voice production studio with block editing, multiple speakers and audio exports.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Voix et langues multiples",
+      "Montage de scripts par blocs",
+      "Export MP3 et WAV"
+    ],
+    "featuresEn": [
+      "Multiple voices and languages",
+      "Block-based script editing",
+      "MP3 and WAV export"
+    ],
+    "accessFr": "Web et/ou API selon l'offre",
+    "accessEn": "Web and/or API depending on plan",
+    "officialSources": [
+      {
+        "url": "https://listnr.ai/text-to-speech",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Studio de génération de voix à partir de scripts, avec montage par blocs, plusieurs locuteurs et export audio.",
+      "audiences": [
+        "Créateurs de contenus audio",
+        "Développeurs et équipes pédagogiques"
+      ],
+      "cases": [
+        "Créer un podcast narratif ou un module e-learning en alternant plusieurs voix."
+      ],
+      "advantages": [
+        "Voix et langues multiples",
+        "Montage de scripts par blocs",
+        "Export MP3 et WAV"
+      ],
+      "limits": [
+        "La disponibilité des voix et les commandes de style varient selon le modèle et les quotas."
+      ],
+      "gettingStarted": [
+        "Contrôler la disponibilité du service, les conditions de licence et la prise en charge linguistique avant utilisation."
+      ],
+      "examples": [
+        "Préparer un script narratif et contrôler le rendu vocal sur un court extrait."
+      ],
+      "pricing": "Tarification et disponibilité à vérifier sur les sources actuelles.",
+      "privacy": "Obtenir le consentement des personnes concernées pour toute utilisation ou reproduction de voix; contrôler les règles de traitement des fichiers.",
+      "selection": [
+        "Comparer Listnr selon disponibilité, licences, langues, qualité et coût."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://listnr.ai/text-to-speech",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "google-cloud-text-to-speech": {
+    "descriptionFr": "Service Google Cloud de synthèse vocale à partir de texte ou SSML, avec API, voix neuronales et modèles Gemini-TTS.",
+    "descriptionEn": "Google Cloud speech synthesis from text or SSML, with APIs, neural voices and Gemini-TTS models.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "API texte et SSML",
+      "Voix Chirp et Gemini-TTS",
+      "Sortie audio et intégration cloud"
+    ],
+    "featuresEn": [
+      "Text and SSML API",
+      "Chirp and Gemini-TTS voices",
+      "Audio output and cloud integration"
+    ],
+    "accessFr": "Web et/ou API selon l'offre",
+    "accessEn": "Web and/or API depending on plan",
+    "officialSources": [
+      {
+        "url": "https://cloud.google.com/text-to-speech",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Service Google Cloud de synthèse vocale à partir de texte ou SSML, avec API, voix neuronales et modèles Gemini-TTS.",
+      "audiences": [
+        "Créateurs de contenus audio",
+        "Développeurs et équipes pédagogiques"
+      ],
+      "cases": [
+        "Lire des contenus applicatifs et piloter intonation ou débit via les fonctionnalités disponibles."
+      ],
+      "advantages": [
+        "API texte et SSML",
+        "Voix Chirp et Gemini-TTS",
+        "Sortie audio et intégration cloud"
+      ],
+      "limits": [
+        "Les paramètres, régions et tarifs varient selon la famille vocale et le modèle."
+      ],
+      "gettingStarted": [
+        "Contrôler la disponibilité du service, les conditions de licence et la prise en charge linguistique avant utilisation."
+      ],
+      "examples": [
+        "Préparer un script narratif et contrôler le rendu vocal sur un court extrait."
+      ],
+      "pricing": "Tarification et disponibilité à vérifier sur les sources actuelles.",
+      "privacy": "Obtenir le consentement des personnes concernées pour toute utilisation ou reproduction de voix; contrôler les règles de traitement des fichiers.",
+      "selection": [
+        "Comparer Google Cloud Text-to-Speech selon disponibilité, licences, langues, qualité et coût."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://cloud.google.com/text-to-speech",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
   }
 }
