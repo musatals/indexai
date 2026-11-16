@@ -1,0 +1,1345 @@
+{
+  "semrush": {
+    "descriptionFr": "Suite SEO et visibilité dans les réponses IA combinant audit technique, recherche de mots-clés, suivi des prompts et analyse concurrentielle.",
+    "descriptionEn": "SEO and AI-answer visibility suite combining technical audits, keyword research, prompt tracking, and competitor analysis.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "AI Visibility Toolkit et suivi de prompts",
+      "Audit technique et santé des accès aux robots IA",
+      "Recherche de concurrents et sources citées"
+    ],
+    "featuresEn": [
+      "AI Visibility Toolkit and prompt tracking",
+      "Technical audit and AI crawler readiness",
+      "Competitor and citation-source research"
+    ],
+    "accessFr": "Service web et intégrations selon offre",
+    "accessEn": "Web service and integrations by plan",
+    "officialSources": [
+      {
+        "url": "https://www.semrush.com/kb/1496-getting-started-with-ai-visibility-toolkit",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_product_status"
+      },
+      {
+        "url": "https://www.semrush.com/kb/1607-semrush-ai-visibility-data",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Suite SEO et visibilité dans les réponses IA combinant audit technique, recherche de mots-clés, suivi des prompts et analyse concurrentielle.",
+      "audiences": [
+        "Équipes SEO, éditoriales et marketing",
+        "Gestionnaires de sites documentaires et annuaires"
+      ],
+      "cases": [
+        "Comparer la présence d'IndexAI dans les résultats Google et les réponses IA sur un ensemble de requêtes documentées.",
+        "Vérifier la qualité des données sources et comparer les résultats à des mesures indépendantes."
+      ],
+      "advantages": [
+        "AI Visibility Toolkit et suivi de prompts",
+        "Audit technique et santé des accès aux robots IA",
+        "Recherche de concurrents et sources citées"
+      ],
+      "limits": [
+        "Les bases de prompts sont des échantillons et estimations, pas un comptage du trafic réel. L'abonnement AI Visibility Toolkit peut être distinct des autres produits Semrush.",
+        "Une suggestion SEO ou GEO n'assure jamais un classement, une citation par les IA ni des visites supplémentaires."
+      ],
+      "gettingStarted": [
+        "Définir un site, des sujets et un groupe de requêtes représentatives de l'audience.",
+        "Réaliser un audit initial, conserver les mesures de référence et tester des changements sur quelques pages avant déploiement général."
+      ],
+      "examples": [
+        "Analyse la visibilité de notre portail sur dix questions d'utilisateurs, en distinguant liens cités, mentions sans lien et mesures estimées.",
+        "Prépare un plan éditorial et technique avec problèmes observés, priorités, preuves et indicateurs à contrôler après publication."
+      ],
+      "pricing": "Vérifier la grille officielle : comptes, nombre de projets, mots-clés, prompts, crédits IA, exports et accès API peuvent être facturés séparément.",
+      "privacy": "Contrôler les autorisations Search Console ou CMS, les données transmises aux services IA et les permissions des outils modifiant les pages ; conserver un moyen de revenir en arrière.",
+      "selection": [
+        "Choisir Semrush selon le besoin (suite), les métriques vérifiables, la couverture linguistique, l'éditabilité, les intégrations et le budget."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.semrush.com/kb/1496-getting-started-with-ai-visibility-toolkit",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.semrush.com/kb/1607-semrush-ai-visibility-data",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "ahrefs": {
+    "descriptionFr": "Suite de recherche SEO et d'analyse de liens, enrichie de Brand Radar pour mesurer mentions, citations et part de voix dans les réponses IA.",
+    "descriptionEn": "SEO and link-research suite with Brand Radar measuring AI mentions, citations, and share of voice.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Site Explorer et analyse des liens",
+      "Brand Radar : mentions, citations et part de voix",
+      "Prompts personnalisés et comparaison des marques"
+    ],
+    "featuresEn": [
+      "Site Explorer and backlinks",
+      "Brand Radar: mentions, citations and share of voice",
+      "Custom prompts and brand comparisons"
+    ],
+    "accessFr": "Service web et intégrations selon offre",
+    "accessEn": "Web service and integrations by plan",
+    "officialSources": [
+      {
+        "url": "https://help.ahrefs.com/en/articles/15501968-ai-visibility-metrics",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_product_status"
+      },
+      {
+        "url": "https://ahrefs.com/blog/brand-radar-methodology/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Suite de recherche SEO et d'analyse de liens, enrichie de Brand Radar pour mesurer mentions, citations et part de voix dans les réponses IA.",
+      "audiences": [
+        "Équipes SEO, éditoriales et marketing",
+        "Gestionnaires de sites documentaires et annuaires"
+      ],
+      "cases": [
+        "Comparer deux marques à travers des réponses IA et détecter les pages citées par les assistants.",
+        "Vérifier la qualité des données sources et comparer les résultats à des mesures indépendantes."
+      ],
+      "advantages": [
+        "Site Explorer et analyse des liens",
+        "Brand Radar : mentions, citations et part de voix",
+        "Prompts personnalisés et comparaison des marques"
+      ],
+      "limits": [
+        "Les impressions estimées et la part de voix sont modélisées : ce ne sont ni des visiteurs mesurés ni une garantie de recommandation. La couverture varie selon les langues et plateformes.",
+        "Une suggestion SEO ou GEO n'assure jamais un classement, une citation par les IA ni des visites supplémentaires."
+      ],
+      "gettingStarted": [
+        "Définir un site, des sujets et un groupe de requêtes représentatives de l'audience.",
+        "Réaliser un audit initial, conserver les mesures de référence et tester des changements sur quelques pages avant déploiement général."
+      ],
+      "examples": [
+        "Analyse la visibilité de notre portail sur dix questions d'utilisateurs, en distinguant liens cités, mentions sans lien et mesures estimées.",
+        "Prépare un plan éditorial et technique avec problèmes observés, priorités, preuves et indicateurs à contrôler après publication."
+      ],
+      "pricing": "Vérifier la grille officielle : comptes, nombre de projets, mots-clés, prompts, crédits IA, exports et accès API peuvent être facturés séparément.",
+      "privacy": "Contrôler les autorisations Search Console ou CMS, les données transmises aux services IA et les permissions des outils modifiant les pages ; conserver un moyen de revenir en arrière.",
+      "selection": [
+        "Choisir Ahrefs selon le besoin (suite), les métriques vérifiables, la couverture linguistique, l'éditabilité, les intégrations et le budget."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.ahrefs.com/en/articles/15501968-ai-visibility-metrics",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://ahrefs.com/blog/brand-radar-methodology/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "surfer-seo": {
+    "descriptionFr": "Plateforme d'optimisation de contenus SEO proposant Content Editor, audit et AI Tracker pour mesurer mentions et citations IA.",
+    "descriptionEn": "SEO content optimization platform with Content Editor, audits, and AI Tracker for AI mentions and citations.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Content Editor et recommandations éditoriales",
+      "AI Tracker : sources et mentions",
+      "Audit et optimisations de pages"
+    ],
+    "featuresEn": [
+      "Content Editor and editorial guidance",
+      "AI Tracker: sources and mentions",
+      "Page audit and optimization"
+    ],
+    "accessFr": "Service web et intégrations selon offre",
+    "accessEn": "Web service and integrations by plan",
+    "officialSources": [
+      {
+        "url": "https://docs.surferseo.com/en/articles/12350584-ai-tracker-sources-dashboard",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_product_status"
+      },
+      {
+        "url": "https://surferseo.com/updates/whats-new-at-surfer-jan-feb-2026-product-roundup/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme d'optimisation de contenus SEO proposant Content Editor, audit et AI Tracker pour mesurer mentions et citations IA.",
+      "audiences": [
+        "Équipes SEO, éditoriales et marketing",
+        "Gestionnaires de sites documentaires et annuaires"
+      ],
+      "cases": [
+        "Optimiser un guide existant, puis suivre les sources citées sur les questions importantes pour l'audience.",
+        "Vérifier la qualité des données sources et comparer les résultats à des mesures indépendantes."
+      ],
+      "advantages": [
+        "Content Editor et recommandations éditoriales",
+        "AI Tracker : sources et mentions",
+        "Audit et optimisations de pages"
+      ],
+      "limits": [
+        "Un score de contenu et le suivi des mentions IA ne prouvent pas un meilleur classement. L'accès aux fonctionnalités et à l'API dépend des offres.",
+        "Une suggestion SEO ou GEO n'assure jamais un classement, une citation par les IA ni des visites supplémentaires."
+      ],
+      "gettingStarted": [
+        "Définir un site, des sujets et un groupe de requêtes représentatives de l'audience.",
+        "Réaliser un audit initial, conserver les mesures de référence et tester des changements sur quelques pages avant déploiement général."
+      ],
+      "examples": [
+        "Analyse la visibilité de notre portail sur dix questions d'utilisateurs, en distinguant liens cités, mentions sans lien et mesures estimées.",
+        "Prépare un plan éditorial et technique avec problèmes observés, priorités, preuves et indicateurs à contrôler après publication."
+      ],
+      "pricing": "Vérifier la grille officielle : comptes, nombre de projets, mots-clés, prompts, crédits IA, exports et accès API peuvent être facturés séparément.",
+      "privacy": "Contrôler les autorisations Search Console ou CMS, les données transmises aux services IA et les permissions des outils modifiant les pages ; conserver un moyen de revenir en arrière.",
+      "selection": [
+        "Choisir Surfer SEO selon le besoin (editor), les métriques vérifiables, la couverture linguistique, l'éditabilité, les intégrations et le budget."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.surferseo.com/en/articles/12350584-ai-tracker-sources-dashboard",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://surferseo.com/updates/whats-new-at-surfer-jan-feb-2026-product-roundup/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "clearscope": {
+    "descriptionFr": "Plateforme éditoriale couvrant découverte de sujets, suivi de présence dans les réponses IA, rédaction et mesure de la santé des pages publiées.",
+    "descriptionEn": "Editorial platform covering topic discovery, AI-answer presence tracking, drafting, and published-page health.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Discover et intention de recherche",
+      "Track : mentions dans les IA",
+      "Monitor : Search Console et déclin des pages"
+    ],
+    "featuresEn": [
+      "Discover and search intent",
+      "Track: AI mentions",
+      "Monitor: Search Console and content decay"
+    ],
+    "accessFr": "Service web et intégrations selon offre",
+    "accessEn": "Web service and integrations by plan",
+    "officialSources": [
+      {
+        "url": "https://www.clearscope.io/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_product_status"
+      },
+      {
+        "url": "https://www.clearscope.io/product/monitor",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme éditoriale couvrant découverte de sujets, suivi de présence dans les réponses IA, rédaction et mesure de la santé des pages publiées.",
+      "audiences": [
+        "Équipes SEO, éditoriales et marketing",
+        "Gestionnaires de sites documentaires et annuaires"
+      ],
+      "cases": [
+        "Identifier les pages d'un portail en perte de trafic, puis planifier leur mise à jour.",
+        "Vérifier la qualité des données sources et comparer les résultats à des mesures indépendantes."
+      ],
+      "advantages": [
+        "Discover et intention de recherche",
+        "Track : mentions dans les IA",
+        "Monitor : Search Console et déclin des pages"
+      ],
+      "limits": [
+        "Les grades reflètent une méthode propre à l'outil et ne garantissent ni classement ni citations. Le lien Search Console est soumis à des autorisations.",
+        "Une suggestion SEO ou GEO n'assure jamais un classement, une citation par les IA ni des visites supplémentaires."
+      ],
+      "gettingStarted": [
+        "Définir un site, des sujets et un groupe de requêtes représentatives de l'audience.",
+        "Réaliser un audit initial, conserver les mesures de référence et tester des changements sur quelques pages avant déploiement général."
+      ],
+      "examples": [
+        "Analyse la visibilité de notre portail sur dix questions d'utilisateurs, en distinguant liens cités, mentions sans lien et mesures estimées.",
+        "Prépare un plan éditorial et technique avec problèmes observés, priorités, preuves et indicateurs à contrôler après publication."
+      ],
+      "pricing": "Vérifier la grille officielle : comptes, nombre de projets, mots-clés, prompts, crédits IA, exports et accès API peuvent être facturés séparément.",
+      "privacy": "Contrôler les autorisations Search Console ou CMS, les données transmises aux services IA et les permissions des outils modifiant les pages ; conserver un moyen de revenir en arrière.",
+      "selection": [
+        "Choisir Clearscope selon le besoin (editor), les métriques vérifiables, la couverture linguistique, l'éditabilité, les intégrations et le budget."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.clearscope.io/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.clearscope.io/product/monitor",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "frase": {
+    "descriptionFr": "Système de recherche, rédaction, optimisation et publication de contenus orientés à la fois SEO classique et citations dans les moteurs IA.",
+    "descriptionEn": "Research, drafting, optimization and publishing system targeting both classic SEO and AI-engine citations.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Recherche de questions et briefs",
+      "Scoring GEO des contenus",
+      "Publication dans les CMS compatibles"
+    ],
+    "featuresEn": [
+      "Question research and briefs",
+      "GEO content scoring",
+      "Publishing to supported CMSs"
+    ],
+    "accessFr": "Service web et intégrations selon offre",
+    "accessEn": "Web service and integrations by plan",
+    "officialSources": [
+      {
+        "url": "https://www.frase.io/blog/category/ai-search",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_product_status"
+      },
+      {
+        "url": "https://www.frase.io/blog/category/geo",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Système de recherche, rédaction, optimisation et publication de contenus orientés à la fois SEO classique et citations dans les moteurs IA.",
+      "audiences": [
+        "Équipes SEO, éditoriales et marketing",
+        "Gestionnaires de sites documentaires et annuaires"
+      ],
+      "cases": [
+        "Transformer les questions de lecteurs en articles structurés, puis vérifier les sources avant publication.",
+        "Vérifier la qualité des données sources et comparer les résultats à des mesures indépendantes."
+      ],
+      "advantages": [
+        "Recherche de questions et briefs",
+        "Scoring GEO des contenus",
+        "Publication dans les CMS compatibles"
+      ],
+      "limits": [
+        "Le score GEO est un indicateur éditorial, pas une garantie de citation ; les informations générées doivent être vérifiées et adaptées à l'expertise du site.",
+        "Une suggestion SEO ou GEO n'assure jamais un classement, une citation par les IA ni des visites supplémentaires."
+      ],
+      "gettingStarted": [
+        "Définir un site, des sujets et un groupe de requêtes représentatives de l'audience.",
+        "Réaliser un audit initial, conserver les mesures de référence et tester des changements sur quelques pages avant déploiement général."
+      ],
+      "examples": [
+        "Analyse la visibilité de notre portail sur dix questions d'utilisateurs, en distinguant liens cités, mentions sans lien et mesures estimées.",
+        "Prépare un plan éditorial et technique avec problèmes observés, priorités, preuves et indicateurs à contrôler après publication."
+      ],
+      "pricing": "Vérifier la grille officielle : comptes, nombre de projets, mots-clés, prompts, crédits IA, exports et accès API peuvent être facturés séparément.",
+      "privacy": "Contrôler les autorisations Search Console ou CMS, les données transmises aux services IA et les permissions des outils modifiant les pages ; conserver un moyen de revenir en arrière.",
+      "selection": [
+        "Choisir Frase selon le besoin (editor), les métriques vérifiables, la couverture linguistique, l'éditabilité, les intégrations et le budget."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.frase.io/blog/category/ai-search",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.frase.io/blog/category/geo",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "marketmuse": {
+    "descriptionFr": "Outil de stratégie de contenu utilisant modèles thématiques et cartes thermiques pour repérer les lacunes éditoriales et les priorités SEO.",
+    "descriptionEn": "Content strategy tool using topic models and heatmaps to identify editorial gaps and SEO priorities.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Topic Modeling et Content Briefs",
+      "Heatmaps de couverture des concurrents",
+      "Recommandations créer, enrichir ou optimiser"
+    ],
+    "featuresEn": [
+      "Topic modeling and content briefs",
+      "Competitor coverage heatmaps",
+      "Create, expand, or optimize recommendations"
+    ],
+    "accessFr": "Service web et intégrations selon offre",
+    "accessEn": "Web service and integrations by plan",
+    "officialSources": [
+      {
+        "url": "https://help.marketmuse.com/support/solutions/articles/80001167740-create-expand-optimize-what-should-you-do-with-a-recommendation-",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_product_status"
+      },
+      {
+        "url": "https://help.marketmuse.com/support/solutions/articles/80001167920",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Outil de stratégie de contenu utilisant modèles thématiques et cartes thermiques pour repérer les lacunes éditoriales et les priorités SEO.",
+      "audiences": [
+        "Équipes SEO, éditoriales et marketing",
+        "Gestionnaires de sites documentaires et annuaires"
+      ],
+      "cases": [
+        "Établir un plan de pages reliées pour approfondir un sujet scientifique sans contenus redondants.",
+        "Vérifier la qualité des données sources et comparer les résultats à des mesures indépendantes."
+      ],
+      "advantages": [
+        "Topic Modeling et Content Briefs",
+        "Heatmaps de couverture des concurrents",
+        "Recommandations créer, enrichir ou optimiser"
+      ],
+      "limits": [
+        "Les modèles de thèmes suggèrent une couverture, sans certifier la justesse scientifique des contenus. Les exports et analyses varient selon l'offre.",
+        "Une suggestion SEO ou GEO n'assure jamais un classement, une citation par les IA ni des visites supplémentaires."
+      ],
+      "gettingStarted": [
+        "Définir un site, des sujets et un groupe de requêtes représentatives de l'audience.",
+        "Réaliser un audit initial, conserver les mesures de référence et tester des changements sur quelques pages avant déploiement général."
+      ],
+      "examples": [
+        "Analyse la visibilité de notre portail sur dix questions d'utilisateurs, en distinguant liens cités, mentions sans lien et mesures estimées.",
+        "Prépare un plan éditorial et technique avec problèmes observés, priorités, preuves et indicateurs à contrôler après publication."
+      ],
+      "pricing": "Vérifier la grille officielle : comptes, nombre de projets, mots-clés, prompts, crédits IA, exports et accès API peuvent être facturés séparément.",
+      "privacy": "Contrôler les autorisations Search Console ou CMS, les données transmises aux services IA et les permissions des outils modifiant les pages ; conserver un moyen de revenir en arrière.",
+      "selection": [
+        "Choisir MarketMuse selon le besoin (strategy), les métriques vérifiables, la couverture linguistique, l'éditabilité, les intégrations et le budget."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.marketmuse.com/support/solutions/articles/80001167740-create-expand-optimize-what-should-you-do-with-a-recommendation-",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://help.marketmuse.com/support/solutions/articles/80001167920",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "neuronwriter": {
+    "descriptionFr": "Éditeur de contenu SEO avec suggestions NLP, entités, maillage interne, aide rédactionnelle et suivi de visibilité dans les IA.",
+    "descriptionEn": "SEO content editor with NLP suggestions, entities, internal links, writing assistance, and AI visibility tracking.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Éditeur et termes NLP",
+      "Suggestions de liens internes et intégrations",
+      "Visibilité IA et GEO"
+    ],
+    "featuresEn": [
+      "Editor and NLP terms",
+      "Internal link suggestions and integrations",
+      "AI visibility and GEO"
+    ],
+    "accessFr": "Service web et intégrations selon offre",
+    "accessEn": "Web service and integrations by plan",
+    "officialSources": [
+      {
+        "url": "https://neuronwriter.com/features/content-writer/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_product_status"
+      },
+      {
+        "url": "https://neuronwriter.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Éditeur de contenu SEO avec suggestions NLP, entités, maillage interne, aide rédactionnelle et suivi de visibilité dans les IA.",
+      "audiences": [
+        "Équipes SEO, éditoriales et marketing",
+        "Gestionnaires de sites documentaires et annuaires"
+      ],
+      "cases": [
+        "Réviser une fiche encyclopédique pour améliorer sa couverture conceptuelle et ses liens internes.",
+        "Vérifier la qualité des données sources et comparer les résultats à des mesures indépendantes."
+      ],
+      "advantages": [
+        "Éditeur et termes NLP",
+        "Suggestions de liens internes et intégrations",
+        "Visibilité IA et GEO"
+      ],
+      "limits": [
+        "Ne pas forcer les occurrences de mots-clés au détriment de la clarté ; vérifier les entités, liens et sources cités. Fonctionnalités selon plan.",
+        "Une suggestion SEO ou GEO n'assure jamais un classement, une citation par les IA ni des visites supplémentaires."
+      ],
+      "gettingStarted": [
+        "Définir un site, des sujets et un groupe de requêtes représentatives de l'audience.",
+        "Réaliser un audit initial, conserver les mesures de référence et tester des changements sur quelques pages avant déploiement général."
+      ],
+      "examples": [
+        "Analyse la visibilité de notre portail sur dix questions d'utilisateurs, en distinguant liens cités, mentions sans lien et mesures estimées.",
+        "Prépare un plan éditorial et technique avec problèmes observés, priorités, preuves et indicateurs à contrôler après publication."
+      ],
+      "pricing": "Vérifier la grille officielle : comptes, nombre de projets, mots-clés, prompts, crédits IA, exports et accès API peuvent être facturés séparément.",
+      "privacy": "Contrôler les autorisations Search Console ou CMS, les données transmises aux services IA et les permissions des outils modifiant les pages ; conserver un moyen de revenir en arrière.",
+      "selection": [
+        "Choisir NeuronWriter selon le besoin (editor), les métriques vérifiables, la couverture linguistique, l'éditabilité, les intégrations et le budget."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://neuronwriter.com/features/content-writer/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://neuronwriter.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "se-ranking": {
+    "descriptionFr": "Plateforme SEO proposant suivi des positions et audit, avec SE Visible pour le suivi des mentions et citations dans les réponses IA des nouveaux abonnés.",
+    "descriptionEn": "SEO platform for rank tracking and audits, with SE Visible for AI mentions and citations for newer subscribers.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Recherche SEO et suivi de positions",
+      "AI Results Tracker pour anciens abonnés éligibles",
+      "SE Visible pour nouvelles inscriptions"
+    ],
+    "featuresEn": [
+      "SEO research and rank tracking",
+      "AI Results Tracker for eligible legacy accounts",
+      "SE Visible for new subscribers"
+    ],
+    "accessFr": "Service web et intégrations selon offre",
+    "accessEn": "Web service and integrations by plan",
+    "officialSources": [
+      {
+        "url": "https://help.seranking.com/hc/en-us/articles/16335384225948-What-is-the-AI-Results-Tracker",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_product_status"
+      },
+      {
+        "url": "https://visible.seranking.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme SEO proposant suivi des positions et audit, avec SE Visible pour le suivi des mentions et citations dans les réponses IA des nouveaux abonnés.",
+      "audiences": [
+        "Équipes SEO, éditoriales et marketing",
+        "Gestionnaires de sites documentaires et annuaires"
+      ],
+      "cases": [
+        "Comparer les positions organiques et la visibilité dans ChatGPT, Gemini et Google AI Mode.",
+        "Vérifier la qualité des données sources et comparer les résultats à des mesures indépendantes."
+      ],
+      "advantages": [
+        "Recherche SEO et suivi de positions",
+        "AI Results Tracker pour anciens abonnés éligibles",
+        "SE Visible pour nouvelles inscriptions"
+      ],
+      "limits": [
+        "L'AI Results Tracker est réservé aux comptes abonnés avant le 29 octobre 2026 ; les nouveaux clients utilisent SE Visible. Les produits ont des fonctionnalités et tarifs distincts.",
+        "Une suggestion SEO ou GEO n'assure jamais un classement, une citation par les IA ni des visites supplémentaires."
+      ],
+      "gettingStarted": [
+        "Définir un site, des sujets et un groupe de requêtes représentatives de l'audience.",
+        "Réaliser un audit initial, conserver les mesures de référence et tester des changements sur quelques pages avant déploiement général."
+      ],
+      "examples": [
+        "Analyse la visibilité de notre portail sur dix questions d'utilisateurs, en distinguant liens cités, mentions sans lien et mesures estimées.",
+        "Prépare un plan éditorial et technique avec problèmes observés, priorités, preuves et indicateurs à contrôler après publication."
+      ],
+      "pricing": "Vérifier la grille officielle : comptes, nombre de projets, mots-clés, prompts, crédits IA, exports et accès API peuvent être facturés séparément.",
+      "privacy": "Contrôler les autorisations Search Console ou CMS, les données transmises aux services IA et les permissions des outils modifiant les pages ; conserver un moyen de revenir en arrière.",
+      "selection": [
+        "Choisir SE Ranking selon le besoin (suite), les métriques vérifiables, la couverture linguistique, l'éditabilité, les intégrations et le budget."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "new_subscription_path",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.seranking.com/hc/en-us/articles/16335384225948-What-is-the-AI-Results-Tracker",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://visible.seranking.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_subscription_change"
+  },
+  "outranking": {
+    "descriptionFr": "Plateforme de recherche de mots-clés, briefs SEO, rédaction assistée et optimisation automatique de pages existantes.",
+    "descriptionEn": "Keyword research, SEO brief, assisted writing and existing-page optimization platform.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Briefs et plans éditoriaux",
+      "Optimisation de textes et titres",
+      "Clusters de mots-clés et liens internes"
+    ],
+    "featuresEn": [
+      "Content briefs and outlines",
+      "Copy and title optimization",
+      "Keyword clusters and internal links"
+    ],
+    "accessFr": "Service web et intégrations selon offre",
+    "accessEn": "Web service and integrations by plan",
+    "officialSources": [
+      {
+        "url": "https://outranking.io/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_product_status"
+      },
+      {
+        "url": "https://outranking.io/seo-ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de recherche de mots-clés, briefs SEO, rédaction assistée et optimisation automatique de pages existantes.",
+      "audiences": [
+        "Équipes SEO, éditoriales et marketing",
+        "Gestionnaires de sites documentaires et annuaires"
+      ],
+      "cases": [
+        "Créer un brief sourcé et améliorer une page qui traite déjà du sujet visé.",
+        "Vérifier la qualité des données sources et comparer les résultats à des mesures indépendantes."
+      ],
+      "advantages": [
+        "Briefs et plans éditoriaux",
+        "Optimisation de textes et titres",
+        "Clusters de mots-clés et liens internes"
+      ],
+      "limits": [
+        "Les études de cas et promesses de classement sont commerciales ; vérifier l'exactitude des paragraphes et la disponibilité des fonctionnalités annoncées.",
+        "Une suggestion SEO ou GEO n'assure jamais un classement, une citation par les IA ni des visites supplémentaires."
+      ],
+      "gettingStarted": [
+        "Définir un site, des sujets et un groupe de requêtes représentatives de l'audience.",
+        "Réaliser un audit initial, conserver les mesures de référence et tester des changements sur quelques pages avant déploiement général."
+      ],
+      "examples": [
+        "Analyse la visibilité de notre portail sur dix questions d'utilisateurs, en distinguant liens cités, mentions sans lien et mesures estimées.",
+        "Prépare un plan éditorial et technique avec problèmes observés, priorités, preuves et indicateurs à contrôler après publication."
+      ],
+      "pricing": "Vérifier la grille officielle : comptes, nombre de projets, mots-clés, prompts, crédits IA, exports et accès API peuvent être facturés séparément.",
+      "privacy": "Contrôler les autorisations Search Console ou CMS, les données transmises aux services IA et les permissions des outils modifiant les pages ; conserver un moyen de revenir en arrière.",
+      "selection": [
+        "Choisir Outranking selon le besoin (editor), les métriques vérifiables, la couverture linguistique, l'éditabilité, les intégrations et le budget."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://outranking.io/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://outranking.io/seo-ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "scalenut": {
+    "descriptionFr": "Plateforme GEO de Scalenut associant génération Cruise Mode, recherche d'intention, édition et observation de la présence dans les réponses IA.",
+    "descriptionEn": "Scalenut GEO platform combining Cruise Mode writing, intent research, editing, and AI-answer visibility monitoring.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Cruise Mode et structure d'articles",
+      "GEO Content Optimizer et recherche de questions",
+      "Brand Monitor selon formule"
+    ],
+    "featuresEn": [
+      "Cruise Mode and article outlining",
+      "GEO Content Optimizer and question research",
+      "Plan-dependent Brand Monitor"
+    ],
+    "accessFr": "Service web et intégrations selon offre",
+    "accessEn": "Web service and integrations by plan",
+    "officialSources": [
+      {
+        "url": "https://www.scalenut.com/features/cruise-mode",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_product_status"
+      },
+      {
+        "url": "https://help.scalenut.com/overview-of-the-scalenut-features-1/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme GEO de Scalenut associant génération Cruise Mode, recherche d'intention, édition et observation de la présence dans les réponses IA.",
+      "audiences": [
+        "Équipes SEO, éditoriales et marketing",
+        "Gestionnaires de sites documentaires et annuaires"
+      ],
+      "cases": [
+        "Créer une ébauche d'article depuis une question d'utilisateur, puis corriger ses faits et sa structure.",
+        "Vérifier la qualité des données sources et comparer les résultats à des mesures indépendantes."
+      ],
+      "advantages": [
+        "Cruise Mode et structure d'articles",
+        "GEO Content Optimizer et recherche de questions",
+        "Brand Monitor selon formule"
+      ],
+      "limits": [
+        "Les affirmations de contenu « 100 % factuel » sont marketing et ne dispensent pas de contrôle humain ; surveiller crédits, sources et originalité.",
+        "Une suggestion SEO ou GEO n'assure jamais un classement, une citation par les IA ni des visites supplémentaires."
+      ],
+      "gettingStarted": [
+        "Définir un site, des sujets et un groupe de requêtes représentatives de l'audience.",
+        "Réaliser un audit initial, conserver les mesures de référence et tester des changements sur quelques pages avant déploiement général."
+      ],
+      "examples": [
+        "Analyse la visibilité de notre portail sur dix questions d'utilisateurs, en distinguant liens cités, mentions sans lien et mesures estimées.",
+        "Prépare un plan éditorial et technique avec problèmes observés, priorités, preuves et indicateurs à contrôler après publication."
+      ],
+      "pricing": "Vérifier la grille officielle : comptes, nombre de projets, mots-clés, prompts, crédits IA, exports et accès API peuvent être facturés séparément.",
+      "privacy": "Contrôler les autorisations Search Console ou CMS, les données transmises aux services IA et les permissions des outils modifiant les pages ; conserver un moyen de revenir en arrière.",
+      "selection": [
+        "Choisir Scalenut selon le besoin (editor), les métriques vérifiables, la couverture linguistique, l'éditabilité, les intégrations et le budget."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.scalenut.com/features/cruise-mode",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://help.scalenut.com/overview-of-the-scalenut-features-1/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "contentshake-ai": {
+    "descriptionFr": "Ancienne appellation du générateur de contenus Semrush, intégré en 2025 à la plateforme sous le nom Content Toolkit.",
+    "descriptionEn": "Former Semrush AI content generator, integrated into the main platform in 2025 under the name Content Toolkit.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Content Toolkit : idées et briefs",
+      "Génération et optimisation de contenus",
+      "Publication CMS compatible"
+    ],
+    "featuresEn": [
+      "Content Toolkit: ideas and briefs",
+      "Content generation and optimization",
+      "Supported CMS publishing"
+    ],
+    "accessFr": "Ancienne marque — Semrush Content Toolkit",
+    "accessEn": "Former brand — Semrush Content Toolkit",
+    "officialSources": [
+      {
+        "url": "https://www.semrush.com/semrush-questions/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_product_status"
+      },
+      {
+        "url": "https://www.semrush.com/kb/1626-ai-visibility-features",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Ancienne appellation du générateur de contenus Semrush, intégré en 2025 à la plateforme sous le nom Content Toolkit.",
+      "audiences": [
+        "Équipes SEO, éditoriales et marketing",
+        "Gestionnaires de sites documentaires et annuaires"
+      ],
+      "cases": [
+        "Utiliser Semrush Content Toolkit pour planifier et améliorer des articles plutôt que chercher l'ancienne application.",
+        "Vérifier la qualité des données sources et comparer les résultats à des mesures indépendantes."
+      ],
+      "advantages": [
+        "Content Toolkit : idées et briefs",
+        "Génération et optimisation de contenus",
+        "Publication CMS compatible"
+      ],
+      "limits": [
+        "ContentShake AI n'est plus un produit indépendant : il a été fusionné avec Semrush et renommé Content Toolkit en 2025. Les tarifs et quotas actuels sont ceux du nouveau produit.",
+        "Une suggestion SEO ou GEO n'assure jamais un classement, une citation par les IA ni des visites supplémentaires."
+      ],
+      "gettingStarted": [
+        "Utiliser le service actuel Content Toolkit plutôt que chercher l'ancienne application autonome.",
+        "Réaliser un audit initial, conserver les mesures de référence et tester des changements sur quelques pages avant déploiement général."
+      ],
+      "examples": [
+        "Analyse la visibilité de notre portail sur dix questions d'utilisateurs, en distinguant liens cités, mentions sans lien et mesures estimées.",
+        "Prépare un plan éditorial et technique avec problèmes observés, priorités, preuves et indicateurs à contrôler après publication."
+      ],
+      "pricing": "Vérifier la grille officielle : comptes, nombre de projets, mots-clés, prompts, crédits IA, exports et accès API peuvent être facturés séparément.",
+      "privacy": "Contrôler les autorisations Search Console ou CMS, les données transmises aux services IA et les permissions des outils modifiant les pages ; conserver un moyen de revenir en arrière.",
+      "selection": [
+        "Choisir ContentShake AI selon le besoin (legacy), les métriques vérifiables, la couverture linguistique, l'éditabilité, les intégrations et le budget."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "integrated_renamed",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.semrush.com/semrush-questions/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.semrush.com/kb/1626-ai-visibility-features",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_integrated_renamed"
+  },
+  "alli-ai": {
+    "descriptionFr": "Solution d'automatisation SEO qui applique des optimisations de pages via un éditeur visuel et un script ajouté au site.",
+    "descriptionEn": "SEO automation tool applying page optimization via visual editor and an installed website script.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Éditeur visuel de modifications SEO",
+      "Recommandations et publication après validation",
+      "Couche de modifications indépendante du CMS"
+    ],
+    "featuresEn": [
+      "Visual SEO editing",
+      "Approval-gated recommendations and publishing",
+      "CMS-independent modification layer"
+    ],
+    "accessFr": "Service web avec script d'intégration",
+    "accessEn": "Web service with integration script",
+    "officialSources": [
+      {
+        "url": "https://www.alliai.com/features/visual-seo-editor",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_product_status"
+      },
+      {
+        "url": "https://www.alliai.com/faq",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Solution d'automatisation SEO qui applique des optimisations de pages via un éditeur visuel et un script ajouté au site.",
+      "audiences": [
+        "Équipes SEO techniques et administrateurs de sites",
+        "Gestionnaires de sites documentaires et annuaires"
+      ],
+      "cases": [
+        "Corriger des métadonnées sur plusieurs pages puis approuver chaque modification après une prévisualisation.",
+        "Vérifier la qualité des données sources et comparer les résultats à des mesures indépendantes."
+      ],
+      "advantages": [
+        "Éditeur visuel de modifications SEO",
+        "Recommandations et publication après validation",
+        "Couche de modifications indépendante du CMS"
+      ],
+      "limits": [
+        "Le script et la couche d'édition ajoutent une dépendance : les modifications Live Editor peuvent disparaître à la résiliation de l'abonnement. Vérifier performance et conformité des changements.",
+        "Une suggestion SEO ou GEO n'assure jamais un classement, une citation par les IA ni des visites supplémentaires."
+      ],
+      "gettingStarted": [
+        "Définir un site, des sujets et un groupe de requêtes représentatives de l'audience.",
+        "Réaliser un audit initial, conserver les mesures de référence et tester des changements sur quelques pages avant déploiement général."
+      ],
+      "examples": [
+        "Analyse la visibilité de notre portail sur dix questions d'utilisateurs, en distinguant liens cités, mentions sans lien et mesures estimées.",
+        "Prépare un plan éditorial et technique avec problèmes observés, priorités, preuves et indicateurs à contrôler après publication."
+      ],
+      "pricing": "Vérifier la grille officielle : comptes, nombre de projets, mots-clés, prompts, crédits IA, exports et accès API peuvent être facturés séparément.",
+      "privacy": "Contrôler les autorisations Search Console ou CMS, les données transmises aux services IA et les permissions des outils modifiant les pages ; conserver un moyen de revenir en arrière.",
+      "selection": [
+        "Choisir Alli AI selon le besoin (technical), les métriques vérifiables, la couverture linguistique, l'éditabilité, les intégrations et le budget."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.alliai.com/features/visual-seo-editor",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.alliai.com/faq",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "rank-math": {
+    "descriptionFr": "Extension WordPress SEO regroupant Content AI, AI Link Genius et AI Visibility sous la marque Rank Math AI.",
+    "descriptionEn": "WordPress SEO plugin grouping Content AI, AI Link Genius and AI Visibility under the Rank Math AI brand.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Content AI : rédaction SEO",
+      "AI Link Genius : maillage interne",
+      "AI Visibility : visibilité dans les moteurs IA"
+    ],
+    "featuresEn": [
+      "Content AI: SEO writing",
+      "AI Link Genius: internal linking",
+      "AI Visibility: AI search presence"
+    ],
+    "accessFr": "Extension WordPress avec fonctions IA selon abonnement",
+    "accessEn": "WordPress plugin with plan-dependent AI",
+    "officialSources": [
+      {
+        "url": "https://rankmath.com/kb/rank-math-ai-rebranding/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_product_status"
+      },
+      {
+        "url": "https://rankmath.com/content-ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Extension WordPress SEO regroupant Content AI, AI Link Genius et AI Visibility sous la marque Rank Math AI.",
+      "audiences": [
+        "Administrateurs de sites WordPress",
+        "Gestionnaires de sites documentaires et annuaires"
+      ],
+      "cases": [
+        "Réviser les descriptions, le maillage interne et le suivi de présence IA d'un site WordPress.",
+        "Vérifier la qualité des données sources et comparer les résultats à des mesures indépendantes."
+      ],
+      "advantages": [
+        "Content AI : rédaction SEO",
+        "AI Link Genius : maillage interne",
+        "AI Visibility : visibilité dans les moteurs IA"
+      ],
+      "limits": [
+        "Rank Math AI est un regroupement de marque, pas la disparition de Content AI. Les fonctionnalités IA disposent d'un abonnement ou de limites distinctes du plugin PRO.",
+        "Une suggestion SEO ou GEO n'assure jamais un classement, une citation par les IA ni des visites supplémentaires."
+      ],
+      "gettingStarted": [
+        "Définir un site, des sujets et un groupe de requêtes représentatives de l'audience.",
+        "Réaliser un audit initial, conserver les mesures de référence et tester des changements sur quelques pages avant déploiement général."
+      ],
+      "examples": [
+        "Analyse la visibilité de notre portail sur dix questions d'utilisateurs, en distinguant liens cités, mentions sans lien et mesures estimées.",
+        "Prépare un plan éditorial et technique avec problèmes observés, priorités, preuves et indicateurs à contrôler après publication."
+      ],
+      "pricing": "Vérifier la grille officielle : comptes, nombre de projets, mots-clés, prompts, crédits IA, exports et accès API peuvent être facturés séparément.",
+      "privacy": "Contrôler les autorisations Search Console ou CMS, les données transmises aux services IA et les permissions des outils modifiant les pages ; conserver un moyen de revenir en arrière.",
+      "selection": [
+        "Choisir Rank Math selon le besoin (wordpress), les métriques vérifiables, la couverture linguistique, l'éditabilité, les intégrations et le budget."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "ai_suite_rebranded",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://rankmath.com/kb/rank-math-ai-rebranding/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://rankmath.com/content-ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_brand_change"
+  },
+  "yoast-seo": {
+    "descriptionFr": "Extension SEO pour WordPress et autres plateformes avec génération IA de titres, descriptions, résumés et suggestions d'optimisation.",
+    "descriptionEn": "SEO plugin for WordPress and other platforms featuring AI-generated titles, descriptions, summaries, and optimization suggestions.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "AI Generate : titres et descriptions",
+      "AI Optimize et AI Summarize",
+      "Contrôle humain des suggestions SEO"
+    ],
+    "featuresEn": [
+      "AI Generate: titles and descriptions",
+      "AI Optimize and AI Summarize",
+      "Human review of SEO suggestions"
+    ],
+    "accessFr": "Extension WordPress avec fonctions IA selon abonnement",
+    "accessEn": "WordPress plugin with plan-dependent AI",
+    "officialSources": [
+      {
+        "url": "https://yoast.com/help/faq-ai-in-yoast-seo/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_product_status"
+      },
+      {
+        "url": "https://yoast.com/features/ai-features/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Extension SEO pour WordPress et autres plateformes avec génération IA de titres, descriptions, résumés et suggestions d'optimisation.",
+      "audiences": [
+        "Administrateurs de sites WordPress",
+        "Gestionnaires de sites documentaires et annuaires"
+      ],
+      "cases": [
+        "Mettre à jour les métadonnées des pages pédagogiques en préservant des intitulés exacts.",
+        "Vérifier la qualité des données sources et comparer les résultats à des mesures indépendantes."
+      ],
+      "advantages": [
+        "AI Generate : titres et descriptions",
+        "AI Optimize et AI Summarize",
+        "Contrôle humain des suggestions SEO"
+      ],
+      "limits": [
+        "Les fonctions IA sont réservées à des offres éligibles et des quotas s'appliquent. Elles ne garantissent aucune hausse de classement ; l'utilisation peut transmettre les données à un service externe.",
+        "Une suggestion SEO ou GEO n'assure jamais un classement, une citation par les IA ni des visites supplémentaires."
+      ],
+      "gettingStarted": [
+        "Définir un site, des sujets et un groupe de requêtes représentatives de l'audience.",
+        "Réaliser un audit initial, conserver les mesures de référence et tester des changements sur quelques pages avant déploiement général."
+      ],
+      "examples": [
+        "Analyse la visibilité de notre portail sur dix questions d'utilisateurs, en distinguant liens cités, mentions sans lien et mesures estimées.",
+        "Prépare un plan éditorial et technique avec problèmes observés, priorités, preuves et indicateurs à contrôler après publication."
+      ],
+      "pricing": "Vérifier la grille officielle : comptes, nombre de projets, mots-clés, prompts, crédits IA, exports et accès API peuvent être facturés séparément.",
+      "privacy": "Contrôler les autorisations Search Console ou CMS, les données transmises aux services IA et les permissions des outils modifiant les pages ; conserver un moyen de revenir en arrière.",
+      "selection": [
+        "Choisir Yoast SEO selon le besoin (wordpress), les métriques vérifiables, la couverture linguistique, l'éditabilité, les intégrations et le budget."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://yoast.com/help/faq-ai-in-yoast-seo/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://yoast.com/features/ai-features/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "profound": {
+    "descriptionFr": "Plateforme d'analyse AEO pour mesurer mentions, citations, prompts, visites de robots IA et opportunités d'optimisation.",
+    "descriptionEn": "AEO analytics platform measuring AI mentions, citations, prompts, AI crawler visits, and optimization opportunities.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Answer Engine Insights et citations",
+      "Prompt Volumes et comparaison concurrentielle",
+      "Agent Analytics et trafic référé par IA"
+    ],
+    "featuresEn": [
+      "Answer Engine Insights and citations",
+      "Prompt Volumes and competitor benchmarking",
+      "Agent Analytics and AI-referred traffic"
+    ],
+    "accessFr": "Service web et exports ou API selon formule",
+    "accessEn": "Web service and plan-dependent API or exports",
+    "officialSources": [
+      {
+        "url": "https://www.tryprofound.com/features",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_product_status"
+      },
+      {
+        "url": "https://www.tryprofound.com/features/pages",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme d'analyse AEO pour mesurer mentions, citations, prompts, visites de robots IA et opportunités d'optimisation.",
+      "audiences": [
+        "Responsables GEO et visibilité dans les réponses IA",
+        "Gestionnaires de sites documentaires et annuaires"
+      ],
+      "cases": [
+        "Comparer les citations d'IndexAI et celles de sites concurrents, puis investiguer les problèmes de lecture par robots IA.",
+        "Vérifier la qualité des données sources et comparer les résultats à des mesures indépendantes."
+      ],
+      "advantages": [
+        "Answer Engine Insights et citations",
+        "Prompt Volumes et comparaison concurrentielle",
+        "Agent Analytics et trafic référé par IA"
+      ],
+      "limits": [
+        "Les indices de visibilité et volumes de prompts dépendent des données collectées par le fournisseur ; distinguer citations, impressions estimées et visites réelles.",
+        "Une suggestion SEO ou GEO n'assure jamais un classement, une citation par les IA ni des visites supplémentaires."
+      ],
+      "gettingStarted": [
+        "Définir un site, des sujets et un groupe de requêtes représentatives de l'audience.",
+        "Réaliser un audit initial, conserver les mesures de référence et tester des changements sur quelques pages avant déploiement général."
+      ],
+      "examples": [
+        "Analyse la visibilité de notre portail sur dix questions d'utilisateurs, en distinguant liens cités, mentions sans lien et mesures estimées.",
+        "Prépare un plan éditorial et technique avec problèmes observés, priorités, preuves et indicateurs à contrôler après publication."
+      ],
+      "pricing": "Vérifier la grille officielle : comptes, nombre de projets, mots-clés, prompts, crédits IA, exports et accès API peuvent être facturés séparément.",
+      "privacy": "Contrôler les autorisations Search Console ou CMS, les données transmises aux services IA et les permissions des outils modifiant les pages ; conserver un moyen de revenir en arrière.",
+      "selection": [
+        "Choisir Profound selon le besoin (aeo), les métriques vérifiables, la couverture linguistique, l'éditabilité, les intégrations et le budget."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.tryprofound.com/features",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.tryprofound.com/features/pages",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "otterly-ai": {
+    "descriptionFr": "Plateforme GEO de surveillance quotidienne des réponses IA, mentions de marques, citations d'URL et analyses concurrentielles.",
+    "descriptionEn": "GEO platform for daily AI-answer monitoring, brand mentions, URL citations, and competitor comparisons.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Suivi de prompts sur plusieurs moteurs IA",
+      "Mentions de marque et citations",
+      "GEO Audit et rapports exportables"
+    ],
+    "featuresEn": [
+      "Multi-engine prompt tracking",
+      "Brand mentions and citations",
+      "GEO audit and exportable reports"
+    ],
+    "accessFr": "Service web et exports ou API selon formule",
+    "accessEn": "Web service and plan-dependent API or exports",
+    "officialSources": [
+      {
+        "url": "https://help.otterly.ai/what-is-otterly.ai",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_product_status"
+      },
+      {
+        "url": "https://otterly.ai/features/ai-search-analytics",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme GEO de surveillance quotidienne des réponses IA, mentions de marques, citations d'URL et analyses concurrentielles.",
+      "audiences": [
+        "Responsables GEO et visibilité dans les réponses IA",
+        "Gestionnaires de sites documentaires et annuaires"
+      ],
+      "cases": [
+        "Suivre un groupe de questions courantes sur les annuaires IA, puis identifier les pages fréquemment citées.",
+        "Vérifier la qualité des données sources et comparer les résultats à des mesures indépendantes."
+      ],
+      "advantages": [
+        "Suivi de prompts sur plusieurs moteurs IA",
+        "Mentions de marque et citations",
+        "GEO Audit et rapports exportables"
+      ],
+      "limits": [
+        "Les résultats sont recueillis depuis des sessions non personnalisées, pas depuis les comptes de tous les internautes. Les moteurs couverts peuvent être des options supplémentaires.",
+        "Une suggestion SEO ou GEO n'assure jamais un classement, une citation par les IA ni des visites supplémentaires."
+      ],
+      "gettingStarted": [
+        "Définir un site, des sujets et un groupe de requêtes représentatives de l'audience.",
+        "Réaliser un audit initial, conserver les mesures de référence et tester des changements sur quelques pages avant déploiement général."
+      ],
+      "examples": [
+        "Analyse la visibilité de notre portail sur dix questions d'utilisateurs, en distinguant liens cités, mentions sans lien et mesures estimées.",
+        "Prépare un plan éditorial et technique avec problèmes observés, priorités, preuves et indicateurs à contrôler après publication."
+      ],
+      "pricing": "Vérifier la grille officielle : comptes, nombre de projets, mots-clés, prompts, crédits IA, exports et accès API peuvent être facturés séparément.",
+      "privacy": "Contrôler les autorisations Search Console ou CMS, les données transmises aux services IA et les permissions des outils modifiant les pages ; conserver un moyen de revenir en arrière.",
+      "selection": [
+        "Choisir Otterly.AI selon le besoin (aeo), les métriques vérifiables, la couverture linguistique, l'éditabilité, les intégrations et le budget."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.otterly.ai/what-is-otterly.ai",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://otterly.ai/features/ai-search-analytics",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "peec-ai": {
+    "descriptionFr": "Solution d'analyse de visibilité des marques dans les réponses IA avec mentions, sentiment, part de voix et citations par source.",
+    "descriptionEn": "AI-answer brand visibility analytics for mentions, sentiment, share of voice, and source citations.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Prompts et suivi multi-moteur quotidien",
+      "Mentions, sentiment et part de voix",
+      "Sources citées, intégrations BI et API"
+    ],
+    "featuresEn": [
+      "Daily multi-engine prompt tracking",
+      "Mentions, sentiment and share of voice",
+      "Cited sources, BI integrations and API"
+    ],
+    "accessFr": "Service web et exports ou API selon formule",
+    "accessEn": "Web service and plan-dependent API or exports",
+    "officialSources": [
+      {
+        "url": "https://peec.ai/product/ai-visibility",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_product_status"
+      },
+      {
+        "url": "https://peec.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Solution d'analyse de visibilité des marques dans les réponses IA avec mentions, sentiment, part de voix et citations par source.",
+      "audiences": [
+        "Responsables GEO et visibilité dans les réponses IA",
+        "Gestionnaires de sites documentaires et annuaires"
+      ],
+      "cases": [
+        "Analyser la visibilité d'IndexAI par pays et sujet, puis comparer les sources retenues par les IA.",
+        "Vérifier la qualité des données sources et comparer les résultats à des mesures indépendantes."
+      ],
+      "advantages": [
+        "Prompts et suivi multi-moteur quotidien",
+        "Mentions, sentiment et part de voix",
+        "Sources citées, intégrations BI et API"
+      ],
+      "limits": [
+        "Les métriques dépendent du jeu de prompts, du pays et des modèles sélectionnés ; la couverture est un échantillon d'observations, non une mesure exhaustive des utilisateurs.",
+        "Une suggestion SEO ou GEO n'assure jamais un classement, une citation par les IA ni des visites supplémentaires."
+      ],
+      "gettingStarted": [
+        "Définir un site, des sujets et un groupe de requêtes représentatives de l'audience.",
+        "Réaliser un audit initial, conserver les mesures de référence et tester des changements sur quelques pages avant déploiement général."
+      ],
+      "examples": [
+        "Analyse la visibilité de notre portail sur dix questions d'utilisateurs, en distinguant liens cités, mentions sans lien et mesures estimées.",
+        "Prépare un plan éditorial et technique avec problèmes observés, priorités, preuves et indicateurs à contrôler après publication."
+      ],
+      "pricing": "Vérifier la grille officielle : comptes, nombre de projets, mots-clés, prompts, crédits IA, exports et accès API peuvent être facturés séparément.",
+      "privacy": "Contrôler les autorisations Search Console ou CMS, les données transmises aux services IA et les permissions des outils modifiant les pages ; conserver un moyen de revenir en arrière.",
+      "selection": [
+        "Choisir Peec AI selon le besoin (aeo), les métriques vérifiables, la couverture linguistique, l'éditabilité, les intégrations et le budget."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://peec.ai/product/ai-visibility",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://peec.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  }
+}
