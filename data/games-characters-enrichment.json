@@ -1,0 +1,827 @@
+{
+  "inworld-ai": {
+    "descriptionFr": "Plateforme de modèles vocaux en temps réel et d'inférence pour personnages interactifs, assistants et jeux, désormais plus large qu'un simple éditeur de PNJ.",
+    "descriptionEn": "Realtime voice-model and inference platform for interactive characters, assistants and games, now broader than a standalone NPC builder.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Realtime TTS-2 et STT-1 pour dialogues",
+      "API Realtime, WebSocket et WebRTC",
+      "Routeur de modèles et signaux vocaux pour personnages"
+    ],
+    "featuresEn": [
+      "Realtime TTS-2 and STT-1 for dialogue",
+      "Realtime API, WebSocket and WebRTC",
+      "Model routing and vocal signals for characters"
+    ],
+    "accessFr": "Web, plugins, API et/ou moteurs selon offre",
+    "accessEn": "Web, plugins, APIs and/or engines by plan",
+    "officialSources": [
+      {
+        "url": "https://inworld.ai/gaming-media",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://inworld.ai/resources/what-is-inworld-ai",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://docs.inworld.ai/release-notes/tts",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de modèles vocaux en temps réel et d'inférence pour personnages interactifs, assistants et jeux, désormais plus large qu'un simple éditeur de PNJ.",
+      "audiences": [
+        "Game designers, artistes et créateurs de personnages",
+        "Équipes pédagogiques concevant des expériences interactives"
+      ],
+      "cases": [
+        "Créer un personnage non joueur qui écoute le joueur, répond oralement et synchronise ses lèvres à partir des visèmes.",
+        "Tester le comportement du résultat dans le moteur et sur les appareils réels avec des utilisateurs représentatifs."
+      ],
+      "advantages": [
+        "Realtime TTS-2 et STT-1 pour dialogues",
+        "API Realtime, WebSocket et WebRTC",
+        "Routeur de modèles et signaux vocaux pour personnages"
+      ],
+      "limits": [
+        "Inworld se concentre désormais sur les modèles et API de voix/inférence plutôt que sur un simple outil de création de personnages. Les latences annoncées correspondent à des conditions de test fournisseur ; évaluer coût par caractère, réseau et droit sur les voix clonées.",
+        "Les sorties IA nécessitent contrôle éditorial, vérification de droits et tests de stabilité, de cohérence et de sécurité avant diffusion."
+      ],
+      "gettingStarted": [
+        "Définir un cas d'usage testable : PNJ interactif, narration, création d'actifs ou jeu jouable.",
+        "Créer un prototype limité et vérifier les exports, permissions, coûts d'exécution et compatibilité avec le moteur cible."
+      ],
+      "examples": [
+        "Conçois un personnage avec personnalité, objectifs, limites narratives et règles d'escalade en cas de demande hors univers.",
+        "Prépare une grille de test : cohérence des réponses, temps de latence, qualité du rendu, droits sur les voix et coût par session."
+      ],
+      "pricing": "Vérifier les crédits de génération, coûts de voix ou d'inférence, accès SDK/API, exports, sièges et licences commerciales selon le fournisseur.",
+      "privacy": "Contrôler les droits sur personnages, voix, performances, images et jeux de données ; limiter les données des joueurs, prévoir consentement et vérifier les règles de conservation.",
+      "selection": [
+        "Comparer Inworld AI selon le besoin (voice_infrastructure), les formats exportables, l'intégration au moteur, les contrôles créatifs, les licences et les coûts."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "repositioned_to_realtime_voice",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://inworld.ai/gaming-media",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://inworld.ai/resources/what-is-inworld-ai",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://docs.inworld.ai/release-notes/tts",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_repositioned"
+  },
+  "convai": {
+    "descriptionFr": "Plateforme de personnages conversationnels temps réel pour Unity, Unreal, XR et applications web avec voix, actions pilotées par les dialogues et contexte dynamique.",
+    "descriptionEn": "Realtime conversational character platform for Unity, Unreal, XR and web apps with voice, dialogue-triggered actions and dynamic context.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "SDK Unity/Unreal et projets VR/MR Meta Quest",
+      "Conversations vocales, lip-sync et animations faciales",
+      "Actions personnalisées, contexte dynamique et intégrations MCP"
+    ],
+    "featuresEn": [
+      "Unity/Unreal SDKs and Meta Quest VR/MR",
+      "Voice dialogue, lip-sync and facial animation",
+      "Custom actions, dynamic context and MCP integrations"
+    ],
+    "accessFr": "SDK Unity, Unreal et autres intégrations",
+    "accessEn": "Unity, Unreal and other integrations",
+    "officialSources": [
+      {
+        "url": "https://convai.com/blog",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://docs.convai.com/api-docs/plugins-and-integrations/modding-framework",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://convai.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de personnages conversationnels temps réel pour Unity, Unreal, XR et applications web avec voix, actions pilotées par les dialogues et contexte dynamique.",
+      "audiences": [
+        "Développeurs de jeux et d'expériences XR",
+        "Équipes pédagogiques concevant des expériences interactives"
+      ],
+      "cases": [
+        "Créer un guide virtuel capable de répondre sur un musée, regarder des objets et exécuter une animation sur demande.",
+        "Tester le comportement du résultat dans le moteur et sur les appareils réels avec des utilisateurs représentatifs."
+      ],
+      "advantages": [
+        "SDK Unity/Unreal et projets VR/MR Meta Quest",
+        "Conversations vocales, lip-sync et animations faciales",
+        "Actions personnalisées, contexte dynamique et intégrations MCP"
+      ],
+      "limits": [
+        "Les échanges vocaux en VR ont des contraintes de latence, de performances et de confidentialité. Tester les versions des SDK, la prise en charge du moteur cible et la robustesse des actions avant publication.",
+        "Les sorties IA nécessitent contrôle éditorial, vérification de droits et tests de stabilité, de cohérence et de sécurité avant diffusion."
+      ],
+      "gettingStarted": [
+        "Définir un cas d'usage testable : PNJ interactif, narration, création d'actifs ou jeu jouable.",
+        "Créer un prototype limité et vérifier les exports, permissions, coûts d'exécution et compatibilité avec le moteur cible."
+      ],
+      "examples": [
+        "Conçois un personnage avec personnalité, objectifs, limites narratives et règles d'escalade en cas de demande hors univers.",
+        "Prépare une grille de test : cohérence des réponses, temps de latence, qualité du rendu, droits sur les voix et coût par session."
+      ],
+      "pricing": "Vérifier les crédits de génération, coûts de voix ou d'inférence, accès SDK/API, exports, sièges et licences commerciales selon le fournisseur.",
+      "privacy": "Contrôler les droits sur personnages, voix, performances, images et jeux de données ; limiter les données des joueurs, prévoir consentement et vérifier les règles de conservation.",
+      "selection": [
+        "Comparer Convai selon le besoin (npc_runtime), les formats exportables, l'intégration au moteur, les contrôles créatifs, les licences et les coûts."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://convai.com/blog",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://docs.convai.com/api-docs/plugins-and-integrations/modding-framework",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://convai.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "ludo-ai": {
+    "descriptionFr": "Atelier de préproduction de jeux vidéo réunissant recherche de tendances, Game Ideator, documents de game design et génération de sprites, images, objets 3D, audio et vidéos.",
+    "descriptionEn": "Game preproduction workspace combining market research, Game Ideator, game design documents and image, sprite, 3D, audio and video generation.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Game Ideator, Ask Ludo et études de jeux",
+      "Sprites animés, images, 3D GLB, audio et vidéo",
+      "Exports d'actifs et accès API/MCP selon formule"
+    ],
+    "featuresEn": [
+      "Game Ideator, Ask Ludo and game research",
+      "Animated sprites, images, GLB 3D, audio and video",
+      "Asset downloads and plan-dependent API/MCP"
+    ],
+    "accessFr": "Web ; API/MCP selon abonnement",
+    "accessEn": "Web; plan-dependent API/MCP",
+    "officialSources": [
+      {
+        "url": "https://ludo.ai/features",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://ludo.ai/features/assistant",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://ludo.ai/features/game-ideator",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://ludo.ai/pricing",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Atelier de préproduction de jeux vidéo réunissant recherche de tendances, Game Ideator, documents de game design et génération de sprites, images, objets 3D, audio et vidéos.",
+      "audiences": [
+        "Game designers, artistes et créateurs de personnages",
+        "Équipes pédagogiques concevant des expériences interactives"
+      ],
+      "cases": [
+        "Concevoir un concept de jeu éducatif, produire un document de design et générer une bibliothèque d'icônes et de sprites.",
+        "Tester le comportement du résultat dans le moteur et sur les appareils réels avec des utilisateurs représentatifs."
+      ],
+      "advantages": [
+        "Game Ideator, Ask Ludo et études de jeux",
+        "Sprites animés, images, 3D GLB, audio et vidéo",
+        "Exports d'actifs et accès API/MCP selon formule"
+      ],
+      "limits": [
+        "Ludo accélère la préproduction mais ne transforme pas automatiquement un concept en jeu jouable. L'idéation est surtout accessible dans l'application web ; les API/MCP ciblent principalement les actifs, avec quotas selon le plan.",
+        "Les sorties IA nécessitent contrôle éditorial, vérification de droits et tests de stabilité, de cohérence et de sécurité avant diffusion."
+      ],
+      "gettingStarted": [
+        "Définir un cas d'usage testable : PNJ interactif, narration, création d'actifs ou jeu jouable.",
+        "Créer un prototype limité et vérifier les exports, permissions, coûts d'exécution et compatibilité avec le moteur cible."
+      ],
+      "examples": [
+        "Conçois un personnage avec personnalité, objectifs, limites narratives et règles d'escalade en cas de demande hors univers.",
+        "Prépare une grille de test : cohérence des réponses, temps de latence, qualité du rendu, droits sur les voix et coût par session."
+      ],
+      "pricing": "Vérifier les crédits de génération, coûts de voix ou d'inférence, accès SDK/API, exports, sièges et licences commerciales selon le fournisseur.",
+      "privacy": "Contrôler les droits sur personnages, voix, performances, images et jeux de données ; limiter les données des joueurs, prévoir consentement et vérifier les règles de conservation.",
+      "selection": [
+        "Comparer Ludo.ai selon le besoin (game_preproduction), les formats exportables, l'intégration au moteur, les contrôles créatifs, les licences et les coûts."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://ludo.ai/features",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://ludo.ai/features/assistant",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://ludo.ai/features/game-ideator",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://ludo.ai/pricing",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "rosebud-ai": {
+    "descriptionFr": "Constructeur de jeux jouables par consignes en langage naturel, avec génération et édition du code, des visuels et du son, publication sur une URL web.",
+    "descriptionEn": "Prompt-driven builder for playable games, generating and editing code, artwork and audio, with publishing to a shareable web URL.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Rosie : création itérative de jeux depuis une idée",
+      "Jeux jouables dans le navigateur et publication hébergée",
+      "Export Windows ou adaptation mobile selon formule et outils complémentaires"
+    ],
+    "featuresEn": [
+      "Rosie iterative prompt-to-game builder",
+      "Playable browser games and hosted publishing",
+      "Windows export or mobile wrapping depending on plan and integrations"
+    ],
+    "accessFr": "Web, plugins, API et/ou moteurs selon offre",
+    "accessEn": "Web, plugins, APIs and/or engines by plan",
+    "officialSources": [
+      {
+        "url": "https://rosebud.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://lab.rosebud.ai/blog/from-rosebud-to-steam-how-to-publish-your-ai-made-game-on-steam",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://lab.rosebud.ai/blog/publish-mobile-game-with-ai",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Constructeur de jeux jouables par consignes en langage naturel, avec génération et édition du code, des visuels et du son, publication sur une URL web.",
+      "audiences": [
+        "Game designers, artistes et créateurs de personnages",
+        "Équipes pédagogiques concevant des expériences interactives"
+      ],
+      "cases": [
+        "Créer un mini-jeu de quiz, le tester avec des élèves, améliorer les règles puis diffuser une URL jouable.",
+        "Tester le comportement du résultat dans le moteur et sur les appareils réels avec des utilisateurs représentatifs."
+      ],
+      "advantages": [
+        "Rosie : création itérative de jeux depuis une idée",
+        "Jeux jouables dans le navigateur et publication hébergée",
+        "Export Windows ou adaptation mobile selon formule et outils complémentaires"
+      ],
+      "limits": [
+        "Les jeux générés doivent être testés sur les bugs, performances et licences. L'export EXE Windows pour Steam est payant ; une publication iOS/Android requiert une intégration externe comme FlutterFlow, pas un export natif automatique.",
+        "Les sorties IA nécessitent contrôle éditorial, vérification de droits et tests de stabilité, de cohérence et de sécurité avant diffusion."
+      ],
+      "gettingStarted": [
+        "Définir un cas d'usage testable : PNJ interactif, narration, création d'actifs ou jeu jouable.",
+        "Créer un prototype limité et vérifier les exports, permissions, coûts d'exécution et compatibilité avec le moteur cible."
+      ],
+      "examples": [
+        "Conçois un personnage avec personnalité, objectifs, limites narratives et règles d'escalade en cas de demande hors univers.",
+        "Prépare une grille de test : cohérence des réponses, temps de latence, qualité du rendu, droits sur les voix et coût par session."
+      ],
+      "pricing": "Vérifier les crédits de génération, coûts de voix ou d'inférence, accès SDK/API, exports, sièges et licences commerciales selon le fournisseur.",
+      "privacy": "Contrôler les droits sur personnages, voix, performances, images et jeux de données ; limiter les données des joueurs, prévoir consentement et vérifier les règles de conservation.",
+      "selection": [
+        "Comparer Rosebud AI selon le besoin (playable_game_builder), les formats exportables, l'intégration au moteur, les contrôles créatifs, les licences et les coûts."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://rosebud.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://lab.rosebud.ai/blog/from-rosebud-to-steam-how-to-publish-your-ai-made-game-on-steam",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://lab.rosebud.ai/blog/publish-mobile-game-with-ai",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "layer-ai": {
+    "descriptionFr": "Plateforme créative d'entreprise pour studios de jeux, générant et éditant images, vidéos, objets 3D, audio et créations publicitaires dans des workflows coordonnés.",
+    "descriptionEn": "Creative production platform for game studios generating and editing images, video, 3D, audio and advertising assets through coordinated workflows.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Bibliothèque multi-modèles pour images, vidéo, 3D et audio",
+      "Entraînement de styles, agents et workflows",
+      "API, MCP et génération d'annonces jouables selon disponibilité"
+    ],
+    "featuresEn": [
+      "Multi-model image, video, 3D and audio generation",
+      "Style training, creative agents and workflows",
+      "APIs, MCP and availability-dependent playable ads"
+    ],
+    "accessFr": "Web, plugins, API et/ou moteurs selon offre",
+    "accessEn": "Web, plugins, APIs and/or engines by plan",
+    "officialSources": [
+      {
+        "url": "https://layer.ai/about",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://layer.ai/features",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme créative d'entreprise pour studios de jeux, générant et éditant images, vidéos, objets 3D, audio et créations publicitaires dans des workflows coordonnés.",
+      "audiences": [
+        "Studios de jeux et équipes artistiques",
+        "Équipes pédagogiques concevant des expériences interactives"
+      ],
+      "cases": [
+        "Créer des variantes cohérentes d'illustrations et de publicités pour un jeu tout en préservant le style du studio.",
+        "Tester le comportement du résultat dans le moteur et sur les appareils réels avec des utilisateurs représentatifs."
+      ],
+      "advantages": [
+        "Bibliothèque multi-modèles pour images, vidéo, 3D et audio",
+        "Entraînement de styles, agents et workflows",
+        "API, MCP et génération d'annonces jouables selon disponibilité"
+      ],
+      "limits": [
+        "Layer se facture à l'usage en Creative Units ; les coûts de modèles varient. Les fonctionnalités d'annonces jouables interactives peuvent être déployées progressivement : vérifier leur disponibilité plutôt que supposer toute sortie HTML prête.",
+        "Les sorties IA nécessitent contrôle éditorial, vérification de droits et tests de stabilité, de cohérence et de sécurité avant diffusion."
+      ],
+      "gettingStarted": [
+        "Définir un cas d'usage testable : PNJ interactif, narration, création d'actifs ou jeu jouable.",
+        "Créer un prototype limité et vérifier les exports, permissions, coûts d'exécution et compatibilité avec le moteur cible."
+      ],
+      "examples": [
+        "Conçois un personnage avec personnalité, objectifs, limites narratives et règles d'escalade en cas de demande hors univers.",
+        "Prépare une grille de test : cohérence des réponses, temps de latence, qualité du rendu, droits sur les voix et coût par session."
+      ],
+      "pricing": "Vérifier les crédits de génération, coûts de voix ou d'inférence, accès SDK/API, exports, sièges et licences commerciales selon le fournisseur.",
+      "privacy": "Contrôler les droits sur personnages, voix, performances, images et jeux de données ; limiter les données des joueurs, prévoir consentement et vérifier les règles de conservation.",
+      "selection": [
+        "Comparer Layer AI selon le besoin (studio_assets), les formats exportables, l'intégration au moteur, les contrôles créatifs, les licences et les coûts."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://layer.ai/about",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://layer.ai/features",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "ready-player-me": {
+    "descriptionFr": "Ancienne plateforme de création d'avatars 3D interopérables pour jeux et mondes virtuels, acquise par Netflix ; ses services publics et API ont fermé le 31 janvier 2026.",
+    "descriptionEn": "Former cross-game 3D avatar platform acquired by Netflix; its public avatar creator and developer APIs closed on January 31, 2026.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Créateur d'avatars interopérables (historique)",
+      "Exports glTF/GLB et SDK de jeux (historique)",
+      "Arrêt des services hébergés et API publiques"
+    ],
+    "featuresEn": [
+      "Historical interoperable avatar creator",
+      "Historical glTF/GLB export and game SDKs",
+      "Public hosted creator and APIs discontinued"
+    ],
+    "accessFr": "Service fermé — fiche historique",
+    "accessEn": "Closed service — historical entry",
+    "officialSources": [],
+    "research": {
+      "headline": "Ancienne plateforme de création d'avatars 3D interopérables pour jeux et mondes virtuels, acquise par Netflix ; ses services publics et API ont fermé le 31 janvier 2026.",
+      "audiences": [
+        "Lecteurs documentant les anciens outils d'IA pour les jeux",
+        "Équipes pédagogiques concevant des expériences interactives"
+      ],
+      "cases": [
+        "Consulter la fiche comme référence historique, puis sélectionner une plateforme d'avatars active pour un projet.",
+        "Tester le comportement du résultat dans le moteur et sur les appareils réels avec des utilisateurs représentatifs."
+      ],
+      "advantages": [
+        "Créateur d'avatars interopérables (historique)",
+        "Exports glTF/GLB et SDK de jeux (historique)",
+        "Arrêt des services hébergés et API publiques"
+      ],
+      "limits": [
+        "Après l'acquisition de décembre 2025, Ready Player Me a retiré son éditeur hébergé, PlayerZero et ses API publiques au 31 janvier 2026. Les avatars GLB déjà exportés peuvent encore être exploités sous réserve des licences, mais aucun nouveau compte ni export API n'est proposé par le service originel.",
+        "Les sorties IA nécessitent contrôle éditorial, vérification de droits et tests de stabilité, de cohérence et de sécurité avant diffusion."
+      ],
+      "gettingStarted": [
+        "Conserver la fiche historique et sélectionner un service opérationnel si un nouvel actif ou avatar est nécessaire.",
+        "Créer un prototype limité et vérifier les exports, permissions, coûts d'exécution et compatibilité avec le moteur cible."
+      ],
+      "examples": [
+        "Conçois un personnage avec personnalité, objectifs, limites narratives et règles d'escalade en cas de demande hors univers.",
+        "Prépare une grille de test : cohérence des réponses, temps de latence, qualité du rendu, droits sur les voix et coût par session."
+      ],
+      "pricing": "Ancien service fermé : aucun nouvel abonnement opérationnel.",
+      "privacy": "Contrôler les droits sur personnages, voix, performances, images et jeux de données ; limiter les données des joueurs, prévoir consentement et vérifier les règles de conservation.",
+      "selection": [
+        "Comparer Ready Player Me selon le besoin (historical), les formats exportables, l'intégration au moteur, les contrôles créatifs, les licences et les coûts."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "discontinued",
+      "evidence": "reputable_secondary_and_legal_counsel",
+      "sources": [
+        {
+          "url": "https://www.cobalt.legal/news-cases/netflix-acquired-gaming-avatar-maker-ready-player-me/",
+          "type": "secondary",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://avatarsdk.com/blog/2026/07/07/ready-player-me-migration-guide/",
+          "type": "secondary",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "secondary_confirmed_discontinued",
+    "url": "",
+    "availabilityStatus": "discontinued"
+  },
+  "charisma-ai": {
+    "descriptionFr": "Éditeur de récits et personnages interactifs avec scénarios branchés, dialogues, conditions et SDK pour sites, applications ou moteurs de jeux.",
+    "descriptionEn": "Interactive story and character editor using branching narratives, dialogue, conditions and SDKs for sites, apps and game engines.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Éditeur visuel de scènes et sous-intrigues",
+      "Web Comic Story et Pro Story avec évènements",
+      "SDKs et intégration Unreal"
+    ],
+    "featuresEn": [
+      "Visual scene and subplot editor",
+      "Web Comic Story and event-driven Pro Story",
+      "SDKs and Unreal integration"
+    ],
+    "accessFr": "Web, plugins, API et/ou moteurs selon offre",
+    "accessEn": "Web, plugins, APIs and/or engines by plan",
+    "officialSources": [
+      {
+        "url": "https://docs.charisma.ai/quick-start",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://docs.charisma.ai/plug-n-play/unreal-engine",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Éditeur de récits et personnages interactifs avec scénarios branchés, dialogues, conditions et SDK pour sites, applications ou moteurs de jeux.",
+      "audiences": [
+        "Game designers, artistes et créateurs de personnages",
+        "Équipes pédagogiques concevant des expériences interactives"
+      ],
+      "cases": [
+        "Créer une enquête narrative à plusieurs choix avec un personnage qui adapte ses répliques à l'état du joueur.",
+        "Tester le comportement du résultat dans le moteur et sur les appareils réels avec des utilisateurs représentatifs."
+      ],
+      "advantages": [
+        "Éditeur visuel de scènes et sous-intrigues",
+        "Web Comic Story et Pro Story avec évènements",
+        "SDKs et intégration Unreal"
+      ],
+      "limits": [
+        "Les crédits de lecture sont imputés au quota de la licence. Les scénarios Pro Story exigent une intégration et une logique d'évènements adaptée au jeu ; vérifier qualité, contrôle narratif et modération des dialogues.",
+        "Les sorties IA nécessitent contrôle éditorial, vérification de droits et tests de stabilité, de cohérence et de sécurité avant diffusion."
+      ],
+      "gettingStarted": [
+        "Définir un cas d'usage testable : PNJ interactif, narration, création d'actifs ou jeu jouable.",
+        "Créer un prototype limité et vérifier les exports, permissions, coûts d'exécution et compatibilité avec le moteur cible."
+      ],
+      "examples": [
+        "Conçois un personnage avec personnalité, objectifs, limites narratives et règles d'escalade en cas de demande hors univers.",
+        "Prépare une grille de test : cohérence des réponses, temps de latence, qualité du rendu, droits sur les voix et coût par session."
+      ],
+      "pricing": "Vérifier les crédits de génération, coûts de voix ou d'inférence, accès SDK/API, exports, sièges et licences commerciales selon le fournisseur.",
+      "privacy": "Contrôler les droits sur personnages, voix, performances, images et jeux de données ; limiter les données des joueurs, prévoir consentement et vérifier les règles de conservation.",
+      "selection": [
+        "Comparer Charisma AI selon le besoin (interactive_story), les formats exportables, l'intégration au moteur, les contrôles créatifs, les licences et les coûts."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.charisma.ai/quick-start",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://docs.charisma.ai/plug-n-play/unreal-engine",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "replica-studios": {
+    "descriptionFr": "Ancien service de voix synthétiques pour jeux, films et animations ; l'éditeur a officiellement annoncé la fin de Replica Studios en 2025.",
+    "descriptionEn": "Former AI voice production service for games, films and animation; its own site officially announced the end of Replica Studios in 2025.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Voix synthétiques de personnages (historique)",
+      "Doublage et répliques de jeux (historique)",
+      "Service fermé ; aucune nouvelle production garantie"
+    ],
+    "featuresEn": [
+      "Historical character voice synthesis",
+      "Historical game dialogue and dubbing",
+      "Service closed; no new production offering"
+    ],
+    "accessFr": "Service fermé — fiche historique",
+    "accessEn": "Closed service — historical entry",
+    "officialSources": [
+      {
+        "url": "https://www.replicastudios.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Ancien service de voix synthétiques pour jeux, films et animations ; l'éditeur a officiellement annoncé la fin de Replica Studios en 2025.",
+      "audiences": [
+        "Lecteurs documentant les anciens outils d'IA pour les jeux",
+        "Équipes pédagogiques concevant des expériences interactives"
+      ],
+      "cases": [
+        "Documenter l'ancien service et comparer les solutions de voix IA actuellement disponibles avant de lancer une production.",
+        "Tester le comportement du résultat dans le moteur et sur les appareils réels avec des utilisateurs représentatifs."
+      ],
+      "advantages": [
+        "Voix synthétiques de personnages (historique)",
+        "Doublage et répliques de jeux (historique)",
+        "Service fermé ; aucune nouvelle production garantie"
+      ],
+      "limits": [
+        "La page officielle affiche « Replica Studios has officially signed off » avec une signature 2025 ; le service ne doit pas être recommandé comme actif. Les voix historiques exigent une vérification des licences et autorisations d'utilisation.",
+        "Les sorties IA nécessitent contrôle éditorial, vérification de droits et tests de stabilité, de cohérence et de sécurité avant diffusion."
+      ],
+      "gettingStarted": [
+        "Conserver la fiche historique et sélectionner un service opérationnel si un nouvel actif ou avatar est nécessaire.",
+        "Créer un prototype limité et vérifier les exports, permissions, coûts d'exécution et compatibilité avec le moteur cible."
+      ],
+      "examples": [
+        "Conçois un personnage avec personnalité, objectifs, limites narratives et règles d'escalade en cas de demande hors univers.",
+        "Prépare une grille de test : cohérence des réponses, temps de latence, qualité du rendu, droits sur les voix et coût par session."
+      ],
+      "pricing": "Ancien service fermé : aucun nouvel abonnement opérationnel.",
+      "privacy": "Contrôler les droits sur personnages, voix, performances, images et jeux de données ; limiter les données des joueurs, prévoir consentement et vérifier les règles de conservation.",
+      "selection": [
+        "Comparer Replica Studios selon le besoin (historical), les formats exportables, l'intégration au moteur, les contrôles créatifs, les licences et les coûts."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "discontinued",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.replicastudios.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_discontinued",
+    "url": "",
+    "availabilityStatus": "discontinued"
+  },
+  "unity-muse": {
+    "descriptionFr": "Unity Muse est un ancien produit IA abandonné ; Unity propose désormais d'autres outils IA dans l'éditeur, une passerelle de modèles, un plugin, un serveur MCP et une CLI.",
+    "descriptionEn": "Unity Muse is deprecated; Unity now offers separate AI tools including an in-editor assistant, model gateway, plugin, MCP server and CLI.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Unity Muse : ancienne offre retirée",
+      "Assistant IA contextuel dans l'éditeur Unity 6",
+      "AI Gateway, plugin, MCP, CLI et génération d'actifs"
+    ],
+    "featuresEn": [
+      "Legacy Unity Muse deprecated",
+      "Context-aware AI assistant in Unity 6 Editor",
+      "AI Gateway, plugin, MCP, CLI and asset generation"
+    ],
+    "accessFr": "Muse abandonné — nouveaux outils IA Unity à installer",
+    "accessEn": "Muse deprecated — install newer Unity AI tools",
+    "officialSources": [
+      {
+        "url": "https://unity.com/features/ai",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://unity.com/blog/unity-ai-how-to-get-started",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Unity Muse est un ancien produit IA abandonné ; Unity propose désormais d'autres outils IA dans l'éditeur, une passerelle de modèles, un plugin, un serveur MCP et une CLI.",
+      "audiences": [
+        "Game designers, artistes et créateurs de personnages",
+        "Équipes pédagogiques concevant des expériences interactives"
+      ],
+      "cases": [
+        "Évaluer les nouveaux outils IA de Unity pour générer une ébauche de scène et vérifier manuellement scripts, assets et métadonnées.",
+        "Tester le comportement du résultat dans le moteur et sur les appareils réels avec des utilisateurs représentatifs."
+      ],
+      "advantages": [
+        "Unity Muse : ancienne offre retirée",
+        "Assistant IA contextuel dans l'éditeur Unity 6",
+        "AI Gateway, plugin, MCP, CLI et génération d'actifs"
+      ],
+      "limits": [
+        "Unity précise que les nouveaux outils ne sont pas Unity Muse : ils utilisent une architecture différente et des modèles tiers. Ils nécessitent une installation volontaire et certaines fonctions sont en bêta ou facturées en crédits. Examiner les droits d'usage des actifs générés.",
+        "Les sorties IA nécessitent contrôle éditorial, vérification de droits et tests de stabilité, de cohérence et de sécurité avant diffusion."
+      ],
+      "gettingStarted": [
+        "Ne pas installer Muse ; examiner les nouveaux outils IA Unity en vérifiant leur disponibilité et les termes de bêta.",
+        "Créer un prototype limité et vérifier les exports, permissions, coûts d'exécution et compatibilité avec le moteur cible."
+      ],
+      "examples": [
+        "Conçois un personnage avec personnalité, objectifs, limites narratives et règles d'escalade en cas de demande hors univers.",
+        "Prépare une grille de test : cohérence des réponses, temps de latence, qualité du rendu, droits sur les voix et coût par session."
+      ],
+      "pricing": "Vérifier les crédits de génération, coûts de voix ou d'inférence, accès SDK/API, exports, sièges et licences commerciales selon le fournisseur.",
+      "privacy": "Contrôler les droits sur personnages, voix, performances, images et jeux de données ; limiter les données des joueurs, prévoir consentement et vérifier les règles de conservation.",
+      "selection": [
+        "Comparer Unity Muse selon le besoin (deprecated_successor), les formats exportables, l'intégration au moteur, les contrôles créatifs, les licences et les coûts."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "deprecated_with_distinct_current_tools",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://unity.com/features/ai",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://unity.com/blog/unity-ai-how-to-get-started",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_legacy_deprecated",
+    "name": "Unity Muse (historique) / Outils IA Unity",
+    "url": "https://unity.com/features/ai"
+  },
+  "nvidia-ace": {
+    "descriptionFr": "Suite NVIDIA ACE pour personnages autonomes et conversationnels dans les jeux, combinant reconnaissance vocale, modèles locaux, génération de parole et animation.",
+    "descriptionEn": "NVIDIA ACE technology suite for autonomous conversational game characters combining speech recognition, on-device models, speech generation and animation.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Game Agent SDK avec APIs Agent, Chat et RAG",
+      "Plugins Unreal Engine 5 et modèles sur appareil",
+      "Voix, animation, compréhension et gestion du contexte du jeu"
+    ],
+    "featuresEn": [
+      "Game Agent SDK with Agent, Chat and RAG APIs",
+      "Unreal Engine 5 plugins and on-device models",
+      "Voice, animation, understanding and game-context grounding"
+    ],
+    "accessFr": "SDKs et intégrations compatibles NVIDIA",
+    "accessEn": "NVIDIA-compatible SDKs and integrations",
+    "officialSources": [
+      {
+        "url": "https://developer.nvidia.com/ace-for-games",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://developer.nvidia.com/blog/build-on-device-ai-companions-with-the-nvidia-ace-game-agent-sdk-and-unreal-engine-5-plugins/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Suite NVIDIA ACE pour personnages autonomes et conversationnels dans les jeux, combinant reconnaissance vocale, modèles locaux, génération de parole et animation.",
+      "audiences": [
+        "Développeurs de jeux et d'expériences XR",
+        "Équipes pédagogiques concevant des expériences interactives"
+      ],
+      "cases": [
+        "Créer un PNJ allié qui comprend les consignes du joueur, accède aux règles de la partie et réagit localement.",
+        "Tester le comportement du résultat dans le moteur et sur les appareils réels avec des utilisateurs représentatifs."
+      ],
+      "advantages": [
+        "Game Agent SDK avec APIs Agent, Chat et RAG",
+        "Plugins Unreal Engine 5 et modèles sur appareil",
+        "Voix, animation, compréhension et gestion du contexte du jeu"
+      ],
+      "limits": [
+        "Les SDK et modèles locaux exigent du matériel et des intégrations compatibles ; vérifier coûts matériels, VRAM, performance, modération du contenu et stabilité sur l'appareil cible. Les exemples de jeux sont des démonstrations, pas une prise en charge universelle.",
+        "Les sorties IA nécessitent contrôle éditorial, vérification de droits et tests de stabilité, de cohérence et de sécurité avant diffusion."
+      ],
+      "gettingStarted": [
+        "Définir un cas d'usage testable : PNJ interactif, narration, création d'actifs ou jeu jouable.",
+        "Créer un prototype limité et vérifier les exports, permissions, coûts d'exécution et compatibilité avec le moteur cible."
+      ],
+      "examples": [
+        "Conçois un personnage avec personnalité, objectifs, limites narratives et règles d'escalade en cas de demande hors univers.",
+        "Prépare une grille de test : cohérence des réponses, temps de latence, qualité du rendu, droits sur les voix et coût par session."
+      ],
+      "pricing": "Vérifier les crédits de génération, coûts de voix ou d'inférence, accès SDK/API, exports, sièges et licences commerciales selon le fournisseur.",
+      "privacy": "Contrôler les droits sur personnages, voix, performances, images et jeux de données ; limiter les données des joueurs, prévoir consentement et vérifier les règles de conservation.",
+      "selection": [
+        "Comparer NVIDIA ACE selon le besoin (game_agent_sdk), les formats exportables, l'intégration au moteur, les contrôles créatifs, les licences et les coûts."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://developer.nvidia.com/ace-for-games",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://developer.nvidia.com/blog/build-on-device-ai-companions-with-the-nvidia-ace-game-agent-sdk-and-unreal-engine-5-plugins/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  }
+}
