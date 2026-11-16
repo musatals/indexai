@@ -1377,16 +1377,59 @@
     ]
   },
   "OpusClip": {
-    "descriptionFr": "Outil de transformation de longues vidéos en extraits courts adaptés aux plateformes sociales.",
-    "descriptionEn": "Tool for turning long videos into short social-media clips.",
+    "descriptionFr": "Transformation de vidéos longues en clips courts avec recadrage automatique, sous-titres animés et édition.",
+    "descriptionEn": "Long-form video repurposing into short clips with automatic reframing, animated captions and editing.",
     "descriptionStatus": "editorial",
-    "editorialDate": "2026-11-15"
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Découpage automatique",
+      "Recadrage intelligent",
+      "Sous-titres et éditions"
+    ],
+    "featuresEn": [
+      "Automatic clipping",
+      "Smart reframing",
+      "Captions and editing"
+    ],
+    "accessFr": "Web et applications selon service",
+    "accessEn": "Web and apps depending on service",
+    "officialSources": [
+      {
+        "url": "https://www.opus.pro/learning-center",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://www.opus.pro/pricing",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
   },
   "VEED": {
-    "descriptionFr": "Éditeur vidéo en ligne intégrant sous-titrage, enregistrement et fonctions IA.",
-    "descriptionEn": "Online video editor with captions, recording and AI features.",
+    "descriptionFr": "Éditeur vidéo en ligne intégrant sous-titrage automatique, transcription et outils IA.",
+    "descriptionEn": "Online video editor with automatic subtitles, transcripts and AI tools.",
     "descriptionStatus": "editorial",
-    "editorialDate": "2026-11-15"
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Sous-titres automatiques",
+      "Détection des locuteurs selon forfait",
+      "Montage web"
+    ],
+    "featuresEn": [
+      "Automatic subtitles",
+      "Speaker detection by plan",
+      "Web editing"
+    ],
+    "accessFr": "Web et applications selon service",
+    "accessEn": "Web and apps depending on service",
+    "officialSources": [
+      {
+        "url": "https://support.veed.io/en/articles/11172739-how-to-add-subtitles-to-your-video-automatically",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
   },
   "Synthesia": {
     "descriptionFr": "Plateforme de vidéos avec avatars numériques, conçue notamment pour la formation et la communication.",
@@ -4624,6 +4667,336 @@
         "url": "https://wan.video/",
         "checkedAt": "2026-11-16",
         "scope": "limited_product_context"
+      }
+    ]
+  },
+  "Kapwing": {
+    "descriptionFr": "Éditeur vidéo collaboratif dans le navigateur avec sous-titres, suppression des silences et outils IA.",
+    "descriptionEn": "Collaborative browser-based video editor with captions, silence removal and AI tools.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Sous-titres synchronisés",
+      "Smart Cut",
+      "Redimensionnement et montage collaboratif"
+    ],
+    "featuresEn": [
+      "Synced subtitles",
+      "Smart Cut",
+      "Resizing and collaborative editing"
+    ],
+    "accessFr": "Web et applications selon service",
+    "accessEn": "Web and apps depending on service",
+    "officialSources": [
+      {
+        "url": "https://www.kapwing.com/start",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://www.kapwing.com/resources/how-to-use-chatgpt-to-edit-videos/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "InVideo": {
+    "descriptionFr": "Éditeur vidéo en navigateur doté d'un assistant agentique pouvant sélectionner les plans et travailler sur une timeline multipiste.",
+    "descriptionEn": "Browser video editor with an agentic assistant for footage selection and multitrack timeline editing.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Montage piloté en langage naturel",
+      "Première coupe éditable",
+      "Gestion multipiste et multicaméra"
+    ],
+    "featuresEn": [
+      "Natural-language editing",
+      "Editable first cut",
+      "Multitrack and multicamera workflows"
+    ],
+    "accessFr": "Web et applications selon service",
+    "accessEn": "Web and apps depending on service",
+    "officialSources": [
+      {
+        "url": "https://invideo.io/news/introducing-invideo-editor/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "Wisecut": {
+    "descriptionFr": "Outil de montage automatique à partir de la parole, avec découpage et sous-titres.",
+    "descriptionEn": "Speech-driven automatic video editor with automatic cuts and subtitles.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Détection de parole",
+      "Coupes automatiques",
+      "Sous-titrage"
+    ],
+    "featuresEn": [
+      "Speech detection",
+      "Automatic cuts",
+      "Subtitling"
+    ],
+    "accessFr": "Web et applications selon service",
+    "accessEn": "Web and apps depending on service",
+    "officialSources": [
+      {
+        "url": "https://help.wisecut.video/article/error-when-creating-a-project-on-wisecut",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "Vizard": {
+    "descriptionFr": "Outil de réutilisation de vidéos avec extraction de clips, analyse multimodale et AI Edit.",
+    "descriptionEn": "Video repurposing tool with clip extraction, multimodal analysis and AI Edit.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Repérage de moments forts",
+      "Clips sur prompt",
+      "AI Edit pour vidéos verticales"
+    ],
+    "featuresEn": [
+      "Highlights detection",
+      "Prompt-based clips",
+      "AI Edit for vertical videos"
+    ],
+    "accessFr": "Web et applications selon service",
+    "accessEn": "Web and apps depending on service",
+    "officialSources": [
+      {
+        "url": "https://help.vizard.ai/en/articles/9905409-what-is-spark-1-0",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://help.vizard.ai/en/articles/16658532-what-is-ai-edit",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "Captions": {
+    "descriptionFr": "Outil de montage IA pour vidéos parlées, proposant montage automatique, sous-titres et éléments visuels.",
+    "descriptionEn": "AI editing for talking-head videos with automated cuts, captions and visual elements.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Montage AI Edit",
+      "Sous-titres stylisés",
+      "Transitions et plans B-roll"
+    ],
+    "featuresEn": [
+      "AI Edit",
+      "Styled captions",
+      "Transitions and B-roll"
+    ],
+    "accessFr": "Web et applications selon service",
+    "accessEn": "Web and apps depending on service",
+    "officialSources": [
+      {
+        "url": "https://captions.ai/help/docs/project/ai-edit",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "Submagic": {
+    "descriptionFr": "Plateforme de sous-titrage et de finition de clips courts pour les réseaux sociaux.",
+    "descriptionEn": "Short-form video captioning and finishing platform for social media.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Sous-titres vidéo",
+      "Mise en forme des clips",
+      "Outils de montage court"
+    ],
+    "featuresEn": [
+      "Video captions",
+      "Short-clip styling",
+      "Short-form editing tools"
+    ],
+    "accessFr": "Web et applications selon service",
+    "accessEn": "Web and apps depending on service",
+    "officialSources": [
+      {
+        "url": "https://www.submagic.co/",
+        "checkedAt": "2026-11-16",
+        "scope": "limited_product_context"
+      }
+    ]
+  },
+  "Filmora": {
+    "descriptionFr": "Logiciel Wondershare de montage vidéo avec Smart Short Clips, coupes intelligentes et outils IA.",
+    "descriptionEn": "Wondershare video editor with Smart Short Clips, intelligent cutting and AI tools.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Smart Short Clips",
+      "Montage multicaméra",
+      "Effets et montage assistés"
+    ],
+    "featuresEn": [
+      "Smart Short Clips",
+      "Multicamera editing",
+      "AI-assisted effects and editing"
+    ],
+    "accessFr": "Applications de montage et services associés",
+    "accessEn": "Editing applications and related services",
+    "officialSources": [
+      {
+        "url": "https://filmora.wondershare.com/guide/smart-short-clips.html",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://filmora.wondershare.com/whats-new-in-filmora-video-editor.html",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "Adobe Premiere Pro": {
+    "descriptionFr": "Montage vidéo professionnel avec sous-titrage, amélioration audio et extension générative de plans via Firefly.",
+    "descriptionEn": "Professional editing with captions, audio enhancement and Firefly-powered generative clip extension.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Generative Extend",
+      "Transcription et sous-titres",
+      "Montage professionnel"
+    ],
+    "featuresEn": [
+      "Generative Extend",
+      "Transcription and captions",
+      "Professional editing"
+    ],
+    "accessFr": "Applications de montage et services associés",
+    "accessEn": "Editing applications and related services",
+    "officialSources": [
+      {
+        "url": "https://helpx.adobe.com/premiere/desktop/edit-projects/edit-with-generative-ai/generative-extend-overview.html",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://helpx.adobe.com/premiere/desktop/edit-projects/edit-with-generative-ai/generative-extend-faq.html",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "DaVinci Resolve": {
+    "descriptionFr": "Suite professionnelle de montage, étalonnage, son et effets, avec outils Neural Engine principalement dans Studio.",
+    "descriptionEn": "Professional editing, grading, audio and effects suite with Neural Engine features largely in Studio.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Montage et étalonnage",
+      "Fairlight et Fusion",
+      "Neural Engine selon édition"
+    ],
+    "featuresEn": [
+      "Editing and grading",
+      "Fairlight and Fusion",
+      "Neural Engine by edition"
+    ],
+    "accessFr": "Applications de montage et services associés",
+    "accessEn": "Editing applications and related services",
+    "officialSources": [
+      {
+        "url": "https://www.blackmagicdesign.com/products/davinciresolve",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://documents.blackmagicdesign.com/SupportNotes/DaVinci_Resolve_Studio_21_Features.pdf",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "Riverside": {
+    "descriptionFr": "Plateforme d'enregistrement et de montage de podcasts et vidéos avec édition par transcription et Magic Clips.",
+    "descriptionEn": "Podcast and video recording/editing with transcript-based editing and Magic Clips.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Montage par transcription",
+      "Magic Clips",
+      "Sous-titres et enregistrement"
+    ],
+    "featuresEn": [
+      "Transcript-based editing",
+      "Magic Clips",
+      "Captions and recording"
+    ],
+    "accessFr": "Web et applications selon service",
+    "accessEn": "Web and apps depending on service",
+    "officialSources": [
+      {
+        "url": "https://riverside.fm/video-editor",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://riverside.fm/magic-clips",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "Munch": {
+    "descriptionFr": "Service de découpage de vidéos longues en extraits courts assisté par IA, destiné à la communication.",
+    "descriptionEn": "AI-assisted repurposing of long videos into short marketing clips.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Extraction de clips",
+      "Format réseaux sociaux",
+      "Assistance IA"
+    ],
+    "featuresEn": [
+      "Clip extraction",
+      "Social formats",
+      "AI assistance"
+    ],
+    "accessFr": "Web et applications selon service",
+    "accessEn": "Web and apps depending on service",
+    "officialSources": [
+      {
+        "url": "https://www.getmunch.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "limited_product_context"
+      }
+    ]
+  },
+  "Choppity": {
+    "descriptionFr": "Outil de production de clips par IA avec recherche de moments, montage textuel et recadrage automatique.",
+    "descriptionEn": "AI clip creation with moment search, text editing and automatic reframing.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Sélection automatique de moments",
+      "Montage textuel",
+      "Sous-titres et suivi du locuteur"
+    ],
+    "featuresEn": [
+      "Automatic moment selection",
+      "Text-based editing",
+      "Captions and speaker tracking"
+    ],
+    "accessFr": "Web et applications selon service",
+    "accessEn": "Web and apps depending on service",
+    "officialSources": [
+      {
+        "url": "https://help.choppity.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
       }
     ]
   }
