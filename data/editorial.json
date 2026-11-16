@@ -1246,16 +1246,59 @@
     "editorialDate": "2026-11-15"
   },
   "Kling AI": {
-    "descriptionFr": "Plateforme de génération de vidéos et d’images fondée sur les modèles Kling.",
-    "descriptionEn": "Image and video generation platform using Kling models.",
+    "descriptionFr": "Plateforme de génération vidéo et image par IA, avec création à partir de texte ou de références visuelles.",
+    "descriptionEn": "AI video and image generation platform with text and visual-reference inputs.",
     "descriptionStatus": "editorial",
-    "editorialDate": "2026-11-15"
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Vidéo depuis texte ou image",
+      "Contrôle des références selon modèle",
+      "Génération de plans courts"
+    ],
+    "featuresEn": [
+      "Text or image to video",
+      "Model-dependent reference controls",
+      "Short video clips"
+    ],
+    "accessFr": "Web et intégrations selon formule",
+    "accessEn": "Web and integrations by plan",
+    "officialSources": [
+      {
+        "url": "https://klingai.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "limited_product_context"
+      }
+    ]
   },
   "Veo": {
-    "descriptionFr": "Famille de modèles de génération de vidéos développée par Google.",
-    "descriptionEn": "Google’s video generation model family.",
+    "descriptionFr": "Famille de modèles de génération vidéo Google DeepMind avec références visuelles, contrôles caméra et fonctions audio selon version.",
+    "descriptionEn": "Google DeepMind video models with image references, camera controls and version-dependent audio.",
     "descriptionStatus": "editorial",
-    "editorialDate": "2026-11-15"
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Génération vidéo guidée",
+      "Images de référence et cohérence",
+      "Contrôle caméra et extension de plans"
+    ],
+    "featuresEn": [
+      "Guided video generation",
+      "Image references and consistency",
+      "Camera control and clip extension"
+    ],
+    "accessFr": "Via produits et API partenaires",
+    "accessEn": "Through supported products and APIs",
+    "officialSources": [
+      {
+        "url": "https://deepmind.google/models/veo/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://deepmind.google/models/model-cards/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
   },
   "Sora": {
     "descriptionFr": "Outil de création de vidéos à partir de consignes et d’éléments visuels, développé par OpenAI.",
@@ -4276,6 +4319,311 @@
         "url": "https://github.com/xinntao/Real-ESRGAN",
         "checkedAt": "2026-11-16",
         "scope": "product_documentation"
+      }
+    ]
+  },
+  "Hailuo AI": {
+    "descriptionFr": "Plateforme MiniMax de création vidéo proposant texte-vers-vidéo, image-vers-vidéo et vidéos guidées par références.",
+    "descriptionEn": "MiniMax video creation platform supporting text, image and reference-guided video.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Texte et image vers vidéo",
+      "Vidéo avec références",
+      "Choix de modèles et de formats"
+    ],
+    "featuresEn": [
+      "Text and image to video",
+      "Reference-guided video",
+      "Model and format selection"
+    ],
+    "accessFr": "Web et intégrations selon formule",
+    "accessEn": "Web and integrations by plan",
+    "officialSources": [
+      {
+        "url": "https://hailuoai.video/tools/ai-video-generator",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://hailuoai.video/doc/payment-policy.html",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "Haiper": {
+    "descriptionFr": "Outil de génération de vidéo à partir de consignes et d’images, sous réserve de la disponibilité actuelle du service.",
+    "descriptionEn": "Text and image-based AI video creation tool; current availability requires confirmation.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Animation d’images (historique)",
+      "Création de clips IA (historique)",
+      "Accès à confirmer"
+    ],
+    "featuresEn": [
+      "Image animation (historical)",
+      "AI clip creation (historical)",
+      "Availability unconfirmed"
+    ],
+    "accessFr": "Web et intégrations selon formule",
+    "accessEn": "Web and integrations by plan",
+    "officialSources": [
+      {
+        "url": "https://haiper.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "limited_product_context"
+      }
+    ]
+  },
+  "PixVerse": {
+    "descriptionFr": "Plateforme de création vidéo et d’animation avec modèles IA, images de référence, transitions, effets et API.",
+    "descriptionEn": "AI video and animation creation platform with models, references, transitions, effects and API.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Texte et image vers vidéo",
+      "Transitions et contrôle du mouvement",
+      "API et modèles multiples"
+    ],
+    "featuresEn": [
+      "Text and image to video",
+      "Transitions and motion controls",
+      "API and multiple models"
+    ],
+    "accessFr": "Web et intégrations selon formule",
+    "accessEn": "Web and integrations by plan",
+    "officialSources": [
+      {
+        "url": "https://app.pixverse.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://docs.platform.pixverse.ai/how-to-use-image-to-video-882971m0",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "Vidu": {
+    "descriptionFr": "Plateforme de création vidéo privilégiant la cohérence de personnages et scènes grâce aux références visuelles.",
+    "descriptionEn": "Video creation platform emphasizing character and scene consistency through visual references.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Reference-to-video",
+      "Animation d’images",
+      "Cohérence entre plans"
+    ],
+    "featuresEn": [
+      "Reference-to-video",
+      "Image animation",
+      "Cross-shot consistency"
+    ],
+    "accessFr": "Web et intégrations selon formule",
+    "accessEn": "Web and integrations by plan",
+    "officialSources": [
+      {
+        "url": "https://www.vidu.com/ai-reference-to-video",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://www.vidu.com/home/reference",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "Kaiber": {
+    "descriptionFr": "Suite de création vidéo et audio comprenant Canvas, Beat Sync et Editor, succédant au nom Superstudio.",
+    "descriptionEn": "Video and audio creative suite including Canvas, Beat Sync and Editor, replacing the Superstudio name.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Canvas multimodèle",
+      "Synchronisation au rythme musical",
+      "Montage et bibliothèque média"
+    ],
+    "featuresEn": [
+      "Multi-model Canvas",
+      "Music beat synchronization",
+      "Editing and media library"
+    ],
+    "accessFr": "Web et intégrations selon formule",
+    "accessEn": "Web and integrations by plan",
+    "officialSources": [
+      {
+        "url": "https://helpcenter.kaiber.ai/en/articles/7949312-noticed-some-changes-to-kaiber-heres-what-you-need-to",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "Genmo": {
+    "descriptionFr": "Laboratoire et plateforme de création vidéo proposant le modèle ouvert Mochi 1 et un Playground hébergé.",
+    "descriptionEn": "Research lab and video creation platform offering open Mochi 1 and a hosted Playground.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Mochi texte vers vidéo",
+      "Playground navigateur",
+      "Modèle téléchargeable"
+    ],
+    "featuresEn": [
+      "Mochi text to video",
+      "Browser Playground",
+      "Downloadable model"
+    ],
+    "accessFr": "Web et intégrations selon formule",
+    "accessEn": "Web and integrations by plan",
+    "officialSources": [
+      {
+        "url": "https://www.genmo.ai/help/faq",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://www.genmo.ai/about",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "Higgsfield": {
+    "descriptionFr": "Plateforme de création vidéo cinématographique avec contrôles de caméra, mouvement de référence et modèles multiples.",
+    "descriptionEn": "Cinematic video creation platform with camera controls, motion references and multiple models.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Contrôles cinématographiques DoP",
+      "Transfert de mouvement",
+      "Choix de modèles vidéo"
+    ],
+    "featuresEn": [
+      "Cinematic DoP controls",
+      "Motion transfer",
+      "Video model selection"
+    ],
+    "accessFr": "Web et intégrations selon formule",
+    "accessEn": "Web and integrations by plan",
+    "officialSources": [
+      {
+        "url": "https://higgsfield.ai/ai-video",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://higgsfield.ai/creator-hub/help-center/ai-models/how-do-i-use-dop",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "LTX Studio": {
+    "descriptionFr": "Environnement de production audiovisuelle assistée par IA, conçu pour organiser des concepts, scènes et séquences.",
+    "descriptionEn": "AI-assisted video production workspace for organizing concepts, scenes and sequences.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Préparation narrative",
+      "Création de scènes",
+      "Organisation de production"
+    ],
+    "featuresEn": [
+      "Story planning",
+      "Scene creation",
+      "Production organization"
+    ],
+    "accessFr": "Web et intégrations selon formule",
+    "accessEn": "Web and integrations by plan",
+    "officialSources": [
+      {
+        "url": "https://ltx.studio/",
+        "checkedAt": "2026-11-16",
+        "scope": "limited_product_context"
+      }
+    ]
+  },
+  "Pollo AI": {
+    "descriptionFr": "Plateforme réunissant plusieurs modèles de génération vidéo, effets, retouche et animation d’images.",
+    "descriptionEn": "Platform aggregating multiple video-generation models, effects, editing and image animation.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Création vidéo multimodèle",
+      "Image vers animation",
+      "Effets et outils vidéo"
+    ],
+    "featuresEn": [
+      "Multi-model video generation",
+      "Image animation",
+      "Video tools and effects"
+    ],
+    "accessFr": "Web et intégrations selon formule",
+    "accessEn": "Web and integrations by plan",
+    "officialSources": [
+      {
+        "url": "https://pollo.ai/video",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "Open-Sora": {
+    "descriptionFr": "Projet de recherche open source HPC-AI Tech fournissant modèles, code d’entraînement et inférence pour la vidéo générative.",
+    "descriptionEn": "HPC-AI Tech open-source research project with video models, training and inference code.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Code et modèles ouverts",
+      "Inférence et entraînement",
+      "Open-Sora 2.0 documenté"
+    ],
+    "featuresEn": [
+      "Open code and models",
+      "Inference and training",
+      "Documented Open-Sora 2.0"
+    ],
+    "accessFr": "Code et modèles à exécuter",
+    "accessEn": "Downloadable code and models",
+    "officialSources": [
+      {
+        "url": "https://github.com/hpcaitech/Open-Sora",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://github.com/hpcaitech/Open-Sora/blob/main/LICENSE",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "Wan AI": {
+    "descriptionFr": "Famille et interface de génération vidéo associée à Wan, comprenant divers modes selon le produit.",
+    "descriptionEn": "Wan-associated AI video model family and generation interface, with product-dependent modes.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Génération vidéo suivant modèles",
+      "Animation de référence selon interface",
+      "Accès variable par produit"
+    ],
+    "featuresEn": [
+      "Model-dependent video generation",
+      "Reference animation by interface",
+      "Product-dependent access"
+    ],
+    "accessFr": "Web et intégrations selon formule",
+    "accessEn": "Web and integrations by plan",
+    "officialSources": [
+      {
+        "url": "https://wan.video/",
+        "checkedAt": "2026-11-16",
+        "scope": "limited_product_context"
       }
     ]
   }
