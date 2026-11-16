@@ -1,0 +1,1405 @@
+{
+  "openevidence": {
+    "descriptionFr": "Plateforme de recherche médicale et d'aide à la consultation de preuves scientifiques réservée aux professionnels de santé vérifiés, avec citations des publications et intégrations institutionnelles.",
+    "descriptionEn": "Medical evidence search and clinical reference platform for verified healthcare professionals, with cited scientific literature and institutional integration.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Recherche clinique avec références et niveau de preuve",
+      "Sources scientifiques et recommandations partenaires",
+      "Contextual Evidence et intégrations dossier patient institutionnelles"
+    ],
+    "featuresEn": [
+      "Clinical search with citations and evidence context",
+      "Partner journals and clinical guidance",
+      "Institutional Contextual Evidence and EHR integrations"
+    ],
+    "accessFr": "Professionnels vérifiés et institutions, disponibilité selon pays",
+    "accessEn": "Verified healthcare professionals and institutions, region-dependent",
+    "officialSources": [
+      {
+        "url": "https://portal.openevidence.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.acponline.org/acp-newsroom/acp-and-openevidence-collaborate-to-enhance-physician-access-to-trusted-clinical-guidance",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de recherche médicale et d'aide à la consultation de preuves scientifiques réservée aux professionnels de santé vérifiés, avec citations des publications et intégrations institutionnelles.",
+      "audiences": [
+        "Professionnels de santé et établissements",
+        "Professionnels évaluant la fiabilité et la conformité des outils de santé"
+      ],
+      "cases": [
+        "Un médecin confronte une recommandation à la littérature originale et vérifie population, date et niveau de preuve.",
+        "Documenter l'usage prévu, les utilisateurs autorisés, les sources et les validations avant tout déploiement."
+      ],
+      "advantages": [
+        "Recherche clinique avec références et niveau de preuve",
+        "Sources scientifiques et recommandations partenaires",
+        "Contextual Evidence et intégrations dossier patient institutionnelles"
+      ],
+      "limits": [
+        "L'accès gratuit est destiné aux cliniciens américains vérifiés ; un identifiant professionnel peut être requis. Une réponse sourcée n'est pas une recommandation clinique individualisée ni un substitut aux protocoles locaux.",
+        "Les fonctions IA peuvent produire des erreurs ou omissions ; ni un score, ni une transcription, ni une référence scientifique ne remplacent le jugement d'un professionnel qualifié."
+      ],
+      "gettingStarted": [
+        "Vérifier l'usage prévu, les autorisations de l'établissement et les indications médicales ou réglementaires effectivement couvertes.",
+        "Évaluer sur des cas fictifs ou des données explicitement autorisées, consigner les erreurs et instaurer une validation humaine."
+      ],
+      "examples": [
+        "Sur la base de données de démonstration, prépare un rapport de validation indiquant sources, résultats incertains et points à contrôler manuellement.",
+        "Établis une liste d'exigences de conformité : protection des données, contrôle médical, indications, interopérabilité et traçabilité."
+      ],
+      "pricing": "Tarifs, contrats établissements, intégrations EHR/PACS, utilisateurs, usage et déploiement sur devis ou selon les plans officiels.",
+      "privacy": "Données de santé sensibles : déterminer base légale, consentements appropriés, résidence, sous-traitants, sécurité, conservation, droits d'accès et interdiction de chargement de dossiers identifiants sans autorisation.",
+      "selection": [
+        "Évaluer OpenEvidence selon l'usage (clinical_reference), l'indication et le territoire réglementaires, les preuves cliniques, les intégrations et la supervision humaine."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "verified_us_clinicians",
+      "evidence": "official_and_regulatory_sources",
+      "sources": [
+        {
+          "url": "https://portal.openevidence.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.acponline.org/acp-newsroom/acp-and-openevidence-collaborate-to-enhance-physician-access-to-trusted-clinical-guidance",
+          "type": "professional_association",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_access_restricted"
+  },
+  "abridge": {
+    "descriptionFr": "Plateforme d'intelligence clinique issue des conversations de soins, associant comptes rendus médicaux, contexte de dossier et Abridge Assistant pour les professionnels.",
+    "descriptionEn": "Clinical intelligence platform based on care conversations, providing medical notes, chart context and Abridge Assistant for clinicians.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Notes de consultation issues d'une capture ambiante",
+      "Contextualisation des documents dans les EHR",
+      "Abridge Assistant pour questions et tâches en langage naturel"
+    ],
+    "featuresEn": [
+      "Ambient encounter notes",
+      "EHR-integrated clinical context",
+      "Natural-language Abridge Assistant for clinical tasks"
+    ],
+    "accessFr": "Établissements, comptes professionnels ou abonnement clinique",
+    "accessEn": "Clinical organizations, professional accounts or subscriptions",
+    "officialSources": [
+      {
+        "url": "https://www.abridge.com/blog/abridge-assistant-is-the-ai-assistant-for-healthcare",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.abridge.com/press-release/va-enterprise-contract",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme d'intelligence clinique issue des conversations de soins, associant comptes rendus médicaux, contexte de dossier et Abridge Assistant pour les professionnels.",
+      "audiences": [
+        "Cliniciens, secrétariats médicaux et équipes EHR",
+        "Professionnels évaluant la fiabilité et la conformité des outils de santé"
+      ],
+      "cases": [
+        "Après une consultation autorisée, le clinicien relit un brouillon de compte rendu puis corrige les omissions avant validation.",
+        "Documenter l'usage prévu, les utilisateurs autorisés, les sources et les validations avant tout déploiement."
+      ],
+      "advantages": [
+        "Notes de consultation issues d'une capture ambiante",
+        "Contextualisation des documents dans les EHR",
+        "Abridge Assistant pour questions et tâches en langage naturel"
+      ],
+      "limits": [
+        "L'Assistant annoncé en octobre 2026 est proposé dans les établissements clients ; ses actions varient selon l'intégration. Le consentement à l'enregistrement et la vérification humaine des notes sont indispensables.",
+        "Les fonctions IA peuvent produire des erreurs ou omissions ; ni un score, ni une transcription, ni une référence scientifique ne remplacent le jugement d'un professionnel qualifié."
+      ],
+      "gettingStarted": [
+        "Vérifier l'usage prévu, les autorisations de l'établissement et les indications médicales ou réglementaires effectivement couvertes.",
+        "Évaluer sur des cas fictifs ou des données explicitement autorisées, consigner les erreurs et instaurer une validation humaine."
+      ],
+      "examples": [
+        "Sur la base de données de démonstration, prépare un rapport de validation indiquant sources, résultats incertains et points à contrôler manuellement.",
+        "Établis une liste d'exigences de conformité : protection des données, contrôle médical, indications, interopérabilité et traçabilité."
+      ],
+      "pricing": "Tarifs, contrats établissements, intégrations EHR/PACS, utilisateurs, usage et déploiement sur devis ou selon les plans officiels.",
+      "privacy": "Données de santé sensibles : déterminer base légale, consentements appropriés, résidence, sous-traitants, sécurité, conservation, droits d'accès et interdiction de chargement de dossiers identifiants sans autorisation.",
+      "selection": [
+        "Évaluer Abridge selon l'usage (clinical_documentation), l'indication et le territoire réglementaires, les preuves cliniques, les intégrations et la supervision humaine."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official_and_regulatory_sources",
+      "sources": [
+        {
+          "url": "https://www.abridge.com/blog/abridge-assistant-is-the-ai-assistant-for-healthcare",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.abridge.com/press-release/va-enterprise-contract",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "nuance-dragon-copilot": {
+    "descriptionFr": "Microsoft Dragon Copilot combine dictée médicale, documentation ambiante, documents et informations cliniques, avec un parcours spécifique pour les infirmiers dans Epic Rover.",
+    "descriptionEn": "Microsoft Dragon Copilot combines clinical dictation, ambient documentation, documents and clinical information, including a nursing workflow in Epic Rover.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Notes et documents cliniques pour médecins",
+      "Capture de feuilles de soins infirmiers dans Epic Rover",
+      "Synthèse, transcription et transfert vers le dossier patient"
+    ],
+    "featuresEn": [
+      "Physician documentation and clinical letters",
+      "Nursing flowsheet capture in Epic Rover",
+      "Summaries, transcripts and EHR handoff"
+    ],
+    "accessFr": "Établissements, comptes professionnels ou abonnement clinique",
+    "accessEn": "Clinical organizations, professional accounts or subscriptions",
+    "officialSources": [
+      {
+        "url": "https://learn.microsoft.com/en-us/industry/healthcare/dragon-copilot/about/what-is-drc-nurses",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://support.microsoft.com/en-us/dragon-copilot/nurses/overview-of-the-dragon-copilot-experience-for-nurses",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://learn.microsoft.com/en-us/industry/healthcare/dragon-admin-center/physician/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Microsoft Dragon Copilot combine dictée médicale, documentation ambiante, documents et informations cliniques, avec un parcours spécifique pour les infirmiers dans Epic Rover.",
+      "audiences": [
+        "Cliniciens, secrétariats médicaux et équipes EHR",
+        "Professionnels évaluant la fiabilité et la conformité des outils de santé"
+      ],
+      "cases": [
+        "Le soignant capture des observations après consentement, puis contrôle chaque valeur suggérée avant son enregistrement dans le dossier.",
+        "Documenter l'usage prévu, les utilisateurs autorisés, les sources et les validations avant tout déploiement."
+      ],
+      "advantages": [
+        "Notes et documents cliniques pour médecins",
+        "Capture de feuilles de soins infirmiers dans Epic Rover",
+        "Synthèse, transcription et transfert vers le dossier patient"
+      ],
+      "limits": [
+        "Dans le flux infirmier, l'enregistrement se fait par Dragon Copilot pour Epic Rover, puis les données sont revues avant validation. Les nouvelles fonctions de la feuille de route de novembre 2026 ne doivent pas être présentées comme déjà déployées partout.",
+        "Les fonctions IA peuvent produire des erreurs ou omissions ; ni un score, ni une transcription, ni une référence scientifique ne remplacent le jugement d'un professionnel qualifié."
+      ],
+      "gettingStarted": [
+        "Vérifier l'usage prévu, les autorisations de l'établissement et les indications médicales ou réglementaires effectivement couvertes.",
+        "Évaluer sur des cas fictifs ou des données explicitement autorisées, consigner les erreurs et instaurer une validation humaine."
+      ],
+      "examples": [
+        "Sur la base de données de démonstration, prépare un rapport de validation indiquant sources, résultats incertains et points à contrôler manuellement.",
+        "Établis une liste d'exigences de conformité : protection des données, contrôle médical, indications, interopérabilité et traçabilité."
+      ],
+      "pricing": "Tarifs, contrats établissements, intégrations EHR/PACS, utilisateurs, usage et déploiement sur devis ou selon les plans officiels.",
+      "privacy": "Données de santé sensibles : déterminer base légale, consentements appropriés, résidence, sous-traitants, sécurité, conservation, droits d'accès et interdiction de chargement de dossiers identifiants sans autorisation.",
+      "selection": [
+        "Évaluer Nuance Dragon Copilot selon l'usage (clinical_documentation), l'indication et le territoire réglementaires, les preuves cliniques, les intégrations et la supervision humaine."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official_and_regulatory_sources",
+      "sources": [
+        {
+          "url": "https://learn.microsoft.com/en-us/industry/healthcare/dragon-copilot/about/what-is-drc-nurses",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://support.microsoft.com/en-us/dragon-copilot/nurses/overview-of-the-dragon-copilot-experience-for-nurses",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://learn.microsoft.com/en-us/industry/healthcare/dragon-admin-center/physician/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "ambience-healthcare": {
+    "descriptionFr": "Plateforme hospitalière d'intelligence clinique associant documentation ambiante, synthèses de parcours de soins, assistance au codage et contrôle des dossiers.",
+    "descriptionEn": "Healthcare intelligence platform combining ambient notes, care-course summaries, coding assistance and chart review.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Documentation et instructions spécialisées",
+      "Suggestions de codage ICD-10, HCC et E/M",
+      "Intégration aux flux Epic et aide à la conformité"
+    ],
+    "featuresEn": [
+      "Specialty-aware notes and instructions",
+      "ICD-10, HCC and E/M coding suggestions",
+      "Epic workflows and compliance assistance"
+    ],
+    "accessFr": "Établissements, comptes professionnels ou abonnement clinique",
+    "accessEn": "Clinical organizations, professional accounts or subscriptions",
+    "officialSources": [
+      {
+        "url": "https://www.ambiencehealthcare.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.ambiencehealthcare.com/acdis",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme hospitalière d'intelligence clinique associant documentation ambiante, synthèses de parcours de soins, assistance au codage et contrôle des dossiers.",
+      "audiences": [
+        "Cliniciens, secrétariats médicaux et équipes EHR",
+        "Professionnels évaluant la fiabilité et la conformité des outils de santé"
+      ],
+      "cases": [
+        "Une équipe hospitalière prépare les notes et repère les écarts de codage, puis fait vérifier l'ensemble par les cliniciens et codeurs.",
+        "Documenter l'usage prévu, les utilisateurs autorisés, les sources et les validations avant tout déploiement."
+      ],
+      "advantages": [
+        "Documentation et instructions spécialisées",
+        "Suggestions de codage ICD-10, HCC et E/M",
+        "Intégration aux flux Epic et aide à la conformité"
+      ],
+      "limits": [
+        "Les scores d'exactitude et économies affichés par l'éditeur sont dépendants des études et contrats cités, sans garantie universelle. Les propositions de codage exigent validation humaine et règles locales.",
+        "Les fonctions IA peuvent produire des erreurs ou omissions ; ni un score, ni une transcription, ni une référence scientifique ne remplacent le jugement d'un professionnel qualifié."
+      ],
+      "gettingStarted": [
+        "Vérifier l'usage prévu, les autorisations de l'établissement et les indications médicales ou réglementaires effectivement couvertes.",
+        "Évaluer sur des cas fictifs ou des données explicitement autorisées, consigner les erreurs et instaurer une validation humaine."
+      ],
+      "examples": [
+        "Sur la base de données de démonstration, prépare un rapport de validation indiquant sources, résultats incertains et points à contrôler manuellement.",
+        "Établis une liste d'exigences de conformité : protection des données, contrôle médical, indications, interopérabilité et traçabilité."
+      ],
+      "pricing": "Tarifs, contrats établissements, intégrations EHR/PACS, utilisateurs, usage et déploiement sur devis ou selon les plans officiels.",
+      "privacy": "Données de santé sensibles : déterminer base légale, consentements appropriés, résidence, sous-traitants, sécurité, conservation, droits d'accès et interdiction de chargement de dossiers identifiants sans autorisation.",
+      "selection": [
+        "Évaluer Ambience Healthcare selon l'usage (clinical_documentation), l'indication et le territoire réglementaires, les preuves cliniques, les intégrations et la supervision humaine."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official_and_regulatory_sources",
+      "sources": [
+        {
+          "url": "https://www.ambiencehealthcare.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.ambiencehealthcare.com/acdis",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "suki": {
+    "descriptionFr": "Assistant clinique et plateforme Suki OS, dévoilée le 16 novembre 2026, réunissant documentation ambiante, questions cliniques et projet d'agents de workflows de santé.",
+    "descriptionEn": "Clinical assistant and Suki OS platform announced November 16, 2026, combining ambient documentation, clinical Q&A and planned healthcare workflow agents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Suki for Clinicians : notes, résumés et dictée",
+      "Ask : questions cliniques via contenus UpToDate",
+      "Suki OS : écosystème et agents en cours de développement"
+    ],
+    "featuresEn": [
+      "Suki for Clinicians notes, summaries and dictation",
+      "Ask for clinical Q&A using UpToDate sources",
+      "Suki OS ecosystem and in-development agents"
+    ],
+    "accessFr": "Établissements, comptes professionnels ou abonnement clinique",
+    "accessEn": "Clinical organizations, professional accounts or subscriptions",
+    "officialSources": [
+      {
+        "url": "https://www.suki.ai/press-releases/suki-introduces-suki-os-an-agentic-operating-system-built-on-top-of-ambient-clinical-intelligence/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.suki.ai/os/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.suki.ai/clinicians/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Assistant clinique et plateforme Suki OS, dévoilée le 16 novembre 2026, réunissant documentation ambiante, questions cliniques et projet d'agents de workflows de santé.",
+      "audiences": [
+        "Cliniciens, secrétariats médicaux et équipes EHR",
+        "Professionnels évaluant la fiabilité et la conformité des outils de santé"
+      ],
+      "cases": [
+        "Préparer une note de consultation et contrôler une réponse clinique, sans donner aux agents projetés de pouvoir d'action réel.",
+        "Documenter l'usage prévu, les utilisateurs autorisés, les sources et les validations avant tout déploiement."
+      ],
+      "advantages": [
+        "Suki for Clinicians : notes, résumés et dictée",
+        "Ask : questions cliniques via contenus UpToDate",
+        "Suki OS : écosystème et agents en cours de développement"
+      ],
+      "limits": [
+        "Suki OS a été annoncé le 16 novembre 2026, mais ses agents Prior Authorization et CDI sont en développement et seront lancés progressivement. Ne pas les présenter comme déjà disponibles pour tous les utilisateurs.",
+        "Les fonctions IA peuvent produire des erreurs ou omissions ; ni un score, ni une transcription, ni une référence scientifique ne remplacent le jugement d'un professionnel qualifié."
+      ],
+      "gettingStarted": [
+        "Vérifier l'usage prévu, les autorisations de l'établissement et les indications médicales ou réglementaires effectivement couvertes.",
+        "Évaluer sur des cas fictifs ou des données explicitement autorisées, consigner les erreurs et instaurer une validation humaine."
+      ],
+      "examples": [
+        "Sur la base de données de démonstration, prépare un rapport de validation indiquant sources, résultats incertains et points à contrôler manuellement.",
+        "Établis une liste d'exigences de conformité : protection des données, contrôle médical, indications, interopérabilité et traçabilité."
+      ],
+      "pricing": "Tarifs, contrats établissements, intégrations EHR/PACS, utilisateurs, usage et déploiement sur devis ou selon les plans officiels.",
+      "privacy": "Données de santé sensibles : déterminer base légale, consentements appropriés, résidence, sous-traitants, sécurité, conservation, droits d'accès et interdiction de chargement de dossiers identifiants sans autorisation.",
+      "selection": [
+        "Évaluer Suki selon l'usage (clinical_documentation), l'indication et le territoire réglementaires, les preuves cliniques, les intégrations et la supervision humaine."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "new_platform_announced_agents_in_development",
+      "evidence": "official_and_regulatory_sources",
+      "sources": [
+        {
+          "url": "https://www.suki.ai/press-releases/suki-introduces-suki-os-an-agentic-operating-system-built-on-top-of-ambient-clinical-intelligence/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.suki.ai/os/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.suki.ai/clinicians/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_announced_not_fully_available"
+  },
+  "nabla": {
+    "descriptionFr": "Assistant de documentation médicale Nabla avec notes ambiantes, dictée et intégrations dans différents dossiers de santé électroniques.",
+    "descriptionEn": "Nabla clinical documentation assistant with ambient notes, medical-grade dictation and integrations across EHR systems.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Génération et export de notes structurées",
+      "Nabla Connect et intégrations multi-EHR",
+      "Dictée médicale et assistance sur appareils compatibles"
+    ],
+    "featuresEn": [
+      "Structured note generation and export",
+      "Nabla Connect and multi-EHR integrations",
+      "Medical dictation on supported devices"
+    ],
+    "accessFr": "Établissements, comptes professionnels ou abonnement clinique",
+    "accessEn": "Clinical organizations, professional accounts or subscriptions",
+    "officialSources": [
+      {
+        "url": "https://nabla.com/ehr",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.nabla.com/press",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Assistant de documentation médicale Nabla avec notes ambiantes, dictée et intégrations dans différents dossiers de santé électroniques.",
+      "audiences": [
+        "Cliniciens, secrétariats médicaux et équipes EHR",
+        "Professionnels évaluant la fiabilité et la conformité des outils de santé"
+      ],
+      "cases": [
+        "Un médecin relit un compte rendu issu d'une conversation, puis vérifie diagnostics, traitements et noms propres.",
+        "Documenter l'usage prévu, les utilisateurs autorisés, les sources et les validations avant tout déploiement."
+      ],
+      "advantages": [
+        "Génération et export de notes structurées",
+        "Nabla Connect et intégrations multi-EHR",
+        "Dictée médicale et assistance sur appareils compatibles"
+      ],
+      "limits": [
+        "Les flux d'intégration et la dictée évoluent selon le dossier médical et les appareils. Une transcription exacte n'est pas assurée ; les prescriptions et décisions doivent rester sous contrôle clinique.",
+        "Les fonctions IA peuvent produire des erreurs ou omissions ; ni un score, ni une transcription, ni une référence scientifique ne remplacent le jugement d'un professionnel qualifié."
+      ],
+      "gettingStarted": [
+        "Vérifier l'usage prévu, les autorisations de l'établissement et les indications médicales ou réglementaires effectivement couvertes.",
+        "Évaluer sur des cas fictifs ou des données explicitement autorisées, consigner les erreurs et instaurer une validation humaine."
+      ],
+      "examples": [
+        "Sur la base de données de démonstration, prépare un rapport de validation indiquant sources, résultats incertains et points à contrôler manuellement.",
+        "Établis une liste d'exigences de conformité : protection des données, contrôle médical, indications, interopérabilité et traçabilité."
+      ],
+      "pricing": "Tarifs, contrats établissements, intégrations EHR/PACS, utilisateurs, usage et déploiement sur devis ou selon les plans officiels.",
+      "privacy": "Données de santé sensibles : déterminer base légale, consentements appropriés, résidence, sous-traitants, sécurité, conservation, droits d'accès et interdiction de chargement de dossiers identifiants sans autorisation.",
+      "selection": [
+        "Évaluer Nabla selon l'usage (clinical_documentation), l'indication et le territoire réglementaires, les preuves cliniques, les intégrations et la supervision humaine."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official_and_regulatory_sources",
+      "sources": [
+        {
+          "url": "https://nabla.com/ehr",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.nabla.com/press",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "heidi-health": {
+    "descriptionFr": "Assistant de documentation médicale Heidi Health avec notes automatiques, modèles cliniques et outil Heidi Evidence pour interroger des références médicales.",
+    "descriptionEn": "Heidi Health medical documentation assistant offering AI notes, clinical templates and Heidi Evidence for cited medical reference.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Scribe et modèles de comptes rendus",
+      "Heidi Evidence et citations cliniques",
+      "Offres Free, Clinician, Practice et Enterprise"
+    ],
+    "featuresEn": [
+      "Scribe and note templates",
+      "Heidi Evidence with clinical citations",
+      "Free, Clinician, Practice and Enterprise plans"
+    ],
+    "accessFr": "Établissements, comptes professionnels ou abonnement clinique",
+    "accessEn": "Clinical organizations, professional accounts or subscriptions",
+    "officialSources": [
+      {
+        "url": "https://www.heidihealth.com/en-us/try-heidi/emerging-save-time",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://support.heidihealth.com/en/articles/13191359-get-started-with-heidi-evidence",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Assistant de documentation médicale Heidi Health avec notes automatiques, modèles cliniques et outil Heidi Evidence pour interroger des références médicales.",
+      "audiences": [
+        "Cliniciens, secrétariats médicaux et équipes EHR",
+        "Professionnels évaluant la fiabilité et la conformité des outils de santé"
+      ],
+      "cases": [
+        "Préparer des notes anonymisées pour une démonstration, puis ouvrir les références cliniques pour les vérifier.",
+        "Documenter l'usage prévu, les utilisateurs autorisés, les sources et les validations avant tout déploiement."
+      ],
+      "advantages": [
+        "Scribe et modèles de comptes rendus",
+        "Heidi Evidence et citations cliniques",
+        "Offres Free, Clinician, Practice et Enterprise"
+      ],
+      "limits": [
+        "Heidi Evidence n'est pas disponible pendant une consultation dans Ask Heidi au Royaume-Uni ou dans l'UE, selon l'aide d'octobre 2026. Les quotas et fonctions d'équipe dépendent des formules ; ne jamais saisir de données patient sans cadre approuvé.",
+        "Les fonctions IA peuvent produire des erreurs ou omissions ; ni un score, ni une transcription, ni une référence scientifique ne remplacent le jugement d'un professionnel qualifié."
+      ],
+      "gettingStarted": [
+        "Vérifier l'usage prévu, les autorisations de l'établissement et les indications médicales ou réglementaires effectivement couvertes.",
+        "Évaluer sur des cas fictifs ou des données explicitement autorisées, consigner les erreurs et instaurer une validation humaine."
+      ],
+      "examples": [
+        "Sur la base de données de démonstration, prépare un rapport de validation indiquant sources, résultats incertains et points à contrôler manuellement.",
+        "Établis une liste d'exigences de conformité : protection des données, contrôle médical, indications, interopérabilité et traçabilité."
+      ],
+      "pricing": "Tarifs, contrats établissements, intégrations EHR/PACS, utilisateurs, usage et déploiement sur devis ou selon les plans officiels.",
+      "privacy": "Données de santé sensibles : déterminer base légale, consentements appropriés, résidence, sous-traitants, sécurité, conservation, droits d'accès et interdiction de chargement de dossiers identifiants sans autorisation.",
+      "selection": [
+        "Évaluer Heidi Health selon l'usage (clinical_documentation), l'indication et le territoire réglementaires, les preuves cliniques, les intégrations et la supervision humaine."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "regional_feature_restrictions",
+      "evidence": "official_and_regulatory_sources",
+      "sources": [
+        {
+          "url": "https://www.heidihealth.com/en-us/try-heidi/emerging-save-time",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://support.heidihealth.com/en/articles/13191359-get-started-with-heidi-evidence",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "aidoc": {
+    "descriptionFr": "Plateforme d'orchestration d'IA d'imagerie hospitalière aiOS et modèles CARE pour prioriser certaines anomalies aiguës selon les indications autorisées.",
+    "descriptionEn": "Hospital imaging AI orchestration platform aiOS and CARE models for prioritizing acute findings within cleared indications.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "aiOS pour orchestrer les algorithmes de radiologie",
+      "Triage d'imagerie et coordination de soins",
+      "CARE et dispositifs autorisés selon indication"
+    ],
+    "featuresEn": [
+      "aiOS for radiology AI orchestration",
+      "Imaging triage and care coordination",
+      "CARE models and indication-specific cleared devices"
+    ],
+    "accessFr": "Solution réservée aux établissements, selon pays et indication",
+    "accessEn": "Healthcare enterprise solution, country and indication dependent",
+    "officialSources": [
+      {
+        "url": "https://www.aidoc.com/radiology-lp/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.aidoc.com/comprehensive-abdomen-ct-triage/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.aidoc.com/learn/blog/fda-breakthrough-device-designation-for-care-chest-x-ray-triage/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme d'orchestration d'IA d'imagerie hospitalière aiOS et modèles CARE pour prioriser certaines anomalies aiguës selon les indications autorisées.",
+      "audiences": [
+        "Médecins spécialistes, radiologues et établissements de soins",
+        "Professionnels évaluant la fiabilité et la conformité des outils de santé"
+      ],
+      "cases": [
+        "Un radiologue utilise un signal de priorisation dans une file d'examens, puis interprète lui-même les images.",
+        "Documenter l'usage prévu, les utilisateurs autorisés, les sources et les validations avant tout déploiement."
+      ],
+      "advantages": [
+        "aiOS pour orchestrer les algorithmes de radiologie",
+        "Triage d'imagerie et coordination de soins",
+        "CARE et dispositifs autorisés selon indication"
+      ],
+      "limits": [
+        "Certains outils CARE ont une autorisation FDA précise ; une Breakthrough Device Designation pour une autre indication ne vaut pas autorisation commerciale. Les algorithmes ne remplacent pas l'interprétation radiologique.",
+        "Les fonctions IA peuvent produire des erreurs ou omissions ; ni un score, ni une transcription, ni une référence scientifique ne remplacent le jugement d'un professionnel qualifié."
+      ],
+      "gettingStarted": [
+        "Vérifier l'usage prévu, les autorisations de l'établissement et les indications médicales ou réglementaires effectivement couvertes.",
+        "Évaluer sur des cas fictifs ou des données explicitement autorisées, consigner les erreurs et instaurer une validation humaine."
+      ],
+      "examples": [
+        "Sur la base de données de démonstration, prépare un rapport de validation indiquant sources, résultats incertains et points à contrôler manuellement.",
+        "Établis une liste d'exigences de conformité : protection des données, contrôle médical, indications, interopérabilité et traçabilité."
+      ],
+      "pricing": "Tarifs, contrats établissements, intégrations EHR/PACS, utilisateurs, usage et déploiement sur devis ou selon les plans officiels.",
+      "privacy": "Données de santé sensibles : déterminer base légale, consentements appropriés, résidence, sous-traitants, sécurité, conservation, droits d'accès et interdiction de chargement de dossiers identifiants sans autorisation.",
+      "selection": [
+        "Évaluer Aidoc selon l'usage (regulated_imaging), l'indication et le territoire réglementaires, les preuves cliniques, les intégrations et la supervision humaine."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official_and_regulatory_sources",
+      "sources": [
+        {
+          "url": "https://www.aidoc.com/radiology-lp/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.aidoc.com/comprehensive-abdomen-ct-triage/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.aidoc.com/learn/blog/fda-breakthrough-device-designation-for-care-chest-x-ray-triage/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "viz-ai": {
+    "descriptionFr": "Plateforme de coordination de soins Viz.ai One associant alertes d'imagerie et outils de collaboration pour les équipes spécialisées.",
+    "descriptionEn": "Viz.ai One care coordination platform combining imaging alerts and team collaboration for specialist workflows.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Alertes sur résultats d'imagerie et signaux cliniques",
+      "Coordination entre équipes d'AVC et autres spécialités",
+      "Intégrations de parcours et applications médicales"
+    ],
+    "featuresEn": [
+      "Imaging and clinical alerts",
+      "Stroke and other specialty care coordination",
+      "Clinical workflow integration"
+    ],
+    "accessFr": "Solution réservée aux établissements, selon pays et indication",
+    "accessEn": "Healthcare enterprise solution, country and indication dependent",
+    "officialSources": [
+      {
+        "url": "https://www.viz.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de coordination de soins Viz.ai One associant alertes d'imagerie et outils de collaboration pour les équipes spécialisées.",
+      "audiences": [
+        "Médecins spécialistes, radiologues et établissements de soins",
+        "Professionnels évaluant la fiabilité et la conformité des outils de santé"
+      ],
+      "cases": [
+        "Une équipe de prise en charge d'AVC reçoit une alerte de triage, examine l'image et confirme la suite à donner.",
+        "Documenter l'usage prévu, les utilisateurs autorisés, les sources et les validations avant tout déploiement."
+      ],
+      "advantages": [
+        "Alertes sur résultats d'imagerie et signaux cliniques",
+        "Coordination entre équipes d'AVC et autres spécialités",
+        "Intégrations de parcours et applications médicales"
+      ],
+      "limits": [
+        "Chaque algorithme et indication a son propre statut réglementaire ; la détection d'une anomalie n'établit pas un diagnostic autonome. Le déploiement dépend du réseau hospitalier.",
+        "Les fonctions IA peuvent produire des erreurs ou omissions ; ni un score, ni une transcription, ni une référence scientifique ne remplacent le jugement d'un professionnel qualifié."
+      ],
+      "gettingStarted": [
+        "Vérifier l'usage prévu, les autorisations de l'établissement et les indications médicales ou réglementaires effectivement couvertes.",
+        "Évaluer sur des cas fictifs ou des données explicitement autorisées, consigner les erreurs et instaurer une validation humaine."
+      ],
+      "examples": [
+        "Sur la base de données de démonstration, prépare un rapport de validation indiquant sources, résultats incertains et points à contrôler manuellement.",
+        "Établis une liste d'exigences de conformité : protection des données, contrôle médical, indications, interopérabilité et traçabilité."
+      ],
+      "pricing": "Tarifs, contrats établissements, intégrations EHR/PACS, utilisateurs, usage et déploiement sur devis ou selon les plans officiels.",
+      "privacy": "Données de santé sensibles : déterminer base légale, consentements appropriés, résidence, sous-traitants, sécurité, conservation, droits d'accès et interdiction de chargement de dossiers identifiants sans autorisation.",
+      "selection": [
+        "Évaluer Viz.ai selon l'usage (regulated_imaging), l'indication et le territoire réglementaires, les preuves cliniques, les intégrations et la supervision humaine."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official_and_regulatory_sources",
+      "sources": [
+        {
+          "url": "https://www.viz.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "tempus": {
+    "descriptionFr": "Plateforme de médecine de précision exploitant analyses génomiques, tests diagnostiques et modèles multimodaux pour la recherche et l'oncologie.",
+    "descriptionEn": "Precision medicine platform combining genomic tests, diagnostics and multimodal AI models for oncology and research.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Tests moléculaires et profils tumoraux",
+      "Intégration de données cliniques, génomiques et d'imagerie",
+      "Recherche multimodale et aide aux parcours de soins"
+    ],
+    "featuresEn": [
+      "Molecular testing and tumor profiling",
+      "Clinical, genomic and imaging data integration",
+      "Multimodal research and care support"
+    ],
+    "accessFr": "Professionnels vérifiés et institutions, disponibilité selon pays",
+    "accessEn": "Verified healthcare professionals and institutions, region-dependent",
+    "officialSources": [
+      {
+        "url": "https://www.tempus.com/oncology/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.tempus.com/news/pr/tempus-announces-initial-results-from-its-multimodal-foundation-model-efforts-for-novel-and-scalable-insight-generation-in-oncology/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de médecine de précision exploitant analyses génomiques, tests diagnostiques et modèles multimodaux pour la recherche et l'oncologie.",
+      "audiences": [
+        "Professionnels de santé et établissements",
+        "Professionnels évaluant la fiabilité et la conformité des outils de santé"
+      ],
+      "cases": [
+        "Une équipe d'oncologie examine les résultats moléculaires avec les autres données cliniques et confirme les critères d'éligibilité thérapeutique.",
+        "Documenter l'usage prévu, les utilisateurs autorisés, les sources et les validations avant tout déploiement."
+      ],
+      "advantages": [
+        "Tests moléculaires et profils tumoraux",
+        "Intégration de données cliniques, génomiques et d'imagerie",
+        "Recherche multimodale et aide aux parcours de soins"
+      ],
+      "limits": [
+        "Un test diagnostique, une prédiction algorithmique et un modèle de recherche ont des validations distinctes. Les résultats génomiques exigent interprétation spécialisée, consentement et protection renforcée des données.",
+        "Les fonctions IA peuvent produire des erreurs ou omissions ; ni un score, ni une transcription, ni une référence scientifique ne remplacent le jugement d'un professionnel qualifié."
+      ],
+      "gettingStarted": [
+        "Vérifier l'usage prévu, les autorisations de l'établissement et les indications médicales ou réglementaires effectivement couvertes.",
+        "Évaluer sur des cas fictifs ou des données explicitement autorisées, consigner les erreurs et instaurer une validation humaine."
+      ],
+      "examples": [
+        "Sur la base de données de démonstration, prépare un rapport de validation indiquant sources, résultats incertains et points à contrôler manuellement.",
+        "Établis une liste d'exigences de conformité : protection des données, contrôle médical, indications, interopérabilité et traçabilité."
+      ],
+      "pricing": "Tarifs, contrats établissements, intégrations EHR/PACS, utilisateurs, usage et déploiement sur devis ou selon les plans officiels.",
+      "privacy": "Données de santé sensibles : déterminer base légale, consentements appropriés, résidence, sous-traitants, sécurité, conservation, droits d'accès et interdiction de chargement de dossiers identifiants sans autorisation.",
+      "selection": [
+        "Évaluer Tempus selon l'usage (precision_medicine), l'indication et le territoire réglementaires, les preuves cliniques, les intégrations et la supervision humaine."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official_and_regulatory_sources",
+      "sources": [
+        {
+          "url": "https://www.tempus.com/oncology/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.tempus.com/news/pr/tempus-announces-initial-results-from-its-multimodal-foundation-model-efforts-for-novel-and-scalable-insight-generation-in-oncology/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "pathai": {
+    "descriptionFr": "Plateforme de pathologie numérique PathAI avec AISight Dx pour la gestion d'images entières de lames et outils de recherche/analyse assistés par IA.",
+    "descriptionEn": "PathAI digital pathology platform with AISight Dx for whole-slide image management and AI-assisted research or analysis.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "AISight Dx : gestion d'images de pathologie",
+      "Partage des lames et routage des cas",
+      "Outils PathAssist en développement réglementaire"
+    ],
+    "featuresEn": [
+      "AISight Dx pathology image management",
+      "Whole-slide sharing and case routing",
+      "PathAssist tools under regulatory development"
+    ],
+    "accessFr": "Solution réservée aux établissements, selon pays et indication",
+    "accessEn": "Healthcare enterprise solution, country and indication dependent",
+    "officialSources": [
+      {
+        "url": "https://www.pathai.com/news/pathai-receives-fda-clearance-for-aisight-dx-platform-for-primary-diagnosis",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.pathai.com/news/pathai-receives-u.s.-fda-breakthrough-device-designation-for-pathassist-derm-an-ai-powered-pathology-solution-to-transform-dermatopathology-workflow",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de pathologie numérique PathAI avec AISight Dx pour la gestion d'images entières de lames et outils de recherche/analyse assistés par IA.",
+      "audiences": [
+        "Médecins spécialistes, radiologues et établissements de soins",
+        "Professionnels évaluant la fiabilité et la conformité des outils de santé"
+      ],
+      "cases": [
+        "Un laboratoire centralise des lames virtuelles dans AISight Dx et vérifie le diagnostic avec un anatomopathologiste.",
+        "Documenter l'usage prévu, les utilisateurs autorisés, les sources et les validations avant tout déploiement."
+      ],
+      "advantages": [
+        "AISight Dx : gestion d'images de pathologie",
+        "Partage des lames et routage des cas",
+        "Outils PathAssist en développement réglementaire"
+      ],
+      "limits": [
+        "L'autorisation FDA AISight Dx concerne le système de gestion d'images pour diagnostic primaire ; la désignation Breakthrough de PathAssist Derm n'est pas une autorisation FDA de commercialisation. Vérifier la compatibilité des scanners.",
+        "Les fonctions IA peuvent produire des erreurs ou omissions ; ni un score, ni une transcription, ni une référence scientifique ne remplacent le jugement d'un professionnel qualifié."
+      ],
+      "gettingStarted": [
+        "Vérifier l'usage prévu, les autorisations de l'établissement et les indications médicales ou réglementaires effectivement couvertes.",
+        "Évaluer sur des cas fictifs ou des données explicitement autorisées, consigner les erreurs et instaurer une validation humaine."
+      ],
+      "examples": [
+        "Sur la base de données de démonstration, prépare un rapport de validation indiquant sources, résultats incertains et points à contrôler manuellement.",
+        "Établis une liste d'exigences de conformité : protection des données, contrôle médical, indications, interopérabilité et traçabilité."
+      ],
+      "pricing": "Tarifs, contrats établissements, intégrations EHR/PACS, utilisateurs, usage et déploiement sur devis ou selon les plans officiels.",
+      "privacy": "Données de santé sensibles : déterminer base légale, consentements appropriés, résidence, sous-traitants, sécurité, conservation, droits d'accès et interdiction de chargement de dossiers identifiants sans autorisation.",
+      "selection": [
+        "Évaluer PathAI selon l'usage (regulated_pathology), l'indication et le territoire réglementaires, les preuves cliniques, les intégrations et la supervision humaine."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "cleared_platform_not_all_ai_functions",
+      "evidence": "official_and_regulatory_sources",
+      "sources": [
+        {
+          "url": "https://www.pathai.com/news/pathai-receives-fda-clearance-for-aisight-dx-platform-for-primary-diagnosis",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.pathai.com/news/pathai-receives-u.s.-fda-breakthrough-device-designation-for-pathassist-derm-an-ai-powered-pathology-solution-to-transform-dermatopathology-workflow",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_regulatory_distinction"
+  },
+  "qure-ai": {
+    "descriptionFr": "Suite Qure.ai de logiciels d'assistance à l'interprétation et de triage d'imagerie médicale, couvrant radiographies thoraciques et scanners selon les produits.",
+    "descriptionEn": "Qure.ai imaging interpretation and triage software suite for chest X-rays and CT scans, with product-specific indications.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "qXR et qXR-Detect pour radiographies pulmonaires",
+      "qER pour scanners crâniens",
+      "qCT Lung et autres traitements de scanners"
+    ],
+    "featuresEn": [
+      "qXR and qXR-Detect chest radiography",
+      "qER brain CT workflow triage",
+      "qCT Lung and other CT analysis"
+    ],
+    "accessFr": "Solution réservée aux établissements, selon pays et indication",
+    "accessEn": "Healthcare enterprise solution, country and indication dependent",
+    "officialSources": [
+      {
+        "url": "https://www.qure.ai/us/regulatory-and-privacy",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.qure.ai/product/qxr",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K261517",
+        "checkedAt": "2026-11-16",
+        "scope": "regulatory_indication"
+      }
+    ],
+    "research": {
+      "headline": "Suite Qure.ai de logiciels d'assistance à l'interprétation et de triage d'imagerie médicale, couvrant radiographies thoraciques et scanners selon les produits.",
+      "audiences": [
+        "Médecins spécialistes, radiologues et établissements de soins",
+        "Professionnels évaluant la fiabilité et la conformité des outils de santé"
+      ],
+      "cases": [
+        "Une équipe de dépistage trie les radiographies et fait vérifier toutes les anomalies signalées par les médecins.",
+        "Documenter l'usage prévu, les utilisateurs autorisés, les sources et les validations avant tout déploiement."
+      ],
+      "advantages": [
+        "qXR et qXR-Detect pour radiographies pulmonaires",
+        "qER pour scanners crâniens",
+        "qCT Lung et autres traitements de scanners"
+      ],
+      "limits": [
+        "qCT Lung v1.0 a obtenu une décision FDA 510(k) le 14 septembre 2026 ; les autres produits qXR, qER et qCT ont des indications et statuts propres. Les scores de performance du fournisseur ne s'appliquent pas à toute population.",
+        "Les fonctions IA peuvent produire des erreurs ou omissions ; ni un score, ni une transcription, ni une référence scientifique ne remplacent le jugement d'un professionnel qualifié."
+      ],
+      "gettingStarted": [
+        "Vérifier l'usage prévu, les autorisations de l'établissement et les indications médicales ou réglementaires effectivement couvertes.",
+        "Évaluer sur des cas fictifs ou des données explicitement autorisées, consigner les erreurs et instaurer une validation humaine."
+      ],
+      "examples": [
+        "Sur la base de données de démonstration, prépare un rapport de validation indiquant sources, résultats incertains et points à contrôler manuellement.",
+        "Établis une liste d'exigences de conformité : protection des données, contrôle médical, indications, interopérabilité et traçabilité."
+      ],
+      "pricing": "Tarifs, contrats établissements, intégrations EHR/PACS, utilisateurs, usage et déploiement sur devis ou selon les plans officiels.",
+      "privacy": "Données de santé sensibles : déterminer base légale, consentements appropriés, résidence, sous-traitants, sécurité, conservation, droits d'accès et interdiction de chargement de dossiers identifiants sans autorisation.",
+      "selection": [
+        "Évaluer Qure.ai selon l'usage (regulated_imaging), l'indication et le territoire réglementaires, les preuves cliniques, les intégrations et la supervision humaine."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official_and_regulatory_sources",
+      "sources": [
+        {
+          "url": "https://www.qure.ai/us/regulatory-and-privacy",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.qure.ai/product/qxr",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K261517",
+          "type": "regulator",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "lunit": {
+    "descriptionFr": "Portefeuille d'IA d'oncologie Lunit comprenant INSIGHT pour mammographie, tomosynthèse et radiographie thoracique, ainsi que SCOPE pour biomarqueurs en anatomopathologie.",
+    "descriptionEn": "Lunit oncology AI portfolio including INSIGHT for mammography, tomosynthesis and chest X-rays, plus SCOPE for pathology biomarkers.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "INSIGHT MMG, DBT et CXR",
+      "SCOPE pour biomarqueurs d'oncologie",
+      "Flux de dépistage et collaboration radiologique"
+    ],
+    "featuresEn": [
+      "INSIGHT MMG, DBT and CXR",
+      "SCOPE oncology biomarkers",
+      "Screening and radiology workflow support"
+    ],
+    "accessFr": "Solution réservée aux établissements, selon pays et indication",
+    "accessEn": "Healthcare enterprise solution, country and indication dependent",
+    "officialSources": [
+      {
+        "url": "https://www.lunit.io/en/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://microsite.lunit.io/lunit-insight-eu-disclaimers",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K260320",
+        "checkedAt": "2026-11-16",
+        "scope": "regulatory_indication"
+      }
+    ],
+    "research": {
+      "headline": "Portefeuille d'IA d'oncologie Lunit comprenant INSIGHT pour mammographie, tomosynthèse et radiographie thoracique, ainsi que SCOPE pour biomarqueurs en anatomopathologie.",
+      "audiences": [
+        "Médecins spécialistes, radiologues et établissements de soins",
+        "Professionnels évaluant la fiabilité et la conformité des outils de santé"
+      ],
+      "cases": [
+        "Un radiologue compare les résultats d'un examen mammographique à la lecture clinique sans conclure sur le seul score d'IA.",
+        "Documenter l'usage prévu, les utilisateurs autorisés, les sources et les validations avant tout déploiement."
+      ],
+      "advantages": [
+        "INSIGHT MMG, DBT et CXR",
+        "SCOPE pour biomarqueurs d'oncologie",
+        "Flux de dépistage et collaboration radiologique"
+      ],
+      "limits": [
+        "Le fournisseur précise que Lunit INSIGHT CXR n'est pas autorisé par la FDA, tandis que MMG et DBT ont des autorisations FDA avec exceptions pour certaines fonctions. La version MMG v1.1.10 a une décision du 23 avril 2026 ; disponibilité selon pays.",
+        "Les fonctions IA peuvent produire des erreurs ou omissions ; ni un score, ni une transcription, ni une référence scientifique ne remplacent le jugement d'un professionnel qualifié."
+      ],
+      "gettingStarted": [
+        "Vérifier l'usage prévu, les autorisations de l'établissement et les indications médicales ou réglementaires effectivement couvertes.",
+        "Évaluer sur des cas fictifs ou des données explicitement autorisées, consigner les erreurs et instaurer une validation humaine."
+      ],
+      "examples": [
+        "Sur la base de données de démonstration, prépare un rapport de validation indiquant sources, résultats incertains et points à contrôler manuellement.",
+        "Établis une liste d'exigences de conformité : protection des données, contrôle médical, indications, interopérabilité et traçabilité."
+      ],
+      "pricing": "Tarifs, contrats établissements, intégrations EHR/PACS, utilisateurs, usage et déploiement sur devis ou selon les plans officiels.",
+      "privacy": "Données de santé sensibles : déterminer base légale, consentements appropriés, résidence, sous-traitants, sécurité, conservation, droits d'accès et interdiction de chargement de dossiers identifiants sans autorisation.",
+      "selection": [
+        "Évaluer Lunit selon l'usage (regulated_imaging), l'indication et le territoire réglementaires, les preuves cliniques, les intégrations et la supervision humaine."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "regulatory_indications_differ",
+      "evidence": "official_and_regulatory_sources",
+      "sources": [
+        {
+          "url": "https://www.lunit.io/en/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://microsite.lunit.io/lunit-insight-eu-disclaimers",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K260320",
+          "type": "regulator",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_regulatory_distinction"
+  },
+  "ada-health": {
+    "descriptionFr": "Application de questionnement structuré sur les symptômes et plateforme d'orientation vers les soins, recentrée sur l'évaluation de santé en 2026.",
+    "descriptionEn": "Structured symptom assessment app and care navigation platform refocused on health assessment in 2026.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Questionnaire symptomatique probabiliste",
+      "Rapport de causes possibles et orientation",
+      "Intégration en parcours de santé d'entreprise"
+    ],
+    "featuresEn": [
+      "Probabilistic symptom questionnaire",
+      "Possible-cause report and care navigation",
+      "Enterprise healthcare journey integration"
+    ],
+    "accessFr": "Application ou service web grand public, selon pays",
+    "accessEn": "Consumer app or web service, country dependent",
+    "officialSources": [
+      {
+        "url": "https://ada.com/editorial/ada-introduces/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://ada.com/help/how-do-i-start-a-symptom-assessment/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://ada.com/help/does-ada-provide-medical-treatments/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Application de questionnement structuré sur les symptômes et plateforme d'orientation vers les soins, recentrée sur l'évaluation de santé en 2026.",
+      "audiences": [
+        "Grand public cherchant des informations de santé",
+        "Professionnels évaluant la fiabilité et la conformité des outils de santé"
+      ],
+      "cases": [
+        "Une personne renseigne ses symptômes pour comprendre les questions utiles à poser à un professionnel de santé.",
+        "Documenter l'usage prévu, les utilisateurs autorisés, les sources et les validations avant tout déploiement."
+      ],
+      "advantages": [
+        "Questionnaire symptomatique probabiliste",
+        "Rapport de causes possibles et orientation",
+        "Intégration en parcours de santé d'entreprise"
+      ],
+      "limits": [
+        "En janvier 2026, Ada a annoncé le retrait des profils secondaires et des trackers IMC, symptômes, médicaments et allergies. L'évaluation ne pose pas de diagnostic et ne remplace pas un médecin ni une consultation en urgence.",
+        "Les fonctions IA peuvent produire des erreurs ou omissions ; ni un score, ni une transcription, ni une référence scientifique ne remplacent le jugement d'un professionnel qualifié."
+      ],
+      "gettingStarted": [
+        "Décrire la question non urgente sans transmettre inutilement des informations identifiantes.",
+        "Évaluer sur des cas fictifs ou des données explicitement autorisées, consigner les erreurs et instaurer une validation humaine."
+      ],
+      "examples": [
+        "Aide-moi à préparer des questions pour une consultation sans prétendre poser un diagnostic.",
+        "Établis une liste d'exigences de conformité : protection des données, contrôle médical, indications, interopérabilité et traçabilité."
+      ],
+      "pricing": "Services web/app selon disponibilité ; contrôler les fonctions gratuites, conditions et accès géographique.",
+      "privacy": "Données de santé sensibles : déterminer base légale, consentements appropriés, résidence, sous-traitants, sécurité, conservation, droits d'accès et interdiction de chargement de dossiers identifiants sans autorisation.",
+      "selection": [
+        "Évaluer Ada Health selon l'usage (consumer_symptom), l'indication et le territoire réglementaires, les preuves cliniques, les intégrations et la supervision humaine."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "app_features_retired_2026",
+      "evidence": "official_and_regulatory_sources",
+      "sources": [
+        {
+          "url": "https://ada.com/editorial/ada-introduces/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://ada.com/help/how-do-i-start-a-symptom-assessment/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://ada.com/help/does-ada-provide-medical-treatments/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_features_retired"
+  },
+  "buoy-health": {
+    "descriptionFr": "Assistant web gratuit d'évaluation de symptômes et d'orientation dans le système de soins, complété par des contenus médicaux éditoriaux.",
+    "descriptionEn": "Free web symptom checker and care-navigation assistant supported by clinician-reviewed educational articles.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Dialogue structuré sur les symptômes",
+      "Causes possibles à discuter avec un professionnel",
+      "Articles d'information et options de soins"
+    ],
+    "featuresEn": [
+      "Structured symptom chat",
+      "Possible causes for clinician discussion",
+      "Medical educational content and care options"
+    ],
+    "accessFr": "Application ou service web grand public, selon pays",
+    "accessEn": "Consumer app or web service, country dependent",
+    "officialSources": [
+      {
+        "url": "https://www.buoyhealth.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.buoyhealth.com/help",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.buoyhealth.com/multi-symptom-checker",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Assistant web gratuit d'évaluation de symptômes et d'orientation dans le système de soins, complété par des contenus médicaux éditoriaux.",
+      "audiences": [
+        "Grand public cherchant des informations de santé",
+        "Professionnels évaluant la fiabilité et la conformité des outils de santé"
+      ],
+      "cases": [
+        "Une personne explore des explications possibles à un symptôme non urgent, puis consulte une source médicale appropriée.",
+        "Documenter l'usage prévu, les utilisateurs autorisés, les sources et les validations avant tout déploiement."
+      ],
+      "advantages": [
+        "Dialogue structuré sur les symptômes",
+        "Causes possibles à discuter avec un professionnel",
+        "Articles d'information et options de soins"
+      ],
+      "limits": [
+        "Buoy affiche que son contenu ne remplace pas diagnostic, conseil ni traitement médicaux ; les propositions du chatbot sont préliminaires. Pour des symptômes graves ou rapidement évolutifs, solliciter les services d'urgence et non l'outil.",
+        "Les fonctions IA peuvent produire des erreurs ou omissions ; ni un score, ni une transcription, ni une référence scientifique ne remplacent le jugement d'un professionnel qualifié."
+      ],
+      "gettingStarted": [
+        "Décrire la question non urgente sans transmettre inutilement des informations identifiantes.",
+        "Évaluer sur des cas fictifs ou des données explicitement autorisées, consigner les erreurs et instaurer une validation humaine."
+      ],
+      "examples": [
+        "Aide-moi à préparer des questions pour une consultation sans prétendre poser un diagnostic.",
+        "Établis une liste d'exigences de conformité : protection des données, contrôle médical, indications, interopérabilité et traçabilité."
+      ],
+      "pricing": "Services web/app selon disponibilité ; contrôler les fonctions gratuites, conditions et accès géographique.",
+      "privacy": "Données de santé sensibles : déterminer base légale, consentements appropriés, résidence, sous-traitants, sécurité, conservation, droits d'accès et interdiction de chargement de dossiers identifiants sans autorisation.",
+      "selection": [
+        "Évaluer Buoy Health selon l'usage (consumer_symptom), l'indication et le territoire réglementaires, les preuves cliniques, les intégrations et la supervision humaine."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official_and_regulatory_sources",
+      "sources": [
+        {
+          "url": "https://www.buoyhealth.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.buoyhealth.com/help",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.buoyhealth.com/multi-symptom-checker",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "insilico-medicine": {
+    "descriptionFr": "Entreprise de biotechnologie et plateforme Pharma.AI pour découvrir des cibles biologiques, concevoir des molécules et soutenir la recherche préclinique et clinique.",
+    "descriptionEn": "Biotechnology company and Pharma.AI platform for target discovery, molecular design and preclinical/clinical research.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "PandaOmics, Generative Chemistry et inClinico",
+      "DORA et plateformes d'automatisation scientifique",
+      "Programmes thérapeutiques expérimentaux"
+    ],
+    "featuresEn": [
+      "PandaOmics, Generative Chemistry and inClinico",
+      "DORA and research automation",
+      "Investigational therapeutic programs"
+    ],
+    "accessFr": "Recherche et partenariats biotech, non destiné aux patients",
+    "accessEn": "Biotech research and partnerships, not patient-facing",
+    "officialSources": [
+      {
+        "url": "https://insilico.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://insilico.com/about/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Entreprise de biotechnologie et plateforme Pharma.AI pour découvrir des cibles biologiques, concevoir des molécules et soutenir la recherche préclinique et clinique.",
+      "audiences": [
+        "Chercheurs pharmaceutiques, biologistes et partenaires biotech",
+        "Professionnels évaluant la fiabilité et la conformité des outils de santé"
+      ],
+      "cases": [
+        "Une équipe de recherche compare des cibles et candidats moléculaires puis prévoit des validations expérimentales indépendantes.",
+        "Documenter l'usage prévu, les utilisateurs autorisés, les sources et les validations avant tout déploiement."
+      ],
+      "advantages": [
+        "PandaOmics, Generative Chemistry et inClinico",
+        "DORA et plateformes d'automatisation scientifique",
+        "Programmes thérapeutiques expérimentaux"
+      ],
+      "limits": [
+        "Les molécules proposées par IA restent des candidats de recherche tant que les phases réglementaires ne sont pas franchies. Ce n'est pas un outil de diagnostic ou de prescription destiné au public.",
+        "Les fonctions IA peuvent produire des erreurs ou omissions ; ni un score, ni une transcription, ni une référence scientifique ne remplacent le jugement d'un professionnel qualifié."
+      ],
+      "gettingStarted": [
+        "Définir une hypothèse scientifique, les données expérimentales disponibles et les étapes de validation.",
+        "Évaluer sur des cas fictifs ou des données explicitement autorisées, consigner les erreurs et instaurer une validation humaine."
+      ],
+      "examples": [
+        "Propose un protocole de comparaison de deux hypothèses de recherche et les preuves expérimentales nécessaires.",
+        "Établis une liste d'exigences de conformité : protection des données, contrôle médical, indications, interopérabilité et traçabilité."
+      ],
+      "pricing": "Plateforme de recherche et partenariats R&D ; disponibilité et conditions via l'éditeur.",
+      "privacy": "Données de santé sensibles : déterminer base légale, consentements appropriés, résidence, sous-traitants, sécurité, conservation, droits d'accès et interdiction de chargement de dossiers identifiants sans autorisation.",
+      "selection": [
+        "Évaluer Insilico Medicine selon l'usage (drug_discovery), l'indication et le territoire réglementaires, les preuves cliniques, les intégrations et la supervision humaine."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official_and_regulatory_sources",
+      "sources": [
+        {
+          "url": "https://insilico.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://insilico.com/about/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "isomorphic-labs": {
+    "descriptionFr": "Entreprise de conception de médicaments utilisant IsoDDE, système computationnel de modélisation biomoléculaire, d'affinité et de conception au-delà d'AlphaFold.",
+    "descriptionEn": "Drug discovery company using IsoDDE for biomolecular structure, binding affinity and AI-driven molecular design beyond AlphaFold.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "IsoDDE : modélisation structurale et des interactions",
+      "Prédiction d'affinité ligand-protéine et poches",
+      "Recherche de candidats médicaments et partenariats"
+    ],
+    "featuresEn": [
+      "IsoDDE structural and interaction modeling",
+      "Protein-ligand affinity and pocket prediction",
+      "Drug candidate research and partnerships"
+    ],
+    "accessFr": "Recherche et partenariats biotech, non destiné aux patients",
+    "accessEn": "Biotech research and partnerships, not patient-facing",
+    "officialSources": [
+      {
+        "url": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.isomorphiclabs.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Entreprise de conception de médicaments utilisant IsoDDE, système computationnel de modélisation biomoléculaire, d'affinité et de conception au-delà d'AlphaFold.",
+      "audiences": [
+        "Chercheurs pharmaceutiques, biologistes et partenaires biotech",
+        "Professionnels évaluant la fiabilité et la conformité des outils de santé"
+      ],
+      "cases": [
+        "Comparer des hypothèses de liaison moléculaire au moyen du moteur de recherche puis confirmer avec des essais biochimiques.",
+        "Documenter l'usage prévu, les utilisateurs autorisés, les sources et les validations avant tout déploiement."
+      ],
+      "advantages": [
+        "IsoDDE : modélisation structurale et des interactions",
+        "Prédiction d'affinité ligand-protéine et poches",
+        "Recherche de candidats médicaments et partenariats"
+      ],
+      "limits": [
+        "IsoDDE est une plateforme de R&D, pas un service de santé public ni une autorisation de traitement. Les performances de benchmark annoncées par l'éditeur doivent être validées expérimentalement pour chaque indication.",
+        "Les fonctions IA peuvent produire des erreurs ou omissions ; ni un score, ni une transcription, ni une référence scientifique ne remplacent le jugement d'un professionnel qualifié."
+      ],
+      "gettingStarted": [
+        "Définir une hypothèse scientifique, les données expérimentales disponibles et les étapes de validation.",
+        "Évaluer sur des cas fictifs ou des données explicitement autorisées, consigner les erreurs et instaurer une validation humaine."
+      ],
+      "examples": [
+        "Propose un protocole de comparaison de deux hypothèses de recherche et les preuves expérimentales nécessaires.",
+        "Établis une liste d'exigences de conformité : protection des données, contrôle médical, indications, interopérabilité et traçabilité."
+      ],
+      "pricing": "Plateforme de recherche et partenariats R&D ; disponibilité et conditions via l'éditeur.",
+      "privacy": "Données de santé sensibles : déterminer base légale, consentements appropriés, résidence, sous-traitants, sécurité, conservation, droits d'accès et interdiction de chargement de dossiers identifiants sans autorisation.",
+      "selection": [
+        "Évaluer Isomorphic Labs selon l'usage (drug_discovery), l'indication et le territoire réglementaires, les preuves cliniques, les intégrations et la supervision humaine."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "research_platform_not_clinical_service",
+      "evidence": "official_and_regulatory_sources",
+      "sources": [
+        {
+          "url": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.isomorphiclabs.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  }
+}
