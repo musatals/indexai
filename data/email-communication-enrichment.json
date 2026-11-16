@@ -1,0 +1,851 @@
+{
+  "superhuman": {
+    "descriptionFr": "Client de messagerie optimisé pour la vitesse, avec résumés, brouillons IA, étiquettes automatiques et relances intelligentes.",
+    "descriptionEn": "High-speed email client offering AI summaries, drafts, automatic labels and follow-up reminders.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Auto Labels et Split Inbox",
+      "Auto Drafts et rédaction adaptée au ton",
+      "Auto Summarize et Auto Reminders"
+    ],
+    "featuresEn": [
+      "Auto Labels and Split Inbox",
+      "Auto Drafts matching writing style",
+      "Auto Summarize and Auto Reminders"
+    ],
+    "accessFr": "Web et applications selon fournisseur",
+    "accessEn": "Web and apps by provider",
+    "officialSources": [
+      {
+        "url": "https://superhuman.com/mail/features/ai-native-email-client",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_service_status"
+      },
+      {
+        "url": "https://help.superhuman.com/hc/en-us/articles/46005854346893-Email-Assistant-by-Superhuman-Mail-Gmail",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_service_status"
+      }
+    ],
+    "research": {
+      "headline": "Client de messagerie optimisé pour la vitesse, avec résumés, brouillons IA, étiquettes automatiques et relances intelligentes.",
+      "audiences": [
+        "Professionnels et équipes gérant des échanges par email",
+        "Enseignants, indépendants et organisations selon le besoin"
+      ],
+      "cases": [
+        "Organiser les emails clients, préparer les réponses à relire et suivre les conversations en attente.",
+        "Vérifier l'intention du message, les noms, les échéances et les pièces jointes avant toute diffusion."
+      ],
+      "advantages": [
+        "Auto Labels et Split Inbox",
+        "Auto Drafts et rédaction adaptée au ton",
+        "Auto Summarize et Auto Reminders"
+      ],
+      "limits": [
+        "Le produit distingue l'application Superhuman Mail et Email Assistant intégré à Gmail/Outlook ; les fonctions et conditions d'accès dépendent de l'offre. Les brouillons automatiques ne sont pas envoyés sans intervention de l'utilisateur.",
+        "Les résumés ou réponses IA peuvent ignorer des nuances, inventer des engagements ou mal interpréter le contexte d'un échange."
+      ],
+      "gettingStarted": [
+        "Connecter un compte de démonstration ou un espace autorisé et limiter les accès aux messages nécessaires.",
+        "Tester sur un fil non confidentiel, relire chaque suggestion et contrôler les autorisations avant d'activer toute automatisation."
+      ],
+      "examples": [
+        "Résume ce fil en séparant les décisions confirmées, les questions ouvertes et les actions avec leurs responsables.",
+        "Rédige une réponse courte, factuelle et professionnelle ; n'ajoute aucun engagement ou détail non présent dans le fil."
+      ],
+      "pricing": "Vérifier les offres, essais, licences d'équipe et quotas d'utilisation IA directement auprès du fournisseur ; les prix peuvent varier selon la formule et le pays.",
+      "privacy": "Contrôler les permissions de lecture et d'envoi, les durées de conservation, le partage des messages et le traitement par des modèles tiers ; éviter d'exposer des données sensibles sans base légale.",
+      "selection": [
+        "Choisir Superhuman en fonction des plateformes compatibles, de la collaboration, du contrôle humain et de la confidentialité."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://superhuman.com/mail/features/ai-native-email-client",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://help.superhuman.com/hc/en-us/articles/46005854346893-Email-Assistant-by-Superhuman-Mail-Gmail",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "shortwave": {
+    "descriptionFr": "Messagerie enrichie par IA pour rechercher et résumer des conversations, rédiger des réponses et collaborer autour des fils d'email.",
+    "descriptionEn": "AI-powered email client for searching and summarizing threads, drafting replies and collaborating on emails.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Assistant IA contextuel et recherche",
+      "Brouillons dans le style de l'utilisateur",
+      "Fils partagés et affectations en équipe"
+    ],
+    "featuresEn": [
+      "Contextual AI assistant and search",
+      "Writing-style-aware drafts",
+      "Shared threads and team assignment"
+    ],
+    "accessFr": "Web et applications selon fournisseur",
+    "accessEn": "Web and apps by provider",
+    "officialSources": [
+      {
+        "url": "https://www.shortwave.com/docs/guides/ai-assistant/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_service_status"
+      },
+      {
+        "url": "https://www.shortwave.com/docs/guides/team/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_service_status"
+      }
+    ],
+    "research": {
+      "headline": "Messagerie enrichie par IA pour rechercher et résumer des conversations, rédiger des réponses et collaborer autour des fils d'email.",
+      "audiences": [
+        "Professionnels et équipes gérant des échanges par email",
+        "Enseignants, indépendants et organisations selon le besoin"
+      ],
+      "cases": [
+        "Retrouver un engagement dans une longue conversation puis affecter le suivi à un collègue.",
+        "Vérifier l'intention du message, les noms, les échéances et les pièces jointes avant toute diffusion."
+      ],
+      "advantages": [
+        "Assistant IA contextuel et recherche",
+        "Brouillons dans le style de l'utilisateur",
+        "Fils partagés et affectations en équipe"
+      ],
+      "limits": [
+        "Les actions liées aux outils externes et à l'agenda nécessitent des autorisations ; vérifier partage des fils, droits des collaborateurs et quotas par formule.",
+        "Les résumés ou réponses IA peuvent ignorer des nuances, inventer des engagements ou mal interpréter le contexte d'un échange."
+      ],
+      "gettingStarted": [
+        "Connecter un compte de démonstration ou un espace autorisé et limiter les accès aux messages nécessaires.",
+        "Tester sur un fil non confidentiel, relire chaque suggestion et contrôler les autorisations avant d'activer toute automatisation."
+      ],
+      "examples": [
+        "Résume ce fil en séparant les décisions confirmées, les questions ouvertes et les actions avec leurs responsables.",
+        "Rédige une réponse courte, factuelle et professionnelle ; n'ajoute aucun engagement ou détail non présent dans le fil."
+      ],
+      "pricing": "Vérifier les offres, essais, licences d'équipe et quotas d'utilisation IA directement auprès du fournisseur ; les prix peuvent varier selon la formule et le pays.",
+      "privacy": "Contrôler les permissions de lecture et d'envoi, les durées de conservation, le partage des messages et le traitement par des modèles tiers ; éviter d'exposer des données sensibles sans base légale.",
+      "selection": [
+        "Choisir Shortwave en fonction des plateformes compatibles, de la collaboration, du contrôle humain et de la confidentialité."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.shortwave.com/docs/guides/ai-assistant/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.shortwave.com/docs/guides/team/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "spark-mail": {
+    "descriptionFr": "Client de messagerie disposant de Spark +AI pour rédiger, traduire, résumer et rechercher dans les emails et pièces jointes.",
+    "descriptionEn": "Email client with Spark +AI for writing, translating, summarizing and searching emails and attachments.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Spark +AI Assistant et recherche",
+      "Synthèses et actions issues des conversations",
+      "Index local des emails et notes de réunion"
+    ],
+    "featuresEn": [
+      "Spark +AI Assistant and search",
+      "Thread summaries and action items",
+      "Local index of messages and meeting notes"
+    ],
+    "accessFr": "Web et applications selon fournisseur",
+    "accessEn": "Web and apps by provider",
+    "officialSources": [
+      {
+        "url": "https://sparkmailapp.com/help/spark-ai/ai-assistant",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_service_status"
+      }
+    ],
+    "research": {
+      "headline": "Client de messagerie disposant de Spark +AI pour rédiger, traduire, résumer et rechercher dans les emails et pièces jointes.",
+      "audiences": [
+        "Professionnels et équipes gérant des échanges par email",
+        "Enseignants, indépendants et organisations selon le besoin"
+      ],
+      "cases": [
+        "Rechercher une facture parmi plusieurs boîtes puis produire une réponse vérifiée.",
+        "Vérifier l'intention du message, les noms, les échéances et les pièces jointes avant toute diffusion."
+      ],
+      "advantages": [
+        "Spark +AI Assistant et recherche",
+        "Synthèses et actions issues des conversations",
+        "Index local des emails et notes de réunion"
+      ],
+      "limits": [
+        "L'index est local mais les emails pertinents sont transmis à un fournisseur IA pour répondre ; le support indique une conservation possible jusqu'à 30 jours chez ce fournisseur. Les limitations varient selon l'appareil.",
+        "Les résumés ou réponses IA peuvent ignorer des nuances, inventer des engagements ou mal interpréter le contexte d'un échange."
+      ],
+      "gettingStarted": [
+        "Connecter un compte de démonstration ou un espace autorisé et limiter les accès aux messages nécessaires.",
+        "Tester sur un fil non confidentiel, relire chaque suggestion et contrôler les autorisations avant d'activer toute automatisation."
+      ],
+      "examples": [
+        "Résume ce fil en séparant les décisions confirmées, les questions ouvertes et les actions avec leurs responsables.",
+        "Rédige une réponse courte, factuelle et professionnelle ; n'ajoute aucun engagement ou détail non présent dans le fil."
+      ],
+      "pricing": "Vérifier les offres, essais, licences d'équipe et quotas d'utilisation IA directement auprès du fournisseur ; les prix peuvent varier selon la formule et le pays.",
+      "privacy": "Contrôler les permissions de lecture et d'envoi, les durées de conservation, le partage des messages et le traitement par des modèles tiers ; éviter d'exposer des données sensibles sans base légale.",
+      "selection": [
+        "Choisir Spark Mail en fonction des plateformes compatibles, de la collaboration, du contrôle humain et de la confidentialité."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://sparkmailapp.com/help/spark-ai/ai-assistant",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "mailbutler": {
+    "descriptionFr": "Extension de productivité pour Apple Mail, Gmail et Outlook, combinant rédaction IA, suivi d'emails et collaboration.",
+    "descriptionEn": "Productivity extension for Apple Mail, Gmail and Outlook combining AI writing, email tracking and collaboration.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Smart Compose, Smart Respond et résumés",
+      "Suivi d'ouverture et relances",
+      "Signatures, notes et attribution d'emails"
+    ],
+    "featuresEn": [
+      "Smart Compose, Smart Respond and summaries",
+      "Email tracking and follow-ups",
+      "Signatures, notes and assignment"
+    ],
+    "accessFr": "Extensions Gmail, Outlook et Apple Mail",
+    "accessEn": "Gmail, Outlook and Apple Mail add-ins",
+    "officialSources": [
+      {
+        "url": "https://www.mailbutler.io/smart-assistant/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_service_status"
+      },
+      {
+        "url": "https://www.mailbutler.io/pricing/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_service_status"
+      }
+    ],
+    "research": {
+      "headline": "Extension de productivité pour Apple Mail, Gmail et Outlook, combinant rédaction IA, suivi d'emails et collaboration.",
+      "audiences": [
+        "Professionnels et équipes gérant des échanges par email",
+        "Enseignants, indépendants et organisations selon le besoin"
+      ],
+      "cases": [
+        "Rédiger un suivi professionnel, programmer une relance et garder une trace de l'échange.",
+        "Vérifier l'intention du message, les noms, les échéances et les pièces jointes avant toute diffusion."
+      ],
+      "advantages": [
+        "Smart Compose, Smart Respond et résumés",
+        "Suivi d'ouverture et relances",
+        "Signatures, notes et attribution d'emails"
+      ],
+      "limits": [
+        "L'assistant IA requiert une offre éligible après essai ; les fonctionnalités de tracking imposent une attention à la vie privée et ne garantissent pas qu'une ouverture ait été lue.",
+        "Les résumés ou réponses IA peuvent ignorer des nuances, inventer des engagements ou mal interpréter le contexte d'un échange."
+      ],
+      "gettingStarted": [
+        "Connecter un compte de démonstration ou un espace autorisé et limiter les accès aux messages nécessaires.",
+        "Tester sur un fil non confidentiel, relire chaque suggestion et contrôler les autorisations avant d'activer toute automatisation."
+      ],
+      "examples": [
+        "Résume ce fil en séparant les décisions confirmées, les questions ouvertes et les actions avec leurs responsables.",
+        "Rédige une réponse courte, factuelle et professionnelle ; n'ajoute aucun engagement ou détail non présent dans le fil."
+      ],
+      "pricing": "Vérifier les offres, essais, licences d'équipe et quotas d'utilisation IA directement auprès du fournisseur ; les prix peuvent varier selon la formule et le pays.",
+      "privacy": "Contrôler les permissions de lecture et d'envoi, les durées de conservation, le partage des messages et le traitement par des modèles tiers ; éviter d'exposer des données sensibles sans base légale.",
+      "selection": [
+        "Choisir Mailbutler en fonction des plateformes compatibles, de la collaboration, du contrôle humain et de la confidentialité."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.mailbutler.io/smart-assistant/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.mailbutler.io/pricing/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "sanebox": {
+    "descriptionFr": "Service de tri intelligent fonctionnant avec la messagerie existante, complété par résumés et brouillons de réponse assistés par IA.",
+    "descriptionEn": "Intelligent inbox filtering service working with existing email apps, with AI summaries and reply drafts.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "SaneLater, SaneNews et SaneBlackHole",
+      "SaneSnooze et rappels de suivi",
+      "SaneSummary et Reply Draft"
+    ],
+    "featuresEn": [
+      "SaneLater, SaneNews and SaneBlackHole",
+      "SaneSnooze and follow-up reminders",
+      "SaneSummary and Reply Draft"
+    ],
+    "accessFr": "Web et applications selon fournisseur",
+    "accessEn": "Web and apps by provider",
+    "officialSources": [
+      {
+        "url": "https://www.sanebox.com/help/138-what-is-a-feature",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_service_status"
+      },
+      {
+        "url": "https://www.sanebox.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_service_status"
+      }
+    ],
+    "research": {
+      "headline": "Service de tri intelligent fonctionnant avec la messagerie existante, complété par résumés et brouillons de réponse assistés par IA.",
+      "audiences": [
+        "Professionnels et équipes gérant des échanges par email",
+        "Enseignants, indépendants et organisations selon le besoin"
+      ],
+      "cases": [
+        "Déplacer automatiquement les newsletters et recevoir un résumé quotidien des messages non prioritaires.",
+        "Vérifier l'intention du message, les noms, les échéances et les pièces jointes avant toute diffusion."
+      ],
+      "advantages": [
+        "SaneLater, SaneNews et SaneBlackHole",
+        "SaneSnooze et rappels de suivi",
+        "SaneSummary et Reply Draft"
+      ],
+      "limits": [
+        "Les filtres peuvent mal classer des échanges importants ; les fonctionnalités actives comptent dans les limites du plan et les brouillons nécessitent une validation avant envoi.",
+        "Les résumés ou réponses IA peuvent ignorer des nuances, inventer des engagements ou mal interpréter le contexte d'un échange."
+      ],
+      "gettingStarted": [
+        "Connecter un compte de démonstration ou un espace autorisé et limiter les accès aux messages nécessaires.",
+        "Tester sur un fil non confidentiel, relire chaque suggestion et contrôler les autorisations avant d'activer toute automatisation."
+      ],
+      "examples": [
+        "Résume ce fil en séparant les décisions confirmées, les questions ouvertes et les actions avec leurs responsables.",
+        "Rédige une réponse courte, factuelle et professionnelle ; n'ajoute aucun engagement ou détail non présent dans le fil."
+      ],
+      "pricing": "Vérifier les offres, essais, licences d'équipe et quotas d'utilisation IA directement auprès du fournisseur ; les prix peuvent varier selon la formule et le pays.",
+      "privacy": "Contrôler les permissions de lecture et d'envoi, les durées de conservation, le partage des messages et le traitement par des modèles tiers ; éviter d'exposer des données sensibles sans base légale.",
+      "selection": [
+        "Choisir SaneBox en fonction des plateformes compatibles, de la collaboration, du contrôle humain et de la confidentialité."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.sanebox.com/help/138-what-is-a-feature",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.sanebox.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "missive": {
+    "descriptionFr": "Boîte de réception collaborative pour emails et autres messages, avec affectation, commentaires privés, règles et aide IA.",
+    "descriptionEn": "Collaborative inbox for emails and other messages, with assignments, internal comments, rules and AI support.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Boîtes partagées et affectation",
+      "Brouillons, traductions et résumés IA",
+      "Règles IA et intégrations multicanales"
+    ],
+    "featuresEn": [
+      "Shared inboxes and assignment",
+      "AI drafts, translation and summaries",
+      "AI rules and multichannel integrations"
+    ],
+    "accessFr": "Web et applications pour équipes",
+    "accessEn": "Web and team apps",
+    "officialSources": [
+      {
+        "url": "https://missiveapp.com/pricing",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_service_status"
+      },
+      {
+        "url": "https://missiveapp.com/fr/changelog",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_service_status"
+      }
+    ],
+    "research": {
+      "headline": "Boîte de réception collaborative pour emails et autres messages, avec affectation, commentaires privés, règles et aide IA.",
+      "audiences": [
+        "Services clients et équipes collaboratives",
+        "Enseignants, indépendants et organisations selon le besoin"
+      ],
+      "cases": [
+        "Traiter une demande de support dans une boîte partagée après commentaire et attribution au bon responsable.",
+        "Vérifier l'intention du message, les noms, les échéances et les pièces jointes avant toute diffusion."
+      ],
+      "advantages": [
+        "Boîtes partagées et affectation",
+        "Brouillons, traductions et résumés IA",
+        "Règles IA et intégrations multicanales"
+      ],
+      "limits": [
+        "Les règles IA peuvent agir sur messages entrants et sortants ; paramétrer permissions, approbations et canaux externes. Certaines fonctions utilisent crédits IA ou clés de modèles personnelles.",
+        "Les résumés ou réponses IA peuvent ignorer des nuances, inventer des engagements ou mal interpréter le contexte d'un échange."
+      ],
+      "gettingStarted": [
+        "Connecter un compte de démonstration ou un espace autorisé et limiter les accès aux messages nécessaires.",
+        "Tester sur un fil non confidentiel, relire chaque suggestion et contrôler les autorisations avant d'activer toute automatisation."
+      ],
+      "examples": [
+        "Résume ce fil en séparant les décisions confirmées, les questions ouvertes et les actions avec leurs responsables.",
+        "Rédige une réponse courte, factuelle et professionnelle ; n'ajoute aucun engagement ou détail non présent dans le fil."
+      ],
+      "pricing": "Vérifier les offres, essais, licences d'équipe et quotas d'utilisation IA directement auprès du fournisseur ; les prix peuvent varier selon la formule et le pays.",
+      "privacy": "Contrôler les permissions de lecture et d'envoi, les durées de conservation, le partage des messages et le traitement par des modèles tiers ; éviter d'exposer des données sensibles sans base légale.",
+      "selection": [
+        "Choisir Missive en fonction des plateformes compatibles, de la collaboration, du contrôle humain et de la confidentialité."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://missiveapp.com/pricing",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://missiveapp.com/fr/changelog",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "lavender": {
+    "descriptionFr": "Assistant de coaching pour emails de prospection B2B, évaluant les brouillons, suggérant des personnalisations et des corrections.",
+    "descriptionEn": "B2B sales email coaching tool scoring drafts and suggesting personalization and improvements.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Score et conseils de prospection",
+      "Personnalisation par informations destinataires",
+      "Brouillons et coaching en temps réel"
+    ],
+    "featuresEn": [
+      "Sales outreach scoring and suggestions",
+      "Recipient-based personalization",
+      "Drafting and real-time coaching"
+    ],
+    "accessFr": "Web et applications selon fournisseur",
+    "accessEn": "Web and apps by provider",
+    "officialSources": [
+      {
+        "url": "https://lavender.ai/coach",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_service_status"
+      }
+    ],
+    "research": {
+      "headline": "Assistant de coaching pour emails de prospection B2B, évaluant les brouillons, suggérant des personnalisations et des corrections.",
+      "audiences": [
+        "Équipes commerciales et prospection",
+        "Enseignants, indépendants et organisations selon le besoin"
+      ],
+      "cases": [
+        "Améliorer la clarté d'un premier email de prospection et vérifier les éléments de personnalisation.",
+        "Vérifier l'intention du message, les noms, les échéances et les pièces jointes avant toute diffusion."
+      ],
+      "advantages": [
+        "Score et conseils de prospection",
+        "Personnalisation par informations destinataires",
+        "Brouillons et coaching en temps réel"
+      ],
+      "limits": [
+        "Les scores de qualité sont des indicateurs éditoriaux, pas des garanties de taux de réponse ; respecter le consentement, les règles anti-spam et les données des prospects.",
+        "Les résumés ou réponses IA peuvent ignorer des nuances, inventer des engagements ou mal interpréter le contexte d'un échange."
+      ],
+      "gettingStarted": [
+        "Connecter un compte de démonstration ou un espace autorisé et limiter les accès aux messages nécessaires.",
+        "Tester sur un fil non confidentiel, relire chaque suggestion et contrôler les autorisations avant d'activer toute automatisation."
+      ],
+      "examples": [
+        "Résume ce fil en séparant les décisions confirmées, les questions ouvertes et les actions avec leurs responsables.",
+        "Rédige une réponse courte, factuelle et professionnelle ; n'ajoute aucun engagement ou détail non présent dans le fil."
+      ],
+      "pricing": "Vérifier les offres, essais, licences d'équipe et quotas d'utilisation IA directement auprès du fournisseur ; les prix peuvent varier selon la formule et le pays.",
+      "privacy": "Contrôler les permissions de lecture et d'envoi, les durées de conservation, le partage des messages et le traitement par des modèles tiers ; éviter d'exposer des données sensibles sans base légale.",
+      "selection": [
+        "Choisir Lavender en fonction des plateformes compatibles, de la collaboration, du contrôle humain et de la confidentialité."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://lavender.ai/coach",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "flowrite": {
+    "descriptionFr": "Ancien assistant de rédaction d'emails ; l'activité Flowrite a été acquise puis intégrée à MailMaestro et ne fonctionne plus comme produit autonome.",
+    "descriptionEn": "Former email-writing assistant; the Flowrite business was acquired and integrated into MailMaestro rather than remaining a standalone product.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Rédaction d'emails à partir de notes (historique)",
+      "Personnalisation du ton (historique)",
+      "Successeur MailMaestro"
+    ],
+    "featuresEn": [
+      "Draft emails from notes (historical)",
+      "Tone personalization (historical)",
+      "MailMaestro successor"
+    ],
+    "accessFr": "Service historique — voir MailMaestro",
+    "accessEn": "Historical service — see MailMaestro",
+    "officialSources": [
+      {
+        "url": "https://www.maestrolabs.com/flowrite",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_service_status"
+      },
+      {
+        "url": "https://flow-ai.com/blog/flow-ai-is-joining-aiven",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_service_status"
+      }
+    ],
+    "research": {
+      "headline": "Ancien assistant de rédaction d'emails ; l'activité Flowrite a été acquise puis intégrée à MailMaestro et ne fonctionne plus comme produit autonome.",
+      "audiences": [
+        "Professionnels et équipes gérant des échanges par email",
+        "Enseignants, indépendants et organisations selon le besoin"
+      ],
+      "cases": [
+        "Retrouver l'outil successeur MailMaestro pour rédiger des réponses dans Gmail ou Outlook.",
+        "Vérifier l'intention du message, les noms, les échéances et les pièces jointes avant toute diffusion."
+      ],
+      "advantages": [
+        "Rédaction d'emails à partir de notes (historique)",
+        "Personnalisation du ton (historique)",
+        "Successeur MailMaestro"
+      ],
+      "limits": [
+        "Flowrite n'est plus vendu comme service indépendant. Les prix, extensions et fonctionnalités historiques ne doivent pas être présentés comme une offre actuelle ; consulter MailMaestro.",
+        "Les résumés ou réponses IA peuvent ignorer des nuances, inventer des engagements ou mal interpréter le contexte d'un échange."
+      ],
+      "gettingStarted": [
+        "Consulter la fiche à titre historique et évaluer le service successeur MailMaestro.",
+        "Tester sur un fil non confidentiel, relire chaque suggestion et contrôler les autorisations avant d'activer toute automatisation."
+      ],
+      "examples": [
+        "Résume ce fil en séparant les décisions confirmées, les questions ouvertes et les actions avec leurs responsables.",
+        "Rédige une réponse courte, factuelle et professionnelle ; n'ajoute aucun engagement ou détail non présent dans le fil."
+      ],
+      "pricing": "Produit historique non commercialisé séparément ; vérifier les tarifs de MailMaestro.",
+      "privacy": "Contrôler les permissions de lecture et d'envoi, les durées de conservation, le partage des messages et le traitement par des modèles tiers ; éviter d'exposer des données sensibles sans base légale.",
+      "selection": [
+        "Comparer MailMaestro avec les alternatives actives plutôt que d'évaluer les anciens tarifs Flowrite."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "acquired_and_integrated",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.maestrolabs.com/flowrite",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://flow-ai.com/blog/flow-ai-is-joining-aiven",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_acquired_integrated"
+  },
+  "hubspot-ai-email": {
+    "descriptionFr": "Fonctions de rédaction d'emails assistées par IA intégrées aux outils HubSpot de marketing, vente et suivi CRM.",
+    "descriptionEn": "AI email writing capabilities integrated into HubSpot marketing, sales and CRM workflows.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Génération d'emails marketing",
+      "Réécriture et personnalisation",
+      "Templates, segmentation et suivi CRM"
+    ],
+    "featuresEn": [
+      "Marketing email generation",
+      "Rewriting and personalization",
+      "Templates, segmentation and CRM tracking"
+    ],
+    "accessFr": "Web et applications selon fournisseur",
+    "accessEn": "Web and apps by provider",
+    "officialSources": [
+      {
+        "url": "https://www.hubspot.com/products/marketing/ai-email-writer",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_service_status"
+      },
+      {
+        "url": "https://www.hubspot.com/campaign-assistant/ai-email-copy-generator",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_service_status"
+      }
+    ],
+    "research": {
+      "headline": "Fonctions de rédaction d'emails assistées par IA intégrées aux outils HubSpot de marketing, vente et suivi CRM.",
+      "audiences": [
+        "Équipes marketing et CRM",
+        "Enseignants, indépendants et organisations selon le besoin"
+      ],
+      "cases": [
+        "Rédiger une campagne pour des segments de clients et examiner les résultats dans le CRM.",
+        "Vérifier l'intention du message, les noms, les échéances et les pièces jointes avant toute diffusion."
+      ],
+      "advantages": [
+        "Génération d'emails marketing",
+        "Réécriture et personnalisation",
+        "Templates, segmentation et suivi CRM"
+      ],
+      "limits": [
+        "Le générateur Campaign Assistant est indiqué en bêta publique sur la page dédiée ; consentement, délivrabilité, désinscription et facturation des outils marketing exigent vérification.",
+        "Les résumés ou réponses IA peuvent ignorer des nuances, inventer des engagements ou mal interpréter le contexte d'un échange."
+      ],
+      "gettingStarted": [
+        "Connecter un compte de démonstration ou un espace autorisé et limiter les accès aux messages nécessaires.",
+        "Tester sur un fil non confidentiel, relire chaque suggestion et contrôler les autorisations avant d'activer toute automatisation."
+      ],
+      "examples": [
+        "Résume ce fil en séparant les décisions confirmées, les questions ouvertes et les actions avec leurs responsables.",
+        "Rédige une réponse courte, factuelle et professionnelle ; n'ajoute aucun engagement ou détail non présent dans le fil."
+      ],
+      "pricing": "Vérifier les offres, essais, licences d'équipe et quotas d'utilisation IA directement auprès du fournisseur ; les prix peuvent varier selon la formule et le pays.",
+      "privacy": "Contrôler les permissions de lecture et d'envoi, les durées de conservation, le partage des messages et le traitement par des modèles tiers ; éviter d'exposer des données sensibles sans base légale.",
+      "selection": [
+        "Choisir HubSpot AI Email en fonction des plateformes compatibles, de la collaboration, du contrôle humain et de la confidentialité."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented_beta",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.hubspot.com/products/marketing/ai-email-writer",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.hubspot.com/campaign-assistant/ai-email-copy-generator",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_with_beta_features"
+  },
+  "microsoft-outlook-copilot": {
+    "descriptionFr": "Fonctions Copilot d'Outlook pour rédiger et reformuler des emails, résumer les fils et améliorer le ton des messages.",
+    "descriptionEn": "Copilot features in Outlook for drafting and rewriting emails, summarizing threads and coaching writing tone.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Draft with Copilot et coaching",
+      "Résumé de conversations",
+      "Préparation de réunions et priorisation selon offre"
+    ],
+    "featuresEn": [
+      "Draft with Copilot and coaching",
+      "Thread summaries",
+      "Meeting preparation and plan-dependent prioritization"
+    ],
+    "accessFr": "Intégré à la suite de messagerie selon licence",
+    "accessEn": "Part of email suite by license",
+    "officialSources": [
+      {
+        "url": "https://support.microsoft.com/en-us/outlook/frequently-asked-questions-about-copilot-in-outlook",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_service_status"
+      },
+      {
+        "url": "https://support.microsoft.com/en-us/outlook/copilot-pages/draft-an-email-message-with-copilot-in-outlook",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_service_status"
+      }
+    ],
+    "research": {
+      "headline": "Fonctions Copilot d'Outlook pour rédiger et reformuler des emails, résumer les fils et améliorer le ton des messages.",
+      "audiences": [
+        "Professionnels et équipes gérant des échanges par email",
+        "Enseignants, indépendants et organisations selon le besoin"
+      ],
+      "cases": [
+        "Résumer un fil de discussion puis rédiger une réponse professionnelle dans Outlook.",
+        "Vérifier l'intention du message, les noms, les échéances et les pièces jointes avant toute diffusion."
+      ],
+      "advantages": [
+        "Draft with Copilot et coaching",
+        "Résumé de conversations",
+        "Préparation de réunions et priorisation selon offre"
+      ],
+      "limits": [
+        "Les fonctions sont différentes selon application, compte et licence Microsoft ; certaines nécessitent un environnement professionnel. Toujours vérifier et modifier les brouillons avant envoi.",
+        "Les résumés ou réponses IA peuvent ignorer des nuances, inventer des engagements ou mal interpréter le contexte d'un échange."
+      ],
+      "gettingStarted": [
+        "Connecter un compte de démonstration ou un espace autorisé et limiter les accès aux messages nécessaires.",
+        "Tester sur un fil non confidentiel, relire chaque suggestion et contrôler les autorisations avant d'activer toute automatisation."
+      ],
+      "examples": [
+        "Résume ce fil en séparant les décisions confirmées, les questions ouvertes et les actions avec leurs responsables.",
+        "Rédige une réponse courte, factuelle et professionnelle ; n'ajoute aucun engagement ou détail non présent dans le fil."
+      ],
+      "pricing": "Vérifier les offres, essais, licences d'équipe et quotas d'utilisation IA directement auprès du fournisseur ; les prix peuvent varier selon la formule et le pays.",
+      "privacy": "Contrôler les permissions de lecture et d'envoi, les durées de conservation, le partage des messages et le traitement par des modèles tiers ; éviter d'exposer des données sensibles sans base légale.",
+      "selection": [
+        "Choisir Microsoft Outlook Copilot en fonction des plateformes compatibles, de la collaboration, du contrôle humain et de la confidentialité."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://support.microsoft.com/en-us/outlook/frequently-asked-questions-about-copilot-in-outlook",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://support.microsoft.com/en-us/outlook/copilot-pages/draft-an-email-message-with-copilot-in-outlook",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "gemini-in-gmail": {
+    "descriptionFr": "Assistant Google dans Gmail pour résumer des conversations, retrouver des informations et rédiger ou améliorer des emails.",
+    "descriptionEn": "Google assistant inside Gmail for summarizing threads, finding information, and drafting or improving emails.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Help me write et reformulation",
+      "Résumé de fils et recherche contextuelle",
+      "Accès aux données Workspace autorisées"
+    ],
+    "featuresEn": [
+      "Help me write and rewriting",
+      "Thread summaries and contextual search",
+      "Access to authorized Workspace data"
+    ],
+    "accessFr": "Intégré à la suite de messagerie selon licence",
+    "accessEn": "Part of email suite by license",
+    "officialSources": [
+      {
+        "url": "https://support.google.com/mail/answer/14355636",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_service_status"
+      },
+      {
+        "url": "https://support.google.com/mail/answer/13955415?hl=en-GB",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_service_status"
+      }
+    ],
+    "research": {
+      "headline": "Assistant Google dans Gmail pour résumer des conversations, retrouver des informations et rédiger ou améliorer des emails.",
+      "audiences": [
+        "Professionnels et équipes gérant des échanges par email",
+        "Enseignants, indépendants et organisations selon le besoin"
+      ],
+      "cases": [
+        "Retrouver les points d'action d'un échange et préparer une réponse à relire dans Gmail.",
+        "Vérifier l'intention du message, les noms, les échéances et les pièces jointes avant toute diffusion."
+      ],
+      "advantages": [
+        "Help me write et reformulation",
+        "Résumé de fils et recherche contextuelle",
+        "Accès aux données Workspace autorisées"
+      ],
+      "limits": [
+        "Help me write nécessite une formule ou un compte éligible ; certaines fonctions grand public sont limitées géographiquement et la prise en charge linguistique varie.",
+        "Les résumés ou réponses IA peuvent ignorer des nuances, inventer des engagements ou mal interpréter le contexte d'un échange."
+      ],
+      "gettingStarted": [
+        "Connecter un compte de démonstration ou un espace autorisé et limiter les accès aux messages nécessaires.",
+        "Tester sur un fil non confidentiel, relire chaque suggestion et contrôler les autorisations avant d'activer toute automatisation."
+      ],
+      "examples": [
+        "Résume ce fil en séparant les décisions confirmées, les questions ouvertes et les actions avec leurs responsables.",
+        "Rédige une réponse courte, factuelle et professionnelle ; n'ajoute aucun engagement ou détail non présent dans le fil."
+      ],
+      "pricing": "Vérifier les offres, essais, licences d'équipe et quotas d'utilisation IA directement auprès du fournisseur ; les prix peuvent varier selon la formule et le pays.",
+      "privacy": "Contrôler les permissions de lecture et d'envoi, les durées de conservation, le partage des messages et le traitement par des modèles tiers ; éviter d'exposer des données sensibles sans base légale.",
+      "selection": [
+        "Choisir Gemini in Gmail en fonction des plateformes compatibles, de la collaboration, du contrôle humain et de la confidentialité."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://support.google.com/mail/answer/14355636",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://support.google.com/mail/answer/13955415?hl=en-GB",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  }
+}
