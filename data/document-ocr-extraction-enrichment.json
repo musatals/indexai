@@ -1,0 +1,1354 @@
+{
+  "nanonets": {
+    "descriptionFr": "Plateforme de traitement intelligent des documents combinant reconnaissance, classification, extraction de tableaux, validation humaine et export vers les applications métier.",
+    "descriptionEn": "Intelligent document processing platform combining OCR, classification, table extraction, human validation and business-system exports.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Document Intelligence et extraction de champs",
+      "Classification et séparation de lots",
+      "Seuils de confiance, étapes d'approbation et API"
+    ],
+    "featuresEn": [
+      "Document Intelligence and field extraction",
+      "Batch classification and splitting",
+      "Confidence thresholds, human approvals and APIs"
+    ],
+    "accessFr": "Cloud, workflows et API selon forfait",
+    "accessEn": "Cloud, workflows and APIs by plan",
+    "officialSources": [
+      {
+        "url": "https://docs.nanonets.com/v4/reference/overview",
+        "checkedAt": "2026-11-16",
+        "scope": "documented_capabilities_and_product_status"
+      },
+      {
+        "url": "https://docs.nanonets.com/v4/docs/how-to-setup-your-workflow-1",
+        "checkedAt": "2026-11-16",
+        "scope": "documented_capabilities_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de traitement intelligent des documents combinant reconnaissance, classification, extraction de tableaux, validation humaine et export vers les applications métier.",
+      "audiences": [
+        "Responsables de processus documentaires et opérations",
+        "Équipes ayant besoin d'une traçabilité des données et de contrôles de qualité"
+      ],
+      "cases": [
+        "Traiter des factures fournisseurs en séparant les pages, puis soumettre les montants incertains à un responsable avant export ERP.",
+        "Comparer les champs extraits à une sélection de documents originaux et journaliser toute correction."
+      ],
+      "advantages": [
+        "Document Intelligence et extraction de champs",
+        "Classification et séparation de lots",
+        "Seuils de confiance, étapes d'approbation et API"
+      ],
+      "limits": [
+        "Les pourcentages de précision publiés sont des résultats revendiqués par le fournisseur et ne garantissent pas vos données. Tester les formats réels, l'extraction des lignes et les seuils d'approbation.",
+        "OCR et génération de réponses peuvent altérer chiffres, noms, unités ou tableaux : relire les originaux et faire valider les données à conséquence."
+      ],
+      "gettingStarted": [
+        "Constituer un lot de test représentatif (scans, langues, tableaux, qualités d'image variées) sans données personnelles non autorisées.",
+        "Définir les champs attendus ou questions, vérifier les résultats page par page et calculer précision et coût par document.",
+        "Configurer la revue humaine, la journalisation, le retour arrière et les règles de conservation avant la production."
+      ],
+      "examples": [
+        "Extrait numéro, date, total et lignes de cinq factures ; indique le passage source et signale les valeurs incertaines.",
+        "Résume le dossier avec références aux pages et classe séparément faits vérifiés, informations absentes et interprétations."
+      ],
+      "pricing": "Contrôler prix par page, appels API, OCR avancé, modèles spécifiques, stockage, crédits IA et seuils de volumes sur la grille officielle.",
+      "privacy": "Ne pas transmettre de pièces d'identité, contrats ou dossiers sensibles sans autorisation ; vérifier région de traitement, rétention, sous-traitants, chiffrement et droits de suppression.",
+      "selection": [
+        "Comparer Nanonets selon le besoin (idp), la conservation des tableaux, les langues, les citations, le contrôle des erreurs et le coût par document."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.nanonets.com/v4/reference/overview",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://docs.nanonets.com/v4/docs/how-to-setup-your-workflow-1",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "rossum": {
+    "descriptionFr": "Plateforme de traitement transactionnel Rossum Aurora pour extraire, contrôler et rapprocher les informations de factures et autres documents, désormais au sein de Coupa.",
+    "descriptionEn": "Rossum Aurora transactional document platform for extraction, validation and reconciliation of invoices and other documents, now part of Coupa.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Aurora : capture et extraction transactionnelle",
+      "Validation des champs selon confiance et règles",
+      "Schémas d'extraction et intégration aux processus achats"
+    ],
+    "featuresEn": [
+      "Aurora transactional capture and extraction",
+      "Field validation using confidence and rules",
+      "Extraction schemas and procurement workflows"
+    ],
+    "accessFr": "Cloud, workflows et API selon forfait",
+    "accessEn": "Cloud, workflows and APIs by plan",
+    "officialSources": [
+      {
+        "url": "https://rossum.ai/company/newsroom/press-release-coupa-acquires-rossum/",
+        "checkedAt": "2026-11-16",
+        "scope": "documented_capabilities_and_product_status"
+      },
+      {
+        "url": "https://knowledge-base.rossum.ai/docs/guide-to-automation-process-in-rossum",
+        "checkedAt": "2026-11-16",
+        "scope": "documented_capabilities_and_product_status"
+      },
+      {
+        "url": "https://knowledge-base.rossum.ai/docs/extraction-schema-editor-in-rossum",
+        "checkedAt": "2026-11-16",
+        "scope": "documented_capabilities_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de traitement transactionnel Rossum Aurora pour extraire, contrôler et rapprocher les informations de factures et autres documents, désormais au sein de Coupa.",
+      "audiences": [
+        "Responsables de processus documentaires et opérations",
+        "Équipes ayant besoin d'une traçabilité des données et de contrôles de qualité"
+      ],
+      "cases": [
+        "Importer un ensemble de factures, contrôler les champs litigieux et synchroniser les éléments validés avec le processus achats.",
+        "Comparer les champs extraits à une sélection de documents originaux et journaliser toute correction."
+      ],
+      "advantages": [
+        "Aurora : capture et extraction transactionnelle",
+        "Validation des champs selon confiance et règles",
+        "Schémas d'extraction et intégration aux processus achats"
+      ],
+      "limits": [
+        "Acquis par Coupa le 12 mai 2026, mais Rossum reste proposé sous sa marque. Les contrôles automatiques sur valeurs « confiantes » doivent être évalués, notamment pour taxes, fournisseurs et doublons.",
+        "OCR et génération de réponses peuvent altérer chiffres, noms, unités ou tableaux : relire les originaux et faire valider les données à conséquence."
+      ],
+      "gettingStarted": [
+        "Constituer un lot de test représentatif (scans, langues, tableaux, qualités d'image variées) sans données personnelles non autorisées.",
+        "Définir les champs attendus ou questions, vérifier les résultats page par page et calculer précision et coût par document.",
+        "Configurer la revue humaine, la journalisation, le retour arrière et les règles de conservation avant la production."
+      ],
+      "examples": [
+        "Extrait numéro, date, total et lignes de cinq factures ; indique le passage source et signale les valeurs incertaines.",
+        "Résume le dossier avec références aux pages et classe séparément faits vérifiés, informations absentes et interprétations."
+      ],
+      "pricing": "Contrôler prix par page, appels API, OCR avancé, modèles spécifiques, stockage, crédits IA et seuils de volumes sur la grille officielle.",
+      "privacy": "Ne pas transmettre de pièces d'identité, contrats ou dossiers sensibles sans autorisation ; vérifier région de traitement, rétention, sous-traitants, chiffrement et droits de suppression.",
+      "selection": [
+        "Comparer Rossum selon le besoin (idp), la conservation des tableaux, les langues, les citations, le contrôle des erreurs et le coût par document."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "acquired_and_operating",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://rossum.ai/company/newsroom/press-release-coupa-acquires-rossum/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://knowledge-base.rossum.ai/docs/guide-to-automation-process-in-rossum",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://knowledge-base.rossum.ai/docs/extraction-schema-editor-in-rossum",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_acquired_active"
+  },
+  "veryfi": {
+    "descriptionFr": "API de capture et extraction des données de tickets, factures, chèques, cartes et documents financiers, avec informations détaillées par ligne.",
+    "descriptionEn": "Document-capture and data-extraction APIs for receipts, invoices, checks, cards and financial documents, with itemized line data.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "OCR de tickets et factures avec lignes",
+      "APIs documents financiers et d'identité",
+      "SDK et webhooks d'intégration"
+    ],
+    "featuresEn": [
+      "Receipt and invoice OCR with line items",
+      "Financial and identity document APIs",
+      "Integration SDKs and webhooks"
+    ],
+    "accessFr": "API et SDK ; console ou interface web selon offre",
+    "accessEn": "API and SDK; console or web UI by plan",
+    "officialSources": [
+      {
+        "url": "https://docs.veryfi.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "documented_capabilities_and_product_status"
+      },
+      {
+        "url": "https://faq.veryfi.com/en/articles/5177005-document-types-apis-veryfi-support",
+        "checkedAt": "2026-11-16",
+        "scope": "documented_capabilities_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "API de capture et extraction des données de tickets, factures, chèques, cartes et documents financiers, avec informations détaillées par ligne.",
+      "audiences": [
+        "Développeurs et équipes données",
+        "Équipes ayant besoin d'une traçabilité des données et de contrôles de qualité"
+      ],
+      "cases": [
+        "Extraire automatiquement date, taxe, devise et lignes d'un reçu professionnel et rapprocher le total.",
+        "Comparer les champs extraits à une sélection de documents originaux et journaliser toute correction."
+      ],
+      "advantages": [
+        "OCR de tickets et factures avec lignes",
+        "APIs documents financiers et d'identité",
+        "SDK et webhooks d'intégration"
+      ],
+      "limits": [
+        "Vérifier les devises et langues prises en charge par l'API précise ; les documents financiers et d'identité imposent des contrôles de confidentialité et de conservation.",
+        "OCR et génération de réponses peuvent altérer chiffres, noms, unités ou tableaux : relire les originaux et faire valider les données à conséquence."
+      ],
+      "gettingStarted": [
+        "Constituer un lot de test représentatif (scans, langues, tableaux, qualités d'image variées) sans données personnelles non autorisées.",
+        "Définir les champs attendus ou questions, vérifier les résultats page par page et calculer précision et coût par document.",
+        "Configurer la revue humaine, la journalisation, le retour arrière et les règles de conservation avant la production."
+      ],
+      "examples": [
+        "Extrait numéro, date, total et lignes de cinq factures ; indique le passage source et signale les valeurs incertaines.",
+        "Résume le dossier avec références aux pages et classe séparément faits vérifiés, informations absentes et interprétations."
+      ],
+      "pricing": "Contrôler prix par page, appels API, OCR avancé, modèles spécifiques, stockage, crédits IA et seuils de volumes sur la grille officielle.",
+      "privacy": "Ne pas transmettre de pièces d'identité, contrats ou dossiers sensibles sans autorisation ; vérifier région de traitement, rétention, sous-traitants, chiffrement et droits de suppression.",
+      "selection": [
+        "Comparer Veryfi selon le besoin (api), la conservation des tableaux, les langues, les citations, le contrôle des erreurs et le coût par document."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.veryfi.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://faq.veryfi.com/en/articles/5177005-document-types-apis-veryfi-support",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "mindee": {
+    "descriptionFr": "API de reconnaissance et traitement documentaire Mindee avec modèles d'extraction, OCR, séparation de fichiers et SDK pour applications.",
+    "descriptionEn": "Mindee document processing API with extraction models, OCR, file splitting and developer SDKs.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "API v2 d'extraction documentaire",
+      "OCR, classification/séparation de documents",
+      "SDK et traitements asynchrones"
+    ],
+    "featuresEn": [
+      "Document extraction API v2",
+      "OCR and document splitting",
+      "SDKs and asynchronous processing"
+    ],
+    "accessFr": "API et SDK ; console ou interface web selon offre",
+    "accessEn": "API and SDK; console or web UI by plan",
+    "officialSources": [
+      {
+        "url": "https://docs.mindee.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "documented_capabilities_and_product_status"
+      },
+      {
+        "url": "https://api-v2.mindee.net/docs",
+        "checkedAt": "2026-11-16",
+        "scope": "documented_capabilities_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "API de reconnaissance et traitement documentaire Mindee avec modèles d'extraction, OCR, séparation de fichiers et SDK pour applications.",
+      "audiences": [
+        "Développeurs et équipes données",
+        "Équipes ayant besoin d'une traçabilité des données et de contrôles de qualité"
+      ],
+      "cases": [
+        "Extraire des champs de factures en API puis comparer la réponse aux valeurs saisies pour un dossier test.",
+        "Comparer les champs extraits à une sélection de documents originaux et journaliser toute correction."
+      ],
+      "advantages": [
+        "API v2 d'extraction documentaire",
+        "OCR, classification/séparation de documents",
+        "SDK et traitements asynchrones"
+      ],
+      "limits": [
+        "La documentation différencie la plateforme v1 et l'application v2 ; vérifier endpoint, modèle, compatibilité SDK, limites de pages et coûts avant toute migration.",
+        "OCR et génération de réponses peuvent altérer chiffres, noms, unités ou tableaux : relire les originaux et faire valider les données à conséquence."
+      ],
+      "gettingStarted": [
+        "Constituer un lot de test représentatif (scans, langues, tableaux, qualités d'image variées) sans données personnelles non autorisées.",
+        "Définir les champs attendus ou questions, vérifier les résultats page par page et calculer précision et coût par document.",
+        "Configurer la revue humaine, la journalisation, le retour arrière et les règles de conservation avant la production."
+      ],
+      "examples": [
+        "Extrait numéro, date, total et lignes de cinq factures ; indique le passage source et signale les valeurs incertaines.",
+        "Résume le dossier avec références aux pages et classe séparément faits vérifiés, informations absentes et interprétations."
+      ],
+      "pricing": "Contrôler prix par page, appels API, OCR avancé, modèles spécifiques, stockage, crédits IA et seuils de volumes sur la grille officielle.",
+      "privacy": "Ne pas transmettre de pièces d'identité, contrats ou dossiers sensibles sans autorisation ; vérifier région de traitement, rétention, sous-traitants, chiffrement et droits de suppression.",
+      "selection": [
+        "Comparer Mindee selon le besoin (api), la conservation des tableaux, les langues, les citations, le contrôle des erreurs et le coût par document."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "api_v2_documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.mindee.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://api-v2.mindee.net/docs",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_v2_documented"
+  },
+  "docsumo": {
+    "descriptionFr": "Plateforme de traitement documentaire centrée sur les dossiers métier : collecte, classification, extraction, comparaison entre pièces, exceptions et workflows.",
+    "descriptionEn": "Document processing platform for business cases: intake, classification, extraction, cross-document checks, exception review and workflows.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Collecte email/API et séparation des documents",
+      "Extraction de champs et tableaux avec confiance",
+      "Validation croisée, files de revue et export webhooks"
+    ],
+    "featuresEn": [
+      "Email/API intake and document splitting",
+      "Field and table extraction with confidence",
+      "Cross-document verification, review queues and webhooks"
+    ],
+    "accessFr": "Cloud, workflows et API selon forfait",
+    "accessEn": "Cloud, workflows and APIs by plan",
+    "officialSources": [
+      {
+        "url": "https://www.docsumo.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "documented_capabilities_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de traitement documentaire centrée sur les dossiers métier : collecte, classification, extraction, comparaison entre pièces, exceptions et workflows.",
+      "audiences": [
+        "Responsables de processus documentaires et opérations",
+        "Équipes ayant besoin d'une traçabilité des données et de contrôles de qualité"
+      ],
+      "cases": [
+        "Constituer un dossier avec pièces justificatives et signaler les incohérences entre montants ou identité avant décision.",
+        "Comparer les champs extraits à une sélection de documents originaux et journaliser toute correction."
+      ],
+      "advantages": [
+        "Collecte email/API et séparation des documents",
+        "Extraction de champs et tableaux avec confiance",
+        "Validation croisée, files de revue et export webhooks"
+      ],
+      "limits": [
+        "Les chiffres de performance et de fraude sont des déclarations commerciales : mesurer taux de faux positifs, erreurs documentaires et qualité des rapprochements avec vos dossiers.",
+        "OCR et génération de réponses peuvent altérer chiffres, noms, unités ou tableaux : relire les originaux et faire valider les données à conséquence."
+      ],
+      "gettingStarted": [
+        "Constituer un lot de test représentatif (scans, langues, tableaux, qualités d'image variées) sans données personnelles non autorisées.",
+        "Définir les champs attendus ou questions, vérifier les résultats page par page et calculer précision et coût par document.",
+        "Configurer la revue humaine, la journalisation, le retour arrière et les règles de conservation avant la production."
+      ],
+      "examples": [
+        "Extrait numéro, date, total et lignes de cinq factures ; indique le passage source et signale les valeurs incertaines.",
+        "Résume le dossier avec références aux pages et classe séparément faits vérifiés, informations absentes et interprétations."
+      ],
+      "pricing": "Contrôler prix par page, appels API, OCR avancé, modèles spécifiques, stockage, crédits IA et seuils de volumes sur la grille officielle.",
+      "privacy": "Ne pas transmettre de pièces d'identité, contrats ou dossiers sensibles sans autorisation ; vérifier région de traitement, rétention, sous-traitants, chiffrement et droits de suppression.",
+      "selection": [
+        "Comparer Docsumo selon le besoin (idp), la conservation des tableaux, les langues, les citations, le contrôle des erreurs et le coût par document."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.docsumo.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "klippa": {
+    "descriptionFr": "Anciennement Klippa DocHorizon, Doxis AI.dp est une plateforme d'OCR et de workflows documentaires pour extraire, classer, masquer et vérifier les données.",
+    "descriptionEn": "Doxis AI.dp, formerly Klippa DocHorizon, is an OCR and document workflow platform for extracting, classifying, masking and validating data.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "OCR, classification et conversion",
+      "Anonymisation et détection de falsification",
+      "Workflows, contrôles humains, API et SDK"
+    ],
+    "featuresEn": [
+      "OCR, classification and conversion",
+      "Anonymization and fraud checks",
+      "Workflows, human review, API and SDK"
+    ],
+    "accessFr": "Cloud, workflows et API selon forfait",
+    "accessEn": "Cloud, workflows and APIs by plan",
+    "officialSources": [
+      {
+        "url": "https://www.klippa.com/en/about-us/",
+        "checkedAt": "2026-11-16",
+        "scope": "documented_capabilities_and_product_status"
+      },
+      {
+        "url": "https://www.klippa.com/en/dochorizon/",
+        "checkedAt": "2026-11-16",
+        "scope": "documented_capabilities_and_product_status"
+      },
+      {
+        "url": "https://www.klippa.com/en/newsroom/ser-group-acquires-klippa/",
+        "checkedAt": "2026-11-16",
+        "scope": "documented_capabilities_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Anciennement Klippa DocHorizon, Doxis AI.dp est une plateforme d'OCR et de workflows documentaires pour extraire, classer, masquer et vérifier les données.",
+      "audiences": [
+        "Responsables de processus documentaires et opérations",
+        "Équipes ayant besoin d'une traçabilité des données et de contrôles de qualité"
+      ],
+      "cases": [
+        "Extraire des données de documents d'identité autorisés et les masquer dans les copies de travail après vérification.",
+        "Comparer les champs extraits à une sélection de documents originaux et journaliser toute correction."
+      ],
+      "advantages": [
+        "OCR, classification et conversion",
+        "Anonymisation et détection de falsification",
+        "Workflows, contrôles humains, API et SDK"
+      ],
+      "limits": [
+        "Klippa opère sous la marque Doxis depuis mars 2026 ; DocHorizon est devenu Doxis AI.dp. Vérifier les garanties de conformité, la procédure KYC et l'exactitude des contrôles anti-fraude avant déploiement.",
+        "OCR et génération de réponses peuvent altérer chiffres, noms, unités ou tableaux : relire les originaux et faire valider les données à conséquence."
+      ],
+      "gettingStarted": [
+        "Constituer un lot de test représentatif (scans, langues, tableaux, qualités d'image variées) sans données personnelles non autorisées.",
+        "Définir les champs attendus ou questions, vérifier les résultats page par page et calculer précision et coût par document.",
+        "Configurer la revue humaine, la journalisation, le retour arrière et les règles de conservation avant la production."
+      ],
+      "examples": [
+        "Extrait numéro, date, total et lignes de cinq factures ; indique le passage source et signale les valeurs incertaines.",
+        "Résume le dossier avec références aux pages et classe séparément faits vérifiés, informations absentes et interprétations."
+      ],
+      "pricing": "Contrôler prix par page, appels API, OCR avancé, modèles spécifiques, stockage, crédits IA et seuils de volumes sur la grille officielle.",
+      "privacy": "Ne pas transmettre de pièces d'identité, contrats ou dossiers sensibles sans autorisation ; vérifier région de traitement, rétention, sous-traitants, chiffrement et droits de suppression.",
+      "selection": [
+        "Comparer Klippa selon le besoin (idp), la conservation des tableaux, les langues, les citations, le contrôle des erreurs et le coût par document."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "rebranded_doxis",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.klippa.com/en/about-us/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.klippa.com/en/dochorizon/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.klippa.com/en/newsroom/ser-group-acquires-klippa/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_rebranded",
+    "name": "Doxis AI.dp (Klippa)",
+    "url": "https://www.klippa.com/en/dochorizon/"
+  },
+  "azure-ai-document-intelligence": {
+    "descriptionFr": "Service Azure Document Intelligence pour OCR, extraction de structure, formulaires préentraînés et modèles personnalisés à partir de documents.",
+    "descriptionEn": "Azure Document Intelligence for OCR, layout extraction, prebuilt forms and custom document models.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Layout v4 : titres, tableaux et cases",
+      "Modèles de factures, reçus et identités",
+      "Modèles personnalisés et API REST/SDK"
+    ],
+    "featuresEn": [
+      "Layout v4: headings, tables and marks",
+      "Prebuilt invoice, receipt and ID models",
+      "Custom models and REST APIs/SDKs"
+    ],
+    "accessFr": "Cloud, Studio et APIs selon plateforme",
+    "accessEn": "Cloud, Studio and platform APIs",
+    "officialSources": [
+      {
+        "url": "https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/prebuilt/layout",
+        "checkedAt": "2026-11-16",
+        "scope": "documented_capabilities_and_product_status"
+      },
+      {
+        "url": "https://learn.microsoft.com/en-us/azure/ai-services/content-understanding/choosing-right-ai-tool",
+        "checkedAt": "2026-11-16",
+        "scope": "documented_capabilities_and_product_status"
+      },
+      {
+        "url": "https://learn.microsoft.com/azure/ai-services/document-intelligence/whats-new",
+        "checkedAt": "2026-11-16",
+        "scope": "documented_capabilities_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Service Azure Document Intelligence pour OCR, extraction de structure, formulaires préentraînés et modèles personnalisés à partir de documents.",
+      "audiences": [
+        "Développeurs et équipes données",
+        "Équipes ayant besoin d'une traçabilité des données et de contrôles de qualité"
+      ],
+      "cases": [
+        "Extraire des tableaux d'un rapport PDF puis créer un formulaire structuré avec vérification des valeurs.",
+        "Comparer les champs extraits à une sélection de documents originaux et journaliser toute correction."
+      ],
+      "advantages": [
+        "Layout v4 : titres, tableaux et cases",
+        "Modèles de factures, reçus et identités",
+        "Modèles personnalisés et API REST/SDK"
+      ],
+      "limits": [
+        "Dans v4, le modèle général prebuilt-document est remplacé pour certains usages par Layout avec keyValuePairs ; les anciennes API ont des dates de retrait. Les capacités, limites, régions et prix diffèrent selon le modèle.",
+        "OCR et génération de réponses peuvent altérer chiffres, noms, unités ou tableaux : relire les originaux et faire valider les données à conséquence."
+      ],
+      "gettingStarted": [
+        "Constituer un lot de test représentatif (scans, langues, tableaux, qualités d'image variées) sans données personnelles non autorisées.",
+        "Définir les champs attendus ou questions, vérifier les résultats page par page et calculer précision et coût par document.",
+        "Configurer la revue humaine, la journalisation, le retour arrière et les règles de conservation avant la production."
+      ],
+      "examples": [
+        "Extrait numéro, date, total et lignes de cinq factures ; indique le passage source et signale les valeurs incertaines.",
+        "Résume le dossier avec références aux pages et classe séparément faits vérifiés, informations absentes et interprétations."
+      ],
+      "pricing": "Contrôler prix par page, appels API, OCR avancé, modèles spécifiques, stockage, crédits IA et seuils de volumes sur la grille officielle.",
+      "privacy": "Ne pas transmettre de pièces d'identité, contrats ou dossiers sensibles sans autorisation ; vérifier région de traitement, rétention, sous-traitants, chiffrement et droits de suppression.",
+      "selection": [
+        "Comparer Azure AI Document Intelligence selon le besoin (cloud), la conservation des tableaux, les langues, les citations, le contrôle des erreurs et le coût par document."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "migration_guidance_v4",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/prebuilt/layout",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://learn.microsoft.com/en-us/azure/ai-services/content-understanding/choosing-right-ai-tool",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://learn.microsoft.com/azure/ai-services/document-intelligence/whats-new",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_migration_guide"
+  },
+  "google-document-ai": {
+    "descriptionFr": "Service Google Cloud Document AI pour OCR, analyse des mises en page, extraction de factures et traitement de documents via processeurs spécialisés.",
+    "descriptionEn": "Google Cloud Document AI for OCR, layout analysis, invoice extraction and specialized document processors.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Enterprise OCR et Layout Parser",
+      "Invoice Parser et processeurs spécialisés",
+      "Versions de processeurs et déploiement régional"
+    ],
+    "featuresEn": [
+      "Enterprise OCR and Layout Parser",
+      "Invoice Parser and specialized processors",
+      "Processor versions and regional deployment"
+    ],
+    "accessFr": "Cloud, Studio et APIs selon plateforme",
+    "accessEn": "Cloud, Studio and platform APIs",
+    "officialSources": [
+      {
+        "url": "https://docs.cloud.google.com/document-ai/docs/processors-list",
+        "checkedAt": "2026-11-16",
+        "scope": "documented_capabilities_and_product_status"
+      },
+      {
+        "url": "https://docs.cloud.google.com/document-ai/docs/release-notes",
+        "checkedAt": "2026-11-16",
+        "scope": "documented_capabilities_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Service Google Cloud Document AI pour OCR, analyse des mises en page, extraction de factures et traitement de documents via processeurs spécialisés.",
+      "audiences": [
+        "Développeurs et équipes données",
+        "Équipes ayant besoin d'une traçabilité des données et de contrôles de qualité"
+      ],
+      "cases": [
+        "Extraire les lignes d'une facture et structurer un tableau de dépenses tout en conservant la référence du document.",
+        "Comparer les champs extraits à une sélection de documents originaux et journaliser toute correction."
+      ],
+      "advantages": [
+        "Enterprise OCR et Layout Parser",
+        "Invoice Parser et processeurs spécialisés",
+        "Versions de processeurs et déploiement régional"
+      ],
+      "limits": [
+        "Certaines versions de processeurs doivent être migrées ; le Layout Parser en Preview fondé sur Gemini peut appeler un endpoint global, ce qui ne garantit pas la résidence régionale des données. Vérifier langue et région.",
+        "OCR et génération de réponses peuvent altérer chiffres, noms, unités ou tableaux : relire les originaux et faire valider les données à conséquence."
+      ],
+      "gettingStarted": [
+        "Constituer un lot de test représentatif (scans, langues, tableaux, qualités d'image variées) sans données personnelles non autorisées.",
+        "Définir les champs attendus ou questions, vérifier les résultats page par page et calculer précision et coût par document.",
+        "Configurer la revue humaine, la journalisation, le retour arrière et les règles de conservation avant la production."
+      ],
+      "examples": [
+        "Extrait numéro, date, total et lignes de cinq factures ; indique le passage source et signale les valeurs incertaines.",
+        "Résume le dossier avec références aux pages et classe séparément faits vérifiés, informations absentes et interprétations."
+      ],
+      "pricing": "Contrôler prix par page, appels API, OCR avancé, modèles spécifiques, stockage, crédits IA et seuils de volumes sur la grille officielle.",
+      "privacy": "Ne pas transmettre de pièces d'identité, contrats ou dossiers sensibles sans autorisation ; vérifier région de traitement, rétention, sous-traitants, chiffrement et droits de suppression.",
+      "selection": [
+        "Comparer Google Document AI selon le besoin (cloud), la conservation des tableaux, les langues, les citations, le contrôle des erreurs et le coût par document."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "processor_versions_updated",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.cloud.google.com/document-ai/docs/processors-list",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://docs.cloud.google.com/document-ai/docs/release-notes",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_versions_updated"
+  },
+  "amazon-textract": {
+    "descriptionFr": "API AWS de reconnaissance de texte, formulaires, tableaux, signatures, données de reçus et questions d'extraction ciblées.",
+    "descriptionEn": "AWS API for text recognition, forms, tables, signatures, expense data and targeted extraction queries.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "DetectDocumentText et AnalyzeDocument",
+      "AnalyzeExpense et AnalyzeID",
+      "Queries, signatures et scores de confiance"
+    ],
+    "featuresEn": [
+      "DetectDocumentText and AnalyzeDocument",
+      "AnalyzeExpense and AnalyzeID",
+      "Queries, signatures and confidence scores"
+    ],
+    "accessFr": "Cloud, Studio et APIs selon plateforme",
+    "accessEn": "Cloud, Studio and platform APIs",
+    "officialSources": [
+      {
+        "url": "https://aws.amazon.com/textract/features/",
+        "checkedAt": "2026-11-16",
+        "scope": "documented_capabilities_and_product_status"
+      },
+      {
+        "url": "https://docs.aws.amazon.com/textract/latest/dg/how-it-works-analyzing.html",
+        "checkedAt": "2026-11-16",
+        "scope": "documented_capabilities_and_product_status"
+      },
+      {
+        "url": "https://aws.amazon.com/textract/faqs/",
+        "checkedAt": "2026-11-16",
+        "scope": "documented_capabilities_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "API AWS de reconnaissance de texte, formulaires, tableaux, signatures, données de reçus et questions d'extraction ciblées.",
+      "audiences": [
+        "Développeurs et équipes données",
+        "Équipes ayant besoin d'une traçabilité des données et de contrôles de qualité"
+      ],
+      "cases": [
+        "Identifier des champs, tableaux et signatures dans un formulaire, puis valider chaque résultat avant enregistrement.",
+        "Comparer les champs extraits à une sélection de documents originaux et journaliser toute correction."
+      ],
+      "advantages": [
+        "DetectDocumentText et AnalyzeDocument",
+        "AnalyzeExpense et AnalyzeID",
+        "Queries, signatures et scores de confiance"
+      ],
+      "limits": [
+        "Les langues varient par fonctionnalité : certaines APIs de pièces d'identité et les requêtes sont documentées pour l'anglais. Les coûts s'additionnent selon pages et fonctionnalités appelées.",
+        "OCR et génération de réponses peuvent altérer chiffres, noms, unités ou tableaux : relire les originaux et faire valider les données à conséquence."
+      ],
+      "gettingStarted": [
+        "Constituer un lot de test représentatif (scans, langues, tableaux, qualités d'image variées) sans données personnelles non autorisées.",
+        "Définir les champs attendus ou questions, vérifier les résultats page par page et calculer précision et coût par document.",
+        "Configurer la revue humaine, la journalisation, le retour arrière et les règles de conservation avant la production."
+      ],
+      "examples": [
+        "Extrait numéro, date, total et lignes de cinq factures ; indique le passage source et signale les valeurs incertaines.",
+        "Résume le dossier avec références aux pages et classe séparément faits vérifiés, informations absentes et interprétations."
+      ],
+      "pricing": "Contrôler prix par page, appels API, OCR avancé, modèles spécifiques, stockage, crédits IA et seuils de volumes sur la grille officielle.",
+      "privacy": "Ne pas transmettre de pièces d'identité, contrats ou dossiers sensibles sans autorisation ; vérifier région de traitement, rétention, sous-traitants, chiffrement et droits de suppression.",
+      "selection": [
+        "Comparer Amazon Textract selon le besoin (cloud), la conservation des tableaux, les langues, les citations, le contrôle des erreurs et le coût par document."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://aws.amazon.com/textract/features/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://docs.aws.amazon.com/textract/latest/dg/how-it-works-analyzing.html",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://aws.amazon.com/textract/faqs/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "unstructured": {
+    "descriptionFr": "Outils open source et services Unstructured pour découper des documents en éléments exploitables (titres, paragraphes, tableaux, images) et préparer l'indexation RAG.",
+    "descriptionEn": "Open-source and managed Unstructured tools that partition documents into titles, paragraphs, tables and images for RAG indexing.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Partition et extraction d'éléments structurés",
+      "Stratégies fast, hi_res et ocr_only",
+      "Chunking, métadonnées et API gérée"
+    ],
+    "featuresEn": [
+      "Structured element partitioning",
+      "fast, hi_res and ocr_only strategies",
+      "Chunking, metadata and managed API"
+    ],
+    "accessFr": "Bibliothèque open source, API managée et auto-hébergement",
+    "accessEn": "Open-source library, managed API and self-hosting",
+    "officialSources": [
+      {
+        "url": "https://github.com/Unstructured-IO/unstructured",
+        "checkedAt": "2026-11-16",
+        "scope": "documented_capabilities_and_product_status"
+      },
+      {
+        "url": "https://github.com/Unstructured-IO/unstructured-api",
+        "checkedAt": "2026-11-16",
+        "scope": "documented_capabilities_and_product_status"
+      },
+      {
+        "url": "https://docs.unstructured.io/",
+        "checkedAt": "2026-11-16",
+        "scope": "documented_capabilities_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Outils open source et services Unstructured pour découper des documents en éléments exploitables (titres, paragraphes, tableaux, images) et préparer l'indexation RAG.",
+      "audiences": [
+        "Ingénieurs RAG et gestionnaires d'index documentaires",
+        "Équipes ayant besoin d'une traçabilité des données et de contrôles de qualité"
+      ],
+      "cases": [
+        "Transformer un corpus PDF en blocs avec titres et numéros de page pour alimenter un moteur de recherche documentaire.",
+        "Comparer les champs extraits à une sélection de documents originaux et journaliser toute correction."
+      ],
+      "advantages": [
+        "Partition et extraction d'éléments structurés",
+        "Stratégies fast, hi_res et ocr_only",
+        "Chunking, métadonnées et API gérée"
+      ],
+      "limits": [
+        "Le découpage correct dépend de la stratégie OCR et des langues installées ; distinguer la bibliothèque libre, le serveur API auto-hébergé et le service managé, aux coûts et licences distincts.",
+        "OCR et génération de réponses peuvent altérer chiffres, noms, unités ou tableaux : relire les originaux et faire valider les données à conséquence."
+      ],
+      "gettingStarted": [
+        "Constituer un lot de test représentatif (scans, langues, tableaux, qualités d'image variées) sans données personnelles non autorisées.",
+        "Définir les champs attendus ou questions, vérifier les résultats page par page et calculer précision et coût par document.",
+        "Configurer la revue humaine, la journalisation, le retour arrière et les règles de conservation avant la production."
+      ],
+      "examples": [
+        "Extrait numéro, date, total et lignes de cinq factures ; indique le passage source et signale les valeurs incertaines.",
+        "Résume le dossier avec références aux pages et classe séparément faits vérifiés, informations absentes et interprétations."
+      ],
+      "pricing": "Contrôler prix par page, appels API, OCR avancé, modèles spécifiques, stockage, crédits IA et seuils de volumes sur la grille officielle.",
+      "privacy": "Ne pas transmettre de pièces d'identité, contrats ou dossiers sensibles sans autorisation ; vérifier région de traitement, rétention, sous-traitants, chiffrement et droits de suppression.",
+      "selection": [
+        "Comparer Unstructured selon le besoin (open_source), la conservation des tableaux, les langues, les citations, le contrôle des erreurs et le coût par document."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://github.com/Unstructured-IO/unstructured",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://github.com/Unstructured-IO/unstructured-api",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://docs.unstructured.io/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "llamaparse": {
+    "descriptionFr": "Plateforme LlamaParse pour préparer les documents aux applications RAG, avec Parse, Extract, Classify, Split et Index et une sortie structurée.",
+    "descriptionEn": "LlamaParse document platform for RAG with Parse, Extract, Classify, Split and Index producing structured outputs.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Parse : OCR sensible aux mises en page et tableaux",
+      "Extract : JSON avec schéma, confiance et citations",
+      "Classify, Split et Index pour pipelines RAG"
+    ],
+    "featuresEn": [
+      "Layout-aware OCR Parse with tables",
+      "Schema-based Extract with confidence and citations",
+      "Classify, Split and Index for RAG pipelines"
+    ],
+    "accessFr": "API et SDK ; console ou interface web selon offre",
+    "accessEn": "API and SDK; console or web UI by plan",
+    "officialSources": [
+      {
+        "url": "https://developers.llamaindex.ai/llamaparse/quickstart/",
+        "checkedAt": "2026-11-16",
+        "scope": "documented_capabilities_and_product_status"
+      },
+      {
+        "url": "https://developers.llamaindex.ai/llamaparse/parse/",
+        "checkedAt": "2026-11-16",
+        "scope": "documented_capabilities_and_product_status"
+      },
+      {
+        "url": "https://developers.llamaindex.ai/llamaparse/general/faq/",
+        "checkedAt": "2026-11-16",
+        "scope": "documented_capabilities_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme LlamaParse pour préparer les documents aux applications RAG, avec Parse, Extract, Classify, Split et Index et une sortie structurée.",
+      "audiences": [
+        "Développeurs et équipes données",
+        "Équipes ayant besoin d'une traçabilité des données et de contrôles de qualité"
+      ],
+      "cases": [
+        "Préparer des rapports scientifiques en Markdown et conserver tables et références lors de la création d'un index consultable.",
+        "Comparer les champs extraits à une sélection de documents originaux et journaliser toute correction."
+      ],
+      "advantages": [
+        "Parse : OCR sensible aux mises en page et tableaux",
+        "Extract : JSON avec schéma, confiance et citations",
+        "Classify, Split et Index pour pipelines RAG"
+      ],
+      "limits": [
+        "Parse, Extract et Index sont des opérations distinctes, avec des crédits propres ; la lecture d'un tableau complexe doit être confrontée à l'original. Vérifier confidentialité, région de traitement et coût par page.",
+        "OCR et génération de réponses peuvent altérer chiffres, noms, unités ou tableaux : relire les originaux et faire valider les données à conséquence."
+      ],
+      "gettingStarted": [
+        "Constituer un lot de test représentatif (scans, langues, tableaux, qualités d'image variées) sans données personnelles non autorisées.",
+        "Définir les champs attendus ou questions, vérifier les résultats page par page et calculer précision et coût par document.",
+        "Configurer la revue humaine, la journalisation, le retour arrière et les règles de conservation avant la production."
+      ],
+      "examples": [
+        "Extrait numéro, date, total et lignes de cinq factures ; indique le passage source et signale les valeurs incertaines.",
+        "Résume le dossier avec références aux pages et classe séparément faits vérifiés, informations absentes et interprétations."
+      ],
+      "pricing": "Contrôler prix par page, appels API, OCR avancé, modèles spécifiques, stockage, crédits IA et seuils de volumes sur la grille officielle.",
+      "privacy": "Ne pas transmettre de pièces d'identité, contrats ou dossiers sensibles sans autorisation ; vérifier région de traitement, rétention, sous-traitants, chiffrement et droits de suppression.",
+      "selection": [
+        "Comparer LlamaParse selon le besoin (developer), la conservation des tableaux, les langues, les citations, le contrôle des erreurs et le coût par document."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "product_platform_expanded",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://developers.llamaindex.ai/llamaparse/quickstart/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://developers.llamaindex.ai/llamaparse/parse/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://developers.llamaindex.ai/llamaparse/general/faq/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_platform_updated"
+  },
+  "mistral-ocr": {
+    "descriptionFr": "API Mistral Document AI OCR pour extraire texte et structure de PDF et images, avec tableaux, blocs, scores de confiance et sorties exploitables.",
+    "descriptionEn": "Mistral Document AI OCR API for text and structure extraction from PDFs and images with tables, blocks, confidence scores and usable outputs.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "OCR 4.1 et alias mistral-ocr-latest",
+      "Blocs structurés, boîtes et scores de confiance",
+      "Sorties tableaux HTML/Markdown et en-têtes"
+    ],
+    "featuresEn": [
+      "OCR 4.1 and mistral-ocr-latest alias",
+      "Structured blocks, bounding boxes and confidence",
+      "HTML/Markdown tables and headers"
+    ],
+    "accessFr": "Cloud, Studio et APIs selon plateforme",
+    "accessEn": "Cloud, Studio and platform APIs",
+    "officialSources": [
+      {
+        "url": "https://docs.mistral.ai/studio/document-processing/basic_ocr",
+        "checkedAt": "2026-11-16",
+        "scope": "documented_capabilities_and_product_status"
+      },
+      {
+        "url": "https://docs.mistral.ai/resources/changelogs",
+        "checkedAt": "2026-11-16",
+        "scope": "documented_capabilities_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "API Mistral Document AI OCR pour extraire texte et structure de PDF et images, avec tableaux, blocs, scores de confiance et sorties exploitables.",
+      "audiences": [
+        "Développeurs et équipes données",
+        "Équipes ayant besoin d'une traçabilité des données et de contrôles de qualité"
+      ],
+      "cases": [
+        "Lire un PDF scanné multicolonne et reconstruire un plan hiérarchique avec référence aux pages et confiance sur les blocs.",
+        "Comparer les champs extraits à une sélection de documents originaux et journaliser toute correction."
+      ],
+      "advantages": [
+        "OCR 4.1 et alias mistral-ocr-latest",
+        "Blocs structurés, boîtes et scores de confiance",
+        "Sorties tableaux HTML/Markdown et en-têtes"
+      ],
+      "limits": [
+        "OCR 4.0 a été retiré le 30 septembre 2026 et OCR 4.1 est recommandé ; certaines options comme les blocs dépendent des versions du modèle. Vérifier tables et équations et limiter les documents sensibles.",
+        "OCR et génération de réponses peuvent altérer chiffres, noms, unités ou tableaux : relire les originaux et faire valider les données à conséquence."
+      ],
+      "gettingStarted": [
+        "Constituer un lot de test représentatif (scans, langues, tableaux, qualités d'image variées) sans données personnelles non autorisées.",
+        "Définir les champs attendus ou questions, vérifier les résultats page par page et calculer précision et coût par document.",
+        "Configurer la revue humaine, la journalisation, le retour arrière et les règles de conservation avant la production."
+      ],
+      "examples": [
+        "Extrait numéro, date, total et lignes de cinq factures ; indique le passage source et signale les valeurs incertaines.",
+        "Résume le dossier avec références aux pages et classe séparément faits vérifiés, informations absentes et interprétations."
+      ],
+      "pricing": "Contrôler prix par page, appels API, OCR avancé, modèles spécifiques, stockage, crédits IA et seuils de volumes sur la grille officielle.",
+      "privacy": "Ne pas transmettre de pièces d'identité, contrats ou dossiers sensibles sans autorisation ; vérifier région de traitement, rétention, sous-traitants, chiffrement et droits de suppression.",
+      "selection": [
+        "Comparer Mistral OCR selon le besoin (cloud), la conservation des tableaux, les langues, les citations, le contrôle des erreurs et le coût par document."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "latest_ocr_4_1",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.mistral.ai/studio/document-processing/basic_ocr",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://docs.mistral.ai/resources/changelogs",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_model_updated"
+  },
+  "adobe-acrobat-ai-assistant": {
+    "descriptionFr": "Assistant documentaire d'Adobe Acrobat pour résumer, interroger et comparer des PDF, avec liens vers les passages sources dans les réponses.",
+    "descriptionEn": "Adobe Acrobat document assistant for summarizing, querying and comparing PDFs with links to supporting source passages.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Questions et résumés avec citations",
+      "PDF Spaces : plusieurs fichiers et liens",
+      "Assistant Plus : présentations et aperçus audio"
+    ],
+    "featuresEn": [
+      "Cited questions and summaries",
+      "PDF Spaces across files and links",
+      "Assistant Plus decks and audio overviews"
+    ],
+    "accessFr": "Web, applications et/ou API selon service",
+    "accessEn": "Web, apps and/or APIs by service",
+    "officialSources": [
+      {
+        "url": "https://helpx.adobe.com/ca/acrobat/desktop/use-acrobat-ai/generative-ai-features/ai-get-answers.html",
+        "checkedAt": "2026-11-16",
+        "scope": "documented_capabilities_and_product_status"
+      },
+      {
+        "url": "https://helpx.adobe.com/acrobat/desktop/use-acrobat-ai/ai-assistant-plus-acrobat.html",
+        "checkedAt": "2026-11-16",
+        "scope": "documented_capabilities_and_product_status"
+      },
+      {
+        "url": "https://helpx.adobe.com/acrobat/desktop/use-acrobat-ai/understand-usage-policies/user-disclosures.html",
+        "checkedAt": "2026-11-16",
+        "scope": "documented_capabilities_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Assistant documentaire d'Adobe Acrobat pour résumer, interroger et comparer des PDF, avec liens vers les passages sources dans les réponses.",
+      "audiences": [
+        "Enseignants, chercheurs et lecteurs de dossiers",
+        "Équipes ayant besoin d'une traçabilité des données et de contrôles de qualité"
+      ],
+      "cases": [
+        "Comparer deux rapports PDF et ouvrir les passages cités avant de rédiger une synthèse pour une équipe.",
+        "Comparer les champs extraits à une sélection de documents originaux et journaliser toute correction."
+      ],
+      "advantages": [
+        "Questions et résumés avec citations",
+        "PDF Spaces : plusieurs fichiers et liens",
+        "Assistant Plus : présentations et aperçus audio"
+      ],
+      "limits": [
+        "Adobe signale que certaines citations peuvent être incorrectes et que des questions dans une langue différente de celle du document peuvent ne pas recevoir de citations. Les fonctions Plus sont sous licence spécifique.",
+        "OCR et génération de réponses peuvent altérer chiffres, noms, unités ou tableaux : relire les originaux et faire valider les données à conséquence."
+      ],
+      "gettingStarted": [
+        "Constituer un lot de test représentatif (scans, langues, tableaux, qualités d'image variées) sans données personnelles non autorisées.",
+        "Définir les champs attendus ou questions, vérifier les résultats page par page et calculer précision et coût par document.",
+        "Configurer la revue humaine, la journalisation, le retour arrière et les règles de conservation avant la production."
+      ],
+      "examples": [
+        "Extrait numéro, date, total et lignes de cinq factures ; indique le passage source et signale les valeurs incertaines.",
+        "Résume le dossier avec références aux pages et classe séparément faits vérifiés, informations absentes et interprétations."
+      ],
+      "pricing": "Contrôler prix par page, appels API, OCR avancé, modèles spécifiques, stockage, crédits IA et seuils de volumes sur la grille officielle.",
+      "privacy": "Ne pas transmettre de pièces d'identité, contrats ou dossiers sensibles sans autorisation ; vérifier région de traitement, rétention, sous-traitants, chiffrement et droits de suppression.",
+      "selection": [
+        "Comparer Adobe Acrobat AI Assistant selon le besoin (document_chat), la conservation des tableaux, les langues, les citations, le contrôle des erreurs et le coût par document."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://helpx.adobe.com/ca/acrobat/desktop/use-acrobat-ai/generative-ai-features/ai-get-answers.html",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://helpx.adobe.com/acrobat/desktop/use-acrobat-ai/ai-assistant-plus-acrobat.html",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://helpx.adobe.com/acrobat/desktop/use-acrobat-ai/understand-usage-policies/user-disclosures.html",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "humata": {
+    "descriptionFr": "Assistant IA pour consulter des documents, comparer plusieurs textes et obtenir des réponses liées à des passages cités.",
+    "descriptionEn": "AI document assistant to search files, compare documents and answer questions with source-linked citations.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Recherche et résumé sur documents",
+      "Réponses avec citations et passages surlignés",
+      "Espaces documentaires et questions de suivi"
+    ],
+    "featuresEn": [
+      "Document search and summaries",
+      "Cited answers and highlighted passages",
+      "Document collections and follow-up questions"
+    ],
+    "accessFr": "Web, applications et/ou API selon service",
+    "accessEn": "Web, apps and/or APIs by service",
+    "officialSources": [
+      {
+        "url": "https://www.humata.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "documented_capabilities_and_product_status"
+      },
+      {
+        "url": "https://www.humata.ai/privacy-policy",
+        "checkedAt": "2026-11-16",
+        "scope": "documented_capabilities_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Assistant IA pour consulter des documents, comparer plusieurs textes et obtenir des réponses liées à des passages cités.",
+      "audiences": [
+        "Enseignants, chercheurs et lecteurs de dossiers",
+        "Équipes ayant besoin d'une traçabilité des données et de contrôles de qualité"
+      ],
+      "cases": [
+        "Comparer les résultats de plusieurs articles scientifiques et vérifier chaque conclusion dans les fichiers.",
+        "Comparer les champs extraits à une sélection de documents originaux et journaliser toute correction."
+      ],
+      "advantages": [
+        "Recherche et résumé sur documents",
+        "Réponses avec citations et passages surlignés",
+        "Espaces documentaires et questions de suivi"
+      ],
+      "limits": [
+        "Les citations facilitent la vérification sans garantir la justesse des interprétations. Avant d'importer un document confidentiel, vérifier accès, conservation, traitement et partage des fichiers.",
+        "OCR et génération de réponses peuvent altérer chiffres, noms, unités ou tableaux : relire les originaux et faire valider les données à conséquence."
+      ],
+      "gettingStarted": [
+        "Constituer un lot de test représentatif (scans, langues, tableaux, qualités d'image variées) sans données personnelles non autorisées.",
+        "Définir les champs attendus ou questions, vérifier les résultats page par page et calculer précision et coût par document.",
+        "Configurer la revue humaine, la journalisation, le retour arrière et les règles de conservation avant la production."
+      ],
+      "examples": [
+        "Extrait numéro, date, total et lignes de cinq factures ; indique le passage source et signale les valeurs incertaines.",
+        "Résume le dossier avec références aux pages et classe séparément faits vérifiés, informations absentes et interprétations."
+      ],
+      "pricing": "Contrôler prix par page, appels API, OCR avancé, modèles spécifiques, stockage, crédits IA et seuils de volumes sur la grille officielle.",
+      "privacy": "Ne pas transmettre de pièces d'identité, contrats ou dossiers sensibles sans autorisation ; vérifier région de traitement, rétention, sous-traitants, chiffrement et droits de suppression.",
+      "selection": [
+        "Comparer Humata selon le besoin (document_chat), la conservation des tableaux, les langues, les citations, le contrôle des erreurs et le coût par document."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.humata.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.humata.ai/privacy-policy",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "chatpdf": {
+    "descriptionFr": "Service web et API permettant d'importer des PDF, de les interroger en langage naturel et d'intégrer les réponses dans une application documentaire.",
+    "descriptionEn": "Web service and API for uploading PDFs, asking natural-language questions and integrating answers into document applications.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Questions-réponses sur fichiers PDF",
+      "API de chargement URL/fichier et conversation",
+      "Identifiants de sources et intégrations"
+    ],
+    "featuresEn": [
+      "PDF question answering",
+      "URL/file upload and chat API",
+      "Source IDs and integrations"
+    ],
+    "accessFr": "Web, applications et/ou API selon service",
+    "accessEn": "Web, apps and/or APIs by service",
+    "officialSources": [
+      {
+        "url": "https://www.chatpdf.com/docs/api/backend",
+        "checkedAt": "2026-11-16",
+        "scope": "documented_capabilities_and_product_status"
+      },
+      {
+        "url": "https://www.chatpdf.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "documented_capabilities_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Service web et API permettant d'importer des PDF, de les interroger en langage naturel et d'intégrer les réponses dans une application documentaire.",
+      "audiences": [
+        "Enseignants, chercheurs et lecteurs de dossiers",
+        "Équipes ayant besoin d'une traçabilité des données et de contrôles de qualité"
+      ],
+      "cases": [
+        "Permettre à un lecteur d'interroger un guide PDF et lui présenter le texte original correspondant à sa question.",
+        "Comparer les champs extraits à une sélection de documents originaux et journaliser toute correction."
+      ],
+      "advantages": [
+        "Questions-réponses sur fichiers PDF",
+        "API de chargement URL/fichier et conversation",
+        "Identifiants de sources et intégrations"
+      ],
+      "limits": [
+        "L'API backend documentée impose 2 000 pages ou 32 Mo par fichier et ne conserve pas automatiquement l'historique des messages : le client doit retransmettre le contexte. Vérifier le statut des citations, les coûts et la confidentialité.",
+        "OCR et génération de réponses peuvent altérer chiffres, noms, unités ou tableaux : relire les originaux et faire valider les données à conséquence."
+      ],
+      "gettingStarted": [
+        "Constituer un lot de test représentatif (scans, langues, tableaux, qualités d'image variées) sans données personnelles non autorisées.",
+        "Définir les champs attendus ou questions, vérifier les résultats page par page et calculer précision et coût par document.",
+        "Configurer la revue humaine, la journalisation, le retour arrière et les règles de conservation avant la production."
+      ],
+      "examples": [
+        "Extrait numéro, date, total et lignes de cinq factures ; indique le passage source et signale les valeurs incertaines.",
+        "Résume le dossier avec références aux pages et classe séparément faits vérifiés, informations absentes et interprétations."
+      ],
+      "pricing": "Contrôler prix par page, appels API, OCR avancé, modèles spécifiques, stockage, crédits IA et seuils de volumes sur la grille officielle.",
+      "privacy": "Ne pas transmettre de pièces d'identité, contrats ou dossiers sensibles sans autorisation ; vérifier région de traitement, rétention, sous-traitants, chiffrement et droits de suppression.",
+      "selection": [
+        "Comparer ChatPDF selon le besoin (document_chat), la conservation des tableaux, les langues, les citations, le contrôle des erreurs et le coût par document."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.chatpdf.com/docs/api/backend",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.chatpdf.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "askyourpdf": {
+    "descriptionFr": "Service de dialogue et de recherche sur PDF et autres formats, avec OCR des scans, réponses sourcées et API documentaire.",
+    "descriptionEn": "Document chat and search service for PDFs and other formats with scanned-page OCR, source-cited answers and a document API.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Lecture de PDF scannés avec OCR",
+      "Citations vers pages et paragraphes",
+      "Base documentaire et API de chat"
+    ],
+    "featuresEn": [
+      "Scanned PDF OCR",
+      "Page- and paragraph-linked citations",
+      "Document knowledge base and chat API"
+    ],
+    "accessFr": "Web, applications et/ou API selon service",
+    "accessEn": "Web, apps and/or APIs by service",
+    "officialSources": [
+      {
+        "url": "https://askyourpdf.com/pdf-ai",
+        "checkedAt": "2026-11-16",
+        "scope": "documented_capabilities_and_product_status"
+      },
+      {
+        "url": "https://docs.askyourpdf.com/api",
+        "checkedAt": "2026-11-16",
+        "scope": "documented_capabilities_and_product_status"
+      },
+      {
+        "url": "https://askyourpdf.com/chat-with-documents",
+        "checkedAt": "2026-11-16",
+        "scope": "documented_capabilities_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Service de dialogue et de recherche sur PDF et autres formats, avec OCR des scans, réponses sourcées et API documentaire.",
+      "audiences": [
+        "Enseignants, chercheurs et lecteurs de dossiers",
+        "Équipes ayant besoin d'une traçabilité des données et de contrôles de qualité"
+      ],
+      "cases": [
+        "Interroger plusieurs rapports pédagogiques et dresser une liste de citations à vérifier dans les documents sources.",
+        "Comparer les champs extraits à une sélection de documents originaux et journaliser toute correction."
+      ],
+      "advantages": [
+        "Lecture de PDF scannés avec OCR",
+        "Citations vers pages et paragraphes",
+        "Base documentaire et API de chat"
+      ],
+      "limits": [
+        "Les limites de pages et de taille varient selon la formule et les pages marketing affichent des chiffres différents ; vérifier l'offre précise. Dans l'API, les citations doivent être activées avec cite_source ; ne pas supposer qu'elles sont par défaut.",
+        "OCR et génération de réponses peuvent altérer chiffres, noms, unités ou tableaux : relire les originaux et faire valider les données à conséquence."
+      ],
+      "gettingStarted": [
+        "Constituer un lot de test représentatif (scans, langues, tableaux, qualités d'image variées) sans données personnelles non autorisées.",
+        "Définir les champs attendus ou questions, vérifier les résultats page par page et calculer précision et coût par document.",
+        "Configurer la revue humaine, la journalisation, le retour arrière et les règles de conservation avant la production."
+      ],
+      "examples": [
+        "Extrait numéro, date, total et lignes de cinq factures ; indique le passage source et signale les valeurs incertaines.",
+        "Résume le dossier avec références aux pages et classe séparément faits vérifiés, informations absentes et interprétations."
+      ],
+      "pricing": "Contrôler prix par page, appels API, OCR avancé, modèles spécifiques, stockage, crédits IA et seuils de volumes sur la grille officielle.",
+      "privacy": "Ne pas transmettre de pièces d'identité, contrats ou dossiers sensibles sans autorisation ; vérifier région de traitement, rétention, sous-traitants, chiffrement et droits de suppression.",
+      "selection": [
+        "Comparer AskYourPDF selon le besoin (document_chat), la conservation des tableaux, les langues, les citations, le contrôle des erreurs et le coût par document."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://askyourpdf.com/pdf-ai",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://docs.askyourpdf.com/api",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://askyourpdf.com/chat-with-documents",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  }
+}
