@@ -1,0 +1,1433 @@
+{
+  "lovable": {
+    "descriptionFr": "Générateur d'applications web complètes à partir d'instructions, avec hébergement, backend et synchronisation Git bidirectionnelle.",
+    "descriptionEn": "Prompt-based full-stack web app builder with hosting, backend and two-way Git synchronization.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Création d'applications en langage naturel",
+      "Synchronisation bidirectionnelle GitHub",
+      "Hébergement et publication"
+    ],
+    "featuresEn": [
+      "Natural-language app creation",
+      "Two-way GitHub sync",
+      "Hosting and publishing"
+    ],
+    "accessFr": "Apps web et prototypes · Web, cloud ou applications selon offre",
+    "accessEn": "Apps web et prototypes · Web, cloud or apps depending on plan",
+    "officialSources": [
+      {
+        "url": "https://lovable.dev/fr/pricing",
+        "checkedAt": "2026-11-15",
+        "scope": "features_and_pricing"
+      },
+      {
+        "url": "https://docs.lovable.dev/integrations/github",
+        "checkedAt": "2026-11-16",
+        "scope": "product_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Générateur d'applications web complètes à partir d'instructions, avec hébergement, backend et synchronisation Git bidirectionnelle.",
+      "audiences": [
+        "Entrepreneurs et porteurs de projets",
+        "Designers qui prototypent",
+        "Équipes produit sans équipe complète au démarrage"
+      ],
+      "cases": [
+        "Créer une interface web fonctionnelle rapidement",
+        "Construire un prototype CRUD",
+        "Expérimenter des parcours d’inscription et tableaux de bord",
+        "Itérer sur design, données et logique applicative",
+        "Créer un prototype de portail avec comptes utilisateurs, connecter GitHub et réviser les modifications.",
+        "Effectuer une revue des permissions, des formulaires et du comportement mobile avant publication."
+      ],
+      "advantages": [
+        "Flux prompt-vers-application",
+        "Création et publication de sites",
+        "Gestion de projets et collaboration selon l’offre",
+        "Création d'applications en langage naturel",
+        "Synchronisation bidirectionnelle GitHub",
+        "Hébergement et publication"
+      ],
+      "limits": [
+        "Code et sécurité à auditer avant exposition publique",
+        "Crédits d’édition et de cloud limités",
+        "Les applications complexes demandent une architecture réfléchie",
+        "La synchronisation porte sur une branche active ; examiner les permissions, les migrations de base de données et les conditions de téléchargement du code.",
+        "Le code ou les données générés doivent être testés : accessibilité, performance, sécurité et fiabilité ne sont jamais garanties automatiquement."
+      ],
+      "gettingStarted": [
+        "Décrire utilisateurs, données, écrans et règles de sécurité; générer un prototype sans données sensibles, puis tester chaque parcours.",
+        "Définir les besoins, les rôles et les données avant de lancer la génération, puis tester dans un environnement de prévisualisation.",
+        "Exécuter des tests de navigation, d'autorisation et de persistance ; relire les coûts d'hébergement et les paramètres de publication."
+      ],
+      "examples": [
+        "Crée un répertoire d’outils avec catégories, filtres et fiches liées.",
+        "Propose un mini-CRM avec rôles simples et export CSV.",
+        "Conçois une application avec trois profils (visiteur, contributeur, administrateur), une base de données et des tests d'autorisation.",
+        "Avant publication, prépare une liste des risques de sécurité, d'accessibilité, de sauvegarde et de dépassement des coûts."
+      ],
+      "pricing": "Offre Free et abonnement Pro; quotas de crédits pour génération, cloud et fonctions IA de l’application.",
+      "privacy": "Éviter de mettre des secrets dans le code côté client; vérifier la configuration des bases et des droits d’accès.",
+      "selection": [
+        "Très pratique pour tester une idée; le passage en production nécessite tests, sauvegardes et surveillance.",
+        "Choisir Lovable selon la cible (Apps web et prototypes), les possibilités d'export, le contrôle du code, la base de données, les intégrations et le coût de fonctionnement."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://lovable.dev/fr/pricing",
+          "type": "official",
+          "reviewedAt": "2026-11-15"
+        },
+        {
+          "url": "https://docs.lovable.dev/integrations/github",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "bolt-new": {
+    "descriptionFr": "Constructeur de sites et d'applications web ou mobiles à partir de prompts, avec éditeur de code, Bolt Cloud et intégration GitHub.",
+    "descriptionEn": "Prompt-based website, web app and mobile app builder with code editor, Bolt Cloud and GitHub integration.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Génération d'applications web et mobiles",
+      "Bolt Cloud : base de données et hébergement",
+      "GitHub, Figma, Expo et Stripe"
+    ],
+    "featuresEn": [
+      "Web and mobile app generation",
+      "Bolt Cloud: database and hosting",
+      "GitHub, Figma, Expo and Stripe"
+    ],
+    "accessFr": "Apps et sites avec code · Web, cloud ou applications selon offre",
+    "accessEn": "Apps et sites avec code · Web, cloud or apps depending on plan",
+    "officialSources": [
+      {
+        "url": "https://bolt.new/pricing",
+        "checkedAt": "2026-11-15",
+        "scope": "features_and_pricing"
+      },
+      {
+        "url": "https://support.bolt.new/building/intro-bolt",
+        "checkedAt": "2026-11-16",
+        "scope": "product_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Constructeur de sites et d'applications web ou mobiles à partir de prompts, avec éditeur de code, Bolt Cloud et intégration GitHub.",
+      "audiences": [
+        "Développeurs et créateurs de prototypes",
+        "Start-up et indépendants",
+        "Formateurs en développement web"
+      ],
+      "cases": [
+        "Générer une application web par description",
+        "Modifier une interface en conversation",
+        "Héberger des prototypes",
+        "Expérimenter des applications connectées à des données",
+        "Produire un site avec inscription et base de données, puis vérifier son fonctionnement dans l'aperçu.",
+        "Effectuer une revue des permissions, des formulaires et du comportement mobile avant publication."
+      ],
+      "advantages": [
+        "Passage rapide du prompt au site utilisable",
+        "Hébergement intégré et domaines selon offre",
+        "Projets publics ou privés et outils de données",
+        "Génération d'applications web et mobiles",
+        "Bolt Cloud : base de données et hébergement",
+        "GitHub, Figma, Expo et Stripe"
+      ],
+      "limits": [
+        "Quotas de jetons et limites de projet",
+        "Une application générée peut comporter des erreurs de sécurité",
+        "Tests d’accessibilité, performance et conformité restent nécessaires",
+        "Facturation à l'usage en tokens ; les domaines personnalisés nécessitent une offre éligible ; contrôler la sécurité de l'authentification générée.",
+        "Le code ou les données générés doivent être testés : accessibilité, performance, sécurité et fiabilité ne sont jamais garanties automatiquement."
+      ],
+      "gettingStarted": [
+        "Définir un périmètre minimal, demander une première version, puis valider navigation, persistance et permissions en tests réels.",
+        "Définir les besoins, les rôles et les données avant de lancer la génération, puis tester dans un environnement de prévisualisation.",
+        "Exécuter des tests de navigation, d'autorisation et de persistance ; relire les coûts d'hébergement et les paramètres de publication."
+      ],
+      "examples": [
+        "Construis un tableau de bord pédagogique à partir de ce JSON.",
+        "Ajoute une recherche accessible et des états vides clairs.",
+        "Conçois une application avec trois profils (visiteur, contributeur, administrateur), une base de données et des tests d'autorisation.",
+        "Avant publication, prépare une liste des risques de sécurité, d'accessibilité, de sauvegarde et de dépassement des coûts."
+      ],
+      "pricing": "Offre gratuite avec limite de jetons; Pro et Teams avec quotas augmentés et domaines personnalisés.",
+      "privacy": "Vérifier le mode privé des projets, la base de données et la gestion des clés côté serveur.",
+      "selection": [
+        "Alternative directe à Lovable pour prototyper; privilégier les tests concrets plutôt que les promesses du constructeur.",
+        "Choisir Bolt.new selon la cible (Apps et sites avec code), les possibilités d'export, le contrôle du code, la base de données, les intégrations et le coût de fonctionnement."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://bolt.new/pricing",
+          "type": "official",
+          "reviewedAt": "2026-11-15"
+        },
+        {
+          "url": "https://support.bolt.new/building/intro-bolt",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "v0": {
+    "descriptionFr": "Agent de création et de modification d'applications web Vercel, avec import GitHub, environnements de prévisualisation et publication.",
+    "descriptionEn": "Vercel app-building agent with GitHub import, full-stack previews and deployment.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Création et édition de code web",
+      "Import GitHub et branches de travail",
+      "Publication sur Vercel"
+    ],
+    "featuresEn": [
+      "Web code generation and editing",
+      "GitHub imports and isolated branches",
+      "Vercel deployment"
+    ],
+    "accessFr": "Développement web avec Git · Web, cloud ou applications selon offre",
+    "accessEn": "Développement web avec Git · Web, cloud or apps depending on plan",
+    "officialSources": [
+      {
+        "url": "https://v0.app/docs/faqs",
+        "checkedAt": "2026-11-16",
+        "scope": "product_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Agent de création et de modification d'applications web Vercel, avec import GitHub, environnements de prévisualisation et publication.",
+      "audiences": [
+        "Développeurs front-end",
+        "Designers produits",
+        "Créateurs de prototypes web"
+      ],
+      "cases": [
+        "Générer des composants et pages web",
+        "Passer d’un brief à une interface utilisable",
+        "Synchroniser le code avec GitHub",
+        "Déployer un projet sur Vercel",
+        "Importer un dépôt de site, créer une nouvelle page et valider une pull request avant publication.",
+        "Effectuer une revue des permissions, des formulaires et du comportement mobile avant publication."
+      ],
+      "advantages": [
+        "Édition visuelle et aperçus",
+        "Synchronisation Git et déploiement Vercel",
+        "Approche itérative du design et du code",
+        "Création et édition de code web",
+        "Import GitHub et branches de travail",
+        "Publication sur Vercel"
+      ],
+      "limits": [
+        "Quotas de messages et crédits selon formule",
+        "Composants produits à tester sur mobile et au clavier",
+        "Les secrets et autorisations ne doivent pas être laissés dans le client",
+        "Le flux Git protège la branche principale mais la fusion et le déploiement restent à contrôler ; coûts et quotas selon le plan.",
+        "Le code ou les données générés doivent être testés : accessibilité, performance, sécurité et fiabilité ne sont jamais garanties automatiquement."
+      ],
+      "gettingStarted": [
+        "Créer une page test avec contraintes graphiques et accessibilité, valider la prévisualisation, puis synchroniser un dépôt de test.",
+        "Définir les besoins, les rôles et les données avant de lancer la génération, puis tester dans un environnement de prévisualisation.",
+        "Exécuter des tests de navigation, d'autorisation et de persistance ; relire les coûts d'hébergement et les paramètres de publication."
+      ],
+      "examples": [
+        "Crée une fiche d’outil IA avec badges, citations et mise en page responsive.",
+        "Conçois un comparateur de quatre produits accessible au clavier.",
+        "Conçois une application avec trois profils (visiteur, contributeur, administrateur), une base de données et des tests d'autorisation.",
+        "Avant publication, prépare une liste des risques de sécurité, d'accessibilité, de sauvegarde et de dépassement des coûts."
+      ],
+      "pricing": "Free, Plus, Business et Enterprise; crédits et quotas de messages suivant les offres.",
+      "privacy": "Relire la configuration des dépôts synchronisés, des clés API et des paramètres de déploiement.",
+      "selection": [
+        "Intéressant lorsque Vercel est la plateforme de publication cible; une revue des modifications Git reste nécessaire.",
+        "Choisir v0 selon la cible (Développement web avec Git), les possibilités d'export, le contrôle du code, la base de données, les intégrations et le coût de fonctionnement."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://v0.app/pricing",
+          "type": "official",
+          "reviewedAt": "2026-11-15"
+        },
+        {
+          "url": "https://v0.app/docs/faqs",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "replit": {
+    "descriptionFr": "Environnement cloud de développement avec Replit Agent pour créer, tester, déboguer et publier des applications à partir de langage naturel.",
+    "descriptionEn": "Cloud development environment with Replit Agent to build, test, debug and deploy apps from natural language.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Agent de création et correction",
+      "Modes Lite, Economy et Power",
+      "Tests, base de données et publication"
+    ],
+    "featuresEn": [
+      "Building and debugging agent",
+      "Lite, Economy and Power modes",
+      "Testing, database and publishing"
+    ],
+    "accessFr": "Développement cloud · Web, cloud ou applications selon offre",
+    "accessEn": "Développement cloud · Web, cloud or apps depending on plan",
+    "officialSources": [
+      {
+        "url": "https://replit.com/pricing",
+        "checkedAt": "2026-11-15",
+        "scope": "features_and_pricing"
+      },
+      {
+        "url": "https://docs.replit.com/fr/references/agent/overview",
+        "checkedAt": "2026-11-16",
+        "scope": "product_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Environnement cloud de développement avec Replit Agent pour créer, tester, déboguer et publier des applications à partir de langage naturel.",
+      "audiences": [
+        "Apprenants et enseignants en programmation",
+        "Développeurs de prototypes",
+        "Petites équipes"
+      ],
+      "cases": [
+        "Créer et exécuter du code dans le navigateur",
+        "Faire évoluer une application avec un agent",
+        "Partager un prototype hébergé",
+        "Expérimenter des projets de programmation",
+        "Créer une application web avec formulaire, stockage et déploiement depuis un navigateur.",
+        "Effectuer une revue des permissions, des formulaires et du comportement mobile avant publication."
+      ],
+      "advantages": [
+        "Édition, exécution et hébergement dans le même environnement",
+        "Agent orienté développement",
+        "Collaboration et publication de projets",
+        "Agent de création et correction",
+        "Modes Lite, Economy et Power",
+        "Tests, base de données et publication"
+      ],
+      "limits": [
+        "Coûts de l’agent ou de l’hébergement selon la charge",
+        "Les suggestions peuvent contenir des erreurs",
+        "L’accès public aux projets et données doit être vérifié",
+        "Le mode Power et les tests peuvent coûter plus de crédits ; examiner le code, les secrets et les permissions de déploiement.",
+        "Le code ou les données générés doivent être testés : accessibilité, performance, sécurité et fiabilité ne sont jamais garanties automatiquement."
+      ],
+      "gettingStarted": [
+        "Choisir un projet simple, écrire les critères de réussite, demander une première version puis tester interface et données.",
+        "Définir les besoins, les rôles et les données avant de lancer la génération, puis tester dans un environnement de prévisualisation.",
+        "Exécuter des tests de navigation, d'autorisation et de persistance ; relire les coûts d'hébergement et les paramètres de publication."
+      ],
+      "examples": [
+        "Crée une application de quiz avec sauvegarde locale.",
+        "Ajoute un export JSON et un contrôle de formulaire.",
+        "Conçois une application avec trois profils (visiteur, contributeur, administrateur), une base de données et des tests d'autorisation.",
+        "Avant publication, prépare une liste des risques de sécurité, d'accessibilité, de sauvegarde et de dépassement des coûts."
+      ],
+      "pricing": "Formules gratuites et payantes; facturation et crédits pour Agent et déploiements à consulter sur la grille officielle.",
+      "privacy": "Contrôler la visibilité des projets et des variables d’environnement avant publication.",
+      "selection": [
+        "Bon environnement pédagogique et de prototypage; déterminer le budget de déploiement avant un projet intensif.",
+        "Choisir Replit selon la cible (Développement cloud), les possibilités d'export, le contrôle du code, la base de données, les intégrations et le coût de fonctionnement."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://replit.com/pricing",
+          "type": "official",
+          "reviewedAt": "2026-11-15"
+        },
+        {
+          "url": "https://docs.replit.com/fr/references/agent/overview",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "firebase-studio": {
+    "descriptionFr": "Environnement de développement full-stack Google en fin de vie : nouveaux espaces désactivés et fermeture annoncée en mars 2027.",
+    "descriptionEn": "Google full-stack development environment being sunset: new workspaces disabled and shutdown scheduled for March 2027.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Prototypage full-stack historique",
+      "Maintenance des espaces existants",
+      "Migration Google AI Studio ou Antigravity"
+    ],
+    "featuresEn": [
+      "Historical full-stack prototyping",
+      "Existing workspace maintenance",
+      "Migration to Google AI Studio or Antigravity"
+    ],
+    "accessFr": "Espaces existants uniquement — fermeture en mars 2027",
+    "accessEn": "Existing workspaces only — sunset March 2027",
+    "officialSources": [
+      {
+        "url": "https://firebase.google.com/docs/studio/migrating-project",
+        "checkedAt": "2026-11-16",
+        "scope": "product_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Environnement de développement full-stack Google en fin de vie : nouveaux espaces désactivés et fermeture annoncée en mars 2027.",
+      "audiences": [
+        "Entrepreneurs, porteurs de projets et créateurs de services",
+        "Développeurs et équipes produit selon le niveau de code requis",
+        "Enseignants et concepteurs de portails"
+      ],
+      "cases": [
+        "Exporter et migrer un ancien projet vers Google AI Studio ou Antigravity avant la fermeture.",
+        "Effectuer une revue des permissions, des formulaires et du comportement mobile avant publication."
+      ],
+      "advantages": [
+        "Prototypage full-stack historique",
+        "Maintenance des espaces existants",
+        "Migration Google AI Studio ou Antigravity"
+      ],
+      "limits": [
+        "Création de nouveaux espaces et inscriptions arrêtées depuis le 22 juin 2026 ; fermeture le 22 mars 2027 avec suppression des données restantes. Les services Firebase de base demeurent disponibles.",
+        "Le code ou les données générés doivent être testés : accessibilité, performance, sécurité et fiabilité ne sont jamais garanties automatiquement."
+      ],
+      "gettingStarted": [
+        "Éviter tout nouveau projet ; sauvegarder et migrer un espace existant avant la date de fermeture.",
+        "Exécuter des tests de navigation, d'autorisation et de persistance ; relire les coûts d'hébergement et les paramètres de publication."
+      ],
+      "examples": [
+        "Conçois une application avec trois profils (visiteur, contributeur, administrateur), une base de données et des tests d'autorisation.",
+        "Avant publication, prépare une liste des risques de sécurité, d'accessibilité, de sauvegarde et de dépassement des coûts."
+      ],
+      "pricing": "Service en extinction : ne pas démarrer de nouvel espace. Vérifier coûts et modalités de migration des projets existants.",
+      "privacy": "Vérifier l'hébergement des données, le chiffrement, la gestion des secrets, les permissions utilisateurs et la conformité avant de mettre en production des données personnelles.",
+      "selection": [
+        "Choisir Firebase Studio selon la cible (Service en fin de vie), les possibilités d'export, le contrôle du code, la base de données, les intégrations et le coût de fonctionnement."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "end_of_life_scheduled",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://firebase.google.com/docs/studio/migrating-project",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_end_of_life"
+  },
+  "framer": {
+    "descriptionFr": "Éditeur visuel de sites web et CMS avec agents IA, prévisualisation par branche, localisation et publication gérée.",
+    "descriptionEn": "Visual website editor and CMS with AI agents, branch previews, localization and managed publishing.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Canevas responsive et CMS",
+      "Agents et intégrations MCP",
+      "Branches de prévisualisation et SEO"
+    ],
+    "featuresEn": [
+      "Responsive canvas and CMS",
+      "AI agents and MCP integrations",
+      "Preview branches and SEO"
+    ],
+    "accessFr": "Sites visuels et CMS · Web, cloud ou applications selon offre",
+    "accessEn": "Sites visuels et CMS · Web, cloud or apps depending on plan",
+    "officialSources": [
+      {
+        "url": "https://www.framer.com/pricing",
+        "checkedAt": "2026-11-15",
+        "scope": "features_and_pricing"
+      },
+      {
+        "url": "https://www.framer.com/help/articles/what-you-can-do-with-framer-mcp/",
+        "checkedAt": "2026-11-16",
+        "scope": "product_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Éditeur visuel de sites web et CMS avec agents IA, prévisualisation par branche, localisation et publication gérée.",
+      "audiences": [
+        "Entrepreneurs, porteurs de projets et créateurs de services",
+        "Développeurs et équipes produit selon le niveau de code requis",
+        "Enseignants et concepteurs de portails"
+      ],
+      "cases": [
+        "Créer un site éditorial avec CMS, puis tester ses modifications dans une branche avant publication.",
+        "Effectuer une revue des permissions, des formulaires et du comportement mobile avant publication."
+      ],
+      "advantages": [
+        "Canevas responsive et CMS",
+        "Agents et intégrations MCP",
+        "Branches de prévisualisation et SEO"
+      ],
+      "limits": [
+        "L'accès aux agents, crédits et certaines fonctions de collaboration dépend du plan ; vérifier le comportement du CMS à grande échelle.",
+        "Le code ou les données générés doivent être testés : accessibilité, performance, sécurité et fiabilité ne sont jamais garanties automatiquement."
+      ],
+      "gettingStarted": [
+        "Définir les besoins, les rôles et les données avant de lancer la génération, puis tester dans un environnement de prévisualisation.",
+        "Exécuter des tests de navigation, d'autorisation et de persistance ; relire les coûts d'hébergement et les paramètres de publication."
+      ],
+      "examples": [
+        "Conçois une application avec trois profils (visiteur, contributeur, administrateur), une base de données et des tests d'autorisation.",
+        "Avant publication, prépare une liste des risques de sécurité, d'accessibilité, de sauvegarde et de dépassement des coûts."
+      ],
+      "pricing": "Offres gratuites ou d'essai selon service ; vérifier les crédits IA, l'hébergement, les domaines, la base de données et l'export dans les conditions officielles.",
+      "privacy": "Vérifier l'hébergement des données, le chiffrement, la gestion des secrets, les permissions utilisateurs et la conformité avant de mettre en production des données personnelles.",
+      "selection": [
+        "Choisir Framer selon la cible (Sites visuels et CMS), les possibilités d'export, le contrôle du code, la base de données, les intégrations et le coût de fonctionnement."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.framer.com/help/articles/what-you-can-do-with-framer-mcp/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "webflow-ai": {
+    "descriptionFr": "Création de sites multipages et assistance contextuelle par IA dans le Designer Webflow, avec CMS et personnalisation visuelle.",
+    "descriptionEn": "AI multi-page site generation and contextual assistance within Webflow Designer, with CMS and visual editing.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "AI Site Builder multipages",
+      "Assistant contextuel en bêta",
+      "Designer visuel et CMS"
+    ],
+    "featuresEn": [
+      "Multi-page AI Site Builder",
+      "Beta contextual assistant",
+      "Visual designer and CMS"
+    ],
+    "accessFr": "Sites visuels et CMS · Web, cloud ou applications selon offre",
+    "accessEn": "Sites visuels et CMS · Web, cloud or apps depending on plan",
+    "officialSources": [
+      {
+        "url": "https://webflow.com/pricing",
+        "checkedAt": "2026-11-15",
+        "scope": "features_and_pricing"
+      },
+      {
+        "url": "https://help.webflow.com/hc/en-us/articles/38840145286035-Build-a-site-with-Webflow-s-AI-site-builder",
+        "checkedAt": "2026-11-16",
+        "scope": "product_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Création de sites multipages et assistance contextuelle par IA dans le Designer Webflow, avec CMS et personnalisation visuelle.",
+      "audiences": [
+        "Entrepreneurs, porteurs de projets et créateurs de services",
+        "Développeurs et équipes produit selon le niveau de code requis",
+        "Enseignants et concepteurs de portails"
+      ],
+      "cases": [
+        "Définir les pages d'un site institutionnel et affiner son design dans Webflow.",
+        "Effectuer une revue des permissions, des formulaires et du comportement mobile avant publication."
+      ],
+      "advantages": [
+        "AI Site Builder multipages",
+        "Assistant contextuel en bêta",
+        "Designer visuel et CMS"
+      ],
+      "limits": [
+        "Le générateur de sites ne s'applique pas à un site existant non créé avec lui ; limite initiale de pages selon le forfait, assistant en bêta.",
+        "Le code ou les données générés doivent être testés : accessibilité, performance, sécurité et fiabilité ne sont jamais garanties automatiquement."
+      ],
+      "gettingStarted": [
+        "Définir les besoins, les rôles et les données avant de lancer la génération, puis tester dans un environnement de prévisualisation.",
+        "Exécuter des tests de navigation, d'autorisation et de persistance ; relire les coûts d'hébergement et les paramètres de publication."
+      ],
+      "examples": [
+        "Conçois une application avec trois profils (visiteur, contributeur, administrateur), une base de données et des tests d'autorisation.",
+        "Avant publication, prépare une liste des risques de sécurité, d'accessibilité, de sauvegarde et de dépassement des coûts."
+      ],
+      "pricing": "Offres gratuites ou d'essai selon service ; vérifier les crédits IA, l'hébergement, les domaines, la base de données et l'export dans les conditions officielles.",
+      "privacy": "Vérifier l'hébergement des données, le chiffrement, la gestion des secrets, les permissions utilisateurs et la conformité avant de mettre en production des données personnelles.",
+      "selection": [
+        "Choisir Webflow AI selon la cible (Sites visuels et CMS), les possibilités d'export, le contrôle du code, la base de données, les intégrations et le coût de fonctionnement."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.webflow.com/hc/en-us/articles/38840145286035-Build-a-site-with-Webflow-s-AI-site-builder",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "wix-ai": {
+    "descriptionFr": "Suite de création web Wix centrée sur l'éditeur Harmony et l'agent Aria, combinant prompts et édition visuelle.",
+    "descriptionEn": "Wix website creation suite centered on Harmony editor and Aria agent, combining prompting and visual editing.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Wix Harmony et agent Aria",
+      "Génération de pages et d'éléments",
+      "Édition glisser-déposer et hébergement"
+    ],
+    "featuresEn": [
+      "Wix Harmony and Aria agent",
+      "Page and element generation",
+      "Drag-and-drop editing and hosting"
+    ],
+    "accessFr": "Sites PME et commerce · Web, cloud ou applications selon offre",
+    "accessEn": "Sites PME et commerce · Web, cloud or apps depending on plan",
+    "officialSources": [
+      {
+        "url": "https://support.wix.com/en/article/introducing-the-wix-harmony-editor",
+        "checkedAt": "2026-11-16",
+        "scope": "product_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Suite de création web Wix centrée sur l'éditeur Harmony et l'agent Aria, combinant prompts et édition visuelle.",
+      "audiences": [
+        "Entrepreneurs, porteurs de projets et créateurs de services",
+        "Développeurs et équipes produit selon le niveau de code requis",
+        "Enseignants et concepteurs de portails"
+      ],
+      "cases": [
+        "Créer un site de services avec formulaire de contact et ajustements de design assistés.",
+        "Effectuer une revue des permissions, des formulaires et du comportement mobile avant publication."
+      ],
+      "advantages": [
+        "Wix Harmony et agent Aria",
+        "Génération de pages et d'éléments",
+        "Édition glisser-déposer et hébergement"
+      ],
+      "limits": [
+        "Harmony ne prend pas en charge le code personnalisé comme Wix Studio ou Wix Editor ; certains modules sont absents et les migrations d'éditeur ne sont pas directes.",
+        "Le code ou les données générés doivent être testés : accessibilité, performance, sécurité et fiabilité ne sont jamais garanties automatiquement."
+      ],
+      "gettingStarted": [
+        "Définir les besoins, les rôles et les données avant de lancer la génération, puis tester dans un environnement de prévisualisation.",
+        "Exécuter des tests de navigation, d'autorisation et de persistance ; relire les coûts d'hébergement et les paramètres de publication."
+      ],
+      "examples": [
+        "Conçois une application avec trois profils (visiteur, contributeur, administrateur), une base de données et des tests d'autorisation.",
+        "Avant publication, prépare une liste des risques de sécurité, d'accessibilité, de sauvegarde et de dépassement des coûts."
+      ],
+      "pricing": "Offres gratuites ou d'essai selon service ; vérifier les crédits IA, l'hébergement, les domaines, la base de données et l'export dans les conditions officielles.",
+      "privacy": "Vérifier l'hébergement des données, le chiffrement, la gestion des secrets, les permissions utilisateurs et la conformité avant de mettre en production des données personnelles.",
+      "selection": [
+        "Choisir Wix AI selon la cible (Sites PME et commerce), les possibilités d'export, le contrôle du code, la base de données, les intégrations et le coût de fonctionnement."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://support.wix.com/en/article/introducing-the-wix-harmony-editor",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "durable": {
+    "descriptionFr": "Plateforme de création de sites pour petites entreprises associant site IA, gestion de contacts, prise de rendez-vous et visibilité en ligne.",
+    "descriptionEn": "Small-business website platform combining AI site creation, contact management, booking and online visibility.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Site IA et visuels de marque",
+      "CRM et prospects",
+      "Réservations et SEO/GEO"
+    ],
+    "featuresEn": [
+      "AI site and brand visuals",
+      "CRM and leads",
+      "Bookings and SEO/GEO"
+    ],
+    "accessFr": "Sites de petites entreprises · Web, cloud ou applications selon offre",
+    "accessEn": "Sites de petites entreprises · Web, cloud or apps depending on plan",
+    "officialSources": [
+      {
+        "url": "https://durable.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "product_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de création de sites pour petites entreprises associant site IA, gestion de contacts, prise de rendez-vous et visibilité en ligne.",
+      "audiences": [
+        "Entrepreneurs, porteurs de projets et créateurs de services",
+        "Développeurs et équipes produit selon le niveau de code requis",
+        "Enseignants et concepteurs de portails"
+      ],
+      "cases": [
+        "Lancer le site d'un prestataire local avec formulaire, rendez-vous et suivi des prospects.",
+        "Effectuer une revue des permissions, des formulaires et du comportement mobile avant publication."
+      ],
+      "advantages": [
+        "Site IA et visuels de marque",
+        "CRM et prospects",
+        "Réservations et SEO/GEO"
+      ],
+      "limits": [
+        "Solution surtout orientée petites entreprises ; vérifier possibilités d'export, personnalisation avancée et forfaits de gestion commerciale.",
+        "Le code ou les données générés doivent être testés : accessibilité, performance, sécurité et fiabilité ne sont jamais garanties automatiquement."
+      ],
+      "gettingStarted": [
+        "Définir les besoins, les rôles et les données avant de lancer la génération, puis tester dans un environnement de prévisualisation.",
+        "Exécuter des tests de navigation, d'autorisation et de persistance ; relire les coûts d'hébergement et les paramètres de publication."
+      ],
+      "examples": [
+        "Conçois une application avec trois profils (visiteur, contributeur, administrateur), une base de données et des tests d'autorisation.",
+        "Avant publication, prépare une liste des risques de sécurité, d'accessibilité, de sauvegarde et de dépassement des coûts."
+      ],
+      "pricing": "Offres gratuites ou d'essai selon service ; vérifier les crédits IA, l'hébergement, les domaines, la base de données et l'export dans les conditions officielles.",
+      "privacy": "Vérifier l'hébergement des données, le chiffrement, la gestion des secrets, les permissions utilisateurs et la conformité avant de mettre en production des données personnelles.",
+      "selection": [
+        "Choisir Durable selon la cible (Sites de petites entreprises), les possibilités d'export, le contrôle du code, la base de données, les intégrations et le coût de fonctionnement."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://durable.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "10web": {
+    "descriptionFr": "Créateur de sites WordPress IA capable de partir d'un prompt, d'une URL, d'une image ou d'une maquette Figma.",
+    "descriptionEn": "AI WordPress site builder that can start from a prompt, URL, image or Figma design.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Génération WordPress par IA",
+      "Entrées URL, image et Figma",
+      "Éditeur IA et hébergement"
+    ],
+    "featuresEn": [
+      "AI WordPress generation",
+      "URL, image and Figma inputs",
+      "AI editor and hosting"
+    ],
+    "accessFr": "Sites WordPress · Web, cloud ou applications selon offre",
+    "accessEn": "Sites WordPress · Web, cloud or apps depending on plan",
+    "officialSources": [
+      {
+        "url": "https://help.10web.io/hc/en-us/articles/36515422635922-How-to-Generate-a-Website-with-10Web-s-Agentic-Website-Builder",
+        "checkedAt": "2026-11-16",
+        "scope": "product_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Créateur de sites WordPress IA capable de partir d'un prompt, d'une URL, d'une image ou d'une maquette Figma.",
+      "audiences": [
+        "Entrepreneurs, porteurs de projets et créateurs de services",
+        "Développeurs et équipes produit selon le niveau de code requis",
+        "Enseignants et concepteurs de portails"
+      ],
+      "cases": [
+        "Créer un site WordPress à partir d'un cahier des charges et modifier le résultat.",
+        "Effectuer une revue des permissions, des formulaires et du comportement mobile avant publication."
+      ],
+      "advantages": [
+        "Génération WordPress par IA",
+        "Entrées URL, image et Figma",
+        "Éditeur IA et hébergement"
+      ],
+      "limits": [
+        "L'offre gratuite documentée permet la génération d'un site ; la maintenance et la sécurité WordPress restent nécessaires.",
+        "Le code ou les données générés doivent être testés : accessibilité, performance, sécurité et fiabilité ne sont jamais garanties automatiquement."
+      ],
+      "gettingStarted": [
+        "Définir les besoins, les rôles et les données avant de lancer la génération, puis tester dans un environnement de prévisualisation.",
+        "Exécuter des tests de navigation, d'autorisation et de persistance ; relire les coûts d'hébergement et les paramètres de publication."
+      ],
+      "examples": [
+        "Conçois une application avec trois profils (visiteur, contributeur, administrateur), une base de données et des tests d'autorisation.",
+        "Avant publication, prépare une liste des risques de sécurité, d'accessibilité, de sauvegarde et de dépassement des coûts."
+      ],
+      "pricing": "Offres gratuites ou d'essai selon service ; vérifier les crédits IA, l'hébergement, les domaines, la base de données et l'export dans les conditions officielles.",
+      "privacy": "Vérifier l'hébergement des données, le chiffrement, la gestion des secrets, les permissions utilisateurs et la conformité avant de mettre en production des données personnelles.",
+      "selection": [
+        "Choisir 10Web selon la cible (Sites WordPress), les possibilités d'export, le contrôle du code, la base de données, les intégrations et le coût de fonctionnement."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.10web.io/hc/en-us/articles/36515422635922-How-to-Generate-a-Website-with-10Web-s-Agentic-Website-Builder",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "hostinger-ai-website-builder": {
+    "descriptionFr": "Hostinger AI Builder réunit les anciens outils Website Builder et Horizons, avec modes manuel visuel et agentique.",
+    "descriptionEn": "Hostinger AI Builder combines the former Website Builder and Horizons into visual manual and agentic modes.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Mode manuel sans code",
+      "Mode agentique pour sites et applications",
+      "Backend intégré et publication"
+    ],
+    "featuresEn": [
+      "Visual no-code manual mode",
+      "Agentic website and app creation",
+      "Integrated backend and publishing"
+    ],
+    "accessFr": "Sites et applications hébergés · Web, cloud ou applications selon offre",
+    "accessEn": "Sites et applications hébergés · Web, cloud or apps depending on plan",
+    "officialSources": [
+      {
+        "url": "https://www.hostinger.com/support/10683629-hostinger-ai-builder-difference-between-manual-agentic-mode/",
+        "checkedAt": "2026-11-16",
+        "scope": "product_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Hostinger AI Builder réunit les anciens outils Website Builder et Horizons, avec modes manuel visuel et agentique.",
+      "audiences": [
+        "Entrepreneurs, porteurs de projets et créateurs de services",
+        "Développeurs et équipes produit selon le niveau de code requis",
+        "Enseignants et concepteurs de portails"
+      ],
+      "cases": [
+        "Créer un site de commerce dans le mode manuel ou une application avec espace membre dans le mode agentique.",
+        "Effectuer une revue des permissions, des formulaires et du comportement mobile avant publication."
+      ],
+      "advantages": [
+        "Mode manuel sans code",
+        "Mode agentique pour sites et applications",
+        "Backend intégré et publication"
+      ],
+      "limits": [
+        "Les deux modes ne sont pas interchangeables dans leurs capacités ; facturation, hébergement et crédits IA varient selon la formule.",
+        "Le code ou les données générés doivent être testés : accessibilité, performance, sécurité et fiabilité ne sont jamais garanties automatiquement."
+      ],
+      "gettingStarted": [
+        "Définir les besoins, les rôles et les données avant de lancer la génération, puis tester dans un environnement de prévisualisation.",
+        "Exécuter des tests de navigation, d'autorisation et de persistance ; relire les coûts d'hébergement et les paramètres de publication."
+      ],
+      "examples": [
+        "Conçois une application avec trois profils (visiteur, contributeur, administrateur), une base de données et des tests d'autorisation.",
+        "Avant publication, prépare une liste des risques de sécurité, d'accessibilité, de sauvegarde et de dépassement des coûts."
+      ],
+      "pricing": "Offres gratuites ou d'essai selon service ; vérifier les crédits IA, l'hébergement, les domaines, la base de données et l'export dans les conditions officielles.",
+      "privacy": "Vérifier l'hébergement des données, le chiffrement, la gestion des secrets, les permissions utilisateurs et la conformité avant de mettre en production des données personnelles.",
+      "selection": [
+        "Choisir Hostinger AI Website Builder selon la cible (Sites et applications hébergés), les possibilités d'export, le contrôle du code, la base de données, les intégrations et le coût de fonctionnement."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "rebranded",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.hostinger.com/support/10683629-hostinger-ai-builder-difference-between-manual-agentic-mode/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_rebranded"
+  },
+  "appy-pie": {
+    "descriptionFr": "Constructeur d'applications mobiles avec Agent A : développement natif iOS et Android depuis des descriptions, avec backend généré.",
+    "descriptionEn": "Mobile app builder with Agent A, generating native iOS and Android apps from descriptions with a generated backend.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Applications mobiles iOS/Android",
+      "Agent A à partir de prompts",
+      "API, base de données et tableau de bord"
+    ],
+    "featuresEn": [
+      "iOS/Android mobile apps",
+      "Prompt-based Agent A",
+      "API, database and admin dashboard"
+    ],
+    "accessFr": "Applications mobiles · Web, cloud ou applications selon offre",
+    "accessEn": "Applications mobiles · Web, cloud or apps depending on plan",
+    "officialSources": [
+      {
+        "url": "https://agent.appypie.com/docs/whats-new",
+        "checkedAt": "2026-11-16",
+        "scope": "product_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Constructeur d'applications mobiles avec Agent A : développement natif iOS et Android depuis des descriptions, avec backend généré.",
+      "audiences": [
+        "Entrepreneurs, porteurs de projets et créateurs de services",
+        "Développeurs et équipes produit selon le niveau de code requis",
+        "Enseignants et concepteurs de portails"
+      ],
+      "cases": [
+        "Créer une application de réservation mobile avec comptes et interface de gestion.",
+        "Effectuer une revue des permissions, des formulaires et du comportement mobile avant publication."
+      ],
+      "advantages": [
+        "Applications mobiles iOS/Android",
+        "Agent A à partir de prompts",
+        "API, base de données et tableau de bord"
+      ],
+      "limits": [
+        "Vérifier l'accès au code, les exigences des stores, la conformité des données et les coûts de publication.",
+        "Le code ou les données générés doivent être testés : accessibilité, performance, sécurité et fiabilité ne sont jamais garanties automatiquement."
+      ],
+      "gettingStarted": [
+        "Définir les besoins, les rôles et les données avant de lancer la génération, puis tester dans un environnement de prévisualisation.",
+        "Exécuter des tests de navigation, d'autorisation et de persistance ; relire les coûts d'hébergement et les paramètres de publication."
+      ],
+      "examples": [
+        "Conçois une application avec trois profils (visiteur, contributeur, administrateur), une base de données et des tests d'autorisation.",
+        "Avant publication, prépare une liste des risques de sécurité, d'accessibilité, de sauvegarde et de dépassement des coûts."
+      ],
+      "pricing": "Offres gratuites ou d'essai selon service ; vérifier les crédits IA, l'hébergement, les domaines, la base de données et l'export dans les conditions officielles.",
+      "privacy": "Vérifier l'hébergement des données, le chiffrement, la gestion des secrets, les permissions utilisateurs et la conformité avant de mettre en production des données personnelles.",
+      "selection": [
+        "Choisir Appy Pie selon la cible (Applications mobiles), les possibilités d'export, le contrôle du code, la base de données, les intégrations et le coût de fonctionnement."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://agent.appypie.com/docs/whats-new",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "bubble": {
+    "descriptionFr": "Plateforme no-code de création d'applications avec générateur IA, base de données, workflows et éditeur visuel.",
+    "descriptionEn": "No-code app builder with AI generation, database, workflows and visual editor.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Génération d'applications et de schémas",
+      "Éditeur visuel et workflows",
+      "Agent IA en bêta"
+    ],
+    "featuresEn": [
+      "AI app and schema generation",
+      "Visual editor and workflows",
+      "Beta AI agent"
+    ],
+    "accessFr": "Apps no-code avec logique · Web, cloud ou applications selon offre",
+    "accessEn": "Apps no-code avec logique · Web, cloud or apps depending on plan",
+    "officialSources": [
+      {
+        "url": "https://manual.bubble.io/help-guides/ai/bubble-ai-agent",
+        "checkedAt": "2026-11-16",
+        "scope": "product_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme no-code de création d'applications avec générateur IA, base de données, workflows et éditeur visuel.",
+      "audiences": [
+        "Entrepreneurs, porteurs de projets et créateurs de services",
+        "Développeurs et équipes produit selon le niveau de code requis",
+        "Enseignants et concepteurs de portails"
+      ],
+      "cases": [
+        "Générer un MVP de plateforme communautaire avec authentification et logique de réservation.",
+        "Effectuer une revue des permissions, des formulaires et du comportement mobile avant publication."
+      ],
+      "advantages": [
+        "Génération d'applications et de schémas",
+        "Éditeur visuel et workflows",
+        "Agent IA en bêta"
+      ],
+      "limits": [
+        "L'agent est encore en bêta et réservé aux applications créées par le générateur IA ; certaines opérations, conditions et plugins restent non pris en charge.",
+        "Le code ou les données générés doivent être testés : accessibilité, performance, sécurité et fiabilité ne sont jamais garanties automatiquement."
+      ],
+      "gettingStarted": [
+        "Définir les besoins, les rôles et les données avant de lancer la génération, puis tester dans un environnement de prévisualisation.",
+        "Exécuter des tests de navigation, d'autorisation et de persistance ; relire les coûts d'hébergement et les paramètres de publication."
+      ],
+      "examples": [
+        "Conçois une application avec trois profils (visiteur, contributeur, administrateur), une base de données et des tests d'autorisation.",
+        "Avant publication, prépare une liste des risques de sécurité, d'accessibilité, de sauvegarde et de dépassement des coûts."
+      ],
+      "pricing": "Offres gratuites ou d'essai selon service ; vérifier les crédits IA, l'hébergement, les domaines, la base de données et l'export dans les conditions officielles.",
+      "privacy": "Vérifier l'hébergement des données, le chiffrement, la gestion des secrets, les permissions utilisateurs et la conformité avant de mettre en production des données personnelles.",
+      "selection": [
+        "Choisir Bubble selon la cible (Apps no-code avec logique), les possibilités d'export, le contrôle du code, la base de données, les intégrations et le coût de fonctionnement."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://manual.bubble.io/help-guides/ai/bubble-ai-agent",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "flutterflow": {
+    "descriptionFr": "Environnement visuel pour applications Flutter avec schémas générés par IA et agents de codage dans FlutterFlow Studio.",
+    "descriptionEn": "Visual Flutter app builder with AI-generated schemas and coding agents in FlutterFlow Studio.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Interfaces Flutter et composants",
+      "Génération de schéma de données",
+      "Agents Codex et Claude sur application bureau"
+    ],
+    "featuresEn": [
+      "Flutter UIs and components",
+      "AI data schema generation",
+      "Codex and Claude agents in desktop app"
+    ],
+    "accessFr": "Apps Flutter mobiles/web · Web, cloud ou applications selon offre",
+    "accessEn": "Apps Flutter mobiles/web · Web, cloud or apps depending on plan",
+    "officialSources": [
+      {
+        "url": "https://docs.flutterflow.io/concepts/ai-agent",
+        "checkedAt": "2026-11-16",
+        "scope": "product_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Environnement visuel pour applications Flutter avec schémas générés par IA et agents de codage dans FlutterFlow Studio.",
+      "audiences": [
+        "Entrepreneurs, porteurs de projets et créateurs de services",
+        "Développeurs et équipes produit selon le niveau de code requis",
+        "Enseignants et concepteurs de portails"
+      ],
+      "cases": [
+        "Construire une application de suivi mobile, puis utiliser un agent pour modifier ses composants.",
+        "Effectuer une revue des permissions, des formulaires et du comportement mobile avant publication."
+      ],
+      "advantages": [
+        "Interfaces Flutter et composants",
+        "Génération de schéma de données",
+        "Agents Codex et Claude sur application bureau"
+      ],
+      "limits": [
+        "Le nouvel AI Agent Studio fonctionne dans l'application de bureau, pas dans la version navigateur ; le fournisseur du modèle facture l'usage et traite le contexte.",
+        "Le code ou les données générés doivent être testés : accessibilité, performance, sécurité et fiabilité ne sont jamais garanties automatiquement."
+      ],
+      "gettingStarted": [
+        "Définir les besoins, les rôles et les données avant de lancer la génération, puis tester dans un environnement de prévisualisation.",
+        "Exécuter des tests de navigation, d'autorisation et de persistance ; relire les coûts d'hébergement et les paramètres de publication."
+      ],
+      "examples": [
+        "Conçois une application avec trois profils (visiteur, contributeur, administrateur), une base de données et des tests d'autorisation.",
+        "Avant publication, prépare une liste des risques de sécurité, d'accessibilité, de sauvegarde et de dépassement des coûts."
+      ],
+      "pricing": "Offres gratuites ou d'essai selon service ; vérifier les crédits IA, l'hébergement, les domaines, la base de données et l'export dans les conditions officielles.",
+      "privacy": "Vérifier l'hébergement des données, le chiffrement, la gestion des secrets, les permissions utilisateurs et la conformité avant de mettre en production des données personnelles.",
+      "selection": [
+        "Choisir FlutterFlow selon la cible (Apps Flutter mobiles/web), les possibilités d'export, le contrôle du code, la base de données, les intégrations et le coût de fonctionnement."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.flutterflow.io/concepts/ai-agent",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "softr": {
+    "descriptionFr": "Créateur de portails et d'outils métiers no-code dont l'AI Co-Builder construit base de données, pages, droits d'accès et blocs.",
+    "descriptionEn": "No-code business portal builder whose AI Co-Builder creates databases, pages, permissions and blocks.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "AI Co-Builder pour applications métiers",
+      "Base de données et permissions",
+      "Blocs Vibe Coding connectés aux données"
+    ],
+    "featuresEn": [
+      "Business app AI Co-Builder",
+      "Database and permissions",
+      "Data-connected Vibe Coding blocks"
+    ],
+    "accessFr": "Portails et outils métiers · Web, cloud ou applications selon offre",
+    "accessEn": "Portails et outils métiers · Web, cloud or apps depending on plan",
+    "officialSources": [
+      {
+        "url": "https://docs.softr.io/start-here/ai-co-builder",
+        "checkedAt": "2026-11-16",
+        "scope": "product_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Créateur de portails et d'outils métiers no-code dont l'AI Co-Builder construit base de données, pages, droits d'accès et blocs.",
+      "audiences": [
+        "Entrepreneurs, porteurs de projets et créateurs de services",
+        "Développeurs et équipes produit selon le niveau de code requis",
+        "Enseignants et concepteurs de portails"
+      ],
+      "cases": [
+        "Créer un portail clients avec rôles, accès différenciés et tableaux de bord.",
+        "Effectuer une revue des permissions, des formulaires et du comportement mobile avant publication."
+      ],
+      "advantages": [
+        "AI Co-Builder pour applications métiers",
+        "Base de données et permissions",
+        "Blocs Vibe Coding connectés aux données"
+      ],
+      "limits": [
+        "Vérifier les règles d'accès et les données sensibles après génération ; les crédits IA et les sources externes dépendent de l'offre.",
+        "Le code ou les données générés doivent être testés : accessibilité, performance, sécurité et fiabilité ne sont jamais garanties automatiquement."
+      ],
+      "gettingStarted": [
+        "Définir les besoins, les rôles et les données avant de lancer la génération, puis tester dans un environnement de prévisualisation.",
+        "Exécuter des tests de navigation, d'autorisation et de persistance ; relire les coûts d'hébergement et les paramètres de publication."
+      ],
+      "examples": [
+        "Conçois une application avec trois profils (visiteur, contributeur, administrateur), une base de données et des tests d'autorisation.",
+        "Avant publication, prépare une liste des risques de sécurité, d'accessibilité, de sauvegarde et de dépassement des coûts."
+      ],
+      "pricing": "Offres gratuites ou d'essai selon service ; vérifier les crédits IA, l'hébergement, les domaines, la base de données et l'export dans les conditions officielles.",
+      "privacy": "Vérifier l'hébergement des données, le chiffrement, la gestion des secrets, les permissions utilisateurs et la conformité avant de mettre en production des données personnelles.",
+      "selection": [
+        "Choisir Softr selon la cible (Portails et outils métiers), les possibilités d'export, le contrôle du code, la base de données, les intégrations et le coût de fonctionnement."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.softr.io/start-here/ai-co-builder",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "glide": {
+    "descriptionFr": "Créateur d'applications métiers connectées aux données, avec Glide Agent et fonctions IA d'analyse et d'automatisation.",
+    "descriptionEn": "Data-connected business app creator with Glide Agent and AI analysis and automation features.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Glide Agent pour générer des apps",
+      "Intégrations de données",
+      "Workflows et extraction IA"
+    ],
+    "featuresEn": [
+      "Glide Agent app creation",
+      "Data integrations",
+      "AI workflows and extraction"
+    ],
+    "accessFr": "Applications métiers sur données · Web, cloud ou applications selon offre",
+    "accessEn": "Applications métiers sur données · Web, cloud or apps depending on plan",
+    "officialSources": [
+      {
+        "url": "https://www.glideapps.com/classic/ai",
+        "checkedAt": "2026-11-16",
+        "scope": "product_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Créateur d'applications métiers connectées aux données, avec Glide Agent et fonctions IA d'analyse et d'automatisation.",
+      "audiences": [
+        "Entrepreneurs, porteurs de projets et créateurs de services",
+        "Développeurs et équipes produit selon le niveau de code requis",
+        "Enseignants et concepteurs de portails"
+      ],
+      "cases": [
+        "Créer une application d'inventaire à partir de tables de produits et d'utilisateurs.",
+        "Effectuer une revue des permissions, des formulaires et du comportement mobile avant publication."
+      ],
+      "advantages": [
+        "Glide Agent pour générer des apps",
+        "Intégrations de données",
+        "Workflows et extraction IA"
+      ],
+      "limits": [
+        "Glide Agent et Glide AI sont des fonctions distinctes ; l'accès aux agents dépend du compte et certains anciens espaces n'y ont pas accès.",
+        "Le code ou les données générés doivent être testés : accessibilité, performance, sécurité et fiabilité ne sont jamais garanties automatiquement."
+      ],
+      "gettingStarted": [
+        "Définir les besoins, les rôles et les données avant de lancer la génération, puis tester dans un environnement de prévisualisation.",
+        "Exécuter des tests de navigation, d'autorisation et de persistance ; relire les coûts d'hébergement et les paramètres de publication."
+      ],
+      "examples": [
+        "Conçois une application avec trois profils (visiteur, contributeur, administrateur), une base de données et des tests d'autorisation.",
+        "Avant publication, prépare une liste des risques de sécurité, d'accessibilité, de sauvegarde et de dépassement des coûts."
+      ],
+      "pricing": "Offres gratuites ou d'essai selon service ; vérifier les crédits IA, l'hébergement, les domaines, la base de données et l'export dans les conditions officielles.",
+      "privacy": "Vérifier l'hébergement des données, le chiffrement, la gestion des secrets, les permissions utilisateurs et la conformité avant de mettre en production des données personnelles.",
+      "selection": [
+        "Choisir Glide selon la cible (Applications métiers sur données), les possibilités d'export, le contrôle du code, la base de données, les intégrations et le coût de fonctionnement."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.glideapps.com/classic/ai",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "create": {
+    "descriptionFr": "Create.xyz est devenu Anything : générateur d'applications web et mobiles avec code, intégrations et backend selon le projet.",
+    "descriptionEn": "Create.xyz is now Anything: a code-generating web and mobile app builder with integrations and a backend.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Création d'applications web et mobiles",
+      "Génération de code",
+      "Intégrations d'applications"
+    ],
+    "featuresEn": [
+      "Web and mobile app creation",
+      "Code generation",
+      "App integrations"
+    ],
+    "accessFr": "Applications IA, nouvelle marque · Web, cloud ou applications selon offre",
+    "accessEn": "Applications IA, nouvelle marque · Web, cloud or apps depending on plan",
+    "officialSources": [
+      {
+        "url": "https://www.anything.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "product_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Create.xyz est devenu Anything : générateur d'applications web et mobiles avec code, intégrations et backend selon le projet.",
+      "audiences": [
+        "Entrepreneurs, porteurs de projets et créateurs de services",
+        "Développeurs et équipes produit selon le niveau de code requis",
+        "Enseignants et concepteurs de portails"
+      ],
+      "cases": [
+        "Décrire une application avec comptes et tableaux de bord, puis évaluer le résultat dans Anything.",
+        "Effectuer une revue des permissions, des formulaires et du comportement mobile avant publication."
+      ],
+      "advantages": [
+        "Création d'applications web et mobiles",
+        "Génération de code",
+        "Intégrations d'applications"
+      ],
+      "limits": [
+        "Marque Create.xyz remplacée par Anything ; les informations tarifaires contradictoires des annuaires ne sont pas reprises sans confirmation officielle.",
+        "Le code ou les données générés doivent être testés : accessibilité, performance, sécurité et fiabilité ne sont jamais garanties automatiquement."
+      ],
+      "gettingStarted": [
+        "Définir les besoins, les rôles et les données avant de lancer la génération, puis tester dans un environnement de prévisualisation.",
+        "Exécuter des tests de navigation, d'autorisation et de persistance ; relire les coûts d'hébergement et les paramètres de publication."
+      ],
+      "examples": [
+        "Conçois une application avec trois profils (visiteur, contributeur, administrateur), une base de données et des tests d'autorisation.",
+        "Avant publication, prépare une liste des risques de sécurité, d'accessibilité, de sauvegarde et de dépassement des coûts."
+      ],
+      "pricing": "Offres gratuites ou d'essai selon service ; vérifier les crédits IA, l'hébergement, les domaines, la base de données et l'export dans les conditions officielles.",
+      "privacy": "Vérifier l'hébergement des données, le chiffrement, la gestion des secrets, les permissions utilisateurs et la conformité avant de mettre en production des données personnelles.",
+      "selection": [
+        "Choisir Create selon la cible (Applications IA, nouvelle marque), les possibilités d'export, le contrôle du code, la base de données, les intégrations et le coût de fonctionnement."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "rebranded",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.anything.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_rebranded"
+  },
+  "base44": {
+    "descriptionFr": "Générateur d'applications full-stack en langage naturel avec base de données, authentification, connecteurs, hébergement et SDK.",
+    "descriptionEn": "Natural-language full-stack app builder with database, authentication, integrations, hosting and SDK.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Backend, base de données et authentification",
+      "Génération d'applications et API",
+      "CLI, SDK et synchronisation du code"
+    ],
+    "featuresEn": [
+      "Backend, database and authentication",
+      "App and API generation",
+      "CLI, SDK and code sync"
+    ],
+    "accessFr": "Apps full-stack avec backend · Web, cloud ou applications selon offre",
+    "accessEn": "Apps full-stack avec backend · Web, cloud or apps depending on plan",
+    "officialSources": [
+      {
+        "url": "https://base44.com/solutions/developers",
+        "checkedAt": "2026-11-16",
+        "scope": "product_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Générateur d'applications full-stack en langage naturel avec base de données, authentification, connecteurs, hébergement et SDK.",
+      "audiences": [
+        "Entrepreneurs, porteurs de projets et créateurs de services",
+        "Développeurs et équipes produit selon le niveau de code requis",
+        "Enseignants et concepteurs de portails"
+      ],
+      "cases": [
+        "Créer un outil interne de suivi de dossiers avec permissions et connexion à des services tiers.",
+        "Effectuer une revue des permissions, des formulaires et du comportement mobile avant publication."
+      ],
+      "advantages": [
+        "Backend, base de données et authentification",
+        "Génération d'applications et API",
+        "CLI, SDK et synchronisation du code"
+      ],
+      "limits": [
+        "Crédits de messages et d'intégrations à surveiller ; tester le contrôle d'accès et les migrations de données.",
+        "Le code ou les données générés doivent être testés : accessibilité, performance, sécurité et fiabilité ne sont jamais garanties automatiquement."
+      ],
+      "gettingStarted": [
+        "Définir les besoins, les rôles et les données avant de lancer la génération, puis tester dans un environnement de prévisualisation.",
+        "Exécuter des tests de navigation, d'autorisation et de persistance ; relire les coûts d'hébergement et les paramètres de publication."
+      ],
+      "examples": [
+        "Conçois une application avec trois profils (visiteur, contributeur, administrateur), une base de données et des tests d'autorisation.",
+        "Avant publication, prépare une liste des risques de sécurité, d'accessibilité, de sauvegarde et de dépassement des coûts."
+      ],
+      "pricing": "Offres gratuites ou d'essai selon service ; vérifier les crédits IA, l'hébergement, les domaines, la base de données et l'export dans les conditions officielles.",
+      "privacy": "Vérifier l'hébergement des données, le chiffrement, la gestion des secrets, les permissions utilisateurs et la conformité avant de mettre en production des données personnelles.",
+      "selection": [
+        "Choisir Base44 selon la cible (Apps full-stack avec backend), les possibilités d'export, le contrôle du code, la base de données, les intégrations et le coût de fonctionnement."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://base44.com/solutions/developers",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "momen": {
+    "descriptionFr": "Plateforme no-code full-stack où l'IA génère pages, tables relationnelles, permissions et logique Actionflow, inspectables visuellement.",
+    "descriptionEn": "Full-stack no-code platform where AI creates inspectable pages, relational tables, permissions and Actionflow logic.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Création IA de modèles de données",
+      "Actionflow et permissions visuelles",
+      "Publication d'applications web"
+    ],
+    "featuresEn": [
+      "AI-generated data models",
+      "Visual Actionflow and permissions",
+      "Web app publishing"
+    ],
+    "accessFr": "Apps no-code full-stack · Web, cloud ou applications selon offre",
+    "accessEn": "Apps no-code full-stack · Web, cloud or apps depending on plan",
+    "officialSources": [
+      {
+        "url": "https://docs.momen.app/docs/",
+        "checkedAt": "2026-11-16",
+        "scope": "product_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme no-code full-stack où l'IA génère pages, tables relationnelles, permissions et logique Actionflow, inspectables visuellement.",
+      "audiences": [
+        "Entrepreneurs, porteurs de projets et créateurs de services",
+        "Développeurs et équipes produit selon le niveau de code requis",
+        "Enseignants et concepteurs de portails"
+      ],
+      "cases": [
+        "Construire un portail de gestion avec données relationnelles et contrôles d'accès.",
+        "Effectuer une revue des permissions, des formulaires et du comportement mobile avant publication."
+      ],
+      "advantages": [
+        "Création IA de modèles de données",
+        "Actionflow et permissions visuelles",
+        "Publication d'applications web"
+      ],
+      "limits": [
+        "L'IA ne remplace pas la validation des règles de sécurité ; la publication mobile est signalée en bêta fermée dans la documentation.",
+        "Le code ou les données générés doivent être testés : accessibilité, performance, sécurité et fiabilité ne sont jamais garanties automatiquement."
+      ],
+      "gettingStarted": [
+        "Définir les besoins, les rôles et les données avant de lancer la génération, puis tester dans un environnement de prévisualisation.",
+        "Exécuter des tests de navigation, d'autorisation et de persistance ; relire les coûts d'hébergement et les paramètres de publication."
+      ],
+      "examples": [
+        "Conçois une application avec trois profils (visiteur, contributeur, administrateur), une base de données et des tests d'autorisation.",
+        "Avant publication, prépare une liste des risques de sécurité, d'accessibilité, de sauvegarde et de dépassement des coûts."
+      ],
+      "pricing": "Offres gratuites ou d'essai selon service ; vérifier les crédits IA, l'hébergement, les domaines, la base de données et l'export dans les conditions officielles.",
+      "privacy": "Vérifier l'hébergement des données, le chiffrement, la gestion des secrets, les permissions utilisateurs et la conformité avant de mettre en production des données personnelles.",
+      "selection": [
+        "Choisir Momen selon la cible (Apps no-code full-stack), les possibilités d'export, le contrôle du code, la base de données, les intégrations et le coût de fonctionnement."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.momen.app/docs/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  }
+}
