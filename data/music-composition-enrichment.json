@@ -1,0 +1,1238 @@
+{
+  "suno": {
+    "descriptionFr": "Génération de chansons avec voix et instruments à partir de descriptions, avec édition et export selon formule.",
+    "descriptionEn": "Generate songs with vocals and instruments from prompts, with editing and export depending on plan.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Chansons avec paroles",
+      "Génération musicale",
+      "Export selon forfait"
+    ],
+    "featuresEn": [
+      "Chansons avec paroles",
+      "Music generation",
+      "Export selon forfait"
+    ],
+    "accessFr": "Web et/ou application selon outil",
+    "accessEn": "Web and/or app depending on product",
+    "officialSources": [
+      {
+        "url": "https://help.suno.com/en/articles/9601665",
+        "checkedAt": "2026-11-16",
+        "scope": "capabilities_and_rights"
+      }
+    ],
+    "research": {
+      "headline": "Génération de chansons avec voix et instruments à partir de descriptions, avec édition et export selon formule.",
+      "audiences": [
+        "Créateurs audiovisuels et musiciens",
+        "Enseignants, étudiants ou développeurs selon les fonctionnalités"
+      ],
+      "cases": [
+        "Générer une chanson originale à partir d'un thème et de paroles personnelles.",
+        "Évaluer le rendu et vérifier les conditions de réutilisation avant export ou diffusion."
+      ],
+      "advantages": [
+        "Chansons avec paroles",
+        "Génération musicale",
+        "Export selon forfait"
+      ],
+      "limits": [
+        "Droits commerciaux accordés aux morceaux créés sous abonnement éligible ; pas de licence commerciale rétroactive par défaut pour les créations gratuites.",
+        "La génération ou la séparation automatisée nécessite un contrôle humain de la qualité et des droits."
+      ],
+      "gettingStarted": [
+        "Définir la durée, le style, l'usage final et les contraintes de licence.",
+        "Créer un extrait test et vérifier les conditions de diffusion, d'attribution et de monétisation."
+      ],
+      "examples": [
+        "Propose une bande-son originale de 40 secondes pour une vidéo pédagogique, sans imiter un artiste identifiable.",
+        "Distingue les usages permis pour diffusion privée, publication sociale et monétisation."
+      ],
+      "pricing": "Vérifier la formule en vigueur et les droits associés sur la source officielle ; ne pas assimiler accès gratuit à licence commerciale.",
+      "privacy": "Ne pas importer d'enregistrement protégé ou de voix identifiable sans disposer des droits requis et du consentement applicable.",
+      "selection": [
+        "Retenir Suno si sa fonction principale, son workflow et ses conditions de licence répondent au projet."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.suno.com/en/articles/9601665",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "udio": {
+    "descriptionFr": "Générateur musical à partir d’instructions ; fonctionnalités d'export limitées depuis son accord avec Universal Music Group.",
+    "descriptionEn": "Prompt-based music generation platform with export limitations following its Universal Music Group partnership.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Création de chansons",
+      "Variations musicales",
+      "Téléchargements désactivés signalés"
+    ],
+    "featuresEn": [
+      "Song creation",
+      "Variations musicales",
+      "Téléchargements désactivés signalés"
+    ],
+    "accessFr": "Web et/ou application selon outil",
+    "accessEn": "Web and/or app depending on product",
+    "officialSources": [
+      {
+        "url": "https://help.udio.com/en/articles/12683565-changes-associated-with-the-universal-music-group-umg-partnership",
+        "checkedAt": "2026-11-16",
+        "scope": "capabilities_and_rights"
+      }
+    ],
+    "research": {
+      "headline": "Générateur musical à partir d’instructions ; fonctionnalités d'export limitées depuis son accord avec Universal Music Group.",
+      "audiences": [
+        "Créateurs audiovisuels et musiciens",
+        "Enseignants, étudiants ou développeurs selon les fonctionnalités"
+      ],
+      "cases": [
+        "Tester une composition musicale dans l'interface sans présumer de la possibilité de l'exporter.",
+        "Évaluer le rendu et vérifier les conditions de réutilisation avant export ou diffusion."
+      ],
+      "advantages": [
+        "Création de chansons",
+        "Variations musicales",
+        "Téléchargements désactivés signalés"
+      ],
+      "limits": [
+        "Udio indique officiellement que les téléchargements audio, vidéo et stems ont été désactivés.",
+        "La génération ou la séparation automatisée nécessite un contrôle humain de la qualité et des droits."
+      ],
+      "gettingStarted": [
+        "Définir la durée, le style, l'usage final et les contraintes de licence.",
+        "Créer un extrait test et vérifier les conditions de diffusion, d'attribution et de monétisation."
+      ],
+      "examples": [
+        "Propose une bande-son originale de 40 secondes pour une vidéo pédagogique, sans imiter un artiste identifiable.",
+        "Distingue les usages permis pour diffusion privée, publication sociale et monétisation."
+      ],
+      "pricing": "Vérifier la formule en vigueur et les droits associés sur la source officielle ; ne pas assimiler accès gratuit à licence commerciale.",
+      "privacy": "Ne pas importer d'enregistrement protégé ou de voix identifiable sans disposer des droits requis et du consentement applicable.",
+      "selection": [
+        "Retenir Udio si sa fonction principale, son workflow et ses conditions de licence répondent au projet."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.udio.com/en/articles/12683565-changes-associated-with-the-universal-music-group-umg-partnership",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "aiva": {
+    "descriptionFr": "Assistant de composition musicale IA offrant des exports audio et MIDI avec droits variables selon l'abonnement.",
+    "descriptionEn": "AI composition assistant with audio and MIDI exports and plan-dependent rights.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Composition instrumentale",
+      "Export MIDI et MP3",
+      "Licences selon forfait"
+    ],
+    "featuresEn": [
+      "Composition instrumentale",
+      "Export MIDI et MP3",
+      "Licences selon forfait"
+    ],
+    "accessFr": "Web et/ou application selon outil",
+    "accessEn": "Web and/or app depending on product",
+    "officialSources": [
+      {
+        "url": "https://www.aiva.ai/about-us",
+        "checkedAt": "2026-11-16",
+        "scope": "capabilities_and_rights"
+      }
+    ],
+    "research": {
+      "headline": "Assistant de composition musicale IA offrant des exports audio et MIDI avec droits variables selon l'abonnement.",
+      "audiences": [
+        "Créateurs audiovisuels et musiciens",
+        "Enseignants, étudiants ou développeurs selon les fonctionnalités"
+      ],
+      "cases": [
+        "Créer une musique d'ambiance instrumentale et en retravailler les données MIDI.",
+        "Évaluer le rendu et vérifier les conditions de réutilisation avant export ou diffusion."
+      ],
+      "advantages": [
+        "Composition instrumentale",
+        "Export MIDI et MP3",
+        "Licences selon forfait"
+      ],
+      "limits": [
+        "La formule gratuite impose une attribution et un usage non commercial ; droits plus étendus avec Pro selon conditions.",
+        "La génération ou la séparation automatisée nécessite un contrôle humain de la qualité et des droits."
+      ],
+      "gettingStarted": [
+        "Définir la durée, le style, l'usage final et les contraintes de licence.",
+        "Créer un extrait test et vérifier les conditions de diffusion, d'attribution et de monétisation."
+      ],
+      "examples": [
+        "Propose une bande-son originale de 40 secondes pour une vidéo pédagogique, sans imiter un artiste identifiable.",
+        "Distingue les usages permis pour diffusion privée, publication sociale et monétisation."
+      ],
+      "pricing": "Vérifier la formule en vigueur et les droits associés sur la source officielle ; ne pas assimiler accès gratuit à licence commerciale.",
+      "privacy": "Ne pas importer d'enregistrement protégé ou de voix identifiable sans disposer des droits requis et du consentement applicable.",
+      "selection": [
+        "Retenir AIVA si sa fonction principale, son workflow et ses conditions de licence répondent au projet."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.aiva.ai/about-us",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "soundraw": {
+    "descriptionFr": "Générateur de musiques d'ambiance et de beats personnalisés pour vidéo, réseaux sociaux et production musicale.",
+    "descriptionEn": "Customizable background-music and beat generator for video, social media and music production.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Musique de fond",
+      "Personnalisation de beats",
+      "Licences Creator et Artist"
+    ],
+    "featuresEn": [
+      "Musique de fond",
+      "Personnalisation de beats",
+      "Licences Creator et Artist"
+    ],
+    "accessFr": "Web et/ou application selon outil",
+    "accessEn": "Web and/or app depending on product",
+    "officialSources": [
+      {
+        "url": "https://soundraw.io/license",
+        "checkedAt": "2026-11-16",
+        "scope": "capabilities_and_rights"
+      }
+    ],
+    "research": {
+      "headline": "Générateur de musiques d'ambiance et de beats personnalisés pour vidéo, réseaux sociaux et production musicale.",
+      "audiences": [
+        "Créateurs audiovisuels et musiciens",
+        "Enseignants, étudiants ou développeurs selon les fonctionnalités"
+      ],
+      "cases": [
+        "Créer une bande-son d'une vidéo éducative de deux minutes.",
+        "Évaluer le rendu et vérifier les conditions de réutilisation avant export ou diffusion."
+      ],
+      "advantages": [
+        "Musique de fond",
+        "Personnalisation de beats",
+        "Licences Creator et Artist"
+      ],
+      "limits": [
+        "La diffusion en plateformes musicales dépend du forfait Artist et de conditions de modification ; Creator cible la musique d'accompagnement.",
+        "La génération ou la séparation automatisée nécessite un contrôle humain de la qualité et des droits."
+      ],
+      "gettingStarted": [
+        "Définir la durée, le style, l'usage final et les contraintes de licence.",
+        "Créer un extrait test et vérifier les conditions de diffusion, d'attribution et de monétisation."
+      ],
+      "examples": [
+        "Propose une bande-son originale de 40 secondes pour une vidéo pédagogique, sans imiter un artiste identifiable.",
+        "Distingue les usages permis pour diffusion privée, publication sociale et monétisation."
+      ],
+      "pricing": "Vérifier la formule en vigueur et les droits associés sur la source officielle ; ne pas assimiler accès gratuit à licence commerciale.",
+      "privacy": "Ne pas importer d'enregistrement protégé ou de voix identifiable sans disposer des droits requis et du consentement applicable.",
+      "selection": [
+        "Retenir SOUNDRAW si sa fonction principale, son workflow et ses conditions de licence répondent au projet."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://soundraw.io/license",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "beatoven-ai": {
+    "descriptionFr": "Générateur de musique d’accompagnement pour vidéos, podcasts et jeux à partir de consignes créatives.",
+    "descriptionEn": "Background music generator for video, podcast and game projects from creative prompts.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Bandes-son IA",
+      "Ajustement d'ambiance",
+      "Téléchargement selon licence"
+    ],
+    "featuresEn": [
+      "Bandes-son IA",
+      "Ajustement d'ambiance",
+      "Téléchargement selon licence"
+    ],
+    "accessFr": "Web et/ou application selon outil",
+    "accessEn": "Web and/or app depending on product",
+    "officialSources": [
+      {
+        "url": "https://www.beatoven.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "product_overview"
+      }
+    ],
+    "research": {
+      "headline": "Générateur de musique d’accompagnement pour vidéos, podcasts et jeux à partir de consignes créatives.",
+      "audiences": [
+        "Créateurs audiovisuels et musiciens",
+        "Enseignants, étudiants ou développeurs selon les fonctionnalités"
+      ],
+      "cases": [
+        "Préparer un fond sonore discret pour un tutoriel.",
+        "Évaluer le rendu et vérifier les conditions de réutilisation avant export ou diffusion."
+      ],
+      "advantages": [
+        "Bandes-son IA",
+        "Ajustement d'ambiance",
+        "Téléchargement selon licence"
+      ],
+      "limits": [
+        "Vérifier les licences et exclusions avant diffusion commerciale ; modalités non vérifiées en détail.",
+        "La génération ou la séparation automatisée nécessite un contrôle humain de la qualité et des droits."
+      ],
+      "gettingStarted": [
+        "Définir la durée, le style, l'usage final et les contraintes de licence.",
+        "Créer un extrait test et vérifier les conditions de diffusion, d'attribution et de monétisation."
+      ],
+      "examples": [
+        "Propose une bande-son originale de 40 secondes pour une vidéo pédagogique, sans imiter un artiste identifiable.",
+        "Distingue les usages permis pour diffusion privée, publication sociale et monétisation."
+      ],
+      "pricing": "Vérifier la formule en vigueur et les droits associés sur la source officielle ; ne pas assimiler accès gratuit à licence commerciale.",
+      "privacy": "Ne pas importer d'enregistrement protégé ou de voix identifiable sans disposer des droits requis et du consentement applicable.",
+      "selection": [
+        "Retenir Beatoven.ai si sa fonction principale, son workflow et ses conditions de licence répondent au projet."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "product_overview",
+      "evidence": "official_product_page",
+      "sources": [
+        {
+          "url": "https://www.beatoven.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_product_overview"
+  },
+  "boomy": {
+    "descriptionFr": "Plateforme de création musicale assistée proposant des compositions rapides et des options de publication selon compte.",
+    "descriptionEn": "Assisted music-creation platform offering fast compositions and account-dependent publishing options.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Génération de chansons",
+      "Personnalisation",
+      "Diffusion selon offre"
+    ],
+    "featuresEn": [
+      "Génération de chansons",
+      "Personnalisation",
+      "Diffusion selon offre"
+    ],
+    "accessFr": "Web et/ou application selon outil",
+    "accessEn": "Web and/or app depending on product",
+    "officialSources": [
+      {
+        "url": "https://boomy.com",
+        "checkedAt": "2026-11-16",
+        "scope": "product_overview"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de création musicale assistée proposant des compositions rapides et des options de publication selon compte.",
+      "audiences": [
+        "Créateurs audiovisuels et musiciens",
+        "Enseignants, étudiants ou développeurs selon les fonctionnalités"
+      ],
+      "cases": [
+        "Produire des variantes d'une courte musique pour un générique.",
+        "Évaluer le rendu et vérifier les conditions de réutilisation avant export ou diffusion."
+      ],
+      "advantages": [
+        "Génération de chansons",
+        "Personnalisation",
+        "Diffusion selon offre"
+      ],
+      "limits": [
+        "Ne pas présumer des droits de distribution ni du maintien des options de publication.",
+        "La génération ou la séparation automatisée nécessite un contrôle humain de la qualité et des droits."
+      ],
+      "gettingStarted": [
+        "Définir la durée, le style, l'usage final et les contraintes de licence.",
+        "Créer un extrait test et vérifier les conditions de diffusion, d'attribution et de monétisation."
+      ],
+      "examples": [
+        "Propose une bande-son originale de 40 secondes pour une vidéo pédagogique, sans imiter un artiste identifiable.",
+        "Distingue les usages permis pour diffusion privée, publication sociale et monétisation."
+      ],
+      "pricing": "Vérifier la formule en vigueur et les droits associés sur la source officielle ; ne pas assimiler accès gratuit à licence commerciale.",
+      "privacy": "Ne pas importer d'enregistrement protégé ou de voix identifiable sans disposer des droits requis et du consentement applicable.",
+      "selection": [
+        "Retenir Boomy si sa fonction principale, son workflow et ses conditions de licence répondent au projet."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "product_overview",
+      "evidence": "official_product_page",
+      "sources": [
+        {
+          "url": "https://boomy.com",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_product_overview"
+  },
+  "loudly": {
+    "descriptionFr": "Outil de génération musicale IA et de pistes instrumentales destinées à la création de contenus.",
+    "descriptionEn": "AI music and instrumental track generator for content production.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Génération de pistes",
+      "Musique pour contenus",
+      "Formats selon offre"
+    ],
+    "featuresEn": [
+      "Track generation",
+      "Musique pour contenus",
+      "Formats selon offre"
+    ],
+    "accessFr": "Web et/ou application selon outil",
+    "accessEn": "Web and/or app depending on product",
+    "officialSources": [
+      {
+        "url": "https://www.loudly.com",
+        "checkedAt": "2026-11-16",
+        "scope": "product_overview"
+      }
+    ],
+    "research": {
+      "headline": "Outil de génération musicale IA et de pistes instrumentales destinées à la création de contenus.",
+      "audiences": [
+        "Créateurs audiovisuels et musiciens",
+        "Enseignants, étudiants ou développeurs selon les fonctionnalités"
+      ],
+      "cases": [
+        "Composer une musique de fond pour une vidéo promotionnelle.",
+        "Évaluer le rendu et vérifier les conditions de réutilisation avant export ou diffusion."
+      ],
+      "advantages": [
+        "Génération de pistes",
+        "Musique pour contenus",
+        "Formats selon offre"
+      ],
+      "limits": [
+        "Licences et usages autorisés dépendent des conditions et du plan.",
+        "La génération ou la séparation automatisée nécessite un contrôle humain de la qualité et des droits."
+      ],
+      "gettingStarted": [
+        "Définir la durée, le style, l'usage final et les contraintes de licence.",
+        "Créer un extrait test et vérifier les conditions de diffusion, d'attribution et de monétisation."
+      ],
+      "examples": [
+        "Propose une bande-son originale de 40 secondes pour une vidéo pédagogique, sans imiter un artiste identifiable.",
+        "Distingue les usages permis pour diffusion privée, publication sociale et monétisation."
+      ],
+      "pricing": "Vérifier la formule en vigueur et les droits associés sur la source officielle ; ne pas assimiler accès gratuit à licence commerciale.",
+      "privacy": "Ne pas importer d'enregistrement protégé ou de voix identifiable sans disposer des droits requis et du consentement applicable.",
+      "selection": [
+        "Retenir Loudly si sa fonction principale, son workflow et ses conditions de licence répondent au projet."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "product_overview",
+      "evidence": "official_product_page",
+      "sources": [
+        {
+          "url": "https://www.loudly.com",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_product_overview"
+  },
+  "mubert": {
+    "descriptionFr": "Générateur de musique d'ambiance avec licences différenciées pour usage personnel, monétisé ou applications.",
+    "descriptionEn": "Background-music generator with separate licenses for personal, monetized and app use.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Génération de pistes",
+      "Édition de durée et stems",
+      "API selon offre"
+    ],
+    "featuresEn": [
+      "Track generation",
+      "Édition de durée et stems",
+      "API selon offre"
+    ],
+    "accessFr": "Web et/ou application selon outil",
+    "accessEn": "Web and/or app depending on product",
+    "officialSources": [
+      {
+        "url": "https://mubert.com/fr/render/docs/subscription-agreement",
+        "checkedAt": "2026-11-16",
+        "scope": "capabilities_and_rights"
+      }
+    ],
+    "research": {
+      "headline": "Générateur de musique d'ambiance avec licences différenciées pour usage personnel, monétisé ou applications.",
+      "audiences": [
+        "Créateurs audiovisuels et musiciens",
+        "Enseignants, étudiants ou développeurs selon les fonctionnalités"
+      ],
+      "cases": [
+        "Créer une ambiance sonore pour un documentaire sans publier la piste comme morceau autonome.",
+        "Évaluer le rendu et vérifier les conditions de réutilisation avant export ou diffusion."
+      ],
+      "advantages": [
+        "Génération de pistes",
+        "Édition de durée et stems",
+        "API selon offre"
+      ],
+      "limits": [
+        "Licence non exclusive ; restrictions de redistribution autonome, Content ID et musique sur plateformes de streaming ; droits variables selon offre.",
+        "La génération ou la séparation automatisée nécessite un contrôle humain de la qualité et des droits."
+      ],
+      "gettingStarted": [
+        "Définir la durée, le style, l'usage final et les contraintes de licence.",
+        "Créer un extrait test et vérifier les conditions de diffusion, d'attribution et de monétisation."
+      ],
+      "examples": [
+        "Propose une bande-son originale de 40 secondes pour une vidéo pédagogique, sans imiter un artiste identifiable.",
+        "Distingue les usages permis pour diffusion privée, publication sociale et monétisation."
+      ],
+      "pricing": "Vérifier la formule en vigueur et les droits associés sur la source officielle ; ne pas assimiler accès gratuit à licence commerciale.",
+      "privacy": "Ne pas importer d'enregistrement protégé ou de voix identifiable sans disposer des droits requis et du consentement applicable.",
+      "selection": [
+        "Retenir Mubert si sa fonction principale, son workflow et ses conditions de licence répondent au projet."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://mubert.com/fr/render/docs/subscription-agreement",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "stable-audio": {
+    "descriptionFr": "Génération d'audio et de compositions à partir d'instructions textuelles dans l'écosystème Stability AI.",
+    "descriptionEn": "Audio and music generation from text prompts in the Stability AI ecosystem.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Texte vers audio",
+      "Effets et sons",
+      "Génération musicale"
+    ],
+    "featuresEn": [
+      "Texte vers audio",
+      "Effets et sons",
+      "Music generation"
+    ],
+    "accessFr": "Web et/ou application selon outil",
+    "accessEn": "Web and/or app depending on product",
+    "officialSources": [
+      {
+        "url": "https://www.stableaudio.com",
+        "checkedAt": "2026-11-16",
+        "scope": "product_overview"
+      }
+    ],
+    "research": {
+      "headline": "Génération d'audio et de compositions à partir d'instructions textuelles dans l'écosystème Stability AI.",
+      "audiences": [
+        "Créateurs audiovisuels et musiciens",
+        "Enseignants, étudiants ou développeurs selon les fonctionnalités"
+      ],
+      "cases": [
+        "Générer un effet sonore de transition pour une vidéo.",
+        "Évaluer le rendu et vérifier les conditions de réutilisation avant export ou diffusion."
+      ],
+      "advantages": [
+        "Texte vers audio",
+        "Effets et sons",
+        "Génération musicale"
+      ],
+      "limits": [
+        "La disponibilité, le modèle commercial et les droits d'utilisation nécessitent une vérification actuelle.",
+        "La génération ou la séparation automatisée nécessite un contrôle humain de la qualité et des droits."
+      ],
+      "gettingStarted": [
+        "Définir la durée, le style, l'usage final et les contraintes de licence.",
+        "Créer un extrait test et vérifier les conditions de diffusion, d'attribution et de monétisation."
+      ],
+      "examples": [
+        "Propose une bande-son originale de 40 secondes pour une vidéo pédagogique, sans imiter un artiste identifiable.",
+        "Distingue les usages permis pour diffusion privée, publication sociale et monétisation."
+      ],
+      "pricing": "Vérifier la formule en vigueur et les droits associés sur la source officielle ; ne pas assimiler accès gratuit à licence commerciale.",
+      "privacy": "Ne pas importer d'enregistrement protégé ou de voix identifiable sans disposer des droits requis et du consentement applicable.",
+      "selection": [
+        "Retenir Stable Audio si sa fonction principale, son workflow et ses conditions de licence répondent au projet."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "product_overview",
+      "evidence": "official_product_page",
+      "sources": [
+        {
+          "url": "https://www.stableaudio.com",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_product_overview"
+  },
+  "musicgen": {
+    "descriptionFr": "Modèle de recherche de Meta pour générer des extraits musicaux à partir de texte ou d'une mélodie.",
+    "descriptionEn": "Meta research model for music generation conditioned on text or melody.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Text-to-music",
+      "Guidage mélodique selon modèle",
+      "Exécution locale"
+    ],
+    "featuresEn": [
+      "Text-to-music",
+      "Guidage mélodique selon modèle",
+      "Exécution locale"
+    ],
+    "accessFr": "Code et poids de modèle",
+    "accessEn": "Code and model weights",
+    "officialSources": [
+      {
+        "url": "https://github.com/facebookresearch/audiocraft",
+        "checkedAt": "2026-11-16",
+        "scope": "capabilities_and_rights"
+      }
+    ],
+    "research": {
+      "headline": "Modèle de recherche de Meta pour générer des extraits musicaux à partir de texte ou d'une mélodie.",
+      "audiences": [
+        "Créateurs audiovisuels et musiciens",
+        "Enseignants, étudiants ou développeurs selon les fonctionnalités"
+      ],
+      "cases": [
+        "Expérimenter sur des courts extraits musicaux dans un contexte de recherche.",
+        "Évaluer le rendu et vérifier les conditions de réutilisation avant export ou diffusion."
+      ],
+      "advantages": [
+        "Text-to-music",
+        "Guidage mélodique selon modèle",
+        "Exécution locale"
+      ],
+      "limits": [
+        "Le code AudioCraft est sous licence MIT, mais les poids MusicGen sont sous CC BY-NC 4.0 : usage commercial non autorisé par cette licence.",
+        "La génération ou la séparation automatisée nécessite un contrôle humain de la qualité et des droits."
+      ],
+      "gettingStarted": [
+        "Définir la durée, le style, l'usage final et les contraintes de licence.",
+        "Créer un extrait test et vérifier les conditions de diffusion, d'attribution et de monétisation."
+      ],
+      "examples": [
+        "Propose une bande-son originale de 40 secondes pour une vidéo pédagogique, sans imiter un artiste identifiable.",
+        "Distingue les usages permis pour diffusion privée, publication sociale et monétisation."
+      ],
+      "pricing": "Vérifier la formule en vigueur et les droits associés sur la source officielle ; ne pas assimiler accès gratuit à licence commerciale.",
+      "privacy": "Ne pas importer d'enregistrement protégé ou de voix identifiable sans disposer des droits requis et du consentement applicable.",
+      "selection": [
+        "Retenir MusicGen si sa fonction principale, son workflow et ses conditions de licence répondent au projet."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://github.com/facebookresearch/audiocraft",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "riffusion": {
+    "descriptionFr": "Ancienne marque de génération musicale à partir de texte ; devenue ProducerAI puis associée à Flow Music.",
+    "descriptionEn": "Former prompt-based music generation brand, later ProducerAI and associated with Flow Music.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Génération musicale historique",
+      "Succession de produits",
+      "Vérification du nouveau service"
+    ],
+    "featuresEn": [
+      "Historical music generation",
+      "Succession de produits",
+      "Vérification du nouveau service"
+    ],
+    "accessFr": "Historique — service indépendant non confirmé",
+    "accessEn": "Historical — standalone service unconfirmed",
+    "officialSources": [],
+    "research": {
+      "headline": "Ancienne marque de génération musicale à partir de texte ; devenue ProducerAI puis associée à Flow Music.",
+      "audiences": [
+        "Créateurs audiovisuels et musiciens",
+        "Enseignants, étudiants ou développeurs selon les fonctionnalités"
+      ],
+      "cases": [
+        "Étudier l'évolution de la génération musicale et chercher le service successeur.",
+        "Évaluer le rendu et vérifier les conditions de réutilisation avant export ou diffusion."
+      ],
+      "advantages": [
+        "Génération musicale historique",
+        "Succession de produits",
+        "Vérification du nouveau service"
+      ],
+      "limits": [
+        "Le produit autonome historique n'est plus à traiter comme service inchangé ; succession signalée par sources secondaires.",
+        "La génération ou la séparation automatisée nécessite un contrôle humain de la qualité et des droits."
+      ],
+      "gettingStarted": [
+        "Définir la durée, le style, l'usage final et les contraintes de licence.",
+        "Créer un extrait test et vérifier les conditions de diffusion, d'attribution et de monétisation."
+      ],
+      "examples": [
+        "Propose une bande-son originale de 40 secondes pour une vidéo pédagogique, sans imiter un artiste identifiable.",
+        "Distingue les usages permis pour diffusion privée, publication sociale et monétisation."
+      ],
+      "pricing": "Vérifier la formule en vigueur et les droits associés sur la source officielle ; ne pas assimiler accès gratuit à licence commerciale.",
+      "privacy": "Ne pas importer d'enregistrement protégé ou de voix identifiable sans disposer des droits requis et du consentement applicable.",
+      "selection": [
+        "Retenir Riffusion si sa fonction principale, son workflow et ses conditions de licence répondent au projet."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "historical_status_to_verify",
+      "evidence": "secondary",
+      "sources": [
+        {
+          "url": "https://www.riffusion.com",
+          "type": "original_domain_unverified",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "historical_status_to_verify"
+  },
+  "soundverse": {
+    "descriptionFr": "Studio de création musicale IA avec génération, édition et exploration de plusieurs modèles.",
+    "descriptionEn": "AI music creation studio with generation, editing and access to multiple models.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Génération musicale",
+      "Édition créative",
+      "Choix de modèles"
+    ],
+    "featuresEn": [
+      "Music generation",
+      "Édition créative",
+      "Choix de modèles"
+    ],
+    "accessFr": "Web et/ou application selon outil",
+    "accessEn": "Web and/or app depending on product",
+    "officialSources": [
+      {
+        "url": "https://www.soundverse.ai/about",
+        "checkedAt": "2026-11-16",
+        "scope": "capabilities_and_rights"
+      }
+    ],
+    "research": {
+      "headline": "Studio de création musicale IA avec génération, édition et exploration de plusieurs modèles.",
+      "audiences": [
+        "Créateurs audiovisuels et musiciens",
+        "Enseignants, étudiants ou développeurs selon les fonctionnalités"
+      ],
+      "cases": [
+        "Développer des variantes d'une composition à partir d'une idée de refrain.",
+        "Évaluer le rendu et vérifier les conditions de réutilisation avant export ou diffusion."
+      ],
+      "advantages": [
+        "Génération musicale",
+        "Édition créative",
+        "Choix de modèles"
+      ],
+      "limits": [
+        "Les créations du plan gratuit sont réservées à l'usage non commercial ; droits dépendants du forfait et des contributions humaines.",
+        "La génération ou la séparation automatisée nécessite un contrôle humain de la qualité et des droits."
+      ],
+      "gettingStarted": [
+        "Définir la durée, le style, l'usage final et les contraintes de licence.",
+        "Créer un extrait test et vérifier les conditions de diffusion, d'attribution et de monétisation."
+      ],
+      "examples": [
+        "Propose une bande-son originale de 40 secondes pour une vidéo pédagogique, sans imiter un artiste identifiable.",
+        "Distingue les usages permis pour diffusion privée, publication sociale et monétisation."
+      ],
+      "pricing": "Vérifier la formule en vigueur et les droits associés sur la source officielle ; ne pas assimiler accès gratuit à licence commerciale.",
+      "privacy": "Ne pas importer d'enregistrement protégé ou de voix identifiable sans disposer des droits requis et du consentement applicable.",
+      "selection": [
+        "Retenir SOUNDVERSE si sa fonction principale, son workflow et ses conditions de licence répondent au projet."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.soundverse.ai/about",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "ecrett-music": {
+    "descriptionFr": "Création de musiques de fond à partir de choix de scène, humeur et genre pour accompagner des médias.",
+    "descriptionEn": "Background music creation from scene, mood and genre choices for media projects.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Musique d'illustration",
+      "Choix d'ambiance",
+      "Export selon licence"
+    ],
+    "featuresEn": [
+      "Musique d'illustration",
+      "Choix d'ambiance",
+      "Export selon licence"
+    ],
+    "accessFr": "Web et/ou application selon outil",
+    "accessEn": "Web and/or app depending on product",
+    "officialSources": [
+      {
+        "url": "https://ecrettmusic.com",
+        "checkedAt": "2026-11-16",
+        "scope": "product_overview"
+      }
+    ],
+    "research": {
+      "headline": "Création de musiques de fond à partir de choix de scène, humeur et genre pour accompagner des médias.",
+      "audiences": [
+        "Créateurs audiovisuels et musiciens",
+        "Enseignants, étudiants ou développeurs selon les fonctionnalités"
+      ],
+      "cases": [
+        "Habiller une présentation vidéo d'une musique apaisante.",
+        "Évaluer le rendu et vérifier les conditions de réutilisation avant export ou diffusion."
+      ],
+      "advantages": [
+        "Musique d'illustration",
+        "Choix d'ambiance",
+        "Export selon licence"
+      ],
+      "limits": [
+        "Disponibilité et licence commerciale précises à recontrôler.",
+        "La génération ou la séparation automatisée nécessite un contrôle humain de la qualité et des droits."
+      ],
+      "gettingStarted": [
+        "Définir la durée, le style, l'usage final et les contraintes de licence.",
+        "Créer un extrait test et vérifier les conditions de diffusion, d'attribution et de monétisation."
+      ],
+      "examples": [
+        "Propose une bande-son originale de 40 secondes pour une vidéo pédagogique, sans imiter un artiste identifiable.",
+        "Distingue les usages permis pour diffusion privée, publication sociale et monétisation."
+      ],
+      "pricing": "Vérifier la formule en vigueur et les droits associés sur la source officielle ; ne pas assimiler accès gratuit à licence commerciale.",
+      "privacy": "Ne pas importer d'enregistrement protégé ou de voix identifiable sans disposer des droits requis et du consentement applicable.",
+      "selection": [
+        "Retenir Ecrett Music si sa fonction principale, son workflow et ses conditions de licence répondent au projet."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "product_overview",
+      "evidence": "official_product_page",
+      "sources": [
+        {
+          "url": "https://ecrettmusic.com",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_product_overview"
+  },
+  "amper-music": {
+    "descriptionFr": "Ancienne plateforme de composition musicale automatisée dont certains actifs ont été acquis par Shutterstock en 2020.",
+    "descriptionEn": "Former automated music-composition platform, with some assets acquired by Shutterstock in 2020.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Composition automatisée historique",
+      "Acquisition Shutterstock",
+      "Service autonome non confirmé"
+    ],
+    "featuresEn": [
+      "Composition automatisée historique",
+      "Acquisition Shutterstock",
+      "Service autonome non confirmé"
+    ],
+    "accessFr": "Historique — service indépendant non confirmé",
+    "accessEn": "Historical — standalone service unconfirmed",
+    "officialSources": [
+      {
+        "url": "https://investor.shutterstock.com/news-releases/news-release-details/shutterstock-announces-acquisition-amper-music",
+        "checkedAt": "2026-11-16",
+        "scope": "capabilities_and_rights"
+      }
+    ],
+    "research": {
+      "headline": "Ancienne plateforme de composition musicale automatisée dont certains actifs ont été acquis par Shutterstock en 2020.",
+      "audiences": [
+        "Créateurs audiovisuels et musiciens",
+        "Enseignants, étudiants ou développeurs selon les fonctionnalités"
+      ],
+      "cases": [
+        "Consulter ce jalon historique de l'industrie et identifier des alternatives modernes.",
+        "Évaluer le rendu et vérifier les conditions de réutilisation avant export ou diffusion."
+      ],
+      "advantages": [
+        "Composition automatisée historique",
+        "Acquisition Shutterstock",
+        "Service autonome non confirmé"
+      ],
+      "limits": [
+        "Shutterstock a annoncé l'acquisition de certains actifs en novembre 2020 ; ne pas présenter Amper comme service autonome actuellement disponible.",
+        "La génération ou la séparation automatisée nécessite un contrôle humain de la qualité et des droits."
+      ],
+      "gettingStarted": [
+        "Définir la durée, le style, l'usage final et les contraintes de licence.",
+        "Créer un extrait test et vérifier les conditions de diffusion, d'attribution et de monétisation."
+      ],
+      "examples": [
+        "Propose une bande-son originale de 40 secondes pour une vidéo pédagogique, sans imiter un artiste identifiable.",
+        "Distingue les usages permis pour diffusion privée, publication sociale et monétisation."
+      ],
+      "pricing": "Vérifier la formule en vigueur et les droits associés sur la source officielle ; ne pas assimiler accès gratuit à licence commerciale.",
+      "privacy": "Ne pas importer d'enregistrement protégé ou de voix identifiable sans disposer des droits requis et du consentement applicable.",
+      "selection": [
+        "Retenir Amper Music si sa fonction principale, son workflow et ses conditions de licence répondent au projet."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://investor.shutterstock.com/news-releases/news-release-details/shutterstock-announces-acquisition-amper-music",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "moises": {
+    "descriptionFr": "Studio musical IA pour séparer les pistes, ajuster la tonalité et aider à la pratique ou au remixage.",
+    "descriptionEn": "AI music studio for stem separation, key adjustment and practice or remixing.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Séparation des stems",
+      "Traitement vocal et instrumental",
+      "Outils de pratique"
+    ],
+    "featuresEn": [
+      "Stem separation",
+      "Traitement vocal et instrumental",
+      "Outils de pratique"
+    ],
+    "accessFr": "Web et/ou application selon outil",
+    "accessEn": "Web and/or app depending on product",
+    "officialSources": [
+      {
+        "url": "https://moises.ai/fr/features/stem-separation/",
+        "checkedAt": "2026-11-16",
+        "scope": "capabilities_and_rights"
+      }
+    ],
+    "research": {
+      "headline": "Studio musical IA pour séparer les pistes, ajuster la tonalité et aider à la pratique ou au remixage.",
+      "audiences": [
+        "Créateurs audiovisuels et musiciens",
+        "Enseignants, étudiants ou développeurs selon les fonctionnalités"
+      ],
+      "cases": [
+        "Isoler la batterie et la voix d'un enregistrement pour analyser son arrangement.",
+        "Évaluer le rendu et vérifier les conditions de réutilisation avant export ou diffusion."
+      ],
+      "advantages": [
+        "Séparation des stems",
+        "Traitement vocal et instrumental",
+        "Outils de pratique"
+      ],
+      "limits": [
+        "Les séparations produisent des artefacts ; l'analyse d'un morceau ne transfère pas ses droits d'auteur.",
+        "La génération ou la séparation automatisée nécessite un contrôle humain de la qualité et des droits."
+      ],
+      "gettingStarted": [
+        "Définir la durée, le style, l'usage final et les contraintes de licence.",
+        "Créer un extrait test et vérifier les conditions de diffusion, d'attribution et de monétisation."
+      ],
+      "examples": [
+        "Propose une bande-son originale de 40 secondes pour une vidéo pédagogique, sans imiter un artiste identifiable.",
+        "Distingue les usages permis pour diffusion privée, publication sociale et monétisation."
+      ],
+      "pricing": "Vérifier la formule en vigueur et les droits associés sur la source officielle ; ne pas assimiler accès gratuit à licence commerciale.",
+      "privacy": "Ne pas importer d'enregistrement protégé ou de voix identifiable sans disposer des droits requis et du consentement applicable.",
+      "selection": [
+        "Retenir Moises si sa fonction principale, son workflow et ses conditions de licence répondent au projet."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://moises.ai/fr/features/stem-separation/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "landr": {
+    "descriptionFr": "Plateforme de mastering audio automatisé et de services de production et distribution musicale.",
+    "descriptionEn": "Automated audio mastering and music production and distribution platform.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Mastering automatisé",
+      "Outils musicaux",
+      "Distribution selon offre"
+    ],
+    "featuresEn": [
+      "Automated mastering",
+      "Outils musicaux",
+      "Distribution selon offre"
+    ],
+    "accessFr": "Web et/ou application selon outil",
+    "accessEn": "Web and/or app depending on product",
+    "officialSources": [
+      {
+        "url": "https://www.landr.com",
+        "checkedAt": "2026-11-16",
+        "scope": "product_overview"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de mastering audio automatisé et de services de production et distribution musicale.",
+      "audiences": [
+        "Créateurs audiovisuels et musiciens",
+        "Enseignants, étudiants ou développeurs selon les fonctionnalités"
+      ],
+      "cases": [
+        "Préparer un mix musical à l'écoute sur différentes plateformes.",
+        "Évaluer le rendu et vérifier les conditions de réutilisation avant export ou diffusion."
+      ],
+      "advantages": [
+        "Mastering automatisé",
+        "Outils musicaux",
+        "Distribution selon offre"
+      ],
+      "limits": [
+        "Le mastering ne crée pas les droits de distribution ; vérifier les conditions de chaque service.",
+        "La génération ou la séparation automatisée nécessite un contrôle humain de la qualité et des droits."
+      ],
+      "gettingStarted": [
+        "Définir la durée, le style, l'usage final et les contraintes de licence.",
+        "Créer un extrait test et vérifier les conditions de diffusion, d'attribution et de monétisation."
+      ],
+      "examples": [
+        "Propose une bande-son originale de 40 secondes pour une vidéo pédagogique, sans imiter un artiste identifiable.",
+        "Distingue les usages permis pour diffusion privée, publication sociale et monétisation."
+      ],
+      "pricing": "Vérifier la formule en vigueur et les droits associés sur la source officielle ; ne pas assimiler accès gratuit à licence commerciale.",
+      "privacy": "Ne pas importer d'enregistrement protégé ou de voix identifiable sans disposer des droits requis et du consentement applicable.",
+      "selection": [
+        "Retenir LANDR si sa fonction principale, son workflow et ses conditions de licence répondent au projet."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "product_overview",
+      "evidence": "official_product_page",
+      "sources": [
+        {
+          "url": "https://www.landr.com",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_product_overview"
+  },
+  "kits-ai": {
+    "descriptionFr": "Outils de transformation et de génération vocale musicale utilisant des voix IA sous licence.",
+    "descriptionEn": "Music voice conversion and generation tools using licensed AI voices.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Conversion de voix chantée",
+      "Bibliothèque de voix sous licence",
+      "Création de voix"
+    ],
+    "featuresEn": [
+      "Singing voice conversion",
+      "Bibliothèque de voix sous licence",
+      "Création de voix"
+    ],
+    "accessFr": "Web et/ou application selon outil",
+    "accessEn": "Web and/or app depending on product",
+    "officialSources": [
+      {
+        "url": "https://www.kits.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "capabilities_and_rights"
+      }
+    ],
+    "research": {
+      "headline": "Outils de transformation et de génération vocale musicale utilisant des voix IA sous licence.",
+      "audiences": [
+        "Créateurs audiovisuels et musiciens",
+        "Enseignants, étudiants ou développeurs selon les fonctionnalités"
+      ],
+      "cases": [
+        "Tester une harmonie vocale et solliciter l'autorisation nécessaire avant une sortie commerciale.",
+        "Évaluer le rendu et vérifier les conditions de réutilisation avant export ou diffusion."
+      ],
+      "advantages": [
+        "Conversion de voix chantée",
+        "Bibliothèque de voix sous licence",
+        "Création de voix"
+      ],
+      "limits": [
+        "La publication commerciale avec une voix d'artiste peut demander une approbation explicite de cet artiste.",
+        "La génération ou la séparation automatisée nécessite un contrôle humain de la qualité et des droits."
+      ],
+      "gettingStarted": [
+        "Définir la durée, le style, l'usage final et les contraintes de licence.",
+        "Créer un extrait test et vérifier les conditions de diffusion, d'attribution et de monétisation."
+      ],
+      "examples": [
+        "Propose une bande-son originale de 40 secondes pour une vidéo pédagogique, sans imiter un artiste identifiable.",
+        "Distingue les usages permis pour diffusion privée, publication sociale et monétisation."
+      ],
+      "pricing": "Vérifier la formule en vigueur et les droits associés sur la source officielle ; ne pas assimiler accès gratuit à licence commerciale.",
+      "privacy": "Ne pas importer d'enregistrement protégé ou de voix identifiable sans disposer des droits requis et du consentement applicable.",
+      "selection": [
+        "Retenir Kits AI si sa fonction principale, son workflow et ses conditions de licence répondent au projet."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.kits.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "lalal-ai": {
+    "descriptionFr": "Service de séparation de sources musicales et d'extraction de voix ou instruments depuis un enregistrement.",
+    "descriptionEn": "Audio source separation service extracting vocals and instruments from recordings.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Extraction de voix",
+      "Séparation instrumentale",
+      "Traitement de fichiers audio"
+    ],
+    "featuresEn": [
+      "Extraction de voix",
+      "Séparation instrumentale",
+      "Traitement de fichiers audio"
+    ],
+    "accessFr": "Web et/ou application selon outil",
+    "accessEn": "Web and/or app depending on product",
+    "officialSources": [
+      {
+        "url": "https://www.lalal.ai",
+        "checkedAt": "2026-11-16",
+        "scope": "product_overview"
+      }
+    ],
+    "research": {
+      "headline": "Service de séparation de sources musicales et d'extraction de voix ou instruments depuis un enregistrement.",
+      "audiences": [
+        "Créateurs audiovisuels et musiciens",
+        "Enseignants, étudiants ou développeurs selon les fonctionnalités"
+      ],
+      "cases": [
+        "Isoler la piste vocale d'un entretien avec fond musical autorisé.",
+        "Évaluer le rendu et vérifier les conditions de réutilisation avant export ou diffusion."
+      ],
+      "advantages": [
+        "Extraction de voix",
+        "Séparation instrumentale",
+        "Traitement de fichiers audio"
+      ],
+      "limits": [
+        "Le détourage des pistes peut introduire des artefacts et ne modifie pas les droits de l'enregistrement.",
+        "La génération ou la séparation automatisée nécessite un contrôle humain de la qualité et des droits."
+      ],
+      "gettingStarted": [
+        "Définir la durée, le style, l'usage final et les contraintes de licence.",
+        "Créer un extrait test et vérifier les conditions de diffusion, d'attribution et de monétisation."
+      ],
+      "examples": [
+        "Propose une bande-son originale de 40 secondes pour une vidéo pédagogique, sans imiter un artiste identifiable.",
+        "Distingue les usages permis pour diffusion privée, publication sociale et monétisation."
+      ],
+      "pricing": "Vérifier la formule en vigueur et les droits associés sur la source officielle ; ne pas assimiler accès gratuit à licence commerciale.",
+      "privacy": "Ne pas importer d'enregistrement protégé ou de voix identifiable sans disposer des droits requis et du consentement applicable.",
+      "selection": [
+        "Retenir LALAL.AI si sa fonction principale, son workflow et ses conditions de licence répondent au projet."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "product_overview",
+      "evidence": "official_product_page",
+      "sources": [
+        {
+          "url": "https://www.lalal.ai",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_product_overview"
+  }
+}
