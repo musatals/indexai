@@ -160,25 +160,111 @@
     "descriptionFr": "Assistant conversationnel conçu pour des échanges naturels et un accompagnement personnel.",
     "descriptionEn": "Conversational assistant designed for natural dialogue and personal support.",
     "descriptionStatus": "editorial",
-    "editorialDate": "2026-11-15"
+    "editorialDate": "2026-11-15",
+    "featuresFr": [
+      "Conversation personnelle et réflexion guidée",
+      "Échanges vocaux",
+      "Aide aux décisions et à l’organisation quotidienne"
+    ],
+    "featuresEn": [
+      "Personal conversations and guided reflection",
+      "Voice conversations",
+      "Decision-making and daily organization"
+    ],
+    "accessFr": "Web et applications mobiles",
+    "accessEn": "Web and mobile apps",
+    "officialSources": [
+      {
+        "url": "https://hey.pi.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
   },
   "You.com": {
     "descriptionFr": "Plateforme combinant recherche sur le web et fonctionnalités d’assistance par intelligence artificielle.",
     "descriptionEn": "Platform combining web search with AI assistance.",
     "descriptionStatus": "editorial",
-    "editorialDate": "2026-11-15"
+    "editorialDate": "2026-11-15",
+    "featuresFr": [
+      "Recherche web et réponses sourcées",
+      "API Web Search et Contents",
+      "API Answer et Research pour développeurs"
+    ],
+    "featuresEn": [
+      "Web research and cited answers",
+      "Web Search and Contents APIs",
+      "Answer and Research APIs for developers"
+    ],
+    "accessFr": "Web et API",
+    "accessEn": "Web and APIs",
+    "officialSources": [
+      {
+        "url": "https://you.com/docs/quickstart",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://you.com/docs/guides/research",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
   },
   "Duck.ai": {
     "descriptionFr": "Interface de conversations IA proposée dans l’écosystème DuckDuckGo, avec un accent sur la confidentialité.",
     "descriptionEn": "AI chat interface in the DuckDuckGo ecosystem with a privacy focus.",
     "descriptionStatus": "editorial",
-    "editorialDate": "2026-11-15"
+    "editorialDate": "2026-11-15",
+    "featuresFr": [
+      "Discussion avec plusieurs modèles tiers",
+      "Anonymisation des conversations",
+      "Historique local et suppression des chats"
+    ],
+    "featuresEn": [
+      "Chat with multiple third-party models",
+      "Anonymized conversations",
+      "Local chat history and deletion"
+    ],
+    "accessFr": "Web et navigateur DuckDuckGo",
+    "accessEn": "Web and DuckDuckGo browser",
+    "officialSources": [
+      {
+        "url": "https://duckduckgo.com/duckduckgo-help-pages/duckai",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://duckduckgo.com/duckduckgo-help-pages/duckai/ai-chat-privacy",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
   },
   "HuggingChat": {
     "descriptionFr": "Service de conversation donnant accès à des modèles ouverts disponibles dans l’écosystème Hugging Face.",
     "descriptionEn": "Chat interface for open models from the Hugging Face ecosystem.",
     "descriptionStatus": "editorial",
-    "editorialDate": "2026-11-15"
+    "editorialDate": "2026-11-15",
+    "featuresFr": [
+      "Conversation avec modèles ouverts",
+      "Choix manuel du modèle",
+      "Sélection automatique de modèle via Omni"
+    ],
+    "featuresEn": [
+      "Chat with open models",
+      "Manual model selection",
+      "Automatic model selection via Omni"
+    ],
+    "accessFr": "Web",
+    "accessEn": "Web",
+    "officialSources": [
+      {
+        "url": "https://huggingface.co/chat/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
   },
   "Character.AI": {
     "descriptionFr": "Plateforme de conversations avec des personnages virtuels personnalisés et créés par les utilisateurs.",
@@ -190,7 +276,36 @@
     "descriptionFr": "Compagnon conversationnel numérique conçu pour des échanges personnels avec un avatar d’IA.",
     "descriptionEn": "AI conversational companion for personal dialogue with a digital avatar.",
     "descriptionStatus": "editorial",
-    "editorialDate": "2026-11-15"
+    "editorialDate": "2026-11-15",
+    "featuresFr": [
+      "Compagnon IA personnalisable",
+      "Conversations et appels",
+      "Mémoire relationnelle et avatar"
+    ],
+    "featuresEn": [
+      "Customizable AI companion",
+      "Conversations and calls",
+      "Relationship memory and avatar"
+    ],
+    "accessFr": "Web et applications mobiles",
+    "accessEn": "Web and mobile apps",
+    "officialSources": [
+      {
+        "url": "https://replika.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://help.replika.com/hc/en-us/articles/5040453297293-Can-Replika-be-my-virtual-assistant",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://replika.com/legal/privacy/fr",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
   },
   "Phind": {
     "descriptionFr": "Moteur de réponses techniques et d’aide à la programmation, destiné notamment aux développeurs.",
