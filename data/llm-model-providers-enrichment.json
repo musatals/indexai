@@ -1,0 +1,2051 @@
+{
+  "openai-api": {
+    "descriptionFr": "API OpenAI pour créer des applications sur les familles GPT-6 et GPT-6.1, avec Responses API, appels d'outils, multimodalité et modèles spécialisés.",
+    "descriptionEn": "OpenAI API for building applications with GPT-6 and GPT-6.1 families, Responses API, tool calls, multimodal inputs and specialized models.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "GPT-6 Astra, GPT-6.1 Sol/Terra et GPT-6 Luna",
+      "Responses API, appels d'outils et sorties structurées",
+      "Modèles voix, image, embeddings et outils de recherche"
+    ],
+    "featuresEn": [
+      "GPT-6 Astra, GPT-6.1 Sol/Terra and GPT-6 Luna",
+      "Responses API, tool calling and structured outputs",
+      "Speech, image, embedding and search tools"
+    ],
+    "accessFr": "API et/ou services cloud, quotas et conditions selon modèle",
+    "accessEn": "API and/or cloud services with model-dependent quotas",
+    "officialSources": [
+      {
+        "url": "https://developers.openai.com/api/docs/pricing",
+        "checkedAt": "2026-11-15",
+        "scope": "features_and_pricing"
+      },
+      {
+        "url": "https://developers.openai.com/api/docs/models",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      },
+      {
+        "url": "https://developers.openai.com/api/docs/guides/latest-model",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      }
+    ],
+    "research": {
+      "headline": "API OpenAI pour créer des applications sur les familles GPT-6 et GPT-6.1, avec Responses API, appels d'outils, multimodalité et modèles spécialisés.",
+      "audiences": [
+        "Développeurs et architectes IA",
+        "Éditeurs SaaS",
+        "Équipes créant des agents ou assistants métiers",
+        "Développeurs IA, équipes produit et chercheurs sur les modèles",
+        "Responsables des coûts, des performances et de la protection des données"
+      ],
+      "cases": [
+        "Générer du texte et des résultats structurés",
+        "Traiter images et sons selon endpoints",
+        "Appeler des outils et rechercher dans des fichiers",
+        "Construire des agents intégrés à une application",
+        "Construire un assistant documentaire qui cite les sources et renvoie un JSON validé avant son affichage sur un portail.",
+        "Comparer les réponses du modèle sur un jeu de questions représentatif et consigner la version utilisée."
+      ],
+      "advantages": [
+        "API Responses et outils documentés",
+        "SDK et intégrations pour plusieurs langages",
+        "Gestion programmatique des modèles et workflows",
+        "GPT-6 Astra, GPT-6.1 Sol/Terra et GPT-6 Luna",
+        "Responses API, appels d'outils et sorties structurées",
+        "Modèles voix, image, embeddings et outils de recherche"
+      ],
+      "limits": [
+        "Facturation à la consommation et limitations de débit",
+        "Nécessite gestion de clés, sécurité et tests",
+        "Les modèles peuvent produire des erreurs ou résultats non déterministes",
+        "ChatGPT et l'API sont facturés séparément. Le choix de modèle, la disponibilité des outils, le raisonnement, les longs contextes et les coûts par jeton varient. Les appels d'outils nécessitent des permissions serveur strictes.",
+        "La qualité dépend du modèle précis, de sa version, des données, de l'infrastructure et des tests. Un long contexte ou un haut score de benchmark ne garantit pas la fidélité des réponses."
+      ],
+      "gettingStarted": [
+        "Créer une clé dans un projet dédié, la stocker côté serveur, tester une requête simple puis ajouter métriques de coûts et évaluations.",
+        "Identifier les modalités, langues, outils, licences, région et niveau de confidentialité nécessaires.",
+        "Créer une clé restreinte ou un environnement isolé, comparer les variantes sur un jeu de test et surveiller la facturation, les quotas et les changements de version."
+      ],
+      "examples": [
+        "Produis une sortie JSON conforme à un schéma validé.",
+        "Implémente une FAQ avec recherche dans des fichiers et liens de provenance.",
+        "Compare deux modèles pour classifier 50 fiches avec JSON valide, coût, latence, taux d'erreur et sources contrôlables.",
+        "Prépare un protocole d'évaluation en français et anglais, avec instructions communes et vérification des erreurs et de la sécurité."
+      ],
+      "pricing": "Paiement à l’usage selon modèle, tokens et outils; abonnement ChatGPT et API sont deux services distincts.",
+      "privacy": "Ne jamais exposer une clé API dans du JavaScript client; limiter les droits, budgets et données transmises.",
+      "selection": [
+        "Choisir pour bâtir un produit sur les modèles OpenAI; une application ChatGPT prête à l’emploi convient mieux sans développement.",
+        "Choisir OpenAI API selon le besoin (proprietary_api), la qualité sur tâches réelles, les langues, la latence, les licences, les coûts et l'hébergement."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://developers.openai.com/api/docs",
+          "type": "official",
+          "reviewedAt": "2026-11-15"
+        },
+        {
+          "url": "https://developers.openai.com/api/docs/models",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://developers.openai.com/api/docs/guides/latest-model",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed",
+    "url": "https://developers.openai.com/api/docs/"
+  },
+  "anthropic-api": {
+    "descriptionFr": "API Claude d'Anthropic proposant les modèles Fable, Opus, Sonnet et Haiku 5, des outils agentiques, le traitement d'images et la gestion de contextes longs.",
+    "descriptionEn": "Anthropic Claude API offering Fable, Opus, Sonnet and Haiku 5 models, agent tools, image understanding and long-context handling.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Claude Fable 5.2 et Opus/Sonnet/Haiku 5.5",
+      "Messages API, tool use et gestion du contexte",
+      "Versionnement, dépréciation et modèles via partenaires cloud"
+    ],
+    "featuresEn": [
+      "Claude Fable 5.2 and Opus/Sonnet/Haiku 5.5",
+      "Messages API, tool use and context management",
+      "Model versioning, deprecations and cloud partners"
+    ],
+    "accessFr": "API et/ou services cloud, quotas et conditions selon modèle",
+    "accessEn": "API and/or cloud services with model-dependent quotas",
+    "officialSources": [
+      {
+        "url": "https://platform.claude.com/docs/en/models/overview",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      },
+      {
+        "url": "https://platform.claude.com/docs/en/docs/about-claude/model-deprecations",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      }
+    ],
+    "research": {
+      "headline": "API Claude d'Anthropic proposant les modèles Fable, Opus, Sonnet et Haiku 5, des outils agentiques, le traitement d'images et la gestion de contextes longs.",
+      "audiences": [
+        "Développeurs IA, équipes produit et chercheurs sur les modèles",
+        "Responsables des coûts, des performances et de la protection des données"
+      ],
+      "cases": [
+        "Comparer Sonnet et Haiku sur des résumés bilingues en mesurant la qualité, les coûts et le respect des consignes.",
+        "Comparer les réponses du modèle sur un jeu de questions représentatif et consigner la version utilisée."
+      ],
+      "advantages": [
+        "Claude Fable 5.2 et Opus/Sonnet/Haiku 5.5",
+        "Messages API, tool use et gestion du contexte",
+        "Versionnement, dépréciation et modèles via partenaires cloud"
+      ],
+      "limits": [
+        "Les noms et IDs exacts des modèles doivent être épinglés et surveillés lors des retraits. Fable et les modèles les plus puissants peuvent être soumis à des conditions d'accès ; ne pas assimiler tous les modèles Claude à une même tarification ou latence.",
+        "La qualité dépend du modèle précis, de sa version, des données, de l'infrastructure et des tests. Un long contexte ou un haut score de benchmark ne garantit pas la fidélité des réponses."
+      ],
+      "gettingStarted": [
+        "Identifier les modalités, langues, outils, licences, région et niveau de confidentialité nécessaires.",
+        "Créer une clé restreinte ou un environnement isolé, comparer les variantes sur un jeu de test et surveiller la facturation, les quotas et les changements de version."
+      ],
+      "examples": [
+        "Compare deux modèles pour classifier 50 fiches avec JSON valide, coût, latence, taux d'erreur et sources contrôlables.",
+        "Prépare un protocole d'évaluation en français et anglais, avec instructions communes et vérification des erreurs et de la sécurité."
+      ],
+      "pricing": "Tarifs variables selon modèle, jetons d'entrée/sortie, cache, GPU/heure, requêtes et outils ; suivre la page officielle et plafonner les budgets.",
+      "privacy": "Ne pas envoyer de clés API ni données sensibles côté navigateur. Vérifier fournisseur final, région, conservation, sous-traitants, entraînement sur les données, droits des modèles et journaux.",
+      "selection": [
+        "Choisir Anthropic API selon le besoin (proprietary_api), la qualité sur tâches réelles, les langues, la latence, les licences, les coûts et l'hébergement."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://platform.claude.com/docs/en/models/overview",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://platform.claude.com/docs/en/docs/about-claude/model-deprecations",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed",
+    "url": "https://platform.claude.com/"
+  },
+  "google-gemini-api": {
+    "descriptionFr": "API Google AI Studio donnant accès aux modèles Gemini 3, à la compréhension multimodale, aux interactions et aux modèles image, voix, vidéo et embeddings.",
+    "descriptionEn": "Google AI Studio API giving access to Gemini 3 models, multimodal understanding, Interactions API, image, speech, video and embeddings.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Gemini 3.8 Flash et 3.1 Pro Preview",
+      "Interactions, multimodalité et function calling",
+      "Modèles Live, Nano Banana, Veo et embeddings"
+    ],
+    "featuresEn": [
+      "Gemini 3.8 Flash and 3.1 Pro Preview",
+      "Interactions, multimodality and function calling",
+      "Live, Nano Banana, Veo and embedding models"
+    ],
+    "accessFr": "API et/ou services cloud, quotas et conditions selon modèle",
+    "accessEn": "API and/or cloud services with model-dependent quotas",
+    "officialSources": [
+      {
+        "url": "https://ai.google.dev/gemini-api/docs/models",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      },
+      {
+        "url": "https://ai.google.dev/gemini-api/docs/deprecations",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      },
+      {
+        "url": "https://ai.google.dev/gemini-api/docs/interactions-overview",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      }
+    ],
+    "research": {
+      "headline": "API Google AI Studio donnant accès aux modèles Gemini 3, à la compréhension multimodale, aux interactions et aux modèles image, voix, vidéo et embeddings.",
+      "audiences": [
+        "Développeurs IA, équipes produit et chercheurs sur les modèles",
+        "Responsables des coûts, des performances et de la protection des données"
+      ],
+      "cases": [
+        "Analyser une image et son texte associé puis produire une réponse structurée que l'application peut auditer.",
+        "Comparer les réponses du modèle sur un jeu de questions représentatif et consigner la version utilisée."
+      ],
+      "advantages": [
+        "Gemini 3.8 Flash et 3.1 Pro Preview",
+        "Interactions, multimodalité et function calling",
+        "Modèles Live, Nano Banana, Veo et embeddings"
+      ],
+      "limits": [
+        "Les modèles Preview peuvent changer ou être retirés ; consulter les dates officielles de retrait et les limites de débit. La disponibilité, les services gratuits et les règles de traitement des données diffèrent entre Gemini Developer API et Google Cloud.",
+        "La qualité dépend du modèle précis, de sa version, des données, de l'infrastructure et des tests. Un long contexte ou un haut score de benchmark ne garantit pas la fidélité des réponses."
+      ],
+      "gettingStarted": [
+        "Identifier les modalités, langues, outils, licences, région et niveau de confidentialité nécessaires.",
+        "Créer une clé restreinte ou un environnement isolé, comparer les variantes sur un jeu de test et surveiller la facturation, les quotas et les changements de version."
+      ],
+      "examples": [
+        "Compare deux modèles pour classifier 50 fiches avec JSON valide, coût, latence, taux d'erreur et sources contrôlables.",
+        "Prépare un protocole d'évaluation en français et anglais, avec instructions communes et vérification des erreurs et de la sécurité."
+      ],
+      "pricing": "Tarifs variables selon modèle, jetons d'entrée/sortie, cache, GPU/heure, requêtes et outils ; suivre la page officielle et plafonner les budgets.",
+      "privacy": "Ne pas envoyer de clés API ni données sensibles côté navigateur. Vérifier fournisseur final, région, conservation, sous-traitants, entraînement sur les données, droits des modèles et journaux.",
+      "selection": [
+        "Choisir Google Gemini API selon le besoin (proprietary_api), la qualité sur tâches réelles, les langues, la latence, les licences, les coûts et l'hébergement."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://ai.google.dev/gemini-api/docs/models",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://ai.google.dev/gemini-api/docs/deprecations",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://ai.google.dev/gemini-api/docs/interactions-overview",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "google-vertex-ai": {
+    "descriptionFr": "Ancien Vertex AI : plateforme Google Cloud renommée Gemini Enterprise Agent Platform en avril 2026, regroupant Model Garden, Agent Studio, évaluation et gouvernance des modèles.",
+    "descriptionEn": "Former Vertex AI, renamed Gemini Enterprise Agent Platform in April 2026, combining Model Garden, Agent Studio, model evaluation and governance.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Model Garden multi-fournisseurs et MaaS",
+      "Agent Studio, Agent Runtime et outils d'évaluation",
+      "IAM, régions Google Cloud et déploiement géré"
+    ],
+    "featuresEn": [
+      "Multi-provider Model Garden and MaaS",
+      "Agent Studio, Agent Runtime and evaluations",
+      "Google Cloud IAM, regions and managed deployment"
+    ],
+    "accessFr": "Services cloud avec compte, rôles et facturation",
+    "accessEn": "Cloud subscription with IAM roles and billing",
+    "officialSources": [
+      {
+        "url": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/vertex-ai-name-changes",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      },
+      {
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-agent-platform",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Ancien Vertex AI : plateforme Google Cloud renommée Gemini Enterprise Agent Platform en avril 2026, regroupant Model Garden, Agent Studio, évaluation et gouvernance des modèles.",
+      "audiences": [
+        "Architectes cloud, directions IT et équipes de gouvernance",
+        "Responsables des coûts, des performances et de la protection des données"
+      ],
+      "cases": [
+        "Mettre en service un assistant institutionnel avec contrôle IAM, région et journalisation, puis évaluer deux modèles.",
+        "Comparer les réponses du modèle sur un jeu de questions représentatif et consigner la version utilisée."
+      ],
+      "advantages": [
+        "Model Garden multi-fournisseurs et MaaS",
+        "Agent Studio, Agent Runtime et outils d'évaluation",
+        "IAM, régions Google Cloud et déploiement géré"
+      ],
+      "limits": [
+        "Depuis avril 2026, l'ancien Vertex AI est une partie d'Agent Platform, et certaines URL/ressources conservent l'ancien nom ; ne pas confondre cette plateforme cloud avec l'API Gemini gratuite/développeur ni l'application Gemini Enterprise.",
+        "La qualité dépend du modèle précis, de sa version, des données, de l'infrastructure et des tests. Un long contexte ou un haut score de benchmark ne garantit pas la fidélité des réponses."
+      ],
+      "gettingStarted": [
+        "Identifier les modalités, langues, outils, licences, région et niveau de confidentialité nécessaires.",
+        "Créer une clé restreinte ou un environnement isolé, comparer les variantes sur un jeu de test et surveiller la facturation, les quotas et les changements de version."
+      ],
+      "examples": [
+        "Compare deux modèles pour classifier 50 fiches avec JSON valide, coût, latence, taux d'erreur et sources contrôlables.",
+        "Prépare un protocole d'évaluation en français et anglais, avec instructions communes et vérification des erreurs et de la sécurité."
+      ],
+      "pricing": "Tarifs variables selon modèle, jetons d'entrée/sortie, cache, GPU/heure, requêtes et outils ; suivre la page officielle et plafonner les budgets.",
+      "privacy": "Ne pas envoyer de clés API ni données sensibles côté navigateur. Vérifier fournisseur final, région, conservation, sous-traitants, entraînement sur les données, droits des modèles et journaux.",
+      "selection": [
+        "Choisir Google Vertex AI selon le besoin (enterprise_cloud), la qualité sur tâches réelles, les langues, la latence, les licences, les coûts et l'hébergement."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "rebranded_gemini_enterprise_agent_platform",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/vertex-ai-name-changes",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-agent-platform",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_rebranded",
+    "name": "Gemini Enterprise Agent Platform (ex-Vertex AI)",
+    "url": "https://cloud.google.com/products/gemini-enterprise/agent-platform"
+  },
+  "mistral-ai": {
+    "descriptionFr": "Fournisseur européen de modèles commerciaux et à poids ouverts, incluant Mistral Large 4, Small 4, OCR 4.1, Voxtral et déploiements d'entreprise.",
+    "descriptionEn": "European open-weight and commercial model provider offering Mistral Large 4, Small 4, OCR 4.1, Voxtral and enterprise deployment.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Mistral Large 4 et Small 4",
+      "OCR 4.1, Voxtral et modèles spécialisés",
+      "API La Plateforme et poids ouverts selon licence"
+    ],
+    "featuresEn": [
+      "Mistral Large 4 and Small 4",
+      "OCR 4.1, Voxtral and specialized models",
+      "La Plateforme API and license-dependent open weights"
+    ],
+    "accessFr": "Téléchargement de poids selon licence, API et hébergeurs",
+    "accessEn": "License-dependent model weights, APIs and hosting",
+    "officialSources": [
+      {
+        "url": "https://docs.mistral.ai/models",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      },
+      {
+        "url": "https://mistral.ai/",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Fournisseur européen de modèles commerciaux et à poids ouverts, incluant Mistral Large 4, Small 4, OCR 4.1, Voxtral et déploiements d'entreprise.",
+      "audiences": [
+        "Développeurs IA, équipes produit et chercheurs sur les modèles",
+        "Responsables des coûts, des performances et de la protection des données"
+      ],
+      "cases": [
+        "Comparer un petit modèle et un modèle multimodal sur une chaîne de traitement documentaire avec données anonymisées.",
+        "Comparer les réponses du modèle sur un jeu de questions représentatif et consigner la version utilisée."
+      ],
+      "advantages": [
+        "Mistral Large 4 et Small 4",
+        "OCR 4.1, Voxtral et modèles spécialisés",
+        "API La Plateforme et poids ouverts selon licence"
+      ],
+      "limits": [
+        "Ne pas traiter tous les modèles Mistral comme libres de toute restriction : les licences des poids diffèrent. Les anciens modèles sont dépréciés ou retirés ; vérifier l'ID du modèle, les coûts et la disponibilité des régions.",
+        "La qualité dépend du modèle précis, de sa version, des données, de l'infrastructure et des tests. Un long contexte ou un haut score de benchmark ne garantit pas la fidélité des réponses."
+      ],
+      "gettingStarted": [
+        "Identifier les modalités, langues, outils, licences, région et niveau de confidentialité nécessaires.",
+        "Créer une clé restreinte ou un environnement isolé, comparer les variantes sur un jeu de test et surveiller la facturation, les quotas et les changements de version."
+      ],
+      "examples": [
+        "Compare deux modèles pour classifier 50 fiches avec JSON valide, coût, latence, taux d'erreur et sources contrôlables.",
+        "Prépare un protocole d'évaluation en français et anglais, avec instructions communes et vérification des erreurs et de la sécurité."
+      ],
+      "pricing": "Poids parfois téléchargeables sans coût d'API ; hébergement, énergie, GPU et services cloud payants. Vérifier licences et conditions commerciales.",
+      "privacy": "Ne pas envoyer de clés API ni données sensibles côté navigateur. Vérifier fournisseur final, région, conservation, sous-traitants, entraînement sur les données, droits des modèles et journaux.",
+      "selection": [
+        "Choisir Mistral AI selon le besoin (open_weight_vendor), la qualité sur tâches réelles, les langues, la latence, les licences, les coûts et l'hébergement."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "mistral_large4_current",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.mistral.ai/models",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://mistral.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "meta-llama": {
+    "descriptionFr": "Famille de modèles à poids disponibles Meta Llama, notamment Llama 4 Scout et Maverick, pour vision, texte, instruction et déploiements sur infrastructures tierces.",
+    "descriptionEn": "Meta Llama open-weight model family, notably Llama 4 Scout and Maverick, for text, vision, instruction and third-party deployment.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Llama 4 Scout et Maverick multimodaux",
+      "Llama Guard et Prompt Guard pour contrôles",
+      "Téléchargement et hébergement selon licence Llama Community"
+    ],
+    "featuresEn": [
+      "Multimodal Llama 4 Scout and Maverick",
+      "Llama Guard and Prompt Guard safeguards",
+      "Downloads and hosting under Llama Community License"
+    ],
+    "accessFr": "Téléchargement de poids selon licence, API et hébergeurs",
+    "accessEn": "License-dependent model weights, APIs and hosting",
+    "officialSources": [
+      {
+        "url": "https://ai.meta.com/resources/models-and-libraries/llama-downloads/",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      },
+      {
+        "url": "https://www.llama.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Famille de modèles à poids disponibles Meta Llama, notamment Llama 4 Scout et Maverick, pour vision, texte, instruction et déploiements sur infrastructures tierces.",
+      "audiences": [
+        "Développeurs IA, équipes produit et chercheurs sur les modèles",
+        "Responsables des coûts, des performances et de la protection des données"
+      ],
+      "cases": [
+        "Tester Llama 4 sur du texte français et des visuels publics avant de choisir un fournisseur d'hébergement.",
+        "Comparer les réponses du modèle sur un jeu de questions représentatif et consigner la version utilisée."
+      ],
+      "advantages": [
+        "Llama 4 Scout et Maverick multimodaux",
+        "Llama Guard et Prompt Guard pour contrôles",
+        "Téléchargement et hébergement selon licence Llama Community"
+      ],
+      "limits": [
+        "Poids accessibles ne signifie pas logiciel sous licence open source standard : respecter la Llama 4 Community License, les conditions commerciales et les restrictions. Les besoins mémoire et les performances dépendent de quantification et matériel.",
+        "La qualité dépend du modèle précis, de sa version, des données, de l'infrastructure et des tests. Un long contexte ou un haut score de benchmark ne garantit pas la fidélité des réponses."
+      ],
+      "gettingStarted": [
+        "Identifier les modalités, langues, outils, licences, région et niveau de confidentialité nécessaires.",
+        "Créer une clé restreinte ou un environnement isolé, comparer les variantes sur un jeu de test et surveiller la facturation, les quotas et les changements de version."
+      ],
+      "examples": [
+        "Compare deux modèles pour classifier 50 fiches avec JSON valide, coût, latence, taux d'erreur et sources contrôlables.",
+        "Prépare un protocole d'évaluation en français et anglais, avec instructions communes et vérification des erreurs et de la sécurité."
+      ],
+      "pricing": "Poids parfois téléchargeables sans coût d'API ; hébergement, énergie, GPU et services cloud payants. Vérifier licences et conditions commerciales.",
+      "privacy": "Ne pas envoyer de clés API ni données sensibles côté navigateur. Vérifier fournisseur final, région, conservation, sous-traitants, entraînement sur les données, droits des modèles et journaux.",
+      "selection": [
+        "Choisir Meta Llama selon le besoin (open_weight_vendor), la qualité sur tâches réelles, les langues, la latence, les licences, les coûts et l'hébergement."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://ai.meta.com/resources/models-and-libraries/llama-downloads/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.llama.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "deepseek": {
+    "descriptionFr": "Fournisseur DeepSeek de modèles de raisonnement, code et vision via API, avec V4.1 Flash disponible sous l'identifiant deepseek-flash et modèles V4 Pro.",
+    "descriptionEn": "DeepSeek reasoning, coding and vision model provider with V4.1 Flash under deepseek-flash and V4 Pro variants.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "DeepSeek V4.1 Flash multimodal et V4 Pro",
+      "API compatible avec le format OpenAI sur certaines routes",
+      "Noms de modèles, changelogs et tarification officielle"
+    ],
+    "featuresEn": [
+      "Multimodal DeepSeek V4.1 Flash and V4 Pro",
+      "OpenAI-style compatibility on supported routes",
+      "Model IDs, changelogs and official pricing"
+    ],
+    "accessFr": "API et/ou services cloud, quotas et conditions selon modèle",
+    "accessEn": "API and/or cloud services with model-dependent quotas",
+    "officialSources": [
+      {
+        "url": "https://api-docs.deepseek.com/updates/",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      },
+      {
+        "url": "https://api-docs.deepseek.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Fournisseur DeepSeek de modèles de raisonnement, code et vision via API, avec V4.1 Flash disponible sous l'identifiant deepseek-flash et modèles V4 Pro.",
+      "audiences": [
+        "Développeurs IA, équipes produit et chercheurs sur les modèles",
+        "Responsables des coûts, des performances et de la protection des données"
+      ],
+      "cases": [
+        "Mesurer une extraction de données et la génération de code avec Flash en contrôlant les calculs et les erreurs.",
+        "Comparer les réponses du modèle sur un jeu de questions représentatif et consigner la version utilisée."
+      ],
+      "advantages": [
+        "DeepSeek V4.1 Flash multimodal et V4 Pro",
+        "API compatible avec le format OpenAI sur certaines routes",
+        "Noms de modèles, changelogs et tarification officielle"
+      ],
+      "limits": [
+        "En septembre 2026, V4 Flash et V4 Flash Vision Exp ont été retirés ou redirigés vers V4.1 Flash. Épingler les IDs, contrôler juridiction et traitement des données ; éviter d'utiliser les résultats sans validation technique.",
+        "La qualité dépend du modèle précis, de sa version, des données, de l'infrastructure et des tests. Un long contexte ou un haut score de benchmark ne garantit pas la fidélité des réponses."
+      ],
+      "gettingStarted": [
+        "Identifier les modalités, langues, outils, licences, région et niveau de confidentialité nécessaires.",
+        "Créer une clé restreinte ou un environnement isolé, comparer les variantes sur un jeu de test et surveiller la facturation, les quotas et les changements de version."
+      ],
+      "examples": [
+        "Compare deux modèles pour classifier 50 fiches avec JSON valide, coût, latence, taux d'erreur et sources contrôlables.",
+        "Prépare un protocole d'évaluation en français et anglais, avec instructions communes et vérification des erreurs et de la sécurité."
+      ],
+      "pricing": "Tarifs variables selon modèle, jetons d'entrée/sortie, cache, GPU/heure, requêtes et outils ; suivre la page officielle et plafonner les budgets.",
+      "privacy": "Ne pas envoyer de clés API ni données sensibles côté navigateur. Vérifier fournisseur final, région, conservation, sous-traitants, entraînement sur les données, droits des modèles et journaux.",
+      "selection": [
+        "Choisir DeepSeek selon le besoin (proprietary_and_open_weight), la qualité sur tâches réelles, les langues, la latence, les licences, les coûts et l'hébergement."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "deepseek_v4_1_flash_current",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://api-docs.deepseek.com/updates/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://api-docs.deepseek.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_model_updated"
+  },
+  "qwen": {
+    "descriptionFr": "Famille Alibaba Qwen de modèles multimodaux et de code, incluant Qwen3.8 open-weight, disponible via poids téléchargeables et services Alibaba Cloud.",
+    "descriptionEn": "Alibaba Qwen multimodal and coding model family, including open-weight Qwen3.8, available via downloadable weights and Alibaba Cloud services.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Qwen3.8 27B et 2.4T-A95B",
+      "Qwen3.6/3.5 et modèles spécialisés",
+      "Poids sur Hugging Face/ModelScope et API cloud"
+    ],
+    "featuresEn": [
+      "Qwen3.8 27B and 2.4T-A95B",
+      "Qwen3.6/3.5 and specialized variants",
+      "Weights on Hugging Face/ModelScope and cloud APIs"
+    ],
+    "accessFr": "Téléchargement de poids selon licence, API et hébergeurs",
+    "accessEn": "License-dependent model weights, APIs and hosting",
+    "officialSources": [
+      {
+        "url": "https://github.com/QwenLM/Qwen3.8",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      },
+      {
+        "url": "https://qwen.ai/blog?id=qwen3.5",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Famille Alibaba Qwen de modèles multimodaux et de code, incluant Qwen3.8 open-weight, disponible via poids téléchargeables et services Alibaba Cloud.",
+      "audiences": [
+        "Développeurs IA, équipes produit et chercheurs sur les modèles",
+        "Responsables des coûts, des performances et de la protection des données"
+      ],
+      "cases": [
+        "Tester une petite version multimodale pour un assistant d'apprentissage et estimer la mémoire nécessaire avant déploiement.",
+        "Comparer les réponses du modèle sur un jeu de questions représentatif et consigner la version utilisée."
+      ],
+      "advantages": [
+        "Qwen3.8 27B et 2.4T-A95B",
+        "Qwen3.6/3.5 et modèles spécialisés",
+        "Poids sur Hugging Face/ModelScope et API cloud"
+      ],
+      "limits": [
+        "Les versions ne partagent pas forcément la même licence, quantification ou taille de contexte selon l'hébergeur. Les benchmarks constructeur ne suffisent pas ; vérifier tâches et langues de production.",
+        "La qualité dépend du modèle précis, de sa version, des données, de l'infrastructure et des tests. Un long contexte ou un haut score de benchmark ne garantit pas la fidélité des réponses."
+      ],
+      "gettingStarted": [
+        "Identifier les modalités, langues, outils, licences, région et niveau de confidentialité nécessaires.",
+        "Créer une clé restreinte ou un environnement isolé, comparer les variantes sur un jeu de test et surveiller la facturation, les quotas et les changements de version."
+      ],
+      "examples": [
+        "Compare deux modèles pour classifier 50 fiches avec JSON valide, coût, latence, taux d'erreur et sources contrôlables.",
+        "Prépare un protocole d'évaluation en français et anglais, avec instructions communes et vérification des erreurs et de la sécurité."
+      ],
+      "pricing": "Poids parfois téléchargeables sans coût d'API ; hébergement, énergie, GPU et services cloud payants. Vérifier licences et conditions commerciales.",
+      "privacy": "Ne pas envoyer de clés API ni données sensibles côté navigateur. Vérifier fournisseur final, région, conservation, sous-traitants, entraînement sur les données, droits des modèles et journaux.",
+      "selection": [
+        "Choisir Qwen selon le besoin (open_weight_vendor), la qualité sur tâches réelles, les langues, la latence, les licences, les coûts et l'hébergement."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "qwen3_8_open_weights",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://github.com/QwenLM/Qwen3.8",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://qwen.ai/blog?id=qwen3.5",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed",
+    "url": "https://github.com/QwenLM/Qwen3.8"
+  },
+  "cohere": {
+    "descriptionFr": "Fournisseur de modèles pour entreprises, combinant génération Command A+, recherche vectorielle Embed, classement Rerank et extraction documentaire Parse.",
+    "descriptionEn": "Enterprise model provider combining Command A+ generation, Embed vector retrieval, Rerank relevance ordering and Parse document extraction.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Command A+ et North pour tâches ciblées",
+      "Rerank 5 Pro/Fast et Embed 5 Pro/Fast",
+      "API Chat, Embed, Rerank et Parse"
+    ],
+    "featuresEn": [
+      "Command A+ and specialized North models",
+      "Rerank 5 Pro/Fast and Embed 5 Pro/Fast",
+      "Chat, Embed, Rerank and Parse APIs"
+    ],
+    "accessFr": "API et/ou services cloud, quotas et conditions selon modèle",
+    "accessEn": "API and/or cloud services with model-dependent quotas",
+    "officialSources": [
+      {
+        "url": "https://cohere.com/fr/pricing",
+        "checkedAt": "2026-11-15",
+        "scope": "features_and_pricing"
+      },
+      {
+        "url": "https://docs.cohere.com/docs/models",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      },
+      {
+        "url": "https://docs.cohere.com/docs/cohere-embed",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Fournisseur de modèles pour entreprises, combinant génération Command A+, recherche vectorielle Embed, classement Rerank et extraction documentaire Parse.",
+      "audiences": [
+        "Développeurs IA, équipes produit et chercheurs sur les modèles",
+        "Responsables des coûts, des performances et de la protection des données"
+      ],
+      "cases": [
+        "Mettre en place une recherche juridique avec embeddings, reranking puis génération avec références vérifiées.",
+        "Comparer les réponses du modèle sur un jeu de questions représentatif et consigner la version utilisée."
+      ],
+      "advantages": [
+        "Command A+ et North pour tâches ciblées",
+        "Rerank 5 Pro/Fast et Embed 5 Pro/Fast",
+        "API Chat, Embed, Rerank et Parse"
+      ],
+      "limits": [
+        "Pour les systèmes RAG, choisir les modèles selon la langue, la qualité du classement, la latence et les licences. Les modèles proposés sur les cloud partenaires ne sont pas systématiquement les mêmes que dans l'API Cohere.",
+        "La qualité dépend du modèle précis, de sa version, des données, de l'infrastructure et des tests. Un long contexte ou un haut score de benchmark ne garantit pas la fidélité des réponses."
+      ],
+      "gettingStarted": [
+        "Identifier les modalités, langues, outils, licences, région et niveau de confidentialité nécessaires.",
+        "Créer une clé restreinte ou un environnement isolé, comparer les variantes sur un jeu de test et surveiller la facturation, les quotas et les changements de version."
+      ],
+      "examples": [
+        "Compare deux modèles pour classifier 50 fiches avec JSON valide, coût, latence, taux d'erreur et sources contrôlables.",
+        "Prépare un protocole d'évaluation en français et anglais, avec instructions communes et vérification des erreurs et de la sécurité."
+      ],
+      "pricing": "Tarifs variables selon modèle, jetons d'entrée/sortie, cache, GPU/heure, requêtes et outils ; suivre la page officielle et plafonner les budgets.",
+      "privacy": "Ne pas envoyer de clés API ni données sensibles côté navigateur. Vérifier fournisseur final, région, conservation, sous-traitants, entraînement sur les données, droits des modèles et journaux.",
+      "selection": [
+        "Choisir Cohere selon le besoin (enterprise_model_vendor), la qualité sur tâches réelles, les langues, la latence, les licences, les coûts et l'hébergement."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.cohere.com/docs/models",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://docs.cohere.com/docs/cohere-embed",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "ai21-labs": {
+    "descriptionFr": "Fournisseur de modèles Jamba et de la plateforme Maestro pour orchestrer des agents ; Jamba2 3B et Mini sont des modèles ouverts Apache 2.0.",
+    "descriptionEn": "Jamba model provider and Maestro agent orchestration platform; Jamba2 3B and Mini are Apache 2.0 open models.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Jamba2 3B et Mini à poids ouverts",
+      "Architecture hybride SSM/Transformer à faible mémoire",
+      "Maestro pour agents et déploiements d'entreprise"
+    ],
+    "featuresEn": [
+      "Jamba2 3B and Mini open-weight models",
+      "Low-memory SSM/Transformer hybrid architecture",
+      "Maestro enterprise agent orchestration"
+    ],
+    "accessFr": "Téléchargement de poids selon licence, API et hébergeurs",
+    "accessEn": "License-dependent model weights, APIs and hosting",
+    "officialSources": [
+      {
+        "url": "https://www.ai21.com/blog/introducing-jamba2/",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      },
+      {
+        "url": "https://www.ai21.com/jamba/",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      },
+      {
+        "url": "https://www.ai21.com/developer-hub/",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Fournisseur de modèles Jamba et de la plateforme Maestro pour orchestrer des agents ; Jamba2 3B et Mini sont des modèles ouverts Apache 2.0.",
+      "audiences": [
+        "Développeurs IA, équipes produit et chercheurs sur les modèles",
+        "Responsables des coûts, des performances et de la protection des données"
+      ],
+      "cases": [
+        "Comparer Jamba2 3B sur une tâche d'extraction RAG à un modèle plus grand, avec score de fidélité aux sources.",
+        "Comparer les réponses du modèle sur un jeu de questions représentatif et consigner la version utilisée."
+      ],
+      "advantages": [
+        "Jamba2 3B et Mini à poids ouverts",
+        "Architecture hybride SSM/Transformer à faible mémoire",
+        "Maestro pour agents et déploiements d'entreprise"
+      ],
+      "limits": [
+        "Jamba2 est sorti en janvier 2026 ; ne pas le confondre avec Jamba 1.5 sous une autre licence. Maestro et la disponibilité en cloud dépendent de produits et accords distincts.",
+        "La qualité dépend du modèle précis, de sa version, des données, de l'infrastructure et des tests. Un long contexte ou un haut score de benchmark ne garantit pas la fidélité des réponses."
+      ],
+      "gettingStarted": [
+        "Identifier les modalités, langues, outils, licences, région et niveau de confidentialité nécessaires.",
+        "Créer une clé restreinte ou un environnement isolé, comparer les variantes sur un jeu de test et surveiller la facturation, les quotas et les changements de version."
+      ],
+      "examples": [
+        "Compare deux modèles pour classifier 50 fiches avec JSON valide, coût, latence, taux d'erreur et sources contrôlables.",
+        "Prépare un protocole d'évaluation en français et anglais, avec instructions communes et vérification des erreurs et de la sécurité."
+      ],
+      "pricing": "Poids parfois téléchargeables sans coût d'API ; hébergement, énergie, GPU et services cloud payants. Vérifier licences et conditions commerciales.",
+      "privacy": "Ne pas envoyer de clés API ni données sensibles côté navigateur. Vérifier fournisseur final, région, conservation, sous-traitants, entraînement sur les données, droits des modèles et journaux.",
+      "selection": [
+        "Choisir AI21 Labs selon le besoin (open_weight_vendor), la qualité sur tâches réelles, les langues, la latence, les licences, les coûts et l'hébergement."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "jamba2_open_weights",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.ai21.com/blog/introducing-jamba2/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.ai21.com/jamba/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.ai21.com/developer-hub/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "amazon-bedrock": {
+    "descriptionFr": "Service AWS multi-modèles permettant d'accéder à des modèles d'éditeurs multiples via plusieurs API, avec gestion IAM, agents, bases de connaissances et disponibilité régionale.",
+    "descriptionEn": "AWS multi-model service with multiple API choices, IAM controls, agents, knowledge bases and region-specific model access.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Catalogue Bedrock incluant Amazon Nova et modèles tiers",
+      "Converse, InvokeModel, Responses et autres API compatibles",
+      "IAM, modèles à la demande et inférence interrégionale"
+    ],
+    "featuresEn": [
+      "Bedrock catalog spanning Amazon Nova and third-party models",
+      "Converse, InvokeModel, Responses and other APIs",
+      "IAM, on-demand models and cross-region inference"
+    ],
+    "accessFr": "Services cloud avec compte, rôles et facturation",
+    "accessEn": "Cloud subscription with IAM roles and billing",
+    "officialSources": [
+      {
+        "url": "https://docs.aws.amazon.com/bedrock/latest/userguide/models.html",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      },
+      {
+        "url": "https://docs.aws.amazon.com/bedrock/latest/userguide/model-cards.html",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Service AWS multi-modèles permettant d'accéder à des modèles d'éditeurs multiples via plusieurs API, avec gestion IAM, agents, bases de connaissances et disponibilité régionale.",
+      "audiences": [
+        "Architectes cloud, directions IT et équipes de gouvernance",
+        "Responsables des coûts, des performances et de la protection des données"
+      ],
+      "cases": [
+        "Comparer deux fournisseurs dans le même projet AWS sans exporter les secrets de l'organisation vers une interface non approuvée.",
+        "Comparer les réponses du modèle sur un jeu de questions représentatif et consigner la version utilisée."
+      ],
+      "advantages": [
+        "Catalogue Bedrock incluant Amazon Nova et modèles tiers",
+        "Converse, InvokeModel, Responses et autres API compatibles",
+        "IAM, modèles à la demande et inférence interrégionale"
+      ],
+      "limits": [
+        "Les modèles et endpoints sont disponibles dans des régions et conditions distinctes ; vérifier Bedrock Runtime vs Mantle, rôles IAM, quotas, cross-region inference et tarification par modèle.",
+        "La qualité dépend du modèle précis, de sa version, des données, de l'infrastructure et des tests. Un long contexte ou un haut score de benchmark ne garantit pas la fidélité des réponses."
+      ],
+      "gettingStarted": [
+        "Identifier les modalités, langues, outils, licences, région et niveau de confidentialité nécessaires.",
+        "Créer une clé restreinte ou un environnement isolé, comparer les variantes sur un jeu de test et surveiller la facturation, les quotas et les changements de version."
+      ],
+      "examples": [
+        "Compare deux modèles pour classifier 50 fiches avec JSON valide, coût, latence, taux d'erreur et sources contrôlables.",
+        "Prépare un protocole d'évaluation en français et anglais, avec instructions communes et vérification des erreurs et de la sécurité."
+      ],
+      "pricing": "Tarifs variables selon modèle, jetons d'entrée/sortie, cache, GPU/heure, requêtes et outils ; suivre la page officielle et plafonner les budgets.",
+      "privacy": "Ne pas envoyer de clés API ni données sensibles côté navigateur. Vérifier fournisseur final, région, conservation, sous-traitants, entraînement sur les données, droits des modèles et journaux.",
+      "selection": [
+        "Choisir Amazon Bedrock selon le besoin (multi_vendor_cloud), la qualité sur tâches réelles, les langues, la latence, les licences, les coûts et l'hébergement."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.aws.amazon.com/bedrock/latest/userguide/models.html",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://docs.aws.amazon.com/bedrock/latest/userguide/model-cards.html",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "azure-ai-foundry": {
+    "descriptionFr": "Microsoft Foundry, anciennement Azure AI Foundry, est une plateforme cloud de modèles et agents d'entreprise avec catalogue multi-éditeurs, gouvernance et outils d'évaluation.",
+    "descriptionEn": "Microsoft Foundry, formerly Azure AI Foundry, is an enterprise model and agent platform with a multi-vendor catalog, governance and evaluation tools.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Foundry Models et agents en entreprise",
+      "Évaluations, surveillance et contrôle Azure IAM",
+      "Migration depuis Foundry Classic et nouveaux SDK"
+    ],
+    "featuresEn": [
+      "Foundry Models and enterprise agents",
+      "Evaluations, monitoring and Azure IAM",
+      "Migration from Foundry Classic and updated SDKs"
+    ],
+    "accessFr": "Services cloud avec compte, rôles et facturation",
+    "accessEn": "Cloud subscription with IAM roles and billing",
+    "officialSources": [
+      {
+        "url": "https://learn.microsoft.com/en-us/azure/foundry/how-to/navigate-from-classic",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      },
+      {
+        "url": "https://ai.azure.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Microsoft Foundry, anciennement Azure AI Foundry, est une plateforme cloud de modèles et agents d'entreprise avec catalogue multi-éditeurs, gouvernance et outils d'évaluation.",
+      "audiences": [
+        "Architectes cloud, directions IT et équipes de gouvernance",
+        "Responsables des coûts, des performances et de la protection des données"
+      ],
+      "cases": [
+        "Déployer un chatbot sur une souscription Azure avec quotas, chiffrement, évaluation et accès des équipes.",
+        "Comparer les réponses du modèle sur un jeu de questions représentatif et consigner la version utilisée."
+      ],
+      "advantages": [
+        "Foundry Models et agents en entreprise",
+        "Évaluations, surveillance et contrôle Azure IAM",
+        "Migration depuis Foundry Classic et nouveaux SDK"
+      ],
+      "limits": [
+        "Le nom commercial a évolué Azure AI Studio → Azure AI Foundry → Microsoft Foundry. Les projets Classic peuvent demander une migration SDK ; disponibilité des modèles, régions et règles de traitement diffèrent selon les ressources.",
+        "La qualité dépend du modèle précis, de sa version, des données, de l'infrastructure et des tests. Un long contexte ou un haut score de benchmark ne garantit pas la fidélité des réponses."
+      ],
+      "gettingStarted": [
+        "Identifier les modalités, langues, outils, licences, région et niveau de confidentialité nécessaires.",
+        "Créer une clé restreinte ou un environnement isolé, comparer les variantes sur un jeu de test et surveiller la facturation, les quotas et les changements de version."
+      ],
+      "examples": [
+        "Compare deux modèles pour classifier 50 fiches avec JSON valide, coût, latence, taux d'erreur et sources contrôlables.",
+        "Prépare un protocole d'évaluation en français et anglais, avec instructions communes et vérification des erreurs et de la sécurité."
+      ],
+      "pricing": "Tarifs variables selon modèle, jetons d'entrée/sortie, cache, GPU/heure, requêtes et outils ; suivre la page officielle et plafonner les budgets.",
+      "privacy": "Ne pas envoyer de clés API ni données sensibles côté navigateur. Vérifier fournisseur final, région, conservation, sous-traitants, entraînement sur les données, droits des modèles et journaux.",
+      "selection": [
+        "Choisir Azure AI Foundry selon le besoin (multi_vendor_cloud), la qualité sur tâches réelles, les langues, la latence, les licences, les coûts et l'hébergement."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "rebranded_microsoft_foundry",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://learn.microsoft.com/en-us/azure/foundry/how-to/navigate-from-classic",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://ai.azure.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_rebranded",
+    "name": "Microsoft Foundry (ex-Azure AI Foundry)",
+    "url": "https://ai.azure.com/"
+  },
+  "ibm-watsonx-ai": {
+    "descriptionFr": "Plateforme IBM de modèles Granite et tiers, machine learning, optimisation et IA générative, avec hébergement et gouvernance sur infrastructures hybrides.",
+    "descriptionEn": "IBM platform for Granite and third-party models, ML, optimization and generative AI with hybrid deployment and governance.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Granite 4.1 et autres modèles de fondation",
+      "Hébergement dédié ou modèles à la demande",
+      "MLOps, agents et optimisation de décision"
+    ],
+    "featuresEn": [
+      "Granite 4.1 and other foundation models",
+      "Dedicated or on-demand model hosting",
+      "MLOps, agents and decision optimization"
+    ],
+    "accessFr": "Services cloud avec compte, rôles et facturation",
+    "accessEn": "Cloud subscription with IAM roles and billing",
+    "officialSources": [
+      {
+        "url": "https://www.ibm.com/docs/en/watsonx/saas?topic=solutions-supported-models",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      },
+      {
+        "url": "https://research.ibm.com/blog/granite-4-1-ai-foundation-models",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      },
+      {
+        "url": "https://www.ibm.com/products/watsonx-ai",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme IBM de modèles Granite et tiers, machine learning, optimisation et IA générative, avec hébergement et gouvernance sur infrastructures hybrides.",
+      "audiences": [
+        "Architectes cloud, directions IT et équipes de gouvernance",
+        "Responsables des coûts, des performances et de la protection des données"
+      ],
+      "cases": [
+        "Évaluer un modèle Granite sur des documents internes pseudonymisés et comparer déploiement cloud à infrastructure privée.",
+        "Comparer les réponses du modèle sur un jeu de questions représentatif et consigner la version utilisée."
+      ],
+      "advantages": [
+        "Granite 4.1 et autres modèles de fondation",
+        "Hébergement dédié ou modèles à la demande",
+        "MLOps, agents et optimisation de décision"
+      ],
+      "limits": [
+        "Les versions Granite et modèles tiers varient selon le centre de données et la méthode de déploiement. Les garanties de gouvernance et le coût de calcul dépendent du contrat et des choix d'infrastructure.",
+        "La qualité dépend du modèle précis, de sa version, des données, de l'infrastructure et des tests. Un long contexte ou un haut score de benchmark ne garantit pas la fidélité des réponses."
+      ],
+      "gettingStarted": [
+        "Identifier les modalités, langues, outils, licences, région et niveau de confidentialité nécessaires.",
+        "Créer une clé restreinte ou un environnement isolé, comparer les variantes sur un jeu de test et surveiller la facturation, les quotas et les changements de version."
+      ],
+      "examples": [
+        "Compare deux modèles pour classifier 50 fiches avec JSON valide, coût, latence, taux d'erreur et sources contrôlables.",
+        "Prépare un protocole d'évaluation en français et anglais, avec instructions communes et vérification des erreurs et de la sécurité."
+      ],
+      "pricing": "Tarifs variables selon modèle, jetons d'entrée/sortie, cache, GPU/heure, requêtes et outils ; suivre la page officielle et plafonner les budgets.",
+      "privacy": "Ne pas envoyer de clés API ni données sensibles côté navigateur. Vérifier fournisseur final, région, conservation, sous-traitants, entraînement sur les données, droits des modèles et journaux.",
+      "selection": [
+        "Choisir IBM watsonx.ai selon le besoin (enterprise_cloud), la qualité sur tâches réelles, les langues, la latence, les licences, les coûts et l'hébergement."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.ibm.com/docs/en/watsonx/saas?topic=solutions-supported-models",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://research.ibm.com/blog/granite-4-1-ai-foundation-models",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.ibm.com/products/watsonx-ai",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "hugging-face": {
+    "descriptionFr": "Hub collaboratif de modèles, jeux de données et Spaces, avec Inference Providers pour l'accès API aux modèles servis par plusieurs hébergeurs.",
+    "descriptionEn": "Collaborative model, dataset and Spaces hub with Inference Providers APIs for models served by multiple hosting companies.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Model Hub, datasets, Spaces et model cards",
+      "Inference Providers et comparaisons via Playground",
+      "Inference Endpoints, Jobs et déploiement dédié"
+    ],
+    "featuresEn": [
+      "Model Hub, datasets, Spaces and model cards",
+      "Inference Providers and playground comparison",
+      "Inference Endpoints, Jobs and dedicated deployment"
+    ],
+    "accessFr": "Hub public, crédits d'inférence et offres professionnelles",
+    "accessEn": "Public Hub, inference credits and professional plans",
+    "officialSources": [
+      {
+        "url": "https://huggingface.co/docs/inference-providers/index",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      },
+      {
+        "url": "https://huggingface.co/docs/hub/models-inference",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      },
+      {
+        "url": "https://huggingface.co/docs/hub/main/index",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Hub collaboratif de modèles, jeux de données et Spaces, avec Inference Providers pour l'accès API aux modèles servis par plusieurs hébergeurs.",
+      "audiences": [
+        "Ingénieurs ML et chercheurs",
+        "Étudiants en IA",
+        "Développeurs évaluant des modèles",
+        "Chercheurs, étudiants et communautés open source",
+        "Responsables des coûts, des performances et de la protection des données"
+      ],
+      "cases": [
+        "Découvrir et télécharger des modèles",
+        "Consulter licences, model cards et jeux de données",
+        "Tester des démos Spaces",
+        "Partager un modèle et collaborer sur sa version",
+        "Comparer trois modèles ouverts de résumé français selon licence, qualité, coûts et hébergeurs disponibles.",
+        "Comparer les réponses du modèle sur un jeu de questions représentatif et consigner la version utilisée."
+      ],
+      "advantages": [
+        "Hub de modèles et de datasets",
+        "Historique Git des ressources et model cards",
+        "Spaces et services d’inférence pour prototypage",
+        "Model Hub, datasets, Spaces et model cards",
+        "Inference Providers et comparaisons via Playground",
+        "Inference Endpoints, Jobs et déploiement dédié"
+      ],
+      "limits": [
+        "Licence, provenance et qualité varient d’un dépôt à l’autre",
+        "Poids lourds et coûts de calcul peuvent être élevés",
+        "Un modèle public n’est pas forcément sûr ou compatible commercialement",
+        "Un modèle public n'est pas nécessairement sûr, adapté ni libre de droits. Les providers appliquent leurs propres conditions ; Inference Providers route désormais certains appels via OpenRouter. Contrôler l'hébergement effectif et la politique de données.",
+        "La qualité dépend du modèle précis, de sa version, des données, de l'infrastructure et des tests. Un long contexte ou un haut score de benchmark ne garantit pas la fidélité des réponses."
+      ],
+      "gettingStarted": [
+        "Sélectionner un modèle avec model card, licence et évaluation; tester localement sur données non sensibles et consigner ses résultats.",
+        "Identifier les modalités, langues, outils, licences, région et niveau de confidentialité nécessaires.",
+        "Créer une clé restreinte ou un environnement isolé, comparer les variantes sur un jeu de test et surveiller la facturation, les quotas et les changements de version."
+      ],
+      "examples": [
+        "Compare trois modèles francophones en taille, licence et limites.",
+        "Construis un Space de démonstration avec un jeu de données public.",
+        "Compare deux modèles pour classifier 50 fiches avec JSON valide, coût, latence, taux d'erreur et sources contrôlables.",
+        "Prépare un protocole d'évaluation en français et anglais, avec instructions communes et vérification des erreurs et de la sécurité."
+      ],
+      "pricing": "Accès à de nombreux dépôts publics; ressources d’inférence et de calcul additionnelles payantes selon usage.",
+      "privacy": "Examiner licences, modèles, jeux de données et éventuelle télémétrie avant usage professionnel.",
+      "selection": [
+        "Référence pour explorer des modèles ouverts; Ollama facilite souvent l’exécution locale de modèles compatibles.",
+        "Choisir Hugging Face selon le besoin (model_hub), la qualité sur tâches réelles, les langues, la latence, les licences, les coûts et l'hébergement."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://huggingface.co/docs/hub/main/index",
+          "type": "official",
+          "reviewedAt": "2026-11-15"
+        },
+        {
+          "url": "https://huggingface.co/docs/inference-providers/index",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://huggingface.co/docs/hub/models-inference",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "together-ai": {
+    "descriptionFr": "Cloud d'inférence de modèles ouverts avec API serverless, capacité provisionnée, endpoints GPU dédiés et fine-tuning.",
+    "descriptionEn": "Open model inference cloud offering serverless APIs, provisioned throughput, dedicated GPU endpoints and fine-tuning.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Serverless et batch pour modèles ouverts",
+      "Dedicated Model/Container Inference et provisioned throughput",
+      "Déploiement de poids personnalisés et fine-tuning"
+    ],
+    "featuresEn": [
+      "Serverless and batch inference for open models",
+      "Dedicated Model/Container Inference and provisioned throughput",
+      "Custom model deployment and fine-tuning"
+    ],
+    "accessFr": "API et/ou services cloud, quotas et conditions selon modèle",
+    "accessEn": "API and/or cloud services with model-dependent quotas",
+    "officialSources": [
+      {
+        "url": "https://www.together.ai/models",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      },
+      {
+        "url": "https://www.together.ai/dedicated-model-inference",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Cloud d'inférence de modèles ouverts avec API serverless, capacité provisionnée, endpoints GPU dédiés et fine-tuning.",
+      "audiences": [
+        "Développeurs déployant ou comparant des modèles en production",
+        "Responsables des coûts, des performances et de la protection des données"
+      ],
+      "cases": [
+        "Passer d'un prototype de classification à un endpoint dédié quand le volume de requêtes devient prévisible.",
+        "Comparer les réponses du modèle sur un jeu de questions représentatif et consigner la version utilisée."
+      ],
+      "advantages": [
+        "Serverless et batch pour modèles ouverts",
+        "Dedicated Model/Container Inference et provisioned throughput",
+        "Déploiement de poids personnalisés et fine-tuning"
+      ],
+      "limits": [
+        "Le serverless est facturé par jeton sur capacité partagée, tandis que l'inférence dédiée facture GPU/heure ; évaluer coûts à faible et fort trafic. Les modèles et licences dépendent de leur éditeur.",
+        "La qualité dépend du modèle précis, de sa version, des données, de l'infrastructure et des tests. Un long contexte ou un haut score de benchmark ne garantit pas la fidélité des réponses."
+      ],
+      "gettingStarted": [
+        "Identifier les modalités, langues, outils, licences, région et niveau de confidentialité nécessaires.",
+        "Créer une clé restreinte ou un environnement isolé, comparer les variantes sur un jeu de test et surveiller la facturation, les quotas et les changements de version."
+      ],
+      "examples": [
+        "Compare deux modèles pour classifier 50 fiches avec JSON valide, coût, latence, taux d'erreur et sources contrôlables.",
+        "Prépare un protocole d'évaluation en français et anglais, avec instructions communes et vérification des erreurs et de la sécurité."
+      ],
+      "pricing": "Tarifs variables selon modèle, jetons d'entrée/sortie, cache, GPU/heure, requêtes et outils ; suivre la page officielle et plafonner les budgets.",
+      "privacy": "Ne pas envoyer de clés API ni données sensibles côté navigateur. Vérifier fournisseur final, région, conservation, sous-traitants, entraînement sur les données, droits des modèles et journaux.",
+      "selection": [
+        "Choisir Together AI selon le besoin (inference_host), la qualité sur tâches réelles, les langues, la latence, les licences, les coûts et l'hébergement."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.together.ai/models",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.together.ai/dedicated-model-inference",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "fireworks-ai": {
+    "descriptionFr": "Plateforme d'inférence et d'entraînement de modèles ouverts, combinant serverless à la demande, GPU dédiés et fine-tuning supervisé ou RL.",
+    "descriptionEn": "Open model inference and training platform combining on-demand serverless, dedicated GPUs and supervised/RL fine-tuning.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Inference serverless à la consommation",
+      "Endpoints GPU dédiés et autoscaling",
+      "Fine-tuning et déploiement de modèles personnalisés"
+    ],
+    "featuresEn": [
+      "Pay-as-you-go serverless inference",
+      "Dedicated GPU endpoints and autoscaling",
+      "Fine-tuning and custom model deployment"
+    ],
+    "accessFr": "API et/ou services cloud, quotas et conditions selon modèle",
+    "accessEn": "API and/or cloud services with model-dependent quotas",
+    "officialSources": [
+      {
+        "url": "https://docs.fireworks.ai/",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      },
+      {
+        "url": "https://fireworks.ai/",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme d'inférence et d'entraînement de modèles ouverts, combinant serverless à la demande, GPU dédiés et fine-tuning supervisé ou RL.",
+      "audiences": [
+        "Développeurs déployant ou comparant des modèles en production",
+        "Responsables des coûts, des performances et de la protection des données"
+      ],
+      "cases": [
+        "Tester le coût et la latence d'un modèle ouvert en serverless avant de réserver de la capacité pour un projet stable.",
+        "Comparer les réponses du modèle sur un jeu de questions représentatif et consigner la version utilisée."
+      ],
+      "advantages": [
+        "Inference serverless à la consommation",
+        "Endpoints GPU dédiés et autoscaling",
+        "Fine-tuning et déploiement de modèles personnalisés"
+      ],
+      "limits": [
+        "Les modes serverless et dédié n'ont pas les mêmes prix ni la même latence au démarrage. Respecter licences, droits sur les jeux d'entraînement et paramètres de sécurité lors des personnalisations.",
+        "La qualité dépend du modèle précis, de sa version, des données, de l'infrastructure et des tests. Un long contexte ou un haut score de benchmark ne garantit pas la fidélité des réponses."
+      ],
+      "gettingStarted": [
+        "Identifier les modalités, langues, outils, licences, région et niveau de confidentialité nécessaires.",
+        "Créer une clé restreinte ou un environnement isolé, comparer les variantes sur un jeu de test et surveiller la facturation, les quotas et les changements de version."
+      ],
+      "examples": [
+        "Compare deux modèles pour classifier 50 fiches avec JSON valide, coût, latence, taux d'erreur et sources contrôlables.",
+        "Prépare un protocole d'évaluation en français et anglais, avec instructions communes et vérification des erreurs et de la sécurité."
+      ],
+      "pricing": "Tarifs variables selon modèle, jetons d'entrée/sortie, cache, GPU/heure, requêtes et outils ; suivre la page officielle et plafonner les budgets.",
+      "privacy": "Ne pas envoyer de clés API ni données sensibles côté navigateur. Vérifier fournisseur final, région, conservation, sous-traitants, entraînement sur les données, droits des modèles et journaux.",
+      "selection": [
+        "Choisir Fireworks AI selon le besoin (inference_host), la qualité sur tâches réelles, les langues, la latence, les licences, les coûts et l'hébergement."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.fireworks.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://fireworks.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "groqcloud": {
+    "descriptionFr": "API GroqCloud spécialisée en inférence rapide de modèles ouverts, y compris gpt-oss, Llama et transcription Whisper, avec modèles Production et Preview.",
+    "descriptionEn": "GroqCloud API specializing in fast open-model inference, including gpt-oss, Llama and Whisper transcription, with production and preview model tiers.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "API de chat à faible latence sur matériel Groq",
+      "Production Models et Preview Models",
+      "Modèles gpt-oss, Llama et Whisper selon catalogue"
+    ],
+    "featuresEn": [
+      "Low-latency chat API on Groq hardware",
+      "Production and Preview model tiers",
+      "Catalog-dependent gpt-oss, Llama and Whisper models"
+    ],
+    "accessFr": "API et/ou services cloud, quotas et conditions selon modèle",
+    "accessEn": "API and/or cloud services with model-dependent quotas",
+    "officialSources": [
+      {
+        "url": "https://console.groq.com/docs/models",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      },
+      {
+        "url": "https://groq.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      }
+    ],
+    "research": {
+      "headline": "API GroqCloud spécialisée en inférence rapide de modèles ouverts, y compris gpt-oss, Llama et transcription Whisper, avec modèles Production et Preview.",
+      "audiences": [
+        "Développeurs déployant ou comparant des modèles en production",
+        "Responsables des coûts, des performances et de la protection des données"
+      ],
+      "cases": [
+        "Mesurer le temps jusqu'au premier jeton d'un assistant vocal et le comparer à l'hébergement alternatif du même modèle.",
+        "Comparer les réponses du modèle sur un jeu de questions représentatif et consigner la version utilisée."
+      ],
+      "advantages": [
+        "API de chat à faible latence sur matériel Groq",
+        "Production Models et Preview Models",
+        "Modèles gpt-oss, Llama et Whisper selon catalogue"
+      ],
+      "limits": [
+        "Les modèles Preview peuvent être interrompus sans préavis ; disponibilité, prix, quotas, taille de contexte et performances varient par ID. Les chiffres de vitesse de l'éditeur ne sont pas des garanties applicables à toutes les requêtes.",
+        "La qualité dépend du modèle précis, de sa version, des données, de l'infrastructure et des tests. Un long contexte ou un haut score de benchmark ne garantit pas la fidélité des réponses."
+      ],
+      "gettingStarted": [
+        "Identifier les modalités, langues, outils, licences, région et niveau de confidentialité nécessaires.",
+        "Créer une clé restreinte ou un environnement isolé, comparer les variantes sur un jeu de test et surveiller la facturation, les quotas et les changements de version."
+      ],
+      "examples": [
+        "Compare deux modèles pour classifier 50 fiches avec JSON valide, coût, latence, taux d'erreur et sources contrôlables.",
+        "Prépare un protocole d'évaluation en français et anglais, avec instructions communes et vérification des erreurs et de la sécurité."
+      ],
+      "pricing": "Tarifs variables selon modèle, jetons d'entrée/sortie, cache, GPU/heure, requêtes et outils ; suivre la page officielle et plafonner les budgets.",
+      "privacy": "Ne pas envoyer de clés API ni données sensibles côté navigateur. Vérifier fournisseur final, région, conservation, sous-traitants, entraînement sur les données, droits des modèles et journaux.",
+      "selection": [
+        "Choisir GroqCloud selon le besoin (inference_host), la qualité sur tâches réelles, les langues, la latence, les licences, les coûts et l'hébergement."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://console.groq.com/docs/models",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://groq.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "cerebras-inference": {
+    "descriptionFr": "Cloud d'inférence Cerebras sur processeurs wafer-scale optimisé pour la génération à très faible latence via une API compatible OpenAI.",
+    "descriptionEn": "Cerebras wafer-scale inference cloud optimized for low-latency generation through an OpenAI-compatible API.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "API chat et SDK Cerebras",
+      "Serveur d'inférence à haut débit de jetons",
+      "Offres développeur, entreprise et modèles dédiés"
+    ],
+    "featuresEn": [
+      "Chat API and Cerebras SDK",
+      "High token-throughput inference infrastructure",
+      "Developer, enterprise and dedicated model options"
+    ],
+    "accessFr": "API et/ou services cloud, quotas et conditions selon modèle",
+    "accessEn": "API and/or cloud services with model-dependent quotas",
+    "officialSources": [
+      {
+        "url": "https://www.cerebras.ai/inference",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      },
+      {
+        "url": "https://docs.cerebras.ai/",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Cloud d'inférence Cerebras sur processeurs wafer-scale optimisé pour la génération à très faible latence via une API compatible OpenAI.",
+      "audiences": [
+        "Développeurs déployant ou comparant des modèles en production",
+        "Responsables des coûts, des performances et de la protection des données"
+      ],
+      "cases": [
+        "Tester la réactivité d'un agent de codage sur un jeu de prompts puis vérifier la qualité des réponses obtenues.",
+        "Comparer les réponses du modèle sur un jeu de questions représentatif et consigner la version utilisée."
+      ],
+      "advantages": [
+        "API chat et SDK Cerebras",
+        "Serveur d'inférence à haut débit de jetons",
+        "Offres développeur, entreprise et modèles dédiés"
+      ],
+      "limits": [
+        "Les vitesses publiées se rapportent à des modèles et essais spécifiques ; les performances évoluent avec le contexte et le trafic. Vérifier catalogue actif, limites, coûts et modalités d'hébergement.",
+        "La qualité dépend du modèle précis, de sa version, des données, de l'infrastructure et des tests. Un long contexte ou un haut score de benchmark ne garantit pas la fidélité des réponses."
+      ],
+      "gettingStarted": [
+        "Identifier les modalités, langues, outils, licences, région et niveau de confidentialité nécessaires.",
+        "Créer une clé restreinte ou un environnement isolé, comparer les variantes sur un jeu de test et surveiller la facturation, les quotas et les changements de version."
+      ],
+      "examples": [
+        "Compare deux modèles pour classifier 50 fiches avec JSON valide, coût, latence, taux d'erreur et sources contrôlables.",
+        "Prépare un protocole d'évaluation en français et anglais, avec instructions communes et vérification des erreurs et de la sécurité."
+      ],
+      "pricing": "Tarifs variables selon modèle, jetons d'entrée/sortie, cache, GPU/heure, requêtes et outils ; suivre la page officielle et plafonner les budgets.",
+      "privacy": "Ne pas envoyer de clés API ni données sensibles côté navigateur. Vérifier fournisseur final, région, conservation, sous-traitants, entraînement sur les données, droits des modèles et journaux.",
+      "selection": [
+        "Choisir Cerebras Inference selon le besoin (inference_host), la qualité sur tâches réelles, les langues, la latence, les licences, les coûts et l'hébergement."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.cerebras.ai/inference",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://docs.cerebras.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "replicate": {
+    "descriptionFr": "Service d'exécution de modèles d'IA via API ou Playground, avec versions d'exécution, webhooks, modèles communautaires et déploiements personnalisés.",
+    "descriptionEn": "AI model execution service through API or playground with model versions, webhooks, community models and custom deployments.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Catalogue et Playground de modèles variés",
+      "Predictions synchrones/asynchrones avec webhooks",
+      "Modèles personnalisés et fine-tuning selon environnement"
+    ],
+    "featuresEn": [
+      "Multi-model catalog and Playground",
+      "Sync/async predictions with webhooks",
+      "Custom model deployment and fine-tuning"
+    ],
+    "accessFr": "API et/ou services cloud, quotas et conditions selon modèle",
+    "accessEn": "API and/or cloud services with model-dependent quotas",
+    "officialSources": [
+      {
+        "url": "https://replicate.com/docs",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      },
+      {
+        "url": "https://replicate.com/docs/topics/webhooks",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      },
+      {
+        "url": "https://replicate.com/docs/topics/models/run-a-model",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Service d'exécution de modèles d'IA via API ou Playground, avec versions d'exécution, webhooks, modèles communautaires et déploiements personnalisés.",
+      "audiences": [
+        "Développeurs déployant ou comparant des modèles en production",
+        "Responsables des coûts, des performances et de la protection des données"
+      ],
+      "cases": [
+        "Lancer une génération d'image en tâche asynchrone, conserver le résultat dès réception du webhook et journaliser le modèle utilisé.",
+        "Comparer les réponses du modèle sur un jeu de questions représentatif et consigner la version utilisée."
+      ],
+      "advantages": [
+        "Catalogue et Playground de modèles variés",
+        "Predictions synchrones/asynchrones avec webhooks",
+        "Modèles personnalisés et fine-tuning selon environnement"
+      ],
+      "limits": [
+        "Les fichiers de sortie des prédictions API peuvent être supprimés après une heure ; les conserver si nécessaire. Les modèles communautaires ont licences, qualités et risques variables ; les démarrages à froid affectent parfois la latence.",
+        "La qualité dépend du modèle précis, de sa version, des données, de l'infrastructure et des tests. Un long contexte ou un haut score de benchmark ne garantit pas la fidélité des réponses."
+      ],
+      "gettingStarted": [
+        "Identifier les modalités, langues, outils, licences, région et niveau de confidentialité nécessaires.",
+        "Créer une clé restreinte ou un environnement isolé, comparer les variantes sur un jeu de test et surveiller la facturation, les quotas et les changements de version."
+      ],
+      "examples": [
+        "Compare deux modèles pour classifier 50 fiches avec JSON valide, coût, latence, taux d'erreur et sources contrôlables.",
+        "Prépare un protocole d'évaluation en français et anglais, avec instructions communes et vérification des erreurs et de la sécurité."
+      ],
+      "pricing": "Tarifs variables selon modèle, jetons d'entrée/sortie, cache, GPU/heure, requêtes et outils ; suivre la page officielle et plafonner les budgets.",
+      "privacy": "Ne pas envoyer de clés API ni données sensibles côté navigateur. Vérifier fournisseur final, région, conservation, sous-traitants, entraînement sur les données, droits des modèles et journaux.",
+      "selection": [
+        "Choisir Replicate selon le besoin (model_execution), la qualité sur tâches réelles, les langues, la latence, les licences, les coûts et l'hébergement."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://replicate.com/docs",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://replicate.com/docs/topics/webhooks",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://replicate.com/docs/topics/models/run-a-model",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "fal-ai": {
+    "descriptionFr": "Plateforme d'inférence spécialisée dans images, vidéos, voix, 3D et world models, fournissant des API de modèles multimédias, des files de tâches et un hébergement serverless GPU.",
+    "descriptionEn": "Inference platform focused on image, video, audio, 3D and world models with media model APIs, queues and serverless GPU hosting.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "API de modèles créatifs image, vidéo, audio et 3D",
+      "Files de tâches, webhooks et retries",
+      "Serverless GPU pour modèles propres et workflows"
+    ],
+    "featuresEn": [
+      "Creative image, video, audio and 3D model APIs",
+      "Managed queue, webhooks and retries",
+      "Serverless GPUs for custom models and workflows"
+    ],
+    "accessFr": "API créatives et GPU serverless selon modèle",
+    "accessEn": "Creative APIs and model-dependent serverless GPUs",
+    "officialSources": [
+      {
+        "url": "https://fal.ai/inference",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      },
+      {
+        "url": "https://fal.ai/docs/documentation/model-apis/pricing",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme d'inférence spécialisée dans images, vidéos, voix, 3D et world models, fournissant des API de modèles multimédias, des files de tâches et un hébergement serverless GPU.",
+      "audiences": [
+        "Développeurs déployant ou comparant des modèles en production",
+        "Responsables des coûts, des performances et de la protection des données"
+      ],
+      "cases": [
+        "Générer une courte vidéo sur une demande asynchrone et notifier l'utilisateur une fois la tâche terminée.",
+        "Comparer les réponses du modèle sur un jeu de questions représentatif et consigner la version utilisée."
+      ],
+      "advantages": [
+        "API de modèles créatifs image, vidéo, audio et 3D",
+        "Files de tâches, webhooks et retries",
+        "Serverless GPU pour modèles propres et workflows"
+      ],
+      "limits": [
+        "fal est centré sur la génération média, et n'est pas un fournisseur générique de LLM conversationnels. Les prix sont par image, seconde de vidéo ou sortie selon modèle, tandis que l'hébergement serverless GPU se facture à l'exécution.",
+        "La qualité dépend du modèle précis, de sa version, des données, de l'infrastructure et des tests. Un long contexte ou un haut score de benchmark ne garantit pas la fidélité des réponses."
+      ],
+      "gettingStarted": [
+        "Identifier les modalités, langues, outils, licences, région et niveau de confidentialité nécessaires.",
+        "Créer une clé restreinte ou un environnement isolé, comparer les variantes sur un jeu de test et surveiller la facturation, les quotas et les changements de version."
+      ],
+      "examples": [
+        "Compare deux modèles pour classifier 50 fiches avec JSON valide, coût, latence, taux d'erreur et sources contrôlables.",
+        "Prépare un protocole d'évaluation en français et anglais, avec instructions communes et vérification des erreurs et de la sécurité."
+      ],
+      "pricing": "Tarifs variables selon modèle, jetons d'entrée/sortie, cache, GPU/heure, requêtes et outils ; suivre la page officielle et plafonner les budgets.",
+      "privacy": "Ne pas envoyer de clés API ni données sensibles côté navigateur. Vérifier fournisseur final, région, conservation, sous-traitants, entraînement sur les données, droits des modèles et journaux.",
+      "selection": [
+        "Choisir fal.ai selon le besoin (media_inference), la qualité sur tâches réelles, les langues, la latence, les licences, les coûts et l'hébergement."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://fal.ai/inference",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://fal.ai/docs/documentation/model-apis/pricing",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "openrouter": {
+    "descriptionFr": "Passerelle API multi-modèles et multi-fournisseurs, avec routage dynamique, repli sur incident, sélection de fournisseur et configuration des contraintes de coût et de confidentialité.",
+    "descriptionEn": "Multi-model and multi-provider API gateway with dynamic routing, failover, provider selection and cost/privacy controls.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Catalogue multi-modèles et API compatible OpenAI",
+      "Routage par disponibilité, vitesse, coût et fournisseurs",
+      "Contrôles de fallback, BYOK et choix de région selon provider"
+    ],
+    "featuresEn": [
+      "Multi-model catalog and OpenAI-compatible API",
+      "Reliability, speed, cost and provider routing",
+      "Fallback control, BYOK and provider-region choices"
+    ],
+    "accessFr": "API et/ou services cloud, quotas et conditions selon modèle",
+    "accessEn": "API and/or cloud services with model-dependent quotas",
+    "officialSources": [
+      {
+        "url": "https://openrouter.ai/blog/announcements/how-we-rebuilt-provider-routing/",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      },
+      {
+        "url": "https://openrouter.ai/docs",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      },
+      {
+        "url": "https://openrouter.ai/pricing",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Passerelle API multi-modèles et multi-fournisseurs, avec routage dynamique, repli sur incident, sélection de fournisseur et configuration des contraintes de coût et de confidentialité.",
+      "audiences": [
+        "Développeurs d’applications multi-modèles",
+        "Équipes de recherche et d’évaluation",
+        "Entreprises qui optimisent les coûts IA",
+        "Développeurs déployant ou comparant des modèles en production",
+        "Responsables des coûts, des performances et de la protection des données"
+      ],
+      "cases": [
+        "Comparer plusieurs modèles à interface commune",
+        "Router les requêtes selon coût et fournisseurs",
+        "Mettre en place budgets et contrôles de dépenses",
+        "Intégrer différentes modalités de modèles sans changer toute l’application",
+        "Comparer la qualité et les coûts de trois fournisseurs pour un même modèle puis forcer un fournisseur agréé par l'organisation.",
+        "Comparer les réponses du modèle sur un jeu de questions représentatif et consigner la version utilisée."
+      ],
+      "advantages": [
+        "API unifiée et catalogue étendu",
+        "Fournisseurs multiples et modèles gratuits sous restrictions",
+        "Contrôles de routage, budgets et politiques selon abonnement",
+        "Catalogue multi-modèles et API compatible OpenAI",
+        "Routage par disponibilité, vitesse, coût et fournisseurs",
+        "Contrôles de fallback, BYOK et choix de région selon provider"
+      ],
+      "limits": [
+        "Les modèles et quotas disponibles changent",
+        "Les conditions de traitement varient selon fournisseur effectif",
+        "Des frais de plateforme peuvent s’ajouter aux coûts d’inférence",
+        "Une requête peut transiter par un fournisseur différent de celui attendu si le routage et les fallback ne sont pas fixés. Le routage par défaut a changé en octobre 2026 ; contrôler confidentialité, quantification, caching et frais de plateforme.",
+        "La qualité dépend du modèle précis, de sa version, des données, de l'infrastructure et des tests. Un long contexte ou un haut score de benchmark ne garantit pas la fidélité des réponses."
+      ],
+      "gettingStarted": [
+        "Choisir des modèles compatibles avec les contraintes de données, créer une clé limitée, exécuter un jeu de tests et examiner facture et latence.",
+        "Identifier les modalités, langues, outils, licences, région et niveau de confidentialité nécessaires.",
+        "Créer une clé restreinte ou un environnement isolé, comparer les variantes sur un jeu de test et surveiller la facturation, les quotas et les changements de version."
+      ],
+      "examples": [
+        "Compare trois modèles pour classifier cinquante messages.",
+        "Sélectionne un fournisseur qui répond à notre politique de données.",
+        "Compare deux modèles pour classifier 50 fiches avec JSON valide, coût, latence, taux d'erreur et sources contrôlables.",
+        "Prépare un protocole d'évaluation en français et anglais, avec instructions communes et vérification des erreurs et de la sécurité."
+      ],
+      "pricing": "Offre Free avec restrictions; Standard, Business et Enterprise avec facturation à l’usage et frais de plateforme selon plan.",
+      "privacy": "Contrôler les routes autorisées et les politiques du fournisseur final, pas seulement les conditions de l’agrégateur.",
+      "selection": [
+        "Choisir si l’application doit comparer ou changer de modèle; une API directe simplifie certains besoins mono-fournisseur.",
+        "Choisir OpenRouter selon le besoin (gateway), la qualité sur tâches réelles, les langues, la latence, les licences, les coûts et l'hébergement."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "new_default_routing_2026",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://openrouter.ai/pricing",
+          "type": "official",
+          "reviewedAt": "2026-11-15"
+        },
+        {
+          "url": "https://openrouter.ai/blog/announcements/how-we-rebuilt-provider-routing/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://openrouter.ai/docs",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_routing_updated"
+  },
+  "deepinfra": {
+    "descriptionFr": "Plateforme d'inférence multi-modèles pour texte, embeddings, voix, images et vidéo, avec tarifs à la consommation et GPU dédiés pour modèles personnalisés.",
+    "descriptionEn": "Multi-model inference platform for text, embeddings, audio, images and video with usage-based pricing and dedicated GPUs for custom models.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Catalogue de modèles et API de génération",
+      "Embeddings, rerankers, multimodal et OCR",
+      "GPU dédiés et niveaux de service standard, Priority ou Flex"
+    ],
+    "featuresEn": [
+      "Model catalog and generation APIs",
+      "Embeddings, rerankers, multimodal and OCR",
+      "Dedicated GPU and Standard, Priority or Flex service tiers"
+    ],
+    "accessFr": "API et/ou services cloud, quotas et conditions selon modèle",
+    "accessEn": "API and/or cloud services with model-dependent quotas",
+    "officialSources": [
+      {
+        "url": "https://deepinfra.com/models",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      },
+      {
+        "url": "https://deepinfra.com/pricing",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      },
+      {
+        "url": "https://status.deepinfra.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme d'inférence multi-modèles pour texte, embeddings, voix, images et vidéo, avec tarifs à la consommation et GPU dédiés pour modèles personnalisés.",
+      "audiences": [
+        "Développeurs déployant ou comparant des modèles en production",
+        "Responsables des coûts, des performances et de la protection des données"
+      ],
+      "cases": [
+        "Comparer des modèles ouverts d'extraction puis surveiller les coûts, les taux d'erreur et les retraits de versions.",
+        "Comparer les réponses du modèle sur un jeu de questions représentatif et consigner la version utilisée."
+      ],
+      "advantages": [
+        "Catalogue de modèles et API de génération",
+        "Embeddings, rerankers, multimodal et OCR",
+        "GPU dédiés et niveaux de service standard, Priority ou Flex"
+      ],
+      "limits": [
+        "Les tarifs et les modèles peuvent être modifiés fréquemment ; utiliser la page de statut pour surveiller les retraits. Les niveaux Priority/Flex changent prix et garanties ; contrôler domicile juridique et rétention des données.",
+        "La qualité dépend du modèle précis, de sa version, des données, de l'infrastructure et des tests. Un long contexte ou un haut score de benchmark ne garantit pas la fidélité des réponses."
+      ],
+      "gettingStarted": [
+        "Identifier les modalités, langues, outils, licences, région et niveau de confidentialité nécessaires.",
+        "Créer une clé restreinte ou un environnement isolé, comparer les variantes sur un jeu de test et surveiller la facturation, les quotas et les changements de version."
+      ],
+      "examples": [
+        "Compare deux modèles pour classifier 50 fiches avec JSON valide, coût, latence, taux d'erreur et sources contrôlables.",
+        "Prépare un protocole d'évaluation en français et anglais, avec instructions communes et vérification des erreurs et de la sécurité."
+      ],
+      "pricing": "Tarifs variables selon modèle, jetons d'entrée/sortie, cache, GPU/heure, requêtes et outils ; suivre la page officielle et plafonner les budgets.",
+      "privacy": "Ne pas envoyer de clés API ni données sensibles côté navigateur. Vérifier fournisseur final, région, conservation, sous-traitants, entraînement sur les données, droits des modèles et journaux.",
+      "selection": [
+        "Choisir DeepInfra selon le besoin (inference_host), la qualité sur tâches réelles, les langues, la latence, les licences, les coûts et l'hébergement."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://deepinfra.com/models",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://deepinfra.com/pricing",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://status.deepinfra.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "sambanova-cloud": {
+    "descriptionFr": "SambaNova Cloud (SambaCloud), plateforme d'inférence rapide de modèles ouverts via endpoint de chat compatible OpenAI, avec offres développeur et entreprise.",
+    "descriptionEn": "SambaNova Cloud (SambaCloud) fast open-model inference through an OpenAI-compatible chat endpoint, with developer and enterprise plans.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "API /v1/chat/completions compatible OpenAI",
+      "Catalogue de modèles sur tableau de bord SambaCloud",
+      "Plans Free/Developer/Enterprise et déploiements dédiés"
+    ],
+    "featuresEn": [
+      "OpenAI-compatible /v1/chat/completions",
+      "Model catalog in SambaCloud dashboard",
+      "Free/Developer/Enterprise and dedicated options"
+    ],
+    "accessFr": "API et/ou services cloud, quotas et conditions selon modèle",
+    "accessEn": "API and/or cloud services with model-dependent quotas",
+    "officialSources": [
+      {
+        "url": "https://cloud.sambanova.ai/dashboard",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      },
+      {
+        "url": "https://cloud.sambanova.ai/plans",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      },
+      {
+        "url": "https://docs.sambanova.ai/docs/en/integrations/vscode",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      }
+    ],
+    "research": {
+      "headline": "SambaNova Cloud (SambaCloud), plateforme d'inférence rapide de modèles ouverts via endpoint de chat compatible OpenAI, avec offres développeur et entreprise.",
+      "audiences": [
+        "Développeurs déployant ou comparant des modèles en production",
+        "Responsables des coûts, des performances et de la protection des données"
+      ],
+      "cases": [
+        "Créer un prototype de chatbot sur un modèle du catalogue et tester les restrictions de débit avant déploiement.",
+        "Comparer les réponses du modèle sur un jeu de questions représentatif et consigner la version utilisée."
+      ],
+      "advantages": [
+        "API /v1/chat/completions compatible OpenAI",
+        "Catalogue de modèles sur tableau de bord SambaCloud",
+        "Plans Free/Developer/Enterprise et déploiements dédiés"
+      ],
+      "limits": [
+        "Le plan Free demande un moyen de paiement et des crédits selon les conditions officielles actuelles. Les modèles et limites diffèrent entre l'accès partagé et les installations réservées ; maintenir secrets d'API côté serveur.",
+        "La qualité dépend du modèle précis, de sa version, des données, de l'infrastructure et des tests. Un long contexte ou un haut score de benchmark ne garantit pas la fidélité des réponses."
+      ],
+      "gettingStarted": [
+        "Identifier les modalités, langues, outils, licences, région et niveau de confidentialité nécessaires.",
+        "Créer une clé restreinte ou un environnement isolé, comparer les variantes sur un jeu de test et surveiller la facturation, les quotas et les changements de version."
+      ],
+      "examples": [
+        "Compare deux modèles pour classifier 50 fiches avec JSON valide, coût, latence, taux d'erreur et sources contrôlables.",
+        "Prépare un protocole d'évaluation en français et anglais, avec instructions communes et vérification des erreurs et de la sécurité."
+      ],
+      "pricing": "Tarifs variables selon modèle, jetons d'entrée/sortie, cache, GPU/heure, requêtes et outils ; suivre la page officielle et plafonner les budgets.",
+      "privacy": "Ne pas envoyer de clés API ni données sensibles côté navigateur. Vérifier fournisseur final, région, conservation, sous-traitants, entraînement sur les données, droits des modèles et journaux.",
+      "selection": [
+        "Choisir SambaNova Cloud selon le besoin (inference_host), la qualité sur tâches réelles, les langues, la latence, les licences, les coûts et l'hébergement."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://cloud.sambanova.ai/dashboard",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://cloud.sambanova.ai/plans",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://docs.sambanova.ai/docs/en/integrations/vscode",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "nvidia-nim": {
+    "descriptionFr": "Microservices NVIDIA NIM de déploiement de LLM et VLM en conteneurs, sur serveurs compatibles, avec moteurs vLLM/SGLang et profils matériels contrôlés.",
+    "descriptionEn": "NVIDIA NIM containerized inference microservices for LLM/VLM on supported servers, using vLLM/SGLang with validated hardware profiles.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "NIM LLM/VLM 2.0, un conteneur par moteur",
+      "Profils matériels NVIDIA et modèles certifiés",
+      "API compatible OpenAI, gestion des versions et monitoring"
+    ],
+    "featuresEn": [
+      "NIM LLM/VLM 2.0 with one engine per container",
+      "NVIDIA hardware profiles and certified models",
+      "OpenAI-compatible APIs, versioning and monitoring"
+    ],
+    "accessFr": "Conteneurs et GPU compatibles, cloud ou sur site",
+    "accessEn": "Containers and supported GPUs, cloud or on-prem",
+    "officialSources": [
+      {
+        "url": "https://docs.nvidia.com/nim/large-language-models/latest/introduction.html",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      },
+      {
+        "url": "https://build.nvidia.com",
+        "checkedAt": "2026-11-17",
+        "scope": "models_capabilities_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Microservices NVIDIA NIM de déploiement de LLM et VLM en conteneurs, sur serveurs compatibles, avec moteurs vLLM/SGLang et profils matériels contrôlés.",
+      "audiences": [
+        "Développeurs déployant ou comparant des modèles en production",
+        "Responsables des coûts, des performances et de la protection des données"
+      ],
+      "cases": [
+        "Déployer un petit modèle open-weight sur un serveur GPU de test en mesurant VRAM, débit et coûts d'exploitation.",
+        "Comparer les réponses du modèle sur un jeu de questions représentatif et consigner la version utilisée."
+      ],
+      "advantages": [
+        "NIM LLM/VLM 2.0, un conteneur par moteur",
+        "Profils matériels NVIDIA et modèles certifiés",
+        "API compatible OpenAI, gestion des versions et monitoring"
+      ],
+      "limits": [
+        "NIM nécessite des GPU/profils supportés et parfois des licences NVIDIA AI Enterprise. NIM 2.0 modifie l'architecture 1.x et exige une migration ; les licences des modèles sont indépendantes de celles du runtime.",
+        "La qualité dépend du modèle précis, de sa version, des données, de l'infrastructure et des tests. Un long contexte ou un haut score de benchmark ne garantit pas la fidélité des réponses."
+      ],
+      "gettingStarted": [
+        "Identifier les modalités, langues, outils, licences, région et niveau de confidentialité nécessaires.",
+        "Créer une clé restreinte ou un environnement isolé, comparer les variantes sur un jeu de test et surveiller la facturation, les quotas et les changements de version."
+      ],
+      "examples": [
+        "Compare deux modèles pour classifier 50 fiches avec JSON valide, coût, latence, taux d'erreur et sources contrôlables.",
+        "Prépare un protocole d'évaluation en français et anglais, avec instructions communes et vérification des erreurs et de la sécurité."
+      ],
+      "pricing": "Licences du runtime et de certains conteneurs, matériel GPU, maintenance et hébergement à prévoir.",
+      "privacy": "Ne pas envoyer de clés API ni données sensibles côté navigateur. Vérifier fournisseur final, région, conservation, sous-traitants, entraînement sur les données, droits des modèles et journaux.",
+      "selection": [
+        "Choisir NVIDIA NIM selon le besoin (inference_runtime), la qualité sur tâches réelles, les langues, la latence, les licences, les coûts et l'hébergement."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "nim2_runtime_current",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.nvidia.com/nim/large-language-models/latest/introduction.html",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://build.nvidia.com",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  }
+}
