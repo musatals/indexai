@@ -1,0 +1,899 @@
+{
+  "elevenlabs": {
+    "descriptionFr": "Synthèse vocale expressive multilingue, clonage vocal consenti et API pour narration ou agents.",
+    "descriptionEn": "Expressive multilingual text-to-speech, consent-based voice cloning and APIs for narration or agents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Synthèse vocale multilingue",
+      "Clonage vocal soumis à autorisation",
+      "API temps réel et génération longue"
+    ],
+    "featuresEn": [
+      "Multilingual speech synthesis",
+      "Permission-based voice cloning",
+      "Realtime API and long-form generation"
+    ],
+    "accessFr": "Web / API ou applications selon produit",
+    "accessEn": "Web / API or apps depending on product",
+    "officialSources": [
+      {
+        "url": "https://elevenlabs.io/docs/overview/capabilities/text-to-speech",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Synthèse vocale expressive multilingue, clonage vocal consenti et API pour narration ou agents.",
+      "audiences": [
+        "Créateurs de contenus et équipes pédagogiques",
+        "Développeurs ou professionnels selon l'outil"
+      ],
+      "cases": [
+        "Production de narrations et dialogues à plusieurs locuteurs.",
+        "Tester la prononciation et comparer le rendu sur un extrait représentatif"
+      ],
+      "advantages": [
+        "Synthèse vocale multilingue",
+        "Clonage vocal soumis à autorisation",
+        "API temps réel et génération longue"
+      ],
+      "limits": [
+        "Les modèles ont des couvertures linguistiques, droits commerciaux et quotas différents.",
+        "Une voix synthétique ne garantit ni une prononciation parfaite ni une identification fiable du locuteur."
+      ],
+      "gettingStarted": [
+        "Préparer un court texte de test et définir la langue, le public et les droits d'utilisation.",
+        "Comparer plusieurs voix, contrôler les noms propres et écouter le rendu avant diffusion."
+      ],
+      "examples": [
+        "Lis ce paragraphe de manière claire et adaptée à un public débutant.",
+        "Prépare une narration de 90 secondes et relève les termes exigeant une vérification phonétique."
+      ],
+      "pricing": "Vérifier les forfaits, crédits, droits commerciaux et tarifs API sur le site officiel : ils varient selon l'offre.",
+      "privacy": "Ne pas importer ni cloner la voix d'une personne sans son accord; vérifier conservation des fichiers, localisation et licence de sortie.",
+      "selection": [
+        "Choisir ElevenLabs en évaluant la qualité de la voix, les langues, les droits de diffusion, le workflow et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://elevenlabs.io/docs/overview/capabilities/text-to-speech",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "murf": {
+    "descriptionFr": "Studio de voix off IA et API vocale pour vidéos, formations et assistants conversationnels.",
+    "descriptionEn": "AI voiceover studio and speech API for videos, learning content and conversational assistants.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Voix off éditables",
+      "Studio de production",
+      "API vocale"
+    ],
+    "featuresEn": [
+      "Editable voiceovers",
+      "Production studio",
+      "Speech API"
+    ],
+    "accessFr": "Web / API ou applications selon produit",
+    "accessEn": "Web / API or apps depending on product",
+    "officialSources": [
+      {
+        "url": "https://murf.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Studio de voix off IA et API vocale pour vidéos, formations et assistants conversationnels.",
+      "audiences": [
+        "Créateurs de contenus et équipes pédagogiques",
+        "Développeurs ou professionnels selon l'outil"
+      ],
+      "cases": [
+        "Produire une narration de formation avec ajustements de débit et de diction.",
+        "Tester la prononciation et comparer le rendu sur un extrait représentatif"
+      ],
+      "advantages": [
+        "Voix off éditables",
+        "Studio de production",
+        "API vocale"
+      ],
+      "limits": [
+        "Vérifier les langues, droits d'export et limites du forfait.",
+        "Une voix synthétique ne garantit ni une prononciation parfaite ni une identification fiable du locuteur."
+      ],
+      "gettingStarted": [
+        "Préparer un court texte de test et définir la langue, le public et les droits d'utilisation.",
+        "Comparer plusieurs voix, contrôler les noms propres et écouter le rendu avant diffusion."
+      ],
+      "examples": [
+        "Lis ce paragraphe de manière claire et adaptée à un public débutant.",
+        "Prépare une narration de 90 secondes et relève les termes exigeant une vérification phonétique."
+      ],
+      "pricing": "Vérifier les forfaits, crédits, droits commerciaux et tarifs API sur le site officiel : ils varient selon l'offre.",
+      "privacy": "Ne pas importer ni cloner la voix d'une personne sans son accord; vérifier conservation des fichiers, localisation et licence de sortie.",
+      "selection": [
+        "Choisir Murf en évaluant la qualité de la voix, les langues, les droits de diffusion, le workflow et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://murf.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "speechify": {
+    "descriptionFr": "Lecture audio de documents et pages web, avec applications, extensions et fonctions de voix off.",
+    "descriptionEn": "Audio reading for documents and web pages, with apps, extensions and voiceover features.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Lecture de documents",
+      "Applications et extensions",
+      "Studio de voix off"
+    ],
+    "featuresEn": [
+      "Document reading",
+      "Apps and extensions",
+      "Voiceover studio"
+    ],
+    "accessFr": "Web / API ou applications selon produit",
+    "accessEn": "Web / API or apps depending on product",
+    "officialSources": [
+      {
+        "url": "https://speechify.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Lecture audio de documents et pages web, avec applications, extensions et fonctions de voix off.",
+      "audiences": [
+        "Créateurs de contenus et équipes pédagogiques",
+        "Développeurs ou professionnels selon l'outil"
+      ],
+      "cases": [
+        "Écouter un document pour faciliter la lecture et la révision.",
+        "Tester la prononciation et comparer le rendu sur un extrait représentatif"
+      ],
+      "advantages": [
+        "Lecture de documents",
+        "Applications et extensions",
+        "Studio de voix off"
+      ],
+      "limits": [
+        "Distinguer l'abonnement de lecture personnelle des droits de production commerciale.",
+        "Une voix synthétique ne garantit ni une prononciation parfaite ni une identification fiable du locuteur."
+      ],
+      "gettingStarted": [
+        "Préparer un court texte de test et définir la langue, le public et les droits d'utilisation.",
+        "Comparer plusieurs voix, contrôler les noms propres et écouter le rendu avant diffusion."
+      ],
+      "examples": [
+        "Lis ce paragraphe de manière claire et adaptée à un public débutant.",
+        "Prépare une narration de 90 secondes et relève les termes exigeant une vérification phonétique."
+      ],
+      "pricing": "Vérifier les forfaits, crédits, droits commerciaux et tarifs API sur le site officiel : ils varient selon l'offre.",
+      "privacy": "Ne pas importer ni cloner la voix d'une personne sans son accord; vérifier conservation des fichiers, localisation et licence de sortie.",
+      "selection": [
+        "Choisir Speechify en évaluant la qualité de la voix, les langues, les droits de diffusion, le workflow et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://speechify.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "wellsaid-labs": {
+    "descriptionFr": "Plateforme collaborative de voix off professionnelles utilisant des voix d'acteurs autorisées.",
+    "descriptionEn": "Collaborative professional voiceover platform using licensed voice-actor performances.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Voix sous licence",
+      "Production en équipe",
+      "Direction de la diction"
+    ],
+    "featuresEn": [
+      "Licensed voices",
+      "Team production",
+      "Delivery direction"
+    ],
+    "accessFr": "Web / API ou applications selon produit",
+    "accessEn": "Web / API or apps depending on product",
+    "officialSources": [
+      {
+        "url": "https://www.wellsaid.io/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme collaborative de voix off professionnelles utilisant des voix d'acteurs autorisées.",
+      "audiences": [
+        "Créateurs de contenus et équipes pédagogiques",
+        "Développeurs ou professionnels selon l'outil"
+      ],
+      "cases": [
+        "Produire et harmoniser les voix off de modules de formation.",
+        "Tester la prononciation et comparer le rendu sur un extrait représentatif"
+      ],
+      "advantages": [
+        "Voix sous licence",
+        "Production en équipe",
+        "Direction de la diction"
+      ],
+      "limits": [
+        "Vérifier les langues proposées, licences et conditions d'utilisation en équipe.",
+        "Une voix synthétique ne garantit ni une prononciation parfaite ni une identification fiable du locuteur."
+      ],
+      "gettingStarted": [
+        "Préparer un court texte de test et définir la langue, le public et les droits d'utilisation.",
+        "Comparer plusieurs voix, contrôler les noms propres et écouter le rendu avant diffusion."
+      ],
+      "examples": [
+        "Lis ce paragraphe de manière claire et adaptée à un public débutant.",
+        "Prépare une narration de 90 secondes et relève les termes exigeant une vérification phonétique."
+      ],
+      "pricing": "Vérifier les forfaits, crédits, droits commerciaux et tarifs API sur le site officiel : ils varient selon l'offre.",
+      "privacy": "Ne pas importer ni cloner la voix d'une personne sans son accord; vérifier conservation des fichiers, localisation et licence de sortie.",
+      "selection": [
+        "Choisir WellSaid en évaluant la qualité de la voix, les langues, les droits de diffusion, le workflow et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.wellsaid.io/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "resemble-ai": {
+    "descriptionFr": "Création et clonage de voix, génération vocale et déploiement personnalisable pour développeurs.",
+    "descriptionEn": "Voice creation and cloning, speech generation and customizable deployment for developers.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Clonage rapide et professionnel",
+      "Conception de voix",
+      "Options d'hébergement"
+    ],
+    "featuresEn": [
+      "Rapid and professional cloning",
+      "Voice design",
+      "Deployment options"
+    ],
+    "accessFr": "Web / API ou applications selon produit",
+    "accessEn": "Web / API or apps depending on product",
+    "officialSources": [
+      {
+        "url": "https://www.resemble.ai/products/voice-creation",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Création et clonage de voix, génération vocale et déploiement personnalisable pour développeurs.",
+      "audiences": [
+        "Créateurs de contenus et équipes pédagogiques",
+        "Développeurs ou professionnels selon l'outil"
+      ],
+      "cases": [
+        "Créer une voix de marque avec consentement explicite et contrôles de provenance.",
+        "Tester la prononciation et comparer le rendu sur un extrait représentatif"
+      ],
+      "advantages": [
+        "Clonage rapide et professionnel",
+        "Conception de voix",
+        "Options d'hébergement"
+      ],
+      "limits": [
+        "Le clonage exige les droits sur la voix; qualité et latence varient selon le modèle.",
+        "Une voix synthétique ne garantit ni une prononciation parfaite ni une identification fiable du locuteur."
+      ],
+      "gettingStarted": [
+        "Préparer un court texte de test et définir la langue, le public et les droits d'utilisation.",
+        "Comparer plusieurs voix, contrôler les noms propres et écouter le rendu avant diffusion."
+      ],
+      "examples": [
+        "Lis ce paragraphe de manière claire et adaptée à un public débutant.",
+        "Prépare une narration de 90 secondes et relève les termes exigeant une vérification phonétique."
+      ],
+      "pricing": "Vérifier les forfaits, crédits, droits commerciaux et tarifs API sur le site officiel : ils varient selon l'offre.",
+      "privacy": "Ne pas importer ni cloner la voix d'une personne sans son accord; vérifier conservation des fichiers, localisation et licence de sortie.",
+      "selection": [
+        "Choisir Resemble AI en évaluant la qualité de la voix, les langues, les droits de diffusion, le workflow et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.resemble.ai/products/voice-creation",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "lovo": {
+    "descriptionFr": "Genny associe génération de voix off IA, clonage vocal et montage vidéo dans un éditeur en ligne.",
+    "descriptionEn": "Genny combines AI voiceovers, voice cloning and video editing in an online editor.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Voix off IA",
+      "Éditeur Genny",
+      "Clonage de voix"
+    ],
+    "featuresEn": [
+      "AI voiceovers",
+      "Genny editor",
+      "Voice cloning"
+    ],
+    "accessFr": "Web / API ou applications selon produit",
+    "accessEn": "Web / API or apps depending on product",
+    "officialSources": [
+      {
+        "url": "https://lovo.ai/genny",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Genny associe génération de voix off IA, clonage vocal et montage vidéo dans un éditeur en ligne.",
+      "audiences": [
+        "Créateurs de contenus et équipes pédagogiques",
+        "Développeurs ou professionnels selon l'outil"
+      ],
+      "cases": [
+        "Créer une vidéo explicative avec narration et sous-titres.",
+        "Tester la prononciation et comparer le rendu sur un extrait représentatif"
+      ],
+      "advantages": [
+        "Voix off IA",
+        "Éditeur Genny",
+        "Clonage de voix"
+      ],
+      "limits": [
+        "Contrôler les droits de clonage et les modalités d'export.",
+        "Une voix synthétique ne garantit ni une prononciation parfaite ni une identification fiable du locuteur."
+      ],
+      "gettingStarted": [
+        "Préparer un court texte de test et définir la langue, le public et les droits d'utilisation.",
+        "Comparer plusieurs voix, contrôler les noms propres et écouter le rendu avant diffusion."
+      ],
+      "examples": [
+        "Lis ce paragraphe de manière claire et adaptée à un public débutant.",
+        "Prépare une narration de 90 secondes et relève les termes exigeant une vérification phonétique."
+      ],
+      "pricing": "Vérifier les forfaits, crédits, droits commerciaux et tarifs API sur le site officiel : ils varient selon l'offre.",
+      "privacy": "Ne pas importer ni cloner la voix d'une personne sans son accord; vérifier conservation des fichiers, localisation et licence de sortie.",
+      "selection": [
+        "Choisir LOVO en évaluant la qualité de la voix, les langues, les droits de diffusion, le workflow et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://lovo.ai/genny",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "narakeet": {
+    "descriptionFr": "Service de narration texte-vers-audio et de conversion de présentations ou scripts en vidéos commentées.",
+    "descriptionEn": "Text-to-audio narration and conversion of slides or scripts into narrated videos.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Texte vers audio",
+      "PowerPoint vers vidéo",
+      "API et ligne de commande"
+    ],
+    "featuresEn": [
+      "Text to audio",
+      "PowerPoint to video",
+      "API and command line"
+    ],
+    "accessFr": "Web / API ou applications selon produit",
+    "accessEn": "Web / API or apps depending on product",
+    "officialSources": [
+      {
+        "url": "https://www.narakeet.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Service de narration texte-vers-audio et de conversion de présentations ou scripts en vidéos commentées.",
+      "audiences": [
+        "Créateurs de contenus et équipes pédagogiques",
+        "Développeurs ou professionnels selon l'outil"
+      ],
+      "cases": [
+        "Transformer des diapositives pédagogiques en vidéo commentée.",
+        "Tester la prononciation et comparer le rendu sur un extrait représentatif"
+      ],
+      "advantages": [
+        "Texte vers audio",
+        "PowerPoint vers vidéo",
+        "API et ligne de commande"
+      ],
+      "limits": [
+        "Le rendu des noms propres et la synchronisation nécessitent une relecture.",
+        "Une voix synthétique ne garantit ni une prononciation parfaite ni une identification fiable du locuteur."
+      ],
+      "gettingStarted": [
+        "Préparer un court texte de test et définir la langue, le public et les droits d'utilisation.",
+        "Comparer plusieurs voix, contrôler les noms propres et écouter le rendu avant diffusion."
+      ],
+      "examples": [
+        "Lis ce paragraphe de manière claire et adaptée à un public débutant.",
+        "Prépare une narration de 90 secondes et relève les termes exigeant une vérification phonétique."
+      ],
+      "pricing": "Vérifier les forfaits, crédits, droits commerciaux et tarifs API sur le site officiel : ils varient selon l'offre.",
+      "privacy": "Ne pas importer ni cloner la voix d'une personne sans son accord; vérifier conservation des fichiers, localisation et licence de sortie.",
+      "selection": [
+        "Choisir Narakeet en évaluant la qualité de la voix, les langues, les droits de diffusion, le workflow et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.narakeet.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "naturalreader": {
+    "descriptionFr": "Lecteur IA pour textes, documents et pages web, avec offre distincte de voix off commerciales.",
+    "descriptionEn": "AI reader for text, documents and webpages, with separate commercial voiceover offering.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Lecture de documents",
+      "Extensions et applications",
+      "Voix off commerciales distinctes"
+    ],
+    "featuresEn": [
+      "Document reading",
+      "Extensions and apps",
+      "Separate commercial voiceovers"
+    ],
+    "accessFr": "Web / API ou applications selon produit",
+    "accessEn": "Web / API or apps depending on product",
+    "officialSources": [
+      {
+        "url": "https://www.naturalreaders.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Lecteur IA pour textes, documents et pages web, avec offre distincte de voix off commerciales.",
+      "audiences": [
+        "Créateurs de contenus et équipes pédagogiques",
+        "Développeurs ou professionnels selon l'outil"
+      ],
+      "cases": [
+        "Écouter un PDF pour réviser ou améliorer l'accessibilité.",
+        "Tester la prononciation et comparer le rendu sur un extrait représentatif"
+      ],
+      "advantages": [
+        "Lecture de documents",
+        "Extensions et applications",
+        "Voix off commerciales distinctes"
+      ],
+      "limits": [
+        "La licence personnelle de lecture ne remplace pas une licence de diffusion commerciale.",
+        "Une voix synthétique ne garantit ni une prononciation parfaite ni une identification fiable du locuteur."
+      ],
+      "gettingStarted": [
+        "Préparer un court texte de test et définir la langue, le public et les droits d'utilisation.",
+        "Comparer plusieurs voix, contrôler les noms propres et écouter le rendu avant diffusion."
+      ],
+      "examples": [
+        "Lis ce paragraphe de manière claire et adaptée à un public débutant.",
+        "Prépare une narration de 90 secondes et relève les termes exigeant une vérification phonétique."
+      ],
+      "pricing": "Vérifier les forfaits, crédits, droits commerciaux et tarifs API sur le site officiel : ils varient selon l'offre.",
+      "privacy": "Ne pas importer ni cloner la voix d'une personne sans son accord; vérifier conservation des fichiers, localisation et licence de sortie.",
+      "selection": [
+        "Choisir NaturalReader en évaluant la qualité de la voix, les langues, les droits de diffusion, le workflow et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.naturalreaders.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "cartesia": {
+    "descriptionFr": "Infrastructure vocale temps réel avec modèles de synthèse, reconnaissance et agents audio.",
+    "descriptionEn": "Realtime voice infrastructure with speech synthesis, recognition and voice-agent products.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Sonic synthèse vocale",
+      "Ink transcription",
+      "Agents vocaux"
+    ],
+    "featuresEn": [
+      "Sonic speech synthesis",
+      "Ink transcription",
+      "Voice agents"
+    ],
+    "accessFr": "Web / API ou applications selon produit",
+    "accessEn": "Web / API or apps depending on product",
+    "officialSources": [
+      {
+        "url": "https://www.cartesia.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Infrastructure vocale temps réel avec modèles de synthèse, reconnaissance et agents audio.",
+      "audiences": [
+        "Créateurs de contenus et équipes pédagogiques",
+        "Développeurs ou professionnels selon l'outil"
+      ],
+      "cases": [
+        "Intégrer une réponse vocale de faible latence dans un agent de service.",
+        "Tester la prononciation et comparer le rendu sur un extrait représentatif"
+      ],
+      "advantages": [
+        "Sonic synthèse vocale",
+        "Ink transcription",
+        "Agents vocaux"
+      ],
+      "limits": [
+        "Mesurer latence, coût par usage et qualité sur les langues réellement ciblées.",
+        "Une voix synthétique ne garantit ni une prononciation parfaite ni une identification fiable du locuteur."
+      ],
+      "gettingStarted": [
+        "Préparer un court texte de test et définir la langue, le public et les droits d'utilisation.",
+        "Comparer plusieurs voix, contrôler les noms propres et écouter le rendu avant diffusion."
+      ],
+      "examples": [
+        "Lis ce paragraphe de manière claire et adaptée à un public débutant.",
+        "Prépare une narration de 90 secondes et relève les termes exigeant une vérification phonétique."
+      ],
+      "pricing": "Vérifier les forfaits, crédits, droits commerciaux et tarifs API sur le site officiel : ils varient selon l'offre.",
+      "privacy": "Ne pas importer ni cloner la voix d'une personne sans son accord; vérifier conservation des fichiers, localisation et licence de sortie.",
+      "selection": [
+        "Choisir Cartesia en évaluant la qualité de la voix, les langues, les droits de diffusion, le workflow et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.cartesia.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "hume-ai": {
+    "descriptionFr": "Technologies vocales et d'analyse audio pour interfaces conversationnelles et évaluation des signaux vocaux.",
+    "descriptionEn": "Voice and audio analysis technology for conversational interfaces and evaluating audio signals.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Analyse audio",
+      "API d'évaluation",
+      "Recherche en interaction vocale"
+    ],
+    "featuresEn": [
+      "Audio analysis",
+      "Evaluation API",
+      "Voice interaction research"
+    ],
+    "accessFr": "Web / API ou applications selon produit",
+    "accessEn": "Web / API or apps depending on product",
+    "officialSources": [
+      {
+        "url": "https://www.hume.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Technologies vocales et d'analyse audio pour interfaces conversationnelles et évaluation des signaux vocaux.",
+      "audiences": [
+        "Créateurs de contenus et équipes pédagogiques",
+        "Développeurs ou professionnels selon l'outil"
+      ],
+      "cases": [
+        "Analyser des caractéristiques audio afin d'améliorer une interface vocale.",
+        "Tester la prononciation et comparer le rendu sur un extrait représentatif"
+      ],
+      "advantages": [
+        "Analyse audio",
+        "API d'évaluation",
+        "Recherche en interaction vocale"
+      ],
+      "limits": [
+        "Les inférences émotionnelles à partir de la voix sont probabilistes et ne doivent pas servir de diagnostics.",
+        "Une voix synthétique ne garantit ni une prononciation parfaite ni une identification fiable du locuteur."
+      ],
+      "gettingStarted": [
+        "Préparer un court texte de test et définir la langue, le public et les droits d'utilisation.",
+        "Comparer plusieurs voix, contrôler les noms propres et écouter le rendu avant diffusion."
+      ],
+      "examples": [
+        "Lis ce paragraphe de manière claire et adaptée à un public débutant.",
+        "Prépare une narration de 90 secondes et relève les termes exigeant une vérification phonétique."
+      ],
+      "pricing": "Vérifier les forfaits, crédits, droits commerciaux et tarifs API sur le site officiel : ils varient selon l'offre.",
+      "privacy": "Ne pas importer ni cloner la voix d'une personne sans son accord; vérifier conservation des fichiers, localisation et licence de sortie.",
+      "selection": [
+        "Choisir Hume AI en évaluant la qualité de la voix, les langues, les droits de diffusion, le workflow et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.hume.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "openai-tts": {
+    "descriptionFr": "API de synthèse vocale programmable pour convertir du texte en audio et piloter des voix.",
+    "descriptionEn": "Programmable text-to-speech API to convert text to audio with controllable voices.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "API text-to-speech",
+      "Voix prédéfinies",
+      "Intégration développeur"
+    ],
+    "featuresEn": [
+      "Text-to-speech API",
+      "Preset voices",
+      "Developer integration"
+    ],
+    "accessFr": "API / cloud",
+    "accessEn": "Web / API or apps depending on product",
+    "officialSources": [
+      {
+        "url": "https://developers.openai.com/api/docs/guides/text-to-speech",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "API de synthèse vocale programmable pour convertir du texte en audio et piloter des voix.",
+      "audiences": [
+        "Créateurs de contenus et équipes pédagogiques",
+        "Développeurs ou professionnels selon l'outil"
+      ],
+      "cases": [
+        "Ajouter une narration générée à une application ou une ressource pédagogique.",
+        "Tester la prononciation et comparer le rendu sur un extrait représentatif"
+      ],
+      "advantages": [
+        "API text-to-speech",
+        "Voix prédéfinies",
+        "Intégration développeur"
+      ],
+      "limits": [
+        "Les coûts API, les voix disponibles et les formats évoluent; signaler les voix générées lorsque nécessaire.",
+        "Une voix synthétique ne garantit ni une prononciation parfaite ni une identification fiable du locuteur."
+      ],
+      "gettingStarted": [
+        "Préparer un court texte de test et définir la langue, le public et les droits d'utilisation.",
+        "Comparer plusieurs voix, contrôler les noms propres et écouter le rendu avant diffusion."
+      ],
+      "examples": [
+        "Lis ce paragraphe de manière claire et adaptée à un public débutant.",
+        "Prépare une narration de 90 secondes et relève les termes exigeant une vérification phonétique."
+      ],
+      "pricing": "Vérifier les forfaits, crédits, droits commerciaux et tarifs API sur le site officiel : ils varient selon l'offre.",
+      "privacy": "Ne pas importer ni cloner la voix d'une personne sans son accord; vérifier conservation des fichiers, localisation et licence de sortie.",
+      "selection": [
+        "Choisir OpenAI TTS en évaluant la qualité de la voix, les langues, les droits de diffusion, le workflow et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://developers.openai.com/api/docs/guides/text-to-speech",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "azure-ai-speech": {
+    "descriptionFr": "Service cloud Microsoft de synthèse vocale neuronale et de voix personnalisées via API ou studio.",
+    "descriptionEn": "Microsoft cloud neural text-to-speech and custom voices via API or studio.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Voix neuronales",
+      "Personnalisation vocale",
+      "SDK et API"
+    ],
+    "featuresEn": [
+      "Neural voices",
+      "Custom voices",
+      "SDK and API"
+    ],
+    "accessFr": "API / cloud",
+    "accessEn": "Web / API or apps depending on product",
+    "officialSources": [
+      {
+        "url": "https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Service cloud Microsoft de synthèse vocale neuronale et de voix personnalisées via API ou studio.",
+      "audiences": [
+        "Créateurs de contenus et équipes pédagogiques",
+        "Développeurs ou professionnels selon l'outil"
+      ],
+      "cases": [
+        "Intégrer des voix multilingues à une application d'entreprise.",
+        "Tester la prononciation et comparer le rendu sur un extrait représentatif"
+      ],
+      "advantages": [
+        "Voix neuronales",
+        "Personnalisation vocale",
+        "SDK et API"
+      ],
+      "limits": [
+        "Les voix personnalisées dépendent de critères d'accès et de consentement; coût à l'usage.",
+        "Une voix synthétique ne garantit ni une prononciation parfaite ni une identification fiable du locuteur."
+      ],
+      "gettingStarted": [
+        "Préparer un court texte de test et définir la langue, le public et les droits d'utilisation.",
+        "Comparer plusieurs voix, contrôler les noms propres et écouter le rendu avant diffusion."
+      ],
+      "examples": [
+        "Lis ce paragraphe de manière claire et adaptée à un public débutant.",
+        "Prépare une narration de 90 secondes et relève les termes exigeant une vérification phonétique."
+      ],
+      "pricing": "Vérifier les forfaits, crédits, droits commerciaux et tarifs API sur le site officiel : ils varient selon l'offre.",
+      "privacy": "Ne pas importer ni cloner la voix d'une personne sans son accord; vérifier conservation des fichiers, localisation et licence de sortie.",
+      "selection": [
+        "Choisir Azure AI Speech en évaluant la qualité de la voix, les langues, les droits de diffusion, le workflow et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "amazon-polly": {
+    "descriptionFr": "Service AWS de synthèse vocale cloud avec plusieurs familles de voix pour applications et accessibilité.",
+    "descriptionEn": "AWS cloud text-to-speech with multiple voice families for apps and accessibility.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Synthèse vocale cloud",
+      "Voix standard et neuronales",
+      "Intégration AWS"
+    ],
+    "featuresEn": [
+      "Cloud speech synthesis",
+      "Standard and neural voices",
+      "AWS integration"
+    ],
+    "accessFr": "API / cloud",
+    "accessEn": "Web / API or apps depending on product",
+    "officialSources": [
+      {
+        "url": "https://docs.aws.amazon.com/polly/latest/dg/what-is.html",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Service AWS de synthèse vocale cloud avec plusieurs familles de voix pour applications et accessibilité.",
+      "audiences": [
+        "Créateurs de contenus et équipes pédagogiques",
+        "Développeurs ou professionnels selon l'outil"
+      ],
+      "cases": [
+        "Faire lire automatiquement un article dans une application.",
+        "Tester la prononciation et comparer le rendu sur un extrait représentatif"
+      ],
+      "advantages": [
+        "Synthèse vocale cloud",
+        "Voix standard et neuronales",
+        "Intégration AWS"
+      ],
+      "limits": [
+        "Tarification au volume de texte et langues variables selon la famille de voix.",
+        "Une voix synthétique ne garantit ni une prononciation parfaite ni une identification fiable du locuteur."
+      ],
+      "gettingStarted": [
+        "Préparer un court texte de test et définir la langue, le public et les droits d'utilisation.",
+        "Comparer plusieurs voix, contrôler les noms propres et écouter le rendu avant diffusion."
+      ],
+      "examples": [
+        "Lis ce paragraphe de manière claire et adaptée à un public débutant.",
+        "Prépare une narration de 90 secondes et relève les termes exigeant une vérification phonétique."
+      ],
+      "pricing": "Vérifier les forfaits, crédits, droits commerciaux et tarifs API sur le site officiel : ils varient selon l'offre.",
+      "privacy": "Ne pas importer ni cloner la voix d'une personne sans son accord; vérifier conservation des fichiers, localisation et licence de sortie.",
+      "selection": [
+        "Choisir Amazon Polly en évaluant la qualité de la voix, les langues, les droits de diffusion, le workflow et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.aws.amazon.com/polly/latest/dg/what-is.html",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  }
+}
