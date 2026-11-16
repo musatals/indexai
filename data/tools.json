@@ -2448,14 +2448,78 @@
     "secondaryCategories": [],
     "url": "https://www.semanticscholar.org",
     "kind": "Application / service",
-    "verification": "unverified",
+    "verification": "official_reviewed",
     "source": "https://allailists.com/",
     "inventoriedAt": "2026-11-15",
     "sharedUrlCount": 1,
-    "descriptionFr": "Moteur de recherche universitaire gratuit utilisant l’IA pour découvrir des publications scientifiques.",
-    "descriptionEn": "Free AI-powered academic paper discovery service.",
+    "descriptionFr": "Recherche scientifique assistée par IA et recommandations bibliographiques.",
+    "descriptionEn": "Recherche scientifique assistée par IA et recommandations bibliographiques.",
     "descriptionStatus": "editorial",
-    "editorialDate": "2026-11-15"
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Recherche d’articles",
+      "Fils de publications personnalisés",
+      "Alertes auteurs et citations"
+    ],
+    "featuresEn": [
+      "Paper search",
+      "Personalized research feeds",
+      "Author and citation alerts"
+    ],
+    "accessFr": "Web",
+    "accessEn": "Web",
+    "officialSources": [
+      {
+        "url": "https://webflow.semanticscholar.org/faq",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Recherche scientifique assistée par IA et recommandations bibliographiques.",
+      "audiences": [
+        "Étudiants et doctorants",
+        "Enseignants, bibliothécaires et chercheurs",
+        "Équipes de recherche et professionnels de la documentation"
+      ],
+      "cases": [
+        "Utiliser Semantic Scholar pour explorer une question de recherche et organiser les résultats",
+        "Confronter les références trouvées à des articles originaux",
+        "Documenter une bibliographie et préparer une synthèse critique"
+      ],
+      "advantages": [
+        "Recherche d’articles",
+        "Fils de publications personnalisés",
+        "Alertes auteurs et citations"
+      ],
+      "limits": [
+        "Couverture bibliographique non exhaustive.",
+        "Vérifier les publications originales, leurs dates, leur méthode et leur statut d’évaluation."
+      ],
+      "gettingStarted": [
+        "Consulter la documentation de Semantic Scholar, choisir un sujet délimité ou un article de départ.",
+        "Contrôler les références par DOI, date, auteurs et texte original avant toute citation."
+      ],
+      "examples": [
+        "Recherche les publications de référence sur ce sujet et identifie les lacunes.",
+        "Compare les méthodes, résultats et limites de trois articles vérifiés."
+      ],
+      "pricing": "Gratuit ; conditions distinctes pour l’API.",
+      "privacy": "Consulter les conditions de traitement et de conservation avant de téléverser des manuscrits non publiés ou des données de recherche sensibles.",
+      "selection": [
+        "Utiliser Semantic Scholar pour recherche scientifique assistée par ia et recommandations bibliographiques. ; le compléter par une vérification bibliographique indépendante."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://webflow.semanticscholar.org/faq",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    }
   },
   {
     "id": "AI-0033",
@@ -2530,14 +2594,88 @@
     "secondaryCategories": [],
     "url": "https://www.connectedpapers.com",
     "kind": "Application / service",
-    "verification": "unverified",
+    "verification": "official_reviewed",
     "source": "https://allailists.com/",
     "inventoriedAt": "2026-11-15",
     "sharedUrlCount": 1,
-    "descriptionFr": "Visualisation de réseaux d’articles scientifiques à partir de leurs proximités bibliographiques.",
-    "descriptionEn": "Visualization of related academic papers and bibliographic connections.",
+    "descriptionFr": "Graphes de proximité bibliographique fondés sur la co-citation et les références communes.",
+    "descriptionEn": "Graphes de proximité bibliographique fondés sur la co-citation et les références communes.",
     "descriptionStatus": "editorial",
-    "editorialDate": "2026-11-15"
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Graphes de similarité",
+      "Travaux antérieurs et dérivés",
+      "Exploration visuelle"
+    ],
+    "featuresEn": [
+      "Similarity graphs",
+      "Prior and derivative works",
+      "Visual exploration"
+    ],
+    "accessFr": "Web",
+    "accessEn": "Web",
+    "officialSources": [
+      {
+        "url": "https://www.connectedpapers.com/about",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://www.connectedpapers.com/pricing",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Graphes de proximité bibliographique fondés sur la co-citation et les références communes.",
+      "audiences": [
+        "Étudiants et doctorants",
+        "Enseignants, bibliothécaires et chercheurs",
+        "Équipes de recherche et professionnels de la documentation"
+      ],
+      "cases": [
+        "Utiliser Connected Papers pour explorer une question de recherche et organiser les résultats",
+        "Confronter les références trouvées à des articles originaux",
+        "Documenter une bibliographie et préparer une synthèse critique"
+      ],
+      "advantages": [
+        "Graphes de similarité",
+        "Travaux antérieurs et dérivés",
+        "Exploration visuelle"
+      ],
+      "limits": [
+        "Ce n’est pas un arbre de citations ni une recherche exhaustive.",
+        "Vérifier les publications originales, leurs dates, leur méthode et leur statut d’évaluation."
+      ],
+      "gettingStarted": [
+        "Consulter la documentation de Connected Papers, choisir un sujet délimité ou un article de départ.",
+        "Contrôler les références par DOI, date, auteurs et texte original avant toute citation."
+      ],
+      "examples": [
+        "Recherche les publications de référence sur ce sujet et identifie les lacunes.",
+        "Compare les méthodes, résultats et limites de trois articles vérifiés."
+      ],
+      "pricing": "Cinq graphes mensuels dans l’offre gratuite ; forfaits payants.",
+      "privacy": "Consulter les conditions de traitement et de conservation avant de téléverser des manuscrits non publiés ou des données de recherche sensibles.",
+      "selection": [
+        "Utiliser Connected Papers pour graphes de proximité bibliographique fondés sur la co-citation et les références communes. ; le compléter par une vérification bibliographique indépendante."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.connectedpapers.com/about",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.connectedpapers.com/pricing",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    }
   },
   {
     "id": "AI-0035",
@@ -2548,14 +2686,88 @@
     "secondaryCategories": [],
     "url": "https://www.litmaps.com",
     "kind": "Application / service",
-    "verification": "unverified",
+    "verification": "official_reviewed",
     "source": "https://allailists.com/",
     "inventoriedAt": "2026-11-15",
     "sharedUrlCount": 1,
-    "descriptionFr": "Outil de cartographie et de suivi des publications scientifiques pour les revues de littérature.",
-    "descriptionEn": "Research mapping and literature monitoring tool.",
+    "descriptionFr": "Cartographie et veille de publications scientifiques à partir d’articles de référence.",
+    "descriptionEn": "Cartographie et veille de publications scientifiques à partir d’articles de référence.",
     "descriptionStatus": "editorial",
-    "editorialDate": "2026-11-15"
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Cartes de littérature",
+      "Découverte d’articles liés",
+      "Alertes de publications"
+    ],
+    "featuresEn": [
+      "Literature mapping",
+      "Related-paper discovery",
+      "Publication alerts"
+    ],
+    "accessFr": "Web",
+    "accessEn": "Web",
+    "officialSources": [
+      {
+        "url": "https://docs.litmaps.com/en/articles/9092911-search-for-articles-with-litmaps",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://docs.litmaps.com/en/articles/9126249-monitor-get-alerts-for-important-research",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Cartographie et veille de publications scientifiques à partir d’articles de référence.",
+      "audiences": [
+        "Étudiants et doctorants",
+        "Enseignants, bibliothécaires et chercheurs",
+        "Équipes de recherche et professionnels de la documentation"
+      ],
+      "cases": [
+        "Utiliser Litmaps pour explorer une question de recherche et organiser les résultats",
+        "Confronter les références trouvées à des articles originaux",
+        "Documenter une bibliographie et préparer une synthèse critique"
+      ],
+      "advantages": [
+        "Cartes de littérature",
+        "Découverte d’articles liés",
+        "Alertes de publications"
+      ],
+      "limits": [
+        "La recherche repose sur des métadonnées et peut manquer des travaux.",
+        "Vérifier les publications originales, leurs dates, leur méthode et leur statut d’évaluation."
+      ],
+      "gettingStarted": [
+        "Consulter la documentation de Litmaps, choisir un sujet délimité ou un article de départ.",
+        "Contrôler les références par DOI, date, auteurs et texte original avant toute citation."
+      ],
+      "examples": [
+        "Recherche les publications de référence sur ce sujet et identifie les lacunes.",
+        "Compare les méthodes, résultats et limites de trois articles vérifiés."
+      ],
+      "pricing": "Monitor disponible en gratuit ; alertes personnalisables en Pro.",
+      "privacy": "Consulter les conditions de traitement et de conservation avant de téléverser des manuscrits non publiés ou des données de recherche sensibles.",
+      "selection": [
+        "Utiliser Litmaps pour cartographie et veille de publications scientifiques à partir d’articles de référence. ; le compléter par une vérification bibliographique indépendante."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.litmaps.com/en/articles/9092911-search-for-articles-with-litmaps",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://docs.litmaps.com/en/articles/9126249-monitor-get-alerts-for-important-research",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    }
   },
   {
     "id": "AI-0036",
@@ -2566,10 +2778,88 @@
     "secondaryCategories": [],
     "url": "https://inciteful.xyz",
     "kind": "Application / service",
-    "verification": "unverified",
+    "verification": "official_reviewed",
     "source": "https://allailists.com/",
     "inventoriedAt": "2026-11-15",
-    "sharedUrlCount": 1
+    "sharedUrlCount": 1,
+    "descriptionFr": "Découverte de publications et de connexions par analyse de réseaux de citations.",
+    "descriptionEn": "Découverte de publications et de connexions par analyse de réseaux de citations.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Réseaux Paper Discovery",
+      "Literature Connector",
+      "Filtres bibliographiques"
+    ],
+    "featuresEn": [
+      "Paper Discovery network",
+      "Literature Connector",
+      "Bibliographic filters"
+    ],
+    "accessFr": "Web",
+    "accessEn": "Web",
+    "officialSources": [
+      {
+        "url": "https://incitefulmed.com/academic/help/power-users",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://github.com/inciteful-xyz/inciteful-academic-docs/blob/master/index.md",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Découverte de publications et de connexions par analyse de réseaux de citations.",
+      "audiences": [
+        "Étudiants et doctorants",
+        "Enseignants, bibliothécaires et chercheurs",
+        "Équipes de recherche et professionnels de la documentation"
+      ],
+      "cases": [
+        "Utiliser Inciteful pour explorer une question de recherche et organiser les résultats",
+        "Confronter les références trouvées à des articles originaux",
+        "Documenter une bibliographie et préparer une synthèse critique"
+      ],
+      "advantages": [
+        "Réseaux Paper Discovery",
+        "Literature Connector",
+        "Filtres bibliographiques"
+      ],
+      "limits": [
+        "La centralité bibliographique n’est pas une mesure de qualité scientifique.",
+        "Vérifier les publications originales, leurs dates, leur méthode et leur statut d’évaluation."
+      ],
+      "gettingStarted": [
+        "Consulter la documentation de Inciteful, choisir un sujet délimité ou un article de départ.",
+        "Contrôler les références par DOI, date, auteurs et texte original avant toute citation."
+      ],
+      "examples": [
+        "Recherche les publications de référence sur ce sujet et identifie les lacunes.",
+        "Compare les méthodes, résultats et limites de trois articles vérifiés."
+      ],
+      "pricing": "Modalités tarifaires actuelles à confirmer.",
+      "privacy": "Consulter les conditions de traitement et de conservation avant de téléverser des manuscrits non publiés ou des données de recherche sensibles.",
+      "selection": [
+        "Utiliser Inciteful pour découverte de publications et de connexions par analyse de réseaux de citations. ; le compléter par une vérification bibliographique indépendante."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://incitefulmed.com/academic/help/power-users",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://github.com/inciteful-xyz/inciteful-academic-docs/blob/master/index.md",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    }
   },
   {
     "id": "AI-0037",
@@ -2580,14 +2870,88 @@
     "secondaryCategories": [],
     "url": "https://typeset.io",
     "kind": "Application / service",
-    "verification": "unverified",
+    "verification": "official_reviewed",
     "source": "https://allailists.com/",
     "inventoriedAt": "2026-11-15",
     "sharedUrlCount": 1,
-    "descriptionFr": "Plateforme d’assistance à la lecture et à la recherche d’articles scientifiques, proposant des explications contextualisées.",
-    "descriptionEn": "Platform for reading and researching academic papers with contextual explanations.",
+    "descriptionFr": "Recherche, lecture assistée et comparaison d’articles pour les revues de littérature.",
+    "descriptionEn": "Recherche, lecture assistée et comparaison d’articles pour les revues de littérature.",
     "descriptionStatus": "editorial",
-    "editorialDate": "2026-11-15"
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Recherche d’articles",
+      "Questions sur publications",
+      "Tableaux de synthèse"
+    ],
+    "featuresEn": [
+      "Paper search",
+      "Paper question-answering",
+      "Evidence tables"
+    ],
+    "accessFr": "Web",
+    "accessEn": "Web",
+    "officialSources": [
+      {
+        "url": "https://scispace.com/literature-review",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://scispace.com/help/en/collections/7177367-literature-review",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Recherche, lecture assistée et comparaison d’articles pour les revues de littérature.",
+      "audiences": [
+        "Étudiants et doctorants",
+        "Enseignants, bibliothécaires et chercheurs",
+        "Équipes de recherche et professionnels de la documentation"
+      ],
+      "cases": [
+        "Utiliser SciSpace pour explorer une question de recherche et organiser les résultats",
+        "Confronter les références trouvées à des articles originaux",
+        "Documenter une bibliographie et préparer une synthèse critique"
+      ],
+      "advantages": [
+        "Recherche d’articles",
+        "Questions sur publications",
+        "Tableaux de synthèse"
+      ],
+      "limits": [
+        "Les résumés peuvent gommer limites et contradictions des études.",
+        "Vérifier les publications originales, leurs dates, leur méthode et leur statut d’évaluation."
+      ],
+      "gettingStarted": [
+        "Consulter la documentation de SciSpace, choisir un sujet délimité ou un article de départ.",
+        "Contrôler les références par DOI, date, auteurs et texte original avant toute citation."
+      ],
+      "examples": [
+        "Recherche les publications de référence sur ce sujet et identifie les lacunes.",
+        "Compare les méthodes, résultats et limites de trois articles vérifiés."
+      ],
+      "pricing": "Version gratuite limitée ; abonnements payants.",
+      "privacy": "Consulter les conditions de traitement et de conservation avant de téléverser des manuscrits non publiés ou des données de recherche sensibles.",
+      "selection": [
+        "Utiliser SciSpace pour recherche, lecture assistée et comparaison d’articles pour les revues de littérature. ; le compléter par une vérification bibliographique indépendante."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://scispace.com/literature-review",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://scispace.com/help/en/collections/7177367-literature-review",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    }
   },
   {
     "id": "AI-0038",
@@ -2598,10 +2962,88 @@
     "secondaryCategories": [],
     "url": "https://www.scholarcy.com",
     "kind": "Application / service",
-    "verification": "unverified",
+    "verification": "official_reviewed",
     "source": "https://allailists.com/",
     "inventoriedAt": "2026-11-15",
-    "sharedUrlCount": 1
+    "sharedUrlCount": 1,
+    "descriptionFr": "Synthèse de documents scientifiques en fiches de lecture interactives.",
+    "descriptionEn": "Synthèse de documents scientifiques en fiches de lecture interactives.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Fiches interactives",
+      "Annotations de lecture",
+      "Import et export"
+    ],
+    "featuresEn": [
+      "Interactive flashcards",
+      "Reading highlights",
+      "Import and export"
+    ],
+    "accessFr": "Web",
+    "accessEn": "Web",
+    "officialSources": [
+      {
+        "url": "https://www.scholarcy.com/faq",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://help.scholarcy.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Synthèse de documents scientifiques en fiches de lecture interactives.",
+      "audiences": [
+        "Étudiants et doctorants",
+        "Enseignants, bibliothécaires et chercheurs",
+        "Équipes de recherche et professionnels de la documentation"
+      ],
+      "cases": [
+        "Utiliser Scholarcy pour explorer une question de recherche et organiser les résultats",
+        "Confronter les références trouvées à des articles originaux",
+        "Documenter une bibliographie et préparer une synthèse critique"
+      ],
+      "advantages": [
+        "Fiches interactives",
+        "Annotations de lecture",
+        "Import et export"
+      ],
+      "limits": [
+        "Ne rédige pas une revue de littérature complète à la place du chercheur.",
+        "Vérifier les publications originales, leurs dates, leur méthode et leur statut d’évaluation."
+      ],
+      "gettingStarted": [
+        "Consulter la documentation de Scholarcy, choisir un sujet délimité ou un article de départ.",
+        "Contrôler les références par DOI, date, auteurs et texte original avant toute citation."
+      ],
+      "examples": [
+        "Recherche les publications de référence sur ce sujet et identifie les lacunes.",
+        "Compare les méthodes, résultats et limites de trois articles vérifiés."
+      ],
+      "pricing": "Fichiers plafonnés à 11 Mo en gratuit et 50 Mo en premium selon la FAQ.",
+      "privacy": "Consulter les conditions de traitement et de conservation avant de téléverser des manuscrits non publiés ou des données de recherche sensibles.",
+      "selection": [
+        "Utiliser Scholarcy pour synthèse de documents scientifiques en fiches de lecture interactives. ; le compléter par une vérification bibliographique indépendante."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.scholarcy.com/faq",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://help.scholarcy.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    }
   },
   {
     "id": "AI-0039",
@@ -2612,10 +3054,78 @@
     "secondaryCategories": [],
     "url": "https://www.explainpaper.com",
     "kind": "Application / service",
-    "verification": "unverified",
+    "verification": "official_reviewed",
     "source": "https://allailists.com/",
     "inventoriedAt": "2026-11-15",
-    "sharedUrlCount": 1
+    "sharedUrlCount": 1,
+    "descriptionFr": "Explications contextualisées de passages complexes de publications scientifiques.",
+    "descriptionEn": "Explications contextualisées de passages complexes de publications scientifiques.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Explications sur sélection",
+      "Dialogue avec un PDF",
+      "Synthèse de résultats"
+    ],
+    "featuresEn": [
+      "Highlighted text explanations",
+      "Paper chat",
+      "Key findings"
+    ],
+    "accessFr": "Web",
+    "accessEn": "Web",
+    "officialSources": [
+      {
+        "url": "https://www.explainpaper.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Explications contextualisées de passages complexes de publications scientifiques.",
+      "audiences": [
+        "Étudiants et doctorants",
+        "Enseignants, bibliothécaires et chercheurs",
+        "Équipes de recherche et professionnels de la documentation"
+      ],
+      "cases": [
+        "Utiliser Explainpaper pour explorer une question de recherche et organiser les résultats",
+        "Confronter les références trouvées à des articles originaux",
+        "Documenter une bibliographie et préparer une synthèse critique"
+      ],
+      "advantages": [
+        "Explications sur sélection",
+        "Dialogue avec un PDF",
+        "Synthèse de résultats"
+      ],
+      "limits": [
+        "Les explications simplifiées peuvent masquer des nuances essentielles.",
+        "Vérifier les publications originales, leurs dates, leur méthode et leur statut d’évaluation."
+      ],
+      "gettingStarted": [
+        "Consulter la documentation de Explainpaper, choisir un sujet délimité ou un article de départ.",
+        "Contrôler les références par DOI, date, auteurs et texte original avant toute citation."
+      ],
+      "examples": [
+        "Recherche les publications de référence sur ce sujet et identifie les lacunes.",
+        "Compare les méthodes, résultats et limites de trois articles vérifiés."
+      ],
+      "pricing": "Tarification et limites à vérifier sur le site.",
+      "privacy": "Consulter les conditions de traitement et de conservation avant de téléverser des manuscrits non publiés ou des données de recherche sensibles.",
+      "selection": [
+        "Utiliser Explainpaper pour explications contextualisées de passages complexes de publications scientifiques. ; le compléter par une vérification bibliographique indépendante."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.explainpaper.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    }
   },
   {
     "id": "AI-0040",
@@ -2626,10 +3136,78 @@
     "secondaryCategories": [],
     "url": "https://www.undermind.ai",
     "kind": "Application / service",
-    "verification": "unverified",
+    "verification": "official_reviewed",
     "source": "https://allailists.com/",
     "inventoriedAt": "2026-11-15",
-    "sharedUrlCount": 1
+    "sharedUrlCount": 1,
+    "descriptionFr": "Recherche scientifique approfondie par agent IA, avec lecture des sources et rapports.",
+    "descriptionEn": "Recherche scientifique approfondie par agent IA, avec lecture des sources et rapports.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Recherche documentaire approfondie",
+      "Lecture de PDF",
+      "Rapports sourcés"
+    ],
+    "featuresEn": [
+      "Deep literature search",
+      "PDF reading",
+      "Sourced reports"
+    ],
+    "accessFr": "Web",
+    "accessEn": "Web",
+    "officialSources": [
+      {
+        "url": "https://www.undermind.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Recherche scientifique approfondie par agent IA, avec lecture des sources et rapports.",
+      "audiences": [
+        "Étudiants et doctorants",
+        "Enseignants, bibliothécaires et chercheurs",
+        "Équipes de recherche et professionnels de la documentation"
+      ],
+      "cases": [
+        "Utiliser Undermind pour explorer une question de recherche et organiser les résultats",
+        "Confronter les références trouvées à des articles originaux",
+        "Documenter une bibliographie et préparer une synthèse critique"
+      ],
+      "advantages": [
+        "Recherche documentaire approfondie",
+        "Lecture de PDF",
+        "Rapports sourcés"
+      ],
+      "limits": [
+        "Les benchmarks publiés par l’éditeur ne prouvent pas une supériorité indépendante.",
+        "Vérifier les publications originales, leurs dates, leur méthode et leur statut d’évaluation."
+      ],
+      "gettingStarted": [
+        "Consulter la documentation de Undermind, choisir un sujet délimité ou un article de départ.",
+        "Contrôler les références par DOI, date, auteurs et texte original avant toute citation."
+      ],
+      "examples": [
+        "Recherche les publications de référence sur ce sujet et identifie les lacunes.",
+        "Compare les méthodes, résultats et limites de trois articles vérifiés."
+      ],
+      "pricing": "Inscription gratuite annoncée ; modalités des offres à confirmer.",
+      "privacy": "Consulter les conditions de traitement et de conservation avant de téléverser des manuscrits non publiés ou des données de recherche sensibles.",
+      "selection": [
+        "Utiliser Undermind pour recherche scientifique approfondie par agent ia, avec lecture des sources et rapports. ; le compléter par une vérification bibliographique indépendante."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.undermind.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    }
   },
   {
     "id": "AI-0041",
@@ -2640,10 +3218,88 @@
     "secondaryCategories": [],
     "url": "https://paperpal.com",
     "kind": "Application / service",
-    "verification": "unverified",
+    "verification": "official_reviewed",
     "source": "https://allailists.com/",
     "inventoriedAt": "2026-11-15",
-    "sharedUrlCount": 1
+    "sharedUrlCount": 1,
+    "descriptionFr": "Assistance à la rédaction académique, aux corrections et aux contrôles avant soumission.",
+    "descriptionEn": "Assistance à la rédaction académique, aux corrections et aux contrôles avant soumission.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Correction académique",
+      "Paraphrase et traduction",
+      "Contrôle de références"
+    ],
+    "featuresEn": [
+      "Academic editing",
+      "Paraphrasing and translation",
+      "Reference checks"
+    ],
+    "accessFr": "Web",
+    "accessEn": "Web",
+    "officialSources": [
+      {
+        "url": "https://support.paperpal.com/support/solutions/articles/3000126441-how-does-paperpal-work-",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://paperpal.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Assistance à la rédaction académique, aux corrections et aux contrôles avant soumission.",
+      "audiences": [
+        "Étudiants et doctorants",
+        "Enseignants, bibliothécaires et chercheurs",
+        "Équipes de recherche et professionnels de la documentation"
+      ],
+      "cases": [
+        "Utiliser Paperpal pour explorer une question de recherche et organiser les résultats",
+        "Confronter les références trouvées à des articles originaux",
+        "Documenter une bibliographie et préparer une synthèse critique"
+      ],
+      "advantages": [
+        "Correction académique",
+        "Paraphrase et traduction",
+        "Contrôle de références"
+      ],
+      "limits": [
+        "La correction stylistique ne garantit pas la validité scientifique.",
+        "Vérifier les publications originales, leurs dates, leur méthode et leur statut d’évaluation."
+      ],
+      "gettingStarted": [
+        "Consulter la documentation de Paperpal, choisir un sujet délimité ou un article de départ.",
+        "Contrôler les références par DOI, date, auteurs et texte original avant toute citation."
+      ],
+      "examples": [
+        "Recherche les publications de référence sur ce sujet et identifie les lacunes.",
+        "Compare les méthodes, résultats et limites de trois articles vérifiés."
+      ],
+      "pricing": "Offre gratuite limitée ; abonnements payants.",
+      "privacy": "Consulter les conditions de traitement et de conservation avant de téléverser des manuscrits non publiés ou des données de recherche sensibles.",
+      "selection": [
+        "Utiliser Paperpal pour assistance à la rédaction académique, aux corrections et aux contrôles avant soumission. ; le compléter par une vérification bibliographique indépendante."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://support.paperpal.com/support/solutions/articles/3000126441-how-does-paperpal-work-",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://paperpal.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    }
   },
   {
     "id": "AI-0042",
@@ -2654,10 +3310,78 @@
     "secondaryCategories": [],
     "url": "https://jenni.ai",
     "kind": "Application / service",
-    "verification": "unverified",
+    "verification": "official_reviewed",
     "source": "https://allailists.com/",
     "inventoriedAt": "2026-11-15",
-    "sharedUrlCount": 1
+    "sharedUrlCount": 1,
+    "descriptionFr": "Éditeur de rédaction académique avec autocomplétion, citations et bibliothèque documentaire.",
+    "descriptionEn": "Éditeur de rédaction académique avec autocomplétion, citations et bibliothèque documentaire.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Autocomplétion IA",
+      "Citations et bibliographie",
+      "Bibliothèque PDF"
+    ],
+    "featuresEn": [
+      "AI autocomplete",
+      "Citation management",
+      "PDF library"
+    ],
+    "accessFr": "Web",
+    "accessEn": "Web",
+    "officialSources": [
+      {
+        "url": "https://docs.jenni.ai/docs/getting-started/introduction/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Éditeur de rédaction académique avec autocomplétion, citations et bibliothèque documentaire.",
+      "audiences": [
+        "Étudiants et doctorants",
+        "Enseignants, bibliothécaires et chercheurs",
+        "Équipes de recherche et professionnels de la documentation"
+      ],
+      "cases": [
+        "Utiliser Jenni AI pour explorer une question de recherche et organiser les résultats",
+        "Confronter les références trouvées à des articles originaux",
+        "Documenter une bibliographie et préparer une synthèse critique"
+      ],
+      "advantages": [
+        "Autocomplétion IA",
+        "Citations et bibliographie",
+        "Bibliothèque PDF"
+      ],
+      "limits": [
+        "Toutes les citations suggérées doivent être vérifiées.",
+        "Vérifier les publications originales, leurs dates, leur méthode et leur statut d’évaluation."
+      ],
+      "gettingStarted": [
+        "Consulter la documentation de Jenni AI, choisir un sujet délimité ou un article de départ.",
+        "Contrôler les références par DOI, date, auteurs et texte original avant toute citation."
+      ],
+      "examples": [
+        "Recherche les publications de référence sur ce sujet et identifie les lacunes.",
+        "Compare les méthodes, résultats et limites de trois articles vérifiés."
+      ],
+      "pricing": "Tarification et quotas à consulter sur le site.",
+      "privacy": "Consulter les conditions de traitement et de conservation avant de téléverser des manuscrits non publiés ou des données de recherche sensibles.",
+      "selection": [
+        "Utiliser Jenni AI pour éditeur de rédaction académique avec autocomplétion, citations et bibliothèque documentaire. ; le compléter par une vérification bibliographique indépendante."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.jenni.ai/docs/getting-started/introduction/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    }
   },
   {
     "id": "AI-0043",
@@ -2668,10 +3392,78 @@
     "secondaryCategories": [],
     "url": "https://iris.ai",
     "kind": "Application / service",
-    "verification": "unverified",
+    "verification": "official_reviewed",
     "source": "https://allailists.com/",
     "inventoriedAt": "2026-11-15",
-    "sharedUrlCount": 1
+    "sharedUrlCount": 1,
+    "descriptionFr": "Espace de recherche et d’extraction d’informations dans les publications scientifiques.",
+    "descriptionEn": "Espace de recherche et d’extraction d’informations dans les publications scientifiques.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Exploration et filtrage",
+      "Synthèse de corpus",
+      "Extraction de tableaux"
+    ],
+    "featuresEn": [
+      "Paper exploration",
+      "Collection summarization",
+      "Table extraction"
+    ],
+    "accessFr": "Web",
+    "accessEn": "Web",
+    "officialSources": [
+      {
+        "url": "https://iris.ai/help-center/rspace/training-resources",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Espace de recherche et d’extraction d’informations dans les publications scientifiques.",
+      "audiences": [
+        "Étudiants et doctorants",
+        "Enseignants, bibliothécaires et chercheurs",
+        "Équipes de recherche et professionnels de la documentation"
+      ],
+      "cases": [
+        "Utiliser Iris.ai pour explorer une question de recherche et organiser les résultats",
+        "Confronter les références trouvées à des articles originaux",
+        "Documenter une bibliographie et préparer une synthèse critique"
+      ],
+      "advantages": [
+        "Exploration et filtrage",
+        "Synthèse de corpus",
+        "Extraction de tableaux"
+      ],
+      "limits": [
+        "La vérification humaine des extractions quantitatives est nécessaire.",
+        "Vérifier les publications originales, leurs dates, leur méthode et leur statut d’évaluation."
+      ],
+      "gettingStarted": [
+        "Consulter la documentation de Iris.ai, choisir un sujet délimité ou un article de départ.",
+        "Contrôler les références par DOI, date, auteurs et texte original avant toute citation."
+      ],
+      "examples": [
+        "Recherche les publications de référence sur ce sujet et identifie les lacunes.",
+        "Compare les méthodes, résultats et limites de trois articles vérifiés."
+      ],
+      "pricing": "Tarification et modules à vérifier auprès de l’éditeur.",
+      "privacy": "Consulter les conditions de traitement et de conservation avant de téléverser des manuscrits non publiés ou des données de recherche sensibles.",
+      "selection": [
+        "Utiliser Iris.ai pour espace de recherche et d’extraction d’informations dans les publications scientifiques. ; le compléter par une vérification bibliographique indépendante."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://iris.ai/help-center/rspace/training-resources",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    }
   },
   {
     "id": "AI-0044",
@@ -2682,10 +3474,88 @@
     "secondaryCategories": [],
     "url": "https://www.dimensions.ai",
     "kind": "Application / service",
-    "verification": "unverified",
+    "verification": "official_reviewed",
     "source": "https://allailists.com/",
     "inventoriedAt": "2026-11-15",
-    "sharedUrlCount": 1
+    "sharedUrlCount": 1,
+    "descriptionFr": "Base de recherche reliant publications, brevets, financements, essais et indicateurs.",
+    "descriptionEn": "Base de recherche reliant publications, brevets, financements, essais et indicateurs.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Bibliométrie et recherche",
+      "Brevets et financements",
+      "Indicateurs d’impact"
+    ],
+    "featuresEn": [
+      "Bibliometrics and search",
+      "Patents and grants",
+      "Impact indicators"
+    ],
+    "accessFr": "Web",
+    "accessEn": "Web",
+    "officialSources": [
+      {
+        "url": "https://www.dimensions.ai/dimensions-data/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://www.dimensions.ai/products/all-products/dimensions-free-version/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Base de recherche reliant publications, brevets, financements, essais et indicateurs.",
+      "audiences": [
+        "Étudiants et doctorants",
+        "Enseignants, bibliothécaires et chercheurs",
+        "Équipes de recherche et professionnels de la documentation"
+      ],
+      "cases": [
+        "Utiliser Dimensions pour explorer une question de recherche et organiser les résultats",
+        "Confronter les références trouvées à des articles originaux",
+        "Documenter une bibliographie et préparer une synthèse critique"
+      ],
+      "advantages": [
+        "Bibliométrie et recherche",
+        "Brevets et financements",
+        "Indicateurs d’impact"
+      ],
+      "limits": [
+        "Couverture et métriques variables selon l’accès ; éviter de réduire la qualité aux citations.",
+        "Vérifier les publications originales, leurs dates, leur méthode et leur statut d’évaluation."
+      ],
+      "gettingStarted": [
+        "Consulter la documentation de Dimensions, choisir un sujet délimité ou un article de départ.",
+        "Contrôler les références par DOI, date, auteurs et texte original avant toute citation."
+      ],
+      "examples": [
+        "Recherche les publications de référence sur ce sujet et identifie les lacunes.",
+        "Compare les méthodes, résultats et limites de trois articles vérifiés."
+      ],
+      "pricing": "Version gratuite personnelle non commerciale ; offres institutionnelles.",
+      "privacy": "Consulter les conditions de traitement et de conservation avant de téléverser des manuscrits non publiés ou des données de recherche sensibles.",
+      "selection": [
+        "Utiliser Dimensions pour base de recherche reliant publications, brevets, financements, essais et indicateurs. ; le compléter par une vérification bibliographique indépendante."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.dimensions.ai/dimensions-data/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.dimensions.ai/products/all-products/dimensions-free-version/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    }
   },
   {
     "id": "AI-0045",
@@ -2833,14 +3703,88 @@
     "secondaryCategories": [],
     "url": "https://www.zotero.org",
     "kind": "Application / service",
-    "verification": "unverified",
+    "verification": "official_reviewed",
     "source": "https://allailists.com/",
     "inventoriedAt": "2026-11-15",
     "sharedUrlCount": 1,
-    "descriptionFr": "Logiciel libre de gestion bibliographique pour collecter, organiser et citer des sources scientifiques.",
-    "descriptionEn": "Open-source reference manager to collect, organize and cite research sources.",
+    "descriptionFr": "Gestionnaire bibliographique libre de collecte, annotation, organisation et citation.",
+    "descriptionEn": "Gestionnaire bibliographique libre de collecte, annotation, organisation et citation.",
     "descriptionStatus": "editorial",
-    "editorialDate": "2026-11-15"
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Collecte de références",
+      "Gestion et annotation de PDF",
+      "Bibliographies automatiques"
+    ],
+    "featuresEn": [
+      "Reference capture",
+      "PDF management and notes",
+      "Automatic bibliographies"
+    ],
+    "accessFr": "Applications et navigateur",
+    "accessEn": "Apps and browser",
+    "officialSources": [
+      {
+        "url": "https://www.zotero.org/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://www.zotero.org/support/quick_start_guide",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Gestionnaire bibliographique libre de collecte, annotation, organisation et citation.",
+      "audiences": [
+        "Étudiants et doctorants",
+        "Enseignants, bibliothécaires et chercheurs",
+        "Équipes de recherche et professionnels de la documentation"
+      ],
+      "cases": [
+        "Utiliser Zotero pour explorer une question de recherche et organiser les résultats",
+        "Confronter les références trouvées à des articles originaux",
+        "Documenter une bibliographie et préparer une synthèse critique"
+      ],
+      "advantages": [
+        "Collecte de références",
+        "Gestion et annotation de PDF",
+        "Bibliographies automatiques"
+      ],
+      "limits": [
+        "Ce n’est pas un outil de synthèse IA ; vérifier les métadonnées importées.",
+        "Vérifier les publications originales, leurs dates, leur méthode et leur statut d’évaluation."
+      ],
+      "gettingStarted": [
+        "Consulter la documentation de Zotero, choisir un sujet délimité ou un article de départ.",
+        "Contrôler les références par DOI, date, auteurs et texte original avant toute citation."
+      ],
+      "examples": [
+        "Recherche les publications de référence sur ce sujet et identifie les lacunes.",
+        "Compare les méthodes, résultats et limites de trois articles vérifiés."
+      ],
+      "pricing": "Logiciel gratuit ; stockage et services supplémentaires selon conditions.",
+      "privacy": "Consulter les conditions de traitement et de conservation avant de téléverser des manuscrits non publiés ou des données de recherche sensibles.",
+      "selection": [
+        "Utiliser Zotero pour gestionnaire bibliographique libre de collecte, annotation, organisation et citation. ; le compléter par une vérification bibliographique indépendante."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.zotero.org/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.zotero.org/support/quick_start_guide",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    }
   },
   {
     "id": "AI-0048",
