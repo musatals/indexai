@@ -6932,5 +6932,690 @@
         "reviewedAt": "2026-11-16"
       }
     ]
+  },
+  "remove.bg": {
+    "headline": "Détourage automatique et suppression d’arrière-plan.",
+    "audiences": [
+      "Photographes et graphistes",
+      "Créateurs de contenus visuels",
+      "Équipes de communication et e-commerce"
+    ],
+    "cases": [
+      "Retoucher une copie de travail en conservant l’original",
+      "Optimiser un visuel pour un support numérique ou imprimé",
+      "Comparer le résultat généré à l’image source"
+    ],
+    "advantages": [
+      "Suppression de fond",
+      "Détourage produit",
+      "API"
+    ],
+    "limits": [
+      "Les contours complexes nécessitent parfois des retouches.",
+      "Une retouche IA peut générer des détails non authentiques."
+    ],
+    "gettingStarted": [
+      "Consulter les formats et conditions sur le site officiel.",
+      "Tester sur une copie d’image, contrôler les contours et les artefacts à 100 %."
+    ],
+    "examples": [
+      "Améliore la netteté sans altérer les caractéristiques du sujet.",
+      "Supprime les distractions sans inventer de nouveaux éléments visibles."
+    ],
+    "pricing": "Consulter les tarifs, crédits ou licences de la version utilisée ; montant non vérifié.",
+    "privacy": "Éviter de transmettre des photos privées sans vérifier les conditions de traitement ; envisager une solution locale pour les images sensibles.",
+    "selection": [
+      "Choisir remove.bg lorsque ses fonctions correspondent à la tâche : détourage, retouche, restauration ou agrandissement."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://www.remove.bg/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Topaz Photo": {
+    "headline": "Logiciel de débruitage, netteté et agrandissement de photos.",
+    "audiences": [
+      "Photographes et graphistes",
+      "Créateurs de contenus visuels",
+      "Équipes de communication et e-commerce"
+    ],
+    "cases": [
+      "Retoucher une copie de travail en conservant l’original",
+      "Optimiser un visuel pour un support numérique ou imprimé",
+      "Comparer le résultat généré à l’image source"
+    ],
+    "advantages": [
+      "Débruitage",
+      "Netteté",
+      "Agrandissement"
+    ],
+    "limits": [
+      "Topaz Photo AI a été arrêté en 2025; les détails reconstruits peuvent être inexacts.",
+      "Une retouche IA peut générer des détails non authentiques."
+    ],
+    "gettingStarted": [
+      "Consulter les formats et conditions sur le site officiel.",
+      "Tester sur une copie d’image, contrôler les contours et les artefacts à 100 %."
+    ],
+    "examples": [
+      "Améliore la netteté sans altérer les caractéristiques du sujet.",
+      "Supprime les distractions sans inventer de nouveaux éléments visibles."
+    ],
+    "pricing": "Consulter les tarifs, crédits ou licences de la version utilisée ; montant non vérifié.",
+    "privacy": "Éviter de transmettre des photos privées sans vérifier les conditions de traitement ; envisager une solution locale pour les images sensibles.",
+    "selection": [
+      "Choisir Topaz Photo lorsque ses fonctions correspondent à la tâche : détourage, retouche, restauration ou agrandissement."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://docs.topazlabs.com/topaz-photo/release-summary",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      },
+      {
+        "url": "https://docs.topazlabs.com/topaz-photo/tpai-vs-tp",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Magnific AI": {
+    "headline": "Agrandissement créatif et reconstruction de détails.",
+    "audiences": [
+      "Photographes et graphistes",
+      "Créateurs de contenus visuels",
+      "Équipes de communication et e-commerce"
+    ],
+    "cases": [
+      "Retoucher une copie de travail en conservant l’original",
+      "Optimiser un visuel pour un support numérique ou imprimé",
+      "Comparer le résultat généré à l’image source"
+    ],
+    "advantages": [
+      "Upscaling créatif",
+      "Contrôle des détails",
+      "Textures"
+    ],
+    "limits": [
+      "Une créativité élevée peut inventer des détails.",
+      "Une retouche IA peut générer des détails non authentiques."
+    ],
+    "gettingStarted": [
+      "Consulter les formats et conditions sur le site officiel.",
+      "Tester sur une copie d’image, contrôler les contours et les artefacts à 100 %."
+    ],
+    "examples": [
+      "Améliore la netteté sans altérer les caractéristiques du sujet.",
+      "Supprime les distractions sans inventer de nouveaux éléments visibles."
+    ],
+    "pricing": "Consulter les tarifs, crédits ou licences de la version utilisée ; montant non vérifié.",
+    "privacy": "Éviter de transmettre des photos privées sans vérifier les conditions de traitement ; envisager une solution locale pour les images sensibles.",
+    "selection": [
+      "Choisir Magnific AI lorsque ses fonctions correspondent à la tâche : détourage, retouche, restauration ou agrandissement."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://magnific.ai/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Let's Enhance": {
+    "headline": "Agrandissement et amélioration d’images pour impressions et visuels produits.",
+    "audiences": [
+      "Photographes et graphistes",
+      "Créateurs de contenus visuels",
+      "Équipes de communication et e-commerce"
+    ],
+    "cases": [
+      "Retoucher une copie de travail en conservant l’original",
+      "Optimiser un visuel pour un support numérique ou imprimé",
+      "Comparer le résultat généré à l’image source"
+    ],
+    "advantages": [
+      "Agrandissement",
+      "Amélioration photo",
+      "Visuels produits"
+    ],
+    "limits": [
+      "La qualité dépend fortement de l’image de départ.",
+      "Une retouche IA peut générer des détails non authentiques."
+    ],
+    "gettingStarted": [
+      "Consulter les formats et conditions sur le site officiel.",
+      "Tester sur une copie d’image, contrôler les contours et les artefacts à 100 %."
+    ],
+    "examples": [
+      "Améliore la netteté sans altérer les caractéristiques du sujet.",
+      "Supprime les distractions sans inventer de nouveaux éléments visibles."
+    ],
+    "pricing": "Consulter les tarifs, crédits ou licences de la version utilisée ; montant non vérifié.",
+    "privacy": "Éviter de transmettre des photos privées sans vérifier les conditions de traitement ; envisager une solution locale pour les images sensibles.",
+    "selection": [
+      "Choisir Let's Enhance lorsque ses fonctions correspondent à la tâche : détourage, retouche, restauration ou agrandissement."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://letsenhance.io/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Clipdrop": {
+    "headline": "Suite d’outils de retouche visuelle assistée par IA.",
+    "audiences": [
+      "Photographes et graphistes",
+      "Créateurs de contenus visuels",
+      "Équipes de communication et e-commerce"
+    ],
+    "cases": [
+      "Retoucher une copie de travail en conservant l’original",
+      "Optimiser un visuel pour un support numérique ou imprimé",
+      "Comparer le résultat généré à l’image source"
+    ],
+    "advantages": [
+      "Détourage",
+      "Nettoyage d’image",
+      "Retouche"
+    ],
+    "limits": [
+      "Fonctions et crédits peuvent évoluer.",
+      "Une retouche IA peut générer des détails non authentiques."
+    ],
+    "gettingStarted": [
+      "Consulter les formats et conditions sur le site officiel.",
+      "Tester sur une copie d’image, contrôler les contours et les artefacts à 100 %."
+    ],
+    "examples": [
+      "Améliore la netteté sans altérer les caractéristiques du sujet.",
+      "Supprime les distractions sans inventer de nouveaux éléments visibles."
+    ],
+    "pricing": "Consulter les tarifs, crédits ou licences de la version utilisée ; montant non vérifié.",
+    "privacy": "Éviter de transmettre des photos privées sans vérifier les conditions de traitement ; envisager une solution locale pour les images sensibles.",
+    "selection": [
+      "Choisir Clipdrop lorsque ses fonctions correspondent à la tâche : détourage, retouche, restauration ou agrandissement."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://clipdrop.co/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Cleanup.pictures": {
+    "headline": "Suppression d’objets et reconstitution de l’arrière-plan.",
+    "audiences": [
+      "Photographes et graphistes",
+      "Créateurs de contenus visuels",
+      "Équipes de communication et e-commerce"
+    ],
+    "cases": [
+      "Retoucher une copie de travail en conservant l’original",
+      "Optimiser un visuel pour un support numérique ou imprimé",
+      "Comparer le résultat généré à l’image source"
+    ],
+    "advantages": [
+      "Effacement d’objets",
+      "Suppression de distractions",
+      "Pinceau"
+    ],
+    "limits": [
+      "Les zones reconstruites peuvent contenir des artefacts.",
+      "Une retouche IA peut générer des détails non authentiques."
+    ],
+    "gettingStarted": [
+      "Consulter les formats et conditions sur le site officiel.",
+      "Tester sur une copie d’image, contrôler les contours et les artefacts à 100 %."
+    ],
+    "examples": [
+      "Améliore la netteté sans altérer les caractéristiques du sujet.",
+      "Supprime les distractions sans inventer de nouveaux éléments visibles."
+    ],
+    "pricing": "Consulter les tarifs, crédits ou licences de la version utilisée ; montant non vérifié.",
+    "privacy": "Éviter de transmettre des photos privées sans vérifier les conditions de traitement ; envisager une solution locale pour les images sensibles.",
+    "selection": [
+      "Choisir Cleanup.pictures lorsque ses fonctions correspondent à la tâche : détourage, retouche, restauration ou agrandissement."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://cleanup.pictures/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Remini": {
+    "headline": "Amélioration de portraits et restauration de photos floues.",
+    "audiences": [
+      "Photographes et graphistes",
+      "Créateurs de contenus visuels",
+      "Équipes de communication et e-commerce"
+    ],
+    "cases": [
+      "Retoucher une copie de travail en conservant l’original",
+      "Optimiser un visuel pour un support numérique ou imprimé",
+      "Comparer le résultat généré à l’image source"
+    ],
+    "advantages": [
+      "Amélioration faciale",
+      "Défloutage",
+      "Restauration"
+    ],
+    "limits": [
+      "Les visages générés peuvent différer de la personne réelle.",
+      "Une retouche IA peut générer des détails non authentiques."
+    ],
+    "gettingStarted": [
+      "Consulter les formats et conditions sur le site officiel.",
+      "Tester sur une copie d’image, contrôler les contours et les artefacts à 100 %."
+    ],
+    "examples": [
+      "Améliore la netteté sans altérer les caractéristiques du sujet.",
+      "Supprime les distractions sans inventer de nouveaux éléments visibles."
+    ],
+    "pricing": "Consulter les tarifs, crédits ou licences de la version utilisée ; montant non vérifié.",
+    "privacy": "Éviter de transmettre des photos privées sans vérifier les conditions de traitement ; envisager une solution locale pour les images sensibles.",
+    "selection": [
+      "Choisir Remini lorsque ses fonctions correspondent à la tâche : détourage, retouche, restauration ou agrandissement."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://remini.ai/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Pixelcut": {
+    "headline": "Éditeur IA de photographies de produits et de visuels commerciaux.",
+    "audiences": [
+      "Photographes et graphistes",
+      "Créateurs de contenus visuels",
+      "Équipes de communication et e-commerce"
+    ],
+    "cases": [
+      "Retoucher une copie de travail en conservant l’original",
+      "Optimiser un visuel pour un support numérique ou imprimé",
+      "Comparer le résultat généré à l’image source"
+    ],
+    "advantages": [
+      "Détourage produit",
+      "Visuels marketing",
+      "Édition"
+    ],
+    "limits": [
+      "Contrôler couleurs, proportions et textes sur les produits.",
+      "Une retouche IA peut générer des détails non authentiques."
+    ],
+    "gettingStarted": [
+      "Consulter les formats et conditions sur le site officiel.",
+      "Tester sur une copie d’image, contrôler les contours et les artefacts à 100 %."
+    ],
+    "examples": [
+      "Améliore la netteté sans altérer les caractéristiques du sujet.",
+      "Supprime les distractions sans inventer de nouveaux éléments visibles."
+    ],
+    "pricing": "Consulter les tarifs, crédits ou licences de la version utilisée ; montant non vérifié.",
+    "privacy": "Éviter de transmettre des photos privées sans vérifier les conditions de traitement ; envisager une solution locale pour les images sensibles.",
+    "selection": [
+      "Choisir Pixelcut lorsque ses fonctions correspondent à la tâche : détourage, retouche, restauration ou agrandissement."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://www.pixelcut.ai",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Picsart": {
+    "headline": "Édition photo créative avec outils génératifs.",
+    "audiences": [
+      "Photographes et graphistes",
+      "Créateurs de contenus visuels",
+      "Équipes de communication et e-commerce"
+    ],
+    "cases": [
+      "Retoucher une copie de travail en conservant l’original",
+      "Optimiser un visuel pour un support numérique ou imprimé",
+      "Comparer le résultat généré à l’image source"
+    ],
+    "advantages": [
+      "Montage photo",
+      "Suppression de fond",
+      "Effets IA"
+    ],
+    "limits": [
+      "Les effets peuvent modifier l’apparence de sujets.",
+      "Une retouche IA peut générer des détails non authentiques."
+    ],
+    "gettingStarted": [
+      "Consulter les formats et conditions sur le site officiel.",
+      "Tester sur une copie d’image, contrôler les contours et les artefacts à 100 %."
+    ],
+    "examples": [
+      "Améliore la netteté sans altérer les caractéristiques du sujet.",
+      "Supprime les distractions sans inventer de nouveaux éléments visibles."
+    ],
+    "pricing": "Consulter les tarifs, crédits ou licences de la version utilisée ; montant non vérifié.",
+    "privacy": "Éviter de transmettre des photos privées sans vérifier les conditions de traitement ; envisager une solution locale pour les images sensibles.",
+    "selection": [
+      "Choisir Picsart lorsque ses fonctions correspondent à la tâche : détourage, retouche, restauration ou agrandissement."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://picsart.com",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Fotor": {
+    "headline": "Retouche et amélioration photo en ligne.",
+    "audiences": [
+      "Photographes et graphistes",
+      "Créateurs de contenus visuels",
+      "Équipes de communication et e-commerce"
+    ],
+    "cases": [
+      "Retoucher une copie de travail en conservant l’original",
+      "Optimiser un visuel pour un support numérique ou imprimé",
+      "Comparer le résultat généré à l’image source"
+    ],
+    "advantages": [
+      "Retouche",
+      "Amélioration IA",
+      "Suppression de fond"
+    ],
+    "limits": [
+      "Exports et résolutions peuvent dépendre de l’abonnement.",
+      "Une retouche IA peut générer des détails non authentiques."
+    ],
+    "gettingStarted": [
+      "Consulter les formats et conditions sur le site officiel.",
+      "Tester sur une copie d’image, contrôler les contours et les artefacts à 100 %."
+    ],
+    "examples": [
+      "Améliore la netteté sans altérer les caractéristiques du sujet.",
+      "Supprime les distractions sans inventer de nouveaux éléments visibles."
+    ],
+    "pricing": "Consulter les tarifs, crédits ou licences de la version utilisée ; montant non vérifié.",
+    "privacy": "Éviter de transmettre des photos privées sans vérifier les conditions de traitement ; envisager une solution locale pour les images sensibles.",
+    "selection": [
+      "Choisir Fotor lorsque ses fonctions correspondent à la tâche : détourage, retouche, restauration ou agrandissement."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://www.fotor.com",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Luminar Neo": {
+    "headline": "Éditeur photo Skylum avec retouche RAW et outils génératifs.",
+    "audiences": [
+      "Photographes et graphistes",
+      "Créateurs de contenus visuels",
+      "Équipes de communication et e-commerce"
+    ],
+    "cases": [
+      "Retoucher une copie de travail en conservant l’original",
+      "Optimiser un visuel pour un support numérique ou imprimé",
+      "Comparer le résultat généré à l’image source"
+    ],
+    "advantages": [
+      "Retouche RAW",
+      "GenErase",
+      "GenExpand"
+    ],
+    "limits": [
+      "L’édition générative peut reconstruire un contenu fictif.",
+      "Une retouche IA peut générer des détails non authentiques."
+    ],
+    "gettingStarted": [
+      "Consulter les formats et conditions sur le site officiel.",
+      "Tester sur une copie d’image, contrôler les contours et les artefacts à 100 %."
+    ],
+    "examples": [
+      "Améliore la netteté sans altérer les caractéristiques du sujet.",
+      "Supprime les distractions sans inventer de nouveaux éléments visibles."
+    ],
+    "pricing": "Consulter les tarifs, crédits ou licences de la version utilisée ; montant non vérifié.",
+    "privacy": "Éviter de transmettre des photos privées sans vérifier les conditions de traitement ; envisager une solution locale pour les images sensibles.",
+    "selection": [
+      "Choisir Luminar Neo lorsque ses fonctions correspondent à la tâche : détourage, retouche, restauration ou agrandissement."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://skylum.com/luminar/generase",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      },
+      {
+        "url": "https://skylum.com/luminar/genexpand",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "VanceAI": {
+    "headline": "Traitement automatisé d’images : agrandissement, débruitage et amélioration.",
+    "audiences": [
+      "Photographes et graphistes",
+      "Créateurs de contenus visuels",
+      "Équipes de communication et e-commerce"
+    ],
+    "cases": [
+      "Retoucher une copie de travail en conservant l’original",
+      "Optimiser un visuel pour un support numérique ou imprimé",
+      "Comparer le résultat généré à l’image source"
+    ],
+    "advantages": [
+      "Upscaling",
+      "Débruitage",
+      "Amélioration"
+    ],
+    "limits": [
+      "Les modèles et quotas précis restent à confirmer.",
+      "Une retouche IA peut générer des détails non authentiques."
+    ],
+    "gettingStarted": [
+      "Consulter les formats et conditions sur le site officiel.",
+      "Tester sur une copie d’image, contrôler les contours et les artefacts à 100 %."
+    ],
+    "examples": [
+      "Améliore la netteté sans altérer les caractéristiques du sujet.",
+      "Supprime les distractions sans inventer de nouveaux éléments visibles."
+    ],
+    "pricing": "Consulter les tarifs, crédits ou licences de la version utilisée ; montant non vérifié.",
+    "privacy": "Éviter de transmettre des photos privées sans vérifier les conditions de traitement ; envisager une solution locale pour les images sensibles.",
+    "selection": [
+      "Choisir VanceAI lorsque ses fonctions correspondent à la tâche : détourage, retouche, restauration ou agrandissement."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "provisional",
+    "evidence": "limited_official",
+    "sources": [
+      {
+        "url": "https://vanceai.com",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Upscayl": {
+    "headline": "Application open source de super-résolution, exécutable localement.",
+    "audiences": [
+      "Photographes et graphistes",
+      "Créateurs de contenus visuels",
+      "Équipes de communication et e-commerce"
+    ],
+    "cases": [
+      "Retoucher une copie de travail en conservant l’original",
+      "Optimiser un visuel pour un support numérique ou imprimé",
+      "Comparer le résultat généré à l’image source"
+    ],
+    "advantages": [
+      "Agrandissement local",
+      "Modèles multiples",
+      "Windows/macOS/Linux"
+    ],
+    "limits": [
+      "La disponibilité des accélérations matérielles dépend de l’ordinateur.",
+      "Une retouche IA peut générer des détails non authentiques."
+    ],
+    "gettingStarted": [
+      "Consulter les formats et conditions sur le site officiel.",
+      "Tester sur une copie d’image, contrôler les contours et les artefacts à 100 %."
+    ],
+    "examples": [
+      "Améliore la netteté sans altérer les caractéristiques du sujet.",
+      "Supprime les distractions sans inventer de nouveaux éléments visibles."
+    ],
+    "pricing": "Consulter les tarifs, crédits ou licences de la version utilisée ; montant non vérifié.",
+    "privacy": "Éviter de transmettre des photos privées sans vérifier les conditions de traitement ; envisager une solution locale pour les images sensibles.",
+    "selection": [
+      "Choisir Upscayl lorsque ses fonctions correspondent à la tâche : détourage, retouche, restauration ou agrandissement."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://upscayl.org/download",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "GFPGAN": {
+    "headline": "Projet open source de restauration générative de visages.",
+    "audiences": [
+      "Photographes et graphistes",
+      "Créateurs de contenus visuels",
+      "Équipes de communication et e-commerce"
+    ],
+    "cases": [
+      "Retoucher une copie de travail en conservant l’original",
+      "Optimiser un visuel pour un support numérique ou imprimé",
+      "Comparer le résultat généré à l’image source"
+    ],
+    "advantages": [
+      "Restauration faciale",
+      "Modèles open source",
+      "Intégration Real-ESRGAN"
+    ],
+    "limits": [
+      "La reconstruction peut modifier les traits ou l’identité.",
+      "Une retouche IA peut générer des détails non authentiques."
+    ],
+    "gettingStarted": [
+      "Consulter les formats et conditions sur le site officiel.",
+      "Tester sur une copie d’image, contrôler les contours et les artefacts à 100 %."
+    ],
+    "examples": [
+      "Améliore la netteté sans altérer les caractéristiques du sujet.",
+      "Supprime les distractions sans inventer de nouveaux éléments visibles."
+    ],
+    "pricing": "Consulter les tarifs, crédits ou licences de la version utilisée ; montant non vérifié.",
+    "privacy": "Éviter de transmettre des photos privées sans vérifier les conditions de traitement ; envisager une solution locale pour les images sensibles.",
+    "selection": [
+      "Choisir GFPGAN lorsque ses fonctions correspondent à la tâche : détourage, retouche, restauration ou agrandissement."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://github.com/TencentARC/GFPGAN",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Real-ESRGAN": {
+    "headline": "Projet open source de super-résolution d’images et de vidéos.",
+    "audiences": [
+      "Photographes et graphistes",
+      "Créateurs de contenus visuels",
+      "Équipes de communication et e-commerce"
+    ],
+    "cases": [
+      "Retoucher une copie de travail en conservant l’original",
+      "Optimiser un visuel pour un support numérique ou imprimé",
+      "Comparer le résultat généré à l’image source"
+    ],
+    "advantages": [
+      "Super-résolution",
+      "Modèles généraux et anime",
+      "Traitement local"
+    ],
+    "limits": [
+      "Les détails restaurés sont des estimations, pas des preuves de l’original.",
+      "Une retouche IA peut générer des détails non authentiques."
+    ],
+    "gettingStarted": [
+      "Consulter les formats et conditions sur le site officiel.",
+      "Tester sur une copie d’image, contrôler les contours et les artefacts à 100 %."
+    ],
+    "examples": [
+      "Améliore la netteté sans altérer les caractéristiques du sujet.",
+      "Supprime les distractions sans inventer de nouveaux éléments visibles."
+    ],
+    "pricing": "Consulter les tarifs, crédits ou licences de la version utilisée ; montant non vérifié.",
+    "privacy": "Éviter de transmettre des photos privées sans vérifier les conditions de traitement ; envisager une solution locale pour les images sensibles.",
+    "selection": [
+      "Choisir Real-ESRGAN lorsque ses fonctions correspondent à la tâche : détourage, retouche, restauration ou agrandissement."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://github.com/xinntao/Real-ESRGAN",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
   }
 }
