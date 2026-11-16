@@ -344,7 +344,19 @@ function handleKey(e){if(e.key==='/'&&!['INPUT','TEXTAREA'].includes(document.ac
 }
 async function bootstrap(){document.documentElement.dataset.theme=state.theme;
  try{const r=await Promise.all(['tools','categories','families','quality-report'].map(n=>fetch('/data/'+n+'.json').then(x=>{if(!x.ok)throw Error(n);return x.json()})));
- [db.tools,db.categories,db.families,db.quality]=r;db.toolSlug=new Map(db.tools.map(t=>[t.slug,t]));db.catSlug=new Map(db.categories.map(c=>[c.slug,c]));
+ [db.tools,db.categories,db.families,db.quality]=r;
+ // Enrichissements modulaires : préserver le catalogue central, y compris quand il grossit.
+ try {
+   const response=await fetch('/data/video-editing-enrichment.json');
+   if(response.ok){
+     const updates=await response.json();
+     db.tools.forEach(tool=>{
+       const entry=updates[tool.slug];
+       if(entry)Object.assign(tool,entry);
+     });
+   }
+ } catch(error){console.warn('Optional editorial enrichments unavailable',error);}
+ db.toolSlug=new Map(db.tools.map(t=>[t.slug,t]));db.catSlug=new Map(db.categories.map(c=>[c.slug,c]));
  db.tools.forEach(t=>{t.secondaryCategories=t.secondaryCategories||[]});
  state.compare=state.compare.filter(id=>db.tools.some(t=>t.id===id)).slice(0,4);
  state.favorites=state.favorites.filter(id=>db.tools.some(t=>t.id===id));
