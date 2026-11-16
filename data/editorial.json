@@ -618,10 +618,29 @@
     "editorialDate": "2026-11-15"
   },
   "Copy.ai": {
-    "descriptionFr": "Plateforme de contenus et de flux de travail automatisés pour le marketing et les équipes commerciales.",
-    "descriptionEn": "Content and workflow platform for marketing and sales teams.",
+    "descriptionFr": "Plateforme d'automatisation de contenus et de workflows pour les équipes marketing et commerciales.",
+    "descriptionEn": "Plateforme d'automatisation de contenus et de workflows pour les équipes marketing et commerciales.",
     "descriptionStatus": "editorial",
-    "editorialDate": "2026-11-15"
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Production de contenus marketing",
+      "Workflows de prospection et campagnes",
+      "Gouvernance des messages"
+    ],
+    "featuresEn": [
+      "Marketing content production",
+      "Sales and marketing workflows",
+      "Brand messaging governance"
+    ],
+    "accessFr": "Web et intégrations selon l'offre",
+    "accessEn": "Web and integrations depending on plan",
+    "officialSources": [
+      {
+        "url": "https://www.copy.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
   },
   "Grammarly": {
     "descriptionFr": "Assistant d’écriture proposant correction grammaticale, suggestions de style et assistance à la reformulation.",
@@ -665,16 +684,59 @@
     "editorialDate": "2026-11-15"
   },
   "Sudowrite": {
-    "descriptionFr": "Assistant d’écriture créative destiné aux auteurs de fiction, du brouillon à la révision.",
-    "descriptionEn": "Creative writing companion for fiction authors.",
+    "descriptionFr": "Assistant de fiction avec Story Bible, génération de scènes et outils de révision de manuscrits.",
+    "descriptionEn": "Assistant de fiction avec Story Bible, génération de scènes et outils de révision de manuscrits.",
     "descriptionStatus": "editorial",
-    "editorialDate": "2026-11-15"
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Story Bible et personnages",
+      "Génération de prose contextualisée",
+      "Réécriture et développement de scènes"
+    ],
+    "featuresEn": [
+      "Story Bible and character context",
+      "Contextual prose generation",
+      "Scene expansion and rewriting"
+    ],
+    "accessFr": "Web et intégrations selon l'offre",
+    "accessEn": "Web and integrations depending on plan",
+    "officialSources": [
+      {
+        "url": "https://docs.sudowrite.com/getting-started/dQph1snuwbfMWG9wRjsNug/quick-start/2A4FjtiocrtxHPUyz6WZgR",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://sudowrite.com/blog/how-sudowrite-works/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
   },
   "LanguageTool": {
-    "descriptionFr": "Correcteur multilingue de grammaire, d’orthographe et de style avec une offre open source.",
-    "descriptionEn": "Multilingual grammar, spelling and style checker with open-source components.",
+    "descriptionFr": "Correcteur multilingue d'orthographe, de grammaire et de style, disponible en ligne et en intégrations.",
+    "descriptionEn": "Correcteur multilingue d'orthographe, de grammaire et de style, disponible en ligne et en intégrations.",
     "descriptionStatus": "editorial",
-    "editorialDate": "2026-11-15"
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Correction multilingue",
+      "Suggestions grammaticales et de style",
+      "Extensions et intégrations"
+    ],
+    "featuresEn": [
+      "Multilingual proofreading",
+      "Grammar and style suggestions",
+      "Extensions and integrations"
+    ],
+    "accessFr": "Web et intégrations selon l'offre",
+    "accessEn": "Web and integrations depending on plan",
+    "officialSources": [
+      {
+        "url": "https://languagetool.org/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
   },
   "DeepL": {
     "descriptionFr": "Service de traduction automatique de textes et de documents, avec options pour les professionnels.",
@@ -2818,6 +2880,316 @@
       },
       {
         "url": "https://www.dimensions.ai/products/all-products/dimensions-free-version/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "Writesonic": {
+    "descriptionFr": "Plateforme de contenus marketing et de visibilité dans les moteurs de recherche et réponses IA.",
+    "descriptionEn": "Plateforme de contenus marketing et de visibilité dans les moteurs de recherche et réponses IA.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Production de contenus et articles",
+      "Optimisation SEO",
+      "Suivi de visibilité IA selon l’offre"
+    ],
+    "featuresEn": [
+      "Content and article creation",
+      "SEO optimization",
+      "AI search visibility tracking by plan"
+    ],
+    "accessFr": "Web et intégrations selon l'offre",
+    "accessEn": "Web and integrations depending on plan",
+    "officialSources": [
+      {
+        "url": "https://writesonic.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "Rytr": {
+    "descriptionFr": "Assistant de rédaction pour générer des ébauches courtes, adapter la tonalité et reformuler.",
+    "descriptionEn": "Assistant de rédaction pour générer des ébauches courtes, adapter la tonalité et reformuler.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Ébauches à partir d'un brief",
+      "Réglage du ton et du format",
+      "Révision de formulations"
+    ],
+    "featuresEn": [
+      "Drafts from a brief",
+      "Tone and format controls",
+      "Copy refinement"
+    ],
+    "accessFr": "Web et intégrations selon l'offre",
+    "accessEn": "Web and integrations depending on plan",
+    "officialSources": [
+      {
+        "url": "https://rytr.me/create-features/ai-writing-assistant",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "Wordtune": {
+    "descriptionFr": "Assistant d'écriture proposant réécriture, synonymes et suggestions contextuelles.",
+    "descriptionEn": "Assistant d'écriture proposant réécriture, synonymes et suggestions contextuelles.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Réécriture de paragraphes",
+      "Synonymes contextuels",
+      "Suggestions de continuation"
+    ],
+    "featuresEn": [
+      "Paragraph rewriting",
+      "Contextual synonyms",
+      "Writing continuation suggestions"
+    ],
+    "accessFr": "Web et intégrations selon l'offre",
+    "accessEn": "Web and integrations depending on plan",
+    "officialSources": [
+      {
+        "url": "https://support.wordtune.com/en/articles/9024394-wordtune-editor-writing-features",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "NovelAI": {
+    "descriptionFr": "Plateforme de narration fictionnelle assistée par modèles IA et outils de génération créative.",
+    "descriptionEn": "Plateforme de narration fictionnelle assistée par modèles IA et outils de génération créative.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Écriture interactive de fiction",
+      "Personnalisation de contexte narratif",
+      "Génération créative selon offre"
+    ],
+    "featuresEn": [
+      "Interactive fictional writing",
+      "Story context controls",
+      "Creative generation by plan"
+    ],
+    "accessFr": "Web et intégrations selon l'offre",
+    "accessEn": "Web and integrations depending on plan",
+    "officialSources": [
+      {
+        "url": "https://novelai.net/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "HyperWrite": {
+    "descriptionFr": "Assistant d'écriture et de productivité avec autocomplétion contextuelle et réécriture.",
+    "descriptionEn": "Assistant d'écriture et de productivité avec autocomplétion contextuelle et réécriture.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "AutoWrite et TypeAhead",
+      "Suggestions pour emails",
+      "Outils d'écriture personnalisés"
+    ],
+    "featuresEn": [
+      "AutoWrite and TypeAhead",
+      "Email writing suggestions",
+      "Custom writing tools"
+    ],
+    "accessFr": "Web et intégrations selon l'offre",
+    "accessEn": "Web and integrations depending on plan",
+    "officialSources": [
+      {
+        "url": "https://www.hyperwriteai.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "Writer": {
+    "descriptionFr": "Plateforme d'IA d'entreprise et d'agents orientés vers les workflows et la cohérence de marque.",
+    "descriptionEn": "Plateforme d'IA d'entreprise et d'agents orientés vers les workflows et la cohérence de marque.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Agents IA pour équipes",
+      "Contexte et normes de marque",
+      "Orchestration de contenus métiers"
+    ],
+    "featuresEn": [
+      "Enterprise AI agents",
+      "Brand and policy context",
+      "Business content workflows"
+    ],
+    "accessFr": "Web et intégrations selon l'offre",
+    "accessEn": "Web and integrations depending on plan",
+    "officialSources": [
+      {
+        "url": "https://writer.com/blog/enterprise-brain-press-release/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "Anyword": {
+    "descriptionFr": "Outil de rédaction marketing orienté vers l'évaluation prévisionnelle des variantes de messages.",
+    "descriptionEn": "Outil de rédaction marketing orienté vers l'évaluation prévisionnelle des variantes de messages.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Génération de textes marketing",
+      "Scores prédictifs de performance",
+      "Variantes publicitaires et emails"
+    ],
+    "featuresEn": [
+      "Marketing copy generation",
+      "Predictive performance scoring",
+      "Ad and email variants"
+    ],
+    "accessFr": "Web et intégrations selon l'offre",
+    "accessEn": "Web and integrations depending on plan",
+    "officialSources": [
+      {
+        "url": "https://www.anyword.com/blog/data-driven-copywriting-anyword",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "TextCortex": {
+    "descriptionFr": "Assistant d'écriture et de connaissances pour rechercher, créer et reformuler du contenu de travail.",
+    "descriptionEn": "Assistant d'écriture et de connaissances pour rechercher, créer et reformuler du contenu de travail.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Génération et réécriture",
+      "Assistant contextuel",
+      "Personnalisation à partir de connaissances selon l'offre"
+    ],
+    "featuresEn": [
+      "Drafting and rewriting",
+      "Contextual assistant",
+      "Knowledge-based customization by plan"
+    ],
+    "accessFr": "Web et intégrations selon l'offre",
+    "accessEn": "Web and integrations depending on plan",
+    "officialSources": [
+      {
+        "url": "https://textcortex.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "ProWritingAid": {
+    "descriptionFr": "Outil d'édition et d'analyse de manuscrits distinguant les rapports d'IA assistive des fonctions génératives.",
+    "descriptionEn": "Outil d'édition et d'analyse de manuscrits distinguant les rapports d'IA assistive des fonctions génératives.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Analyses de manuscrit et personnages",
+      "Rapports de critique narrative",
+      "Rephrase et Sparks"
+    ],
+    "featuresEn": [
+      "Manuscript and character analysis",
+      "Editorial critique reports",
+      "Rephrase and Sparks"
+    ],
+    "accessFr": "Web et intégrations selon l'offre",
+    "accessEn": "Web and integrations depending on plan",
+    "officialSources": [
+      {
+        "url": "https://help.prowritingaid.com/article/297-does-prowritingaid-use-ai",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://help.prowritingaid.com/article/314-how-do-i-use-manuscript-analysis",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "DeepL Write": {
+    "descriptionFr": "Assistant de reformulation et de correction linguistique proposant suggestions de style et de tonalité.",
+    "descriptionEn": "Assistant de reformulation et de correction linguistique proposant suggestions de style et de tonalité.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Orthographe et grammaire",
+      "Reformulations et tonalités",
+      "Intégrations et API Write Pro"
+    ],
+    "featuresEn": [
+      "Spelling and grammar",
+      "Rephrasing and tone",
+      "Integrations and Write Pro API"
+    ],
+    "accessFr": "Web et intégrations selon l'offre",
+    "accessEn": "Web and integrations depending on plan",
+    "officialSources": [
+      {
+        "url": "https://support.deepl.com/hc/fr/articles/6318834492700-%C3%80-propos-de-DeepL-Write",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://support.deepl.com/hc/fr/articles/9710730337820-Personnalisez-votre-texte-avec-DeepL-Write",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "Lex": {
+    "descriptionFr": "Éditeur de rédaction assistée par IA axé sur le brouillon et la révision de documents.",
+    "descriptionEn": "Éditeur de rédaction assistée par IA axé sur le brouillon et la révision de documents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Rédaction dans un éditeur dédié",
+      "Aide à la reformulation",
+      "Assistance aux brouillons"
+    ],
+    "featuresEn": [
+      "Dedicated writing editor",
+      "Rewriting assistance",
+      "Draft support"
+    ],
+    "accessFr": "Web et intégrations selon l'offre",
+    "accessEn": "Web and integrations depending on plan",
+    "officialSources": [
+      {
+        "url": "https://lex.page/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "Simplified": {
+    "descriptionFr": "Suite de création marketing comprenant un outil de rédaction IA et des contenus pour les réseaux sociaux.",
+    "descriptionEn": "Suite de création marketing comprenant un outil de rédaction IA et des contenus pour les réseaux sociaux.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Génération de textes marketing",
+      "Réglage de tonalité",
+      "Collaboration et création sociale"
+    ],
+    "featuresEn": [
+      "Marketing text generation",
+      "Tone adjustment",
+      "Collaboration and social content"
+    ],
+    "accessFr": "Web et intégrations selon l'offre",
+    "accessEn": "Web and integrations depending on plan",
+    "officialSources": [
+      {
+        "url": "https://simplified.com/fr/ai-writer",
         "checkedAt": "2026-11-16",
         "scope": "features_and_usage"
       }
