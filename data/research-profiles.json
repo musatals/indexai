@@ -7617,5 +7617,622 @@
         "reviewedAt": "2026-11-16"
       }
     ]
+  },
+  "Kling AI": {
+    "headline": "Plateforme de génération vidéo et image par IA, avec création à partir de texte ou de références visuelles.",
+    "audiences": [
+      "Créateurs vidéo et réalisateurs",
+      "Équipes de communication et publicité",
+      "Enseignants et producteurs de contenus"
+    ],
+    "cases": [
+      "Transformer un brief en courte séquence vidéo",
+      "Créer des variations de cadrage, mouvement et style",
+      "Comparer les plans générés et corriger les défauts de continuité"
+    ],
+    "advantages": [
+      "Vidéo depuis texte ou image",
+      "Contrôle des références selon modèle",
+      "Génération de plans courts"
+    ],
+    "limits": [
+      "Les réglages, modèles et licences commerciales actuels n’ont pas pu être suffisamment vérifiés.",
+      "Les vidéos IA peuvent présenter des défauts temporels, mouvements incohérents ou personnages instables."
+    ],
+    "gettingStarted": [
+      "Choisir le modèle et les options réellement disponibles dans la documentation officielle.",
+      "Préparer un prompt indiquant sujet, action, décor, éclairage, mouvement de caméra, durée et format ; contrôler chaque génération."
+    ],
+    "examples": [
+      "Plan cinématographique de cinq secondes, mouvement de caméra lent, lumière naturelle, personnage constant et sans texte incrusté.",
+      "À partir de l’image de référence, anime uniquement les cheveux et les nuages en conservant cadrage et identité."
+    ],
+    "pricing": "Crédits et offres variables, non confirmés.",
+    "privacy": "Vérifier droits d’utilisation des images et voix importées, consentement des personnes, conservation des médias, réglages publics/privés et licences commerciales.",
+    "selection": [
+      "Choisir Kling AI selon le besoin de narration, contrôle du mouvement, référence visuelle, API ou exécution locale."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "provisional",
+    "evidence": "limited_official",
+    "sources": [
+      {
+        "url": "https://klingai.com/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Hailuo AI": {
+    "headline": "Plateforme MiniMax de création vidéo proposant texte-vers-vidéo, image-vers-vidéo et vidéos guidées par références.",
+    "audiences": [
+      "Créateurs vidéo et réalisateurs",
+      "Équipes de communication et publicité",
+      "Enseignants et producteurs de contenus"
+    ],
+    "cases": [
+      "Transformer un brief en courte séquence vidéo",
+      "Créer des variations de cadrage, mouvement et style",
+      "Comparer les plans générés et corriger les défauts de continuité"
+    ],
+    "advantages": [
+      "Texte et image vers vidéo",
+      "Vidéo avec références",
+      "Choix de modèles et de formats"
+    ],
+    "limits": [
+      "Certains modèles affichés par la plateforme peuvent être tiers ; la grille tarifaire historique est évolutive.",
+      "Les vidéos IA peuvent présenter des défauts temporels, mouvements incohérents ou personnages instables."
+    ],
+    "gettingStarted": [
+      "Choisir le modèle et les options réellement disponibles dans la documentation officielle.",
+      "Préparer un prompt indiquant sujet, action, décor, éclairage, mouvement de caméra, durée et format ; contrôler chaque génération."
+    ],
+    "examples": [
+      "Plan cinématographique de cinq secondes, mouvement de caméra lent, lumière naturelle, personnage constant et sans texte incrusté.",
+      "À partir de l’image de référence, anime uniquement les cheveux et les nuages en conservant cadrage et identité."
+    ],
+    "pricing": "Formules et crédits selon modèle ; prix exact à vérifier.",
+    "privacy": "Vérifier droits d’utilisation des images et voix importées, consentement des personnes, conservation des médias, réglages publics/privés et licences commerciales.",
+    "selection": [
+      "Choisir Hailuo AI selon le besoin de narration, contrôle du mouvement, référence visuelle, API ou exécution locale."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://hailuoai.video/tools/ai-video-generator",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      },
+      {
+        "url": "https://hailuoai.video/doc/payment-policy.html",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Veo": {
+    "headline": "Famille de modèles de génération vidéo Google DeepMind avec références visuelles, contrôles caméra et fonctions audio selon version.",
+    "audiences": [
+      "Développeurs et chercheurs en génération vidéo",
+      "Studios et créateurs techniques"
+    ],
+    "cases": [
+      "Transformer un brief en courte séquence vidéo",
+      "Créer des variations de cadrage, mouvement et style",
+      "Comparer les plans générés et corriger les défauts de continuité"
+    ],
+    "advantages": [
+      "Génération vidéo guidée",
+      "Images de référence et cohérence",
+      "Contrôle caméra et extension de plans"
+    ],
+    "limits": [
+      "Les contrôles et l’audio dépendent de la version et du produit qui donne accès au modèle.",
+      "Les vidéos IA peuvent présenter des défauts temporels, mouvements incohérents ou personnages instables."
+    ],
+    "gettingStarted": [
+      "Choisir le modèle et les options réellement disponibles dans la documentation officielle.",
+      "Préparer un prompt indiquant sujet, action, décor, éclairage, mouvement de caméra, durée et format ; contrôler chaque génération."
+    ],
+    "examples": [
+      "Plan cinématographique de cinq secondes, mouvement de caméra lent, lumière naturelle, personnage constant et sans texte incrusté.",
+      "À partir de l’image de référence, anime uniquement les cheveux et les nuages en conservant cadrage et identité."
+    ],
+    "pricing": "Accès et coûts selon Google Flow, API et offres compatibles.",
+    "privacy": "Vérifier droits d’utilisation des images et voix importées, consentement des personnes, conservation des médias, réglages publics/privés et licences commerciales.",
+    "selection": [
+      "Choisir Veo selon le besoin de narration, contrôle du mouvement, référence visuelle, API ou exécution locale."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://deepmind.google/models/veo/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      },
+      {
+        "url": "https://deepmind.google/models/model-cards/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Haiper": {
+    "headline": "Outil de génération de vidéo à partir de consignes et d’images, sous réserve de la disponibilité actuelle du service.",
+    "audiences": [
+      "Créateurs vidéo et réalisateurs",
+      "Équipes de communication et publicité",
+      "Enseignants et producteurs de contenus"
+    ],
+    "cases": [
+      "Transformer un brief en courte séquence vidéo",
+      "Créer des variations de cadrage, mouvement et style",
+      "Comparer les plans générés et corriger les défauts de continuité"
+    ],
+    "advantages": [
+      "Animation d’images (historique)",
+      "Création de clips IA (historique)",
+      "Accès à confirmer"
+    ],
+    "limits": [
+      "Fonctionnalités et état actuel du service non vérifiés ; ne pas présumer qu’il est accessible.",
+      "Les vidéos IA peuvent présenter des défauts temporels, mouvements incohérents ou personnages instables."
+    ],
+    "gettingStarted": [
+      "Choisir le modèle et les options réellement disponibles dans la documentation officielle.",
+      "Préparer un prompt indiquant sujet, action, décor, éclairage, mouvement de caméra, durée et format ; contrôler chaque génération."
+    ],
+    "examples": [
+      "Plan cinématographique de cinq secondes, mouvement de caméra lent, lumière naturelle, personnage constant et sans texte incrusté.",
+      "À partir de l’image de référence, anime uniquement les cheveux et les nuages en conservant cadrage et identité."
+    ],
+    "pricing": "Tarifs et disponibilité non confirmés.",
+    "privacy": "Vérifier droits d’utilisation des images et voix importées, consentement des personnes, conservation des médias, réglages publics/privés et licences commerciales.",
+    "selection": [
+      "Choisir Haiper selon le besoin de narration, contrôle du mouvement, référence visuelle, API ou exécution locale."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "provisional",
+    "evidence": "limited_official",
+    "sources": [
+      {
+        "url": "https://haiper.ai/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "PixVerse": {
+    "headline": "Plateforme de création vidéo et d’animation avec modèles IA, images de référence, transitions, effets et API.",
+    "audiences": [
+      "Créateurs vidéo et réalisateurs",
+      "Équipes de communication et publicité",
+      "Enseignants et producteurs de contenus"
+    ],
+    "cases": [
+      "Transformer un brief en courte séquence vidéo",
+      "Créer des variations de cadrage, mouvement et style",
+      "Comparer les plans générés et corriger les défauts de continuité"
+    ],
+    "advantages": [
+      "Texte et image vers vidéo",
+      "Transitions et contrôle du mouvement",
+      "API et modèles multiples"
+    ],
+    "limits": [
+      "Tous les modèles ne prennent pas en charge les mêmes durées, résolutions ou modes de génération.",
+      "Les vidéos IA peuvent présenter des défauts temporels, mouvements incohérents ou personnages instables."
+    ],
+    "gettingStarted": [
+      "Choisir le modèle et les options réellement disponibles dans la documentation officielle.",
+      "Préparer un prompt indiquant sujet, action, décor, éclairage, mouvement de caméra, durée et format ; contrôler chaque génération."
+    ],
+    "examples": [
+      "Plan cinématographique de cinq secondes, mouvement de caméra lent, lumière naturelle, personnage constant et sans texte incrusté.",
+      "À partir de l’image de référence, anime uniquement les cheveux et les nuages en conservant cadrage et identité."
+    ],
+    "pricing": "Crédits et niveaux d’abonnement variables selon modèle et durée.",
+    "privacy": "Vérifier droits d’utilisation des images et voix importées, consentement des personnes, conservation des médias, réglages publics/privés et licences commerciales.",
+    "selection": [
+      "Choisir PixVerse selon le besoin de narration, contrôle du mouvement, référence visuelle, API ou exécution locale."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://app.pixverse.ai/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      },
+      {
+        "url": "https://docs.platform.pixverse.ai/how-to-use-image-to-video-882971m0",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Vidu": {
+    "headline": "Plateforme de création vidéo privilégiant la cohérence de personnages et scènes grâce aux références visuelles.",
+    "audiences": [
+      "Créateurs vidéo et réalisateurs",
+      "Équipes de communication et publicité",
+      "Enseignants et producteurs de contenus"
+    ],
+    "cases": [
+      "Transformer un brief en courte séquence vidéo",
+      "Créer des variations de cadrage, mouvement et style",
+      "Comparer les plans générés et corriger les défauts de continuité"
+    ],
+    "advantages": [
+      "Reference-to-video",
+      "Animation d’images",
+      "Cohérence entre plans"
+    ],
+    "limits": [
+      "La conservation des caractéristiques est un objectif, pas une garantie ; vérifier chaque plan.",
+      "Les vidéos IA peuvent présenter des défauts temporels, mouvements incohérents ou personnages instables."
+    ],
+    "gettingStarted": [
+      "Choisir le modèle et les options réellement disponibles dans la documentation officielle.",
+      "Préparer un prompt indiquant sujet, action, décor, éclairage, mouvement de caméra, durée et format ; contrôler chaque génération."
+    ],
+    "examples": [
+      "Plan cinématographique de cinq secondes, mouvement de caméra lent, lumière naturelle, personnage constant et sans texte incrusté.",
+      "À partir de l’image de référence, anime uniquement les cheveux et les nuages en conservant cadrage et identité."
+    ],
+    "pricing": "Crédits selon formule, résolution et durée.",
+    "privacy": "Vérifier droits d’utilisation des images et voix importées, consentement des personnes, conservation des médias, réglages publics/privés et licences commerciales.",
+    "selection": [
+      "Choisir Vidu selon le besoin de narration, contrôle du mouvement, référence visuelle, API ou exécution locale."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://www.vidu.com/ai-reference-to-video",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      },
+      {
+        "url": "https://www.vidu.com/home/reference",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Kaiber": {
+    "headline": "Suite de création vidéo et audio comprenant Canvas, Beat Sync et Editor, succédant au nom Superstudio.",
+    "audiences": [
+      "Créateurs vidéo et réalisateurs",
+      "Équipes de communication et publicité",
+      "Enseignants et producteurs de contenus"
+    ],
+    "cases": [
+      "Transformer un brief en courte séquence vidéo",
+      "Créer des variations de cadrage, mouvement et style",
+      "Comparer les plans générés et corriger les défauts de continuité"
+    ],
+    "advantages": [
+      "Canvas multimodèle",
+      "Synchronisation au rythme musical",
+      "Montage et bibliothèque média"
+    ],
+    "limits": [
+      "Le nom Superstudio a été remplacé ; ne pas se fonder sur des tutoriels de l’ancienne interface.",
+      "Les vidéos IA peuvent présenter des défauts temporels, mouvements incohérents ou personnages instables."
+    ],
+    "gettingStarted": [
+      "Choisir le modèle et les options réellement disponibles dans la documentation officielle.",
+      "Préparer un prompt indiquant sujet, action, décor, éclairage, mouvement de caméra, durée et format ; contrôler chaque génération."
+    ],
+    "examples": [
+      "Plan cinématographique de cinq secondes, mouvement de caméra lent, lumière naturelle, personnage constant et sans texte incrusté.",
+      "À partir de l’image de référence, anime uniquement les cheveux et les nuages en conservant cadrage et identité."
+    ],
+    "pricing": "Offres, crédits et limites de génération selon forfait.",
+    "privacy": "Vérifier droits d’utilisation des images et voix importées, consentement des personnes, conservation des médias, réglages publics/privés et licences commerciales.",
+    "selection": [
+      "Choisir Kaiber selon le besoin de narration, contrôle du mouvement, référence visuelle, API ou exécution locale."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://helpcenter.kaiber.ai/en/articles/7949312-noticed-some-changes-to-kaiber-heres-what-you-need-to",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Genmo": {
+    "headline": "Laboratoire et plateforme de création vidéo proposant le modèle ouvert Mochi 1 et un Playground hébergé.",
+    "audiences": [
+      "Développeurs et chercheurs en génération vidéo",
+      "Studios et créateurs techniques"
+    ],
+    "cases": [
+      "Transformer un brief en courte séquence vidéo",
+      "Créer des variations de cadrage, mouvement et style",
+      "Comparer les plans générés et corriger les défauts de continuité"
+    ],
+    "advantages": [
+      "Mochi texte vers vidéo",
+      "Playground navigateur",
+      "Modèle téléchargeable"
+    ],
+    "limits": [
+      "L’exécution locale du modèle nécessite un environnement technique adapté et des ressources de calcul.",
+      "Les vidéos IA peuvent présenter des défauts temporels, mouvements incohérents ou personnages instables."
+    ],
+    "gettingStarted": [
+      "Choisir le modèle et les options réellement disponibles dans la documentation officielle.",
+      "Préparer un prompt indiquant sujet, action, décor, éclairage, mouvement de caméra, durée et format ; contrôler chaque génération."
+    ],
+    "examples": [
+      "Plan cinématographique de cinq secondes, mouvement de caméra lent, lumière naturelle, personnage constant et sans texte incrusté.",
+      "À partir de l’image de référence, anime uniquement les cheveux et les nuages en conservant cadrage et identité."
+    ],
+    "pricing": "Modèle Mochi 1 sous Apache 2.0 ; coût du service hébergé à vérifier.",
+    "privacy": "Vérifier droits d’utilisation des images et voix importées, consentement des personnes, conservation des médias, réglages publics/privés et licences commerciales.",
+    "selection": [
+      "Choisir Genmo selon le besoin de narration, contrôle du mouvement, référence visuelle, API ou exécution locale."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://www.genmo.ai/help/faq",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      },
+      {
+        "url": "https://www.genmo.ai/about",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Higgsfield": {
+    "headline": "Plateforme de création vidéo cinématographique avec contrôles de caméra, mouvement de référence et modèles multiples.",
+    "audiences": [
+      "Créateurs vidéo et réalisateurs",
+      "Équipes de communication et publicité",
+      "Enseignants et producteurs de contenus"
+    ],
+    "cases": [
+      "Transformer un brief en courte séquence vidéo",
+      "Créer des variations de cadrage, mouvement et style",
+      "Comparer les plans générés et corriger les défauts de continuité"
+    ],
+    "advantages": [
+      "Contrôles cinématographiques DoP",
+      "Transfert de mouvement",
+      "Choix de modèles vidéo"
+    ],
+    "limits": [
+      "Fonctions, durées et résolutions varient selon le modèle choisi ; vérifier les crédits requis.",
+      "Les vidéos IA peuvent présenter des défauts temporels, mouvements incohérents ou personnages instables."
+    ],
+    "gettingStarted": [
+      "Choisir le modèle et les options réellement disponibles dans la documentation officielle.",
+      "Préparer un prompt indiquant sujet, action, décor, éclairage, mouvement de caméra, durée et format ; contrôler chaque génération."
+    ],
+    "examples": [
+      "Plan cinématographique de cinq secondes, mouvement de caméra lent, lumière naturelle, personnage constant et sans texte incrusté.",
+      "À partir de l’image de référence, anime uniquement les cheveux et les nuages en conservant cadrage et identité."
+    ],
+    "pricing": "Crédits selon le modèle et les réglages.",
+    "privacy": "Vérifier droits d’utilisation des images et voix importées, consentement des personnes, conservation des médias, réglages publics/privés et licences commerciales.",
+    "selection": [
+      "Choisir Higgsfield selon le besoin de narration, contrôle du mouvement, référence visuelle, API ou exécution locale."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://higgsfield.ai/ai-video",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      },
+      {
+        "url": "https://higgsfield.ai/creator-hub/help-center/ai-models/how-do-i-use-dop",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "LTX Studio": {
+    "headline": "Environnement de production audiovisuelle assistée par IA, conçu pour organiser des concepts, scènes et séquences.",
+    "audiences": [
+      "Créateurs vidéo et réalisateurs",
+      "Équipes de communication et publicité",
+      "Enseignants et producteurs de contenus"
+    ],
+    "cases": [
+      "Transformer un brief en courte séquence vidéo",
+      "Créer des variations de cadrage, mouvement et style",
+      "Comparer les plans générés et corriger les défauts de continuité"
+    ],
+    "advantages": [
+      "Préparation narrative",
+      "Création de scènes",
+      "Organisation de production"
+    ],
+    "limits": [
+      "Fonctionnalités, modèles et conditions commerciales actuels à confirmer dans l’interface officielle.",
+      "Les vidéos IA peuvent présenter des défauts temporels, mouvements incohérents ou personnages instables."
+    ],
+    "gettingStarted": [
+      "Choisir le modèle et les options réellement disponibles dans la documentation officielle.",
+      "Préparer un prompt indiquant sujet, action, décor, éclairage, mouvement de caméra, durée et format ; contrôler chaque génération."
+    ],
+    "examples": [
+      "Plan cinématographique de cinq secondes, mouvement de caméra lent, lumière naturelle, personnage constant et sans texte incrusté.",
+      "À partir de l’image de référence, anime uniquement les cheveux et les nuages en conservant cadrage et identité."
+    ],
+    "pricing": "Plans et crédits à vérifier.",
+    "privacy": "Vérifier droits d’utilisation des images et voix importées, consentement des personnes, conservation des médias, réglages publics/privés et licences commerciales.",
+    "selection": [
+      "Choisir LTX Studio selon le besoin de narration, contrôle du mouvement, référence visuelle, API ou exécution locale."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "provisional",
+    "evidence": "limited_official",
+    "sources": [
+      {
+        "url": "https://ltx.studio/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Pollo AI": {
+    "headline": "Plateforme réunissant plusieurs modèles de génération vidéo, effets, retouche et animation d’images.",
+    "audiences": [
+      "Créateurs vidéo et réalisateurs",
+      "Équipes de communication et publicité",
+      "Enseignants et producteurs de contenus"
+    ],
+    "cases": [
+      "Transformer un brief en courte séquence vidéo",
+      "Créer des variations de cadrage, mouvement et style",
+      "Comparer les plans générés et corriger les défauts de continuité"
+    ],
+    "advantages": [
+      "Création vidéo multimodèle",
+      "Image vers animation",
+      "Effets et outils vidéo"
+    ],
+    "limits": [
+      "Qualité, longueur, droits et coûts dépendent du modèle choisi ; certaines options sont expérimentales.",
+      "Les vidéos IA peuvent présenter des défauts temporels, mouvements incohérents ou personnages instables."
+    ],
+    "gettingStarted": [
+      "Choisir le modèle et les options réellement disponibles dans la documentation officielle.",
+      "Préparer un prompt indiquant sujet, action, décor, éclairage, mouvement de caméra, durée et format ; contrôler chaque génération."
+    ],
+    "examples": [
+      "Plan cinématographique de cinq secondes, mouvement de caméra lent, lumière naturelle, personnage constant et sans texte incrusté.",
+      "À partir de l’image de référence, anime uniquement les cheveux et les nuages en conservant cadrage et identité."
+    ],
+    "pricing": "Tarifs en crédits ou abonnements selon modèle.",
+    "privacy": "Vérifier droits d’utilisation des images et voix importées, consentement des personnes, conservation des médias, réglages publics/privés et licences commerciales.",
+    "selection": [
+      "Choisir Pollo AI selon le besoin de narration, contrôle du mouvement, référence visuelle, API ou exécution locale."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://pollo.ai/video",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Open-Sora": {
+    "headline": "Projet de recherche open source HPC-AI Tech fournissant modèles, code d’entraînement et inférence pour la vidéo générative.",
+    "audiences": [
+      "Développeurs et chercheurs en génération vidéo",
+      "Studios et créateurs techniques"
+    ],
+    "cases": [
+      "Transformer un brief en courte séquence vidéo",
+      "Créer des variations de cadrage, mouvement et style",
+      "Comparer les plans générés et corriger les défauts de continuité"
+    ],
+    "advantages": [
+      "Code et modèles ouverts",
+      "Inférence et entraînement",
+      "Open-Sora 2.0 documenté"
+    ],
+    "limits": [
+      "Installation avancée et ressources GPU nécessaires ; code Apache 2.0 mais vérifier les dépendances et modèles tiers.",
+      "Les vidéos IA peuvent présenter des défauts temporels, mouvements incohérents ou personnages instables."
+    ],
+    "gettingStarted": [
+      "Choisir le modèle et les options réellement disponibles dans la documentation officielle.",
+      "Préparer un prompt indiquant sujet, action, décor, éclairage, mouvement de caméra, durée et format ; contrôler chaque génération."
+    ],
+    "examples": [
+      "Plan cinématographique de cinq secondes, mouvement de caméra lent, lumière naturelle, personnage constant et sans texte incrusté.",
+      "À partir de l’image de référence, anime uniquement les cheveux et les nuages en conservant cadrage et identité."
+    ],
+    "pricing": "Code gratuit et open source ; calcul et hébergement à financer séparément.",
+    "privacy": "Vérifier droits d’utilisation des images et voix importées, consentement des personnes, conservation des médias, réglages publics/privés et licences commerciales.",
+    "selection": [
+      "Choisir Open-Sora selon le besoin de narration, contrôle du mouvement, référence visuelle, API ou exécution locale."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://github.com/hpcaitech/Open-Sora",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      },
+      {
+        "url": "https://github.com/hpcaitech/Open-Sora/blob/main/LICENSE",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Wan AI": {
+    "headline": "Famille et interface de génération vidéo associée à Wan, comprenant divers modes selon le produit.",
+    "audiences": [
+      "Créateurs vidéo et réalisateurs",
+      "Équipes de communication et publicité",
+      "Enseignants et producteurs de contenus"
+    ],
+    "cases": [
+      "Transformer un brief en courte séquence vidéo",
+      "Créer des variations de cadrage, mouvement et style",
+      "Comparer les plans générés et corriger les défauts de continuité"
+    ],
+    "advantages": [
+      "Génération vidéo suivant modèles",
+      "Animation de référence selon interface",
+      "Accès variable par produit"
+    ],
+    "limits": [
+      "Un sous-service Wan Avatar annonçait une fermeture en juillet 2026 : ne pas extrapoler cet arrêt à toute la famille de modèles.",
+      "Les vidéos IA peuvent présenter des défauts temporels, mouvements incohérents ou personnages instables."
+    ],
+    "gettingStarted": [
+      "Choisir le modèle et les options réellement disponibles dans la documentation officielle.",
+      "Préparer un prompt indiquant sujet, action, décor, éclairage, mouvement de caméra, durée et format ; contrôler chaque génération."
+    ],
+    "examples": [
+      "Plan cinématographique de cinq secondes, mouvement de caméra lent, lumière naturelle, personnage constant et sans texte incrusté.",
+      "À partir de l’image de référence, anime uniquement les cheveux et les nuages en conservant cadrage et identité."
+    ],
+    "pricing": "Offres et accès au service exact à vérifier.",
+    "privacy": "Vérifier droits d’utilisation des images et voix importées, consentement des personnes, conservation des médias, réglages publics/privés et licences commerciales.",
+    "selection": [
+      "Choisir Wan AI selon le besoin de narration, contrôle du mouvement, référence visuelle, API ou exécution locale."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "provisional",
+    "evidence": "limited_official",
+    "sources": [
+      {
+        "url": "https://wan.video/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
   }
 }
