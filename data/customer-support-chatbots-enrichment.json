@@ -1,0 +1,1342 @@
+{
+  "intercom-fin": {
+    "descriptionFr": "Agent de service client Intercom utilisable dans Intercom et des helpdesks compatibles, avec réponses documentaires, procédures, actions et transfert humain.",
+    "descriptionEn": "Intercom customer service agent for Intercom and compatible helpdesks, offering knowledge-grounded answers, procedures, actions and human handoff.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Fin Procedures et Data Connectors",
+      "Règles Guidance et transfert humain",
+      "Support multicanal et suivi des résolutions"
+    ],
+    "featuresEn": [
+      "Fin Procedures and Data Connectors",
+      "Guidance and human handoff",
+      "Omnichannel support and resolution metrics"
+    ],
+    "accessFr": "Service web et intégrations selon l'offre",
+    "accessEn": "Web service and integrations depending on plan",
+    "officialSources": [
+      {
+        "url": "https://www.intercom.com/help/en/articles/7120684-fin-ai-agent-explained",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      },
+      {
+        "url": "https://www.intercom.com/help/en/articles/8205718-fin-ai-agent-outcomes",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Agent de service client Intercom utilisable dans Intercom et des helpdesks compatibles, avec réponses documentaires, procédures, actions et transfert humain.",
+      "audiences": [
+        "Services clients et centres d’assistance",
+        "Équipes e-commerce et opérations",
+        "Responsables de support multicanal",
+        "Responsables de centres de contact et équipes de support",
+        "Administrateurs de bases de connaissances et responsables qualité"
+      ],
+      "cases": [
+        "Répondre aux questions de clients depuis une base validée",
+        "Effectuer des procédures assistées",
+        "Acheminer vers un agent humain",
+        "Mesurer et optimiser la qualité des résolutions",
+        "Répondre aux questions de facturation et faire valider toute procédure modifiant un abonnement.",
+        "Suivre les conversations non résolues, les escalades humaines et la qualité des réponses."
+      ],
+      "advantages": [
+        "Agent configuré sur les règles et contenus de l’organisation",
+        "Intégration à Intercom et à certains helpdesks tiers",
+        "Modes d’analyse et de contrôle de qualité",
+        "Fin Procedures et Data Connectors",
+        "Règles Guidance et transfert humain",
+        "Support multicanal et suivi des résolutions"
+      ],
+      "limits": [
+        "Des résultats automatiques nécessitent suivi et tests",
+        "Facturation liée aux issues traitées et parfois aux sièges",
+        "Gestion stricte des données clients nécessaire",
+        "Depuis septembre 2026, Fin distingue plusieurs types d'outcomes facturables, pas seulement les résolutions de support ; qualification commerciale et autres actions ont des tarifs distincts. Les anciens Tasks ne peuvent plus être créés depuis mars 2026.",
+        "Les réponses peuvent être inexactes ; vérifier les sources, éviter les données non autorisées et faire approuver les actions irréversibles."
+      ],
+      "gettingStarted": [
+        "Définir vingt demandes fréquentes, relier un corpus approuvé et tester les procédures et l’escalade humaine avant ouverture au public.",
+        "Importer une FAQ validée et définir le périmètre des demandes prises en charge ainsi que les canaux autorisés.",
+        "Simuler au moins vingt demandes, dont des cas ambigus, sensibles et hors périmètre ; vérifier le transfert humain et les journaux avant déploiement."
+      ],
+      "examples": [
+        "Réponds à une demande de remboursement en utilisant seulement notre politique.",
+        "Achemine les cas urgents ou sensibles vers un humain avec résumé.",
+        "Réponds à la demande de livraison à partir des politiques officielles ; si l'information n'est pas disponible, crée un ticket sans inventer de délai.",
+        "Pour une demande de remboursement, vérifie le droit d'accès puis demande une approbation humaine avant toute transaction."
+      ],
+      "pricing": "Fin à partir de 0,99 USD par issue facturable sur la page officielle; sièges Intercom et autres charges possibles selon formule.",
+      "privacy": "Réduire les permissions du support automatisé; examiner les journaux, les données clients et la gouvernance de la connaissance.",
+      "selection": [
+        "Pertinent pour automatiser un support déjà structuré, pas pour remplacer sans supervision les décisions sensibles.",
+        "Comparer Intercom Fin selon les canaux (support_agent), la fiabilité documentaire, le transfert humain, les contrôles d'accès et les coûts réels."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "billing_updated",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.intercom.com/help/en/articles/9061614-fin-and-intercom-plans-explained",
+          "type": "official",
+          "reviewedAt": "2026-11-15"
+        },
+        {
+          "url": "https://www.intercom.com/help/en/articles/9515824-what-is-fin",
+          "type": "official",
+          "reviewedAt": "2026-11-15"
+        },
+        {
+          "url": "https://www.intercom.com/help/en/articles/7120684-fin-ai-agent-explained",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.intercom.com/help/en/articles/8205718-fin-ai-agent-outcomes",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_billing_updated"
+  },
+  "zendesk-ai": {
+    "descriptionFr": "Suite d'agents IA et d'assistance aux conseillers dans Zendesk pour automatiser les demandes par messagerie, email et voix avec connaissances et procédures.",
+    "descriptionEn": "Zendesk AI agents and human-agent assistance across messaging, email and voice using knowledge, procedures and authorized actions.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Agents IA et procédures génératives",
+      "Automated et Verified Resolutions",
+      "Copilot et transfert vers les conseillers"
+    ],
+    "featuresEn": [
+      "AI agents and generative procedures",
+      "Automated and Verified Resolutions",
+      "Copilot and human escalation"
+    ],
+    "accessFr": "Service web et intégrations selon l'offre",
+    "accessEn": "Web service and integrations depending on plan",
+    "officialSources": [
+      {
+        "url": "https://support.zendesk.com/hc/en-us/articles/6970583409690-About-AI-agents",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      },
+      {
+        "url": "https://support.zendesk.com/hc/en-us/articles/4408843026714-What-is-being-removed-updated-October-2026",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Suite d'agents IA et d'assistance aux conseillers dans Zendesk pour automatiser les demandes par messagerie, email et voix avec connaissances et procédures.",
+      "audiences": [
+        "Responsables de centres de contact et équipes de support",
+        "Administrateurs de bases de connaissances et responsables qualité"
+      ],
+      "cases": [
+        "Automatiser le classement et le traitement de tickets courants tout en transférant les cas sensibles.",
+        "Suivre les conversations non résolues, les escalades humaines et la qualité des réponses."
+      ],
+      "advantages": [
+        "Agents IA et procédures génératives",
+        "Automated et Verified Resolutions",
+        "Copilot et transfert vers les conseillers"
+      ],
+      "limits": [
+        "Les anciennes fonctions AI agents - Essential et le bot builder legacy sont en retrait progressif annoncé pour janvier 2027 ; ne pas confondre le nouvel agent avec l'ancienne génération. Mesurer les résolutions réelles et les coûts.",
+        "Les réponses peuvent être inexactes ; vérifier les sources, éviter les données non autorisées et faire approuver les actions irréversibles."
+      ],
+      "gettingStarted": [
+        "Importer une FAQ validée et définir le périmètre des demandes prises en charge ainsi que les canaux autorisés.",
+        "Simuler au moins vingt demandes, dont des cas ambigus, sensibles et hors périmètre ; vérifier le transfert humain et les journaux avant déploiement."
+      ],
+      "examples": [
+        "Réponds à la demande de livraison à partir des politiques officielles ; si l'information n'est pas disponible, crée un ticket sans inventer de délai.",
+        "Pour une demande de remboursement, vérifie le droit d'accès puis demande une approbation humaine avant toute transaction."
+      ],
+      "pricing": "Vérifier la facturation des résolutions, conversations, sièges, appels voix, connecteurs et modules avancés auprès du fournisseur.",
+      "privacy": "Limiter l'accès aux données de comptes et commandes, respecter les obligations de consentement et de conservation, et prévoir le contrôle des décisions automatisées.",
+      "selection": [
+        "Comparer Zendesk AI selon les canaux (helpdesk), la fiabilité documentaire, le transfert humain, les contrôles d'accès et les coûts réels."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "legacy_features_sunsetting",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://support.zendesk.com/hc/en-us/articles/6970583409690-About-AI-agents",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://support.zendesk.com/hc/en-us/articles/4408843026714-What-is-being-removed-updated-October-2026",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_legacy_sunset"
+  },
+  "ada": {
+    "descriptionFr": "Plateforme d'agents de support client conçus à partir de connaissances, de playbooks et d'actions externes avec règles de disponibilité.",
+    "descriptionEn": "Customer support AI agent platform using knowledge, playbooks, external actions and audience-aware availability rules.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Knowledge et personnalisation des réponses",
+      "Playbooks et Actions connectées",
+      "Conditions d'accès et transfert"
+    ],
+    "featuresEn": [
+      "Knowledge-grounded responses",
+      "Connected Actions and Playbooks",
+      "Audience controls and escalation"
+    ],
+    "accessFr": "Service web et intégrations selon l'offre",
+    "accessEn": "Web service and integrations depending on plan",
+    "officialSources": [
+      {
+        "url": "https://docs.ada.cx/docs/welcome/getting-started/enhance-your-ai-agent-with-automation",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      },
+      {
+        "url": "https://docs.ada.cx/release-notes/2024/1/29",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme d'agents de support client conçus à partir de connaissances, de playbooks et d'actions externes avec règles de disponibilité.",
+      "audiences": [
+        "Responsables de centres de contact et équipes de support",
+        "Administrateurs de bases de connaissances et responsables qualité"
+      ],
+      "cases": [
+        "Automatiser une demande sur une commande après vérification des informations et des droits du client.",
+        "Suivre les conversations non résolues, les escalades humaines et la qualité des réponses."
+      ],
+      "advantages": [
+        "Knowledge et personnalisation des réponses",
+        "Playbooks et Actions connectées",
+        "Conditions d'accès et transfert"
+      ],
+      "limits": [
+        "Définir la disponibilité des actions et des articles par groupes de clients ; limiter les permissions API et prévoir une escalade si l'identité n'est pas confirmée.",
+        "Les réponses peuvent être inexactes ; vérifier les sources, éviter les données non autorisées et faire approuver les actions irréversibles."
+      ],
+      "gettingStarted": [
+        "Importer une FAQ validée et définir le périmètre des demandes prises en charge ainsi que les canaux autorisés.",
+        "Simuler au moins vingt demandes, dont des cas ambigus, sensibles et hors périmètre ; vérifier le transfert humain et les journaux avant déploiement."
+      ],
+      "examples": [
+        "Réponds à la demande de livraison à partir des politiques officielles ; si l'information n'est pas disponible, crée un ticket sans inventer de délai.",
+        "Pour une demande de remboursement, vérifie le droit d'accès puis demande une approbation humaine avant toute transaction."
+      ],
+      "pricing": "Vérifier la facturation des résolutions, conversations, sièges, appels voix, connecteurs et modules avancés auprès du fournisseur.",
+      "privacy": "Limiter l'accès aux données de comptes et commandes, respecter les obligations de consentement et de conservation, et prévoir le contrôle des décisions automatisées.",
+      "selection": [
+        "Comparer Ada selon les canaux (enterprise_agent), la fiabilité documentaire, le transfert humain, les contrôles d'accès et les coûts réels."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.ada.cx/docs/welcome/getting-started/enhance-your-ai-agent-with-automation",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://docs.ada.cx/release-notes/2024/1/29",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "sierra": {
+    "descriptionFr": "Plateforme conversationnelle d'entreprise avec Agent Studio et Ghostwriter pour construire, tester et optimiser des agents multicanaux.",
+    "descriptionEn": "Enterprise conversational platform with Agent Studio and Ghostwriter for building, testing and optimizing multichannel agents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Ghostwriter et conception à partir de procédures",
+      "Agents multilingues et multicanaux",
+      "Traçabilité, supervision et garde-fous"
+    ],
+    "featuresEn": [
+      "Ghostwriter from standard operating procedures",
+      "Multilingual, multichannel agents",
+      "Tracing, oversight and guardrails"
+    ],
+    "accessFr": "Service web et intégrations selon l'offre",
+    "accessEn": "Web service and integrations depending on plan",
+    "officialSources": [
+      {
+        "url": "https://sierra.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "product_overview"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme conversationnelle d'entreprise avec Agent Studio et Ghostwriter pour construire, tester et optimiser des agents multicanaux.",
+      "audiences": [
+        "Responsables de centres de contact et équipes de support",
+        "Administrateurs de bases de connaissances et responsables qualité"
+      ],
+      "cases": [
+        "Transformer des procédures d'assistance en agent conversationnel, puis tester les scénarios exceptionnels.",
+        "Suivre les conversations non résolues, les escalades humaines et la qualité des réponses."
+      ],
+      "advantages": [
+        "Ghostwriter et conception à partir de procédures",
+        "Agents multilingues et multicanaux",
+        "Traçabilité, supervision et garde-fous"
+      ],
+      "limits": [
+        "Les agents peuvent déclencher des actions opérationnelles : tester les garde-fous, les autorisations et la traçabilité avant production ; la tarification requiert un devis.",
+        "Les réponses peuvent être inexactes ; vérifier les sources, éviter les données non autorisées et faire approuver les actions irréversibles."
+      ],
+      "gettingStarted": [
+        "Importer une FAQ validée et définir le périmètre des demandes prises en charge ainsi que les canaux autorisés.",
+        "Simuler au moins vingt demandes, dont des cas ambigus, sensibles et hors périmètre ; vérifier le transfert humain et les journaux avant déploiement."
+      ],
+      "examples": [
+        "Réponds à la demande de livraison à partir des politiques officielles ; si l'information n'est pas disponible, crée un ticket sans inventer de délai.",
+        "Pour une demande de remboursement, vérifie le droit d'accès puis demande une approbation humaine avant toute transaction."
+      ],
+      "pricing": "Vérifier la facturation des résolutions, conversations, sièges, appels voix, connecteurs et modules avancés auprès du fournisseur.",
+      "privacy": "Limiter l'accès aux données de comptes et commandes, respecter les obligations de consentement et de conservation, et prévoir le contrôle des décisions automatisées.",
+      "selection": [
+        "Comparer Sierra selon les canaux (enterprise_agent), la fiabilité documentaire, le transfert humain, les contrôles d'accès et les coûts réels."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "product_overview",
+      "evidence": "official_product_page",
+      "sources": [
+        {
+          "url": "https://sierra.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_product_overview"
+  },
+  "decagon": {
+    "descriptionFr": "Plateforme d'agents clients utilisant des Agent Operating Procedures (AOPs) en langage naturel, avec tests et observabilité des conversations.",
+    "descriptionEn": "Customer AI agent platform using natural-language Agent Operating Procedures (AOPs), tests and conversation observability.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "AOPs pour workflows en langage naturel",
+      "Tests et expérimentation des scénarios",
+      "Observabilité, analytics et outils de diagnostic"
+    ],
+    "featuresEn": [
+      "Natural-language workflow AOPs",
+      "Scenario testing and experimentation",
+      "Observability, analytics and diagnostics"
+    ],
+    "accessFr": "Service web et intégrations selon l'offre",
+    "accessEn": "Web service and integrations depending on plan",
+    "officialSources": [
+      {
+        "url": "https://decagon.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      },
+      {
+        "url": "https://trust.decagon.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme d'agents clients utilisant des Agent Operating Procedures (AOPs) en langage naturel, avec tests et observabilité des conversations.",
+      "audiences": [
+        "Responsables de centres de contact et équipes de support",
+        "Administrateurs de bases de connaissances et responsables qualité"
+      ],
+      "cases": [
+        "Décrire une procédure de retour produit et vérifier ses branches avant d'autoriser l'agent à agir.",
+        "Suivre les conversations non résolues, les escalades humaines et la qualité des réponses."
+      ],
+      "advantages": [
+        "AOPs pour workflows en langage naturel",
+        "Tests et expérimentation des scénarios",
+        "Observabilité, analytics et outils de diagnostic"
+      ],
+      "limits": [
+        "Les procédures en langage naturel doivent être testées sur des cas limites ; les déclarations de conformité et de performance nécessitent une vérification contractuelle et opérationnelle.",
+        "Les réponses peuvent être inexactes ; vérifier les sources, éviter les données non autorisées et faire approuver les actions irréversibles."
+      ],
+      "gettingStarted": [
+        "Importer une FAQ validée et définir le périmètre des demandes prises en charge ainsi que les canaux autorisés.",
+        "Simuler au moins vingt demandes, dont des cas ambigus, sensibles et hors périmètre ; vérifier le transfert humain et les journaux avant déploiement."
+      ],
+      "examples": [
+        "Réponds à la demande de livraison à partir des politiques officielles ; si l'information n'est pas disponible, crée un ticket sans inventer de délai.",
+        "Pour une demande de remboursement, vérifie le droit d'accès puis demande une approbation humaine avant toute transaction."
+      ],
+      "pricing": "Vérifier la facturation des résolutions, conversations, sièges, appels voix, connecteurs et modules avancés auprès du fournisseur.",
+      "privacy": "Limiter l'accès aux données de comptes et commandes, respecter les obligations de consentement et de conservation, et prévoir le contrôle des décisions automatisées.",
+      "selection": [
+        "Comparer Decagon selon les canaux (enterprise_agent), la fiabilité documentaire, le transfert humain, les contrôles d'accès et les coûts réels."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://decagon.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://trust.decagon.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "forethought": {
+    "descriptionFr": "Plateforme d'agents IA de support rachetée par Zendesk en mars 2026 et proposée comme Forethought AI agents by Zendesk, utilisable aussi hors Zendesk.",
+    "descriptionEn": "Support AI agents acquired by Zendesk in March 2026, offered as Forethought AI agents by Zendesk and usable outside Zendesk.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Solve et automatisation de la résolution",
+      "Assist, Triage et contrôle qualité en modules",
+      "Intégration à des helpdesks tiers"
+    ],
+    "featuresEn": [
+      "Solve and automated resolutions",
+      "Modular Assist, Triage and QA",
+      "Integration with third-party helpdesks"
+    ],
+    "accessFr": "Service web et intégrations selon l'offre",
+    "accessEn": "Web service and integrations depending on plan",
+    "officialSources": [
+      {
+        "url": "https://www.zendesk.com/newsroom/articles/zendesk-completes-forethought-acquisition/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      },
+      {
+        "url": "https://support.zendesk.com/hc/en-us/articles/10659079322394-About-Forethought-AI-agents-by-Zendesk",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme d'agents IA de support rachetée par Zendesk en mars 2026 et proposée comme Forethought AI agents by Zendesk, utilisable aussi hors Zendesk.",
+      "audiences": [
+        "Responsables de centres de contact et équipes de support",
+        "Administrateurs de bases de connaissances et responsables qualité"
+      ],
+      "cases": [
+        "Ajouter un agent de qualification et d'orientation des tickets à un support déjà structuré.",
+        "Suivre les conversations non résolues, les escalades humaines et la qualité des réponses."
+      ],
+      "advantages": [
+        "Solve et automatisation de la résolution",
+        "Assist, Triage et contrôle qualité en modules",
+        "Intégration à des helpdesks tiers"
+      ],
+      "limits": [
+        "Acquis par Zendesk le 26 mars 2026, mais commercialisé également pour les clients d'autres helpdesks ; ne pas déclarer Forethought abandonné. Les modules Assist, Triage, QA et Discover peuvent être des add-ons.",
+        "Les réponses peuvent être inexactes ; vérifier les sources, éviter les données non autorisées et faire approuver les actions irréversibles."
+      ],
+      "gettingStarted": [
+        "Importer une FAQ validée et définir le périmètre des demandes prises en charge ainsi que les canaux autorisés.",
+        "Simuler au moins vingt demandes, dont des cas ambigus, sensibles et hors périmètre ; vérifier le transfert humain et les journaux avant déploiement."
+      ],
+      "examples": [
+        "Réponds à la demande de livraison à partir des politiques officielles ; si l'information n'est pas disponible, crée un ticket sans inventer de délai.",
+        "Pour une demande de remboursement, vérifie le droit d'accès puis demande une approbation humaine avant toute transaction."
+      ],
+      "pricing": "Vérifier la facturation des résolutions, conversations, sièges, appels voix, connecteurs et modules avancés auprès du fournisseur.",
+      "privacy": "Limiter l'accès aux données de comptes et commandes, respecter les obligations de consentement et de conservation, et prévoir le contrôle des décisions automatisées.",
+      "selection": [
+        "Comparer Forethought selon les canaux (helpdesk), la fiabilité documentaire, le transfert humain, les contrôles d'accès et les coûts réels."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "acquired_and_available",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.zendesk.com/newsroom/articles/zendesk-completes-forethought-acquisition/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://support.zendesk.com/hc/en-us/articles/10659079322394-About-Forethought-AI-agents-by-Zendesk",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_acquired_active"
+  },
+  "kore-ai": {
+    "descriptionFr": "Plateforme d'IA conversationnelle d'entreprise pour agents virtuels, assistance aux conseillers et orchestration des canaux clients.",
+    "descriptionEn": "Enterprise conversational AI platform for virtual agents, agent assistance and customer-channel orchestration.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Agents IA et dialogues orchestrés",
+      "Copilot de centre de contact",
+      "Connexion aux systèmes d'entreprise"
+    ],
+    "featuresEn": [
+      "AI agents and orchestrated dialogs",
+      "Contact center copilot",
+      "Enterprise systems integrations"
+    ],
+    "accessFr": "Service web et intégrations selon l'offre",
+    "accessEn": "Web service and integrations depending on plan",
+    "officialSources": [
+      {
+        "url": "https://kore.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "product_overview"
+      },
+      {
+        "url": "https://docs.kore.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "product_overview"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme d'IA conversationnelle d'entreprise pour agents virtuels, assistance aux conseillers et orchestration des canaux clients.",
+      "audiences": [
+        "Responsables de centres de contact et équipes de support",
+        "Administrateurs de bases de connaissances et responsables qualité"
+      ],
+      "cases": [
+        "Déployer un assistant de service bancaire sur canaux numériques avec authentification et recours humain.",
+        "Suivre les conversations non résolues, les escalades humaines et la qualité des réponses."
+      ],
+      "advantages": [
+        "Agents IA et dialogues orchestrés",
+        "Copilot de centre de contact",
+        "Connexion aux systèmes d'entreprise"
+      ],
+      "limits": [
+        "Les fonctionnalités sont réparties entre produits Kore.ai ; demander une démonstration du module visé et tester sécurité, langues et conditions de transfert.",
+        "Les réponses peuvent être inexactes ; vérifier les sources, éviter les données non autorisées et faire approuver les actions irréversibles."
+      ],
+      "gettingStarted": [
+        "Importer une FAQ validée et définir le périmètre des demandes prises en charge ainsi que les canaux autorisés.",
+        "Simuler au moins vingt demandes, dont des cas ambigus, sensibles et hors périmètre ; vérifier le transfert humain et les journaux avant déploiement."
+      ],
+      "examples": [
+        "Réponds à la demande de livraison à partir des politiques officielles ; si l'information n'est pas disponible, crée un ticket sans inventer de délai.",
+        "Pour une demande de remboursement, vérifie le droit d'accès puis demande une approbation humaine avant toute transaction."
+      ],
+      "pricing": "Vérifier la facturation des résolutions, conversations, sièges, appels voix, connecteurs et modules avancés auprès du fournisseur.",
+      "privacy": "Limiter l'accès aux données de comptes et commandes, respecter les obligations de consentement et de conservation, et prévoir le contrôle des décisions automatisées.",
+      "selection": [
+        "Comparer Kore.ai selon les canaux (enterprise_agent), la fiabilité documentaire, le transfert humain, les contrôles d'accès et les coûts réels."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "product_overview",
+      "evidence": "official_product_page",
+      "sources": [
+        {
+          "url": "https://kore.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://docs.kore.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_product_overview"
+  },
+  "cognigy": {
+    "descriptionFr": "Plateforme d'agents de contact client par voix et chat, acquise par NiCE en septembre 2025 mais toujours disponible comme produit autonome.",
+    "descriptionEn": "Voice and chat contact-center AI agent platform acquired by NiCE in September 2025 and still offered standalone.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Agents conversationnels voix et chat",
+      "Intégrations de centre de contact",
+      "Déploiement standalone ou dans l'écosystème NiCE"
+    ],
+    "featuresEn": [
+      "Voice and chat conversational agents",
+      "Contact center integrations",
+      "Standalone or NiCE ecosystem deployment"
+    ],
+    "accessFr": "Service web et intégrations selon l'offre",
+    "accessEn": "Web service and integrations depending on plan",
+    "officialSources": [
+      {
+        "url": "https://www.cognigy.com/news/nice-closes-acquisition-of-cognigy",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      },
+      {
+        "url": "https://www.cognigy.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme d'agents de contact client par voix et chat, acquise par NiCE en septembre 2025 mais toujours disponible comme produit autonome.",
+      "audiences": [
+        "Responsables de centres de contact et équipes de support",
+        "Administrateurs de bases de connaissances et responsables qualité"
+      ],
+      "cases": [
+        "Réaliser un agent de prise d'informations pour centre d'appels avec transfert au conseiller.",
+        "Suivre les conversations non résolues, les escalades humaines et la qualité des réponses."
+      ],
+      "advantages": [
+        "Agents conversationnels voix et chat",
+        "Intégrations de centre de contact",
+        "Déploiement standalone ou dans l'écosystème NiCE"
+      ],
+      "limits": [
+        "L'acquisition par NiCE est finalisée depuis le 8 septembre 2025, sans arrêt du service autonome. Examiner la gestion des enregistrements, la latence voix et les intégrations téléphoniques.",
+        "Les réponses peuvent être inexactes ; vérifier les sources, éviter les données non autorisées et faire approuver les actions irréversibles."
+      ],
+      "gettingStarted": [
+        "Importer une FAQ validée et définir le périmètre des demandes prises en charge ainsi que les canaux autorisés.",
+        "Simuler au moins vingt demandes, dont des cas ambigus, sensibles et hors périmètre ; vérifier le transfert humain et les journaux avant déploiement."
+      ],
+      "examples": [
+        "Réponds à la demande de livraison à partir des politiques officielles ; si l'information n'est pas disponible, crée un ticket sans inventer de délai.",
+        "Pour une demande de remboursement, vérifie le droit d'accès puis demande une approbation humaine avant toute transaction."
+      ],
+      "pricing": "Vérifier la facturation des résolutions, conversations, sièges, appels voix, connecteurs et modules avancés auprès du fournisseur.",
+      "privacy": "Limiter l'accès aux données de comptes et commandes, respecter les obligations de consentement et de conservation, et prévoir le contrôle des décisions automatisées.",
+      "selection": [
+        "Comparer Cognigy selon les canaux (voice_contact_center), la fiabilité documentaire, le transfert humain, les contrôles d'accès et les coûts réels."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "acquired_and_available",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.cognigy.com/news/nice-closes-acquisition-of-cognigy",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.cognigy.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_acquired_active"
+  },
+  "botpress": {
+    "descriptionFr": "Studio de création d'agents conversationnels avec bases de connaissances, nœuds autonomes, outils, Webchat et transferts humains.",
+    "descriptionEn": "Conversational agent builder with knowledge bases, autonomous nodes, tools, webchat and human handoff.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Knowledge Bases et sources externes",
+      "Autonomous Nodes et Actions",
+      "Webchat, canaux et Human Handoff"
+    ],
+    "featuresEn": [
+      "Knowledge Bases and external sources",
+      "Autonomous Nodes and Actions",
+      "Webchat, channels and human handoff"
+    ],
+    "accessFr": "Studio web et API selon forfait",
+    "accessEn": "Web studio and plan-dependent APIs",
+    "officialSources": [
+      {
+        "url": "https://botpress.com/docs/changelog/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      },
+      {
+        "url": "https://botpress.com/docs/adk-v1-17/conversations/ai-execution/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Studio de création d'agents conversationnels avec bases de connaissances, nœuds autonomes, outils, Webchat et transferts humains.",
+      "audiences": [
+        "Concepteurs de chatbots et développeurs",
+        "Administrateurs de bases de connaissances et responsables qualité"
+      ],
+      "cases": [
+        "Créer un chatbot documentaire pour un portail et prévoir le transfert à un humain en cas d'incertitude.",
+        "Suivre les conversations non résolues, les escalades humaines et la qualité des réponses."
+      ],
+      "advantages": [
+        "Knowledge Bases et sources externes",
+        "Autonomous Nodes et Actions",
+        "Webchat, canaux et Human Handoff"
+      ],
+      "limits": [
+        "Les configurations d'agents, outils et canaux peuvent évoluer ; protéger les clés API, vérifier les droits d'accès aux données et surveiller les coûts du modèle.",
+        "Les réponses peuvent être inexactes ; vérifier les sources, éviter les données non autorisées et faire approuver les actions irréversibles."
+      ],
+      "gettingStarted": [
+        "Importer une FAQ validée et définir le périmètre des demandes prises en charge ainsi que les canaux autorisés.",
+        "Simuler au moins vingt demandes, dont des cas ambigus, sensibles et hors périmètre ; vérifier le transfert humain et les journaux avant déploiement."
+      ],
+      "examples": [
+        "Réponds à la demande de livraison à partir des politiques officielles ; si l'information n'est pas disponible, crée un ticket sans inventer de délai.",
+        "Pour une demande de remboursement, vérifie le droit d'accès puis demande une approbation humaine avant toute transaction."
+      ],
+      "pricing": "Vérifier la facturation des résolutions, conversations, sièges, appels voix, connecteurs et modules avancés auprès du fournisseur.",
+      "privacy": "Limiter l'accès aux données de comptes et commandes, respecter les obligations de consentement et de conservation, et prévoir le contrôle des décisions automatisées.",
+      "selection": [
+        "Comparer Botpress selon les canaux (builder), la fiabilité documentaire, le transfert humain, les contrôles d'accès et les coûts réels."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://botpress.com/docs/changelog/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://botpress.com/docs/adk-v1-17/conversations/ai-execution/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "voiceflow": {
+    "descriptionFr": "Plateforme visuelle et API pour construire, tester et publier des agents de support par chat et téléphone, avec connaissances, playbooks et workflows.",
+    "descriptionEn": "Visual platform and APIs for building, testing and publishing support agents over chat and phone using knowledge, playbooks and workflows.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Playbooks, workflows et bases de connaissances",
+      "Chat web, téléphone et APIs",
+      "Tests, évaluations et transfert humain"
+    ],
+    "featuresEn": [
+      "Playbooks, workflows and knowledge bases",
+      "Web chat, phone and APIs",
+      "Tests, evaluations and human handoff"
+    ],
+    "accessFr": "Studio web et API selon forfait",
+    "accessEn": "Web studio and plan-dependent APIs",
+    "officialSources": [
+      {
+        "url": "https://www.voiceflow.com/docs",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      },
+      {
+        "url": "https://www.voiceflow.com/docs/start/overview",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme visuelle et API pour construire, tester et publier des agents de support par chat et téléphone, avec connaissances, playbooks et workflows.",
+      "audiences": [
+        "Concepteurs de chatbots et développeurs",
+        "Administrateurs de bases de connaissances et responsables qualité"
+      ],
+      "cases": [
+        "Concevoir un assistant de site qui répond à une FAQ et ouvre un ticket si nécessaire.",
+        "Suivre les conversations non résolues, les escalades humaines et la qualité des réponses."
+      ],
+      "advantages": [
+        "Playbooks, workflows et bases de connaissances",
+        "Chat web, téléphone et APIs",
+        "Tests, évaluations et transfert humain"
+      ],
+      "limits": [
+        "Le SMS est décrit en bêta dans la documentation d'octobre 2026 ; le transfert humain doit être configuré, et les appels sortants ainsi que les intégrations entraînent des coûts spécifiques.",
+        "Les réponses peuvent être inexactes ; vérifier les sources, éviter les données non autorisées et faire approuver les actions irréversibles."
+      ],
+      "gettingStarted": [
+        "Importer une FAQ validée et définir le périmètre des demandes prises en charge ainsi que les canaux autorisés.",
+        "Simuler au moins vingt demandes, dont des cas ambigus, sensibles et hors périmètre ; vérifier le transfert humain et les journaux avant déploiement."
+      ],
+      "examples": [
+        "Réponds à la demande de livraison à partir des politiques officielles ; si l'information n'est pas disponible, crée un ticket sans inventer de délai.",
+        "Pour une demande de remboursement, vérifie le droit d'accès puis demande une approbation humaine avant toute transaction."
+      ],
+      "pricing": "Vérifier la facturation des résolutions, conversations, sièges, appels voix, connecteurs et modules avancés auprès du fournisseur.",
+      "privacy": "Limiter l'accès aux données de comptes et commandes, respecter les obligations de consentement et de conservation, et prévoir le contrôle des décisions automatisées.",
+      "selection": [
+        "Comparer Voiceflow selon les canaux (builder), la fiabilité documentaire, le transfert humain, les contrôles d'accès et les coûts réels."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.voiceflow.com/docs",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.voiceflow.com/docs/start/overview",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "tidio-lyro": {
+    "descriptionFr": "Agent conversationnel Lyro de Tidio, connecté aux contenus de l'entreprise et capable d'agir, d'ouvrir des tickets ou de transférer les demandes.",
+    "descriptionEn": "Tidio Lyro conversational AI agent using company knowledge and able to take actions, open tickets or hand off conversations.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Connaissances, Guidance et Actions",
+      "Transfert aux agents ou création de tickets",
+      "Chat, email et canaux compatibles"
+    ],
+    "featuresEn": [
+      "Knowledge, Guidance and Actions",
+      "Agent handoff or ticket creation",
+      "Chat, email and supported channels"
+    ],
+    "accessFr": "Web, canaux de messagerie et email selon plan",
+    "accessEn": "Web, messaging and email by plan",
+    "officialSources": [
+      {
+        "url": "https://help.tidio.com/articles/lyro-main/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      },
+      {
+        "url": "https://help.tidio.com/articles/the-lyro-ai-agent-limit/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Agent conversationnel Lyro de Tidio, connecté aux contenus de l'entreprise et capable d'agir, d'ouvrir des tickets ou de transférer les demandes.",
+      "audiences": [
+        "Responsables de centres de contact et équipes de support",
+        "Administrateurs de bases de connaissances et responsables qualité"
+      ],
+      "cases": [
+        "Automatiser les questions sur les délais de livraison en orientant les réclamations vers l'équipe.",
+        "Suivre les conversations non résolues, les escalades humaines et la qualité des réponses."
+      ],
+      "advantages": [
+        "Connaissances, Guidance et Actions",
+        "Transfert aux agents ou création de tickets",
+        "Chat, email et canaux compatibles"
+      ],
+      "limits": [
+        "L'offre gratuite mentionne 50 conversations à vie ; les offres payantes réinitialisent les quotas mensuellement. Depuis le 26 octobre 2026, Lyro peut répondre aux suivis dans un même fil d'email.",
+        "Les réponses peuvent être inexactes ; vérifier les sources, éviter les données non autorisées et faire approuver les actions irréversibles."
+      ],
+      "gettingStarted": [
+        "Importer une FAQ validée et définir le périmètre des demandes prises en charge ainsi que les canaux autorisés.",
+        "Simuler au moins vingt demandes, dont des cas ambigus, sensibles et hors périmètre ; vérifier le transfert humain et les journaux avant déploiement."
+      ],
+      "examples": [
+        "Réponds à la demande de livraison à partir des politiques officielles ; si l'information n'est pas disponible, crée un ticket sans inventer de délai.",
+        "Pour une demande de remboursement, vérifie le droit d'accès puis demande une approbation humaine avant toute transaction."
+      ],
+      "pricing": "Vérifier la facturation des résolutions, conversations, sièges, appels voix, connecteurs et modules avancés auprès du fournisseur.",
+      "privacy": "Limiter l'accès aux données de comptes et commandes, respecter les obligations de consentement et de conservation, et prévoir le contrôle des décisions automatisées.",
+      "selection": [
+        "Comparer Tidio Lyro selon les canaux (small_business), la fiabilité documentaire, le transfert humain, les contrôles d'accès et les coûts réels."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "email_capabilities_updated",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.tidio.com/articles/lyro-main/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://help.tidio.com/articles/the-lyro-ai-agent-limit/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "freshworks-freddy-ai": {
+    "descriptionFr": "Suite Freddy AI de Freshworks intégrant agents autonomes, copilote des conseillers et analyses dans les produits Freshdesk et Freshservice.",
+    "descriptionEn": "Freshworks Freddy AI suite with autonomous AI agents, human-agent copilot and insights across Freshdesk and Freshservice.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Freddy AI Agent et agents de service",
+      "Copilot : réponses et résumés de tickets",
+      "Insights et sources de connaissances"
+    ],
+    "featuresEn": [
+      "Freddy AI Agent for service",
+      "Copilot ticket responses and summaries",
+      "Insights and knowledge sources"
+    ],
+    "accessFr": "Service web et intégrations selon l'offre",
+    "accessEn": "Web service and integrations depending on plan",
+    "officialSources": [
+      {
+        "url": "https://crmsupport.freshworks.com/support/solutions/articles/50000014450-configure-copilot-agent-and-its-built-in-features",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      },
+      {
+        "url": "https://support.freshworks.com/support/solutions/articles/50000012022-mec-to-eun-migration-guide",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Suite Freddy AI de Freshworks intégrant agents autonomes, copilote des conseillers et analyses dans les produits Freshdesk et Freshservice.",
+      "audiences": [
+        "Responsables de centres de contact et équipes de support",
+        "Administrateurs de bases de connaissances et responsables qualité"
+      ],
+      "cases": [
+        "Proposer des réponses aux tickets et transférer les cas difficiles avec résumé aux opérateurs.",
+        "Suivre les conversations non résolues, les escalades humaines et la qualité des réponses."
+      ],
+      "advantages": [
+        "Freddy AI Agent et agents de service",
+        "Copilot : réponses et résumés de tickets",
+        "Insights et sources de connaissances"
+      ],
+      "limits": [
+        "Ne pas confondre Freddy AI Agent, Copilot et Insights : licences et accès diffèrent. La disponibilité régionale de fonctions peut être affectée par les migrations d'infrastructure.",
+        "Les réponses peuvent être inexactes ; vérifier les sources, éviter les données non autorisées et faire approuver les actions irréversibles."
+      ],
+      "gettingStarted": [
+        "Importer une FAQ validée et définir le périmètre des demandes prises en charge ainsi que les canaux autorisés.",
+        "Simuler au moins vingt demandes, dont des cas ambigus, sensibles et hors périmètre ; vérifier le transfert humain et les journaux avant déploiement."
+      ],
+      "examples": [
+        "Réponds à la demande de livraison à partir des politiques officielles ; si l'information n'est pas disponible, crée un ticket sans inventer de délai.",
+        "Pour une demande de remboursement, vérifie le droit d'accès puis demande une approbation humaine avant toute transaction."
+      ],
+      "pricing": "Vérifier la facturation des résolutions, conversations, sièges, appels voix, connecteurs et modules avancés auprès du fournisseur.",
+      "privacy": "Limiter l'accès aux données de comptes et commandes, respecter les obligations de consentement et de conservation, et prévoir le contrôle des décisions automatisées.",
+      "selection": [
+        "Comparer Freshworks Freddy AI selon les canaux (helpdesk), la fiabilité documentaire, le transfert humain, les contrôles d'accès et les coûts réels."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://crmsupport.freshworks.com/support/solutions/articles/50000014450-configure-copilot-agent-and-its-built-in-features",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://support.freshworks.com/support/solutions/articles/50000012022-mec-to-eun-migration-guide",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "gorgias": {
+    "descriptionFr": "Plateforme de support e-commerce orientée Shopify avec agent IA nourri par les commandes, les produits, la documentation et les règles de la boutique.",
+    "descriptionEn": "Ecommerce support platform oriented to Shopify with AI agent grounded in orders, products, documentation and store policies.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "IA connectée aux données Shopify",
+      "Actions sur commandes, retours et informations",
+      "Assistance e-commerce et transfert humain"
+    ],
+    "featuresEn": [
+      "Shopify-grounded AI",
+      "Order, return and information actions",
+      "Ecommerce support and human handoff"
+    ],
+    "accessFr": "Service web et intégrations selon l'offre",
+    "accessEn": "Web service and integrations depending on plan",
+    "officialSources": [
+      {
+        "url": "https://docs.gorgias.com/en-US/how-gorgiass-ai-agent-works-1997817",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      },
+      {
+        "url": "https://www.gorgias.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de support e-commerce orientée Shopify avec agent IA nourri par les commandes, les produits, la documentation et les règles de la boutique.",
+      "audiences": [
+        "Responsables de boutiques en ligne et service après-vente",
+        "Administrateurs de bases de connaissances et responsables qualité"
+      ],
+      "cases": [
+        "Répondre à une demande sur un colis puis soumettre les demandes de remboursement à validation.",
+        "Suivre les conversations non résolues, les escalades humaines et la qualité des réponses."
+      ],
+      "advantages": [
+        "IA connectée aux données Shopify",
+        "Actions sur commandes, retours et informations",
+        "Assistance e-commerce et transfert humain"
+      ],
+      "limits": [
+        "Les Actions peuvent toucher aux commandes : configurer les droits et règles de remboursement ; vérifier les plans d'usage IA et la dépendance aux données Shopify.",
+        "Les réponses peuvent être inexactes ; vérifier les sources, éviter les données non autorisées et faire approuver les actions irréversibles."
+      ],
+      "gettingStarted": [
+        "Importer une FAQ validée et définir le périmètre des demandes prises en charge ainsi que les canaux autorisés.",
+        "Simuler au moins vingt demandes, dont des cas ambigus, sensibles et hors périmètre ; vérifier le transfert humain et les journaux avant déploiement."
+      ],
+      "examples": [
+        "Réponds à la demande de livraison à partir des politiques officielles ; si l'information n'est pas disponible, crée un ticket sans inventer de délai.",
+        "Pour une demande de remboursement, vérifie le droit d'accès puis demande une approbation humaine avant toute transaction."
+      ],
+      "pricing": "Vérifier la facturation des résolutions, conversations, sièges, appels voix, connecteurs et modules avancés auprès du fournisseur.",
+      "privacy": "Limiter l'accès aux données de comptes et commandes, respecter les obligations de consentement et de conservation, et prévoir le contrôle des décisions automatisées.",
+      "selection": [
+        "Comparer Gorgias selon les canaux (ecommerce), la fiabilité documentaire, le transfert humain, les contrôles d'accès et les coûts réels."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.gorgias.com/en-US/how-gorgiass-ai-agent-works-1997817",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.gorgias.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "kustomer": {
+    "descriptionFr": "Plateforme de support client orientée vue unifiée du client et automatisations IA pour conversations, dossiers et assistance des opérateurs.",
+    "descriptionEn": "Customer service platform with unified customer view and AI automation across conversations, cases and agent assistance.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Vue unifiée du parcours client",
+      "Automatisation conversationnelle et IA",
+      "Affectation et collaboration des équipes"
+    ],
+    "featuresEn": [
+      "Unified customer journey view",
+      "Conversational AI automation",
+      "Routing and team collaboration"
+    ],
+    "accessFr": "Service web et intégrations selon l'offre",
+    "accessEn": "Web service and integrations depending on plan",
+    "officialSources": [
+      {
+        "url": "https://www.kustomer.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "product_overview"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de support client orientée vue unifiée du client et automatisations IA pour conversations, dossiers et assistance des opérateurs.",
+      "audiences": [
+        "Responsables de centres de contact et équipes de support",
+        "Administrateurs de bases de connaissances et responsables qualité"
+      ],
+      "cases": [
+        "Centraliser les échanges d'un client à travers les canaux avant de proposer une réponse contextualisée.",
+        "Suivre les conversations non résolues, les escalades humaines et la qualité des réponses."
+      ],
+      "advantages": [
+        "Vue unifiée du parcours client",
+        "Automatisation conversationnelle et IA",
+        "Affectation et collaboration des équipes"
+      ],
+      "limits": [
+        "Vérifier les canaux pris en charge, la nature des intégrations CRM et les licences IA auprès du fournisseur ; ne pas supposer que toute action est automatisée par défaut.",
+        "Les réponses peuvent être inexactes ; vérifier les sources, éviter les données non autorisées et faire approuver les actions irréversibles."
+      ],
+      "gettingStarted": [
+        "Importer une FAQ validée et définir le périmètre des demandes prises en charge ainsi que les canaux autorisés.",
+        "Simuler au moins vingt demandes, dont des cas ambigus, sensibles et hors périmètre ; vérifier le transfert humain et les journaux avant déploiement."
+      ],
+      "examples": [
+        "Réponds à la demande de livraison à partir des politiques officielles ; si l'information n'est pas disponible, crée un ticket sans inventer de délai.",
+        "Pour une demande de remboursement, vérifie le droit d'accès puis demande une approbation humaine avant toute transaction."
+      ],
+      "pricing": "Vérifier la facturation des résolutions, conversations, sièges, appels voix, connecteurs et modules avancés auprès du fournisseur.",
+      "privacy": "Limiter l'accès aux données de comptes et commandes, respecter les obligations de consentement et de conservation, et prévoir le contrôle des décisions automatisées.",
+      "selection": [
+        "Comparer Kustomer selon les canaux (helpdesk), la fiabilité documentaire, le transfert humain, les contrôles d'accès et les coûts réels."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "product_overview",
+      "evidence": "official_product_page",
+      "sources": [
+        {
+          "url": "https://www.kustomer.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_product_overview"
+  },
+  "liveperson": {
+    "descriptionFr": "Plateforme de conversations clients et de bots IA pour engager, orienter et assister les demandes sur les canaux numériques.",
+    "descriptionEn": "Customer conversation and AI bot platform for engagement, routing and support on digital channels.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Orchestration conversationnelle et bots",
+      "Connecteurs aux systèmes métiers",
+      "Analyse et collaboration avec les opérateurs"
+    ],
+    "featuresEn": [
+      "Conversational orchestration and bots",
+      "Business system connectors",
+      "Analytics and human-agent collaboration"
+    ],
+    "accessFr": "Service web et intégrations selon l'offre",
+    "accessEn": "Web service and integrations depending on plan",
+    "officialSources": [
+      {
+        "url": "https://www.liveperson.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "product_overview"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de conversations clients et de bots IA pour engager, orienter et assister les demandes sur les canaux numériques.",
+      "audiences": [
+        "Responsables de centres de contact et équipes de support",
+        "Administrateurs de bases de connaissances et responsables qualité"
+      ],
+      "cases": [
+        "Mettre en place une première ligne de support par messagerie avec transfert des sujets sensibles.",
+        "Suivre les conversations non résolues, les escalades humaines et la qualité des réponses."
+      ],
+      "advantages": [
+        "Orchestration conversationnelle et bots",
+        "Connecteurs aux systèmes métiers",
+        "Analyse et collaboration avec les opérateurs"
+      ],
+      "limits": [
+        "Les capacités varient selon les canaux et l'édition ; vérifier l'hébergement, les permissions, la rétention et le coût réel par volume de conversations.",
+        "Les réponses peuvent être inexactes ; vérifier les sources, éviter les données non autorisées et faire approuver les actions irréversibles."
+      ],
+      "gettingStarted": [
+        "Importer une FAQ validée et définir le périmètre des demandes prises en charge ainsi que les canaux autorisés.",
+        "Simuler au moins vingt demandes, dont des cas ambigus, sensibles et hors périmètre ; vérifier le transfert humain et les journaux avant déploiement."
+      ],
+      "examples": [
+        "Réponds à la demande de livraison à partir des politiques officielles ; si l'information n'est pas disponible, crée un ticket sans inventer de délai.",
+        "Pour une demande de remboursement, vérifie le droit d'accès puis demande une approbation humaine avant toute transaction."
+      ],
+      "pricing": "Vérifier la facturation des résolutions, conversations, sièges, appels voix, connecteurs et modules avancés auprès du fournisseur.",
+      "privacy": "Limiter l'accès aux données de comptes et commandes, respecter les obligations de consentement et de conservation, et prévoir le contrôle des décisions automatisées.",
+      "selection": [
+        "Comparer LivePerson selon les canaux (enterprise_agent), la fiabilité documentaire, le transfert humain, les contrôles d'accès et les coûts réels."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "product_overview",
+      "evidence": "official_product_page",
+      "sources": [
+        {
+          "url": "https://www.liveperson.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_product_overview"
+  },
+  "yellow-ai": {
+    "descriptionFr": "Plateforme Yellow.ai Nexus de création d'agents de service par chat, voix et email, avec connaissances Atlas, données Fabric et boîte Inbox.",
+    "descriptionEn": "Yellow.ai Nexus platform for chat, voice and email service agents with Atlas knowledge, Fabric data and Inbox support.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Nexus : outils de conception, test et déploiement",
+      "Atlas, Fabric et Inbox",
+      "Agents voix et chat, contrôles de sécurité"
+    ],
+    "featuresEn": [
+      "Nexus build, test and deployment",
+      "Atlas, Fabric and Inbox",
+      "Voice and chat agents with safety controls"
+    ],
+    "accessFr": "Service web et intégrations selon l'offre",
+    "accessEn": "Web service and integrations depending on plan",
+    "officialSources": [
+      {
+        "url": "https://docs.yellow.ai/docs/nexus",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      },
+      {
+        "url": "https://docs.yellow.ai/whats-new",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme Yellow.ai Nexus de création d'agents de service par chat, voix et email, avec connaissances Atlas, données Fabric et boîte Inbox.",
+      "audiences": [
+        "Responsables de centres de contact et équipes de support",
+        "Administrateurs de bases de connaissances et responsables qualité"
+      ],
+      "cases": [
+        "Créer un agent multilingue pour support client et mesurer son taux de transfert aux conseillers.",
+        "Suivre les conversations non résolues, les escalades humaines et la qualité des réponses."
+      ],
+      "advantages": [
+        "Nexus : outils de conception, test et déploiement",
+        "Atlas, Fabric et Inbox",
+        "Agents voix et chat, contrôles de sécurité"
+      ],
+      "limits": [
+        "Les contrôles de sécurité ajoutent de la latence, notamment en voix ; valider leur couverture, la localisation des données et la conformité des enregistrements.",
+        "Les réponses peuvent être inexactes ; vérifier les sources, éviter les données non autorisées et faire approuver les actions irréversibles."
+      ],
+      "gettingStarted": [
+        "Importer une FAQ validée et définir le périmètre des demandes prises en charge ainsi que les canaux autorisés.",
+        "Simuler au moins vingt demandes, dont des cas ambigus, sensibles et hors périmètre ; vérifier le transfert humain et les journaux avant déploiement."
+      ],
+      "examples": [
+        "Réponds à la demande de livraison à partir des politiques officielles ; si l'information n'est pas disponible, crée un ticket sans inventer de délai.",
+        "Pour une demande de remboursement, vérifie le droit d'accès puis demande une approbation humaine avant toute transaction."
+      ],
+      "pricing": "Vérifier la facturation des résolutions, conversations, sièges, appels voix, connecteurs et modules avancés auprès du fournisseur.",
+      "privacy": "Limiter l'accès aux données de comptes et commandes, respecter les obligations de consentement et de conservation, et prévoir le contrôle des décisions automatisées.",
+      "selection": [
+        "Comparer Yellow.ai selon les canaux (enterprise_agent), la fiabilité documentaire, le transfert humain, les contrôles d'accès et les coûts réels."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "platform_updated",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.yellow.ai/docs/nexus",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://docs.yellow.ai/whats-new",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_platform_updated"
+  },
+  "ibm-watsonx-orchestrate": {
+    "descriptionFr": "Plateforme IBM d'orchestration et de gouvernance d'agents IA pour plusieurs métiers, dont le support client, avec outils, intégrations et pilotage.",
+    "descriptionEn": "IBM platform for orchestrating and governing AI agents across business use cases, including customer support, with tools and oversight.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Agents, outils et control plane",
+      "Agent Assist pour support voix et chat",
+      "Règles d'accès et transfert humain configuré"
+    ],
+    "featuresEn": [
+      "Agents, tools and control plane",
+      "Agent Assist for voice and chat",
+      "Access policies and configured handoff"
+    ],
+    "accessFr": "Services cloud et offres entreprise",
+    "accessEn": "Cloud and enterprise plans",
+    "officialSources": [
+      {
+        "url": "https://www.ibm.com/products/watsonx-orchestrate",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      },
+      {
+        "url": "https://www.ibm.com/docs/en/watsonx/watson-orchestrate/base?topic=agents-connecting-live-agent",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme IBM d'orchestration et de gouvernance d'agents IA pour plusieurs métiers, dont le support client, avec outils, intégrations et pilotage.",
+      "audiences": [
+        "Responsables d'architecture d'agents IA et centres d'assistance",
+        "Administrateurs de bases de connaissances et responsables qualité"
+      ],
+      "cases": [
+        "Construire un assistant de support connecté à un service desk et interdire les actions sensibles sans approbation.",
+        "Suivre les conversations non résolues, les escalades humaines et la qualité des réponses."
+      ],
+      "advantages": [
+        "Agents, outils et control plane",
+        "Agent Assist pour support voix et chat",
+        "Règles d'accès et transfert humain configuré"
+      ],
+      "limits": [
+        "Ce produit est une plateforme d'orchestration plus large que le support client. Le transfert vers un agent humain dans Orchestrate Chat exige une intégration watsonx Assistant et n'est pas disponible en déploiement on-premises.",
+        "Les réponses peuvent être inexactes ; vérifier les sources, éviter les données non autorisées et faire approuver les actions irréversibles."
+      ],
+      "gettingStarted": [
+        "Importer une FAQ validée et définir le périmètre des demandes prises en charge ainsi que les canaux autorisés.",
+        "Simuler au moins vingt demandes, dont des cas ambigus, sensibles et hors périmètre ; vérifier le transfert humain et les journaux avant déploiement."
+      ],
+      "examples": [
+        "Réponds à la demande de livraison à partir des politiques officielles ; si l'information n'est pas disponible, crée un ticket sans inventer de délai.",
+        "Pour une demande de remboursement, vérifie le droit d'accès puis demande une approbation humaine avant toute transaction."
+      ],
+      "pricing": "Vérifier la facturation des résolutions, conversations, sièges, appels voix, connecteurs et modules avancés auprès du fournisseur.",
+      "privacy": "Limiter l'accès aux données de comptes et commandes, respecter les obligations de consentement et de conservation, et prévoir le contrôle des décisions automatisées.",
+      "selection": [
+        "Comparer IBM watsonx Orchestrate selon les canaux (orchestration), la fiabilité documentaire, le transfert humain, les contrôles d'accès et les coûts réels."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.ibm.com/products/watsonx-orchestrate",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.ibm.com/docs/en/watsonx/watson-orchestrate/base?topic=agents-connecting-live-agent",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  }
+}
