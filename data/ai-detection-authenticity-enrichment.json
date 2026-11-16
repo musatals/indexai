@@ -1,0 +1,1030 @@
+{
+  "gptzero": {
+    "descriptionFr": "Détecteur probabiliste de textes générés par IA, avec GPTZero 4o, rapports de segments suspects et Writing Report/Replay pour étudier l'historique de rédaction dans Google Docs.",
+    "descriptionEn": "Probabilistic AI-text detector featuring GPTZero 4o, flagged-passage reports, and Writing Report/Replay to examine writing history in Google Docs.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "GPTZero 4o : estimation de textes humains, mixtes ou IA",
+      "Writing Report et Writing Replay dans Google Docs",
+      "Analyses de documents, rapports et suivi de rédaction"
+    ],
+    "featuresEn": [
+      "GPTZero 4o for human, mixed and AI writing estimates",
+      "Writing Report and Replay inside Google Docs",
+      "Document checks and writing-process reports"
+    ],
+    "accessFr": "Plateforme web, rapports et API selon abonnement",
+    "accessEn": "Web platform, reports and subscription-based APIs",
+    "officialSources": [
+      {
+        "url": "https://gptzero.me/news/introducing-gptzero-4o",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://gptzero.me/news/gptzero-writing-report",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://support.gptzero.me/articles/2702713115-i-m-an-educator-who-has-found-ai-generated-text-by-my-students-what-do-i-do",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Détecteur probabiliste de textes générés par IA, avec GPTZero 4o, rapports de segments suspects et Writing Report/Replay pour étudier l'historique de rédaction dans Google Docs.",
+      "audiences": [
+        "Enseignants, rédacteurs, chercheurs et équipes d'intégrité",
+        "Responsables de la qualité, de la confidentialité et de la gestion des signalements"
+      ],
+      "cases": [
+        "À l'école, examiner un score élevé avec l'historique des brouillons, puis demander une explication orale au lieu de sanctionner directement.",
+        "Comparer les résultats avec des données de provenance, les originaux et une revue humaine avant toute action."
+      ],
+      "advantages": [
+        "GPTZero 4o : estimation de textes humains, mixtes ou IA",
+        "Writing Report et Writing Replay dans Google Docs",
+        "Analyses de documents, rapports et suivi de rédaction"
+      ],
+      "limits": [
+        "GPTZero reconnaît les faux positifs et faux négatifs ; ses chiffres d'exactitude sont liés aux jeux d'essai annoncés par l'éditeur. L'historique Google Docs peut mieux éclairer le processus d'écriture, mais ne prouve pas à lui seul l'auteur d'un texte.",
+        "Un score de détection, quel qu'il soit, peut produire des faux positifs ou faux négatifs : ne pas l'utiliser comme preuve unique de fraude ou de faute académique."
+      ],
+      "gettingStarted": [
+        "Constituer un jeu de test autorisé avec créations humaines, contenus IA et contenus retouchés.",
+        "Comparer les erreurs et calibrer les seuils de revue avant d'automatiser une décision."
+      ],
+      "examples": [
+        "Présente le score comme une indication, identifie les passages nécessitant examen et demande des brouillons, des références et un entretien contradictoire.",
+        "Rédige une procédure de vérification respectueuse de la vie privée, sans sanction automatique à partir d'un résultat IA."
+      ],
+      "pricing": "Comparer le forfait, les crédits, le nombre de mots/fichiers, les appels API, les durées audio/vidéo et les limites d'équipe selon le produit.",
+      "privacy": "Ne pas transmettre sans autorisation des copies, travaux d'élèves, données biométriques ou médias privés ; vérifier conservation, sous-traitants, conditions de suppression et droits de rectification/contestation.",
+      "selection": [
+        "Choisir GPTZero selon le besoin (text_detector), les formats, langues, sources vérifiables, taux de faux positifs, protections des données et coût d'usage."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "gptzero_4o_and_writing_replay",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://gptzero.me/news/introducing-gptzero-4o",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://gptzero.me/news/gptzero-writing-report",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://support.gptzero.me/articles/2702713115-i-m-an-educator-who-has-found-ai-generated-text-by-my-students-what-do-i-do",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_model_and_writing_report"
+  },
+  "originality-ai": {
+    "descriptionFr": "Plateforme de contrôle éditorial avec détection de texte IA, comparaison de plagiat, vérification de faits, lisibilité et API ; Deep Scan ajoute des explications aux résultats.",
+    "descriptionEn": "Editorial review suite with AI-text detection, plagiarism matching, fact checking, readability and API access; Deep Scan explains flagged passages.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Détection de texte IA et segments signalés",
+      "Plagiat, vérification de faits et lisibilité",
+      "Deep Scan et API de scans paramétrables"
+    ],
+    "featuresEn": [
+      "AI text scores and highlighted passages",
+      "Plagiarism, factual claims and readability checks",
+      "Deep Scan and configurable scanning API"
+    ],
+    "accessFr": "Plateforme web, rapports et API selon abonnement",
+    "accessEn": "Web platform, reports and subscription-based APIs",
+    "officialSources": [
+      {
+        "url": "https://docs.originality.ai/scan-url",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://originality.ai/blog/introducing-deep-scan",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de contrôle éditorial avec détection de texte IA, comparaison de plagiat, vérification de faits, lisibilité et API ; Deep Scan ajoute des explications aux résultats.",
+      "audiences": [
+        "Enseignants, rédacteurs, chercheurs et équipes d'intégrité",
+        "Responsables de la qualité, de la confidentialité et de la gestion des signalements"
+      ],
+      "cases": [
+        "Auditer un article destiné à publication en séparant les passages à vérifier, les correspondances de plagiat et les affirmations nécessitant une source.",
+        "Comparer les résultats avec des données de provenance, les originaux et une revue humaine avant toute action."
+      ],
+      "advantages": [
+        "Détection de texte IA et segments signalés",
+        "Plagiat, vérification de faits et lisibilité",
+        "Deep Scan et API de scans paramétrables"
+      ],
+      "limits": [
+        "Un score d'IA n'est pas une preuve et les vérifications de faits peuvent se tromper. L'API permet de désactiver le stockage du scan ; contrôler ce réglage avant l'envoi de textes sensibles et vérifier les crédits.",
+        "Un score de détection, quel qu'il soit, peut produire des faux positifs ou faux négatifs : ne pas l'utiliser comme preuve unique de fraude ou de faute académique."
+      ],
+      "gettingStarted": [
+        "Constituer un jeu de test autorisé avec créations humaines, contenus IA et contenus retouchés.",
+        "Comparer les erreurs et calibrer les seuils de revue avant d'automatiser une décision."
+      ],
+      "examples": [
+        "Présente le score comme une indication, identifie les passages nécessitant examen et demande des brouillons, des références et un entretien contradictoire.",
+        "Rédige une procédure de vérification respectueuse de la vie privée, sans sanction automatique à partir d'un résultat IA."
+      ],
+      "pricing": "Comparer le forfait, les crédits, le nombre de mots/fichiers, les appels API, les durées audio/vidéo et les limites d'équipe selon le produit.",
+      "privacy": "Ne pas transmettre sans autorisation des copies, travaux d'élèves, données biométriques ou médias privés ; vérifier conservation, sous-traitants, conditions de suppression et droits de rectification/contestation.",
+      "selection": [
+        "Choisir Originality.ai selon le besoin (text_editorial), les formats, langues, sources vérifiables, taux de faux positifs, protections des données et coût d'usage."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.originality.ai/scan-url",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://originality.ai/blog/introducing-deep-scan",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "copyleaks": {
+    "descriptionFr": "Solution d'analyse d'originalité avec détection de texte IA en 30 langues, recherche de similarités et plagiat, y compris du code, avec API et explications AI Logic.",
+    "descriptionEn": "Originality analysis platform offering AI text detection in 30 languages, similarity and plagiarism scanning including code, APIs and AI Logic explanations.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Détection de texte IA multilingue avec AI Logic",
+      "Comparaison de plagiat documentaire et de code",
+      "API, webhooks et rapports de résultats"
+    ],
+    "featuresEn": [
+      "Multilingual AI-text detection with AI Logic",
+      "Document and source-code plagiarism checks",
+      "APIs, webhooks and reports"
+    ],
+    "accessFr": "Plateforme web, rapports et API selon abonnement",
+    "accessEn": "Web platform, reports and subscription-based APIs",
+    "officialSources": [
+      {
+        "url": "https://docs.copyleaks.com/concepts/products/ai-text-detection-api/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://docs.copyleaks.com/guides/authenticity/detect-plagiarism-code",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://docs.copyleaks.com/reference/actions/miscellaneous/ai-detection-supported-languages/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Solution d'analyse d'originalité avec détection de texte IA en 30 langues, recherche de similarités et plagiat, y compris du code, avec API et explications AI Logic.",
+      "audiences": [
+        "Enseignants, rédacteurs, chercheurs et équipes d'intégrité",
+        "Responsables de la qualité, de la confidentialité et de la gestion des signalements"
+      ],
+      "cases": [
+        "Contrôler la similarité d'un devoir de programmation sans affirmer que Copyleaks peut identifier de façon fiable un code généré par IA.",
+        "Comparer les résultats avec des données de provenance, les originaux et une revue humaine avant toute action."
+      ],
+      "advantages": [
+        "Détection de texte IA multilingue avec AI Logic",
+        "Comparaison de plagiat documentaire et de code",
+        "API, webhooks et rapports de résultats"
+      ],
+      "limits": [
+        "La détection de code généré par IA a été abandonnée le 16 décembre 2025 ; la détection de plagiat de code reste opérationnelle. AI Logic n'explique les segments que dans six langues, même si le détecteur de texte en couvre 30.",
+        "Un score de détection, quel qu'il soit, peut produire des faux positifs ou faux négatifs : ne pas l'utiliser comme preuve unique de fraude ou de faute académique."
+      ],
+      "gettingStarted": [
+        "Constituer un jeu de test autorisé avec créations humaines, contenus IA et contenus retouchés.",
+        "Comparer les erreurs et calibrer les seuils de revue avant d'automatiser une décision."
+      ],
+      "examples": [
+        "Présente le score comme une indication, identifie les passages nécessitant examen et demande des brouillons, des références et un entretien contradictoire.",
+        "Rédige une procédure de vérification respectueuse de la vie privée, sans sanction automatique à partir d'un résultat IA."
+      ],
+      "pricing": "Comparer le forfait, les crédits, le nombre de mots/fichiers, les appels API, les durées audio/vidéo et les limites d'équipe selon le produit.",
+      "privacy": "Ne pas transmettre sans autorisation des copies, travaux d'élèves, données biométriques ou médias privés ; vérifier conservation, sous-traitants, conditions de suppression et droits de rectification/contestation.",
+      "selection": [
+        "Choisir Copyleaks selon le besoin (plagiarism_text), les formats, langues, sources vérifiables, taux de faux positifs, protections des données et coût d'usage."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "ai_code_detection_deprecated_2025",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.copyleaks.com/concepts/products/ai-text-detection-api/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://docs.copyleaks.com/guides/authenticity/detect-plagiarism-code",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://docs.copyleaks.com/reference/actions/miscellaneous/ai-detection-supported-languages/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_deprecated_capability"
+  },
+  "turnitin": {
+    "descriptionFr": "Plateforme d'intégrité académique offrant Similarity Reports et un rapport distinct d'écriture IA, réservé aux organisations éligibles, avec surlignages et restrictions de format.",
+    "descriptionEn": "Academic integrity platform providing similarity reports and a separate AI Writing Report for eligible organizations, with highlighted passages and file restrictions.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Rapport de similarité indépendant de la détection IA",
+      "AI Writing Report et passages suspects",
+      "Traitement en sept langues prises en charge"
+    ],
+    "featuresEn": [
+      "Similarity reports separate from AI detection",
+      "AI Writing Report with flagged passages",
+      "Detection in seven supported languages"
+    ],
+    "accessFr": "Accès institutionnel selon licence",
+    "accessEn": "Institutional licensed access",
+    "officialSources": [
+      {
+        "url": "https://guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://guides.turnitin.com/hc/en-us/articles/28294949544717-AI-writing-detection-model",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme d'intégrité académique offrant Similarity Reports et un rapport distinct d'écriture IA, réservé aux organisations éligibles, avec surlignages et restrictions de format.",
+      "audiences": [
+        "Enseignants, rédacteurs, chercheurs et équipes d'intégrité",
+        "Responsables de la qualité, de la confidentialité et de la gestion des signalements"
+      ],
+      "cases": [
+        "Examiner une dissertation avec le rapport de similarité et l'analyse IA, puis recueillir les versions et explications de l'étudiant.",
+        "Comparer les résultats avec des données de provenance, les originaux et une revue humaine avant toute action."
+      ],
+      "advantages": [
+        "Rapport de similarité indépendant de la détection IA",
+        "AI Writing Report et passages suspects",
+        "Traitement en sept langues prises en charge"
+      ],
+      "limits": [
+        "Turnitin indique explicitement que son détecteur ne doit jamais fonder seul une sanction. Le texte éligible compte 300 à 30 000 mots de prose ; les signaux de 1 à 19 % sont masqués sous *% pour limiter l'interprétation erronée. Mise à jour du modèle anglais le 14 octobre 2026.",
+        "Un score de détection, quel qu'il soit, peut produire des faux positifs ou faux négatifs : ne pas l'utiliser comme preuve unique de fraude ou de faute académique."
+      ],
+      "gettingStarted": [
+        "Constituer un jeu de test autorisé avec créations humaines, contenus IA et contenus retouchés.",
+        "Comparer les erreurs et calibrer les seuils de revue avant d'automatiser une décision."
+      ],
+      "examples": [
+        "Présente le score comme une indication, identifie les passages nécessitant examen et demande des brouillons, des références et un entretien contradictoire.",
+        "Rédige une procédure de vérification respectueuse de la vie privée, sans sanction automatique à partir d'un résultat IA."
+      ],
+      "pricing": "Comparer le forfait, les crédits, le nombre de mots/fichiers, les appels API, les durées audio/vidéo et les limites d'équipe selon le produit.",
+      "privacy": "Ne pas transmettre sans autorisation des copies, travaux d'élèves, données biométriques ou médias privés ; vérifier conservation, sous-traitants, conditions de suppression et droits de rectification/contestation.",
+      "selection": [
+        "Choisir Turnitin selon le besoin (academic), les formats, langues, sources vérifiables, taux de faux positifs, protections des données et coût d'usage."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "ai_model_updated_oct_2026",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://guides.turnitin.com/hc/en-us/articles/28294949544717-AI-writing-detection-model",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_model_updated"
+  },
+  "winston-ai": {
+    "descriptionFr": "Détecteur de texte IA Winston AI avec OCR de documents scannés, comparaison de plagiat, vérification de faits et rapports consultables par enseignants ou éditeurs.",
+    "descriptionEn": "Winston AI text detector with OCR for scanned files, plagiarism comparison, fact checking and reviewable reports for educators and publishers.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Détection IA avec score et analyse de phrases",
+      "OCR d'images et de documents scannés",
+      "Vérification de faits, plagiat et rapports exportables"
+    ],
+    "featuresEn": [
+      "AI detection scores and sentence analysis",
+      "OCR of images and scans",
+      "Fact checking, plagiarism and exportable reports"
+    ],
+    "accessFr": "Plateforme web, rapports et API selon abonnement",
+    "accessEn": "Web platform, reports and subscription-based APIs",
+    "officialSources": [
+      {
+        "url": "https://gowinston.ai/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://help.gowinston.ai/getting-started/how-to-use-winston-ai-for-text-analysis",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Détecteur de texte IA Winston AI avec OCR de documents scannés, comparaison de plagiat, vérification de faits et rapports consultables par enseignants ou éditeurs.",
+      "audiences": [
+        "Enseignants, rédacteurs, chercheurs et équipes d'intégrité",
+        "Responsables de la qualité, de la confidentialité et de la gestion des signalements"
+      ],
+      "cases": [
+        "Numériser une copie manuscrite puis vérifier la qualité du texte OCR avant d'interpréter le score IA.",
+        "Comparer les résultats avec des données de provenance, les originaux et une revue humaine avant toute action."
+      ],
+      "advantages": [
+        "Détection IA avec score et analyse de phrases",
+        "OCR d'images et de documents scannés",
+        "Vérification de faits, plagiat et rapports exportables"
+      ],
+      "limits": [
+        "Le taux d'exactitude affiché par le fournisseur n'est pas universel ; la reconnaissance OCR peut introduire des erreurs. Le score humain/IA ne prouve ni fraude ni origine de la copie.",
+        "Un score de détection, quel qu'il soit, peut produire des faux positifs ou faux négatifs : ne pas l'utiliser comme preuve unique de fraude ou de faute académique."
+      ],
+      "gettingStarted": [
+        "Constituer un jeu de test autorisé avec créations humaines, contenus IA et contenus retouchés.",
+        "Comparer les erreurs et calibrer les seuils de revue avant d'automatiser une décision."
+      ],
+      "examples": [
+        "Présente le score comme une indication, identifie les passages nécessitant examen et demande des brouillons, des références et un entretien contradictoire.",
+        "Rédige une procédure de vérification respectueuse de la vie privée, sans sanction automatique à partir d'un résultat IA."
+      ],
+      "pricing": "Comparer le forfait, les crédits, le nombre de mots/fichiers, les appels API, les durées audio/vidéo et les limites d'équipe selon le produit.",
+      "privacy": "Ne pas transmettre sans autorisation des copies, travaux d'élèves, données biométriques ou médias privés ; vérifier conservation, sous-traitants, conditions de suppression et droits de rectification/contestation.",
+      "selection": [
+        "Choisir Winston AI selon le besoin (text_detector), les formats, langues, sources vérifiables, taux de faux positifs, protections des données et coût d'usage."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://gowinston.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://help.gowinston.ai/getting-started/how-to-use-winston-ai-for-text-analysis",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "zerogpt": {
+    "descriptionFr": "Service en ligne ZeroGPT de détection de texte IA avec surlignage de passages et outils complémentaires de plagiat, résumé et reformulation.",
+    "descriptionEn": "ZeroGPT online AI-text detector with flagged passages and companion plagiarism, summarization and paraphrasing tools.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Collage et import de texte PDF/DOCX/TXT",
+      "Score probabiliste et surlignage de segments",
+      "Plagiarism Checker, résumeur et paraphraseur"
+    ],
+    "featuresEn": [
+      "Pasted text and PDF/DOCX/TXT import",
+      "Likelihood score and highlighted segments",
+      "Plagiarism checker, summarizer and paraphraser"
+    ],
+    "accessFr": "Plateforme web, rapports et API selon abonnement",
+    "accessEn": "Web platform, reports and subscription-based APIs",
+    "officialSources": [
+      {
+        "url": "https://www.zerogpt.com/faq",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://www.zerogpt.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Service en ligne ZeroGPT de détection de texte IA avec surlignage de passages et outils complémentaires de plagiat, résumé et reformulation.",
+      "audiences": [
+        "Enseignants, rédacteurs, chercheurs et équipes d'intégrité",
+        "Responsables de la qualité, de la confidentialité et de la gestion des signalements"
+      ],
+      "cases": [
+        "Comparer les résultats d'un texte de 500 mots avec ses brouillons et demander une vérification indépendante avant toute conclusion.",
+        "Comparer les résultats avec des données de provenance, les originaux et une revue humaine avant toute action."
+      ],
+      "advantages": [
+        "Collage et import de texte PDF/DOCX/TXT",
+        "Score probabiliste et surlignage de segments",
+        "Plagiarism Checker, résumeur et paraphraseur"
+      ],
+      "limits": [
+        "Un texte trop court ou extrait d'un PDF image peut être mal analysé ; l'éditeur recommande 150 à 200 mots au minimum et un OCR préalable pour les scans. Ne pas confondre ZeroGPT avec GPTZero et ne pas traiter les scores comme une preuve d'auteur.",
+        "Un score de détection, quel qu'il soit, peut produire des faux positifs ou faux négatifs : ne pas l'utiliser comme preuve unique de fraude ou de faute académique."
+      ],
+      "gettingStarted": [
+        "Constituer un jeu de test autorisé avec créations humaines, contenus IA et contenus retouchés.",
+        "Comparer les erreurs et calibrer les seuils de revue avant d'automatiser une décision."
+      ],
+      "examples": [
+        "Présente le score comme une indication, identifie les passages nécessitant examen et demande des brouillons, des références et un entretien contradictoire.",
+        "Rédige une procédure de vérification respectueuse de la vie privée, sans sanction automatique à partir d'un résultat IA."
+      ],
+      "pricing": "Comparer le forfait, les crédits, le nombre de mots/fichiers, les appels API, les durées audio/vidéo et les limites d'équipe selon le produit.",
+      "privacy": "Ne pas transmettre sans autorisation des copies, travaux d'élèves, données biométriques ou médias privés ; vérifier conservation, sous-traitants, conditions de suppression et droits de rectification/contestation.",
+      "selection": [
+        "Choisir ZeroGPT selon le besoin (text_detector), les formats, langues, sources vérifiables, taux de faux positifs, protections des données et coût d'usage."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.zerogpt.com/faq",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.zerogpt.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "sightengine": {
+    "descriptionFr": "API de modération et détection de contenus IA pour images, vidéos et certains contenus audio, avec scores globaux et par générateur.",
+    "descriptionEn": "Moderation and AI-content detection API for images, video and certain audio, returning overall and generator-specific scores.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Détection d'images synthétiques et estimation du générateur",
+      "Détection des vidéos synthétiques basée sur les pixels",
+      "Modération et détection de musique IA via API dédiée"
+    ],
+    "featuresEn": [
+      "Synthetic image detection and generator attribution scores",
+      "Pixel-based synthetic video detection",
+      "Moderation and a separate AI-music detection API"
+    ],
+    "accessFr": "Web et API selon forfait/crédits",
+    "accessEn": "Web and API by plan/credits",
+    "officialSources": [
+      {
+        "url": "https://sightengine.com/docs/ai-generated-image-detection",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://sightengine.com/docs/ai-generated-video-detection",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://www.sightengine.com/docs/ai-generated-music-detection",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "API de modération et détection de contenus IA pour images, vidéos et certains contenus audio, avec scores globaux et par générateur.",
+      "audiences": [
+        "Équipes de modération, médias et développeurs d'API",
+        "Responsables de la qualité, de la confidentialité et de la gestion des signalements"
+      ],
+      "cases": [
+        "Analyser des photos d'une annonce en lot et soumettre les résultats incertains à une équipe de vérification.",
+        "Comparer les résultats avec des données de provenance, les originaux et une revue humaine avant toute action."
+      ],
+      "advantages": [
+        "Détection d'images synthétiques et estimation du générateur",
+        "Détection des vidéos synthétiques basée sur les pixels",
+        "Modération et détection de musique IA via API dédiée"
+      ],
+      "limits": [
+        "Les scores décrivent des signaux statistiques, pas une preuve de fraude. Le modèle vidéo examiné repose sur les pixels, pas les métadonnées ; les performances varient selon compression, retouches et modèles nouveaux. Une API distincte traite la musique IA.",
+        "Un score de détection, quel qu'il soit, peut produire des faux positifs ou faux négatifs : ne pas l'utiliser comme preuve unique de fraude ou de faute académique."
+      ],
+      "gettingStarted": [
+        "Constituer un jeu de test autorisé avec créations humaines, contenus IA et contenus retouchés.",
+        "Comparer les erreurs et calibrer les seuils de revue avant d'automatiser une décision."
+      ],
+      "examples": [
+        "Compare ce signal à la source originale, aux métadonnées disponibles et à une vérification indépendante ; indique les incertitudes.",
+        "Rédige une procédure de vérification respectueuse de la vie privée, sans sanction automatique à partir d'un résultat IA."
+      ],
+      "pricing": "Comparer le forfait, les crédits, le nombre de mots/fichiers, les appels API, les durées audio/vidéo et les limites d'équipe selon le produit.",
+      "privacy": "Ne pas transmettre sans autorisation des copies, travaux d'élèves, données biométriques ou médias privés ; vérifier conservation, sous-traitants, conditions de suppression et droits de rectification/contestation.",
+      "selection": [
+        "Choisir Sightengine selon le besoin (multimodal_api), les formats, langues, sources vérifiables, taux de faux positifs, protections des données et coût d'usage."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://sightengine.com/docs/ai-generated-image-detection",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://sightengine.com/docs/ai-generated-video-detection",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.sightengine.com/docs/ai-generated-music-detection",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "hive-ai": {
+    "descriptionFr": "Hive propose des API multimodales pour classer images, vidéos, audio et texte générés par IA, détecter certains deepfakes et modérer des contenus.",
+    "descriptionEn": "Hive offers multimodal APIs for classifying AI-generated image, video, audio and text, detecting some deepfakes and moderating content.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "API de détection de médias et sources de génération",
+      "Scores de deepfakes et classements de provenance estimée",
+      "Modération texte, image, audio, vidéo et intégrations"
+    ],
+    "featuresEn": [
+      "Media detection APIs and estimated generator scores",
+      "Deepfake scores and inferred source classification",
+      "Text, image, audio and video moderation"
+    ],
+    "accessFr": "Web et API selon forfait/crédits",
+    "accessEn": "Web and API by plan/credits",
+    "officialSources": [
+      {
+        "url": "https://docs.thehive.ai/docs/ai-generated-content-detection",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://docs.thehive.ai/docs/ai-image-and-video-detection",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://thehive.ai/demos/ai-generated-content-detection",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Hive propose des API multimodales pour classer images, vidéos, audio et texte générés par IA, détecter certains deepfakes et modérer des contenus.",
+      "audiences": [
+        "Équipes de modération, médias et développeurs d'API",
+        "Responsables de la qualité, de la confidentialité et de la gestion des signalements"
+      ],
+      "cases": [
+        "Identifier des médias suspects sur une plateforme de partage, choisir un seuil de revue et vérifier les signalements.",
+        "Comparer les résultats avec des données de provenance, les originaux et une revue humaine avant toute action."
+      ],
+      "advantages": [
+        "API de détection de médias et sources de génération",
+        "Scores de deepfakes et classements de provenance estimée",
+        "Modération texte, image, audio, vidéo et intégrations"
+      ],
+      "limits": [
+        "Une probabilité de deepfake ne confirme pas une manipulation. La disponibilité en libre-service, les limites de l'API et les offres entreprise varient par modèle ; éviter d'appliquer le même seuil à toutes les catégories.",
+        "Un score de détection, quel qu'il soit, peut produire des faux positifs ou faux négatifs : ne pas l'utiliser comme preuve unique de fraude ou de faute académique."
+      ],
+      "gettingStarted": [
+        "Constituer un jeu de test autorisé avec créations humaines, contenus IA et contenus retouchés.",
+        "Comparer les erreurs et calibrer les seuils de revue avant d'automatiser une décision."
+      ],
+      "examples": [
+        "Compare ce signal à la source originale, aux métadonnées disponibles et à une vérification indépendante ; indique les incertitudes.",
+        "Rédige une procédure de vérification respectueuse de la vie privée, sans sanction automatique à partir d'un résultat IA."
+      ],
+      "pricing": "Comparer le forfait, les crédits, le nombre de mots/fichiers, les appels API, les durées audio/vidéo et les limites d'équipe selon le produit.",
+      "privacy": "Ne pas transmettre sans autorisation des copies, travaux d'élèves, données biométriques ou médias privés ; vérifier conservation, sous-traitants, conditions de suppression et droits de rectification/contestation.",
+      "selection": [
+        "Choisir Hive AI selon le besoin (multimodal_api), les formats, langues, sources vérifiables, taux de faux positifs, protections des données et coût d'usage."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.thehive.ai/docs/ai-generated-content-detection",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://docs.thehive.ai/docs/ai-image-and-video-detection",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://thehive.ai/demos/ai-generated-content-detection",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "truepic": {
+    "descriptionFr": "Plateforme de capture sécurisée de photos et vidéos : Truepic Vision guide des inspections à distance, tandis que Truepic Lens permet l'intégration de signatures et de provenance.",
+    "descriptionEn": "Secure visual capture platform: Truepic Vision guides remote inspections while Truepic Lens embeds signing and provenance into client workflows.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Vision : capture guidée et contrôles antifraude",
+      "Métadonnées de temps, appareil, lieu et preuves vérifiables",
+      "Lens : SDK, API et signature de contenus"
+    ],
+    "featuresEn": [
+      "Vision guided capture and fraud checks",
+      "Verifiable time, device and location signals",
+      "Lens SDK, API and content signing"
+    ],
+    "accessFr": "Solutions entreprise, SDK/API et applications mobiles",
+    "accessEn": "Enterprise solutions, SDK/API and mobile capture",
+    "officialSources": [
+      {
+        "url": "https://www.truepic.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://www.truepic.com/vision/insurance",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://www.truepic.com/lens-msa",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de capture sécurisée de photos et vidéos : Truepic Vision guide des inspections à distance, tandis que Truepic Lens permet l'intégration de signatures et de provenance.",
+      "audiences": [
+        "Assureurs, organismes d'inspection et équipes antifraude",
+        "Responsables de la qualité, de la confidentialité et de la gestion des signalements"
+      ],
+      "cases": [
+        "Recueillir des photos de sinistre via une capture guidée, puis faire examiner les incohérences par un expert.",
+        "Comparer les résultats avec des données de provenance, les originaux et une revue humaine avant toute action."
+      ],
+      "advantages": [
+        "Vision : capture guidée et contrôles antifraude",
+        "Métadonnées de temps, appareil, lieu et preuves vérifiables",
+        "Lens : SDK, API et signature de contenus"
+      ],
+      "limits": [
+        "Truepic authentifie un processus de capture et signale certaines anomalies : cela ne prouve pas que la scène montrée soit vraie ni que le sinistre soit légitime. L'inspection exige l'autorisation de recueillir localisation, appareil et images.",
+        "Un score de détection, quel qu'il soit, peut produire des faux positifs ou faux négatifs : ne pas l'utiliser comme preuve unique de fraude ou de faute académique."
+      ],
+      "gettingStarted": [
+        "Définir une procédure de capture guidée avec consentement et rôles précis.",
+        "Comparer les erreurs et calibrer les seuils de revue avant d'automatiser une décision."
+      ],
+      "examples": [
+        "Compare ce signal à la source originale, aux métadonnées disponibles et à une vérification indépendante ; indique les incertitudes.",
+        "Rédige une procédure de vérification respectueuse de la vie privée, sans sanction automatique à partir d'un résultat IA."
+      ],
+      "pricing": "Comparer le forfait, les crédits, le nombre de mots/fichiers, les appels API, les durées audio/vidéo et les limites d'équipe selon le produit.",
+      "privacy": "Ne pas transmettre sans autorisation des copies, travaux d'élèves, données biométriques ou médias privés ; vérifier conservation, sous-traitants, conditions de suppression et droits de rectification/contestation.",
+      "selection": [
+        "Choisir Truepic selon le besoin (secure_capture), les formats, langues, sources vérifiables, taux de faux positifs, protections des données et coût d'usage."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.truepic.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.truepic.com/vision/insurance",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.truepic.com/lens-msa",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "content-credentials": {
+    "descriptionFr": "Écosystème ouvert de métadonnées de provenance et de signatures Content Credentials, permettant d'inspecter l'origine déclarée et les modifications de médias compatibles.",
+    "descriptionEn": "Open ecosystem of signed Content Credentials provenance metadata, enabling inspection of claimed origin and edits for compatible media.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Manifestes de provenance signés et historique d'édition",
+      "Inspection via outils compatibles tels qu'Adobe Content Authenticity",
+      "Association à empreintes et filigranes pour faciliter la récupération"
+    ],
+    "featuresEn": [
+      "Signed provenance manifests and editing history",
+      "Inspection through tools such as Adobe Content Authenticity",
+      "Fingerprint/watermark-assisted recovery options"
+    ],
+    "accessFr": "Norme ouverte, inspecteurs et implémentations compatibles",
+    "accessEn": "Open standard, compatible inspectors and implementations",
+    "officialSources": [
+      {
+        "url": "https://contentcredentials.org/about/",
+        "checkedAt": "2026-11-17",
+        "scope": "technical_provenance_standard"
+      },
+      {
+        "url": "https://contentcredentials.org/adopt/",
+        "checkedAt": "2026-11-17",
+        "scope": "technical_provenance_standard"
+      },
+      {
+        "url": "https://helpx.adobe.com/creative-cloud/apps/adobe-content-authenticity/inspect/inspect-tool.html",
+        "checkedAt": "2026-11-17",
+        "scope": "technical_provenance_standard"
+      }
+    ],
+    "research": {
+      "headline": "Écosystème ouvert de métadonnées de provenance et de signatures Content Credentials, permettant d'inspecter l'origine déclarée et les modifications de médias compatibles.",
+      "audiences": [
+        "Éditeurs, médias et développeurs de systèmes de provenance",
+        "Responsables de la qualité, de la confidentialité et de la gestion des signalements"
+      ],
+      "cases": [
+        "Ouvrir un fichier dans un inspecteur compatible et consulter le signataire et l'historique des transformations avant publication.",
+        "Vérifier la signature, le signataire, le lien au fichier et la chaîne des modifications."
+      ],
+      "advantages": [
+        "Manifestes de provenance signés et historique d'édition",
+        "Inspection via outils compatibles tels qu'Adobe Content Authenticity",
+        "Association à empreintes et filigranes pour faciliter la récupération"
+      ],
+      "limits": [
+        "Content Credentials est un dispositif de provenance, pas un détecteur probabiliste de texte ou une preuve que les faits montrés sont vrais. L'absence de métadonnées ne signifie pas que le média a été créé par IA ; les signatures ne garantissent que les déclarations et leur intégrité.",
+        "La validité d'une signature ne prouve pas l'exactitude du contenu ; métadonnées absentes, corrompues ou non prises en charge ne permettent aucune conclusion certaine."
+      ],
+      "gettingStarted": [
+        "Choisir un fichier d'essai doté de Content Credentials et un inspecteur C2PA compatible.",
+        "Contrôler le signataire, la chaîne des déclarations et les limites de confiance."
+      ],
+      "examples": [
+        "Décris le manifeste, le signataire, les modifications enregistrées et les éléments qui ne sont pas vérifiables.",
+        "Rédige une procédure de vérification respectueuse de la vie privée, sans sanction automatique à partir d'un résultat IA."
+      ],
+      "pricing": "Normes et ressources de provenance ouvertes ; les outils de mise en œuvre, l'hébergement et certains services peuvent être payants.",
+      "privacy": "Ne pas transmettre sans autorisation des copies, travaux d'élèves, données biométriques ou médias privés ; vérifier conservation, sous-traitants, conditions de suppression et droits de rectification/contestation.",
+      "selection": [
+        "Choisir Content Credentials selon le besoin (provenance_standard), les formats, langues, sources vérifiables, taux de faux positifs, protections des données et coût d'usage."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "open_standard_or_technology",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://contentcredentials.org/about/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://contentcredentials.org/adopt/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://helpx.adobe.com/creative-cloud/apps/adobe-content-authenticity/inspect/inspect-tool.html",
+          "type": "official_implementation",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_open_standard"
+  },
+  "c2pa": {
+    "descriptionFr": "Coalition et spécification technique ouverte C2PA décrivant les manifestes cryptographiquement signés, les liens au fichier, la chaîne de provenance et la validation de confiance.",
+    "descriptionEn": "Open C2PA coalition and specification defining cryptographically signed manifests, content binding, provenance chains and trust validation.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Spécification de manifestes et claims cryptographiques",
+      "Signatures, confiance et liaison entre fichier et manifeste",
+      "Formats, flux de validation et outils compatibles"
+    ],
+    "featuresEn": [
+      "Cryptographic manifests and claims specification",
+      "Digital signatures, trust and content binding",
+      "Supported formats, validation and interoperable tooling"
+    ],
+    "accessFr": "Norme ouverte, inspecteurs et implémentations compatibles",
+    "accessEn": "Open standard, compatible inspectors and implementations",
+    "officialSources": [
+      {
+        "url": "https://c2pa.org/",
+        "checkedAt": "2026-11-17",
+        "scope": "technical_provenance_standard"
+      },
+      {
+        "url": "https://spec.c2pa.org/specifications/specifications/2.3/specs/C2PA_Specification.html",
+        "checkedAt": "2026-11-17",
+        "scope": "technical_provenance_standard"
+      },
+      {
+        "url": "https://spec.c2pa.org/specifications/",
+        "checkedAt": "2026-11-17",
+        "scope": "technical_provenance_standard"
+      }
+    ],
+    "research": {
+      "headline": "Coalition et spécification technique ouverte C2PA décrivant les manifestes cryptographiquement signés, les liens au fichier, la chaîne de provenance et la validation de confiance.",
+      "audiences": [
+        "Éditeurs, médias et développeurs de systèmes de provenance",
+        "Responsables de la qualité, de la confidentialité et de la gestion des signalements"
+      ],
+      "cases": [
+        "Documenter un flux de publication qui conserve et vérifie les signatures de provenance pour des images et vidéos.",
+        "Vérifier la signature, le signataire, le lien au fichier et la chaîne des modifications."
+      ],
+      "advantages": [
+        "Spécification de manifestes et claims cryptographiques",
+        "Signatures, confiance et liaison entre fichier et manifeste",
+        "Formats, flux de validation et outils compatibles"
+      ],
+      "limits": [
+        "C2PA est une norme et un projet collectif, pas un abonnement de détection IA. Une signature valide confirme l'intégrité de déclarations faites par un signataire reconnu, non la vérité de la scène ; l'absence de manifeste n'indique rien sur l'authenticité.",
+        "La validité d'une signature ne prouve pas l'exactitude du contenu ; métadonnées absentes, corrompues ou non prises en charge ne permettent aucune conclusion certaine."
+      ],
+      "gettingStarted": [
+        "Choisir un fichier d'essai doté de Content Credentials et un inspecteur C2PA compatible.",
+        "Contrôler le signataire, la chaîne des déclarations et les limites de confiance."
+      ],
+      "examples": [
+        "Décris le manifeste, le signataire, les modifications enregistrées et les éléments qui ne sont pas vérifiables.",
+        "Rédige une procédure de vérification respectueuse de la vie privée, sans sanction automatique à partir d'un résultat IA."
+      ],
+      "pricing": "Normes et ressources de provenance ouvertes ; les outils de mise en œuvre, l'hébergement et certains services peuvent être payants.",
+      "privacy": "Ne pas transmettre sans autorisation des copies, travaux d'élèves, données biométriques ou médias privés ; vérifier conservation, sous-traitants, conditions de suppression et droits de rectification/contestation.",
+      "selection": [
+        "Choisir C2PA selon le besoin (provenance_standard), les formats, langues, sources vérifiables, taux de faux positifs, protections des données et coût d'usage."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "open_standard_or_technology",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://c2pa.org/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://spec.c2pa.org/specifications/specifications/2.3/specs/C2PA_Specification.html",
+          "type": "official_standard",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://spec.c2pa.org/specifications/",
+          "type": "official_standard",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_open_standard"
+  },
+  "ai-or-not": {
+    "descriptionFr": "Détecteur multimodal AI or Not pour textes, images, vidéos, voix et musique, proposant une interface web et une API avec crédits d'utilisation.",
+    "descriptionEn": "AI or Not multimodal checker for text, images, video, voices and music, offering web tools and a credit-based API.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Détection IA sur image et texte",
+      "Vidéo, voix, musique et deepfakes",
+      "API et crédits par modalité"
+    ],
+    "featuresEn": [
+      "Image and text AI detection",
+      "Video, voice, music and deepfake checks",
+      "Credit-based multimodal API"
+    ],
+    "accessFr": "Web et API selon forfait/crédits",
+    "accessEn": "Web and API by plan/credits",
+    "officialSources": [
+      {
+        "url": "https://www.aiornot.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://www.aiornot.com/pricing",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://detection.aiornot.com/ai-image-detector-api/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Détecteur multimodal AI or Not pour textes, images, vidéos, voix et musique, proposant une interface web et une API avec crédits d'utilisation.",
+      "audiences": [
+        "Équipes de modération, médias et développeurs d'API",
+        "Responsables de la qualité, de la confidentialité et de la gestion des signalements"
+      ],
+      "cases": [
+        "Vérifier un extrait vidéo et sa piste sonore séparément, puis confronter les résultats aux preuves disponibles.",
+        "Comparer les résultats avec des données de provenance, les originaux et une revue humaine avant toute action."
+      ],
+      "advantages": [
+        "Détection IA sur image et texte",
+        "Vidéo, voix, musique et deepfakes",
+        "API et crédits par modalité"
+      ],
+      "limits": [
+        "Les chiffres d'exactitude de l'éditeur sont des mesures sur ses ensembles de tests, pas des garanties par média ou langue. Les coûts dépendent de la durée des vidéos/audio et des volumes de textes/images ; ne pas fonder de sanction sur ce score.",
+        "Un score de détection, quel qu'il soit, peut produire des faux positifs ou faux négatifs : ne pas l'utiliser comme preuve unique de fraude ou de faute académique."
+      ],
+      "gettingStarted": [
+        "Constituer un jeu de test autorisé avec créations humaines, contenus IA et contenus retouchés.",
+        "Comparer les erreurs et calibrer les seuils de revue avant d'automatiser une décision."
+      ],
+      "examples": [
+        "Compare ce signal à la source originale, aux métadonnées disponibles et à une vérification indépendante ; indique les incertitudes.",
+        "Rédige une procédure de vérification respectueuse de la vie privée, sans sanction automatique à partir d'un résultat IA."
+      ],
+      "pricing": "Comparer le forfait, les crédits, le nombre de mots/fichiers, les appels API, les durées audio/vidéo et les limites d'équipe selon le produit.",
+      "privacy": "Ne pas transmettre sans autorisation des copies, travaux d'élèves, données biométriques ou médias privés ; vérifier conservation, sous-traitants, conditions de suppression et droits de rectification/contestation.",
+      "selection": [
+        "Choisir AI or Not selon le besoin (multimodal_api), les formats, langues, sources vérifiables, taux de faux positifs, protections des données et coût d'usage."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.aiornot.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.aiornot.com/pricing",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://detection.aiornot.com/ai-image-detector-api/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  }
+}
