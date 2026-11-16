@@ -3912,5 +3912,413 @@
     "reviewedAt": "2026-11-16",
     "status": "documented",
     "evidence": "official"
+  },
+  "Phind": {
+    "headline": "Moteur de réponses techniques historiquement consacré aux questions de programmation et à la recherche pour développeurs.",
+    "audiences": [
+      "Développeurs recherchant des explications techniques",
+      "Étudiants en informatique"
+    ],
+    "cases": [
+      "Explorer une erreur de programmation",
+      "Chercher une explication sur une bibliothèque",
+      "Recouper une solution avec la documentation d’origine"
+    ],
+    "advantages": [
+      "Positionnement historique autour des questions techniques",
+      "Réponses conversationnelles liées à la recherche"
+    ],
+    "limits": [
+      "L’accessibilité du site officiel n’a pas pu être confirmée lors de cette vérification",
+      "Les fonctionnalités et l’offre actuelle ne doivent pas être considérées comme vérifiées"
+    ],
+    "gettingStarted": [
+      "Ouvrir le site officiel de Phind et identifier l’usage pertinent.",
+      "Essayer une question précise, contrôler les références et comparer le résultat aux sources d’origine."
+    ],
+    "examples": [
+      "Recherche les éléments essentiels sur un sujet précis, indique les sources et ce qui reste incertain.",
+      "Explique les résultats de cette recherche et distingue faits établis et hypothèses."
+    ],
+    "pricing": "L’état actuel du service et ses prix ne sont pas confirmés.",
+    "privacy": "Vérifier d’abord que le service est accessible avant de communiquer du code privé.",
+    "selection": [
+      "Choisir Phind lorsque son positionnement spécialisé correspond au besoin ; vérifier sa disponibilité et son offre actuelles."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "provisional",
+    "evidence": "unconfirmed",
+    "sources": [
+      {
+        "url": "https://www.phind.com",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Andi": {
+    "headline": "Moteur de recherche conversationnel combinant recherche web et réponses formulées en langage naturel.",
+    "audiences": [
+      "Grand public",
+      "Étudiants et professionnels en recherche exploratoire"
+    ],
+    "cases": [
+      "Poser une question ouverte et lire une synthèse",
+      "Explorer un sujet sans multiplier les recherches par mots-clés",
+      "Vérifier les pages citées avant de réutiliser une réponse"
+    ],
+    "advantages": [
+      "Interface orientée questions-réponses",
+      "Recherche présentée comme une conversation plutôt qu’une simple liste de liens"
+    ],
+    "limits": [
+      "La qualité et l’actualité des sources doivent être vérifiées",
+      "Certaines fonctionnalités nécessitent l’exécution de JavaScript dans le navigateur"
+    ],
+    "gettingStarted": [
+      "Ouvrir le site officiel de Andi et identifier l’usage pertinent.",
+      "Essayer une question précise, contrôler les références et comparer le résultat aux sources d’origine."
+    ],
+    "examples": [
+      "Recherche les éléments essentiels sur un sujet précis, indique les sources et ce qui reste incertain.",
+      "Explique les résultats de cette recherche et distingue faits établis et hypothèses."
+    ],
+    "pricing": "Tarification non confirmée dans les sources officielles consultées.",
+    "privacy": "Ne pas soumettre de données sensibles sans examiner la politique de confidentialité.",
+    "selection": [
+      "Choisir Andi lorsque son positionnement spécialisé correspond au besoin ; vérifier sa disponibilité et son offre actuelles."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://andisearch.com/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Komo": {
+    "headline": "Interface de recherche conversationnelle présentant des réponses avec sources et des options de recherche approfondie.",
+    "audiences": [
+      "Utilisateurs effectuant de la veille",
+      "Étudiants et professionnels à la recherche de réponses sourcées"
+    ],
+    "cases": [
+      "Rechercher une information récente",
+      "Faire une recherche approfondie lorsque l’offre le permet",
+      "Comparer les sources d’une synthèse"
+    ],
+    "advantages": [
+      "Réponses accompagnées de références selon la page officielle de recherche",
+      "Fonction de recherche approfondie mentionnée sur la page de recherche"
+    ],
+    "limits": [
+      "Des pages officielles donnent des présentations différentes de l’offre Komo",
+      "Le périmètre actuel des services et l’accès payant doivent être recontrôlés"
+    ],
+    "gettingStarted": [
+      "Ouvrir le site officiel de Komo et identifier l’usage pertinent.",
+      "Essayer une question précise, contrôler les références et comparer le résultat aux sources d’origine."
+    ],
+    "examples": [
+      "Recherche les éléments essentiels sur un sujet précis, indique les sources et ce qui reste incertain.",
+      "Explique les résultats de cette recherche et distingue faits établis et hypothèses."
+    ],
+    "pricing": "La recherche approfondie est signalée comme payante sur une page officielle ; montants non vérifiés.",
+    "privacy": "Examiner les modalités de conservation et d’utilisation des requêtes avant de partager des données internes.",
+    "selection": [
+      "Choisir Komo lorsque son positionnement spécialisé correspond au besoin ; vérifier sa disponibilité et son offre actuelles."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://komo.ai/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Exa": {
+    "headline": "Infrastructure de recherche web et d’extraction de contenu, destinée en particulier aux applications IA, agents et workflows de recherche.",
+    "audiences": [
+      "Développeurs IA et équipes RAG",
+      "Équipes de veille automatisée"
+    ],
+    "cases": [
+      "Interroger le web par API avec filtres",
+      "Récupérer textes, extraits et métadonnées de pages",
+      "Construire un moteur de recherche pour un agent"
+    ],
+    "advantages": [
+      "API Search documentée",
+      "Extraction de contenus et résultats structurés",
+      "Options de recherche et enrichissement programmatiques"
+    ],
+    "limits": [
+      "Intégration technique et clé API requises pour l’usage programmatique",
+      "Qualité des résultats dépendante de la requête et des sources",
+      "Les coûts augmentent avec les appels et l’extraction"
+    ],
+    "gettingStarted": [
+      "Ouvrir le site officiel de Exa et identifier l’usage pertinent.",
+      "Essayer une question précise, contrôler les références et comparer le résultat aux sources d’origine."
+    ],
+    "examples": [
+      "Recherche les éléments essentiels sur un sujet précis, indique les sources et ce qui reste incertain.",
+      "Explique les résultats de cette recherche et distingue faits établis et hypothèses."
+    ],
+    "pricing": "Tarification d’API à vérifier selon le type d’appel et le volume.",
+    "privacy": "Respecter les conditions d’utilisation des contenus tiers et limiter l’envoi de données confidentielles.",
+    "selection": [
+      "Choisir Exa lorsque son positionnement spécialisé correspond au besoin ; vérifier sa disponibilité et son offre actuelles."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://exa.ai/docs/reference/search",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Tavily": {
+    "headline": "API de recherche web pensée pour fournir aux agents IA des résultats et des contenus exploitables.",
+    "audiences": [
+      "Développeurs d’agents IA",
+      "Architectes RAG",
+      "Équipes créant des automatisations de recherche"
+    ],
+    "cases": [
+      "Ajouter une recherche web à un agent",
+      "Limiter les résultats à des domaines choisis",
+      "Récupérer extraits, dates et contenus de recherche"
+    ],
+    "advantages": [
+      "API Search et SDK documentés",
+      "Filtres de domaines, dates et langue",
+      "Paramètres de profondeur et de contenu"
+    ],
+    "limits": [
+      "API nécessitant une clé et une intégration",
+      "La présence d’une réponse automatique ne dispense pas de contrôler les références",
+      "Crédits et limites d’usage à surveiller"
+    ],
+    "gettingStarted": [
+      "Ouvrir le site officiel de Tavily et identifier l’usage pertinent.",
+      "Essayer une question précise, contrôler les références et comparer le résultat aux sources d’origine."
+    ],
+    "examples": [
+      "Recherche les éléments essentiels sur un sujet précis, indique les sources et ce qui reste incertain.",
+      "Explique les résultats de cette recherche et distingue faits établis et hypothèses."
+    ],
+    "pricing": "Tarifs et quotas à consulter sur Tavily selon les offres et crédits disponibles.",
+    "privacy": "Ne pas inclure d’informations personnelles dans les requêtes sans validation des conditions du service.",
+    "selection": [
+      "Choisir Tavily lorsque son positionnement spécialisé correspond au besoin ; vérifier sa disponibilité et son offre actuelles."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://docs.tavily.com/documentation/api-reference/endpoint/search",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Genspark": {
+    "headline": "Espace IA combinant conversations avec modèles sélectionnables, recherche web et outils de production assistés par agents.",
+    "audiences": [
+      "Chercheurs d’informations et professionnels",
+      "Équipes créant des livrables avec l’IA"
+    ],
+    "cases": [
+      "Poser une question avec recherche web activée",
+      "Analyser les fichiers joints",
+      "Passer d’une réponse à une création assistée par agent"
+    ],
+    "advantages": [
+      "AI Chat avec choix de modèle",
+      "Recherche web et citations lorsque Search Web est activé",
+      "Lecture de fichiers joints"
+    ],
+    "limits": [
+      "Les modèles proposés varient selon l’offre et la région",
+      "AI Chat et Super Agent suivent des limites et usages distincts",
+      "Les crédits peuvent être partagés entre produits"
+    ],
+    "gettingStarted": [
+      "Ouvrir le site officiel de Genspark et identifier l’usage pertinent.",
+      "Essayer une question précise, contrôler les références et comparer le résultat aux sources d’origine."
+    ],
+    "examples": [
+      "Recherche les éléments essentiels sur un sujet précis, indique les sources et ce qui reste incertain.",
+      "Explique les résultats de cette recherche et distingue faits établis et hypothèses."
+    ],
+    "pricing": "Modèle de quotas et crédits variant selon les abonnements ; consulter le centre d’aide et les offres officielles.",
+    "privacy": "Vérifier les règles relatives aux fichiers joints et aux conversations avant d’utiliser des documents confidentiels.",
+    "selection": [
+      "Choisir Genspark lorsque son positionnement spécialisé correspond au besoin ; vérifier sa disponibilité et son offre actuelles."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://www.genspark.ai/helpcenter/ai-chat",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Felo": {
+    "headline": "Moteur de recherche conversationnel multilingue proposant des réponses sourcées et des outils de création.",
+    "audiences": [
+      "Public multilingue",
+      "Étudiants et enseignants",
+      "Professionnels produisant synthèses et présentations"
+    ],
+    "cases": [
+      "Interroger le web dans plusieurs langues",
+      "Consulter les références d’une synthèse",
+      "Préparer une présentation à partir d’une recherche"
+    ],
+    "advantages": [
+      "Recherche en langage naturel",
+      "Réponses avec liens vers les sources selon l’aide officielle",
+      "Outils de recherche et de création"
+    ],
+    "limits": [
+      "Les réponses générées peuvent mal interpréter les sources",
+      "Les modèles et fonctions changent fréquemment",
+      "Certaines recherches avancées nécessitent une offre payante"
+    ],
+    "gettingStarted": [
+      "Ouvrir le site officiel de Felo et identifier l’usage pertinent.",
+      "Essayer une question précise, contrôler les références et comparer le résultat aux sources d’origine."
+    ],
+    "examples": [
+      "Recherche les éléments essentiels sur un sujet précis, indique les sources et ce qui reste incertain.",
+      "Explique les résultats de cette recherche et distingue faits établis et hypothèses."
+    ],
+    "pricing": "Une offre gratuite et des recherches Pro sont mentionnées par Felo ; vérifier les limites et tarifs courants.",
+    "privacy": "Vérifier les modalités de partage des recherches et des contenus importés.",
+    "selection": [
+      "Choisir Felo lorsque son positionnement spécialisé correspond au besoin ; vérifier sa disponibilité et son offre actuelles."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://felo.ai/en/faq/felo-search-features",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      },
+      {
+        "url": "https://felo.ai/en/version",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Kagi Assistant": {
+    "headline": "Assistant multi-modèles associé au moteur de recherche Kagi, avec accès au web facultatif et personnalisation.",
+    "audiences": [
+      "Chercheurs et utilisateurs de moteurs de recherche",
+      "Développeurs",
+      "Professionnels travaillant sur des fichiers"
+    ],
+    "cases": [
+      "Chercher des informations avec ou sans accès web",
+      "Comparer des modèles dans un même abonnement",
+      "Analyser un fichier ou configurer un assistant spécialisé"
+    ],
+    "advantages": [
+      "Choix de modèles et changement de modèle dans une conversation",
+      "Recherche Kagi activable et filtres de recherche",
+      "Import de fichiers et export de conversations"
+    ],
+    "limits": [
+      "Les modèles premium dépendent de l’abonnement",
+      "L’usage dépend d’allocations prévues par l’offre",
+      "Un modèle sans accès web ne garantit pas des informations récentes"
+    ],
+    "gettingStarted": [
+      "Ouvrir le site officiel de Kagi Assistant et identifier l’usage pertinent.",
+      "Essayer une question précise, contrôler les références et comparer le résultat aux sources d’origine."
+    ],
+    "examples": [
+      "Recherche les éléments essentiels sur un sujet précis, indique les sources et ce qui reste incertain.",
+      "Explique les résultats de cette recherche et distingue faits établis et hypothèses."
+    ],
+    "pricing": "Disponible via les abonnements Kagi éligibles ; modèles premium et limites selon le plan.",
+    "privacy": "Kagi indique que les conversations ne servent pas à entraîner les modèles et décrit une suppression par défaut après 24 heures d’inactivité, réglable par l’utilisateur.",
+    "selection": [
+      "Choisir Kagi Assistant lorsque son positionnement spécialisé correspond au besoin ; vérifier sa disponibilité et son offre actuelles."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://help.kagi.com/kagi/ai/assistant.html",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Wolfram Alpha": {
+    "headline": "Moteur de connaissances calculables produisant des résultats quantitatifs et scientifiques à partir de calculs et de données structurées.",
+    "audiences": [
+      "Étudiants en sciences et mathématiques",
+      "Enseignants et chercheurs",
+      "Analystes manipulant des données quantitatives"
+    ],
+    "cases": [
+      "Résoudre des équations et problèmes de calcul",
+      "Examiner des grandeurs physiques et données scientifiques",
+      "Produire des visualisations de fonctions"
+    ],
+    "advantages": [
+      "Calcul symbolique et numérique",
+      "Base de connaissances structurées",
+      "Provenance des données via boutons de sources lorsqu’ils sont disponibles"
+    ],
+    "limits": [
+      "Ce n’est pas un moteur de recherche de pages web classique",
+      "Ne traite pas les opinions comme un chatbot",
+      "Temps de calcul et couverture des connaissances limités"
+    ],
+    "gettingStarted": [
+      "Ouvrir le site officiel de Wolfram Alpha et identifier l’usage pertinent.",
+      "Essayer une question précise, contrôler les références et comparer le résultat aux sources d’origine."
+    ],
+    "examples": [
+      "Recherche les éléments essentiels sur un sujet précis, indique les sources et ce qui reste incertain.",
+      "Explique les résultats de cette recherche et distingue faits établis et hypothèses."
+    ],
+    "pricing": "Utilisation personnelle non commerciale gratuite ; abonnement Pro pour des fonctionnalités supplémentaires selon la FAQ officielle.",
+    "privacy": "Ne pas considérer les calculs comme un avis médical, juridique ou professionnel ; vérifier les hypothèses et les sources.",
+    "selection": [
+      "Choisir Wolfram Alpha lorsque son positionnement spécialisé correspond au besoin ; vérifier sa disponibilité et son offre actuelles."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://www.wolframalpha.com/faqs/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
   }
 }
