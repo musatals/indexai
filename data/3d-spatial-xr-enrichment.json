@@ -1,0 +1,1343 @@
+{
+  "meshy": {
+    "descriptionFr": "Plateforme IA de production d'objets 3D à partir de textes, d'images ou de vues multiples, avec textures, retopologie et export pour jeux, WebXR et impression.",
+    "descriptionEn": "AI 3D asset platform turning text, images or multiple views into textured, retopologized assets for games, WebXR and printing.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Texte, image et multi-images vers 3D",
+      "Retexturage, remeshing, rigging et animation",
+      "Exports GLB, FBX, OBJ, STL, USDZ et API"
+    ],
+    "featuresEn": [
+      "Text, image and multi-image to 3D",
+      "Retexturing, remeshing, rigging and animation",
+      "GLB, FBX, OBJ, STL, USDZ and API exports"
+    ],
+    "accessFr": "Web, API et exports 3D selon formule",
+    "accessEn": "Web, API and 3D exports by plan",
+    "officialSources": [
+      {
+        "url": "https://docs.meshy.ai/en",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://docs.meshy.ai/en/api/text-to-3d",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme IA de production d'objets 3D à partir de textes, d'images ou de vues multiples, avec textures, retopologie et export pour jeux, WebXR et impression.",
+      "audiences": [
+        "Artistes 3D, développeurs XR et designers",
+        "Formateurs et créateurs de ressources numériques"
+      ],
+      "cases": [
+        "Produire une maquette basse définition de mobilier pour une visite WebXR puis vérifier taille, UV et nombre de polygones.",
+        "Comparer les sorties 3D dans le moteur cible (Blender, Unity, Unreal ou navigateur) et conserver les références d'origine."
+      ],
+      "advantages": [
+        "Texte, image et multi-images vers 3D",
+        "Retexturage, remeshing, rigging et animation",
+        "Exports GLB, FBX, OBJ, STL, USDZ et API"
+      ],
+      "limits": [
+        "L'API retire le modèle lowpoly le 30 octobre 2026 et prévoit de retirer meshy-7 pour la génération géométrique le 31 décembre 2026. Les crédits, formats et droits d'exploitation dépendent du plan.",
+        "Le réalisme visuel ne garantit pas la précision géométrique, les bonnes dimensions, la topologie propre, les collisions ni les droits d'utilisation."
+      ],
+      "gettingStarted": [
+        "Définir le type de sortie visé : mesh éditable, splat photoréaliste, panorama 360°, scène interactive ou capture fidèle.",
+        "Tester l'export, les UV, le nombre de polygones, les performances sur le matériel cible et les conditions de licence avant publication."
+      ],
+      "examples": [
+        "Crée un objet 3D utilisable sur le web avec un budget de polygones explicite, textures sous licence et export GLB ; signale les détails inventés.",
+        "Compare une reconstruction spatiale et un modèle généré, puis évalue dimensions, fidélité, matériaux, capacité d'édition et fluidité sur mobile."
+      ],
+      "pricing": "Tarification et crédits variables selon génération, résolution, modèles 3D, exports, API, collaboration et licence commerciale ; consulter la page officielle.",
+      "privacy": "Vérifier les droits sur photos, scans, personnes, objets et lieux ; contrôler les conditions de stockage, de réutilisation pour entraînement et de partage public des actifs.",
+      "selection": [
+        "Choisir Meshy selon le besoin (asset_generator), le format exploitable, la qualité de géométrie, les contraintes XR, les licences et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "model_deprecations_scheduled",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.meshy.ai/en",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://docs.meshy.ai/en/api/text-to-3d",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_model_deprecations"
+  },
+  "tripo-ai": {
+    "descriptionFr": "Studio de génération 3D à partir de texte, image ou références multi-vues, incluant maillage optimisé, segmentation, textures, rigging et ponts vers les logiciels 3D.",
+    "descriptionEn": "3D generation studio from text, images or multi-view references with optimized meshes, segmentation, textures, rigging and DCC bridges.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Text-to-3D, Image-to-3D et Multi-view",
+      "HD Model et Smart Mesh optimisé",
+      "Retopologie, UV, rigging, animation et DCC Bridge"
+    ],
+    "featuresEn": [
+      "Text-to-3D, Image-to-3D and multi-view",
+      "HD Model and optimized Smart Mesh",
+      "Retopology, UV, rigging, animation and DCC Bridge"
+    ],
+    "accessFr": "Web, API et exports 3D selon formule",
+    "accessEn": "Web, API and 3D exports by plan",
+    "officialSources": [
+      {
+        "url": "https://www.tripo3d.ai/fr/pricing",
+        "checkedAt": "2026-11-15",
+        "scope": "features_and_pricing"
+      },
+      {
+        "url": "https://www.tripo3d.ai/help/getting-started/what-features-does-tripo-have",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://www.tripo3d.ai/tutorials/workflow-demo-tripo-quick-start-guide",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Studio de génération 3D à partir de texte, image ou références multi-vues, incluant maillage optimisé, segmentation, textures, rigging et ponts vers les logiciels 3D.",
+      "audiences": [
+        "Artistes 3D, développeurs XR et designers",
+        "Formateurs et créateurs de ressources numériques"
+      ],
+      "cases": [
+        "Créer un personnage pour moteur de jeu, sélectionner Smart Mesh puis tester le squelette et les textures exportées.",
+        "Comparer les sorties 3D dans le moteur cible (Blender, Unity, Unreal ou navigateur) et conserver les références d'origine."
+      ],
+      "advantages": [
+        "Text-to-3D, Image-to-3D et Multi-view",
+        "HD Model et Smart Mesh optimisé",
+        "Retopologie, UV, rigging, animation et DCC Bridge"
+      ],
+      "limits": [
+        "Les modèles haute définition peuvent avoir un nombre de polygones inadapté au WebXR ; tester animations, matériaux, collisions et performances dans le moteur cible. Les crédits varient selon le mode.",
+        "Le réalisme visuel ne garantit pas la précision géométrique, les bonnes dimensions, la topologie propre, les collisions ni les droits d'utilisation."
+      ],
+      "gettingStarted": [
+        "Définir le type de sortie visé : mesh éditable, splat photoréaliste, panorama 360°, scène interactive ou capture fidèle.",
+        "Tester l'export, les UV, le nombre de polygones, les performances sur le matériel cible et les conditions de licence avant publication."
+      ],
+      "examples": [
+        "Crée un objet 3D utilisable sur le web avec un budget de polygones explicite, textures sous licence et export GLB ; signale les détails inventés.",
+        "Compare une reconstruction spatiale et un modèle généré, puis évalue dimensions, fidélité, matériaux, capacité d'édition et fluidité sur mobile."
+      ],
+      "pricing": "Tarification et crédits variables selon génération, résolution, modèles 3D, exports, API, collaboration et licence commerciale ; consulter la page officielle.",
+      "privacy": "Vérifier les droits sur photos, scans, personnes, objets et lieux ; contrôler les conditions de stockage, de réutilisation pour entraînement et de partage public des actifs.",
+      "selection": [
+        "Choisir Tripo AI selon le besoin (asset_generator), le format exploitable, la qualité de géométrie, les contraintes XR, les licences et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.tripo3d.ai/help/getting-started/what-features-does-tripo-have",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.tripo3d.ai/tutorials/workflow-demo-tripo-quick-start-guide",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "rodin": {
+    "descriptionFr": "Générateur d'actifs 3D Hyper3D Rodin Gen-2.5, avec texte vers 3D, image vers 3D multi-vues, topologie contrôlée et textures PBR via API.",
+    "descriptionEn": "Hyper3D Rodin Gen-2.5 asset generator supporting text-to-3D, multi-image-to-3D, controllable topology and PBR textures via API.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Rodin Gen-2.5 avec images multiples",
+      "Maillages Raw ou Quad et textures PBR",
+      "API asynchrone, tâches et crédits"
+    ],
+    "featuresEn": [
+      "Rodin Gen-2.5 with multi-image input",
+      "Raw or Quad meshes and PBR textures",
+      "Asynchronous API, jobs and credits"
+    ],
+    "accessFr": "Web, API et exports 3D selon formule",
+    "accessEn": "Web, API and 3D exports by plan",
+    "officialSources": [
+      {
+        "url": "https://docs.hyper3d.ai/en",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://docs.hyper3d.ai/en/api-specification/rodin-gen2-5",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Générateur d'actifs 3D Hyper3D Rodin Gen-2.5, avec texte vers 3D, image vers 3D multi-vues, topologie contrôlée et textures PBR via API.",
+      "audiences": [
+        "Artistes 3D, développeurs XR et designers",
+        "Formateurs et créateurs de ressources numériques"
+      ],
+      "cases": [
+        "Générer des accessoires 3D à partir de photos sous plusieurs angles puis comparer les maillages à la pièce originale.",
+        "Comparer les sorties 3D dans le moteur cible (Blender, Unity, Unreal ou navigateur) et conserver les références d'origine."
+      ],
+      "advantages": [
+        "Rodin Gen-2.5 avec images multiples",
+        "Maillages Raw ou Quad et textures PBR",
+        "API asynchrone, tâches et crédits"
+      ],
+      "limits": [
+        "La génération est asynchrone et consommée en crédits ; vérifier limites de tâches concurrentes, échelle réelle et cohérence des faces cachées avant utilisation en production.",
+        "Le réalisme visuel ne garantit pas la précision géométrique, les bonnes dimensions, la topologie propre, les collisions ni les droits d'utilisation."
+      ],
+      "gettingStarted": [
+        "Définir le type de sortie visé : mesh éditable, splat photoréaliste, panorama 360°, scène interactive ou capture fidèle.",
+        "Tester l'export, les UV, le nombre de polygones, les performances sur le matériel cible et les conditions de licence avant publication."
+      ],
+      "examples": [
+        "Crée un objet 3D utilisable sur le web avec un budget de polygones explicite, textures sous licence et export GLB ; signale les détails inventés.",
+        "Compare une reconstruction spatiale et un modèle généré, puis évalue dimensions, fidélité, matériaux, capacité d'édition et fluidité sur mobile."
+      ],
+      "pricing": "Tarification et crédits variables selon génération, résolution, modèles 3D, exports, API, collaboration et licence commerciale ; consulter la page officielle.",
+      "privacy": "Vérifier les droits sur photos, scans, personnes, objets et lieux ; contrôler les conditions de stockage, de réutilisation pour entraînement et de partage public des actifs.",
+      "selection": [
+        "Choisir Rodin selon le besoin (asset_generator), le format exploitable, la qualité de géométrie, les contraintes XR, les licences et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.hyper3d.ai/en",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://docs.hyper3d.ai/en/api-specification/rodin-gen2-5",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "luma-ai": {
+    "descriptionFr": "Écosystème Luma de capture d'espaces et d'objets en 3D par photos et de création audiovisuelle IA, désormais fortement centré sur les outils vidéo Dream Machine.",
+    "descriptionEn": "Luma ecosystem for photo-based 3D capture of spaces and objects alongside AI audiovisual creation, now strongly focused on Dream Machine video tools.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Capture 3D depuis un smartphone",
+      "Reconstruction NeRF/splats selon parcours",
+      "Dream Machine et Photon pour contenus visuels"
+    ],
+    "featuresEn": [
+      "Smartphone-based 3D capture",
+      "NeRF/splat reconstruction by workflow",
+      "Dream Machine and Photon visual creation"
+    ],
+    "accessFr": "Application mobile ou ordinateur selon produit",
+    "accessEn": "Mobile or desktop app depending on product",
+    "officialSources": [
+      {
+        "url": "https://lumalabs.ai/create/ai-video-generator-for-real-estate-listings",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://lumalabs.ai/create/ai-video-generator-for-e-commerce-product-showcases",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Écosystème Luma de capture d'espaces et d'objets en 3D par photos et de création audiovisuelle IA, désormais fortement centré sur les outils vidéo Dream Machine.",
+      "audiences": [
+        "Artistes 3D, développeurs XR et designers",
+        "Formateurs et créateurs de ressources numériques"
+      ],
+      "cases": [
+        "Numériser un objet ou un intérieur et comparer la capture à une génération de vidéo du même produit.",
+        "Comparer les sorties 3D dans le moteur cible (Blender, Unity, Unreal ou navigateur) et conserver les références d'origine."
+      ],
+      "advantages": [
+        "Capture 3D depuis un smartphone",
+        "Reconstruction NeRF/splats selon parcours",
+        "Dream Machine et Photon pour contenus visuels"
+      ],
+      "limits": [
+        "Les pages marketing mélangent capture spatiale et vidéo générative ; vérifier que l'outil de capture 3D et les exports attendus sont disponibles dans l'application et l'offre visées. Un rendu NeRF n'est pas nécessairement un maillage utilisable en CAO.",
+        "Le réalisme visuel ne garantit pas la précision géométrique, les bonnes dimensions, la topologie propre, les collisions ni les droits d'utilisation."
+      ],
+      "gettingStarted": [
+        "Définir le type de sortie visé : mesh éditable, splat photoréaliste, panorama 360°, scène interactive ou capture fidèle.",
+        "Tester l'export, les UV, le nombre de polygones, les performances sur le matériel cible et les conditions de licence avant publication."
+      ],
+      "examples": [
+        "Crée un objet 3D utilisable sur le web avec un budget de polygones explicite, textures sous licence et export GLB ; signale les détails inventés.",
+        "Compare une reconstruction spatiale et un modèle généré, puis évalue dimensions, fidélité, matériaux, capacité d'édition et fluidité sur mobile."
+      ],
+      "pricing": "Tarification et crédits variables selon génération, résolution, modèles 3D, exports, API, collaboration et licence commerciale ; consulter la page officielle.",
+      "privacy": "Vérifier les droits sur photos, scans, personnes, objets et lieux ; contrôler les conditions de stockage, de réutilisation pour entraînement et de partage public des actifs.",
+      "selection": [
+        "Choisir Luma AI selon le besoin (capture), le format exploitable, la qualité de géométrie, les contraintes XR, les licences et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://lumalabs.ai/create/ai-video-generator-for-real-estate-listings",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://lumalabs.ai/create/ai-video-generator-for-e-commerce-product-showcases",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "spline-ai": {
+    "descriptionFr": "Éditeur 3D interactif WebGPU avec assistant IA et contrôle MCP pour construire et modifier des scènes, animations et interactions destinées au web et aux applications.",
+    "descriptionEn": "WebGPU interactive 3D editor with AI agent and MCP control to create and edit scenes, animations and interactions for web and apps.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Spline V2 et agent de modification 3D",
+      "MCP, HTML/JS, événements et états",
+      "Publication web et intégration React, iOS, Android"
+    ],
+    "featuresEn": [
+      "Spline V2 and 3D editing agent",
+      "MCP, HTML/JS, events and states",
+      "Web publishing and React, iOS, Android integration"
+    ],
+    "accessFr": "Web, API et exports 3D selon formule",
+    "accessEn": "Web, API and 3D exports by plan",
+    "officialSources": [
+      {
+        "url": "https://spline.design/blog/spline-v2",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://spline.design/changelog/introducing-spline-v2",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Éditeur 3D interactif WebGPU avec assistant IA et contrôle MCP pour construire et modifier des scènes, animations et interactions destinées au web et aux applications.",
+      "audiences": [
+        "Artistes 3D, développeurs XR et designers",
+        "Formateurs et créateurs de ressources numériques"
+      ],
+      "cases": [
+        "Construire un objet éducatif interactif en 3D dont les pièces réagissent au clic, puis l'intégrer à un portail web.",
+        "Comparer les sorties 3D dans le moteur cible (Blender, Unity, Unreal ou navigateur) et conserver les références d'origine."
+      ],
+      "advantages": [
+        "Spline V2 et agent de modification 3D",
+        "MCP, HTML/JS, événements et états",
+        "Publication web et intégration React, iOS, Android"
+      ],
+      "limits": [
+        "Les scènes lourdes ou les scripts peuvent réduire les performances mobiles ; tester accessibilité clavier, poids des ressources et compatibilité WebGPU. Spline V2 est sorti en août 2026.",
+        "Le réalisme visuel ne garantit pas la précision géométrique, les bonnes dimensions, la topologie propre, les collisions ni les droits d'utilisation."
+      ],
+      "gettingStarted": [
+        "Définir le type de sortie visé : mesh éditable, splat photoréaliste, panorama 360°, scène interactive ou capture fidèle.",
+        "Tester l'export, les UV, le nombre de polygones, les performances sur le matériel cible et les conditions de licence avant publication."
+      ],
+      "examples": [
+        "Crée un objet 3D utilisable sur le web avec un budget de polygones explicite, textures sous licence et export GLB ; signale les détails inventés.",
+        "Compare une reconstruction spatiale et un modèle généré, puis évalue dimensions, fidélité, matériaux, capacité d'édition et fluidité sur mobile."
+      ],
+      "pricing": "Tarification et crédits variables selon génération, résolution, modèles 3D, exports, API, collaboration et licence commerciale ; consulter la page officielle.",
+      "privacy": "Vérifier les droits sur photos, scans, personnes, objets et lieux ; contrôler les conditions de stockage, de réutilisation pour entraînement et de partage public des actifs.",
+      "selection": [
+        "Choisir Spline AI selon le besoin (interactive_editor), le format exploitable, la qualité de géométrie, les contraintes XR, les licences et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "v2_2026_release",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://spline.design/blog/spline-v2",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://spline.design/changelog/introducing-spline-v2",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_major_upgrade"
+  },
+  "kaedim": {
+    "descriptionFr": "Service professionnel de création 3D à grande échelle transformant briefs, croquis, photographies et références de marque en actifs révisables par une équipe.",
+    "descriptionEn": "Professional 3D production service converting briefs, sketches, product photos and brand references into team-reviewable assets at scale.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Création depuis croquis, photos et briefs",
+      "Révision collaborative, annotations et approbation",
+      "Actifs pour jeux, design produit et CGI marketing"
+    ],
+    "featuresEn": [
+      "Creation from sketches, photos and briefs",
+      "Collaborative markup and approval",
+      "Game, product design and marketing CGI assets"
+    ],
+    "accessFr": "Application web et/ou bureau selon licence",
+    "accessEn": "Web and/or desktop by license",
+    "officialSources": [
+      {
+        "url": "https://www.kaedim3d.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Service professionnel de création 3D à grande échelle transformant briefs, croquis, photographies et références de marque en actifs révisables par une équipe.",
+      "audiences": [
+        "Artistes 3D, développeurs XR et designers",
+        "Formateurs et créateurs de ressources numériques"
+      ],
+      "cases": [
+        "Faire produire plusieurs prototypes numériques d'un produit avec annotations, comparer les versions puis approuver un actif à finaliser.",
+        "Comparer les sorties 3D dans le moteur cible (Blender, Unity, Unreal ou navigateur) et conserver les références d'origine."
+      ],
+      "advantages": [
+        "Création depuis croquis, photos et briefs",
+        "Révision collaborative, annotations et approbation",
+        "Actifs pour jeux, design produit et CGI marketing"
+      ],
+      "limits": [
+        "Le service est orienté workflow d'équipe plutôt que générateur instantané universel ; valider les dimensions, les temps de production, le contrat de confidentialité et les revendications de propriété intellectuelle.",
+        "Le réalisme visuel ne garantit pas la précision géométrique, les bonnes dimensions, la topologie propre, les collisions ni les droits d'utilisation."
+      ],
+      "gettingStarted": [
+        "Définir le type de sortie visé : mesh éditable, splat photoréaliste, panorama 360°, scène interactive ou capture fidèle.",
+        "Tester l'export, les UV, le nombre de polygones, les performances sur le matériel cible et les conditions de licence avant publication."
+      ],
+      "examples": [
+        "Crée un objet 3D utilisable sur le web avec un budget de polygones explicite, textures sous licence et export GLB ; signale les détails inventés.",
+        "Compare une reconstruction spatiale et un modèle généré, puis évalue dimensions, fidélité, matériaux, capacité d'édition et fluidité sur mobile."
+      ],
+      "pricing": "Tarification et crédits variables selon génération, résolution, modèles 3D, exports, API, collaboration et licence commerciale ; consulter la page officielle.",
+      "privacy": "Vérifier les droits sur photos, scans, personnes, objets et lieux ; contrôler les conditions de stockage, de réutilisation pour entraînement et de partage public des actifs.",
+      "selection": [
+        "Choisir Kaedim selon le besoin (production), le format exploitable, la qualité de géométrie, les contraintes XR, les licences et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.kaedim3d.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "masterpiece-x": {
+    "descriptionFr": "Masterpiece X met désormais en avant WorldEngen, un copilote de production de scènes 3D connecté à Blender, Unity et Unreal ; les anciennes applications web/VR sont répertoriées comme Legacy.",
+    "descriptionEn": "Masterpiece X now foregrounds WorldEngen, a 3D scene production copilot integrated with Blender, Unity and Unreal; earlier web/VR apps are labeled Legacy.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "WorldEngen pour création de mondes et scènes",
+      "Agents, greyboxing, kitbashing et organisation d'actifs",
+      "Connecteurs Blender, Unity et Unreal"
+    ],
+    "featuresEn": [
+      "WorldEngen scene and world building",
+      "Agents, greyboxing, kitbashing and asset organization",
+      "Blender, Unity and Unreal connectors"
+    ],
+    "accessFr": "Application web et/ou bureau selon licence",
+    "accessEn": "Web and/or desktop by license",
+    "officialSources": [
+      {
+        "url": "https://masterpiecex.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://worldengen.masterpiecex.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Masterpiece X met désormais en avant WorldEngen, un copilote de production de scènes 3D connecté à Blender, Unity et Unreal ; les anciennes applications web/VR sont répertoriées comme Legacy.",
+      "audiences": [
+        "Artistes 3D, développeurs XR et designers",
+        "Formateurs et créateurs de ressources numériques"
+      ],
+      "cases": [
+        "Préparer un décor de jeu depuis un ensemble de références puis assembler les objets dans Unreal Engine.",
+        "Comparer les sorties 3D dans le moteur cible (Blender, Unity, Unreal ou navigateur) et conserver les références d'origine."
+      ],
+      "advantages": [
+        "WorldEngen pour création de mondes et scènes",
+        "Agents, greyboxing, kitbashing et organisation d'actifs",
+        "Connecteurs Blender, Unity et Unreal"
+      ],
+      "limits": [
+        "L'application historique Masterpiece X Web/Quest est signalée Legacy par l'éditeur ; WorldEngen nécessite une application bureau et des crédits. Distinguer les produits avant de choisir un plan.",
+        "Le réalisme visuel ne garantit pas la précision géométrique, les bonnes dimensions, la topologie propre, les collisions ni les droits d'utilisation."
+      ],
+      "gettingStarted": [
+        "Définir le type de sortie visé : mesh éditable, splat photoréaliste, panorama 360°, scène interactive ou capture fidèle.",
+        "Tester l'export, les UV, le nombre de polygones, les performances sur le matériel cible et les conditions de licence avant publication."
+      ],
+      "examples": [
+        "Crée un objet 3D utilisable sur le web avec un budget de polygones explicite, textures sous licence et export GLB ; signale les détails inventés.",
+        "Compare une reconstruction spatiale et un modèle généré, puis évalue dimensions, fidélité, matériaux, capacité d'édition et fluidité sur mobile."
+      ],
+      "pricing": "Tarification et crédits variables selon génération, résolution, modèles 3D, exports, API, collaboration et licence commerciale ; consulter la page officielle.",
+      "privacy": "Vérifier les droits sur photos, scans, personnes, objets et lieux ; contrôler les conditions de stockage, de réutilisation pour entraînement et de partage public des actifs.",
+      "selection": [
+        "Choisir Masterpiece X selon le besoin (production), le format exploitable, la qualité de géométrie, les contraintes XR, les licences et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "worldengen_current_legacy_apps",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://masterpiecex.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://worldengen.masterpiecex.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_repositioned",
+    "name": "WorldEngen (Masterpiece X)",
+    "url": "https://masterpiecex.com/"
+  },
+  "scenario": {
+    "descriptionFr": "Plateforme de production d'actifs génératifs pour studios, offrant des modèles image-vers-3D de plusieurs fournisseurs et une API unifiée.",
+    "descriptionEn": "Creative production platform for studios exposing multiple providers' image-to-3D models through unified workflows and API.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Génération d'actifs 3D par fournisseurs multiples",
+      "Modèles Meshy, Tripo, Rodin, Hunyuan et autres",
+      "Comparaison des coûts, textures et fidélité géométrique"
+    ],
+    "featuresEn": [
+      "Multi-provider 3D asset generation",
+      "Meshy, Tripo, Rodin, Hunyuan and other models",
+      "Comparing costs, textures and mesh fidelity"
+    ],
+    "accessFr": "Web, API et exports 3D selon formule",
+    "accessEn": "Web, API and 3D exports by plan",
+    "officialSources": [
+      {
+        "url": "https://help.scenario.com/articles/1263568892-comparing-generative-3d-models",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://docs.scenario.com/get-started/generation/3d-model-generation",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de production d'actifs génératifs pour studios, offrant des modèles image-vers-3D de plusieurs fournisseurs et une API unifiée.",
+      "audiences": [
+        "Artistes 3D, développeurs XR et designers",
+        "Formateurs et créateurs de ressources numériques"
+      ],
+      "cases": [
+        "Tester la génération d'un même objet de jeu via deux fournisseurs pour comparer qualité, temps et coût.",
+        "Comparer les sorties 3D dans le moteur cible (Blender, Unity, Unreal ou navigateur) et conserver les références d'origine."
+      ],
+      "advantages": [
+        "Génération d'actifs 3D par fournisseurs multiples",
+        "Modèles Meshy, Tripo, Rodin, Hunyuan et autres",
+        "Comparaison des coûts, textures et fidélité géométrique"
+      ],
+      "limits": [
+        "Scenario agrège des modèles tiers dont les licences et disponibilités évoluent ; les sorties et prix varient entre fournisseurs. Tester la compatibilité dans les pipelines du studio.",
+        "Le réalisme visuel ne garantit pas la précision géométrique, les bonnes dimensions, la topologie propre, les collisions ni les droits d'utilisation."
+      ],
+      "gettingStarted": [
+        "Définir le type de sortie visé : mesh éditable, splat photoréaliste, panorama 360°, scène interactive ou capture fidèle.",
+        "Tester l'export, les UV, le nombre de polygones, les performances sur le matériel cible et les conditions de licence avant publication."
+      ],
+      "examples": [
+        "Crée un objet 3D utilisable sur le web avec un budget de polygones explicite, textures sous licence et export GLB ; signale les détails inventés.",
+        "Compare une reconstruction spatiale et un modèle généré, puis évalue dimensions, fidélité, matériaux, capacité d'édition et fluidité sur mobile."
+      ],
+      "pricing": "Tarification et crédits variables selon génération, résolution, modèles 3D, exports, API, collaboration et licence commerciale ; consulter la page officielle.",
+      "privacy": "Vérifier les droits sur photos, scans, personnes, objets et lieux ; contrôler les conditions de stockage, de réutilisation pour entraînement et de partage public des actifs.",
+      "selection": [
+        "Choisir Scenario selon le besoin (multi_provider), le format exploitable, la qualité de géométrie, les contraintes XR, les licences et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.scenario.com/articles/1263568892-comparing-generative-3d-models",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://docs.scenario.com/get-started/generation/3d-model-generation",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "blockade-labs-skybox": {
+    "descriptionFr": "Skybox AI de Blockade Labs génère des panoramas équirectangulaires à 360° et HDRI pour fonds immersifs et éclairage de scènes 3D.",
+    "descriptionEn": "Blockade Labs Skybox AI generates 360° equirectangular panoramas and HDRIs for immersive backgrounds and 3D scene lighting.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Skybox AI Model 4 et panoramas 360°",
+      "HDRI 32 bits et éclairage",
+      "Exports pour Blender, Unreal, Unity et Three.js"
+    ],
+    "featuresEn": [
+      "Skybox AI Model 4 and 360° panoramas",
+      "32-bit HDRI and scene lighting",
+      "Exports for Blender, Unreal, Unity and Three.js"
+    ],
+    "accessFr": "Web, API et exports 3D selon formule",
+    "accessEn": "Web, API and 3D exports by plan",
+    "officialSources": [
+      {
+        "url": "https://docs.blockadelabs.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://www.blockadelabs.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Skybox AI de Blockade Labs génère des panoramas équirectangulaires à 360° et HDRI pour fonds immersifs et éclairage de scènes 3D.",
+      "audiences": [
+        "Concepteurs de VR, web immersif et éclairage",
+        "Formateurs et créateurs de ressources numériques"
+      ],
+      "cases": [
+        "Créer le décor panoramique d'une visite VR et l'utiliser comme environnement d'éclairage dans une scène Three.js.",
+        "Comparer les sorties 3D dans le moteur cible (Blender, Unity, Unreal ou navigateur) et conserver les références d'origine."
+      ],
+      "advantages": [
+        "Skybox AI Model 4 et panoramas 360°",
+        "HDRI 32 bits et éclairage",
+        "Exports pour Blender, Unreal, Unity et Three.js"
+      ],
+      "limits": [
+        "Un panorama 360° n'est pas un environnement 3D navigable avec géométrie. Les exports HDRI/haute définition et l'API nécessitent un plan approprié ; les droits commerciaux sont régis par le contrat.",
+        "Le réalisme visuel ne garantit pas la précision géométrique, les bonnes dimensions, la topologie propre, les collisions ni les droits d'utilisation."
+      ],
+      "gettingStarted": [
+        "Définir le type de sortie visé : mesh éditable, splat photoréaliste, panorama 360°, scène interactive ou capture fidèle.",
+        "Tester l'export, les UV, le nombre de polygones, les performances sur le matériel cible et les conditions de licence avant publication."
+      ],
+      "examples": [
+        "Crée un objet 3D utilisable sur le web avec un budget de polygones explicite, textures sous licence et export GLB ; signale les détails inventés.",
+        "Compare une reconstruction spatiale et un modèle généré, puis évalue dimensions, fidélité, matériaux, capacité d'édition et fluidité sur mobile."
+      ],
+      "pricing": "Tarification et crédits variables selon génération, résolution, modèles 3D, exports, API, collaboration et licence commerciale ; consulter la page officielle.",
+      "privacy": "Vérifier les droits sur photos, scans, personnes, objets et lieux ; contrôler les conditions de stockage, de réutilisation pour entraînement et de partage public des actifs.",
+      "selection": [
+        "Choisir Blockade Labs Skybox selon le besoin (panorama), le format exploitable, la qualité de géométrie, les contraintes XR, les licences et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.blockadelabs.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.blockadelabs.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "polycam": {
+    "descriptionFr": "Application de capture spatiale 3D via LiDAR, photogrammétrie, Gaussian Splatting et capture photo sans LiDAR, avec partage et exports.",
+    "descriptionEn": "Spatial capture app using LiDAR, photogrammetry, Gaussian Splatting and LiDAR-free photo capture, with sharing and exports.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "LiDAR et plans d'espaces",
+      "Photogrammétrie d'objets et Gaussian Splats",
+      "Mesures, exports et partage de visites"
+    ],
+    "featuresEn": [
+      "LiDAR scans and room plans",
+      "Object photogrammetry and Gaussian Splats",
+      "Measurements, exports and shared tours"
+    ],
+    "accessFr": "Application mobile ou ordinateur selon produit",
+    "accessEn": "Mobile or desktop app depending on product",
+    "officialSources": [
+      {
+        "url": "https://poly.cam/blog/lidar-vs-photogrammetry-which-3d-scanning-method-is-right-for-you",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://poly.cam/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Application de capture spatiale 3D via LiDAR, photogrammétrie, Gaussian Splatting et capture photo sans LiDAR, avec partage et exports.",
+      "audiences": [
+        "Artistes 3D, développeurs XR et designers",
+        "Formateurs et créateurs de ressources numériques"
+      ],
+      "cases": [
+        "Numériser une salle d'exposition en comparant le maillage LiDAR au rendu Gaussian Splat.",
+        "Comparer les sorties 3D dans le moteur cible (Blender, Unity, Unreal ou navigateur) et conserver les références d'origine."
+      ],
+      "advantages": [
+        "LiDAR et plans d'espaces",
+        "Photogrammétrie d'objets et Gaussian Splats",
+        "Mesures, exports et partage de visites"
+      ],
+      "limits": [
+        "Le Gaussian Splat n'est pas directement un maillage CAO ; la précision de mesure dépend du matériel, de la lumière et de la méthode. Les exports et données partagées dépendent du forfait.",
+        "Le réalisme visuel ne garantit pas la précision géométrique, les bonnes dimensions, la topologie propre, les collisions ni les droits d'utilisation."
+      ],
+      "gettingStarted": [
+        "Définir le type de sortie visé : mesh éditable, splat photoréaliste, panorama 360°, scène interactive ou capture fidèle.",
+        "Tester l'export, les UV, le nombre de polygones, les performances sur le matériel cible et les conditions de licence avant publication."
+      ],
+      "examples": [
+        "Crée un objet 3D utilisable sur le web avec un budget de polygones explicite, textures sous licence et export GLB ; signale les détails inventés.",
+        "Compare une reconstruction spatiale et un modèle généré, puis évalue dimensions, fidélité, matériaux, capacité d'édition et fluidité sur mobile."
+      ],
+      "pricing": "Tarification et crédits variables selon génération, résolution, modèles 3D, exports, API, collaboration et licence commerciale ; consulter la page officielle.",
+      "privacy": "Vérifier les droits sur photos, scans, personnes, objets et lieux ; contrôler les conditions de stockage, de réutilisation pour entraînement et de partage public des actifs.",
+      "selection": [
+        "Choisir Polycam selon le besoin (capture), le format exploitable, la qualité de géométrie, les contraintes XR, les licences et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://poly.cam/blog/lidar-vs-photogrammetry-which-3d-scanning-method-is-right-for-you",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://poly.cam/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "realityscan": {
+    "descriptionFr": "Logiciel de photogrammétrie Epic Games précédemment nommé RealityCapture, accompagné de RealityScan Mobile pour iOS et Android.",
+    "descriptionEn": "Epic Games photogrammetry software formerly called RealityCapture, accompanied by RealityScan Mobile for iOS and Android.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Reconstruction de maillages, textures et nuages de points",
+      "RealityScan 2.2 : accélération AMD sous Windows",
+      "RealityScan Mobile et prise en charge LiDAR"
+    ],
+    "featuresEn": [
+      "Meshes, textures and point cloud reconstruction",
+      "RealityScan 2.2 AMD acceleration on Windows",
+      "RealityScan Mobile and LiDAR support"
+    ],
+    "accessFr": "Application mobile ou ordinateur selon produit",
+    "accessEn": "Mobile or desktop app depending on product",
+    "officialSources": [
+      {
+        "url": "https://www.realityscan.com/ai-info?lang=fr",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://www.realityscan.com/news/realityscan-2-2-is-here-with-full-amd-gpu-support-download-today",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Logiciel de photogrammétrie Epic Games précédemment nommé RealityCapture, accompagné de RealityScan Mobile pour iOS et Android.",
+      "audiences": [
+        "Artistes 3D, développeurs XR et designers",
+        "Formateurs et créateurs de ressources numériques"
+      ],
+      "cases": [
+        "Reconstruire un objet patrimonial photographié sous plusieurs angles, puis exporter une copie pour consultation immersive.",
+        "Comparer les sorties 3D dans le moteur cible (Blender, Unity, Unreal ou navigateur) et conserver les références d'origine."
+      ],
+      "advantages": [
+        "Reconstruction de maillages, textures et nuages de points",
+        "RealityScan 2.2 : accélération AMD sous Windows",
+        "RealityScan Mobile et prise en charge LiDAR"
+      ],
+      "limits": [
+        "RealityCapture a été renommé RealityScan en version 2.0 ; gratuit pour certaines catégories et chiffre d'affaires annuel inférieur à 1 M USD, sinon licence payante. Les anciens projets PPI doivent être convertis.",
+        "Le réalisme visuel ne garantit pas la précision géométrique, les bonnes dimensions, la topologie propre, les collisions ni les droits d'utilisation."
+      ],
+      "gettingStarted": [
+        "Définir le type de sortie visé : mesh éditable, splat photoréaliste, panorama 360°, scène interactive ou capture fidèle.",
+        "Tester l'export, les UV, le nombre de polygones, les performances sur le matériel cible et les conditions de licence avant publication."
+      ],
+      "examples": [
+        "Crée un objet 3D utilisable sur le web avec un budget de polygones explicite, textures sous licence et export GLB ; signale les détails inventés.",
+        "Compare une reconstruction spatiale et un modèle généré, puis évalue dimensions, fidélité, matériaux, capacité d'édition et fluidité sur mobile."
+      ],
+      "pricing": "Tarification et crédits variables selon génération, résolution, modèles 3D, exports, API, collaboration et licence commerciale ; consulter la page officielle.",
+      "privacy": "Vérifier les droits sur photos, scans, personnes, objets et lieux ; contrôler les conditions de stockage, de réutilisation pour entraînement et de partage public des actifs.",
+      "selection": [
+        "Choisir RealityScan selon le besoin (photogrammetry), le format exploitable, la qualité de géométrie, les contraintes XR, les licences et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "renamed_autodesk_flow_studio",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.realityscan.com/ai-info?lang=fr",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.realityscan.com/news/realityscan-2-2-is-here-with-full-amd-gpu-support-download-today",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_rebranded",
+    "name": "RealityScan (ex-RealityCapture)"
+  },
+  "3dfy-ai": {
+    "descriptionFr": "Ancien outil 3DFY.ai de génération de modèles 3D depuis des instructions textuelles ; plusieurs répertoires indépendants signalent la fermeture de l'activité.",
+    "descriptionEn": "Former 3DFY.ai text-to-3D model generator; multiple independent registries report that the service is no longer operating.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Historique de génération texte-vers-3D",
+      "Génération d'actifs à partir de catégories (historique)",
+      "Service de génération non disponible à confirmer par une source officielle"
+    ],
+    "featuresEn": [
+      "Historical text-to-3D generation",
+      "Historical category-based asset creation",
+      "Generation service not currently verifiable on an official site"
+    ],
+    "accessFr": "Service historique — accès opérationnel non confirmé",
+    "accessEn": "Historical service — operational access unconfirmed",
+    "officialSources": [],
+    "research": {
+      "headline": "Ancien outil 3DFY.ai de génération de modèles 3D depuis des instructions textuelles ; plusieurs répertoires indépendants signalent la fermeture de l'activité.",
+      "audiences": [
+        "Artistes 3D, développeurs XR et designers",
+        "Formateurs et créateurs de ressources numériques"
+      ],
+      "cases": [
+        "Documenter les anciens outils 3D et orienter vers Meshy, Tripo ou Rodin pour une génération actuelle.",
+        "Comparer les sorties 3D dans le moteur cible (Blender, Unity, Unreal ou navigateur) et conserver les références d'origine."
+      ],
+      "advantages": [
+        "Historique de génération texte-vers-3D",
+        "Génération d'actifs à partir de catégories (historique)",
+        "Service de génération non disponible à confirmer par une source officielle"
+      ],
+      "limits": [
+        "La source indépendante Startup Nation Central indique une cessation en octobre 2024, tandis qu'un autre annuaire donne mars 2025 ; la date précise n'est pas confirmée officiellement. Le domaine 3dfy.ai n'a pas permis de vérifier le produit original ; ne pas suggérer d'inscription.",
+        "Le réalisme visuel ne garantit pas la précision géométrique, les bonnes dimensions, la topologie propre, les collisions ni les droits d'utilisation."
+      ],
+      "gettingStarted": [
+        "Conserver cette entrée pour les archives et choisir une plateforme active pour tout nouveau projet.",
+        "Tester l'export, les UV, le nombre de polygones, les performances sur le matériel cible et les conditions de licence avant publication."
+      ],
+      "examples": [
+        "Crée un objet 3D utilisable sur le web avec un budget de polygones explicite, textures sous licence et export GLB ; signale les détails inventés.",
+        "Compare une reconstruction spatiale et un modèle généré, puis évalue dimensions, fidélité, matériaux, capacité d'édition et fluidité sur mobile."
+      ],
+      "pricing": "Produit historique non proposé à l'achat sans vérification ; préférer une alternative opérationnelle.",
+      "privacy": "Vérifier les droits sur photos, scans, personnes, objets et lieux ; contrôler les conditions de stockage, de réutilisation pour entraînement et de partage public des actifs.",
+      "selection": [
+        "Choisir 3DFY.ai selon le besoin (historical), le format exploitable, la qualité de géométrie, les contraintes XR, les licences et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "discontinued_reported_by_secondary_sources",
+      "evidence": "secondary_registry",
+      "sources": [
+        {
+          "url": "https://finder.startupnationcentral.org/company_page/3dfy?section=financials",
+          "type": "secondary",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://aventure.vc/companies/3dfy-ai-haifa-il",
+          "type": "secondary",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "secondary_evidence_discontinued",
+    "availabilityStatus": "discontinued",
+    "url": ""
+  },
+  "csm-ai": {
+    "descriptionFr": "Ancienne plateforme Common Sense Machines de génération d'actifs 3D depuis images et textes ; son ancien service CSM.ai n'est plus joignable de manière fiable.",
+    "descriptionEn": "Former Common Sense Machines image/text-to-3D asset generation platform; the original CSM.ai service is no longer reliably reachable.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "CSM Cube pour actifs 3D (historique)",
+      "Segmentation d'images pour composants 3D",
+      "Service et API historiques indisponibles à vérifier"
+    ],
+    "featuresEn": [
+      "Historical CSM Cube 3D asset creation",
+      "Image segmentation into 3D components",
+      "Historical service and API availability unverified"
+    ],
+    "accessFr": "Service historique — accès opérationnel non confirmé",
+    "accessEn": "Historical service — operational access unconfirmed",
+    "officialSources": [
+      {
+        "url": "https://ai.meta.com/blog/segment-anything-common-sense-machines-3d-assets/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Ancienne plateforme Common Sense Machines de génération d'actifs 3D depuis images et textes ; son ancien service CSM.ai n'est plus joignable de manière fiable.",
+      "audiences": [
+        "Artistes 3D, développeurs XR et designers",
+        "Formateurs et créateurs de ressources numériques"
+      ],
+      "cases": [
+        "Analyser l'approche image-vers-3D de CSM et privilégier un outil actuellement accessible pour un projet de production.",
+        "Comparer les sorties 3D dans le moteur cible (Blender, Unity, Unreal ou navigateur) et conserver les références d'origine."
+      ],
+      "advantages": [
+        "CSM Cube pour actifs 3D (historique)",
+        "Segmentation d'images pour composants 3D",
+        "Service et API historiques indisponibles à vérifier"
+      ],
+      "limits": [
+        "Le site csm.ai n'a pas pu être ouvert ; des sources secondaires mentionnent une acquisition en 2026 mais aucune annonce officielle ne confirme ici la continuité ou fermeture du produit autonome. Ne pas proposer l'ancien service comme accessible.",
+        "Le réalisme visuel ne garantit pas la précision géométrique, les bonnes dimensions, la topologie propre, les collisions ni les droits d'utilisation."
+      ],
+      "gettingStarted": [
+        "Conserver cette entrée pour les archives et choisir une plateforme active pour tout nouveau projet.",
+        "Tester l'export, les UV, le nombre de polygones, les performances sur le matériel cible et les conditions de licence avant publication."
+      ],
+      "examples": [
+        "Crée un objet 3D utilisable sur le web avec un budget de polygones explicite, textures sous licence et export GLB ; signale les détails inventés.",
+        "Compare une reconstruction spatiale et un modèle généré, puis évalue dimensions, fidélité, matériaux, capacité d'édition et fluidité sur mobile."
+      ],
+      "pricing": "Produit historique non proposé à l'achat sans vérification ; préférer une alternative opérationnelle.",
+      "privacy": "Vérifier les droits sur photos, scans, personnes, objets et lieux ; contrôler les conditions de stockage, de réutilisation pour entraînement et de partage public des actifs.",
+      "selection": [
+        "Choisir CSM AI selon le besoin (historical), le format exploitable, la qualité de géométrie, les contraintes XR, les licences et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "service_unavailable_not_officially_confirmed",
+      "evidence": "official_2025_history_and_secondary_2026_status",
+      "sources": [
+        {
+          "url": "https://ai.meta.com/blog/segment-anything-common-sense-machines-3d-assets/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://3dtoolwiki.com/tools/csm",
+          "type": "secondary",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "current_official_site_unreachable",
+    "url": ""
+  },
+  "world-labs": {
+    "descriptionFr": "World Labs développe les modèles spatiaux Marble et Atlas, qui transforment textes, images, vidéos et dispositions en mondes 3D persistants, navigables et éditables.",
+    "descriptionEn": "World Labs builds Marble and Atlas spatial models turning text, images, videos and layouts into persistent, explorable, editable 3D worlds.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Marble : création et exploration de mondes 3D",
+      "Atlas : reconstruction, contrôle caméra et splats vers maillage",
+      "Viewfinder, Chisel, API et outils de simulation"
+    ],
+    "featuresEn": [
+      "Marble persistent world creation and exploration",
+      "Atlas reconstruction, camera paths and splat-to-mesh",
+      "Viewfinder, Chisel, APIs and simulation tools"
+    ],
+    "accessFr": "Web, API et exports 3D selon formule",
+    "accessEn": "Web, API and 3D exports by plan",
+    "officialSources": [
+      {
+        "url": "https://worldlabs.ai/atlas",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://marble.worldlabs.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://worldlabs.ai/blog/atlas-realtime",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "World Labs développe les modèles spatiaux Marble et Atlas, qui transforment textes, images, vidéos et dispositions en mondes 3D persistants, navigables et éditables.",
+      "audiences": [
+        "Créateurs d'univers virtuels et développeurs XR",
+        "Formateurs et créateurs de ressources numériques"
+      ],
+      "cases": [
+        "Créer un atelier virtuel depuis une image, explorer les vues possibles puis exporter un modèle pour une expérience spatiale.",
+        "Comparer les sorties 3D dans le moteur cible (Blender, Unity, Unreal ou navigateur) et conserver les références d'origine."
+      ],
+      "advantages": [
+        "Marble : création et exploration de mondes 3D",
+        "Atlas : reconstruction, contrôle caméra et splats vers maillage",
+        "Viewfinder, Chisel, API et outils de simulation"
+      ],
+      "limits": [
+        "Atlas peut inventer les régions absentes des vues sources : ne pas utiliser ses reconstructions comme relevés géométriques certifiés. Les mondes immersifs et splats ne sont pas toujours adaptés aux collisions physiques sans conversion.",
+        "Le réalisme visuel ne garantit pas la précision géométrique, les bonnes dimensions, la topologie propre, les collisions ni les droits d'utilisation."
+      ],
+      "gettingStarted": [
+        "Définir le type de sortie visé : mesh éditable, splat photoréaliste, panorama 360°, scène interactive ou capture fidèle.",
+        "Tester l'export, les UV, le nombre de polygones, les performances sur le matériel cible et les conditions de licence avant publication."
+      ],
+      "examples": [
+        "Crée un objet 3D utilisable sur le web avec un budget de polygones explicite, textures sous licence et export GLB ; signale les détails inventés.",
+        "Compare une reconstruction spatiale et un modèle généré, puis évalue dimensions, fidélité, matériaux, capacité d'édition et fluidité sur mobile."
+      ],
+      "pricing": "Tarification et crédits variables selon génération, résolution, modèles 3D, exports, API, collaboration et licence commerciale ; consulter la page officielle.",
+      "privacy": "Vérifier les droits sur photos, scans, personnes, objets et lieux ; contrôler les conditions de stockage, de réutilisation pour entraînement et de partage public des actifs.",
+      "selection": [
+        "Choisir World Labs selon le besoin (world_model), le format exploitable, la qualité de géométrie, les contraintes XR, les licences et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "atlas_2026_update",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://worldlabs.ai/atlas",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://marble.worldlabs.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://worldlabs.ai/blog/atlas-realtime",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed",
+    "name": "World Labs (Marble & Atlas)"
+  },
+  "gaussian-splatting": {
+    "descriptionFr": "Implémentation de référence du Gaussian Splatting 3D de l'INRIA : reconstruction et rendu photoréaliste de nouvelles vues à partir d'images calibrées.",
+    "descriptionEn": "INRIA reference implementation of 3D Gaussian Splatting for photorealistic novel-view rendering from calibrated images.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Modèle 3DGS et rendu temps réel",
+      "Entraînement CUDA à partir de données COLMAP",
+      "Viewers SIBR et branche expérimentale OpenXR"
+    ],
+    "featuresEn": [
+      "3DGS representation and real-time rendering",
+      "CUDA training from COLMAP datasets",
+      "SIBR viewers and experimental OpenXR branch"
+    ],
+    "accessFr": "Projet logiciel open source à installer",
+    "accessEn": "Open-source software to install",
+    "officialSources": [
+      {
+        "url": "https://github.com/graphdeco-inria/gaussian-splatting",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Implémentation de référence du Gaussian Splatting 3D de l'INRIA : reconstruction et rendu photoréaliste de nouvelles vues à partir d'images calibrées.",
+      "audiences": [
+        "Chercheurs en vision, 3D et rendu",
+        "Formateurs et créateurs de ressources numériques"
+      ],
+      "cases": [
+        "Reconstituer un site historique à partir d'images multi-vues puis en explorer le rendu immersif.",
+        "Comparer les sorties 3D dans le moteur cible (Blender, Unity, Unreal ou navigateur) et conserver les références d'origine."
+      ],
+      "advantages": [
+        "Modèle 3DGS et rendu temps réel",
+        "Entraînement CUDA à partir de données COLMAP",
+        "Viewers SIBR et branche expérimentale OpenXR"
+      ],
+      "limits": [
+        "Il s'agit d'un dépôt de recherche et non d'un générateur commercial clé en main. L'environnement CUDA, les ressources GPU et la licence du code/données doivent être vérifiés ; les splats ne sont pas des maillages éditables.",
+        "Le réalisme visuel ne garantit pas la précision géométrique, les bonnes dimensions, la topologie propre, les collisions ni les droits d'utilisation."
+      ],
+      "gettingStarted": [
+        "Définir le type de sortie visé : mesh éditable, splat photoréaliste, panorama 360°, scène interactive ou capture fidèle.",
+        "Tester l'export, les UV, le nombre de polygones, les performances sur le matériel cible et les conditions de licence avant publication."
+      ],
+      "examples": [
+        "Crée un objet 3D utilisable sur le web avec un budget de polygones explicite, textures sous licence et export GLB ; signale les détails inventés.",
+        "Compare une reconstruction spatiale et un modèle généré, puis évalue dimensions, fidélité, matériaux, capacité d'édition et fluidité sur mobile."
+      ],
+      "pricing": "Tarification et crédits variables selon génération, résolution, modèles 3D, exports, API, collaboration et licence commerciale ; consulter la page officielle.",
+      "privacy": "Vérifier les droits sur photos, scans, personnes, objets et lieux ; contrôler les conditions de stockage, de réutilisation pour entraînement et de partage public des actifs.",
+      "selection": [
+        "Choisir Gaussian Splatting selon le besoin (research_code), le format exploitable, la qualité de géométrie, les contraintes XR, les licences et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://github.com/graphdeco-inria/gaussian-splatting",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "nerfstudio": {
+    "descriptionFr": "Framework open source Python de reconstruction et visualisation NeRF et Gaussian Splatting avec Splatfacto, viewers et pipelines de données.",
+    "descriptionEn": "Open-source Python framework for NeRF and Gaussian Splatting reconstruction and visualization with Splatfacto, viewers and data pipelines.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "NeRFs et Splatfacto basé sur gsplat",
+      "Préparation des captures et export",
+      "Visualisation interactive et CLI"
+    ],
+    "featuresEn": [
+      "NeRFs and gsplat-based Splatfacto",
+      "Capture processing and export",
+      "Interactive viewer and CLI"
+    ],
+    "accessFr": "Projet logiciel open source à installer",
+    "accessEn": "Open-source software to install",
+    "officialSources": [
+      {
+        "url": "https://docs.nerf.studio/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://docs.nerf.studio/nerfology/methods/splat",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Framework open source Python de reconstruction et visualisation NeRF et Gaussian Splatting avec Splatfacto, viewers et pipelines de données.",
+      "audiences": [
+        "Chercheurs en vision, 3D et rendu",
+        "Formateurs et créateurs de ressources numériques"
+      ],
+      "cases": [
+        "Entraîner un modèle de représentation d'une pièce, comparer le rendu NeRF à Splatfacto et exporter les résultats.",
+        "Comparer les sorties 3D dans le moteur cible (Blender, Unity, Unreal ou navigateur) et conserver les références d'origine."
+      ],
+      "advantages": [
+        "NeRFs et Splatfacto basé sur gsplat",
+        "Préparation des captures et export",
+        "Visualisation interactive et CLI"
+      ],
+      "limits": [
+        "La compilation CUDA et l'installation de bibliothèques spécialisées peuvent être complexes ; mesurer GPU/VRAM, cohérence des caméras et qualité des données d'entrée.",
+        "Le réalisme visuel ne garantit pas la précision géométrique, les bonnes dimensions, la topologie propre, les collisions ni les droits d'utilisation."
+      ],
+      "gettingStarted": [
+        "Définir le type de sortie visé : mesh éditable, splat photoréaliste, panorama 360°, scène interactive ou capture fidèle.",
+        "Tester l'export, les UV, le nombre de polygones, les performances sur le matériel cible et les conditions de licence avant publication."
+      ],
+      "examples": [
+        "Crée un objet 3D utilisable sur le web avec un budget de polygones explicite, textures sous licence et export GLB ; signale les détails inventés.",
+        "Compare une reconstruction spatiale et un modèle généré, puis évalue dimensions, fidélité, matériaux, capacité d'édition et fluidité sur mobile."
+      ],
+      "pricing": "Tarification et crédits variables selon génération, résolution, modèles 3D, exports, API, collaboration et licence commerciale ; consulter la page officielle.",
+      "privacy": "Vérifier les droits sur photos, scans, personnes, objets et lieux ; contrôler les conditions de stockage, de réutilisation pour entraînement et de partage public des actifs.",
+      "selection": [
+        "Choisir Nerfstudio selon le besoin (research_framework), le format exploitable, la qualité de géométrie, les contraintes XR, les licences et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.nerf.studio/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://docs.nerf.studio/nerfology/methods/splat",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "wonder-studio": {
+    "descriptionFr": "Ancien Wonder Studio, désormais Autodesk Flow Studio : plateforme VFX IA permettant motion capture, tracking caméra et compositing CG, enrichie d'un éditeur 3D, de Canvas et de fonctions MCP.",
+    "descriptionEn": "Former Wonder Studio, now Autodesk Flow Studio: AI VFX platform for motion capture, camera tracking and CG compositing with 3D Editor, Canvas and MCP.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "AI Motion Capture et intégration de personnages CG",
+      "Éditeur 3D, Canvas et génération d'actifs",
+      "MCP, export Maya, Blender et USD"
+    ],
+    "featuresEn": [
+      "AI motion capture and CG character integration",
+      "3D Editor, Canvas and asset generation",
+      "MCP and Maya, Blender, USD export"
+    ],
+    "accessFr": "Application web et/ou bureau selon licence",
+    "accessEn": "Web and/or desktop by license",
+    "officialSources": [
+      {
+        "url": "https://www.autodesk.com/products/flow-studio/overview",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://www.autodesk.com/support/technical/article/caas/tsarticles/ts/3FAReTK4UvwsApeU8pdnY.html",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://help.wonderdynamics.com/release-notes/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Ancien Wonder Studio, désormais Autodesk Flow Studio : plateforme VFX IA permettant motion capture, tracking caméra et compositing CG, enrichie d'un éditeur 3D, de Canvas et de fonctions MCP.",
+      "audiences": [
+        "Artistes VFX et animateurs",
+        "Formateurs et créateurs de ressources numériques"
+      ],
+      "cases": [
+        "Insérer un personnage animé dans une vidéo et exporter le tracking et les passes pour un montage avancé.",
+        "Comparer les sorties 3D dans le moteur cible (Blender, Unity, Unreal ou navigateur) et conserver les références d'origine."
+      ],
+      "advantages": [
+        "AI Motion Capture et intégration de personnages CG",
+        "Éditeur 3D, Canvas et génération d'actifs",
+        "MCP, export Maya, Blender et USD"
+      ],
+      "limits": [
+        "Wonder Studio et son ancien site ne sont plus des produits distincts : l'outil est devenu Flow Studio sous Autodesk. Connexion et abonnement Autodesk depuis mai 2026 ; les crédits et droits varient selon les forfaits.",
+        "Le réalisme visuel ne garantit pas la précision géométrique, les bonnes dimensions, la topologie propre, les collisions ni les droits d'utilisation."
+      ],
+      "gettingStarted": [
+        "Définir le type de sortie visé : mesh éditable, splat photoréaliste, panorama 360°, scène interactive ou capture fidèle.",
+        "Tester l'export, les UV, le nombre de polygones, les performances sur le matériel cible et les conditions de licence avant publication."
+      ],
+      "examples": [
+        "Crée un objet 3D utilisable sur le web avec un budget de polygones explicite, textures sous licence et export GLB ; signale les détails inventés.",
+        "Compare une reconstruction spatiale et un modèle généré, puis évalue dimensions, fidélité, matériaux, capacité d'édition et fluidité sur mobile."
+      ],
+      "pricing": "Tarification et crédits variables selon génération, résolution, modèles 3D, exports, API, collaboration et licence commerciale ; consulter la page officielle.",
+      "privacy": "Vérifier les droits sur photos, scans, personnes, objets et lieux ; contrôler les conditions de stockage, de réutilisation pour entraînement et de partage public des actifs.",
+      "selection": [
+        "Choisir Wonder Studio selon le besoin (vfx), le format exploitable, la qualité de géométrie, les contraintes XR, les licences et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "renamed_autodesk_flow_studio",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.autodesk.com/products/flow-studio/overview",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.autodesk.com/support/technical/article/caas/tsarticles/ts/3FAReTK4UvwsApeU8pdnY.html",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://help.wonderdynamics.com/release-notes/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_rebranded",
+    "name": "Autodesk Flow Studio (Wonder Studio)",
+    "url": "https://www.autodesk.com/products/flow-studio/overview"
+  }
+}
