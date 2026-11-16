@@ -1,0 +1,821 @@
+{
+  "d-id": {
+    "descriptionFr": "Plateforme d’avatars parlants : vidéos scénarisées, agents visuels conversationnels et localisation audiovisuelle.",
+    "descriptionEn": "Talking avatar platform for scripted videos, conversational visual agents and audiovisual localization.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Avatars personnels, de stock et personnalisés",
+      "Vidéo scénarisée avec voix IA et synchronisation labiale",
+      "Agents visuels en temps réel et API"
+    ],
+    "featuresEn": [
+      "Personal, stock and custom avatars",
+      "Scripted video with AI voices and lip-sync",
+      "Real-time visual agents and API"
+    ],
+    "accessFr": "Web et API selon formule",
+    "accessEn": "Web and API by plan",
+    "officialSources": [
+      {
+        "url": "https://www.d-id.com/features/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://www.d-id.com/creative-reality-studio/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme d’avatars parlants : vidéos scénarisées, agents visuels conversationnels et localisation audiovisuelle.",
+      "audiences": [
+        "Formateurs et concepteurs pédagogiques",
+        "Équipes marketing et communication",
+        "Studios et créateurs de vidéos"
+      ],
+      "cases": [
+        "Créer un présentateur à partir d’un script",
+        "Déployer un agent visuel dans une expérience interactive",
+        "Localiser une vidéo existante"
+      ],
+      "advantages": [
+        "Avatars personnels, de stock et personnalisés",
+        "Vidéo scénarisée avec voix IA et synchronisation labiale",
+        "Agents visuels en temps réel et API"
+      ],
+      "limits": [
+        "La qualité des expressions et de la synchronisation varie selon la source et le modèle",
+        "L’usage d’un visage ou d’une voix reconnaissable nécessite une autorisation appropriée"
+      ],
+      "gettingStarted": [
+        "Consulter la documentation de D-ID et vérifier la disponibilité du service, les contraintes de format et le plan.",
+        "Préparer un script bref, tester le rendu et recueillir les autorisations nécessaires pour toute voix ou identité réelle."
+      ],
+      "examples": [
+        "Crée une vidéo explicative d'une minute avec un présentateur autorisé, un ton pédagogique et des sous-titres vérifiés.",
+        "Prépare une version multilingue de ce script avec une terminologie constante et un contrôle qualité humain."
+      ],
+      "pricing": "Offres commerciales et crédits à consulter sur le site officiel ; prix non figé.",
+      "privacy": "Exiger le consentement explicite pour toute représentation fidèle d’une personne ou clonage vocal ; vérifier hébergement, conservation, droits d’utilisation et possibilité de retrait.",
+      "selection": [
+        "Choisir D-ID en fonction du besoin : vidéo scénarisée, doublage, agent conversationnel ou pipeline API. Vérifier les fonctions réellement disponibles."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official_or_primary",
+      "sources": [
+        {
+          "url": "https://www.d-id.com/features/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.d-id.com/creative-reality-studio/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    }
+  },
+  "colossyan": {
+    "descriptionFr": "Création de formations vidéo avec avatars, scénarios interactifs, traduction et export vers les plateformes d’apprentissage.",
+    "descriptionEn": "AI-avatar learning video creation with interactive scenarios, translation and learning-platform exports.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Conversion de PDF et présentations en formation vidéo",
+      "Avatars et vidéos multilingues",
+      "Quiz, embranchements et export SCORM"
+    ],
+    "featuresEn": [
+      "PDF and presentation to training video",
+      "Multilingual avatars and video",
+      "Quizzes, branching and SCORM export"
+    ],
+    "accessFr": "Web et API selon formule",
+    "accessEn": "Web and API by plan",
+    "officialSources": [
+      {
+        "url": "https://www.colossyan.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://www.colossyan.com/video-learning-center/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Création de formations vidéo avec avatars, scénarios interactifs, traduction et export vers les plateformes d’apprentissage.",
+      "audiences": [
+        "Formateurs et concepteurs pédagogiques",
+        "Équipes marketing et communication",
+        "Studios et créateurs de vidéos"
+      ],
+      "cases": [
+        "Transformer un support de cours en séquences présentées",
+        "Créer une formation interactive avec vérification des acquis",
+        "Localiser un module de formation"
+      ],
+      "advantages": [
+        "Conversion de PDF et présentations en formation vidéo",
+        "Avatars et vidéos multilingues",
+        "Quiz, embranchements et export SCORM"
+      ],
+      "limits": [
+        "Les traductions et choix pédagogiques doivent être vérifiés par un expert",
+        "La disponibilité de l’interactivité et des exports dépend de la formule"
+      ],
+      "gettingStarted": [
+        "Consulter la documentation de Colossyan et vérifier la disponibilité du service, les contraintes de format et le plan.",
+        "Préparer un script bref, tester le rendu et recueillir les autorisations nécessaires pour toute voix ou identité réelle."
+      ],
+      "examples": [
+        "Crée une vidéo explicative d'une minute avec un présentateur autorisé, un ton pédagogique et des sous-titres vérifiés.",
+        "Prépare une version multilingue de ce script avec une terminologie constante et un contrôle qualité humain."
+      ],
+      "pricing": "Essai et forfaits professionnels ; prix et quotas à consulter sur le site officiel.",
+      "privacy": "Exiger le consentement explicite pour toute représentation fidèle d’une personne ou clonage vocal ; vérifier hébergement, conservation, droits d’utilisation et possibilité de retrait.",
+      "selection": [
+        "Choisir Colossyan en fonction du besoin : vidéo scénarisée, doublage, agent conversationnel ou pipeline API. Vérifier les fonctions réellement disponibles."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official_or_primary",
+      "sources": [
+        {
+          "url": "https://www.colossyan.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.colossyan.com/video-learning-center/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    }
+  },
+  "elai-io": {
+    "descriptionFr": "Studio vidéo avec présentateurs numériques, avatars personnalisés et localisation multilingue pour la formation et la communication.",
+    "descriptionEn": "Video studio with digital presenters, custom avatars and multilingual localization for learning and communication.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Vidéos avec avatars sur script",
+      "Avatars selfie ou enregistrés en studio",
+      "Traduction et personnalisation de voix"
+    ],
+    "featuresEn": [
+      "Script-based avatar videos",
+      "Selfie or studio-recorded avatars",
+      "Translation and voice customization"
+    ],
+    "accessFr": "Web et API selon formule",
+    "accessEn": "Web and API by plan",
+    "officialSources": [
+      {
+        "url": "https://elai.io/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://elai.io/avatars-library",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://elai.io/getting-started-with-api",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Studio vidéo avec présentateurs numériques, avatars personnalisés et localisation multilingue pour la formation et la communication.",
+      "audiences": [
+        "Formateurs et concepteurs pédagogiques",
+        "Équipes marketing et communication",
+        "Studios et créateurs de vidéos"
+      ],
+      "cases": [
+        "Produire des modules vidéo sans tournage complet",
+        "Adapter un script à plusieurs langues",
+        "Créer un présentateur réutilisable pour une marque"
+      ],
+      "advantages": [
+        "Vidéos avec avatars sur script",
+        "Avatars selfie ou enregistrés en studio",
+        "Traduction et personnalisation de voix"
+      ],
+      "limits": [
+        "Le choix des avatars et des langues ne garantit pas une prononciation parfaite",
+        "La création de clones ou avatars personnalisés exige des autorisations et des ressources appropriées"
+      ],
+      "gettingStarted": [
+        "Consulter la documentation de Elai.io et vérifier la disponibilité du service, les contraintes de format et le plan.",
+        "Préparer un script bref, tester le rendu et recueillir les autorisations nécessaires pour toute voix ou identité réelle."
+      ],
+      "examples": [
+        "Crée une vidéo explicative d'une minute avec un présentateur autorisé, un ton pédagogique et des sous-titres vérifiés.",
+        "Prépare une version multilingue de ce script avec une terminologie constante et un contrôle qualité humain."
+      ],
+      "pricing": "Offres et conditions API à vérifier sur la grille officielle.",
+      "privacy": "Exiger le consentement explicite pour toute représentation fidèle d’une personne ou clonage vocal ; vérifier hébergement, conservation, droits d’utilisation et possibilité de retrait.",
+      "selection": [
+        "Choisir Elai.io en fonction du besoin : vidéo scénarisée, doublage, agent conversationnel ou pipeline API. Vérifier les fonctions réellement disponibles."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official_or_primary",
+      "sources": [
+        {
+          "url": "https://elai.io/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://elai.io/avatars-library",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://elai.io/getting-started-with-api",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    }
+  },
+  "hour-one": {
+    "descriptionFr": "Ancienne solution de vidéos à présentateurs virtuels, acquise par Wix en 2025 ; service autonome signalé comme arrêté.",
+    "descriptionEn": "Former virtual-presenter video platform acquired by Wix in 2025; standalone service reported discontinued.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Présentateurs virtuels (historique)",
+      "Création de vidéos d’entreprise (historique)",
+      "Technologie intégrée à l’écosystème Wix après acquisition"
+    ],
+    "featuresEn": [
+      "Virtual presenters (historical)",
+      "Enterprise video creation (historical)",
+      "Technology moved into Wix ecosystem after acquisition"
+    ],
+    "accessFr": "Ancien service autonome",
+    "accessEn": "Former standalone service",
+    "officialSources": [
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1576789/000162828025041728/wixinterimreporth12025.htm",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://www.timesofisrael.com/website-builder-wix-buys-israeli-startup-to-ramp-up-genai-video-creation-tools/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Ancienne solution de vidéos à présentateurs virtuels, acquise par Wix en 2025 ; service autonome signalé comme arrêté.",
+      "audiences": [
+        "Formateurs et concepteurs pédagogiques",
+        "Équipes marketing et communication",
+        "Studios et créateurs de vidéos"
+      ],
+      "cases": [
+        "Étudier l’évolution des plateformes de présentateurs IA",
+        "Identifier les alternatives actives avant tout déploiement",
+        "Comparer les technologies d’avatars dans l’écosystème Wix"
+      ],
+      "advantages": [
+        "Présentateurs virtuels (historique)",
+        "Création de vidéos d’entreprise (historique)",
+        "Technologie intégrée à l’écosystème Wix après acquisition"
+      ],
+      "limits": [
+        "La disponibilité de la plateforme Hour One autonome est signalée comme interrompue",
+        "Ne pas réutiliser ses anciennes grilles de tarifs et ses anciens parcours d’inscription"
+      ],
+      "gettingStarted": [
+        "Consulter la documentation de Hour One et vérifier la disponibilité du service, les contraintes de format et le plan.",
+        "Préparer un script bref, tester le rendu et recueillir les autorisations nécessaires pour toute voix ou identité réelle."
+      ],
+      "examples": [
+        "Crée une vidéo explicative d'une minute avec un présentateur autorisé, un ton pédagogique et des sous-titres vérifiés.",
+        "Prépare une version multilingue de ce script avec une terminologie constante et un contrôle qualité humain."
+      ],
+      "pricing": "Aucun abonnement Hour One autonome confirmé ; consulter Wix pour les offres actuelles.",
+      "privacy": "Exiger le consentement explicite pour toute représentation fidèle d’une personne ou clonage vocal ; vérifier hébergement, conservation, droits d’utilisation et possibilité de retrait.",
+      "selection": [
+        "Choisir Hour One en fonction du besoin : vidéo scénarisée, doublage, agent conversationnel ou pipeline API. Vérifier les fonctions réellement disponibles."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "historical",
+      "evidence": "official_or_primary",
+      "sources": [
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/1576789/000162828025041728/wixinterimreporth12025.htm",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.timesofisrael.com/website-builder-wix-buys-israeli-startup-to-ramp-up-genai-video-creation-tools/",
+          "type": "secondary",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "availabilityStatus": "discontinued"
+  },
+  "deepbrain-ai": {
+    "descriptionFr": "AI Studios : production de vidéos avec avatars, agents vidéo, doublage et avatars conversationnels interactifs.",
+    "descriptionEn": "AI Studios: avatar video creation, video agents, dubbing and real-time conversational avatars.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Avatars studio, générés, photo et vidéo",
+      "Video Agent et création de scènes depuis un brief",
+      "Avatars interactifs, doublage et export vidéo"
+    ],
+    "featuresEn": [
+      "Studio, generated, photo and video avatars",
+      "Video Agent and scene generation from a brief",
+      "Interactive avatars, dubbing and video exports"
+    ],
+    "accessFr": "Web et API selon formule",
+    "accessEn": "Web and API by plan",
+    "officialSources": [
+      {
+        "url": "https://help.aistudios.com/en/articles/17702776-ai-studios-at-a-glance",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://help.aistudios.com/en/articles/10348432-what-are-ai-avatars-and-what-types-are-available-in-ai-studios",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://help.aistudios.com/en/articles/17747105-general-faq",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "AI Studios : production de vidéos avec avatars, agents vidéo, doublage et avatars conversationnels interactifs.",
+      "audiences": [
+        "Formateurs et concepteurs pédagogiques",
+        "Équipes marketing et communication",
+        "Studios et créateurs de vidéos"
+      ],
+      "cases": [
+        "Créer une vidéo d’explication avec un avatar",
+        "Créer des scènes depuis un document ou un sujet",
+        "Tester un avatar conversationnel pour une activité de formation"
+      ],
+      "advantages": [
+        "Avatars studio, générés, photo et vidéo",
+        "Video Agent et création de scènes depuis un brief",
+        "Avatars interactifs, doublage et export vidéo"
+      ],
+      "limits": [
+        "Avatars interactifs et avatars de vidéos exportées sont deux produits distincts",
+        "Les crédits vidéo peuvent être différents des crédits des outils génératifs"
+      ],
+      "gettingStarted": [
+        "Consulter la documentation de DeepBrain AI et vérifier la disponibilité du service, les contraintes de format et le plan.",
+        "Préparer un script bref, tester le rendu et recueillir les autorisations nécessaires pour toute voix ou identité réelle."
+      ],
+      "examples": [
+        "Crée une vidéo explicative d'une minute avec un présentateur autorisé, un ton pédagogique et des sous-titres vérifiés.",
+        "Prépare une version multilingue de ce script avec une terminologie constante et un contrôle qualité humain."
+      ],
+      "pricing": "Depuis le 10 novembre 2026 : documentation officielle annonçant Free, Personal et Team avec crédits unifiés ; vérifier les conditions actualisées avant achat.",
+      "privacy": "Exiger le consentement explicite pour toute représentation fidèle d’une personne ou clonage vocal ; vérifier hébergement, conservation, droits d’utilisation et possibilité de retrait.",
+      "selection": [
+        "Choisir DeepBrain AI en fonction du besoin : vidéo scénarisée, doublage, agent conversationnel ou pipeline API. Vérifier les fonctions réellement disponibles."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official_or_primary",
+      "sources": [
+        {
+          "url": "https://help.aistudios.com/en/articles/17702776-ai-studios-at-a-glance",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://help.aistudios.com/en/articles/10348432-what-are-ai-avatars-and-what-types-are-available-in-ai-studios",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://help.aistudios.com/en/articles/17747105-general-faq",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    }
+  },
+  "tavus": {
+    "descriptionFr": "Infrastructure de vidéo conversationnelle en temps réel pour développer des agents incarnés et des répliques numériques.",
+    "descriptionEn": "Real-time conversational video infrastructure for embodied agents and digital replicas.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Conversational Video Interface (CVI)",
+      "Répliques numériques et personnages interactifs",
+      "Intégration de modèles de langage et de synthèse vocale"
+    ],
+    "featuresEn": [
+      "Conversational Video Interface (CVI)",
+      "Digital replicas and interactive personas",
+      "Language-model and text-to-speech integrations"
+    ],
+    "accessFr": "API et intégrations",
+    "accessEn": "API and integrations",
+    "officialSources": [
+      {
+        "url": "https://www.tavus.io/blog/introducing-the-worlds-fastest-conversational-video-interface-for-developers",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://www.tavus.io/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Infrastructure de vidéo conversationnelle en temps réel pour développer des agents incarnés et des répliques numériques.",
+      "audiences": [
+        "Développeurs d’agents conversationnels",
+        "Équipes produit et recherche en interfaces multimodales"
+      ],
+      "cases": [
+        "Intégrer un agent vidéo à une application",
+        "Créer une interface conversationnelle multimodale",
+        "Prototyper un accompagnateur virtuel interactif"
+      ],
+      "advantages": [
+        "Conversational Video Interface (CVI)",
+        "Répliques numériques et personnages interactifs",
+        "Intégration de modèles de langage et de synthèse vocale"
+      ],
+      "limits": [
+        "L’intégration dépend de l’architecture, de la latence et des autorisations des répliques",
+        "Les affirmations de latence ou de réalisme publiées par l’éditeur ne sont pas des garanties universelles"
+      ],
+      "gettingStarted": [
+        "Consulter la documentation de Tavus et vérifier la disponibilité du service, les contraintes de format et le plan.",
+        "Préparer un script bref, tester le rendu et recueillir les autorisations nécessaires pour toute voix ou identité réelle."
+      ],
+      "examples": [
+        "Crée une vidéo explicative d'une minute avec un présentateur autorisé, un ton pédagogique et des sous-titres vérifiés.",
+        "Prépare une version multilingue de ce script avec une terminologie constante et un contrôle qualité humain."
+      ],
+      "pricing": "API et forfaits à consulter auprès de Tavus ; coût dépendant de l’utilisation.",
+      "privacy": "Exiger le consentement explicite pour toute représentation fidèle d’une personne ou clonage vocal ; vérifier hébergement, conservation, droits d’utilisation et possibilité de retrait.",
+      "selection": [
+        "Choisir Tavus en fonction du besoin : vidéo scénarisée, doublage, agent conversationnel ou pipeline API. Vérifier les fonctions réellement disponibles."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official_or_primary",
+      "sources": [
+        {
+          "url": "https://www.tavus.io/blog/introducing-the-worlds-fastest-conversational-video-interface-for-developers",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.tavus.io/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    }
+  },
+  "akool": {
+    "descriptionFr": "Plateforme de création vidéo IA : avatars parlants et interactifs, traduction, synchronisation labiale et intégrations API.",
+    "descriptionEn": "AI video platform for speaking and interactive avatars, translation, lip-sync and API integrations.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Talking Avatar et Talking Photo",
+      "Streaming Avatar en temps réel",
+      "Video Translation, Lipsync et API"
+    ],
+    "featuresEn": [
+      "Talking Avatar and Talking Photo",
+      "Real-time Streaming Avatar",
+      "Video Translation, Lipsync and APIs"
+    ],
+    "accessFr": "Web et API selon formule",
+    "accessEn": "Web and API by plan",
+    "officialSources": [
+      {
+        "url": "https://akool.com/openapi",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://www.akool.com/landing",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de création vidéo IA : avatars parlants et interactifs, traduction, synchronisation labiale et intégrations API.",
+      "audiences": [
+        "Formateurs et concepteurs pédagogiques",
+        "Équipes marketing et communication",
+        "Studios et créateurs de vidéos"
+      ],
+      "cases": [
+        "Créer un présentateur vidéo synthétique",
+        "Traduire une présentation vidéo dans une autre langue",
+        "Intégrer un avatar conversationnel à une application"
+      ],
+      "advantages": [
+        "Talking Avatar et Talking Photo",
+        "Streaming Avatar en temps réel",
+        "Video Translation, Lipsync et API"
+      ],
+      "limits": [
+        "La manipulation de visages et de voix doit respecter le consentement des personnes",
+        "La fidélité des mouvements et du doublage dépend des médias et des paramètres"
+      ],
+      "gettingStarted": [
+        "Consulter la documentation de AKOOL et vérifier la disponibilité du service, les contraintes de format et le plan.",
+        "Préparer un script bref, tester le rendu et recueillir les autorisations nécessaires pour toute voix ou identité réelle."
+      ],
+      "examples": [
+        "Crée une vidéo explicative d'une minute avec un présentateur autorisé, un ton pédagogique et des sous-titres vérifiés.",
+        "Prépare une version multilingue de ce script avec une terminologie constante et un contrôle qualité humain."
+      ],
+      "pricing": "Essai et crédits selon produit ; vérifier le tarif et les licences avant production.",
+      "privacy": "Exiger le consentement explicite pour toute représentation fidèle d’une personne ou clonage vocal ; vérifier hébergement, conservation, droits d’utilisation et possibilité de retrait.",
+      "selection": [
+        "Choisir AKOOL en fonction du besoin : vidéo scénarisée, doublage, agent conversationnel ou pipeline API. Vérifier les fonctions réellement disponibles."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official_or_primary",
+      "sources": [
+        {
+          "url": "https://akool.com/openapi",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.akool.com/landing",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    }
+  },
+  "vidnoz": {
+    "descriptionFr": "Studio de vidéo avec avatars prêts à l’emploi, script parlé, modèles et personnalisations pour la communication.",
+    "descriptionEn": "AI avatar video studio with prepared presenters, spoken scripts, templates and customization.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Bibliothèque d’avatars et de modèles vidéo",
+      "Voix et synchronisation labiale depuis un script",
+      "Personnalisation de la scène et export"
+    ],
+    "featuresEn": [
+      "Avatar and video template library",
+      "Script-to-speech with lip sync",
+      "Scene customization and export"
+    ],
+    "accessFr": "Web et API selon formule",
+    "accessEn": "Web and API by plan",
+    "officialSources": [
+      {
+        "url": "https://aiapp.vidnoz.com/video/index.html?from=email-generate-video",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://www.vidnoz.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Studio de vidéo avec avatars prêts à l’emploi, script parlé, modèles et personnalisations pour la communication.",
+      "audiences": [
+        "Formateurs et concepteurs pédagogiques",
+        "Équipes marketing et communication",
+        "Studios et créateurs de vidéos"
+      ],
+      "cases": [
+        "Créer un court tutoriel avec un avatar",
+        "Produire une vidéo d’annonce multilingue",
+        "Adapter un scénario de présentation à une marque"
+      ],
+      "advantages": [
+        "Bibliothèque d’avatars et de modèles vidéo",
+        "Voix et synchronisation labiale depuis un script",
+        "Personnalisation de la scène et export"
+      ],
+      "limits": [
+        "Les quantités d’avatars et langues annoncées sont sujettes à évolution",
+        "Vérifier les limitations d’export et d’utilisation commerciale du plan choisi"
+      ],
+      "gettingStarted": [
+        "Consulter la documentation de Vidnoz et vérifier la disponibilité du service, les contraintes de format et le plan.",
+        "Préparer un script bref, tester le rendu et recueillir les autorisations nécessaires pour toute voix ou identité réelle."
+      ],
+      "examples": [
+        "Crée une vidéo explicative d'une minute avec un présentateur autorisé, un ton pédagogique et des sous-titres vérifiés.",
+        "Prépare une version multilingue de ce script avec une terminologie constante et un contrôle qualité humain."
+      ],
+      "pricing": "Accès gratuit proposé ; quotas et options Premium à vérifier.",
+      "privacy": "Exiger le consentement explicite pour toute représentation fidèle d’une personne ou clonage vocal ; vérifier hébergement, conservation, droits d’utilisation et possibilité de retrait.",
+      "selection": [
+        "Choisir Vidnoz en fonction du besoin : vidéo scénarisée, doublage, agent conversationnel ou pipeline API. Vérifier les fonctions réellement disponibles."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official_or_primary",
+      "sources": [
+        {
+          "url": "https://aiapp.vidnoz.com/video/index.html?from=email-generate-video",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.vidnoz.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    }
+  },
+  "pipio": {
+    "descriptionFr": "Solution historique de vidéos avec acteurs numériques et API de synchronisation labiale ; équipe annoncée comme ayant rejoint Riverside.",
+    "descriptionEn": "Historical digital-actor video platform with lip-synced generation API; team reportedly joined Riverside.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Acteurs numériques et voix (documentation historique)",
+      "Vidéos synchronisées à partir de scripts (historique)",
+      "API documentée ; disponibilité actuelle non confirmée"
+    ],
+    "featuresEn": [
+      "Digital actors and voices (historical docs)",
+      "Script-to-video lip-sync (historical)",
+      "Documented API; current availability unconfirmed"
+    ],
+    "accessFr": "Disponibilité à vérifier",
+    "accessEn": "Availability unconfirmed",
+    "officialSources": [
+      {
+        "url": "https://docs.pipio.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "historical_or_limited"
+      },
+      {
+        "url": "https://www.linkedin.com/company/pipiohq",
+        "checkedAt": "2026-11-16",
+        "scope": "historical_or_limited"
+      }
+    ],
+    "research": {
+      "headline": "Solution historique de vidéos avec acteurs numériques et API de synchronisation labiale ; équipe annoncée comme ayant rejoint Riverside.",
+      "audiences": [
+        "Formateurs et concepteurs pédagogiques",
+        "Équipes marketing et communication",
+        "Studios et créateurs de vidéos"
+      ],
+      "cases": [
+        "Évaluer un ancien workflow de vidéos avec acteurs synthétiques",
+        "Consulter l’API historique pour une migration",
+        "Vérifier auprès de Riverside les fonctionnalités disponibles"
+      ],
+      "advantages": [
+        "Acteurs numériques et voix (documentation historique)",
+        "Vidéos synchronisées à partir de scripts (historique)",
+        "API documentée ; disponibilité actuelle non confirmée"
+      ],
+      "limits": [
+        "Le domaine principal a été signalé inaccessible et l’API historique ne garantit pas un service actif",
+        "Ne pas supposer que les abonnements et l’onboarding historiques restent valables"
+      ],
+      "gettingStarted": [
+        "Consulter la documentation de Pipio et vérifier la disponibilité du service, les contraintes de format et le plan.",
+        "Préparer un script bref, tester le rendu et recueillir les autorisations nécessaires pour toute voix ou identité réelle."
+      ],
+      "examples": [
+        "Crée une vidéo explicative d'une minute avec un présentateur autorisé, un ton pédagogique et des sous-titres vérifiés.",
+        "Prépare une version multilingue de ce script avec une terminologie constante et un contrôle qualité humain."
+      ],
+      "pricing": "Prix et disponibilité non confirmés ; service à considérer avec prudence.",
+      "privacy": "Exiger le consentement explicite pour toute représentation fidèle d’une personne ou clonage vocal ; vérifier hébergement, conservation, droits d’utilisation et possibilité de retrait.",
+      "selection": [
+        "Choisir Pipio en fonction du besoin : vidéo scénarisée, doublage, agent conversationnel ou pipeline API. Vérifier les fonctions réellement disponibles."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "provisional",
+      "evidence": "limited_official",
+      "sources": [
+        {
+          "url": "https://docs.pipio.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.linkedin.com/company/pipiohq",
+          "type": "secondary",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    }
+  },
+  "dubverse": {
+    "descriptionFr": "Outil de doublage et de traduction vidéo multilingue avec édition linguistique et synchronisation labiale optionnelle.",
+    "descriptionEn": "Multilingual video translation and dubbing with language editing and optional lip synchronization.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Traduction et doublage vidéo",
+      "Édition des textes et du timing",
+      "LipSync premium après montage"
+    ],
+    "featuresEn": [
+      "Video translation and dubbing",
+      "Text and timing edits",
+      "Premium LipSync after editing"
+    ],
+    "accessFr": "Web et API selon formule",
+    "accessEn": "Web and API by plan",
+    "officialSources": [
+      {
+        "url": "https://help.dubverse.ai/en/articles/12381188-introducing-lipsync-in-dubverse",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://dubverse.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Outil de doublage et de traduction vidéo multilingue avec édition linguistique et synchronisation labiale optionnelle.",
+      "audiences": [
+        "Créateurs audiovisuels",
+        "Équipes de localisation et de formation"
+      ],
+      "cases": [
+        "Localiser une vidéo pédagogique",
+        "Corriger une traduction avant doublage",
+        "Appliquer une synchronisation labiale au montage final"
+      ],
+      "advantages": [
+        "Traduction et doublage vidéo",
+        "Édition des textes et du timing",
+        "LipSync premium après montage"
+      ],
+      "limits": [
+        "LipSync fonctionne mieux avec un visage bien visible, surtout dans les vidéos à locuteur unique",
+        "La qualité de la traduction et du timing doit être revue avant de consommer des crédits LipSync"
+      ],
+      "gettingStarted": [
+        "Consulter la documentation de Dubverse et vérifier la disponibilité du service, les contraintes de format et le plan.",
+        "Préparer un script bref, tester le rendu et recueillir les autorisations nécessaires pour toute voix ou identité réelle."
+      ],
+      "examples": [
+        "Crée une vidéo explicative d'une minute avec un présentateur autorisé, un ton pédagogique et des sous-titres vérifiés.",
+        "Prépare une version multilingue de ce script avec une terminologie constante et un contrôle qualité humain."
+      ],
+      "pricing": "La documentation annonce 50 crédits/minute pour LipSync ; confirmer le tarif et les autres forfaits.",
+      "privacy": "Exiger le consentement explicite pour toute représentation fidèle d’une personne ou clonage vocal ; vérifier hébergement, conservation, droits d’utilisation et possibilité de retrait.",
+      "selection": [
+        "Choisir Dubverse en fonction du besoin : vidéo scénarisée, doublage, agent conversationnel ou pipeline API. Vérifier les fonctions réellement disponibles."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official_or_primary",
+      "sources": [
+        {
+          "url": "https://help.dubverse.ai/en/articles/12381188-introducing-lipsync-in-dubverse",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://dubverse.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    }
+  }
+}
