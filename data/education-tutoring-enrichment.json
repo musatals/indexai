@@ -1,0 +1,1475 @@
+{
+  "khanmigo": {
+    "descriptionFr": "Assistant pédagogique de Khan Academy, avec outils gratuits pour les enseignants éligibles et tutorat IA pour les apprenants autorisés.",
+    "descriptionEn": "Khan Academy teaching assistant, with free tools for eligible teachers and AI tutoring for authorized learners.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Plans de cours, objectifs et critères d'évaluation",
+      "Tutorat guidé et questions progressives",
+      "Suivi et aide à l'enseignant"
+    ],
+    "featuresEn": [
+      "Lesson plans, learning objectives and rubrics",
+      "Guided tutoring and scaffolded questions",
+      "Teacher support and progress insights"
+    ],
+    "accessFr": "Accès limité selon pays et statut scolaire",
+    "accessEn": "Restricted by country and school eligibility",
+    "officialSources": [
+      {
+        "url": "https://www.khanacademy.org/khanmigo",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://support.khanacademy.org/hc/en-us/articles/14799155077261-Can-I-give-my-students-access-to-Khanmigo",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Assistant pédagogique de Khan Academy, avec outils gratuits pour les enseignants éligibles et tutorat IA pour les apprenants autorisés.",
+      "audiences": [
+        "Élèves, étudiants et enseignants",
+        "Responsables de l'accompagnement et de l'accessibilité pédagogique"
+      ],
+      "cases": [
+        "Préparer une séquence de mathématiques avec objectifs et exercices différenciés, puis vérifier les étapes proposées.",
+        "Évaluer la qualité des explications, la pertinence des exercices et les adaptations proposées."
+      ],
+      "advantages": [
+        "Plans de cours, objectifs et critères d'évaluation",
+        "Tutorat guidé et questions progressives",
+        "Suivi et aide à l'enseignant"
+      ],
+      "limits": [
+        "Les plans Parent et Learner nécessitent une résidence et une facturation aux États-Unis ; l'accès des mineurs passe par parent ou établissement partenaire. Les enseignants n'activent pas librement Khanmigo pour leurs classes hors partenariat.",
+        "Les productions IA peuvent présenter des erreurs disciplinaires, des biais ou des niveaux de difficulté inadaptés ; une validation pédagogique reste nécessaire."
+      ],
+      "gettingStarted": [
+        "Définir un objectif d'apprentissage mesurable, le niveau de classe et les besoins particuliers.",
+        "Tester la ressource avec un exemple simple, vérifier les réponses, puis ajuster avec retour de l'enseignant ou de l'apprenant."
+      ],
+      "examples": [
+        "Crée une activité de dix minutes avec objectif, prérequis, deux niveaux de différenciation et corrigé vérifiable.",
+        "Propose un exercice qui développe l'esprit critique : l'élève doit justifier sa réponse et identifier une erreur plausible."
+      ],
+      "pricing": "Comparer les accès gratuits, quotas IA, licences enseignants, abonnements scolaires et restrictions d'âge sur le site officiel.",
+      "privacy": "Avant d'importer des devoirs ou données d'élèves, vérifier la conformité aux règles locales de protection des mineurs, l'accord des responsables, la rétention et les paramètres de partage.",
+      "selection": [
+        "Évaluer Khanmigo pour son usage (teacher_student), sa compatibilité avec le programme scolaire, le contrôle enseignant, la langue et l'accessibilité."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "geography_and_school_access_restricted",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.khanacademy.org/khanmigo",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://support.khanacademy.org/hc/en-us/articles/14799155077261-Can-I-give-my-students-access-to-Khanmigo",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_access_restricted"
+  },
+  "magicschool-ai": {
+    "descriptionFr": "Suite IA pour enseignants et élèves, offrant plans de cours, évaluations, adaptations pédagogiques et espaces étudiants supervisés.",
+    "descriptionEn": "AI platform for teachers and learners offering lesson plans, assessments, differentiated materials and supervised student spaces.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "80+ outils enseignants et ressources personnalisées",
+      "MagicStudent avec assistants guidés",
+      "Modération et supervision pédagogique"
+    ],
+    "featuresEn": [
+      "80+ teacher tools and customized resources",
+      "Guided MagicStudent assistants",
+      "Moderation and classroom oversight"
+    ],
+    "accessFr": "Web et mobile selon produit",
+    "accessEn": "Web and mobile by product",
+    "officialSources": [
+      {
+        "url": "https://www.magicschool.ai/magic-tools",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://www.magicschool.ai/magicstudent",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Suite IA pour enseignants et élèves, offrant plans de cours, évaluations, adaptations pédagogiques et espaces étudiants supervisés.",
+      "audiences": [
+        "Élèves, étudiants et enseignants",
+        "Responsables de l'accompagnement et de l'accessibilité pédagogique"
+      ],
+      "cases": [
+        "Générer trois variantes d'une activité pour une classe hétérogène et examiner les consignes avant diffusion.",
+        "Évaluer la qualité des explications, la pertinence des exercices et les adaptations proposées."
+      ],
+      "advantages": [
+        "80+ outils enseignants et ressources personnalisées",
+        "MagicStudent avec assistants guidés",
+        "Modération et supervision pédagogique"
+      ],
+      "limits": [
+        "Les outils élèves nécessitent un cadre et des permissions adaptés ; les fonctions avancées et accès institutionnels dépendent des offres. Ne pas présenter les statistiques commerciales comme des résultats pédagogiques universels.",
+        "Les productions IA peuvent présenter des erreurs disciplinaires, des biais ou des niveaux de difficulté inadaptés ; une validation pédagogique reste nécessaire."
+      ],
+      "gettingStarted": [
+        "Définir un objectif d'apprentissage mesurable, le niveau de classe et les besoins particuliers.",
+        "Tester la ressource avec un exemple simple, vérifier les réponses, puis ajuster avec retour de l'enseignant ou de l'apprenant."
+      ],
+      "examples": [
+        "Crée une activité de dix minutes avec objectif, prérequis, deux niveaux de différenciation et corrigé vérifiable.",
+        "Propose un exercice qui développe l'esprit critique : l'élève doit justifier sa réponse et identifier une erreur plausible."
+      ],
+      "pricing": "Comparer les accès gratuits, quotas IA, licences enseignants, abonnements scolaires et restrictions d'âge sur le site officiel.",
+      "privacy": "Avant d'importer des devoirs ou données d'élèves, vérifier la conformité aux règles locales de protection des mineurs, l'accord des responsables, la rétention et les paramètres de partage.",
+      "selection": [
+        "Évaluer MagicSchool AI pour son usage (teacher_student), sa compatibilité avec le programme scolaire, le contrôle enseignant, la langue et l'accessibilité."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.magicschool.ai/magic-tools",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.magicschool.ai/magicstudent",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "eduaide-ai": {
+    "descriptionFr": "Atelier de conception pédagogique avec plans de cours, évaluations, grilles, différenciation et édition assistée dans un espace de documents.",
+    "descriptionEn": "Teaching design workspace for lessons, assessments, rubrics, differentiation and AI-assisted document editing.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Planification selon référentiels et modèles pédagogiques",
+      "Erasmus Smart Document Chat et adaptation",
+      "Évaluation de lisibilité et export de documents"
+    ],
+    "featuresEn": [
+      "Standards-aligned planning templates",
+      "Erasmus Smart Document Chat and adaptation",
+      "Readability review and document export"
+    ],
+    "accessFr": "Web pour enseignants et établissements",
+    "accessEn": "Web for educators and schools",
+    "officialSources": [
+      {
+        "url": "https://www.eduaide.ai/solutions/lesson-planning",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://www.eduaide.ai/facts",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Atelier de conception pédagogique avec plans de cours, évaluations, grilles, différenciation et édition assistée dans un espace de documents.",
+      "audiences": [
+        "Enseignants, concepteurs pédagogiques et établissements",
+        "Responsables de l'accompagnement et de l'accessibilité pédagogique"
+      ],
+      "cases": [
+        "Créer une séquence de sciences avec guide enseignant, activité d'investigation et grille d'observation.",
+        "Évaluer la qualité des explications, la pertinence des exercices et les adaptations proposées."
+      ],
+      "advantages": [
+        "Planification selon référentiels et modèles pédagogiques",
+        "Erasmus Smart Document Chat et adaptation",
+        "Évaluation de lisibilité et export de documents"
+      ],
+      "limits": [
+        "Le fournisseur décrit une offre gratuite de 24 crédits correspondant à environ huit ressources mensuelles ; les documents générés exigent une validation des sources, normes locales et objectifs.",
+        "Les productions IA peuvent présenter des erreurs disciplinaires, des biais ou des niveaux de difficulté inadaptés ; une validation pédagogique reste nécessaire."
+      ],
+      "gettingStarted": [
+        "Définir un objectif d'apprentissage mesurable, le niveau de classe et les besoins particuliers.",
+        "Tester la ressource avec un exemple simple, vérifier les réponses, puis ajuster avec retour de l'enseignant ou de l'apprenant."
+      ],
+      "examples": [
+        "Crée une activité de dix minutes avec objectif, prérequis, deux niveaux de différenciation et corrigé vérifiable.",
+        "Propose un exercice qui développe l'esprit critique : l'élève doit justifier sa réponse et identifier une erreur plausible."
+      ],
+      "pricing": "Offre gratuite de 24 crédits/mois (environ huit ressources) selon la fiche officielle d'octobre 2026 ; forfaits payants à vérifier.",
+      "privacy": "Avant d'importer des devoirs ou données d'élèves, vérifier la conformité aux règles locales de protection des mineurs, l'accord des responsables, la rétention et les paramètres de partage.",
+      "selection": [
+        "Évaluer Eduaide.AI pour son usage (teacher), sa compatibilité avec le programme scolaire, le contrôle enseignant, la langue et l'accessibilité."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.eduaide.ai/solutions/lesson-planning",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.eduaide.ai/facts",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "brisk-teaching": {
+    "descriptionFr": "Assistant pédagogique intégré au navigateur pour adapter les textes, préparer des ressources et proposer des retours sur les productions d'élèves.",
+    "descriptionEn": "Browser-based teaching assistant for differentiating texts, creating resources and giving feedback on student work.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Change Level : adaptation de la difficulté de lecture",
+      "Give Feedback avec grilles et commentaires",
+      "Brisk Boost et outils de création"
+    ],
+    "featuresEn": [
+      "Change Level reading adaptation",
+      "Rubric-based Give Feedback",
+      "Brisk Boost and content creation"
+    ],
+    "accessFr": "Web pour enseignants et établissements",
+    "accessEn": "Web for educators and schools",
+    "officialSources": [
+      {
+        "url": "https://help.briskteaching.com/hc/en-us/articles/39310258618644-How-To-Change-Level",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://help.briskteaching.com/hc/en-us/articles/39310182411412-How-To-Give-Feedback",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Assistant pédagogique intégré au navigateur pour adapter les textes, préparer des ressources et proposer des retours sur les productions d'élèves.",
+      "audiences": [
+        "Enseignants, concepteurs pédagogiques et établissements",
+        "Responsables de l'accompagnement et de l'accessibilité pédagogique"
+      ],
+      "cases": [
+        "Adapter un texte à deux niveaux de lecture puis préparer des commentaires sur un devoir.",
+        "Évaluer la qualité des explications, la pertinence des exercices et les adaptations proposées."
+      ],
+      "advantages": [
+        "Change Level : adaptation de la difficulté de lecture",
+        "Give Feedback avec grilles et commentaires",
+        "Brisk Boost et outils de création"
+      ],
+      "limits": [
+        "Le feedback ciblé est principalement disponible dans Google Docs ; certaines fonctions Microsoft requièrent Premium et restent en bêta. Relire avant de communiquer les commentaires à un élève.",
+        "Les productions IA peuvent présenter des erreurs disciplinaires, des biais ou des niveaux de difficulté inadaptés ; une validation pédagogique reste nécessaire."
+      ],
+      "gettingStarted": [
+        "Définir un objectif d'apprentissage mesurable, le niveau de classe et les besoins particuliers.",
+        "Tester la ressource avec un exemple simple, vérifier les réponses, puis ajuster avec retour de l'enseignant ou de l'apprenant."
+      ],
+      "examples": [
+        "Crée une activité de dix minutes avec objectif, prérequis, deux niveaux de différenciation et corrigé vérifiable.",
+        "Propose un exercice qui développe l'esprit critique : l'élève doit justifier sa réponse et identifier une erreur plausible."
+      ],
+      "pricing": "Comparer les accès gratuits, quotas IA, licences enseignants, abonnements scolaires et restrictions d'âge sur le site officiel.",
+      "privacy": "Avant d'importer des devoirs ou données d'élèves, vérifier la conformité aux règles locales de protection des mineurs, l'accord des responsables, la rétention et les paramètres de partage.",
+      "selection": [
+        "Évaluer Brisk Teaching pour son usage (teacher), sa compatibilité avec le programme scolaire, le contrôle enseignant, la langue et l'accessibilité."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.briskteaching.com/hc/en-us/articles/39310258618644-How-To-Change-Level",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://help.briskteaching.com/hc/en-us/articles/39310182411412-How-To-Give-Feedback",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "diffit": {
+    "descriptionFr": "Outil de création et de différenciation de ressources à partir d'articles, PDF, images ou thèmes pour divers niveaux de lecture.",
+    "descriptionEn": "Instructional resource generator and differentiator using articles, PDFs, images or topics for varying reading levels.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Adaptation de textes aux niveaux des élèves",
+      "Questions, vocabulaire et activités",
+      "Ressources différenciées multi-disciplines"
+    ],
+    "featuresEn": [
+      "Leveled texts for different learners",
+      "Questions, vocabulary and activities",
+      "Differentiated cross-subject materials"
+    ],
+    "accessFr": "Web pour enseignants et établissements",
+    "accessEn": "Web for educators and schools",
+    "officialSources": [
+      {
+        "url": "https://support.diffit.me/hc/en-us/articles/21792858262157-How-to-get-started-on-Diffit",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Outil de création et de différenciation de ressources à partir d'articles, PDF, images ou thèmes pour divers niveaux de lecture.",
+      "audiences": [
+        "Enseignants, concepteurs pédagogiques et établissements",
+        "Responsables de l'accompagnement et de l'accessibilité pédagogique"
+      ],
+      "cases": [
+        "Proposer deux versions d'un texte scientifique et des exercices de compréhension appropriés.",
+        "Évaluer la qualité des explications, la pertinence des exercices et les adaptations proposées."
+      ],
+      "advantages": [
+        "Adaptation de textes aux niveaux des élèves",
+        "Questions, vocabulaire et activités",
+        "Ressources différenciées multi-disciplines"
+      ],
+      "limits": [
+        "Adapter la lecture peut simplifier à l'excès les concepts ou modifier des détails ; vérifier exactitude, progression et droits du document source.",
+        "Les productions IA peuvent présenter des erreurs disciplinaires, des biais ou des niveaux de difficulté inadaptés ; une validation pédagogique reste nécessaire."
+      ],
+      "gettingStarted": [
+        "Définir un objectif d'apprentissage mesurable, le niveau de classe et les besoins particuliers.",
+        "Tester la ressource avec un exemple simple, vérifier les réponses, puis ajuster avec retour de l'enseignant ou de l'apprenant."
+      ],
+      "examples": [
+        "Crée une activité de dix minutes avec objectif, prérequis, deux niveaux de différenciation et corrigé vérifiable.",
+        "Propose un exercice qui développe l'esprit critique : l'élève doit justifier sa réponse et identifier une erreur plausible."
+      ],
+      "pricing": "Comparer les accès gratuits, quotas IA, licences enseignants, abonnements scolaires et restrictions d'âge sur le site officiel.",
+      "privacy": "Avant d'importer des devoirs ou données d'élèves, vérifier la conformité aux règles locales de protection des mineurs, l'accord des responsables, la rétention et les paramètres de partage.",
+      "selection": [
+        "Évaluer Diffit pour son usage (teacher), sa compatibilité avec le programme scolaire, le contrôle enseignant, la langue et l'accessibilité."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://support.diffit.me/hc/en-us/articles/21792858262157-How-to-get-started-on-Diffit",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "curipod": {
+    "descriptionFr": "Plateforme de leçons interactives où les élèves répondent en direct et reçoivent des retours IA modifiables par l'enseignant.",
+    "descriptionEn": "Interactive lessons platform in which students respond live and receive AI feedback reviewable by their teacher.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Leçons en direct, votes et nuages de mots",
+      "Retours IA sur réponses écrites et dessins",
+      "Modération et suivi en temps réel"
+    ],
+    "featuresEn": [
+      "Live lessons, polls and word clouds",
+      "AI feedback for written and drawing responses",
+      "Real-time moderation and progress"
+    ],
+    "accessFr": "Web en classe et accès élève supervisé",
+    "accessEn": "Classroom web service with supervised student access",
+    "officialSources": [
+      {
+        "url": "https://help.curipod.com/en/articles/739587-what-types-of-activities-are-there-in-curipod",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://help.curipod.com/en/articles/739589-how-can-i-see-what-students-are-doing-in-an-activity-in-curipod",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de leçons interactives où les élèves répondent en direct et reçoivent des retours IA modifiables par l'enseignant.",
+      "audiences": [
+        "Enseignants et classes supervisées",
+        "Responsables de l'accompagnement et de l'accessibilité pédagogique"
+      ],
+      "cases": [
+        "Faire répondre les élèves à une question de débat puis réviser les commentaires IA avant diffusion.",
+        "Évaluer la qualité des explications, la pertinence des exercices et les adaptations proposées."
+      ],
+      "advantages": [
+        "Leçons en direct, votes et nuages de mots",
+        "Retours IA sur réponses écrites et dessins",
+        "Modération et suivi en temps réel"
+      ],
+      "limits": [
+        "Les évaluations de réponses et dessins restent approximatives ; configurer la modération, protéger les identités des élèves et vérifier les retours.",
+        "Les productions IA peuvent présenter des erreurs disciplinaires, des biais ou des niveaux de difficulté inadaptés ; une validation pédagogique reste nécessaire."
+      ],
+      "gettingStarted": [
+        "Définir un objectif d'apprentissage mesurable, le niveau de classe et les besoins particuliers.",
+        "Tester la ressource avec un exemple simple, vérifier les réponses, puis ajuster avec retour de l'enseignant ou de l'apprenant."
+      ],
+      "examples": [
+        "Crée une activité de dix minutes avec objectif, prérequis, deux niveaux de différenciation et corrigé vérifiable.",
+        "Propose un exercice qui développe l'esprit critique : l'élève doit justifier sa réponse et identifier une erreur plausible."
+      ],
+      "pricing": "Comparer les accès gratuits, quotas IA, licences enseignants, abonnements scolaires et restrictions d'âge sur le site officiel.",
+      "privacy": "Avant d'importer des devoirs ou données d'élèves, vérifier la conformité aux règles locales de protection des mineurs, l'accord des responsables, la rétention et les paramètres de partage.",
+      "selection": [
+        "Évaluer Curipod pour son usage (classroom), sa compatibilité avec le programme scolaire, le contrôle enseignant, la langue et l'accessibilité."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.curipod.com/en/articles/739587-what-types-of-activities-are-there-in-curipod",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://help.curipod.com/en/articles/739589-how-can-i-see-what-students-are-doing-in-an-activity-in-curipod",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "schoolai": {
+    "descriptionFr": "Environnement d'apprentissage guidé par IA avec Spaces pour les élèves et Mission Control pour le suivi enseignant.",
+    "descriptionEn": "Teacher-guided AI learning environment with student Spaces and Mission Control oversight.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Spaces accessibles par code ou invitation",
+      "Mission Control et progression en temps réel",
+      "Alertes de sécurité et rôles utilisateurs"
+    ],
+    "featuresEn": [
+      "Invite-based learning Spaces",
+      "Mission Control live student progress",
+      "Safety alerts and user roles"
+    ],
+    "accessFr": "Web en classe et accès élève supervisé",
+    "accessEn": "Classroom web service with supervised student access",
+    "officialSources": [
+      {
+        "url": "https://help.schoolai.com/en/articles/15243484-your-guide-to-mission-control",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://help.schoolai.com/en/articles/13612656-user-roles-in-schoolai",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Environnement d'apprentissage guidé par IA avec Spaces pour les élèves et Mission Control pour le suivi enseignant.",
+      "audiences": [
+        "Enseignants et classes supervisées",
+        "Responsables de l'accompagnement et de l'accessibilité pédagogique"
+      ],
+      "cases": [
+        "Créer un espace de tutorat pour une activité de recherche et suivre les blocages des élèves.",
+        "Évaluer la qualité des explications, la pertinence des exercices et les adaptations proposées."
+      ],
+      "advantages": [
+        "Spaces accessibles par code ou invitation",
+        "Mission Control et progression en temps réel",
+        "Alertes de sécurité et rôles utilisateurs"
+      ],
+      "limits": [
+        "Les indicateurs de maîtrise 1–4 sont des estimations du système et non une évaluation standardisée ; vérifier les alertes, le consentement et les politiques scolaires.",
+        "Les productions IA peuvent présenter des erreurs disciplinaires, des biais ou des niveaux de difficulté inadaptés ; une validation pédagogique reste nécessaire."
+      ],
+      "gettingStarted": [
+        "Définir un objectif d'apprentissage mesurable, le niveau de classe et les besoins particuliers.",
+        "Tester la ressource avec un exemple simple, vérifier les réponses, puis ajuster avec retour de l'enseignant ou de l'apprenant."
+      ],
+      "examples": [
+        "Crée une activité de dix minutes avec objectif, prérequis, deux niveaux de différenciation et corrigé vérifiable.",
+        "Propose un exercice qui développe l'esprit critique : l'élève doit justifier sa réponse et identifier une erreur plausible."
+      ],
+      "pricing": "Comparer les accès gratuits, quotas IA, licences enseignants, abonnements scolaires et restrictions d'âge sur le site officiel.",
+      "privacy": "Avant d'importer des devoirs ou données d'élèves, vérifier la conformité aux règles locales de protection des mineurs, l'accord des responsables, la rétention et les paramètres de partage.",
+      "selection": [
+        "Évaluer SchoolAI pour son usage (classroom), sa compatibilité avec le programme scolaire, le contrôle enseignant, la langue et l'accessibilité."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.schoolai.com/en/articles/15243484-your-guide-to-mission-control",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://help.schoolai.com/en/articles/13612656-user-roles-in-schoolai",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "quizizz": {
+    "descriptionFr": "Wayground (anciennement Quizizz) est une plateforme d'activités, évaluations et leçons interactives avec création de ressources assistée par IA.",
+    "descriptionEn": "Wayground (formerly Quizizz) is a platform for interactive activities, assessments and lessons with AI-assisted resource creation.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Quiz interactifs et leçons différenciées",
+      "Génération et adaptation assistées par IA",
+      "Sessions en direct, devoirs et rapports"
+    ],
+    "featuresEn": [
+      "Interactive quizzes and differentiated lessons",
+      "AI-assisted generation and adaptation",
+      "Live sessions, homework and reports"
+    ],
+    "accessFr": "Web en classe et accès élève supervisé",
+    "accessEn": "Classroom web service with supervised student access",
+    "officialSources": [
+      {
+        "url": "https://help.wayground.com/support/solutions/articles/158000403867-quizizz-is-now-wayground-what-s-changing-and-what-s-not",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://help.wayground.com/support/solutions/articles/158000403991-what-is-wayground-",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Wayground (anciennement Quizizz) est une plateforme d'activités, évaluations et leçons interactives avec création de ressources assistée par IA.",
+      "audiences": [
+        "Enseignants et classes supervisées",
+        "Responsables de l'accompagnement et de l'accessibilité pédagogique"
+      ],
+      "cases": [
+        "Construire une évaluation formative de dix questions et analyser les erreurs courantes des élèves.",
+        "Évaluer la qualité des explications, la pertinence des exercices et les adaptations proposées."
+      ],
+      "advantages": [
+        "Quiz interactifs et leçons différenciées",
+        "Génération et adaptation assistées par IA",
+        "Sessions en direct, devoirs et rapports"
+      ],
+      "limits": [
+        "Quizizz a changé de nom pour Wayground en 2025 et les anciens liens redirigent. Vérifier les questions générées et l'accès aux rapports selon la formule.",
+        "Les productions IA peuvent présenter des erreurs disciplinaires, des biais ou des niveaux de difficulté inadaptés ; une validation pédagogique reste nécessaire."
+      ],
+      "gettingStarted": [
+        "Définir un objectif d'apprentissage mesurable, le niveau de classe et les besoins particuliers.",
+        "Tester la ressource avec un exemple simple, vérifier les réponses, puis ajuster avec retour de l'enseignant ou de l'apprenant."
+      ],
+      "examples": [
+        "Crée une activité de dix minutes avec objectif, prérequis, deux niveaux de différenciation et corrigé vérifiable.",
+        "Propose un exercice qui développe l'esprit critique : l'élève doit justifier sa réponse et identifier une erreur plausible."
+      ],
+      "pricing": "Comparer les accès gratuits, quotas IA, licences enseignants, abonnements scolaires et restrictions d'âge sur le site officiel.",
+      "privacy": "Avant d'importer des devoirs ou données d'élèves, vérifier la conformité aux règles locales de protection des mineurs, l'accord des responsables, la rétention et les paramètres de partage.",
+      "selection": [
+        "Évaluer Quizizz pour son usage (classroom), sa compatibilité avec le programme scolaire, le contrôle enseignant, la langue et l'accessibilité."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "rebranded_wayground",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.wayground.com/support/solutions/articles/158000403867-quizizz-is-now-wayground-what-s-changing-and-what-s-not",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://help.wayground.com/support/solutions/articles/158000403991-what-is-wayground-",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_rebranded",
+    "name": "Wayground (Quizizz)",
+    "url": "https://wayground.com"
+  },
+  "kahoot": {
+    "descriptionFr": "Plateforme d'apprentissage par quiz et activités interactives, avec génération de jeux et questions IA à partir de thèmes, PDF et URL.",
+    "descriptionEn": "Interactive quiz-based learning platform with AI-generated games and questions from topics, PDFs and URLs.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Générateur de kahoots à partir de PDF, URL et sujets",
+      "Quiz et présentations jouables en classe",
+      "Personnalisation des niveaux et langues"
+    ],
+    "featuresEn": [
+      "AI kahoot generation from PDFs, URLs and topics",
+      "Playable quizzes and lesson presentations",
+      "Language and difficulty customization"
+    ],
+    "accessFr": "Web en classe et accès élève supervisé",
+    "accessEn": "Classroom web service with supervised student access",
+    "officialSources": [
+      {
+        "url": "https://support.kahoot.com/hc/en-us/articles/40803785990675-How-to-generate-a-kahoot-with-AI",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://support.kahoot.com/hc/en-us/articles/40988856361747-How-to-generate-Kahoot-questions-with-AI",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme d'apprentissage par quiz et activités interactives, avec génération de jeux et questions IA à partir de thèmes, PDF et URL.",
+      "audiences": [
+        "Enseignants et classes supervisées",
+        "Responsables de l'accompagnement et de l'accessibilité pédagogique"
+      ],
+      "cases": [
+        "Transformer un cours de biologie en quiz de révision avec explication des mauvaises réponses.",
+        "Évaluer la qualité des explications, la pertinence des exercices et les adaptations proposées."
+      ],
+      "advantages": [
+        "Générateur de kahoots à partir de PDF, URL et sujets",
+        "Quiz et présentations jouables en classe",
+        "Personnalisation des niveaux et langues"
+      ],
+      "limits": [
+        "Les formats et sources de génération varient selon l'abonnement ; corriger les distracteurs et réponses avant un usage noté. La langue principale du générateur de questions est l'anglais.",
+        "Les productions IA peuvent présenter des erreurs disciplinaires, des biais ou des niveaux de difficulté inadaptés ; une validation pédagogique reste nécessaire."
+      ],
+      "gettingStarted": [
+        "Définir un objectif d'apprentissage mesurable, le niveau de classe et les besoins particuliers.",
+        "Tester la ressource avec un exemple simple, vérifier les réponses, puis ajuster avec retour de l'enseignant ou de l'apprenant."
+      ],
+      "examples": [
+        "Crée une activité de dix minutes avec objectif, prérequis, deux niveaux de différenciation et corrigé vérifiable.",
+        "Propose un exercice qui développe l'esprit critique : l'élève doit justifier sa réponse et identifier une erreur plausible."
+      ],
+      "pricing": "Comparer les accès gratuits, quotas IA, licences enseignants, abonnements scolaires et restrictions d'âge sur le site officiel.",
+      "privacy": "Avant d'importer des devoirs ou données d'élèves, vérifier la conformité aux règles locales de protection des mineurs, l'accord des responsables, la rétention et les paramètres de partage.",
+      "selection": [
+        "Évaluer Kahoot! pour son usage (classroom), sa compatibilité avec le programme scolaire, le contrôle enseignant, la langue et l'accessibilité."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://support.kahoot.com/hc/en-us/articles/40803785990675-How-to-generate-a-kahoot-with-AI",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://support.kahoot.com/hc/en-us/articles/40988856361747-How-to-generate-Kahoot-questions-with-AI",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "quizlet": {
+    "descriptionFr": "Suite d'étude avec cartes mémoire, guides IA, résumés de PDF, examens blancs et entraînement à partir de notes personnelles.",
+    "descriptionEn": "Study suite with flashcards, AI guides, PDF summaries, practice tests and learning from personal notes.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Guides d'étude générés depuis cours et PDF",
+      "Practice Tests et flashcards IA",
+      "Mode Learn et révision active"
+    ],
+    "featuresEn": [
+      "Study guides from notes and PDFs",
+      "AI practice tests and flashcards",
+      "Learn mode and active recall"
+    ],
+    "accessFr": "Web et/ou application mobile selon produit",
+    "accessEn": "Web and/or mobile apps by product",
+    "officialSources": [
+      {
+        "url": "https://quizlet.com/features/ai-study-tools",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://quizlet.com/blog/meet-q-chat",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Suite d'étude avec cartes mémoire, guides IA, résumés de PDF, examens blancs et entraînement à partir de notes personnelles.",
+      "audiences": [
+        "Élèves, étudiants et enseignants",
+        "Responsables de l'accompagnement et de l'accessibilité pédagogique"
+      ],
+      "cases": [
+        "Transformer des notes de cours en cartes mémoire puis générer un examen blanc à corriger.",
+        "Évaluer la qualité des explications, la pertinence des exercices et les adaptations proposées."
+      ],
+      "advantages": [
+        "Guides d'étude générés depuis cours et PDF",
+        "Practice Tests et flashcards IA",
+        "Mode Learn et révision active"
+      ],
+      "limits": [
+        "Q-Chat a été arrêté en juin 2025 : ne pas le présenter comme actif. Les examens blancs sont soumis à des conditions de pays, langue, âge et abonnement.",
+        "Les productions IA peuvent présenter des erreurs disciplinaires, des biais ou des niveaux de difficulté inadaptés ; une validation pédagogique reste nécessaire."
+      ],
+      "gettingStarted": [
+        "Définir un objectif d'apprentissage mesurable, le niveau de classe et les besoins particuliers.",
+        "Tester la ressource avec un exemple simple, vérifier les réponses, puis ajuster avec retour de l'enseignant ou de l'apprenant."
+      ],
+      "examples": [
+        "Crée une activité de dix minutes avec objectif, prérequis, deux niveaux de différenciation et corrigé vérifiable.",
+        "Propose un exercice qui développe l'esprit critique : l'élève doit justifier sa réponse et identifier une erreur plausible."
+      ],
+      "pricing": "Comparer les accès gratuits, quotas IA, licences enseignants, abonnements scolaires et restrictions d'âge sur le site officiel.",
+      "privacy": "Avant d'importer des devoirs ou données d'élèves, vérifier la conformité aux règles locales de protection des mineurs, l'accord des responsables, la rétention et les paramètres de partage.",
+      "selection": [
+        "Évaluer Quizlet pour son usage (study), sa compatibilité avec le programme scolaire, le contrôle enseignant, la langue et l'accessibilité."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "q_chat_discontinued",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://quizlet.com/features/ai-study-tools",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://quizlet.com/blog/meet-q-chat",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_retired_feature"
+  },
+  "socratic": {
+    "descriptionFr": "Socratic by Google est un ancien assistant scolaire photo/question désormais indisponible comme application autonome ; l'ancien site renvoie vers Google Lens.",
+    "descriptionEn": "Socratic by Google is a former camera-based homework helper no longer available as a standalone app; the former site redirects to Google Lens.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Reconnaissance historique de questions photographiées",
+      "Aide aux devoirs par explications et recherche",
+      "Successeur de parcours : Google Lens Homework"
+    ],
+    "featuresEn": [
+      "Historical photo-based question recognition",
+      "Homework help via explanations and search",
+      "Replacement pathway: Google Lens Homework"
+    ],
+    "accessFr": "Application autonome indisponible — voir Google Lens",
+    "accessEn": "Standalone app unavailable — see Google Lens",
+    "officialSources": [
+      {
+        "url": "https://socratic.org",
+        "checkedAt": "2026-11-16",
+        "scope": "historical_and_redirect"
+      },
+      {
+        "url": "https://lens.google/",
+        "checkedAt": "2026-11-16",
+        "scope": "historical_and_redirect"
+      }
+    ],
+    "research": {
+      "headline": "Socratic by Google est un ancien assistant scolaire photo/question désormais indisponible comme application autonome ; l'ancien site renvoie vers Google Lens.",
+      "audiences": [
+        "Lecteurs étudiant les outils pédagogiques historiques",
+        "Responsables de l'accompagnement et de l'accessibilité pédagogique"
+      ],
+      "cases": [
+        "Étudier l'évolution des applications d'aide aux devoirs et orienter vers une solution actuelle sans supposer d'équivalence complète.",
+        "Évaluer la qualité des explications, la pertinence des exercices et les adaptations proposées."
+      ],
+      "advantages": [
+        "Reconnaissance historique de questions photographiées",
+        "Aide aux devoirs par explications et recherche",
+        "Successeur de parcours : Google Lens Homework"
+      ],
+      "limits": [
+        "La disparition de l'application autonome est documentée par les annuaires d'applications, et socratic.org redirige vers Google Lens ; aucune date officielle de fermeture n'a été confirmée. Ne pas renvoyer vers des APK non officiels.",
+        "Les productions IA peuvent présenter des erreurs disciplinaires, des biais ou des niveaux de difficulté inadaptés ; une validation pédagogique reste nécessaire."
+      ],
+      "gettingStarted": [
+        "Consulter l'historique et sélectionner un outil pédagogique disponible.",
+        "Tester la ressource avec un exemple simple, vérifier les réponses, puis ajuster avec retour de l'enseignant ou de l'apprenant."
+      ],
+      "examples": [
+        "Crée une activité de dix minutes avec objectif, prérequis, deux niveaux de différenciation et corrigé vérifiable.",
+        "Propose un exercice qui développe l'esprit critique : l'élève doit justifier sa réponse et identifier une erreur plausible."
+      ],
+      "pricing": "Ancienne application autonome indisponible ; utiliser les services actuels officiellement proposés.",
+      "privacy": "Avant d'importer des devoirs ou données d'élèves, vérifier la conformité aux règles locales de protection des mineurs, l'accord des responsables, la rétention et les paramètres de partage.",
+      "selection": [
+        "Évaluer Socratic pour son usage (historical), sa compatibilité avec le programme scolaire, le contrôle enseignant, la langue et l'accessibilité."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "standalone_unavailable",
+      "evidence": "official_redirect_and_app_listing",
+      "sources": [
+        {
+          "url": "https://socratic.org",
+          "type": "historical_official_redirect",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://lens.google/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "historical_redirect_no_standalone_app"
+  },
+  "photomath": {
+    "descriptionFr": "Application mobile d'aide aux mathématiques par capture de problèmes, calcul et décomposition des solutions étape par étape.",
+    "descriptionEn": "Mobile math-help app for scanning problems, calculating and explaining solutions step by step.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Scanner les exercices mathématiques",
+      "Résolutions détaillées et plusieurs méthodes",
+      "Algèbre, géométrie, calcul et statistiques"
+    ],
+    "featuresEn": [
+      "Scan math problems",
+      "Step-by-step solutions and alternative methods",
+      "Algebra, geometry, calculus and statistics"
+    ],
+    "accessFr": "Web et/ou application mobile selon produit",
+    "accessEn": "Web and/or mobile apps by product",
+    "officialSources": [
+      {
+        "url": "https://photomath.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://www.photomath.com/install/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Application mobile d'aide aux mathématiques par capture de problèmes, calcul et décomposition des solutions étape par étape.",
+      "audiences": [
+        "Élèves, étudiants et enseignants",
+        "Responsables de l'accompagnement et de l'accessibilité pédagogique"
+      ],
+      "cases": [
+        "Vérifier une dérivation ou une équation et demander à l'élève d'expliquer chaque étape.",
+        "Évaluer la qualité des explications, la pertinence des exercices et les adaptations proposées."
+      ],
+      "advantages": [
+        "Scanner les exercices mathématiques",
+        "Résolutions détaillées et plusieurs méthodes",
+        "Algèbre, géométrie, calcul et statistiques"
+      ],
+      "limits": [
+        "Photomath est une application mobile, pas un éditeur web complet ; les schémas avancés et les explications supplémentaires nécessitent le forfait Plus.",
+        "Les productions IA peuvent présenter des erreurs disciplinaires, des biais ou des niveaux de difficulté inadaptés ; une validation pédagogique reste nécessaire."
+      ],
+      "gettingStarted": [
+        "Définir un objectif d'apprentissage mesurable, le niveau de classe et les besoins particuliers.",
+        "Tester la ressource avec un exemple simple, vérifier les réponses, puis ajuster avec retour de l'enseignant ou de l'apprenant."
+      ],
+      "examples": [
+        "Crée une activité de dix minutes avec objectif, prérequis, deux niveaux de différenciation et corrigé vérifiable.",
+        "Propose un exercice qui développe l'esprit critique : l'élève doit justifier sa réponse et identifier une erreur plausible."
+      ],
+      "pricing": "Comparer les accès gratuits, quotas IA, licences enseignants, abonnements scolaires et restrictions d'âge sur le site officiel.",
+      "privacy": "Avant d'importer des devoirs ou données d'élèves, vérifier la conformité aux règles locales de protection des mineurs, l'accord des responsables, la rétention et les paramètres de partage.",
+      "selection": [
+        "Évaluer Photomath pour son usage (study), sa compatibilité avec le programme scolaire, le contrôle enseignant, la langue et l'accessibilité."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://photomath.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.photomath.com/install/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "duolingo-max": {
+    "descriptionFr": "Formule premium de Duolingo pour pratiquer les langues avec conversations IA Video Call et scénarios Roleplay.",
+    "descriptionEn": "Duolingo premium plan for language speaking practice with AI Video Call conversations and Roleplay scenarios.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Video Call avec Lily et autres personnages",
+      "Jeux de rôle et situations de conversation",
+      "Pratique guidée de la compréhension orale"
+    ],
+    "featuresEn": [
+      "Video Call with Lily and other characters",
+      "Roleplay conversational scenarios",
+      "Guided speaking and listening practice"
+    ],
+    "accessFr": "Application web et/ou mobile selon cours",
+    "accessEn": "Web and/or mobile by language course",
+    "officialSources": [
+      {
+        "url": "https://blog.duolingo.com/covering-all-the-bases-duolingos-approach-to-speaking-skills/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://blog.duolingo.com/duolingo-max/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Formule premium de Duolingo pour pratiquer les langues avec conversations IA Video Call et scénarios Roleplay.",
+      "audiences": [
+        "Apprenants de langues et formateurs",
+        "Responsables de l'accompagnement et de l'accessibilité pédagogique"
+      ],
+      "cases": [
+        "S'entraîner à commander au restaurant puis noter les erreurs fréquentes après la conversation.",
+        "Évaluer la qualité des explications, la pertinence des exercices et les adaptations proposées."
+      ],
+      "advantages": [
+        "Video Call avec Lily et autres personnages",
+        "Jeux de rôle et situations de conversation",
+        "Pratique guidée de la compréhension orale"
+      ],
+      "limits": [
+        "Les fonctions de conversation et langues couvertes dépendent de l'abonnement Max, du cours et de l'appareil ; la disponibilité évolue régulièrement.",
+        "Les productions IA peuvent présenter des erreurs disciplinaires, des biais ou des niveaux de difficulté inadaptés ; une validation pédagogique reste nécessaire."
+      ],
+      "gettingStarted": [
+        "Définir un objectif d'apprentissage mesurable, le niveau de classe et les besoins particuliers.",
+        "Tester la ressource avec un exemple simple, vérifier les réponses, puis ajuster avec retour de l'enseignant ou de l'apprenant."
+      ],
+      "examples": [
+        "Crée une activité de dix minutes avec objectif, prérequis, deux niveaux de différenciation et corrigé vérifiable.",
+        "Propose un exercice qui développe l'esprit critique : l'élève doit justifier sa réponse et identifier une erreur plausible."
+      ],
+      "pricing": "Comparer les accès gratuits, quotas IA, licences enseignants, abonnements scolaires et restrictions d'âge sur le site officiel.",
+      "privacy": "Avant d'importer des devoirs ou données d'élèves, vérifier la conformité aux règles locales de protection des mineurs, l'accord des responsables, la rétention et les paramètres de partage.",
+      "selection": [
+        "Évaluer Duolingo Max pour son usage (language), sa compatibilité avec le programme scolaire, le contrôle enseignant, la langue et l'accessibilité."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://blog.duolingo.com/covering-all-the-bases-duolingos-approach-to-speaking-skills/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://blog.duolingo.com/duolingo-max/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "speak": {
+    "descriptionFr": "Application d'apprentissage des langues centrée sur l'expression orale, avec Speak Tutor et leçons personnalisées.",
+    "descriptionEn": "Speaking-centered language learning app with Speak Tutor and personalized lessons.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Speak Tutor pour questions et pratique",
+      "Leçons orales personnalisées",
+      "Simulations de conversation"
+    ],
+    "featuresEn": [
+      "Speak Tutor questions and practice",
+      "Personalized speaking lessons",
+      "Conversational simulations"
+    ],
+    "accessFr": "Application web et/ou mobile selon cours",
+    "accessEn": "Web and/or mobile by language course",
+    "officialSources": [
+      {
+        "url": "https://help.speak.com/en/articles/11396739-what-is-speak-tutor",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Application d'apprentissage des langues centrée sur l'expression orale, avec Speak Tutor et leçons personnalisées.",
+      "audiences": [
+        "Apprenants de langues et formateurs",
+        "Responsables de l'accompagnement et de l'accessibilité pédagogique"
+      ],
+      "cases": [
+        "Préparer un entretien en langue étrangère avec des mises en situation et retours.",
+        "Évaluer la qualité des explications, la pertinence des exercices et les adaptations proposées."
+      ],
+      "advantages": [
+        "Speak Tutor pour questions et pratique",
+        "Leçons orales personnalisées",
+        "Simulations de conversation"
+      ],
+      "limits": [
+        "Le nombre de leçons personnalisées varie entre Premium et Premium Plus ; vérifier les langues disponibles et éviter de confondre aisance simulée et compétence certifiée.",
+        "Les productions IA peuvent présenter des erreurs disciplinaires, des biais ou des niveaux de difficulté inadaptés ; une validation pédagogique reste nécessaire."
+      ],
+      "gettingStarted": [
+        "Définir un objectif d'apprentissage mesurable, le niveau de classe et les besoins particuliers.",
+        "Tester la ressource avec un exemple simple, vérifier les réponses, puis ajuster avec retour de l'enseignant ou de l'apprenant."
+      ],
+      "examples": [
+        "Crée une activité de dix minutes avec objectif, prérequis, deux niveaux de différenciation et corrigé vérifiable.",
+        "Propose un exercice qui développe l'esprit critique : l'élève doit justifier sa réponse et identifier une erreur plausible."
+      ],
+      "pricing": "Comparer les accès gratuits, quotas IA, licences enseignants, abonnements scolaires et restrictions d'âge sur le site officiel.",
+      "privacy": "Avant d'importer des devoirs ou données d'élèves, vérifier la conformité aux règles locales de protection des mineurs, l'accord des responsables, la rétention et les paramètres de partage.",
+      "selection": [
+        "Évaluer Speak pour son usage (language), sa compatibilité avec le programme scolaire, le contrôle enseignant, la langue et l'accessibilité."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.speak.com/en/articles/11396739-what-is-speak-tutor",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "elsa-speak": {
+    "descriptionFr": "Entraîneur de prononciation anglaise utilisant la reconnaissance vocale pour analyser phonèmes, accentuation, intonation et fluidité.",
+    "descriptionEn": "English pronunciation coach using speech recognition to analyze sounds, stress, intonation and fluency.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Évaluation de la prononciation et des sons",
+      "Retours sur fluidité, grammaire et vocabulaire",
+      "Exercices adaptés au profil"
+    ],
+    "featuresEn": [
+      "Pronunciation and sound-level scoring",
+      "Fluency, grammar and vocabulary feedback",
+      "Personalized speaking exercises"
+    ],
+    "accessFr": "Application web et/ou mobile selon cours",
+    "accessEn": "Web and/or mobile by language course",
+    "officialSources": [
+      {
+        "url": "https://elsaspeak.com/en/faqs/how-does-elsas-pronunciation-feedback-work",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://elsaspeak.com/en/speech-analyzer",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Entraîneur de prononciation anglaise utilisant la reconnaissance vocale pour analyser phonèmes, accentuation, intonation et fluidité.",
+      "audiences": [
+        "Apprenants de langues et formateurs",
+        "Responsables de l'accompagnement et de l'accessibilité pédagogique"
+      ],
+      "cases": [
+        "Travailler la différence entre deux sons anglais et suivre les progrès de prononciation.",
+        "Évaluer la qualité des explications, la pertinence des exercices et les adaptations proposées."
+      ],
+      "advantages": [
+        "Évaluation de la prononciation et des sons",
+        "Retours sur fluidité, grammaire et vocabulaire",
+        "Exercices adaptés au profil"
+      ],
+      "limits": [
+        "Les scores de prononciation sont automatisés et peuvent pénaliser des variantes d'accent acceptables ; ne pas les employer comme seule base d'évaluation d'un élève.",
+        "Les productions IA peuvent présenter des erreurs disciplinaires, des biais ou des niveaux de difficulté inadaptés ; une validation pédagogique reste nécessaire."
+      ],
+      "gettingStarted": [
+        "Définir un objectif d'apprentissage mesurable, le niveau de classe et les besoins particuliers.",
+        "Tester la ressource avec un exemple simple, vérifier les réponses, puis ajuster avec retour de l'enseignant ou de l'apprenant."
+      ],
+      "examples": [
+        "Crée une activité de dix minutes avec objectif, prérequis, deux niveaux de différenciation et corrigé vérifiable.",
+        "Propose un exercice qui développe l'esprit critique : l'élève doit justifier sa réponse et identifier une erreur plausible."
+      ],
+      "pricing": "Comparer les accès gratuits, quotas IA, licences enseignants, abonnements scolaires et restrictions d'âge sur le site officiel.",
+      "privacy": "Avant d'importer des devoirs ou données d'élèves, vérifier la conformité aux règles locales de protection des mineurs, l'accord des responsables, la rétention et les paramètres de partage.",
+      "selection": [
+        "Évaluer ELSA Speak pour son usage (language), sa compatibilité avec le programme scolaire, le contrôle enseignant, la langue et l'accessibilité."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://elsaspeak.com/en/faqs/how-does-elsas-pronunciation-feedback-work",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://elsaspeak.com/en/speech-analyzer",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "talkpal": {
+    "descriptionFr": "Tuteur conversationnel IA pour la pratique écrite et orale de nombreuses langues avec modes rôle, débat, appel et dialogue.",
+    "descriptionEn": "AI conversational tutor for written and spoken practice across languages with roleplay, debate, call and dialogue modes.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Chat, rôles, débats et appels",
+      "Corrections et reformulation en contexte",
+      "Pratique multilingue"
+    ],
+    "featuresEn": [
+      "Chat, roleplays, debates and calls",
+      "In-context corrections and rewriting",
+      "Multilingual practice"
+    ],
+    "accessFr": "Application web et/ou mobile selon cours",
+    "accessEn": "Web and/or mobile by language course",
+    "officialSources": [
+      {
+        "url": "https://talkpal.ai/support/how-does-talkpal-ai-work/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Tuteur conversationnel IA pour la pratique écrite et orale de nombreuses langues avec modes rôle, débat, appel et dialogue.",
+      "audiences": [
+        "Apprenants de langues et formateurs",
+        "Responsables de l'accompagnement et de l'accessibilité pédagogique"
+      ],
+      "cases": [
+        "Simuler une discussion entre étudiants et demander une explication des corrections grammaticales.",
+        "Évaluer la qualité des explications, la pertinence des exercices et les adaptations proposées."
+      ],
+      "advantages": [
+        "Chat, rôles, débats et appels",
+        "Corrections et reformulation en contexte",
+        "Pratique multilingue"
+      ],
+      "limits": [
+        "Le fournisseur annonce plus de 130 langues, mais la qualité varie ; vérifier la langue cible, les limites gratuites et les conditions de stockage audio.",
+        "Les productions IA peuvent présenter des erreurs disciplinaires, des biais ou des niveaux de difficulté inadaptés ; une validation pédagogique reste nécessaire."
+      ],
+      "gettingStarted": [
+        "Définir un objectif d'apprentissage mesurable, le niveau de classe et les besoins particuliers.",
+        "Tester la ressource avec un exemple simple, vérifier les réponses, puis ajuster avec retour de l'enseignant ou de l'apprenant."
+      ],
+      "examples": [
+        "Crée une activité de dix minutes avec objectif, prérequis, deux niveaux de différenciation et corrigé vérifiable.",
+        "Propose un exercice qui développe l'esprit critique : l'élève doit justifier sa réponse et identifier une erreur plausible."
+      ],
+      "pricing": "Comparer les accès gratuits, quotas IA, licences enseignants, abonnements scolaires et restrictions d'âge sur le site officiel.",
+      "privacy": "Avant d'importer des devoirs ou données d'élèves, vérifier la conformité aux règles locales de protection des mineurs, l'accord des responsables, la rétention et les paramètres de partage.",
+      "selection": [
+        "Évaluer TalkPal pour son usage (language), sa compatibilité avec le programme scolaire, le contrôle enseignant, la langue et l'accessibilité."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://talkpal.ai/support/how-does-talkpal-ai-work/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "tutorai": {
+    "descriptionFr": "Générateur de parcours de formation IA construits à partir d'un sujet ou de documents fournis avec une structure modifiable.",
+    "descriptionEn": "AI course generator creating learning pathways from a topic or uploaded documents with editable structure.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Cours générés depuis un thème",
+      "Plans et modules personnalisables",
+      "Sources documentaires importées"
+    ],
+    "featuresEn": [
+      "Topic-to-course generation",
+      "Customizable outlines and modules",
+      "Uploaded source documents"
+    ],
+    "accessFr": "Web et/ou application mobile selon produit",
+    "accessEn": "Web and/or mobile apps by product",
+    "officialSources": [
+      {
+        "url": "https://tutorai.me/create-course",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://tutorai.me/free-online-courses",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Générateur de parcours de formation IA construits à partir d'un sujet ou de documents fournis avec une structure modifiable.",
+      "audiences": [
+        "Élèves, étudiants et enseignants",
+        "Responsables de l'accompagnement et de l'accessibilité pédagogique"
+      ],
+      "cases": [
+        "Créer une introduction à la cybersécurité, vérifier les modules et compléter les ressources par des références validées.",
+        "Évaluer la qualité des explications, la pertinence des exercices et les adaptations proposées."
+      ],
+      "advantages": [
+        "Cours générés depuis un thème",
+        "Plans et modules personnalisables",
+        "Sources documentaires importées"
+      ],
+      "limits": [
+        "Les fonctions avancées nécessitent une connexion ; la qualité des modules, des références et des objectifs pédagogiques n'est pas garantie par la génération.",
+        "Les productions IA peuvent présenter des erreurs disciplinaires, des biais ou des niveaux de difficulté inadaptés ; une validation pédagogique reste nécessaire."
+      ],
+      "gettingStarted": [
+        "Définir un objectif d'apprentissage mesurable, le niveau de classe et les besoins particuliers.",
+        "Tester la ressource avec un exemple simple, vérifier les réponses, puis ajuster avec retour de l'enseignant ou de l'apprenant."
+      ],
+      "examples": [
+        "Crée une activité de dix minutes avec objectif, prérequis, deux niveaux de différenciation et corrigé vérifiable.",
+        "Propose un exercice qui développe l'esprit critique : l'élève doit justifier sa réponse et identifier une erreur plausible."
+      ],
+      "pricing": "Comparer les accès gratuits, quotas IA, licences enseignants, abonnements scolaires et restrictions d'âge sur le site officiel.",
+      "privacy": "Avant d'importer des devoirs ou données d'élèves, vérifier la conformité aux règles locales de protection des mineurs, l'accord des responsables, la rétention et les paramètres de partage.",
+      "selection": [
+        "Évaluer TutorAI pour son usage (study), sa compatibilité avec le programme scolaire, le contrôle enseignant, la langue et l'accessibilité."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "product_overview",
+      "evidence": "official_product_pages",
+      "sources": [
+        {
+          "url": "https://tutorai.me/create-course",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://tutorai.me/free-online-courses",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_product_overview"
+  },
+  "knowt": {
+    "descriptionFr": "Application de notes et révision avec Kai, génération de fiches, flashcards, podcasts et tests, plus répétition espacée.",
+    "descriptionEn": "Notes and study app with Kai for flashcards, podcasts, tests and spaced repetition.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Kai : aide à la rédaction et aux révisions",
+      "Flashcards, Practice Tests et podcasts",
+      "Répétition espacée et planification d'examens"
+    ],
+    "featuresEn": [
+      "Kai note and study assistance",
+      "Flashcards, practice tests and podcasts",
+      "Spaced repetition and exam planning"
+    ],
+    "accessFr": "Web et/ou application mobile selon produit",
+    "accessEn": "Web and/or mobile apps by product",
+    "officialSources": [
+      {
+        "url": "https://help.knowt.com/en/articles/10298083-how-can-i-use-ai-to-write-my-notes",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://help.knowt.com/en/articles/16905163-what-s-included-in-the-free-plan-for-students",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Application de notes et révision avec Kai, génération de fiches, flashcards, podcasts et tests, plus répétition espacée.",
+      "audiences": [
+        "Élèves, étudiants et enseignants",
+        "Responsables de l'accompagnement et de l'accessibilité pédagogique"
+      ],
+      "cases": [
+        "Importer des notes de cours puis alterner cartes mémoire et examens blancs.",
+        "Évaluer la qualité des explications, la pertinence des exercices et les adaptations proposées."
+      ],
+      "advantages": [
+        "Kai : aide à la rédaction et aux révisions",
+        "Flashcards, Practice Tests et podcasts",
+        "Répétition espacée et planification d'examens"
+      ],
+      "limits": [
+        "Le plan gratuit offre de nombreux modes, mais les résumés et fonctions IA ont des limites ; la génération à partir d'un cours peut omettre des concepts.",
+        "Les productions IA peuvent présenter des erreurs disciplinaires, des biais ou des niveaux de difficulté inadaptés ; une validation pédagogique reste nécessaire."
+      ],
+      "gettingStarted": [
+        "Définir un objectif d'apprentissage mesurable, le niveau de classe et les besoins particuliers.",
+        "Tester la ressource avec un exemple simple, vérifier les réponses, puis ajuster avec retour de l'enseignant ou de l'apprenant."
+      ],
+      "examples": [
+        "Crée une activité de dix minutes avec objectif, prérequis, deux niveaux de différenciation et corrigé vérifiable.",
+        "Propose un exercice qui développe l'esprit critique : l'élève doit justifier sa réponse et identifier une erreur plausible."
+      ],
+      "pricing": "Comparer les accès gratuits, quotas IA, licences enseignants, abonnements scolaires et restrictions d'âge sur le site officiel.",
+      "privacy": "Avant d'importer des devoirs ou données d'élèves, vérifier la conformité aux règles locales de protection des mineurs, l'accord des responsables, la rétention et les paramètres de partage.",
+      "selection": [
+        "Évaluer Knowt pour son usage (study), sa compatibilité avec le programme scolaire, le contrôle enseignant, la langue et l'accessibilité."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.knowt.com/en/articles/10298083-how-can-i-use-ai-to-write-my-notes",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://help.knowt.com/en/articles/16905163-what-s-included-in-the-free-plan-for-students",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "studyfetch": {
+    "descriptionFr": "Ensemble de révision à partir de documents avec Sparky/Spark.E, notes IA, cartes mémoire, examens, tutorat interactif et audio.",
+    "descriptionEn": "Document-grounded study suite with Sparky/Spark.E, AI notes, flashcards, exams, interactive tutoring and audio.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Sparky relié aux documents du cours",
+      "Tutor Me et entraînement pas à pas",
+      "Flashcards, quiz, audio et plans d'étude"
+    ],
+    "featuresEn": [
+      "Sparky grounded in study materials",
+      "Tutor Me step-by-step tutoring",
+      "Flashcards, quizzes, audio and study plans"
+    ],
+    "accessFr": "Web et/ou application mobile selon produit",
+    "accessEn": "Web and/or mobile apps by product",
+    "officialSources": [
+      {
+        "url": "https://www.studyfetch.com/tools",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://sso.studyfetch.com/docs/docs/6a3db8794acdb607f5b4a725",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Ensemble de révision à partir de documents avec Sparky/Spark.E, notes IA, cartes mémoire, examens, tutorat interactif et audio.",
+      "audiences": [
+        "Élèves, étudiants et enseignants",
+        "Responsables de l'accompagnement et de l'accessibilité pédagogique"
+      ],
+      "cases": [
+        "Créer une révision progressive à partir d'un polycopié puis vérifier les réponses avec les pages sources.",
+        "Évaluer la qualité des explications, la pertinence des exercices et les adaptations proposées."
+      ],
+      "advantages": [
+        "Sparky relié aux documents du cours",
+        "Tutor Me et entraînement pas à pas",
+        "Flashcards, quiz, audio et plans d'étude"
+      ],
+      "limits": [
+        "Tutor Me et le chat Sparky sont des produits distincts ; Tutor Me est disponible sur le web, pas dans l'application mobile, selon la documentation. Les fichiers d'élèves doivent être autorisés.",
+        "Les productions IA peuvent présenter des erreurs disciplinaires, des biais ou des niveaux de difficulté inadaptés ; une validation pédagogique reste nécessaire."
+      ],
+      "gettingStarted": [
+        "Définir un objectif d'apprentissage mesurable, le niveau de classe et les besoins particuliers.",
+        "Tester la ressource avec un exemple simple, vérifier les réponses, puis ajuster avec retour de l'enseignant ou de l'apprenant."
+      ],
+      "examples": [
+        "Crée une activité de dix minutes avec objectif, prérequis, deux niveaux de différenciation et corrigé vérifiable.",
+        "Propose un exercice qui développe l'esprit critique : l'élève doit justifier sa réponse et identifier une erreur plausible."
+      ],
+      "pricing": "Comparer les accès gratuits, quotas IA, licences enseignants, abonnements scolaires et restrictions d'âge sur le site officiel.",
+      "privacy": "Avant d'importer des devoirs ou données d'élèves, vérifier la conformité aux règles locales de protection des mineurs, l'accord des responsables, la rétention et les paramètres de partage.",
+      "selection": [
+        "Évaluer StudyFetch pour son usage (study), sa compatibilité avec le programme scolaire, le contrôle enseignant, la langue et l'accessibilité."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.studyfetch.com/tools",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://sso.studyfetch.com/docs/docs/6a3db8794acdb607f5b4a725",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  }
+}
