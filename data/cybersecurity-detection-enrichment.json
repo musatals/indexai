@@ -1,0 +1,1366 @@
+{
+  "microsoft-security-copilot": {
+    "descriptionFr": "Assistant Microsoft pour les équipes SOC, intégré à Defender, Sentinel, Entra et Purview : investigation, synthèse d'incidents, renseignement sur les menaces et agents spécialisés.",
+    "descriptionEn": "Microsoft SOC assistant across Defender, Sentinel, Entra and Purview for investigations, incident summaries, threat intelligence and specialized agents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Copilot conversationnel, promptbooks et agents de sécurité",
+      "Intégration Defender, Sentinel, Entra et Purview",
+      "Security Store et agents avec autorisations"
+    ],
+    "featuresEn": [
+      "Conversational Copilot, promptbooks and security agents",
+      "Defender, Sentinel, Entra and Purview integrations",
+      "Security Store and permission-governed agents"
+    ],
+    "accessFr": "Plateforme de cybersécurité entreprise et intégrations selon licence",
+    "accessEn": "Enterprise security platform and licensed integrations",
+    "officialSources": [
+      {
+        "url": "https://learn.microsoft.com/en-us/security-copilot/faq-security-copilot?view=o365-worldwide",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://learn.microsoft.com/en-us/copilot/security/security-compute-units-capacity",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://learn.microsoft.com/en-us/defender-xdr/security-copilot-agents-defender",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Assistant Microsoft pour les équipes SOC, intégré à Defender, Sentinel, Entra et Purview : investigation, synthèse d'incidents, renseignement sur les menaces et agents spécialisés.",
+      "audiences": [
+        "Analystes SOC, responsables SecOps et réponse à incident",
+        "Équipes de gouvernance des risques et de la conformité"
+      ],
+      "cases": [
+        "Résumer une alerte Defender et identifier ses éléments de preuve avant d'autoriser un blocage ou un confinement.",
+        "Évaluer les résultats et les faux positifs sur des données de test et conserver la trace des décisions."
+      ],
+      "advantages": [
+        "Copilot conversationnel, promptbooks et agents de sécurité",
+        "Intégration Defender, Sentinel, Entra et Purview",
+        "Security Store et agents avec autorisations"
+      ],
+      "limits": [
+        "L'accès nécessite Entra ID et une capacité Security Compute Units (SCU), incluse sous conditions dans Microsoft 365 E5/E7 ou provisionnée et facturée. Les agents tiers peuvent nécessiter une licence distincte. Vérifier tenant, rôles, facturation et droits d'action.",
+        "Une classification IA peut se tromper. En cas de blocage, suspension de compte ou réponse sur un système de production, contrôler les permissions et prévoir une révision humaine."
+      ],
+      "gettingStarted": [
+        "Connecter uniquement des sources de télémétrie autorisées et définir les rôles SOC.",
+        "Mesurer précision, latence, faux positifs, confidentialité et coûts ; déployer en détection seule avant d'activer une action de blocage."
+      ],
+      "examples": [
+        "Sur une alerte simulée, résume les preuves, identifie les systèmes concernés et propose une mesure de limitation nécessitant approbation.",
+        "Prépare une grille de validation : portée autorisée, sources, actions possibles, fausses alertes, droits et audit."
+      ],
+      "pricing": "Vérifier les contrats entreprise, licences par utilisateur, volume de données, événements, scans, API, crédits d'IA et modules additionnels auprès de l'éditeur.",
+      "privacy": "Réduire la collecte des logs et contenus personnels, protéger codes, secrets et messages, vérifier hébergement, rétention, flux transfrontaliers, habilitations et journalisation.",
+      "selection": [
+        "Choisir Microsoft Security Copilot selon le besoin (soc), la télémétrie ou les médias pris en charge, les intégrations, la traçabilité, les faux positifs et le contrôle humain."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://learn.microsoft.com/en-us/security-copilot/faq-security-copilot?view=o365-worldwide",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://learn.microsoft.com/en-us/copilot/security/security-compute-units-capacity",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://learn.microsoft.com/en-us/defender-xdr/security-copilot-agents-defender",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_license_updated"
+  },
+  "crowdstrike-charlotte-ai": {
+    "descriptionFr": "Charlotte AI de CrowdStrike pour le SOC agentique, avec investigation multi-domaines, AgentWorks sans code et orchestration Charlotte Agentic SOAR dans Falcon.",
+    "descriptionEn": "CrowdStrike Charlotte AI for agentic SOC investigation across domains, with no-code AgentWorks and Charlotte Agentic SOAR orchestration in Falcon.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Enquêtes sur endpoints, identités, cloud et réseau",
+      "AgentWorks pour agents personnalisés sans code",
+      "Agentic SOAR, MCP et points d'approbation"
+    ],
+    "featuresEn": [
+      "Cross-domain endpoint, identity, cloud and network investigations",
+      "No-code custom agents with AgentWorks",
+      "Agentic SOAR, MCP and approval checkpoints"
+    ],
+    "accessFr": "Plateforme de cybersécurité entreprise et intégrations selon licence",
+    "accessEn": "Enterprise security platform and licensed integrations",
+    "officialSources": [
+      {
+        "url": "https://www.crowdstrike.com/en-us/platform/charlotte-ai/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.crowdstrike.com/en-us/platform/charlotte-ai/charlotte-ai-agentworks/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Charlotte AI de CrowdStrike pour le SOC agentique, avec investigation multi-domaines, AgentWorks sans code et orchestration Charlotte Agentic SOAR dans Falcon.",
+      "audiences": [
+        "Analystes SOC, responsables SecOps et réponse à incident",
+        "Équipes de gouvernance des risques et de la conformité"
+      ],
+      "cases": [
+        "Créer un agent de tri d'alertes qui enrichit un incident et demande une approbation avant l'isolement d'un poste.",
+        "Évaluer les résultats et les faux positifs sur des données de test et conserver la trace des décisions."
+      ],
+      "advantages": [
+        "Enquêtes sur endpoints, identités, cloud et réseau",
+        "AgentWorks pour agents personnalisés sans code",
+        "Agentic SOAR, MCP et points d'approbation"
+      ],
+      "limits": [
+        "Le système dépend de la plateforme Falcon et des modules sous licence. Les chiffres de précision et d'efficacité sont propres aux évaluations du fournisseur ; vérifier les permissionnements, les journaux et les réponses automatisées.",
+        "Une classification IA peut se tromper. En cas de blocage, suspension de compte ou réponse sur un système de production, contrôler les permissions et prévoir une révision humaine."
+      ],
+      "gettingStarted": [
+        "Connecter uniquement des sources de télémétrie autorisées et définir les rôles SOC.",
+        "Mesurer précision, latence, faux positifs, confidentialité et coûts ; déployer en détection seule avant d'activer une action de blocage."
+      ],
+      "examples": [
+        "Sur une alerte simulée, résume les preuves, identifie les systèmes concernés et propose une mesure de limitation nécessitant approbation.",
+        "Prépare une grille de validation : portée autorisée, sources, actions possibles, fausses alertes, droits et audit."
+      ],
+      "pricing": "Vérifier les contrats entreprise, licences par utilisateur, volume de données, événements, scans, API, crédits d'IA et modules additionnels auprès de l'éditeur.",
+      "privacy": "Réduire la collecte des logs et contenus personnels, protéger codes, secrets et messages, vérifier hébergement, rétention, flux transfrontaliers, habilitations et journalisation.",
+      "selection": [
+        "Choisir CrowdStrike Charlotte AI selon le besoin (soc), la télémétrie ou les médias pris en charge, les intégrations, la traçabilité, les faux positifs et le contrôle humain."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.crowdstrike.com/en-us/platform/charlotte-ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.crowdstrike.com/en-us/platform/charlotte-ai/charlotte-ai-agentworks/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "sentinelone-purple-ai": {
+    "descriptionFr": "Purple AI de SentinelOne dans Singularity ASOC : investigation autonome des alertes, mise en relation de preuves et réponses encadrées par les équipes de sécurité.",
+    "descriptionEn": "SentinelOne Purple AI within Singularity ASOC for autonomous alert investigations, evidence correlation and security-team-governed responses.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Investigation agentique initiée automatiquement",
+      "Singularity ASOC et Purple Security Superintelligence",
+      "Singularity Hyperautomation et garde-fous de réponse"
+    ],
+    "featuresEn": [
+      "Autonomously initiated agentic investigations",
+      "Singularity ASOC and Purple Security Superintelligence",
+      "Singularity Hyperautomation and response guardrails"
+    ],
+    "accessFr": "Plateforme de cybersécurité entreprise et intégrations selon licence",
+    "accessEn": "Enterprise security platform and licensed integrations",
+    "officialSources": [
+      {
+        "url": "https://www.sentinelone.com/press/sentinelone-brings-security-superintelligence-to-the-soc-with-singularity-asoc/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.sentinelone.com/press/sentinelone-makes-the-autonomous-soc-trustworthy-with-governed-closed-loop-response/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Purple AI de SentinelOne dans Singularity ASOC : investigation autonome des alertes, mise en relation de preuves et réponses encadrées par les équipes de sécurité.",
+      "audiences": [
+        "Analystes SOC, responsables SecOps et réponse à incident",
+        "Équipes de gouvernance des risques et de la conformité"
+      ],
+      "cases": [
+        "Faire enquêter l'agent sur un signal de mouvement latéral puis autoriser une action de containment dans une politique prédéfinie.",
+        "Évaluer les résultats et les faux positifs sur des données de test et conserver la trace des décisions."
+      ],
+      "advantages": [
+        "Investigation agentique initiée automatiquement",
+        "Singularity ASOC et Purple Security Superintelligence",
+        "Singularity Hyperautomation et garde-fous de réponse"
+      ],
+      "limits": [
+        "Purple AI Agentic Investigation a été ouvert aux clients en juin 2026 ; Singularity ASOC a été annoncé en octobre. Les réponses autonomes dépendent des politiques, modules et droits, et peuvent créer des interruptions si les règles sont mal configurées.",
+        "Une classification IA peut se tromper. En cas de blocage, suspension de compte ou réponse sur un système de production, contrôler les permissions et prévoir une révision humaine."
+      ],
+      "gettingStarted": [
+        "Connecter uniquement des sources de télémétrie autorisées et définir les rôles SOC.",
+        "Mesurer précision, latence, faux positifs, confidentialité et coûts ; déployer en détection seule avant d'activer une action de blocage."
+      ],
+      "examples": [
+        "Sur une alerte simulée, résume les preuves, identifie les systèmes concernés et propose une mesure de limitation nécessitant approbation.",
+        "Prépare une grille de validation : portée autorisée, sources, actions possibles, fausses alertes, droits et audit."
+      ],
+      "pricing": "Vérifier les contrats entreprise, licences par utilisateur, volume de données, événements, scans, API, crédits d'IA et modules additionnels auprès de l'éditeur.",
+      "privacy": "Réduire la collecte des logs et contenus personnels, protéger codes, secrets et messages, vérifier hébergement, rétention, flux transfrontaliers, habilitations et journalisation.",
+      "selection": [
+        "Choisir SentinelOne Purple AI selon le besoin (soc), la télémétrie ou les médias pris en charge, les intégrations, la traçabilité, les faux positifs et le contrôle humain."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "purple_ai_asoc_2026",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.sentinelone.com/press/sentinelone-brings-security-superintelligence-to-the-soc-with-singularity-asoc/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.sentinelone.com/press/sentinelone-makes-the-autonomous-soc-trustworthy-with-governed-closed-loop-response/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_release_updated"
+  },
+  "darktrace": {
+    "descriptionFr": "Plateforme Darktrace ActiveAI de détection comportementale couvrant réseau, messagerie, cloud, identités et OT, avec Cyber AI Analyst et réponse autonome.",
+    "descriptionEn": "Darktrace ActiveAI behavioral threat detection across network, email, cloud, identity and OT, with Cyber AI Analyst and autonomous response.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Self-Learning AI et visibilité inter-domaines",
+      "Cyber AI Analyst pour enquête et synthèse",
+      "Autonomous Response à règles configurables"
+    ],
+    "featuresEn": [
+      "Self-Learning AI and cross-domain visibility",
+      "Cyber AI Analyst investigation and summaries",
+      "Policy-configurable Autonomous Response"
+    ],
+    "accessFr": "Plateforme de cybersécurité entreprise et intégrations selon licence",
+    "accessEn": "Enterprise security platform and licensed integrations",
+    "officialSources": [
+      {
+        "url": "https://www.darktrace.com/platform",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.darktrace.com/products",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.darktrace.com/darktrace-autonomous-response",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme Darktrace ActiveAI de détection comportementale couvrant réseau, messagerie, cloud, identités et OT, avec Cyber AI Analyst et réponse autonome.",
+      "audiences": [
+        "Analystes SOC, responsables SecOps et réponse à incident",
+        "Équipes de gouvernance des risques et de la conformité"
+      ],
+      "cases": [
+        "Enquêter sur une anomalie réseau en retraçant les connexions puis limiter une réponse autonome aux systèmes préalablement autorisés.",
+        "Évaluer les résultats et les faux positifs sur des données de test et conserver la trace des décisions."
+      ],
+      "advantages": [
+        "Self-Learning AI et visibilité inter-domaines",
+        "Cyber AI Analyst pour enquête et synthèse",
+        "Autonomous Response à règles configurables"
+      ],
+      "limits": [
+        "Une anomalie n'est pas nécessairement une attaque ; ajuster les seuils, anticiper les faux positifs et définir des restrictions avant toute isolation ou blocage. La couverture dépend des modules et du déploiement.",
+        "Une classification IA peut se tromper. En cas de blocage, suspension de compte ou réponse sur un système de production, contrôler les permissions et prévoir une révision humaine."
+      ],
+      "gettingStarted": [
+        "Connecter uniquement des sources de télémétrie autorisées et définir les rôles SOC.",
+        "Mesurer précision, latence, faux positifs, confidentialité et coûts ; déployer en détection seule avant d'activer une action de blocage."
+      ],
+      "examples": [
+        "Sur une alerte simulée, résume les preuves, identifie les systèmes concernés et propose une mesure de limitation nécessitant approbation.",
+        "Prépare une grille de validation : portée autorisée, sources, actions possibles, fausses alertes, droits et audit."
+      ],
+      "pricing": "Vérifier les contrats entreprise, licences par utilisateur, volume de données, événements, scans, API, crédits d'IA et modules additionnels auprès de l'éditeur.",
+      "privacy": "Réduire la collecte des logs et contenus personnels, protéger codes, secrets et messages, vérifier hébergement, rétention, flux transfrontaliers, habilitations et journalisation.",
+      "selection": [
+        "Choisir Darktrace selon le besoin (ndr_soc), la télémétrie ou les médias pris en charge, les intégrations, la traçabilité, les faux positifs et le contrôle humain."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.darktrace.com/platform",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.darktrace.com/products",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.darktrace.com/darktrace-autonomous-response",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "vectra-ai": {
+    "descriptionFr": "Plateforme Vectra NDR de détection et d'investigation à partir des comportements sur réseau, identités, cloud et SaaS, avec corrélation et priorisation IA.",
+    "descriptionEn": "Vectra NDR detects and investigates behavioral threats across network, identities, cloud and SaaS, with AI correlation and prioritization.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "AI Detections sur réseau, identité et cloud",
+      "AI Signal : triage, corrélation et priorisation",
+      "Vectra AI Pro et intégrations SIEM/SOAR"
+    ],
+    "featuresEn": [
+      "AI detections across network, identity and cloud",
+      "AI Signal triage, stitching and prioritization",
+      "Vectra AI Pro and SIEM/SOAR integrations"
+    ],
+    "accessFr": "Plateforme de cybersécurité entreprise et intégrations selon licence",
+    "accessEn": "Enterprise security platform and licensed integrations",
+    "officialSources": [
+      {
+        "url": "https://www.vectra.ai/platform",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.vectra.ai/about/news/vectra-ai-launches-vectra-ai-pro-to-accelerate-the-agentic-soc",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme Vectra NDR de détection et d'investigation à partir des comportements sur réseau, identités, cloud et SaaS, avec corrélation et priorisation IA.",
+      "audiences": [
+        "Analystes SOC, responsables SecOps et réponse à incident",
+        "Équipes de gouvernance des risques et de la conformité"
+      ],
+      "cases": [
+        "Repérer les déplacements latéraux d'un compte suspect, enrichir les indices avec l'EDR et vérifier les actions possibles.",
+        "Évaluer les résultats et les faux positifs sur des données de test et conserver la trace des décisions."
+      ],
+      "advantages": [
+        "AI Detections sur réseau, identité et cloud",
+        "AI Signal : triage, corrélation et priorisation",
+        "Vectra AI Pro et intégrations SIEM/SOAR"
+      ],
+      "limits": [
+        "Les affirmations sur la réduction du bruit des alertes sont propres au fournisseur et non garanties. La télémétrie réseau, cloud et identités doit être correctement intégrée ; l'analyse chiffrée et les réponses n'offrent pas une visibilité exhaustive.",
+        "Une classification IA peut se tromper. En cas de blocage, suspension de compte ou réponse sur un système de production, contrôler les permissions et prévoir une révision humaine."
+      ],
+      "gettingStarted": [
+        "Connecter uniquement des sources de télémétrie autorisées et définir les rôles SOC.",
+        "Mesurer précision, latence, faux positifs, confidentialité et coûts ; déployer en détection seule avant d'activer une action de blocage."
+      ],
+      "examples": [
+        "Sur une alerte simulée, résume les preuves, identifie les systèmes concernés et propose une mesure de limitation nécessitant approbation.",
+        "Prépare une grille de validation : portée autorisée, sources, actions possibles, fausses alertes, droits et audit."
+      ],
+      "pricing": "Vérifier les contrats entreprise, licences par utilisateur, volume de données, événements, scans, API, crédits d'IA et modules additionnels auprès de l'éditeur.",
+      "privacy": "Réduire la collecte des logs et contenus personnels, protéger codes, secrets et messages, vérifier hébergement, rétention, flux transfrontaliers, habilitations et journalisation.",
+      "selection": [
+        "Choisir Vectra AI selon le besoin (ndr_soc), la télémétrie ou les médias pris en charge, les intégrations, la traçabilité, les faux positifs et le contrôle humain."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.vectra.ai/platform",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.vectra.ai/about/news/vectra-ai-launches-vectra-ai-pro-to-accelerate-the-agentic-soc",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "abnormal-ai": {
+    "descriptionFr": "Plateforme Abnormal AI de sécurité comportementale des communications et identités, ciblant phishing, fraude aux paiements, compromission de comptes et usage risqué de l'IA.",
+    "descriptionEn": "Abnormal AI behavioral email, identity and AI security platform addressing phishing, payment fraud, account compromise and AI misuse.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Détection du phishing et des attaques BEC",
+      "Account Takeover, Identity Security et enquête",
+      "Protection par API et politiques d'usage IA"
+    ],
+    "featuresEn": [
+      "Phishing and BEC attack detection",
+      "Account takeover and identity investigations",
+      "API integrations and AI use policies"
+    ],
+    "accessFr": "Plateforme de cybersécurité entreprise et intégrations selon licence",
+    "accessEn": "Enterprise security platform and licensed integrations",
+    "officialSources": [
+      {
+        "url": "https://abnormal.ai/newsroom/press-releases/announcing-abnormal-ai",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://abnormal.ai/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme Abnormal AI de sécurité comportementale des communications et identités, ciblant phishing, fraude aux paiements, compromission de comptes et usage risqué de l'IA.",
+      "audiences": [
+        "Responsables cybersécurité, équipes IT et développeurs",
+        "Équipes de gouvernance des risques et de la conformité"
+      ],
+      "cases": [
+        "Identifier un message demandant un virement inhabituel, vérifier l'identité de l'expéditeur via un autre canal et bloquer le message selon les règles.",
+        "Évaluer les résultats et les faux positifs sur des données de test et conserver la trace des décisions."
+      ],
+      "advantages": [
+        "Détection du phishing et des attaques BEC",
+        "Account Takeover, Identity Security et enquête",
+        "Protection par API et politiques d'usage IA"
+      ],
+      "limits": [
+        "Abnormal Security a repris son nom Abnormal AI en avril 2025 ; le produit existe toujours. Les systèmes basés sur le comportement peuvent faire des faux positifs ; l'intégration et l'efficacité varient selon Microsoft 365, Google Workspace et autres canaux.",
+        "Une classification IA peut se tromper. En cas de blocage, suspension de compte ou réponse sur un système de production, contrôler les permissions et prévoir une révision humaine."
+      ],
+      "gettingStarted": [
+        "Définir les systèmes, comptes et ressources autorisés à être inspectés.",
+        "Mesurer précision, latence, faux positifs, confidentialité et coûts ; déployer en détection seule avant d'activer une action de blocage."
+      ],
+      "examples": [
+        "Analyse le risque d'un agent ou d'un modèle de démonstration, relève les permissions excessives et propose des protections à tester.",
+        "Prépare une grille de validation : portée autorisée, sources, actions possibles, fausses alertes, droits et audit."
+      ],
+      "pricing": "Vérifier les contrats entreprise, licences par utilisateur, volume de données, événements, scans, API, crédits d'IA et modules additionnels auprès de l'éditeur.",
+      "privacy": "Réduire la collecte des logs et contenus personnels, protéger codes, secrets et messages, vérifier hébergement, rétention, flux transfrontaliers, habilitations et journalisation.",
+      "selection": [
+        "Choisir Abnormal AI selon le besoin (email_identity), la télémétrie ou les médias pris en charge, les intégrations, la traçabilité, les faux positifs et le contrôle humain."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "rebranded_abnormal_ai",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://abnormal.ai/newsroom/press-releases/announcing-abnormal-ai",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://abnormal.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_rebranded"
+  },
+  "snyk-deepcode": {
+    "descriptionFr": "Snyk Code et DeepCode AI assurent l'analyse statique de sécurité du code avec suggestions de corrections, contrôles IDE/CI et Agent Fix.",
+    "descriptionEn": "Snyk Code and DeepCode AI provide security static analysis and suggested fixes in IDEs, CI pipelines and Agent Fix workflows.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Analyse SAST contextuelle du code source",
+      "DeepCode AI / Agent Fix pour remédiations",
+      "Extensions IDE, CLI, pull requests et CI/CD"
+    ],
+    "featuresEn": [
+      "Contextual source-code SAST",
+      "DeepCode AI and Agent Fix remediation",
+      "IDE, CLI, pull-request and CI/CD integrations"
+    ],
+    "accessFr": "Cloud, IDE, CLI et pipelines CI/CD",
+    "accessEn": "Cloud, IDE, CLI and CI/CD pipelines",
+    "officialSources": [
+      {
+        "url": "https://snyk.io/code-checker/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://updates.snyk.io/snyk-code-august-update/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://docs.snyk.io/snyk-data-and-governance/how-snyk-incorporates-generative-ai-into-the-platform",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Snyk Code et DeepCode AI assurent l'analyse statique de sécurité du code avec suggestions de corrections, contrôles IDE/CI et Agent Fix.",
+      "audiences": [
+        "Responsables cybersécurité, équipes IT et développeurs",
+        "Équipes de gouvernance des risques et de la conformité"
+      ],
+      "cases": [
+        "Analyser un dépôt de démonstration et proposer des correctifs en testant les régressions avant fusion.",
+        "Évaluer les résultats et les faux positifs sur des données de test et conserver la trace des décisions."
+      ],
+      "advantages": [
+        "Analyse SAST contextuelle du code source",
+        "DeepCode AI / Agent Fix pour remédiations",
+        "Extensions IDE, CLI, pull requests et CI/CD"
+      ],
+      "limits": [
+        "DeepCode AI est une capacité de Snyk Code plutôt qu'une plateforme autonome. Certaines corrections passent désormais par Snyk Agent Fix ; les résultats et patchs peuvent être imparfaits, et les fichiers sensibles nécessitent contrôle de confidentialité.",
+        "Une classification IA peut se tromper. En cas de blocage, suspension de compte ou réponse sur un système de production, contrôler les permissions et prévoir une révision humaine."
+      ],
+      "gettingStarted": [
+        "Définir les systèmes, comptes et ressources autorisés à être inspectés.",
+        "Mesurer précision, latence, faux positifs, confidentialité et coûts ; déployer en détection seule avant d'activer une action de blocage."
+      ],
+      "examples": [
+        "Analyse le risque d'un agent ou d'un modèle de démonstration, relève les permissions excessives et propose des protections à tester.",
+        "Prépare une grille de validation : portée autorisée, sources, actions possibles, fausses alertes, droits et audit."
+      ],
+      "pricing": "Vérifier les contrats entreprise, licences par utilisateur, volume de données, événements, scans, API, crédits d'IA et modules additionnels auprès de l'éditeur.",
+      "privacy": "Réduire la collecte des logs et contenus personnels, protéger codes, secrets et messages, vérifier hébergement, rétention, flux transfrontaliers, habilitations et journalisation.",
+      "selection": [
+        "Choisir Snyk DeepCode selon le besoin (appsec), la télémétrie ou les médias pris en charge, les intégrations, la traçabilité, les faux positifs et le contrôle humain."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://snyk.io/code-checker/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://updates.snyk.io/snyk-code-august-update/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://docs.snyk.io/snyk-data-and-governance/how-snyk-incorporates-generative-ai-into-the-platform",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "wiz": {
+    "descriptionFr": "Plateforme Wiz CNAPP multicloud pour la sécurité des applications, infrastructures et charges IA, proposant inventaire des risques, chemins d'attaque et priorités de correction.",
+    "descriptionEn": "Wiz multicloud CNAPP platform securing applications, infrastructure and AI workloads with risk inventory, attack paths and remediation prioritization.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Cloud Security Graph et cartographie des accès",
+      "Risques du code au cloud et charges IA",
+      "Priorisation des chemins d'attaque et posture multicloud"
+    ],
+    "featuresEn": [
+      "Cloud Security Graph and access mapping",
+      "Code-to-cloud risk and AI workloads",
+      "Attack-path prioritization and multi-cloud posture"
+    ],
+    "accessFr": "Plateforme de cybersécurité entreprise et intégrations selon licence",
+    "accessEn": "Enterprise security platform and licensed integrations",
+    "officialSources": [
+      {
+        "url": "https://cloud.google.com/blog/products/identity-security/google-completes-acquisition-of-wiz/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.wiz.io/about",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme Wiz CNAPP multicloud pour la sécurité des applications, infrastructures et charges IA, proposant inventaire des risques, chemins d'attaque et priorités de correction.",
+      "audiences": [
+        "Responsables cybersécurité, équipes IT et développeurs",
+        "Équipes de gouvernance des risques et de la conformité"
+      ],
+      "cases": [
+        "Cartographier les accès excessifs d'un compte cloud et proposer la correction en vérifiant l'impact sur la production.",
+        "Évaluer les résultats et les faux positifs sur des données de test et conserver la trace des décisions."
+      ],
+      "advantages": [
+        "Cloud Security Graph et cartographie des accès",
+        "Risques du code au cloud et charges IA",
+        "Priorisation des chemins d'attaque et posture multicloud"
+      ],
+      "limits": [
+        "Google Cloud a finalisé l'acquisition de Wiz le 11 mars 2026. Wiz conserve sa marque et ses fonctions multicloud ; ne pas présenter le service comme limité à Google Cloud. Les scans et permissions doivent être configurés pour chaque fournisseur.",
+        "Une classification IA peut se tromper. En cas de blocage, suspension de compte ou réponse sur un système de production, contrôler les permissions et prévoir une révision humaine."
+      ],
+      "gettingStarted": [
+        "Définir les systèmes, comptes et ressources autorisés à être inspectés.",
+        "Mesurer précision, latence, faux positifs, confidentialité et coûts ; déployer en détection seule avant d'activer une action de blocage."
+      ],
+      "examples": [
+        "Analyse le risque d'un agent ou d'un modèle de démonstration, relève les permissions excessives et propose des protections à tester.",
+        "Prépare une grille de validation : portée autorisée, sources, actions possibles, fausses alertes, droits et audit."
+      ],
+      "pricing": "Vérifier les contrats entreprise, licences par utilisateur, volume de données, événements, scans, API, crédits d'IA et modules additionnels auprès de l'éditeur.",
+      "privacy": "Réduire la collecte des logs et contenus personnels, protéger codes, secrets et messages, vérifier hébergement, rétention, flux transfrontaliers, habilitations et journalisation.",
+      "selection": [
+        "Choisir Wiz selon le besoin (cloud_security), la télémétrie ou les médias pris en charge, les intégrations, la traçabilité, les faux positifs et le contrôle humain."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "acquired_by_google_cloud_active",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://cloud.google.com/blog/products/identity-security/google-completes-acquisition-of-wiz/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.wiz.io/about",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_acquired_active",
+    "name": "Wiz (Google Cloud)"
+  },
+  "protect-ai": {
+    "descriptionFr": "Protect AI est intégré à Palo Alto Networks depuis juillet 2025 : ses technologies de scan des modèles et de sécurité de la chaîne IA contribuent à Prisma AIRS.",
+    "descriptionEn": "Protect AI has been part of Palo Alto Networks since July 2025; its model scanning and AI supply-chain technologies support Prisma AIRS.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Prisma AIRS AI Model Security et scan de modèles",
+      "Analyse de code, formats et dépendances potentiellement malveillants",
+      "Contrôles de supply chain IA et intégrations CI/MLOps"
+    ],
+    "featuresEn": [
+      "Prisma AIRS AI Model Security and model scanning",
+      "Analysis of malicious code, formats and dependencies",
+      "AI supply-chain policies and CI/MLOps integrations"
+    ],
+    "accessFr": "Plateforme de sécurité IA, API/agents et contrat selon entreprise",
+    "accessEn": "AI security platform, agents/APIs and enterprise contract",
+    "officialSources": [
+      {
+        "url": "https://www.paloaltonetworks.com/company/press/2025/palo-alto-networks-completes-acquisition-of-protect-ai",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.paloaltonetworks.com/ai-security/ai-model-security",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://docs.paloaltonetworks.com/prisma-airs/getting-started/prisma-airs-overview",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Protect AI est intégré à Palo Alto Networks depuis juillet 2025 : ses technologies de scan des modèles et de sécurité de la chaîne IA contribuent à Prisma AIRS.",
+      "audiences": [
+        "Architectes IA, responsables AppSec et développeurs d'agents",
+        "Équipes de gouvernance des risques et de la conformité"
+      ],
+      "cases": [
+        "Scanner un modèle téléchargé avant l'ajout à un registre interne, contrôler les résultats et interdire les formats à risque selon la politique.",
+        "Évaluer les résultats et les faux positifs sur des données de test et conserver la trace des décisions."
+      ],
+      "advantages": [
+        "Prisma AIRS AI Model Security et scan de modèles",
+        "Analyse de code, formats et dépendances potentiellement malveillants",
+        "Contrôles de supply chain IA et intégrations CI/MLOps"
+      ],
+      "limits": [
+        "L'acquisition est finalisée depuis le 22 juillet 2025 ; ne pas traiter l'ancienne plateforme Protect AI comme une offre indépendante garantie. Un scan favorable ne certifie pas l'absence de backdoor, de biais ou de vulnérabilité au prompt injection.",
+        "Une classification IA peut se tromper. En cas de blocage, suspension de compte ou réponse sur un système de production, contrôler les permissions et prévoir une révision humaine."
+      ],
+      "gettingStarted": [
+        "Identifier les applications, modèles, agents, MCP et outils autorisés, puis décrire les menaces prioritaires.",
+        "Mesurer précision, latence, faux positifs, confidentialité et coûts ; déployer en détection seule avant d'activer une action de blocage."
+      ],
+      "examples": [
+        "Analyse le risque d'un agent ou d'un modèle de démonstration, relève les permissions excessives et propose des protections à tester.",
+        "Prépare une grille de validation : portée autorisée, sources, actions possibles, fausses alertes, droits et audit."
+      ],
+      "pricing": "Vérifier les contrats entreprise, licences par utilisateur, volume de données, événements, scans, API, crédits d'IA et modules additionnels auprès de l'éditeur.",
+      "privacy": "Réduire la collecte des logs et contenus personnels, protéger codes, secrets et messages, vérifier hébergement, rétention, flux transfrontaliers, habilitations et journalisation.",
+      "selection": [
+        "Choisir Protect AI selon le besoin (ai_security), la télémétrie ou les médias pris en charge, les intégrations, la traçabilité, les faux positifs et le contrôle humain."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "integrated_in_prisma_airs",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.paloaltonetworks.com/company/press/2025/palo-alto-networks-completes-acquisition-of-protect-ai",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.paloaltonetworks.com/ai-security/ai-model-security",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://docs.paloaltonetworks.com/prisma-airs/getting-started/prisma-airs-overview",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_integrated",
+    "name": "Protect AI / Prisma AIRS (Palo Alto Networks)",
+    "url": "https://www.paloaltonetworks.com/ai-security/ai-model-security"
+  },
+  "lakera-guard": {
+    "descriptionFr": "Lakera Guard, maintenant Check Point AI Security : API et garde-fous pour les agents LLM, protégeant contre injection de prompt, fuite de données et actions hors mandat.",
+    "descriptionEn": "Lakera Guard, now under Check Point AI Security, provides APIs and guardrails for LLM agents against prompt injection, data leakage and out-of-scope actions.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Guard API v2 avec contrôle des messages et outils",
+      "AI Agent Security : inventaire et notation de risques",
+      "Agent Behavior Defense et listes d'outils autorisés"
+    ],
+    "featuresEn": [
+      "Guard API v2 for messages and tools",
+      "AI Agent Security discovery and risk assessment",
+      "Agent Behavior Defense and tool allowlists"
+    ],
+    "accessFr": "Plateforme de sécurité IA, API/agents et contrat selon entreprise",
+    "accessEn": "AI security platform, agents/APIs and enterprise contract",
+    "officialSources": [
+      {
+        "url": "https://docs.lakera.ai/guard",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://docs.lakera.ai/docs/api",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://docs.lakera.ai/docs/agent-behavior-defense",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://trust.lakera.ai/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Lakera Guard, maintenant Check Point AI Security : API et garde-fous pour les agents LLM, protégeant contre injection de prompt, fuite de données et actions hors mandat.",
+      "audiences": [
+        "Architectes IA, responsables AppSec et développeurs d'agents",
+        "Équipes de gouvernance des risques et de la conformité"
+      ],
+      "cases": [
+        "Filtrer les entrées externes d'un assistant de support et exiger une validation avant tout appel d'outil à effet financier.",
+        "Évaluer les résultats et les faux positifs sur des données de test et conserver la trace des décisions."
+      ],
+      "advantages": [
+        "Guard API v2 avec contrôle des messages et outils",
+        "AI Agent Security : inventaire et notation de risques",
+        "Agent Behavior Defense et listes d'outils autorisés"
+      ],
+      "limits": [
+        "Check Point a acquis Lakera en octobre 2025. Agent Behavior Defense comprend un détecteur Dangerous Deviation encore indiqué bêta ; commencer en mode Detect, évaluer les faux positifs et la latence puis activer Enforce. La détection n'est pas infaillible.",
+        "Une classification IA peut se tromper. En cas de blocage, suspension de compte ou réponse sur un système de production, contrôler les permissions et prévoir une révision humaine."
+      ],
+      "gettingStarted": [
+        "Identifier les applications, modèles, agents, MCP et outils autorisés, puis décrire les menaces prioritaires.",
+        "Mesurer précision, latence, faux positifs, confidentialité et coûts ; déployer en détection seule avant d'activer une action de blocage."
+      ],
+      "examples": [
+        "Analyse le risque d'un agent ou d'un modèle de démonstration, relève les permissions excessives et propose des protections à tester.",
+        "Prépare une grille de validation : portée autorisée, sources, actions possibles, fausses alertes, droits et audit."
+      ],
+      "pricing": "Vérifier les contrats entreprise, licences par utilisateur, volume de données, événements, scans, API, crédits d'IA et modules additionnels auprès de l'éditeur.",
+      "privacy": "Réduire la collecte des logs et contenus personnels, protéger codes, secrets et messages, vérifier hébergement, rétention, flux transfrontaliers, habilitations et journalisation.",
+      "selection": [
+        "Choisir Lakera Guard selon le besoin (ai_security), la télémétrie ou les médias pris en charge, les intégrations, la traçabilité, les faux positifs et le contrôle humain."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "part_of_checkpoint_active",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.lakera.ai/guard",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://docs.lakera.ai/docs/api",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://docs.lakera.ai/docs/agent-behavior-defense",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://trust.lakera.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_acquired_active",
+    "name": "Lakera Guard (Check Point AI Security)",
+    "url": "https://docs.lakera.ai/guard"
+  },
+  "hiddenlayer": {
+    "descriptionFr": "Plateforme HiddenLayer de sécurité des modèles et applications IA, du red teaming au contrôle de l'exécution des agents et assistants de programmation.",
+    "descriptionEn": "HiddenLayer AI security platform spanning model risk, adversarial testing and runtime controls for agents and coding assistants.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "AI Model Scanner et tests adversariaux",
+      "Agentic Runtime Security et surveillance",
+      "Agent Harness Security pour agents de code"
+    ],
+    "featuresEn": [
+      "AI model scanner and adversarial testing",
+      "Agentic Runtime Security and monitoring",
+      "Agent Harness Security for coding agents"
+    ],
+    "accessFr": "Plateforme de sécurité IA, API/agents et contrat selon entreprise",
+    "accessEn": "AI security platform, agents/APIs and enterprise contract",
+    "officialSources": [
+      {
+        "url": "https://www.hiddenlayer.com/newsroom",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.hiddenlayer.com/news/hiddenlayer-100m-series-b-ai-security",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme HiddenLayer de sécurité des modèles et applications IA, du red teaming au contrôle de l'exécution des agents et assistants de programmation.",
+      "audiences": [
+        "Architectes IA, responsables AppSec et développeurs d'agents",
+        "Équipes de gouvernance des risques et de la conformité"
+      ],
+      "cases": [
+        "Surveiller les actions d'un agent de programmation dans un dépôt de test et bloquer une commande non autorisée.",
+        "Évaluer les résultats et les faux positifs sur des données de test et conserver la trace des décisions."
+      ],
+      "advantages": [
+        "AI Model Scanner et tests adversariaux",
+        "Agentic Runtime Security et surveillance",
+        "Agent Harness Security pour agents de code"
+      ],
+      "limits": [
+        "Agent Harness Security a été annoncé en août 2026 ; son installation dépend des intégrations et hooks disponibles. Aucun mécanisme ne suffit à supprimer tous les risques liés aux permissions, secrets et commandes dangereuses.",
+        "Une classification IA peut se tromper. En cas de blocage, suspension de compte ou réponse sur un système de production, contrôler les permissions et prévoir une révision humaine."
+      ],
+      "gettingStarted": [
+        "Identifier les applications, modèles, agents, MCP et outils autorisés, puis décrire les menaces prioritaires.",
+        "Mesurer précision, latence, faux positifs, confidentialité et coûts ; déployer en détection seule avant d'activer une action de blocage."
+      ],
+      "examples": [
+        "Analyse le risque d'un agent ou d'un modèle de démonstration, relève les permissions excessives et propose des protections à tester.",
+        "Prépare une grille de validation : portée autorisée, sources, actions possibles, fausses alertes, droits et audit."
+      ],
+      "pricing": "Vérifier les contrats entreprise, licences par utilisateur, volume de données, événements, scans, API, crédits d'IA et modules additionnels auprès de l'éditeur.",
+      "privacy": "Réduire la collecte des logs et contenus personnels, protéger codes, secrets et messages, vérifier hébergement, rétention, flux transfrontaliers, habilitations et journalisation.",
+      "selection": [
+        "Choisir HiddenLayer selon le besoin (ai_security), la télémétrie ou les médias pris en charge, les intégrations, la traçabilité, les faux positifs et le contrôle humain."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.hiddenlayer.com/newsroom",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.hiddenlayer.com/news/hiddenlayer-100m-series-b-ai-security",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "prompt-security": {
+    "descriptionFr": "Prompt Security appartient à SentinelOne depuis 2025 et protège l'usage de l'IA par les salariés, développeurs, applications et agents : inventaire, prévention des fuites et garde-fous.",
+    "descriptionEn": "Prompt Security has been part of SentinelOne since 2025 and governs enterprise AI use across employees, developers, apps and agents via discovery, DLP and runtime controls.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Inventaire Shadow AI et politiques d'usage",
+      "DLP sur prompts, réponses et assistants de code",
+      "Sécurité des agents, MCP et applications IA"
+    ],
+    "featuresEn": [
+      "Shadow AI inventory and usage policies",
+      "DLP on prompts, outputs and coding assistants",
+      "Agent, MCP and AI app security"
+    ],
+    "accessFr": "Plateforme de sécurité IA, API/agents et contrat selon entreprise",
+    "accessEn": "AI security platform, agents/APIs and enterprise contract",
+    "officialSources": [
+      {
+        "url": "https://www.sentinelone.com/platform/securing-ai-prompt/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.sentinelone.com/press/sentinelone-to-acquire-prompt-security-to-advance-genai-security/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Prompt Security appartient à SentinelOne depuis 2025 et protège l'usage de l'IA par les salariés, développeurs, applications et agents : inventaire, prévention des fuites et garde-fous.",
+      "audiences": [
+        "Architectes IA, responsables AppSec et développeurs d'agents",
+        "Équipes de gouvernance des risques et de la conformité"
+      ],
+      "cases": [
+        "Bloquer la transmission de données clients sensibles à un service IA non autorisé, avec journalisation et mécanisme de recours.",
+        "Évaluer les résultats et les faux positifs sur des données de test et conserver la trace des décisions."
+      ],
+      "advantages": [
+        "Inventaire Shadow AI et politiques d'usage",
+        "DLP sur prompts, réponses et assistants de code",
+        "Sécurité des agents, MCP et applications IA"
+      ],
+      "limits": [
+        "SentinelOne a finalisé l'acquisition de Prompt Security le 5 septembre 2025. Le produit est désormais dans l'écosystème SentinelOne ; vérifier versions des connecteurs, portée des règles et faux positifs avant blocage.",
+        "Une classification IA peut se tromper. En cas de blocage, suspension de compte ou réponse sur un système de production, contrôler les permissions et prévoir une révision humaine."
+      ],
+      "gettingStarted": [
+        "Identifier les applications, modèles, agents, MCP et outils autorisés, puis décrire les menaces prioritaires.",
+        "Mesurer précision, latence, faux positifs, confidentialité et coûts ; déployer en détection seule avant d'activer une action de blocage."
+      ],
+      "examples": [
+        "Analyse le risque d'un agent ou d'un modèle de démonstration, relève les permissions excessives et propose des protections à tester.",
+        "Prépare une grille de validation : portée autorisée, sources, actions possibles, fausses alertes, droits et audit."
+      ],
+      "pricing": "Vérifier les contrats entreprise, licences par utilisateur, volume de données, événements, scans, API, crédits d'IA et modules additionnels auprès de l'éditeur.",
+      "privacy": "Réduire la collecte des logs et contenus personnels, protéger codes, secrets et messages, vérifier hébergement, rétention, flux transfrontaliers, habilitations et journalisation.",
+      "selection": [
+        "Choisir Prompt Security selon le besoin (ai_security), la télémétrie ou les médias pris en charge, les intégrations, la traçabilité, les faux positifs et le contrôle humain."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "part_of_sentinelone_active",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.sentinelone.com/platform/securing-ai-prompt/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.sentinelone.com/press/sentinelone-to-acquire-prompt-security-to-advance-genai-security/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_acquired_active",
+    "name": "Prompt Security (SentinelOne)",
+    "url": "https://www.sentinelone.com/platform/securing-ai-prompt/"
+  },
+  "robust-intelligence": {
+    "descriptionFr": "Robust Intelligence est une ancienne entreprise de sécurité IA acquise par Cisco en 2024 ; ses technologies sont intégrées à Cisco AI Defense et Cisco Foundation AI.",
+    "descriptionEn": "Robust Intelligence is a former AI security company acquired by Cisco in 2024, with technology now underpinning Cisco AI Defense and Cisco Foundation AI.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Cisco AI Defense : protection des applications IA",
+      "Red teaming et évaluation des risques des modèles",
+      "Contrôles d'exécution et prévention des comportements à risque"
+    ],
+    "featuresEn": [
+      "Cisco AI Defense for AI application protection",
+      "Model risk assessment and red teaming",
+      "Runtime defenses against unsafe behavior"
+    ],
+    "accessFr": "Plateforme de sécurité IA, API/agents et contrat selon entreprise",
+    "accessEn": "AI security platform, agents/APIs and enterprise contract",
+    "officialSources": [
+      {
+        "url": "https://www.cisco.com/site/us/en/products/security/ai-defense/robust-intelligence-is-part-of-cisco/index.html",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.cisco.com/site/us/en/products/security/ai-defense/index.html",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Robust Intelligence est une ancienne entreprise de sécurité IA acquise par Cisco en 2024 ; ses technologies sont intégrées à Cisco AI Defense et Cisco Foundation AI.",
+      "audiences": [
+        "Architectes IA, responsables AppSec et développeurs d'agents",
+        "Équipes de gouvernance des risques et de la conformité"
+      ],
+      "cases": [
+        "Tester en environnement isolé les règles de sûreté d'un chatbot, puis surveiller ses réponses et outils en production.",
+        "Évaluer les résultats et les faux positifs sur des données de test et conserver la trace des décisions."
+      ],
+      "advantages": [
+        "Cisco AI Defense : protection des applications IA",
+        "Red teaming et évaluation des risques des modèles",
+        "Contrôles d'exécution et prévention des comportements à risque"
+      ],
+      "limits": [
+        "Cisco a acquis Robust Intelligence en octobre 2024 ; il s'agit désormais d'une technologie de Cisco AI Defense, non d'un éditeur indépendant à contacter. Vérifier les licences, outils pris en charge et règles de protection en production.",
+        "Une classification IA peut se tromper. En cas de blocage, suspension de compte ou réponse sur un système de production, contrôler les permissions et prévoir une révision humaine."
+      ],
+      "gettingStarted": [
+        "Identifier les applications, modèles, agents, MCP et outils autorisés, puis décrire les menaces prioritaires.",
+        "Mesurer précision, latence, faux positifs, confidentialité et coûts ; déployer en détection seule avant d'activer une action de blocage."
+      ],
+      "examples": [
+        "Analyse le risque d'un agent ou d'un modèle de démonstration, relève les permissions excessives et propose des protections à tester.",
+        "Prépare une grille de validation : portée autorisée, sources, actions possibles, fausses alertes, droits et audit."
+      ],
+      "pricing": "Vérifier les contrats entreprise, licences par utilisateur, volume de données, événements, scans, API, crédits d'IA et modules additionnels auprès de l'éditeur.",
+      "privacy": "Réduire la collecte des logs et contenus personnels, protéger codes, secrets et messages, vérifier hébergement, rétention, flux transfrontaliers, habilitations et journalisation.",
+      "selection": [
+        "Choisir Robust Intelligence selon le besoin (ai_security), la télémétrie ou les médias pris en charge, les intégrations, la traçabilité, les faux positifs et le contrôle humain."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "integrated_in_cisco_ai_defense",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.cisco.com/site/us/en/products/security/ai-defense/robust-intelligence-is-part-of-cisco/index.html",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.cisco.com/site/us/en/products/security/ai-defense/index.html",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_integrated",
+    "name": "Cisco AI Defense (Robust Intelligence)",
+    "url": "https://www.cisco.com/site/us/en/products/security/ai-defense/robust-intelligence-is-part-of-cisco/index.html"
+  },
+  "palo-alto-cortex-xsiam": {
+    "descriptionFr": "Cortex XSIAM 4.0 de Palo Alto Networks unifie l'analyse de télémétrie SOC, la détection, l'investigation et les agents de réponse, avec prise en compte des ressources IA de l'entreprise.",
+    "descriptionEn": "Palo Alto Networks Cortex XSIAM 4.0 unifies SOC telemetry, detection, investigation and response agents, including enterprise AI assets.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "XSIAM 4.0 : agents de réponse avec contexte d'entreprise",
+      "Recherche fédérée et corrélation du SOC",
+      "Intégration Prisma AIRS et Cortex Exposure Management"
+    ],
+    "featuresEn": [
+      "XSIAM 4.0 enterprise-aware response agents",
+      "Federated search and SOC correlation",
+      "Prisma AIRS and Cortex Exposure Management integration"
+    ],
+    "accessFr": "Plateforme de cybersécurité entreprise et intégrations selon licence",
+    "accessEn": "Enterprise security platform and licensed integrations",
+    "officialSources": [
+      {
+        "url": "https://www.paloaltonetworks.com/cortex/xsiam4-0",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.paloaltonetworks.com/blog/security-operations/cortex-xsiam-4-0-ai-knows-your-enterprise/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Cortex XSIAM 4.0 de Palo Alto Networks unifie l'analyse de télémétrie SOC, la détection, l'investigation et les agents de réponse, avec prise en compte des ressources IA de l'entreprise.",
+      "audiences": [
+        "Analystes SOC, responsables SecOps et réponse à incident",
+        "Équipes de gouvernance des risques et de la conformité"
+      ],
+      "cases": [
+        "Regrouper les événements d'un incident simulé et soumettre une recommandation de confinement à une équipe SOC.",
+        "Évaluer les résultats et les faux positifs sur des données de test et conserver la trace des décisions."
+      ],
+      "advantages": [
+        "XSIAM 4.0 : agents de réponse avec contexte d'entreprise",
+        "Recherche fédérée et corrélation du SOC",
+        "Intégration Prisma AIRS et Cortex Exposure Management"
+      ],
+      "limits": [
+        "XSIAM 4.0 a été présenté en novembre 2026 ; vérifier versions, modalités de déploiement et modules réellement inclus dans le contrat. La recherche fédérée et l'automatisation nécessitent télémétrie, droits et garde-fous.",
+        "Une classification IA peut se tromper. En cas de blocage, suspension de compte ou réponse sur un système de production, contrôler les permissions et prévoir une révision humaine."
+      ],
+      "gettingStarted": [
+        "Connecter uniquement des sources de télémétrie autorisées et définir les rôles SOC.",
+        "Mesurer précision, latence, faux positifs, confidentialité et coûts ; déployer en détection seule avant d'activer une action de blocage."
+      ],
+      "examples": [
+        "Sur une alerte simulée, résume les preuves, identifie les systèmes concernés et propose une mesure de limitation nécessitant approbation.",
+        "Prépare une grille de validation : portée autorisée, sources, actions possibles, fausses alertes, droits et audit."
+      ],
+      "pricing": "Vérifier les contrats entreprise, licences par utilisateur, volume de données, événements, scans, API, crédits d'IA et modules additionnels auprès de l'éditeur.",
+      "privacy": "Réduire la collecte des logs et contenus personnels, protéger codes, secrets et messages, vérifier hébergement, rétention, flux transfrontaliers, habilitations et journalisation.",
+      "selection": [
+        "Choisir Palo Alto Cortex XSIAM selon le besoin (soc), la télémétrie ou les médias pris en charge, les intégrations, la traçabilité, les faux positifs et le contrôle humain."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "xsiam_4_release",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.paloaltonetworks.com/cortex/xsiam4-0",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.paloaltonetworks.com/blog/security-operations/cortex-xsiam-4-0-ai-knows-your-enterprise/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_release_updated"
+  },
+  "reality-defender": {
+    "descriptionFr": "Plateforme de détection des médias synthétiques, voix clonées et deepfakes pour appels, réunions, pièces jointes et vérification de contenu via API.",
+    "descriptionEn": "Synthetic-media and deepfake detection across calls, meetings, uploaded content and APIs for video, audio and image checks.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "RealCall et détection des voix artificielles",
+      "RealMeeting pour réunions et RealScan",
+      "RealAPI et scores multimodaux"
+    ],
+    "featuresEn": [
+      "RealCall and synthetic voice detection",
+      "RealMeeting and RealScan",
+      "RealAPI and multimodal detection scores"
+    ],
+    "accessFr": "Service web et API selon le modèle et le forfait",
+    "accessEn": "Web service and APIs, model/plan dependent",
+    "officialSources": [
+      {
+        "url": "https://www.realitydefender.com/platform/technology",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.realitydefender.com/deepfake-video-detection",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.realitydefender.com/faq",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de détection des médias synthétiques, voix clonées et deepfakes pour appels, réunions, pièces jointes et vérification de contenu via API.",
+      "audiences": [
+        "Équipes de modération, fraude et vérification de médias",
+        "Équipes de gouvernance des risques et de la conformité"
+      ],
+      "cases": [
+        "Soumettre une vidéo suspecte à une analyse, puis effectuer une vérification d'identité par un canal de confiance indépendant.",
+        "Évaluer les résultats et les faux positifs sur des données de test et conserver la trace des décisions."
+      ],
+      "advantages": [
+        "RealCall et détection des voix artificielles",
+        "RealMeeting pour réunions et RealScan",
+        "RealAPI et scores multimodaux"
+      ],
+      "limits": [
+        "Un score de contenu manipulé ne prouve ni l'identité de la personne ni une intention frauduleuse ; les faux positifs et faux négatifs dépendent de la qualité, des filtres et du type de média. Prévoir des vérifications indépendantes.",
+        "Une classification IA peut se tromper. En cas de blocage, suspension de compte ou réponse sur un système de production, contrôler les permissions et prévoir une révision humaine."
+      ],
+      "gettingStarted": [
+        "Constituer un corpus de médias de test avec des exemples authentiques et synthétiques.",
+        "Mesurer précision, latence, faux positifs, confidentialité et coûts ; déployer en détection seule avant d'activer une action de blocage."
+      ],
+      "examples": [
+        "Évalue ce média pour d'éventuels signes de manipulation ; rends un niveau d'incertitude et demande une seconde vérification indépendante.",
+        "Prépare une grille de validation : portée autorisée, sources, actions possibles, fausses alertes, droits et audit."
+      ],
+      "pricing": "Vérifier les contrats entreprise, licences par utilisateur, volume de données, événements, scans, API, crédits d'IA et modules additionnels auprès de l'éditeur.",
+      "privacy": "Réduire la collecte des logs et contenus personnels, protéger codes, secrets et messages, vérifier hébergement, rétention, flux transfrontaliers, habilitations et journalisation.",
+      "selection": [
+        "Choisir Reality Defender selon le besoin (media_authenticity), la télémétrie ou les médias pris en charge, les intégrations, la traçabilité, les faux positifs et le contrôle humain."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.realitydefender.com/platform/technology",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.realitydefender.com/deepfake-video-detection",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.realitydefender.com/faq",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "hive-moderation": {
+    "descriptionFr": "Hive Moderation propose une suite de modération automatique des textes, images, vidéos et audio, ainsi que de détection des contenus générés par IA et de deepfakes.",
+    "descriptionEn": "Hive Moderation provides automated moderation of text, images, video and audio plus AI-generated media and deepfake detection.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Modération des contenus image, vidéo, texte et audio",
+      "Détection de médias et textes générés par IA",
+      "API, tableaux de bord, règles de revue et extension"
+    ],
+    "featuresEn": [
+      "Image, video, text and audio moderation",
+      "AI-generated media and text detection",
+      "APIs, moderation dashboards and review workflows"
+    ],
+    "accessFr": "Service web et API selon le modèle et le forfait",
+    "accessEn": "Web service and APIs, model/plan dependent",
+    "officialSources": [
+      {
+        "url": "https://hivemoderation.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://docs.thehive.ai/docs/ai-generated-content-detection",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://thehive.ai/docs/nsfw",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Hive Moderation propose une suite de modération automatique des textes, images, vidéos et audio, ainsi que de détection des contenus générés par IA et de deepfakes.",
+      "audiences": [
+        "Équipes de modération, fraude et vérification de médias",
+        "Équipes de gouvernance des risques et de la conformité"
+      ],
+      "cases": [
+        "Repérer les médias suspects d'une communauté en ligne et soumettre les signalements incertains à des modérateurs.",
+        "Évaluer les résultats et les faux positifs sur des données de test et conserver la trace des décisions."
+      ],
+      "advantages": [
+        "Modération des contenus image, vidéo, texte et audio",
+        "Détection de médias et textes générés par IA",
+        "API, tableaux de bord, règles de revue et extension"
+      ],
+      "limits": [
+        "Les classificateurs fournissent des probabilités, non des preuves irréfutables ; calibrer les seuils, examiner les biais par langue et contenu, prévoir recours et supervision humaine. Certaines API exigent un contrat entreprise.",
+        "Une classification IA peut se tromper. En cas de blocage, suspension de compte ou réponse sur un système de production, contrôler les permissions et prévoir une révision humaine."
+      ],
+      "gettingStarted": [
+        "Constituer un corpus de médias de test avec des exemples authentiques et synthétiques.",
+        "Mesurer précision, latence, faux positifs, confidentialité et coûts ; déployer en détection seule avant d'activer une action de blocage."
+      ],
+      "examples": [
+        "Évalue ce média pour d'éventuels signes de manipulation ; rends un niveau d'incertitude et demande une seconde vérification indépendante.",
+        "Prépare une grille de validation : portée autorisée, sources, actions possibles, fausses alertes, droits et audit."
+      ],
+      "pricing": "Vérifier les contrats entreprise, licences par utilisateur, volume de données, événements, scans, API, crédits d'IA et modules additionnels auprès de l'éditeur.",
+      "privacy": "Réduire la collecte des logs et contenus personnels, protéger codes, secrets et messages, vérifier hébergement, rétention, flux transfrontaliers, habilitations et journalisation.",
+      "selection": [
+        "Choisir Hive Moderation selon le besoin (media_authenticity), la télémétrie ou les médias pris en charge, les intégrations, la traçabilité, les faux positifs et le contrôle humain."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://hivemoderation.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://docs.thehive.ai/docs/ai-generated-content-detection",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://thehive.ai/docs/nsfw",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed",
+    "url": "https://hivemoderation.com/"
+  }
+}
