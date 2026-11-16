@@ -1,0 +1,1325 @@
+{
+  "zapier": {
+    "descriptionFr": "Plateforme d'automatisation reliant applications, données et modèles IA par des workflows déclencheur-action et des agents.",
+    "descriptionEn": "Automation platform connecting apps, data and AI models through trigger-action workflows and agents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Zaps déclencheur-action",
+      "Tables et automatisation IA",
+      "Agents et intégrations applicatives"
+    ],
+    "featuresEn": [
+      "Trigger-action Zaps",
+      "Tables and AI automations",
+      "Agents and app integrations"
+    ],
+    "accessFr": "Service web, API et applications selon offre",
+    "accessEn": "Web service, APIs and apps by plan",
+    "officialSources": [
+      {
+        "url": "https://zapier.com/pricing",
+        "checkedAt": "2026-11-15",
+        "scope": "features_and_pricing"
+      },
+      {
+        "url": "https://help.zapier.com/hc/en-us/articles/37518970271245-What-is-Zapier",
+        "checkedAt": "2026-11-16",
+        "scope": "capabilities_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme d'automatisation reliant applications, données et modèles IA par des workflows déclencheur-action et des agents.",
+      "audiences": [
+        "Équipes non techniques",
+        "Marketing et opérations",
+        "Entreprises connectant plusieurs SaaS",
+        "Équipes opérationnelles et responsables de processus",
+        "Développeurs ou utilisateurs sans code selon l'outil"
+      ],
+      "cases": [
+        "Transférer des données entre applications",
+        "Déclencher des workflows à partir d’événements",
+        "Enrichir un flux avec un modèle IA",
+        "Créer des formulaires et tables reliés aux automatisations",
+        "Lorsqu'un formulaire reçoit une demande, créer un ticket puis proposer un brouillon de réponse à valider.",
+        "Contrôler l'historique d'exécution, les erreurs et les permissions sur chaque connecteur."
+      ],
+      "advantages": [
+        "Nombreux connecteurs d’applications",
+        "Flux visuels avec déclencheurs et actions",
+        "MCP, assistants et outils IA au sein de la plateforme",
+        "Zaps déclencheur-action",
+        "Tables et automatisation IA",
+        "Agents et intégrations applicatives"
+      ],
+      "limits": [
+        "Les tâches peuvent générer des coûts croissants",
+        "Attention aux boucles et duplications d’automatisation",
+        "Droits des applications connectées à limiter",
+        "Les tâches, crédits et fonctionnalités diffèrent par formule ; surveiller les boucles et les droits des comptes connectés.",
+        "Les intégrations peuvent échouer, être déclenchées en double ou provoquer des actions non voulues ; prévoir validation et mécanismes de reprise."
+      ],
+      "gettingStarted": [
+        "Choisir un processus répétitif et réversible, tester sur des données fictives, observer journaux et quota avant activation.",
+        "Lister les événements déclencheurs, les applications et les actions autorisées ; définir un résultat mesurable.",
+        "Tester avec des comptes de démonstration, limiter les scopes d'accès, prévoir une approbation avant toute action irréversible et surveiller les erreurs."
+      ],
+      "examples": [
+        "Quand un formulaire est reçu, créer une ligne dans une table et notifier une équipe.",
+        "Qualifier des demandes entrantes sans envoyer de réponse automatique.",
+        "Quand une demande arrive, classifie-la, crée un dossier, rédige un accusé de réception puis attends une validation avant tout envoi.",
+        "Conçois un workflow avec gestion des doublons, journal d'audit, alerte en cas d'échec et plafond de coût mensuel."
+      ],
+      "pricing": "Gratuit avec tâches mensuelles limitées; paliers payants facturés selon volume et fonctions de l’orchestration.",
+      "privacy": "Examiner l’accès aux applications connectées et éviter la circulation inutile de données personnelles.",
+      "selection": [
+        "Indiqué pour connecter rapidement des SaaS; n8n apporte aussi l’option d’autohébergement.",
+        "Choisir Zapier selon le besoin (no-code), les intégrations, la traçabilité, le niveau de contrôle, la maintenance et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://zapier.com/pricing",
+          "type": "official",
+          "reviewedAt": "2026-11-15"
+        },
+        {
+          "url": "https://help.zapier.com/hc/en-us/articles/37518970271245-What-is-Zapier",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "make": {
+    "descriptionFr": "Constructeur visuel de scénarios d'automatisation intégrant agents IA, applications, branchements et outils de supervision.",
+    "descriptionEn": "Visual automation scenario builder combining AI agents, apps, branches and monitoring tools.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Scénarios visuels et branchements",
+      "Make AI Agents",
+      "Panneau de raisonnement et approbations"
+    ],
+    "featuresEn": [
+      "Visual scenarios and branches",
+      "Make AI Agents",
+      "Reasoning panel and approvals"
+    ],
+    "accessFr": "Service web, API et applications selon offre",
+    "accessEn": "Web service, APIs and apps by plan",
+    "officialSources": [
+      {
+        "url": "https://www.make.com/en/pricing",
+        "checkedAt": "2026-11-15",
+        "scope": "features_and_pricing"
+      },
+      {
+        "url": "https://www.make.com/ai-agents",
+        "checkedAt": "2026-11-16",
+        "scope": "capabilities_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Constructeur visuel de scénarios d'automatisation intégrant agents IA, applications, branchements et outils de supervision.",
+      "audiences": [
+        "Responsables opérationnels",
+        "Intégrateurs no-code",
+        "Équipes marketing et données",
+        "Équipes opérationnelles et responsables de processus",
+        "Développeurs ou utilisateurs sans code selon l'outil"
+      ],
+      "cases": [
+        "Construire des scénarios déclenchés par événements",
+        "Transformer et router des données",
+        "Appeler des services IA dans un workflow",
+        "Superviser des opérations et erreurs",
+        "Relier CRM, messagerie et base de données avec contrôle humain avant écriture dans le CRM.",
+        "Contrôler l'historique d'exécution, les erreurs et les permissions sur chaque connecteur."
+      ],
+      "advantages": [
+        "Éditeur visuel de scénarios",
+        "Nombreuses intégrations et outils IA",
+        "Fonctions de transformation, de code et de suivi selon formule",
+        "Scénarios visuels et branchements",
+        "Make AI Agents",
+        "Panneau de raisonnement et approbations"
+      ],
+      "limits": [
+        "La consommation de crédits et les opérations doivent être anticipées",
+        "La maintenance peut devenir complexe sur de grands scénarios",
+        "Des erreurs de branchement peuvent causer des actions involontaires",
+        "Les agents complètent les scénarios déterministes mais leurs décisions restent incertaines ; analyser les opérations et coûts d'exécution.",
+        "Les intégrations peuvent échouer, être déclenchées en double ou provoquer des actions non voulues ; prévoir validation et mécanismes de reprise."
+      ],
+      "gettingStarted": [
+        "Dessiner les étapes d’un scénario, utiliser un jeu de test, activer les logs et définir un traitement des erreurs.",
+        "Lister les événements déclencheurs, les applications et les actions autorisées ; définir un résultat mesurable.",
+        "Tester avec des comptes de démonstration, limiter les scopes d'accès, prévoir une approbation avant toute action irréversible et surveiller les erreurs."
+      ],
+      "examples": [
+        "Importer des réponses à un questionnaire, normaliser les colonnes et générer une synthèse.",
+        "Créer un parcours de validation avant publication d’une fiche.",
+        "Quand une demande arrive, classifie-la, crée un dossier, rédige un accusé de réception puis attends une validation avant tout envoi.",
+        "Conçois un workflow avec gestion des doublons, journal d'audit, alerte en cas d'échec et plafond de coût mensuel."
+      ],
+      "pricing": "Free, Core, Pro, Teams et Enterprise; facturation selon consommation et capacités du scénario.",
+      "privacy": "Limiter les droits des connexions et distinguer les environnements de test et de production.",
+      "selection": [
+        "Convient aux scénarios visuels sophistiqués; Zapier met l’accent sur sa vaste bibliothèque d’intégrations.",
+        "Choisir Make selon le besoin (no-code), les intégrations, la traçabilité, le niveau de contrôle, la maintenance et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.make.com/en/pricing",
+          "type": "official",
+          "reviewedAt": "2026-11-15"
+        },
+        {
+          "url": "https://www.make.com/ai-agents",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "n8n": {
+    "descriptionFr": "Environnement d'automatisation sous licence fair-code, proposant workflows visuels, nœuds IA et exécution cloud ou auto-hébergée.",
+    "descriptionEn": "Fair-code automation tool with visual workflows, AI nodes and hosted or self-hosted options.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Workflows à nœuds",
+      "Nœuds IA et code personnalisé",
+      "Cloud et auto-hébergement"
+    ],
+    "featuresEn": [
+      "Node-based workflows",
+      "AI nodes and custom code",
+      "Cloud and self-hosting"
+    ],
+    "accessFr": "Service web, API et applications selon offre",
+    "accessEn": "Web service, APIs and apps by plan",
+    "officialSources": [
+      {
+        "url": "https://n8n.io/pricing/",
+        "checkedAt": "2026-11-15",
+        "scope": "features_and_pricing"
+      },
+      {
+        "url": "https://docs.n8n.io/",
+        "checkedAt": "2026-11-16",
+        "scope": "capabilities_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Environnement d'automatisation sous licence fair-code, proposant workflows visuels, nœuds IA et exécution cloud ou auto-hébergée.",
+      "audiences": [
+        "Développeurs et intégrateurs",
+        "Équipes cherchant la maîtrise de l’hébergement",
+        "Services métiers automatisant des données",
+        "Équipes opérationnelles et responsables de processus",
+        "Développeurs ou utilisateurs sans code selon l'outil"
+      ],
+      "cases": [
+        "Créer un agent reliant services et modèles",
+        "Automatiser collecte, transformation et publication",
+        "Héberger des processus en interne",
+        "Déclencher des workflows avec contrôles d’erreur",
+        "Automatiser une veille documentaire entre API, tableur et notifications avec journalisation.",
+        "Contrôler l'historique d'exécution, les erreurs et les permissions sur chaque connecteur."
+      ],
+      "advantages": [
+        "Éditeur visuel et nœuds IA",
+        "Community Edition autohébergeable",
+        "Tarification cloud basée sur les exécutions de workflow plutôt que sur le nombre d’étapes",
+        "Workflows à nœuds",
+        "Nœuds IA et code personnalisé",
+        "Cloud et auto-hébergement"
+      ],
+      "limits": [
+        "Autohébergement demande compétences serveur, sauvegarde et sécurité",
+        "Gestion des identifiants et des permissions indispensable",
+        "Exécutions concurrentes et quotas variables selon offre",
+        "L'auto-hébergement implique mises à jour et protection des accès ; fair-code ne signifie pas licence open source permissive.",
+        "Les intégrations peuvent échouer, être déclenchées en double ou provoquer des actions non voulues ; prévoir validation et mécanismes de reprise."
+      ],
+      "gettingStarted": [
+        "Créer un workflow non destructif, valider chaque sortie sur des données fictives, puis ajouter gestion d’erreurs et secrets protégés.",
+        "Lister les événements déclencheurs, les applications et les actions autorisées ; définir un résultat mesurable.",
+        "Tester avec des comptes de démonstration, limiter les scopes d'accès, prévoir une approbation avant toute action irréversible et surveiller les erreurs."
+      ],
+      "examples": [
+        "Surveille une liste de sources officielles et prépare un brouillon d’actualisation.",
+        "Reçois un formulaire puis crée une synthèse validée avant diffusion.",
+        "Quand une demande arrive, classifie-la, crée un dossier, rédige un accusé de réception puis attends une validation avant tout envoi.",
+        "Conçois un workflow avec gestion des doublons, journal d'audit, alerte en cas d'échec et plafond de coût mensuel."
+      ],
+      "pricing": "Community Edition disponible en autohébergement; cloud Starter annoncé à 20 EUR/mois en facturation annuelle et Pro à 50 EUR/mois sur la grille consultée.",
+      "privacy": "La confidentialité dépend de l’hébergement, des intégrations et des modèles distants utilisés.",
+      "selection": [
+        "Très intéressant pour des workflows personnalisés à contrôler; prévoir la maintenance technique.",
+        "Choisir n8n selon le besoin (low-code), les intégrations, la traçabilité, le niveau de contrôle, la maintenance et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://n8n.io/pricing/",
+          "type": "official",
+          "reviewedAt": "2026-11-15"
+        },
+        {
+          "url": "https://docs.n8n.io/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "pipedream": {
+    "descriptionFr": "Plateforme d'intégration destinée aux développeurs, associant workflows événementiels, fonctions Python/JavaScript et authentification d'API gérée.",
+    "descriptionEn": "Developer integration platform combining event-driven workflows, Python/JavaScript code and managed API authentication.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Déclencheurs événementiels",
+      "Étapes de code et actions prédéfinies",
+      "Connect et authentification gérée"
+    ],
+    "featuresEn": [
+      "Event-driven triggers",
+      "Code steps and prebuilt actions",
+      "Managed Connect authentication"
+    ],
+    "accessFr": "API, code et cloud",
+    "accessEn": "APIs, code and cloud",
+    "officialSources": [
+      {
+        "url": "https://pipedream.com/workflows",
+        "checkedAt": "2026-11-16",
+        "scope": "capabilities_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme d'intégration destinée aux développeurs, associant workflows événementiels, fonctions Python/JavaScript et authentification d'API gérée.",
+      "audiences": [
+        "Équipes opérationnelles et responsables de processus",
+        "Développeurs ou utilisateurs sans code selon l'outil"
+      ],
+      "cases": [
+        "Construire un webhook qui enrichit une donnée puis actualise un service via API.",
+        "Contrôler l'historique d'exécution, les erreurs et les permissions sur chaque connecteur."
+      ],
+      "advantages": [
+        "Déclencheurs événementiels",
+        "Étapes de code et actions prédéfinies",
+        "Connect et authentification gérée"
+      ],
+      "limits": [
+        "Surveiller les quotas d'exécution et la portée des autorisations OAuth ; tester les cas de reprise sur erreur.",
+        "Les intégrations peuvent échouer, être déclenchées en double ou provoquer des actions non voulues ; prévoir validation et mécanismes de reprise."
+      ],
+      "gettingStarted": [
+        "Lister les événements déclencheurs, les applications et les actions autorisées ; définir un résultat mesurable.",
+        "Tester avec des comptes de démonstration, limiter les scopes d'accès, prévoir une approbation avant toute action irréversible et surveiller les erreurs."
+      ],
+      "examples": [
+        "Quand une demande arrive, classifie-la, crée un dossier, rédige un accusé de réception puis attends une validation avant tout envoi.",
+        "Conçois un workflow avec gestion des doublons, journal d'audit, alerte en cas d'échec et plafond de coût mensuel."
+      ],
+      "pricing": "Modèle gratuit, abonnement ou facturation à l'exécution selon le fournisseur ; vérifier les quotas de tâches, d'API, les crédits IA, l'hébergement et les fonctions d'équipe.",
+      "privacy": "N'autoriser que les données strictement nécessaires, limiter les scopes OAuth, protéger les secrets et vérifier les durées de conservation et la résidence des données.",
+      "selection": [
+        "Choisir Pipedream selon le besoin (developer), les intégrations, la traçabilité, le niveau de contrôle, la maintenance et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://pipedream.com/workflows",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "bardeen": {
+    "descriptionFr": "Outil d'automatisation navigateur actuellement orienté prospection : extraction web, enrichissement de contacts et qualification de prospects par IA.",
+    "descriptionEn": "Browser automation product currently focused on sales prospecting: web extraction, contact enrichment and AI lead qualification.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Extraction web pour prospection",
+      "Recherche et qualification IA",
+      "Enrichissement et export de contacts"
+    ],
+    "featuresEn": [
+      "Sales-focused web extraction",
+      "AI research and lead qualification",
+      "Contact enrichment and export"
+    ],
+    "accessFr": "Navigateur et/ou service cloud",
+    "accessEn": "Browser and/or cloud",
+    "officialSources": [
+      {
+        "url": "https://www.bardeen.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "capabilities_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Outil d'automatisation navigateur actuellement orienté prospection : extraction web, enrichissement de contacts et qualification de prospects par IA.",
+      "audiences": [
+        "Équipes opérationnelles et responsables de processus",
+        "Développeurs ou utilisateurs sans code selon l'outil"
+      ],
+      "cases": [
+        "Extraire des prospects publics autorisés puis vérifier les contacts avant import CRM.",
+        "Contrôler l'historique d'exécution, les erreurs et les permissions sur chaque connecteur."
+      ],
+      "advantages": [
+        "Extraction web pour prospection",
+        "Recherche et qualification IA",
+        "Enrichissement et export de contacts"
+      ],
+      "limits": [
+        "Le positionnement actuel privilégie les leads, non l'automatisation généraliste ; respecter les conditions de sites, le RGPD et les règles anti-spam.",
+        "Les intégrations peuvent échouer, être déclenchées en double ou provoquer des actions non voulues ; prévoir validation et mécanismes de reprise."
+      ],
+      "gettingStarted": [
+        "Lister les événements déclencheurs, les applications et les actions autorisées ; définir un résultat mesurable.",
+        "Tester avec des comptes de démonstration, limiter les scopes d'accès, prévoir une approbation avant toute action irréversible et surveiller les erreurs."
+      ],
+      "examples": [
+        "Quand une demande arrive, classifie-la, crée un dossier, rédige un accusé de réception puis attends une validation avant tout envoi.",
+        "Conçois un workflow avec gestion des doublons, journal d'audit, alerte en cas d'échec et plafond de coût mensuel."
+      ],
+      "pricing": "Modèle gratuit, abonnement ou facturation à l'exécution selon le fournisseur ; vérifier les quotas de tâches, d'API, les crédits IA, l'hébergement et les fonctions d'équipe.",
+      "privacy": "N'autoriser que les données strictement nécessaires, limiter les scopes OAuth, protéger les secrets et vérifier les durées de conservation et la résidence des données.",
+      "selection": [
+        "Choisir Bardeen selon le besoin (browser), les intégrations, la traçabilité, le niveau de contrôle, la maintenance et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "repositioned",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.bardeen.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_repositioned"
+  },
+  "gumloop": {
+    "descriptionFr": "Plateforme de création et gestion d'agents IA pour tâches métier et workflows connectés à des applications professionnelles.",
+    "descriptionEn": "Platform for building and managing AI agents for business tasks and connected app workflows.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Agents et workflows métier",
+      "Connecteurs SaaS et compétences",
+      "Suivi de crédits et d'utilisation"
+    ],
+    "featuresEn": [
+      "Business agents and workflows",
+      "SaaS connectors and skills",
+      "Credit and usage monitoring"
+    ],
+    "accessFr": "Service web, API et applications selon offre",
+    "accessEn": "Web service, APIs and apps by plan",
+    "officialSources": [
+      {
+        "url": "https://www.gumloop.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "capabilities_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de création et gestion d'agents IA pour tâches métier et workflows connectés à des applications professionnelles.",
+      "audiences": [
+        "Équipes opérationnelles et responsables de processus",
+        "Développeurs ou utilisateurs sans code selon l'outil"
+      ],
+      "cases": [
+        "Construire un agent de tri de tickets support avec validation des réponses prioritaires.",
+        "Contrôler l'historique d'exécution, les erreurs et les permissions sur chaque connecteur."
+      ],
+      "advantages": [
+        "Agents et workflows métier",
+        "Connecteurs SaaS et compétences",
+        "Suivi de crédits et d'utilisation"
+      ],
+      "limits": [
+        "L'autonomie des agents exige des permissions limitées et un suivi des crédits de modèles et des appels externes.",
+        "Les intégrations peuvent échouer, être déclenchées en double ou provoquer des actions non voulues ; prévoir validation et mécanismes de reprise."
+      ],
+      "gettingStarted": [
+        "Lister les événements déclencheurs, les applications et les actions autorisées ; définir un résultat mesurable.",
+        "Tester avec des comptes de démonstration, limiter les scopes d'accès, prévoir une approbation avant toute action irréversible et surveiller les erreurs."
+      ],
+      "examples": [
+        "Quand une demande arrive, classifie-la, crée un dossier, rédige un accusé de réception puis attends une validation avant tout envoi.",
+        "Conçois un workflow avec gestion des doublons, journal d'audit, alerte en cas d'échec et plafond de coût mensuel."
+      ],
+      "pricing": "Modèle gratuit, abonnement ou facturation à l'exécution selon le fournisseur ; vérifier les quotas de tâches, d'API, les crédits IA, l'hébergement et les fonctions d'équipe.",
+      "privacy": "N'autoriser que les données strictement nécessaires, limiter les scopes OAuth, protéger les secrets et vérifier les durées de conservation et la résidence des données.",
+      "selection": [
+        "Choisir Gumloop selon le besoin (agents), les intégrations, la traçabilité, le niveau de contrôle, la maintenance et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.gumloop.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "relay-app": {
+    "descriptionFr": "Constructeur de workflows avec étapes d'approbation, saisie humaine, tâches et sélection manuelle de parcours.",
+    "descriptionEn": "Workflow automation builder with human approval, data entry, tasks and manual branch selection.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Approbations humaines",
+      "Saisie de données et tâches",
+      "Choix manuel de chemin"
+    ],
+    "featuresEn": [
+      "Human approvals",
+      "Data entry and tasks",
+      "Manual path selection"
+    ],
+    "accessFr": "Service web, API et applications selon offre",
+    "accessEn": "Web service, APIs and apps by plan",
+    "officialSources": [
+      {
+        "url": "https://docs.relay.app/human-in-the-loop/human-in-the-loop-steps",
+        "checkedAt": "2026-11-16",
+        "scope": "capabilities_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Constructeur de workflows avec étapes d'approbation, saisie humaine, tâches et sélection manuelle de parcours.",
+      "audiences": [
+        "Équipes opérationnelles et responsables de processus",
+        "Développeurs ou utilisateurs sans code selon l'outil"
+      ],
+      "cases": [
+        "Faire valider une réponse IA par un responsable avant son envoi par email.",
+        "Contrôler l'historique d'exécution, les erreurs et les permissions sur chaque connecteur."
+      ],
+      "advantages": [
+        "Approbations humaines",
+        "Saisie de données et tâches",
+        "Choix manuel de chemin"
+      ],
+      "limits": [
+        "Définir les conséquences d'une absence de réponse et les délais d'escalade ; les workflows peuvent rester suspendus.",
+        "Les intégrations peuvent échouer, être déclenchées en double ou provoquer des actions non voulues ; prévoir validation et mécanismes de reprise."
+      ],
+      "gettingStarted": [
+        "Lister les événements déclencheurs, les applications et les actions autorisées ; définir un résultat mesurable.",
+        "Tester avec des comptes de démonstration, limiter les scopes d'accès, prévoir une approbation avant toute action irréversible et surveiller les erreurs."
+      ],
+      "examples": [
+        "Quand une demande arrive, classifie-la, crée un dossier, rédige un accusé de réception puis attends une validation avant tout envoi.",
+        "Conçois un workflow avec gestion des doublons, journal d'audit, alerte en cas d'échec et plafond de coût mensuel."
+      ],
+      "pricing": "Modèle gratuit, abonnement ou facturation à l'exécution selon le fournisseur ; vérifier les quotas de tâches, d'API, les crédits IA, l'hébergement et les fonctions d'équipe.",
+      "privacy": "N'autoriser que les données strictement nécessaires, limiter les scopes OAuth, protéger les secrets et vérifier les durées de conservation et la résidence des données.",
+      "selection": [
+        "Choisir Relay.app selon le besoin (no-code), les intégrations, la traçabilité, le niveau de contrôle, la maintenance et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.relay.app/human-in-the-loop/human-in-the-loop-steps",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "activepieces": {
+    "descriptionFr": "Plateforme d'automatisation à cœur MIT intégrant agents IA, workflows, tables, connecteurs et option d'auto-hébergement.",
+    "descriptionEn": "MIT-core automation platform with AI agents, flows, tables, integrations and self-hosting.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Flows, agents et tables",
+      "Connecteurs et serveur MCP",
+      "Auto-hébergement et gouvernance"
+    ],
+    "featuresEn": [
+      "Flows, agents and tables",
+      "Connectors and MCP server",
+      "Self-hosting and governance"
+    ],
+    "accessFr": "Cloud et auto-hébergement",
+    "accessEn": "Cloud and self-hosting",
+    "officialSources": [
+      {
+        "url": "https://www.activepieces.com/docs/overview/welcome",
+        "checkedAt": "2026-11-16",
+        "scope": "capabilities_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme d'automatisation à cœur MIT intégrant agents IA, workflows, tables, connecteurs et option d'auto-hébergement.",
+      "audiences": [
+        "Équipes opérationnelles et responsables de processus",
+        "Développeurs ou utilisateurs sans code selon l'outil"
+      ],
+      "cases": [
+        "Créer un workflow interne qui classe des demandes puis laisse une équipe approuver les actions.",
+        "Contrôler l'historique d'exécution, les erreurs et les permissions sur chaque connecteur."
+      ],
+      "advantages": [
+        "Flows, agents et tables",
+        "Connecteurs et serveur MCP",
+        "Auto-hébergement et gouvernance"
+      ],
+      "limits": [
+        "Vérifier la licence des composants avancés et les permissions ; l'auto-hébergement exige une maintenance de sécurité.",
+        "Les intégrations peuvent échouer, être déclenchées en double ou provoquer des actions non voulues ; prévoir validation et mécanismes de reprise."
+      ],
+      "gettingStarted": [
+        "Lister les événements déclencheurs, les applications et les actions autorisées ; définir un résultat mesurable.",
+        "Tester avec des comptes de démonstration, limiter les scopes d'accès, prévoir une approbation avant toute action irréversible et surveiller les erreurs."
+      ],
+      "examples": [
+        "Quand une demande arrive, classifie-la, crée un dossier, rédige un accusé de réception puis attends une validation avant tout envoi.",
+        "Conçois un workflow avec gestion des doublons, journal d'audit, alerte en cas d'échec et plafond de coût mensuel."
+      ],
+      "pricing": "Modèle gratuit, abonnement ou facturation à l'exécution selon le fournisseur ; vérifier les quotas de tâches, d'API, les crédits IA, l'hébergement et les fonctions d'équipe.",
+      "privacy": "N'autoriser que les données strictement nécessaires, limiter les scopes OAuth, protéger les secrets et vérifier les durées de conservation et la résidence des données.",
+      "selection": [
+        "Choisir Activepieces selon le besoin (open-source), les intégrations, la traçabilité, le niveau de contrôle, la maintenance et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.activepieces.com/docs/overview/welcome",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "latenode": {
+    "descriptionFr": "Plateforme visuelle d'automatisation IA combinant agents, nombreux connecteurs, exécution JavaScript et navigateur sans interface.",
+    "descriptionEn": "Visual AI automation platform with agents, integrations, JavaScript nodes and headless browsing.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Agent Builder et éditeur visuel",
+      "Nœuds JavaScript et navigateurs",
+      "Intégrations API et MCP"
+    ],
+    "featuresEn": [
+      "Agent Builder and visual editor",
+      "JavaScript and browser nodes",
+      "API integrations and MCP"
+    ],
+    "accessFr": "Service web, API et applications selon offre",
+    "accessEn": "Web service, APIs and apps by plan",
+    "officialSources": [
+      {
+        "url": "https://latenode.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "capabilities_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme visuelle d'automatisation IA combinant agents, nombreux connecteurs, exécution JavaScript et navigateur sans interface.",
+      "audiences": [
+        "Équipes opérationnelles et responsables de processus",
+        "Développeurs ou utilisateurs sans code selon l'outil"
+      ],
+      "cases": [
+        "Connecter un service de réservation à une base métier en adaptant les données avec un nœud JavaScript.",
+        "Contrôler l'historique d'exécution, les erreurs et les permissions sur chaque connecteur."
+      ],
+      "advantages": [
+        "Agent Builder et éditeur visuel",
+        "Nœuds JavaScript et navigateurs",
+        "Intégrations API et MCP"
+      ],
+      "limits": [
+        "Le modèle de facturation doit être évalué en temps d'exécution ; sécuriser le JavaScript et les accès navigateur.",
+        "Les intégrations peuvent échouer, être déclenchées en double ou provoquer des actions non voulues ; prévoir validation et mécanismes de reprise."
+      ],
+      "gettingStarted": [
+        "Lister les événements déclencheurs, les applications et les actions autorisées ; définir un résultat mesurable.",
+        "Tester avec des comptes de démonstration, limiter les scopes d'accès, prévoir une approbation avant toute action irréversible et surveiller les erreurs."
+      ],
+      "examples": [
+        "Quand une demande arrive, classifie-la, crée un dossier, rédige un accusé de réception puis attends une validation avant tout envoi.",
+        "Conçois un workflow avec gestion des doublons, journal d'audit, alerte en cas d'échec et plafond de coût mensuel."
+      ],
+      "pricing": "Modèle gratuit, abonnement ou facturation à l'exécution selon le fournisseur ; vérifier les quotas de tâches, d'API, les crédits IA, l'hébergement et les fonctions d'équipe.",
+      "privacy": "N'autoriser que les données strictement nécessaires, limiter les scopes OAuth, protéger les secrets et vérifier les durées de conservation et la résidence des données.",
+      "selection": [
+        "Choisir Latenode selon le besoin (low-code), les intégrations, la traçabilité, le niveau de contrôle, la maintenance et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://latenode.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "workato": {
+    "descriptionFr": "Plateforme d'intégration et d'automatisation d'entreprise avec Recipes, Workato Genies et orchestration agentique.",
+    "descriptionEn": "Enterprise integration and automation platform with Recipes, Workato Genies and agent orchestration.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Recipes d'intégration",
+      "Genies et délégation de tâches",
+      "Gouvernance et journalisation"
+    ],
+    "featuresEn": [
+      "Integration recipes",
+      "Genies and task delegation",
+      "Governance and logging"
+    ],
+    "accessFr": "Plateforme d'entreprise et API",
+    "accessEn": "Enterprise platform and APIs",
+    "officialSources": [
+      {
+        "url": "https://docs.workato.com/en/agentic/agent-studio/agent-orchestration",
+        "checkedAt": "2026-11-16",
+        "scope": "capabilities_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme d'intégration et d'automatisation d'entreprise avec Recipes, Workato Genies et orchestration agentique.",
+      "audiences": [
+        "Équipes opérationnelles et responsables de processus",
+        "Développeurs ou utilisateurs sans code selon l'outil"
+      ],
+      "cases": [
+        "Synchroniser des systèmes RH et finances avec validation de demandes sensibles.",
+        "Contrôler l'historique d'exécution, les erreurs et les permissions sur chaque connecteur."
+      ],
+      "advantages": [
+        "Recipes d'intégration",
+        "Genies et délégation de tâches",
+        "Gouvernance et journalisation"
+      ],
+      "limits": [
+        "L'orchestration autonome ne prend pas en charge certaines fonctions de validation utilisateur ; règles de gouvernance et droits d'accès à configurer.",
+        "Les intégrations peuvent échouer, être déclenchées en double ou provoquer des actions non voulues ; prévoir validation et mécanismes de reprise."
+      ],
+      "gettingStarted": [
+        "Lister les événements déclencheurs, les applications et les actions autorisées ; définir un résultat mesurable.",
+        "Tester avec des comptes de démonstration, limiter les scopes d'accès, prévoir une approbation avant toute action irréversible et surveiller les erreurs."
+      ],
+      "examples": [
+        "Quand une demande arrive, classifie-la, crée un dossier, rédige un accusé de réception puis attends une validation avant tout envoi.",
+        "Conçois un workflow avec gestion des doublons, journal d'audit, alerte en cas d'échec et plafond de coût mensuel."
+      ],
+      "pricing": "Modèle gratuit, abonnement ou facturation à l'exécution selon le fournisseur ; vérifier les quotas de tâches, d'API, les crédits IA, l'hébergement et les fonctions d'équipe.",
+      "privacy": "N'autoriser que les données strictement nécessaires, limiter les scopes OAuth, protéger les secrets et vérifier les durées de conservation et la résidence des données.",
+      "selection": [
+        "Choisir Workato selon le besoin (enterprise), les intégrations, la traçabilité, le niveau de contrôle, la maintenance et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.workato.com/en/agentic/agent-studio/agent-orchestration",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "uipath": {
+    "descriptionFr": "Plateforme RPA de gestion de robots et automatisations de processus, avec Orchestrator, files d'attente et exécutions surveillées.",
+    "descriptionEn": "RPA platform for robots and business processes with Orchestrator, queues and monitored execution.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Orchestrator et robots",
+      "Automatisations assistées et non assistées",
+      "Files d'attente, journaux et supervision"
+    ],
+    "featuresEn": [
+      "Orchestrator and robots",
+      "Attended and unattended automations",
+      "Queues, logs and monitoring"
+    ],
+    "accessFr": "Plateforme d'entreprise et API",
+    "accessEn": "Enterprise platform and APIs",
+    "officialSources": [
+      {
+        "url": "https://docs.uipath.com/orchestrator/standalone/2026.10/user-guide/introduction",
+        "checkedAt": "2026-11-16",
+        "scope": "capabilities_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme RPA de gestion de robots et automatisations de processus, avec Orchestrator, files d'attente et exécutions surveillées.",
+      "audiences": [
+        "Équipes opérationnelles et responsables de processus",
+        "Développeurs ou utilisateurs sans code selon l'outil"
+      ],
+      "cases": [
+        "Automatiser la saisie de factures dans un logiciel d'entreprise ancien.",
+        "Contrôler l'historique d'exécution, les erreurs et les permissions sur chaque connecteur."
+      ],
+      "advantages": [
+        "Orchestrator et robots",
+        "Automatisations assistées et non assistées",
+        "Files d'attente, journaux et supervision"
+      ],
+      "limits": [
+        "L'automatisation UI est fragile aux changements d'écran ; tester les exceptions et contrôler les accès des robots.",
+        "Les intégrations peuvent échouer, être déclenchées en double ou provoquer des actions non voulues ; prévoir validation et mécanismes de reprise."
+      ],
+      "gettingStarted": [
+        "Lister les événements déclencheurs, les applications et les actions autorisées ; définir un résultat mesurable.",
+        "Tester avec des comptes de démonstration, limiter les scopes d'accès, prévoir une approbation avant toute action irréversible et surveiller les erreurs."
+      ],
+      "examples": [
+        "Quand une demande arrive, classifie-la, crée un dossier, rédige un accusé de réception puis attends une validation avant tout envoi.",
+        "Conçois un workflow avec gestion des doublons, journal d'audit, alerte en cas d'échec et plafond de coût mensuel."
+      ],
+      "pricing": "Modèle gratuit, abonnement ou facturation à l'exécution selon le fournisseur ; vérifier les quotas de tâches, d'API, les crédits IA, l'hébergement et les fonctions d'équipe.",
+      "privacy": "N'autoriser que les données strictement nécessaires, limiter les scopes OAuth, protéger les secrets et vérifier les durées de conservation et la résidence des données.",
+      "selection": [
+        "Choisir UiPath selon le besoin (enterprise), les intégrations, la traçabilité, le niveau de contrôle, la maintenance et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.uipath.com/orchestrator/standalone/2026.10/user-guide/introduction",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "automation-anywhere": {
+    "descriptionFr": "Plateforme d'automatisation d'entreprise Automation 360 associant RPA, APIs, agents, extraction documentaire et orchestration.",
+    "descriptionEn": "Automation 360 enterprise platform integrating RPA, APIs, agents, document extraction and orchestration.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Automation 360 et APA",
+      "AI Agent Studio et Automation Co-Pilot",
+      "Robotique, documents et API"
+    ],
+    "featuresEn": [
+      "Automation 360 and APA",
+      "AI Agent Studio and Automation Co-Pilot",
+      "Robotics, documents and APIs"
+    ],
+    "accessFr": "Plateforme d'entreprise et API",
+    "accessEn": "Enterprise platform and APIs",
+    "officialSources": [
+      {
+        "url": "https://docs.automationanywhere.com/r/cloud-automation-anywhere-enterprise-overview",
+        "checkedAt": "2026-11-16",
+        "scope": "capabilities_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme d'automatisation d'entreprise Automation 360 associant RPA, APIs, agents, extraction documentaire et orchestration.",
+      "audiences": [
+        "Équipes opérationnelles et responsables de processus",
+        "Développeurs ou utilisateurs sans code selon l'outil"
+      ],
+      "cases": [
+        "Automatiser un processus de traitement de commandes avec contrôles et reprises sur incident.",
+        "Contrôler l'historique d'exécution, les erreurs et les permissions sur chaque connecteur."
+      ],
+      "advantages": [
+        "Automation 360 et APA",
+        "AI Agent Studio et Automation Co-Pilot",
+        "Robotique, documents et API"
+      ],
+      "limits": [
+        "La configuration cloud/on-premises et l'accès aux agents dépendent des licences ; vérifier journaux et séparation des rôles.",
+        "Les intégrations peuvent échouer, être déclenchées en double ou provoquer des actions non voulues ; prévoir validation et mécanismes de reprise."
+      ],
+      "gettingStarted": [
+        "Lister les événements déclencheurs, les applications et les actions autorisées ; définir un résultat mesurable.",
+        "Tester avec des comptes de démonstration, limiter les scopes d'accès, prévoir une approbation avant toute action irréversible et surveiller les erreurs."
+      ],
+      "examples": [
+        "Quand une demande arrive, classifie-la, crée un dossier, rédige un accusé de réception puis attends une validation avant tout envoi.",
+        "Conçois un workflow avec gestion des doublons, journal d'audit, alerte en cas d'échec et plafond de coût mensuel."
+      ],
+      "pricing": "Modèle gratuit, abonnement ou facturation à l'exécution selon le fournisseur ; vérifier les quotas de tâches, d'API, les crédits IA, l'hébergement et les fonctions d'équipe.",
+      "privacy": "N'autoriser que les données strictement nécessaires, limiter les scopes OAuth, protéger les secrets et vérifier les durées de conservation et la résidence des données.",
+      "selection": [
+        "Choisir Automation Anywhere selon le besoin (enterprise), les intégrations, la traçabilité, le niveau de contrôle, la maintenance et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.automationanywhere.com/r/cloud-automation-anywhere-enterprise-overview",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "microsoft-power-automate": {
+    "descriptionFr": "Outil Microsoft de workflows cloud et de RPA sur Windows, avec déclencheurs, actions et fonctions IA en préversion.",
+    "descriptionEn": "Microsoft workflow platform for cloud flows and Windows desktop RPA, with triggers, actions and preview AI functions.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Cloud flows et connecteurs",
+      "Desktop flows Windows",
+      "Actions génératives en préversion"
+    ],
+    "featuresEn": [
+      "Cloud flows and connectors",
+      "Windows desktop flows",
+      "Preview generative actions"
+    ],
+    "accessFr": "Plateforme d'entreprise et API",
+    "accessEn": "Enterprise platform and APIs",
+    "officialSources": [
+      {
+        "url": "https://learn.microsoft.com/en-gb/power-automate/flow-types",
+        "checkedAt": "2026-11-16",
+        "scope": "capabilities_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Outil Microsoft de workflows cloud et de RPA sur Windows, avec déclencheurs, actions et fonctions IA en préversion.",
+      "audiences": [
+        "Équipes opérationnelles et responsables de processus",
+        "Développeurs ou utilisateurs sans code selon l'outil"
+      ],
+      "cases": [
+        "Lors de la réception d'une demande, renseigner SharePoint puis lancer une tâche sur un poste Windows.",
+        "Contrôler l'historique d'exécution, les erreurs et les permissions sur chaque connecteur."
+      ],
+      "advantages": [
+        "Cloud flows et connecteurs",
+        "Desktop flows Windows",
+        "Actions génératives en préversion"
+      ],
+      "limits": [
+        "L'exécution desktop non assistée a des prérequis OS et licence ; ne pas supposer que tous les connecteurs sont inclus.",
+        "Les intégrations peuvent échouer, être déclenchées en double ou provoquer des actions non voulues ; prévoir validation et mécanismes de reprise."
+      ],
+      "gettingStarted": [
+        "Lister les événements déclencheurs, les applications et les actions autorisées ; définir un résultat mesurable.",
+        "Tester avec des comptes de démonstration, limiter les scopes d'accès, prévoir une approbation avant toute action irréversible et surveiller les erreurs."
+      ],
+      "examples": [
+        "Quand une demande arrive, classifie-la, crée un dossier, rédige un accusé de réception puis attends une validation avant tout envoi.",
+        "Conçois un workflow avec gestion des doublons, journal d'audit, alerte en cas d'échec et plafond de coût mensuel."
+      ],
+      "pricing": "Modèle gratuit, abonnement ou facturation à l'exécution selon le fournisseur ; vérifier les quotas de tâches, d'API, les crédits IA, l'hébergement et les fonctions d'équipe.",
+      "privacy": "N'autoriser que les données strictement nécessaires, limiter les scopes OAuth, protéger les secrets et vérifier les durées de conservation et la résidence des données.",
+      "selection": [
+        "Choisir Microsoft Power Automate selon le besoin (enterprise), les intégrations, la traçabilité, le niveau de contrôle, la maintenance et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented_preview",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://learn.microsoft.com/en-gb/power-automate/flow-types",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "ifttt": {
+    "descriptionFr": "Service d'automatisation personnelle utilisant des Applets déclencheur-action pour relier applications, objets connectés et notifications.",
+    "descriptionEn": "Personal automation service using trigger-action Applets to link apps, devices and notifications.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Applets déclencheur-action",
+      "IFTTT Chat en langage naturel",
+      "Filtres et actions multiples"
+    ],
+    "featuresEn": [
+      "Trigger-action Applets",
+      "Natural-language IFTTT Chat",
+      "Filters and multiple actions"
+    ],
+    "accessFr": "Web, mobile et objets connectés",
+    "accessEn": "Web, mobile and connected devices",
+    "officialSources": [
+      {
+        "url": "https://help.ifttt.com/hc/en-us/articles/115010361348-What-is-an-Applet",
+        "checkedAt": "2026-11-16",
+        "scope": "capabilities_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Service d'automatisation personnelle utilisant des Applets déclencheur-action pour relier applications, objets connectés et notifications.",
+      "audiences": [
+        "Équipes opérationnelles et responsables de processus",
+        "Développeurs ou utilisateurs sans code selon l'outil"
+      ],
+      "cases": [
+        "À l'approche d'un événement d'agenda, envoyer une notification automatique.",
+        "Contrôler l'historique d'exécution, les erreurs et les permissions sur chaque connecteur."
+      ],
+      "advantages": [
+        "Applets déclencheur-action",
+        "IFTTT Chat en langage naturel",
+        "Filtres et actions multiples"
+      ],
+      "limits": [
+        "Les fonctions de filtres et les connexions varient selon services et offres ; une déconnexion peut interrompre l'Applet.",
+        "Les intégrations peuvent échouer, être déclenchées en double ou provoquer des actions non voulues ; prévoir validation et mécanismes de reprise."
+      ],
+      "gettingStarted": [
+        "Lister les événements déclencheurs, les applications et les actions autorisées ; définir un résultat mesurable.",
+        "Tester avec des comptes de démonstration, limiter les scopes d'accès, prévoir une approbation avant toute action irréversible et surveiller les erreurs."
+      ],
+      "examples": [
+        "Quand une demande arrive, classifie-la, crée un dossier, rédige un accusé de réception puis attends une validation avant tout envoi.",
+        "Conçois un workflow avec gestion des doublons, journal d'audit, alerte en cas d'échec et plafond de coût mensuel."
+      ],
+      "pricing": "Modèle gratuit, abonnement ou facturation à l'exécution selon le fournisseur ; vérifier les quotas de tâches, d'API, les crédits IA, l'hébergement et les fonctions d'équipe.",
+      "privacy": "N'autoriser que les données strictement nécessaires, limiter les scopes OAuth, protéger les secrets et vérifier les durées de conservation et la résidence des données.",
+      "selection": [
+        "Choisir IFTTT selon le besoin (personal), les intégrations, la traçabilité, le niveau de contrôle, la maintenance et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.ifttt.com/hc/en-us/articles/115010361348-What-is-an-Applet",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "axiom-ai": {
+    "descriptionFr": "Outil d'automatisation de navigateur avec extension Chrome, création de bots sans code et modes d'exécution cloud ou locaux.",
+    "descriptionEn": "Browser automation tool with Chrome extension, no-code bot creation and cloud or local execution.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Créateur visuel de bots Chrome",
+      "API et intégrations Playwright/Puppeteer",
+      "Exécution cloud ou locale"
+    ],
+    "featuresEn": [
+      "Visual Chrome bot builder",
+      "API and Playwright/Puppeteer",
+      "Cloud or local runs"
+    ],
+    "accessFr": "Navigateur et/ou service cloud",
+    "accessEn": "Browser and/or cloud",
+    "officialSources": [
+      {
+        "url": "https://axiom.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "capabilities_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Outil d'automatisation de navigateur avec extension Chrome, création de bots sans code et modes d'exécution cloud ou locaux.",
+      "audiences": [
+        "Équipes opérationnelles et responsables de processus",
+        "Développeurs ou utilisateurs sans code selon l'outil"
+      ],
+      "cases": [
+        "Automatiser la saisie de formulaires autorisés avec contrôle des résultats.",
+        "Contrôler l'historique d'exécution, les erreurs et les permissions sur chaque connecteur."
+      ],
+      "advantages": [
+        "Créateur visuel de bots Chrome",
+        "API et intégrations Playwright/Puppeteer",
+        "Exécution cloud ou locale"
+      ],
+      "limits": [
+        "Les changements de page peuvent casser les scripts ; respecter les limites des services et éviter les données sensibles sans garanties.",
+        "Les intégrations peuvent échouer, être déclenchées en double ou provoquer des actions non voulues ; prévoir validation et mécanismes de reprise."
+      ],
+      "gettingStarted": [
+        "Lister les événements déclencheurs, les applications et les actions autorisées ; définir un résultat mesurable.",
+        "Tester avec des comptes de démonstration, limiter les scopes d'accès, prévoir une approbation avant toute action irréversible et surveiller les erreurs."
+      ],
+      "examples": [
+        "Quand une demande arrive, classifie-la, crée un dossier, rédige un accusé de réception puis attends une validation avant tout envoi.",
+        "Conçois un workflow avec gestion des doublons, journal d'audit, alerte en cas d'échec et plafond de coût mensuel."
+      ],
+      "pricing": "Modèle gratuit, abonnement ou facturation à l'exécution selon le fournisseur ; vérifier les quotas de tâches, d'API, les crédits IA, l'hébergement et les fonctions d'équipe.",
+      "privacy": "N'autoriser que les données strictement nécessaires, limiter les scopes OAuth, protéger les secrets et vérifier les durées de conservation et la résidence des données.",
+      "selection": [
+        "Choisir Axiom.ai selon le besoin (browser), les intégrations, la traçabilité, le niveau de contrôle, la maintenance et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://axiom.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "browse-ai": {
+    "descriptionFr": "Plateforme no-code de collecte et surveillance de données web, avec robots de scraping et intégrations dans des workflows.",
+    "descriptionEn": "No-code web data extraction and monitoring platform with scraping robots and workflow integrations.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Robots d'extraction web",
+      "Surveillance des changements",
+      "Connecteurs, exports et API"
+    ],
+    "featuresEn": [
+      "Web extraction robots",
+      "Change monitoring",
+      "Connectors, exports and API"
+    ],
+    "accessFr": "Navigateur et/ou service cloud",
+    "accessEn": "Browser and/or cloud",
+    "officialSources": [
+      {
+        "url": "https://www.browse.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "capabilities_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme no-code de collecte et surveillance de données web, avec robots de scraping et intégrations dans des workflows.",
+      "audiences": [
+        "Équipes opérationnelles et responsables de processus",
+        "Développeurs ou utilisateurs sans code selon l'outil"
+      ],
+      "cases": [
+        "Surveiller les changements de prix publics d'un ensemble de pages autorisées.",
+        "Contrôler l'historique d'exécution, les erreurs et les permissions sur chaque connecteur."
+      ],
+      "advantages": [
+        "Robots d'extraction web",
+        "Surveillance des changements",
+        "Connecteurs, exports et API"
+      ],
+      "limits": [
+        "Respecter robots.txt lorsque pertinent, conditions de service, protection des données et rythme raisonnable d'extraction.",
+        "Les intégrations peuvent échouer, être déclenchées en double ou provoquer des actions non voulues ; prévoir validation et mécanismes de reprise."
+      ],
+      "gettingStarted": [
+        "Lister les événements déclencheurs, les applications et les actions autorisées ; définir un résultat mesurable.",
+        "Tester avec des comptes de démonstration, limiter les scopes d'accès, prévoir une approbation avant toute action irréversible et surveiller les erreurs."
+      ],
+      "examples": [
+        "Quand une demande arrive, classifie-la, crée un dossier, rédige un accusé de réception puis attends une validation avant tout envoi.",
+        "Conçois un workflow avec gestion des doublons, journal d'audit, alerte en cas d'échec et plafond de coût mensuel."
+      ],
+      "pricing": "Modèle gratuit, abonnement ou facturation à l'exécution selon le fournisseur ; vérifier les quotas de tâches, d'API, les crédits IA, l'hébergement et les fonctions d'équipe.",
+      "privacy": "N'autoriser que les données strictement nécessaires, limiter les scopes OAuth, protéger les secrets et vérifier les durées de conservation et la résidence des données.",
+      "selection": [
+        "Choisir Browse AI selon le besoin (browser), les intégrations, la traçabilité, le niveau de contrôle, la maintenance et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.browse.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "apify": {
+    "descriptionFr": "Plateforme de scraping et d'automatisation web par programmes cloud serverless appelés Actors, exécutables via API ou planificateur.",
+    "descriptionEn": "Web scraping and automation platform built around serverless Actors running through APIs or schedules.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Actors exécutables et réutilisables",
+      "Données structurées et API",
+      "Exécutions programmées"
+    ],
+    "featuresEn": [
+      "Reusable serverless Actors",
+      "Structured data and APIs",
+      "Scheduled runs"
+    ],
+    "accessFr": "API, code et cloud",
+    "accessEn": "APIs, code and cloud",
+    "officialSources": [
+      {
+        "url": "https://docs.apify.com/actors",
+        "checkedAt": "2026-11-16",
+        "scope": "capabilities_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de scraping et d'automatisation web par programmes cloud serverless appelés Actors, exécutables via API ou planificateur.",
+      "audiences": [
+        "Équipes opérationnelles et responsables de processus",
+        "Développeurs ou utilisateurs sans code selon l'outil"
+      ],
+      "cases": [
+        "Exécuter un Actor autorisé pour créer un jeu de données et alimenter un tableau de suivi.",
+        "Contrôler l'historique d'exécution, les erreurs et les permissions sur chaque connecteur."
+      ],
+      "advantages": [
+        "Actors exécutables et réutilisables",
+        "Données structurées et API",
+        "Exécutions programmées"
+      ],
+      "limits": [
+        "Les Actors tiers peuvent avoir leurs propres coûts et risques ; respecter droits d'accès, quotas et contraintes juridiques.",
+        "Les intégrations peuvent échouer, être déclenchées en double ou provoquer des actions non voulues ; prévoir validation et mécanismes de reprise."
+      ],
+      "gettingStarted": [
+        "Lister les événements déclencheurs, les applications et les actions autorisées ; définir un résultat mesurable.",
+        "Tester avec des comptes de démonstration, limiter les scopes d'accès, prévoir une approbation avant toute action irréversible et surveiller les erreurs."
+      ],
+      "examples": [
+        "Quand une demande arrive, classifie-la, crée un dossier, rédige un accusé de réception puis attends une validation avant tout envoi.",
+        "Conçois un workflow avec gestion des doublons, journal d'audit, alerte en cas d'échec et plafond de coût mensuel."
+      ],
+      "pricing": "Modèle gratuit, abonnement ou facturation à l'exécution selon le fournisseur ; vérifier les quotas de tâches, d'API, les crédits IA, l'hébergement et les fonctions d'équipe.",
+      "privacy": "N'autoriser que les données strictement nécessaires, limiter les scopes OAuth, protéger les secrets et vérifier les durées de conservation et la résidence des données.",
+      "selection": [
+        "Choisir Apify selon le besoin (developer), les intégrations, la traçabilité, le niveau de contrôle, la maintenance et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.apify.com/actors",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "robocorp": {
+    "descriptionFr": "Plateforme d'automatisation robotisée Robocorp toujours maintenue dans l'écosystème Sema4.ai, avec Control Room, outils Python et extensions.",
+    "descriptionEn": "Maintained Robocorp automation platform within Sema4.ai, providing Control Room, Python tooling and extensions.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Robocorp Control Room et robots",
+      "Framework Python RPA",
+      "Écosystème Sema4.ai et mises à jour 2026"
+    ],
+    "featuresEn": [
+      "Robocorp Control Room and robots",
+      "Python RPA framework",
+      "Sema4.ai ecosystem and 2026 updates"
+    ],
+    "accessFr": "Plateforme d'entreprise et API",
+    "accessEn": "Enterprise platform and APIs",
+    "officialSources": [
+      {
+        "url": "https://sema4.ai/docs/automation/release-notes",
+        "checkedAt": "2026-11-16",
+        "scope": "capabilities_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme d'automatisation robotisée Robocorp toujours maintenue dans l'écosystème Sema4.ai, avec Control Room, outils Python et extensions.",
+      "audiences": [
+        "Équipes opérationnelles et responsables de processus",
+        "Développeurs ou utilisateurs sans code selon l'outil"
+      ],
+      "cases": [
+        "Créer un robot Python de traitement de factures et surveiller ses exécutions dans Control Room.",
+        "Contrôler l'historique d'exécution, les erreurs et les permissions sur chaque connecteur."
+      ],
+      "advantages": [
+        "Robocorp Control Room et robots",
+        "Framework Python RPA",
+        "Écosystème Sema4.ai et mises à jour 2026"
+      ],
+      "limits": [
+        "Robocorp n'est pas abandonné : la documentation du 16 novembre 2026 confirme des mises à jour ; bien distinguer les outils Robocorp et les produits Sema4.ai.",
+        "Les intégrations peuvent échouer, être déclenchées en double ou provoquer des actions non voulues ; prévoir validation et mécanismes de reprise."
+      ],
+      "gettingStarted": [
+        "Lister les événements déclencheurs, les applications et les actions autorisées ; définir un résultat mesurable.",
+        "Tester avec des comptes de démonstration, limiter les scopes d'accès, prévoir une approbation avant toute action irréversible et surveiller les erreurs."
+      ],
+      "examples": [
+        "Quand une demande arrive, classifie-la, crée un dossier, rédige un accusé de réception puis attends une validation avant tout envoi.",
+        "Conçois un workflow avec gestion des doublons, journal d'audit, alerte en cas d'échec et plafond de coût mensuel."
+      ],
+      "pricing": "Modèle gratuit, abonnement ou facturation à l'exécution selon le fournisseur ; vérifier les quotas de tâches, d'API, les crédits IA, l'hébergement et les fonctions d'équipe.",
+      "privacy": "N'autoriser que les données strictement nécessaires, limiter les scopes OAuth, protéger les secrets et vérifier les durées de conservation et la résidence des données.",
+      "selection": [
+        "Choisir Robocorp selon le besoin (enterprise), les intégrations, la traçabilité, le niveau de contrôle, la maintenance et le coût total."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "active_in_sema4_ecosystem",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://sema4.ai/docs/automation/release-notes",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_maintained_under_sema4"
+  }
+}
