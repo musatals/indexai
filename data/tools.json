@@ -5381,10 +5381,87 @@
     "secondaryCategories": [],
     "url": "https://translate.google.com",
     "kind": "Application / service",
-    "verification": "unverified",
+    "verification": "official_reviewed",
     "source": "https://allailists.com/",
     "inventoriedAt": "2026-11-15",
-    "sharedUrlCount": 1
+    "sharedUrlCount": 1,
+    "descriptionFr": "Traduction grand public de textes, documents, sites, images et voix.",
+    "descriptionEn": "Consumer translation of text, documents, websites, images and speech.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Texte et voix",
+      "Documents DOCX/PDF/PPTX/XLSX",
+      "Sites et images"
+    ],
+    "featuresEn": [
+      "Text and speech",
+      "DOCX/PDF/PPTX/XLSX documents",
+      "Websites and images"
+    ],
+    "accessFr": "Web et applications selon service",
+    "accessEn": "Web and apps depending on service",
+    "officialSources": [
+      {
+        "url": "https://support.google.com/translate/answer/2534559?hl=en",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://support.google.com/translate/answer/6350850?hl=en",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Traduction grand public de textes, documents, sites, images et voix.",
+      "audiences": [
+        "Traducteurs et rédacteurs multilingues",
+        "Étudiants et professionnels"
+      ],
+      "cases": [
+        "Traduire un document avec son contexte",
+        "Comparer plusieurs formulations",
+        "Réviser les termes spécialisés"
+      ],
+      "advantages": [
+        "Texte et voix",
+        "Documents DOCX/PDF/PPTX/XLSX",
+        "Sites et images"
+      ],
+      "limits": [
+        "La traduction des textes dans les PDF numérisés reste limitée; fichiers et appareils soumis à des restrictions.",
+        "Une traduction automatique doit être révisée pour les informations critiques."
+      ],
+      "gettingStarted": [
+        "Vérifier les paires de langues et formats pris en charge sur le site officiel.",
+        "Tester un contenu non sensible et faire relire les résultats dans leur contexte."
+      ],
+      "examples": [
+        "Traduis ce texte en conservant la terminologie et en indiquant les ambiguïtés.",
+        "Propose une seconde formulation adaptée au public cible, sans ajouter d'informations."
+      ],
+      "pricing": "Accessible gratuitement ; API Google Cloud distincte.",
+      "privacy": "Examiner les conditions de conservation des contenus, les traitements hors région et les droits des locuteurs avant de transférer des documents ou médias confidentiels.",
+      "selection": [
+        "Choisir Google Translate lorsque ses formats et workflows correspondent à la tâche ; comparer les limites et le coût réel."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://support.google.com/translate/answer/2534559?hl=en",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://support.google.com/translate/answer/6350850?hl=en",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    }
   },
   {
     "id": "AI-0068",
@@ -5395,10 +5472,87 @@
     "secondaryCategories": [],
     "url": "https://www.microsoft.com/translator",
     "kind": "Application / service",
-    "verification": "unverified",
+    "verification": "official_reviewed",
     "source": "https://allailists.com/",
     "inventoriedAt": "2026-11-15",
-    "sharedUrlCount": 1
+    "sharedUrlCount": 1,
+    "descriptionFr": "Traduction de textes et documents via services Microsoft et API Azure Translator.",
+    "descriptionEn": "Text and document translation through Microsoft services and Azure Translator APIs.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Traduction texte par API",
+      "Documents en lot ou individuels",
+      "Personnalisation et glossaires"
+    ],
+    "featuresEn": [
+      "Text translation API",
+      "Batch or single documents",
+      "Customization and glossaries"
+    ],
+    "accessFr": "Web et applications selon service",
+    "accessEn": "Web and apps depending on service",
+    "officialSources": [
+      {
+        "url": "https://learn.microsoft.com/en-us/azure/ai-services/translator",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://learn.microsoft.com/en-us/azure/ai-services/translator/document-translation/latest/overview",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Traduction de textes et documents via services Microsoft et API Azure Translator.",
+      "audiences": [
+        "Traducteurs et rédacteurs multilingues",
+        "Étudiants et professionnels"
+      ],
+      "cases": [
+        "Traduire un document avec son contexte",
+        "Comparer plusieurs formulations",
+        "Réviser les termes spécialisés"
+      ],
+      "advantages": [
+        "Traduction texte par API",
+        "Documents en lot ou individuels",
+        "Personnalisation et glossaires"
+      ],
+      "limits": [
+        "Nécessite une configuration Azure pour les API; des fonctions LLM restent en préversion.",
+        "Une traduction automatique doit être révisée pour les informations critiques."
+      ],
+      "gettingStarted": [
+        "Vérifier les paires de langues et formats pris en charge sur le site officiel.",
+        "Tester un contenu non sensible et faire relire les résultats dans leur contexte."
+      ],
+      "examples": [
+        "Traduis ce texte en conservant la terminologie et en indiquant les ambiguïtés.",
+        "Propose une seconde formulation adaptée au public cible, sans ajouter d'informations."
+      ],
+      "pricing": "API Azure facturées à l'usage ; offres distinctes.",
+      "privacy": "Examiner les conditions de conservation des contenus, les traitements hors région et les droits des locuteurs avant de transférer des documents ou médias confidentiels.",
+      "selection": [
+        "Choisir Microsoft Translator lorsque ses formats et workflows correspondent à la tâche ; comparer les limites et le coût réel."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://learn.microsoft.com/en-us/azure/ai-services/translator",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://learn.microsoft.com/en-us/azure/ai-services/translator/document-translation/latest/overview",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    }
   },
   {
     "id": "AI-0069",
@@ -5409,10 +5563,77 @@
     "secondaryCategories": [],
     "url": "https://www.reverso.net",
     "kind": "Application / service",
-    "verification": "unverified",
+    "verification": "official_reviewed",
     "source": "https://allailists.com/",
     "inventoriedAt": "2026-11-15",
-    "sharedUrlCount": 1
+    "sharedUrlCount": 1,
+    "descriptionFr": "Plateforme de traduction, exemples en contexte, dictionnaires et correction linguistique.",
+    "descriptionEn": "Translation platform with in-context examples, dictionaries and proofreading.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Texte et documents",
+      "Traduction en contexte",
+      "Dictionnaires et grammaire"
+    ],
+    "featuresEn": [
+      "Text and documents",
+      "Translation in context",
+      "Dictionaries and grammar"
+    ],
+    "accessFr": "Web et applications selon service",
+    "accessEn": "Web and apps depending on service",
+    "officialSources": [
+      {
+        "url": "https://www.reverso.net/text-translation",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de traduction, exemples en contexte, dictionnaires et correction linguistique.",
+      "audiences": [
+        "Traducteurs et rédacteurs multilingues",
+        "Étudiants et professionnels"
+      ],
+      "cases": [
+        "Traduire un document avec son contexte",
+        "Comparer plusieurs formulations",
+        "Réviser les termes spécialisés"
+      ],
+      "advantages": [
+        "Texte et documents",
+        "Traduction en contexte",
+        "Dictionnaires et grammaire"
+      ],
+      "limits": [
+        "Les exemples ne constituent pas des validations terminologiques spécialisées.",
+        "Une traduction automatique doit être révisée pour les informations critiques."
+      ],
+      "gettingStarted": [
+        "Vérifier les paires de langues et formats pris en charge sur le site officiel.",
+        "Tester un contenu non sensible et faire relire les résultats dans leur contexte."
+      ],
+      "examples": [
+        "Traduis ce texte en conservant la terminologie et en indiquant les ambiguïtés.",
+        "Propose une seconde formulation adaptée au public cible, sans ajouter d'informations."
+      ],
+      "pricing": "Services gratuits et fonctionnalités Premium selon l'offre.",
+      "privacy": "Examiner les conditions de conservation des contenus, les traitements hors région et les droits des locuteurs avant de transférer des documents ou médias confidentiels.",
+      "selection": [
+        "Choisir Reverso lorsque ses formats et workflows correspondent à la tâche ; comparer les limites et le coût réel."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.reverso.net/text-translation",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    }
   },
   {
     "id": "AI-0070",
@@ -5423,10 +5644,77 @@
     "secondaryCategories": [],
     "url": "https://laratranslate.com",
     "kind": "Application / service",
-    "verification": "unverified",
+    "verification": "official_reviewed",
     "source": "https://allailists.com/",
     "inventoriedAt": "2026-11-15",
-    "sharedUrlCount": 1
+    "sharedUrlCount": 1,
+    "descriptionFr": "Traduction contextuelle avec styles, mémoires, glossaires et documents.",
+    "descriptionEn": "Context-aware translation with styles, memories, glossaries and documents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Styles de traduction",
+      "Mémoires et glossaires",
+      "Documents et interprétation"
+    ],
+    "featuresEn": [
+      "Translation styles",
+      "Memories and glossaries",
+      "Documents and interpreting"
+    ],
+    "accessFr": "Web et applications selon service",
+    "accessEn": "Web and apps depending on service",
+    "officialSources": [
+      {
+        "url": "https://laratranslate.com/translate",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Traduction contextuelle avec styles, mémoires, glossaires et documents.",
+      "audiences": [
+        "Traducteurs et rédacteurs multilingues",
+        "Étudiants et professionnels"
+      ],
+      "cases": [
+        "Traduire un document avec son contexte",
+        "Comparer plusieurs formulations",
+        "Réviser les termes spécialisés"
+      ],
+      "advantages": [
+        "Styles de traduction",
+        "Mémoires et glossaires",
+        "Documents et interprétation"
+      ],
+      "limits": [
+        "Langues et formats pris en charge variables selon le mode employé.",
+        "Une traduction automatique doit être révisée pour les informations critiques."
+      ],
+      "gettingStarted": [
+        "Vérifier les paires de langues et formats pris en charge sur le site officiel.",
+        "Tester un contenu non sensible et faire relire les résultats dans leur contexte."
+      ],
+      "examples": [
+        "Traduis ce texte en conservant la terminologie et en indiquant les ambiguïtés.",
+        "Propose une seconde formulation adaptée au public cible, sans ajouter d'informations."
+      ],
+      "pricing": "Offres et limites à consulter sur le site.",
+      "privacy": "Examiner les conditions de conservation des contenus, les traitements hors région et les droits des locuteurs avant de transférer des documents ou médias confidentiels.",
+      "selection": [
+        "Choisir Lara Translate lorsque ses formats et workflows correspondent à la tâche ; comparer les limites et le coût réel."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://laratranslate.com/translate",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    }
   },
   {
     "id": "AI-0071",
@@ -5437,14 +5725,77 @@
     "secondaryCategories": [],
     "url": "https://www.smartcat.com",
     "kind": "Application / service",
-    "verification": "unverified",
+    "verification": "official_reviewed",
     "source": "https://allailists.com/",
     "inventoriedAt": "2026-11-15",
     "sharedUrlCount": 1,
-    "descriptionFr": "Plateforme de traduction et de localisation de contenus pour les équipes multilingues.",
-    "descriptionEn": "Translation and localization platform for multilingual teams.",
+    "descriptionFr": "Plateforme de traduction et localisation d'entreprise combinant IA et révision humaine.",
+    "descriptionEn": "Enterprise translation and localization combining AI with human review.",
     "descriptionStatus": "editorial",
-    "editorialDate": "2026-11-15"
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Localisation d'entreprise",
+      "Flux marketing et formation",
+      "Collaboration linguistique"
+    ],
+    "featuresEn": [
+      "Enterprise localization",
+      "Marketing and training workflows",
+      "Linguistic collaboration"
+    ],
+    "accessFr": "Plateforme web et intégrations",
+    "accessEn": "Web platform and integrations",
+    "officialSources": [
+      {
+        "url": "https://www.smartcat.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de traduction et localisation d'entreprise combinant IA et révision humaine.",
+      "audiences": [
+        "Responsables de localisation",
+        "Entreprises et équipes produit"
+      ],
+      "cases": [
+        "Planifier une traduction collaborative",
+        "Gérer versions et terminologie",
+        "Valider les traductions dans le produit final"
+      ],
+      "advantages": [
+        "Localisation d'entreprise",
+        "Flux marketing et formation",
+        "Collaboration linguistique"
+      ],
+      "limits": [
+        "Les contenus à portée juridique ou réglementaire demandent une validation humaine.",
+        "Une traduction automatique doit être révisée pour les informations critiques."
+      ],
+      "gettingStarted": [
+        "Vérifier les paires de langues et formats pris en charge sur le site officiel.",
+        "Tester un contenu non sensible et faire relire les résultats dans leur contexte."
+      ],
+      "examples": [
+        "Traduis ce texte en conservant la terminologie et en indiquant les ambiguïtés.",
+        "Propose une seconde formulation adaptée au public cible, sans ajouter d'informations."
+      ],
+      "pricing": "Essai et formules d'entreprise ; tarifs à vérifier.",
+      "privacy": "Examiner les conditions de conservation des contenus, les traitements hors région et les droits des locuteurs avant de transférer des documents ou médias confidentiels.",
+      "selection": [
+        "Choisir Smartcat lorsque ses formats et workflows correspondent à la tâche ; comparer les limites et le coût réel."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.smartcat.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    }
   },
   {
     "id": "AI-0072",
@@ -5455,10 +5806,77 @@
     "secondaryCategories": [],
     "url": "https://phrase.com",
     "kind": "Application / service",
-    "verification": "unverified",
+    "verification": "official_reviewed",
     "source": "https://allailists.com/",
     "inventoriedAt": "2026-11-15",
-    "sharedUrlCount": 1
+    "sharedUrlCount": 1,
+    "descriptionFr": "Plateforme TMS de localisation logicielle et multimédia avec automatisation et mesure de qualité.",
+    "descriptionEn": "TMS for software and multimedia localization with automation and quality evaluation.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Gestion des traductions",
+      "Localisation logicielle",
+      "Évaluation de qualité"
+    ],
+    "featuresEn": [
+      "Translation management",
+      "Software localization",
+      "Quality evaluation"
+    ],
+    "accessFr": "Plateforme web et intégrations",
+    "accessEn": "Web platform and integrations",
+    "officialSources": [
+      {
+        "url": "https://phrase.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme TMS de localisation logicielle et multimédia avec automatisation et mesure de qualité.",
+      "audiences": [
+        "Responsables de localisation",
+        "Entreprises et équipes produit"
+      ],
+      "cases": [
+        "Planifier une traduction collaborative",
+        "Gérer versions et terminologie",
+        "Valider les traductions dans le produit final"
+      ],
+      "advantages": [
+        "Gestion des traductions",
+        "Localisation logicielle",
+        "Évaluation de qualité"
+      ],
+      "limits": [
+        "Les modules et intégrations varient selon les contrats.",
+        "Une traduction automatique doit être révisée pour les informations critiques."
+      ],
+      "gettingStarted": [
+        "Vérifier les paires de langues et formats pris en charge sur le site officiel.",
+        "Tester un contenu non sensible et faire relire les résultats dans leur contexte."
+      ],
+      "examples": [
+        "Traduis ce texte en conservant la terminologie et en indiquant les ambiguïtés.",
+        "Propose une seconde formulation adaptée au public cible, sans ajouter d'informations."
+      ],
+      "pricing": "Offres professionnelles selon les modules.",
+      "privacy": "Examiner les conditions de conservation des contenus, les traitements hors région et les droits des locuteurs avant de transférer des documents ou médias confidentiels.",
+      "selection": [
+        "Choisir Phrase lorsque ses formats et workflows correspondent à la tâche ; comparer les limites et le coût réel."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://phrase.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    }
   },
   {
     "id": "AI-0073",
@@ -5469,14 +5887,77 @@
     "secondaryCategories": [],
     "url": "https://lokalise.com",
     "kind": "Application / service",
-    "verification": "unverified",
+    "verification": "official_reviewed",
     "source": "https://allailists.com/",
     "inventoriedAt": "2026-11-15",
     "sharedUrlCount": 1,
-    "descriptionFr": "Outil de gestion de la localisation et de collaboration sur les traductions de produits numériques.",
-    "descriptionEn": "Localization management and translation collaboration tool.",
+    "descriptionFr": "Localisation collaborative de sites et applications avec automatisation et intégrations.",
+    "descriptionEn": "Collaborative website and application localization with automation and integrations.",
     "descriptionStatus": "editorial",
-    "editorialDate": "2026-11-15"
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Sites et applications",
+      "Intégrations GitHub/Figma",
+      "Automatisation et contexte"
+    ],
+    "featuresEn": [
+      "Websites and apps",
+      "GitHub/Figma integrations",
+      "Automation and context"
+    ],
+    "accessFr": "Plateforme web et intégrations",
+    "accessEn": "Web platform and integrations",
+    "officialSources": [
+      {
+        "url": "https://lokalise.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Localisation collaborative de sites et applications avec automatisation et intégrations.",
+      "audiences": [
+        "Responsables de localisation",
+        "Entreprises et équipes produit"
+      ],
+      "cases": [
+        "Planifier une traduction collaborative",
+        "Gérer versions et terminologie",
+        "Valider les traductions dans le produit final"
+      ],
+      "advantages": [
+        "Sites et applications",
+        "Intégrations GitHub/Figma",
+        "Automatisation et contexte"
+      ],
+      "limits": [
+        "Vérifier les variables d'interface, longueurs et rendus localisés.",
+        "Une traduction automatique doit être révisée pour les informations critiques."
+      ],
+      "gettingStarted": [
+        "Vérifier les paires de langues et formats pris en charge sur le site officiel.",
+        "Tester un contenu non sensible et faire relire les résultats dans leur contexte."
+      ],
+      "examples": [
+        "Traduis ce texte en conservant la terminologie et en indiquant les ambiguïtés.",
+        "Propose une seconde formulation adaptée au public cible, sans ajouter d'informations."
+      ],
+      "pricing": "Abonnements selon besoins et capacités.",
+      "privacy": "Examiner les conditions de conservation des contenus, les traitements hors région et les droits des locuteurs avant de transférer des documents ou médias confidentiels.",
+      "selection": [
+        "Choisir Lokalise lorsque ses formats et workflows correspondent à la tâche ; comparer les limites et le coût réel."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://lokalise.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    }
   },
   {
     "id": "AI-0074",
@@ -5487,14 +5968,77 @@
     "secondaryCategories": [],
     "url": "https://crowdin.com",
     "kind": "Application / service",
-    "verification": "unverified",
+    "verification": "official_reviewed",
     "source": "https://allailists.com/",
     "inventoriedAt": "2026-11-15",
     "sharedUrlCount": 1,
-    "descriptionFr": "Plateforme de gestion des traductions et de la localisation de logiciels et de sites.",
-    "descriptionEn": "Localization and translation management platform for software and websites.",
+    "descriptionFr": "Plateforme de localisation collaborative de contenus numériques avec intégrations et IA.",
+    "descriptionEn": "Collaborative digital localization platform with integrations and AI.",
     "descriptionStatus": "editorial",
-    "editorialDate": "2026-11-15"
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Traductions collaboratives",
+      "Intégrations techniques",
+      "Automatisation IA"
+    ],
+    "featuresEn": [
+      "Collaborative translation",
+      "Technical integrations",
+      "AI automation"
+    ],
+    "accessFr": "Plateforme web et intégrations",
+    "accessEn": "Web platform and integrations",
+    "officialSources": [
+      {
+        "url": "https://crowdin.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de localisation collaborative de contenus numériques avec intégrations et IA.",
+      "audiences": [
+        "Responsables de localisation",
+        "Entreprises et équipes produit"
+      ],
+      "cases": [
+        "Planifier une traduction collaborative",
+        "Gérer versions et terminologie",
+        "Valider les traductions dans le produit final"
+      ],
+      "advantages": [
+        "Traductions collaboratives",
+        "Intégrations techniques",
+        "Automatisation IA"
+      ],
+      "limits": [
+        "Les chaînes logicielles imposent de préserver variables et placeholders.",
+        "Une traduction automatique doit être révisée pour les informations critiques."
+      ],
+      "gettingStarted": [
+        "Vérifier les paires de langues et formats pris en charge sur le site officiel.",
+        "Tester un contenu non sensible et faire relire les résultats dans leur contexte."
+      ],
+      "examples": [
+        "Traduis ce texte en conservant la terminologie et en indiquant les ambiguïtés.",
+        "Propose une seconde formulation adaptée au public cible, sans ajouter d'informations."
+      ],
+      "pricing": "Essai et offres payantes selon le projet.",
+      "privacy": "Examiner les conditions de conservation des contenus, les traitements hors région et les droits des locuteurs avant de transférer des documents ou médias confidentiels.",
+      "selection": [
+        "Choisir Crowdin lorsque ses formats et workflows correspondent à la tâche ; comparer les limites et le coût réel."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://crowdin.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    }
   },
   {
     "id": "AI-0075",
@@ -5505,10 +6049,77 @@
     "secondaryCategories": [],
     "url": "https://unbabel.com",
     "kind": "Application / service",
-    "verification": "unverified",
+    "verification": "official_reviewed",
     "source": "https://allailists.com/",
     "inventoriedAt": "2026-11-15",
-    "sharedUrlCount": 1
+    "sharedUrlCount": 1,
+    "descriptionFr": "Plateforme d'opérations linguistiques destinée notamment au support client multilingue.",
+    "descriptionEn": "Language operations platform including multilingual customer support.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Traduction du support",
+      "Opérations linguistiques",
+      "IA et contrôle qualité"
+    ],
+    "featuresEn": [
+      "Support translation",
+      "Language operations",
+      "AI and quality assurance"
+    ],
+    "accessFr": "Plateforme web et intégrations",
+    "accessEn": "Web platform and integrations",
+    "officialSources": [
+      {
+        "url": "https://unbabel.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme d'opérations linguistiques destinée notamment au support client multilingue.",
+      "audiences": [
+        "Responsables de localisation",
+        "Entreprises et équipes produit"
+      ],
+      "cases": [
+        "Planifier une traduction collaborative",
+        "Gérer versions et terminologie",
+        "Valider les traductions dans le produit final"
+      ],
+      "advantages": [
+        "Traduction du support",
+        "Opérations linguistiques",
+        "IA et contrôle qualité"
+      ],
+      "limits": [
+        "La qualité dépend du domaine, de la langue et du processus de révision.",
+        "Une traduction automatique doit être révisée pour les informations critiques."
+      ],
+      "gettingStarted": [
+        "Vérifier les paires de langues et formats pris en charge sur le site officiel.",
+        "Tester un contenu non sensible et faire relire les résultats dans leur contexte."
+      ],
+      "examples": [
+        "Traduis ce texte en conservant la terminologie et en indiquant les ambiguïtés.",
+        "Propose une seconde formulation adaptée au public cible, sans ajouter d'informations."
+      ],
+      "pricing": "Tarification professionnelle sur demande.",
+      "privacy": "Examiner les conditions de conservation des contenus, les traitements hors région et les droits des locuteurs avant de transférer des documents ou médias confidentiels.",
+      "selection": [
+        "Choisir Unbabel lorsque ses formats et workflows correspondent à la tâche ; comparer les limites et le coût réel."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://unbabel.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    }
   },
   {
     "id": "AI-0076",
@@ -5521,14 +6132,77 @@
     ],
     "url": "https://www.rask.ai",
     "kind": "Application / service",
-    "verification": "unverified",
+    "verification": "official_reviewed",
     "source": "https://allailists.com/",
     "inventoriedAt": "2026-11-15",
     "sharedUrlCount": 1,
-    "descriptionFr": "Service de traduction et de doublage de vidéos assisté par intelligence artificielle.",
-    "descriptionEn": "AI-powered video translation and dubbing platform.",
+    "descriptionFr": "Traduction et doublage automatique de vidéos et audio avec voix IA.",
+    "descriptionEn": "AI audio and video translation and dubbing with AI voices.",
     "descriptionStatus": "editorial",
-    "editorialDate": "2026-11-15"
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Doublage multilingue",
+      "Voix IA",
+      "Accès API"
+    ],
+    "featuresEn": [
+      "Multilingual dubbing",
+      "AI voices",
+      "API access"
+    ],
+    "accessFr": "Web et API selon offre",
+    "accessEn": "Web and API depending on plan",
+    "officialSources": [
+      {
+        "url": "https://www.rask.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Traduction et doublage automatique de vidéos et audio avec voix IA.",
+      "audiences": [
+        "Créateurs de vidéo et producteurs",
+        "Équipes de communication et formation"
+      ],
+      "cases": [
+        "Localiser une vidéo pour plusieurs marchés",
+        "Comparer voix, sens et synchronisation des séquences",
+        "Contrôler la traduction avec un locuteur natif"
+      ],
+      "advantages": [
+        "Doublage multilingue",
+        "Voix IA",
+        "Accès API"
+      ],
+      "limits": [
+        "Vérifier les accents, les synchronisations et les droits des voix.",
+        "Une traduction automatique doit être révisée pour les informations critiques."
+      ],
+      "gettingStarted": [
+        "Vérifier les paires de langues et formats pris en charge sur le site officiel.",
+        "Tester un contenu non sensible et faire relire les résultats dans leur contexte."
+      ],
+      "examples": [
+        "Traduis ce texte en conservant la terminologie et en indiquant les ambiguïtés.",
+        "Propose une seconde formulation adaptée au public cible, sans ajouter d'informations."
+      ],
+      "pricing": "Essai annoncé ; facturation selon l'offre.",
+      "privacy": "Examiner les conditions de conservation des contenus, les traitements hors région et les droits des locuteurs avant de transférer des documents ou médias confidentiels.",
+      "selection": [
+        "Choisir Rask AI lorsque ses formats et workflows correspondent à la tâche ; comparer les limites et le coût réel."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.rask.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    }
   },
   {
     "id": "AI-0077",
@@ -5541,10 +6215,87 @@
     ],
     "url": "https://www.papercup.com",
     "kind": "Application / service",
-    "verification": "unverified",
+    "verification": "official_reviewed",
     "source": "https://allailists.com/",
     "inventoriedAt": "2026-11-15",
-    "sharedUrlCount": 1
+    "sharedUrlCount": 1,
+    "descriptionFr": "Ancienne offre de doublage IA, dont le domaine redirige désormais vers les services de RWS.",
+    "descriptionEn": "Former AI dubbing offering whose domain now redirects to RWS services.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Doublage audiovisuel",
+      "Voix off",
+      "Service de localisation RWS"
+    ],
+    "featuresEn": [
+      "Audiovisual dubbing",
+      "Voice-over",
+      "RWS localization service"
+    ],
+    "accessFr": "Web et API selon offre",
+    "accessEn": "Web and API depending on plan",
+    "officialSources": [
+      {
+        "url": "https://www.papercup.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://www.rws.com/localization/services/translation-services/video-and-audio-translation/ai-dubbing-and-vo/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Ancienne offre de doublage IA, dont le domaine redirige désormais vers les services de RWS.",
+      "audiences": [
+        "Créateurs de vidéo et producteurs",
+        "Équipes de communication et formation"
+      ],
+      "cases": [
+        "Localiser une vidéo pour plusieurs marchés",
+        "Comparer voix, sens et synchronisation des séquences",
+        "Contrôler la traduction avec un locuteur natif"
+      ],
+      "advantages": [
+        "Doublage audiovisuel",
+        "Voix off",
+        "Service de localisation RWS"
+      ],
+      "limits": [
+        "La disponibilité des anciennes fonctions Papercup ne peut être présumée ; redirection vers RWS.",
+        "Une traduction automatique doit être révisée pour les informations critiques."
+      ],
+      "gettingStarted": [
+        "Vérifier les paires de langues et formats pris en charge sur le site officiel.",
+        "Tester un contenu non sensible et faire relire les résultats dans leur contexte."
+      ],
+      "examples": [
+        "Traduis ce texte en conservant la terminologie et en indiquant les ambiguïtés.",
+        "Propose une seconde formulation adaptée au public cible, sans ajouter d'informations."
+      ],
+      "pricing": "Contacter RWS pour un devis ou une offre.",
+      "privacy": "Examiner les conditions de conservation des contenus, les traitements hors région et les droits des locuteurs avant de transférer des documents ou médias confidentiels.",
+      "selection": [
+        "Choisir Papercup lorsque ses formats et workflows correspondent à la tâche ; comparer les limites et le coût réel."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.papercup.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.rws.com/localization/services/translation-services/video-and-audio-translation/ai-dubbing-and-vo/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    }
   },
   {
     "id": "AI-0078",
@@ -5555,10 +6306,87 @@
     "secondaryCategories": [],
     "url": "https://elevenlabs.io",
     "kind": "Application / service",
-    "verification": "unverified",
+    "verification": "official_reviewed",
     "source": "https://allailists.com/",
     "inventoriedAt": "2026-11-15",
-    "sharedUrlCount": 3
+    "sharedUrlCount": 3,
+    "descriptionFr": "Doublage audio et vidéo multilingue avec Dubbing v2 et Studio v1 historique.",
+    "descriptionEn": "Multilingual audio and video dubbing with v2 and legacy v1 Studio.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Doublage automatique v2",
+      "Langues et dialectes",
+      "API"
+    ],
+    "featuresEn": [
+      "Automatic v2 dubbing",
+      "Languages and dialects",
+      "API"
+    ],
+    "accessFr": "Web et API selon offre",
+    "accessEn": "Web and API depending on plan",
+    "officialSources": [
+      {
+        "url": "https://elevenlabs.io/docs/overview/capabilities/dubbing",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://elevenlabs.io/docs/fr/eleven-creative/products/dubbing/dubbing-studio",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Doublage audio et vidéo multilingue avec Dubbing v2 et Studio v1 historique.",
+      "audiences": [
+        "Créateurs de vidéo et producteurs",
+        "Équipes de communication et formation"
+      ],
+      "cases": [
+        "Localiser une vidéo pour plusieurs marchés",
+        "Comparer voix, sens et synchronisation des séquences",
+        "Contrôler la traduction avec un locuteur natif"
+      ],
+      "advantages": [
+        "Doublage automatique v2",
+        "Langues et dialectes",
+        "API"
+      ],
+      "limits": [
+        "Dubbing Studio v1 est en maintenance ; le doublage en temps réel n'est pas disponible.",
+        "Une traduction automatique doit être révisée pour les informations critiques."
+      ],
+      "gettingStarted": [
+        "Vérifier les paires de langues et formats pris en charge sur le site officiel.",
+        "Tester un contenu non sensible et faire relire les résultats dans leur contexte."
+      ],
+      "examples": [
+        "Traduis ce texte en conservant la terminologie et en indiquant les ambiguïtés.",
+        "Propose une seconde formulation adaptée au public cible, sans ajouter d'informations."
+      ],
+      "pricing": "V2 facturé à la durée et options API selon abonnement.",
+      "privacy": "Examiner les conditions de conservation des contenus, les traitements hors région et les droits des locuteurs avant de transférer des documents ou médias confidentiels.",
+      "selection": [
+        "Choisir ElevenLabs Dubbing lorsque ses formats et workflows correspondent à la tâche ; comparer les limites et le coût réel."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://elevenlabs.io/docs/overview/capabilities/dubbing",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://elevenlabs.io/docs/fr/eleven-creative/products/dubbing/dubbing-studio",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    }
   },
   {
     "id": "AI-0079",
@@ -5569,10 +6397,87 @@
     "secondaryCategories": [],
     "url": "https://www.heygen.com",
     "kind": "Application / service",
-    "verification": "unverified",
+    "verification": "official_reviewed",
     "source": "https://allailists.com/",
     "inventoriedAt": "2026-11-15",
-    "sharedUrlCount": 2
+    "sharedUrlCount": 2,
+    "descriptionFr": "Traduction vidéo avec adaptation vocale et synchronisation labiale optionnelle.",
+    "descriptionEn": "Video translation with revoicing and optional lip synchronization.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Traduction vidéo",
+      "Synchronisation labiale",
+      "Import de vidéo"
+    ],
+    "featuresEn": [
+      "Video translation",
+      "Lip synchronization",
+      "Video upload"
+    ],
+    "accessFr": "Web et API selon offre",
+    "accessEn": "Web and API depending on plan",
+    "officialSources": [
+      {
+        "url": "https://help.heygen.com/en/articles/10029081-how-to-get-started-with-video-translation",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://help.heygen.com/en/articles/11391941-video-translation-languages-we-support",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ],
+    "research": {
+      "headline": "Traduction vidéo avec adaptation vocale et synchronisation labiale optionnelle.",
+      "audiences": [
+        "Créateurs de vidéo et producteurs",
+        "Équipes de communication et formation"
+      ],
+      "cases": [
+        "Localiser une vidéo pour plusieurs marchés",
+        "Comparer voix, sens et synchronisation des séquences",
+        "Contrôler la traduction avec un locuteur natif"
+      ],
+      "advantages": [
+        "Traduction vidéo",
+        "Synchronisation labiale",
+        "Import de vidéo"
+      ],
+      "limits": [
+        "Fonctions et langues dépendent du mode ; vérifier les autorisations des intervenants.",
+        "Une traduction automatique doit être révisée pour les informations critiques."
+      ],
+      "gettingStarted": [
+        "Vérifier les paires de langues et formats pris en charge sur le site officiel.",
+        "Tester un contenu non sensible et faire relire les résultats dans leur contexte."
+      ],
+      "examples": [
+        "Traduis ce texte en conservant la terminologie et en indiquant les ambiguïtés.",
+        "Propose une seconde formulation adaptée au public cible, sans ajouter d'informations."
+      ],
+      "pricing": "Crédits et limites selon l'offre HeyGen.",
+      "privacy": "Examiner les conditions de conservation des contenus, les traitements hors région et les droits des locuteurs avant de transférer des documents ou médias confidentiels.",
+      "selection": [
+        "Choisir HeyGen Translate lorsque ses formats et workflows correspondent à la tâche ; comparer les limites et le coût réel."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.heygen.com/en/articles/10029081-how-to-get-started-with-video-translation",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://help.heygen.com/en/articles/11391941-video-translation-languages-we-support",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    }
   },
   {
     "id": "AI-0080",
