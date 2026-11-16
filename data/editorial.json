@@ -455,10 +455,29 @@
     ]
   },
   "Semantic Scholar": {
-    "descriptionFr": "Moteur de recherche universitaire gratuit utilisant l’IA pour découvrir des publications scientifiques.",
-    "descriptionEn": "Free AI-powered academic paper discovery service.",
+    "descriptionFr": "Recherche scientifique assistée par IA et recommandations bibliographiques.",
+    "descriptionEn": "Recherche scientifique assistée par IA et recommandations bibliographiques.",
     "descriptionStatus": "editorial",
-    "editorialDate": "2026-11-15"
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Recherche d’articles",
+      "Fils de publications personnalisés",
+      "Alertes auteurs et citations"
+    ],
+    "featuresEn": [
+      "Paper search",
+      "Personalized research feeds",
+      "Author and citation alerts"
+    ],
+    "accessFr": "Web",
+    "accessEn": "Web",
+    "officialSources": [
+      {
+        "url": "https://webflow.semanticscholar.org/faq",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
   },
   "ResearchRabbit": {
     "descriptionFr": "Outil visuel d’exploration de publications et d’auteurs, utile pour cartographier un domaine de recherche.",
@@ -467,22 +486,94 @@
     "editorialDate": "2026-11-15"
   },
   "Connected Papers": {
-    "descriptionFr": "Visualisation de réseaux d’articles scientifiques à partir de leurs proximités bibliographiques.",
-    "descriptionEn": "Visualization of related academic papers and bibliographic connections.",
+    "descriptionFr": "Graphes de proximité bibliographique fondés sur la co-citation et les références communes.",
+    "descriptionEn": "Graphes de proximité bibliographique fondés sur la co-citation et les références communes.",
     "descriptionStatus": "editorial",
-    "editorialDate": "2026-11-15"
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Graphes de similarité",
+      "Travaux antérieurs et dérivés",
+      "Exploration visuelle"
+    ],
+    "featuresEn": [
+      "Similarity graphs",
+      "Prior and derivative works",
+      "Visual exploration"
+    ],
+    "accessFr": "Web",
+    "accessEn": "Web",
+    "officialSources": [
+      {
+        "url": "https://www.connectedpapers.com/about",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://www.connectedpapers.com/pricing",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
   },
   "Litmaps": {
-    "descriptionFr": "Outil de cartographie et de suivi des publications scientifiques pour les revues de littérature.",
-    "descriptionEn": "Research mapping and literature monitoring tool.",
+    "descriptionFr": "Cartographie et veille de publications scientifiques à partir d’articles de référence.",
+    "descriptionEn": "Cartographie et veille de publications scientifiques à partir d’articles de référence.",
     "descriptionStatus": "editorial",
-    "editorialDate": "2026-11-15"
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Cartes de littérature",
+      "Découverte d’articles liés",
+      "Alertes de publications"
+    ],
+    "featuresEn": [
+      "Literature mapping",
+      "Related-paper discovery",
+      "Publication alerts"
+    ],
+    "accessFr": "Web",
+    "accessEn": "Web",
+    "officialSources": [
+      {
+        "url": "https://docs.litmaps.com/en/articles/9092911-search-for-articles-with-litmaps",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://docs.litmaps.com/en/articles/9126249-monitor-get-alerts-for-important-research",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
   },
   "SciSpace": {
-    "descriptionFr": "Plateforme d’assistance à la lecture et à la recherche d’articles scientifiques, proposant des explications contextualisées.",
-    "descriptionEn": "Platform for reading and researching academic papers with contextual explanations.",
+    "descriptionFr": "Recherche, lecture assistée et comparaison d’articles pour les revues de littérature.",
+    "descriptionEn": "Recherche, lecture assistée et comparaison d’articles pour les revues de littérature.",
     "descriptionStatus": "editorial",
-    "editorialDate": "2026-11-15"
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Recherche d’articles",
+      "Questions sur publications",
+      "Tableaux de synthèse"
+    ],
+    "featuresEn": [
+      "Paper search",
+      "Paper question-answering",
+      "Evidence tables"
+    ],
+    "accessFr": "Web",
+    "accessEn": "Web",
+    "officialSources": [
+      {
+        "url": "https://scispace.com/literature-review",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://scispace.com/help/en/collections/7177367-literature-review",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
   },
   "NotebookLM": {
     "descriptionFr": "Outil de recherche et de prise de notes de Google permettant d’interroger un ensemble de documents fournis.",
@@ -491,10 +582,34 @@
     "editorialDate": "2026-11-15"
   },
   "Zotero": {
-    "descriptionFr": "Logiciel libre de gestion bibliographique pour collecter, organiser et citer des sources scientifiques.",
-    "descriptionEn": "Open-source reference manager to collect, organize and cite research sources.",
+    "descriptionFr": "Gestionnaire bibliographique libre de collecte, annotation, organisation et citation.",
+    "descriptionEn": "Gestionnaire bibliographique libre de collecte, annotation, organisation et citation.",
     "descriptionStatus": "editorial",
-    "editorialDate": "2026-11-15"
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Collecte de références",
+      "Gestion et annotation de PDF",
+      "Bibliographies automatiques"
+    ],
+    "featuresEn": [
+      "Reference capture",
+      "PDF management and notes",
+      "Automatic bibliographies"
+    ],
+    "accessFr": "Applications et navigateur",
+    "accessEn": "Apps and browser",
+    "officialSources": [
+      {
+        "url": "https://www.zotero.org/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://www.zotero.org/support/quick_start_guide",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
   },
   "Jasper": {
     "descriptionFr": "Plateforme de rédaction et de contenus marketing assistée par IA, conçue pour les équipes de communication.",
@@ -2483,6 +2598,226 @@
     "officialSources": [
       {
         "url": "https://help.kagi.com/kagi/ai/assistant.html",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "Inciteful": {
+    "descriptionFr": "Découverte de publications et de connexions par analyse de réseaux de citations.",
+    "descriptionEn": "Découverte de publications et de connexions par analyse de réseaux de citations.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Réseaux Paper Discovery",
+      "Literature Connector",
+      "Filtres bibliographiques"
+    ],
+    "featuresEn": [
+      "Paper Discovery network",
+      "Literature Connector",
+      "Bibliographic filters"
+    ],
+    "accessFr": "Web",
+    "accessEn": "Web",
+    "officialSources": [
+      {
+        "url": "https://incitefulmed.com/academic/help/power-users",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://github.com/inciteful-xyz/inciteful-academic-docs/blob/master/index.md",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "Scholarcy": {
+    "descriptionFr": "Synthèse de documents scientifiques en fiches de lecture interactives.",
+    "descriptionEn": "Synthèse de documents scientifiques en fiches de lecture interactives.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Fiches interactives",
+      "Annotations de lecture",
+      "Import et export"
+    ],
+    "featuresEn": [
+      "Interactive flashcards",
+      "Reading highlights",
+      "Import and export"
+    ],
+    "accessFr": "Web",
+    "accessEn": "Web",
+    "officialSources": [
+      {
+        "url": "https://www.scholarcy.com/faq",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://help.scholarcy.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "Explainpaper": {
+    "descriptionFr": "Explications contextualisées de passages complexes de publications scientifiques.",
+    "descriptionEn": "Explications contextualisées de passages complexes de publications scientifiques.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Explications sur sélection",
+      "Dialogue avec un PDF",
+      "Synthèse de résultats"
+    ],
+    "featuresEn": [
+      "Highlighted text explanations",
+      "Paper chat",
+      "Key findings"
+    ],
+    "accessFr": "Web",
+    "accessEn": "Web",
+    "officialSources": [
+      {
+        "url": "https://www.explainpaper.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "Undermind": {
+    "descriptionFr": "Recherche scientifique approfondie par agent IA, avec lecture des sources et rapports.",
+    "descriptionEn": "Recherche scientifique approfondie par agent IA, avec lecture des sources et rapports.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Recherche documentaire approfondie",
+      "Lecture de PDF",
+      "Rapports sourcés"
+    ],
+    "featuresEn": [
+      "Deep literature search",
+      "PDF reading",
+      "Sourced reports"
+    ],
+    "accessFr": "Web",
+    "accessEn": "Web",
+    "officialSources": [
+      {
+        "url": "https://www.undermind.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "Paperpal": {
+    "descriptionFr": "Assistance à la rédaction académique, aux corrections et aux contrôles avant soumission.",
+    "descriptionEn": "Assistance à la rédaction académique, aux corrections et aux contrôles avant soumission.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Correction académique",
+      "Paraphrase et traduction",
+      "Contrôle de références"
+    ],
+    "featuresEn": [
+      "Academic editing",
+      "Paraphrasing and translation",
+      "Reference checks"
+    ],
+    "accessFr": "Web",
+    "accessEn": "Web",
+    "officialSources": [
+      {
+        "url": "https://support.paperpal.com/support/solutions/articles/3000126441-how-does-paperpal-work-",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://paperpal.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "Jenni AI": {
+    "descriptionFr": "Éditeur de rédaction académique avec autocomplétion, citations et bibliothèque documentaire.",
+    "descriptionEn": "Éditeur de rédaction académique avec autocomplétion, citations et bibliothèque documentaire.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Autocomplétion IA",
+      "Citations et bibliographie",
+      "Bibliothèque PDF"
+    ],
+    "featuresEn": [
+      "AI autocomplete",
+      "Citation management",
+      "PDF library"
+    ],
+    "accessFr": "Web",
+    "accessEn": "Web",
+    "officialSources": [
+      {
+        "url": "https://docs.jenni.ai/docs/getting-started/introduction/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "Iris.ai": {
+    "descriptionFr": "Espace de recherche et d’extraction d’informations dans les publications scientifiques.",
+    "descriptionEn": "Espace de recherche et d’extraction d’informations dans les publications scientifiques.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Exploration et filtrage",
+      "Synthèse de corpus",
+      "Extraction de tableaux"
+    ],
+    "featuresEn": [
+      "Paper exploration",
+      "Collection summarization",
+      "Table extraction"
+    ],
+    "accessFr": "Web",
+    "accessEn": "Web",
+    "officialSources": [
+      {
+        "url": "https://iris.ai/help-center/rspace/training-resources",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "Dimensions": {
+    "descriptionFr": "Base de recherche reliant publications, brevets, financements, essais et indicateurs.",
+    "descriptionEn": "Base de recherche reliant publications, brevets, financements, essais et indicateurs.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Bibliométrie et recherche",
+      "Brevets et financements",
+      "Indicateurs d’impact"
+    ],
+    "featuresEn": [
+      "Bibliometrics and search",
+      "Patents and grants",
+      "Impact indicators"
+    ],
+    "accessFr": "Web",
+    "accessEn": "Web",
+    "officialSources": [
+      {
+        "url": "https://www.dimensions.ai/dimensions-data/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://www.dimensions.ai/products/all-products/dimensions-free-version/",
         "checkedAt": "2026-11-16",
         "scope": "features_and_usage"
       }
