@@ -1,0 +1,1322 @@
+{
+  "ramp": {
+    "descriptionFr": "Plateforme de gestion financière professionnelle réunissant cartes d'entreprise, dépenses, factures et Ramp Intelligence : agents pour codage comptable, règles de dépenses et contrôle des exceptions.",
+    "descriptionEn": "Business finance platform combining corporate cards, expenses, bills and Ramp Intelligence agents for coding, spend policies and exception review.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Cartes, notes de frais et factures",
+      "Ramp Intelligence : approbations, codage et conformité",
+      "Tableau de contrôle et intégrations comptables"
+    ],
+    "featuresEn": [
+      "Cards, expenses and supplier bills",
+      "Ramp Intelligence approvals, coding and compliance",
+      "Control dashboard and accounting integrations"
+    ],
+    "accessFr": "Service de finances d'entreprise, régions et comptes éligibles",
+    "accessEn": "Business finance service with geographic eligibility",
+    "officialSources": [
+      {
+        "url": "https://ramp.com/intelligence",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://ramp.com/en-gb/intelligence",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de gestion financière professionnelle réunissant cartes d'entreprise, dépenses, factures et Ramp Intelligence : agents pour codage comptable, règles de dépenses et contrôle des exceptions.",
+      "audiences": [
+        "Comptables, contrôleurs financiers et équipes de trésorerie",
+        "Responsables de conformité, audit et gouvernance des données"
+      ],
+      "cases": [
+        "Examiner les notes de frais et faire escalader les dépenses à risque plutôt que de valider aveuglément les décisions d'un agent.",
+        "Contrôler les données d'origine, les permissions et les sorties automatisées avant tout usage dans une décision significative."
+      ],
+      "advantages": [
+        "Cartes, notes de frais et factures",
+        "Ramp Intelligence : approbations, codage et conformité",
+        "Tableau de contrôle et intégrations comptables"
+      ],
+      "limits": [
+        "Les agents utilisent des règles internes et proposent des vérifications par exception ; contrôler droits d'approbation, bénéficiaires, devises et disponibilité bancaire selon le pays.",
+        "Toute prédiction ou automatisation IA doit être confrontée aux données réelles et à des contrôles humains documentés."
+      ],
+      "gettingStarted": [
+        "Cartographier les flux de factures, dépenses ou écritures, les permissions et les contrôles comptables requis.",
+        "Lancer un essai sur données fictives ou autorisées, mesurer erreurs et exceptions, puis définir un circuit de validation."
+      ],
+      "examples": [
+        "Identifie les transactions à vérifier, associe leurs justificatifs et crée un rapport d'exceptions avant validation.",
+        "Produis une grille d'audit des droits, des opérations financières possibles et des traces de décision."
+      ],
+      "pricing": "Vérifier sièges, utilisateurs, pays couverts, volumes de factures ou transactions, données de marché, connexions ERP/API et conditions de contrat auprès de l'éditeur.",
+      "privacy": "Contrôler les informations financières sensibles, comptes, données des salariés/clients, autorisations par rôle, rétention, sous-traitants et journalisation ; limiter les actions sur paiements réels.",
+      "selection": [
+        "Choisir Ramp selon le métier (spend), les données couvertes, les contrôles, les permissions, les intégrations, les coûts et les règles applicables."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://ramp.com/intelligence",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://ramp.com/en-gb/intelligence",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "brex": {
+    "descriptionFr": "Plateforme Brex de cartes d'entreprise, dépenses, voyages et paiements avec agents de contrôle ; appartient à Capital One depuis avril 2026.",
+    "descriptionEn": "Brex corporate cards, spend, travel and payments with finance agents; owned by Capital One since April 2026.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Cartes et plafonds de dépenses, budgets et remboursements",
+      "Assistants, Audit Agent et Review Agent",
+      "Connecteurs ChatGPT/Claude en accès anticipé et serveur MCP"
+    ],
+    "featuresEn": [
+      "Cards and spend limits, budgets and reimbursements",
+      "Assistant, Audit Agent and Review Agent",
+      "Early-access ChatGPT/Claude connectors and MCP server"
+    ],
+    "accessFr": "Service de finances d'entreprise, régions et comptes éligibles",
+    "accessEn": "Business finance service with geographic eligibility",
+    "officialSources": [
+      {
+        "url": "https://www.capitalone.com/about/newsroom/capital-one-completes-acquisition-of-brex/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.brex.com/platform/intelligent-finance",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.brex.com/support/using-brex-in-ai-apps",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme Brex de cartes d'entreprise, dépenses, voyages et paiements avec agents de contrôle ; appartient à Capital One depuis avril 2026.",
+      "audiences": [
+        "Comptables, contrôleurs financiers et équipes de trésorerie",
+        "Responsables de conformité, audit et gouvernance des données"
+      ],
+      "cases": [
+        "Contrôler les justificatifs manquants et examiner les transactions classées par risque avant remboursement.",
+        "Contrôler les données d'origine, les permissions et les sorties automatisées avant tout usage dans une décision significative."
+      ],
+      "advantages": [
+        "Cartes et plafonds de dépenses, budgets et remboursements",
+        "Assistants, Audit Agent et Review Agent",
+        "Connecteurs ChatGPT/Claude en accès anticipé et serveur MCP"
+      ],
+      "limits": [
+        "Capital One a finalisé l'acquisition de Brex le 7 avril 2026 ; le produit reste proposé sous sa marque. Les connecteurs assistants et MCP sont en accès anticipé, avec permissions par rôle ; vérifier pays éligibles, données accessibles et autorisations d'écriture.",
+        "Toute prédiction ou automatisation IA doit être confrontée aux données réelles et à des contrôles humains documentés."
+      ],
+      "gettingStarted": [
+        "Cartographier les flux de factures, dépenses ou écritures, les permissions et les contrôles comptables requis.",
+        "Lancer un essai sur données fictives ou autorisées, mesurer erreurs et exceptions, puis définir un circuit de validation."
+      ],
+      "examples": [
+        "Identifie les transactions à vérifier, associe leurs justificatifs et crée un rapport d'exceptions avant validation.",
+        "Produis une grille d'audit des droits, des opérations financières possibles et des traces de décision."
+      ],
+      "pricing": "Vérifier sièges, utilisateurs, pays couverts, volumes de factures ou transactions, données de marché, connexions ERP/API et conditions de contrat auprès de l'éditeur.",
+      "privacy": "Contrôler les informations financières sensibles, comptes, données des salariés/clients, autorisations par rôle, rétention, sous-traitants et journalisation ; limiter les actions sur paiements réels.",
+      "selection": [
+        "Choisir Brex selon le métier (spend), les données couvertes, les contrôles, les permissions, les intégrations, les coûts et les règles applicables."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "acquired_by_capital_one_active",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.capitalone.com/about/newsroom/capital-one-completes-acquisition-of-brex/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.brex.com/platform/intelligent-finance",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.brex.com/support/using-brex-in-ai-apps",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_acquired_active",
+    "name": "Brex (Capital One)"
+  },
+  "vic-ai": {
+    "descriptionFr": "Plateforme d'automatisation des comptes fournisseurs avec extraction de factures, prédictions comptables, Autopilot, portail fournisseur et paiement VicPay.",
+    "descriptionEn": "Accounts payable automation platform with invoice extraction, accounting predictions, Autopilot, vendor portal and VicPay.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Extraction des données de facture et rapprochements",
+      "Autopilot, prévisions de codage et validations",
+      "VicAgents, VicPay et synchronisation ERP"
+    ],
+    "featuresEn": [
+      "Invoice extraction and matching",
+      "Autopilot, accounting predictions and approvals",
+      "VicAgents, VicPay and ERP sync"
+    ],
+    "accessFr": "SaaS comptable d'entreprise et intégrations ERP selon offre",
+    "accessEn": "Enterprise accounting SaaS with plan-dependent ERP connections",
+    "officialSources": [
+      {
+        "url": "https://www.vic.ai/blog/q1-2026-product-release-expanding-autonomy-across-the-ap-lifecycle",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.vic.ai/news/vic-ai-launches-vicpay-vendor-portal-and-vicagents-accelerating-the-shift-to-autonomous-finance",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://help.vic.ai/en/articles/5117410-engaging-autopilot",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme d'automatisation des comptes fournisseurs avec extraction de factures, prédictions comptables, Autopilot, portail fournisseur et paiement VicPay.",
+      "audiences": [
+        "Comptables, contrôleurs financiers et équipes de trésorerie",
+        "Responsables de conformité, audit et gouvernance des données"
+      ],
+      "cases": [
+        "Traiter un lot de factures, contrôler fournisseur, montant et imputation puis déclencher une approbation si l'anomalie est significative.",
+        "Contrôler les données d'origine, les permissions et les sorties automatisées avant tout usage dans une décision significative."
+      ],
+      "advantages": [
+        "Extraction des données de facture et rapprochements",
+        "Autopilot, prévisions de codage et validations",
+        "VicAgents, VicPay et synchronisation ERP"
+      ],
+      "limits": [
+        "L'Autopilot s'active pour les organisations disposant d'assez d'historique et de prédictions jugées fiables ; aucune promesse de 100 % de précision. Évaluer doublons, droits de paiement, audit et règles de contrôle.",
+        "Toute prédiction ou automatisation IA doit être confrontée aux données réelles et à des contrôles humains documentés."
+      ],
+      "gettingStarted": [
+        "Cartographier les flux de factures, dépenses ou écritures, les permissions et les contrôles comptables requis.",
+        "Lancer un essai sur données fictives ou autorisées, mesurer erreurs et exceptions, puis définir un circuit de validation."
+      ],
+      "examples": [
+        "Identifie les transactions à vérifier, associe leurs justificatifs et crée un rapport d'exceptions avant validation.",
+        "Produis une grille d'audit des droits, des opérations financières possibles et des traces de décision."
+      ],
+      "pricing": "Vérifier sièges, utilisateurs, pays couverts, volumes de factures ou transactions, données de marché, connexions ERP/API et conditions de contrat auprès de l'éditeur.",
+      "privacy": "Contrôler les informations financières sensibles, comptes, données des salariés/clients, autorisations par rôle, rétention, sous-traitants et journalisation ; limiter les actions sur paiements réels.",
+      "selection": [
+        "Choisir Vic.ai selon le métier (accounts_payable), les données couvertes, les contrôles, les permissions, les intégrations, les coûts et les règles applicables."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.vic.ai/blog/q1-2026-product-release-expanding-autonomy-across-the-ap-lifecycle",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.vic.ai/news/vic-ai-launches-vicpay-vendor-portal-and-vicagents-accelerating-the-shift-to-autonomous-finance",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://help.vic.ai/en/articles/5117410-engaging-autopilot",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "dext": {
+    "descriptionFr": "Plateforme de comptabilité automatisée regroupant capture des reçus et factures, contrôle qualité, rapprochements et anciens produits Prepare, Precision et Commerce.",
+    "descriptionEn": "Unified bookkeeping platform combining receipt and invoice capture, data-quality checks, reconciliation and formerly separate Prepare, Precision and Commerce tools.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Capture et OCR des reçus, factures et dépenses",
+      "Contrôles qualité et analyses comptables",
+      "Intégrations Xero, QuickBooks et workflows"
+    ],
+    "featuresEn": [
+      "Receipt/invoice OCR and expense capture",
+      "Accounting data checks and insights",
+      "Xero, QuickBooks and workflow integrations"
+    ],
+    "accessFr": "SaaS comptable d'entreprise et intégrations ERP selon offre",
+    "accessEn": "Enterprise accounting SaaS with plan-dependent ERP connections",
+    "officialSources": [
+      {
+        "url": "https://dext.com/us/unified-platform",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://info.dext.com/info.dext.com/dext-unification-web-page-blog",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de comptabilité automatisée regroupant capture des reçus et factures, contrôle qualité, rapprochements et anciens produits Prepare, Precision et Commerce.",
+      "audiences": [
+        "Comptables, contrôleurs financiers et équipes de trésorerie",
+        "Responsables de conformité, audit et gouvernance des données"
+      ],
+      "cases": [
+        "Collecter les justificatifs d'une petite entreprise puis rapprocher les données importées avec le grand livre.",
+        "Contrôler les données d'origine, les permissions et les sorties automatisées avant tout usage dans une décision significative."
+      ],
+      "advantages": [
+        "Capture et OCR des reçus, factures et dépenses",
+        "Contrôles qualité et analyses comptables",
+        "Intégrations Xero, QuickBooks et workflows"
+      ],
+      "limits": [
+        "Prepare, Precision et Commerce sont progressivement consolidés dans une seule plateforme ; ne pas les compter comme trois applications indépendantes. Vérifier la migration, les accès historiques, les quotas de dossiers et le coût par client.",
+        "Toute prédiction ou automatisation IA doit être confrontée aux données réelles et à des contrôles humains documentés."
+      ],
+      "gettingStarted": [
+        "Cartographier les flux de factures, dépenses ou écritures, les permissions et les contrôles comptables requis.",
+        "Lancer un essai sur données fictives ou autorisées, mesurer erreurs et exceptions, puis définir un circuit de validation."
+      ],
+      "examples": [
+        "Identifie les transactions à vérifier, associe leurs justificatifs et crée un rapport d'exceptions avant validation.",
+        "Produis une grille d'audit des droits, des opérations financières possibles et des traces de décision."
+      ],
+      "pricing": "Vérifier sièges, utilisateurs, pays couverts, volumes de factures ou transactions, données de marché, connexions ERP/API et conditions de contrat auprès de l'éditeur.",
+      "privacy": "Contrôler les informations financières sensibles, comptes, données des salariés/clients, autorisations par rôle, rétention, sous-traitants et journalisation ; limiter les actions sur paiements réels.",
+      "selection": [
+        "Choisir Dext selon le métier (bookkeeping), les données couvertes, les contrôles, les permissions, les intégrations, les coûts et les règles applicables."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "unified_accounting_platform",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://dext.com/us/unified-platform",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://info.dext.com/info.dext.com/dext-unification-web-page-blog",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_platform_unification"
+  },
+  "botkeeper": {
+    "descriptionFr": "Plateforme d'automatisation comptable pour cabinets, exploité par Xendoo, proposant capture des transactions, rapprochements bancaires et revue par exception.",
+    "descriptionEn": "Accounting automation platform for firms operated by Xendoo, covering transaction capture, bank reconciliation and exception review.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Transaction Manager et synchronisation des comptes",
+      "Auto Bank Rec et page Accounts consolidée en bêta",
+      "Rapprochement avec validation comptable"
+    ],
+    "featuresEn": [
+      "Transaction Manager and account sync",
+      "Auto Bank Rec and beta unified Accounts page",
+      "Human-reviewed accounting reconciliations"
+    ],
+    "accessFr": "SaaS comptable d'entreprise et intégrations ERP selon offre",
+    "accessEn": "Enterprise accounting SaaS with plan-dependent ERP connections",
+    "officialSources": [
+      {
+        "url": "https://www.botkeeper.com/legal",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.botkeeper.com/en/knowledge/september-2026-release",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.botkeeper.com/en/knowledge/botkeeper-platform-updates-and-roadmap",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme d'automatisation comptable pour cabinets, exploité par Xendoo, proposant capture des transactions, rapprochements bancaires et revue par exception.",
+      "audiences": [
+        "Comptables, contrôleurs financiers et équipes de trésorerie",
+        "Responsables de conformité, audit et gouvernance des données"
+      ],
+      "cases": [
+        "Automatiser le rapprochement des relevés bancaires puis faire confirmer les écritures et écarts par le cabinet.",
+        "Contrôler les données d'origine, les permissions et les sorties automatisées avant tout usage dans une décision significative."
+      ],
+      "advantages": [
+        "Transaction Manager et synchronisation des comptes",
+        "Auto Bank Rec et page Accounts consolidée en bêta",
+        "Rapprochement avec validation comptable"
+      ],
+      "limits": [
+        "Les conditions datées d'octobre 2026 indiquent que Botkeeper est une marque exploitée par Xendoo Inc. La nouvelle page Accounts est en bêta depuis septembre ; ne pas présumer qu'elle remplace déjà tous les modules chez chaque client.",
+        "Toute prédiction ou automatisation IA doit être confrontée aux données réelles et à des contrôles humains documentés."
+      ],
+      "gettingStarted": [
+        "Cartographier les flux de factures, dépenses ou écritures, les permissions et les contrôles comptables requis.",
+        "Lancer un essai sur données fictives ou autorisées, mesurer erreurs et exceptions, puis définir un circuit de validation."
+      ],
+      "examples": [
+        "Identifie les transactions à vérifier, associe leurs justificatifs et crée un rapport d'exceptions avant validation.",
+        "Produis une grille d'audit des droits, des opérations financières possibles et des traces de décision."
+      ],
+      "pricing": "Vérifier sièges, utilisateurs, pays couverts, volumes de factures ou transactions, données de marché, connexions ERP/API et conditions de contrat auprès de l'éditeur.",
+      "privacy": "Contrôler les informations financières sensibles, comptes, données des salariés/clients, autorisations par rôle, rétention, sous-traitants et journalisation ; limiter les actions sur paiements réels.",
+      "selection": [
+        "Choisir Botkeeper selon le métier (bookkeeping), les données couvertes, les contrôles, les permissions, les intégrations, les coûts et les règles applicables."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "operated_by_xendoo",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.botkeeper.com/legal",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.botkeeper.com/en/knowledge/september-2026-release",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.botkeeper.com/en/knowledge/botkeeper-platform-updates-and-roadmap",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_owner_update",
+    "name": "Botkeeper (Xendoo)"
+  },
+  "floqast": {
+    "descriptionFr": "Plateforme de clôture comptable avec FloQast Transform, assistants IA et agents auditables pour rapprochements, écritures et workflows réglementés.",
+    "descriptionEn": "Financial close platform with FloQast Transform, AI assistants and auditable agents for reconciliations, journal entries and governed workflows.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Clôture, rapprochements et contrôles",
+      "FloQast Transform et Visual Agent Builder",
+      "Agents construits à partir des clôtures approuvées"
+    ],
+    "featuresEn": [
+      "Close, reconciliations and controls",
+      "FloQast Transform and Visual Agent Builder",
+      "Agents built from approved prior closes"
+    ],
+    "accessFr": "SaaS comptable d'entreprise et intégrations ERP selon offre",
+    "accessEn": "Enterprise accounting SaaS with plan-dependent ERP connections",
+    "officialSources": [
+      {
+        "url": "https://www.floqast.com/close-ai/products/ai-agents",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.floqast.com/press-releases/floqast-takecontrol-2026-ai-accounting-innovations",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.floqast.com/blog/the-next-evolution-of-accounting-ai-visual-agentic-and-built-by-you",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de clôture comptable avec FloQast Transform, assistants IA et agents auditables pour rapprochements, écritures et workflows réglementés.",
+      "audiences": [
+        "Comptables, contrôleurs financiers et équipes de trésorerie",
+        "Responsables de conformité, audit et gouvernance des données"
+      ],
+      "cases": [
+        "Construire un agent de provision mensuelle à partir d'une clôture déjà approuvée et tester ses sorties avant toute écriture.",
+        "Contrôler les données d'origine, les permissions et les sorties automatisées avant tout usage dans une décision significative."
+      ],
+      "advantages": [
+        "Clôture, rapprochements et contrôles",
+        "FloQast Transform et Visual Agent Builder",
+        "Agents construits à partir des clôtures approuvées"
+      ],
+      "limits": [
+        "Les agents peuvent proposer calculs et écritures mais l'équipe doit contrôler leur exactitude. Visual Agent Builder est sorti en mars 2026 et de nouvelles fonctions ont été annoncées en septembre ; vérifier le forfait et les capacités réellement activées.",
+        "Toute prédiction ou automatisation IA doit être confrontée aux données réelles et à des contrôles humains documentés."
+      ],
+      "gettingStarted": [
+        "Cartographier les flux de factures, dépenses ou écritures, les permissions et les contrôles comptables requis.",
+        "Lancer un essai sur données fictives ou autorisées, mesurer erreurs et exceptions, puis définir un circuit de validation."
+      ],
+      "examples": [
+        "Identifie les transactions à vérifier, associe leurs justificatifs et crée un rapport d'exceptions avant validation.",
+        "Produis une grille d'audit des droits, des opérations financières possibles et des traces de décision."
+      ],
+      "pricing": "Vérifier sièges, utilisateurs, pays couverts, volumes de factures ou transactions, données de marché, connexions ERP/API et conditions de contrat auprès de l'éditeur.",
+      "privacy": "Contrôler les informations financières sensibles, comptes, données des salariés/clients, autorisations par rôle, rétention, sous-traitants et journalisation ; limiter les actions sur paiements réels.",
+      "selection": [
+        "Choisir FloQast selon le métier (close), les données couvertes, les contrôles, les permissions, les intégrations, les coûts et les règles applicables."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.floqast.com/close-ai/products/ai-agents",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.floqast.com/press-releases/floqast-takecontrol-2026-ai-accounting-innovations",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.floqast.com/blog/the-next-evolution-of-accounting-ai-visual-agentic-and-built-by-you",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "blackline": {
+    "descriptionFr": "Plateforme de finance automatisée avec rapprochements, clôture et BlackLine Verity ; Verity Prepare est disponible, tandis que certaines extensions sont présentées dans une feuille de route.",
+    "descriptionEn": "Financial operations automation platform for reconciliations and close with BlackLine Verity; Verity Prepare is available while some other extensions remain roadmap items.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Rapprochements, écritures et clôture financière",
+      "Verity Prepare : préparation de rapprochements traçables",
+      "Verity Match et Accruals, intégration SAP Joule annoncée"
+    ],
+    "featuresEn": [
+      "Reconciliation, journals and financial close",
+      "Verity Prepare for traceable reconciliation preparation",
+      "Announced Verity Match, Accruals and SAP Joule integration"
+    ],
+    "accessFr": "SaaS comptable d'entreprise et intégrations ERP selon offre",
+    "accessEn": "Enterprise accounting SaaS with plan-dependent ERP connections",
+    "officialSources": [
+      {
+        "url": "https://www.blackline.com/about/press-releases/2026/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://investors.blackline.com/news-releases/news-release-details/blackline-announces-ai-roadmap-alignment-sap-partnership-deliver",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de finance automatisée avec rapprochements, clôture et BlackLine Verity ; Verity Prepare est disponible, tandis que certaines extensions sont présentées dans une feuille de route.",
+      "audiences": [
+        "Comptables, contrôleurs financiers et équipes de trésorerie",
+        "Responsables de conformité, audit et gouvernance des données"
+      ],
+      "cases": [
+        "Comparer une réconciliation proposée automatiquement aux pièces comptables, puis tracer les exceptions et l'approbation du responsable.",
+        "Contrôler les données d'origine, les permissions et les sorties automatisées avant tout usage dans une décision significative."
+      ],
+      "advantages": [
+        "Rapprochements, écritures et clôture financière",
+        "Verity Prepare : préparation de rapprochements traçables",
+        "Verity Match et Accruals, intégration SAP Joule annoncée"
+      ],
+      "limits": [
+        "Verity Prepare a été annoncé en disponibilité générale en juillet 2026 ; l'intégration SAP Joule et plusieurs agents font l'objet d'une feuille de route de novembre 2026, à ne pas présenter comme universellement déployée. Les contrôles restent obligatoires.",
+        "Toute prédiction ou automatisation IA doit être confrontée aux données réelles et à des contrôles humains documentés."
+      ],
+      "gettingStarted": [
+        "Cartographier les flux de factures, dépenses ou écritures, les permissions et les contrôles comptables requis.",
+        "Lancer un essai sur données fictives ou autorisées, mesurer erreurs et exceptions, puis définir un circuit de validation."
+      ],
+      "examples": [
+        "Identifie les transactions à vérifier, associe leurs justificatifs et crée un rapport d'exceptions avant validation.",
+        "Produis une grille d'audit des droits, des opérations financières possibles et des traces de décision."
+      ],
+      "pricing": "Vérifier sièges, utilisateurs, pays couverts, volumes de factures ou transactions, données de marché, connexions ERP/API et conditions de contrat auprès de l'éditeur.",
+      "privacy": "Contrôler les informations financières sensibles, comptes, données des salariés/clients, autorisations par rôle, rétention, sous-traitants et journalisation ; limiter les actions sur paiements réels.",
+      "selection": [
+        "Choisir BlackLine selon le métier (close), les données couvertes, les contrôles, les permissions, les intégrations, les coûts et les règles applicables."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "prepare_ga_other_agents_roadmap",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.blackline.com/about/press-releases/2026/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://investors.blackline.com/news-releases/news-release-details/blackline-announces-ai-roadmap-alignment-sap-partnership-deliver",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_ga_and_roadmap_distinction"
+  },
+  "highradius": {
+    "descriptionFr": "Suite Autonomous Finance pour comptes clients, recouvrement, imputation d'encaissements, trésorerie et comptabilité, dotée d'agents IA spécialisés.",
+    "descriptionEn": "Autonomous Finance suite for receivables, collections, cash application, treasury and accounting with specialized AI agents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Cash Application, collections et déductions",
+      "Prévisions de liquidité et trésorerie",
+      "Agents IA par processus et intégrations ERP"
+    ],
+    "featuresEn": [
+      "Cash application, collections and deductions",
+      "Cash forecasting and treasury",
+      "Process-specific AI agents and ERP integration"
+    ],
+    "accessFr": "SaaS comptable d'entreprise et intégrations ERP selon offre",
+    "accessEn": "Enterprise accounting SaaS with plan-dependent ERP connections",
+    "officialSources": [
+      {
+        "url": "https://www.highradius.com/about/news/highradius-announces-goal-of-releasing-autonomous-finance-platform/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.highradius.com/en-gb/about/company-overview/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Suite Autonomous Finance pour comptes clients, recouvrement, imputation d'encaissements, trésorerie et comptabilité, dotée d'agents IA spécialisés.",
+      "audiences": [
+        "Comptables, contrôleurs financiers et équipes de trésorerie",
+        "Responsables de conformité, audit et gouvernance des données"
+      ],
+      "cases": [
+        "Prioriser les retards de paiement, rapprocher les encaissements et examiner les prévisions avant les décisions de trésorerie.",
+        "Contrôler les données d'origine, les permissions et les sorties automatisées avant tout usage dans une décision significative."
+      ],
+      "advantages": [
+        "Cash Application, collections et déductions",
+        "Prévisions de liquidité et trésorerie",
+        "Agents IA par processus et intégrations ERP"
+      ],
+      "limits": [
+        "L'objectif annoncé d'une finance intégralement autonome en 2027 ne signifie pas que tous les produits sont autonomes en 2026. Les taux de réussite et économies sont des études clients : contrôler ERP, seuils de risque, exactitude et coût.",
+        "Toute prédiction ou automatisation IA doit être confrontée aux données réelles et à des contrôles humains documentés."
+      ],
+      "gettingStarted": [
+        "Cartographier les flux de factures, dépenses ou écritures, les permissions et les contrôles comptables requis.",
+        "Lancer un essai sur données fictives ou autorisées, mesurer erreurs et exceptions, puis définir un circuit de validation."
+      ],
+      "examples": [
+        "Identifie les transactions à vérifier, associe leurs justificatifs et crée un rapport d'exceptions avant validation.",
+        "Produis une grille d'audit des droits, des opérations financières possibles et des traces de décision."
+      ],
+      "pricing": "Vérifier sièges, utilisateurs, pays couverts, volumes de factures ou transactions, données de marché, connexions ERP/API et conditions de contrat auprès de l'éditeur.",
+      "privacy": "Contrôler les informations financières sensibles, comptes, données des salariés/clients, autorisations par rôle, rétention, sous-traitants et journalisation ; limiter les actions sur paiements réels.",
+      "selection": [
+        "Choisir HighRadius selon le métier (treasury), les données couvertes, les contrôles, les permissions, les intégrations, les coûts et les règles applicables."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "partial_autonomy_2027_goal",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.highradius.com/about/news/highradius-announces-goal-of-releasing-autonomous-finance-platform/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.highradius.com/en-gb/about/company-overview/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "kavout": {
+    "descriptionFr": "Plateforme d'aide à l'analyse des marchés et de sélection de titres avec InvestGPT, classements Kai Score et outils de filtrage d'actions.",
+    "descriptionEn": "Market research and stock screening platform with InvestGPT, Kai Score rankings and stock filters.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "InvestGPT et questionnement des marchés",
+      "Kai Score, stratégies et screeners",
+      "Graphiques, indicateurs et signaux techniques"
+    ],
+    "featuresEn": [
+      "InvestGPT market Q&A",
+      "Kai Score, strategies and screeners",
+      "Charts, indicators and technical signals"
+    ],
+    "accessFr": "Recherche financière web et accès données selon contrat",
+    "accessEn": "Web financial research and licensed data access",
+    "officialSources": [
+      {
+        "url": "https://www.kavout.com/academy/investgpt",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.kavout.com/academy/quick-guide",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme d'aide à l'analyse des marchés et de sélection de titres avec InvestGPT, classements Kai Score et outils de filtrage d'actions.",
+      "audiences": [
+        "Analystes financiers, investisseurs et équipes de recherche",
+        "Responsables de conformité, audit et gouvernance des données"
+      ],
+      "cases": [
+        "Comparer deux sociétés sur des indicateurs publiés, avec dates des comptes et risques, sans transformer un score de sélection en conseil d'achat.",
+        "Contrôler les données d'origine, les permissions et les sorties automatisées avant tout usage dans une décision significative."
+      ],
+      "advantages": [
+        "InvestGPT et questionnement des marchés",
+        "Kai Score, stratégies et screeners",
+        "Graphiques, indicateurs et signaux techniques"
+      ],
+      "limits": [
+        "Un Kai Score élevé ou un signal technique ne prédit pas de performance certaine. Éviter la personnalisation de recommandations sans connaissance du profil de risque ; contrôler dates, couverture et frais de données.",
+        "Les analyses et classements sont des aides à la recherche, non des recommandations d'investissement personnalisées."
+      ],
+      "gettingStarted": [
+        "Définir un périmètre de sociétés, des sources financières comparables et les périodes étudiées.",
+        "Lancer un essai sur données fictives ou autorisées, mesurer erreurs et exceptions, puis définir un circuit de validation."
+      ],
+      "examples": [
+        "Compare deux sociétés en citant les états financiers, devises, périodes et incertitudes ; évite toute recommandation d'achat.",
+        "Produis une grille d'audit des droits, des opérations financières possibles et des traces de décision."
+      ],
+      "pricing": "Vérifier sièges, utilisateurs, pays couverts, volumes de factures ou transactions, données de marché, connexions ERP/API et conditions de contrat auprès de l'éditeur.",
+      "privacy": "Contrôler les informations financières sensibles, comptes, données des salariés/clients, autorisations par rôle, rétention, sous-traitants et journalisation ; limiter les actions sur paiements réels.",
+      "selection": [
+        "Choisir Kavout selon le métier (investment_research), les données couvertes, les contrôles, les permissions, les intégrations, les coûts et les règles applicables."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.kavout.com/academy/investgpt",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.kavout.com/academy/quick-guide",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "alphasense": {
+    "descriptionFr": "Plateforme d'intelligence financière et concurrentielle réunissant dépôts réglementaires, transcriptions, recherches d'analystes et Generative Search multi-agents.",
+    "descriptionEn": "Financial and competitive intelligence platform combining filings, transcripts, analyst research and multi-agent Generative Search.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Generative Search avec sources et recherches configurables",
+      "Recherche de dépôts, transcriptions et entretiens d'experts",
+      "Analyse structurée des résultats et agents métier"
+    ],
+    "featuresEn": [
+      "Cited, configurable Generative Search",
+      "Filings, transcripts and expert interview research",
+      "Structured financial data and workflow agents"
+    ],
+    "accessFr": "Recherche financière web et accès données selon contrat",
+    "accessEn": "Web financial research and licensed data access",
+    "officialSources": [
+      {
+        "url": "https://help.alpha-sense.com/hc/en-us/articles/41665816407699-Accessing-Configuring-Generative-Search",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://help.alpha-sense.com/hc/en-us/articles/41666587181203-Interacting-with-Generative-Search",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme d'intelligence financière et concurrentielle réunissant dépôts réglementaires, transcriptions, recherches d'analystes et Generative Search multi-agents.",
+      "audiences": [
+        "Analystes financiers, investisseurs et équipes de recherche",
+        "Responsables de conformité, audit et gouvernance des données"
+      ],
+      "cases": [
+        "Préparer une note sectorielle en rapprochant des transcriptions de résultats et des données financières, avec citations vérifiées.",
+        "Contrôler les données d'origine, les permissions et les sorties automatisées avant tout usage dans une décision significative."
+      ],
+      "advantages": [
+        "Generative Search avec sources et recherches configurables",
+        "Recherche de dépôts, transcriptions et entretiens d'experts",
+        "Analyse structurée des résultats et agents métier"
+      ],
+      "limits": [
+        "Les sources sous licence ne sont pas toutes disponibles selon le contrat. Les résumés et analyses IA peuvent omettre un changement comptable ou confondre les périodes ; vérifier chaque chiffre et sa source.",
+        "Les analyses et classements sont des aides à la recherche, non des recommandations d'investissement personnalisées."
+      ],
+      "gettingStarted": [
+        "Définir un périmètre de sociétés, des sources financières comparables et les périodes étudiées.",
+        "Lancer un essai sur données fictives ou autorisées, mesurer erreurs et exceptions, puis définir un circuit de validation."
+      ],
+      "examples": [
+        "Compare deux sociétés en citant les états financiers, devises, périodes et incertitudes ; évite toute recommandation d'achat.",
+        "Produis une grille d'audit des droits, des opérations financières possibles et des traces de décision."
+      ],
+      "pricing": "Vérifier sièges, utilisateurs, pays couverts, volumes de factures ou transactions, données de marché, connexions ERP/API et conditions de contrat auprès de l'éditeur.",
+      "privacy": "Contrôler les informations financières sensibles, comptes, données des salariés/clients, autorisations par rôle, rétention, sous-traitants et journalisation ; limiter les actions sur paiements réels.",
+      "selection": [
+        "Choisir AlphaSense selon le métier (investment_research), les données couvertes, les contrôles, les permissions, les intégrations, les coûts et les règles applicables."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.alpha-sense.com/hc/en-us/articles/41665816407699-Accessing-Configuring-Generative-Search",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://help.alpha-sense.com/hc/en-us/articles/41666587181203-Interacting-with-Generative-Search",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "finchat": {
+    "descriptionFr": "FinChat est devenu Fiscal.ai : terminal de recherche actions et API de données financières, combinant indicateurs de sociétés, segments et analyse conversationnelle.",
+    "descriptionEn": "FinChat is now Fiscal.ai: an equity research terminal and financial data API combining company metrics, segment data and conversational analysis.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Fiscal.ai Terminal et recherche de titres",
+      "Indicateurs, segments et données de sociétés",
+      "API de données de marchés et analyse conversationnelle"
+    ],
+    "featuresEn": [
+      "Fiscal.ai Terminal and stock research",
+      "Company KPIs, segments and financial data",
+      "Financial market APIs and conversational analysis"
+    ],
+    "accessFr": "Recherche financière web et accès données selon contrat",
+    "accessEn": "Web financial research and licensed data access",
+    "officialSources": [
+      {
+        "url": "https://fiscal.ai/blog/series-a-announcement/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://fiscal.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "FinChat est devenu Fiscal.ai : terminal de recherche actions et API de données financières, combinant indicateurs de sociétés, segments et analyse conversationnelle.",
+      "audiences": [
+        "Analystes financiers, investisseurs et équipes de recherche",
+        "Responsables de conformité, audit et gouvernance des données"
+      ],
+      "cases": [
+        "Comparer la croissance de segments de deux entreprises en remontant à chaque période comptable et source de données.",
+        "Contrôler les données d'origine, les permissions et les sorties automatisées avant tout usage dans une décision significative."
+      ],
+      "advantages": [
+        "Fiscal.ai Terminal et recherche de titres",
+        "Indicateurs, segments et données de sociétés",
+        "API de données de marchés et analyse conversationnelle"
+      ],
+      "limits": [
+        "FinChat a été renommé Fiscal.ai en 2025 ; la plateforme va au-delà d'un simple chatbot. Ne pas confondre Fiscal.ai avec FiscalNote/PolicyNote. Les données, couvertures et intégrations nécessitent des validations et abonnements adaptés.",
+        "Les analyses et classements sont des aides à la recherche, non des recommandations d'investissement personnalisées."
+      ],
+      "gettingStarted": [
+        "Définir un périmètre de sociétés, des sources financières comparables et les périodes étudiées.",
+        "Lancer un essai sur données fictives ou autorisées, mesurer erreurs et exceptions, puis définir un circuit de validation."
+      ],
+      "examples": [
+        "Compare deux sociétés en citant les états financiers, devises, périodes et incertitudes ; évite toute recommandation d'achat.",
+        "Produis une grille d'audit des droits, des opérations financières possibles et des traces de décision."
+      ],
+      "pricing": "Vérifier sièges, utilisateurs, pays couverts, volumes de factures ou transactions, données de marché, connexions ERP/API et conditions de contrat auprès de l'éditeur.",
+      "privacy": "Contrôler les informations financières sensibles, comptes, données des salariés/clients, autorisations par rôle, rétention, sous-traitants et journalisation ; limiter les actions sur paiements réels.",
+      "selection": [
+        "Choisir FinChat selon le métier (investment_research), les données couvertes, les contrôles, les permissions, les intégrations, les coûts et les règles applicables."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "rebranded_fiscal_ai",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://fiscal.ai/blog/series-a-announcement/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://fiscal.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_rebranded",
+    "name": "Fiscal.ai (ex-FinChat)",
+    "url": "https://fiscal.ai"
+  },
+  "fiscalnote": {
+    "descriptionFr": "FiscalNote fournit de la veille législative et réglementaire via PolicyNote, plateforme de recherche et de suivi politique ; il ne s'agit pas d'un logiciel de comptabilité malgré son nom.",
+    "descriptionEn": "FiscalNote provides legislative and regulatory intelligence through PolicyNote, a policy research and tracking platform rather than accounting software.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "PolicyNote : surveillance réglementaire et législative",
+      "API et MCP de veille politique",
+      "Analyse des textes et évolutions normatives"
+    ],
+    "featuresEn": [
+      "PolicyNote regulatory and legislative tracking",
+      "Policy intelligence API and MCP",
+      "Analysis of laws and policy developments"
+    ],
+    "accessFr": "Veille réglementaire B2B, API/MCP selon contrat",
+    "accessEn": "B2B regulatory intelligence, contract-dependent API/MCP",
+    "officialSources": [
+      {
+        "url": "https://fiscalnote.com/newsroom/fiscalnote-achieves-major-milestone-for-policynote-completing-customer-migration-from-legacy-fiscalnote-platform",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://investors.fiscalnote.com/news/news-details/2026/FiscalNote-Launches-PolicyNote-MCP-in-Anthropics-Claude-Connectors-Directory-Expanding-Access-to-Its-Policy-Intelligence-Amid-Accelerating-Enterprise-Adoption/default.aspx",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "FiscalNote fournit de la veille législative et réglementaire via PolicyNote, plateforme de recherche et de suivi politique ; il ne s'agit pas d'un logiciel de comptabilité malgré son nom.",
+      "audiences": [
+        "Responsables de veille réglementaire et affaires publiques",
+        "Responsables de conformité, audit et gouvernance des données"
+      ],
+      "cases": [
+        "Surveiller les textes applicables à une entreprise et faire examiner les changements réglementaires par son équipe de conformité.",
+        "Contrôler les données d'origine, les permissions et les sorties automatisées avant tout usage dans une décision significative."
+      ],
+      "advantages": [
+        "PolicyNote : surveillance réglementaire et législative",
+        "API et MCP de veille politique",
+        "Analyse des textes et évolutions normatives"
+      ],
+      "limits": [
+        "La migration vers PolicyNote a été achevée en janvier 2026. Cette fiche appartient fonctionnellement à la veille politique et juridique plutôt qu'à la finance comptable ; une analyse automatisée des textes ne remplace pas le conseil juridique.",
+        "Toute prédiction ou automatisation IA doit être confrontée aux données réelles et à des contrôles humains documentés."
+      ],
+      "gettingStarted": [
+        "Définir les juridictions, secteurs et sources officielles de surveillance.",
+        "Lancer un essai sur données fictives ou autorisées, mesurer erreurs et exceptions, puis définir un circuit de validation."
+      ],
+      "examples": [
+        "Identifie les transactions à vérifier, associe leurs justificatifs et crée un rapport d'exceptions avant validation.",
+        "Produis une grille d'audit des droits, des opérations financières possibles et des traces de décision."
+      ],
+      "pricing": "Vérifier sièges, utilisateurs, pays couverts, volumes de factures ou transactions, données de marché, connexions ERP/API et conditions de contrat auprès de l'éditeur.",
+      "privacy": "Contrôler les informations financières sensibles, comptes, données des salariés/clients, autorisations par rôle, rétention, sous-traitants et journalisation ; limiter les actions sur paiements réels.",
+      "selection": [
+        "Choisir FiscalNote selon le métier (regulatory_intelligence), les données couvertes, les contrôles, les permissions, les intégrations, les coûts et les règles applicables."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "migrated_to_policynote",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://fiscalnote.com/newsroom/fiscalnote-achieves-major-milestone-for-policynote-completing-customer-migration-from-legacy-fiscalnote-platform",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://investors.fiscalnote.com/news/news-details/2026/FiscalNote-Launches-PolicyNote-MCP-in-Anthropics-Claude-Connectors-Directory-Expanding-Access-to-Its-Policy-Intelligence-Amid-Accelerating-Enterprise-Adoption/default.aspx",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_product_migration",
+    "name": "FiscalNote PolicyNote",
+    "url": "https://fiscalnote.com"
+  },
+  "hebbia": {
+    "descriptionFr": "Plateforme d'analyse institutionnelle pour la banque, l'investissement et la diligence raisonnable, avec Hebbia Max, Matrix 2.0 et agents de flux documentaires.",
+    "descriptionEn": "Institutional financial analysis and due diligence platform with Hebbia Max, Matrix 2.0 and document workflow agents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Max pour analyses, rapports et tableaux",
+      "Matrix 2.0 pour examen de volumes documentaires",
+      "Skills & Agents, intégrations API et MCP"
+    ],
+    "featuresEn": [
+      "Max for research, reports and tables",
+      "Matrix 2.0 for large-scale document review",
+      "Skills and Agents, API and MCP integrations"
+    ],
+    "accessFr": "Recherche financière web et accès données selon contrat",
+    "accessEn": "Web financial research and licensed data access",
+    "officialSources": [
+      {
+        "url": "https://www.hebbia.com/product",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.hebbia.com/blog",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme d'analyse institutionnelle pour la banque, l'investissement et la diligence raisonnable, avec Hebbia Max, Matrix 2.0 et agents de flux documentaires.",
+      "audiences": [
+        "Analystes financiers, investisseurs et équipes de recherche",
+        "Responsables de conformité, audit et gouvernance des données"
+      ],
+      "cases": [
+        "Vérifier les clauses clés d'un dossier de fusion-acquisition et générer une matrice citant chaque document original.",
+        "Contrôler les données d'origine, les permissions et les sorties automatisées avant tout usage dans une décision significative."
+      ],
+      "advantages": [
+        "Max pour analyses, rapports et tableaux",
+        "Matrix 2.0 pour examen de volumes documentaires",
+        "Skills & Agents, intégrations API et MCP"
+      ],
+      "limits": [
+        "Les citations et tableaux générés doivent être comparés aux pièces sources ; Matrix 2.0, Max et l'API Headless ont été annoncés en 2026, et leurs accès dépendent de l'offre. Respecter confidentialité des data rooms.",
+        "Les analyses et classements sont des aides à la recherche, non des recommandations d'investissement personnalisées."
+      ],
+      "gettingStarted": [
+        "Définir un périmètre de sociétés, des sources financières comparables et les périodes étudiées.",
+        "Lancer un essai sur données fictives ou autorisées, mesurer erreurs et exceptions, puis définir un circuit de validation."
+      ],
+      "examples": [
+        "Compare deux sociétés en citant les états financiers, devises, périodes et incertitudes ; évite toute recommandation d'achat.",
+        "Produis une grille d'audit des droits, des opérations financières possibles et des traces de décision."
+      ],
+      "pricing": "Vérifier sièges, utilisateurs, pays couverts, volumes de factures ou transactions, données de marché, connexions ERP/API et conditions de contrat auprès de l'éditeur.",
+      "privacy": "Contrôler les informations financières sensibles, comptes, données des salariés/clients, autorisations par rôle, rétention, sous-traitants et journalisation ; limiter les actions sur paiements réels.",
+      "selection": [
+        "Choisir Hebbia selon le métier (due_diligence), les données couvertes, les contrôles, les permissions, les intégrations, les coûts et les règles applicables."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.hebbia.com/product",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.hebbia.com/blog",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "zest-ai": {
+    "descriptionFr": "Plateforme IA de décision de crédit, détection de fraude et analyse des portefeuilles destinée aux institutions financières, avec explications LuLu.",
+    "descriptionEn": "Financial-institution AI platform for credit underwriting, fraud detection and portfolio intelligence with LuLu explanations.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Modèles de décision de crédit explicables",
+      "Zest Protect pour détection des demandes frauduleuses",
+      "LuLu pour expliquer les scores et les portefeuilles"
+    ],
+    "featuresEn": [
+      "Explainable credit underwriting models",
+      "Zest Protect for application fraud",
+      "LuLu score and portfolio explanations"
+    ],
+    "accessFr": "Solution institutionnelle pour l'octroi de crédit",
+    "accessEn": "Institutional credit decisioning platform",
+    "officialSources": [
+      {
+        "url": "https://www.zest.ai/whats-new",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.zest.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.zest.ai/company/announcements/zest-ais-credit-decisioning-and-fraud-detection-now-seamlessly-integrated-with-temenos-loan-origination-solution/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme IA de décision de crédit, détection de fraude et analyse des portefeuilles destinée aux institutions financières, avec explications LuLu.",
+      "audiences": [
+        "Banques et équipes de risque/crédit",
+        "Responsables de conformité, audit et gouvernance des données"
+      ],
+      "cases": [
+        "Analyser la documentation d'un score de crédit, auditer les facteurs de décision et identifier les besoins de revue humaine.",
+        "Contrôler les données d'origine, les permissions et les sorties automatisées avant tout usage dans une décision significative."
+      ],
+      "advantages": [
+        "Modèles de décision de crédit explicables",
+        "Zest Protect pour détection des demandes frauduleuses",
+        "LuLu pour expliquer les scores et les portefeuilles"
+      ],
+      "limits": [
+        "Les modèles de risque peuvent produire des disparités et doivent respecter les obligations d'équité, de justification et de recours. L'explication LuLu ne vaut pas preuve indépendante de conformité ; données bancaires sensibles.",
+        "Toute prédiction ou automatisation IA doit être confrontée aux données réelles et à des contrôles humains documentés."
+      ],
+      "gettingStarted": [
+        "Cartographier les flux de factures, dépenses ou écritures, les permissions et les contrôles comptables requis.",
+        "Lancer un essai sur données fictives ou autorisées, mesurer erreurs et exceptions, puis définir un circuit de validation."
+      ],
+      "examples": [
+        "Identifie les transactions à vérifier, associe leurs justificatifs et crée un rapport d'exceptions avant validation.",
+        "Produis une grille d'audit des droits, des opérations financières possibles et des traces de décision."
+      ],
+      "pricing": "Vérifier sièges, utilisateurs, pays couverts, volumes de factures ou transactions, données de marché, connexions ERP/API et conditions de contrat auprès de l'éditeur.",
+      "privacy": "Contrôler les informations financières sensibles, comptes, données des salariés/clients, autorisations par rôle, rétention, sous-traitants et journalisation ; limiter les actions sur paiements réels.",
+      "selection": [
+        "Choisir Zest AI selon le métier (credit_risk), les données couvertes, les contrôles, les permissions, les intégrations, les coûts et les règles applicables."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.zest.ai/whats-new",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.zest.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.zest.ai/company/announcements/zest-ais-credit-decisioning-and-fraud-detection-now-seamlessly-integrated-with-temenos-loan-origination-solution/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "shift-technology": {
+    "descriptionFr": "Plateforme IA de détection des fraudes et d'aide à l'investigation en assurance pour les sinistres, les risques de souscription et les réseaux frauduleux.",
+    "descriptionEn": "Insurance AI platform for fraud detection and investigation across claims, underwriting risk and suspicious networks.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Shift Claims Fraud et analyse de signaux",
+      "Underwriting Risk et réseaux de fraude",
+      "Enquêtes, preuves et audits des alertes"
+    ],
+    "featuresEn": [
+      "Shift Claims Fraud and risk signals",
+      "Underwriting Risk and fraud networks",
+      "Investigations, evidence and alert audits"
+    ],
+    "accessFr": "Solution professionnelle pour assureurs",
+    "accessEn": "Professional insurance enterprise solution",
+    "officialSources": [
+      {
+        "url": "https://www.shift-technology.com/resources/press/shelter-insurance-deploys-shift-ai-for-claims-fraud-detection",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://www.shift-technology.com/en-gb/resources/reports-and-insights/ai-in-underwriting-case-examples-from-leading-insurers",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme IA de détection des fraudes et d'aide à l'investigation en assurance pour les sinistres, les risques de souscription et les réseaux frauduleux.",
+      "audiences": [
+        "Assureurs, experts et responsables des sinistres",
+        "Responsables de conformité, audit et gouvernance des données"
+      ],
+      "cases": [
+        "Examiner une alerte de sinistre suspect et documenter les éléments vérifiables avant toute décision défavorable à un assuré.",
+        "Contrôler les données d'origine, les permissions et les sorties automatisées avant tout usage dans une décision significative."
+      ],
+      "advantages": [
+        "Shift Claims Fraud et analyse de signaux",
+        "Underwriting Risk et réseaux de fraude",
+        "Enquêtes, preuves et audits des alertes"
+      ],
+      "limits": [
+        "Un score de suspicion n'est pas une preuve de fraude ; contrôler les faux positifs, biais, données tierces et procédures contradictoires. Les économies annoncées dans les études de cas sont contextuelles.",
+        "Toute prédiction ou automatisation IA doit être confrontée aux données réelles et à des contrôles humains documentés."
+      ],
+      "gettingStarted": [
+        "Sélectionner des cas tests pseudonymisés et définir les critères d'escalade et d'audit.",
+        "Lancer un essai sur données fictives ou autorisées, mesurer erreurs et exceptions, puis définir un circuit de validation."
+      ],
+      "examples": [
+        "Résume les éléments de dossier et les hypothèses ; ne conclus pas à une fraude ni à un coût de réparation définitif sans expert.",
+        "Produis une grille d'audit des droits, des opérations financières possibles et des traces de décision."
+      ],
+      "pricing": "Vérifier sièges, utilisateurs, pays couverts, volumes de factures ou transactions, données de marché, connexions ERP/API et conditions de contrat auprès de l'éditeur.",
+      "privacy": "Contrôler les informations financières sensibles, comptes, données des salariés/clients, autorisations par rôle, rétention, sous-traitants et journalisation ; limiter les actions sur paiements réels.",
+      "selection": [
+        "Choisir Shift Technology selon le métier (insurance_fraud), les données couvertes, les contrôles, les permissions, les intégrations, les coûts et les règles applicables."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.shift-technology.com/resources/press/shelter-insurance-deploys-shift-ai-for-claims-fraud-detection",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://www.shift-technology.com/en-gb/resources/reports-and-insights/ai-in-underwriting-case-examples-from-leading-insurers",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "tractable": {
+    "descriptionFr": "Plateforme de vision IA pour analyser les dommages automobiles sur photographies et aider les assureurs à estimer et traiter les sinistres.",
+    "descriptionEn": "Computer vision platform for car-damage assessment from photos, supporting insurance estimating and claims handling.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Analyse des dommages automobiles depuis photos",
+      "Préparation d'estimations et priorisation des sinistres",
+      "Intégration aux parcours assureurs et réparateurs"
+    ],
+    "featuresEn": [
+      "Vehicle-damage analysis from photos",
+      "Estimate assistance and claims prioritization",
+      "Insurer and repairer workflow integrations"
+    ],
+    "accessFr": "Solution professionnelle pour assureurs",
+    "accessEn": "Professional insurance enterprise solution",
+    "officialSources": [
+      {
+        "url": "https://tractable.ai/foyer-and-tractable/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      },
+      {
+        "url": "https://tractable.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_product_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de vision IA pour analyser les dommages automobiles sur photographies et aider les assureurs à estimer et traiter les sinistres.",
+      "audiences": [
+        "Assureurs, experts et responsables des sinistres",
+        "Responsables de conformité, audit et gouvernance des données"
+      ],
+      "cases": [
+        "Comparer des photographies de véhicule à une estimation initiale, puis faire valider les pièces et réparations par un expert.",
+        "Contrôler les données d'origine, les permissions et les sorties automatisées avant tout usage dans une décision significative."
+      ],
+      "advantages": [
+        "Analyse des dommages automobiles depuis photos",
+        "Préparation d'estimations et priorisation des sinistres",
+        "Intégration aux parcours assureurs et réparateurs"
+      ],
+      "limits": [
+        "Une photo ne révèle pas tous les dommages structurels ou mécaniques. Les propositions IA ne remplacent pas l'expertise automobile, le devis détaillé ou les obligations locales envers l'assuré.",
+        "Toute prédiction ou automatisation IA doit être confrontée aux données réelles et à des contrôles humains documentés."
+      ],
+      "gettingStarted": [
+        "Sélectionner des cas tests pseudonymisés et définir les critères d'escalade et d'audit.",
+        "Lancer un essai sur données fictives ou autorisées, mesurer erreurs et exceptions, puis définir un circuit de validation."
+      ],
+      "examples": [
+        "Résume les éléments de dossier et les hypothèses ; ne conclus pas à une fraude ni à un coût de réparation définitif sans expert.",
+        "Produis une grille d'audit des droits, des opérations financières possibles et des traces de décision."
+      ],
+      "pricing": "Vérifier sièges, utilisateurs, pays couverts, volumes de factures ou transactions, données de marché, connexions ERP/API et conditions de contrat auprès de l'éditeur.",
+      "privacy": "Contrôler les informations financières sensibles, comptes, données des salariés/clients, autorisations par rôle, rétention, sous-traitants et journalisation ; limiter les actions sur paiements réels.",
+      "selection": [
+        "Choisir Tractable selon le métier (insurance_claims), les données couvertes, les contrôles, les permissions, les intégrations, les coûts et les règles applicables."
+      ],
+      "reviewedAt": "2026-11-16",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://tractable.ai/foyer-and-tractable/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        },
+        {
+          "url": "https://tractable.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-16"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  }
+}
