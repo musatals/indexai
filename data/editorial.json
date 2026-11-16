@@ -991,10 +991,34 @@
     "editorialDate": "2026-11-15"
   },
   "FLUX": {
-    "descriptionFr": "Famille de modèles génératifs d’images développée par Black Forest Labs.",
-    "descriptionEn": "Family of image generation models from Black Forest Labs.",
+    "descriptionFr": "Famille de modèles d’images de Black Forest Labs proposant génération, édition contextuelle et exécution locale pour certaines versions.",
+    "descriptionEn": "Black Forest Labs image model family for generation, contextual editing and local use of selected versions.",
     "descriptionStatus": "editorial",
-    "editorialDate": "2026-11-15"
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Génération texte vers image",
+      "Édition et références multiples",
+      "Poids ouverts pour certaines versions"
+    ],
+    "featuresEn": [
+      "Text-to-image generation",
+      "Multi-reference editing",
+      "Selected open-weight releases"
+    ],
+    "accessFr": "API, web et modèles téléchargeables selon version",
+    "accessEn": "API, web and downloadable models by version",
+    "officialSources": [
+      {
+        "url": "https://bfl.ai/models/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://github.com/black-forest-labs/flux2",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
   },
   "Stable Diffusion": {
     "descriptionFr": "Famille de modèles de diffusion générative d’images avec un vaste écosystème d’outils et de variantes.",
@@ -1003,16 +1027,59 @@
     "editorialDate": "2026-11-15"
   },
   "Civitai": {
-    "descriptionFr": "Communauté et catalogue de modèles et de ressources pour la génération d’images par IA.",
-    "descriptionEn": "Community and library of models and resources for AI image generation.",
+    "descriptionFr": "Catalogue communautaire de modèles génératifs et de ressources de création visuelle, notamment des adaptations LoRA.",
+    "descriptionEn": "Community catalogue of generative image models and resources, including LoRA adaptations.",
     "descriptionStatus": "editorial",
-    "editorialDate": "2026-11-15"
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Découverte de modèles",
+      "Ressources LoRA et workflows",
+      "Publication communautaire"
+    ],
+    "featuresEn": [
+      "Model discovery",
+      "LoRA resources and workflows",
+      "Community publishing"
+    ],
+    "accessFr": "Web et intégrations selon le service",
+    "accessEn": "Web and integrations depending on service",
+    "officialSources": [
+      {
+        "url": "https://civitai.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "limited_product_context"
+      }
+    ]
   },
   "Krea": {
-    "descriptionFr": "Espace créatif pour générer, transformer et améliorer des images et des vidéos à l’aide de l’IA.",
-    "descriptionEn": "Creative workspace for generating, editing and enhancing AI images and videos.",
+    "descriptionFr": "Suite de création visuelle offrant génération d’images, édition, création en temps réel et amélioration de résolution.",
+    "descriptionEn": "Visual creative suite for image generation, editing, realtime creation and upscaling.",
     "descriptionStatus": "editorial",
-    "editorialDate": "2026-11-15"
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Génération et variations d’images",
+      "Création en temps réel",
+      "Retouche et amélioration de résolution"
+    ],
+    "featuresEn": [
+      "Image generation and variations",
+      "Realtime creation",
+      "Editing and upscaling"
+    ],
+    "accessFr": "Web et intégrations selon le service",
+    "accessEn": "Web and integrations depending on service",
+    "officialSources": [
+      {
+        "url": "https://www.krea.ai/features/ai-image-generator",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://www.krea.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
   },
   "Adobe Photoshop": {
     "descriptionFr": "Logiciel de retouche d’images d’Adobe intégrant des fonctionnalités d’édition générative.",
@@ -3516,6 +3583,336 @@
       },
       {
         "url": "https://help.heygen.com/en/articles/11391941-video-translation-languages-we-support",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "DreamStudio": {
+    "descriptionFr": "Ancien service de génération d’images de Stability AI, désormais renommé Brand Studio d’après l’éditeur.",
+    "descriptionEn": "Former Stability AI image-generation service, now renamed Brand Studio according to the vendor.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Génération visuelle historique",
+      "Édition selon l’offre Brand Studio",
+      "Accès et marque à actualiser"
+    ],
+    "featuresEn": [
+      "Legacy visual generation",
+      "Brand Studio editing depending on plan",
+      "Renamed service"
+    ],
+    "accessFr": "Web et intégrations selon le service",
+    "accessEn": "Web and integrations depending on service",
+    "officialSources": [
+      {
+        "url": "https://kb.stability.ai/knowledge-base/-fraud-alert-identifying-genuine-dream-studio-transactions-and-reporting-fraud",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "Playground AI": {
+    "descriptionFr": "Plateforme de création de visuels et de conceptions assistées par IA accessible via Playground.",
+    "descriptionEn": "AI-assisted visual design and generation platform available through Playground.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Création de visuels",
+      "Exploration de designs",
+      "Édition selon les fonctions disponibles"
+    ],
+    "featuresEn": [
+      "Visual creation",
+      "Design exploration",
+      "Editing depending on current features"
+    ],
+    "accessFr": "Web et intégrations selon le service",
+    "accessEn": "Web and integrations depending on service",
+    "officialSources": [
+      {
+        "url": "https://playground.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "limited_product_context"
+      }
+    ]
+  },
+  "OpenArt": {
+    "descriptionFr": "Plateforme de création et modification de visuels générés par IA, avec des outils de retouche et modèles variés.",
+    "descriptionEn": "AI visual creation and editing platform with retouching tools and different models.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Création d’images",
+      "Modification par instruction",
+      "Retouche de fond et d’objets"
+    ],
+    "featuresEn": [
+      "Image creation",
+      "Prompt-based editing",
+      "Background and object editing"
+    ],
+    "accessFr": "Web et intégrations selon le service",
+    "accessEn": "Web and integrations depending on service",
+    "officialSources": [
+      {
+        "url": "https://openart.ai/fr/blog/best-ai-photo-editor/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://openart.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "NightCafe": {
+    "descriptionFr": "Générateur d’art IA communautaire proposant plusieurs modèles et des défis créatifs quotidiens.",
+    "descriptionEn": "Community AI art generator offering multiple models and daily creative challenges.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Génération avec plusieurs modèles",
+      "Défis et communauté",
+      "Crédits quotidiens"
+    ],
+    "featuresEn": [
+      "Multiple image models",
+      "Community challenges",
+      "Daily credits"
+    ],
+    "accessFr": "Web et intégrations selon le service",
+    "accessEn": "Web and integrations depending on service",
+    "officialSources": [
+      {
+        "url": "https://nightcafe.studio/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "Tensor.Art": {
+    "descriptionFr": "Plateforme communautaire proposant des modèles et la génération d’images par IA selon les ressources disponibles.",
+    "descriptionEn": "Community platform for AI image models and generation depending on available resources.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Découverte de modèles",
+      "Génération visuelle",
+      "Paramètres et modèles communautaires"
+    ],
+    "featuresEn": [
+      "Model discovery",
+      "Visual generation",
+      "Community models and settings"
+    ],
+    "accessFr": "Web et intégrations selon le service",
+    "accessEn": "Web and integrations depending on service",
+    "officialSources": [
+      {
+        "url": "https://tensor.art/",
+        "checkedAt": "2026-11-16",
+        "scope": "limited_product_context"
+      }
+    ]
+  },
+  "SeaArt": {
+    "descriptionFr": "Service communautaire de création visuelle IA donnant accès à des modèles, checkpoints et LoRA.",
+    "descriptionEn": "Community AI visual creation service with access to models, checkpoints and LoRAs.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Catalogue de checkpoints",
+      "Styles et LoRA",
+      "Création communautaire"
+    ],
+    "featuresEn": [
+      "Checkpoint catalogue",
+      "Styles and LoRA",
+      "Community creation"
+    ],
+    "accessFr": "Web et intégrations selon le service",
+    "accessEn": "Web and integrations depending on service",
+    "officialSources": [
+      {
+        "url": "https://www.seaart.ai/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://www.seaart.ai/tagInfo/model/u%3A20f35e630daf44dbfa4c3f68f5399d8c",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "Mage.space": {
+    "descriptionFr": "Interface en ligne permettant d’expérimenter la création d’images IA sans installation locale.",
+    "descriptionEn": "Browser-based interface for experimenting with AI image creation without local installation.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Création visuelle dans le navigateur",
+      "Exploration de styles",
+      "Modèles selon disponibilité"
+    ],
+    "featuresEn": [
+      "Browser-based generation",
+      "Style exploration",
+      "Models depending on availability"
+    ],
+    "accessFr": "Web et intégrations selon le service",
+    "accessEn": "Web and integrations depending on service",
+    "officialSources": [
+      {
+        "url": "https://www.mage.space/",
+        "checkedAt": "2026-11-16",
+        "scope": "limited_product_context"
+      }
+    ]
+  },
+  "Artbreeder": {
+    "descriptionFr": "Plateforme de composition d’images et d’expérimentation visuelle avec Composer et Collager.",
+    "descriptionEn": "Visual image composition and experimentation platform with Composer and Collager.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Composer avec références",
+      "Collages et contrôle spatial",
+      "Exploration et variations"
+    ],
+    "featuresEn": [
+      "Reference-based Composer",
+      "Collage and spatial control",
+      "Exploration and variations"
+    ],
+    "accessFr": "Web et intégrations selon le service",
+    "accessEn": "Web and integrations depending on service",
+    "officialSources": [
+      {
+        "url": "https://www.artbreeder.com/updates",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://www.artbreeder.com/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "ImagineArt": {
+    "descriptionFr": "Plateforme de création d’images par IA proposant différentes fonctions visuelles selon son offre.",
+    "descriptionEn": "AI visual creation platform offering different capabilities depending on plan.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Génération visuelle",
+      "Création d’illustrations",
+      "Fonctions d’édition selon offre"
+    ],
+    "featuresEn": [
+      "Visual generation",
+      "Illustration creation",
+      "Editing depending on plan"
+    ],
+    "accessFr": "Web et intégrations selon le service",
+    "accessEn": "Web and integrations depending on service",
+    "officialSources": [
+      {
+        "url": "https://www.imagine.art/",
+        "checkedAt": "2026-11-16",
+        "scope": "limited_product_context"
+      }
+    ]
+  },
+  "Microsoft Designer": {
+    "descriptionFr": "Application Microsoft de création graphique assistée par IA pour générer et modifier des images et des supports visuels.",
+    "descriptionEn": "Microsoft AI-assisted graphic design app for generating and editing images and visual materials.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Génération à partir de texte",
+      "Édition et suppression d’arrière-plan",
+      "Visuels pour réseaux sociaux"
+    ],
+    "featuresEn": [
+      "Text-to-image generation",
+      "Editing and background removal",
+      "Social media graphics"
+    ],
+    "accessFr": "Web et intégrations selon le service",
+    "accessEn": "Web and integrations depending on service",
+    "officialSources": [
+      {
+        "url": "https://support.microsoft.com/en-us/designer/welcome-to-microsoft-designer",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://support.microsoft.com/en-us/designer/frequently-asked-questions-about-microsoft-designer",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "Canva Magic Media": {
+    "descriptionFr": "Outil Canva de génération de visuels et de clips depuis une description, directement intégré à l’éditeur de designs.",
+    "descriptionEn": "Canva tool for generating visuals and short clips from prompts within its design editor.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Images et graphismes depuis texte",
+      "Choix de style et format",
+      "Intégration aux designs Canva"
+    ],
+    "featuresEn": [
+      "Prompt-based images and graphics",
+      "Style and format selection",
+      "Integration with Canva designs"
+    ],
+    "accessFr": "Web et intégrations selon le service",
+    "accessEn": "Web and integrations depending on service",
+    "officialSources": [
+      {
+        "url": "https://www.canva.com/help/using-magic-media/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://www.canva.com/help/use-magic-design/",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      }
+    ]
+  },
+  "Google ImageFX": {
+    "descriptionFr": "Outil expérimental de Google Labs permettant de générer des images à partir de descriptions textuelles.",
+    "descriptionEn": "Experimental Google Labs image-generation tool based on text descriptions.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-16",
+    "featuresFr": [
+      "Création d’images par description",
+      "Expérimentation de prompts",
+      "Accès selon pays et disponibilité"
+    ],
+    "featuresEn": [
+      "Text-prompt image creation",
+      "Prompt experimentation",
+      "Country-dependent availability"
+    ],
+    "accessFr": "Web et intégrations selon le service",
+    "accessEn": "Web and integrations depending on service",
+    "officialSources": [
+      {
+        "url": "https://labs.google/fx/tools/image-fx",
+        "checkedAt": "2026-11-16",
+        "scope": "features_and_usage"
+      },
+      {
+        "url": "https://labs.google/fx/faq",
         "checkedAt": "2026-11-16",
         "scope": "features_and_usage"
       }
