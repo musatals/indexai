@@ -4945,5 +4945,695 @@
         "reviewedAt": "2026-11-16"
       }
     ]
+  },
+  "Copy.ai": {
+    "headline": "Plateforme d'automatisation de contenus et de workflows pour les équipes marketing et commerciales.",
+    "audiences": [
+      "Rédacteurs et créateurs de contenu",
+      "Équipes éditoriales, marketing ou communication",
+      "Professionnels et étudiants selon la spécialité de l'outil"
+    ],
+    "cases": [
+      "Préparer une première version à l'aide de Copy.ai",
+      "Comparer plusieurs formulations selon le public et le ton",
+      "Relire le texte, contrôler les faits et finaliser la rédaction"
+    ],
+    "advantages": [
+      "Production de contenus marketing",
+      "Workflows de prospection et campagnes",
+      "Gouvernance des messages"
+    ],
+    "limits": [
+      "Vérifier l'exactitude des arguments commerciaux et les données clientes.",
+      "Les propositions d'IA demandent relecture, vérification des faits et respect de la propriété intellectuelle."
+    ],
+    "gettingStarted": [
+      "Consulter l'éditeur officiel de Copy.ai et préparer un brief comprenant public, objectif et contraintes.",
+      "Tester sur un texte non sensible, comparer les versions et valider manuellement chaque correction."
+    ],
+    "examples": [
+      "Reformule ce passage pour un public non spécialiste sans changer les faits.",
+      "Propose deux versions de cette introduction et explique leurs différences de ton."
+    ],
+    "pricing": "Offres et modalités selon les plans commerciaux.",
+    "privacy": "Contrôler les règles de conservation, d'entraînement et les autorisations avant de soumettre des documents confidentiels ou non publiés.",
+    "selection": [
+      "Choisir Copy.ai selon le type de rédaction et vérifier ses langues, intégrations et limites d'accès."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://www.copy.ai/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Writesonic": {
+    "headline": "Plateforme de contenus marketing et de visibilité dans les moteurs de recherche et réponses IA.",
+    "audiences": [
+      "Rédacteurs et créateurs de contenu",
+      "Équipes éditoriales, marketing ou communication",
+      "Professionnels et étudiants selon la spécialité de l'outil"
+    ],
+    "cases": [
+      "Préparer une première version à l'aide de Writesonic",
+      "Comparer plusieurs formulations selon le public et le ton",
+      "Relire le texte, contrôler les faits et finaliser la rédaction"
+    ],
+    "advantages": [
+      "Production de contenus et articles",
+      "Optimisation SEO",
+      "Suivi de visibilité IA selon l’offre"
+    ],
+    "limits": [
+      "Les affirmations de performance SEO ou GEO ne garantissent pas le classement.",
+      "Les propositions d'IA demandent relecture, vérification des faits et respect de la propriété intellectuelle."
+    ],
+    "gettingStarted": [
+      "Consulter l'éditeur officiel de Writesonic et préparer un brief comprenant public, objectif et contraintes.",
+      "Tester sur un texte non sensible, comparer les versions et valider manuellement chaque correction."
+    ],
+    "examples": [
+      "Reformule ce passage pour un public non spécialiste sans changer les faits.",
+      "Propose deux versions de cette introduction et explique leurs différences de ton."
+    ],
+    "pricing": "Tarifs et crédits à vérifier sur le site officiel.",
+    "privacy": "Contrôler les règles de conservation, d'entraînement et les autorisations avant de soumettre des documents confidentiels ou non publiés.",
+    "selection": [
+      "Choisir Writesonic selon le type de rédaction et vérifier ses langues, intégrations et limites d'accès."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://writesonic.com/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Rytr": {
+    "headline": "Assistant de rédaction pour générer des ébauches courtes, adapter la tonalité et reformuler.",
+    "audiences": [
+      "Rédacteurs et créateurs de contenu",
+      "Équipes éditoriales, marketing ou communication",
+      "Professionnels et étudiants selon la spécialité de l'outil"
+    ],
+    "cases": [
+      "Préparer une première version à l'aide de Rytr",
+      "Comparer plusieurs formulations selon le public et le ton",
+      "Relire le texte, contrôler les faits et finaliser la rédaction"
+    ],
+    "advantages": [
+      "Ébauches à partir d'un brief",
+      "Réglage du ton et du format",
+      "Révision de formulations"
+    ],
+    "limits": [
+      "Relire les affirmations et adapter le texte final au public visé.",
+      "Les propositions d'IA demandent relecture, vérification des faits et respect de la propriété intellectuelle."
+    ],
+    "gettingStarted": [
+      "Consulter l'éditeur officiel de Rytr et préparer un brief comprenant public, objectif et contraintes.",
+      "Tester sur un texte non sensible, comparer les versions et valider manuellement chaque correction."
+    ],
+    "examples": [
+      "Reformule ce passage pour un public non spécialiste sans changer les faits.",
+      "Propose deux versions de cette introduction et explique leurs différences de ton."
+    ],
+    "pricing": "Démarrage gratuit proposé ; limites et abonnements variables.",
+    "privacy": "Contrôler les règles de conservation, d'entraînement et les autorisations avant de soumettre des documents confidentiels ou non publiés.",
+    "selection": [
+      "Choisir Rytr selon le type de rédaction et vérifier ses langues, intégrations et limites d'accès."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://rytr.me/create-features/ai-writing-assistant",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Wordtune": {
+    "headline": "Assistant d'écriture proposant réécriture, synonymes et suggestions contextuelles.",
+    "audiences": [
+      "Rédacteurs et créateurs de contenu",
+      "Équipes éditoriales, marketing ou communication",
+      "Professionnels et étudiants selon la spécialité de l'outil"
+    ],
+    "cases": [
+      "Préparer une première version à l'aide de Wordtune",
+      "Comparer plusieurs formulations selon le public et le ton",
+      "Relire le texte, contrôler les faits et finaliser la rédaction"
+    ],
+    "advantages": [
+      "Réécriture de paragraphes",
+      "Synonymes contextuels",
+      "Suggestions de continuation"
+    ],
+    "limits": [
+      "Des reformulations fluides peuvent modifier le sens ou les nuances du texte.",
+      "Les propositions d'IA demandent relecture, vérification des faits et respect de la propriété intellectuelle."
+    ],
+    "gettingStarted": [
+      "Consulter l'éditeur officiel de Wordtune et préparer un brief comprenant public, objectif et contraintes.",
+      "Tester sur un texte non sensible, comparer les versions et valider manuellement chaque correction."
+    ],
+    "examples": [
+      "Reformule ce passage pour un public non spécialiste sans changer les faits.",
+      "Propose deux versions de cette introduction et explique leurs différences de ton."
+    ],
+    "pricing": "Le guide officiel indique dix générations quotidiennes pour certaines fonctions gratuites ; limites susceptibles de changer.",
+    "privacy": "Contrôler les règles de conservation, d'entraînement et les autorisations avant de soumettre des documents confidentiels ou non publiés.",
+    "selection": [
+      "Choisir Wordtune selon le type de rédaction et vérifier ses langues, intégrations et limites d'accès."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://support.wordtune.com/en/articles/9024394-wordtune-editor-writing-features",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Sudowrite": {
+    "headline": "Assistant de fiction avec Story Bible, génération de scènes et outils de révision de manuscrits.",
+    "audiences": [
+      "Rédacteurs et créateurs de contenu",
+      "Équipes éditoriales, marketing ou communication",
+      "Professionnels et étudiants selon la spécialité de l'outil"
+    ],
+    "cases": [
+      "Préparer une première version à l'aide de Sudowrite",
+      "Comparer plusieurs formulations selon le public et le ton",
+      "Relire le texte, contrôler les faits et finaliser la rédaction"
+    ],
+    "advantages": [
+      "Story Bible et personnages",
+      "Génération de prose contextualisée",
+      "Réécriture et développement de scènes"
+    ],
+    "limits": [
+      "Contrôler cohérence narrative, voix d'auteur et conditions de confidentialité.",
+      "Les propositions d'IA demandent relecture, vérification des faits et respect de la propriété intellectuelle."
+    ],
+    "gettingStarted": [
+      "Consulter l'éditeur officiel de Sudowrite et préparer un brief comprenant public, objectif et contraintes.",
+      "Tester sur un texte non sensible, comparer les versions et valider manuellement chaque correction."
+    ],
+    "examples": [
+      "Reformule ce passage pour un public non spécialiste sans changer les faits.",
+      "Propose deux versions de cette introduction et explique leurs différences de ton."
+    ],
+    "pricing": "Essai gratuit ; forfaits basés notamment sur les crédits d'IA.",
+    "privacy": "Contrôler les règles de conservation, d'entraînement et les autorisations avant de soumettre des documents confidentiels ou non publiés.",
+    "selection": [
+      "Choisir Sudowrite selon le type de rédaction et vérifier ses langues, intégrations et limites d'accès."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://docs.sudowrite.com/getting-started/dQph1snuwbfMWG9wRjsNug/quick-start/2A4FjtiocrtxHPUyz6WZgR",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      },
+      {
+        "url": "https://sudowrite.com/blog/how-sudowrite-works/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "NovelAI": {
+    "headline": "Plateforme de narration fictionnelle assistée par modèles IA et outils de génération créative.",
+    "audiences": [
+      "Rédacteurs et créateurs de contenu",
+      "Équipes éditoriales, marketing ou communication",
+      "Professionnels et étudiants selon la spécialité de l'outil"
+    ],
+    "cases": [
+      "Préparer une première version à l'aide de NovelAI",
+      "Comparer plusieurs formulations selon le public et le ton",
+      "Relire le texte, contrôler les faits et finaliser la rédaction"
+    ],
+    "advantages": [
+      "Écriture interactive de fiction",
+      "Personnalisation de contexte narratif",
+      "Génération créative selon offre"
+    ],
+    "limits": [
+      "Les personnages, scènes et faits générés exigent une révision humaine.",
+      "Les propositions d'IA demandent relecture, vérification des faits et respect de la propriété intellectuelle."
+    ],
+    "gettingStarted": [
+      "Consulter l'éditeur officiel de NovelAI et préparer un brief comprenant public, objectif et contraintes.",
+      "Tester sur un texte non sensible, comparer les versions et valider manuellement chaque correction."
+    ],
+    "examples": [
+      "Reformule ce passage pour un public non spécialiste sans changer les faits.",
+      "Propose deux versions de cette introduction et explique leurs différences de ton."
+    ],
+    "pricing": "Abonnements, modèles et quotas à confirmer sur le site officiel.",
+    "privacy": "Contrôler les règles de conservation, d'entraînement et les autorisations avant de soumettre des documents confidentiels ou non publiés.",
+    "selection": [
+      "Choisir NovelAI selon le type de rédaction et vérifier ses langues, intégrations et limites d'accès."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://novelai.net/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "HyperWrite": {
+    "headline": "Assistant d'écriture et de productivité avec autocomplétion contextuelle et réécriture.",
+    "audiences": [
+      "Rédacteurs et créateurs de contenu",
+      "Équipes éditoriales, marketing ou communication",
+      "Professionnels et étudiants selon la spécialité de l'outil"
+    ],
+    "cases": [
+      "Préparer une première version à l'aide de HyperWrite",
+      "Comparer plusieurs formulations selon le public et le ton",
+      "Relire le texte, contrôler les faits et finaliser la rédaction"
+    ],
+    "advantages": [
+      "AutoWrite et TypeAhead",
+      "Suggestions pour emails",
+      "Outils d'écriture personnalisés"
+    ],
+    "limits": [
+      "Les propositions contextuelles peuvent produire des affirmations sans preuve.",
+      "Les propositions d'IA demandent relecture, vérification des faits et respect de la propriété intellectuelle."
+    ],
+    "gettingStarted": [
+      "Consulter l'éditeur officiel de HyperWrite et préparer un brief comprenant public, objectif et contraintes.",
+      "Tester sur un texte non sensible, comparer les versions et valider manuellement chaque correction."
+    ],
+    "examples": [
+      "Reformule ce passage pour un public non spécialiste sans changer les faits.",
+      "Propose deux versions de cette introduction et explique leurs différences de ton."
+    ],
+    "pricing": "Accès d'essai ou gratuit annoncé ; quotas à confirmer.",
+    "privacy": "Contrôler les règles de conservation, d'entraînement et les autorisations avant de soumettre des documents confidentiels ou non publiés.",
+    "selection": [
+      "Choisir HyperWrite selon le type de rédaction et vérifier ses langues, intégrations et limites d'accès."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://www.hyperwriteai.com/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Writer": {
+    "headline": "Plateforme d'IA d'entreprise et d'agents orientés vers les workflows et la cohérence de marque.",
+    "audiences": [
+      "Rédacteurs et créateurs de contenu",
+      "Équipes éditoriales, marketing ou communication",
+      "Professionnels et étudiants selon la spécialité de l'outil"
+    ],
+    "cases": [
+      "Préparer une première version à l'aide de Writer",
+      "Comparer plusieurs formulations selon le public et le ton",
+      "Relire le texte, contrôler les faits et finaliser la rédaction"
+    ],
+    "advantages": [
+      "Agents IA pour équipes",
+      "Contexte et normes de marque",
+      "Orchestration de contenus métiers"
+    ],
+    "limits": [
+      "Ne pas confondre automatisation de workflows et simple correcteur grammatical.",
+      "Les propositions d'IA demandent relecture, vérification des faits et respect de la propriété intellectuelle."
+    ],
+    "gettingStarted": [
+      "Consulter l'éditeur officiel de Writer et préparer un brief comprenant public, objectif et contraintes.",
+      "Tester sur un texte non sensible, comparer les versions et valider manuellement chaque correction."
+    ],
+    "examples": [
+      "Reformule ce passage pour un public non spécialiste sans changer les faits.",
+      "Propose deux versions de cette introduction et explique leurs différences de ton."
+    ],
+    "pricing": "Offres principalement professionnelles ; contacter l’éditeur pour conditions.",
+    "privacy": "Contrôler les règles de conservation, d'entraînement et les autorisations avant de soumettre des documents confidentiels ou non publiés.",
+    "selection": [
+      "Choisir Writer selon le type de rédaction et vérifier ses langues, intégrations et limites d'accès."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://writer.com/blog/enterprise-brain-press-release/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Anyword": {
+    "headline": "Outil de rédaction marketing orienté vers l'évaluation prévisionnelle des variantes de messages.",
+    "audiences": [
+      "Rédacteurs et créateurs de contenu",
+      "Équipes éditoriales, marketing ou communication",
+      "Professionnels et étudiants selon la spécialité de l'outil"
+    ],
+    "cases": [
+      "Préparer une première version à l'aide de Anyword",
+      "Comparer plusieurs formulations selon le public et le ton",
+      "Relire le texte, contrôler les faits et finaliser la rédaction"
+    ],
+    "advantages": [
+      "Génération de textes marketing",
+      "Scores prédictifs de performance",
+      "Variantes publicitaires et emails"
+    ],
+    "limits": [
+      "Les scores prévisionnels ne prouvent pas les conversions réelles ; tester sur données de campagne.",
+      "Les propositions d'IA demandent relecture, vérification des faits et respect de la propriété intellectuelle."
+    ],
+    "gettingStarted": [
+      "Consulter l'éditeur officiel de Anyword et préparer un brief comprenant public, objectif et contraintes.",
+      "Tester sur un texte non sensible, comparer les versions et valider manuellement chaque correction."
+    ],
+    "examples": [
+      "Reformule ce passage pour un public non spécialiste sans changer les faits.",
+      "Propose deux versions de cette introduction et explique leurs différences de ton."
+    ],
+    "pricing": "Offres et limites à vérifier sur la grille tarifaire officielle.",
+    "privacy": "Contrôler les règles de conservation, d'entraînement et les autorisations avant de soumettre des documents confidentiels ou non publiés.",
+    "selection": [
+      "Choisir Anyword selon le type de rédaction et vérifier ses langues, intégrations et limites d'accès."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://www.anyword.com/blog/data-driven-copywriting-anyword",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "TextCortex": {
+    "headline": "Assistant d'écriture et de connaissances pour rechercher, créer et reformuler du contenu de travail.",
+    "audiences": [
+      "Rédacteurs et créateurs de contenu",
+      "Équipes éditoriales, marketing ou communication",
+      "Professionnels et étudiants selon la spécialité de l'outil"
+    ],
+    "cases": [
+      "Préparer une première version à l'aide de TextCortex",
+      "Comparer plusieurs formulations selon le public et le ton",
+      "Relire le texte, contrôler les faits et finaliser la rédaction"
+    ],
+    "advantages": [
+      "Génération et réécriture",
+      "Assistant contextuel",
+      "Personnalisation à partir de connaissances selon l'offre"
+    ],
+    "limits": [
+      "Contrôler les permissions des documents partagés à un assistant connecté.",
+      "Les propositions d'IA demandent relecture, vérification des faits et respect de la propriété intellectuelle."
+    ],
+    "gettingStarted": [
+      "Consulter l'éditeur officiel de TextCortex et préparer un brief comprenant public, objectif et contraintes.",
+      "Tester sur un texte non sensible, comparer les versions et valider manuellement chaque correction."
+    ],
+    "examples": [
+      "Reformule ce passage pour un public non spécialiste sans changer les faits.",
+      "Propose deux versions de cette introduction et explique leurs différences de ton."
+    ],
+    "pricing": "Conditions d'accès et limites à vérifier.",
+    "privacy": "Contrôler les règles de conservation, d'entraînement et les autorisations avant de soumettre des documents confidentiels ou non publiés.",
+    "selection": [
+      "Choisir TextCortex selon le type de rédaction et vérifier ses langues, intégrations et limites d'accès."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://textcortex.com/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "ProWritingAid": {
+    "headline": "Outil d'édition et d'analyse de manuscrits distinguant les rapports d'IA assistive des fonctions génératives.",
+    "audiences": [
+      "Rédacteurs et créateurs de contenu",
+      "Équipes éditoriales, marketing ou communication",
+      "Professionnels et étudiants selon la spécialité de l'outil"
+    ],
+    "cases": [
+      "Préparer une première version à l'aide de ProWritingAid",
+      "Comparer plusieurs formulations selon le public et le ton",
+      "Relire le texte, contrôler les faits et finaliser la rédaction"
+    ],
+    "advantages": [
+      "Analyses de manuscrit et personnages",
+      "Rapports de critique narrative",
+      "Rephrase et Sparks"
+    ],
+    "limits": [
+      "Les rapports sont des avis d'aide à la révision, non des preuves de qualité littéraire.",
+      "Les propositions d'IA demandent relecture, vérification des faits et respect de la propriété intellectuelle."
+    ],
+    "gettingStarted": [
+      "Consulter l'éditeur officiel de ProWritingAid et préparer un brief comprenant public, objectif et contraintes.",
+      "Tester sur un texte non sensible, comparer les versions et valider manuellement chaque correction."
+    ],
+    "examples": [
+      "Reformule ce passage pour un public non spécialiste sans changer les faits.",
+      "Propose deux versions de cette introduction et explique leurs différences de ton."
+    ],
+    "pricing": "Manuscript Analysis utilise des Story Credits distincts ; abonnement et crédits à vérifier.",
+    "privacy": "Contrôler les règles de conservation, d'entraînement et les autorisations avant de soumettre des documents confidentiels ou non publiés.",
+    "selection": [
+      "Choisir ProWritingAid selon le type de rédaction et vérifier ses langues, intégrations et limites d'accès."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://help.prowritingaid.com/article/297-does-prowritingaid-use-ai",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      },
+      {
+        "url": "https://help.prowritingaid.com/article/314-how-do-i-use-manuscript-analysis",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "LanguageTool": {
+    "headline": "Correcteur multilingue d'orthographe, de grammaire et de style, disponible en ligne et en intégrations.",
+    "audiences": [
+      "Rédacteurs et créateurs de contenu",
+      "Équipes éditoriales, marketing ou communication",
+      "Professionnels et étudiants selon la spécialité de l'outil"
+    ],
+    "cases": [
+      "Préparer une première version à l'aide de LanguageTool",
+      "Comparer plusieurs formulations selon le public et le ton",
+      "Relire le texte, contrôler les faits et finaliser la rédaction"
+    ],
+    "advantages": [
+      "Correction multilingue",
+      "Suggestions grammaticales et de style",
+      "Extensions et intégrations"
+    ],
+    "limits": [
+      "La couverture des règles varie selon la langue, le registre et le contexte.",
+      "Les propositions d'IA demandent relecture, vérification des faits et respect de la propriété intellectuelle."
+    ],
+    "gettingStarted": [
+      "Consulter l'éditeur officiel de LanguageTool et préparer un brief comprenant public, objectif et contraintes.",
+      "Tester sur un texte non sensible, comparer les versions et valider manuellement chaque correction."
+    ],
+    "examples": [
+      "Reformule ce passage pour un public non spécialiste sans changer les faits.",
+      "Propose deux versions de cette introduction et explique leurs différences de ton."
+    ],
+    "pricing": "Fonctions gratuites et Premium ; quotas selon les produits.",
+    "privacy": "Contrôler les règles de conservation, d'entraînement et les autorisations avant de soumettre des documents confidentiels ou non publiés.",
+    "selection": [
+      "Choisir LanguageTool selon le type de rédaction et vérifier ses langues, intégrations et limites d'accès."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://languagetool.org/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "DeepL Write": {
+    "headline": "Assistant de reformulation et de correction linguistique proposant suggestions de style et de tonalité.",
+    "audiences": [
+      "Rédacteurs et créateurs de contenu",
+      "Équipes éditoriales, marketing ou communication",
+      "Professionnels et étudiants selon la spécialité de l'outil"
+    ],
+    "cases": [
+      "Préparer une première version à l'aide de DeepL Write",
+      "Comparer plusieurs formulations selon le public et le ton",
+      "Relire le texte, contrôler les faits et finaliser la rédaction"
+    ],
+    "advantages": [
+      "Orthographe et grammaire",
+      "Reformulations et tonalités",
+      "Intégrations et API Write Pro"
+    ],
+    "limits": [
+      "Les langues et styles couverts varient selon la plateforme ; préserver le sens initial.",
+      "Les propositions d'IA demandent relecture, vérification des faits et respect de la propriété intellectuelle."
+    ],
+    "gettingStarted": [
+      "Consulter l'éditeur officiel de DeepL Write et préparer un brief comprenant public, objectif et contraintes.",
+      "Tester sur un texte non sensible, comparer les versions et valider manuellement chaque correction."
+    ],
+    "examples": [
+      "Reformule ce passage pour un public non spécialiste sans changer les faits.",
+      "Propose deux versions de cette introduction et explique leurs différences de ton."
+    ],
+    "pricing": "L'aide officielle indique 1 500 caractères pour l'accès sans compte payant ; Write Pro est une offre distincte.",
+    "privacy": "Contrôler les règles de conservation, d'entraînement et les autorisations avant de soumettre des documents confidentiels ou non publiés.",
+    "selection": [
+      "Choisir DeepL Write selon le type de rédaction et vérifier ses langues, intégrations et limites d'accès."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://support.deepl.com/hc/fr/articles/6318834492700-%C3%80-propos-de-DeepL-Write",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      },
+      {
+        "url": "https://support.deepl.com/hc/fr/articles/9710730337820-Personnalisez-votre-texte-avec-DeepL-Write",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Lex": {
+    "headline": "Éditeur de rédaction assistée par IA axé sur le brouillon et la révision de documents.",
+    "audiences": [
+      "Rédacteurs et créateurs de contenu",
+      "Équipes éditoriales, marketing ou communication",
+      "Professionnels et étudiants selon la spécialité de l'outil"
+    ],
+    "cases": [
+      "Préparer une première version à l'aide de Lex",
+      "Comparer plusieurs formulations selon le public et le ton",
+      "Relire le texte, contrôler les faits et finaliser la rédaction"
+    ],
+    "advantages": [
+      "Rédaction dans un éditeur dédié",
+      "Aide à la reformulation",
+      "Assistance aux brouillons"
+    ],
+    "limits": [
+      "Vérifier les fonctionnalités disponibles et les conditions de conservation des textes.",
+      "Les propositions d'IA demandent relecture, vérification des faits et respect de la propriété intellectuelle."
+    ],
+    "gettingStarted": [
+      "Consulter l'éditeur officiel de Lex et préparer un brief comprenant public, objectif et contraintes.",
+      "Tester sur un texte non sensible, comparer les versions et valider manuellement chaque correction."
+    ],
+    "examples": [
+      "Reformule ce passage pour un public non spécialiste sans changer les faits.",
+      "Propose deux versions de cette introduction et explique leurs différences de ton."
+    ],
+    "pricing": "Tarifs et fonctionnalités actuelles non confirmés.",
+    "privacy": "Contrôler les règles de conservation, d'entraînement et les autorisations avant de soumettre des documents confidentiels ou non publiés.",
+    "selection": [
+      "Choisir Lex selon le type de rédaction et vérifier ses langues, intégrations et limites d'accès."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://lex.page/",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
+  },
+  "Simplified": {
+    "headline": "Suite de création marketing comprenant un outil de rédaction IA et des contenus pour les réseaux sociaux.",
+    "audiences": [
+      "Rédacteurs et créateurs de contenu",
+      "Équipes éditoriales, marketing ou communication",
+      "Professionnels et étudiants selon la spécialité de l'outil"
+    ],
+    "cases": [
+      "Préparer une première version à l'aide de Simplified",
+      "Comparer plusieurs formulations selon le public et le ton",
+      "Relire le texte, contrôler les faits et finaliser la rédaction"
+    ],
+    "advantages": [
+      "Génération de textes marketing",
+      "Réglage de tonalité",
+      "Collaboration et création sociale"
+    ],
+    "limits": [
+      "Contrôler l'originalité, les faits et la conformité aux règles publicitaires.",
+      "Les propositions d'IA demandent relecture, vérification des faits et respect de la propriété intellectuelle."
+    ],
+    "gettingStarted": [
+      "Consulter l'éditeur officiel de Simplified et préparer un brief comprenant public, objectif et contraintes.",
+      "Tester sur un texte non sensible, comparer les versions et valider manuellement chaque correction."
+    ],
+    "examples": [
+      "Reformule ce passage pour un public non spécialiste sans changer les faits.",
+      "Propose deux versions de cette introduction et explique leurs différences de ton."
+    ],
+    "pricing": "Le site annonce une offre gratuite plafonnée ; vérifier le quota avant usage.",
+    "privacy": "Contrôler les règles de conservation, d'entraînement et les autorisations avant de soumettre des documents confidentiels ou non publiés.",
+    "selection": [
+      "Choisir Simplified selon le type de rédaction et vérifier ses langues, intégrations et limites d'accès."
+    ],
+    "reviewedAt": "2026-11-16",
+    "status": "documented",
+    "evidence": "official",
+    "sources": [
+      {
+        "url": "https://simplified.com/fr/ai-writer",
+        "type": "official",
+        "reviewedAt": "2026-11-16"
+      }
+    ]
   }
 }
