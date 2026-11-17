@@ -1,0 +1,1244 @@
+{
+  "google-jules": {
+    "descriptionFr": "Agent Google de développement asynchrone lié à des dépôts GitHub, proposant des modifications à relire.",
+    "descriptionEn": "Google asynchronous development agent connected to GitHub repositories, proposing code changes for review.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Analyse d'un dépôt",
+      "Modification autonome dans environnement isolé",
+      "Présentation des diffs et résultats"
+    ],
+    "featuresEn": [
+      "Repository inspection",
+      "Asynchronous edits in isolated environment",
+      "Reviewable diffs and results"
+    ],
+    "accessFr": "Cloud / compte et quotas selon offre",
+    "accessEn": "IDE, CLI, cloud service or open-source project depending on product and plan",
+    "officialSources": [
+      {
+        "url": "https://jules.google/docs/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_access_and_security"
+      }
+    ],
+    "research": {
+      "headline": "Agent Google de développement asynchrone lié à des dépôts GitHub, proposant des modifications à relire.",
+      "audiences": [
+        "Développeurs et équipes d'ingénierie logicielle",
+        "Responsables DevOps, sécurité et gouvernance du code"
+      ],
+      "cases": [
+        "Implémenter une correction isolée avec tests de régression, revue de diff et contrôle d'accès.",
+        "Comparer l'efficacité sur un même ensemble de tickets, en consignant erreurs, coût, durée et validation humaine."
+      ],
+      "advantages": [
+        "Analyse d'un dépôt",
+        "Modification autonome dans environnement isolé",
+        "Présentation des diffs et résultats"
+      ],
+      "limits": [
+        "Les modifications proposées exigent revue de code et tests ; vérifier permissions GitHub et quotas.",
+        "Un agent peut introduire des failles et des régressions ; les tests automatiques et la revue humaine restent obligatoires."
+      ],
+      "gettingStarted": [
+        "Connecter un dépôt de test avec permissions minimales et sans secrets de production.",
+        "Définir un ticket vérifiable, des tests existants et des critères de fusion ; examiner chaque modification avant déploiement."
+      ],
+      "examples": [
+        "Corrige ce bug reproductible, exécute les tests ciblés et produis un diff explicatif sans fusionner la branche.",
+        "Propose un refactoring limité, compare la couverture des tests et indique les risques non résolus."
+      ],
+      "pricing": "Vérifier licence, abonnement, quotas d'appels, crédit de calcul, coût des modèles et infrastructure de développement.",
+      "privacy": "Définir les dépôts autorisés, gérer les secrets, vérifier l'hébergement et l'indexation du code ainsi que les autorisations des connecteurs.",
+      "selection": [
+        "Comparer autonomie, environnements pris en charge, qualité des tests, auditabilité, coûts et contrôles de sécurité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://jules.google/docs/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "devin-cognition": {
+    "descriptionFr": "Agent de génie logiciel Cognition pour traiter des tickets, travailler sur des dépôts et proposer des pull requests.",
+    "descriptionEn": "Cognition software engineering agent for issues, repositories and proposed pull requests.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Planification de tâches de développement",
+      "Exécution avec shell et outils",
+      "Pull requests et suivi"
+    ],
+    "featuresEn": [
+      "Task planning",
+      "Shell and tool execution",
+      "Pull requests and progress tracking"
+    ],
+    "accessFr": "SaaS / plans équipe et entreprise",
+    "accessEn": "IDE, CLI, cloud service or open-source project depending on product and plan",
+    "officialSources": [
+      {
+        "url": "https://docs.devin.ai/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_access_and_security"
+      }
+    ],
+    "research": {
+      "headline": "Agent de génie logiciel Cognition pour traiter des tickets, travailler sur des dépôts et proposer des pull requests.",
+      "audiences": [
+        "Développeurs et équipes d'ingénierie logicielle",
+        "Responsables DevOps, sécurité et gouvernance du code"
+      ],
+      "cases": [
+        "Implémenter une correction isolée avec tests de régression, revue de diff et contrôle d'accès.",
+        "Comparer l'efficacité sur un même ensemble de tickets, en consignant erreurs, coût, durée et validation humaine."
+      ],
+      "advantages": [
+        "Planification de tâches de développement",
+        "Exécution avec shell et outils",
+        "Pull requests et suivi"
+      ],
+      "limits": [
+        "Contrôler secrets et privilèges du dépôt ; valider les changements, tests et dépenses avant fusion.",
+        "Un agent peut introduire des failles et des régressions ; les tests automatiques et la revue humaine restent obligatoires."
+      ],
+      "gettingStarted": [
+        "Connecter un dépôt de test avec permissions minimales et sans secrets de production.",
+        "Définir un ticket vérifiable, des tests existants et des critères de fusion ; examiner chaque modification avant déploiement."
+      ],
+      "examples": [
+        "Corrige ce bug reproductible, exécute les tests ciblés et produis un diff explicatif sans fusionner la branche.",
+        "Propose un refactoring limité, compare la couverture des tests et indique les risques non résolus."
+      ],
+      "pricing": "Vérifier licence, abonnement, quotas d'appels, crédit de calcul, coût des modèles et infrastructure de développement.",
+      "privacy": "Définir les dépôts autorisés, gérer les secrets, vérifier l'hébergement et l'indexation du code ainsi que les autorisations des connecteurs.",
+      "selection": [
+        "Comparer autonomie, environnements pris en charge, qualité des tests, auditabilité, coûts et contrôles de sécurité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.devin.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "cursor-agent": {
+    "descriptionFr": "Mode agent de l'éditeur Cursor pour explorer un projet, modifier plusieurs fichiers et utiliser des outils.",
+    "descriptionEn": "Cursor editor agent for codebase exploration, multi-file editing and tool execution.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Compréhension du contexte de projet",
+      "Modifications multi-fichiers",
+      "Commandes et tests sous permissions"
+    ],
+    "featuresEn": [
+      "Codebase context",
+      "Multi-file editing",
+      "Permissioned tool and test execution"
+    ],
+    "accessFr": "Éditeur / service selon abonnement",
+    "accessEn": "IDE, CLI, cloud service or open-source project depending on product and plan",
+    "officialSources": [
+      {
+        "url": "https://docs.cursor.com/en/chat/agent",
+        "checkedAt": "2026-11-17",
+        "scope": "features_access_and_security"
+      }
+    ],
+    "research": {
+      "headline": "Mode agent de l'éditeur Cursor pour explorer un projet, modifier plusieurs fichiers et utiliser des outils.",
+      "audiences": [
+        "Développeurs et équipes d'ingénierie logicielle",
+        "Responsables DevOps, sécurité et gouvernance du code"
+      ],
+      "cases": [
+        "Implémenter une correction isolée avec tests de régression, revue de diff et contrôle d'accès.",
+        "Comparer l'efficacité sur un même ensemble de tickets, en consignant erreurs, coût, durée et validation humaine."
+      ],
+      "advantages": [
+        "Compréhension du contexte de projet",
+        "Modifications multi-fichiers",
+        "Commandes et tests sous permissions"
+      ],
+      "limits": [
+        "L'accès aux modèles et règles de confidentialité dépend de la configuration ; revue humaine obligatoire.",
+        "Un agent peut introduire des failles et des régressions ; les tests automatiques et la revue humaine restent obligatoires."
+      ],
+      "gettingStarted": [
+        "Connecter un dépôt de test avec permissions minimales et sans secrets de production.",
+        "Définir un ticket vérifiable, des tests existants et des critères de fusion ; examiner chaque modification avant déploiement."
+      ],
+      "examples": [
+        "Corrige ce bug reproductible, exécute les tests ciblés et produis un diff explicatif sans fusionner la branche.",
+        "Propose un refactoring limité, compare la couverture des tests et indique les risques non résolus."
+      ],
+      "pricing": "Vérifier licence, abonnement, quotas d'appels, crédit de calcul, coût des modèles et infrastructure de développement.",
+      "privacy": "Définir les dépôts autorisés, gérer les secrets, vérifier l'hébergement et l'indexation du code ainsi que les autorisations des connecteurs.",
+      "selection": [
+        "Comparer autonomie, environnements pris en charge, qualité des tests, auditabilité, coûts et contrôles de sécurité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.cursor.com/en/chat/agent",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "windsurf-cascade": {
+    "descriptionFr": "Agent Cascade intégré à Windsurf pour analyser un projet, effectuer des modifications et utiliser des outils de développement.",
+    "descriptionEn": "Cascade agent within Windsurf for project inspection, code modifications and developer tool use.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Exploration du contexte projet",
+      "Actions de développement multiétapes",
+      "Édition de fichiers et exécution de commandes"
+    ],
+    "featuresEn": [
+      "Project context exploration",
+      "Multi-step coding workflows",
+      "File editing and command execution"
+    ],
+    "accessFr": "Éditeur / abonnement selon offre",
+    "accessEn": "IDE, CLI, cloud service or open-source project depending on product and plan",
+    "officialSources": [
+      {
+        "url": "https://docs.windsurf.com/windsurf/cascade/cascade",
+        "checkedAt": "2026-11-17",
+        "scope": "features_access_and_security"
+      }
+    ],
+    "research": {
+      "headline": "Agent Cascade intégré à Windsurf pour analyser un projet, effectuer des modifications et utiliser des outils de développement.",
+      "audiences": [
+        "Développeurs et équipes d'ingénierie logicielle",
+        "Responsables DevOps, sécurité et gouvernance du code"
+      ],
+      "cases": [
+        "Implémenter une correction isolée avec tests de régression, revue de diff et contrôle d'accès.",
+        "Comparer l'efficacité sur un même ensemble de tickets, en consignant erreurs, coût, durée et validation humaine."
+      ],
+      "advantages": [
+        "Exploration du contexte projet",
+        "Actions de développement multiétapes",
+        "Édition de fichiers et exécution de commandes"
+      ],
+      "limits": [
+        "Contrôler modes, autorisations et consommation ; toute édition ou commande doit rester vérifiable.",
+        "Un agent peut introduire des failles et des régressions ; les tests automatiques et la revue humaine restent obligatoires."
+      ],
+      "gettingStarted": [
+        "Connecter un dépôt de test avec permissions minimales et sans secrets de production.",
+        "Définir un ticket vérifiable, des tests existants et des critères de fusion ; examiner chaque modification avant déploiement."
+      ],
+      "examples": [
+        "Corrige ce bug reproductible, exécute les tests ciblés et produis un diff explicatif sans fusionner la branche.",
+        "Propose un refactoring limité, compare la couverture des tests et indique les risques non résolus."
+      ],
+      "pricing": "Vérifier licence, abonnement, quotas d'appels, crédit de calcul, coût des modèles et infrastructure de développement.",
+      "privacy": "Définir les dépôts autorisés, gérer les secrets, vérifier l'hébergement et l'indexation du code ainsi que les autorisations des connecteurs.",
+      "selection": [
+        "Comparer autonomie, environnements pris en charge, qualité des tests, auditabilité, coûts et contrôles de sécurité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.windsurf.com/windsurf/cascade/cascade",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "jetbrains-junie": {
+    "descriptionFr": "Agent JetBrains Junie pour planifier et exécuter des tâches de programmation dans les IDE compatibles.",
+    "descriptionEn": "JetBrains Junie agent for planning and executing coding tasks in supported IDEs.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Planification et implémentation de changements",
+      "Intégration avec certains IDE JetBrains",
+      "Vérification et revue des modifications"
+    ],
+    "featuresEn": [
+      "Planning and implementing changes",
+      "Integration in supported JetBrains IDEs",
+      "Change verification and review"
+    ],
+    "accessFr": "IDE et abonnement selon disponibilité",
+    "accessEn": "IDE, CLI, cloud service or open-source project depending on product and plan",
+    "officialSources": [
+      {
+        "url": "https://www.jetbrains.com/help/ai-assistant/junie-agent.html",
+        "checkedAt": "2026-11-17",
+        "scope": "features_access_and_security"
+      }
+    ],
+    "research": {
+      "headline": "Agent JetBrains Junie pour planifier et exécuter des tâches de programmation dans les IDE compatibles.",
+      "audiences": [
+        "Développeurs et équipes d'ingénierie logicielle",
+        "Responsables DevOps, sécurité et gouvernance du code"
+      ],
+      "cases": [
+        "Implémenter une correction isolée avec tests de régression, revue de diff et contrôle d'accès.",
+        "Comparer l'efficacité sur un même ensemble de tickets, en consignant erreurs, coût, durée et validation humaine."
+      ],
+      "advantages": [
+        "Planification et implémentation de changements",
+        "Intégration avec certains IDE JetBrains",
+        "Vérification et revue des modifications"
+      ],
+      "limits": [
+        "Les versions IDE et fonctionnalités prises en charge varient ; vérifier fichiers modifiés et tests.",
+        "Un agent peut introduire des failles et des régressions ; les tests automatiques et la revue humaine restent obligatoires."
+      ],
+      "gettingStarted": [
+        "Connecter un dépôt de test avec permissions minimales et sans secrets de production.",
+        "Définir un ticket vérifiable, des tests existants et des critères de fusion ; examiner chaque modification avant déploiement."
+      ],
+      "examples": [
+        "Corrige ce bug reproductible, exécute les tests ciblés et produis un diff explicatif sans fusionner la branche.",
+        "Propose un refactoring limité, compare la couverture des tests et indique les risques non résolus."
+      ],
+      "pricing": "Vérifier licence, abonnement, quotas d'appels, crédit de calcul, coût des modèles et infrastructure de développement.",
+      "privacy": "Définir les dépôts autorisés, gérer les secrets, vérifier l'hébergement et l'indexation du code ainsi que les autorisations des connecteurs.",
+      "selection": [
+        "Comparer autonomie, environnements pris en charge, qualité des tests, auditabilité, coûts et contrôles de sécurité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.jetbrains.com/help/ai-assistant/junie-agent.html",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "kiro": {
+    "descriptionFr": "Environnement agentique Kiro orienté développement guidé par spécifications, conception et tâches contrôlables.",
+    "descriptionEn": "Kiro agentic environment centered on specifications, design and traceable development tasks.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Spécifications et plans de tâches",
+      "Implémentation assistée dans l'IDE",
+      "Automatisations et vérifications"
+    ],
+    "featuresEn": [
+      "Specs and task plans",
+      "IDE-assisted implementation",
+      "Automations and validation"
+    ],
+    "accessFr": "IDE et outils selon plan",
+    "accessEn": "IDE, CLI, cloud service or open-source project depending on product and plan",
+    "officialSources": [
+      {
+        "url": "https://kiro.dev/docs/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_access_and_security"
+      }
+    ],
+    "research": {
+      "headline": "Environnement agentique Kiro orienté développement guidé par spécifications, conception et tâches contrôlables.",
+      "audiences": [
+        "Développeurs et équipes d'ingénierie logicielle",
+        "Responsables DevOps, sécurité et gouvernance du code"
+      ],
+      "cases": [
+        "Implémenter une correction isolée avec tests de régression, revue de diff et contrôle d'accès.",
+        "Comparer l'efficacité sur un même ensemble de tickets, en consignant erreurs, coût, durée et validation humaine."
+      ],
+      "advantages": [
+        "Spécifications et plans de tâches",
+        "Implémentation assistée dans l'IDE",
+        "Automatisations et vérifications"
+      ],
+      "limits": [
+        "Les spécifications générées doivent être relues ; surveiller privilèges, dépendances et ressources consommées.",
+        "Un agent peut introduire des failles et des régressions ; les tests automatiques et la revue humaine restent obligatoires."
+      ],
+      "gettingStarted": [
+        "Connecter un dépôt de test avec permissions minimales et sans secrets de production.",
+        "Définir un ticket vérifiable, des tests existants et des critères de fusion ; examiner chaque modification avant déploiement."
+      ],
+      "examples": [
+        "Corrige ce bug reproductible, exécute les tests ciblés et produis un diff explicatif sans fusionner la branche.",
+        "Propose un refactoring limité, compare la couverture des tests et indique les risques non résolus."
+      ],
+      "pricing": "Vérifier licence, abonnement, quotas d'appels, crédit de calcul, coût des modèles et infrastructure de développement.",
+      "privacy": "Définir les dépôts autorisés, gérer les secrets, vérifier l'hébergement et l'indexation du code ainsi que les autorisations des connecteurs.",
+      "selection": [
+        "Comparer autonomie, environnements pris en charge, qualité des tests, auditabilité, coûts et contrôles de sécurité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://kiro.dev/docs/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "opencode": {
+    "descriptionFr": "Agent de programmation open source utilisable en terminal, environnement de développement et autres interfaces.",
+    "descriptionEn": "Open-source coding agent for terminal, development environments and other interfaces.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Agents et sous-agents configurables",
+      "Outils shell et manipulation de fichiers",
+      "Fournisseurs de modèles configurables"
+    ],
+    "featuresEn": [
+      "Configurable agents and subagents",
+      "Shell and file tools",
+      "Configurable model providers"
+    ],
+    "accessFr": "Open source, coûts éventuels de modèles",
+    "accessEn": "IDE, CLI, cloud service or open-source project depending on product and plan",
+    "officialSources": [
+      {
+        "url": "https://opencode.ai/docs/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_access_and_security"
+      }
+    ],
+    "research": {
+      "headline": "Agent de programmation open source utilisable en terminal, environnement de développement et autres interfaces.",
+      "audiences": [
+        "Développeurs et équipes d'ingénierie logicielle",
+        "Responsables DevOps, sécurité et gouvernance du code"
+      ],
+      "cases": [
+        "Implémenter une correction isolée avec tests de régression, revue de diff et contrôle d'accès.",
+        "Comparer l'efficacité sur un même ensemble de tickets, en consignant erreurs, coût, durée et validation humaine."
+      ],
+      "advantages": [
+        "Agents et sous-agents configurables",
+        "Outils shell et manipulation de fichiers",
+        "Fournisseurs de modèles configurables"
+      ],
+      "limits": [
+        "Vérifier la version des commandes et la politique d'accès aux outils ; les modèles payants entraînent des coûts séparés.",
+        "Un agent peut introduire des failles et des régressions ; les tests automatiques et la revue humaine restent obligatoires."
+      ],
+      "gettingStarted": [
+        "Connecter un dépôt de test avec permissions minimales et sans secrets de production.",
+        "Définir un ticket vérifiable, des tests existants et des critères de fusion ; examiner chaque modification avant déploiement."
+      ],
+      "examples": [
+        "Corrige ce bug reproductible, exécute les tests ciblés et produis un diff explicatif sans fusionner la branche.",
+        "Propose un refactoring limité, compare la couverture des tests et indique les risques non résolus."
+      ],
+      "pricing": "Vérifier licence, abonnement, quotas d'appels, crédit de calcul, coût des modèles et infrastructure de développement.",
+      "privacy": "Définir les dépôts autorisés, gérer les secrets, vérifier l'hébergement et l'indexation du code ainsi que les autorisations des connecteurs.",
+      "selection": [
+        "Comparer autonomie, environnements pris en charge, qualité des tests, auditabilité, coûts et contrôles de sécurité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://opencode.ai/docs/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "goose-block": {
+    "descriptionFr": "Agent open source Goose de Block pour développer et automatiser des tâches avec des extensions et modèles configurables.",
+    "descriptionEn": "Block's open-source Goose agent for coding and task automation with configurable extensions and models.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Agent sur ordinateur et terminal",
+      "Extensions et outils",
+      "Modèles configurables"
+    ],
+    "featuresEn": [
+      "Desktop and CLI agent",
+      "Extensions and tools",
+      "Configurable models"
+    ],
+    "accessFr": "Open source et modèles tiers",
+    "accessEn": "IDE, CLI, cloud service or open-source project depending on product and plan",
+    "officialSources": [
+      {
+        "url": "https://block.github.io/goose/docs/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_access_and_security"
+      }
+    ],
+    "research": {
+      "headline": "Agent open source Goose de Block pour développer et automatiser des tâches avec des extensions et modèles configurables.",
+      "audiences": [
+        "Développeurs et équipes d'ingénierie logicielle",
+        "Responsables DevOps, sécurité et gouvernance du code"
+      ],
+      "cases": [
+        "Implémenter une correction isolée avec tests de régression, revue de diff et contrôle d'accès.",
+        "Comparer l'efficacité sur un même ensemble de tickets, en consignant erreurs, coût, durée et validation humaine."
+      ],
+      "advantages": [
+        "Agent sur ordinateur et terminal",
+        "Extensions et outils",
+        "Modèles configurables"
+      ],
+      "limits": [
+        "Les extensions peuvent déclencher des actions locales ou externes ; limiter permissions et secrets.",
+        "Un agent peut introduire des failles et des régressions ; les tests automatiques et la revue humaine restent obligatoires."
+      ],
+      "gettingStarted": [
+        "Connecter un dépôt de test avec permissions minimales et sans secrets de production.",
+        "Définir un ticket vérifiable, des tests existants et des critères de fusion ; examiner chaque modification avant déploiement."
+      ],
+      "examples": [
+        "Corrige ce bug reproductible, exécute les tests ciblés et produis un diff explicatif sans fusionner la branche.",
+        "Propose un refactoring limité, compare la couverture des tests et indique les risques non résolus."
+      ],
+      "pricing": "Vérifier licence, abonnement, quotas d'appels, crédit de calcul, coût des modèles et infrastructure de développement.",
+      "privacy": "Définir les dépôts autorisés, gérer les secrets, vérifier l'hébergement et l'indexation du code ainsi que les autorisations des connecteurs.",
+      "selection": [
+        "Comparer autonomie, environnements pris en charge, qualité des tests, auditabilité, coûts et contrôles de sécurité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://block.github.io/goose/docs/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "factory-droids": {
+    "descriptionFr": "Plateforme Factory Droids d'agents de développement chargés de tâches logicielles et de workflows d'ingénierie.",
+    "descriptionEn": "Factory Droids developer agent platform for software tasks and engineering workflows.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Agents pour tâches d'ingénierie",
+      "Travail dans le cycle de développement",
+      "Intégrations aux dépôts et outils"
+    ],
+    "featuresEn": [
+      "Agents for engineering tasks",
+      "Development lifecycle workflows",
+      "Repository and tooling integrations"
+    ],
+    "accessFr": "Plateforme commerciale",
+    "accessEn": "IDE, CLI, cloud service or open-source project depending on product and plan",
+    "officialSources": [
+      {
+        "url": "https://docs.factory.ai/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_access_and_security"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme Factory Droids d'agents de développement chargés de tâches logicielles et de workflows d'ingénierie.",
+      "audiences": [
+        "Développeurs et équipes d'ingénierie logicielle",
+        "Responsables DevOps, sécurité et gouvernance du code"
+      ],
+      "cases": [
+        "Implémenter une correction isolée avec tests de régression, revue de diff et contrôle d'accès.",
+        "Comparer l'efficacité sur un même ensemble de tickets, en consignant erreurs, coût, durée et validation humaine."
+      ],
+      "advantages": [
+        "Agents pour tâches d'ingénierie",
+        "Travail dans le cycle de développement",
+        "Intégrations aux dépôts et outils"
+      ],
+      "limits": [
+        "Vérifier les fonctionnalités contractuelles, intégrations et limites de sécurité avant déploiement d'équipe.",
+        "Un agent peut introduire des failles et des régressions ; les tests automatiques et la revue humaine restent obligatoires."
+      ],
+      "gettingStarted": [
+        "Connecter un dépôt de test avec permissions minimales et sans secrets de production.",
+        "Définir un ticket vérifiable, des tests existants et des critères de fusion ; examiner chaque modification avant déploiement."
+      ],
+      "examples": [
+        "Corrige ce bug reproductible, exécute les tests ciblés et produis un diff explicatif sans fusionner la branche.",
+        "Propose un refactoring limité, compare la couverture des tests et indique les risques non résolus."
+      ],
+      "pricing": "Vérifier licence, abonnement, quotas d'appels, crédit de calcul, coût des modèles et infrastructure de développement.",
+      "privacy": "Définir les dépôts autorisés, gérer les secrets, vérifier l'hébergement et l'indexation du code ainsi que les autorisations des connecteurs.",
+      "selection": [
+        "Comparer autonomie, environnements pris en charge, qualité des tests, auditabilité, coûts et contrôles de sécurité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.factory.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "amp-sourcegraph": {
+    "descriptionFr": "Agent de codage Amp avec interfaces Web et terminal permettant d'explorer et de modifier une base de code.",
+    "descriptionEn": "Amp coding agent with web and terminal interfaces for exploring and editing codebases.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Agent de développement et recherches de code",
+      "Interface Web et terminal",
+      "Travail sur tâches multiétapes"
+    ],
+    "featuresEn": [
+      "Coding agent and code search",
+      "Web and terminal interface",
+      "Multi-step tasks"
+    ],
+    "accessFr": "Service avec modèles et limites selon offre",
+    "accessEn": "IDE, CLI, cloud service or open-source project depending on product and plan",
+    "officialSources": [
+      {
+        "url": "https://ampcode.com/docs",
+        "checkedAt": "2026-11-17",
+        "scope": "features_access_and_security"
+      }
+    ],
+    "research": {
+      "headline": "Agent de codage Amp avec interfaces Web et terminal permettant d'explorer et de modifier une base de code.",
+      "audiences": [
+        "Développeurs et équipes d'ingénierie logicielle",
+        "Responsables DevOps, sécurité et gouvernance du code"
+      ],
+      "cases": [
+        "Implémenter une correction isolée avec tests de régression, revue de diff et contrôle d'accès.",
+        "Comparer l'efficacité sur un même ensemble de tickets, en consignant erreurs, coût, durée et validation humaine."
+      ],
+      "advantages": [
+        "Agent de développement et recherches de code",
+        "Interface Web et terminal",
+        "Travail sur tâches multiétapes"
+      ],
+      "limits": [
+        "Consulter les limites du plan et vérifier les changements produits ; ne pas confondre génération et validation.",
+        "Un agent peut introduire des failles et des régressions ; les tests automatiques et la revue humaine restent obligatoires."
+      ],
+      "gettingStarted": [
+        "Connecter un dépôt de test avec permissions minimales et sans secrets de production.",
+        "Définir un ticket vérifiable, des tests existants et des critères de fusion ; examiner chaque modification avant déploiement."
+      ],
+      "examples": [
+        "Corrige ce bug reproductible, exécute les tests ciblés et produis un diff explicatif sans fusionner la branche.",
+        "Propose un refactoring limité, compare la couverture des tests et indique les risques non résolus."
+      ],
+      "pricing": "Vérifier licence, abonnement, quotas d'appels, crédit de calcul, coût des modèles et infrastructure de développement.",
+      "privacy": "Définir les dépôts autorisés, gérer les secrets, vérifier l'hébergement et l'indexation du code ainsi que les autorisations des connecteurs.",
+      "selection": [
+        "Comparer autonomie, environnements pris en charge, qualité des tests, auditabilité, coûts et contrôles de sécurité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://ampcode.com/docs",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "augment-agent": {
+    "descriptionFr": "Agent Augment Code destiné à exploiter le contexte de grands dépôts de code pour proposer des modifications.",
+    "descriptionEn": "Augment Code agent focused on large-codebase context to propose implementations and edits.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Compréhension des dépôts volumineux",
+      "Agent de changement de code",
+      "Outils selon l'IDE et l'offre"
+    ],
+    "featuresEn": [
+      "Large codebase understanding",
+      "Code change agent",
+      "IDE and plan-dependent tools"
+    ],
+    "accessFr": "SaaS / intégrations selon abonnement",
+    "accessEn": "IDE, CLI, cloud service or open-source project depending on product and plan",
+    "officialSources": [
+      {
+        "url": "https://docs.augmentcode.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_access_and_security"
+      }
+    ],
+    "research": {
+      "headline": "Agent Augment Code destiné à exploiter le contexte de grands dépôts de code pour proposer des modifications.",
+      "audiences": [
+        "Développeurs et équipes d'ingénierie logicielle",
+        "Responsables DevOps, sécurité et gouvernance du code"
+      ],
+      "cases": [
+        "Implémenter une correction isolée avec tests de régression, revue de diff et contrôle d'accès.",
+        "Comparer l'efficacité sur un même ensemble de tickets, en consignant erreurs, coût, durée et validation humaine."
+      ],
+      "advantages": [
+        "Compréhension des dépôts volumineux",
+        "Agent de changement de code",
+        "Outils selon l'IDE et l'offre"
+      ],
+      "limits": [
+        "Vérifier l'indexation du code, la confidentialité et les restrictions d'accès aux dépôts.",
+        "Un agent peut introduire des failles et des régressions ; les tests automatiques et la revue humaine restent obligatoires."
+      ],
+      "gettingStarted": [
+        "Connecter un dépôt de test avec permissions minimales et sans secrets de production.",
+        "Définir un ticket vérifiable, des tests existants et des critères de fusion ; examiner chaque modification avant déploiement."
+      ],
+      "examples": [
+        "Corrige ce bug reproductible, exécute les tests ciblés et produis un diff explicatif sans fusionner la branche.",
+        "Propose un refactoring limité, compare la couverture des tests et indique les risques non résolus."
+      ],
+      "pricing": "Vérifier licence, abonnement, quotas d'appels, crédit de calcul, coût des modèles et infrastructure de développement.",
+      "privacy": "Définir les dépôts autorisés, gérer les secrets, vérifier l'hébergement et l'indexation du code ainsi que les autorisations des connecteurs.",
+      "selection": [
+        "Comparer autonomie, environnements pris en charge, qualité des tests, auditabilité, coûts et contrôles de sécurité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.augmentcode.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "gemini-cli": {
+    "descriptionFr": "Agent open source Google en ligne de commande pour raisonner sur les projets, lire et modifier du code et utiliser des outils.",
+    "descriptionEn": "Google open-source terminal agent for project reasoning, code edits and tool use.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Interface terminal et outils de fichiers",
+      "Agents et sous-agents",
+      "Connexions modèles et services selon configuration"
+    ],
+    "featuresEn": [
+      "Terminal and file tools",
+      "Agents and subagents",
+      "Model and service connections"
+    ],
+    "accessFr": "Open source / accès modèles selon abonnement",
+    "accessEn": "IDE, CLI, cloud service or open-source project depending on product and plan",
+    "officialSources": [
+      {
+        "url": "https://github.com/google-gemini/gemini-cli",
+        "checkedAt": "2026-11-17",
+        "scope": "features_access_and_security"
+      }
+    ],
+    "research": {
+      "headline": "Agent open source Google en ligne de commande pour raisonner sur les projets, lire et modifier du code et utiliser des outils.",
+      "audiences": [
+        "Développeurs et équipes d'ingénierie logicielle",
+        "Responsables DevOps, sécurité et gouvernance du code"
+      ],
+      "cases": [
+        "Implémenter une correction isolée avec tests de régression, revue de diff et contrôle d'accès.",
+        "Comparer l'efficacité sur un même ensemble de tickets, en consignant erreurs, coût, durée et validation humaine."
+      ],
+      "advantages": [
+        "Interface terminal et outils de fichiers",
+        "Agents et sous-agents",
+        "Connexions modèles et services selon configuration"
+      ],
+      "limits": [
+        "Vérifier restrictions de plans et environnement, gestion des clés et permissions de commandes.",
+        "Un agent peut introduire des failles et des régressions ; les tests automatiques et la revue humaine restent obligatoires."
+      ],
+      "gettingStarted": [
+        "Connecter un dépôt de test avec permissions minimales et sans secrets de production.",
+        "Définir un ticket vérifiable, des tests existants et des critères de fusion ; examiner chaque modification avant déploiement."
+      ],
+      "examples": [
+        "Corrige ce bug reproductible, exécute les tests ciblés et produis un diff explicatif sans fusionner la branche.",
+        "Propose un refactoring limité, compare la couverture des tests et indique les risques non résolus."
+      ],
+      "pricing": "Vérifier licence, abonnement, quotas d'appels, crédit de calcul, coût des modèles et infrastructure de développement.",
+      "privacy": "Définir les dépôts autorisés, gérer les secrets, vérifier l'hébergement et l'indexation du code ainsi que les autorisations des connecteurs.",
+      "selection": [
+        "Comparer autonomie, environnements pris en charge, qualité des tests, auditabilité, coûts et contrôles de sécurité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "qwen-code": {
+    "descriptionFr": "Agent de programmation open source en terminal du projet Qwen, extensible aux outils et sous-agents.",
+    "descriptionEn": "Open-source terminal coding agent from Qwen with extensible tools and subagents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Terminal et modification de projets",
+      "Outils et sous-agents",
+      "Intégrations multi-modèles selon version"
+    ],
+    "featuresEn": [
+      "Terminal and project edits",
+      "Tools and subagents",
+      "Version-dependent multi-model integrations"
+    ],
+    "accessFr": "Open source / modèles selon formule",
+    "accessEn": "IDE, CLI, cloud service or open-source project depending on product and plan",
+    "officialSources": [
+      {
+        "url": "https://github.com/QwenLM/qwen-code",
+        "checkedAt": "2026-11-17",
+        "scope": "features_access_and_security"
+      }
+    ],
+    "research": {
+      "headline": "Agent de programmation open source en terminal du projet Qwen, extensible aux outils et sous-agents.",
+      "audiences": [
+        "Développeurs et équipes d'ingénierie logicielle",
+        "Responsables DevOps, sécurité et gouvernance du code"
+      ],
+      "cases": [
+        "Implémenter une correction isolée avec tests de régression, revue de diff et contrôle d'accès.",
+        "Comparer l'efficacité sur un même ensemble de tickets, en consignant erreurs, coût, durée et validation humaine."
+      ],
+      "advantages": [
+        "Terminal et modification de projets",
+        "Outils et sous-agents",
+        "Intégrations multi-modèles selon version"
+      ],
+      "limits": [
+        "La documentation et les modalités d'accès aux modèles évoluent ; vérifier quotas, autorisations et compatibilité.",
+        "Un agent peut introduire des failles et des régressions ; les tests automatiques et la revue humaine restent obligatoires."
+      ],
+      "gettingStarted": [
+        "Connecter un dépôt de test avec permissions minimales et sans secrets de production.",
+        "Définir un ticket vérifiable, des tests existants et des critères de fusion ; examiner chaque modification avant déploiement."
+      ],
+      "examples": [
+        "Corrige ce bug reproductible, exécute les tests ciblés et produis un diff explicatif sans fusionner la branche.",
+        "Propose un refactoring limité, compare la couverture des tests et indique les risques non résolus."
+      ],
+      "pricing": "Vérifier licence, abonnement, quotas d'appels, crédit de calcul, coût des modèles et infrastructure de développement.",
+      "privacy": "Définir les dépôts autorisés, gérer les secrets, vérifier l'hébergement et l'indexation du code ainsi que les autorisations des connecteurs.",
+      "selection": [
+        "Comparer autonomie, environnements pris en charge, qualité des tests, auditabilité, coûts et contrôles de sécurité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://github.com/QwenLM/qwen-code",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "zed-agent": {
+    "descriptionFr": "Fonctions agentiques de l'éditeur Zed via un panneau de développement et des agents externes configurables.",
+    "descriptionEn": "Zed editor agent capabilities through its coding panel and configurable external agents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Panneau agent dans l'éditeur",
+      "Génération, débogage et refactorisation",
+      "Agents externes et fournisseurs de modèles"
+    ],
+    "featuresEn": [
+      "Editor agent panel",
+      "Generation, debugging and refactoring",
+      "External agents and model providers"
+    ],
+    "accessFr": "Éditeur / modèles selon configuration",
+    "accessEn": "IDE, CLI, cloud service or open-source project depending on product and plan",
+    "officialSources": [
+      {
+        "url": "https://zed.dev/docs/ai/agents",
+        "checkedAt": "2026-11-17",
+        "scope": "features_access_and_security"
+      }
+    ],
+    "research": {
+      "headline": "Fonctions agentiques de l'éditeur Zed via un panneau de développement et des agents externes configurables.",
+      "audiences": [
+        "Développeurs et équipes d'ingénierie logicielle",
+        "Responsables DevOps, sécurité et gouvernance du code"
+      ],
+      "cases": [
+        "Implémenter une correction isolée avec tests de régression, revue de diff et contrôle d'accès.",
+        "Comparer l'efficacité sur un même ensemble de tickets, en consignant erreurs, coût, durée et validation humaine."
+      ],
+      "advantages": [
+        "Panneau agent dans l'éditeur",
+        "Génération, débogage et refactorisation",
+        "Agents externes et fournisseurs de modèles"
+      ],
+      "limits": [
+        "Différencier Zed Agent et les agents externes ; les capacités dépendent du fournisseur de modèle.",
+        "Un agent peut introduire des failles et des régressions ; les tests automatiques et la revue humaine restent obligatoires."
+      ],
+      "gettingStarted": [
+        "Connecter un dépôt de test avec permissions minimales et sans secrets de production.",
+        "Définir un ticket vérifiable, des tests existants et des critères de fusion ; examiner chaque modification avant déploiement."
+      ],
+      "examples": [
+        "Corrige ce bug reproductible, exécute les tests ciblés et produis un diff explicatif sans fusionner la branche.",
+        "Propose un refactoring limité, compare la couverture des tests et indique les risques non résolus."
+      ],
+      "pricing": "Vérifier licence, abonnement, quotas d'appels, crédit de calcul, coût des modèles et infrastructure de développement.",
+      "privacy": "Définir les dépôts autorisés, gérer les secrets, vérifier l'hébergement et l'indexation du code ainsi que les autorisations des connecteurs.",
+      "selection": [
+        "Comparer autonomie, environnements pris en charge, qualité des tests, auditabilité, coûts et contrôles de sécurité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://zed.dev/docs/ai/agents",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "tabnine-agent": {
+    "descriptionFr": "Fonctions agentiques Tabnine pour assistance au développement et intégration aux exigences des entreprises.",
+    "descriptionEn": "Tabnine agentic coding capabilities for developer assistance and enterprise needs.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Assistance dans les IDE compatibles",
+      "Compréhension des projets",
+      "Options de gouvernance entreprise"
+    ],
+    "featuresEn": [
+      "Support in compatible IDEs",
+      "Project-aware assistance",
+      "Enterprise governance options"
+    ],
+    "accessFr": "Offres professionnelles et entreprises",
+    "accessEn": "IDE, CLI, cloud service or open-source project depending on product and plan",
+    "officialSources": [
+      {
+        "url": "https://docs.tabnine.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_access_and_security"
+      }
+    ],
+    "research": {
+      "headline": "Fonctions agentiques Tabnine pour assistance au développement et intégration aux exigences des entreprises.",
+      "audiences": [
+        "Développeurs et équipes d'ingénierie logicielle",
+        "Responsables DevOps, sécurité et gouvernance du code"
+      ],
+      "cases": [
+        "Implémenter une correction isolée avec tests de régression, revue de diff et contrôle d'accès.",
+        "Comparer l'efficacité sur un même ensemble de tickets, en consignant erreurs, coût, durée et validation humaine."
+      ],
+      "advantages": [
+        "Assistance dans les IDE compatibles",
+        "Compréhension des projets",
+        "Options de gouvernance entreprise"
+      ],
+      "limits": [
+        "Vérifier ce qui est inclus dans le mode agent selon le forfait, et les politiques de rétention et d'hébergement.",
+        "Un agent peut introduire des failles et des régressions ; les tests automatiques et la revue humaine restent obligatoires."
+      ],
+      "gettingStarted": [
+        "Connecter un dépôt de test avec permissions minimales et sans secrets de production.",
+        "Définir un ticket vérifiable, des tests existants et des critères de fusion ; examiner chaque modification avant déploiement."
+      ],
+      "examples": [
+        "Corrige ce bug reproductible, exécute les tests ciblés et produis un diff explicatif sans fusionner la branche.",
+        "Propose un refactoring limité, compare la couverture des tests et indique les risques non résolus."
+      ],
+      "pricing": "Vérifier licence, abonnement, quotas d'appels, crédit de calcul, coût des modèles et infrastructure de développement.",
+      "privacy": "Définir les dépôts autorisés, gérer les secrets, vérifier l'hébergement et l'indexation du code ainsi que les autorisations des connecteurs.",
+      "selection": [
+        "Comparer autonomie, environnements pris en charge, qualité des tests, auditabilité, coûts et contrôles de sécurité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.tabnine.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "plandex": {
+    "descriptionFr": "Agent de programmation open source orienté modifications complexes et planification avec gestion de contexte.",
+    "descriptionEn": "Open-source coding agent focused on complex changes, planning and context management.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Planification de tâches et modifications",
+      "Travail sur plusieurs fichiers",
+      "Outils en ligne de commande"
+    ],
+    "featuresEn": [
+      "Planning and code changes",
+      "Multi-file workflows",
+      "CLI tools"
+    ],
+    "accessFr": "Projet open source / maintenance à vérifier",
+    "accessEn": "IDE, CLI, cloud service or open-source project depending on product and plan",
+    "officialSources": [
+      {
+        "url": "https://github.com/plandex-ai/plandex",
+        "checkedAt": "2026-11-17",
+        "scope": "features_access_and_security"
+      }
+    ],
+    "research": {
+      "headline": "Agent de programmation open source orienté modifications complexes et planification avec gestion de contexte.",
+      "audiences": [
+        "Développeurs et équipes d'ingénierie logicielle",
+        "Responsables DevOps, sécurité et gouvernance du code"
+      ],
+      "cases": [
+        "Implémenter une correction isolée avec tests de régression, revue de diff et contrôle d'accès.",
+        "Comparer l'efficacité sur un même ensemble de tickets, en consignant erreurs, coût, durée et validation humaine."
+      ],
+      "advantages": [
+        "Planification de tâches et modifications",
+        "Travail sur plusieurs fichiers",
+        "Outils en ligne de commande"
+      ],
+      "limits": [
+        "Contrôler l'activité de maintenance, les versions compatibles et les droits d'exécution ; revue du diff indispensable.",
+        "Un agent peut introduire des failles et des régressions ; les tests automatiques et la revue humaine restent obligatoires."
+      ],
+      "gettingStarted": [
+        "Connecter un dépôt de test avec permissions minimales et sans secrets de production.",
+        "Définir un ticket vérifiable, des tests existants et des critères de fusion ; examiner chaque modification avant déploiement."
+      ],
+      "examples": [
+        "Corrige ce bug reproductible, exécute les tests ciblés et produis un diff explicatif sans fusionner la branche.",
+        "Propose un refactoring limité, compare la couverture des tests et indique les risques non résolus."
+      ],
+      "pricing": "Vérifier licence, abonnement, quotas d'appels, crédit de calcul, coût des modèles et infrastructure de développement.",
+      "privacy": "Définir les dépôts autorisés, gérer les secrets, vérifier l'hébergement et l'indexation du code ainsi que les autorisations des connecteurs.",
+      "selection": [
+        "Comparer autonomie, environnements pris en charge, qualité des tests, auditabilité, coûts et contrôles de sécurité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://github.com/plandex-ai/plandex",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "github-copilot-coding-agent": {
+    "descriptionFr": "Agent GitHub Copilot permettant de déléguer des issues à un environnement de codage et de soumettre des pull requests.",
+    "descriptionEn": "GitHub Copilot agent that works on assigned issues in a coding environment and proposes pull requests.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Délégation d'issues GitHub",
+      "Modifications de code et pull requests",
+      "Contrôles de revue et CI"
+    ],
+    "featuresEn": [
+      "Delegated GitHub issues",
+      "Code changes and pull requests",
+      "Review and CI checks"
+    ],
+    "accessFr": "GitHub / offre et politique organisationnelle",
+    "accessEn": "IDE, CLI, cloud service or open-source project depending on product and plan",
+    "officialSources": [
+      {
+        "url": "https://docs.github.com/en/copilot/concepts/agents/coding-agent/about-coding-agent",
+        "checkedAt": "2026-11-17",
+        "scope": "features_access_and_security"
+      }
+    ],
+    "research": {
+      "headline": "Agent GitHub Copilot permettant de déléguer des issues à un environnement de codage et de soumettre des pull requests.",
+      "audiences": [
+        "Développeurs et équipes d'ingénierie logicielle",
+        "Responsables DevOps, sécurité et gouvernance du code"
+      ],
+      "cases": [
+        "Implémenter une correction isolée avec tests de régression, revue de diff et contrôle d'accès.",
+        "Comparer l'efficacité sur un même ensemble de tickets, en consignant erreurs, coût, durée et validation humaine."
+      ],
+      "advantages": [
+        "Délégation d'issues GitHub",
+        "Modifications de code et pull requests",
+        "Contrôles de revue et CI"
+      ],
+      "limits": [
+        "Vérifier activation administrative, secrets de CI, limites de dépôt et protection des branches ; l'agent ne remplace pas la revue.",
+        "Un agent peut introduire des failles et des régressions ; les tests automatiques et la revue humaine restent obligatoires."
+      ],
+      "gettingStarted": [
+        "Connecter un dépôt de test avec permissions minimales et sans secrets de production.",
+        "Définir un ticket vérifiable, des tests existants et des critères de fusion ; examiner chaque modification avant déploiement."
+      ],
+      "examples": [
+        "Corrige ce bug reproductible, exécute les tests ciblés et produis un diff explicatif sans fusionner la branche.",
+        "Propose un refactoring limité, compare la couverture des tests et indique les risques non résolus."
+      ],
+      "pricing": "Vérifier licence, abonnement, quotas d'appels, crédit de calcul, coût des modèles et infrastructure de développement.",
+      "privacy": "Définir les dépôts autorisés, gérer les secrets, vérifier l'hébergement et l'indexation du code ainsi que les autorisations des connecteurs.",
+      "selection": [
+        "Comparer autonomie, environnements pris en charge, qualité des tests, auditabilité, coûts et contrôles de sécurité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.github.com/en/copilot/concepts/agents/coding-agent/about-coding-agent",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "amazon-q-developer-agent": {
+    "descriptionFr": "Fonctions agentiques d'Amazon Q Developer pour comprendre, générer, tester et moderniser du code dans l'écosystème AWS.",
+    "descriptionEn": "Amazon Q Developer agent capabilities for understanding, generating, testing and modernizing code in the AWS ecosystem.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Développement assisté dans IDE et AWS",
+      "Transformation et modernisation de code",
+      "Tâches agentiques selon fonctionnalité"
+    ],
+    "featuresEn": [
+      "Assisted development in IDE and AWS",
+      "Code transformation and modernization",
+      "Feature-dependent agent workflows"
+    ],
+    "accessFr": "AWS / tarifs et intégrations selon formule",
+    "accessEn": "IDE, CLI, cloud service or open-source project depending on product and plan",
+    "officialSources": [
+      {
+        "url": "https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/what-is.html",
+        "checkedAt": "2026-11-17",
+        "scope": "features_access_and_security"
+      }
+    ],
+    "research": {
+      "headline": "Fonctions agentiques d'Amazon Q Developer pour comprendre, générer, tester et moderniser du code dans l'écosystème AWS.",
+      "audiences": [
+        "Développeurs et équipes d'ingénierie logicielle",
+        "Responsables DevOps, sécurité et gouvernance du code"
+      ],
+      "cases": [
+        "Implémenter une correction isolée avec tests de régression, revue de diff et contrôle d'accès.",
+        "Comparer l'efficacité sur un même ensemble de tickets, en consignant erreurs, coût, durée et validation humaine."
+      ],
+      "advantages": [
+        "Développement assisté dans IDE et AWS",
+        "Transformation et modernisation de code",
+        "Tâches agentiques selon fonctionnalité"
+      ],
+      "limits": [
+        "Les transformations prises en charge, données envoyées et accès AWS dépendent de l'intégration ; valider sécurité et tests.",
+        "Un agent peut introduire des failles et des régressions ; les tests automatiques et la revue humaine restent obligatoires."
+      ],
+      "gettingStarted": [
+        "Connecter un dépôt de test avec permissions minimales et sans secrets de production.",
+        "Définir un ticket vérifiable, des tests existants et des critères de fusion ; examiner chaque modification avant déploiement."
+      ],
+      "examples": [
+        "Corrige ce bug reproductible, exécute les tests ciblés et produis un diff explicatif sans fusionner la branche.",
+        "Propose un refactoring limité, compare la couverture des tests et indique les risques non résolus."
+      ],
+      "pricing": "Vérifier licence, abonnement, quotas d'appels, crédit de calcul, coût des modèles et infrastructure de développement.",
+      "privacy": "Définir les dépôts autorisés, gérer les secrets, vérifier l'hébergement et l'indexation du code ainsi que les autorisations des connecteurs.",
+      "selection": [
+        "Comparer autonomie, environnements pris en charge, qualité des tests, auditabilité, coûts et contrôles de sécurité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/what-is.html",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  }
+}
