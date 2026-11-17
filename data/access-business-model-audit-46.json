@@ -1,0 +1,92 @@
+{
+  "bubble": {
+    "accessFr": "Plateforme no-code Web de développement et d’hébergement d’applications",
+    "accessEn": "Web no-code application development and hosting platform",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Plan Free pour construire et tester ; forfaits Starter, Growth et Team pour publication et capacité, avec unités de charge.",
+      "en": "Free build-and-test plan; Starter, Growth and Team plans for production and workload capacity.",
+      "sourceUrl": "https://bubble.io/pricing/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-46"
+  },
+  "flutterflow": {
+    "accessFr": "Éditeur no-code/low-code Flutter sur le Web, génération de code et création mobile/Web",
+    "accessEn": "Browser-based Flutter no-code/low-code editor with code export and mobile/web builds",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Formule Free ; plans payants selon besoins de développement, collaboration, déploiement et export.",
+      "en": "Free plan; paid options for development, collaboration, deployment and source export.",
+      "sourceUrl": "https://flutterflow.io/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-46"
+  },
+  "softr": {
+    "accessFr": "Plateforme Web pour créer des applications métier, bases de données et workflows",
+    "accessEn": "Web platform for business apps, databases and workflows",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Formule Free permanente avec crédits IA et limites d’utilisateurs ; offres payantes élargissant les capacités.",
+      "en": "Permanent Free tier with AI credits and user limits; paid plans expand allowances.",
+      "sourceUrl": "https://docs.softr.io/workspace-and-billing/pricing-and-plans",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-46"
+  },
+  "glide": {
+    "accessFr": "Plateforme Web GlideOS pour applications internes fondées sur données et prompts",
+    "accessEn": "GlideOS web platform for internal apps built from data and prompts",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Plan Free d’essai limité ; abonnements Maker, Business et Enterprise selon publication, utilisateurs et crédits.",
+      "en": "Limited Free testing tier; Maker, Business and Enterprise by publishing, users and credits.",
+      "sourceUrl": "https://www.glideapps.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-46"
+  },
+  "base44": {
+    "accessFr": "Plateforme Web de création d’applications par langage naturel et déploiement hébergé",
+    "accessEn": "Web natural-language app builder with hosted deployment",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Formule gratuite avec crédits ; abonnements Starter, Builder, Pro et Elite pour volumes, domaine et intégrations.",
+      "en": "Credit-limited free plan; Starter, Builder, Pro and Elite tiers for usage, domains and integrations.",
+      "sourceUrl": "https://base44.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-46"
+  },
+  "momen": {
+    "accessFr": "Constructeur visuel Web d’applications avec base de données, API, automatisation et hébergement",
+    "accessEn": "Visual web app builder with database, APIs, automations and hosting",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Plan Free pour créer et prévisualiser ; abonnements Basic, Pro et Enterprise pour publication, domaine et ressources.",
+      "en": "Free build-and-preview plan; Basic, Pro and Enterprise for publishing, domains and resources.",
+      "sourceUrl": "https://momen.app/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-46"
+  }
+}
