@@ -1,0 +1,1589 @@
+{
+  "openai-agents-api": {
+    "descriptionFr": "API OpenAI pour agents persistants et tâches longues avec exécution cloud et outils.",
+    "descriptionEn": "OpenAI API for persistent agents and long-running work with cloud execution and tools.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Création et suivi d'agents",
+      "Tâches asynchrones ou longues",
+      "Exécution et outils cloud"
+    ],
+    "featuresEn": [
+      "Agent creation and tracking",
+      "Long-running or asynchronous tasks",
+      "Cloud execution and tools"
+    ],
+    "accessFr": "API, SaaS, SDK ou infrastructure selon l'outil",
+    "accessEn": "API, SaaS, SDK or infrastructure depending on tool",
+    "officialSources": [
+      {
+        "url": "https://openai.com/index/introducing-the-agents-api/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_status_and_documentation"
+      }
+    ],
+    "research": {
+      "headline": "API OpenAI pour agents persistants et tâches longues avec exécution cloud et outils.",
+      "audiences": [
+        "Développeurs d'applications IA et architectes techniques",
+        "Équipes d'automatisation, sécurité et gouvernance"
+      ],
+      "cases": [
+        "Construire un agent limité à un scénario métier vérifiable avec des permissions minimales.",
+        "Comparer une approche no-code, un SDK et une infrastructure managée sur les mêmes exigences fonctionnelles."
+      ],
+      "advantages": [
+        "Création et suivi d'agents",
+        "Tâches asynchrones ou longues",
+        "Exécution et outils cloud"
+      ],
+      "limits": [
+        "Contrôler le cycle de vie, la tarification, les permissions et la gestion des données des tâches longues.",
+        "Les agents peuvent déclencher des actions imprévues, être exposés aux injections de prompt ou transférer des données sensibles ; appliquer des contrôles humains."
+      ],
+      "gettingStarted": [
+        "Décrire les objectifs, outils, jeux de tests, limites de dépenses et points d'approbation avant programmation.",
+        "Prototyper sur données non sensibles, instrumenter les traces et tester les échecs avant production."
+      ],
+      "examples": [
+        "Propose un agent utilisant uniquement les outils autorisés, avec vérification des entrées et approbation pour toute écriture.",
+        "Compare le coût, la latence, la qualité des réponses et les erreurs sur 30 tâches reproductibles."
+      ],
+      "pricing": "Comparer licence du framework, coût des modèles, durée d'exécution, stockage, observabilité et connecteurs ; vérifier les tarifs officiels.",
+      "privacy": "Limiter les secrets et scopes OAuth, isoler les sessions, journaliser les actions autorisées et maîtriser rétention et transferts de données.",
+      "selection": [
+        "Séparer construction, orchestration, hébergement, observabilité et recherche ; sélectionner selon contrôle, extensibilité, maintenance et coût."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "api",
+      "evidence": "official_product_or_repository",
+      "sources": [
+        {
+          "url": "https://openai.com/index/introducing-the-agents-api/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "provider_documentation_reviewed"
+  },
+  "openai-agentkit": {
+    "descriptionFr": "Ensemble historique de composants OpenAI pour agents ; Agent Builder et anciens Evals doivent fermer le 30 novembre 2026, tandis que l'Agents SDK reste une voie de développement.",
+    "descriptionEn": "Historical OpenAI agent toolkit; Agent Builder and legacy Evals are scheduled for shutdown on November 30, 2026 while Agents SDK remains a development path.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Agent Builder historique",
+      "Agents SDK pour agents programmatiques",
+      "Guide de migration et évolution des évaluations"
+    ],
+    "featuresEn": [
+      "Legacy Agent Builder",
+      "Agents SDK for code-first development",
+      "Migration guide and evaluation changes"
+    ],
+    "accessFr": "Composants en fin de vie",
+    "accessEn": "Deprecating components",
+    "officialSources": [
+      {
+        "url": "https://developers.openai.com/api/docs/deprecations",
+        "checkedAt": "2026-11-17",
+        "scope": "features_status_and_documentation"
+      }
+    ],
+    "research": {
+      "headline": "Ensemble historique de composants OpenAI pour agents ; Agent Builder et anciens Evals doivent fermer le 30 novembre 2026, tandis que l'Agents SDK reste une voie de développement.",
+      "audiences": [
+        "Développeurs d'applications IA et architectes techniques",
+        "Équipes d'automatisation, sécurité et gouvernance"
+      ],
+      "cases": [
+        "Construire un agent limité à un scénario métier vérifiable avec des permissions minimales.",
+        "Comparer une approche no-code, un SDK et une infrastructure managée sur les mêmes exigences fonctionnelles."
+      ],
+      "advantages": [
+        "Agent Builder historique",
+        "Agents SDK pour agents programmatiques",
+        "Guide de migration et évolution des évaluations"
+      ],
+      "limits": [
+        "Agent Builder et anciens Evals doivent être arrêtés le 30 novembre 2026. Prévoir export des workflows et migration vers Agents SDK ou alternatives adaptées.",
+        "Les agents peuvent déclencher des actions imprévues, être exposés aux injections de prompt ou transférer des données sensibles ; appliquer des contrôles humains."
+      ],
+      "gettingStarted": [
+        "Décrire les objectifs, outils, jeux de tests, limites de dépenses et points d'approbation avant programmation.",
+        "Prototyper sur données non sensibles, instrumenter les traces et tester les échecs avant production."
+      ],
+      "examples": [
+        "Propose un agent utilisant uniquement les outils autorisés, avec vérification des entrées et approbation pour toute écriture.",
+        "Compare le coût, la latence, la qualité des réponses et les erreurs sur 30 tâches reproductibles."
+      ],
+      "pricing": "Comparer licence du framework, coût des modèles, durée d'exécution, stockage, observabilité et connecteurs ; vérifier les tarifs officiels.",
+      "privacy": "Limiter les secrets et scopes OAuth, isoler les sessions, journaliser les actions autorisées et maîtriser rétention et transferts de données.",
+      "selection": [
+        "Séparer construction, orchestration, hébergement, observabilité et recherche ; sélectionner selon contrôle, extensibilité, maintenance et coût."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "sunsetting_components",
+      "evidence": "official_product_or_repository",
+      "sources": [
+        {
+          "url": "https://developers.openai.com/api/docs/deprecations",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "deprecation_verified"
+  },
+  "google-agent-development-kit": {
+    "descriptionFr": "Framework open source Google ADK pour concevoir, orchestrer et tester des agents et systèmes multiagents.",
+    "descriptionEn": "Google's open-source ADK for building, orchestrating and testing agents and multi-agent systems.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Agents et outils configurables",
+      "Orchestration multiagents",
+      "Développement et tests locaux"
+    ],
+    "featuresEn": [
+      "Configurable agents and tools",
+      "Multi-agent orchestration",
+      "Local development and testing"
+    ],
+    "accessFr": "Framework ou projet open source",
+    "accessEn": "Open-source framework or project",
+    "officialSources": [
+      {
+        "url": "https://google.github.io/adk-docs/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_status_and_documentation"
+      }
+    ],
+    "research": {
+      "headline": "Framework open source Google ADK pour concevoir, orchestrer et tester des agents et systèmes multiagents.",
+      "audiences": [
+        "Développeurs d'applications IA et architectes techniques",
+        "Équipes d'automatisation, sécurité et gouvernance"
+      ],
+      "cases": [
+        "Construire un agent limité à un scénario métier vérifiable avec des permissions minimales.",
+        "Comparer une approche no-code, un SDK et une infrastructure managée sur les mêmes exigences fonctionnelles."
+      ],
+      "advantages": [
+        "Agents et outils configurables",
+        "Orchestration multiagents",
+        "Développement et tests locaux"
+      ],
+      "limits": [
+        "La prise en charge des modèles, plugins et langages dépend des versions ; vérifier l'environnement d'exécution.",
+        "Les agents peuvent déclencher des actions imprévues, être exposés aux injections de prompt ou transférer des données sensibles ; appliquer des contrôles humains."
+      ],
+      "gettingStarted": [
+        "Décrire les objectifs, outils, jeux de tests, limites de dépenses et points d'approbation avant programmation.",
+        "Prototyper sur données non sensibles, instrumenter les traces et tester les échecs avant production."
+      ],
+      "examples": [
+        "Propose un agent utilisant uniquement les outils autorisés, avec vérification des entrées et approbation pour toute écriture.",
+        "Compare le coût, la latence, la qualité des réponses et les erreurs sur 30 tâches reproductibles."
+      ],
+      "pricing": "Comparer licence du framework, coût des modèles, durée d'exécution, stockage, observabilité et connecteurs ; vérifier les tarifs officiels.",
+      "privacy": "Limiter les secrets et scopes OAuth, isoler les sessions, journaliser les actions autorisées et maîtriser rétention et transferts de données.",
+      "selection": [
+        "Séparer construction, orchestration, hébergement, observabilité et recherche ; sélectionner selon contrôle, extensibilité, maintenance et coût."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "open_source",
+      "evidence": "official_product_or_repository",
+      "sources": [
+        {
+          "url": "https://google.github.io/adk-docs/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "provider_documentation_reviewed"
+  },
+  "vertex-ai-agent-builder": {
+    "descriptionFr": "Ensemble de services Google Cloud pour développer, connecter et déployer des agents sur infrastructure gérée.",
+    "descriptionEn": "Google Cloud services for developing, connecting and deploying agents on managed infrastructure.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Construction et déploiement d'agents",
+      "Connexions aux données d'entreprise",
+      "Supervision et gouvernance cloud"
+    ],
+    "featuresEn": [
+      "Agent building and deployment",
+      "Enterprise data connections",
+      "Cloud monitoring and governance"
+    ],
+    "accessFr": "API, SaaS, SDK ou infrastructure selon l'outil",
+    "accessEn": "API, SaaS, SDK or infrastructure depending on tool",
+    "officialSources": [
+      {
+        "url": "https://cloud.google.com/products/agent-builder",
+        "checkedAt": "2026-11-17",
+        "scope": "features_status_and_documentation"
+      }
+    ],
+    "research": {
+      "headline": "Ensemble de services Google Cloud pour développer, connecter et déployer des agents sur infrastructure gérée.",
+      "audiences": [
+        "Développeurs d'applications IA et architectes techniques",
+        "Équipes d'automatisation, sécurité et gouvernance"
+      ],
+      "cases": [
+        "Construire un agent limité à un scénario métier vérifiable avec des permissions minimales.",
+        "Comparer une approche no-code, un SDK et une infrastructure managée sur les mêmes exigences fonctionnelles."
+      ],
+      "advantages": [
+        "Construction et déploiement d'agents",
+        "Connexions aux données d'entreprise",
+        "Supervision et gouvernance cloud"
+      ],
+      "limits": [
+        "Les noms de produits et consoles évoluent ; vérifier les fonctions réellement disponibles, régions et coûts.",
+        "Les agents peuvent déclencher des actions imprévues, être exposés aux injections de prompt ou transférer des données sensibles ; appliquer des contrôles humains."
+      ],
+      "gettingStarted": [
+        "Décrire les objectifs, outils, jeux de tests, limites de dépenses et points d'approbation avant programmation.",
+        "Prototyper sur données non sensibles, instrumenter les traces et tester les échecs avant production."
+      ],
+      "examples": [
+        "Propose un agent utilisant uniquement les outils autorisés, avec vérification des entrées et approbation pour toute écriture.",
+        "Compare le coût, la latence, la qualité des réponses et les erreurs sur 30 tâches reproductibles."
+      ],
+      "pricing": "Comparer licence du framework, coût des modèles, durée d'exécution, stockage, observabilité et connecteurs ; vérifier les tarifs officiels.",
+      "privacy": "Limiter les secrets et scopes OAuth, isoler les sessions, journaliser les actions autorisées et maîtriser rétention et transferts de données.",
+      "selection": [
+        "Séparer construction, orchestration, hébergement, observabilité et recherche ; sélectionner selon contrôle, extensibilité, maintenance et coût."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "cloud",
+      "evidence": "official_product_or_repository",
+      "sources": [
+        {
+          "url": "https://cloud.google.com/products/agent-builder",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "provider_documentation_reviewed"
+  },
+  "amazon-bedrock-agents": {
+    "descriptionFr": "Service AWS pour construire des agents capables de combiner modèles, groupes d'actions et bases de connaissances.",
+    "descriptionEn": "AWS service for building agents combining models, action groups and knowledge bases.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Orchestration d'actions",
+      "Connexion aux bases de connaissances",
+      "Déploiement et traces"
+    ],
+    "featuresEn": [
+      "Action orchestration",
+      "Knowledge base connections",
+      "Deployment and traces"
+    ],
+    "accessFr": "API, SaaS, SDK ou infrastructure selon l'outil",
+    "accessEn": "API, SaaS, SDK or infrastructure depending on tool",
+    "officialSources": [
+      {
+        "url": "https://docs.aws.amazon.com/bedrock/latest/userguide/agents.html",
+        "checkedAt": "2026-11-17",
+        "scope": "features_status_and_documentation"
+      }
+    ],
+    "research": {
+      "headline": "Service AWS pour construire des agents capables de combiner modèles, groupes d'actions et bases de connaissances.",
+      "audiences": [
+        "Développeurs d'applications IA et architectes techniques",
+        "Équipes d'automatisation, sécurité et gouvernance"
+      ],
+      "cases": [
+        "Construire un agent limité à un scénario métier vérifiable avec des permissions minimales.",
+        "Comparer une approche no-code, un SDK et une infrastructure managée sur les mêmes exigences fonctionnelles."
+      ],
+      "advantages": [
+        "Orchestration d'actions",
+        "Connexion aux bases de connaissances",
+        "Déploiement et traces"
+      ],
+      "limits": [
+        "Vérifier les régions, autorisations IAM, coûts de modèles et règles de confirmation avant actions.",
+        "Les agents peuvent déclencher des actions imprévues, être exposés aux injections de prompt ou transférer des données sensibles ; appliquer des contrôles humains."
+      ],
+      "gettingStarted": [
+        "Décrire les objectifs, outils, jeux de tests, limites de dépenses et points d'approbation avant programmation.",
+        "Prototyper sur données non sensibles, instrumenter les traces et tester les échecs avant production."
+      ],
+      "examples": [
+        "Propose un agent utilisant uniquement les outils autorisés, avec vérification des entrées et approbation pour toute écriture.",
+        "Compare le coût, la latence, la qualité des réponses et les erreurs sur 30 tâches reproductibles."
+      ],
+      "pricing": "Comparer licence du framework, coût des modèles, durée d'exécution, stockage, observabilité et connecteurs ; vérifier les tarifs officiels.",
+      "privacy": "Limiter les secrets et scopes OAuth, isoler les sessions, journaliser les actions autorisées et maîtriser rétention et transferts de données.",
+      "selection": [
+        "Séparer construction, orchestration, hébergement, observabilité et recherche ; sélectionner selon contrôle, extensibilité, maintenance et coût."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "cloud",
+      "evidence": "official_product_or_repository",
+      "sources": [
+        {
+          "url": "https://docs.aws.amazon.com/bedrock/latest/userguide/agents.html",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "provider_documentation_reviewed"
+  },
+  "amazon-bedrock-agentcore": {
+    "descriptionFr": "Infrastructure AWS gérée pour exécution d'agents, sessions isolées, mémoire, identité et outils, compatible avec différents frameworks.",
+    "descriptionEn": "Managed AWS agent infrastructure for isolated execution, memory, identity and tools, compatible with multiple frameworks.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Runtime à sessions isolées",
+      "Mémoire et identité",
+      "Passerelles et outils d'agents"
+    ],
+    "featuresEn": [
+      "Isolated-session runtime",
+      "Memory and identity",
+      "Agent gateways and tools"
+    ],
+    "accessFr": "API, SaaS, SDK ou infrastructure selon l'outil",
+    "accessEn": "API, SaaS, SDK or infrastructure depending on tool",
+    "officialSources": [
+      {
+        "url": "https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/what-is-bedrock-agentcore.html",
+        "checkedAt": "2026-11-17",
+        "scope": "features_status_and_documentation"
+      }
+    ],
+    "research": {
+      "headline": "Infrastructure AWS gérée pour exécution d'agents, sessions isolées, mémoire, identité et outils, compatible avec différents frameworks.",
+      "audiences": [
+        "Développeurs d'applications IA et architectes techniques",
+        "Équipes d'automatisation, sécurité et gouvernance"
+      ],
+      "cases": [
+        "Construire un agent limité à un scénario métier vérifiable avec des permissions minimales.",
+        "Comparer une approche no-code, un SDK et une infrastructure managée sur les mêmes exigences fonctionnelles."
+      ],
+      "advantages": [
+        "Runtime à sessions isolées",
+        "Mémoire et identité",
+        "Passerelles et outils d'agents"
+      ],
+      "limits": [
+        "AgentCore n'est pas uniquement un constructeur d'agents ; sécuriser l'association des sessions aux utilisateurs, les identités et les dépenses.",
+        "Les agents peuvent déclencher des actions imprévues, être exposés aux injections de prompt ou transférer des données sensibles ; appliquer des contrôles humains."
+      ],
+      "gettingStarted": [
+        "Décrire les objectifs, outils, jeux de tests, limites de dépenses et points d'approbation avant programmation.",
+        "Prototyper sur données non sensibles, instrumenter les traces et tester les échecs avant production."
+      ],
+      "examples": [
+        "Propose un agent utilisant uniquement les outils autorisés, avec vérification des entrées et approbation pour toute écriture.",
+        "Compare le coût, la latence, la qualité des réponses et les erreurs sur 30 tâches reproductibles."
+      ],
+      "pricing": "Comparer licence du framework, coût des modèles, durée d'exécution, stockage, observabilité et connecteurs ; vérifier les tarifs officiels.",
+      "privacy": "Limiter les secrets et scopes OAuth, isoler les sessions, journaliser les actions autorisées et maîtriser rétention et transferts de données.",
+      "selection": [
+        "Séparer construction, orchestration, hébergement, observabilité et recherche ; sélectionner selon contrôle, extensibilité, maintenance et coût."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "cloud_runtime",
+      "evidence": "official_product_or_repository",
+      "sources": [
+        {
+          "url": "https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/what-is-bedrock-agentcore.html",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "provider_documentation_reviewed"
+  },
+  "microsoft-foundry-agent-service": {
+    "descriptionFr": "Service managé Microsoft Foundry pour créer, héberger et piloter des agents déclaratifs, vocaux ou à code personnalisé.",
+    "descriptionEn": "Managed Microsoft Foundry service for creating, hosting and operating declarative, voice and custom-code agents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Agents prompt et voix",
+      "Hébergement d'agents personnalisés",
+      "Gestion du cycle de vie"
+    ],
+    "featuresEn": [
+      "Prompt and voice agents",
+      "Custom hosted agents",
+      "Lifecycle management"
+    ],
+    "accessFr": "API, SaaS, SDK ou infrastructure selon l'outil",
+    "accessEn": "API, SaaS, SDK or infrastructure depending on tool",
+    "officialSources": [
+      {
+        "url": "https://learn.microsoft.com/en-us/azure/ai-foundry/agents/overview",
+        "checkedAt": "2026-11-17",
+        "scope": "features_status_and_documentation"
+      }
+    ],
+    "research": {
+      "headline": "Service managé Microsoft Foundry pour créer, héberger et piloter des agents déclaratifs, vocaux ou à code personnalisé.",
+      "audiences": [
+        "Développeurs d'applications IA et architectes techniques",
+        "Équipes d'automatisation, sécurité et gouvernance"
+      ],
+      "cases": [
+        "Construire un agent limité à un scénario métier vérifiable avec des permissions minimales.",
+        "Comparer une approche no-code, un SDK et une infrastructure managée sur les mêmes exigences fonctionnelles."
+      ],
+      "advantages": [
+        "Agents prompt et voix",
+        "Hébergement d'agents personnalisés",
+        "Gestion du cycle de vie"
+      ],
+      "limits": [
+        "Les ressources Azure, régions, quotas, connecteurs et identités conditionnent la disponibilité de chaque type d'agent.",
+        "Les agents peuvent déclencher des actions imprévues, être exposés aux injections de prompt ou transférer des données sensibles ; appliquer des contrôles humains."
+      ],
+      "gettingStarted": [
+        "Décrire les objectifs, outils, jeux de tests, limites de dépenses et points d'approbation avant programmation.",
+        "Prototyper sur données non sensibles, instrumenter les traces et tester les échecs avant production."
+      ],
+      "examples": [
+        "Propose un agent utilisant uniquement les outils autorisés, avec vérification des entrées et approbation pour toute écriture.",
+        "Compare le coût, la latence, la qualité des réponses et les erreurs sur 30 tâches reproductibles."
+      ],
+      "pricing": "Comparer licence du framework, coût des modèles, durée d'exécution, stockage, observabilité et connecteurs ; vérifier les tarifs officiels.",
+      "privacy": "Limiter les secrets et scopes OAuth, isoler les sessions, journaliser les actions autorisées et maîtriser rétention et transferts de données.",
+      "selection": [
+        "Séparer construction, orchestration, hébergement, observabilité et recherche ; sélectionner selon contrôle, extensibilité, maintenance et coût."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "cloud",
+      "evidence": "official_product_or_repository",
+      "sources": [
+        {
+          "url": "https://learn.microsoft.com/en-us/azure/ai-foundry/agents/overview",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "provider_documentation_reviewed"
+  },
+  "microsoft-magentic-ui": {
+    "descriptionFr": "Projet open source Microsoft pour créer et étudier des agents informatiques avec interface de supervision humaine.",
+    "descriptionEn": "Microsoft open-source project for building and studying computer-use agents with human oversight.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Agent opérant des interfaces",
+      "Supervision et intervention humaine",
+      "Projet expérimental extensible"
+    ],
+    "featuresEn": [
+      "Computer-use agent",
+      "Human oversight and intervention",
+      "Extensible experimental project"
+    ],
+    "accessFr": "Framework ou projet open source",
+    "accessEn": "Open-source framework or project",
+    "officialSources": [
+      {
+        "url": "https://github.com/microsoft/magentic-ui",
+        "checkedAt": "2026-11-17",
+        "scope": "features_status_and_documentation"
+      }
+    ],
+    "research": {
+      "headline": "Projet open source Microsoft pour créer et étudier des agents informatiques avec interface de supervision humaine.",
+      "audiences": [
+        "Développeurs d'applications IA et architectes techniques",
+        "Équipes d'automatisation, sécurité et gouvernance"
+      ],
+      "cases": [
+        "Construire un agent limité à un scénario métier vérifiable avec des permissions minimales.",
+        "Comparer une approche no-code, un SDK et une infrastructure managée sur les mêmes exigences fonctionnelles."
+      ],
+      "advantages": [
+        "Agent opérant des interfaces",
+        "Supervision et intervention humaine",
+        "Projet expérimental extensible"
+      ],
+      "limits": [
+        "Prototype de recherche et non service managé clé en main ; isoler les sessions et limiter les autorisations.",
+        "Les agents peuvent déclencher des actions imprévues, être exposés aux injections de prompt ou transférer des données sensibles ; appliquer des contrôles humains."
+      ],
+      "gettingStarted": [
+        "Décrire les objectifs, outils, jeux de tests, limites de dépenses et points d'approbation avant programmation.",
+        "Prototyper sur données non sensibles, instrumenter les traces et tester les échecs avant production."
+      ],
+      "examples": [
+        "Propose un agent utilisant uniquement les outils autorisés, avec vérification des entrées et approbation pour toute écriture.",
+        "Compare le coût, la latence, la qualité des réponses et les erreurs sur 30 tâches reproductibles."
+      ],
+      "pricing": "Comparer licence du framework, coût des modèles, durée d'exécution, stockage, observabilité et connecteurs ; vérifier les tarifs officiels.",
+      "privacy": "Limiter les secrets et scopes OAuth, isoler les sessions, journaliser les actions autorisées et maîtriser rétention et transferts de données.",
+      "selection": [
+        "Séparer construction, orchestration, hébergement, observabilité et recherche ; sélectionner selon contrôle, extensibilité, maintenance et coût."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "research_open_source",
+      "evidence": "official_product_or_repository",
+      "sources": [
+        {
+          "url": "https://github.com/microsoft/magentic-ui",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "provider_documentation_reviewed"
+  },
+  "strands-agents": {
+    "descriptionFr": "SDK open source Strands Agents pour définir agents, modèles et outils en code.",
+    "descriptionEn": "Open-source Strands Agents SDK for defining agents, models and tools in code.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Construction d'agents en code",
+      "Modèles et outils interchangeables",
+      "Patterns d'orchestration"
+    ],
+    "featuresEn": [
+      "Code-first agent building",
+      "Interchangeable models and tools",
+      "Orchestration patterns"
+    ],
+    "accessFr": "Framework ou projet open source",
+    "accessEn": "Open-source framework or project",
+    "officialSources": [
+      {
+        "url": "https://strandsagents.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_status_and_documentation"
+      }
+    ],
+    "research": {
+      "headline": "SDK open source Strands Agents pour définir agents, modèles et outils en code.",
+      "audiences": [
+        "Développeurs d'applications IA et architectes techniques",
+        "Équipes d'automatisation, sécurité et gouvernance"
+      ],
+      "cases": [
+        "Construire un agent limité à un scénario métier vérifiable avec des permissions minimales.",
+        "Comparer une approche no-code, un SDK et une infrastructure managée sur les mêmes exigences fonctionnelles."
+      ],
+      "advantages": [
+        "Construction d'agents en code",
+        "Modèles et outils interchangeables",
+        "Patterns d'orchestration"
+      ],
+      "limits": [
+        "Les intégrations et modèles ont leurs propres coûts, limites et risques d'exécution.",
+        "Les agents peuvent déclencher des actions imprévues, être exposés aux injections de prompt ou transférer des données sensibles ; appliquer des contrôles humains."
+      ],
+      "gettingStarted": [
+        "Décrire les objectifs, outils, jeux de tests, limites de dépenses et points d'approbation avant programmation.",
+        "Prototyper sur données non sensibles, instrumenter les traces et tester les échecs avant production."
+      ],
+      "examples": [
+        "Propose un agent utilisant uniquement les outils autorisés, avec vérification des entrées et approbation pour toute écriture.",
+        "Compare le coût, la latence, la qualité des réponses et les erreurs sur 30 tâches reproductibles."
+      ],
+      "pricing": "Comparer licence du framework, coût des modèles, durée d'exécution, stockage, observabilité et connecteurs ; vérifier les tarifs officiels.",
+      "privacy": "Limiter les secrets et scopes OAuth, isoler les sessions, journaliser les actions autorisées et maîtriser rétention et transferts de données.",
+      "selection": [
+        "Séparer construction, orchestration, hébergement, observabilité et recherche ; sélectionner selon contrôle, extensibilité, maintenance et coût."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "open_source",
+      "evidence": "official_product_or_repository",
+      "sources": [
+        {
+          "url": "https://strandsagents.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "provider_documentation_reviewed"
+  },
+  "zapier-agents": {
+    "descriptionFr": "Plateforme Zapier de création d'agents connectés aux applications SaaS et automatisations.",
+    "descriptionEn": "Zapier platform for creating agents connected to SaaS apps and automations.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Configuration visuelle d'agents",
+      "Connexions aux applications",
+      "Tâches et déclencheurs automatisés"
+    ],
+    "featuresEn": [
+      "Visual agent setup",
+      "App connections",
+      "Automated tasks and triggers"
+    ],
+    "accessFr": "API, SaaS, SDK ou infrastructure selon l'outil",
+    "accessEn": "API, SaaS, SDK or infrastructure depending on tool",
+    "officialSources": [
+      {
+        "url": "https://zapier.com/agents",
+        "checkedAt": "2026-11-17",
+        "scope": "features_status_and_documentation"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme Zapier de création d'agents connectés aux applications SaaS et automatisations.",
+      "audiences": [
+        "Développeurs d'applications IA et architectes techniques",
+        "Équipes d'automatisation, sécurité et gouvernance"
+      ],
+      "cases": [
+        "Construire un agent limité à un scénario métier vérifiable avec des permissions minimales.",
+        "Comparer une approche no-code, un SDK et une infrastructure managée sur les mêmes exigences fonctionnelles."
+      ],
+      "advantages": [
+        "Configuration visuelle d'agents",
+        "Connexions aux applications",
+        "Tâches et déclencheurs automatisés"
+      ],
+      "limits": [
+        "Vérifier limites de tâches et crédits, permissions des comptes et validations avant modification de données externes.",
+        "Les agents peuvent déclencher des actions imprévues, être exposés aux injections de prompt ou transférer des données sensibles ; appliquer des contrôles humains."
+      ],
+      "gettingStarted": [
+        "Décrire les objectifs, outils, jeux de tests, limites de dépenses et points d'approbation avant programmation.",
+        "Prototyper sur données non sensibles, instrumenter les traces et tester les échecs avant production."
+      ],
+      "examples": [
+        "Propose un agent utilisant uniquement les outils autorisés, avec vérification des entrées et approbation pour toute écriture.",
+        "Compare le coût, la latence, la qualité des réponses et les erreurs sur 30 tâches reproductibles."
+      ],
+      "pricing": "Comparer licence du framework, coût des modèles, durée d'exécution, stockage, observabilité et connecteurs ; vérifier les tarifs officiels.",
+      "privacy": "Limiter les secrets et scopes OAuth, isoler les sessions, journaliser les actions autorisées et maîtriser rétention et transferts de données.",
+      "selection": [
+        "Séparer construction, orchestration, hébergement, observabilité et recherche ; sélectionner selon contrôle, extensibilité, maintenance et coût."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "saas",
+      "evidence": "official_product_or_repository",
+      "sources": [
+        {
+          "url": "https://zapier.com/agents",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "provider_documentation_reviewed"
+  },
+  "langsmith-agent-builder": {
+    "descriptionFr": "Ancien nom de LangSmith Fleet, plateforme de création et partage d'agents no-code avec mémoire et actions connectées.",
+    "descriptionEn": "Former name of LangSmith Fleet, a no-code platform for creating and sharing agents with memory and connected actions.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Création guidée d'agents",
+      "Mémoire et partage d'équipe",
+      "Identités et observabilité dans Fleet"
+    ],
+    "featuresEn": [
+      "Guided agent creation",
+      "Memory and team sharing",
+      "Fleet identity and observability"
+    ],
+    "accessFr": "API, SaaS, SDK ou infrastructure selon l'outil",
+    "accessEn": "API, SaaS, SDK or infrastructure depending on tool",
+    "officialSources": [
+      {
+        "url": "https://www.langchain.com/blog/introducing-langsmith-fleet",
+        "checkedAt": "2026-11-17",
+        "scope": "features_status_and_documentation"
+      }
+    ],
+    "research": {
+      "headline": "Ancien nom de LangSmith Fleet, plateforme de création et partage d'agents no-code avec mémoire et actions connectées.",
+      "audiences": [
+        "Développeurs d'applications IA et architectes techniques",
+        "Équipes d'automatisation, sécurité et gouvernance"
+      ],
+      "cases": [
+        "Construire un agent limité à un scénario métier vérifiable avec des permissions minimales.",
+        "Comparer une approche no-code, un SDK et une infrastructure managée sur les mêmes exigences fonctionnelles."
+      ],
+      "advantages": [
+        "Création guidée d'agents",
+        "Mémoire et partage d'équipe",
+        "Identités et observabilité dans Fleet"
+      ],
+      "limits": [
+        "LangSmith Agent Builder a été renommé LangSmith Fleet en mars 2026 ; ne pas le confondre avec LangSmith Agent Server.",
+        "Les agents peuvent déclencher des actions imprévues, être exposés aux injections de prompt ou transférer des données sensibles ; appliquer des contrôles humains."
+      ],
+      "gettingStarted": [
+        "Décrire les objectifs, outils, jeux de tests, limites de dépenses et points d'approbation avant programmation.",
+        "Prototyper sur données non sensibles, instrumenter les traces et tester les échecs avant production."
+      ],
+      "examples": [
+        "Propose un agent utilisant uniquement les outils autorisés, avec vérification des entrées et approbation pour toute écriture.",
+        "Compare le coût, la latence, la qualité des réponses et les erreurs sur 30 tâches reproductibles."
+      ],
+      "pricing": "Comparer licence du framework, coût des modèles, durée d'exécution, stockage, observabilité et connecteurs ; vérifier les tarifs officiels.",
+      "privacy": "Limiter les secrets et scopes OAuth, isoler les sessions, journaliser les actions autorisées et maîtriser rétention et transferts de données.",
+      "selection": [
+        "Séparer construction, orchestration, hébergement, observabilité et recherche ; sélectionner selon contrôle, extensibilité, maintenance et coût."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "renamed_fleet",
+      "evidence": "official_product_or_repository",
+      "sources": [
+        {
+          "url": "https://www.langchain.com/blog/introducing-langsmith-fleet",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "renaming_verified"
+  },
+  "mindstudio": {
+    "descriptionFr": "Plateforme visuelle no-code de développement et de publication d'agents et workflows IA.",
+    "descriptionEn": "Visual no-code platform for building and publishing AI agents and workflows.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Éditeur visuel de workflows",
+      "Choix de modèles et intégrations",
+      "Publication et déclenchement d'agents"
+    ],
+    "featuresEn": [
+      "Visual workflow editor",
+      "Model selection and integrations",
+      "Agent deployment and triggering"
+    ],
+    "accessFr": "API, SaaS, SDK ou infrastructure selon l'outil",
+    "accessEn": "API, SaaS, SDK or infrastructure depending on tool",
+    "officialSources": [
+      {
+        "url": "https://www.mindstudio.ai/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_status_and_documentation"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme visuelle no-code de développement et de publication d'agents et workflows IA.",
+      "audiences": [
+        "Développeurs d'applications IA et architectes techniques",
+        "Équipes d'automatisation, sécurité et gouvernance"
+      ],
+      "cases": [
+        "Construire un agent limité à un scénario métier vérifiable avec des permissions minimales.",
+        "Comparer une approche no-code, un SDK et une infrastructure managée sur les mêmes exigences fonctionnelles."
+      ],
+      "advantages": [
+        "Éditeur visuel de workflows",
+        "Choix de modèles et intégrations",
+        "Publication et déclenchement d'agents"
+      ],
+      "limits": [
+        "Les coûts, quotas et connecteurs dépendent du plan ; tester les erreurs et les actions déclenchées.",
+        "Les agents peuvent déclencher des actions imprévues, être exposés aux injections de prompt ou transférer des données sensibles ; appliquer des contrôles humains."
+      ],
+      "gettingStarted": [
+        "Décrire les objectifs, outils, jeux de tests, limites de dépenses et points d'approbation avant programmation.",
+        "Prototyper sur données non sensibles, instrumenter les traces et tester les échecs avant production."
+      ],
+      "examples": [
+        "Propose un agent utilisant uniquement les outils autorisés, avec vérification des entrées et approbation pour toute écriture.",
+        "Compare le coût, la latence, la qualité des réponses et les erreurs sur 30 tâches reproductibles."
+      ],
+      "pricing": "Comparer licence du framework, coût des modèles, durée d'exécution, stockage, observabilité et connecteurs ; vérifier les tarifs officiels.",
+      "privacy": "Limiter les secrets et scopes OAuth, isoler les sessions, journaliser les actions autorisées et maîtriser rétention et transferts de données.",
+      "selection": [
+        "Séparer construction, orchestration, hébergement, observabilité et recherche ; sélectionner selon contrôle, extensibilité, maintenance et coût."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "no_code",
+      "evidence": "official_product_or_repository",
+      "sources": [
+        {
+          "url": "https://www.mindstudio.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "provider_documentation_reviewed"
+  },
+  "agentops": {
+    "descriptionFr": "Service de suivi d'exécution, traçage et évaluation pour agents IA ; outil d'observabilité plutôt qu'un constructeur généraliste.",
+    "descriptionEn": "Monitoring, tracing and evaluation service for AI agents; primarily observability rather than general agent construction.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Traçage des sessions d'agents",
+      "Métriques et coûts",
+      "Débogage et évaluation"
+    ],
+    "featuresEn": [
+      "Agent session tracing",
+      "Metrics and costs",
+      "Debugging and evaluation"
+    ],
+    "accessFr": "API, SaaS, SDK ou infrastructure selon l'outil",
+    "accessEn": "API, SaaS, SDK or infrastructure depending on tool",
+    "officialSources": [
+      {
+        "url": "https://www.agentops.ai/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_status_and_documentation"
+      }
+    ],
+    "research": {
+      "headline": "Service de suivi d'exécution, traçage et évaluation pour agents IA ; outil d'observabilité plutôt qu'un constructeur généraliste.",
+      "audiences": [
+        "Développeurs d'applications IA et architectes techniques",
+        "Équipes d'automatisation, sécurité et gouvernance"
+      ],
+      "cases": [
+        "Construire un agent limité à un scénario métier vérifiable avec des permissions minimales.",
+        "Comparer une approche no-code, un SDK et une infrastructure managée sur les mêmes exigences fonctionnelles."
+      ],
+      "advantages": [
+        "Traçage des sessions d'agents",
+        "Métriques et coûts",
+        "Débogage et évaluation"
+      ],
+      "limits": [
+        "Ne pas classer comme constructeur autonome : vérifier quelles données des traces sont collectées et conservées.",
+        "Les agents peuvent déclencher des actions imprévues, être exposés aux injections de prompt ou transférer des données sensibles ; appliquer des contrôles humains."
+      ],
+      "gettingStarted": [
+        "Décrire les objectifs, outils, jeux de tests, limites de dépenses et points d'approbation avant programmation.",
+        "Prototyper sur données non sensibles, instrumenter les traces et tester les échecs avant production."
+      ],
+      "examples": [
+        "Propose un agent utilisant uniquement les outils autorisés, avec vérification des entrées et approbation pour toute écriture.",
+        "Compare le coût, la latence, la qualité des réponses et les erreurs sur 30 tâches reproductibles."
+      ],
+      "pricing": "Comparer licence du framework, coût des modèles, durée d'exécution, stockage, observabilité et connecteurs ; vérifier les tarifs officiels.",
+      "privacy": "Limiter les secrets et scopes OAuth, isoler les sessions, journaliser les actions autorisées et maîtriser rétention et transferts de données.",
+      "selection": [
+        "Séparer construction, orchestration, hébergement, observabilité et recherche ; sélectionner selon contrôle, extensibilité, maintenance et coût."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "observability",
+      "evidence": "official_product_or_repository",
+      "sources": [
+        {
+          "url": "https://www.agentops.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "provider_documentation_reviewed"
+  },
+  "e2b": {
+    "descriptionFr": "Infrastructure de sandboxes cloud isolées pour l'exécution de code généré par des agents.",
+    "descriptionEn": "Isolated cloud sandbox infrastructure for running code generated by agents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Environnements de code isolés",
+      "Exécution via SDK",
+      "Sessions et ressources temporaires"
+    ],
+    "featuresEn": [
+      "Isolated code environments",
+      "SDK-based execution",
+      "Sessions and ephemeral resources"
+    ],
+    "accessFr": "API, SaaS, SDK ou infrastructure selon l'outil",
+    "accessEn": "API, SaaS, SDK or infrastructure depending on tool",
+    "officialSources": [
+      {
+        "url": "https://e2b.dev/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_status_and_documentation"
+      }
+    ],
+    "research": {
+      "headline": "Infrastructure de sandboxes cloud isolées pour l'exécution de code généré par des agents.",
+      "audiences": [
+        "Développeurs d'applications IA et architectes techniques",
+        "Équipes d'automatisation, sécurité et gouvernance"
+      ],
+      "cases": [
+        "Construire un agent limité à un scénario métier vérifiable avec des permissions minimales.",
+        "Comparer une approche no-code, un SDK et une infrastructure managée sur les mêmes exigences fonctionnelles."
+      ],
+      "advantages": [
+        "Environnements de code isolés",
+        "Exécution via SDK",
+        "Sessions et ressources temporaires"
+      ],
+      "limits": [
+        "E2B est une infrastructure d'exécution, non un orchestrateur d'agents complet ; surveiller coûts, accès réseau et secrets.",
+        "Les agents peuvent déclencher des actions imprévues, être exposés aux injections de prompt ou transférer des données sensibles ; appliquer des contrôles humains."
+      ],
+      "gettingStarted": [
+        "Décrire les objectifs, outils, jeux de tests, limites de dépenses et points d'approbation avant programmation.",
+        "Prototyper sur données non sensibles, instrumenter les traces et tester les échecs avant production."
+      ],
+      "examples": [
+        "Propose un agent utilisant uniquement les outils autorisés, avec vérification des entrées et approbation pour toute écriture.",
+        "Compare le coût, la latence, la qualité des réponses et les erreurs sur 30 tâches reproductibles."
+      ],
+      "pricing": "Comparer licence du framework, coût des modèles, durée d'exécution, stockage, observabilité et connecteurs ; vérifier les tarifs officiels.",
+      "privacy": "Limiter les secrets et scopes OAuth, isoler les sessions, journaliser les actions autorisées et maîtriser rétention et transferts de données.",
+      "selection": [
+        "Séparer construction, orchestration, hébergement, observabilité et recherche ; sélectionner selon contrôle, extensibilité, maintenance et coût."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "runtime",
+      "evidence": "official_product_or_repository",
+      "sources": [
+        {
+          "url": "https://e2b.dev/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "provider_documentation_reviewed"
+  },
+  "arcade-dev": {
+    "descriptionFr": "Infrastructure d'outils connectés pour agents IA avec authentification et permissions sur des services tiers.",
+    "descriptionEn": "Connected tool infrastructure for AI agents with authentication and permissions for third-party services.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Outils pour actions applicatives",
+      "Gestion de l'authentification",
+      "Connexions aux services externes"
+    ],
+    "featuresEn": [
+      "Tools for application actions",
+      "Authentication management",
+      "External service connections"
+    ],
+    "accessFr": "API, SaaS, SDK ou infrastructure selon l'outil",
+    "accessEn": "API, SaaS, SDK or infrastructure depending on tool",
+    "officialSources": [
+      {
+        "url": "https://www.arcade.dev/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_status_and_documentation"
+      }
+    ],
+    "research": {
+      "headline": "Infrastructure d'outils connectés pour agents IA avec authentification et permissions sur des services tiers.",
+      "audiences": [
+        "Développeurs d'applications IA et architectes techniques",
+        "Équipes d'automatisation, sécurité et gouvernance"
+      ],
+      "cases": [
+        "Construire un agent limité à un scénario métier vérifiable avec des permissions minimales.",
+        "Comparer une approche no-code, un SDK et une infrastructure managée sur les mêmes exigences fonctionnelles."
+      ],
+      "advantages": [
+        "Outils pour actions applicatives",
+        "Gestion de l'authentification",
+        "Connexions aux services externes"
+      ],
+      "limits": [
+        "Limiter les portées OAuth, contrôler les actions sensibles et examiner la politique de journaux.",
+        "Les agents peuvent déclencher des actions imprévues, être exposés aux injections de prompt ou transférer des données sensibles ; appliquer des contrôles humains."
+      ],
+      "gettingStarted": [
+        "Décrire les objectifs, outils, jeux de tests, limites de dépenses et points d'approbation avant programmation.",
+        "Prototyper sur données non sensibles, instrumenter les traces et tester les échecs avant production."
+      ],
+      "examples": [
+        "Propose un agent utilisant uniquement les outils autorisés, avec vérification des entrées et approbation pour toute écriture.",
+        "Compare le coût, la latence, la qualité des réponses et les erreurs sur 30 tâches reproductibles."
+      ],
+      "pricing": "Comparer licence du framework, coût des modèles, durée d'exécution, stockage, observabilité et connecteurs ; vérifier les tarifs officiels.",
+      "privacy": "Limiter les secrets et scopes OAuth, isoler les sessions, journaliser les actions autorisées et maîtriser rétention et transferts de données.",
+      "selection": [
+        "Séparer construction, orchestration, hébergement, observabilité et recherche ; sélectionner selon contrôle, extensibilité, maintenance et coût."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "tool_infrastructure",
+      "evidence": "official_product_or_repository",
+      "sources": [
+        {
+          "url": "https://www.arcade.dev/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "provider_documentation_reviewed"
+  },
+  "pipedream-ai-agents": {
+    "descriptionFr": "Infrastructure Pipedream de connecteurs, workflows et actions API exploitables par les agents.",
+    "descriptionEn": "Pipedream integrations, workflows and API actions usable by AI agents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Connecteurs API et outils",
+      "Workflows orientés événements",
+      "Authentification de services"
+    ],
+    "featuresEn": [
+      "API connectors and tools",
+      "Event-driven workflows",
+      "Service authentication"
+    ],
+    "accessFr": "API, SaaS, SDK ou infrastructure selon l'outil",
+    "accessEn": "API, SaaS, SDK or infrastructure depending on tool",
+    "officialSources": [
+      {
+        "url": "https://pipedream.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_status_and_documentation"
+      }
+    ],
+    "research": {
+      "headline": "Infrastructure Pipedream de connecteurs, workflows et actions API exploitables par les agents.",
+      "audiences": [
+        "Développeurs d'applications IA et architectes techniques",
+        "Équipes d'automatisation, sécurité et gouvernance"
+      ],
+      "cases": [
+        "Construire un agent limité à un scénario métier vérifiable avec des permissions minimales.",
+        "Comparer une approche no-code, un SDK et une infrastructure managée sur les mêmes exigences fonctionnelles."
+      ],
+      "advantages": [
+        "Connecteurs API et outils",
+        "Workflows orientés événements",
+        "Authentification de services"
+      ],
+      "limits": [
+        "Les coûts et limites dépendent des exécutions ; gérer secrets, permissions et erreurs API.",
+        "Les agents peuvent déclencher des actions imprévues, être exposés aux injections de prompt ou transférer des données sensibles ; appliquer des contrôles humains."
+      ],
+      "gettingStarted": [
+        "Décrire les objectifs, outils, jeux de tests, limites de dépenses et points d'approbation avant programmation.",
+        "Prototyper sur données non sensibles, instrumenter les traces et tester les échecs avant production."
+      ],
+      "examples": [
+        "Propose un agent utilisant uniquement les outils autorisés, avec vérification des entrées et approbation pour toute écriture.",
+        "Compare le coût, la latence, la qualité des réponses et les erreurs sur 30 tâches reproductibles."
+      ],
+      "pricing": "Comparer licence du framework, coût des modèles, durée d'exécution, stockage, observabilité et connecteurs ; vérifier les tarifs officiels.",
+      "privacy": "Limiter les secrets et scopes OAuth, isoler les sessions, journaliser les actions autorisées et maîtriser rétention et transferts de données.",
+      "selection": [
+        "Séparer construction, orchestration, hébergement, observabilité et recherche ; sélectionner selon contrôle, extensibilité, maintenance et coût."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "integration_infrastructure",
+      "evidence": "official_product_or_repository",
+      "sources": [
+        {
+          "url": "https://pipedream.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "provider_documentation_reviewed"
+  },
+  "nvidia-nemo-agent-toolkit": {
+    "descriptionFr": "Bibliothèque NVIDIA NeMo Agent Toolkit pour profiler, évaluer et optimiser les systèmes agentiques.",
+    "descriptionEn": "NVIDIA NeMo Agent Toolkit for profiling, evaluating and optimizing agentic systems.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Instrumentation d'agents",
+      "Profilage de performance",
+      "Évaluation et optimisation"
+    ],
+    "featuresEn": [
+      "Agent instrumentation",
+      "Performance profiling",
+      "Evaluation and optimization"
+    ],
+    "accessFr": "API, SaaS, SDK ou infrastructure selon l'outil",
+    "accessEn": "API, SaaS, SDK or infrastructure depending on tool",
+    "officialSources": [
+      {
+        "url": "https://developer.nvidia.com/nemo-agent-toolkit",
+        "checkedAt": "2026-11-17",
+        "scope": "features_status_and_documentation"
+      }
+    ],
+    "research": {
+      "headline": "Bibliothèque NVIDIA NeMo Agent Toolkit pour profiler, évaluer et optimiser les systèmes agentiques.",
+      "audiences": [
+        "Développeurs d'applications IA et architectes techniques",
+        "Équipes d'automatisation, sécurité et gouvernance"
+      ],
+      "cases": [
+        "Construire un agent limité à un scénario métier vérifiable avec des permissions minimales.",
+        "Comparer une approche no-code, un SDK et une infrastructure managée sur les mêmes exigences fonctionnelles."
+      ],
+      "advantages": [
+        "Instrumentation d'agents",
+        "Profilage de performance",
+        "Évaluation et optimisation"
+      ],
+      "limits": [
+        "NeMo Agent Toolkit complète d'autres frameworks ; vérifier compatibilité des versions et coût de l'inférence.",
+        "Les agents peuvent déclencher des actions imprévues, être exposés aux injections de prompt ou transférer des données sensibles ; appliquer des contrôles humains."
+      ],
+      "gettingStarted": [
+        "Décrire les objectifs, outils, jeux de tests, limites de dépenses et points d'approbation avant programmation.",
+        "Prototyper sur données non sensibles, instrumenter les traces et tester les échecs avant production."
+      ],
+      "examples": [
+        "Propose un agent utilisant uniquement les outils autorisés, avec vérification des entrées et approbation pour toute écriture.",
+        "Compare le coût, la latence, la qualité des réponses et les erreurs sur 30 tâches reproductibles."
+      ],
+      "pricing": "Comparer licence du framework, coût des modèles, durée d'exécution, stockage, observabilité et connecteurs ; vérifier les tarifs officiels.",
+      "privacy": "Limiter les secrets et scopes OAuth, isoler les sessions, journaliser les actions autorisées et maîtriser rétention et transferts de données.",
+      "selection": [
+        "Séparer construction, orchestration, hébergement, observabilité et recherche ; sélectionner selon contrôle, extensibilité, maintenance et coût."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "developer_toolkit",
+      "evidence": "official_product_or_repository",
+      "sources": [
+        {
+          "url": "https://developer.nvidia.com/nemo-agent-toolkit",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "provider_documentation_reviewed"
+  },
+  "cloudflare-agents": {
+    "descriptionFr": "SDK et infrastructure Cloudflare pour déployer des agents persistants avec état, stockage et connexions.",
+    "descriptionEn": "Cloudflare SDK and infrastructure for deploying stateful agents with storage and connections.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Agents persistants sur Workers",
+      "Stockage et états de session",
+      "Connexions temps réel"
+    ],
+    "featuresEn": [
+      "Stateful agents on Workers",
+      "Session state and storage",
+      "Real-time connections"
+    ],
+    "accessFr": "API, SaaS, SDK ou infrastructure selon l'outil",
+    "accessEn": "API, SaaS, SDK or infrastructure depending on tool",
+    "officialSources": [
+      {
+        "url": "https://developers.cloudflare.com/agents/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_status_and_documentation"
+      }
+    ],
+    "research": {
+      "headline": "SDK et infrastructure Cloudflare pour déployer des agents persistants avec état, stockage et connexions.",
+      "audiences": [
+        "Développeurs d'applications IA et architectes techniques",
+        "Équipes d'automatisation, sécurité et gouvernance"
+      ],
+      "cases": [
+        "Construire un agent limité à un scénario métier vérifiable avec des permissions minimales.",
+        "Comparer une approche no-code, un SDK et une infrastructure managée sur les mêmes exigences fonctionnelles."
+      ],
+      "advantages": [
+        "Agents persistants sur Workers",
+        "Stockage et états de session",
+        "Connexions temps réel"
+      ],
+      "limits": [
+        "Définir isolation par utilisateur, contrôle d'accès, facturation des Workers et gestion des données persistantes.",
+        "Les agents peuvent déclencher des actions imprévues, être exposés aux injections de prompt ou transférer des données sensibles ; appliquer des contrôles humains."
+      ],
+      "gettingStarted": [
+        "Décrire les objectifs, outils, jeux de tests, limites de dépenses et points d'approbation avant programmation.",
+        "Prototyper sur données non sensibles, instrumenter les traces et tester les échecs avant production."
+      ],
+      "examples": [
+        "Propose un agent utilisant uniquement les outils autorisés, avec vérification des entrées et approbation pour toute écriture.",
+        "Compare le coût, la latence, la qualité des réponses et les erreurs sur 30 tâches reproductibles."
+      ],
+      "pricing": "Comparer licence du framework, coût des modèles, durée d'exécution, stockage, observabilité et connecteurs ; vérifier les tarifs officiels.",
+      "privacy": "Limiter les secrets et scopes OAuth, isoler les sessions, journaliser les actions autorisées et maîtriser rétention et transferts de données.",
+      "selection": [
+        "Séparer construction, orchestration, hébergement, observabilité et recherche ; sélectionner selon contrôle, extensibilité, maintenance et coût."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "cloud_runtime",
+      "evidence": "official_product_or_repository",
+      "sources": [
+        {
+          "url": "https://developers.cloudflare.com/agents/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "provider_documentation_reviewed"
+  },
+  "agentuity": {
+    "descriptionFr": "Plateforme de développement et d'hébergement d'agents IA, avec environnement d'exécution et outils d'observabilité.",
+    "descriptionEn": "AI agent development and hosting platform with runtime and observability tools.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Développement d'agents et d'outils",
+      "Déploiement managé",
+      "Logs et télémétrie"
+    ],
+    "featuresEn": [
+      "Agent and tool development",
+      "Managed deployment",
+      "Logs and telemetry"
+    ],
+    "accessFr": "API, SaaS, SDK ou infrastructure selon l'outil",
+    "accessEn": "API, SaaS, SDK or infrastructure depending on tool",
+    "officialSources": [
+      {
+        "url": "https://agentuity.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_status_and_documentation"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de développement et d'hébergement d'agents IA, avec environnement d'exécution et outils d'observabilité.",
+      "audiences": [
+        "Développeurs d'applications IA et architectes techniques",
+        "Équipes d'automatisation, sécurité et gouvernance"
+      ],
+      "cases": [
+        "Construire un agent limité à un scénario métier vérifiable avec des permissions minimales.",
+        "Comparer une approche no-code, un SDK et une infrastructure managée sur les mêmes exigences fonctionnelles."
+      ],
+      "advantages": [
+        "Développement d'agents et d'outils",
+        "Déploiement managé",
+        "Logs et télémétrie"
+      ],
+      "limits": [
+        "Vérifier SDK pris en charge, politique des données, quotas et stabilité des offres.",
+        "Les agents peuvent déclencher des actions imprévues, être exposés aux injections de prompt ou transférer des données sensibles ; appliquer des contrôles humains."
+      ],
+      "gettingStarted": [
+        "Décrire les objectifs, outils, jeux de tests, limites de dépenses et points d'approbation avant programmation.",
+        "Prototyper sur données non sensibles, instrumenter les traces et tester les échecs avant production."
+      ],
+      "examples": [
+        "Propose un agent utilisant uniquement les outils autorisés, avec vérification des entrées et approbation pour toute écriture.",
+        "Compare le coût, la latence, la qualité des réponses et les erreurs sur 30 tâches reproductibles."
+      ],
+      "pricing": "Comparer licence du framework, coût des modèles, durée d'exécution, stockage, observabilité et connecteurs ; vérifier les tarifs officiels.",
+      "privacy": "Limiter les secrets et scopes OAuth, isoler les sessions, journaliser les actions autorisées et maîtriser rétention et transferts de données.",
+      "selection": [
+        "Séparer construction, orchestration, hébergement, observabilité et recherche ; sélectionner selon contrôle, extensibilité, maintenance et coût."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "hosted_platform",
+      "evidence": "official_product_or_repository",
+      "sources": [
+        {
+          "url": "https://agentuity.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "provider_documentation_reviewed"
+  },
+  "haystack-agents": {
+    "descriptionFr": "Framework open source Haystack pour construire des pipelines RAG et des agents dotés d'outils.",
+    "descriptionEn": "Open-source Haystack framework for building RAG pipelines and tool-using agents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Pipelines de recherche et génération",
+      "Composants modulaires",
+      "Agents et outils de récupération"
+    ],
+    "featuresEn": [
+      "Retrieval and generation pipelines",
+      "Modular components",
+      "Retrieval agents and tools"
+    ],
+    "accessFr": "Framework ou projet open source",
+    "accessEn": "Open-source framework or project",
+    "officialSources": [
+      {
+        "url": "https://docs.haystack.deepset.ai/docs/agents",
+        "checkedAt": "2026-11-17",
+        "scope": "features_status_and_documentation"
+      }
+    ],
+    "research": {
+      "headline": "Framework open source Haystack pour construire des pipelines RAG et des agents dotés d'outils.",
+      "audiences": [
+        "Développeurs d'applications IA et architectes techniques",
+        "Équipes d'automatisation, sécurité et gouvernance"
+      ],
+      "cases": [
+        "Construire un agent limité à un scénario métier vérifiable avec des permissions minimales.",
+        "Comparer une approche no-code, un SDK et une infrastructure managée sur les mêmes exigences fonctionnelles."
+      ],
+      "advantages": [
+        "Pipelines de recherche et génération",
+        "Composants modulaires",
+        "Agents et outils de récupération"
+      ],
+      "limits": [
+        "Le framework exige une architecture et des évaluations adaptées ; un pipeline RAG ne garantit pas la fidélité des réponses.",
+        "Les agents peuvent déclencher des actions imprévues, être exposés aux injections de prompt ou transférer des données sensibles ; appliquer des contrôles humains."
+      ],
+      "gettingStarted": [
+        "Décrire les objectifs, outils, jeux de tests, limites de dépenses et points d'approbation avant programmation.",
+        "Prototyper sur données non sensibles, instrumenter les traces et tester les échecs avant production."
+      ],
+      "examples": [
+        "Propose un agent utilisant uniquement les outils autorisés, avec vérification des entrées et approbation pour toute écriture.",
+        "Compare le coût, la latence, la qualité des réponses et les erreurs sur 30 tâches reproductibles."
+      ],
+      "pricing": "Comparer licence du framework, coût des modèles, durée d'exécution, stockage, observabilité et connecteurs ; vérifier les tarifs officiels.",
+      "privacy": "Limiter les secrets et scopes OAuth, isoler les sessions, journaliser les actions autorisées et maîtriser rétention et transferts de données.",
+      "selection": [
+        "Séparer construction, orchestration, hébergement, observabilité et recherche ; sélectionner selon contrôle, extensibilité, maintenance et coût."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "open_source",
+      "evidence": "official_product_or_repository",
+      "sources": [
+        {
+          "url": "https://docs.haystack.deepset.ai/docs/agents",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "provider_documentation_reviewed"
+  },
+  "openmanus": {
+    "descriptionFr": "Projet open source de système d'agents généralistes orienté tâches multiétapes et utilisation d'outils.",
+    "descriptionEn": "Open-source general-purpose agent project for multi-step tasks and tool use.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Agents autonomes expérimentaux",
+      "Outils et plans de tâches",
+      "Exécution sur infrastructure utilisateur"
+    ],
+    "featuresEn": [
+      "Experimental autonomous agents",
+      "Tools and task planning",
+      "Execution on user infrastructure"
+    ],
+    "accessFr": "Framework ou projet open source",
+    "accessEn": "Open-source framework or project",
+    "officialSources": [
+      {
+        "url": "https://github.com/FoundationAgents/OpenManus",
+        "checkedAt": "2026-11-17",
+        "scope": "features_status_and_documentation"
+      }
+    ],
+    "research": {
+      "headline": "Projet open source de système d'agents généralistes orienté tâches multiétapes et utilisation d'outils.",
+      "audiences": [
+        "Développeurs d'applications IA et architectes techniques",
+        "Équipes d'automatisation, sécurité et gouvernance"
+      ],
+      "cases": [
+        "Construire un agent limité à un scénario métier vérifiable avec des permissions minimales.",
+        "Comparer une approche no-code, un SDK et une infrastructure managée sur les mêmes exigences fonctionnelles."
+      ],
+      "advantages": [
+        "Agents autonomes expérimentaux",
+        "Outils et plans de tâches",
+        "Exécution sur infrastructure utilisateur"
+      ],
+      "limits": [
+        "Vérifier l'activité du dépôt, les versions, les permissions et l'isolement de l'exécution avant installation.",
+        "Les agents peuvent déclencher des actions imprévues, être exposés aux injections de prompt ou transférer des données sensibles ; appliquer des contrôles humains."
+      ],
+      "gettingStarted": [
+        "Décrire les objectifs, outils, jeux de tests, limites de dépenses et points d'approbation avant programmation.",
+        "Prototyper sur données non sensibles, instrumenter les traces et tester les échecs avant production."
+      ],
+      "examples": [
+        "Propose un agent utilisant uniquement les outils autorisés, avec vérification des entrées et approbation pour toute écriture.",
+        "Compare le coût, la latence, la qualité des réponses et les erreurs sur 30 tâches reproductibles."
+      ],
+      "pricing": "Comparer licence du framework, coût des modèles, durée d'exécution, stockage, observabilité et connecteurs ; vérifier les tarifs officiels.",
+      "privacy": "Limiter les secrets et scopes OAuth, isoler les sessions, journaliser les actions autorisées et maîtriser rétention et transferts de données.",
+      "selection": [
+        "Séparer construction, orchestration, hébergement, observabilité et recherche ; sélectionner selon contrôle, extensibilité, maintenance et coût."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "open_source_experimental",
+      "evidence": "official_product_or_repository",
+      "sources": [
+        {
+          "url": "https://github.com/FoundationAgents/OpenManus",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "provider_documentation_reviewed"
+  },
+  "sakana-ai-scientist": {
+    "descriptionFr": "Projet de recherche Sakana AI visant à automatiser des étapes de formulation, expérimentation et rédaction scientifique.",
+    "descriptionEn": "Sakana AI research project targeting partial automation of scientific ideation, experiments and writing.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Idéation scientifique automatisée",
+      "Expérimentations guidées",
+      "Production de rapports de recherche"
+    ],
+    "featuresEn": [
+      "Automated scientific ideation",
+      "Guided experiments",
+      "Research report generation"
+    ],
+    "accessFr": "Projet de recherche",
+    "accessEn": "Research project",
+    "officialSources": [
+      {
+        "url": "https://sakana.ai/ai-scientist/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_status_and_documentation"
+      }
+    ],
+    "research": {
+      "headline": "Projet de recherche Sakana AI visant à automatiser des étapes de formulation, expérimentation et rédaction scientifique.",
+      "audiences": [
+        "Développeurs d'applications IA et architectes techniques",
+        "Équipes d'automatisation, sécurité et gouvernance"
+      ],
+      "cases": [
+        "Construire un agent limité à un scénario métier vérifiable avec des permissions minimales.",
+        "Comparer une approche no-code, un SDK et une infrastructure managée sur les mêmes exigences fonctionnelles."
+      ],
+      "advantages": [
+        "Idéation scientifique automatisée",
+        "Expérimentations guidées",
+        "Production de rapports de recherche"
+      ],
+      "limits": [
+        "Ne pas assimiler les résultats générés à une validation scientifique ou à un article évalué par les pairs.",
+        "Les agents peuvent déclencher des actions imprévues, être exposés aux injections de prompt ou transférer des données sensibles ; appliquer des contrôles humains."
+      ],
+      "gettingStarted": [
+        "Décrire les objectifs, outils, jeux de tests, limites de dépenses et points d'approbation avant programmation.",
+        "Prototyper sur données non sensibles, instrumenter les traces et tester les échecs avant production."
+      ],
+      "examples": [
+        "Propose un agent utilisant uniquement les outils autorisés, avec vérification des entrées et approbation pour toute écriture.",
+        "Compare le coût, la latence, la qualité des réponses et les erreurs sur 30 tâches reproductibles."
+      ],
+      "pricing": "Comparer licence du framework, coût des modèles, durée d'exécution, stockage, observabilité et connecteurs ; vérifier les tarifs officiels.",
+      "privacy": "Limiter les secrets et scopes OAuth, isoler les sessions, journaliser les actions autorisées et maîtriser rétention et transferts de données.",
+      "selection": [
+        "Séparer construction, orchestration, hébergement, observabilité et recherche ; sélectionner selon contrôle, extensibilité, maintenance et coût."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "research_project",
+      "evidence": "official_product_or_repository",
+      "sources": [
+        {
+          "url": "https://sakana.ai/ai-scientist/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "provider_documentation_reviewed"
+  },
+  "beeai": {
+    "descriptionFr": "Écosystème BeeAI de frameworks et outils open source pour créer et relier des agents.",
+    "descriptionEn": "BeeAI ecosystem of open-source frameworks and tools for building and connecting agents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Framework d'agents",
+      "Outils et intégrations",
+      "Développement multiagents selon version"
+    ],
+    "featuresEn": [
+      "Agent framework",
+      "Tools and integrations",
+      "Version-dependent multi-agent development"
+    ],
+    "accessFr": "Framework ou projet open source",
+    "accessEn": "Open-source framework or project",
+    "officialSources": [
+      {
+        "url": "https://beeai.dev/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_status_and_documentation"
+      }
+    ],
+    "research": {
+      "headline": "Écosystème BeeAI de frameworks et outils open source pour créer et relier des agents.",
+      "audiences": [
+        "Développeurs d'applications IA et architectes techniques",
+        "Équipes d'automatisation, sécurité et gouvernance"
+      ],
+      "cases": [
+        "Construire un agent limité à un scénario métier vérifiable avec des permissions minimales.",
+        "Comparer une approche no-code, un SDK et une infrastructure managée sur les mêmes exigences fonctionnelles."
+      ],
+      "advantages": [
+        "Framework d'agents",
+        "Outils et intégrations",
+        "Développement multiagents selon version"
+      ],
+      "limits": [
+        "Vérifier quels composants restent activement maintenus et compatibles ; examiner l'accès aux outils et dépendances.",
+        "Les agents peuvent déclencher des actions imprévues, être exposés aux injections de prompt ou transférer des données sensibles ; appliquer des contrôles humains."
+      ],
+      "gettingStarted": [
+        "Décrire les objectifs, outils, jeux de tests, limites de dépenses et points d'approbation avant programmation.",
+        "Prototyper sur données non sensibles, instrumenter les traces et tester les échecs avant production."
+      ],
+      "examples": [
+        "Propose un agent utilisant uniquement les outils autorisés, avec vérification des entrées et approbation pour toute écriture.",
+        "Compare le coût, la latence, la qualité des réponses et les erreurs sur 30 tâches reproductibles."
+      ],
+      "pricing": "Comparer licence du framework, coût des modèles, durée d'exécution, stockage, observabilité et connecteurs ; vérifier les tarifs officiels.",
+      "privacy": "Limiter les secrets et scopes OAuth, isoler les sessions, journaliser les actions autorisées et maîtriser rétention et transferts de données.",
+      "selection": [
+        "Séparer construction, orchestration, hébergement, observabilité et recherche ; sélectionner selon contrôle, extensibilité, maintenance et coût."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "open_source",
+      "evidence": "official_product_or_repository",
+      "sources": [
+        {
+          "url": "https://beeai.dev/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "provider_documentation_reviewed"
+  }
+}
