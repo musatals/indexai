@@ -1,0 +1,77 @@
+{
+  "google-translate": {
+    "accessFr": "Service Web Google Traduction, applications mobiles et traduction intégrée à Chrome",
+    "accessEn": "Google Translate website, mobile apps and Chrome integration",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "free",
+      "fr": "Traduction destinée au grand public gratuite ; l’API Google Cloud Translation est un service payant distinct.",
+      "en": "Free consumer translation; Google Cloud Translation API is a separately billed product.",
+      "sourceUrl": "https://translate.google.com/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-15"
+  },
+  "microsoft-translator": {
+    "accessFr": "Application et services Microsoft de traduction ; API Azure Translator pour développeurs",
+    "accessEn": "Microsoft translation apps and services; Azure Translator API for developers",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Usage grand public gratuit ; API Azure Translator avec niveau gratuit F0 et paliers payants.",
+      "en": "Free consumer experience; Azure Translator API with free F0 tier and paid tiers.",
+      "sourceUrl": "https://learn.microsoft.com/en-us/azure/ai-services/translator/how-to/create-translator-resource",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-15"
+  },
+  "reverso": {
+    "accessFr": "Traduction et dictionnaires sur le Web, applications mobiles et traduction de documents",
+    "accessEn": "Web translation and dictionaries, mobile apps and document translation",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Fonctions gratuites ; Reverso Premium et Pro payants, ainsi que crédits pour certains documents.",
+      "en": "Free functions; paid Reverso Premium and Pro, plus credits for certain document workflows.",
+      "sourceUrl": "https://documents.reverso.net/pricing.aspx?lang=en",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-15"
+  },
+  "phrase": {
+    "accessFr": "Plateforme cloud TMS et localisation logicielle avec intégrations de développement",
+    "accessEn": "Cloud TMS and software localization platform with developer integrations",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Essai gratuit de 14 jours puis abonnements Freelancer et Professional ou offres sur mesure.",
+      "en": "14-day free trial followed by Freelancer and Professional subscriptions or custom plans.",
+      "sourceUrl": "https://phrase.com/pricing/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-15"
+  },
+  "lara-translate": {
+    "accessFr": "Traducteur Web et API de traduction pour développeurs et entreprises",
+    "accessEn": "Web translator and translation API for developers and businesses",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "API de traduction facturée selon les caractères source, avec offres adaptées au volume.",
+      "en": "Translation API billed on source characters, with volume-based arrangements.",
+      "sourceUrl": "https://developers.laratranslate.com/docs/pricing-page",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-15"
+  }
+}
