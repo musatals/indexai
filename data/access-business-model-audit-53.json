@@ -1,0 +1,153 @@
+{
+  "google-jules": {
+    "accessFr": "Agent de programmation Google accessible sur le Web et par interfaces de développement, avec arrêt annoncé au 31 décembre 2026.",
+    "accessEn": "Google coding agent available on the web and developer interfaces; shutdown announced for December 31, 2026.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Accès gratuit limité et quotas supérieurs historiquement liés à Google AI Pro ou Ultra ; service en fin de vie.",
+      "en": "Limited free access and historically higher quotas under Google AI Pro or Ultra; service is being retired.",
+      "sourceUrl": "https://jules.google/docs/changelog/2026-10-29",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-53",
+    "availabilityStatus": "sunsetting"
+  },
+  "kiro": {
+    "accessFr": "Agent de développement via IDE, CLI et environnement Web Kiro, avec intégration GitHub ou GitLab.",
+    "accessEn": "Coding agent through Kiro IDE, CLI and web environment, with GitHub or GitLab integration.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Kiro Free avec crédits limités ; forfaits Pro, Pro+, Pro Max et Power selon consommation.",
+      "en": "Kiro Free with limited credits; Pro, Pro+, Pro Max and Power plans with usage credits.",
+      "sourceUrl": "https://kiro.dev/pricing/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-53"
+  },
+  "opencode": {
+    "accessFr": "Agent de développement open source pour terminal, bureau et mobile, avec SDK et modèles configurables.",
+    "accessEn": "Open-source coding agent for terminal, desktop and mobile, with SDK and configurable models.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "open_source_and_paid",
+      "fr": "Logiciel open source gratuit ; modèles gratuits limités, abonnements OpenCode Go ou API payantes selon les modèles.",
+      "en": "Free open-source software; limited free models, optional OpenCode Go plans or paid model APIs.",
+      "sourceUrl": "https://opencode.ai/product",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-53"
+  },
+  "amp-sourcegraph": {
+    "accessFr": "Agent de programmation Amp utilisable dans le terminal et l'éditeur, avec services cloud optionnels.",
+    "accessEn": "Amp coding agent available in terminals and editors, with optional cloud services.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "Facturation à l'utilisation de modèles et de ressources, avec formules d'abonnement et options entreprise.",
+      "en": "Model and compute usage billing, plus subscriptions and enterprise offerings.",
+      "sourceUrl": "https://ampcode.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-53"
+  },
+  "gemini-cli": {
+    "accessFr": "Agent Google open source accessible dans le terminal et intégrable aux workflows de développement.",
+    "accessEn": "Google open-source coding agent in the terminal and developer workflows.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "open_source_and_paid",
+      "fr": "CLI Apache 2.0 gratuit ; quota Gemini gratuit sous conditions et forfaits Google AI/Cloud pour usage étendu.",
+      "en": "Free Apache 2.0 CLI; eligible free Gemini quota and Google AI/Cloud plans for greater usage.",
+      "sourceUrl": "https://github.com/google-gemini/gemini-cli/blob/main/docs/resources/quota-and-pricing.md",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-53"
+  },
+  "qwen-code": {
+    "accessFr": "Agent de programmation open source Qwen pour terminal et éditeurs compatibles.",
+    "accessEn": "Qwen open-source coding agent for terminal and supported editors.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "open_source_and_paid",
+      "fr": "Code Apache 2.0 gratuit ; accès aux modèles selon quota, API ou abonnement Qwen Plus/Pro.",
+      "en": "Free Apache 2.0 code; model access depends on quota, API or Qwen Plus/Pro subscription.",
+      "sourceUrl": "https://github.com/QwenLM/qwen-code/blob/main/docs/users/configuration/auth.md",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-53"
+  },
+  "github-copilot-coding-agent": {
+    "accessFr": "Agent de programmation cloud intégré aux dépôts GitHub, issues et demandes de fusion.",
+    "accessEn": "Cloud coding agent integrated with GitHub repositories, issues and pull requests.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Disponible selon les forfaits GitHub Copilot ; les sessions et autres opérations consomment des GitHub AI Credits.",
+      "en": "Available according to GitHub Copilot plans; sessions and other operations use GitHub AI Credits.",
+      "sourceUrl": "https://github.com/features/copilot/plans",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-53"
+  },
+  "jetbrains-junie": {
+    "accessFr": "Agent JetBrains intégré aux IDE pris en charge et aux expériences JetBrains AI.",
+    "accessEn": "JetBrains agent integrated into supported IDEs and JetBrains AI experiences.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Junie Lite et niveaux JetBrains AI selon IDE ; options AI Pro/Ultimate et quotas IA.",
+      "en": "Junie Lite and JetBrains AI tiers depending on IDE; AI Pro/Ultimate options with AI quotas.",
+      "sourceUrl": "https://www.jetbrains.com/store/ai/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-53"
+  },
+  "goose-block": {
+    "accessFr": "Agent open source Goose pour bureau, terminal et API, initialement développé par Block et désormais géré par l'AAIF.",
+    "accessEn": "Open-source Goose agent for desktop, terminal and API, originally by Block and now stewarded by AAIF.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "open_source",
+      "fr": "Logiciel Apache 2.0 gratuit ; dépenses liées aux modèles, outils et ressources choisies séparément.",
+      "en": "Free Apache 2.0 software; model, tool and infrastructure costs paid separately.",
+      "sourceUrl": "https://github.com/aaif-goose/goose",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-53"
+  },
+  "factory-droids": {
+    "accessFr": "Agents de développement Factory Droids disponibles sur le Web, le bureau, les IDE et le terminal.",
+    "accessEn": "Factory Droids coding agents available on web, desktop, IDEs and terminal.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Offres individuelles Pro, Plus, Max et contrats entreprise ; quotas et frais supplémentaires selon usage.",
+      "en": "Individual Pro, Plus, Max and enterprise plans; quotas and additional usage fees may apply.",
+      "sourceUrl": "https://docs.factory.ai/pricing/individuals",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-53"
+  }
+}
