@@ -10,9 +10,9 @@
       "Actions gouvernées dans Salesforce"
     ],
     "featuresEn": [
-      "Business-specific AI agents",
-      "Connections to enterprise applications and data",
-      "Governance, execution and human review"
+      "Sales and service agents",
+      "CRM data orchestration",
+      "Governed actions inside Salesforce"
     ],
     "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
     "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
@@ -66,7 +66,7 @@
         }
       ]
     },
-    "verification": "official_reviewed"
+    "verification": "provider_documentation_reviewed"
   },
   "gemini-enterprise-agents": {
     "descriptionFr": "Suite Gemini Enterprise de Google pour recherche dans les données de travail, création d'agents et automatisations connectées ; remplace Agentspace autonome.",
@@ -79,9 +79,9 @@
       "Automatisation de processus"
     ],
     "featuresEn": [
-      "Business-specific AI agents",
-      "Connections to enterprise applications and data",
-      "Governance, execution and human review"
+      "Enterprise knowledge search",
+      "Agents and enterprise connectors",
+      "Workflow automation"
     ],
     "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
     "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
@@ -135,7 +135,7 @@
         }
       ]
     },
-    "verification": "official_reviewed"
+    "verification": "provider_documentation_reviewed"
   },
   "sap-joule": {
     "descriptionFr": "Assistant et agents SAP Joule pour exécuter des tâches contextualisées dans les applications métier SAP, avec outils de création dédiés.",
@@ -148,9 +148,9 @@
       "Interactions avec données métier"
     ],
     "featuresEn": [
-      "Business-specific AI agents",
-      "Connections to enterprise applications and data",
-      "Governance, execution and human review"
+      "SAP business-process agents",
+      "Joule Studio and AI Agent Hub",
+      "Interactions with business data"
     ],
     "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
     "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
@@ -204,7 +204,7 @@
         }
       ]
     },
-    "verification": "official_reviewed"
+    "verification": "provider_documentation_reviewed"
   },
   "servicenow-ai-agents": {
     "descriptionFr": "Agents IA ServiceNow pour automatiser des demandes et workflows IT, RH, service client et opérations sur la plateforme Now.",
@@ -217,9 +217,9 @@
       "Contrôles de gouvernance"
     ],
     "featuresEn": [
-      "Business-specific AI agents",
-      "Connections to enterprise applications and data",
-      "Governance, execution and human review"
+      "IT and HR request handling",
+      "Now Platform orchestration",
+      "Governance controls"
     ],
     "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
     "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
@@ -273,7 +273,7 @@
         }
       ]
     },
-    "verification": "official_reviewed"
+    "verification": "provider_documentation_reviewed"
   },
   "workday-illuminate-agents": {
     "descriptionFr": "Agents Workday Illuminate pour soutenir des processus RH, finance et planification dans l'écosystème Workday.",
@@ -286,9 +286,9 @@
       "Automatisation de processus métier"
     ],
     "featuresEn": [
-      "Business-specific AI agents",
-      "Connections to enterprise applications and data",
-      "Governance, execution and human review"
+      "HR and finance agents",
+      "Workday data context",
+      "Business process automation"
     ],
     "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
     "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
@@ -342,7 +342,7 @@
         }
       ]
     },
-    "verification": "official_reviewed"
+    "verification": "provider_documentation_reviewed"
   },
   "oracle-ai-agent-studio": {
     "descriptionFr": "Environnement Oracle AI Agent Studio intégré aux applications Fusion pour concevoir, orchestrer et gouverner des agents et applications agentiques.",
@@ -355,9 +355,9 @@
       "Sécurité et approbations applicatives"
     ],
     "featuresEn": [
-      "Agent creation and workflow setup",
-      "Connections to enterprise applications and data",
-      "Governance, execution and human review"
+      "No-code and pro-code tools",
+      "Fusion agents and workflows",
+      "Application-level security and approvals"
     ],
     "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
     "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
@@ -411,7 +411,7 @@
         }
       ]
     },
-    "verification": "official_reviewed"
+    "verification": "provider_documentation_reviewed"
   },
   "writer-action-agent": {
     "descriptionFr": "Fonctions d'agents d'action de WRITER pour produire des livrables et automatiser des opérations en s'appuyant sur les connaissances d'entreprise.",
@@ -424,9 +424,9 @@
       "Actions et contenus contrôlés"
     ],
     "featuresEn": [
-      "Business-specific AI agents",
-      "Connections to enterprise applications and data",
-      "Governance, execution and human review"
+      "Enterprise agents and workflows",
+      "Connected knowledge and data",
+      "Controlled actions and content"
     ],
     "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
     "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
@@ -480,7 +480,7 @@
         }
       ]
     },
-    "verification": "official_reviewed"
+    "verification": "provider_documentation_reviewed"
   },
   "hubspot-breeze-agents": {
     "descriptionFr": "Agents Breeze de HubSpot destinés aux équipes marketing, vente et service, exploitant les données du CRM.",
@@ -493,9 +493,9 @@
       "Contexte CRM HubSpot"
     ],
     "featuresEn": [
-      "Business-specific AI agents",
-      "Connections to enterprise applications and data",
-      "Governance, execution and human review"
+      "Marketing and prospecting agents",
+      "Customer support assistance",
+      "HubSpot CRM context"
     ],
     "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
     "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
@@ -549,7 +549,7 @@
         }
       ]
     },
-    "verification": "official_reviewed"
+    "verification": "provider_documentation_reviewed"
   },
   "moveworks-ai-agents": {
     "descriptionFr": "Agents Moveworks pour aider les employés à rechercher des informations et effectuer des demandes dans les applications internes.",
@@ -562,9 +562,9 @@
       "Connecteurs vers applications métier"
     ],
     "featuresEn": [
-      "Business-specific AI agents",
-      "Connections to enterprise applications and data",
-      "Governance, execution and human review"
+      "Internal enterprise search",
+      "Employee request actions",
+      "Enterprise app connectors"
     ],
     "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
     "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
@@ -618,7 +618,7 @@
         }
       ]
     },
-    "verification": "official_reviewed"
+    "verification": "provider_documentation_reviewed"
   },
   "sierra-ai": {
     "descriptionFr": "Agents conversationnels Sierra pour la relation client, l'assistance et certaines actions sur les comptes et commandes.",
@@ -631,9 +631,9 @@
       "Intégration aux processus de service"
     ],
     "featuresEn": [
-      "Business-specific AI agents",
-      "Connections to enterprise applications and data",
-      "Governance, execution and human review"
+      "Multichannel customer conversations",
+      "Customer request handling",
+      "Service workflow integration"
     ],
     "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
     "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
@@ -687,7 +687,7 @@
         }
       ]
     },
-    "verification": "official_reviewed"
+    "verification": "provider_documentation_reviewed"
   },
   "zendesk-ai-agents": {
     "descriptionFr": "Agents Zendesk AI conçus pour automatiser la réponse et la résolution de demandes clients sur les canaux de support.",
@@ -700,9 +700,9 @@
       "Escalade vers agents humains"
     ],
     "featuresEn": [
-      "Business-specific AI agents",
-      "Connections to enterprise applications and data",
-      "Governance, execution and human review"
+      "Common ticket resolution",
+      "Support knowledge base",
+      "Human agent escalation"
     ],
     "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
     "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
@@ -756,7 +756,7 @@
         }
       ]
     },
-    "verification": "official_reviewed"
+    "verification": "provider_documentation_reviewed"
   },
   "ada-ai-agent": {
     "descriptionFr": "Plateforme Ada d'agents conversationnels automatisant les échanges de support et certaines opérations après authentification.",
@@ -769,9 +769,9 @@
       "Escalade et pilotage de qualité"
     ],
     "featuresEn": [
-      "Business-specific AI agents",
-      "Connections to enterprise applications and data",
-      "Governance, execution and human review"
+      "Conversational automation",
+      "Support system integration",
+      "Escalation and quality monitoring"
     ],
     "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
     "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
@@ -825,7 +825,7 @@
         }
       ]
     },
-    "verification": "official_reviewed"
+    "verification": "provider_documentation_reviewed"
   },
   "kore-ai-agents": {
     "descriptionFr": "Plateforme Kore.ai de création d'agents conversationnels et de processus intégrés aux outils de l'entreprise.",
@@ -838,9 +838,9 @@
       "Gestion des processus métier"
     ],
     "featuresEn": [
-      "Agent creation and workflow setup",
-      "Connections to enterprise applications and data",
-      "Governance, execution and human review"
+      "Conversational AI agents",
+      "Orchestration and connectors",
+      "Business workflow management"
     ],
     "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
     "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
@@ -894,7 +894,7 @@
         }
       ]
     },
-    "verification": "official_reviewed"
+    "verification": "provider_documentation_reviewed"
   },
   "cognigy-ai-agents": {
     "descriptionFr": "Plateforme Cognigy d'agents IA pour les centres de contact avec conversation vocale et textuelle et intégration aux systèmes d'entreprise.",
@@ -907,9 +907,9 @@
       "Transfert aux conseillers"
     ],
     "featuresEn": [
-      "Business-specific AI agents",
-      "Connections to enterprise applications and data",
-      "Governance, execution and human review"
+      "Voice and chat agents",
+      "Contact center automation",
+      "Human agent handoff"
     ],
     "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
     "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
@@ -963,7 +963,7 @@
         }
       ]
     },
-    "verification": "official_reviewed"
+    "verification": "provider_documentation_reviewed"
   },
   "uipath-agent-builder": {
     "descriptionFr": "Outil UiPath pour concevoir des agents IA et les orchestrer avec robots RPA et interventions humaines.",
@@ -976,9 +976,9 @@
       "Validation humaine dans les processus"
     ],
     "featuresEn": [
-      "Agent creation and workflow setup",
-      "Connections to enterprise applications and data",
-      "Governance, execution and human review"
+      "AI agent building",
+      "Orchestration with software robots",
+      "Human validation in workflows"
     ],
     "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
     "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
@@ -1032,7 +1032,7 @@
         }
       ]
     },
-    "verification": "official_reviewed"
+    "verification": "provider_documentation_reviewed"
   },
   "automation-anywhere-agentic-automation": {
     "descriptionFr": "Plateforme Automation Anywhere associant agents IA et automatisation robotisée des processus métier.",
@@ -1045,9 +1045,9 @@
       "Processus de bout en bout"
     ],
     "featuresEn": [
-      "Agent creation and workflow setup",
-      "Connections to enterprise applications and data",
-      "Governance, execution and human review"
+      "Agentic automation",
+      "Task and robot orchestration",
+      "End-to-end business workflows"
     ],
     "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
     "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
@@ -1101,7 +1101,7 @@
         }
       ]
     },
-    "verification": "official_reviewed"
+    "verification": "provider_documentation_reviewed"
   },
   "harvey-agents": {
     "descriptionFr": "Agents d'IA juridique Harvey pour recherche, analyse de documents et workflows supervisés par des professionnels du droit.",
@@ -1114,9 +1114,9 @@
       "Workflows pour cabinets et juristes"
     ],
     "featuresEn": [
-      "Business-specific AI agents",
-      "Connections to enterprise applications and data",
-      "Governance, execution and human review"
+      "Legal research and analysis",
+      "Case and contract processing",
+      "Law firm and legal-team workflows"
     ],
     "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
     "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
@@ -1170,7 +1170,7 @@
         }
       ]
     },
-    "verification": "official_reviewed"
+    "verification": "provider_documentation_reviewed"
   },
   "palantir-aip-agents": {
     "descriptionFr": "Systèmes agentiques Palantir AIP connectant modèles d'IA, données gouvernées et actions opérationnelles.",
@@ -1183,9 +1183,9 @@
       "Gouvernance et audit"
     ],
     "featuresEn": [
-      "Agent creation and workflow setup",
-      "Connections to enterprise applications and data",
-      "Governance, execution and human review"
+      "Governed business data access",
+      "Operational tools and actions",
+      "Governance and auditing"
     ],
     "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
     "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
@@ -1239,7 +1239,7 @@
         }
       ]
     },
-    "verification": "official_reviewed"
+    "verification": "provider_documentation_reviewed"
   },
   "databricks-agent-bricks": {
     "descriptionFr": "Plateforme Databricks Agent Bricks pour construire, évaluer et gouverner des agents exploitant les données d'entreprise et AI Search.",
@@ -1252,9 +1252,9 @@
       "Gouvernance des identités et outils"
     ],
     "featuresEn": [
-      "Agent creation and workflow setup",
-      "Connections to enterprise applications and data",
-      "Governance, execution and human review"
+      "Agent development and optimization",
+      "AI Search and lakehouse integration",
+      "Identity and tool governance"
     ],
     "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
     "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
@@ -1308,7 +1308,7 @@
         }
       ]
     },
-    "verification": "official_reviewed"
+    "verification": "provider_documentation_reviewed"
   },
   "cohere-north": {
     "descriptionFr": "Plateforme Cohere North d'agents d'entreprise connectés à la recherche et aux processus fondés sur des informations internes.",
@@ -1321,9 +1321,9 @@
       "Accès selon politiques de sécurité"
     ],
     "featuresEn": [
-      "Business-specific AI agents",
-      "Connections to enterprise applications and data",
-      "Governance, execution and human review"
+      "Enterprise knowledge search",
+      "Business agents and automation",
+      "Policy-based data access"
     ],
     "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
     "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
@@ -1377,7 +1377,7 @@
         }
       ]
     },
-    "verification": "official_reviewed"
+    "verification": "provider_documentation_reviewed"
   },
   "beam-ai": {
     "descriptionFr": "Plateforme Beam AI pour configurer des agents métiers capables d'exécuter des workflows opérationnels.",
@@ -1390,9 +1390,9 @@
       "Exécution de tâches répétitives"
     ],
     "featuresEn": [
-      "Agent creation and workflow setup",
-      "Connections to enterprise applications and data",
-      "Governance, execution and human review"
+      "Business workflow agents",
+      "Enterprise system integrations",
+      "Repetitive task execution"
     ],
     "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
     "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
@@ -1446,7 +1446,7 @@
         }
       ]
     },
-    "verification": "official_reviewed"
+    "verification": "provider_documentation_reviewed"
   },
   "dust": {
     "descriptionFr": "Plateforme Dust de création d'agents connectés aux connaissances et applications d'une équipe.",
@@ -1459,9 +1459,9 @@
       "Recherche et actions autorisées"
     ],
     "featuresEn": [
-      "Agent creation and workflow setup",
-      "Connections to enterprise applications and data",
-      "Governance, execution and human review"
+      "Document knowledge connectors",
+      "Team-shared agents",
+      "Authorized search and actions"
     ],
     "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
     "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
@@ -1515,7 +1515,7 @@
         }
       ]
     },
-    "verification": "official_reviewed"
+    "verification": "provider_documentation_reviewed"
   },
   "stackai": {
     "descriptionFr": "Plateforme StackAI de création d'agents et workflows IA connectés aux documents et outils métiers.",
@@ -1528,9 +1528,9 @@
       "Intégrations et gouvernance"
     ],
     "featuresEn": [
-      "Agent creation and workflow setup",
-      "Connections to enterprise applications and data",
-      "Governance, execution and human review"
+      "Workflow builder",
+      "Document retrieval and agents",
+      "Integrations and governance"
     ],
     "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
     "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
@@ -1584,7 +1584,7 @@
         }
       ]
     },
-    "verification": "official_reviewed"
+    "verification": "provider_documentation_reviewed"
   },
   "pega-agentic-ai": {
     "descriptionFr": "Fonctions Pega d'agents et d'orchestration fondées sur des processus métier gouvernés et des règles de décision.",
@@ -1597,9 +1597,9 @@
       "Agents dans les applications Pega"
     ],
     "featuresEn": [
-      "Business-specific AI agents",
-      "Connections to enterprise applications and data",
-      "Governance, execution and human review"
+      "Business process orchestration",
+      "Business rules and decisions",
+      "Agents in Pega applications"
     ],
     "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
     "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
@@ -1653,7 +1653,7 @@
         }
       ]
     },
-    "verification": "official_reviewed"
+    "verification": "provider_documentation_reviewed"
   },
   "notion-agent": {
     "descriptionFr": "Agent Notion AI travaillant sur pages, projets et bases de données de l'espace de travail, selon droits et fonctionnalités activées.",
@@ -1666,9 +1666,9 @@
       "Tâches liées à l'espace collaboratif"
     ],
     "featuresEn": [
-      "Business-specific AI agents",
-      "Connections to enterprise applications and data",
-      "Governance, execution and human review"
+      "Notion search and summarization",
+      "Page and database updates",
+      "Collaborative workspace tasks"
     ],
     "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
     "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
@@ -1722,7 +1722,7 @@
         }
       ]
     },
-    "verification": "official_reviewed"
+    "verification": "provider_documentation_reviewed"
   },
   "asana-ai-teammates": {
     "descriptionFr": "Agents collaboratifs Asana AI Teammates opérant dans les projets et tâches, avec mémoire partagée, contexte et revue des livrables.",
@@ -1735,9 +1735,9 @@
       "Suivi et contrôle des résultats"
     ],
     "featuresEn": [
-      "Business-specific AI agents",
-      "Connections to enterprise applications and data",
-      "Governance, execution and human review"
+      "AI teammates assigned to tasks",
+      "Work Graph context",
+      "Outcome tracking and review"
     ],
     "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
     "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
@@ -1791,7 +1791,7 @@
         }
       ]
     },
-    "verification": "official_reviewed"
+    "verification": "provider_documentation_reviewed"
   },
   "glean-agents": {
     "descriptionFr": "Agents Glean connectés à la recherche d'entreprise et aux outils de travail pour automatiser des processus contrôlés.",
@@ -1804,9 +1804,9 @@
       "Actions connectées avec permissions"
     ],
     "featuresEn": [
-      "Business-specific AI agents",
-      "Connections to enterprise applications and data",
-      "Governance, execution and human review"
+      "Agent templates and library",
+      "Internal knowledge search",
+      "Permissioned connected actions"
     ],
     "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
     "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
@@ -1860,6 +1860,6 @@
         }
       ]
     },
-    "verification": "official_reviewed"
+    "verification": "provider_documentation_reviewed"
   }
 }
