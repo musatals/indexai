@@ -1,0 +1,107 @@
+{
+  "amplemarket": {
+    "accessFr": "Suite Web d'intelligence commerciale, prospection et automatisation avec agents IA.",
+    "accessEn": "Web sales intelligence, outreach and automation suite with AI agents.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Offres commerciales de plateforme selon équipe, fonctions et volume ; détails à confirmer auprès de l'éditeur.",
+      "en": "Commercial platform packages by team, features and volume; confirm details with vendor.",
+      "sourceUrl": "https://www.amplemarket.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-61"
+  },
+  "outreach": {
+    "accessFr": "Plateforme de prospection, engagement commercial et workflows pour équipes de vente.",
+    "accessEn": "Sales outreach, engagement and workflow platform for sales teams.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Tarification professionnelle sous contrat selon modules et utilisateurs ; devis commercial requis.",
+      "en": "Contracted professional pricing according to modules and users; sales quote required.",
+      "sourceUrl": "https://www.outreach.io/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-61"
+  },
+  "salesloft": {
+    "accessFr": "Plateforme Web de gestion du cycle commercial et agents d'intelligence de revenus.",
+    "accessEn": "Web revenue lifecycle platform and AI sales agents.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Licences entreprise et options d'agents ou d'analyse associées, selon offres commerciales.",
+      "en": "Enterprise licenses and agent/analytics options by commercial offering.",
+      "sourceUrl": "https://help.salesloft.com/s/article/Salesloft-Packages-and-Availability",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-61"
+  },
+  "clari": {
+    "accessFr": "Plateforme de prévision commerciale intégrée à l'écosystème Salesloft après rapprochement des sociétés.",
+    "accessEn": "Revenue forecasting platform integrated into the Salesloft ecosystem following company merger.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Contrat de plateforme selon modules, sièges et intégrations ; produit maintenu dans l'écosystème Salesloft.",
+      "en": "Platform contract by modules, seats and integrations; product remains in Salesloft ecosystem.",
+      "sourceUrl": "https://www.salesloft.com/company/newsroom/clari-salesloft-announce-key-executive-appointments-to-drive-predictive-revenue-and-ai-vision",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-61"
+  },
+  "zoominfo-copilot": {
+    "accessFr": "Copilote d'intelligence commerciale ZoomInfo dans la suite Web de données B2B.",
+    "accessEn": "ZoomInfo sales intelligence copilot within its B2B data web suite.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Accès professionnel via contrat ZoomInfo, selon nombre de licences et modules souscrits.",
+      "en": "Professional access via ZoomInfo contract, by seats and subscribed modules.",
+      "sourceUrl": "https://www.zoominfo.com/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-61"
+  },
+  "conversica": {
+    "accessFr": "Agents de vente conversationnels sur plateforme Web, connectés aux CRM.",
+    "accessEn": "Conversational sales agents on a web platform integrated with CRMs.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Contrats entreprise selon périmètre d'automatisation et déploiement, sur devis.",
+      "en": "Enterprise contracts by automation scope and deployment, by quote.",
+      "sourceUrl": "https://www.conversica.com/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-61"
+  },
+  "people-ai": {
+    "accessFr": "Plateforme d'intelligence des activités commerciales et d'analyse du pipeline, avec intégrations CRM.",
+    "accessEn": "Sales activity intelligence and pipeline analytics platform with CRM integrations.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Offres entreprises personnalisées selon utilisateurs, intégrations et déploiement.",
+      "en": "Custom enterprise packages by users, integrations and deployment.",
+      "sourceUrl": "https://www.people.ai/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-61"
+  }
+}
