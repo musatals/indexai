@@ -1,0 +1,139 @@
+{
+  "windsurf": {
+    "accessFr": "Ancien éditeur Windsurf, renommé Devin Desktop ; application de bureau et intégrations de développement",
+    "accessEn": "Former Windsurf editor, now Devin Desktop; desktop app and developer integrations",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Devin Desktop propose un accès Free limité et des abonnements Pro, Max et équipes, avec quotas d’agents.",
+      "en": "Devin Desktop offers limited Free access and Pro, Max and team plans with agent usage allowances.",
+      "sourceUrl": "https://devin.ai/desktop",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-44"
+  },
+  "codeium": {
+    "accessFr": "Ancienne marque des assistants Codeium/Windsurf ; poursuivre avec Devin Desktop ou les extensions Windsurf compatibles",
+    "accessEn": "Legacy Codeium/Windsurf coding assistant brand; use Devin Desktop or supported Windsurf plugins",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Tarification actuelle à consulter sous Devin Desktop : niveau Free et abonnements pour capacités accrues.",
+      "en": "Current pricing is published under Devin Desktop: Free tier and subscriptions for expanded capacity.",
+      "sourceUrl": "https://devin.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-44"
+  },
+  "devin": {
+    "accessFr": "Agents de programmation cloud, application Devin Desktop, terminal et intégrations d’équipe",
+    "accessEn": "Cloud coding agents, Devin Desktop app, terminal and team integrations",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Accès Free limité sur Desktop ; abonnements Pro, Max, Teams et Enterprise, avec quotas et usage additionnel.",
+      "en": "Limited Desktop Free access; Pro, Max, Teams and Enterprise subscriptions with usage allowances and extras.",
+      "sourceUrl": "https://devin.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-44"
+  },
+  "sourcegraph-cody": {
+    "accessFr": "Assistant Cody relié à Sourcegraph, dont la fin de vie est annoncée au 31 janvier 2027",
+    "accessEn": "Sourcegraph-connected Cody assistant; end of life announced for January 31, 2027",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Anciens forfaits Free et Pro retirés en 2025 ; accès sous contrats Sourcegraph existants jusqu’à la fermeture annoncée.",
+      "en": "Former Free and Pro plans ended in 2025; access via existing Sourcegraph arrangements pending announced shutdown.",
+      "sourceUrl": "https://sourcegraph.com/blog/sunsetting-cody-future-of-code-intelligence",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-44",
+    "availabilityStatus": "sunsetting"
+  },
+  "roo-code": {
+    "accessFr": "Extension d’agent de programmation VS Code arrêtée le 15 mai 2026 ; dépôt source archivé",
+    "accessEn": "VS Code coding-agent extension shut down on May 15, 2026; source repository archived",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "discontinued",
+      "fr": "Service officiel arrêté ; le code source Apache 2.0 reste consultable, sans maintenance officielle.",
+      "en": "Official service discontinued; Apache 2.0 source remains available without official maintenance.",
+      "sourceUrl": "https://github.com/RooCodeInc/Roo-Code",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-44",
+    "availabilityStatus": "discontinued"
+  },
+  "qodo": {
+    "accessFr": "Plateforme de revue et qualité de code, intégrations Git et IDE, offre équipes",
+    "accessEn": "Code review and quality platform with Git and IDE integrations for teams",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Essai gratuit de 14 jours ; plan Pro Team à crédits partagés et contrat Enterprise sur devis.",
+      "en": "14-day free trial; shared-credit Pro Team plan and quote-based Enterprise.",
+      "sourceUrl": "https://www.qodo.ai/pricing/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-44"
+  },
+  "greptile": {
+    "accessFr": "Service Web de revue de pull requests, intégrations de dépôts et API",
+    "accessEn": "Web pull-request review service, repository integrations and API",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Formule Starter gratuite pour un développeur ; offre Pro fondée sur crédits de revue et Enterprise sur devis.",
+      "en": "Free Starter for one developer; Pro review-credit billing and quote-based Enterprise.",
+      "sourceUrl": "https://www.greptile.com/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-44"
+  },
+  "augment-code": {
+    "accessFr": "Agent de programmation pour IDE et équipes, avec moteur de contexte et revue de code",
+    "accessEn": "Coding agent for IDEs and teams with context engine and code review",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Abonnements d’équipe Standard, Business et Enterprise ; usage de modèles et calcul décompté selon plan.",
+      "en": "Standard, Business and Enterprise team plans; model and compute usage billed by plan.",
+      "sourceUrl": "https://www.augmentcode.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-44"
+  },
+  "swe-agent": {
+    "accessFr": "Agent de développement en Python utilisable localement via ligne de commande et modèle choisi",
+    "accessEn": "Python development agent run locally from CLI with a user-chosen model",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "open_source",
+      "fr": "Code libre sous licence MIT ; coût éventuel des appels aux modèles et de l’hébergement à la charge de l’utilisateur.",
+      "en": "MIT open-source code; any model API and hosting costs are paid separately by the user.",
+      "sourceUrl": "https://github.com/SWE-agent/SWE-agent",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-44"
+  }
+}
