@@ -133,20 +133,5 @@
     },
     "pricingStatus": "official_reviewed",
     "auditBatch": "access-business-model-2026-11-17-02"
-  },
-  "opusclip": {
-    "accessFr": "Application Web de génération de clips",
-    "accessEn": "Web-based clipping tool",
-    "accessStatus": "official_reviewed",
-    "accessVerifiedAt": "2026-11-17",
-    "pricing": {
-      "model": "freemium",
-      "fr": "Offre gratuite limitée et abonnements payants avec davantage de crédits.",
-      "en": "Limited free plan; paid subscriptions with additional credits.",
-      "sourceUrl": "https://www.opus.pro/pricing",
-      "verifiedAt": "2026-11-17"
-    },
-    "pricingStatus": "official_reviewed",
-    "auditBatch": "access-business-model-2026-11-17-02"
   }
 }
