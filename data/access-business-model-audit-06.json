@@ -1,0 +1,212 @@
+{
+  "dreamstudio": {
+    "accessFr": "Application Web de création d’images (Brand Studio)",
+    "accessEn": "Web image-generation application (Brand Studio)",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "DreamStudio, désormais appelé Brand Studio, utilise des crédits accessibles par abonnement ; modalités distinctes de l’API.",
+      "en": "DreamStudio, now called Brand Studio, uses subscription-based credits; API billing is separate.",
+      "sourceUrl": "https://kb.stability.ai/knowledge-base/credit-usage-across-our-products",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-06"
+  },
+  "canva-magic-media": {
+    "accessFr": "Éditeur Canva Web et applications compatibles",
+    "accessEn": "Canva web editor and supported apps",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Magic Media est une fonctionnalité IA premium soumise à des limites d’usage ; Canva propose Free, Pro, Business et Enterprise.",
+      "en": "Magic Media is a premium AI feature with usage limits; Canva offers Free, Pro, Business and Enterprise plans.",
+      "sourceUrl": "https://www.canva.com/help/magic-video/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-06"
+  },
+  "clipdrop": {
+    "accessFr": "Service Web et API d’édition d’images",
+    "accessEn": "Web image editing service and API",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Fonctions gratuites limitées, abonnement Pro et tarification d’API distincte.",
+      "en": "Limited free features, a paid Pro subscription and separate API pricing.",
+      "sourceUrl": "https://clipdrop.co/en-US/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-06"
+  },
+  "topaz-photo": {
+    "accessFr": "Logiciel de bureau macOS et Windows",
+    "accessEn": "macOS and Windows desktop application",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Topaz Photo est proposé sur abonnement ; des offres individuelles et regroupées existent.",
+      "en": "Topaz Photo is subscription-based; individual and bundled plans are available.",
+      "sourceUrl": "https://www.topazlabs.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-06"
+  },
+  "luminar-neo": {
+    "accessFr": "Logiciel de retouche photo pour ordinateur",
+    "accessEn": "Desktop photo editing software",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Licence payante avec achat perpétuel ou abonnement selon l’offre ; certaines fonctions IA sont réservées à l’abonnement.",
+      "en": "Paid licensing with perpetual purchase or subscription options; some AI features require subscription.",
+      "sourceUrl": "https://skylum.com/luminar/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-06"
+  },
+  "real-esrgan": {
+    "accessFr": "Code source GitHub et exécution locale",
+    "accessEn": "GitHub source code and local execution",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "open_source",
+      "fr": "Code open source BSD-3-Clause ; l’hébergement et l’inférence peuvent générer des frais distincts.",
+      "en": "Open-source BSD-3-Clause code; hosting and inference may incur separate costs.",
+      "sourceUrl": "https://github.com/xinntao/Real-ESRGAN/blob/master/LICENSE",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-06"
+  },
+  "gfpgan": {
+    "accessFr": "Code source GitHub et exécution locale",
+    "accessEn": "GitHub source code and local execution",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "open_source",
+      "fr": "Projet open source sous Apache-2.0 ; les composants tiers et poids de modèles demandent une vérification de licence séparée.",
+      "en": "Open-source Apache-2.0 project; third-party components and model weights require separate license checks.",
+      "sourceUrl": "https://github.com/TencentARC/GFPGAN/blob/master/README.md",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-06"
+  },
+  "open-sora": {
+    "accessFr": "Dépôt GitHub, exécution locale ou infrastructure GPU",
+    "accessEn": "GitHub repository, local or GPU infrastructure",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "open_source",
+      "fr": "Code open source Apache-2.0 ; les poids, données et composants tiers conservent leurs conditions spécifiques.",
+      "en": "Open-source Apache-2.0 code; weights, data and third-party components may have separate terms.",
+      "sourceUrl": "https://github.com/hpcaitech/Open-Sora",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-06"
+  },
+  "imagineart": {
+    "accessFr": "Plateforme Web de génération et de retouche multimédia",
+    "accessEn": "Web multimedia generation and editing platform",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Crédits gratuits limités sur les modèles éligibles ; abonnements et packs de crédits pour les autres usages.",
+      "en": "Limited free credits on eligible models; subscriptions and credit packs for other usage.",
+      "sourceUrl": "https://www.imagine.art/models",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-06"
+  },
+  "artbreeder": {
+    "accessFr": "Plateforme communautaire Web de création visuelle",
+    "accessEn": "Web visual creation community",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Accès gratuit avec crédits limités ; crédits et fonctionnalités supplémentaires selon abonnement.",
+      "en": "Free access with limited credits; additional credits and features according to subscription.",
+      "sourceUrl": "https://www.artbreeder.com/legacy/credits",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-06"
+  },
+  "picsart": {
+    "accessFr": "Éditeur Web et applications mobiles",
+    "accessEn": "Web editor and mobile apps",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Outils gratuits limités et abonnements payants, notamment Pro et Ultra ; crédits selon formule.",
+      "en": "Limited free tools with paid subscriptions including Pro and Ultra; credits vary by tier.",
+      "sourceUrl": "https://support.picsart.com/hc/en-us/articles/360002232017-What-types-of-subscriptions-does-Picsart-offer",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-06"
+  },
+  "vidu": {
+    "accessFr": "Application Web de génération vidéo et API",
+    "accessEn": "Web video generation app and API",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Crédits gratuits de découverte, abonnements payants ; facturation API distincte selon modèles et crédits.",
+      "en": "Free trial credits and paid subscriptions; separate model- and credit-based API pricing.",
+      "sourceUrl": "https://www.vidu.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-06"
+  },
+  "genmo": {
+    "accessFr": "Application Web ; modèles Mochi utilisables localement séparément",
+    "accessEn": "Web app; separate local deployment of Mochi models",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Formules Free, Lite, Standard et Pro avec crédits et fonctions variables ; modèle Mochi aussi disponible en open source.",
+      "en": "Free, Lite, Standard and Pro plans with varying credits; Mochi model also offered as open source.",
+      "sourceUrl": "https://www.genmo.ai/help/faq",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-06"
+  },
+  "ltx-studio": {
+    "accessFr": "Studio de production vidéo sur le Web",
+    "accessEn": "Web-based video production studio",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Accès gratuit aux fonctions de base et abonnements payants pour capacités étendues.",
+      "en": "Free basic access and paid subscriptions for expanded capabilities.",
+      "sourceUrl": "https://website.ltx.studio/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-06"
+  }
+}
