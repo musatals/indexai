@@ -1,0 +1,62 @@
+{
+  "dv": {
+    "accessFr": "Application tl;dv de notes de réunions pour Zoom, Google Meet et Teams ; extension et espace Web",
+    "accessEn": "tl;dv meeting notes app for Zoom, Google Meet and Teams; browser extension and web workspace",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Accès Free permanent, abonnements Pro et Business, offre Enterprise sur devis.",
+      "en": "Permanent Free access, Pro and Business subscriptions, Enterprise by quote.",
+      "sourceUrl": "https://tldv.io/app/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-36"
+  },
+  "avoma": {
+    "accessFr": "Plateforme Web d’enregistrement et d’analyse des réunions avec intégrations CRM",
+    "accessEn": "Web meeting recording and analysis platform with CRM integrations",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Essai gratuit ; licences payantes pour utilisateurs enregistrant des réunions, options d’analyse complémentaires.",
+      "en": "Free trial; paid recorder seats, with additional analytics options.",
+      "sourceUrl": "https://www.avoma.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-36"
+  },
+  "sembly": {
+    "accessFr": "Assistant de réunions compatible avec Meet, Teams, Zoom et Webex ; espace Web",
+    "accessEn": "Meeting assistant supporting Meet, Teams, Zoom and Webex; web workspace",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Accès Basic avec limites ; plans Pro et MAX, ainsi que formules équipe et entreprise.",
+      "en": "Limited Basic tier; Pro, MAX, team and enterprise plans.",
+      "sourceUrl": "https://www.sembly.ai/pricing/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-36"
+  },
+  "supernormal": {
+    "accessFr": "Prise de notes de réunion sur Windows et macOS avec espace collaboratif",
+    "accessEn": "Meeting notetaker for Windows and macOS with collaborative workspace",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Plan gratuit pour tester la prise de notes ; offres payantes reposant notamment sur les crédits et la collaboration.",
+      "en": "Free notetaking trial tier; paid plans based in part on credits and collaboration.",
+      "sourceUrl": "https://www.supernormal.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-36"
+  }
+}
