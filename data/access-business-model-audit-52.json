@@ -1,0 +1,93 @@
+{
+  "dots-openai": {
+    "accessFr": "Agent personnel proactif accessible dans ChatGPT sur Web et applications compatibles, pour comptes et régions éligibles.",
+    "accessEn": "Proactive personal agent inside ChatGPT on web and supported apps, for eligible plans and regions.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Accès intégré aux forfaits ChatGPT éligibles ; tarification entreprise et consommation éventuelle selon organisation.",
+      "en": "Included with eligible ChatGPT plans; enterprise and usage-based pricing can vary by organization.",
+      "sourceUrl": "https://help.openai.com/en/articles/20001530-getting-started-with-your-dot",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-52"
+  },
+  "chatgpt-agent": {
+    "accessFr": "Ancien mode ChatGPT agent désormais remplacé par ChatGPT Work pour les tâches longues et la navigation prise en charge.",
+    "accessEn": "Former ChatGPT agent mode, now superseded by ChatGPT Work for extended tasks and supported browser workflows.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "discontinued",
+      "fr": "Mode autonome historique retiré ; consulter les forfaits et crédits de ChatGPT Work.",
+      "en": "Legacy agent mode retired; consult ChatGPT Work plan and credit terms.",
+      "sourceUrl": "https://help.openai.com/en/articles/11752874-chatgpt-agent",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-52",
+    "availabilityStatus": "discontinued"
+  },
+  "claude-cowork": {
+    "accessFr": "Ancien espace Cowork intégré à l’application Claude depuis septembre 2026 ; fonctions de travail sur Web, ordinateur et mobile selon offre.",
+    "accessEn": "Former Cowork workspace integrated into Claude since September 2026; work features on web, desktop and mobile depending on plan.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Fonctions Cowork désormais intégrées aux forfaits Claude payants éligibles (Pro, Max, Ultra, Team, Enterprise).",
+      "en": "Cowork capabilities now included with eligible paid Claude plans (Pro, Max, Ultra, Team, Enterprise).",
+      "sourceUrl": "https://support.claude.com/en/articles/15520349-use-claude-cowork-on-web-desktop-and-mobile",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-52"
+  },
+  "amazon-alexa": {
+    "accessFr": "Alexa+ via appareils compatibles, applications et expérience Web selon région et compte.",
+    "accessEn": "Alexa+ via compatible devices, apps and web experience depending on region and account.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Alexa+ gratuit pour membres Prime éligibles ; modalités distinctes pour non-membres et régions concernées.",
+      "en": "Alexa+ free for eligible Prime members; other terms apply to nonmembers and regions.",
+      "sourceUrl": "https://digprjsurvey.amazon.com/csad/help/node/T1UrsVvRAUeAWWiHAc",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-52"
+  },
+  "gemini-spark": {
+    "accessFr": "Fonction d’assistance proactive dans Gemini pour macOS, en anglais, disponible aux abonnés Google AI Ultra dans les régions prises en charge.",
+    "accessEn": "Proactive Gemini assistance on macOS, in English, available to Google AI Ultra subscribers in supported regions.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Accès dans l’abonnement Google AI Ultra éligible ; fonction en déploiement et sans tarif autonome.",
+      "en": "Available under eligible Google AI Ultra subscriptions; rolling out without a separate standalone price.",
+      "sourceUrl": "https://gemini.google/release-notes/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-52"
+  },
+  "openclaw": {
+    "accessFr": "Assistant IA open source auto-hébergeable sur ordinateur et serveurs, avec intégrations messagerie et applications.",
+    "accessEn": "Open-source AI assistant self-hosted on computers and servers, with messaging and app integrations.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "open_source",
+      "fr": "Code MIT gratuit ; frais éventuels des modèles, serveurs, outils ou services tiers.",
+      "en": "Free MIT software; model, server, tool and third-party service expenses may apply.",
+      "sourceUrl": "https://github.com/openclaw/openclaw",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-52"
+  }
+}
