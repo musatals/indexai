@@ -1,0 +1,1692 @@
+{
+  "weights-et-biases": {
+    "descriptionFr": "Plateforme Weights & Biases pour suivre expériences, paramètres, métriques, modèles et artefacts ML ; Weave ajoute traces, évaluations et comparaisons des applications LLM et agents.",
+    "descriptionEn": "Weights & Biases platform for ML experiment metrics, parameters, model/artifact lineage; Weave adds LLM/agent tracing, evaluations and comparisons.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "W&B Models : suivi de runs, artefacts et registre",
+      "Weave : traces, annotations et jeux d'évaluation",
+      "Comparaison de modèles, prompts et coûts/latences"
+    ],
+    "featuresEn": [
+      "W&B Models for run tracking, artifacts and registry",
+      "Weave traces, annotations and evaluation datasets",
+      "Model and prompt comparisons with latency/cost metrics"
+    ],
+    "accessFr": "SaaS, API et/ou auto-hébergement selon contrat et produit",
+    "accessEn": "SaaS, APIs and/or self-hosting by product and contract",
+    "officialSources": [
+      {
+        "url": "https://docs.wandb.ai/models/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://docs.wandb.ai/weave",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://site.wandb.ai/evaluations/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme Weights & Biases pour suivre expériences, paramètres, métriques, modèles et artefacts ML ; Weave ajoute traces, évaluations et comparaisons des applications LLM et agents.",
+      "audiences": [
+        "Chercheurs ML, ingénieurs et responsables de formation",
+        "Responsables de supervision, sécurité et maîtrise du coût"
+      ],
+      "cases": [
+        "Comparer deux versions de modèle sur un même jeu de test et enregistrer code, paramètres, jeux de données et traces.",
+        "Construire un ensemble de tests métier avec critères vérifiables, réponses de référence et contrôle des cas difficiles."
+      ],
+      "advantages": [
+        "W&B Models : suivi de runs, artefacts et registre",
+        "Weave : traces, annotations et jeux d'évaluation",
+        "Comparaison de modèles, prompts et coûts/latences"
+      ],
+      "limits": [
+        "Les données enregistrées dans les runs, artefacts ou traces peuvent contenir du contenu sensible. W&B Models et Weave répondent à des objectifs différents ; vérifier accès, forfait, rétention et paramètres de collecte.",
+        "Les juges LLM produisent des scores estimés, parfois biaisés ou instables ; vérifier avec des évaluations humaines et mesurer les régressions, les coûts et la latence."
+      ],
+      "gettingStarted": [
+        "Définir des métriques de référence, un corpus de tests représentatif et un budget de suivi.",
+        "Journaliser des essais fictifs ou anonymisés, comparer plusieurs versions, contrôler accès, rétention et coûts des juges avant production."
+      ],
+      "examples": [
+        "Compare deux versions de notre assistant RAG sur fidélité aux sources, précision de recherche, latence p95 et coûts, avec revue humaine des résultats divergents.",
+        "Propose des tests de régression et une alerte uniquement si une dérive ou un seuil qualité est confirmé sur des échantillons pertinents."
+      ],
+      "pricing": "Comparer tarifs SaaS/Enterprise, volume de traces, durée de rétention, évaluations, utilisateurs, stockage et coût des modèles juges auprès de l'éditeur.",
+      "privacy": "Les traces peuvent contenir prompts, identifiants, réponses, documents et données personnelles ; masquer les contenus sensibles, protéger les clés, maîtriser la rétention et contrôler l'hébergement et les accès.",
+      "selection": [
+        "Choisir Weights & Biases selon l'usage (experiment_tracking), la traçabilité, la reproductibilité, le contrôle des juges, l'auto-hébergement, les intégrations et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.wandb.ai/models/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://docs.wandb.ai/weave",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://site.wandb.ai/evaluations/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "mlflow": {
+    "descriptionFr": "Plateforme MLflow open source pour suivi des expériences, registre de modèles, traçage OpenTelemetry des agents et évaluation des réponses avec juges automatiques.",
+    "descriptionEn": "Open-source MLflow for experiment tracking, model registry, OpenTelemetry-compatible agent tracing and evaluations with LLM judges.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Experiment Tracking, Model Registry et traçabilité des artefacts",
+      "MLflow 3 : tracing GenAI, traces agents et outils",
+      "Juges LLM intégrés/personnalisés et évaluation de production"
+    ],
+    "featuresEn": [
+      "Experiment tracking, model registry and artifact lineage",
+      "MLflow 3 GenAI tracing for agents and tools",
+      "Built-in/custom judges and production evaluations"
+    ],
+    "accessFr": "SaaS, API et/ou auto-hébergement selon contrat et produit",
+    "accessEn": "SaaS, APIs and/or self-hosting by product and contract",
+    "officialSources": [
+      {
+        "url": "https://mlflow.org/docs/latest/genai/tracing",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://mlflow.org/docs/latest/genai/eval-monitor/scorers",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://mlflow.org/docs/latest/genai/mlflow-3",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme MLflow open source pour suivi des expériences, registre de modèles, traçage OpenTelemetry des agents et évaluation des réponses avec juges automatiques.",
+      "audiences": [
+        "Chercheurs ML, ingénieurs et responsables de formation",
+        "Responsables de supervision, sécurité et maîtrise du coût"
+      ],
+      "cases": [
+        "Enregistrer un pipeline RAG et comparer l'exactitude des réponses et la latence avant/après une modification de prompt.",
+        "Construire un ensemble de tests métier avec critères vérifiables, réponses de référence et contrôle des cas difficiles."
+      ],
+      "advantages": [
+        "Experiment Tracking, Model Registry et traçabilité des artefacts",
+        "MLflow 3 : tracing GenAI, traces agents et outils",
+        "Juges LLM intégrés/personnalisés et évaluation de production"
+      ],
+      "limits": [
+        "La migration vers MLflow 3 supprime notamment Recipes et certaines API historiques. Les juges intégrés ne sont pas tous disponibles hors Databricks ; tester les versions, coûts de jugement et confidentialité des traces.",
+        "Les juges LLM produisent des scores estimés, parfois biaisés ou instables ; vérifier avec des évaluations humaines et mesurer les régressions, les coûts et la latence."
+      ],
+      "gettingStarted": [
+        "Définir des métriques de référence, un corpus de tests représentatif et un budget de suivi.",
+        "Journaliser des essais fictifs ou anonymisés, comparer plusieurs versions, contrôler accès, rétention et coûts des juges avant production."
+      ],
+      "examples": [
+        "Compare deux versions de notre assistant RAG sur fidélité aux sources, précision de recherche, latence p95 et coûts, avec revue humaine des résultats divergents.",
+        "Propose des tests de régression et une alerte uniquement si une dérive ou un seuil qualité est confirmé sur des échantillons pertinents."
+      ],
+      "pricing": "Comparer tarifs SaaS/Enterprise, volume de traces, durée de rétention, évaluations, utilisateurs, stockage et coût des modèles juges auprès de l'éditeur.",
+      "privacy": "Les traces peuvent contenir prompts, identifiants, réponses, documents et données personnelles ; masquer les contenus sensibles, protéger les clés, maîtriser la rétention et contrôler l'hébergement et les accès.",
+      "selection": [
+        "Choisir MLflow selon l'usage (experiment_tracking), la traçabilité, la reproductibilité, le contrôle des juges, l'auto-hébergement, les intégrations et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "mlflow3_genai_current",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://mlflow.org/docs/latest/genai/tracing",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://mlflow.org/docs/latest/genai/eval-monitor/scorers",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://mlflow.org/docs/latest/genai/mlflow-3",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_major_version"
+  },
+  "langsmith": {
+    "descriptionFr": "Plateforme LangSmith d'observabilité, débogage et évaluation des applications et agents LLM avec jeux de données, traces, retours humains et comparaisons offline/online.",
+    "descriptionEn": "LangSmith LLM/agent tracing, debugging and evaluation platform with datasets, human feedback and offline/online comparisons.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Traces détaillées des outils, prompts et appels modèles",
+      "Évaluations offline et online avec juges et règles",
+      "Jeux de données, feedback humain et tests de régression"
+    ],
+    "featuresEn": [
+      "Detailed traces for tools, prompts and model calls",
+      "Offline and online evaluations with judges and rules",
+      "Datasets, human feedback and regression tests"
+    ],
+    "accessFr": "SaaS, API et/ou auto-hébergement selon contrat et produit",
+    "accessEn": "SaaS, APIs and/or self-hosting by product and contract",
+    "officialSources": [
+      {
+        "url": "https://docs.langchain.com/langsmith/observability",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://docs.langchain.com/langsmith/evaluation-types",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://docs.langchain.com/langsmith/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme LangSmith d'observabilité, débogage et évaluation des applications et agents LLM avec jeux de données, traces, retours humains et comparaisons offline/online.",
+      "audiences": [
+        "Ingénieurs ML/LLMOps, développeurs d'agents et équipes qualité",
+        "Responsables de supervision, sécurité et maîtrise du coût"
+      ],
+      "cases": [
+        "Tester un agent répondant à des questions réglementaires et identifier la requête ou l'outil responsable de chaque erreur.",
+        "Construire un ensemble de tests métier avec critères vérifiables, réponses de référence et contrôle des cas difficiles."
+      ],
+      "advantages": [
+        "Traces détaillées des outils, prompts et appels modèles",
+        "Évaluations offline et online avec juges et règles",
+        "Jeux de données, feedback humain et tests de régression"
+      ],
+      "limits": [
+        "Un score LLM-as-judge n'est pas une preuve de justesse. Les traces peuvent inclure des données personnelles, prompts internes et réponses ; configurer masquage, rétention, accès et quotas avant la mise en production.",
+        "Les juges LLM produisent des scores estimés, parfois biaisés ou instables ; vérifier avec des évaluations humaines et mesurer les régressions, les coûts et la latence."
+      ],
+      "gettingStarted": [
+        "Définir des métriques de référence, un corpus de tests représentatif et un budget de suivi.",
+        "Journaliser des essais fictifs ou anonymisés, comparer plusieurs versions, contrôler accès, rétention et coûts des juges avant production."
+      ],
+      "examples": [
+        "Compare deux versions de notre assistant RAG sur fidélité aux sources, précision de recherche, latence p95 et coûts, avec revue humaine des résultats divergents.",
+        "Propose des tests de régression et une alerte uniquement si une dérive ou un seuil qualité est confirmé sur des échantillons pertinents."
+      ],
+      "pricing": "Comparer tarifs SaaS/Enterprise, volume de traces, durée de rétention, évaluations, utilisateurs, stockage et coût des modèles juges auprès de l'éditeur.",
+      "privacy": "Les traces peuvent contenir prompts, identifiants, réponses, documents et données personnelles ; masquer les contenus sensibles, protéger les clés, maîtriser la rétention et contrôler l'hébergement et les accès.",
+      "selection": [
+        "Choisir LangSmith selon l'usage (llm_observability), la traçabilité, la reproductibilité, le contrôle des juges, l'auto-hébergement, les intégrations et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.langchain.com/langsmith/observability",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://docs.langchain.com/langsmith/evaluation-types",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://docs.langchain.com/langsmith/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "langfuse": {
+    "descriptionFr": "Langfuse, acquis par ClickHouse en janvier 2026, demeure une plateforme open source et auto-hébergeable d'observabilité LLM, gestion de prompts, datasets et évaluations.",
+    "descriptionEn": "Langfuse, acquired by ClickHouse in January 2026, remains an open-source/self-hosted platform for LLM observability, prompt management, datasets and evaluation.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Traces OpenTelemetry et SDK Python/JS",
+      "Gestion et versionnement des prompts, scores et évaluations",
+      "Cloud et auto-hébergement ; AI Gateway en bêta"
+    ],
+    "featuresEn": [
+      "OpenTelemetry traces and Python/JS SDKs",
+      "Prompt versioning, scores and evaluations",
+      "Cloud and self-hosting, with AI Gateway in beta"
+    ],
+    "accessFr": "SaaS, API et/ou auto-hébergement selon contrat et produit",
+    "accessEn": "SaaS, APIs and/or self-hosting by product and contract",
+    "officialSources": [
+      {
+        "url": "https://langfuse.com/blog/joining-clickhouse",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://langfuse.com/docs/observability/sdk/overview",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://langfuse.com/docs/gateway/features/tracing",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Langfuse, acquis par ClickHouse en janvier 2026, demeure une plateforme open source et auto-hébergeable d'observabilité LLM, gestion de prompts, datasets et évaluations.",
+      "audiences": [
+        "Ingénieurs ML/LLMOps, développeurs d'agents et équipes qualité",
+        "Responsables de supervision, sécurité et maîtrise du coût"
+      ],
+      "cases": [
+        "Auto-héberger des traces de chatbot et analyser le coût et la qualité de réponses sans conserver des données sensibles inutiles.",
+        "Construire un ensemble de tests métier avec critères vérifiables, réponses de référence et contrôle des cas difficiles."
+      ],
+      "advantages": [
+        "Traces OpenTelemetry et SDK Python/JS",
+        "Gestion et versionnement des prompts, scores et évaluations",
+        "Cloud et auto-hébergement ; AI Gateway en bêta"
+      ],
+      "limits": [
+        "Langfuse est toujours actif malgré l'acquisition. Les SDK Python v5 et JS/TS v6 exigent Langfuse v4. Le Gateway est en bêta et le mode FULL collecte prompts, résultats et appels d'outils ; privilégier USAGE ou NONE lorsque requis par les politiques de confidentialité.",
+        "Les juges LLM produisent des scores estimés, parfois biaisés ou instables ; vérifier avec des évaluations humaines et mesurer les régressions, les coûts et la latence."
+      ],
+      "gettingStarted": [
+        "Définir des métriques de référence, un corpus de tests représentatif et un budget de suivi.",
+        "Journaliser des essais fictifs ou anonymisés, comparer plusieurs versions, contrôler accès, rétention et coûts des juges avant production."
+      ],
+      "examples": [
+        "Compare deux versions de notre assistant RAG sur fidélité aux sources, précision de recherche, latence p95 et coûts, avec revue humaine des résultats divergents.",
+        "Propose des tests de régression et une alerte uniquement si une dérive ou un seuil qualité est confirmé sur des échantillons pertinents."
+      ],
+      "pricing": "Comparer tarifs SaaS/Enterprise, volume de traces, durée de rétention, évaluations, utilisateurs, stockage et coût des modèles juges auprès de l'éditeur.",
+      "privacy": "Les traces peuvent contenir prompts, identifiants, réponses, documents et données personnelles ; masquer les contenus sensibles, protéger les clés, maîtriser la rétention et contrôler l'hébergement et les accès.",
+      "selection": [
+        "Choisir Langfuse selon l'usage (llm_observability), la traçabilité, la reproductibilité, le contrôle des juges, l'auto-hébergement, les intégrations et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "acquired_clickhouse_remains_active",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://langfuse.com/blog/joining-clickhouse",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://langfuse.com/docs/observability/sdk/overview",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://langfuse.com/docs/gateway/features/tracing",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_acquired_active",
+    "name": "Langfuse (ClickHouse)"
+  },
+  "arize-phoenix": {
+    "descriptionFr": "Arize Phoenix est un projet open source d'observabilité et d'évaluation des agents et systèmes RAG, installable localement ou auto-hébergé, distinct de la plateforme commerciale Arize.",
+    "descriptionEn": "Arize Phoenix is an open-source local or self-hosted agent/RAG tracing and evaluation project, distinct from commercial Arize AI.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Traces OpenTelemetry/OpenInference, spans et appels d'outils",
+      "Annotations, datasets, expérimentations et juges LLM",
+      "Prompt IDE, visualisation des chaînes et debugging"
+    ],
+    "featuresEn": [
+      "OpenTelemetry/OpenInference traces and tool spans",
+      "Annotations, datasets, experiments and LLM judges",
+      "Prompt IDE, execution visualization and debugging"
+    ],
+    "accessFr": "Open source local/auto-hébergé ; offres partenaires selon produit",
+    "accessEn": "Local/self-hosted open source; separate commercial offerings",
+    "officialSources": [
+      {
+        "url": "https://arize.com/phoenix/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://arize.com/docs/phoenix/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Arize Phoenix est un projet open source d'observabilité et d'évaluation des agents et systèmes RAG, installable localement ou auto-hébergé, distinct de la plateforme commerciale Arize.",
+      "audiences": [
+        "Ingénieurs ML/LLMOps, développeurs d'agents et équipes qualité",
+        "Responsables de supervision, sécurité et maîtrise du coût"
+      ],
+      "cases": [
+        "Tracer les étapes de recherche et génération d'un assistant documentaire dans un environnement contrôlé.",
+        "Construire un ensemble de tests métier avec critères vérifiables, réponses de référence et contrôle des cas difficiles."
+      ],
+      "advantages": [
+        "Traces OpenTelemetry/OpenInference, spans et appels d'outils",
+        "Annotations, datasets, expérimentations et juges LLM",
+        "Prompt IDE, visualisation des chaînes et debugging"
+      ],
+      "limits": [
+        "Phoenix est un produit open source distinct d'Arize commercial. Les scores automatisés dépendent des modèles juges et doivent être confrontés aux annotations humaines ; protéger l'interface, les données des traces et la base de stockage.",
+        "Les juges LLM produisent des scores estimés, parfois biaisés ou instables ; vérifier avec des évaluations humaines et mesurer les régressions, les coûts et la latence."
+      ],
+      "gettingStarted": [
+        "Définir des métriques de référence, un corpus de tests représentatif et un budget de suivi.",
+        "Journaliser des essais fictifs ou anonymisés, comparer plusieurs versions, contrôler accès, rétention et coûts des juges avant production."
+      ],
+      "examples": [
+        "Compare deux versions de notre assistant RAG sur fidélité aux sources, précision de recherche, latence p95 et coûts, avec revue humaine des résultats divergents.",
+        "Propose des tests de régression et une alerte uniquement si une dérive ou un seuil qualité est confirmé sur des échantillons pertinents."
+      ],
+      "pricing": "Bibliothèque ou cœur open source ; coûts de modèles juges, infrastructure, support et services commerciaux distincts.",
+      "privacy": "Les traces peuvent contenir prompts, identifiants, réponses, documents et données personnelles ; masquer les contenus sensibles, protéger les clés, maîtriser la rétention et contrôler l'hébergement et les accès.",
+      "selection": [
+        "Choisir Arize Phoenix selon l'usage (oss_llm_observability), la traçabilité, la reproductibilité, le contrôle des juges, l'auto-hébergement, les intégrations et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://arize.com/phoenix/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://arize.com/docs/phoenix/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "arize-ai": {
+    "descriptionFr": "Plateforme commerciale Arize AI d'observabilité et d'évaluation ML, LLM et agents, avec analyse de dérive, traçage, diagnostics et évaluations en production.",
+    "descriptionEn": "Commercial Arize AI platform for ML, LLM and agent observability, including drift analysis, tracing, diagnostics and production evaluations.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Suivi de dérive, données, performances et alertes ML",
+      "Traçage des agents, retrievers et outils",
+      "Évaluations online/offline et analyses assistées"
+    ],
+    "featuresEn": [
+      "ML drift, data/performance monitoring and alerts",
+      "Agent, retriever and tool tracing",
+      "Online/offline evaluations and assisted analysis"
+    ],
+    "accessFr": "SaaS, API et/ou auto-hébergement selon contrat et produit",
+    "accessEn": "SaaS, APIs and/or self-hosting by product and contract",
+    "officialSources": [
+      {
+        "url": "https://docs.arize.com/arize/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://arize.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme commerciale Arize AI d'observabilité et d'évaluation ML, LLM et agents, avec analyse de dérive, traçage, diagnostics et évaluations en production.",
+      "audiences": [
+        "Ingénieurs ML/LLMOps, développeurs d'agents et équipes qualité",
+        "Responsables de supervision, sécurité et maîtrise du coût"
+      ],
+      "cases": [
+        "Surveiller un classificateur en production et un assistant LLM avec métriques de dérive et incidents analysables.",
+        "Construire un ensemble de tests métier avec critères vérifiables, réponses de référence et contrôle des cas difficiles."
+      ],
+      "advantages": [
+        "Suivi de dérive, données, performances et alertes ML",
+        "Traçage des agents, retrievers et outils",
+        "Évaluations online/offline et analyses assistées"
+      ],
+      "limits": [
+        "Le produit commercial inclut des contrôles de déploiement et de collecte distincts de Phoenix OSS. La dérive est un signal de changement, pas à elle seule la preuve d'une dégradation ; vérifier jeux annotés, confidentialité, volume et tarification.",
+        "Les juges LLM produisent des scores estimés, parfois biaisés ou instables ; vérifier avec des évaluations humaines et mesurer les régressions, les coûts et la latence."
+      ],
+      "gettingStarted": [
+        "Définir des métriques de référence, un corpus de tests représentatif et un budget de suivi.",
+        "Journaliser des essais fictifs ou anonymisés, comparer plusieurs versions, contrôler accès, rétention et coûts des juges avant production."
+      ],
+      "examples": [
+        "Compare deux versions de notre assistant RAG sur fidélité aux sources, précision de recherche, latence p95 et coûts, avec revue humaine des résultats divergents.",
+        "Propose des tests de régression et une alerte uniquement si une dérive ou un seuil qualité est confirmé sur des échantillons pertinents."
+      ],
+      "pricing": "Comparer tarifs SaaS/Enterprise, volume de traces, durée de rétention, évaluations, utilisateurs, stockage et coût des modèles juges auprès de l'éditeur.",
+      "privacy": "Les traces peuvent contenir prompts, identifiants, réponses, documents et données personnelles ; masquer les contenus sensibles, protéger les clés, maîtriser la rétention et contrôler l'hébergement et les accès.",
+      "selection": [
+        "Choisir Arize AI selon l'usage (enterprise_ml_observability), la traçabilité, la reproductibilité, le contrôle des juges, l'auto-hébergement, les intégrations et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.arize.com/arize/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://arize.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "helicone": {
+    "descriptionFr": "Plateforme Helicone d'observabilité des requêtes LLM et de routage multi-modèles via AI Gateway, avec journalisation, coûts, métriques, cache et fallback.",
+    "descriptionEn": "Helicone platform for LLM request observability and multi-model routing via AI Gateway, with logging, usage/cost metrics, caching and fallbacks.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "AI Gateway unifiée compatible OpenAI",
+      "Journalisation des requêtes, sessions, coûts et latence",
+      "Cache, rate limits, fallback et tableaux d'analyse"
+    ],
+    "featuresEn": [
+      "OpenAI-compatible unified AI Gateway",
+      "Request, session, cost and latency logging",
+      "Cache, rate limiting, failover and analytics"
+    ],
+    "accessFr": "SaaS, API et/ou auto-hébergement selon contrat et produit",
+    "accessEn": "SaaS, APIs and/or self-hosting by product and contract",
+    "officialSources": [
+      {
+        "url": "https://docs.helicone.ai/getting-started/quick-start",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://www.helicone.ai/pricing",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme Helicone d'observabilité des requêtes LLM et de routage multi-modèles via AI Gateway, avec journalisation, coûts, métriques, cache et fallback.",
+      "audiences": [
+        "Ingénieurs ML/LLMOps, développeurs d'agents et équipes qualité",
+        "Responsables de supervision, sécurité et maîtrise du coût"
+      ],
+      "cases": [
+        "Comparer les coûts et latences de trois modèles derrière une passerelle, avec limites de trafic par application.",
+        "Construire un ensemble de tests métier avec critères vérifiables, réponses de référence et contrôle des cas difficiles."
+      ],
+      "advantages": [
+        "AI Gateway unifiée compatible OpenAI",
+        "Journalisation des requêtes, sessions, coûts et latence",
+        "Cache, rate limits, fallback et tableaux d'analyse"
+      ],
+      "limits": [
+        "L'intégration historique OpenRouter est maintenue mais ne reçoit plus les dernières fonctionnalités ; privilégier AI Gateway pour une nouvelle intégration. Définir rétention des prompts, données sensibles, coûts de proxy et fournisseur final.",
+        "Les juges LLM produisent des scores estimés, parfois biaisés ou instables ; vérifier avec des évaluations humaines et mesurer les régressions, les coûts et la latence."
+      ],
+      "gettingStarted": [
+        "Définir des métriques de référence, un corpus de tests représentatif et un budget de suivi.",
+        "Journaliser des essais fictifs ou anonymisés, comparer plusieurs versions, contrôler accès, rétention et coûts des juges avant production."
+      ],
+      "examples": [
+        "Compare deux versions de notre assistant RAG sur fidélité aux sources, précision de recherche, latence p95 et coûts, avec revue humaine des résultats divergents.",
+        "Propose des tests de régression et une alerte uniquement si une dérive ou un seuil qualité est confirmé sur des échantillons pertinents."
+      ],
+      "pricing": "Comparer tarifs SaaS/Enterprise, volume de traces, durée de rétention, évaluations, utilisateurs, stockage et coût des modèles juges auprès de l'éditeur.",
+      "privacy": "Les traces peuvent contenir prompts, identifiants, réponses, documents et données personnelles ; masquer les contenus sensibles, protéger les clés, maîtriser la rétention et contrôler l'hébergement et les accès.",
+      "selection": [
+        "Choisir Helicone selon l'usage (llm_gateway_observability), la traçabilité, la reproductibilité, le contrôle des juges, l'auto-hébergement, les intégrations et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.helicone.ai/getting-started/quick-start",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.helicone.ai/pricing",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "braintrust": {
+    "descriptionFr": "Braintrust est une plateforme d'observabilité active pour agents, avec instrumentation, découverte de patterns d'erreur, évaluations, annotations et déploiement contrôlé.",
+    "descriptionEn": "Braintrust is an active agent observability platform for instrumentation, failure-pattern discovery, evaluations, annotations and controlled deployment.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Trace/logs, diagnostics des séquences et patterns",
+      "Datasets annotés, expériences et scorers",
+      "Loop, Playground, Braintrust Gateway et intégration MCP"
+    ],
+    "featuresEn": [
+      "Trace logs and failure-pattern diagnostics",
+      "Annotated datasets, experiments and scorers",
+      "Loop, playground, Braintrust Gateway and MCP integration"
+    ],
+    "accessFr": "SaaS, API et/ou auto-hébergement selon contrat et produit",
+    "accessEn": "SaaS, APIs and/or self-hosting by product and contract",
+    "officialSources": [
+      {
+        "url": "https://docs.braintrust.dev/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://www.braintrust.dev/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Braintrust est une plateforme d'observabilité active pour agents, avec instrumentation, découverte de patterns d'erreur, évaluations, annotations et déploiement contrôlé.",
+      "audiences": [
+        "Ingénieurs ML/LLMOps, développeurs d'agents et équipes qualité",
+        "Responsables de supervision, sécurité et maîtrise du coût"
+      ],
+      "cases": [
+        "Reproduire une mauvaise réponse d'agent à partir de sa trace, créer un test de régression puis comparer un correctif.",
+        "Construire un ensemble de tests métier avec critères vérifiables, réponses de référence et contrôle des cas difficiles."
+      ],
+      "advantages": [
+        "Trace/logs, diagnostics des séquences et patterns",
+        "Datasets annotés, expériences et scorers",
+        "Loop, Playground, Braintrust Gateway et intégration MCP"
+      ],
+      "limits": [
+        "L'agent Loop peut proposer des analyses et des tests, mais ses recommandations ne sont pas des preuves de correction. Configurer les accès, la confidentialité des traces et la politique de changement en production.",
+        "Les juges LLM produisent des scores estimés, parfois biaisés ou instables ; vérifier avec des évaluations humaines et mesurer les régressions, les coûts et la latence."
+      ],
+      "gettingStarted": [
+        "Définir des métriques de référence, un corpus de tests représentatif et un budget de suivi.",
+        "Journaliser des essais fictifs ou anonymisés, comparer plusieurs versions, contrôler accès, rétention et coûts des juges avant production."
+      ],
+      "examples": [
+        "Compare deux versions de notre assistant RAG sur fidélité aux sources, précision de recherche, latence p95 et coûts, avec revue humaine des résultats divergents.",
+        "Propose des tests de régression et une alerte uniquement si une dérive ou un seuil qualité est confirmé sur des échantillons pertinents."
+      ],
+      "pricing": "Comparer tarifs SaaS/Enterprise, volume de traces, durée de rétention, évaluations, utilisateurs, stockage et coût des modèles juges auprès de l'éditeur.",
+      "privacy": "Les traces peuvent contenir prompts, identifiants, réponses, documents et données personnelles ; masquer les contenus sensibles, protéger les clés, maîtriser la rétention et contrôler l'hébergement et les accès.",
+      "selection": [
+        "Choisir Braintrust selon l'usage (llm_eval_observability), la traçabilité, la reproductibilité, le contrôle des juges, l'auto-hébergement, les intégrations et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.braintrust.dev/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.braintrust.dev/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "humanloop": {
+    "descriptionFr": "Ancienne plateforme de gestion, versionnement et évaluation des prompts LLM ; l'équipe a rejoint Anthropic et le service Humanloop a fermé le 8 septembre 2025.",
+    "descriptionEn": "Former LLM prompt management and evaluation platform; its team joined Anthropic and the Humanloop service shut down on September 8, 2025.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Registre de prompts et workflows d'évaluation (historiques)",
+      "Annotations humaines et tests d'applications IA (historiques)",
+      "Plateforme arrêtée en septembre 2025"
+    ],
+    "featuresEn": [
+      "Historical prompt registry and evaluation workflows",
+      "Historical human annotations and AI app tests",
+      "Platform shut down September 2025"
+    ],
+    "accessFr": "Service définitivement fermé — fiche historique",
+    "accessEn": "Permanently shut down — historical profile",
+    "officialSources": [
+      {
+        "url": "https://humanloop.com/docs/changelog/2025/08",
+        "checkedAt": "2026-11-17",
+        "scope": "official_shutdown_and_migration"
+      },
+      {
+        "url": "https://humanloop.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "official_shutdown_and_migration"
+      }
+    ],
+    "research": {
+      "headline": "Ancienne plateforme de gestion, versionnement et évaluation des prompts LLM ; l'équipe a rejoint Anthropic et le service Humanloop a fermé le 8 septembre 2025.",
+      "audiences": [
+        "Analystes étudiant les anciens outils MLOps",
+        "Responsables de supervision, sécurité et maîtrise du coût"
+      ],
+      "cases": [
+        "Consulter cette fiche comme archive et sélectionner un registre de prompts encore actif, sans essayer de créer un compte Humanloop.",
+        "Construire un ensemble de tests métier avec critères vérifiables, réponses de référence et contrôle des cas difficiles."
+      ],
+      "advantages": [
+        "Registre de prompts et workflows d'évaluation (historiques)",
+        "Annotations humaines et tests d'applications IA (historiques)",
+        "Plateforme arrêtée en septembre 2025"
+      ],
+      "limits": [
+        "L'annonce officielle du 13 août 2025 fixait l'arrêt au 8 septembre 2025, avec export des données avant cette échéance. L'ancien service n'est plus exploitable : ne pas présenter Anthropic comme un successeur direct de l'application Humanloop ni proposer la récupération des données passées.",
+        "Les juges LLM produisent des scores estimés, parfois biaisés ou instables ; vérifier avec des évaluations humaines et mesurer les régressions, les coûts et la latence."
+      ],
+      "gettingStarted": [
+        "Ne pas créer de nouveau projet Neptune.ai ; choisir un outil actif et documenter les anciennes dépendances.",
+        "Journaliser des essais fictifs ou anonymisés, comparer plusieurs versions, contrôler accès, rétention et coûts des juges avant production."
+      ],
+      "examples": [
+        "Compare deux versions de notre assistant RAG sur fidélité aux sources, précision de recherche, latence p95 et coûts, avec revue humaine des résultats divergents.",
+        "Propose des tests de régression et une alerte uniquement si une dérive ou un seuil qualité est confirmé sur des échantillons pertinents."
+      ],
+      "pricing": "Service SaaS fermé ; aucune inscription ni restauration des anciens projets possible.",
+      "privacy": "Les traces peuvent contenir prompts, identifiants, réponses, documents et données personnelles ; masquer les contenus sensibles, protéger les clés, maîtriser la rétention et contrôler l'hébergement et les accès.",
+      "selection": [
+        "Choisir Humanloop selon l'usage (historical), la traçabilité, la reproductibilité, le contrôle des juges, l'auto-hébergement, les intégrations et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "discontinued",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://humanloop.com/docs/changelog/2025/08",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://humanloop.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_discontinued",
+    "name": "Humanloop (service arrêté)",
+    "url": "",
+    "availabilityStatus": "discontinued"
+  },
+  "promptlayer": {
+    "descriptionFr": "PromptLayer est une plateforme de registre versionné de prompts, de tests et de déploiement avec labels production/staging, A/B testing et suivi des usages.",
+    "descriptionEn": "PromptLayer is a versioned prompt registry, testing and deployment platform with production/staging labels, A/B tests and usage analytics.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Prompt Registry versionné, modèles et labels de release",
+      "Tests d'évaluation, comparaison de versions et rollback",
+      "Édition collaborative, API/SDK et métriques d'usage"
+    ],
+    "featuresEn": [
+      "Versioned prompt registry, templates and release labels",
+      "Evaluation tests, version comparisons and rollback",
+      "Collaborative editing, API/SDK and usage analytics"
+    ],
+    "accessFr": "SaaS, API et/ou auto-hébergement selon contrat et produit",
+    "accessEn": "SaaS, APIs and/or self-hosting by product and contract",
+    "officialSources": [
+      {
+        "url": "https://www.promptlayer.com/prompt-management/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://www.promptlayer.com/glossary/prompt-release/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "PromptLayer est une plateforme de registre versionné de prompts, de tests et de déploiement avec labels production/staging, A/B testing et suivi des usages.",
+      "audiences": [
+        "Ingénieurs ML/LLMOps, développeurs d'agents et équipes qualité",
+        "Responsables de supervision, sécurité et maîtrise du coût"
+      ],
+      "cases": [
+        "Gérer trois versions d'un prompt d'outil documentaire et ne promouvoir en production que celle qui réussit les tests.",
+        "Construire un ensemble de tests métier avec critères vérifiables, réponses de référence et contrôle des cas difficiles."
+      ],
+      "advantages": [
+        "Prompt Registry versionné, modèles et labels de release",
+        "Tests d'évaluation, comparaison de versions et rollback",
+        "Édition collaborative, API/SDK et métriques d'usage"
+      ],
+      "limits": [
+        "Un label prod ne garantit pas que les réponses respectent les règles métiers ; fixer un protocole d'approbation et conserver l'historique des tests. Vérifier l'accès au registre, les coûts par requête et les données collectées.",
+        "Les juges LLM produisent des scores estimés, parfois biaisés ou instables ; vérifier avec des évaluations humaines et mesurer les régressions, les coûts et la latence."
+      ],
+      "gettingStarted": [
+        "Définir des métriques de référence, un corpus de tests représentatif et un budget de suivi.",
+        "Journaliser des essais fictifs ou anonymisés, comparer plusieurs versions, contrôler accès, rétention et coûts des juges avant production."
+      ],
+      "examples": [
+        "Compare deux versions de notre assistant RAG sur fidélité aux sources, précision de recherche, latence p95 et coûts, avec revue humaine des résultats divergents.",
+        "Propose des tests de régression et une alerte uniquement si une dérive ou un seuil qualité est confirmé sur des échantillons pertinents."
+      ],
+      "pricing": "Comparer tarifs SaaS/Enterprise, volume de traces, durée de rétention, évaluations, utilisateurs, stockage et coût des modèles juges auprès de l'éditeur.",
+      "privacy": "Les traces peuvent contenir prompts, identifiants, réponses, documents et données personnelles ; masquer les contenus sensibles, protéger les clés, maîtriser la rétention et contrôler l'hébergement et les accès.",
+      "selection": [
+        "Choisir PromptLayer selon l'usage (prompt_lifecycle), la traçabilité, la reproductibilité, le contrôle des juges, l'auto-hébergement, les intégrations et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.promptlayer.com/prompt-management/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.promptlayer.com/glossary/prompt-release/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "trulens": {
+    "descriptionFr": "Framework open source TruLens d'évaluation et traçage des agents IA, avec métriques de groundedness, pertinence du contexte, sélection d'outils et observabilité OpenTelemetry.",
+    "descriptionEn": "Open-source TruLens agent evaluation/tracing framework with groundedness, context relevance, tool selection and OpenTelemetry observability.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Instrumentation d'agents, spans et mesures de latence",
+      "Évaluations de groundedness et d'utilisation des outils",
+      "Comparaison de versions selon qualité, coût et comportement"
+    ],
+    "featuresEn": [
+      "Agent instrumentation, spans and latency metrics",
+      "Groundedness and tool-use evaluations",
+      "Quality/cost/behavior comparison across versions"
+    ],
+    "accessFr": "Open source local/auto-hébergé ; offres partenaires selon produit",
+    "accessEn": "Local/self-hosted open source; separate commercial offerings",
+    "officialSources": [
+      {
+        "url": "https://www.trulens.org/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://www.trulens.org/getting_started/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Framework open source TruLens d'évaluation et traçage des agents IA, avec métriques de groundedness, pertinence du contexte, sélection d'outils et observabilité OpenTelemetry.",
+      "audiences": [
+        "Ingénieurs ML/LLMOps, développeurs d'agents et équipes qualité",
+        "Responsables de supervision, sécurité et maîtrise du coût"
+      ],
+      "cases": [
+        "Vérifier si l'agent pédagogique cite correctement ses documents et appelle les bons outils, puis comparer deux versions.",
+        "Construire un ensemble de tests métier avec critères vérifiables, réponses de référence et contrôle des cas difficiles."
+      ],
+      "advantages": [
+        "Instrumentation d'agents, spans et mesures de latence",
+        "Évaluations de groundedness et d'utilisation des outils",
+        "Comparaison de versions selon qualité, coût et comportement"
+      ],
+      "limits": [
+        "TruLens n'est pas un modèle de génération ; les métriques basées sur LLM ont leurs propres biais et coûts. Les scores de groundedness sur une seule référence ne garantissent pas une réponse factuellement vraie.",
+        "Les juges LLM produisent des scores estimés, parfois biaisés ou instables ; vérifier avec des évaluations humaines et mesurer les régressions, les coûts et la latence."
+      ],
+      "gettingStarted": [
+        "Définir des métriques de référence, un corpus de tests représentatif et un budget de suivi.",
+        "Journaliser des essais fictifs ou anonymisés, comparer plusieurs versions, contrôler accès, rétention et coûts des juges avant production."
+      ],
+      "examples": [
+        "Compare deux versions de notre assistant RAG sur fidélité aux sources, précision de recherche, latence p95 et coûts, avec revue humaine des résultats divergents.",
+        "Propose des tests de régression et une alerte uniquement si une dérive ou un seuil qualité est confirmé sur des échantillons pertinents."
+      ],
+      "pricing": "Bibliothèque ou cœur open source ; coûts de modèles juges, infrastructure, support et services commerciaux distincts.",
+      "privacy": "Les traces peuvent contenir prompts, identifiants, réponses, documents et données personnelles ; masquer les contenus sensibles, protéger les clés, maîtriser la rétention et contrôler l'hébergement et les accès.",
+      "selection": [
+        "Choisir TruLens selon l'usage (oss_evaluation), la traçabilité, la reproductibilité, le contrôle des juges, l'auto-hébergement, les intégrations et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.trulens.org/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.trulens.org/getting_started/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "ragas": {
+    "descriptionFr": "Bibliothèque Ragas de métriques pour évaluer systèmes RAG, agents et réponses multimodales, notamment fidélité aux sources, pertinence, rappel et outils.",
+    "descriptionEn": "Ragas evaluation metrics library for RAG, agents and multimodal responses, including source faithfulness, relevance, recall and tool use.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Faithfulness, Context Precision/Recall et Answer Relevancy",
+      "Évaluation des appels d'outils et des workflows agents",
+      "Collections API et métriques LLM/déterministes"
+    ],
+    "featuresEn": [
+      "Faithfulness, Context Precision/Recall and answer relevancy",
+      "Tool-call and agent workflow evaluation",
+      "Collections API and LLM/deterministic metrics"
+    ],
+    "accessFr": "Open source local/auto-hébergé ; offres partenaires selon produit",
+    "accessEn": "Local/self-hosted open source; separate commercial offerings",
+    "officialSources": [
+      {
+        "url": "https://docs.ragas.io/en/stable/concepts/metrics/available_metrics/faithfulness/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://docs.ragas.io/en/stable/howtos/migrations/migrate_from_v03_to_v04/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://docs.ragas.io/en/stable/concepts/metrics/overview/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Bibliothèque Ragas de métriques pour évaluer systèmes RAG, agents et réponses multimodales, notamment fidélité aux sources, pertinence, rappel et outils.",
+      "audiences": [
+        "Ingénieurs ML/LLMOps, développeurs d'agents et équipes qualité",
+        "Responsables de supervision, sécurité et maîtrise du coût"
+      ],
+      "cases": [
+        "Évaluer la précision des citations de 50 réponses RAG et identifier les passages source non exploités.",
+        "Construire un ensemble de tests métier avec critères vérifiables, réponses de référence et contrôle des cas difficiles."
+      ],
+      "advantages": [
+        "Faithfulness, Context Precision/Recall et Answer Relevancy",
+        "Évaluation des appels d'outils et des workflows agents",
+        "Collections API et métriques LLM/déterministes"
+      ],
+      "limits": [
+        "Ragas 0.4 privilégie l'API Collections par rapport à certaines métriques legacy ; des exemples anciens peuvent être incompatibles. Les évaluations LLM sont non déterministes, dépendent du juge et entraînent des coûts d'API.",
+        "Les juges LLM produisent des scores estimés, parfois biaisés ou instables ; vérifier avec des évaluations humaines et mesurer les régressions, les coûts et la latence."
+      ],
+      "gettingStarted": [
+        "Définir des métriques de référence, un corpus de tests représentatif et un budget de suivi.",
+        "Journaliser des essais fictifs ou anonymisés, comparer plusieurs versions, contrôler accès, rétention et coûts des juges avant production."
+      ],
+      "examples": [
+        "Compare deux versions de notre assistant RAG sur fidélité aux sources, précision de recherche, latence p95 et coûts, avec revue humaine des résultats divergents.",
+        "Propose des tests de régression et une alerte uniquement si une dérive ou un seuil qualité est confirmé sur des échantillons pertinents."
+      ],
+      "pricing": "Bibliothèque ou cœur open source ; coûts de modèles juges, infrastructure, support et services commerciaux distincts.",
+      "privacy": "Les traces peuvent contenir prompts, identifiants, réponses, documents et données personnelles ; masquer les contenus sensibles, protéger les clés, maîtriser la rétention et contrôler l'hébergement et les accès.",
+      "selection": [
+        "Choisir Ragas selon l'usage (oss_evaluation), la traçabilité, la reproductibilité, le contrôle des juges, l'auto-hébergement, les intégrations et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.ragas.io/en/stable/concepts/metrics/available_metrics/faithfulness/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://docs.ragas.io/en/stable/howtos/migrations/migrate_from_v03_to_v04/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://docs.ragas.io/en/stable/concepts/metrics/overview/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "deepeval": {
+    "descriptionFr": "DeepEval est un framework open source de tests LLM/agents pour Python et CI/CD ; Confident AI est une plateforme distincte de monitoring et d'analyse des erreurs en production.",
+    "descriptionEn": "DeepEval is an open-source Python/CI evaluation harness for LLM apps and agents; Confident AI is a separate production monitoring and failure-analysis product.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Plus de 50 métriques pour RAG, agents, voix et chat",
+      "Évaluations pytest, CLI et jeux de tests",
+      "Plateforme distincte Confident AI pour traces de production"
+    ],
+    "featuresEn": [
+      "50+ metrics for RAG, agents, voice and chat",
+      "Pytest/CLI evaluations and test datasets",
+      "Separate Confident AI platform for production traces"
+    ],
+    "accessFr": "Open source local/auto-hébergé ; offres partenaires selon produit",
+    "accessEn": "Local/self-hosted open source; separate commercial offerings",
+    "officialSources": [
+      {
+        "url": "https://deepeval.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://deepeval.com/docs/introduction",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://deepeval.com/docs/faq",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "DeepEval est un framework open source de tests LLM/agents pour Python et CI/CD ; Confident AI est une plateforme distincte de monitoring et d'analyse des erreurs en production.",
+      "audiences": [
+        "Ingénieurs ML/LLMOps, développeurs d'agents et équipes qualité",
+        "Responsables de supervision, sécurité et maîtrise du coût"
+      ],
+      "cases": [
+        "Créer des tests automatiques de refus, justesse et validation JSON et bloquer une régression dans la CI.",
+        "Construire un ensemble de tests métier avec critères vérifiables, réponses de référence et contrôle des cas difficiles."
+      ],
+      "advantages": [
+        "Plus de 50 métriques pour RAG, agents, voix et chat",
+        "Évaluations pytest, CLI et jeux de tests",
+        "Plateforme distincte Confident AI pour traces de production"
+      ],
+      "limits": [
+        "DeepEval peut tourner localement sans compte, mais plusieurs métriques utilisent un LLM juge facturé ; Confident AI est une offre distincte. Ne pas confondre score de juge et garantie de sécurité ; vérifier les cas difficiles et données sensibles.",
+        "Les juges LLM produisent des scores estimés, parfois biaisés ou instables ; vérifier avec des évaluations humaines et mesurer les régressions, les coûts et la latence."
+      ],
+      "gettingStarted": [
+        "Définir des métriques de référence, un corpus de tests représentatif et un budget de suivi.",
+        "Journaliser des essais fictifs ou anonymisés, comparer plusieurs versions, contrôler accès, rétention et coûts des juges avant production."
+      ],
+      "examples": [
+        "Compare deux versions de notre assistant RAG sur fidélité aux sources, précision de recherche, latence p95 et coûts, avec revue humaine des résultats divergents.",
+        "Propose des tests de régression et une alerte uniquement si une dérive ou un seuil qualité est confirmé sur des échantillons pertinents."
+      ],
+      "pricing": "Bibliothèque ou cœur open source ; coûts de modèles juges, infrastructure, support et services commerciaux distincts.",
+      "privacy": "Les traces peuvent contenir prompts, identifiants, réponses, documents et données personnelles ; masquer les contenus sensibles, protéger les clés, maîtriser la rétention et contrôler l'hébergement et les accès.",
+      "selection": [
+        "Choisir DeepEval selon l'usage (oss_evaluation), la traçabilité, la reproductibilité, le contrôle des juges, l'auto-hébergement, les intégrations et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "oss_deepeval_distinct_from_confident_ai",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://deepeval.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://deepeval.com/docs/introduction",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://deepeval.com/docs/faq",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_product_distinction",
+    "name": "DeepEval (Confident AI)"
+  },
+  "giskard": {
+    "descriptionFr": "Giskard fournit une bibliothèque open source de tests et de red teaming pour LLM, complétée par Giskard Hub pour gérer jeux d'essai, attaques, évaluations et campagnes d'assurance qualité.",
+    "descriptionEn": "Giskard provides an open-source LLM testing/red-teaming library, complemented by Giskard Hub for test sets, attacks, evaluations and QA campaigns.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Scans de vulnérabilités et red teaming d'agents",
+      "Scénarios et assertions automatisables avec pytest",
+      "Giskard Hub pour jeux d'essai, collaboration et évaluation récurrente"
+    ],
+    "featuresEn": [
+      "Agent vulnerability scans and red teaming",
+      "Pytest-compatible scenarios and assertions",
+      "Giskard Hub for datasets, collaboration and scheduled evaluation"
+    ],
+    "accessFr": "SaaS, API et/ou auto-hébergement selon contrat et produit",
+    "accessEn": "SaaS, APIs and/or self-hosting by product and contract",
+    "officialSources": [
+      {
+        "url": "https://docs.giskard.ai/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://www.giskard.ai/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Giskard fournit une bibliothèque open source de tests et de red teaming pour LLM, complétée par Giskard Hub pour gérer jeux d'essai, attaques, évaluations et campagnes d'assurance qualité.",
+      "audiences": [
+        "Ingénieurs ML/LLMOps, développeurs d'agents et équipes qualité",
+        "Responsables de supervision, sécurité et maîtrise du coût"
+      ],
+      "cases": [
+        "Soumettre un assistant de service public à des tests d'injection de prompt et de divulgation d'informations fictives.",
+        "Construire un ensemble de tests métier avec critères vérifiables, réponses de référence et contrôle des cas difficiles."
+      ],
+      "advantages": [
+        "Scans de vulnérabilités et red teaming d'agents",
+        "Scénarios et assertions automatisables avec pytest",
+        "Giskard Hub pour jeux d'essai, collaboration et évaluation récurrente"
+      ],
+      "limits": [
+        "Le scanner de vulnérabilités peut produire des signaux incomplets ; compléter par tests humains et analyses des autorisations. Les fonctions Hub et bibliothèque OSS sont distinctes, et l'exécution des attaques doit rester limitée aux systèmes autorisés.",
+        "Les juges LLM produisent des scores estimés, parfois biaisés ou instables ; vérifier avec des évaluations humaines et mesurer les régressions, les coûts et la latence."
+      ],
+      "gettingStarted": [
+        "Définir des métriques de référence, un corpus de tests représentatif et un budget de suivi.",
+        "Journaliser des essais fictifs ou anonymisés, comparer plusieurs versions, contrôler accès, rétention et coûts des juges avant production."
+      ],
+      "examples": [
+        "Compare deux versions de notre assistant RAG sur fidélité aux sources, précision de recherche, latence p95 et coûts, avec revue humaine des résultats divergents.",
+        "Propose des tests de régression et une alerte uniquement si une dérive ou un seuil qualité est confirmé sur des échantillons pertinents."
+      ],
+      "pricing": "Comparer tarifs SaaS/Enterprise, volume de traces, durée de rétention, évaluations, utilisateurs, stockage et coût des modèles juges auprès de l'éditeur.",
+      "privacy": "Les traces peuvent contenir prompts, identifiants, réponses, documents et données personnelles ; masquer les contenus sensibles, protéger les clés, maîtriser la rétention et contrôler l'hébergement et les accès.",
+      "selection": [
+        "Choisir Giskard selon l'usage (security_eval), la traçabilité, la reproductibilité, le contrôle des juges, l'auto-hébergement, les intégrations et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.giskard.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.giskard.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "evidently-ai": {
+    "descriptionFr": "Evidently est une bibliothèque open source d'évaluation des systèmes ML et LLM ; l'ancien SaaS Evidently Cloud a fermé, tandis que la plateforme et son interface peuvent être auto-hébergées.",
+    "descriptionEn": "Evidently is an open-source ML/LLM evaluation library; the former Evidently Cloud SaaS has ended, while the platform/UI can be self-hosted.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Contrôles de dérive, qualité de données et performance ML",
+      "Évaluation des chatbots, RAG, agents et hallucinations",
+      "Tableaux de bord auto-hébergés et snapshots JSON/HTML"
+    ],
+    "featuresEn": [
+      "Data drift, data quality and ML performance checks",
+      "Chatbot, RAG, agent and hallucination evaluations",
+      "Self-hosted dashboards and JSON/HTML snapshots"
+    ],
+    "accessFr": "Bibliothèque et interface auto-hébergées ; ancien cloud SaaS arrêté",
+    "accessEn": "Self-hosted library/UI; former cloud SaaS discontinued",
+    "officialSources": [
+      {
+        "url": "https://www.evidentlyai.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "product_access_and_status"
+      },
+      {
+        "url": "https://docs.evidentlyai.com/docs/setup/self-hosting",
+        "checkedAt": "2026-11-17",
+        "scope": "product_access_and_status"
+      },
+      {
+        "url": "https://www.evidentlyai.com/ml-monitoring",
+        "checkedAt": "2026-11-17",
+        "scope": "product_access_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Evidently est une bibliothèque open source d'évaluation des systèmes ML et LLM ; l'ancien SaaS Evidently Cloud a fermé, tandis que la plateforme et son interface peuvent être auto-hébergées.",
+      "audiences": [
+        "Ingénieurs ML/LLMOps, développeurs d'agents et équipes qualité",
+        "Responsables de supervision, sécurité et maîtrise du coût"
+      ],
+      "cases": [
+        "Suivre la dérive d'un classificateur et les évaluations d'un agent, avec rapports versionnés auto-hébergés.",
+        "Construire un ensemble de tests métier avec critères vérifiables, réponses de référence et contrôle des cas difficiles."
+      ],
+      "advantages": [
+        "Contrôles de dérive, qualité de données et performance ML",
+        "Évaluation des chatbots, RAG, agents et hallucinations",
+        "Tableaux de bord auto-hébergés et snapshots JSON/HTML"
+      ],
+      "limits": [
+        "Les docs officielles indiquent expressément qu'Evidently Cloud n'est plus offert en SaaS ; utiliser bibliothèque et UI auto-hébergée. Un drift statistique ne prouve pas automatiquement une baisse de qualité métier, et les juges LLM exigent validation.",
+        "Les juges LLM produisent des scores estimés, parfois biaisés ou instables ; vérifier avec des évaluations humaines et mesurer les régressions, les coûts et la latence."
+      ],
+      "gettingStarted": [
+        "Définir des métriques de référence, un corpus de tests représentatif et un budget de suivi.",
+        "Journaliser des essais fictifs ou anonymisés, comparer plusieurs versions, contrôler accès, rétention et coûts des juges avant production."
+      ],
+      "examples": [
+        "Compare deux versions de notre assistant RAG sur fidélité aux sources, précision de recherche, latence p95 et coûts, avec revue humaine des résultats divergents.",
+        "Propose des tests de régression et une alerte uniquement si une dérive ou un seuil qualité est confirmé sur des échantillons pertinents."
+      ],
+      "pricing": "Bibliothèque ou cœur open source ; coûts de modèles juges, infrastructure, support et services commerciaux distincts.",
+      "privacy": "Les traces peuvent contenir prompts, identifiants, réponses, documents et données personnelles ; masquer les contenus sensibles, protéger les clés, maîtriser la rétention et contrôler l'hébergement et les accès.",
+      "selection": [
+        "Choisir Evidently AI selon l'usage (oss_monitoring), la traçabilité, la reproductibilité, le contrôle des juges, l'auto-hébergement, les intégrations et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "saas_retired_oss_remains_available",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.evidentlyai.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://docs.evidentlyai.com/docs/setup/self-hosting",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.evidentlyai.com/ml-monitoring",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_cloud_retired_oss_active",
+    "name": "Evidently AI (open source)"
+  },
+  "fiddler-ai": {
+    "descriptionFr": "Fiddler AI est une plateforme commerciale de contrôle, observabilité, évaluation, enforcement et gouvernance des agents et modèles, incluant des protections des requêtes et réponses.",
+    "descriptionEn": "Fiddler AI is an enterprise control plane for monitoring, evaluating, enforcing and governing agents and models, including input/output safeguards.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Observabilité et évaluations des agents et modèles",
+      "Contrôles inline contre fuite de secrets, données sensibles et abus",
+      "Inventaire d'agents, traces d'audit et évaluateurs Centor"
+    ],
+    "featuresEn": [
+      "Agent and model observability and evaluations",
+      "Inline checks for secrets, sensitive data and abuse",
+      "Agent inventories, audit trails and Centor evaluators"
+    ],
+    "accessFr": "SaaS, API et/ou auto-hébergement selon contrat et produit",
+    "accessEn": "SaaS, APIs and/or self-hosting by product and contract",
+    "officialSources": [
+      {
+        "url": "https://www.fiddler.ai/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://www.fiddler.ai/control-plane",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Fiddler AI est une plateforme commerciale de contrôle, observabilité, évaluation, enforcement et gouvernance des agents et modèles, incluant des protections des requêtes et réponses.",
+      "audiences": [
+        "Ingénieurs ML/LLMOps, développeurs d'agents et équipes qualité",
+        "Responsables de supervision, sécurité et maîtrise du coût"
+      ],
+      "cases": [
+        "Mettre un contrôle de données sensibles sur un agent pilote et analyser ses faux positifs avant de bloquer un flux réel.",
+        "Construire un ensemble de tests métier avec critères vérifiables, réponses de référence et contrôle des cas difficiles."
+      ],
+      "advantages": [
+        "Observabilité et évaluations des agents et modèles",
+        "Contrôles inline contre fuite de secrets, données sensibles et abus",
+        "Inventaire d'agents, traces d'audit et évaluateurs Centor"
+      ],
+      "limits": [
+        "Les métriques de rapidité et précision mises en avant sont des résultats annoncés par l'éditeur. Les contrôles inline peuvent créer de faux blocages ou interruptions ; définir seuils, voies de recours, données envoyées et restrictions contractuelles.",
+        "Les juges LLM produisent des scores estimés, parfois biaisés ou instables ; vérifier avec des évaluations humaines et mesurer les régressions, les coûts et la latence."
+      ],
+      "gettingStarted": [
+        "Définir des métriques de référence, un corpus de tests représentatif et un budget de suivi.",
+        "Journaliser des essais fictifs ou anonymisés, comparer plusieurs versions, contrôler accès, rétention et coûts des juges avant production."
+      ],
+      "examples": [
+        "Compare deux versions de notre assistant RAG sur fidélité aux sources, précision de recherche, latence p95 et coûts, avec revue humaine des résultats divergents.",
+        "Propose des tests de régression et une alerte uniquement si une dérive ou un seuil qualité est confirmé sur des échantillons pertinents."
+      ],
+      "pricing": "Comparer tarifs SaaS/Enterprise, volume de traces, durée de rétention, évaluations, utilisateurs, stockage et coût des modèles juges auprès de l'éditeur.",
+      "privacy": "Les traces peuvent contenir prompts, identifiants, réponses, documents et données personnelles ; masquer les contenus sensibles, protéger les clés, maîtriser la rétention et contrôler l'hébergement et les accès.",
+      "selection": [
+        "Choisir Fiddler AI selon l'usage (enterprise_monitoring), la traçabilité, la reproductibilité, le contrôle des juges, l'auto-hébergement, les intégrations et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.fiddler.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.fiddler.ai/control-plane",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "comet": {
+    "descriptionFr": "Comet propose suivi d'expériences ML et Opik, projet open source de traçage, évaluation et optimisation des agents LLM, disponible en auto-hébergement ou sur le cloud.",
+    "descriptionEn": "Comet provides ML experiment tracking and Opik, an open-source agent tracing, evaluation and optimization product available self-hosted or in cloud.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Comet ML : expérience, métriques, modèles et artefacts",
+      "Opik : traces d'agents, évaluations, prompts et annotations",
+      "Opik MCP, Ollie et évaluation online avec règles"
+    ],
+    "featuresEn": [
+      "Comet ML experiments, metrics, models and artifacts",
+      "Opik agent traces, evals, prompts and annotations",
+      "Opik MCP, Ollie and rule-based online evaluation"
+    ],
+    "accessFr": "SaaS, API et/ou auto-hébergement selon contrat et produit",
+    "accessEn": "SaaS, APIs and/or self-hosting by product and contract",
+    "officialSources": [
+      {
+        "url": "https://www.comet.com/site/products/opik/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://www.comet.com/docs/opik/quickstart",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://www.comet.com/docs/opik/changelog",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Comet propose suivi d'expériences ML et Opik, projet open source de traçage, évaluation et optimisation des agents LLM, disponible en auto-hébergement ou sur le cloud.",
+      "audiences": [
+        "Ingénieurs ML/LLMOps, développeurs d'agents et équipes qualité",
+        "Responsables de supervision, sécurité et maîtrise du coût"
+      ],
+      "cases": [
+        "Suivre les paramètres d'entraînement d'un modèle et les traces de l'agent qui l'utilise, puis gérer les évaluations avec Opik.",
+        "Construire un ensemble de tests métier avec critères vérifiables, réponses de référence et contrôle des cas difficiles."
+      ],
+      "advantages": [
+        "Comet ML : expérience, métriques, modèles et artefacts",
+        "Opik : traces d'agents, évaluations, prompts et annotations",
+        "Opik MCP, Ollie et évaluation online avec règles"
+      ],
+      "limits": [
+        "Comet ML et Opik répondent à des besoins différents. Certaines évaluations automatisées utilisent des LLM payants ; vérifier la résidence, la conservation des traces et les permissions MCP. Les fonctions 2026 varient selon édition hébergée/OSS.",
+        "Les juges LLM produisent des scores estimés, parfois biaisés ou instables ; vérifier avec des évaluations humaines et mesurer les régressions, les coûts et la latence."
+      ],
+      "gettingStarted": [
+        "Définir des métriques de référence, un corpus de tests représentatif et un budget de suivi.",
+        "Journaliser des essais fictifs ou anonymisés, comparer plusieurs versions, contrôler accès, rétention et coûts des juges avant production."
+      ],
+      "examples": [
+        "Compare deux versions de notre assistant RAG sur fidélité aux sources, précision de recherche, latence p95 et coûts, avec revue humaine des résultats divergents.",
+        "Propose des tests de régression et une alerte uniquement si une dérive ou un seuil qualité est confirmé sur des échantillons pertinents."
+      ],
+      "pricing": "Comparer tarifs SaaS/Enterprise, volume de traces, durée de rétention, évaluations, utilisateurs, stockage et coût des modèles juges auprès de l'éditeur.",
+      "privacy": "Les traces peuvent contenir prompts, identifiants, réponses, documents et données personnelles ; masquer les contenus sensibles, protéger les clés, maîtriser la rétention et contrôler l'hébergement et les accès.",
+      "selection": [
+        "Choisir Comet selon l'usage (experiment_and_agent), la traçabilité, la reproductibilité, le contrôle des juges, l'auto-hébergement, les intégrations et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "comet_ml_and_opik_distinct",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.comet.com/site/products/opik/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.comet.com/docs/opik/quickstart",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.comet.com/docs/opik/changelog",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_products_distinguished",
+    "name": "Comet / Opik"
+  },
+  "neptune-ai": {
+    "descriptionFr": "Ancien service Neptune.ai de suivi d'expériences ML, définitivement arrêté le 6 mars 2026 après acquisition par OpenAI ; ses services hébergés et API ne fonctionnent plus.",
+    "descriptionEn": "Former Neptune.ai ML experiment tracking service permanently shut down on March 6, 2026 following acquisition by OpenAI; hosted services and APIs are unavailable.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Suivi de runs ML et métriques (historique)",
+      "Projets et artefacts Neptune hébergés (historiques)",
+      "Service SaaS définitivement fermé et données supprimées"
+    ],
+    "featuresEn": [
+      "Historical ML runs and metrics tracking",
+      "Historical hosted projects and artifacts",
+      "SaaS permanently shut down and data deleted"
+    ],
+    "accessFr": "Service définitivement fermé — fiche historique",
+    "accessEn": "Permanently shut down — historical profile",
+    "officialSources": [
+      {
+        "url": "https://support.neptune.ai/en/articles/13925165-service-shutdown-overview",
+        "checkedAt": "2026-11-17",
+        "scope": "official_shutdown_and_migration"
+      },
+      {
+        "url": "https://docs.neptune.ai/transition_hub",
+        "checkedAt": "2026-11-17",
+        "scope": "official_shutdown_and_migration"
+      }
+    ],
+    "research": {
+      "headline": "Ancien service Neptune.ai de suivi d'expériences ML, définitivement arrêté le 6 mars 2026 après acquisition par OpenAI ; ses services hébergés et API ne fonctionnent plus.",
+      "audiences": [
+        "Analystes étudiant les anciens outils MLOps",
+        "Responsables de supervision, sécurité et maîtrise du coût"
+      ],
+      "cases": [
+        "Consulter cette fiche comme archive et sélectionner un outil actif de suivi des expériences pour tout nouveau projet.",
+        "Construire un ensemble de tests métier avec critères vérifiables, réponses de référence et contrôle des cas difficiles."
+      ],
+      "advantages": [
+        "Suivi de runs ML et métriques (historique)",
+        "Projets et artefacts Neptune hébergés (historiques)",
+        "Service SaaS définitivement fermé et données supprimées"
+      ],
+      "limits": [
+        "Neptune indique que son service SaaS a cessé le 6 mars 2026 à 12:00 UTC, sans rétablissement de la connexion, de l'API ni récupération des données, supprimées définitivement. Les déploiements auto-hébergés ont fait l'objet de transitions séparées ; ne pas conseiller d'export aujourd'hui.",
+        "Les juges LLM produisent des scores estimés, parfois biaisés ou instables ; vérifier avec des évaluations humaines et mesurer les régressions, les coûts et la latence."
+      ],
+      "gettingStarted": [
+        "Ne pas créer de nouveau projet Neptune.ai ; choisir un outil actif et documenter les anciennes dépendances.",
+        "Journaliser des essais fictifs ou anonymisés, comparer plusieurs versions, contrôler accès, rétention et coûts des juges avant production."
+      ],
+      "examples": [
+        "Compare deux versions de notre assistant RAG sur fidélité aux sources, précision de recherche, latence p95 et coûts, avec revue humaine des résultats divergents.",
+        "Propose des tests de régression et une alerte uniquement si une dérive ou un seuil qualité est confirmé sur des échantillons pertinents."
+      ],
+      "pricing": "Service SaaS fermé ; aucune inscription ni restauration des anciens projets possible.",
+      "privacy": "Les traces peuvent contenir prompts, identifiants, réponses, documents et données personnelles ; masquer les contenus sensibles, protéger les clés, maîtriser la rétention et contrôler l'hébergement et les accès.",
+      "selection": [
+        "Choisir Neptune.ai selon l'usage (historical), la traçabilité, la reproductibilité, le contrôle des juges, l'auto-hébergement, les intégrations et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "discontinued",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://support.neptune.ai/en/articles/13925165-service-shutdown-overview",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://docs.neptune.ai/transition_hub",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_discontinued",
+    "name": "Neptune.ai (service arrêté)",
+    "url": "",
+    "availabilityStatus": "discontinued"
+  },
+  "dvc": {
+    "descriptionFr": "DVC (Data Version Control) permet de versionner les jeux de données et modèles aux côtés de Git, décrire des pipelines reproductibles et comparer des expériences.",
+    "descriptionEn": "DVC (Data Version Control) versions datasets and models alongside Git, defines reproducible pipelines and compares experiments.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Versionnement des fichiers volumineux via métadonnées Git",
+      "Pipelines, dépendances et métriques reproductibles",
+      "DVC Experiments, remote storage et collaboration"
+    ],
+    "featuresEn": [
+      "Git-associated large-file dataset versioning",
+      "Reproducible pipeline dependencies and metrics",
+      "DVC Experiments, remote storage and collaboration"
+    ],
+    "accessFr": "CLI open source, stockage distant et dépôts Git",
+    "accessEn": "Open-source CLI, remote data storage and Git",
+    "officialSources": [
+      {
+        "url": "https://doc.dvc.org/user-guide/experiment-management",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://dvc.org/doc",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://doc.dvc.org/start/experiments/experiment-pipelines",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "DVC (Data Version Control) permet de versionner les jeux de données et modèles aux côtés de Git, décrire des pipelines reproductibles et comparer des expériences.",
+      "audiences": [
+        "Data scientists, ingénieurs des données et équipes Git",
+        "Responsables de supervision, sécurité et maîtrise du coût"
+      ],
+      "cases": [
+        "Versionner un corpus de documents et son pipeline d'embeddings tout en gardant des métadonnées de commit reproductibles.",
+        "Construire un ensemble de tests métier avec critères vérifiables, réponses de référence et contrôle des cas difficiles."
+      ],
+      "advantages": [
+        "Versionnement des fichiers volumineux via métadonnées Git",
+        "Pipelines, dépendances et métriques reproductibles",
+        "DVC Experiments, remote storage et collaboration"
+      ],
+      "limits": [
+        "DVC ne remplace ni Git ni un stockage de données : il conserve des pointeurs et utilise un remote pour les fichiers. Les expériences DVC ne sont pas envoyées au dépôt distant par défaut ; exécuter explicitement les commandes de partage.",
+        "Les juges LLM produisent des scores estimés, parfois biaisés ou instables ; vérifier avec des évaluations humaines et mesurer les régressions, les coûts et la latence."
+      ],
+      "gettingStarted": [
+        "Définir des métriques de référence, un corpus de tests représentatif et un budget de suivi.",
+        "Journaliser des essais fictifs ou anonymisés, comparer plusieurs versions, contrôler accès, rétention et coûts des juges avant production."
+      ],
+      "examples": [
+        "Compare deux versions de notre assistant RAG sur fidélité aux sources, précision de recherche, latence p95 et coûts, avec revue humaine des résultats divergents.",
+        "Propose des tests de régression et une alerte uniquement si une dérive ou un seuil qualité est confirmé sur des échantillons pertinents."
+      ],
+      "pricing": "Comparer tarifs SaaS/Enterprise, volume de traces, durée de rétention, évaluations, utilisateurs, stockage et coût des modèles juges auprès de l'éditeur.",
+      "privacy": "Les traces peuvent contenir prompts, identifiants, réponses, documents et données personnelles ; masquer les contenus sensibles, protéger les clés, maîtriser la rétention et contrôler l'hébergement et les accès.",
+      "selection": [
+        "Choisir DVC selon l'usage (data_versioning), la traçabilité, la reproductibilité, le contrôle des juges, l'auto-hébergement, les intégrations et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://doc.dvc.org/user-guide/experiment-management",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://dvc.org/doc",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://doc.dvc.org/start/experiments/experiment-pipelines",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "clearml": {
+    "descriptionFr": "Plateforme ClearML pour suivi des expérimentations, versionnement des données, orchestration GPU, pipelines et déploiement de modèles avec serveur et agents d'exécution.",
+    "descriptionEn": "ClearML platform for experiments, dataset versions, GPU orchestration, pipelines and model deployment using server and execution agents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "ClearML SDK/Server pour runs, modèles et métriques",
+      "ClearML Agent, queues et exécutions reproductibles",
+      "ClearML Data, Pipelines, Serving et autoscaling"
+    ],
+    "featuresEn": [
+      "ClearML SDK/Server for runs, models and metrics",
+      "ClearML Agent queues and reproducible runs",
+      "ClearML Data, Pipelines, Serving and autoscaling"
+    ],
+    "accessFr": "Open source auto-hébergé et offres Pro/Enterprise",
+    "accessEn": "Self-hosted open source and Pro/Enterprise plans",
+    "officialSources": [
+      {
+        "url": "https://clear.ml/docs/latest/docs/getting_started/architecture/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://clear.ml/docs/latest/docs/fundamentals/agents_and_queues/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      },
+      {
+        "url": "https://clear.ml/docs/latest/docs/webapp/webapp_workers_queues/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme ClearML pour suivi des expérimentations, versionnement des données, orchestration GPU, pipelines et déploiement de modèles avec serveur et agents d'exécution.",
+      "audiences": [
+        "Ingénieurs ML/LLMOps, développeurs d'agents et équipes qualité",
+        "Responsables de supervision, sécurité et maîtrise du coût"
+      ],
+      "cases": [
+        "Exécuter plusieurs entraînements sur des GPU autorisés avec paramètres versionnés et comparer leurs résultats en équipe.",
+        "Construire un ensemble de tests métier avec critères vérifiables, réponses de référence et contrôle des cas difficiles."
+      ],
+      "advantages": [
+        "ClearML SDK/Server pour runs, modèles et métriques",
+        "ClearML Agent, queues et exécutions reproductibles",
+        "ClearML Data, Pipelines, Serving et autoscaling"
+      ],
+      "limits": [
+        "Les modules open source et les offres Pro/Enterprise ont des fonctionnalités distinctes ; les autoscalers sont liés aux licences payantes. ClearML Agent peut cloner du code et lancer des conteneurs : protéger dépôts, secrets, queues, images et rôles.",
+        "Les juges LLM produisent des scores estimés, parfois biaisés ou instables ; vérifier avec des évaluations humaines et mesurer les régressions, les coûts et la latence."
+      ],
+      "gettingStarted": [
+        "Définir des métriques de référence, un corpus de tests représentatif et un budget de suivi.",
+        "Journaliser des essais fictifs ou anonymisés, comparer plusieurs versions, contrôler accès, rétention et coûts des juges avant production."
+      ],
+      "examples": [
+        "Compare deux versions de notre assistant RAG sur fidélité aux sources, précision de recherche, latence p95 et coûts, avec revue humaine des résultats divergents.",
+        "Propose des tests de régression et une alerte uniquement si une dérive ou un seuil qualité est confirmé sur des échantillons pertinents."
+      ],
+      "pricing": "Comparer tarifs SaaS/Enterprise, volume de traces, durée de rétention, évaluations, utilisateurs, stockage et coût des modèles juges auprès de l'éditeur.",
+      "privacy": "Les traces peuvent contenir prompts, identifiants, réponses, documents et données personnelles ; masquer les contenus sensibles, protéger les clés, maîtriser la rétention et contrôler l'hébergement et les accès.",
+      "selection": [
+        "Choisir ClearML selon l'usage (mlops_orchestration), la traçabilité, la reproductibilité, le contrôle des juges, l'auto-hébergement, les intégrations et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://clear.ml/docs/latest/docs/getting_started/architecture/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://clear.ml/docs/latest/docs/fundamentals/agents_and_queues/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://clear.ml/docs/latest/docs/webapp/webapp_workers_queues/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  }
+}
