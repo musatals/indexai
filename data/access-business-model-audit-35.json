@@ -1,0 +1,32 @@
+{
+  "wondercraft": {
+    "accessFr": "Studio Web de création de contenus audio et vidéo IA",
+    "accessEn": "Web studio for AI-created audio and video",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Crédits gratuits limités et formules payantes ; les générations de voix, images, vidéo et musique consomment des crédits.",
+      "en": "Limited free credits and paid plans; voice, image, video and music generation uses credits.",
+      "sourceUrl": "https://www.wondercraft.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-35"
+  },
+  "alitu": {
+    "accessFr": "Service Web de production, édition et hébergement de podcasts",
+    "accessEn": "Web service for podcast production, editing and hosting",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Période d’essai suivie d’un abonnement ; hébergement podcast susceptible d’entraîner des frais supplémentaires.",
+      "en": "Trial followed by a subscription; podcast hosting may incur additional fees.",
+      "sourceUrl": "https://alitu.com/pricing-alitu",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-35"
+  }
+}
