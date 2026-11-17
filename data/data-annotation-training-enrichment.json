@@ -1,0 +1,1697 @@
+{
+  "label-studio": {
+    "descriptionFr": "Plateforme d'annotation multimodale open source de HumanSignal pour texte, images, audio, vidéo et séries temporelles, avec pré-annotation ML et offres collaboratives Enterprise.",
+    "descriptionEn": "HumanSignal open-source multimodal labeling platform for text, images, audio, video and time series with ML prelabeling and enterprise collaboration.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Éditeur d'annotation configurable et modèles de tâches",
+      "Prédictions et pré-annotations via backend ML",
+      "Édition Community distincte des contrôles RBAC/SSO Enterprise"
+    ],
+    "featuresEn": [
+      "Configurable labeling UI and task templates",
+      "Predictions and pre-annotations via ML backends",
+      "Community edition separate from Enterprise RBAC/SSO controls"
+    ],
+    "accessFr": "Open source, cloud et/ou service d'annotation expert selon produit",
+    "accessEn": "Open source, cloud and/or expert labeling service by product",
+    "officialSources": [
+      {
+        "url": "https://labelstud.io/guide/label_studio_compare",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      },
+      {
+        "url": "https://labelstud.io/guide/get_started",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      },
+      {
+        "url": "https://labelstud.io/blog/vibe-code-any-labeling-or-evaluation-interface-with-label-studio-enterprise/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme d'annotation multimodale open source de HumanSignal pour texte, images, audio, vidéo et séries temporelles, avec pré-annotation ML et offres collaboratives Enterprise.",
+      "audiences": [
+        "Équipes d'annotation, responsables de corpus et ingénieurs de données",
+        "Organisations devant maîtriser la qualité, la provenance et la confidentialité des données"
+      ],
+      "cases": [
+        "Annoter une centaine d'images pédagogiques en double lecture et résoudre les divergences avant d'entraîner un modèle.",
+        "Conserver des partitions entraînement/validation/test indépendantes et un registre des règles d'annotation ou d'entraînement."
+      ],
+      "advantages": [
+        "Éditeur d'annotation configurable et modèles de tâches",
+        "Prédictions et pré-annotations via backend ML",
+        "Édition Community distincte des contrôles RBAC/SSO Enterprise"
+      ],
+      "limits": [
+        "La Community Edition ne propose pas les mêmes contrôles de droits, revue et conformité que l'Enterprise. Les pré-annotations IA peuvent augmenter les biais : prévoir un guide de labellisation, un audit d'accord inter-annotateurs et des échantillons vérifiés.",
+        "La qualité et la représentativité des données, les droits d'usage et les tests indépendants conditionnent la pertinence du modèle ; l'automatisation ne supprime pas ces obligations."
+      ],
+      "gettingStarted": [
+        "Définir une taxonomie, une charte d'annotation et les conditions de traitement des données.",
+        "Créer un échantillon de référence, tester le pipeline, contrôler les biais/erreurs et documenter versions, dépenses et licences."
+      ],
+      "examples": [
+        "Établis une charte d'annotation avec exemples positifs, contre-exemples, traitement des cas ambigus et procédure d'arbitrage.",
+        "Propose une grille d'évaluation sur un jeu jamais vu et une vérification des droits et données personnelles."
+      ],
+      "pricing": "Comparer offre communautaire, licences entreprise, annotation interne/externalisée, nombre d'items, stockage, intégrations et coûts de relecture.",
+      "privacy": "Vérifier droits sur les données et images, consentement, données personnelles, confidentialité des corpus, partage aux annotateurs, résidence, suppression et risques de mémorisation des modèles.",
+      "selection": [
+        "Choisir Label Studio selon le besoin (annotation_oss), le contrôle qualité, les formats de données, les licences, la reproductibilité, le matériel et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://labelstud.io/guide/label_studio_compare",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://labelstud.io/guide/get_started",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://labelstud.io/blog/vibe-code-any-labeling-or-evaluation-interface-with-label-studio-enterprise/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "labelbox": {
+    "descriptionFr": "Plateforme de données expertes pour entraîner et évaluer les modèles IA de pointe, associant annotateurs spécialisés, rubriques d'évaluation et workflows de contrôle qualité.",
+    "descriptionEn": "Expert-data platform for frontier AI training and evaluation, combining specialist labelers, scoring rubrics and quality-assurance workflows.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Feedback expert, comparaisons de préférences et évaluations",
+      "Données multimodales et critères de qualité par domaine",
+      "Services de collecte, traitement et revue à grande échelle"
+    ],
+    "featuresEn": [
+      "Expert feedback, preference comparisons and evaluation rubrics",
+      "Multimodal domain-specific data and QA criteria",
+      "Large-scale collection, processing and review services"
+    ],
+    "accessFr": "Open source, cloud et/ou service d'annotation expert selon produit",
+    "accessEn": "Open source, cloud and/or expert labeling service by product",
+    "officialSources": [
+      {
+        "url": "https://labelbox.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      },
+      {
+        "url": "https://labelbox.com/company/press/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de données expertes pour entraîner et évaluer les modèles IA de pointe, associant annotateurs spécialisés, rubriques d'évaluation et workflows de contrôle qualité.",
+      "audiences": [
+        "Équipes d'annotation, responsables de corpus et ingénieurs de données",
+        "Organisations devant maîtriser la qualité, la provenance et la confidentialité des données"
+      ],
+      "cases": [
+        "Construire une grille d'évaluation experte pour un assistant juridique et mesurer l'accord entre évaluateurs.",
+        "Conserver des partitions entraînement/validation/test indépendantes et un registre des règles d'annotation ou d'entraînement."
+      ],
+      "advantages": [
+        "Feedback expert, comparaisons de préférences et évaluations",
+        "Données multimodales et critères de qualité par domaine",
+        "Services de collecte, traitement et revue à grande échelle"
+      ],
+      "limits": [
+        "Labelbox met désormais fortement l'accent sur les données expertes pour le post-entraînement et l'évaluation, au-delà de son ancien positionnement annotation seule. La qualité annoncée par l'éditeur ne garantit pas la représentativité ni le consensus ; les prestations et l'accès dépendent du contrat.",
+        "La qualité et la représentativité des données, les droits d'usage et les tests indépendants conditionnent la pertinence du modèle ; l'automatisation ne supprime pas ces obligations."
+      ],
+      "gettingStarted": [
+        "Définir une taxonomie, une charte d'annotation et les conditions de traitement des données.",
+        "Créer un échantillon de référence, tester le pipeline, contrôler les biais/erreurs et documenter versions, dépenses et licences."
+      ],
+      "examples": [
+        "Établis une charte d'annotation avec exemples positifs, contre-exemples, traitement des cas ambigus et procédure d'arbitrage.",
+        "Propose une grille d'évaluation sur un jeu jamais vu et une vérification des droits et données personnelles."
+      ],
+      "pricing": "Comparer offre communautaire, licences entreprise, annotation interne/externalisée, nombre d'items, stockage, intégrations et coûts de relecture.",
+      "privacy": "Vérifier droits sur les données et images, consentement, données personnelles, confidentialité des corpus, partage aux annotateurs, résidence, suppression et risques de mémorisation des modèles.",
+      "selection": [
+        "Choisir Labelbox selon le besoin (expert_data), le contrôle qualité, les formats de données, les licences, la reproductibilité, le matériel et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://labelbox.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://labelbox.com/company/press/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "scale-ai": {
+    "descriptionFr": "Plateforme et service Scale Data Engine pour collecter, annoter, organiser et évaluer des données de texte, images, vidéos et capteurs 3D destinées à l'entraînement de modèles.",
+    "descriptionEn": "Scale Data Engine platform and service for collecting, annotating, curating and evaluating text, image, video and 3D sensor data for model training.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Annotation et contrôle qualité par spécialistes",
+      "RLHF, données de préférence, évaluations et red teaming",
+      "Données LiDAR, vidéo, documents et pipelines multimodaux"
+    ],
+    "featuresEn": [
+      "Expert annotation and quality review",
+      "RLHF, preference data, evaluations and red teaming",
+      "LiDAR, video, documents and multimodal pipelines"
+    ],
+    "accessFr": "Open source, cloud et/ou service d'annotation expert selon produit",
+    "accessEn": "Open source, cloud and/or expert labeling service by product",
+    "officialSources": [
+      {
+        "url": "https://scale.com/data-engine",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      },
+      {
+        "url": "https://scale.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme et service Scale Data Engine pour collecter, annoter, organiser et évaluer des données de texte, images, vidéos et capteurs 3D destinées à l'entraînement de modèles.",
+      "audiences": [
+        "Équipes d'annotation, responsables de corpus et ingénieurs de données",
+        "Organisations devant maîtriser la qualité, la provenance et la confidentialité des données"
+      ],
+      "cases": [
+        "Établir des critères de vérité terrain pour un jeu d'images de véhicules et examiner les erreurs par situation.",
+        "Conserver des partitions entraînement/validation/test indépendantes et un registre des règles d'annotation ou d'entraînement."
+      ],
+      "advantages": [
+        "Annotation et contrôle qualité par spécialistes",
+        "RLHF, données de préférence, évaluations et red teaming",
+        "Données LiDAR, vidéo, documents et pipelines multimodaux"
+      ],
+      "limits": [
+        "Les données et évaluations de Scale ne constituent pas des garanties universelles de sûreté. Contrôler confidentialité des corpus, conditions de sous-traitance, provenance et diversité des experts ; déploiement et prix sur contrat.",
+        "La qualité et la représentativité des données, les droits d'usage et les tests indépendants conditionnent la pertinence du modèle ; l'automatisation ne supprime pas ces obligations."
+      ],
+      "gettingStarted": [
+        "Définir une taxonomie, une charte d'annotation et les conditions de traitement des données.",
+        "Créer un échantillon de référence, tester le pipeline, contrôler les biais/erreurs et documenter versions, dépenses et licences."
+      ],
+      "examples": [
+        "Établis une charte d'annotation avec exemples positifs, contre-exemples, traitement des cas ambigus et procédure d'arbitrage.",
+        "Propose une grille d'évaluation sur un jeu jamais vu et une vérification des droits et données personnelles."
+      ],
+      "pricing": "Comparer offre communautaire, licences entreprise, annotation interne/externalisée, nombre d'items, stockage, intégrations et coûts de relecture.",
+      "privacy": "Vérifier droits sur les données et images, consentement, données personnelles, confidentialité des corpus, partage aux annotateurs, résidence, suppression et risques de mémorisation des modèles.",
+      "selection": [
+        "Choisir Scale AI selon le besoin (expert_data), le contrôle qualité, les formats de données, les licences, la reproductibilité, le matériel et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://scale.com/data-engine",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://scale.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "snorkel-ai": {
+    "descriptionFr": "Snorkel AI s'oriente vers un laboratoire de données expertes pour l'évaluation et le post-entraînement de modèles, tout en documentant Snorkel Flow et ses méthodes de supervision faible.",
+    "descriptionEn": "Snorkel AI now emphasizes expert data for frontier-model evaluation and post-training while still documenting Snorkel Flow and weak-supervision approaches.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Données expertes, rubriques et vérificateurs de tâches",
+      "Supervision faible et active learning dans Snorkel Flow",
+      "Analyse de défaillances, évaluations et données de post-entraînement"
+    ],
+    "featuresEn": [
+      "Expert data, rubrics and task verifiers",
+      "Weak supervision and active learning in Snorkel Flow",
+      "Failure analysis, evaluations and post-training datasets"
+    ],
+    "accessFr": "Open source, cloud et/ou service d'annotation expert selon produit",
+    "accessEn": "Open source, cloud and/or expert labeling service by product",
+    "officialSources": [
+      {
+        "url": "https://snorkel.ai/frequently-asked-questions/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      },
+      {
+        "url": "https://docs.snorkel.ai/docs/25.4/user-guide/intro/active-learning-weak-supervision/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      },
+      {
+        "url": "https://snorkel.ai/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Snorkel AI s'oriente vers un laboratoire de données expertes pour l'évaluation et le post-entraînement de modèles, tout en documentant Snorkel Flow et ses méthodes de supervision faible.",
+      "audiences": [
+        "Équipes d'annotation, responsables de corpus et ingénieurs de données",
+        "Organisations devant maîtriser la qualité, la provenance et la confidentialité des données"
+      ],
+      "cases": [
+        "Définir des règles de labellisation pour un corpus puis faire vérifier par des experts les cas incertains.",
+        "Conserver des partitions entraînement/validation/test indépendantes et un registre des règles d'annotation ou d'entraînement."
+      ],
+      "advantages": [
+        "Données expertes, rubriques et vérificateurs de tâches",
+        "Supervision faible et active learning dans Snorkel Flow",
+        "Analyse de défaillances, évaluations et données de post-entraînement"
+      ],
+      "limits": [
+        "Snorkel indique en 2026 qu'il n'est plus principalement un outil de labellisation self-service ; ne pas présenter Snorkel Flow comme une offre grand public sans vérification. Les règles de supervision faible peuvent propager les erreurs et nécessitent un jeu de référence indépendant.",
+        "La qualité et la représentativité des données, les droits d'usage et les tests indépendants conditionnent la pertinence du modèle ; l'automatisation ne supprime pas ces obligations."
+      ],
+      "gettingStarted": [
+        "Définir une taxonomie, une charte d'annotation et les conditions de traitement des données.",
+        "Créer un échantillon de référence, tester le pipeline, contrôler les biais/erreurs et documenter versions, dépenses et licences."
+      ],
+      "examples": [
+        "Établis une charte d'annotation avec exemples positifs, contre-exemples, traitement des cas ambigus et procédure d'arbitrage.",
+        "Propose une grille d'évaluation sur un jeu jamais vu et une vérification des droits et données personnelles."
+      ],
+      "pricing": "Comparer offre communautaire, licences entreprise, annotation interne/externalisée, nombre d'items, stockage, intégrations et coûts de relecture.",
+      "privacy": "Vérifier droits sur les données et images, consentement, données personnelles, confidentialité des corpus, partage aux annotateurs, résidence, suppression et risques de mémorisation des modèles.",
+      "selection": [
+        "Choisir Snorkel AI selon le besoin (programmatic_labeling), le contrôle qualité, les formats de données, les licences, la reproductibilité, le matériel et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "repositioned_as_frontier_expert_data",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://snorkel.ai/frequently-asked-questions/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://docs.snorkel.ai/docs/25.4/user-guide/intro/active-learning-weak-supervision/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://snorkel.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_repositioned",
+    "name": "Snorkel AI (Expert Data)"
+  },
+  "argilla": {
+    "descriptionFr": "Argilla, projet open source rattaché à Hugging Face, permet la collecte collaborative de feedback humain et l'annotation de textes, préférences LLM et tâches multimodales.",
+    "descriptionEn": "Argilla, a Hugging Face-affiliated open-source project, enables collaborative human feedback and annotation for text, LLM preferences and multimodal tasks.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Datasets, records, questions et feedback structuré",
+      "Workspaces, utilisateurs et API Python",
+      "Auto-hébergement Docker ou déploiement sur Hugging Face"
+    ],
+    "featuresEn": [
+      "Datasets, records, questions and structured feedback",
+      "Workspaces, users and Python API",
+      "Docker self-hosting or Hugging Face deployment"
+    ],
+    "accessFr": "Open source, cloud et/ou service d'annotation expert selon produit",
+    "accessEn": "Open source, cloud and/or expert labeling service by product",
+    "officialSources": [
+      {
+        "url": "https://docs.argilla.io/latest/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      },
+      {
+        "url": "https://argilla.io/blog/argilla-joins-hugggingface/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      },
+      {
+        "url": "https://github.com/argilla-io/argilla",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Argilla, projet open source rattaché à Hugging Face, permet la collecte collaborative de feedback humain et l'annotation de textes, préférences LLM et tâches multimodales.",
+      "audiences": [
+        "Équipes d'annotation, responsables de corpus et ingénieurs de données",
+        "Organisations devant maîtriser la qualité, la provenance et la confidentialité des données"
+      ],
+      "cases": [
+        "Faire annoter des réponses d'un assistant par deux experts et constituer un jeu de préférences pour l'évaluation.",
+        "Conserver des partitions entraînement/validation/test indépendantes et un registre des règles d'annotation ou d'entraînement."
+      ],
+      "advantages": [
+        "Datasets, records, questions et feedback structuré",
+        "Workspaces, utilisateurs et API Python",
+        "Auto-hébergement Docker ou déploiement sur Hugging Face"
+      ],
+      "limits": [
+        "L'intégration à Hugging Face date de 2024 et ne signifie pas arrêt du projet : le dépôt reste actif. Contrôler versions d'API v1/v2, règles de confidentialité et droits d'accès aux espaces et exports.",
+        "La qualité et la représentativité des données, les droits d'usage et les tests indépendants conditionnent la pertinence du modèle ; l'automatisation ne supprime pas ces obligations."
+      ],
+      "gettingStarted": [
+        "Définir une taxonomie, une charte d'annotation et les conditions de traitement des données.",
+        "Créer un échantillon de référence, tester le pipeline, contrôler les biais/erreurs et documenter versions, dépenses et licences."
+      ],
+      "examples": [
+        "Établis une charte d'annotation avec exemples positifs, contre-exemples, traitement des cas ambigus et procédure d'arbitrage.",
+        "Propose une grille d'évaluation sur un jeu jamais vu et une vérification des droits et données personnelles."
+      ],
+      "pricing": "Comparer offre communautaire, licences entreprise, annotation interne/externalisée, nombre d'items, stockage, intégrations et coûts de relecture.",
+      "privacy": "Vérifier droits sur les données et images, consentement, données personnelles, confidentialité des corpus, partage aux annotateurs, résidence, suppression et risques de mémorisation des modèles.",
+      "selection": [
+        "Choisir Argilla selon le besoin (annotation_oss), le contrôle qualité, les formats de données, les licences, la reproductibilité, le matériel et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "hugging_face_project_active",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.argilla.io/latest/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://argilla.io/blog/argilla-joins-hugggingface/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://github.com/argilla-io/argilla",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_acquired_active",
+    "name": "Argilla (Hugging Face)"
+  },
+  "roboflow": {
+    "descriptionFr": "Plateforme de création de jeux d'images/vidéos annotés, d'entraînement et de déploiement de modèles de vision, incluant Roboflow Annotate, Workflows et RF-DETR.",
+    "descriptionEn": "Computer vision platform for annotating image/video datasets, training and deploying models through Roboflow Annotate, Workflows and RF-DETR.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Annotation d'objets, segments, points clés et gestion des versions",
+      "Entraînement RF-DETR pour détection, segmentation et keypoints",
+      "Déploiement cloud/edge et Workflows visuels"
+    ],
+    "featuresEn": [
+      "Object, mask, keypoint annotation and dataset versions",
+      "RF-DETR detection, segmentation and keypoint training",
+      "Cloud/edge deployment and visual Workflows"
+    ],
+    "accessFr": "Open source, cloud et/ou service d'annotation expert selon produit",
+    "accessEn": "Open source, cloud and/or expert labeling service by product",
+    "officialSources": [
+      {
+        "url": "https://roboflow.com/blog/getting-started-with-roboflow",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      },
+      {
+        "url": "https://rfdetr.roboflow.com/learn/train/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      },
+      {
+        "url": "https://roboflow.com/model-licenses/rf-detr",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de création de jeux d'images/vidéos annotés, d'entraînement et de déploiement de modèles de vision, incluant Roboflow Annotate, Workflows et RF-DETR.",
+      "audiences": [
+        "Équipes d'annotation, responsables de corpus et ingénieurs de données",
+        "Organisations devant maîtriser la qualité, la provenance et la confidentialité des données"
+      ],
+      "cases": [
+        "Créer un modèle de reconnaissance d'objets scolaires avec classes équilibrées et mesurer mAP sur un test indépendant.",
+        "Conserver des partitions entraînement/validation/test indépendantes et un registre des règles d'annotation ou d'entraînement."
+      ],
+      "advantages": [
+        "Annotation d'objets, segments, points clés et gestion des versions",
+        "Entraînement RF-DETR pour détection, segmentation et keypoints",
+        "Déploiement cloud/edge et Workflows visuels"
+      ],
+      "limits": [
+        "RF-DETR possède des conditions de licence distinctes selon l'usage et la version ; vérifier le droit de déploiement commercial. Prévenir les fuites entre entraînement/test, vérifier qualité des masques et performance sur appareils cibles.",
+        "La qualité et la représentativité des données, les droits d'usage et les tests indépendants conditionnent la pertinence du modèle ; l'automatisation ne supprime pas ces obligations."
+      ],
+      "gettingStarted": [
+        "Définir une taxonomie, une charte d'annotation et les conditions de traitement des données.",
+        "Créer un échantillon de référence, tester le pipeline, contrôler les biais/erreurs et documenter versions, dépenses et licences."
+      ],
+      "examples": [
+        "Établis une charte d'annotation avec exemples positifs, contre-exemples, traitement des cas ambigus et procédure d'arbitrage.",
+        "Propose une grille d'évaluation sur un jeu jamais vu et une vérification des droits et données personnelles."
+      ],
+      "pricing": "Comparer offre communautaire, licences entreprise, annotation interne/externalisée, nombre d'items, stockage, intégrations et coûts de relecture.",
+      "privacy": "Vérifier droits sur les données et images, consentement, données personnelles, confidentialité des corpus, partage aux annotateurs, résidence, suppression et risques de mémorisation des modèles.",
+      "selection": [
+        "Choisir Roboflow selon le besoin (vision_platform), le contrôle qualité, les formats de données, les licences, la reproductibilité, le matériel et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://roboflow.com/blog/getting-started-with-roboflow",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://rfdetr.roboflow.com/learn/train/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://roboflow.com/model-licenses/rf-detr",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "superannotate": {
+    "descriptionFr": "SuperAnnotate est une infrastructure de données multimodales pour annotation, évaluation des agents et orchestration de corpus, avec versionnement, revue et interventions humaines.",
+    "descriptionEn": "SuperAnnotate is multimodal AI data infrastructure for annotation, agent evaluation and dataset orchestration with versioning, review and human oversight.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Annotation texte, images, vidéo, audio et trajectoires d'agents",
+      "Préférences RLHF, rubriques de validation et QA",
+      "Gestion des versions, lignée des jeux de données et agents"
+    ],
+    "featuresEn": [
+      "Text, image, video, audio and agent trajectory labeling",
+      "RLHF preferences, rubrics and QA",
+      "Dataset versioning, lineage and agent workflows"
+    ],
+    "accessFr": "Open source, cloud et/ou service d'annotation expert selon produit",
+    "accessEn": "Open source, cloud and/or expert labeling service by product",
+    "officialSources": [
+      {
+        "url": "https://www.superannotate.com/platform",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      },
+      {
+        "url": "https://www.superannotate.com/agent-hub",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      }
+    ],
+    "research": {
+      "headline": "SuperAnnotate est une infrastructure de données multimodales pour annotation, évaluation des agents et orchestration de corpus, avec versionnement, revue et interventions humaines.",
+      "audiences": [
+        "Équipes d'annotation, responsables de corpus et ingénieurs de données",
+        "Organisations devant maîtriser la qualité, la provenance et la confidentialité des données"
+      ],
+      "cases": [
+        "Évaluer les trajectoires d'un agent de recherche à l'aide de rubriques et comparer les résultats annotés manuellement.",
+        "Conserver des partitions entraînement/validation/test indépendantes et un registre des règles d'annotation ou d'entraînement."
+      ],
+      "advantages": [
+        "Annotation texte, images, vidéo, audio et trajectoires d'agents",
+        "Préférences RLHF, rubriques de validation et QA",
+        "Gestion des versions, lignée des jeux de données et agents"
+      ],
+      "limits": [
+        "Les évaluations et pré-annotations automatiques n'éliminent pas les erreurs des annotateurs ; établir des critères, une double revue et un contrôle de dérive. Les fonctions et accès entreprise sont contractuels.",
+        "La qualité et la représentativité des données, les droits d'usage et les tests indépendants conditionnent la pertinence du modèle ; l'automatisation ne supprime pas ces obligations."
+      ],
+      "gettingStarted": [
+        "Définir une taxonomie, une charte d'annotation et les conditions de traitement des données.",
+        "Créer un échantillon de référence, tester le pipeline, contrôler les biais/erreurs et documenter versions, dépenses et licences."
+      ],
+      "examples": [
+        "Établis une charte d'annotation avec exemples positifs, contre-exemples, traitement des cas ambigus et procédure d'arbitrage.",
+        "Propose une grille d'évaluation sur un jeu jamais vu et une vérification des droits et données personnelles."
+      ],
+      "pricing": "Comparer offre communautaire, licences entreprise, annotation interne/externalisée, nombre d'items, stockage, intégrations et coûts de relecture.",
+      "privacy": "Vérifier droits sur les données et images, consentement, données personnelles, confidentialité des corpus, partage aux annotateurs, résidence, suppression et risques de mémorisation des modèles.",
+      "selection": [
+        "Choisir SuperAnnotate selon le besoin (expert_data), le contrôle qualité, les formats de données, les licences, la reproductibilité, le matériel et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.superannotate.com/platform",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.superannotate.com/agent-hub",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "encord": {
+    "descriptionFr": "Encord propose une infrastructure de données multimodales pour annoter, organiser, sélectionner et évaluer des jeux destinés à la vision, aux robots, aux véhicules et aux agents.",
+    "descriptionEn": "Encord offers multimodal data infrastructure to label, curate, sample and evaluate datasets for vision, robotics, autonomous vehicles and agents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Annotation image, vidéo, 3D et signaux multi-capteurs",
+      "Encord Active pour curation et active learning",
+      "Évaluations et workflows qualité pour données complexes"
+    ],
+    "featuresEn": [
+      "Image, video, 3D and multisensor annotation",
+      "Encord Active for curation and active learning",
+      "Evaluation and quality workflows for complex datasets"
+    ],
+    "accessFr": "Open source, cloud et/ou service d'annotation expert selon produit",
+    "accessEn": "Open source, cloud and/or expert labeling service by product",
+    "officialSources": [
+      {
+        "url": "https://encord.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      },
+      {
+        "url": "https://encord.com/active/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      },
+      {
+        "url": "https://encord.com/data-annotation/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Encord propose une infrastructure de données multimodales pour annoter, organiser, sélectionner et évaluer des jeux destinés à la vision, aux robots, aux véhicules et aux agents.",
+      "audiences": [
+        "Équipes d'annotation, responsables de corpus et ingénieurs de données",
+        "Organisations devant maîtriser la qualité, la provenance et la confidentialité des données"
+      ],
+      "cases": [
+        "Annoter des séquences vidéo synchronisées avec capteurs, puis choisir les cas difficiles pour réentraînement.",
+        "Conserver des partitions entraînement/validation/test indépendantes et un registre des règles d'annotation ou d'entraînement."
+      ],
+      "advantages": [
+        "Annotation image, vidéo, 3D et signaux multi-capteurs",
+        "Encord Active pour curation et active learning",
+        "Évaluations et workflows qualité pour données complexes"
+      ],
+      "limits": [
+        "Les performances de curation et d'active learning dépendent de la représentativité et des métriques choisies. Les jeux multi-capteurs exigent un alignement temporel, un stockage sécurisé et des évaluations qualité spécifiques.",
+        "La qualité et la représentativité des données, les droits d'usage et les tests indépendants conditionnent la pertinence du modèle ; l'automatisation ne supprime pas ces obligations."
+      ],
+      "gettingStarted": [
+        "Définir une taxonomie, une charte d'annotation et les conditions de traitement des données.",
+        "Créer un échantillon de référence, tester le pipeline, contrôler les biais/erreurs et documenter versions, dépenses et licences."
+      ],
+      "examples": [
+        "Établis une charte d'annotation avec exemples positifs, contre-exemples, traitement des cas ambigus et procédure d'arbitrage.",
+        "Propose une grille d'évaluation sur un jeu jamais vu et une vérification des droits et données personnelles."
+      ],
+      "pricing": "Comparer offre communautaire, licences entreprise, annotation interne/externalisée, nombre d'items, stockage, intégrations et coûts de relecture.",
+      "privacy": "Vérifier droits sur les données et images, consentement, données personnelles, confidentialité des corpus, partage aux annotateurs, résidence, suppression et risques de mémorisation des modèles.",
+      "selection": [
+        "Choisir Encord selon le besoin (multimodal_annotation), le contrôle qualité, les formats de données, les licences, la reproductibilité, le matériel et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://encord.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://encord.com/active/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://encord.com/data-annotation/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "v7-darwin": {
+    "descriptionFr": "V7 Darwin est la plateforme d'annotation d'images/vidéos et de gestion de datasets de V7 Labs ; elle est distincte de V7 Go, qui automatise les workflows documentaires.",
+    "descriptionEn": "V7 Darwin is V7 Labs' image/video annotation and dataset management platform, separate from document workflow automation product V7 Go.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Annotation visuelle, images médicales et vidéos",
+      "Auto-Annotate, modèle importé et entraînement",
+      "Gestion de datasets, contrôle et export Darwin JSON"
+    ],
+    "featuresEn": [
+      "Visual, medical-image and video labeling",
+      "Auto-Annotate, imported models and training",
+      "Dataset management, review and Darwin JSON export"
+    ],
+    "accessFr": "Open source, cloud et/ou service d'annotation expert selon produit",
+    "accessEn": "Open source, cloud and/or expert labeling service by product",
+    "officialSources": [
+      {
+        "url": "https://docs.v7labs.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      },
+      {
+        "url": "https://docs.v7labs.com/reference/darwin-json",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      },
+      {
+        "url": "https://www.v7labs.com/document-automation",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      }
+    ],
+    "research": {
+      "headline": "V7 Darwin est la plateforme d'annotation d'images/vidéos et de gestion de datasets de V7 Labs ; elle est distincte de V7 Go, qui automatise les workflows documentaires.",
+      "audiences": [
+        "Équipes d'annotation, responsables de corpus et ingénieurs de données",
+        "Organisations devant maîtriser la qualité, la provenance et la confidentialité des données"
+      ],
+      "cases": [
+        "Annoter des images radiologiques fictives et exporter le format Darwin JSON avec auteur et réviseur vérifiés.",
+        "Conserver des partitions entraînement/validation/test indépendantes et un registre des règles d'annotation ou d'entraînement."
+      ],
+      "advantages": [
+        "Annotation visuelle, images médicales et vidéos",
+        "Auto-Annotate, modèle importé et entraînement",
+        "Gestion de datasets, contrôle et export Darwin JSON"
+      ],
+      "limits": [
+        "Ne pas confondre Darwin et V7 Go malgré leur éditeur commun. L'export Darwin JSON a des versions de schéma ; vérifier annotations d'imagerie spécialisées, contraintes de dé-identification et disponibilité des fonctionnalités.",
+        "La qualité et la représentativité des données, les droits d'usage et les tests indépendants conditionnent la pertinence du modèle ; l'automatisation ne supprime pas ces obligations."
+      ],
+      "gettingStarted": [
+        "Définir une taxonomie, une charte d'annotation et les conditions de traitement des données.",
+        "Créer un échantillon de référence, tester le pipeline, contrôler les biais/erreurs et documenter versions, dépenses et licences."
+      ],
+      "examples": [
+        "Établis une charte d'annotation avec exemples positifs, contre-exemples, traitement des cas ambigus et procédure d'arbitrage.",
+        "Propose une grille d'évaluation sur un jeu jamais vu et une vérification des droits et données personnelles."
+      ],
+      "pricing": "Comparer offre communautaire, licences entreprise, annotation interne/externalisée, nombre d'items, stockage, intégrations et coûts de relecture.",
+      "privacy": "Vérifier droits sur les données et images, consentement, données personnelles, confidentialité des corpus, partage aux annotateurs, résidence, suppression et risques de mémorisation des modèles.",
+      "selection": [
+        "Choisir V7 Darwin selon le besoin (vision_annotation), le contrôle qualité, les formats de données, les licences, la reproductibilité, le matériel et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "darwin_annotation_distinct_from_v7_go",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.v7labs.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://docs.v7labs.com/reference/darwin-json",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.v7labs.com/document-automation",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_product_distinction",
+    "name": "V7 Darwin (V7 Labs)",
+    "url": "https://docs.v7labs.com/"
+  },
+  "cvat": {
+    "descriptionFr": "Plateforme CVAT open source d'annotation d'images, de vidéos et de 3D avec éditions Community, Online et Enterprise, intégrant modèles de pré-annotation.",
+    "descriptionEn": "CVAT open-source image, video and 3D annotation platform with Community, Online and Enterprise editions and model-assisted labeling.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Bounding boxes, polygones, masques et suivi d'objets",
+      "Auto-annotation via SAM/SAM2 et modèles externes",
+      "Édition Community auto-hébergée, Cloud et Enterprise"
+    ],
+    "featuresEn": [
+      "Boxes, polygons, masks and object tracking",
+      "Model-based annotation using SAM/SAM2 and external models",
+      "Self-hosted Community, cloud and Enterprise editions"
+    ],
+    "accessFr": "Open source, cloud et/ou service d'annotation expert selon produit",
+    "accessEn": "Open source, cloud and/or expert labeling service by product",
+    "officialSources": [
+      {
+        "url": "https://docs.cvat.ai/docs/getting_started/overview/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      },
+      {
+        "url": "https://docs.cvat.ai/docs/annotation/auto-annotation/automatic-annotation/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme CVAT open source d'annotation d'images, de vidéos et de 3D avec éditions Community, Online et Enterprise, intégrant modèles de pré-annotation.",
+      "audiences": [
+        "Équipes d'annotation, responsables de corpus et ingénieurs de données",
+        "Organisations devant maîtriser la qualité, la provenance et la confidentialité des données"
+      ],
+      "cases": [
+        "Étiqueter un corpus de vidéos en suivi d'objets puis faire contrôler des annotations générées automatiquement.",
+        "Conserver des partitions entraînement/validation/test indépendantes et un registre des règles d'annotation ou d'entraînement."
+      ],
+      "advantages": [
+        "Bounding boxes, polygones, masques et suivi d'objets",
+        "Auto-annotation via SAM/SAM2 et modèles externes",
+        "Édition Community auto-hébergée, Cloud et Enterprise"
+      ],
+      "limits": [
+        "Auto-annotation requiert un modèle accessible sur l'instance et des autorisations appropriées. Les fonctionnalités cloud et Enterprise ne sont pas toutes présentes en Community ; prévoir revue, sauvegarde et droits d'accès.",
+        "La qualité et la représentativité des données, les droits d'usage et les tests indépendants conditionnent la pertinence du modèle ; l'automatisation ne supprime pas ces obligations."
+      ],
+      "gettingStarted": [
+        "Définir une taxonomie, une charte d'annotation et les conditions de traitement des données.",
+        "Créer un échantillon de référence, tester le pipeline, contrôler les biais/erreurs et documenter versions, dépenses et licences."
+      ],
+      "examples": [
+        "Établis une charte d'annotation avec exemples positifs, contre-exemples, traitement des cas ambigus et procédure d'arbitrage.",
+        "Propose une grille d'évaluation sur un jeu jamais vu et une vérification des droits et données personnelles."
+      ],
+      "pricing": "Comparer offre communautaire, licences entreprise, annotation interne/externalisée, nombre d'items, stockage, intégrations et coûts de relecture.",
+      "privacy": "Vérifier droits sur les données et images, consentement, données personnelles, confidentialité des corpus, partage aux annotateurs, résidence, suppression et risques de mémorisation des modèles.",
+      "selection": [
+        "Choisir CVAT selon le besoin (vision_annotation), le contrôle qualité, les formats de données, les licences, la reproductibilité, le matériel et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.cvat.ai/docs/getting_started/overview/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://docs.cvat.ai/docs/annotation/auto-annotation/automatic-annotation/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "prodigy": {
+    "descriptionFr": "Prodigy est un outil Python commercial pour annoter efficacement textes, entités, relations, catégories, images et audio, intégré aux recettes spaCy et à l'active learning.",
+    "descriptionEn": "Prodigy is a commercial Python annotation tool for text, entities, relations, categories, images and audio, using spaCy recipes and active learning.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Recettes Python et interface web locale configurable",
+      "Annotation NER, span, classification, images, audio et LLM",
+      "Sélection active, corrections et export de jeux de données"
+    ],
+    "featuresEn": [
+      "Python recipes and configurable local web UI",
+      "NER, spans, classification, image, audio and LLM annotation",
+      "Active sampling, corrections and dataset export"
+    ],
+    "accessFr": "Open source, cloud et/ou service d'annotation expert selon produit",
+    "accessEn": "Open source, cloud and/or expert labeling service by product",
+    "officialSources": [
+      {
+        "url": "https://prodi.gy/docs",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      },
+      {
+        "url": "https://prodi.gy/docs/api-interfaces",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      },
+      {
+        "url": "https://prodi.gy/docs/changelog",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Prodigy est un outil Python commercial pour annoter efficacement textes, entités, relations, catégories, images et audio, intégré aux recettes spaCy et à l'active learning.",
+      "audiences": [
+        "Équipes d'annotation, responsables de corpus et ingénieurs de données",
+        "Organisations devant maîtriser la qualité, la provenance et la confidentialité des données"
+      ],
+      "cases": [
+        "Créer un jeu d'entités nommées en français, puis comparer précision du modèle avant et après corrections.",
+        "Conserver des partitions entraînement/validation/test indépendantes et un registre des règles d'annotation ou d'entraînement."
+      ],
+      "advantages": [
+        "Recettes Python et interface web locale configurable",
+        "Annotation NER, span, classification, images, audio et LLM",
+        "Sélection active, corrections et export de jeux de données"
+      ],
+      "limits": [
+        "Prodigy est payant et n'est pas open source, même si son API est extensible. Une note de sécurité de 2026 mentionne un risque de dépendance LiteLLM dans certains plugins : vérifier versions des paquets, l'environnement et les licences.",
+        "La qualité et la représentativité des données, les droits d'usage et les tests indépendants conditionnent la pertinence du modèle ; l'automatisation ne supprime pas ces obligations."
+      ],
+      "gettingStarted": [
+        "Définir une taxonomie, une charte d'annotation et les conditions de traitement des données.",
+        "Créer un échantillon de référence, tester le pipeline, contrôler les biais/erreurs et documenter versions, dépenses et licences."
+      ],
+      "examples": [
+        "Établis une charte d'annotation avec exemples positifs, contre-exemples, traitement des cas ambigus et procédure d'arbitrage.",
+        "Propose une grille d'évaluation sur un jeu jamais vu et une vérification des droits et données personnelles."
+      ],
+      "pricing": "Comparer offre communautaire, licences entreprise, annotation interne/externalisée, nombre d'items, stockage, intégrations et coûts de relecture.",
+      "privacy": "Vérifier droits sur les données et images, consentement, données personnelles, confidentialité des corpus, partage aux annotateurs, résidence, suppression et risques de mémorisation des modèles.",
+      "selection": [
+        "Choisir Prodigy selon le besoin (annotation_desktop), le contrôle qualité, les formats de données, les licences, la reproductibilité, le matériel et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://prodi.gy/docs",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://prodi.gy/docs/api-interfaces",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://prodi.gy/docs/changelog",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "hugging-face-datasets": {
+    "descriptionFr": "Bibliothèque Hugging Face Datasets pour charger, transformer, partager et parcourir en streaming des jeux de données texte, image, audio et vidéo depuis le Hub ou fichiers locaux.",
+    "descriptionEn": "Hugging Face Datasets library for loading, processing, sharing and streaming text, image, audio and video datasets from Hub or local files.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "load_dataset, map et formats Arrow/Parquet",
+      "Streaming de jeux volumineux et dépôts privés",
+      "Versions, splits, metadata et partage sur Hub"
+    ],
+    "featuresEn": [
+      "load_dataset, map and Arrow/Parquet formats",
+      "Large-dataset streaming and private repositories",
+      "Revisions, splits, metadata and Hub sharing"
+    ],
+    "accessFr": "Bibliothèque open source et Hub de données",
+    "accessEn": "Open-source library with dataset Hub",
+    "officialSources": [
+      {
+        "url": "https://huggingface.co/docs/datasets/loading",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      },
+      {
+        "url": "https://huggingface.co/docs/hub/datasets-streaming",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      },
+      {
+        "url": "https://huggingface.co/docs/datasets/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Bibliothèque Hugging Face Datasets pour charger, transformer, partager et parcourir en streaming des jeux de données texte, image, audio et vidéo depuis le Hub ou fichiers locaux.",
+      "audiences": [
+        "Data scientists, spécialistes de datasets et développeurs IA",
+        "Organisations devant maîtriser la qualité, la provenance et la confidentialité des données"
+      ],
+      "cases": [
+        "Charger une collection d'articles, créer des partitions d'entraînement/test et documenter licences et provenance.",
+        "Conserver des partitions entraînement/validation/test indépendantes et un registre des règles d'annotation ou d'entraînement."
+      ],
+      "advantages": [
+        "load_dataset, map et formats Arrow/Parquet",
+        "Streaming de jeux volumineux et dépôts privés",
+        "Versions, splits, metadata et partage sur Hub"
+      ],
+      "limits": [
+        "Un jeu de données public n'implique ni libre usage commercial ni absence de données personnelles. Le streaming ne remplace pas un contrôle des splits et duplications ; verrouiller les révisions et retirer les secrets avant publication.",
+        "La qualité et la représentativité des données, les droits d'usage et les tests indépendants conditionnent la pertinence du modèle ; l'automatisation ne supprime pas ces obligations."
+      ],
+      "gettingStarted": [
+        "Définir le modèle de base, les tâches, les données autorisées et les contraintes matérielles.",
+        "Créer un échantillon de référence, tester le pipeline, contrôler les biais/erreurs et documenter versions, dépenses et licences."
+      ],
+      "examples": [
+        "Prépare un entraînement reproductible : modèle de base, version du dataset, configuration, graines, métriques et contraintes mémoire.",
+        "Propose une grille d'évaluation sur un jeu jamais vu et une vérification des droits et données personnelles."
+      ],
+      "pricing": "Vérifier licences, volumes de données, stockage, calcul et options d'hébergement/traitement.",
+      "privacy": "Vérifier droits sur les données et images, consentement, données personnelles, confidentialité des corpus, partage aux annotateurs, résidence, suppression et risques de mémorisation des modèles.",
+      "selection": [
+        "Choisir Hugging Face Datasets selon le besoin (dataset_library), le contrôle qualité, les formats de données, les licences, la reproductibilité, le matériel et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://huggingface.co/docs/datasets/loading",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://huggingface.co/docs/hub/datasets-streaming",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://huggingface.co/docs/datasets/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "hugging-face-trl": {
+    "descriptionFr": "TRL est la bibliothèque Hugging Face de post-entraînement LLM/VLM avec SFT, DPO, GRPO et modélisation de récompense, compatible avec les infrastructures Transformers.",
+    "descriptionEn": "TRL is Hugging Face's LLM/VLM post-training library for supervised fine-tuning, DPO, GRPO and reward modeling using Transformers infrastructure.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "SFTTrainer, DPOTrainer et GRPOTrainer",
+      "Modèles de préférence et de récompense",
+      "Paramétrage du fine-tuning et entraînement distribué"
+    ],
+    "featuresEn": [
+      "SFTTrainer, DPOTrainer and GRPOTrainer",
+      "Preference/reward models",
+      "Fine-tuning configuration and distributed training"
+    ],
+    "accessFr": "Bibliothèque ou framework open source à installer, dépendances GPU selon cas",
+    "accessEn": "Installable open-source library/framework, GPU dependencies as needed",
+    "officialSources": [
+      {
+        "url": "https://huggingface.co/docs/trl/quickstart",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      },
+      {
+        "url": "https://huggingface.co/docs/trl/index",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      }
+    ],
+    "research": {
+      "headline": "TRL est la bibliothèque Hugging Face de post-entraînement LLM/VLM avec SFT, DPO, GRPO et modélisation de récompense, compatible avec les infrastructures Transformers.",
+      "audiences": [
+        "Data scientists, spécialistes de datasets et développeurs IA",
+        "Organisations devant maîtriser la qualité, la provenance et la confidentialité des données"
+      ],
+      "cases": [
+        "Adapter un petit modèle à un style pédagogique avec données vérifiées puis comparer au modèle de base.",
+        "Conserver des partitions entraînement/validation/test indépendantes et un registre des règles d'annotation ou d'entraînement."
+      ],
+      "advantages": [
+        "SFTTrainer, DPOTrainer et GRPOTrainer",
+        "Modèles de préférence et de récompense",
+        "Paramétrage du fine-tuning et entraînement distribué"
+      ],
+      "limits": [
+        "La version majeure TRL v1 a modifié certaines API ; les configurations et trainers expérimentaux ne garantissent pas la stabilité. Prévoir budgets GPU et jeux d'évaluation disjoints des données d'apprentissage.",
+        "La qualité et la représentativité des données, les droits d'usage et les tests indépendants conditionnent la pertinence du modèle ; l'automatisation ne supprime pas ces obligations."
+      ],
+      "gettingStarted": [
+        "Définir le modèle de base, les tâches, les données autorisées et les contraintes matérielles.",
+        "Créer un échantillon de référence, tester le pipeline, contrôler les biais/erreurs et documenter versions, dépenses et licences."
+      ],
+      "examples": [
+        "Prépare un entraînement reproductible : modèle de base, version du dataset, configuration, graines, métriques et contraintes mémoire.",
+        "Propose une grille d'évaluation sur un jeu jamais vu et une vérification des droits et données personnelles."
+      ],
+      "pricing": "Vérifier licences, volumes de données, stockage, calcul et options d'hébergement/traitement.",
+      "privacy": "Vérifier droits sur les données et images, consentement, données personnelles, confidentialité des corpus, partage aux annotateurs, résidence, suppression et risques de mémorisation des modèles.",
+      "selection": [
+        "Choisir Hugging Face TRL selon le besoin (post_training), le contrôle qualité, les formats de données, les licences, la reproductibilité, le matériel et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "trl_v1_current",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://huggingface.co/docs/trl/quickstart",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://huggingface.co/docs/trl/index",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "axolotl": {
+    "descriptionFr": "Axolotl est un framework de fine-tuning open source configurable pour LLM/VLM, prenant en charge LoRA/QLoRA, apprentissage distribué et modèles récents dont Mistral Large 4.",
+    "descriptionEn": "Axolotl is an open-source configurable LLM/VLM fine-tuning framework supporting LoRA/QLoRA, distributed training and newer models including Mistral Large 4.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Recettes YAML pour SFT, préférences et modèles multimodaux",
+      "LoRA, QLoRA, FSDP et entraînement expert-parallel",
+      "Configurations cloud, GPU et outils de suivi"
+    ],
+    "featuresEn": [
+      "YAML recipes for SFT, preferences and multimodal models",
+      "LoRA, QLoRA, FSDP and expert parallel training",
+      "Cloud/GPU configurations and tracking tools"
+    ],
+    "accessFr": "Bibliothèque ou framework open source à installer, dépendances GPU selon cas",
+    "accessEn": "Installable open-source library/framework, GPU dependencies as needed",
+    "officialSources": [
+      {
+        "url": "https://github.com/axolotl-ai-cloud/axolotl",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      },
+      {
+        "url": "https://github.com/axolotl-ai-cloud/axolotl/releases",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Axolotl est un framework de fine-tuning open source configurable pour LLM/VLM, prenant en charge LoRA/QLoRA, apprentissage distribué et modèles récents dont Mistral Large 4.",
+      "audiences": [
+        "Chercheurs ML, ingénieurs d'entraînement et équipes GPU",
+        "Organisations devant maîtriser la qualité, la provenance et la confidentialité des données"
+      ],
+      "cases": [
+        "Adapter un modèle ouvert sur une collection de prompts français validés et conserver les hyperparamètres reproductibles.",
+        "Conserver des partitions entraînement/validation/test indépendantes et un registre des règles d'annotation ou d'entraînement."
+      ],
+      "advantages": [
+        "Recettes YAML pour SFT, préférences et modèles multimodaux",
+        "LoRA, QLoRA, FSDP et entraînement expert-parallel",
+        "Configurations cloud, GPU et outils de suivi"
+      ],
+      "limits": [
+        "Les mises à jour GPU et modèles sont fréquentes : vérifier versions CUDA, Transformers et kernels. LoRA sur grands MoE dépend des GPU et de formats quantifiés spécifiques ; les exemples ne garantissent pas le support de chaque modèle.",
+        "La qualité et la représentativité des données, les droits d'usage et les tests indépendants conditionnent la pertinence du modèle ; l'automatisation ne supprime pas ces obligations."
+      ],
+      "gettingStarted": [
+        "Définir le modèle de base, les tâches, les données autorisées et les contraintes matérielles.",
+        "Créer un échantillon de référence, tester le pipeline, contrôler les biais/erreurs et documenter versions, dépenses et licences."
+      ],
+      "examples": [
+        "Prépare un entraînement reproductible : modèle de base, version du dataset, configuration, graines, métriques et contraintes mémoire.",
+        "Propose une grille d'évaluation sur un jeu jamais vu et une vérification des droits et données personnelles."
+      ],
+      "pricing": "Logiciel souvent open source ; vérifier licence du framework et du modèle, coûts GPU/énergie, maintenance et support.",
+      "privacy": "Vérifier droits sur les données et images, consentement, données personnelles, confidentialité des corpus, partage aux annotateurs, résidence, suppression et risques de mémorisation des modèles.",
+      "selection": [
+        "Choisir Axolotl selon le besoin (fine_tuning_framework), le contrôle qualité, les formats de données, les licences, la reproductibilité, le matériel et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://github.com/axolotl-ai-cloud/axolotl",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://github.com/axolotl-ai-cloud/axolotl/releases",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "unsloth": {
+    "descriptionFr": "Unsloth combine des bibliothèques d'affinage accéléré avec Unsloth Studio pour entraîner des modèles texte, vision et audio, via LoRA/QLoRA, SFT ou GRPO, sur du matériel compatible.",
+    "descriptionEn": "Unsloth combines optimized fine-tuning libraries and Unsloth Studio to train text, vision and audio models using LoRA/QLoRA, SFT or GRPO on supported hardware.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Unsloth Studio et notebooks d'apprentissage",
+      "LoRA/QLoRA, RL GRPO et fine-tuning multimodal",
+      "Export d'adaptateurs ou GGUF selon modèle"
+    ],
+    "featuresEn": [
+      "Unsloth Studio and training notebooks",
+      "LoRA/QLoRA, GRPO RL and multimodal tuning",
+      "Adapter or GGUF export where supported"
+    ],
+    "accessFr": "Bibliothèque ou framework open source à installer, dépendances GPU selon cas",
+    "accessEn": "Installable open-source library/framework, GPU dependencies as needed",
+    "officialSources": [
+      {
+        "url": "https://unsloth.ai/docs",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      },
+      {
+        "url": "https://unsloth.ai/docs/get-started/fine-tuning-llms-guide",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      },
+      {
+        "url": "https://github.com/unslothai/unsloth",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Unsloth combine des bibliothèques d'affinage accéléré avec Unsloth Studio pour entraîner des modèles texte, vision et audio, via LoRA/QLoRA, SFT ou GRPO, sur du matériel compatible.",
+      "audiences": [
+        "Chercheurs ML, ingénieurs d'entraînement et équipes GPU",
+        "Organisations devant maîtriser la qualité, la provenance et la confidentialité des données"
+      ],
+      "cases": [
+        "Adapter un modèle 3B avec un jeu restreint de données sous licence, mesurer la perte et vérifier les sorties sur un test indépendant.",
+        "Conserver des partitions entraînement/validation/test indépendantes et un registre des règles d'annotation ou d'entraînement."
+      ],
+      "advantages": [
+        "Unsloth Studio et notebooks d'apprentissage",
+        "LoRA/QLoRA, RL GRPO et fine-tuning multimodal",
+        "Export d'adaptateurs ou GGUF selon modèle"
+      ],
+      "limits": [
+        "Les gains de vitesse ou mémoire annoncés sont dépendants des modèles, GPU et séquences ; ne pas extrapoler. Le Studio et certaines fonctions ont des prérequis matériels ; vérifier licence du modèle de base et risques de surapprentissage.",
+        "La qualité et la représentativité des données, les droits d'usage et les tests indépendants conditionnent la pertinence du modèle ; l'automatisation ne supprime pas ces obligations."
+      ],
+      "gettingStarted": [
+        "Définir le modèle de base, les tâches, les données autorisées et les contraintes matérielles.",
+        "Créer un échantillon de référence, tester le pipeline, contrôler les biais/erreurs et documenter versions, dépenses et licences."
+      ],
+      "examples": [
+        "Prépare un entraînement reproductible : modèle de base, version du dataset, configuration, graines, métriques et contraintes mémoire.",
+        "Propose une grille d'évaluation sur un jeu jamais vu et une vérification des droits et données personnelles."
+      ],
+      "pricing": "Logiciel souvent open source ; vérifier licence du framework et du modèle, coûts GPU/énergie, maintenance et support.",
+      "privacy": "Vérifier droits sur les données et images, consentement, données personnelles, confidentialité des corpus, partage aux annotateurs, résidence, suppression et risques de mémorisation des modèles.",
+      "selection": [
+        "Choisir Unsloth selon le besoin (fine_tuning_framework), le contrôle qualité, les formats de données, les licences, la reproductibilité, le matériel et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "studio_and_training_available",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://unsloth.ai/docs",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://unsloth.ai/docs/get-started/fine-tuning-llms-guide",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://github.com/unslothai/unsloth",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_studio_documented"
+  },
+  "llama-factory": {
+    "descriptionFr": "LLaMA-Factory est un projet open source d'affinage de nombreux modèles de langage et vision-langage, avec interface LLaMA Board, configurations, LoRA et méthodes de préférence.",
+    "descriptionEn": "LLaMA-Factory is an open-source fine-tuning project for language and vision-language models with LLaMA Board GUI, LoRA configs and preference methods.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "LLaMA Board pour lancer les entraînements via interface",
+      "SFT, LoRA/QLoRA, DPO et reward modeling",
+      "Prise en charge de familles Llama, Qwen, Mistral, Gemma et autres"
+    ],
+    "featuresEn": [
+      "LLaMA Board training interface",
+      "SFT, LoRA/QLoRA, DPO and reward modeling",
+      "Llama, Qwen, Mistral, Gemma and other model families"
+    ],
+    "accessFr": "Bibliothèque ou framework open source à installer, dépendances GPU selon cas",
+    "accessEn": "Installable open-source library/framework, GPU dependencies as needed",
+    "officialSources": [
+      {
+        "url": "https://github.com/hiyouga/LlamaFactory",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      },
+      {
+        "url": "https://github.com/hiyouga/LlamaFactory/releases",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      }
+    ],
+    "research": {
+      "headline": "LLaMA-Factory est un projet open source d'affinage de nombreux modèles de langage et vision-langage, avec interface LLaMA Board, configurations, LoRA et méthodes de préférence.",
+      "audiences": [
+        "Chercheurs ML, ingénieurs d'entraînement et équipes GPU",
+        "Organisations devant maîtriser la qualité, la provenance et la confidentialité des données"
+      ],
+      "cases": [
+        "Tester une adaptation contrôlée de petit modèle sur des exemples bilingues en conservant configuration et validation.",
+        "Conserver des partitions entraînement/validation/test indépendantes et un registre des règles d'annotation ou d'entraînement."
+      ],
+      "advantages": [
+        "LLaMA Board pour lancer les entraînements via interface",
+        "SFT, LoRA/QLoRA, DPO et reward modeling",
+        "Prise en charge de familles Llama, Qwen, Mistral, Gemma et autres"
+      ],
+      "limits": [
+        "Le dépôt officiel a adopté le chemin github.com/hiyouga/LlamaFactory : vérifier les URL GitHub anciennes et le modèle réellement supporté. Les modèles multimodaux exigent parfois des versions précises de Transformers et de CUDA.",
+        "La qualité et la représentativité des données, les droits d'usage et les tests indépendants conditionnent la pertinence du modèle ; l'automatisation ne supprime pas ces obligations."
+      ],
+      "gettingStarted": [
+        "Définir le modèle de base, les tâches, les données autorisées et les contraintes matérielles.",
+        "Créer un échantillon de référence, tester le pipeline, contrôler les biais/erreurs et documenter versions, dépenses et licences."
+      ],
+      "examples": [
+        "Prépare un entraînement reproductible : modèle de base, version du dataset, configuration, graines, métriques et contraintes mémoire.",
+        "Propose une grille d'évaluation sur un jeu jamais vu et une vérification des droits et données personnelles."
+      ],
+      "pricing": "Logiciel souvent open source ; vérifier licence du framework et du modèle, coûts GPU/énergie, maintenance et support.",
+      "privacy": "Vérifier droits sur les données et images, consentement, données personnelles, confidentialité des corpus, partage aux annotateurs, résidence, suppression et risques de mémorisation des modèles.",
+      "selection": [
+        "Choisir LLaMA-Factory selon le besoin (fine_tuning_framework), le contrôle qualité, les formats de données, les licences, la reproductibilité, le matériel et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://github.com/hiyouga/LlamaFactory",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://github.com/hiyouga/LlamaFactory/releases",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed",
+    "url": "https://github.com/hiyouga/LlamaFactory"
+  },
+  "peft": {
+    "descriptionFr": "Bibliothèque Hugging Face PEFT de fine-tuning économe en paramètres, notamment LoRA, IA3 et AdaLoRA, permettant d'entraîner et partager des adaptateurs plutôt que tous les poids.",
+    "descriptionEn": "Hugging Face PEFT library for parameter-efficient fine-tuning including LoRA, IA3 and AdaLoRA, allowing training and sharing adapters instead of whole models.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Adaptateurs LoRA, IA3 et techniques PEFT",
+      "Chargement, fusion et sauvegarde d'adaptateurs",
+      "Intégration Transformers, quantification et entraînement distribué"
+    ],
+    "featuresEn": [
+      "LoRA, IA3 and PEFT adapters",
+      "Adapter loading, merging and saving",
+      "Transformers, quantization and distributed training integration"
+    ],
+    "accessFr": "Bibliothèque ou framework open source à installer, dépendances GPU selon cas",
+    "accessEn": "Installable open-source library/framework, GPU dependencies as needed",
+    "officialSources": [
+      {
+        "url": "https://huggingface.co/docs/peft/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      },
+      {
+        "url": "https://huggingface.co/docs/transformers/peft",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Bibliothèque Hugging Face PEFT de fine-tuning économe en paramètres, notamment LoRA, IA3 et AdaLoRA, permettant d'entraîner et partager des adaptateurs plutôt que tous les poids.",
+      "audiences": [
+        "Chercheurs ML, ingénieurs d'entraînement et équipes GPU",
+        "Organisations devant maîtriser la qualité, la provenance et la confidentialité des données"
+      ],
+      "cases": [
+        "Entraîner un adaptateur pour une classification spécialisée sans modifier la totalité des paramètres de base.",
+        "Conserver des partitions entraînement/validation/test indépendantes et un registre des règles d'annotation ou d'entraînement."
+      ],
+      "advantages": [
+        "Adaptateurs LoRA, IA3 et techniques PEFT",
+        "Chargement, fusion et sauvegarde d'adaptateurs",
+        "Intégration Transformers, quantification et entraînement distribué"
+      ],
+      "limits": [
+        "Le fichier d'adaptateur seul peut ne pas suffire à reconstituer le modèle sans poids de base et licence adéquate. Le choix du rang, des couches et de la précision influe sur qualité et mémoire ; mesurer les régressions.",
+        "La qualité et la représentativité des données, les droits d'usage et les tests indépendants conditionnent la pertinence du modèle ; l'automatisation ne supprime pas ces obligations."
+      ],
+      "gettingStarted": [
+        "Définir le modèle de base, les tâches, les données autorisées et les contraintes matérielles.",
+        "Créer un échantillon de référence, tester le pipeline, contrôler les biais/erreurs et documenter versions, dépenses et licences."
+      ],
+      "examples": [
+        "Prépare un entraînement reproductible : modèle de base, version du dataset, configuration, graines, métriques et contraintes mémoire.",
+        "Propose une grille d'évaluation sur un jeu jamais vu et une vérification des droits et données personnelles."
+      ],
+      "pricing": "Logiciel souvent open source ; vérifier licence du framework et du modèle, coûts GPU/énergie, maintenance et support.",
+      "privacy": "Vérifier droits sur les données et images, consentement, données personnelles, confidentialité des corpus, partage aux annotateurs, résidence, suppression et risques de mémorisation des modèles.",
+      "selection": [
+        "Choisir PEFT selon le besoin (training_library), le contrôle qualité, les formats de données, les licences, la reproductibilité, le matériel et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://huggingface.co/docs/peft/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://huggingface.co/docs/transformers/peft",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "deepspeed": {
+    "descriptionFr": "DeepSpeed est un moteur Microsoft de formation distribuée et optimisation mémoire/communication des grands modèles, grâce à ZeRO, ZeRO-Offload et ZeRO-Infinity.",
+    "descriptionEn": "Microsoft DeepSpeed is a distributed training and memory/communication optimization engine for large models using ZeRO, ZeRO-Offload and ZeRO-Infinity.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "ZeRO stages pour partitionner états et gradients",
+      "Offload CPU/NVMe et DeepSpeedCPUAdam",
+      "Parallélisme, MoE et entraînement multiprocessus"
+    ],
+    "featuresEn": [
+      "ZeRO stages partitioning optimizer/model states",
+      "CPU/NVMe offload and DeepSpeedCPUAdam",
+      "Parallelism, MoE and distributed training"
+    ],
+    "accessFr": "Bibliothèque ou framework open source à installer, dépendances GPU selon cas",
+    "accessEn": "Installable open-source library/framework, GPU dependencies as needed",
+    "officialSources": [
+      {
+        "url": "https://www.deepspeed.ai/training/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      },
+      {
+        "url": "https://www.deepspeed.ai/tutorials/zero/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      },
+      {
+        "url": "https://www.deepspeed.ai/tutorials/accelerator-setup-guide/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      }
+    ],
+    "research": {
+      "headline": "DeepSpeed est un moteur Microsoft de formation distribuée et optimisation mémoire/communication des grands modèles, grâce à ZeRO, ZeRO-Offload et ZeRO-Infinity.",
+      "audiences": [
+        "Chercheurs ML, ingénieurs d'entraînement et équipes GPU",
+        "Organisations devant maîtriser la qualité, la provenance et la confidentialité des données"
+      ],
+      "cases": [
+        "Comparer une expérience de modèle volumineux avec et sans offload sous contrainte de VRAM connue.",
+        "Conserver des partitions entraînement/validation/test indépendantes et un registre des règles d'annotation ou d'entraînement."
+      ],
+      "advantages": [
+        "ZeRO stages pour partitionner états et gradients",
+        "Offload CPU/NVMe et DeepSpeedCPUAdam",
+        "Parallélisme, MoE et entraînement multiprocessus"
+      ],
+      "limits": [
+        "DeepSpeed nécessite des configurations GPU/réseau/CPU complexes ; l'offload peut transférer la charge vers RAM et stockage et diminuer le débit. Les gains des tutoriels dépendent du matériel et ne se transposent pas automatiquement.",
+        "La qualité et la représentativité des données, les droits d'usage et les tests indépendants conditionnent la pertinence du modèle ; l'automatisation ne supprime pas ces obligations."
+      ],
+      "gettingStarted": [
+        "Définir le modèle de base, les tâches, les données autorisées et les contraintes matérielles.",
+        "Créer un échantillon de référence, tester le pipeline, contrôler les biais/erreurs et documenter versions, dépenses et licences."
+      ],
+      "examples": [
+        "Prépare un entraînement reproductible : modèle de base, version du dataset, configuration, graines, métriques et contraintes mémoire.",
+        "Propose une grille d'évaluation sur un jeu jamais vu et une vérification des droits et données personnelles."
+      ],
+      "pricing": "Logiciel souvent open source ; vérifier licence du framework et du modèle, coûts GPU/énergie, maintenance et support.",
+      "privacy": "Vérifier droits sur les données et images, consentement, données personnelles, confidentialité des corpus, partage aux annotateurs, résidence, suppression et risques de mémorisation des modèles.",
+      "selection": [
+        "Choisir DeepSpeed selon le besoin (distributed_training), le contrôle qualité, les formats de données, les licences, la reproductibilité, le matériel et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.deepspeed.ai/training/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.deepspeed.ai/tutorials/zero/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.deepspeed.ai/tutorials/accelerator-setup-guide/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "pytorch": {
+    "descriptionFr": "Framework open source PyTorch pour construire, entraîner et déployer des modèles de deep learning ; la version 2.15 publiée en octobre 2026 améliore le calcul distribué, les optimisations et le support matériel.",
+    "descriptionEn": "Open-source PyTorch deep-learning framework; version 2.15 released October 2026 improves distributed computing, performance and accelerator support.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Tensors, autograd, torch.compile et modules neuronaux",
+      "FSDP2, pipelining et torch.distributed",
+      "CUDA/ROCm/MPS selon versions et composants"
+    ],
+    "featuresEn": [
+      "Tensors, autograd, torch.compile and neural modules",
+      "FSDP2, pipelining and torch.distributed",
+      "CUDA/ROCm/MPS by build and device"
+    ],
+    "accessFr": "Framework open source à installer, GPU/TPU selon matériel",
+    "accessEn": "Installable open-source framework, GPU/TPU by hardware",
+    "officialSources": [
+      {
+        "url": "https://pytorch.org/blog/pytorch-2-15-release-blog/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      },
+      {
+        "url": "https://pytorch.org/get-started/locally/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Framework open source PyTorch pour construire, entraîner et déployer des modèles de deep learning ; la version 2.15 publiée en octobre 2026 améliore le calcul distribué, les optimisations et le support matériel.",
+      "audiences": [
+        "Chercheurs ML, ingénieurs d'entraînement et équipes GPU",
+        "Organisations devant maîtriser la qualité, la provenance et la confidentialité des données"
+      ],
+      "cases": [
+        "Développer un classificateur sur données ouvertes, journaliser les graines et évaluer sur un jeu indépendant.",
+        "Conserver des partitions entraînement/validation/test indépendantes et un registre des règles d'annotation ou d'entraînement."
+      ],
+      "advantages": [
+        "Tensors, autograd, torch.compile et modules neuronaux",
+        "FSDP2, pipelining et torch.distributed",
+        "CUDA/ROCm/MPS selon versions et composants"
+      ],
+      "limits": [
+        "PyTorch 2.15 requiert des combinaisons compatibles de Python, pilotes CUDA/ROCm et extensions. L'entraînement reproductible peut être limité par des noyaux non déterministes ; la version du framework ne garantit pas la stabilité des autres dépendances.",
+        "La qualité et la représentativité des données, les droits d'usage et les tests indépendants conditionnent la pertinence du modèle ; l'automatisation ne supprime pas ces obligations."
+      ],
+      "gettingStarted": [
+        "Définir le modèle de base, les tâches, les données autorisées et les contraintes matérielles.",
+        "Créer un échantillon de référence, tester le pipeline, contrôler les biais/erreurs et documenter versions, dépenses et licences."
+      ],
+      "examples": [
+        "Prépare un entraînement reproductible : modèle de base, version du dataset, configuration, graines, métriques et contraintes mémoire.",
+        "Propose une grille d'évaluation sur un jeu jamais vu et une vérification des droits et données personnelles."
+      ],
+      "pricing": "Logiciel souvent open source ; vérifier licence du framework et du modèle, coûts GPU/énergie, maintenance et support.",
+      "privacy": "Vérifier droits sur les données et images, consentement, données personnelles, confidentialité des corpus, partage aux annotateurs, résidence, suppression et risques de mémorisation des modèles.",
+      "selection": [
+        "Choisir PyTorch selon le besoin (deep_learning_framework), le contrôle qualité, les formats de données, les licences, la reproductibilité, le matériel et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "pytorch_2_15_current",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://pytorch.org/blog/pytorch-2-15-release-blog/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://pytorch.org/get-started/locally/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_release_verified"
+  },
+  "tensorflow": {
+    "descriptionFr": "Framework open source TensorFlow pour construire, entraîner et servir des modèles avec tf.keras, tf.data et options de déploiement web/mobile via l'écosystème.",
+    "descriptionEn": "Open-source TensorFlow framework for building, training and serving models with tf.keras, tf.data and web/mobile deployment options across its ecosystem.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "TensorFlow Core, tf.keras et pipelines tf.data",
+      "Entraînement distribué GPU/TPU et TensorBoard",
+      "Serving et conversions vers écosystème mobile/web"
+    ],
+    "featuresEn": [
+      "TensorFlow Core, tf.keras and tf.data pipelines",
+      "Distributed GPU/TPU training and TensorBoard",
+      "Serving and mobile/web ecosystem exports"
+    ],
+    "accessFr": "Framework open source à installer, GPU/TPU selon matériel",
+    "accessEn": "Installable open-source framework, GPU/TPU by hardware",
+    "officialSources": [
+      {
+        "url": "https://www.tensorflow.org/guide/keras",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      },
+      {
+        "url": "https://www.tensorflow.org/install/pip",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      },
+      {
+        "url": "https://www.tensorflow.org/guide/versions",
+        "checkedAt": "2026-11-17",
+        "scope": "features_training_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Framework open source TensorFlow pour construire, entraîner et servir des modèles avec tf.keras, tf.data et options de déploiement web/mobile via l'écosystème.",
+      "audiences": [
+        "Chercheurs ML, ingénieurs d'entraînement et équipes GPU",
+        "Organisations devant maîtriser la qualité, la provenance et la confidentialité des données"
+      ],
+      "cases": [
+        "Entraîner un modèle de classification tabulaire puis mesurer la précision sur un jeu de test gelé.",
+        "Conserver des partitions entraînement/validation/test indépendantes et un registre des règles d'annotation ou d'entraînement."
+      ],
+      "advantages": [
+        "TensorFlow Core, tf.keras et pipelines tf.data",
+        "Entraînement distribué GPU/TPU et TensorBoard",
+        "Serving et conversions vers écosystème mobile/web"
+      ],
+      "limits": [
+        "Les distributions GPU et les exigences Python/CUDA dépendent de l'OS et de la version. TensorFlow n'est ni un générateur de datasets ni un service d'annotation : prévoir données, métriques, traçabilité et infrastructure séparées.",
+        "La qualité et la représentativité des données, les droits d'usage et les tests indépendants conditionnent la pertinence du modèle ; l'automatisation ne supprime pas ces obligations."
+      ],
+      "gettingStarted": [
+        "Définir le modèle de base, les tâches, les données autorisées et les contraintes matérielles.",
+        "Créer un échantillon de référence, tester le pipeline, contrôler les biais/erreurs et documenter versions, dépenses et licences."
+      ],
+      "examples": [
+        "Prépare un entraînement reproductible : modèle de base, version du dataset, configuration, graines, métriques et contraintes mémoire.",
+        "Propose une grille d'évaluation sur un jeu jamais vu et une vérification des droits et données personnelles."
+      ],
+      "pricing": "Logiciel souvent open source ; vérifier licence du framework et du modèle, coûts GPU/énergie, maintenance et support.",
+      "privacy": "Vérifier droits sur les données et images, consentement, données personnelles, confidentialité des corpus, partage aux annotateurs, résidence, suppression et risques de mémorisation des modèles.",
+      "selection": [
+        "Choisir TensorFlow selon le besoin (deep_learning_framework), le contrôle qualité, les formats de données, les licences, la reproductibilité, le matériel et le coût total."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.tensorflow.org/guide/keras",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.tensorflow.org/install/pip",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.tensorflow.org/guide/versions",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  }
+}
