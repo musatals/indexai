@@ -1,0 +1,62 @@
+{
+  "colossyan": {
+    "accessFr": "Studio Web de création de vidéos avec avatars et présentateurs pour la formation",
+    "accessEn": "Web avatar and presenter video studio focused on training",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Offre et essai gratuits limités ; abonnements payants et solutions pour organisations.",
+      "en": "Limited free plan and trial; paid subscriptions and organizational packages.",
+      "sourceUrl": "https://www.colossyan.com/pricing/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-25"
+  },
+  "tavus": {
+    "accessFr": "API et plateforme développeur de conversations vidéo et avatars interactifs",
+    "accessEn": "Developer API and platform for conversational video and interactive avatars",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Crédit gratuit de minutes de conversation puis abonnements et facturation selon capacité.",
+      "en": "Free conversational minutes followed by subscriptions and capacity-based billing.",
+      "sourceUrl": "https://www.tavus.io/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-25"
+  },
+  "deepbrain-ai": {
+    "accessFr": "Studio AI Studios accessible sur navigateur pour vidéos avec présentateurs virtuels",
+    "accessEn": "Browser-based AI Studios for videos with virtual presenters",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Abonnements personnels et contrats entreprise ; capacités variables par forfait.",
+      "en": "Individual subscriptions and enterprise contracts; allowances depend on plan.",
+      "sourceUrl": "https://help.deepbrain.io/en/articles/10258019-introducing-our-new-unlimited-plans",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-25"
+  },
+  "d-id": {
+    "accessFr": "Studio vidéo Web de personnages parlants et API D-ID",
+    "accessEn": "D-ID web talking-avatar video studio and API",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Essai gratuit limité puis formules commerciales pour Studio et API selon l’usage.",
+      "en": "Limited free trial then commercial plans for Studio and API usage.",
+      "sourceUrl": "https://www.d-id.com/creative-reality-studio/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-25"
+  }
+}
