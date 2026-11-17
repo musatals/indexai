@@ -1,0 +1,137 @@
+{
+  "sap-joule": {
+    "accessFr": "Assistant et agents SAP intégrés aux applications cloud professionnelles compatibles.",
+    "accessEn": "SAP assistant and agents embedded in supported cloud business apps.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Fonctions et droits selon les abonnements et capacités IA SAP activées.",
+      "en": "Features and entitlements depend on SAP subscriptions and enabled AI capabilities.",
+      "sourceUrl": "https://www.sap.com/products/artificial-intelligence/ai-assistant.html",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-57"
+  },
+  "ada-ai-agent": {
+    "accessFr": "Agents de service client sur canaux conversationnels, pilotés depuis la plateforme Web Ada.",
+    "accessEn": "Customer-service agents across conversation channels managed on Ada's web platform.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Contrat entreprise ; modalités de tarification et définition des résolutions à confirmer sur devis.",
+      "en": "Enterprise contract; resolution definitions and pricing confirmed by quote.",
+      "sourceUrl": "https://www.ada.cx/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-57"
+  },
+  "kore-ai-agents": {
+    "accessFr": "Plateforme Kore.ai Artemis de conception et gestion d'agents d'entreprise.",
+    "accessEn": "Kore.ai Artemis platform for building and managing enterprise agents.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Tarification entreprise adaptée au volume, aux intégrations et au déploiement.",
+      "en": "Enterprise pricing tailored to volume, integrations and deployment.",
+      "sourceUrl": "https://kore.ai/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-57"
+  },
+  "cognigy-ai-agents": {
+    "accessFr": "Plateforme NiCE Cognigy pour agents de centres de contact et orchestration.",
+    "accessEn": "NiCE Cognigy platform for contact-center agents and orchestration.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "Facturation contractuelle par conversation ; modèles IA par défaut inclus dans l'offre annoncée.",
+      "en": "Contracted per-conversation pricing; default AI models included in announced offer.",
+      "sourceUrl": "https://www.cognigy.com/news/nice-launches-next-generation-nice-cognigy-to-accelerate-enterprise-ai-agent-deployment-and-orchestration",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-57"
+  },
+  "automation-anywhere-agentic-automation": {
+    "accessFr": "Automatisation agentique et RPA sur la plateforme Automation Anywhere.",
+    "accessEn": "Agentic automation and RPA on the Automation Anywhere platform.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Licences et ressources sur devis selon modules et automatisations déployées.",
+      "en": "Licensing and resources quoted by modules and deployed automations.",
+      "sourceUrl": "https://www.automationanywhere.com/products",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-57"
+  },
+  "palantir-aip-agents": {
+    "accessFr": "Agents et processus d'entreprise intégrés à Palantir AIP et Foundry.",
+    "accessEn": "Enterprise agents and processes within Palantir AIP and Foundry.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Contrats entreprise et infrastructure négociés ; pas de forfait grand public.",
+      "en": "Negotiated enterprise contracts and infrastructure; no consumer tier.",
+      "sourceUrl": "https://www.palantir.com/docs/foundry/platform-overview/aip-capabilities",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-57"
+  },
+  "stackai": {
+    "accessFr": "Créateur Web d'agents avec connecteurs, gouvernance et contrôles d'entreprise.",
+    "accessEn": "Web agent builder with integrations and enterprise governance.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Plan Free de découverte, puis offres équipes et entreprise.",
+      "en": "Free discovery plan, then team and enterprise offerings.",
+      "sourceUrl": "https://web.dev.stack-ai.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-57"
+  },
+  "pega-agentic-ai": {
+    "accessFr": "Agents Pega Infinity et orchestration de workflows professionnels.",
+    "accessEn": "Pega Infinity agents and professional workflow orchestration.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "Pega Infinity 26 propose un prix par dossier terminé, incluant les modèles IA gérés par Pega.",
+      "en": "Pega Infinity 26 offers per-completed-case pricing including Pega-managed AI models.",
+      "sourceUrl": "https://www.pega.com/ai-token-calculator",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-57"
+  },
+  "beam-ai": {
+    "accessFr": "Plateforme Web d'agents pour automatiser et gouverner des workflows métier.",
+    "accessEn": "Web agents platform for automating and governing business workflows.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Accès commercial et configurations d'entreprise sur proposition ; prix à confirmer avec Beam.",
+      "en": "Commercial access and enterprise configurations by proposal; confirm prices with Beam.",
+      "sourceUrl": "https://beam.ai/platform",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-57"
+  }
+}
