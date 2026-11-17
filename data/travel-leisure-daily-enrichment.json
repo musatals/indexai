@@ -1,0 +1,899 @@
+{
+  "mindtrip": {
+    "descriptionFr": "Assistant de voyage pour découvrir des destinations, construire des itinéraires cartographiés et explorer des options de réservation.",
+    "descriptionEn": "AI travel assistant for discovering destinations, creating map-based itineraries and exploring booking options.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Recommandations et conversation de planification",
+      "Itinéraires visualisables sur une carte",
+      "Guides de voyage et options de réservation"
+    ],
+    "featuresEn": [
+      "AI-powered trip recommendations and planning chat",
+      "Map-based itineraries",
+      "Travel guides and booking options"
+    ],
+    "accessFr": "Service web, application ou interface conversationnelle selon fournisseur",
+    "accessEn": "Web service, app or conversational interface depending on provider",
+    "officialSources": [
+      {
+        "url": "https://mindtrip.ai/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_status_and_limitations"
+      }
+    ],
+    "research": {
+      "headline": "Assistant de voyage pour découvrir des destinations, construire des itinéraires cartographiés et explorer des options de réservation.",
+      "audiences": [
+        "Voyageurs individuels, familles et groupes",
+        "Organisateurs de séjours et professionnels du tourisme"
+      ],
+      "cases": [
+        "Planifier un séjour selon durée, rythme, accessibilité et centres d’intérêt en citant les sources à vérifier.",
+        "Comparer les étapes suggérées aux horaires, réservations et déplacements réels avant départ."
+      ],
+      "advantages": [
+        "Recommandations et conversation de planification",
+        "Itinéraires visualisables sur une carte",
+        "Guides de voyage et options de réservation"
+      ],
+      "limits": [
+        "Les disponibilités et tarifs doivent être revérifiés chez chaque prestataire ; une suggestion n’est pas une réservation.",
+        "Les prix, formalités, horaires et recommandations générés peuvent être inexacts ou obsolètes."
+      ],
+      "gettingStarted": [
+        "Définir destination, dates, budget, contraintes de mobilité et préférences.",
+        "Comparer les propositions avec les sites officiels de transport, d’hébergement et d’attractions."
+      ],
+      "examples": [
+        "Prépare un itinéraire réaliste de trois jours avec pauses, transports et liens officiels à vérifier.",
+        "Propose deux variantes du séjour selon météo, budget et accessibilité."
+      ],
+      "pricing": "Vérifier les formules et tarifs actuels auprès du fournisseur ; ne pas assimiler les recommandations aux réservations payées.",
+      "privacy": "Éviter de saisir documents d’identité, données médicales, coordonnées exactes ou réservations confidentielles sans nécessité ; vérifier conservation et partage des informations.",
+      "selection": [
+        "Comparer facilité d’utilisation, couverture géographique et linguistique, qualité des réponses, transparence des coûts et assistance humaine."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official_or_provider_documentation",
+      "sources": [
+        {
+          "url": "https://mindtrip.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "layla": {
+    "descriptionFr": "Assistant de planification de voyages avec création d’itinéraires et possibilité de réservation, notamment avec accompagnement humain.",
+    "descriptionEn": "Travel planning assistant offering itineraries and booking options, including human advisor support.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Projets d’itinéraires personnalisés",
+      "Exploration de destinations et voyages sur mesure",
+      "Réservation avec services de conseillers selon formule"
+    ],
+    "featuresEn": [
+      "Personalized itinerary drafts",
+      "Destination discovery and tailored travel",
+      "Advisor-assisted bookings depending on service"
+    ],
+    "accessFr": "Service web, application ou interface conversationnelle selon fournisseur",
+    "accessEn": "Web service, app or conversational interface depending on provider",
+    "officialSources": [
+      {
+        "url": "https://layla.ai/about",
+        "checkedAt": "2026-11-17",
+        "scope": "features_status_and_limitations"
+      }
+    ],
+    "research": {
+      "headline": "Assistant de planification de voyages avec création d’itinéraires et possibilité de réservation, notamment avec accompagnement humain.",
+      "audiences": [
+        "Voyageurs individuels, familles et groupes",
+        "Organisateurs de séjours et professionnels du tourisme"
+      ],
+      "cases": [
+        "Planifier un séjour selon durée, rythme, accessibilité et centres d’intérêt en citant les sources à vérifier.",
+        "Comparer les étapes suggérées aux horaires, réservations et déplacements réels avant départ."
+      ],
+      "advantages": [
+        "Projets d’itinéraires personnalisés",
+        "Exploration de destinations et voyages sur mesure",
+        "Réservation avec services de conseillers selon formule"
+      ],
+      "limits": [
+        "Distinguer la planification automatisée de la réservation effectuée par un conseiller ; conditions et frais peuvent varier.",
+        "Les prix, formalités, horaires et recommandations générés peuvent être inexacts ou obsolètes."
+      ],
+      "gettingStarted": [
+        "Définir destination, dates, budget, contraintes de mobilité et préférences.",
+        "Comparer les propositions avec les sites officiels de transport, d’hébergement et d’attractions."
+      ],
+      "examples": [
+        "Prépare un itinéraire réaliste de trois jours avec pauses, transports et liens officiels à vérifier.",
+        "Propose deux variantes du séjour selon météo, budget et accessibilité."
+      ],
+      "pricing": "Vérifier les formules et tarifs actuels auprès du fournisseur ; ne pas assimiler les recommandations aux réservations payées.",
+      "privacy": "Éviter de saisir documents d’identité, données médicales, coordonnées exactes ou réservations confidentielles sans nécessité ; vérifier conservation et partage des informations.",
+      "selection": [
+        "Comparer facilité d’utilisation, couverture géographique et linguistique, qualité des réponses, transparence des coûts et assistance humaine."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official_or_provider_documentation",
+      "sources": [
+        {
+          "url": "https://layla.ai/about",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "wonderplan": {
+    "descriptionFr": "Générateur d’itinéraires de voyage personnalisés selon destination, durée, budget et préférences.",
+    "descriptionEn": "AI itinerary generator using destination, trip duration, budget and preferences.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Génération de programmes de voyage",
+      "Personnalisation à partir des préférences",
+      "Organisation d’étapes par journée"
+    ],
+    "featuresEn": [
+      "AI travel itinerary generation",
+      "Preference-based customization",
+      "Daily stop planning"
+    ],
+    "accessFr": "Service web, application ou interface conversationnelle selon fournisseur",
+    "accessEn": "Web service, app or conversational interface depending on provider",
+    "officialSources": [
+      {
+        "url": "https://wonderplan.ai/v2/trip-planner",
+        "checkedAt": "2026-11-17",
+        "scope": "features_status_and_limitations"
+      }
+    ],
+    "research": {
+      "headline": "Générateur d’itinéraires de voyage personnalisés selon destination, durée, budget et préférences.",
+      "audiences": [
+        "Voyageurs individuels, familles et groupes",
+        "Organisateurs de séjours et professionnels du tourisme"
+      ],
+      "cases": [
+        "Planifier un séjour selon durée, rythme, accessibilité et centres d’intérêt en citant les sources à vérifier.",
+        "Comparer les étapes suggérées aux horaires, réservations et déplacements réels avant départ."
+      ],
+      "advantages": [
+        "Génération de programmes de voyage",
+        "Personnalisation à partir des préférences",
+        "Organisation d’étapes par journée"
+      ],
+      "limits": [
+        "L’itinéraire n’assure ni la réalité des horaires ni celle des disponibilités de transport ou d’hébergement.",
+        "Les prix, formalités, horaires et recommandations générés peuvent être inexacts ou obsolètes."
+      ],
+      "gettingStarted": [
+        "Définir destination, dates, budget, contraintes de mobilité et préférences.",
+        "Comparer les propositions avec les sites officiels de transport, d’hébergement et d’attractions."
+      ],
+      "examples": [
+        "Prépare un itinéraire réaliste de trois jours avec pauses, transports et liens officiels à vérifier.",
+        "Propose deux variantes du séjour selon météo, budget et accessibilité."
+      ],
+      "pricing": "Vérifier les formules et tarifs actuels auprès du fournisseur ; ne pas assimiler les recommandations aux réservations payées.",
+      "privacy": "Éviter de saisir documents d’identité, données médicales, coordonnées exactes ou réservations confidentielles sans nécessité ; vérifier conservation et partage des informations.",
+      "selection": [
+        "Comparer facilité d’utilisation, couverture géographique et linguistique, qualité des réponses, transparence des coûts et assistance humaine."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official_or_provider_documentation",
+      "sources": [
+        {
+          "url": "https://wonderplan.ai/v2/trip-planner",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "guidegeek": {
+    "descriptionFr": "Assistant conversationnel de voyage créé par Matador Network, accessible notamment via messageries et partenaires touristiques.",
+    "descriptionEn": "Conversational travel assistant from Matador Network, available through messaging and tourism partners.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Questions-réponses sur les destinations",
+      "Recommandations de visite",
+      "Assistants personnalisés pour destinations touristiques"
+    ],
+    "featuresEn": [
+      "Destination question answering",
+      "Sightseeing recommendations",
+      "Destination-specific travel assistants"
+    ],
+    "accessFr": "Service web, application ou interface conversationnelle selon fournisseur",
+    "accessEn": "Web service, app or conversational interface depending on provider",
+    "officialSources": [
+      {
+        "url": "https://brands.guidegeek.com/press",
+        "checkedAt": "2026-11-17",
+        "scope": "features_status_and_limitations"
+      }
+    ],
+    "research": {
+      "headline": "Assistant conversationnel de voyage créé par Matador Network, accessible notamment via messageries et partenaires touristiques.",
+      "audiences": [
+        "Voyageurs individuels, familles et groupes",
+        "Organisateurs de séjours et professionnels du tourisme"
+      ],
+      "cases": [
+        "Planifier un séjour selon durée, rythme, accessibilité et centres d’intérêt en citant les sources à vérifier.",
+        "Comparer les étapes suggérées aux horaires, réservations et déplacements réels avant départ."
+      ],
+      "advantages": [
+        "Questions-réponses sur les destinations",
+        "Recommandations de visite",
+        "Assistants personnalisés pour destinations touristiques"
+      ],
+      "limits": [
+        "Canaux et fonctionnalités varient selon l’intégration ; contrôler les informations locales et les heures d’ouverture.",
+        "Les prix, formalités, horaires et recommandations générés peuvent être inexacts ou obsolètes."
+      ],
+      "gettingStarted": [
+        "Définir destination, dates, budget, contraintes de mobilité et préférences.",
+        "Comparer les propositions avec les sites officiels de transport, d’hébergement et d’attractions."
+      ],
+      "examples": [
+        "Prépare un itinéraire réaliste de trois jours avec pauses, transports et liens officiels à vérifier.",
+        "Propose deux variantes du séjour selon météo, budget et accessibilité."
+      ],
+      "pricing": "Vérifier les formules et tarifs actuels auprès du fournisseur ; ne pas assimiler les recommandations aux réservations payées.",
+      "privacy": "Éviter de saisir documents d’identité, données médicales, coordonnées exactes ou réservations confidentielles sans nécessité ; vérifier conservation et partage des informations.",
+      "selection": [
+        "Comparer facilité d’utilisation, couverture géographique et linguistique, qualité des réponses, transparence des coûts et assistance humaine."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official_or_provider_documentation",
+      "sources": [
+        {
+          "url": "https://brands.guidegeek.com/press",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "vacay": {
+    "descriptionFr": "Plateforme de découverte et de conseil en voyage utilisant des chatbots pour recherche et préparation d’itinéraires.",
+    "descriptionEn": "AI-assisted travel discovery and advisory platform with chatbots for trip research and itinerary preparation.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Chatbot de conseil en voyage",
+      "Recherche de destinations et prestations",
+      "Outils dédiés aux conseillers professionnels"
+    ],
+    "featuresEn": [
+      "Travel advisory chatbot",
+      "Destination and travel service search",
+      "Professional advisor tools"
+    ],
+    "accessFr": "Service web, application ou interface conversationnelle selon fournisseur",
+    "accessEn": "Web service, app or conversational interface depending on provider",
+    "officialSources": [
+      {
+        "url": "https://www.usevacay.com/advisor-tools",
+        "checkedAt": "2026-11-17",
+        "scope": "features_status_and_limitations"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de découverte et de conseil en voyage utilisant des chatbots pour recherche et préparation d’itinéraires.",
+      "audiences": [
+        "Voyageurs individuels, familles et groupes",
+        "Organisateurs de séjours et professionnels du tourisme"
+      ],
+      "cases": [
+        "Planifier un séjour selon durée, rythme, accessibilité et centres d’intérêt en citant les sources à vérifier.",
+        "Comparer les étapes suggérées aux horaires, réservations et déplacements réels avant départ."
+      ],
+      "advantages": [
+        "Chatbot de conseil en voyage",
+        "Recherche de destinations et prestations",
+        "Outils dédiés aux conseillers professionnels"
+      ],
+      "limits": [
+        "Tarifs et options dépendent de l’abonnement ; vérifier partenaires et modalités de réservation.",
+        "Les prix, formalités, horaires et recommandations générés peuvent être inexacts ou obsolètes."
+      ],
+      "gettingStarted": [
+        "Définir destination, dates, budget, contraintes de mobilité et préférences.",
+        "Comparer les propositions avec les sites officiels de transport, d’hébergement et d’attractions."
+      ],
+      "examples": [
+        "Prépare un itinéraire réaliste de trois jours avec pauses, transports et liens officiels à vérifier.",
+        "Propose deux variantes du séjour selon météo, budget et accessibilité."
+      ],
+      "pricing": "Vérifier les formules et tarifs actuels auprès du fournisseur ; ne pas assimiler les recommandations aux réservations payées.",
+      "privacy": "Éviter de saisir documents d’identité, données médicales, coordonnées exactes ou réservations confidentielles sans nécessité ; vérifier conservation et partage des informations.",
+      "selection": [
+        "Comparer facilité d’utilisation, couverture géographique et linguistique, qualité des réponses, transparence des coûts et assistance humaine."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official_or_provider_documentation",
+      "sources": [
+        {
+          "url": "https://www.usevacay.com/advisor-tools",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "roam-around": {
+    "descriptionFr": "Assistant de planification qui propose des itinéraires de voyage générés par IA ; disponibilité opérationnelle actuelle à reconfirmer.",
+    "descriptionEn": "AI itinerary planning assistant; current operational availability requires fresh confirmation.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Génération d’idées d’itinéraires",
+      "Personnalisation de voyages",
+      "Historique d’assistant conversationnel de voyage"
+    ],
+    "featuresEn": [
+      "Travel itinerary ideas",
+      "Personalized trip suggestions",
+      "Historically conversational travel planning"
+    ],
+    "accessFr": "Disponibilité à reconfirmer",
+    "accessEn": "Availability requires verification",
+    "officialSources": [
+      {
+        "url": "https://www.roamaround.io/blog",
+        "checkedAt": "2026-11-17",
+        "scope": "features_status_and_limitations"
+      }
+    ],
+    "research": {
+      "headline": "Assistant de planification qui propose des itinéraires de voyage générés par IA ; disponibilité opérationnelle actuelle à reconfirmer.",
+      "audiences": [
+        "Voyageurs individuels, familles et groupes",
+        "Organisateurs de séjours et professionnels du tourisme"
+      ],
+      "cases": [
+        "Planifier un séjour selon durée, rythme, accessibilité et centres d’intérêt en citant les sources à vérifier.",
+        "Comparer les étapes suggérées aux horaires, réservations et déplacements réels avant départ."
+      ],
+      "advantages": [
+        "Génération d’idées d’itinéraires",
+        "Personnalisation de voyages",
+        "Historique d’assistant conversationnel de voyage"
+      ],
+      "limits": [
+        "Le contenu officiel identifié est ancien et des redirections sont signalées ; tester le parcours utilisateur avant de présenter l’outil comme pleinement actif.",
+        "Les prix, formalités, horaires et recommandations générés peuvent être inexacts ou obsolètes."
+      ],
+      "gettingStarted": [
+        "Définir destination, dates, budget, contraintes de mobilité et préférences.",
+        "Comparer les propositions avec les sites officiels de transport, d’hébergement et d’attractions."
+      ],
+      "examples": [
+        "Prépare un itinéraire réaliste de trois jours avec pauses, transports et liens officiels à vérifier.",
+        "Propose deux variantes du séjour selon météo, budget et accessibilité."
+      ],
+      "pricing": "Vérifier les formules et tarifs actuels auprès du fournisseur ; ne pas assimiler les recommandations aux réservations payées.",
+      "privacy": "Éviter de saisir documents d’identité, données médicales, coordonnées exactes ou réservations confidentielles sans nécessité ; vérifier conservation et partage des informations.",
+      "selection": [
+        "Comparer facilité d’utilisation, couverture géographique et linguistique, qualité des réponses, transparence des coûts et assistance humaine."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "availability_unverified",
+      "evidence": "insufficient_current_confirmation",
+      "sources": [
+        {
+          "url": "https://www.roamaround.io/blog",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "review_needed"
+  },
+  "trip-planner-ai": {
+    "descriptionFr": "Application d’organisation de voyages qui rassemble itinéraires, informations de réservation et inspirations de séjour.",
+    "descriptionEn": "Trip planning application combining itineraries, booking details and travel inspiration.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Planification selon type de séjour",
+      "Regroupement des informations de vol et d’hôtel",
+      "Importation d’idées et guides de voyage"
+    ],
+    "featuresEn": [
+      "Trip-style itinerary planning",
+      "Flight and hotel information organization",
+      "Importing travel inspiration and guides"
+    ],
+    "accessFr": "Service web, application ou interface conversationnelle selon fournisseur",
+    "accessEn": "Web service, app or conversational interface depending on provider",
+    "officialSources": [
+      {
+        "url": "https://tripplanner.ai/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_status_and_limitations"
+      }
+    ],
+    "research": {
+      "headline": "Application d’organisation de voyages qui rassemble itinéraires, informations de réservation et inspirations de séjour.",
+      "audiences": [
+        "Voyageurs individuels, familles et groupes",
+        "Organisateurs de séjours et professionnels du tourisme"
+      ],
+      "cases": [
+        "Planifier un séjour selon durée, rythme, accessibilité et centres d’intérêt en citant les sources à vérifier.",
+        "Comparer les étapes suggérées aux horaires, réservations et déplacements réels avant départ."
+      ],
+      "advantages": [
+        "Planification selon type de séjour",
+        "Regroupement des informations de vol et d’hôtel",
+        "Importation d’idées et guides de voyage"
+      ],
+      "limits": [
+        "La centralisation d’informations ne garantit pas la réservation effective ni la disponibilité en temps réel.",
+        "Les prix, formalités, horaires et recommandations générés peuvent être inexacts ou obsolètes."
+      ],
+      "gettingStarted": [
+        "Définir destination, dates, budget, contraintes de mobilité et préférences.",
+        "Comparer les propositions avec les sites officiels de transport, d’hébergement et d’attractions."
+      ],
+      "examples": [
+        "Prépare un itinéraire réaliste de trois jours avec pauses, transports et liens officiels à vérifier.",
+        "Propose deux variantes du séjour selon météo, budget et accessibilité."
+      ],
+      "pricing": "Vérifier les formules et tarifs actuels auprès du fournisseur ; ne pas assimiler les recommandations aux réservations payées.",
+      "privacy": "Éviter de saisir documents d’identité, données médicales, coordonnées exactes ou réservations confidentielles sans nécessité ; vérifier conservation et partage des informations.",
+      "selection": [
+        "Comparer facilité d’utilisation, couverture géographique et linguistique, qualité des réponses, transparence des coûts et assistance humaine."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official_or_provider_documentation",
+      "sources": [
+        {
+          "url": "https://tripplanner.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "wanderlog": {
+    "descriptionFr": "Planificateur de voyages collaboratif avec cartes, étapes, budgets, réservations et assistant IA.",
+    "descriptionEn": "Collaborative travel planner with maps, stops, budgets, reservations and an AI assistant.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Itinéraires et cartes partagés",
+      "Optimisation de trajets et gestion des dépenses",
+      "Assistant IA, réservations et listes de bagages"
+    ],
+    "featuresEn": [
+      "Shared itineraries and maps",
+      "Route optimization and expense planning",
+      "AI assistant, reservations and packing lists"
+    ],
+    "accessFr": "Service web, application ou interface conversationnelle selon fournisseur",
+    "accessEn": "Web service, app or conversational interface depending on provider",
+    "officialSources": [
+      {
+        "url": "https://wanderlog.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_status_and_limitations"
+      }
+    ],
+    "research": {
+      "headline": "Planificateur de voyages collaboratif avec cartes, étapes, budgets, réservations et assistant IA.",
+      "audiences": [
+        "Voyageurs individuels, familles et groupes",
+        "Organisateurs de séjours et professionnels du tourisme"
+      ],
+      "cases": [
+        "Planifier un séjour selon durée, rythme, accessibilité et centres d’intérêt en citant les sources à vérifier.",
+        "Comparer les étapes suggérées aux horaires, réservations et déplacements réels avant départ."
+      ],
+      "advantages": [
+        "Itinéraires et cartes partagés",
+        "Optimisation de trajets et gestion des dépenses",
+        "Assistant IA, réservations et listes de bagages"
+      ],
+      "limits": [
+        "Certaines fonctions peuvent dépendre de l’offre payante ; les trajets et horaires doivent être validés.",
+        "Les prix, formalités, horaires et recommandations générés peuvent être inexacts ou obsolètes."
+      ],
+      "gettingStarted": [
+        "Définir destination, dates, budget, contraintes de mobilité et préférences.",
+        "Comparer les propositions avec les sites officiels de transport, d’hébergement et d’attractions."
+      ],
+      "examples": [
+        "Prépare un itinéraire réaliste de trois jours avec pauses, transports et liens officiels à vérifier.",
+        "Propose deux variantes du séjour selon météo, budget et accessibilité."
+      ],
+      "pricing": "Vérifier les formules et tarifs actuels auprès du fournisseur ; ne pas assimiler les recommandations aux réservations payées.",
+      "privacy": "Éviter de saisir documents d’identité, données médicales, coordonnées exactes ou réservations confidentielles sans nécessité ; vérifier conservation et partage des informations.",
+      "selection": [
+        "Comparer facilité d’utilisation, couverture géographique et linguistique, qualité des réponses, transparence des coûts et assistance humaine."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official_or_provider_documentation",
+      "sources": [
+        {
+          "url": "https://wanderlog.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "google-maps-gemini": {
+    "descriptionFr": "Fonctions Gemini intégrées à Google Maps pour explorer des lieux, poser des questions et faciliter la navigation selon pays et appareil.",
+    "descriptionEn": "Gemini-powered Google Maps features for place discovery, conversational queries and navigation depending on region and device.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Recherche conversationnelle de lieux avec Ask Maps",
+      "Navigation enrichie par Gemini",
+      "Suggestions et planification d’étapes selon déploiement"
+    ],
+    "featuresEn": [
+      "Conversational place search with Ask Maps",
+      "Gemini-assisted navigation",
+      "Stop suggestions and trip planning where rolled out"
+    ],
+    "accessFr": "Service web, application ou interface conversationnelle selon fournisseur",
+    "accessEn": "Web service, app or conversational interface depending on provider",
+    "officialSources": [
+      {
+        "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_status_and_limitations"
+      }
+    ],
+    "research": {
+      "headline": "Fonctions Gemini intégrées à Google Maps pour explorer des lieux, poser des questions et faciliter la navigation selon pays et appareil.",
+      "audiences": [
+        "Voyageurs individuels, familles et groupes",
+        "Organisateurs de séjours et professionnels du tourisme"
+      ],
+      "cases": [
+        "Planifier un séjour selon durée, rythme, accessibilité et centres d’intérêt en citant les sources à vérifier.",
+        "Comparer les étapes suggérées aux horaires, réservations et déplacements réels avant départ."
+      ],
+      "advantages": [
+        "Recherche conversationnelle de lieux avec Ask Maps",
+        "Navigation enrichie par Gemini",
+        "Suggestions et planification d’étapes selon déploiement"
+      ],
+      "limits": [
+        "Fonctionnalités déployées progressivement : ne pas présumer leur présence dans tous les pays ou comptes ni la disponibilité d’un lieu.",
+        "Les prix, formalités, horaires et recommandations générés peuvent être inexacts ou obsolètes."
+      ],
+      "gettingStarted": [
+        "Définir destination, dates, budget, contraintes de mobilité et préférences.",
+        "Comparer les propositions avec les sites officiels de transport, d’hébergement et d’attractions."
+      ],
+      "examples": [
+        "Prépare un itinéraire réaliste de trois jours avec pauses, transports et liens officiels à vérifier.",
+        "Propose deux variantes du séjour selon météo, budget et accessibilité."
+      ],
+      "pricing": "Vérifier les formules et tarifs actuels auprès du fournisseur ; ne pas assimiler les recommandations aux réservations payées.",
+      "privacy": "Éviter de saisir documents d’identité, données médicales, coordonnées exactes ou réservations confidentielles sans nécessité ; vérifier conservation et partage des informations.",
+      "selection": [
+        "Comparer facilité d’utilisation, couverture géographique et linguistique, qualité des réponses, transparence des coûts et assistance humaine."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "rollout_varies",
+      "evidence": "official_or_provider_documentation",
+      "sources": [
+        {
+          "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "yummly": {
+    "descriptionFr": "Ancien service de découverte de recettes et de planification culinaire de Whirlpool, définitivement fermé en décembre 2024.",
+    "descriptionEn": "Former Whirlpool recipe discovery and meal-planning service, permanently discontinued in December 2024.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Catalogue de recettes historique",
+      "Recommandations alimentaires historiques",
+      "Service non disponible depuis décembre 2024"
+    ],
+    "featuresEn": [
+      "Historical recipe catalog",
+      "Historical food recommendations",
+      "Service unavailable since December 2024"
+    ],
+    "accessFr": "Service fermé",
+    "accessEn": "Discontinued service",
+    "officialSources": [
+      {
+        "url": "https://www.yummly.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_status_and_limitations"
+      }
+    ],
+    "research": {
+      "headline": "Ancien service de découverte de recettes et de planification culinaire de Whirlpool, définitivement fermé en décembre 2024.",
+      "audiences": [
+        "Grand public et utilisateurs d’outils d’assistance",
+        "Professionnels de l’accompagnement et de l’accessibilité"
+      ],
+      "cases": [
+        "Proposer des idées de repas selon ingrédients et contraintes déclarées.",
+        "Vérifier allergènes, cuisson et quantités avec des références fiables."
+      ],
+      "advantages": [
+        "Catalogue de recettes historique",
+        "Recommandations alimentaires historiques",
+        "Service non disponible depuis décembre 2024"
+      ],
+      "limits": [
+        "Service arrêté : ne pas orienter les visiteurs vers une inscription, une application ou une offre active.",
+        "Vérifier toute recommandation générée avant un usage réel, surtout en contexte sensible."
+      ],
+      "gettingStarted": [
+        "Définir le besoin, les données nécessaires et les contraintes de confidentialité.",
+        "Tester avec un exemple non sensible puis contrôler les recommandations."
+      ],
+      "examples": [
+        "Explique la démarche proposée en étapes accessibles et vérifiables.",
+        "Signale tes incertitudes et les situations nécessitant une personne compétente."
+      ],
+      "pricing": "Vérifier les formules et tarifs actuels auprès du fournisseur ; ne pas assimiler les recommandations aux réservations payées.",
+      "privacy": "Éviter de saisir documents d’identité, données médicales, coordonnées exactes ou réservations confidentielles sans nécessité ; vérifier conservation et partage des informations.",
+      "selection": [
+        "Comparer facilité d’utilisation, couverture géographique et linguistique, qualité des réponses, transparence des coûts et assistance humaine."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "discontinued",
+      "evidence": "official_or_provider_documentation",
+      "sources": [
+        {
+          "url": "https://www.yummly.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "chefgpt": {
+    "descriptionFr": "Assistant de cuisine par IA proposant des recettes à partir d’ingrédients et de préférences ; étendue actuelle de l’offre à confirmer.",
+    "descriptionEn": "AI cooking assistant generating recipes based on ingredients and preferences; current offering details need verification.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Idées de recettes personnalisées",
+      "Suggestions à partir d’ingrédients",
+      "Aide à la préparation de repas"
+    ],
+    "featuresEn": [
+      "Personalized recipe ideas",
+      "Ingredient-based suggestions",
+      "Meal preparation assistance"
+    ],
+    "accessFr": "Service web, application ou interface conversationnelle selon fournisseur",
+    "accessEn": "Web service, app or conversational interface depending on provider",
+    "officialSources": [
+      {
+        "url": "https://www.chefgpt.xyz",
+        "checkedAt": "2026-11-17",
+        "scope": "features_status_and_limitations"
+      }
+    ],
+    "research": {
+      "headline": "Assistant de cuisine par IA proposant des recettes à partir d’ingrédients et de préférences ; étendue actuelle de l’offre à confirmer.",
+      "audiences": [
+        "Grand public et utilisateurs d’outils d’assistance",
+        "Professionnels de l’accompagnement et de l’accessibilité"
+      ],
+      "cases": [
+        "Proposer des idées de repas selon ingrédients et contraintes déclarées.",
+        "Vérifier allergènes, cuisson et quantités avec des références fiables."
+      ],
+      "advantages": [
+        "Idées de recettes personnalisées",
+        "Suggestions à partir d’ingrédients",
+        "Aide à la préparation de repas"
+      ],
+      "limits": [
+        "Vérifier disponibilité et conditions actuelles du service ; les recettes nécessitent contrôle nutritionnel, allergènes et sécurité alimentaire.",
+        "Vérifier toute recommandation générée avant un usage réel, surtout en contexte sensible."
+      ],
+      "gettingStarted": [
+        "Définir le besoin, les données nécessaires et les contraintes de confidentialité.",
+        "Tester avec un exemple non sensible puis contrôler les recommandations."
+      ],
+      "examples": [
+        "Explique la démarche proposée en étapes accessibles et vérifiables.",
+        "Signale tes incertitudes et les situations nécessitant une personne compétente."
+      ],
+      "pricing": "Vérifier les formules et tarifs actuels auprès du fournisseur ; ne pas assimiler les recommandations aux réservations payées.",
+      "privacy": "Éviter de saisir documents d’identité, données médicales, coordonnées exactes ou réservations confidentielles sans nécessité ; vérifier conservation et partage des informations.",
+      "selection": [
+        "Comparer facilité d’utilisation, couverture géographique et linguistique, qualité des réponses, transparence des coûts et assistance humaine."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "needs_reverification",
+      "evidence": "official_or_provider_documentation",
+      "sources": [
+        {
+          "url": "https://www.chefgpt.xyz",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "review_needed"
+  },
+  "goblin-tools": {
+    "descriptionFr": "Collection de petits outils d’IA pour décomposer des tâches, reformuler un texte, estimer une durée et organiser des idées.",
+    "descriptionEn": "Collection of AI-powered tools for breaking down tasks, rewriting text, estimating duration and organizing ideas.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Magic ToDo et décomposition de tâches",
+      "Formalizer et reformulation du ton",
+      "Estimator, Compiler et outils de décision"
+    ],
+    "featuresEn": [
+      "Magic ToDo task breakdown",
+      "Formalizer tone rewriting",
+      "Estimator, Compiler and decision aids"
+    ],
+    "accessFr": "Service web, application ou interface conversationnelle selon fournisseur",
+    "accessEn": "Web service, app or conversational interface depending on provider",
+    "officialSources": [
+      {
+        "url": "https://goblin.tools/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_status_and_limitations"
+      }
+    ],
+    "research": {
+      "headline": "Collection de petits outils d’IA pour décomposer des tâches, reformuler un texte, estimer une durée et organiser des idées.",
+      "audiences": [
+        "Grand public et utilisateurs d’outils d’assistance",
+        "Professionnels de l’accompagnement et de l’accessibilité"
+      ],
+      "cases": [
+        "Décomposer une démarche quotidienne complexe en sous-tâches concrètes.",
+        "Reformuler un message dans un ton plus accessible."
+      ],
+      "advantages": [
+        "Magic ToDo et décomposition de tâches",
+        "Formalizer et reformulation du ton",
+        "Estimator, Compiler et outils de décision"
+      ],
+      "limits": [
+        "Estimations approximatives et génération parfois erronée ; les résultats doivent être adaptés aux circonstances personnelles.",
+        "Vérifier toute recommandation générée avant un usage réel, surtout en contexte sensible."
+      ],
+      "gettingStarted": [
+        "Définir le besoin, les données nécessaires et les contraintes de confidentialité.",
+        "Tester avec un exemple non sensible puis contrôler les recommandations."
+      ],
+      "examples": [
+        "Explique la démarche proposée en étapes accessibles et vérifiables.",
+        "Signale tes incertitudes et les situations nécessitant une personne compétente."
+      ],
+      "pricing": "Vérifier les formules et tarifs actuels auprès du fournisseur ; ne pas assimiler les recommandations aux réservations payées.",
+      "privacy": "Éviter de saisir documents d’identité, données médicales, coordonnées exactes ou réservations confidentielles sans nécessité ; vérifier conservation et partage des informations.",
+      "selection": [
+        "Comparer facilité d’utilisation, couverture géographique et linguistique, qualité des réponses, transparence des coûts et assistance humaine."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official_or_provider_documentation",
+      "sources": [
+        {
+          "url": "https://goblin.tools/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "be-my-eyes": {
+    "descriptionFr": "Service d’accessibilité visuelle combinant assistance vidéo par bénévoles, aide IA Be My AI et annuaire de services.",
+    "descriptionEn": "Visual accessibility service combining volunteer video assistance, Be My AI and a service directory.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Assistance vidéo humaine",
+      "Descriptions visuelles avec Be My AI",
+      "Accès à des services partenaires et versions compatibles"
+    ],
+    "featuresEn": [
+      "Human visual assistance by video",
+      "AI image descriptions with Be My AI",
+      "Partner service directory and supported clients"
+    ],
+    "accessFr": "Service web, application ou interface conversationnelle selon fournisseur",
+    "accessEn": "Web service, app or conversational interface depending on provider",
+    "officialSources": [
+      {
+        "url": "https://www.bemyeyes.com/bme-ai/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_status_and_limitations"
+      }
+    ],
+    "research": {
+      "headline": "Service d’accessibilité visuelle combinant assistance vidéo par bénévoles, aide IA Be My AI et annuaire de services.",
+      "audiences": [
+        "Grand public et utilisateurs d’outils d’assistance",
+        "Professionnels de l’accompagnement et de l’accessibilité"
+      ],
+      "cases": [
+        "Obtenir une description d’un document ou d’un objet difficile à identifier.",
+        "Demander une confirmation humaine lorsque la situation présente un risque."
+      ],
+      "advantages": [
+        "Assistance vidéo humaine",
+        "Descriptions visuelles avec Be My AI",
+        "Accès à des services partenaires et versions compatibles"
+      ],
+      "limits": [
+        "L’IA peut se tromper : ne pas lui confier seule des décisions de sécurité, de santé ou d’orientation dangereuse ; protéger les images personnelles.",
+        "Vérifier toute recommandation générée avant un usage réel, surtout en contexte sensible."
+      ],
+      "gettingStarted": [
+        "Définir le besoin, les données nécessaires et les contraintes de confidentialité.",
+        "Tester avec un exemple non sensible puis contrôler les recommandations."
+      ],
+      "examples": [
+        "Explique la démarche proposée en étapes accessibles et vérifiables.",
+        "Signale tes incertitudes et les situations nécessitant une personne compétente."
+      ],
+      "pricing": "Vérifier les formules et tarifs actuels auprès du fournisseur ; ne pas assimiler les recommandations aux réservations payées.",
+      "privacy": "Éviter de saisir documents d’identité, données médicales, coordonnées exactes ou réservations confidentielles sans nécessité ; vérifier conservation et partage des informations.",
+      "selection": [
+        "Comparer facilité d’utilisation, couverture géographique et linguistique, qualité des réponses, transparence des coûts et assistance humaine."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official_or_provider_documentation",
+      "sources": [
+        {
+          "url": "https://www.bemyeyes.com/bme-ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  }
+}
