@@ -1,0 +1,107 @@
+{
+  "consensus": {
+    "accessFr": "Moteur Web de recherche scientifique ; connecteurs et API selon offre",
+    "accessEn": "Web scientific search engine; integrations and API according to plan",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Recherche gratuite avec quotas ; abonnements Pro, équipes et Enterprise pour les fonctions avancées.",
+      "en": "Free search with limits; Pro, Teams and Enterprise tiers for advanced features.",
+      "sourceUrl": "https://help.consensus.app/en/articles/10087865-subscription-plans",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-12"
+  },
+  "elicit": {
+    "accessFr": "Assistant de recherche Web ; API et intégrations selon formule",
+    "accessEn": "Web research assistant; API and integrations by plan",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Offre Basic gratuite avec limitations de l'agent ; offres Pro et Enterprise pour les analyses avancées.",
+      "en": "Free Basic tier with limited agent usage; Pro and Enterprise for advanced analyses.",
+      "sourceUrl": "https://elicit.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-12"
+  },
+  "researchrabbit": {
+    "accessFr": "Application Web de découverte et cartographie scientifique ; import bibliographique",
+    "accessEn": "Web scientific discovery and mapping app; bibliography imports",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Offre Free Forever pour la veille et les graphes ; ResearchRabbit+ payant, tarif ajusté selon le pays.",
+      "en": "Free Forever tier for literature discovery and maps; paid ResearchRabbit+ with regional pricing.",
+      "sourceUrl": "https://www.researchrabbit.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-12"
+  },
+  "scispace": {
+    "accessFr": "Application Web de lecture, exploration et rédaction scientifique avec agent IA",
+    "accessEn": "Web app for scholarly reading, exploration and writing with an AI agent",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Crédits gratuits limités ; abonnements Premium, Advanced ou Max avec davantage de crédits.",
+      "en": "Limited free credits; Premium, Advanced or Max subscriptions with larger credit allowances.",
+      "sourceUrl": "https://scispace.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-12"
+  },
+  "scholarcy": {
+    "accessFr": "Résumé d'articles sur le Web, bibliothèque Scholarcy et extension de navigateur",
+    "accessEn": "Web article summarizer, Scholarcy Library and browser extension",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Résumé gratuit limité par jour ; essai de sept jours de la bibliothèque puis abonnement mensuel ou annuel.",
+      "en": "Limited free daily article summaries; seven-day Library trial followed by monthly or annual subscription.",
+      "sourceUrl": "https://www.scholarcy.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-12"
+  },
+  "paperpal": {
+    "accessFr": "Assistant de rédaction académique sur le Web et intégrations d'édition selon disponibilité",
+    "accessEn": "Web academic writing assistant and editing integrations where available",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Formule gratuite avec quotas de rédaction et de vérification ; abonnements Prime et Pro payants.",
+      "en": "Free tier with writing and checking limits; paid Prime and Pro subscriptions.",
+      "sourceUrl": "https://paperpal.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-12"
+  },
+  "jenni-ai": {
+    "accessFr": "Éditeur de rédaction et recherche académique accessible sur le Web",
+    "accessEn": "Web editor for academic writing and research",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Formule Free limitée pour la rédaction assistée ; offres payantes pour étendre les fonctions et les quotas.",
+      "en": "Limited Free tier for AI-assisted writing; paid plans expand features and allowances.",
+      "sourceUrl": "https://jenni.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-12"
+  }
+}
