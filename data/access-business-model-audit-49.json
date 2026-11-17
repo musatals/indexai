@@ -1,0 +1,122 @@
+{
+  "taskade": {
+    "accessFr": "Suite Web et applications de création d’agents, de workflows et d’applications Taskade Genesis",
+    "accessEn": "Web and app suite for agents, workflows and Taskade Genesis applications",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Espace Free avec crédits IA limités ; abonnements Pro, Business et Max avec limites accrues.",
+      "en": "Free workspace with limited AI credits; Pro, Business and Max subscriptions expand allowances.",
+      "sourceUrl": "https://www.taskade.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-49"
+  },
+  "relevance-ai": {
+    "accessFr": "Plateforme Web de création d’agents métier et automatisation, avec intégrations",
+    "accessEn": "Web platform for business AI agents and automation with integrations",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Offre Free sans carte bancaire puis plans payants ; crédits fournisseurs de modèles décomptés séparément.",
+      "en": "No-card Free tier plus paid plans; model-vendor credits accounted separately.",
+      "sourceUrl": "https://relevanceai.com/pricing-new",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-49"
+  },
+  "lindy": {
+    "accessFr": "Plateforme Web d’agents personnels et d’entreprise, intégrations et automatisations",
+    "accessEn": "Web platform for personal/business agents, integrations and automations",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Crédits d’essai gratuits, puis abonnements ou tarification entreprise selon consommation.",
+      "en": "Free trial credits followed by subscriptions or enterprise pricing based on usage.",
+      "sourceUrl": "https://www.lindy.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-49"
+  },
+  "composio": {
+    "accessFr": "SDK, API et plateforme d’intégration d’outils pour agents, avec tableau de bord Web",
+    "accessEn": "SDK, API and tool-integration platform for agents with web dashboard",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Niveau Hobby gratuit avec limites ; forfait Pro et offre Enterprise, frais des fournisseurs distincts.",
+      "en": "Free limited Hobby tier; Pro and Enterprise offerings; underlying provider fees separate.",
+      "sourceUrl": "https://composio.dev/pricing/platform",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-49"
+  },
+  "microsoft-copilot-studio": {
+    "accessFr": "Éditeur Web Microsoft d’agents et de workflows, lié à Microsoft 365 et Power Platform",
+    "accessEn": "Microsoft web agent and workflow builder integrated with Microsoft 365 and Power Platform",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "Fonctions internes selon licences Microsoft 365 Copilot ; publication externe et usage autonome en crédits Copilot.",
+      "en": "Internal functions depend on Microsoft 365 Copilot licenses; standalone/external agent usage via Copilot Credits.",
+      "sourceUrl": "https://www.microsoft.com/en-us/copilot/pricing/copilot-studio",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-49"
+  },
+  "microsoft-foundry-agent-service": {
+    "accessFr": "Service d’agents Microsoft Foundry sur Azure, API et outils de développement",
+    "accessEn": "Microsoft Foundry agent service on Azure with APIs and developer tools",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "Facturation Azure du modèle et des outils, connexions de connaissances et services associés selon usage.",
+      "en": "Azure usage charges for models, tools, knowledge connections and associated services.",
+      "sourceUrl": "https://azure.microsoft.com/en-us/pricing/details/foundry-agent-service/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-49"
+  },
+  "amazon-bedrock-agents": {
+    "accessFr": "Agents managés Amazon Bedrock accessibles dans la console AWS et via API/SDK",
+    "accessEn": "Managed Amazon Bedrock Agents via AWS Console and APIs/SDKs",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "Coûts des modèles et services AWS utilisés par les agents, facturés selon consommation.",
+      "en": "Models and AWS services used by agents billed based on consumption.",
+      "sourceUrl": "https://aws.amazon.com/bedrock/pricing/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-49"
+  },
+  "amazon-bedrock-agentcore": {
+    "accessFr": "Infrastructure managée d’exécution d’agents AWS AgentCore, API et intégrations",
+    "accessEn": "AWS managed AgentCore runtime infrastructure, APIs and integrations",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "Tarification à la consommation selon exécution, mémoire et composants AgentCore ; modèle IA facturé séparément.",
+      "en": "Consumption billing for runtime, memory and AgentCore components; AI-model charges separate.",
+      "sourceUrl": "https://aws.amazon.com/bedrock/agentcore/pricing/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-49"
+  }
+}
