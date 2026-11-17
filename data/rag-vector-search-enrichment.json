@@ -1,0 +1,1375 @@
+{
+  "pinecone": {
+    "descriptionFr": "Base de données de recherche gérée Pinecone pour vecteurs denses et creux, plein texte BM25 et modèles d'embedding/reranking intégrés aux applications RAG.",
+    "descriptionEn": "Managed Pinecone search database supporting dense/sparse vectors, BM25 full-text and integrated embedding/reranking for RAG applications.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Indexes serverless avec schémas, filtres et vecteurs denses/creux",
+      "Documents API : ingestion de texte et embeddings intégrés",
+      "Recherche plein texte BM25 et modèles de reranking hébergés"
+    ],
+    "featuresEn": [
+      "Serverless indexes with schemas, filters and dense/sparse vectors",
+      "Documents API with text ingestion and integrated embeddings",
+      "BM25 full-text search and hosted reranking models"
+    ],
+    "accessFr": "Base gérée cloud, accès API et options de région",
+    "accessEn": "Managed cloud database, API and region options",
+    "officialSources": [
+      {
+        "url": "https://www.pinecone.io/pricing/",
+        "checkedAt": "2026-11-15",
+        "scope": "features_and_pricing"
+      },
+      {
+        "url": "https://www.pinecone.io/product/database/",
+        "checkedAt": "2026-11-17",
+        "scope": "search_retrieval_features_and_status"
+      },
+      {
+        "url": "https://www.pinecone.io/blog/docs-api-integrated-embedding/",
+        "checkedAt": "2026-11-17",
+        "scope": "search_retrieval_features_and_status"
+      },
+      {
+        "url": "https://www.pinecone.io/pinecone-answers/",
+        "checkedAt": "2026-11-17",
+        "scope": "search_retrieval_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Base de données de recherche gérée Pinecone pour vecteurs denses et creux, plein texte BM25 et modèles d'embedding/reranking intégrés aux applications RAG.",
+      "audiences": [
+        "Architectes de recherche, équipes de données et développeurs IA",
+        "Responsables des données, de la conformité et de la pertinence"
+      ],
+      "cases": [
+        "Indexer des notices documentaires avec texte, métadonnées, liens d'origine, puis comparer BM25 à la recherche sémantique pour les requêtes précises.",
+        "Comparer recherche lexicale, recherche vectorielle et fusion hybride sur un ensemble de questions évaluées avec leurs réponses de référence."
+      ],
+      "advantages": [
+        "Indexes serverless avec schémas, filtres et vecteurs denses/creux",
+        "Documents API : ingestion de texte et embeddings intégrés",
+        "Recherche plein texte BM25 et modèles de reranking hébergés"
+      ],
+      "limits": [
+        "Le plein texte a été annoncé en disponibilité générale en septembre 2026. Un index combine ces champs, mais le mélange complet des scores BM25 et denses peut exiger des requêtes distinctes et une fusion applicative. Pinecone Local est un émulateur non destiné à la production ; vérifier coûts par lecture/écriture, rétention et région.",
+        "Une récupération de passages n'est pas une garantie de vérité : inspecter les documents d'origine, les métadonnées, les permissions et les scores de rappel/pertinence avant génération."
+      ],
+      "gettingStarted": [
+        "Choisir un corpus autorisé avec identifiants stables, langue, version, source, date et droits par document.",
+        "Indexer un échantillon, tester filtres et recherche dense/BM25, évaluer rappel@k, MRR ou nDCG, citations, coûts et latence."
+      ],
+      "examples": [
+        "Retrouve les documents abordant les bases vectorielles, mais n'utilise que les documents accessibles à mon rôle ; cite le titre, la date et l'URL de chaque passage.",
+        "Compare les résultats sur 30 requêtes bilingues avec exact match, paraphrases, termes rares et demandes sur plusieurs documents."
+      ],
+      "pricing": "Service cloud géré : frais de stockage, lectures/écritures, embeddings et reranking selon forfait et volume.",
+      "privacy": "Les embeddings et graphes peuvent révéler des données sensibles. Appliquer IAM, tenant isolation, chiffrement, politique de résidence, suppression synchronisée, journalisation et filtrage avant la recherche.",
+      "selection": [
+        "Sélectionner Pinecone selon l'architecture (managed_vector_db), la taille du corpus, la recherche exacte et sémantique, la fraîcheur, le contrôle d'accès, le coût et la qualité de récupération."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "fulltext_ga_and_integrated_embedding",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.pinecone.io/product/database/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.pinecone.io/blog/docs-api-integrated-embedding/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.pinecone.io/pinecone-answers/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_new_general_availability"
+  },
+  "weaviate": {
+    "descriptionFr": "Base de données de recherche IA auto-hébergeable ou cloud combinant vecteurs, recherche lexicale BM25, fusion hybride, filtres et Query Agent conversationnel.",
+    "descriptionEn": "Weaviate AI database for self-hosted or cloud search combining vectors, BM25, hybrid retrieval, filters and a conversational Query Agent.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Recherche dense, BM25 et hybride avec fusion paramétrable",
+      "Collections, multi-tenancy, filtres et espaces vectoriels multiples",
+      "Query Agent en Weaviate Cloud et serveur MCP selon configuration"
+    ],
+    "featuresEn": [
+      "Dense, BM25 and hybrid search with configurable fusion",
+      "Collections, multi-tenancy, filters and multiple vector spaces",
+      "Cloud Query Agent and configurable MCP server"
+    ],
+    "accessFr": "Moteur auto-hébergé et/ou cloud avec SDKs",
+    "accessEn": "Self-hosted and/or cloud search engine with SDKs",
+    "officialSources": [
+      {
+        "url": "https://docs.weaviate.io/weaviate/concepts/search/hybrid-search",
+        "checkedAt": "2026-11-17",
+        "scope": "search_retrieval_features_and_status"
+      },
+      {
+        "url": "https://docs.weaviate.io/weaviate/search",
+        "checkedAt": "2026-11-17",
+        "scope": "search_retrieval_features_and_status"
+      },
+      {
+        "url": "https://docs.weaviate.io/cloud/tools/query-agent",
+        "checkedAt": "2026-11-17",
+        "scope": "search_retrieval_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Base de données de recherche IA auto-hébergeable ou cloud combinant vecteurs, recherche lexicale BM25, fusion hybride, filtres et Query Agent conversationnel.",
+      "audiences": [
+        "Architectes de recherche, équipes de données et développeurs IA",
+        "Responsables des données, de la conformité et de la pertinence"
+      ],
+      "cases": [
+        "Créer une collection par corpus pédagogique, rechercher avec des filtres d'année et citer le document à l'origine de chaque extrait.",
+        "Comparer recherche lexicale, recherche vectorielle et fusion hybride sur un ensemble de questions évaluées avec leurs réponses de référence."
+      ],
+      "advantages": [
+        "Recherche dense, BM25 et hybride avec fusion paramétrable",
+        "Collections, multi-tenancy, filtres et espaces vectoriels multiples",
+        "Query Agent en Weaviate Cloud et serveur MCP selon configuration"
+      ],
+      "limits": [
+        "Le Query Agent est associé à l'offre Cloud, alors que la base peut être auto-hébergée. Ne pas supposer que les fonctionnalités de l'agent ont les mêmes conditions de multi-tenancy que les requêtes classiques ; vérifier versions, isolation des tenants et coûts d'embeddings.",
+        "Une récupération de passages n'est pas une garantie de vérité : inspecter les documents d'origine, les métadonnées, les permissions et les scores de rappel/pertinence avant génération."
+      ],
+      "gettingStarted": [
+        "Choisir un corpus autorisé avec identifiants stables, langue, version, source, date et droits par document.",
+        "Indexer un échantillon, tester filtres et recherche dense/BM25, évaluer rappel@k, MRR ou nDCG, citations, coûts et latence."
+      ],
+      "examples": [
+        "Retrouve les documents abordant les bases vectorielles, mais n'utilise que les documents accessibles à mon rôle ; cite le titre, la date et l'URL de chaque passage.",
+        "Compare les résultats sur 30 requêtes bilingues avec exact match, paraphrases, termes rares et demandes sur plusieurs documents."
+      ],
+      "pricing": "Comparer l'édition open source, le service cloud géré, les coûts des vecteurs et recherches, RAM/stockage, embeddings, reranking et sauvegardes.",
+      "privacy": "Les embeddings et graphes peuvent révéler des données sensibles. Appliquer IAM, tenant isolation, chiffrement, politique de résidence, suppression synchronisée, journalisation et filtrage avant la recherche.",
+      "selection": [
+        "Sélectionner Weaviate selon l'architecture (vector_db), la taille du corpus, la recherche exacte et sémantique, la fraîcheur, le contrôle d'accès, le coût et la qualité de récupération."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.weaviate.io/weaviate/concepts/search/hybrid-search",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://docs.weaviate.io/weaviate/search",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://docs.weaviate.io/cloud/tools/query-agent",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "qdrant": {
+    "descriptionFr": "Base de données vectorielle et moteur de recherche disponible en cloud et en auto-hébergement, prenant en charge vecteurs denses, creux, multivecteurs et requêtes hybrides multi-étapes.",
+    "descriptionEn": "Cloud or self-hosted vector database supporting dense, sparse, multivector and multistage hybrid queries.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Query API avec fusion dense + sparse et RRF",
+      "Recherche multivecteur et reranking tardif",
+      "BM25 interne, payload filters et Cloud Inference"
+    ],
+    "featuresEn": [
+      "Query API with dense+sparse fusion and RRF",
+      "Multivector retrieval and late-interaction reranking",
+      "Built-in BM25, payload filters and Cloud Inference"
+    ],
+    "accessFr": "Moteur auto-hébergé et/ou cloud avec SDKs",
+    "accessEn": "Self-hosted and/or cloud search engine with SDKs",
+    "officialSources": [
+      {
+        "url": "https://qdrant.tech/documentation/hybrid-queries/",
+        "checkedAt": "2026-11-17",
+        "scope": "search_retrieval_features_and_status"
+      },
+      {
+        "url": "https://qdrant.tech/documentation/embeddings/qdrant-cloud-inference/",
+        "checkedAt": "2026-11-17",
+        "scope": "search_retrieval_features_and_status"
+      },
+      {
+        "url": "https://qdrant.tech/documentation/manage-data/vectors/",
+        "checkedAt": "2026-11-17",
+        "scope": "search_retrieval_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Base de données vectorielle et moteur de recherche disponible en cloud et en auto-hébergement, prenant en charge vecteurs denses, creux, multivecteurs et requêtes hybrides multi-étapes.",
+      "audiences": [
+        "Architectes de recherche, équipes de données et développeurs IA",
+        "Responsables des données, de la conformité et de la pertinence"
+      ],
+      "cases": [
+        "Indexe des fiches de référence avec titres, catégories et embeddings, puis compare précision et rappel d'une recherche dense seule à l'hybride.",
+        "Comparer recherche lexicale, recherche vectorielle et fusion hybride sur un ensemble de questions évaluées avec leurs réponses de référence."
+      ],
+      "advantages": [
+        "Query API avec fusion dense + sparse et RRF",
+        "Recherche multivecteur et reranking tardif",
+        "BM25 interne, payload filters et Cloud Inference"
+      ],
+      "limits": [
+        "La fusion doit être calibrée sur des jugements de pertinence et une profondeur de candidats suffisante ; multivecteurs et BM25 consomment davantage de stockage. Vérifier restrictions de région et fonctions cloud uniquement.",
+        "Une récupération de passages n'est pas une garantie de vérité : inspecter les documents d'origine, les métadonnées, les permissions et les scores de rappel/pertinence avant génération."
+      ],
+      "gettingStarted": [
+        "Choisir un corpus autorisé avec identifiants stables, langue, version, source, date et droits par document.",
+        "Indexer un échantillon, tester filtres et recherche dense/BM25, évaluer rappel@k, MRR ou nDCG, citations, coûts et latence."
+      ],
+      "examples": [
+        "Retrouve les documents abordant les bases vectorielles, mais n'utilise que les documents accessibles à mon rôle ; cite le titre, la date et l'URL de chaque passage.",
+        "Compare les résultats sur 30 requêtes bilingues avec exact match, paraphrases, termes rares et demandes sur plusieurs documents."
+      ],
+      "pricing": "Comparer l'édition open source, le service cloud géré, les coûts des vecteurs et recherches, RAM/stockage, embeddings, reranking et sauvegardes.",
+      "privacy": "Les embeddings et graphes peuvent révéler des données sensibles. Appliquer IAM, tenant isolation, chiffrement, politique de résidence, suppression synchronisée, journalisation et filtrage avant la recherche.",
+      "selection": [
+        "Sélectionner Qdrant selon l'architecture (vector_db), la taille du corpus, la recherche exacte et sémantique, la fraîcheur, le contrôle d'accès, le coût et la qualité de récupération."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://qdrant.tech/documentation/hybrid-queries/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://qdrant.tech/documentation/embeddings/qdrant-cloud-inference/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://qdrant.tech/documentation/manage-data/vectors/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "milvus": {
+    "descriptionFr": "Base vectorielle distribuée open source Milvus, avec recherche de similarité, BM25 plein texte, hybride dense/creux et architecture scalable ; Zilliz Cloud en est le service géré distinct.",
+    "descriptionEn": "Distributed open-source Milvus vector database with similarity search, BM25 full-text, dense/sparse hybrid retrieval and scalable architecture, separately available as managed Zilliz Cloud.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Recherche ANN denses, index GPU/CPU et filtres",
+      "BM25 natif et recherche hybride multivecteur",
+      "Milvus standalone/distribué et offre distincte Zilliz Cloud"
+    ],
+    "featuresEn": [
+      "Dense ANN, CPU/GPU indexes and filters",
+      "Native BM25 and multivector hybrid search",
+      "Standalone/distributed Milvus and separate Zilliz Cloud offering"
+    ],
+    "accessFr": "Moteur auto-hébergé et/ou cloud avec SDKs",
+    "accessEn": "Self-hosted and/or cloud search engine with SDKs",
+    "officialSources": [
+      {
+        "url": "https://milvus.io/docs/hybrid_search_with_milvus.md",
+        "checkedAt": "2026-11-17",
+        "scope": "search_retrieval_features_and_status"
+      },
+      {
+        "url": "https://milvus.io/docs/full-text-search.md",
+        "checkedAt": "2026-11-17",
+        "scope": "search_retrieval_features_and_status"
+      },
+      {
+        "url": "https://milvus.io/",
+        "checkedAt": "2026-11-17",
+        "scope": "search_retrieval_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Base vectorielle distribuée open source Milvus, avec recherche de similarité, BM25 plein texte, hybride dense/creux et architecture scalable ; Zilliz Cloud en est le service géré distinct.",
+      "audiences": [
+        "Architectes de recherche, équipes de données et développeurs IA",
+        "Responsables des données, de la conformité et de la pertinence"
+      ],
+      "cases": [
+        "Comparer un index de plusieurs centaines de milliers de fragments en dense, BM25 et hybride, sous une charge réaliste.",
+        "Comparer recherche lexicale, recherche vectorielle et fusion hybride sur un ensemble de questions évaluées avec leurs réponses de référence."
+      ],
+      "advantages": [
+        "Recherche ANN denses, index GPU/CPU et filtres",
+        "BM25 natif et recherche hybride multivecteur",
+        "Milvus standalone/distribué et offre distincte Zilliz Cloud"
+      ],
+      "limits": [
+        "Le réglage des index et l'exploitation d'un cluster distribué demandent des compétences. Les versions Milvus n'exposent pas toutes les mêmes syntaxes de recherche hybride ; distinguer installation open source et tarif du service Zilliz.",
+        "Une récupération de passages n'est pas une garantie de vérité : inspecter les documents d'origine, les métadonnées, les permissions et les scores de rappel/pertinence avant génération."
+      ],
+      "gettingStarted": [
+        "Choisir un corpus autorisé avec identifiants stables, langue, version, source, date et droits par document.",
+        "Indexer un échantillon, tester filtres et recherche dense/BM25, évaluer rappel@k, MRR ou nDCG, citations, coûts et latence."
+      ],
+      "examples": [
+        "Retrouve les documents abordant les bases vectorielles, mais n'utilise que les documents accessibles à mon rôle ; cite le titre, la date et l'URL de chaque passage.",
+        "Compare les résultats sur 30 requêtes bilingues avec exact match, paraphrases, termes rares et demandes sur plusieurs documents."
+      ],
+      "pricing": "Comparer l'édition open source, le service cloud géré, les coûts des vecteurs et recherches, RAM/stockage, embeddings, reranking et sauvegardes.",
+      "privacy": "Les embeddings et graphes peuvent révéler des données sensibles. Appliquer IAM, tenant isolation, chiffrement, politique de résidence, suppression synchronisée, journalisation et filtrage avant la recherche.",
+      "selection": [
+        "Sélectionner Milvus selon l'architecture (distributed_vector_db), la taille du corpus, la recherche exacte et sémantique, la fraîcheur, le contrôle d'accès, le coût et la qualité de récupération."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://milvus.io/docs/hybrid_search_with_milvus.md",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://milvus.io/docs/full-text-search.md",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://milvus.io/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "chroma": {
+    "descriptionFr": "Base de données open source Chroma pour applications de recherche IA, exécutée en mémoire, auto-hébergée ou sur Chroma Cloud, avec recherche vectorielle, plein texte et hybride.",
+    "descriptionEn": "Open-source Chroma search database usable in memory, self-hosted or on Chroma Cloud with vector, full-text and hybrid search.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Collections d'embeddings, documents et métadonnées",
+      "Recherche dense, sparse, hybride, plein texte et regex",
+      "Chroma Cloud serverless et SDK Python/JavaScript"
+    ],
+    "featuresEn": [
+      "Embedding, document and metadata collections",
+      "Dense, sparse, hybrid, full-text and regex search",
+      "Serverless Chroma Cloud and Python/JavaScript SDKs"
+    ],
+    "accessFr": "Mode embarqué ou cloud selon produit",
+    "accessEn": "Embedded or cloud depending on product",
+    "officialSources": [
+      {
+        "url": "https://docs.trychroma.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "search_retrieval_features_and_status"
+      },
+      {
+        "url": "https://github.com/chroma-core/chroma",
+        "checkedAt": "2026-11-17",
+        "scope": "search_retrieval_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Base de données open source Chroma pour applications de recherche IA, exécutée en mémoire, auto-hébergée ou sur Chroma Cloud, avec recherche vectorielle, plein texte et hybride.",
+      "audiences": [
+        "Architectes de recherche, équipes de données et développeurs IA",
+        "Responsables des données, de la conformité et de la pertinence"
+      ],
+      "cases": [
+        "Prototyper rapidement un index RAG sur un ensemble de documents, puis tester les filtres avant de choisir l'hébergement.",
+        "Comparer recherche lexicale, recherche vectorielle et fusion hybride sur un ensemble de questions évaluées avec leurs réponses de référence."
+      ],
+      "advantages": [
+        "Collections d'embeddings, documents et métadonnées",
+        "Recherche dense, sparse, hybride, plein texte et regex",
+        "Chroma Cloud serverless et SDK Python/JavaScript"
+      ],
+      "limits": [
+        "Chroma open source sous Apache 2.0 et Chroma Cloud sont des modes distincts avec fonctionnalités et coûts potentiellement différents. La recherche de proximité ne garantit pas des citations exactes ; assurer versionnement, sauvegarde et contrôle d'accès.",
+        "Une récupération de passages n'est pas une garantie de vérité : inspecter les documents d'origine, les métadonnées, les permissions et les scores de rappel/pertinence avant génération."
+      ],
+      "gettingStarted": [
+        "Choisir un corpus autorisé avec identifiants stables, langue, version, source, date et droits par document.",
+        "Indexer un échantillon, tester filtres et recherche dense/BM25, évaluer rappel@k, MRR ou nDCG, citations, coûts et latence."
+      ],
+      "examples": [
+        "Retrouve les documents abordant les bases vectorielles, mais n'utilise que les documents accessibles à mon rôle ; cite le titre, la date et l'URL de chaque passage.",
+        "Compare les résultats sur 30 requêtes bilingues avec exact match, paraphrases, termes rares et demandes sur plusieurs documents."
+      ],
+      "pricing": "Comparer l'édition open source, le service cloud géré, les coûts des vecteurs et recherches, RAM/stockage, embeddings, reranking et sauvegardes.",
+      "privacy": "Les embeddings et graphes peuvent révéler des données sensibles. Appliquer IAM, tenant isolation, chiffrement, politique de résidence, suppression synchronisée, journalisation et filtrage avant la recherche.",
+      "selection": [
+        "Sélectionner Chroma selon l'architecture (embedded_vector_db), la taille du corpus, la recherche exacte et sémantique, la fraîcheur, le contrôle d'accès, le coût et la qualité de récupération."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.trychroma.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://github.com/chroma-core/chroma",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "faiss": {
+    "descriptionFr": "Bibliothèque Meta de recherche rapide de voisins proches et clustering sur vecteurs denses, exécutée sur CPU et GPU ; elle n'est pas une base de données documentaire complète.",
+    "descriptionEn": "Meta's CPU/GPU library for fast dense-vector nearest-neighbor search and clustering, rather than a complete document database.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Index ANN/NN de vecteurs denses, IVF, HNSW, PQ",
+      "Bibliothèque Python/C++ et accélération GPU selon installation",
+      "Recherche et clustering dans un service applicatif personnalisé"
+    ],
+    "featuresEn": [
+      "Dense-vector NN/ANN indexes, IVF, HNSW and PQ",
+      "Python/C++ library and optional GPU acceleration",
+      "Similarity search and clustering within custom applications"
+    ],
+    "accessFr": "Bibliothèque ou extension open source à installer",
+    "accessEn": "Open-source library or extension to install",
+    "officialSources": [
+      {
+        "url": "https://github.com/facebookresearch/faiss",
+        "checkedAt": "2026-11-17",
+        "scope": "search_retrieval_features_and_status"
+      },
+      {
+        "url": "https://github.com/facebookresearch/faiss/releases",
+        "checkedAt": "2026-11-17",
+        "scope": "search_retrieval_features_and_status"
+      },
+      {
+        "url": "https://github.com/facebookresearch/faiss/blob/main/LICENSE",
+        "checkedAt": "2026-11-17",
+        "scope": "search_retrieval_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Bibliothèque Meta de recherche rapide de voisins proches et clustering sur vecteurs denses, exécutée sur CPU et GPU ; elle n'est pas une base de données documentaire complète.",
+      "audiences": [
+        "Développeurs de solutions de recherche et équipes data",
+        "Responsables des données, de la conformité et de la pertinence"
+      ],
+      "cases": [
+        "Comparer index exact et approximation sur un corpus d'embeddings public en mesurant le rappel top-10 et la mémoire.",
+        "Comparer recherche lexicale, recherche vectorielle et fusion hybride sur un ensemble de questions évaluées avec leurs réponses de référence."
+      ],
+      "advantages": [
+        "Index ANN/NN de vecteurs denses, IVF, HNSW, PQ",
+        "Bibliothèque Python/C++ et accélération GPU selon installation",
+        "Recherche et clustering dans un service applicatif personnalisé"
+      ],
+      "limits": [
+        "Faiss fournit des index, pas un serveur complet avec IAM, documents, replication ou filtrage SQL. Version 1.16.0 publiée le 9 novembre 2026 ; vérifier la compatibilité GPU, la persistance applicative, les métadonnées et les sauvegardes.",
+        "Une récupération de passages n'est pas une garantie de vérité : inspecter les documents d'origine, les métadonnées, les permissions et les scores de rappel/pertinence avant génération."
+      ],
+      "gettingStarted": [
+        "Choisir un corpus autorisé avec identifiants stables, langue, version, source, date et droits par document.",
+        "Indexer un échantillon, tester filtres et recherche dense/BM25, évaluer rappel@k, MRR ou nDCG, citations, coûts et latence."
+      ],
+      "examples": [
+        "Retrouve les documents abordant les bases vectorielles, mais n'utilise que les documents accessibles à mon rôle ; cite le titre, la date et l'URL de chaque passage.",
+        "Compare les résultats sur 30 requêtes bilingues avec exact match, paraphrases, termes rares et demandes sur plusieurs documents."
+      ],
+      "pricing": "Code open source, coûts d'hébergement et d'exploitation de PostgreSQL/applications à prévoir.",
+      "privacy": "Les embeddings et graphes peuvent révéler des données sensibles. Appliquer IAM, tenant isolation, chiffrement, politique de résidence, suppression synchronisée, journalisation et filtrage avant la recherche.",
+      "selection": [
+        "Sélectionner FAISS selon l'architecture (ann_library), la taille du corpus, la recherche exacte et sémantique, la fraîcheur, le contrôle d'accès, le coût et la qualité de récupération."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "faiss_1_16_release",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://github.com/facebookresearch/faiss",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://github.com/facebookresearch/faiss/releases",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://github.com/facebookresearch/faiss/blob/main/LICENSE",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_release_verified",
+    "name": "FAISS (Meta)"
+  },
+  "lancedb": {
+    "descriptionFr": "Base de recherche vectorielle fondée sur le format ouvert Lance, utilisable embarquée sur disque/stockage objet ou via service distribué, avec recherche plein texte, vecteurs et hybride.",
+    "descriptionEn": "Lance-format vector search database usable embedded on disk/object storage or as a distributed service, supporting full-text, vector and hybrid queries.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Tables Lance avec historique de versions et filtres",
+      "Recherche ANN et plein texte indexé",
+      "Recherche hybride et fusion/reranking selon SDK"
+    ],
+    "featuresEn": [
+      "Lance tables with version history and filters",
+      "Indexed ANN and full-text retrieval",
+      "Hybrid search with SDK-level fusion and reranking"
+    ],
+    "accessFr": "Mode embarqué ou cloud selon produit",
+    "accessEn": "Embedded or cloud depending on product",
+    "officialSources": [
+      {
+        "url": "https://lance.org/quickstart/",
+        "checkedAt": "2026-11-17",
+        "scope": "search_retrieval_features_and_status"
+      },
+      {
+        "url": "https://lancedb.github.io/lancedb/python/python/",
+        "checkedAt": "2026-11-17",
+        "scope": "search_retrieval_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Base de recherche vectorielle fondée sur le format ouvert Lance, utilisable embarquée sur disque/stockage objet ou via service distribué, avec recherche plein texte, vecteurs et hybride.",
+      "audiences": [
+        "Architectes de recherche, équipes de données et développeurs IA",
+        "Responsables des données, de la conformité et de la pertinence"
+      ],
+      "cases": [
+        "Indexe localement des métadonnées de fiches et leurs embeddings, puis effectue recherche par mots-clés, vecteurs et filtres.",
+        "Comparer recherche lexicale, recherche vectorielle et fusion hybride sur un ensemble de questions évaluées avec leurs réponses de référence."
+      ],
+      "advantages": [
+        "Tables Lance avec historique de versions et filtres",
+        "Recherche ANN et plein texte indexé",
+        "Recherche hybride et fusion/reranking selon SDK"
+      ],
+      "limits": [
+        "La documentation évolue vers lance.org ; ne pas confondre Lance, format de table, et LanceDB, moteur de recherche. Les capacités de distribution et les coûts du cloud diffèrent de la bibliothèque embarquée.",
+        "Une récupération de passages n'est pas une garantie de vérité : inspecter les documents d'origine, les métadonnées, les permissions et les scores de rappel/pertinence avant génération."
+      ],
+      "gettingStarted": [
+        "Choisir un corpus autorisé avec identifiants stables, langue, version, source, date et droits par document.",
+        "Indexer un échantillon, tester filtres et recherche dense/BM25, évaluer rappel@k, MRR ou nDCG, citations, coûts et latence."
+      ],
+      "examples": [
+        "Retrouve les documents abordant les bases vectorielles, mais n'utilise que les documents accessibles à mon rôle ; cite le titre, la date et l'URL de chaque passage.",
+        "Compare les résultats sur 30 requêtes bilingues avec exact match, paraphrases, termes rares et demandes sur plusieurs documents."
+      ],
+      "pricing": "Comparer l'édition open source, le service cloud géré, les coûts des vecteurs et recherches, RAM/stockage, embeddings, reranking et sauvegardes.",
+      "privacy": "Les embeddings et graphes peuvent révéler des données sensibles. Appliquer IAM, tenant isolation, chiffrement, politique de résidence, suppression synchronisée, journalisation et filtrage avant la recherche.",
+      "selection": [
+        "Sélectionner LanceDB selon l'architecture (embedded_vector_db), la taille du corpus, la recherche exacte et sémantique, la fraîcheur, le contrôle d'accès, le coût et la qualité de récupération."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://lance.org/quickstart/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://lancedb.github.io/lancedb/python/python/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed",
+    "url": "https://lance.org/"
+  },
+  "vespa": {
+    "descriptionFr": "Plateforme open source Vespa de recherche et de recommandation en temps réel, combinant retrieval lexical, ANN vectoriel, rank profiles et modèles de classement avancés.",
+    "descriptionEn": "Open-source Vespa real-time search and recommendation platform combining lexical retrieval, ANN vector search, rank profiles and advanced ranking models.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Requête YQL, BM25 et HNSW",
+      "Rank profiles, modèles à tenseurs et classement multiphase",
+      "Recherche hybride, personnalisation et recommandations"
+    ],
+    "featuresEn": [
+      "YQL queries, BM25 and HNSW",
+      "Rank profiles, tensor models and multistage ranking",
+      "Hybrid search, personalization and recommendations"
+    ],
+    "accessFr": "Moteur auto-hébergé et/ou cloud avec SDKs",
+    "accessEn": "Self-hosted and/or cloud search engine with SDKs",
+    "officialSources": [
+      {
+        "url": "https://docs.vespa.ai/en/learn/features.html",
+        "checkedAt": "2026-11-17",
+        "scope": "search_retrieval_features_and_status"
+      },
+      {
+        "url": "https://docs.vespa.ai/en/learn/tutorials/hybrid-search",
+        "checkedAt": "2026-11-17",
+        "scope": "search_retrieval_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme open source Vespa de recherche et de recommandation en temps réel, combinant retrieval lexical, ANN vectoriel, rank profiles et modèles de classement avancés.",
+      "audiences": [
+        "Architectes de recherche, équipes de données et développeurs IA",
+        "Responsables des données, de la conformité et de la pertinence"
+      ],
+      "cases": [
+        "Construire un moteur de recherche pour un catalogue d'outils IA avec classement lexical+sémantique et critères personnalisés.",
+        "Comparer recherche lexicale, recherche vectorielle et fusion hybride sur un ensemble de questions évaluées avec leurs réponses de référence."
+      ],
+      "advantages": [
+        "Requête YQL, BM25 et HNSW",
+        "Rank profiles, modèles à tenseurs et classement multiphase",
+        "Recherche hybride, personnalisation et recommandations"
+      ],
+      "limits": [
+        "Vespa exige une modélisation des schémas, des rank profiles et des ressources opérationnelles : le réglage est plus complexe qu'un simple index vectoriel. Mesurer le rappel, l'ordre des résultats et la latence sous charge.",
+        "Une récupération de passages n'est pas une garantie de vérité : inspecter les documents d'origine, les métadonnées, les permissions et les scores de rappel/pertinence avant génération."
+      ],
+      "gettingStarted": [
+        "Choisir un corpus autorisé avec identifiants stables, langue, version, source, date et droits par document.",
+        "Indexer un échantillon, tester filtres et recherche dense/BM25, évaluer rappel@k, MRR ou nDCG, citations, coûts et latence."
+      ],
+      "examples": [
+        "Retrouve les documents abordant les bases vectorielles, mais n'utilise que les documents accessibles à mon rôle ; cite le titre, la date et l'URL de chaque passage.",
+        "Compare les résultats sur 30 requêtes bilingues avec exact match, paraphrases, termes rares et demandes sur plusieurs documents."
+      ],
+      "pricing": "Comparer l'édition open source, le service cloud géré, les coûts des vecteurs et recherches, RAM/stockage, embeddings, reranking et sauvegardes.",
+      "privacy": "Les embeddings et graphes peuvent révéler des données sensibles. Appliquer IAM, tenant isolation, chiffrement, politique de résidence, suppression synchronisée, journalisation et filtrage avant la recherche.",
+      "selection": [
+        "Sélectionner Vespa selon l'architecture (enterprise_search), la taille du corpus, la recherche exacte et sémantique, la fraîcheur, le contrôle d'accès, le coût et la qualité de récupération."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.vespa.ai/en/learn/features.html",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://docs.vespa.ai/en/learn/tutorials/hybrid-search",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "elasticsearch": {
+    "descriptionFr": "Plateforme de recherche et d'analyse Elastic intégrant BM25, indexation de vecteurs et champ semantic_text pour recherche sémantique et hybride, avec reranking et filtres.",
+    "descriptionEn": "Elastic search and analytics platform with BM25, vector indexing, semantic_text-based semantic/hybrid search, reranking and filters.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "semantic_text et modèles d'embeddings intégrés",
+      "Recherche hybride avec retrievers et RRF",
+      "Recherche plein texte, filtres, facettes et observabilité"
+    ],
+    "featuresEn": [
+      "semantic_text and integrated embedding endpoints",
+      "Hybrid search with retrievers and RRF",
+      "Full text, filters, facets and observability"
+    ],
+    "accessFr": "Moteur auto-hébergé et/ou cloud avec SDKs",
+    "accessEn": "Self-hosted and/or cloud search engine with SDKs",
+    "officialSources": [
+      {
+        "url": "https://www.elastic.co/docs/solutions/search/hybrid-semantic-text",
+        "checkedAt": "2026-11-17",
+        "scope": "search_retrieval_features_and_status"
+      },
+      {
+        "url": "https://www.elastic.co/docs/solutions/search/hybrid-search",
+        "checkedAt": "2026-11-17",
+        "scope": "search_retrieval_features_and_status"
+      },
+      {
+        "url": "https://www.elastic.co/docs/reference/elasticsearch/mapping-reference/semantic-text",
+        "checkedAt": "2026-11-17",
+        "scope": "search_retrieval_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de recherche et d'analyse Elastic intégrant BM25, indexation de vecteurs et champ semantic_text pour recherche sémantique et hybride, avec reranking et filtres.",
+      "audiences": [
+        "Architectes de recherche, équipes de données et développeurs IA",
+        "Responsables des données, de la conformité et de la pertinence"
+      ],
+      "cases": [
+        "Ajouter recherche sémantique et lexicale à un catalogue existant sans perdre les filtres de catégorie.",
+        "Comparer recherche lexicale, recherche vectorielle et fusion hybride sur un ensemble de questions évaluées avec leurs réponses de référence."
+      ],
+      "advantages": [
+        "semantic_text et modèles d'embeddings intégrés",
+        "Recherche hybride avec retrievers et RRF",
+        "Recherche plein texte, filtres, facettes et observabilité"
+      ],
+      "limits": [
+        "Les fonctions semantic_text, les modèles, le cloud serverless et la prise en charge des versions diffèrent selon l'offre. Coût de calcul d'inférence, indexation, règles de sécurité et qualité des fragments à anticiper.",
+        "Une récupération de passages n'est pas une garantie de vérité : inspecter les documents d'origine, les métadonnées, les permissions et les scores de rappel/pertinence avant génération."
+      ],
+      "gettingStarted": [
+        "Choisir un corpus autorisé avec identifiants stables, langue, version, source, date et droits par document.",
+        "Indexer un échantillon, tester filtres et recherche dense/BM25, évaluer rappel@k, MRR ou nDCG, citations, coûts et latence."
+      ],
+      "examples": [
+        "Retrouve les documents abordant les bases vectorielles, mais n'utilise que les documents accessibles à mon rôle ; cite le titre, la date et l'URL de chaque passage.",
+        "Compare les résultats sur 30 requêtes bilingues avec exact match, paraphrases, termes rares et demandes sur plusieurs documents."
+      ],
+      "pricing": "Comparer l'édition open source, le service cloud géré, les coûts des vecteurs et recherches, RAM/stockage, embeddings, reranking et sauvegardes.",
+      "privacy": "Les embeddings et graphes peuvent révéler des données sensibles. Appliquer IAM, tenant isolation, chiffrement, politique de résidence, suppression synchronisée, journalisation et filtrage avant la recherche.",
+      "selection": [
+        "Sélectionner Elasticsearch selon l'architecture (search_engine), la taille du corpus, la recherche exacte et sémantique, la fraîcheur, le contrôle d'accès, le coût et la qualité de récupération."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.elastic.co/docs/solutions/search/hybrid-semantic-text",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.elastic.co/docs/solutions/search/hybrid-search",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://www.elastic.co/docs/reference/elasticsearch/mapping-reference/semantic-text",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "opensearch": {
+    "descriptionFr": "Moteur de recherche open source OpenSearch avec index vectoriels, requêtes neuronales, pipelines de recherche hybride et fonctions d'intégration de modèles IA.",
+    "descriptionEn": "Open-source OpenSearch engine with vector indexes, neural queries, hybrid-search pipelines and AI model integration.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Requêtes k-NN, neural et recherche multimodale",
+      "Pipelines d'ingestion d'embeddings et de normalisation",
+      "Fusion hybride BM25+vecteurs et modèle ML Commons"
+    ],
+    "featuresEn": [
+      "k-NN, neural and multimodal queries",
+      "Embedding ingestion and normalization pipelines",
+      "BM25+vector fusion and ML Commons"
+    ],
+    "accessFr": "Moteur auto-hébergé et/ou cloud avec SDKs",
+    "accessEn": "Self-hosted and/or cloud search engine with SDKs",
+    "officialSources": [
+      {
+        "url": "https://docs.opensearch.org/latest/vector-search/",
+        "checkedAt": "2026-11-17",
+        "scope": "search_retrieval_features_and_status"
+      },
+      {
+        "url": "https://docs.opensearch.org/latest/vector-search/ai-search/hybrid-search/",
+        "checkedAt": "2026-11-17",
+        "scope": "search_retrieval_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Moteur de recherche open source OpenSearch avec index vectoriels, requêtes neuronales, pipelines de recherche hybride et fonctions d'intégration de modèles IA.",
+      "audiences": [
+        "Architectes de recherche, équipes de données et développeurs IA",
+        "Responsables des données, de la conformité et de la pertinence"
+      ],
+      "cases": [
+        "Mettre en œuvre une recherche dans des ressources pédagogiques en associant expression exacte et proximité sémantique.",
+        "Comparer recherche lexicale, recherche vectorielle et fusion hybride sur un ensemble de questions évaluées avec leurs réponses de référence."
+      ],
+      "advantages": [
+        "Requêtes k-NN, neural et recherche multimodale",
+        "Pipelines d'ingestion d'embeddings et de normalisation",
+        "Fusion hybride BM25+vecteurs et modèle ML Commons"
+      ],
+      "limits": [
+        "Pour l'hybride, un search pipeline doit normaliser ou classer les scores ; le seul ajout de vecteurs ne suffit pas. Les plugins et versions varient selon une installation autonome ou un service AWS OpenSearch.",
+        "Une récupération de passages n'est pas une garantie de vérité : inspecter les documents d'origine, les métadonnées, les permissions et les scores de rappel/pertinence avant génération."
+      ],
+      "gettingStarted": [
+        "Choisir un corpus autorisé avec identifiants stables, langue, version, source, date et droits par document.",
+        "Indexer un échantillon, tester filtres et recherche dense/BM25, évaluer rappel@k, MRR ou nDCG, citations, coûts et latence."
+      ],
+      "examples": [
+        "Retrouve les documents abordant les bases vectorielles, mais n'utilise que les documents accessibles à mon rôle ; cite le titre, la date et l'URL de chaque passage.",
+        "Compare les résultats sur 30 requêtes bilingues avec exact match, paraphrases, termes rares et demandes sur plusieurs documents."
+      ],
+      "pricing": "Comparer l'édition open source, le service cloud géré, les coûts des vecteurs et recherches, RAM/stockage, embeddings, reranking et sauvegardes.",
+      "privacy": "Les embeddings et graphes peuvent révéler des données sensibles. Appliquer IAM, tenant isolation, chiffrement, politique de résidence, suppression synchronisée, journalisation et filtrage avant la recherche.",
+      "selection": [
+        "Sélectionner OpenSearch selon l'architecture (search_engine), la taille du corpus, la recherche exacte et sémantique, la fraîcheur, le contrôle d'accès, le coût et la qualité de récupération."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.opensearch.org/latest/vector-search/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://docs.opensearch.org/latest/vector-search/ai-search/hybrid-search/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "redis-vector-search": {
+    "descriptionFr": "Fonctions Redis Search de stockage et recherche de vecteurs avec filtres, recherche full-text, KNN et stratégies hybrides, utilisables dans des applications à faible latence.",
+    "descriptionEn": "Redis Search features for vector storage, full-text filters, KNN and hybrid strategies in low-latency applications.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Index de vecteurs HNSW/FLAT, KNN et range",
+      "Filtres, FT.SEARCH, recherche hybride et RedisVL",
+      "Service Redis, caches et métadonnées temps réel"
+    ],
+    "featuresEn": [
+      "HNSW/FLAT vector indexes, KNN and range",
+      "Filters, FT.SEARCH, hybrid search and RedisVL",
+      "Redis data service, cache and real-time metadata"
+    ],
+    "accessFr": "Moteur auto-hébergé et/ou cloud avec SDKs",
+    "accessEn": "Self-hosted and/or cloud search engine with SDKs",
+    "officialSources": [
+      {
+        "url": "https://redis.io/docs/latest/develop/ai/search-and-query/vectors/",
+        "checkedAt": "2026-11-17",
+        "scope": "search_retrieval_features_and_status"
+      },
+      {
+        "url": "https://redis.io/docs/latest/develop/ai/search-and-query/",
+        "checkedAt": "2026-11-17",
+        "scope": "search_retrieval_features_and_status"
+      },
+      {
+        "url": "https://redis.io/docs/latest/develop/ai/",
+        "checkedAt": "2026-11-17",
+        "scope": "search_retrieval_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Fonctions Redis Search de stockage et recherche de vecteurs avec filtres, recherche full-text, KNN et stratégies hybrides, utilisables dans des applications à faible latence.",
+      "audiences": [
+        "Architectes de recherche, équipes de données et développeurs IA",
+        "Responsables des données, de la conformité et de la pertinence"
+      ],
+      "cases": [
+        "Créer un moteur de suggestions pour un catalogue temps réel avec filtrage par disponibilité et recherche vectorielle.",
+        "Comparer recherche lexicale, recherche vectorielle et fusion hybride sur un ensemble de questions évaluées avec leurs réponses de référence."
+      ],
+      "advantages": [
+        "Index de vecteurs HNSW/FLAT, KNN et range",
+        "Filtres, FT.SEARCH, recherche hybride et RedisVL",
+        "Service Redis, caches et métadonnées temps réel"
+      ],
+      "limits": [
+        "Les coûts RAM, dimension des vecteurs, index, persistance et cluster peuvent être élevés. Le terme 'hybrid' peut désigner la combinaison filtre+vecteur ou texte+vecteur selon la commande : vérifier la sémantique du pipeline.",
+        "Une récupération de passages n'est pas une garantie de vérité : inspecter les documents d'origine, les métadonnées, les permissions et les scores de rappel/pertinence avant génération."
+      ],
+      "gettingStarted": [
+        "Choisir un corpus autorisé avec identifiants stables, langue, version, source, date et droits par document.",
+        "Indexer un échantillon, tester filtres et recherche dense/BM25, évaluer rappel@k, MRR ou nDCG, citations, coûts et latence."
+      ],
+      "examples": [
+        "Retrouve les documents abordant les bases vectorielles, mais n'utilise que les documents accessibles à mon rôle ; cite le titre, la date et l'URL de chaque passage.",
+        "Compare les résultats sur 30 requêtes bilingues avec exact match, paraphrases, termes rares et demandes sur plusieurs documents."
+      ],
+      "pricing": "Comparer l'édition open source, le service cloud géré, les coûts des vecteurs et recherches, RAM/stockage, embeddings, reranking et sauvegardes.",
+      "privacy": "Les embeddings et graphes peuvent révéler des données sensibles. Appliquer IAM, tenant isolation, chiffrement, politique de résidence, suppression synchronisée, journalisation et filtrage avant la recherche.",
+      "selection": [
+        "Sélectionner Redis Vector Search selon l'architecture (search_cache_db), la taille du corpus, la recherche exacte et sémantique, la fraîcheur, le contrôle d'accès, le coût et la qualité de récupération."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://redis.io/docs/latest/develop/ai/search-and-query/vectors/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://redis.io/docs/latest/develop/ai/search-and-query/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://redis.io/docs/latest/develop/ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "pgvector": {
+    "descriptionFr": "Extension PostgreSQL open source permettant de stocker des embeddings dans des tables SQL, de calculer les distances vectorielles et d'utiliser des index HNSW ou IVFFlat.",
+    "descriptionEn": "Open-source PostgreSQL extension storing embeddings in SQL tables, supporting vector distances and HNSW/IVFFlat indexes.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Types vector, halfvec, sparsevec et bit",
+      "Index HNSW/IVFFlat et scan itératif pour filtres",
+      "Combinaison SQL, jointures, RLS et recherche plein texte PostgreSQL"
+    ],
+    "featuresEn": [
+      "vector, halfvec, sparsevec and bit types",
+      "HNSW/IVFFlat indexes and iterative scans for filtered queries",
+      "PostgreSQL SQL, joins, RLS and full-text search"
+    ],
+    "accessFr": "Bibliothèque ou extension open source à installer",
+    "accessEn": "Open-source library or extension to install",
+    "officialSources": [
+      {
+        "url": "https://github.com/pgvector/pgvector",
+        "checkedAt": "2026-11-17",
+        "scope": "search_retrieval_features_and_status"
+      },
+      {
+        "url": "https://github.com/pgvector/pgvector/blob/master/README.md",
+        "checkedAt": "2026-11-17",
+        "scope": "search_retrieval_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Extension PostgreSQL open source permettant de stocker des embeddings dans des tables SQL, de calculer les distances vectorielles et d'utiliser des index HNSW ou IVFFlat.",
+      "audiences": [
+        "Développeurs de solutions de recherche et équipes data",
+        "Responsables des données, de la conformité et de la pertinence"
+      ],
+      "cases": [
+        "Ajouter des embeddings à un catalogue PostgreSQL existant et restreindre la recherche aux documents autorisés par une politique RLS.",
+        "Comparer recherche lexicale, recherche vectorielle et fusion hybride sur un ensemble de questions évaluées avec leurs réponses de référence."
+      ],
+      "advantages": [
+        "Types vector, halfvec, sparsevec et bit",
+        "Index HNSW/IVFFlat et scan itératif pour filtres",
+        "Combinaison SQL, jointures, RLS et recherche plein texte PostgreSQL"
+      ],
+      "limits": [
+        "L'index approximatif peut réduire le rappel par rapport à une recherche exacte, notamment après filtres ; régler ef_search/probes et tests de précision. La recherche hybride requiert la combinaison avec le full-text de PostgreSQL, pas une magie automatique du vecteur.",
+        "Une récupération de passages n'est pas une garantie de vérité : inspecter les documents d'origine, les métadonnées, les permissions et les scores de rappel/pertinence avant génération."
+      ],
+      "gettingStarted": [
+        "Choisir un corpus autorisé avec identifiants stables, langue, version, source, date et droits par document.",
+        "Indexer un échantillon, tester filtres et recherche dense/BM25, évaluer rappel@k, MRR ou nDCG, citations, coûts et latence."
+      ],
+      "examples": [
+        "Retrouve les documents abordant les bases vectorielles, mais n'utilise que les documents accessibles à mon rôle ; cite le titre, la date et l'URL de chaque passage.",
+        "Compare les résultats sur 30 requêtes bilingues avec exact match, paraphrases, termes rares et demandes sur plusieurs documents."
+      ],
+      "pricing": "Code open source, coûts d'hébergement et d'exploitation de PostgreSQL/applications à prévoir.",
+      "privacy": "Les embeddings et graphes peuvent révéler des données sensibles. Appliquer IAM, tenant isolation, chiffrement, politique de résidence, suppression synchronisée, journalisation et filtrage avant la recherche.",
+      "selection": [
+        "Sélectionner pgvector selon l'architecture (sql_extension), la taille du corpus, la recherche exacte et sémantique, la fraîcheur, le contrôle d'accès, le coût et la qualité de récupération."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://github.com/pgvector/pgvector",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://github.com/pgvector/pgvector/blob/master/README.md",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "haystack": {
+    "descriptionFr": "Framework Python Haystack de deepset pour construire des pipelines RAG et agents modulaires : ingestion, retrievers, rerankers, générateurs et évaluations.",
+    "descriptionEn": "deepset Haystack Python framework for modular RAG pipelines and agents, including ingestion, retrievers, rerankers, generators and evaluations.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Pipelines de composants typés et Document Stores",
+      "Agents, retrievers, outils et evaluation",
+      "Advanced RAG Agent expérimental basé sur des métadonnées"
+    ],
+    "featuresEn": [
+      "Typed-component pipelines and Document Stores",
+      "Agents, retrievers, tools and evaluations",
+      "Experimental metadata-aware Advanced RAG Agent"
+    ],
+    "accessFr": "Bibliothèque ou plateforme auto-hébergée selon projet",
+    "accessEn": "Framework or self-hosted platform depending on product",
+    "officialSources": [
+      {
+        "url": "https://docs.haystack.deepset.ai/docs/intro",
+        "checkedAt": "2026-11-17",
+        "scope": "search_retrieval_features_and_status"
+      },
+      {
+        "url": "https://docs.haystack.deepset.ai/docs/advanced-rag-agent",
+        "checkedAt": "2026-11-17",
+        "scope": "search_retrieval_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Framework Python Haystack de deepset pour construire des pipelines RAG et agents modulaires : ingestion, retrievers, rerankers, générateurs et évaluations.",
+      "audiences": [
+        "Développeurs d'assistants documentaires et ingénieurs RAG",
+        "Responsables des données, de la conformité et de la pertinence"
+      ],
+      "cases": [
+        "Créer un pipeline de questions-réponses avec extraits cités, filtrage de métadonnées et test de pertinence.",
+        "Comparer recherche lexicale, recherche vectorielle et fusion hybride sur un ensemble de questions évaluées avec leurs réponses de référence."
+      ],
+      "advantages": [
+        "Pipelines de composants typés et Document Stores",
+        "Agents, retrievers, outils et evaluation",
+        "Advanced RAG Agent expérimental basé sur des métadonnées"
+      ],
+      "limits": [
+        "Haystack est un framework, pas un moteur de base vectorielle intégré prêt pour toute production. Le paquet Advanced RAG Agent est expérimental et peut changer sans politique habituelle de dépréciation ; vérifier versions des connecteurs et accès aux documents.",
+        "Une récupération de passages n'est pas une garantie de vérité : inspecter les documents d'origine, les métadonnées, les permissions et les scores de rappel/pertinence avant génération."
+      ],
+      "gettingStarted": [
+        "Choisir un corpus autorisé avec identifiants stables, langue, version, source, date et droits par document.",
+        "Indexer un échantillon, tester filtres et recherche dense/BM25, évaluer rappel@k, MRR ou nDCG, citations, coûts et latence."
+      ],
+      "examples": [
+        "Retrouve les documents abordant les bases vectorielles, mais n'utilise que les documents accessibles à mon rôle ; cite le titre, la date et l'URL de chaque passage.",
+        "Compare les résultats sur 30 requêtes bilingues avec exact match, paraphrases, termes rares et demandes sur plusieurs documents."
+      ],
+      "pricing": "Comparer l'édition open source, le service cloud géré, les coûts des vecteurs et recherches, RAM/stockage, embeddings, reranking et sauvegardes.",
+      "privacy": "Les embeddings et graphes peuvent révéler des données sensibles. Appliquer IAM, tenant isolation, chiffrement, politique de résidence, suppression synchronisée, journalisation et filtrage avant la recherche.",
+      "selection": [
+        "Sélectionner Haystack selon l'architecture (rag_framework), la taille du corpus, la recherche exacte et sémantique, la fraîcheur, le contrôle d'accès, le coût et la qualité de récupération."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "experimental_advanced_rag_agent",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.haystack.deepset.ai/docs/intro",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://docs.haystack.deepset.ai/docs/advanced-rag-agent",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "ragflow": {
+    "descriptionFr": "Plateforme open source RAGFlow de compréhension documentaire profonde et agentic RAG, avec OCR, ingestion, citations et workflows sur des corpus variés.",
+    "descriptionEn": "Open-source RAGFlow for deep document understanding and agentic RAG with OCR, ingestion, citations and workflows over mixed corpora.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "DeepDoc, OCR, reconnaissance de tableaux et Docling selon version",
+      "Agentic RAG avec modes Low, Medium, High et Ultra",
+      "Jeux documentaires, pipelines, indexation et citations"
+    ],
+    "featuresEn": [
+      "DeepDoc, OCR, tables and version-dependent Docling",
+      "Agentic RAG Low, Medium, High and Ultra modes",
+      "Datasets, pipelines, indexing and citations"
+    ],
+    "accessFr": "Bibliothèque ou plateforme auto-hébergée selon projet",
+    "accessEn": "Framework or self-hosted platform depending on product",
+    "officialSources": [
+      {
+        "url": "https://ragflow.io/docs",
+        "checkedAt": "2026-11-17",
+        "scope": "search_retrieval_features_and_status"
+      },
+      {
+        "url": "https://ragflow.io/docs/v1.0.0/release_notes",
+        "checkedAt": "2026-11-17",
+        "scope": "search_retrieval_features_and_status"
+      },
+      {
+        "url": "https://github.com/infiniflow/ragflow",
+        "checkedAt": "2026-11-17",
+        "scope": "search_retrieval_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme open source RAGFlow de compréhension documentaire profonde et agentic RAG, avec OCR, ingestion, citations et workflows sur des corpus variés.",
+      "audiences": [
+        "Développeurs d'assistants documentaires et ingénieurs RAG",
+        "Responsables des données, de la conformité et de la pertinence"
+      ],
+      "cases": [
+        "Indexer un recueil de PDF comprenant des tableaux, puis répondre en affichant les passages sources et la version des documents.",
+        "Comparer recherche lexicale, recherche vectorielle et fusion hybride sur un ensemble de questions évaluées avec leurs réponses de référence."
+      ],
+      "advantages": [
+        "DeepDoc, OCR, reconnaissance de tableaux et Docling selon version",
+        "Agentic RAG avec modes Low, Medium, High et Ultra",
+        "Jeux documentaires, pipelines, indexation et citations"
+      ],
+      "limits": [
+        "Les anciennes fonctions GraphRAG/RAPTOR ont été retirées ou déplacées dans certaines versions récentes de l'interface, alors que des pages plus anciennes les documentent encore. Vérifier l'interface exacte, les ressources CPU/GPU d'OCR, la latence d'ingestion et les sources citées.",
+        "Une récupération de passages n'est pas une garantie de vérité : inspecter les documents d'origine, les métadonnées, les permissions et les scores de rappel/pertinence avant génération."
+      ],
+      "gettingStarted": [
+        "Choisir un corpus autorisé avec identifiants stables, langue, version, source, date et droits par document.",
+        "Indexer un échantillon, tester filtres et recherche dense/BM25, évaluer rappel@k, MRR ou nDCG, citations, coûts et latence."
+      ],
+      "examples": [
+        "Retrouve les documents abordant les bases vectorielles, mais n'utilise que les documents accessibles à mon rôle ; cite le titre, la date et l'URL de chaque passage.",
+        "Compare les résultats sur 30 requêtes bilingues avec exact match, paraphrases, termes rares et demandes sur plusieurs documents."
+      ],
+      "pricing": "Comparer l'édition open source, le service cloud géré, les coûts des vecteurs et recherches, RAM/stockage, embeddings, reranking et sauvegardes.",
+      "privacy": "Les embeddings et graphes peuvent révéler des données sensibles. Appliquer IAM, tenant isolation, chiffrement, politique de résidence, suppression synchronisée, journalisation et filtrage avant la recherche.",
+      "selection": [
+        "Sélectionner RAGFlow selon l'architecture (rag_platform), la taille du corpus, la recherche exacte et sémantique, la fraîcheur, le contrôle d'accès, le coût et la qualité de récupération."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "agentic_rag_with_legacy_graph_raptor",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://ragflow.io/docs",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://ragflow.io/docs/v1.0.0/release_notes",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://github.com/infiniflow/ragflow",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_feature_evolution"
+  },
+  "graphrag": {
+    "descriptionFr": "Projet Microsoft GraphRAG open source qui extrait entités, relations et communautés d'un corpus pour répondre à des questions locales ou globales via graphes de connaissances.",
+    "descriptionEn": "Microsoft's open-source GraphRAG project extracting corpus entities, relations and communities for local or global knowledge-graph questions.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Indexation LLM des entités et relations",
+      "Rapports de communautés et recherche multi-niveau",
+      "Modes Standard/FastGraphRAG et prompts personnalisables"
+    ],
+    "featuresEn": [
+      "LLM entity/relationship indexing",
+      "Community reports and multi-level retrieval",
+      "Standard/FastGraphRAG methods and prompt tuning"
+    ],
+    "accessFr": "Framework ou plateforme graphe, local/cloud selon déploiement",
+    "accessEn": "Graph framework or platform, local/cloud as deployed",
+    "officialSources": [
+      {
+        "url": "https://github.com/microsoft/graphrag",
+        "checkedAt": "2026-11-17",
+        "scope": "search_retrieval_features_and_status"
+      },
+      {
+        "url": "https://github.com/microsoft/graphrag/blob/main/docs/index/methods.md",
+        "checkedAt": "2026-11-17",
+        "scope": "search_retrieval_features_and_status"
+      },
+      {
+        "url": "https://github.com/microsoft/graphrag/blob/main/docs/index/overview.md",
+        "checkedAt": "2026-11-17",
+        "scope": "search_retrieval_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Projet Microsoft GraphRAG open source qui extrait entités, relations et communautés d'un corpus pour répondre à des questions locales ou globales via graphes de connaissances.",
+      "audiences": [
+        "Développeurs de graphes de connaissances, chercheurs et analystes",
+        "Responsables des données, de la conformité et de la pertinence"
+      ],
+      "cases": [
+        "Explorer les thèmes d'un corpus scientifique à l'échelle globale, puis vérifier les communautés et les sources des conclusions.",
+        "Comparer recherche lexicale, recherche vectorielle et fusion hybride sur un ensemble de questions évaluées avec leurs réponses de référence."
+      ],
+      "advantages": [
+        "Indexation LLM des entités et relations",
+        "Rapports de communautés et recherche multi-niveau",
+        "Modes Standard/FastGraphRAG et prompts personnalisables"
+      ],
+      "limits": [
+        "Les graphes extraits par LLM peuvent inventer ou omettre des relations, et l'indexation peut coûter beaucoup de jetons. FastGraphRAG réduit généralement les coûts mais crée des graphes plus bruités ; ne pas assimiler ce projet à Neo4j GraphRAG.",
+        "Une récupération de passages n'est pas une garantie de vérité : inspecter les documents d'origine, les métadonnées, les permissions et les scores de rappel/pertinence avant génération."
+      ],
+      "gettingStarted": [
+        "Choisir un corpus autorisé avec identifiants stables, langue, version, source, date et droits par document.",
+        "Indexer un échantillon, tester filtres et recherche dense/BM25, évaluer rappel@k, MRR ou nDCG, citations, coûts et latence."
+      ],
+      "examples": [
+        "Retrouve les documents abordant les bases vectorielles, mais n'utilise que les documents accessibles à mon rôle ; cite le titre, la date et l'URL de chaque passage.",
+        "Compare les résultats sur 30 requêtes bilingues avec exact match, paraphrases, termes rares et demandes sur plusieurs documents."
+      ],
+      "pricing": "Comparer l'édition open source, le service cloud géré, les coûts des vecteurs et recherches, RAM/stockage, embeddings, reranking et sauvegardes.",
+      "privacy": "Les embeddings et graphes peuvent révéler des données sensibles. Appliquer IAM, tenant isolation, chiffrement, politique de résidence, suppression synchronisée, journalisation et filtrage avant la recherche.",
+      "selection": [
+        "Sélectionner GraphRAG selon l'architecture (graph_rag_framework), la taille du corpus, la recherche exacte et sémantique, la fraîcheur, le contrôle d'accès, le coût et la qualité de récupération."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://github.com/microsoft/graphrag",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://github.com/microsoft/graphrag/blob/main/docs/index/methods.md",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://github.com/microsoft/graphrag/blob/main/docs/index/overview.md",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed",
+    "name": "Microsoft GraphRAG"
+  },
+  "neo4j-graphrag": {
+    "descriptionFr": "Écosystème Neo4j de GraphRAG combinant vecteurs, relations de graphe, parcours Cypher et agents Aura afin d'explorer des connaissances liées et répondre sur des sources.",
+    "descriptionEn": "Neo4j GraphRAG ecosystem combining vectors, graph relationships, Cypher traversal and Aura agents for connected knowledge retrieval.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "neo4j-graphrag-python et VectorCypherRetriever",
+      "Recherche vectorielle native, Text2Cypher et traversées de graphes",
+      "Neo4j Aura, Virtual Graph et outils d'agent"
+    ],
+    "featuresEn": [
+      "neo4j-graphrag-python and VectorCypherRetriever",
+      "Native vector search, Text2Cypher and graph traversal",
+      "Neo4j Aura, Virtual Graph and agent tools"
+    ],
+    "accessFr": "Framework ou plateforme graphe, local/cloud selon déploiement",
+    "accessEn": "Graph framework or platform, local/cloud as deployed",
+    "officialSources": [
+      {
+        "url": "https://neo4j.com/docs/neo4j-graphrag-python/current/",
+        "checkedAt": "2026-11-17",
+        "scope": "search_retrieval_features_and_status"
+      },
+      {
+        "url": "https://neo4j.com/blog/news/neo4j-virtual-graph-is-now-generally-available/",
+        "checkedAt": "2026-11-17",
+        "scope": "search_retrieval_features_and_status"
+      },
+      {
+        "url": "https://neo4j.com/graphrag/",
+        "checkedAt": "2026-11-17",
+        "scope": "search_retrieval_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Écosystème Neo4j de GraphRAG combinant vecteurs, relations de graphe, parcours Cypher et agents Aura afin d'explorer des connaissances liées et répondre sur des sources.",
+      "audiences": [
+        "Développeurs de graphes de connaissances, chercheurs et analystes",
+        "Responsables des données, de la conformité et de la pertinence"
+      ],
+      "cases": [
+        "Construire un graphe reliant auteurs, publications et concepts, puis interroger les connexions avec liens vers les documents.",
+        "Comparer recherche lexicale, recherche vectorielle et fusion hybride sur un ensemble de questions évaluées avec leurs réponses de référence."
+      ],
+      "advantages": [
+        "neo4j-graphrag-python et VectorCypherRetriever",
+        "Recherche vectorielle native, Text2Cypher et traversées de graphes",
+        "Neo4j Aura, Virtual Graph et outils d'agent"
+      ],
+      "limits": [
+        "Neo4j Virtual Graph a été annoncé en disponibilité générale le 16 novembre 2026 ; il connecte certaines sources sans copie via mécanismes spécifiques. Un graphe ne garantit pas des relations correctes : contrôler schémas, requêtes Cypher générées, permissions, coûts des traversées et sources.",
+        "Une récupération de passages n'est pas une garantie de vérité : inspecter les documents d'origine, les métadonnées, les permissions et les scores de rappel/pertinence avant génération."
+      ],
+      "gettingStarted": [
+        "Choisir un corpus autorisé avec identifiants stables, langue, version, source, date et droits par document.",
+        "Indexer un échantillon, tester filtres et recherche dense/BM25, évaluer rappel@k, MRR ou nDCG, citations, coûts et latence."
+      ],
+      "examples": [
+        "Retrouve les documents abordant les bases vectorielles, mais n'utilise que les documents accessibles à mon rôle ; cite le titre, la date et l'URL de chaque passage.",
+        "Compare les résultats sur 30 requêtes bilingues avec exact match, paraphrases, termes rares et demandes sur plusieurs documents."
+      ],
+      "pricing": "Comparer l'édition open source, le service cloud géré, les coûts des vecteurs et recherches, RAM/stockage, embeddings, reranking et sauvegardes.",
+      "privacy": "Les embeddings et graphes peuvent révéler des données sensibles. Appliquer IAM, tenant isolation, chiffrement, politique de résidence, suppression synchronisée, journalisation et filtrage avant la recherche.",
+      "selection": [
+        "Sélectionner Neo4j GraphRAG selon l'architecture (graph_database_rag), la taille du corpus, la recherche exacte et sémantique, la fraîcheur, le contrôle d'accès, le coût et la qualité de récupération."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "virtual_graph_general_availability",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://neo4j.com/docs/neo4j-graphrag-python/current/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://neo4j.com/blog/news/neo4j-virtual-graph-is-now-generally-available/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        },
+        {
+          "url": "https://neo4j.com/graphrag/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_new_general_availability",
+    "name": "Neo4j GraphRAG"
+  }
+}
