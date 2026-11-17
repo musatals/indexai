@@ -1,0 +1,62 @@
+{
+  "mubert": {
+    "accessFr": "Générateur de musique Mubert Render sur le Web ; API pour applications sous contrat",
+    "accessEn": "Mubert Render music generator on the web; application API by contract",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Formule gratuite non commerciale ; abonnements pour licences de créateur et usages commerciaux selon le niveau.",
+      "en": "Free non-commercial tier; creator and commercial-use licenses under paid subscriptions.",
+      "sourceUrl": "https://mubert.com/render/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-34"
+  },
+  "loudly": {
+    "accessFr": "Studio de création musicale en ligne et API de musique pour entreprises",
+    "accessEn": "Online music creation studio and enterprise music API",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Offres commerciales selon licences et capacités ; API à tarification fondée sur les volumes.",
+      "en": "Commercial offers by licensing and capacity; volume-based API pricing.",
+      "sourceUrl": "https://www.loudly.com/developers/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-34"
+  },
+  "landr": {
+    "accessFr": "Plateforme Web de mastering, distribution et collaboration musicale",
+    "accessEn": "Web platform for music mastering, distribution and collaboration",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Abonnements et produits payants pour mastering et distribution ; droits et limites selon formule.",
+      "en": "Paid subscriptions and products for mastering and distribution; entitlements depend on plan.",
+      "sourceUrl": "https://www.landr.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-34"
+  },
+  "lalal-ai": {
+    "accessFr": "Traitement audio et séparation de pistes sur le Web, applications mobiles et bureau",
+    "accessEn": "Audio processing and stem separation on the web, mobile and desktop",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Offre Starter gratuite limitée, abonnements avec minutes de traitement et offres entreprise.",
+      "en": "Limited free Starter plan, subscriptions with processing minutes and enterprise offers.",
+      "sourceUrl": "https://www.lalal.ai/pricing/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-34"
+  }
+}
