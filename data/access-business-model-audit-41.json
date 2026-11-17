@@ -1,0 +1,62 @@
+{
+  "cursor": {
+    "accessFr": "Éditeur de code IA sur ordinateur, avec agents et accès aux modèles cloud",
+    "accessEn": "Desktop AI code editor with agents and cloud model access",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Formule Free et abonnements Plus, Premium et niveaux supérieurs ; certains modèles tiers facturés séparément.",
+      "en": "Free tier and Plus, Premium and higher subscriptions; some third-party models billed separately.",
+      "sourceUrl": "https://cursor.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-41"
+  },
+  "gemini-code-assist": {
+    "accessFr": "Assistant IA pour éditeurs de code et environnement Google Cloud",
+    "accessEn": "AI assistant for code editors and Google Cloud workflows",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Édition gratuite pour particuliers ; éditions professionnelles et conditions d'abonnement selon éligibilité.",
+      "en": "Free individual edition; professional editions and subscriptions subject to eligibility.",
+      "sourceUrl": "https://cloud.google.com/products/gemini/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-41"
+  },
+  "amazon-q-developer": {
+    "accessFr": "Assistant de développement intégré aux IDE, au terminal et aux services AWS",
+    "accessEn": "Development assistant integrated with IDEs, terminal and AWS services",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Niveau Free sans frais, puis formule Pro payante par utilisateur.",
+      "en": "No-cost Free Tier, then per-user paid Pro Tier.",
+      "sourceUrl": "https://aws.amazon.com/q/developer/pricing/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-41"
+  },
+  "tabnine": {
+    "accessFr": "Assistant IA de code compatible avec IDE et déploiements organisationnels",
+    "accessEn": "AI code assistant for IDEs and organizational deployments",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Offres commerciales adaptées aux équipes ; coûts possibles selon consommation de modèles.",
+      "en": "Commercial team offerings; model usage may involve additional charges.",
+      "sourceUrl": "https://www.tabnine.com/pricing/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-41"
+  }
+}
