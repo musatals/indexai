@@ -1,0 +1,62 @@
+{
+  "claude-code": {
+    "accessFr": "Agent de développement disponible en terminal, IDE et environnements associés",
+    "accessEn": "Coding agent available in terminal, IDEs and supported environments",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Accès dans certains forfaits Claude Pro ou Max et facturation API distincte à l’usage.",
+      "en": "Access through eligible Claude Pro or Max plans, with separate usage-based API billing.",
+      "sourceUrl": "https://support.anthropic.com/en/articles/11145838-using-claude-code-with-your-pro-or-max-plan",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-42"
+  },
+  "openai-codex": {
+    "accessFr": "Agent de programmation via application, CLI, IDE et interface cloud",
+    "accessEn": "Coding agent through app, CLI, IDE and cloud interface",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Accès selon les forfaits ChatGPT éligibles ; crédits supplémentaires ou tarification flexible selon usage.",
+      "en": "Access via eligible ChatGPT plans; additional credits or flexible usage pricing may apply.",
+      "sourceUrl": "https://help.openai.com/en/articles/11369540-using-codex-with-your-chatgpt-plan",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-42"
+  },
+  "replit-agent": {
+    "accessFr": "Agent intégré à l'IDE et plateforme d'hébergement Replit sur Web",
+    "accessEn": "Agent integrated into Replit web IDE and hosting platform",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Mode gratuit limité et offres payantes avec crédits d'agent et ressources de déploiement.",
+      "en": "Limited free mode and paid plans with agent credits and deployment resources.",
+      "sourceUrl": "https://replit.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-42"
+  },
+  "continue": {
+    "accessFr": "Extension et outils open source pour assistants de code ; connexion aux modèles choisis",
+    "accessEn": "Open-source extension and coding assistant tools; connect models of choice",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "open_source_and_paid",
+      "fr": "Logiciel ouvert ; coûts des fournisseurs de modèles, service cloud et offres équipes éventuellement séparés.",
+      "en": "Open software; model provider fees, cloud service and team plans may be separate.",
+      "sourceUrl": "https://github.com/continuedev/continue",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-42"
+  }
+}
