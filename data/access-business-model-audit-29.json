@@ -1,0 +1,32 @@
+{
+  "assemblyai": {
+    "accessFr": "API de transcription et d’intelligence audio avec documentation et SDK",
+    "accessEn": "Speech recognition and audio intelligence API with docs and SDKs",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "Tarification à l’usage par heure audio et modèle ; autres fonctionnalités facturées distinctement.",
+      "en": "Usage-based billing per audio hour and model; additional features billed separately.",
+      "sourceUrl": "https://www.assemblyai.com/pricing/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-29"
+  },
+  "deepgram": {
+    "accessFr": "API de transcription, synthèse vocale et agents conversationnels",
+    "accessEn": "API for transcription, text-to-speech and conversational voice agents",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "Facturation à l’usage selon modèle et mode batch, streaming ou TTS ; remises selon contrat.",
+      "en": "Usage billing by model and batch, streaming or TTS mode; contracted volume discounts.",
+      "sourceUrl": "https://deepgram.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-29"
+  }
+}
