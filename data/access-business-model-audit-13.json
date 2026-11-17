@@ -1,0 +1,47 @@
+{
+  "explainpaper": {
+    "accessFr": "Application Web pour importer et interroger des articles scientifiques en PDF",
+    "accessEn": "Web application for uploading and querying scientific papers in PDF",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Accès gratuit limité et formule Pro payante avec explications et fonctions avancées.",
+      "en": "Limited free access and paid Pro tier with expanded explanations and features.",
+      "sourceUrl": "https://www.explainpaper.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-13"
+  },
+  "undermind": {
+    "accessFr": "Assistant de recherche scientifique accessible sur le Web ; déploiements institutionnels selon contrat",
+    "accessEn": "Web scientific research assistant; institutional deployments by agreement",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Accès à des recherches IA avec forfaits et solutions entreprise ; consulter les conditions selon l’usage.",
+      "en": "AI research access with plans and enterprise offerings; check usage-specific terms.",
+      "sourceUrl": "https://www.undermind.ai/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-13"
+  },
+  "dimensions": {
+    "accessFr": "Moteur de recherche scientifique Web, données et API selon offre institutionnelle",
+    "accessEn": "Web research search engine, data services and APIs according to institutional plans",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Dimensions Free gratuit pour l’usage personnel non commercial ; Dimensions Analytics et données avancées sur devis.",
+      "en": "Dimensions Free for personal non-commercial use; Dimensions Analytics and advanced data products by quote.",
+      "sourceUrl": "https://help.dimensions.ai/en/articles/9777473",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-13"
+  }
+}
