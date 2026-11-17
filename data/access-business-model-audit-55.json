@@ -1,0 +1,107 @@
+{
+  "mindstudio": {
+    "accessFr": "Créateur d'agents accessible sur le Web avec connecteurs et modèles IA configurables.",
+    "accessEn": "Browser-based agent builder with integrations and configurable AI models.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "Coûts de modèles à l'utilisation et frais de plateforme selon nombre d'exécutions et fonctionnalités.",
+      "en": "Usage-based model costs and platform fees depending on runs and features.",
+      "sourceUrl": "https://www.mindstudio.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-55"
+  },
+  "e2b": {
+    "accessFr": "Infrastructure cloud de bacs à sable sécurisés pour agents, via API et SDK.",
+    "accessEn": "Cloud secure sandbox infrastructure for agents via API and SDKs.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "Facturation selon la durée d'exécution et les ressources des sandboxes ; plans Pro et entreprise.",
+      "en": "Sandbox runtime and resource-based billing; Pro and enterprise plans.",
+      "sourceUrl": "https://e2b.dev/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-55"
+  },
+  "arcade-dev": {
+    "accessFr": "Plateforme d'outils et d'authentification pour agents, avec SDK, API et passerelle MCP.",
+    "accessEn": "Agent tools and authentication platform with SDK, API and MCP gateway.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Niveau Free avec quota d'appels d'outils ; forfaits équipe et Enterprise, plus frais d'usage.",
+      "en": "Free tier with tool-call allowances; team and enterprise plans plus usage fees.",
+      "sourceUrl": "https://www.arcade.dev/developers/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-55"
+  },
+  "zapier-agents": {
+    "accessFr": "Création et exécution d'agents connectés aux applications de l'écosystème Zapier.",
+    "accessEn": "Build and run agents integrated with apps in the Zapier ecosystem.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Accès et exécutions limités selon niveau de forfait Agents ; options avancées et entreprise payantes.",
+      "en": "Agent runs and access limited by plan; paid advanced and enterprise options.",
+      "sourceUrl": "https://zapier.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-55"
+  },
+  "cloudflare-agents": {
+    "accessFr": "SDK et infrastructure d'agents sur Cloudflare Workers, Durable Objects et services IA.",
+    "accessEn": "Agent SDK and infrastructure on Cloudflare Workers, Durable Objects and AI services.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Niveau gratuit Workers limité ; facturation des requêtes, temps CPU, stockage et IA au-delà des quotas.",
+      "en": "Limited Workers free tier; requests, CPU, storage and AI usage billed beyond allowances.",
+      "sourceUrl": "https://developers.cloudflare.com/workers/platform/pricing/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-55"
+  },
+  "microsoft-magentic-ui": {
+    "accessFr": "Projet expérimental MagenticLite, successeur de Magentic-UI, exécutable localement à partir du dépôt Microsoft.",
+    "accessEn": "Experimental MagenticLite project succeeding Magentic-UI, run locally from Microsoft source.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "open_source",
+      "fr": "Code MIT gratuit ; coûts éventuels des modèles IA et ressources d'exécution à la charge de l'utilisateur.",
+      "en": "Free MIT source code; AI-model and runtime resource costs borne by the user.",
+      "sourceUrl": "https://github.com/microsoft/magentic-ui",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-55"
+  },
+  "agentops": {
+    "accessFr": "Plateforme d'observabilité et de suivi des exécutions d'agents, avec tableau de bord et instrumentation.",
+    "accessEn": "Agent execution monitoring and observability platform with dashboard and instrumentation.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Offres commerciales et accompagnement entreprise ; confirmer les conditions et le devis auprès de l'éditeur.",
+      "en": "Commercial offerings and enterprise assistance; confirm terms and quotation with the provider.",
+      "sourceUrl": "https://www.agentops.ai/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-55"
+  }
+}
