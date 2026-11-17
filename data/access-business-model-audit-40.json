@@ -1,0 +1,62 @@
+{
+  "napkin-ai": {
+    "accessFr": "Application Web pour générer des schémas et visuels à partir de texte",
+    "accessEn": "Web application for diagrams and visuals generated from text",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Plan gratuit avec limites ; abonnements Plus et Pro et système de crédits IA.",
+      "en": "Free plan with limits; Plus and Pro subscriptions and AI credits.",
+      "sourceUrl": "https://www.napkin.ai/pricing/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-40"
+  },
+  "plus-ai": {
+    "accessFr": "Extension de présentation pour PowerPoint et Google Slides ; application Web",
+    "accessEn": "Presentation add-on for PowerPoint and Google Slides; web application",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Essai et abonnements Pro, Team ou Max, avec crédits IA selon formule.",
+      "en": "Trial and Pro, Team or Max subscriptions with plan-based AI credits.",
+      "sourceUrl": "https://plusai.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-40"
+  },
+  "framer-ai": {
+    "accessFr": "Éditeur de sites Web Framer avec fonctions IA et publication hébergée",
+    "accessEn": "Framer website editor with AI features and hosted publishing",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Publication gratuite sur sous-domaine ; sites payants et crédits IA selon forfait.",
+      "en": "Free subdomain publishing; paid site plans and plan-based AI credits.",
+      "sourceUrl": "https://www.framer.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-40"
+  },
+  "figma-ai": {
+    "accessFr": "Fonctions IA de Figma dans les produits de conception et collaboration",
+    "accessEn": "Figma AI features within design and collaboration products",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Formule Figma gratuite limitée ; sièges payants et crédits IA selon l'offre.",
+      "en": "Limited free Figma plan; paid seats and AI credits according to subscription.",
+      "sourceUrl": "https://www.figma.com/pricing/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-40"
+  }
+}
