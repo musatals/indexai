@@ -1,0 +1,62 @@
+{
+  "demucs": {
+    "accessFr": "Code Python open source pour séparation de sources musicales, installation locale",
+    "accessEn": "Open-source Python code for music source separation, locally installed",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "open_source",
+      "fr": "Code MIT gratuit et dépôt historique archivé ; exécution locale nécessitant ses propres ressources.",
+      "en": "Free MIT-licensed code with archived original repository; local compute resources required.",
+      "sourceUrl": "https://github.com/facebookresearch/demucs",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-37"
+  },
+  "whisper": {
+    "accessFr": "Modèle de transcription open source à exécuter localement ou sur infrastructure choisie",
+    "accessEn": "Open-source speech transcription model run locally or on user-selected infrastructure",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "open_source",
+      "fr": "Code et poids publiés sous licence MIT ; coût de l’infrastructure séparé des tarifs de l’API OpenAI.",
+      "en": "MIT-licensed code and weights; self-hosting infrastructure costs separate from OpenAI API charges.",
+      "sourceUrl": "https://github.com/openai/whisper",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-37"
+  },
+  "boomy": {
+    "accessFr": "Studio Web de création et distribution de musique générative",
+    "accessEn": "Web studio for generative music creation and distribution",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Création gratuite limitée et abonnements donnant accès à davantage de sauvegardes et d’options de distribution.",
+      "en": "Limited free creation and subscriptions with additional saves and distribution options.",
+      "sourceUrl": "https://boomy.com/about",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-37"
+  },
+  "ultimate-vocal-remover": {
+    "accessFr": "Logiciel de bureau gratuit de séparation vocale et instrumentale basé sur des modèles IA",
+    "accessEn": "Free desktop software for AI vocal and instrumental separation",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "open_source",
+      "fr": "Logiciel gratuit, code ouvert sous licence MIT ; modèles tiers soumis à leurs propres licences.",
+      "en": "Free software with MIT-licensed source code; third-party models may have separate licenses.",
+      "sourceUrl": "https://github.com/Anjok07/ultimatevocalremovergui",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-37"
+  }
+}
