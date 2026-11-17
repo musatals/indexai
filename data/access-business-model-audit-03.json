@@ -1,0 +1,122 @@
+{
+  "veed": {
+    "accessFr": "Éditeur Web, applications iOS et Android",
+    "accessEn": "Web editor, iOS and Android apps",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Offre gratuite limitée et abonnements payants pour l'édition et les fonctions d'IA ; crédits IA variables selon les pays.",
+      "en": "Limited free tier and paid plans for video editing and AI features; AI credits vary by region.",
+      "sourceUrl": "https://support.veed.io/en/articles/10491439-how-to-sign-up-and-login-to-veed",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-03"
+  },
+  "submagic": {
+    "accessFr": "Éditeur vidéo Web",
+    "accessEn": "Web-based video editor",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Essai gratuit et abonnements Starter, Pro et Business + API ; les exportations et crédits varient selon l'offre.",
+      "en": "Free trial and paid Starter, Pro, Business + API plans; exports and credits depend on tier.",
+      "sourceUrl": "https://www.submagic.co/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-03"
+  },
+  "riverside": {
+    "accessFr": "Plateforme d'enregistrement et d'édition Web, applications compatibles",
+    "accessEn": "Web recording and editing platform with supported apps",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Offre gratuite avec limites et abonnements Standard, Pro et Business.",
+      "en": "Limited free tier with Standard, Pro and Business paid plans.",
+      "sourceUrl": "https://riverside.fm/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-03"
+  },
+  "meetgeek": {
+    "accessFr": "Web, application de bureau, mobile et extension Chrome",
+    "accessEn": "Web, desktop and mobile apps, and Chrome extension",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Offre gratuite et formules Pro, Business et Enterprise ; fonctions et limites selon licence.",
+      "en": "Free tier with paid Pro, Business and Enterprise plans; capabilities depend on license.",
+      "sourceUrl": "https://meetgeek.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-03"
+  },
+  "read-ai": {
+    "accessFr": "Web, application de bureau et intégrations de réunion",
+    "accessEn": "Web, desktop app and meeting integrations",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Formule Free et formules Pro, Enterprise, Enterprise+ ; les rapports et crédits varient selon l'offre.",
+      "en": "Free tier and Pro, Enterprise, Enterprise+ plans; reports and credits vary by subscription.",
+      "sourceUrl": "https://www.read.ai/plans-pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-03"
+  },
+  "krisp": {
+    "accessFr": "Application de bureau et service de réunion",
+    "accessEn": "Desktop app and meeting service",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Accès gratuit et formules payantes d'assistance aux réunions, selon quotas et fonctionnalités.",
+      "en": "Free access and paid meeting-assistant plans depending on usage limits and features.",
+      "sourceUrl": "https://krisp.ai/pricing/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-03"
+  },
+  "cleanvoice": {
+    "accessFr": "Éditeur audio et vidéo Web, API selon offre",
+    "accessEn": "Web-based audio and video editor, plan-dependent API",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Essai de 30 minutes gratuites à l'inscription, puis abonnements ou crédits payants.",
+      "en": "30-minute free trial on signup, followed by paid plans or credits.",
+      "sourceUrl": "https://cleanvoice.ai/pricing/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-03"
+  },
+  "choppity": {
+    "accessFr": "Éditeur vidéo Web",
+    "accessEn": "Web-based video editor",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Offre gratuite pour créer et éditer ; téléchargements et programmation réservés aux abonnements Starter, Pro ou Enterprise.",
+      "en": "Free creation and editing; downloads and scheduling require paid Starter, Pro or Enterprise.",
+      "sourceUrl": "https://help.choppity.com/en/articles/0295996-which-plan-is-right-for-me-free-starter-pro-and",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-03"
+  }
+}
