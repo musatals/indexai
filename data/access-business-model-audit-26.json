@@ -1,0 +1,32 @@
+{
+  "murf": {
+    "accessFr": "Studio vocal Web et API pour synthèse vocale, traduction et doublage",
+    "accessEn": "Web voice studio and API for text-to-speech, translation and dubbing",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Essai gratuit et abonnements Studio ; API facturée selon les caractères ou minutes selon la fonction.",
+      "en": "Free trial and Studio subscriptions; API billed by characters or minutes according to feature.",
+      "sourceUrl": "https://murf.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-26"
+  },
+  "speechify": {
+    "accessFr": "Lecteur vocal sur Web, ordinateur et mobile ; API Speechify dédiée",
+    "accessEn": "Web, desktop and mobile voice reader; separate Speechify API",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Lecture gratuite limitée et abonnements Premium ; tarification API distincte.",
+      "en": "Limited free reading and Premium subscriptions; separate API pricing.",
+      "sourceUrl": "https://speechify.com/pricing/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-26"
+  }
+}
