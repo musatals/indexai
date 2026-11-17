@@ -1,0 +1,168 @@
+{
+  "pipedream": {
+    "accessFr": "Plateforme Web d’intégration et d’exécution de workflows, API et connecteurs",
+    "accessEn": "Web integrations and workflow runtime platform, APIs and connectors",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Offre Free pour développement avec crédits limités ; abonnements et crédits additionnels pour production.",
+      "en": "Free development tier with limited credits; subscriptions and additional usage credits for production.",
+      "sourceUrl": "https://pipedream.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-47"
+  },
+  "gumloop": {
+    "accessFr": "Éditeur Web de workflows avec agents et connecteurs IA",
+    "accessEn": "Web workflow builder with AI agents and integrations",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Niveau gratuit avec crédits et déclencheurs limités ; abonnement Pro et contrats Enterprise.",
+      "en": "Free tier with limited credits and triggers; Pro subscription and Enterprise contracts.",
+      "sourceUrl": "https://www.gumloop.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-47"
+  },
+  "bardeen": {
+    "accessFr": "Plateforme Web d’automatisation commerciale et de prospection avec intégrations",
+    "accessEn": "Web sales automation and prospecting platform with integrations",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Plan Free de découverte, puis offres payantes et entreprise selon les tâches et volumes.",
+      "en": "Free discovery plan, then paid and enterprise tiers according to tasks and volumes.",
+      "sourceUrl": "https://www.bardeen.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-47"
+  },
+  "relay-app": {
+    "accessFr": "Ancien service de workflows collaboratifs ; le site officiel indique la fermeture du service",
+    "accessEn": "Former collaborative workflow service; official website announces service shutdown",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "discontinued",
+      "fr": "Service arrêté ; plus d’offre commerciale active à souscrire.",
+      "en": "Service closed; no active subscription plan available.",
+      "sourceUrl": "https://relay.app/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-47",
+    "availabilityStatus": "discontinued"
+  },
+  "activepieces": {
+    "accessFr": "Automatisation cloud ou auto-hébergée, connecteurs ouverts, API et agents",
+    "accessEn": "Cloud or self-hosted automation with open integrations, API and agents",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "open_source_and_paid",
+      "fr": "Cœur open source sous licence MIT ; niveau cloud gratuit et offres payantes Plus, Team et entreprises.",
+      "en": "MIT-licensed open-source core; free cloud tier and paid Plus, Team and enterprise plans.",
+      "sourceUrl": "https://www.activepieces.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-47"
+  },
+  "ifttt": {
+    "accessFr": "Service d’automatisation Web et applications mobiles, avec applets et intégrations domotiques",
+    "accessEn": "Web and mobile automation with applets and smart-home integrations",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Plans Free, Starter, Pro et Pro+ ; abonnements pour davantage d’applets et des actions avancées.",
+      "en": "Free, Starter, Pro and Pro+ plans; paid tiers allow additional applets and advanced actions.",
+      "sourceUrl": "https://help.ifttt.com/hc/en-us/articles/360053706813-IFTTT-Plans-at-a-glance",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-47"
+  },
+  "browse-ai": {
+    "accessFr": "Plateforme Web et API de robots d’extraction et de surveillance de pages",
+    "accessEn": "Web platform and API for website data extraction and monitoring robots",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Plan gratuit avec crédits mensuels limités, puis abonnements payants et volumes personnalisés.",
+      "en": "Free tier with limited monthly credits, then paid subscriptions and custom volumes.",
+      "sourceUrl": "https://www.browse.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-47"
+  },
+  "apify": {
+    "accessFr": "Plateforme cloud et API de scraping, Actors, agents et automatisation",
+    "accessEn": "Cloud platform and API for scraping, Actors, agents and automation",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Crédits mensuels gratuits ; niveaux payants et coûts variables selon les Actors et ressources consommées.",
+      "en": "Free monthly credits; paid tiers and variable Actors/resource usage charges.",
+      "sourceUrl": "https://apify.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-47"
+  },
+  "axiom-ai": {
+    "accessFr": "Automatisation de navigateur via interface Web et extension, exécutions locales ou cloud selon formule",
+    "accessEn": "Browser automation through web dashboard and extension, local or cloud runs by plan",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Offre gratuite limitée en temps d’exécution, puis abonnements pour davantage de temps et de fonctions.",
+      "en": "Free tier limited by runtime, then subscriptions for extended runtime and capabilities.",
+      "sourceUrl": "https://axiom.ai/pricing/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-47"
+  },
+  "workato": {
+    "accessFr": "Plateforme d’intégration et d’orchestration SaaS pour organisations, avec connecteurs et agents",
+    "accessEn": "Enterprise SaaS integration and orchestration platform with connectors and agents",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "Tarification contractuelle selon la capacité, le volume de consommation et l’édition choisie.",
+      "en": "Contract-based pricing by capacity, consumption volume and edition.",
+      "sourceUrl": "https://docs.workato.com/pricing/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-47"
+  },
+  "microsoft-power-automate": {
+    "accessFr": "Automatisation cloud et RPA Windows au sein de Microsoft Power Platform",
+    "accessEn": "Cloud workflows and Windows RPA in Microsoft Power Platform",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Licences Premium, Process et Hosted Process ; certains droits limités inclus dans des licences Microsoft 365.",
+      "en": "Premium, Process and Hosted Process licenses; limited rights included with certain Microsoft 365 subscriptions.",
+      "sourceUrl": "https://www.microsoft.com/en-us/power-platform/products/power-automate/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-47"
+  }
+}
