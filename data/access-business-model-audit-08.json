@@ -1,0 +1,227 @@
+{
+  "murf": {
+    "accessFr": "Studio de synthèse vocale Web et API selon offre",
+    "accessEn": "Web voice studio and plan-dependent API",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Essai gratuit limité pour tester les voix, puis abonnements payants pour exporter et utiliser les fonctionnalités avancées.",
+      "en": "Limited free trial to test voices, then paid plans for exports and advanced features.",
+      "sourceUrl": "https://help.murf.ai/is-murf-free-to-use",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-08"
+  },
+  "speechify": {
+    "accessFr": "Web, extensions et applications mobiles ; API distincte",
+    "accessEn": "Web, browser extensions and mobile apps; separate API",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Lecteur vocal gratuit avec limitations et abonnement Premium ; produits Studio et API facturés séparément.",
+      "en": "Limited free voice reader and Premium subscription; Studio and API are separately priced.",
+      "sourceUrl": "https://speechify.com/pricing/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-08"
+  },
+  "wellsaid-labs": {
+    "accessFr": "Studio vocal Web et API selon offre",
+    "accessEn": "Web voice studio and plan-dependent API",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Essai gratuit pour découvrir la plateforme ; offres payantes pour les usages de production.",
+      "en": "Free trial to evaluate the platform; paid plans for production use.",
+      "sourceUrl": "https://docs.wellsaidlabs.com/docs/creating-an-account",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-08"
+  },
+  "resemble-ai": {
+    "accessFr": "Plateforme Web et API de génération vocale",
+    "accessEn": "Web platform and voice-generation API",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "Offre Flex par crédits prépayés et paiement à l’usage, avec contrats entreprise.",
+      "en": "Flex prepaid-credit pay-as-you-go option and enterprise contracts.",
+      "sourceUrl": "https://www.resemble.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-08"
+  },
+  "cartesia": {
+    "accessFr": "API vocales TTS, STT et agents ; console Web",
+    "accessEn": "TTS, STT and agent APIs; web dashboard",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Offre Free avec crédits d’essai ou d’évaluation, puis abonnements et offres entreprise.",
+      "en": "Free tier with evaluation credits, plus paid subscriptions and enterprise options.",
+      "sourceUrl": "https://www.cartesia.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-08"
+  },
+  "hume-ai": {
+    "accessFr": "Plateforme Web et API de synthèse ou conversation vocale",
+    "accessEn": "Web platform and expressive speech/conversation APIs",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "API vocales avec crédits, limites de plan et facturation liée à l’utilisation ; offres entreprise.",
+      "en": "Voice APIs with credits, plan limits and usage-linked charges; enterprise options.",
+      "sourceUrl": "https://www.hume.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-08"
+  },
+  "fathom": {
+    "accessFr": "Application Web, intégrations réunion et application iOS",
+    "accessEn": "Web app, meeting integrations and iOS app",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Formule Free pour enregistrer et synthétiser les réunions, et abonnements Premium/équipe.",
+      "en": "Free plan for recording and summarizing meetings, with Premium and team subscriptions.",
+      "sourceUrl": "https://www.fathom.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-08"
+  },
+  "dv": {
+    "accessFr": "Web et extensions ou intégrations pour visioconférence",
+    "accessEn": "Web and video meeting extensions/integrations",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "tl;dv offre un plan gratuit permanent, complété par Pro, Business et Enterprise.",
+      "en": "tl;dv has a permanent free plan alongside Pro, Business and Enterprise.",
+      "sourceUrl": "https://tldv.io/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-08"
+  },
+  "avoma": {
+    "accessFr": "Web, application et intégrations de visioconférence",
+    "accessEn": "Web, app and video-conferencing integrations",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Essai gratuit de 14 jours, puis abonnement avec sièges de capture et modules optionnels.",
+      "en": "14-day free trial, then paid subscription with recorder seats and optional add-ons.",
+      "sourceUrl": "https://www.avoma.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-08"
+  },
+  "sembly": {
+    "accessFr": "Application Web, intégrations et capture de réunions",
+    "accessEn": "Web app, integrations and meeting capture",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Formule gratuite limitée et offres Basic, Pro, MAX et Enterprise selon capacités.",
+      "en": "Limited free plan and Basic, Pro, MAX and Enterprise plans.",
+      "sourceUrl": "https://www.sembly.ai/pricing/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-08"
+  },
+  "granola": {
+    "accessFr": "Application de prise de notes sur ordinateur et intégrations",
+    "accessEn": "Desktop meeting notes app and integrations",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Plan gratuit avec réunions illimitées et historique restreint ; formules Business et Enterprise.",
+      "en": "Free plan with unlimited meetings and restricted history; Business and Enterprise tiers.",
+      "sourceUrl": "https://www.granola.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-08"
+  },
+  "supernormal": {
+    "accessFr": "Application de prise de notes et service Web",
+    "accessEn": "Meeting notes app and web service",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Formule gratuite et offres payantes fondées sur des crédits d’utilisation et capacités d’équipe.",
+      "en": "Free plan and credit-based paid offerings for enhanced usage and team features.",
+      "sourceUrl": "https://www.supernormal.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-08"
+  },
+  "notta": {
+    "accessFr": "Application Web, mobile et intégrations de réunion",
+    "accessEn": "Web and mobile app with meeting integrations",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Offre Free et abonnements Pro, Business et Enterprise, avec limites distinctes.",
+      "en": "Free plan and Pro, Business, Enterprise subscriptions with differing limits.",
+      "sourceUrl": "https://support.notta.ai/hc/en-us/articles/55339089140123-Understand-Notta-s-Plans-Pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-08"
+  },
+  "sonix": {
+    "accessFr": "Plateforme de transcription Web",
+    "accessEn": "Web transcription platform",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "Transcription facturée à l’usage ou par forfait intégrant des heures ; formules pour équipes.",
+      "en": "Transcription via pay-as-you-go or plans including hours; team options.",
+      "sourceUrl": "https://sonix.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-08"
+  },
+  "alitu": {
+    "accessFr": "Studio de podcast et hébergement sur le Web",
+    "accessEn": "Web podcast studio and hosting",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Essai gratuit de sept jours, puis abonnement payant pour la création et publication de podcasts.",
+      "en": "Seven-day free trial followed by paid subscription for podcast production and publishing.",
+      "sourceUrl": "https://alitu.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-08"
+  }
+}
