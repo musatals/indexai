@@ -1,0 +1,47 @@
+{
+  "remove-bg": {
+    "accessFr": "Outil de détourage d’images sur le Web, API et intégrations",
+    "accessEn": "Web image background removal tool, API and integrations",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Résultats de prévisualisation gratuits ; abonnements ou crédits prépayés pour la haute résolution.",
+      "en": "Free previews; subscriptions or prepaid credits for high-resolution results.",
+      "sourceUrl": "https://www.remove.bg/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-18"
+  },
+  "topaz-photo": {
+    "accessFr": "Logiciel Topaz Photo de retouche et restauration photographique, principalement sur ordinateur",
+    "accessEn": "Topaz Photo editing and enhancement software, mainly desktop",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Licence ou abonnement commercial selon la formule Topaz en vigueur.",
+      "en": "Commercial license or subscription depending on current Topaz package.",
+      "sourceUrl": "https://www.topazlabs.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-18"
+  },
+  "upscayl": {
+    "accessFr": "Application de bureau open source pour agrandir les images ; service cloud distinct",
+    "accessEn": "Open-source desktop image upscaling application; separate cloud offering",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "open_source_and_paid",
+      "fr": "Application de bureau gratuite et open source ; offre cloud commerciale distincte.",
+      "en": "Free open-source desktop app; separate commercial cloud service.",
+      "sourceUrl": "https://github.com/upscayl/upscayl",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-18"
+  }
+}
