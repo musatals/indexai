@@ -1,0 +1,152 @@
+{
+  "sudowrite": {
+    "accessFr": "Application de rédaction sur le Web",
+    "accessEn": "Web-based writing application",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Essai gratuit, puis abonnement payant pour utiliser les fonctions d'IA ; accès aux projets conservé selon l'éditeur.",
+      "en": "Free trial followed by paid subscription for AI features; project access remains available per provider.",
+      "sourceUrl": "https://sudowrite.com/pricing-concierge",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-04"
+  },
+  "novelai": {
+    "accessFr": "Application Web de création de textes et d'images",
+    "accessEn": "Web app for text and image creation",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Abonnements payants Tablet, Scroll et Opus ; aucune formule gratuite permanente annoncée.",
+      "en": "Paid Tablet, Scroll and Opus subscriptions; no permanent free plan announced.",
+      "sourceUrl": "https://docs.novelai.net/en/faq/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-04"
+  },
+  "hyperwrite": {
+    "accessFr": "Assistant de rédaction Web et extension de navigateur",
+    "accessEn": "Web writing assistant and browser extension",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Compte Starter gratuit et abonnements Premium et Ultra payants.",
+      "en": "Free Starter account with paid Premium and Ultra plans.",
+      "sourceUrl": "https://www.hyperwriteai.com/help",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-04"
+  },
+  "anyword": {
+    "accessFr": "Plateforme Web et extension Chrome selon offre",
+    "accessEn": "Web platform and Chrome extension depending on plan",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Offres payantes destinées aux spécialistes du marketing avec essai gratuit de sept jours.",
+      "en": "Paid marketing-focused plans with a seven-day free trial.",
+      "sourceUrl": "https://www.anyword.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-04"
+  },
+  "prowritingaid": {
+    "accessFr": "Web, application de bureau et intégrations d'écriture",
+    "accessEn": "Web, desktop app and writing integrations",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Version gratuite limitée ; offres Premium et Premium Pro, avec paiements mensuels, annuels ou à vie selon l'offre.",
+      "en": "Limited free tier; Premium and Premium Pro plans with monthly, annual or lifetime options.",
+      "sourceUrl": "https://prowritingaid.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-04"
+  },
+  "languagetool": {
+    "accessFr": "Site Web et intégrations, extension Premium selon conditions",
+    "accessEn": "Website and integrations, Premium browser extension under terms",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Correcteur Web gratuit avec limitations ; Premium payant, dont l'extension navigateur complète selon les conditions actuelles.",
+      "en": "Free limited web grammar checker; paid Premium including full browser extension under current terms.",
+      "sourceUrl": "https://help.languagetool.org/hc/en-us/articles/39254510973335-What-subscriptions-does-LanguageTool-offer",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-04"
+  },
+  "deepl-write": {
+    "accessFr": "Application Web DeepL Write ; intégrations selon abonnement",
+    "accessEn": "DeepL Write web app; integrations by subscription",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Utilisation gratuite limitée de DeepL Write et abonnement Write Pro pour fonctions étendues.",
+      "en": "Limited free DeepL Write use and paid Write Pro for extended features.",
+      "sourceUrl": "https://support.deepl.com/hc/en-us/articles/6318834492700-About-DeepL-Write",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-04"
+  },
+  "lex": {
+    "accessFr": "Éditeur de rédaction collaboratif Web",
+    "accessEn": "Web-based collaborative writing editor",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Partage et collaboration gratuits ; abonnement Lex Pro pour des fonctions avancées.",
+      "en": "Free document sharing and collaboration; Lex Pro subscription for advanced features.",
+      "sourceUrl": "https://lex.page/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-04"
+  },
+  "remove-bg": {
+    "accessFr": "Site Web, API et applications intégrées",
+    "accessEn": "Website, API and integrated applications",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Usage gratuit limité ; abonnement ou achat de crédits à l'utilisation pour les sorties haute résolution.",
+      "en": "Limited free use; subscriptions or pay-as-you-go credits for high-resolution output.",
+      "sourceUrl": "https://www.remove.bg/help/a/what-is-the-difference-between-the-free-plan-subscription-and-pay-as-you-go",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-04"
+  },
+  "upscayl": {
+    "accessFr": "Application de bureau Windows, macOS et Linux",
+    "accessEn": "Windows, macOS and Linux desktop application",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "open_source_and_paid",
+      "fr": "Application de bureau open source gratuite ; offre Mac App Store et services commerciaux éventuels distincts.",
+      "en": "Free open-source desktop application; separate Mac App Store and optional commercial offerings.",
+      "sourceUrl": "https://upscayl.org/download",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-04"
+  }
+}
