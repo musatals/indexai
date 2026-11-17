@@ -1,0 +1,167 @@
+{
+  "krea": {
+    "accessFr": "Plateforme Web de création et retouche d’images et vidéos",
+    "accessEn": "Web platform for generating and editing images and video",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Forfait gratuit avec allocation de calcul ; abonnements Basic, Pro, Max et formules professionnelles.",
+      "en": "Free tier with compute allowance; Basic, Pro, Max and business plans.",
+      "sourceUrl": "https://www.krea.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-05"
+  },
+  "openart": {
+    "accessFr": "Application Web de création d’images, vidéos et autres médias",
+    "accessEn": "Web app for creating images, video and other media",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Essai initial gratuit en crédits, sans forfait gratuit permanent pour les générations ; abonnements payants ensuite.",
+      "en": "Initial free trial credits, no ongoing free generation plan; paid subscriptions afterward.",
+      "sourceUrl": "https://openart.ai/fr/blog/what-is-openart",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-05"
+  },
+  "nightcafe": {
+    "accessFr": "Plateforme Web et communauté de création d’images",
+    "accessEn": "Web AI art platform and community",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Crédits gratuits quotidiens et abonnements PRO ou packs de crédits selon les modèles.",
+      "en": "Daily free credits plus PRO subscriptions or credit packs, depending on model.",
+      "sourceUrl": "https://nightcafe.studio/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-05"
+  },
+  "pixverse": {
+    "accessFr": "Plateforme Web et application de création vidéo",
+    "accessEn": "Web platform and video generation app",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Accès Basic gratuit avec crédits quotidiens et abonnements payants.",
+      "en": "Free Basic access with daily credits and paid subscriptions.",
+      "sourceUrl": "https://pixverse.ai/en/ai-info-page",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-05"
+  },
+  "adobe-photoshop": {
+    "accessFr": "Logiciel de bureau, Web et mobile selon abonnement",
+    "accessEn": "Desktop, web and mobile apps depending on subscription",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Abonnement Adobe payant ; offre d'essai selon modalités de l'éditeur.",
+      "en": "Paid Adobe subscription; trial subject to vendor terms.",
+      "sourceUrl": "https://www.adobe.com/products/photoshop/plans.html",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-05"
+  },
+  "cleanup-pictures": {
+    "accessFr": "Retouche d’images sur le Web, API selon offre",
+    "accessEn": "Web image editor, plan-dependent API",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Traitement gratuit limité et offre Pro payante ; API avec conditions distinctes.",
+      "en": "Limited free processing and paid Pro plan; API pricing differs.",
+      "sourceUrl": "https://cleanup.pictures/support",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-05"
+  },
+  "pixelcut": {
+    "accessFr": "Application Web, iOS et Android",
+    "accessEn": "Web, iOS and Android apps",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Outils gratuits de base et abonnements Pro et Business pour les fonctions avancées.",
+      "en": "Free basic tools and Pro/Business plans for advanced features.",
+      "sourceUrl": "https://www.pixelcut.ai/fr/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-05"
+  },
+  "fotor": {
+    "accessFr": "Outils Web de retouche et design, applications compatibles",
+    "accessEn": "Web photo/design tools and supported apps",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Accès gratuit aux fonctions essentielles ; abonnements Pro et Pro+ et crédits pour certaines fonctions IA.",
+      "en": "Free basic features; Pro and Pro+ subscriptions, with credits for selected AI features.",
+      "sourceUrl": "https://www.fotor.com/pricing/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-05"
+  },
+  "let-s-enhance": {
+    "accessFr": "Application Web d'amélioration d'images ; API distincte via Claid",
+    "accessEn": "Web image enhancement app; separate API through Claid",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Crédits gratuits à l’inscription, puis abonnements ou packs de crédits à la demande.",
+      "en": "Free sign-up credits, followed by subscriptions or pay-as-you-go credit packs.",
+      "sourceUrl": "https://letsenhance.io/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-05"
+  },
+  "mage-space": {
+    "accessFr": "Plateforme Web de génération d’images et vidéos ; SDK disponibles",
+    "accessEn": "Web image/video platform with available SDKs",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Crédits Gems initiaux gratuits, puis packs à l’usage ou abonnements avec modèles et limites propres.",
+      "en": "Free introductory Gems, followed by pay-per-use packs or subscriptions with model-specific limits.",
+      "sourceUrl": "https://www.mage.space/membership",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-05"
+  },
+  "kaiber": {
+    "accessFr": "Plateforme Web de création d’images et de vidéos",
+    "accessEn": "Web image and video creation platform",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Essai court payant et abonnements Creator/Pro pour les fonctions de génération, selon crédits.",
+      "en": "Short paid trial and Creator/Pro subscriptions for generation features, subject to credits.",
+      "sourceUrl": "https://helpcenter.kaiber.ai/en/articles/6291249-kaiber-plans-what-you-need-to-know",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-05"
+  }
+}
