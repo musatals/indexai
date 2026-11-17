@@ -1,0 +1,1175 @@
+{
+  "theres-an-ai-for-that": {
+    "descriptionFr": "Annuaire d'outils d'IA permettant de rechercher des solutions par tâche et domaine d'utilisation.",
+    "descriptionEn": "AI tools directory for finding applications by task and use case.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Recherche d'outils par tâche",
+      "Fiches de solutions et catégories",
+      "Découverte d'alternatives"
+    ],
+    "featuresEn": [
+      "Task-based AI tool search",
+      "Tool listings and categories",
+      "Discovering alternatives"
+    ],
+    "accessFr": "Annuaire ou plateforme web de découverte et de comparaison",
+    "accessEn": "Web directory or discovery and comparison platform",
+    "officialSources": [
+      {
+        "url": "https://theresanaiforthat.com",
+        "checkedAt": "2026-11-17",
+        "scope": "directory_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Annuaire d'outils d'IA permettant de rechercher des solutions par tâche et domaine d'utilisation.",
+      "audiences": [
+        "Professionnels à la recherche d'outils IA",
+        "Équipes de veille, pédagogues et responsables de l'innovation"
+      ],
+      "cases": [
+        "Repérer des solutions répondant à une tâche, puis vérifier leurs capacités sur les sources primaires.",
+        "Établir une présélection selon critères métier, confidentialité, budget et pérennité."
+      ],
+      "advantages": [
+        "Recherche d'outils par tâche",
+        "Fiches de solutions et catégories",
+        "Découverte d'alternatives"
+      ],
+      "limits": [
+        "Le contenu des annonces et tarifs peut changer ; vérifier les outils chez leur éditeur.",
+        "Les contenus de type annuaire peuvent inclure des promotions, liens d'affiliation, classements éditoriaux ou des données non actualisées."
+      ],
+      "gettingStarted": [
+        "Définir des critères de sélection explicites et consigner le besoin initial.",
+        "Comparer plusieurs fiches, ouvrir les sites officiels et réaliser un essai sur des données non sensibles."
+      ],
+      "examples": [
+        "Trouve trois solutions de cette catégorie et crée une matrice de comparaison avec dates et sources officielles.",
+        "Identifie les critères absents des fiches : tarification, confidentialité, hébergement, accessibilité et export des données."
+      ],
+      "pricing": "La navigation de l'annuaire peut être gratuite ; vérifier séparément les offres de référencement, abonnements et prix des outils tiers.",
+      "privacy": "Ne pas saisir de données confidentielles dans les moteurs de recherche ni les démonstrations tierces sans contrôler leur politique de données.",
+      "selection": [
+        "Évaluer fraîcheur des fiches, transparence des classements, liens officiels, couverture thématique et déclarations commerciales."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "provider_site",
+      "evidence": "provider_website",
+      "sources": [
+        {
+          "url": "https://theresanaiforthat.com",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "provider_homepage_reviewed"
+  },
+  "futurepedia": {
+    "descriptionFr": "Répertoire et plateforme de formation aidant les professionnels à sélectionner des outils et à découvrir des usages IA.",
+    "descriptionEn": "Directory and learning platform helping professionals select AI tools and discover practical use cases.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Sélection d'outils par besoin",
+      "Guides et formations pratiques",
+      "Recommandations adaptées aux métiers"
+    ],
+    "featuresEn": [
+      "Role-based tool discovery",
+      "Practical guides and training",
+      "Job-specific recommendations"
+    ],
+    "accessFr": "Annuaire ou plateforme web de découverte et de comparaison",
+    "accessEn": "Web directory or discovery and comparison platform",
+    "officialSources": [
+      {
+        "url": "https://www.futurepedia.io/",
+        "checkedAt": "2026-11-17",
+        "scope": "directory_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Répertoire et plateforme de formation aidant les professionnels à sélectionner des outils et à découvrir des usages IA.",
+      "audiences": [
+        "Professionnels à la recherche d'outils IA",
+        "Équipes de veille, pédagogues et responsables de l'innovation"
+      ],
+      "cases": [
+        "Repérer des solutions répondant à une tâche, puis vérifier leurs capacités sur les sources primaires.",
+        "Établir une présélection selon critères métier, confidentialité, budget et pérennité."
+      ],
+      "advantages": [
+        "Sélection d'outils par besoin",
+        "Guides et formations pratiques",
+        "Recommandations adaptées aux métiers"
+      ],
+      "limits": [
+        "La couverture éditoriale n'implique pas un audit technique indépendant de chaque outil.",
+        "Les contenus de type annuaire peuvent inclure des promotions, liens d'affiliation, classements éditoriaux ou des données non actualisées."
+      ],
+      "gettingStarted": [
+        "Définir des critères de sélection explicites et consigner le besoin initial.",
+        "Comparer plusieurs fiches, ouvrir les sites officiels et réaliser un essai sur des données non sensibles."
+      ],
+      "examples": [
+        "Trouve trois solutions de cette catégorie et crée une matrice de comparaison avec dates et sources officielles.",
+        "Identifie les critères absents des fiches : tarification, confidentialité, hébergement, accessibilité et export des données."
+      ],
+      "pricing": "La navigation de l'annuaire peut être gratuite ; vérifier séparément les offres de référencement, abonnements et prix des outils tiers.",
+      "privacy": "Ne pas saisir de données confidentielles dans les moteurs de recherche ni les démonstrations tierces sans contrôler leur politique de données.",
+      "selection": [
+        "Évaluer fraîcheur des fiches, transparence des classements, liens officiels, couverture thématique et déclarations commerciales."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "official_verified",
+      "evidence": "provider_website",
+      "sources": [
+        {
+          "url": "https://www.futurepedia.io/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "toolify": {
+    "descriptionFr": "Annuaire de produits IA avec navigation par catégories, classements et présentation d'outils.",
+    "descriptionEn": "AI product directory featuring categories, rankings and tool listings.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Navigation thématique",
+      "Classements et listes d'outils",
+      "Fiches et accès aux sites des produits"
+    ],
+    "featuresEn": [
+      "Topic navigation",
+      "Rankings and tool lists",
+      "Product profiles and outbound links"
+    ],
+    "accessFr": "Annuaire ou plateforme web de découverte et de comparaison",
+    "accessEn": "Web directory or discovery and comparison platform",
+    "officialSources": [
+      {
+        "url": "https://www.toolify.ai/",
+        "checkedAt": "2026-11-17",
+        "scope": "directory_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Annuaire de produits IA avec navigation par catégories, classements et présentation d'outils.",
+      "audiences": [
+        "Professionnels à la recherche d'outils IA",
+        "Équipes de veille, pédagogues et responsables de l'innovation"
+      ],
+      "cases": [
+        "Repérer des solutions répondant à une tâche, puis vérifier leurs capacités sur les sources primaires.",
+        "Établir une présélection selon critères métier, confidentialité, budget et pérennité."
+      ],
+      "advantages": [
+        "Navigation thématique",
+        "Classements et listes d'outils",
+        "Fiches et accès aux sites des produits"
+      ],
+      "limits": [
+        "Les classements et présentations proviennent du portail ; vérifier méthodes et dates de mise à jour.",
+        "Les contenus de type annuaire peuvent inclure des promotions, liens d'affiliation, classements éditoriaux ou des données non actualisées."
+      ],
+      "gettingStarted": [
+        "Définir des critères de sélection explicites et consigner le besoin initial.",
+        "Comparer plusieurs fiches, ouvrir les sites officiels et réaliser un essai sur des données non sensibles."
+      ],
+      "examples": [
+        "Trouve trois solutions de cette catégorie et crée une matrice de comparaison avec dates et sources officielles.",
+        "Identifie les critères absents des fiches : tarification, confidentialité, hébergement, accessibilité et export des données."
+      ],
+      "pricing": "La navigation de l'annuaire peut être gratuite ; vérifier séparément les offres de référencement, abonnements et prix des outils tiers.",
+      "privacy": "Ne pas saisir de données confidentielles dans les moteurs de recherche ni les démonstrations tierces sans contrôler leur politique de données.",
+      "selection": [
+        "Évaluer fraîcheur des fiches, transparence des classements, liens officiels, couverture thématique et déclarations commerciales."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "official_verified",
+      "evidence": "provider_website",
+      "sources": [
+        {
+          "url": "https://www.toolify.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "aixploria": {
+    "descriptionFr": "Annuaire multilingue d'outils IA proposant catégories, nouveautés, classements et sélections éditoriales.",
+    "descriptionEn": "Multilingual AI tools directory offering categories, new listings, rankings and editorial selections.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Répertoire thématique d'outils",
+      "Actualités et nouveautés du catalogue",
+      "Classements et sélections"
+    ],
+    "featuresEn": [
+      "Thematic AI tool catalog",
+      "New entries and updates",
+      "Rankings and featured selections"
+    ],
+    "accessFr": "Annuaire ou plateforme web de découverte et de comparaison",
+    "accessEn": "Web directory or discovery and comparison platform",
+    "officialSources": [
+      {
+        "url": "https://www.aixploria.com/en/ultimate-list-ai/",
+        "checkedAt": "2026-11-17",
+        "scope": "directory_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Annuaire multilingue d'outils IA proposant catégories, nouveautés, classements et sélections éditoriales.",
+      "audiences": [
+        "Professionnels à la recherche d'outils IA",
+        "Équipes de veille, pédagogues et responsables de l'innovation"
+      ],
+      "cases": [
+        "Repérer des solutions répondant à une tâche, puis vérifier leurs capacités sur les sources primaires.",
+        "Établir une présélection selon critères métier, confidentialité, budget et pérennité."
+      ],
+      "advantages": [
+        "Répertoire thématique d'outils",
+        "Actualités et nouveautés du catalogue",
+        "Classements et sélections"
+      ],
+      "limits": [
+        "Les statuts d'outils, prix et fonctionnalités doivent être reconfirmés sur les sites des éditeurs.",
+        "Les contenus de type annuaire peuvent inclure des promotions, liens d'affiliation, classements éditoriaux ou des données non actualisées."
+      ],
+      "gettingStarted": [
+        "Définir des critères de sélection explicites et consigner le besoin initial.",
+        "Comparer plusieurs fiches, ouvrir les sites officiels et réaliser un essai sur des données non sensibles."
+      ],
+      "examples": [
+        "Trouve trois solutions de cette catégorie et crée une matrice de comparaison avec dates et sources officielles.",
+        "Identifie les critères absents des fiches : tarification, confidentialité, hébergement, accessibilité et export des données."
+      ],
+      "pricing": "La navigation de l'annuaire peut être gratuite ; vérifier séparément les offres de référencement, abonnements et prix des outils tiers.",
+      "privacy": "Ne pas saisir de données confidentielles dans les moteurs de recherche ni les démonstrations tierces sans contrôler leur politique de données.",
+      "selection": [
+        "Évaluer fraîcheur des fiches, transparence des classements, liens officiels, couverture thématique et déclarations commerciales."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "official_verified",
+      "evidence": "provider_website",
+      "sources": [
+        {
+          "url": "https://www.aixploria.com/en/ultimate-list-ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "futuretools": {
+    "descriptionFr": "Portail de veille et de découverte d'outils d'intelligence artificielle avec sélections et ressources d'actualité.",
+    "descriptionEn": "AI discovery and news portal providing tool collections and AI updates.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Sélections d'outils",
+      "Veille sur les produits IA",
+      "Exploration des ressources du domaine"
+    ],
+    "featuresEn": [
+      "Tool collections",
+      "AI product monitoring",
+      "Domain resource exploration"
+    ],
+    "accessFr": "Annuaire ou plateforme web de découverte et de comparaison",
+    "accessEn": "Web directory or discovery and comparison platform",
+    "officialSources": [
+      {
+        "url": "https://futuretools.io/",
+        "checkedAt": "2026-11-17",
+        "scope": "directory_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Portail de veille et de découverte d'outils d'intelligence artificielle avec sélections et ressources d'actualité.",
+      "audiences": [
+        "Professionnels à la recherche d'outils IA",
+        "Équipes de veille, pédagogues et responsables de l'innovation"
+      ],
+      "cases": [
+        "Repérer des solutions répondant à une tâche, puis vérifier leurs capacités sur les sources primaires.",
+        "Établir une présélection selon critères métier, confidentialité, budget et pérennité."
+      ],
+      "advantages": [
+        "Sélections d'outils",
+        "Veille sur les produits IA",
+        "Exploration des ressources du domaine"
+      ],
+      "limits": [
+        "La sélection évolue ; ne pas supposer une exhaustivité ni un classement scientifique.",
+        "Les contenus de type annuaire peuvent inclure des promotions, liens d'affiliation, classements éditoriaux ou des données non actualisées."
+      ],
+      "gettingStarted": [
+        "Définir des critères de sélection explicites et consigner le besoin initial.",
+        "Comparer plusieurs fiches, ouvrir les sites officiels et réaliser un essai sur des données non sensibles."
+      ],
+      "examples": [
+        "Trouve trois solutions de cette catégorie et crée une matrice de comparaison avec dates et sources officielles.",
+        "Identifie les critères absents des fiches : tarification, confidentialité, hébergement, accessibilité et export des données."
+      ],
+      "pricing": "La navigation de l'annuaire peut être gratuite ; vérifier séparément les offres de référencement, abonnements et prix des outils tiers.",
+      "privacy": "Ne pas saisir de données confidentielles dans les moteurs de recherche ni les démonstrations tierces sans contrôler leur politique de données.",
+      "selection": [
+        "Évaluer fraîcheur des fiches, transparence des classements, liens officiels, couverture thématique et déclarations commerciales."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "official_verified",
+      "evidence": "provider_website",
+      "sources": [
+        {
+          "url": "https://futuretools.io/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "topai-tools": {
+    "descriptionFr": "Répertoire consultable d'outils d'IA et de solutions par catégories et usages.",
+    "descriptionEn": "Searchable AI tool directory organized by categories and use cases.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Découverte d'outils IA",
+      "Classement par catégories d'usage",
+      "Accès aux fiches des produits"
+    ],
+    "featuresEn": [
+      "AI tool discovery",
+      "Use-case categories",
+      "Product entries"
+    ],
+    "accessFr": "Annuaire ou plateforme web de découverte et de comparaison",
+    "accessEn": "Web directory or discovery and comparison platform",
+    "officialSources": [
+      {
+        "url": "https://topai.tools/s/ai-tools-directory",
+        "checkedAt": "2026-11-17",
+        "scope": "directory_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Répertoire consultable d'outils d'IA et de solutions par catégories et usages.",
+      "audiences": [
+        "Professionnels à la recherche d'outils IA",
+        "Équipes de veille, pédagogues et responsables de l'innovation"
+      ],
+      "cases": [
+        "Repérer des solutions répondant à une tâche, puis vérifier leurs capacités sur les sources primaires.",
+        "Établir une présélection selon critères métier, confidentialité, budget et pérennité."
+      ],
+      "advantages": [
+        "Découverte d'outils IA",
+        "Classement par catégories d'usage",
+        "Accès aux fiches des produits"
+      ],
+      "limits": [
+        "Une fiche répertoriée n'est pas une garantie de qualité, de sécurité ou de disponibilité.",
+        "Les contenus de type annuaire peuvent inclure des promotions, liens d'affiliation, classements éditoriaux ou des données non actualisées."
+      ],
+      "gettingStarted": [
+        "Définir des critères de sélection explicites et consigner le besoin initial.",
+        "Comparer plusieurs fiches, ouvrir les sites officiels et réaliser un essai sur des données non sensibles."
+      ],
+      "examples": [
+        "Trouve trois solutions de cette catégorie et crée une matrice de comparaison avec dates et sources officielles.",
+        "Identifie les critères absents des fiches : tarification, confidentialité, hébergement, accessibilité et export des données."
+      ],
+      "pricing": "La navigation de l'annuaire peut être gratuite ; vérifier séparément les offres de référencement, abonnements et prix des outils tiers.",
+      "privacy": "Ne pas saisir de données confidentielles dans les moteurs de recherche ni les démonstrations tierces sans contrôler leur politique de données.",
+      "selection": [
+        "Évaluer fraîcheur des fiches, transparence des classements, liens officiels, couverture thématique et déclarations commerciales."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "official_verified",
+      "evidence": "provider_website",
+      "sources": [
+        {
+          "url": "https://topai.tools/s/ai-tools-directory",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "hugging-face-spaces": {
+    "descriptionFr": "Plateforme hébergeant des applications et démonstrations de modèles ML, avec espaces publics, privés ou protégés.",
+    "descriptionEn": "Platform hosting machine learning demos and apps, with public, private or protected Spaces.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Hébergement de démonstrations ML",
+      "Applications Gradio, Docker ou SDK compatibles",
+      "Partage, duplication et collaboration autour des Spaces"
+    ],
+    "featuresEn": [
+      "Hosting ML demonstrations",
+      "Gradio, Docker and supported SDK apps",
+      "Spaces sharing and duplication"
+    ],
+    "accessFr": "Annuaire ou plateforme web de découverte et de comparaison",
+    "accessEn": "Web directory or discovery and comparison platform",
+    "officialSources": [
+      {
+        "url": "https://huggingface.co/docs/hub/spaces-overview",
+        "checkedAt": "2026-11-17",
+        "scope": "directory_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme hébergeant des applications et démonstrations de modèles ML, avec espaces publics, privés ou protégés.",
+      "audiences": [
+        "Professionnels à la recherche d'outils IA",
+        "Équipes de veille, pédagogues et responsables de l'innovation"
+      ],
+      "cases": [
+        "Repérer des solutions répondant à une tâche, puis vérifier leurs capacités sur les sources primaires.",
+        "Établir une présélection selon critères métier, confidentialité, budget et pérennité."
+      ],
+      "advantages": [
+        "Hébergement de démonstrations ML",
+        "Applications Gradio, Docker ou SDK compatibles",
+        "Partage, duplication et collaboration autour des Spaces"
+      ],
+      "limits": [
+        "De nombreuses démonstrations sont créées par des tiers et peuvent être indisponibles ou exploiter des données personnelles ; examiner leur code et conditions.",
+        "Les contenus de type annuaire peuvent inclure des promotions, liens d'affiliation, classements éditoriaux ou des données non actualisées."
+      ],
+      "gettingStarted": [
+        "Définir des critères de sélection explicites et consigner le besoin initial.",
+        "Comparer plusieurs fiches, ouvrir les sites officiels et réaliser un essai sur des données non sensibles."
+      ],
+      "examples": [
+        "Trouve trois solutions de cette catégorie et crée une matrice de comparaison avec dates et sources officielles.",
+        "Identifie les critères absents des fiches : tarification, confidentialité, hébergement, accessibilité et export des données."
+      ],
+      "pricing": "La navigation de l'annuaire peut être gratuite ; vérifier séparément les offres de référencement, abonnements et prix des outils tiers.",
+      "privacy": "Ne pas saisir de données confidentielles dans les moteurs de recherche ni les démonstrations tierces sans contrôler leur politique de données.",
+      "selection": [
+        "Évaluer fraîcheur des fiches, transparence des classements, liens officiels, couverture thématique et déclarations commerciales."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "official_verified",
+      "evidence": "provider_website",
+      "sources": [
+        {
+          "url": "https://huggingface.co/docs/hub/spaces-overview",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "product-hunt-ai": {
+    "descriptionFr": "Pages de découverte de lancements de produits d'IA et de discussions communautaires sur Product Hunt.",
+    "descriptionEn": "Discovery pages for AI product launches and community discussions on Product Hunt.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Flux de nouveaux produits IA",
+      "Votes et commentaires de la communauté",
+      "Catégories et fiches de lancement"
+    ],
+    "featuresEn": [
+      "New AI product feeds",
+      "Community votes and discussion",
+      "Launch pages and categories"
+    ],
+    "accessFr": "Annuaire ou plateforme web de découverte et de comparaison",
+    "accessEn": "Web directory or discovery and comparison platform",
+    "officialSources": [
+      {
+        "url": "https://www.producthunt.com/topics/artificial-intelligence",
+        "checkedAt": "2026-11-17",
+        "scope": "directory_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Pages de découverte de lancements de produits d'IA et de discussions communautaires sur Product Hunt.",
+      "audiences": [
+        "Professionnels à la recherche d'outils IA",
+        "Équipes de veille, pédagogues et responsables de l'innovation"
+      ],
+      "cases": [
+        "Repérer des solutions répondant à une tâche, puis vérifier leurs capacités sur les sources primaires.",
+        "Établir une présélection selon critères métier, confidentialité, budget et pérennité."
+      ],
+      "advantages": [
+        "Flux de nouveaux produits IA",
+        "Votes et commentaires de la communauté",
+        "Catégories et fiches de lancement"
+      ],
+      "limits": [
+        "Les votes reflètent l'engagement des visiteurs et ne constituent ni mesure objective de performance ni certification.",
+        "Les contenus de type annuaire peuvent inclure des promotions, liens d'affiliation, classements éditoriaux ou des données non actualisées."
+      ],
+      "gettingStarted": [
+        "Définir des critères de sélection explicites et consigner le besoin initial.",
+        "Comparer plusieurs fiches, ouvrir les sites officiels et réaliser un essai sur des données non sensibles."
+      ],
+      "examples": [
+        "Trouve trois solutions de cette catégorie et crée une matrice de comparaison avec dates et sources officielles.",
+        "Identifie les critères absents des fiches : tarification, confidentialité, hébergement, accessibilité et export des données."
+      ],
+      "pricing": "La navigation de l'annuaire peut être gratuite ; vérifier séparément les offres de référencement, abonnements et prix des outils tiers.",
+      "privacy": "Ne pas saisir de données confidentielles dans les moteurs de recherche ni les démonstrations tierces sans contrôler leur politique de données.",
+      "selection": [
+        "Évaluer fraîcheur des fiches, transparence des classements, liens officiels, couverture thématique et déclarations commerciales."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "official_verified",
+      "evidence": "provider_website",
+      "sources": [
+        {
+          "url": "https://www.producthunt.com/topics/artificial-intelligence",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "ai-tools-radar": {
+    "descriptionFr": "Annuaire multilingue d'outils IA avec catégories, nouveautés et indicateurs de vérification des sites.",
+    "descriptionEn": "Multilingual AI tools directory with categories, new listings and website verification indicators.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Recherche et filtres thématiques",
+      "Nouveaux outils et fiches détaillées",
+      "Indicateurs de vérification du site"
+    ],
+    "featuresEn": [
+      "Search and topic filters",
+      "Recent tools and profiles",
+      "Website verification indicators"
+    ],
+    "accessFr": "Annuaire ou plateforme web de découverte et de comparaison",
+    "accessEn": "Web directory or discovery and comparison platform",
+    "officialSources": [
+      {
+        "url": "https://aitoolsradar.com/en/tools",
+        "checkedAt": "2026-11-17",
+        "scope": "directory_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Annuaire multilingue d'outils IA avec catégories, nouveautés et indicateurs de vérification des sites.",
+      "audiences": [
+        "Professionnels à la recherche d'outils IA",
+        "Équipes de veille, pédagogues et responsables de l'innovation"
+      ],
+      "cases": [
+        "Repérer des solutions répondant à une tâche, puis vérifier leurs capacités sur les sources primaires.",
+        "Établir une présélection selon critères métier, confidentialité, budget et pérennité."
+      ],
+      "advantages": [
+        "Recherche et filtres thématiques",
+        "Nouveaux outils et fiches détaillées",
+        "Indicateurs de vérification du site"
+      ],
+      "limits": [
+        "La mention « website verified » ne prouve pas que toutes les promesses du produit sont vérifiées.",
+        "Les contenus de type annuaire peuvent inclure des promotions, liens d'affiliation, classements éditoriaux ou des données non actualisées."
+      ],
+      "gettingStarted": [
+        "Définir des critères de sélection explicites et consigner le besoin initial.",
+        "Comparer plusieurs fiches, ouvrir les sites officiels et réaliser un essai sur des données non sensibles."
+      ],
+      "examples": [
+        "Trouve trois solutions de cette catégorie et crée une matrice de comparaison avec dates et sources officielles.",
+        "Identifie les critères absents des fiches : tarification, confidentialité, hébergement, accessibilité et export des données."
+      ],
+      "pricing": "La navigation de l'annuaire peut être gratuite ; vérifier séparément les offres de référencement, abonnements et prix des outils tiers.",
+      "privacy": "Ne pas saisir de données confidentielles dans les moteurs de recherche ni les démonstrations tierces sans contrôler leur politique de données.",
+      "selection": [
+        "Évaluer fraîcheur des fiches, transparence des classements, liens officiels, couverture thématique et déclarations commerciales."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "official_verified",
+      "evidence": "provider_website",
+      "sources": [
+        {
+          "url": "https://aitoolsradar.com/en/tools",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "futuretoolai": {
+    "descriptionFr": "Annuaire de découverte d'outils IA organisés par catégories, avec descriptions et répertoires spécialisés.",
+    "descriptionEn": "AI tool discovery directory organized into categories with descriptions and topical lists.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Répertoire multi-catégories",
+      "Exploration de solutions IA",
+      "Fiches et liens vers fournisseurs"
+    ],
+    "featuresEn": [
+      "Multi-category directory",
+      "AI solution discovery",
+      "Vendor listings"
+    ],
+    "accessFr": "Annuaire ou plateforme web de découverte et de comparaison",
+    "accessEn": "Web directory or discovery and comparison platform",
+    "officialSources": [
+      {
+        "url": "https://futuretoolai.com/ai-tools",
+        "checkedAt": "2026-11-17",
+        "scope": "directory_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Annuaire de découverte d'outils IA organisés par catégories, avec descriptions et répertoires spécialisés.",
+      "audiences": [
+        "Professionnels à la recherche d'outils IA",
+        "Équipes de veille, pédagogues et responsables de l'innovation"
+      ],
+      "cases": [
+        "Repérer des solutions répondant à une tâche, puis vérifier leurs capacités sur les sources primaires.",
+        "Établir une présélection selon critères métier, confidentialité, budget et pérennité."
+      ],
+      "advantages": [
+        "Répertoire multi-catégories",
+        "Exploration de solutions IA",
+        "Fiches et liens vers fournisseurs"
+      ],
+      "limits": [
+        "Les volumes annoncés varient selon les pages ; éviter de présenter un décompte exact comme permanent.",
+        "Les contenus de type annuaire peuvent inclure des promotions, liens d'affiliation, classements éditoriaux ou des données non actualisées."
+      ],
+      "gettingStarted": [
+        "Définir des critères de sélection explicites et consigner le besoin initial.",
+        "Comparer plusieurs fiches, ouvrir les sites officiels et réaliser un essai sur des données non sensibles."
+      ],
+      "examples": [
+        "Trouve trois solutions de cette catégorie et crée une matrice de comparaison avec dates et sources officielles.",
+        "Identifie les critères absents des fiches : tarification, confidentialité, hébergement, accessibilité et export des données."
+      ],
+      "pricing": "La navigation de l'annuaire peut être gratuite ; vérifier séparément les offres de référencement, abonnements et prix des outils tiers.",
+      "privacy": "Ne pas saisir de données confidentielles dans les moteurs de recherche ni les démonstrations tierces sans contrôler leur politique de données.",
+      "selection": [
+        "Évaluer fraîcheur des fiches, transparence des classements, liens officiels, couverture thématique et déclarations commerciales."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "official_verified",
+      "evidence": "provider_website",
+      "sources": [
+        {
+          "url": "https://futuretoolai.com/ai-tools",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "navs-ai": {
+    "descriptionFr": "Annuaire de solutions IA avec navigation par besoins et par catégories pour découvrir des logiciels.",
+    "descriptionEn": "AI solutions directory with task- and category-based navigation.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Recherche par usages",
+      "Répertoires thématiques",
+      "Fiches de découverte d'outils"
+    ],
+    "featuresEn": [
+      "Use-case navigation",
+      "Thematic lists",
+      "Tool discovery profiles"
+    ],
+    "accessFr": "Annuaire ou plateforme web de découverte et de comparaison",
+    "accessEn": "Web directory or discovery and comparison platform",
+    "officialSources": [
+      {
+        "url": "https://navs.site/discover-ai",
+        "checkedAt": "2026-11-17",
+        "scope": "directory_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Annuaire de solutions IA avec navigation par besoins et par catégories pour découvrir des logiciels.",
+      "audiences": [
+        "Professionnels à la recherche d'outils IA",
+        "Équipes de veille, pédagogues et responsables de l'innovation"
+      ],
+      "cases": [
+        "Repérer des solutions répondant à une tâche, puis vérifier leurs capacités sur les sources primaires.",
+        "Établir une présélection selon critères métier, confidentialité, budget et pérennité."
+      ],
+      "advantages": [
+        "Recherche par usages",
+        "Répertoires thématiques",
+        "Fiches de découverte d'outils"
+      ],
+      "limits": [
+        "Les chiffres de couverture sont propres à l'éditeur et peuvent évoluer ; vérifier les liens sortants.",
+        "Les contenus de type annuaire peuvent inclure des promotions, liens d'affiliation, classements éditoriaux ou des données non actualisées."
+      ],
+      "gettingStarted": [
+        "Définir des critères de sélection explicites et consigner le besoin initial.",
+        "Comparer plusieurs fiches, ouvrir les sites officiels et réaliser un essai sur des données non sensibles."
+      ],
+      "examples": [
+        "Trouve trois solutions de cette catégorie et crée une matrice de comparaison avec dates et sources officielles.",
+        "Identifie les critères absents des fiches : tarification, confidentialité, hébergement, accessibilité et export des données."
+      ],
+      "pricing": "La navigation de l'annuaire peut être gratuite ; vérifier séparément les offres de référencement, abonnements et prix des outils tiers.",
+      "privacy": "Ne pas saisir de données confidentielles dans les moteurs de recherche ni les démonstrations tierces sans contrôler leur politique de données.",
+      "selection": [
+        "Évaluer fraîcheur des fiches, transparence des classements, liens officiels, couverture thématique et déclarations commerciales."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "official_verified",
+      "evidence": "provider_website",
+      "sources": [
+        {
+          "url": "https://navs.site/discover-ai",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "allailists": {
+    "descriptionFr": "Répertoire indépendant d'outils IA classés par catégories avec pages de présentation et alternatives.",
+    "descriptionEn": "Independent category-based AI tools directory with product pages and alternatives.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Répertoire alphabétique et thématique",
+      "Fiches d'outils et alternatives",
+      "Informations d'aide à la sélection"
+    ],
+    "featuresEn": [
+      "Alphabetical and thematic directory",
+      "Tool profiles and alternatives",
+      "Selection guidance"
+    ],
+    "accessFr": "Annuaire ou plateforme web de découverte et de comparaison",
+    "accessEn": "Web directory or discovery and comparison platform",
+    "officialSources": [
+      {
+        "url": "https://allailists.com/about/",
+        "checkedAt": "2026-11-17",
+        "scope": "directory_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Répertoire indépendant d'outils IA classés par catégories avec pages de présentation et alternatives.",
+      "audiences": [
+        "Professionnels à la recherche d'outils IA",
+        "Équipes de veille, pédagogues et responsables de l'innovation"
+      ],
+      "cases": [
+        "Repérer des solutions répondant à une tâche, puis vérifier leurs capacités sur les sources primaires.",
+        "Établir une présélection selon critères métier, confidentialité, budget et pérennité."
+      ],
+      "advantages": [
+        "Répertoire alphabétique et thématique",
+        "Fiches d'outils et alternatives",
+        "Informations d'aide à la sélection"
+      ],
+      "limits": [
+        "Un annuaire éditorial ne remplace pas des essais ni l'examen des conditions contractuelles des produits.",
+        "Les contenus de type annuaire peuvent inclure des promotions, liens d'affiliation, classements éditoriaux ou des données non actualisées."
+      ],
+      "gettingStarted": [
+        "Définir des critères de sélection explicites et consigner le besoin initial.",
+        "Comparer plusieurs fiches, ouvrir les sites officiels et réaliser un essai sur des données non sensibles."
+      ],
+      "examples": [
+        "Trouve trois solutions de cette catégorie et crée une matrice de comparaison avec dates et sources officielles.",
+        "Identifie les critères absents des fiches : tarification, confidentialité, hébergement, accessibilité et export des données."
+      ],
+      "pricing": "La navigation de l'annuaire peut être gratuite ; vérifier séparément les offres de référencement, abonnements et prix des outils tiers.",
+      "privacy": "Ne pas saisir de données confidentielles dans les moteurs de recherche ni les démonstrations tierces sans contrôler leur politique de données.",
+      "selection": [
+        "Évaluer fraîcheur des fiches, transparence des classements, liens officiels, couverture thématique et déclarations commerciales."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "official_verified",
+      "evidence": "provider_website",
+      "sources": [
+        {
+          "url": "https://allailists.com/about/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "exploreai-directory": {
+    "descriptionFr": "Annuaire comparatif de logiciels et agents d'IA présentant fonctions, catégories et modalités d'accès.",
+    "descriptionEn": "Comparison-oriented directory of AI software and agents describing use cases, categories and access models.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Catalogue d'outils et agents",
+      "Comparaisons et fiches éditoriales",
+      "Repères sur les modèles d'accès"
+    ],
+    "featuresEn": [
+      "Tool and agent catalog",
+      "Editorial reviews",
+      "Access model indicators"
+    ],
+    "accessFr": "Annuaire ou plateforme web de découverte et de comparaison",
+    "accessEn": "Web directory or discovery and comparison platform",
+    "officialSources": [
+      {
+        "url": "https://www.exploreai.directory/tools",
+        "checkedAt": "2026-11-17",
+        "scope": "directory_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Annuaire comparatif de logiciels et agents d'IA présentant fonctions, catégories et modalités d'accès.",
+      "audiences": [
+        "Professionnels à la recherche d'outils IA",
+        "Équipes de veille, pédagogues et responsables de l'innovation"
+      ],
+      "cases": [
+        "Repérer des solutions répondant à une tâche, puis vérifier leurs capacités sur les sources primaires.",
+        "Établir une présélection selon critères métier, confidentialité, budget et pérennité."
+      ],
+      "advantages": [
+        "Catalogue d'outils et agents",
+        "Comparaisons et fiches éditoriales",
+        "Repères sur les modèles d'accès"
+      ],
+      "limits": [
+        "Les descriptions de tarifs et statuts peuvent devenir obsolètes ; confirmer auprès des fournisseurs.",
+        "Les contenus de type annuaire peuvent inclure des promotions, liens d'affiliation, classements éditoriaux ou des données non actualisées."
+      ],
+      "gettingStarted": [
+        "Définir des critères de sélection explicites et consigner le besoin initial.",
+        "Comparer plusieurs fiches, ouvrir les sites officiels et réaliser un essai sur des données non sensibles."
+      ],
+      "examples": [
+        "Trouve trois solutions de cette catégorie et crée une matrice de comparaison avec dates et sources officielles.",
+        "Identifie les critères absents des fiches : tarification, confidentialité, hébergement, accessibilité et export des données."
+      ],
+      "pricing": "La navigation de l'annuaire peut être gratuite ; vérifier séparément les offres de référencement, abonnements et prix des outils tiers.",
+      "privacy": "Ne pas saisir de données confidentielles dans les moteurs de recherche ni les démonstrations tierces sans contrôler leur politique de données.",
+      "selection": [
+        "Évaluer fraîcheur des fiches, transparence des classements, liens officiels, couverture thématique et déclarations commerciales."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "official_verified",
+      "evidence": "provider_website",
+      "sources": [
+        {
+          "url": "https://www.exploreai.directory/tools",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "curatedai": {
+    "descriptionFr": "Annuaire éditorial d'outils IA regroupés par domaines avec une sélection et une veille associées.",
+    "descriptionEn": "Editorial AI tools directory organized by domain with curated selections and updates.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Catalogue thématique",
+      "Sélection de logiciels par usages",
+      "Veille sur les nouveaux outils"
+    ],
+    "featuresEn": [
+      "Thematic tool catalog",
+      "Curated use-case selections",
+      "AI product updates"
+    ],
+    "accessFr": "Annuaire ou plateforme web de découverte et de comparaison",
+    "accessEn": "Web directory or discovery and comparison platform",
+    "officialSources": [
+      {
+        "url": "https://www.curatedai.net/directory",
+        "checkedAt": "2026-11-17",
+        "scope": "directory_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Annuaire éditorial d'outils IA regroupés par domaines avec une sélection et une veille associées.",
+      "audiences": [
+        "Professionnels à la recherche d'outils IA",
+        "Équipes de veille, pédagogues et responsables de l'innovation"
+      ],
+      "cases": [
+        "Repérer des solutions répondant à une tâche, puis vérifier leurs capacités sur les sources primaires.",
+        "Établir une présélection selon critères métier, confidentialité, budget et pérennité."
+      ],
+      "advantages": [
+        "Catalogue thématique",
+        "Sélection de logiciels par usages",
+        "Veille sur les nouveaux outils"
+      ],
+      "limits": [
+        "Les sélections sont éditoriales ; les performances et comparaisons ne constituent pas des audits indépendants.",
+        "Les contenus de type annuaire peuvent inclure des promotions, liens d'affiliation, classements éditoriaux ou des données non actualisées."
+      ],
+      "gettingStarted": [
+        "Définir des critères de sélection explicites et consigner le besoin initial.",
+        "Comparer plusieurs fiches, ouvrir les sites officiels et réaliser un essai sur des données non sensibles."
+      ],
+      "examples": [
+        "Trouve trois solutions de cette catégorie et crée une matrice de comparaison avec dates et sources officielles.",
+        "Identifie les critères absents des fiches : tarification, confidentialité, hébergement, accessibilité et export des données."
+      ],
+      "pricing": "La navigation de l'annuaire peut être gratuite ; vérifier séparément les offres de référencement, abonnements et prix des outils tiers.",
+      "privacy": "Ne pas saisir de données confidentielles dans les moteurs de recherche ni les démonstrations tierces sans contrôler leur politique de données.",
+      "selection": [
+        "Évaluer fraîcheur des fiches, transparence des classements, liens officiels, couverture thématique et déclarations commerciales."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "official_verified",
+      "evidence": "provider_website",
+      "sources": [
+        {
+          "url": "https://www.curatedai.net/directory",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "huntscreens": {
+    "descriptionFr": "Répertoire de produits IA affichant des collections d'outils et pages de découverte par catégorie.",
+    "descriptionEn": "AI product directory providing tool collections and category discovery pages.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Listes d'outils populaires",
+      "Exploration des catégories",
+      "Fiches d'outils et liens"
+    ],
+    "featuresEn": [
+      "Popular tool lists",
+      "Category browsing",
+      "Tool entries and links"
+    ],
+    "accessFr": "Annuaire ou plateforme web de découverte et de comparaison",
+    "accessEn": "Web directory or discovery and comparison platform",
+    "officialSources": [
+      {
+        "url": "https://huntscreens.com/featured",
+        "checkedAt": "2026-11-17",
+        "scope": "directory_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Répertoire de produits IA affichant des collections d'outils et pages de découverte par catégorie.",
+      "audiences": [
+        "Professionnels à la recherche d'outils IA",
+        "Équipes de veille, pédagogues et responsables de l'innovation"
+      ],
+      "cases": [
+        "Repérer des solutions répondant à une tâche, puis vérifier leurs capacités sur les sources primaires.",
+        "Établir une présélection selon critères métier, confidentialité, budget et pérennité."
+      ],
+      "advantages": [
+        "Listes d'outils populaires",
+        "Exploration des catégories",
+        "Fiches d'outils et liens"
+      ],
+      "limits": [
+        "Les notes et classements sont propres à la plateforme ; leur méthodologie peut ne pas être représentative.",
+        "Les contenus de type annuaire peuvent inclure des promotions, liens d'affiliation, classements éditoriaux ou des données non actualisées."
+      ],
+      "gettingStarted": [
+        "Définir des critères de sélection explicites et consigner le besoin initial.",
+        "Comparer plusieurs fiches, ouvrir les sites officiels et réaliser un essai sur des données non sensibles."
+      ],
+      "examples": [
+        "Trouve trois solutions de cette catégorie et crée une matrice de comparaison avec dates et sources officielles.",
+        "Identifie les critères absents des fiches : tarification, confidentialité, hébergement, accessibilité et export des données."
+      ],
+      "pricing": "La navigation de l'annuaire peut être gratuite ; vérifier séparément les offres de référencement, abonnements et prix des outils tiers.",
+      "privacy": "Ne pas saisir de données confidentielles dans les moteurs de recherche ni les démonstrations tierces sans contrôler leur politique de données.",
+      "selection": [
+        "Évaluer fraîcheur des fiches, transparence des classements, liens officiels, couverture thématique et déclarations commerciales."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "official_verified",
+      "evidence": "provider_website",
+      "sources": [
+        {
+          "url": "https://huntscreens.com/featured",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "the-ai-tool-bible": {
+    "descriptionFr": "Annuaire comparatif répertoriant applications, modèles et infrastructures d'IA avec descriptions et évaluations.",
+    "descriptionEn": "Comparison directory listing AI apps, models and infrastructure with descriptions and ratings.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Fiches d'outils et de modèles",
+      "Repères de prix affichés",
+      "Classements et notes éditoriales"
+    ],
+    "featuresEn": [
+      "Product and model profiles",
+      "Displayed price benchmarks",
+      "Editorial ratings and rankings"
+    ],
+    "accessFr": "Annuaire ou plateforme web de découverte et de comparaison",
+    "accessEn": "Web directory or discovery and comparison platform",
+    "officialSources": [
+      {
+        "url": "https://www.theaitoolbible.com/tools",
+        "checkedAt": "2026-11-17",
+        "scope": "directory_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Annuaire comparatif répertoriant applications, modèles et infrastructures d'IA avec descriptions et évaluations.",
+      "audiences": [
+        "Professionnels à la recherche d'outils IA",
+        "Équipes de veille, pédagogues et responsables de l'innovation"
+      ],
+      "cases": [
+        "Repérer des solutions répondant à une tâche, puis vérifier leurs capacités sur les sources primaires.",
+        "Établir une présélection selon critères métier, confidentialité, budget et pérennité."
+      ],
+      "advantages": [
+        "Fiches d'outils et de modèles",
+        "Repères de prix affichés",
+        "Classements et notes éditoriales"
+      ],
+      "limits": [
+        "Les notes, noms de modèles et prix affichés doivent être recoupés avec les données officielles et datées.",
+        "Les contenus de type annuaire peuvent inclure des promotions, liens d'affiliation, classements éditoriaux ou des données non actualisées."
+      ],
+      "gettingStarted": [
+        "Définir des critères de sélection explicites et consigner le besoin initial.",
+        "Comparer plusieurs fiches, ouvrir les sites officiels et réaliser un essai sur des données non sensibles."
+      ],
+      "examples": [
+        "Trouve trois solutions de cette catégorie et crée une matrice de comparaison avec dates et sources officielles.",
+        "Identifie les critères absents des fiches : tarification, confidentialité, hébergement, accessibilité et export des données."
+      ],
+      "pricing": "La navigation de l'annuaire peut être gratuite ; vérifier séparément les offres de référencement, abonnements et prix des outils tiers.",
+      "privacy": "Ne pas saisir de données confidentielles dans les moteurs de recherche ni les démonstrations tierces sans contrôler leur politique de données.",
+      "selection": [
+        "Évaluer fraîcheur des fiches, transparence des classements, liens officiels, couverture thématique et déclarations commerciales."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "official_verified",
+      "evidence": "provider_website",
+      "sources": [
+        {
+          "url": "https://www.theaitoolbible.com/tools",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "ai-gear-base": {
+    "descriptionFr": "Répertoire d'outils IA organisé en catégories et proposant des fiches d'information et une approche de sélection éditoriale.",
+    "descriptionEn": "AI tools directory organized by categories with informational listings and editorial selection guidance.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Navigation par catégories",
+      "Fiches et critères de comparaison",
+      "Méthodologie de sélection annoncée"
+    ],
+    "featuresEn": [
+      "Category browsing",
+      "Tool profiles and comparisons",
+      "Published editorial methodology"
+    ],
+    "accessFr": "Annuaire ou plateforme web de découverte et de comparaison",
+    "accessEn": "Web directory or discovery and comparison platform",
+    "officialSources": [
+      {
+        "url": "https://aigearbase.com/about",
+        "checkedAt": "2026-11-17",
+        "scope": "directory_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Répertoire d'outils IA organisé en catégories et proposant des fiches d'information et une approche de sélection éditoriale.",
+      "audiences": [
+        "Professionnels à la recherche d'outils IA",
+        "Équipes de veille, pédagogues et responsables de l'innovation"
+      ],
+      "cases": [
+        "Repérer des solutions répondant à une tâche, puis vérifier leurs capacités sur les sources primaires.",
+        "Établir une présélection selon critères métier, confidentialité, budget et pérennité."
+      ],
+      "advantages": [
+        "Navigation par catégories",
+        "Fiches et critères de comparaison",
+        "Méthodologie de sélection annoncée"
+      ],
+      "limits": [
+        "Les chiffres d'audience ou de catalogue sont des déclarations de l'éditeur, non des audits externes.",
+        "Les contenus de type annuaire peuvent inclure des promotions, liens d'affiliation, classements éditoriaux ou des données non actualisées."
+      ],
+      "gettingStarted": [
+        "Définir des critères de sélection explicites et consigner le besoin initial.",
+        "Comparer plusieurs fiches, ouvrir les sites officiels et réaliser un essai sur des données non sensibles."
+      ],
+      "examples": [
+        "Trouve trois solutions de cette catégorie et crée une matrice de comparaison avec dates et sources officielles.",
+        "Identifie les critères absents des fiches : tarification, confidentialité, hébergement, accessibilité et export des données."
+      ],
+      "pricing": "La navigation de l'annuaire peut être gratuite ; vérifier séparément les offres de référencement, abonnements et prix des outils tiers.",
+      "privacy": "Ne pas saisir de données confidentielles dans les moteurs de recherche ni les démonstrations tierces sans contrôler leur politique de données.",
+      "selection": [
+        "Évaluer fraîcheur des fiches, transparence des classements, liens officiels, couverture thématique et déclarations commerciales."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "official_verified",
+      "evidence": "provider_website",
+      "sources": [
+        {
+          "url": "https://aigearbase.com/about",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  }
+}
