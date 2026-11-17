@@ -1,0 +1,93 @@
+{
+  "v0": {
+    "accessFr": "Créateur d’applications et d’interfaces IA dans le navigateur, connecté aux déploiements Vercel",
+    "accessEn": "Browser-based AI app and UI builder integrated with Vercel deployments",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Formule Free à crédits limités ; forfaits Premium, Team, Business et Enterprise avec crédits d’usage.",
+      "en": "Free tier with limited credits; Premium, Team, Business and Enterprise plans with usage credits.",
+      "sourceUrl": "https://v0.app/docs/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-45"
+  },
+  "firebase-studio": {
+    "accessFr": "Environnement de développement cloud réservé aux espaces existants ; nouvelles inscriptions fermées depuis le 22 juin 2026, arrêt prévu le 22 mars 2027",
+    "accessEn": "Cloud development environment limited to existing workspaces; new signup closed June 22, 2026, shutdown scheduled March 22, 2027",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "free",
+      "fr": "Accès historique sans abonnement à l’IDE pour les espaces existants ; services Firebase/Google Cloud éventuellement facturés séparément. Plus de nouveaux comptes.",
+      "en": "Historically free IDE for existing workspaces; Firebase/Google Cloud services may bill separately. No new registrations.",
+      "sourceUrl": "https://firebase.google.com/docs/studio/get-started",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-45",
+    "availabilityStatus": "sunsetting"
+  },
+  "wix-ai": {
+    "accessFr": "Créateur IA de sites Wix sur navigateur ; hébergement et fonctions métier dans Wix",
+    "accessEn": "Browser-based Wix AI website builder with Wix hosting and business features",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Création et essai d’un site gratuits ; forfait Premium pour domaine personnalisé, suppression de publicité et fonctions avancées.",
+      "en": "Free site creation and testing; Premium plans for custom domains, branding removal and advanced capabilities.",
+      "sourceUrl": "https://www.wix.com/ai-website-builder",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-45"
+  },
+  "hostinger-ai-website-builder": {
+    "accessFr": "Outils IA de construction de sites ou applications Hostinger, associés à l’hébergement",
+    "accessEn": "Hostinger AI website or app building tools bundled with hosting",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Essai gratuit limité selon produit ; abonnement d’hébergement payant pour maintenir le site publié.",
+      "en": "Limited trial depending on product; paid hosting subscription required to maintain a published site.",
+      "sourceUrl": "https://www.hostinger.com/ai-builder/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-45"
+  },
+  "10web": {
+    "accessFr": "Plateforme Web de création de sites et applications IA avec hébergement géré",
+    "accessEn": "Web-based AI website and app builder with managed hosting",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Offre de démarrage gratuite limitée en crédits et projets ; forfaits payants avec hébergement et crédits IA.",
+      "en": "Free starter plan with limited projects and credits; paid plans include hosting and AI credits.",
+      "sourceUrl": "https://10web.io/pricing-platform/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-45"
+  },
+  "appy-pie": {
+    "accessFr": "Constructeur no-code de sites et d’applications mobiles sur le Web",
+    "accessEn": "Web-based no-code website and mobile app builder",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Essai gratuit de création ; abonnements payants pour publier et distribuer une application.",
+      "en": "Free building trial; paid subscriptions for app publishing and distribution.",
+      "sourceUrl": "https://www.appypie.com/app-builder/pricing-plan",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-45"
+  }
+}
