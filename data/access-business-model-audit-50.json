@@ -1,0 +1,137 @@
+{
+  "vapi": {
+    "accessFr": "Plateforme Web et API de conception, déploiement et suivi d’agents vocaux téléphoniques.",
+    "accessEn": "Web dashboard and APIs to build, deploy and monitor telephony voice agents.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "Facturation à la minute d’hébergement, avec coûts supplémentaires du modèle, de la transcription, de la voix et de la téléphonie.",
+      "en": "Per-minute hosting fee plus model, transcription, voice and telephony costs.",
+      "sourceUrl": "https://docs.vapi.ai/billing/pricing-and-success-packages",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-50"
+  },
+  "retell-ai": {
+    "accessFr": "Studio Web, API et connexions téléphoniques pour agents de voix et service client.",
+    "accessEn": "Web studio, APIs and telephony integrations for voice and customer-support agents.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "Paiement à l’usage par minute de conversation, selon voix et modèles ; tarification entreprise sur devis.",
+      "en": "Pay-as-you-go per conversation minute depending on voice and models; custom enterprise pricing.",
+      "sourceUrl": "https://www.retellai.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-50"
+  },
+  "bland-ai": {
+    "accessFr": "Plateforme Web, API et intégrations téléphoniques pour appels entrants et sortants automatisés.",
+    "accessEn": "Web platform, APIs and telephony integrations for automated inbound and outbound calls.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "Offres libre-service avec facturation par minute, abonnement selon niveau, et contrats entreprise.",
+      "en": "Self-service per-minute billing, plan-dependent platform fees, and enterprise contracts.",
+      "sourceUrl": "https://www.bland.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-50"
+  },
+  "synthflow": {
+    "accessFr": "Plateforme Web d’agents de téléphone pour centres d’appels et entreprises, avec intégrations CRM.",
+    "accessEn": "Web voice-agent platform for contact centers and enterprises, with CRM integrations.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Déploiements sous contrat Enterprise, prix adaptés au volume d’appels, à la téléphonie et aux intégrations.",
+      "en": "Enterprise contracts tailored to call volume, telephony and integration needs.",
+      "sourceUrl": "https://synthflow.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-50"
+  },
+  "polyai": {
+    "accessFr": "Studio et plateforme professionnelle d’agents vocaux pour service client et centres de contacts.",
+    "accessEn": "Enterprise voice agent studio and platform for customer service and contact centers.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "Tarification contractuelle à la minute de conversation ; accompagnement et maintenance intégrés selon l’offre.",
+      "en": "Contracted per-conversation-minute pricing; plan-dependent support and maintenance.",
+      "sourceUrl": "https://poly.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-50"
+  },
+  "elevenlabs-conversational-ai": {
+    "accessFr": "ElevenAgents : studio et API pour agents conversationnels vocaux et textuels.",
+    "accessEn": "ElevenAgents studio and API for conversational voice and text agents.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "Minutes d’appels ou messages facturés selon le plan et les modèles ; téléphonie et LLM éventuellement distincts.",
+      "en": "Call minutes or text messages charged based on plan and models; telephony and LLM costs may be separate.",
+      "sourceUrl": "https://elevenlabs.io/docs/help-center/product/eleven-agents/how-much-does-eleven-agents-cost",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-50"
+  },
+  "livekit-agents": {
+    "accessFr": "SDK open source Python et Node.js pour agents temps réel ; déploiement autonome ou LiveKit Cloud.",
+    "accessEn": "Open-source Python and Node.js SDK for real-time agents; self-host or LiveKit Cloud.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "open_source_and_paid",
+      "fr": "Framework Apache 2.0 gratuit ; hébergement cloud facturé par durée de session et services IA selon usage.",
+      "en": "Free Apache 2.0 framework; cloud hosting metered by session time and AI-service usage.",
+      "sourceUrl": "https://docs.livekit.io/deploy/admin/billing/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-50"
+  },
+  "pipecat": {
+    "accessFr": "Framework Python open source pour agents vocaux et multimodaux ; déploiement sur infrastructure choisie.",
+    "accessEn": "Open-source Python framework for voice and multimodal agents; deploy on chosen infrastructure.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "open_source",
+      "fr": "Framework BSD 2-Clause gratuit ; modèles, hébergement et services tiers facturés séparément.",
+      "en": "Free BSD 2-Clause framework; model, hosting and third-party service costs are separate.",
+      "sourceUrl": "https://github.com/pipecat-ai/pipecat",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-50"
+  },
+  "twilio-ai": {
+    "accessFr": "API et services Twilio Voice, Conversation Relay et Conversation Intelligence pour créer des agents téléphoniques.",
+    "accessEn": "Twilio Voice, Conversation Relay and Conversation Intelligence APIs for telephony agents.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "Facturation des minutes et canaux de téléphonie, plus coûts spécifiques des fonctions IA utilisées.",
+      "en": "Telephony minutes and channel usage billed separately from applicable AI features.",
+      "sourceUrl": "https://www.twilio.com/en-us/products/conversational-ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-50"
+  }
+}
