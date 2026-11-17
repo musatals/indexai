@@ -1,0 +1,1313 @@
+{
+  "muse-meta": {
+    "descriptionFr": "Agent Meta persistant pour accomplir des tâches sur le Web et dans des applications connectées avec ordinateur cloud isolé.",
+    "descriptionEn": "Meta persistent agent for web and connected-app tasks using an isolated cloud computer.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Actions sur le Web et services connectés",
+      "Ordinateur cloud persistant",
+      "Intervention et permissions utilisateur"
+    ],
+    "featuresEn": [
+      "Web and connected-app actions",
+      "Persistent cloud computer",
+      "User intervention and permissions"
+    ],
+    "accessFr": "Service web, application, appareil ou projet open source selon l'outil",
+    "accessEn": "Web service, app, device or open-source project depending on product",
+    "officialSources": [
+      {
+        "url": "https://ai.meta.com/muse/",
+        "checkedAt": "2026-11-17",
+        "scope": "product_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Agent Meta persistant pour accomplir des tâches sur le Web et dans des applications connectées avec ordinateur cloud isolé.",
+      "audiences": [
+        "Particuliers et professionnels souhaitant déléguer des tâches",
+        "Équipes de productivité, de sécurité et de gouvernance IA"
+      ],
+      "cases": [
+        "Préparer une recherche ou une suite de tâches avec des points de contrôle humains.",
+        "Comparer l'autonomie annoncée aux permissions effectivement nécessaires avant usage."
+      ],
+      "advantages": [
+        "Actions sur le Web et services connectés",
+        "Ordinateur cloud persistant",
+        "Intervention et permissions utilisateur"
+      ],
+      "limits": [
+        "Les services et appareils compatibles dépendent du déploiement ; vérifier les accès aux comptes, paiements et données.",
+        "Une exécution autonome peut produire des erreurs ou agir sur des données sensibles ; supervision, portée des autorisations et vérification des résultats restent indispensables."
+      ],
+      "gettingStarted": [
+        "Définir une mission bornée et limiter les autorisations aux ressources nécessaires.",
+        "Tester sur des contenus non sensibles et examiner les traces et les actions avant automatisation durable."
+      ],
+      "examples": [
+        "Prépare un plan de recherche documenté, avec sources et demandes d'approbation avant toute modification externe.",
+        "Évalue l'assistant sur un scénario limité : exactitude, durée, coût, confidentialité et possibilité d'interrompre l'exécution."
+      ],
+      "pricing": "Vérifier forfait, accès régional, crédits, coût des modèles et des intégrations selon les conditions officielles.",
+      "privacy": "Examiner accès aux fichiers, historique, e-mails et applications ; limiter les permissions, protéger les identifiants et désactiver les connexions inutiles.",
+      "selection": [
+        "Comparer degré d'autonomie, support des outils, disponibilité, traçabilité, permissions, coût et capacité de supervision."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "eligible_regions",
+      "evidence": "official_documentation",
+      "sources": [
+        {
+          "url": "https://ai.meta.com/muse/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "dots-openai": {
+    "descriptionFr": "Agent personnel persistant dans ChatGPT pour suivre des projets, effectuer des recherches proactives et utiliser un ordinateur cloud.",
+    "descriptionEn": "Persistent personal agent in ChatGPT for ongoing projects, proactive research and cloud-computer work.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Travail entre conversations",
+      "Mémoire du projet et tâches suivies",
+      "Ordinateur cloud et applications connectées"
+    ],
+    "featuresEn": [
+      "Work across conversations",
+      "Project memory and ongoing tasks",
+      "Cloud computer and connected apps"
+    ],
+    "accessFr": "Service web, application, appareil ou projet open source selon l'outil",
+    "accessEn": "Web service, app, device or open-source project depending on product",
+    "officialSources": [
+      {
+        "url": "https://help.openai.com/en/articles/20001530-getting-started-with-your-dot",
+        "checkedAt": "2026-11-17",
+        "scope": "product_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Agent personnel persistant dans ChatGPT pour suivre des projets, effectuer des recherches proactives et utiliser un ordinateur cloud.",
+      "audiences": [
+        "Particuliers et professionnels souhaitant déléguer des tâches",
+        "Équipes de productivité, de sécurité et de gouvernance IA"
+      ],
+      "cases": [
+        "Préparer une recherche ou une suite de tâches avec des points de contrôle humains.",
+        "Comparer l'autonomie annoncée aux permissions effectivement nécessaires avant usage."
+      ],
+      "advantages": [
+        "Travail entre conversations",
+        "Mémoire du projet et tâches suivies",
+        "Ordinateur cloud et applications connectées"
+      ],
+      "limits": [
+        "L'accès dépend de l'éligibilité et d'éventuelles conditions d'administration ; contrôler permissions, autorisations et actions externes.",
+        "Une exécution autonome peut produire des erreurs ou agir sur des données sensibles ; supervision, portée des autorisations et vérification des résultats restent indispensables."
+      ],
+      "gettingStarted": [
+        "Définir une mission bornée et limiter les autorisations aux ressources nécessaires.",
+        "Tester sur des contenus non sensibles et examiner les traces et les actions avant automatisation durable."
+      ],
+      "examples": [
+        "Prépare un plan de recherche documenté, avec sources et demandes d'approbation avant toute modification externe.",
+        "Évalue l'assistant sur un scénario limité : exactitude, durée, coût, confidentialité et possibilité d'interrompre l'exécution."
+      ],
+      "pricing": "Vérifier forfait, accès régional, crédits, coût des modèles et des intégrations selon les conditions officielles.",
+      "privacy": "Examiner accès aux fichiers, historique, e-mails et applications ; limiter les permissions, protéger les identifiants et désactiver les connexions inutiles.",
+      "selection": [
+        "Comparer degré d'autonomie, support des outils, disponibilité, traçabilité, permissions, coût et capacité de supervision."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "eligibility_limited",
+      "evidence": "official_documentation",
+      "sources": [
+        {
+          "url": "https://help.openai.com/en/articles/20001530-getting-started-with-your-dot",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "gemini-spark": {
+    "descriptionFr": "Agent personnel Google dans l'application Gemini pour macOS, capable de réaliser des tâches multiétapes avec des contenus connectés.",
+    "descriptionEn": "Google personal agent within Gemini for macOS for multi-step work across connected content.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Traitement de tâches multiétapes",
+      "Accès aux contenus et applications compatibles",
+      "Suivi et supervision des actions"
+    ],
+    "featuresEn": [
+      "Multi-step task execution",
+      "Supported connected content and apps",
+      "Action monitoring and supervision"
+    ],
+    "accessFr": "Service web, application, appareil ou projet open source selon l'outil",
+    "accessEn": "Web service, app, device or open-source project depending on product",
+    "officialSources": [
+      {
+        "url": "https://gemini.google.com/updates",
+        "checkedAt": "2026-11-17",
+        "scope": "product_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Agent personnel Google dans l'application Gemini pour macOS, capable de réaliser des tâches multiétapes avec des contenus connectés.",
+      "audiences": [
+        "Particuliers et professionnels souhaitant déléguer des tâches",
+        "Équipes de productivité, de sécurité et de gouvernance IA"
+      ],
+      "cases": [
+        "Préparer une recherche ou une suite de tâches avec des points de contrôle humains.",
+        "Comparer l'autonomie annoncée aux permissions effectivement nécessaires avant usage."
+      ],
+      "advantages": [
+        "Traitement de tâches multiétapes",
+        "Accès aux contenus et applications compatibles",
+        "Suivi et supervision des actions"
+      ],
+      "limits": [
+        "Disponibilité annoncée initialement en anglais sur macOS, pour les abonnés Google AI Ultra éligibles ; restrictions régionales.",
+        "Une exécution autonome peut produire des erreurs ou agir sur des données sensibles ; supervision, portée des autorisations et vérification des résultats restent indispensables."
+      ],
+      "gettingStarted": [
+        "Définir une mission bornée et limiter les autorisations aux ressources nécessaires.",
+        "Tester sur des contenus non sensibles et examiner les traces et les actions avant automatisation durable."
+      ],
+      "examples": [
+        "Prépare un plan de recherche documenté, avec sources et demandes d'approbation avant toute modification externe.",
+        "Évalue l'assistant sur un scénario limité : exactitude, durée, coût, confidentialité et possibilité d'interrompre l'exécution."
+      ],
+      "pricing": "Vérifier forfait, accès régional, crédits, coût des modèles et des intégrations selon les conditions officielles.",
+      "privacy": "Examiner accès aux fichiers, historique, e-mails et applications ; limiter les permissions, protéger les identifiants et désactiver les connexions inutiles.",
+      "selection": [
+        "Comparer degré d'autonomie, support des outils, disponibilité, traçabilité, permissions, coût et capacité de supervision."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "limited_rollout",
+      "evidence": "official_documentation",
+      "sources": [
+        {
+          "url": "https://gemini.google.com/updates",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "chatgpt-agent": {
+    "descriptionFr": "Mode agent de ChatGPT combinant recherche, navigation et interaction avec des outils pour exécuter des processus numériques supervisés.",
+    "descriptionEn": "ChatGPT agent mode combining browsing, research and tool use for supervised digital workflows.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Recherche et navigation interactives",
+      "Tâches numériques multiétapes",
+      "Confirmations des actions sensibles"
+    ],
+    "featuresEn": [
+      "Interactive research and browsing",
+      "Multi-step digital tasks",
+      "Sensitive-action confirmations"
+    ],
+    "accessFr": "Service web, application, appareil ou projet open source selon l'outil",
+    "accessEn": "Web service, app, device or open-source project depending on product",
+    "officialSources": [
+      {
+        "url": "https://help.openai.com/en/articles/11752874-chatgpt-agent",
+        "checkedAt": "2026-11-17",
+        "scope": "product_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Mode agent de ChatGPT combinant recherche, navigation et interaction avec des outils pour exécuter des processus numériques supervisés.",
+      "audiences": [
+        "Particuliers et professionnels souhaitant déléguer des tâches",
+        "Équipes de productivité, de sécurité et de gouvernance IA"
+      ],
+      "cases": [
+        "Préparer une recherche ou une suite de tâches avec des points de contrôle humains.",
+        "Comparer l'autonomie annoncée aux permissions effectivement nécessaires avant usage."
+      ],
+      "advantages": [
+        "Recherche et navigation interactives",
+        "Tâches numériques multiétapes",
+        "Confirmations des actions sensibles"
+      ],
+      "limits": [
+        "L'accès, les limites et les capacités dépendent de l'offre ; l'agent reste exposé aux instructions trompeuses des pages consultées.",
+        "Une exécution autonome peut produire des erreurs ou agir sur des données sensibles ; supervision, portée des autorisations et vérification des résultats restent indispensables."
+      ],
+      "gettingStarted": [
+        "Définir une mission bornée et limiter les autorisations aux ressources nécessaires.",
+        "Tester sur des contenus non sensibles et examiner les traces et les actions avant automatisation durable."
+      ],
+      "examples": [
+        "Prépare un plan de recherche documenté, avec sources et demandes d'approbation avant toute modification externe.",
+        "Évalue l'assistant sur un scénario limité : exactitude, durée, coût, confidentialité et possibilité d'interrompre l'exécution."
+      ],
+      "pricing": "Vérifier forfait, accès régional, crédits, coût des modèles et des intégrations selon les conditions officielles.",
+      "privacy": "Examiner accès aux fichiers, historique, e-mails et applications ; limiter les permissions, protéger les identifiants et désactiver les connexions inutiles.",
+      "selection": [
+        "Comparer degré d'autonomie, support des outils, disponibilité, traçabilité, permissions, coût et capacité de supervision."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "plan_dependent",
+      "evidence": "official_documentation",
+      "sources": [
+        {
+          "url": "https://help.openai.com/en/articles/11752874-chatgpt-agent",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "claude-cowork": {
+    "descriptionFr": "Agent Anthropic destiné au travail sur des fichiers et tâches bureautiques, avec interaction contrôlée avec les outils et documents.",
+    "descriptionEn": "Anthropic agent for file-based and office workflows with supervised tools and documents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Traitement de fichiers et documents",
+      "Exécution de procédures multiétapes",
+      "Livrables sous contrôle utilisateur"
+    ],
+    "featuresEn": [
+      "File and document processing",
+      "Multi-step workflows",
+      "User-supervised deliverables"
+    ],
+    "accessFr": "Service web, application, appareil ou projet open source selon l'outil",
+    "accessEn": "Web service, app, device or open-source project depending on product",
+    "officialSources": [
+      {
+        "url": "https://claude.com/product/cowork",
+        "checkedAt": "2026-11-17",
+        "scope": "product_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Agent Anthropic destiné au travail sur des fichiers et tâches bureautiques, avec interaction contrôlée avec les outils et documents.",
+      "audiences": [
+        "Particuliers et professionnels souhaitant déléguer des tâches",
+        "Équipes de productivité, de sécurité et de gouvernance IA"
+      ],
+      "cases": [
+        "Préparer une recherche ou une suite de tâches avec des points de contrôle humains.",
+        "Comparer l'autonomie annoncée aux permissions effectivement nécessaires avant usage."
+      ],
+      "advantages": [
+        "Traitement de fichiers et documents",
+        "Exécution de procédures multiétapes",
+        "Livrables sous contrôle utilisateur"
+      ],
+      "limits": [
+        "Vérifier l'accès selon les offres et plateformes, ainsi que les permissions sur les fichiers et données partagées.",
+        "Une exécution autonome peut produire des erreurs ou agir sur des données sensibles ; supervision, portée des autorisations et vérification des résultats restent indispensables."
+      ],
+      "gettingStarted": [
+        "Définir une mission bornée et limiter les autorisations aux ressources nécessaires.",
+        "Tester sur des contenus non sensibles et examiner les traces et les actions avant automatisation durable."
+      ],
+      "examples": [
+        "Prépare un plan de recherche documenté, avec sources et demandes d'approbation avant toute modification externe.",
+        "Évalue l'assistant sur un scénario limité : exactitude, durée, coût, confidentialité et possibilité d'interrompre l'exécution."
+      ],
+      "pricing": "Vérifier forfait, accès régional, crédits, coût des modèles et des intégrations selon les conditions officielles.",
+      "privacy": "Examiner accès aux fichiers, historique, e-mails et applications ; limiter les permissions, protéger les identifiants et désactiver les connexions inutiles.",
+      "selection": [
+        "Comparer degré d'autonomie, support des outils, disponibilité, traçabilité, permissions, coût et capacité de supervision."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "plan_and_platform",
+      "evidence": "official_documentation",
+      "sources": [
+        {
+          "url": "https://claude.com/product/cowork",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "perplexity-assistant": {
+    "descriptionFr": "Assistant Perplexity pour recherche documentaire et assistance à certaines tâches, avec fonctions d'action variables selon le produit.",
+    "descriptionEn": "Perplexity assistant for sourced research and certain tasks, with action capabilities varying by product.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Recherche et synthèse référencées",
+      "Interaction conversationnelle",
+      "Actions selon produit et intégration"
+    ],
+    "featuresEn": [
+      "Sourced search and synthesis",
+      "Conversational assistance",
+      "Product-dependent actions"
+    ],
+    "accessFr": "Service web, application, appareil ou projet open source selon l'outil",
+    "accessEn": "Web service, app, device or open-source project depending on product",
+    "officialSources": [
+      {
+        "url": "https://www.perplexity.ai/",
+        "checkedAt": "2026-11-17",
+        "scope": "product_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Assistant Perplexity pour recherche documentaire et assistance à certaines tâches, avec fonctions d'action variables selon le produit.",
+      "audiences": [
+        "Particuliers et professionnels souhaitant déléguer des tâches",
+        "Équipes de productivité, de sécurité et de gouvernance IA"
+      ],
+      "cases": [
+        "Préparer une recherche ou une suite de tâches avec des points de contrôle humains.",
+        "Comparer l'autonomie annoncée aux permissions effectivement nécessaires avant usage."
+      ],
+      "advantages": [
+        "Recherche et synthèse référencées",
+        "Interaction conversationnelle",
+        "Actions selon produit et intégration"
+      ],
+      "limits": [
+        "Ne pas assimiler recherche de réponses, assistant mobile et agent navigateur ; vérifier les fonctions par plateforme.",
+        "Une exécution autonome peut produire des erreurs ou agir sur des données sensibles ; supervision, portée des autorisations et vérification des résultats restent indispensables."
+      ],
+      "gettingStarted": [
+        "Définir une mission bornée et limiter les autorisations aux ressources nécessaires.",
+        "Tester sur des contenus non sensibles et examiner les traces et les actions avant automatisation durable."
+      ],
+      "examples": [
+        "Prépare un plan de recherche documenté, avec sources et demandes d'approbation avant toute modification externe.",
+        "Évalue l'assistant sur un scénario limité : exactitude, durée, coût, confidentialité et possibilité d'interrompre l'exécution."
+      ],
+      "pricing": "Vérifier forfait, accès régional, crédits, coût des modèles et des intégrations selon les conditions officielles.",
+      "privacy": "Examiner accès aux fichiers, historique, e-mails et applications ; limiter les permissions, protéger les identifiants et désactiver les connexions inutiles.",
+      "selection": [
+        "Comparer degré d'autonomie, support des outils, disponibilité, traçabilité, permissions, coût et capacité de supervision."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "scope_varies",
+      "evidence": "official_documentation",
+      "sources": [
+        {
+          "url": "https://www.perplexity.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "amazon-alexa": {
+    "descriptionFr": "Assistant vocal Alexa+ d'Amazon pour conversations, organisation personnelle, achats et pilotage de matériels compatibles.",
+    "descriptionEn": "Amazon Alexa+ voice assistant for conversation, personal organization, shopping and supported device controls.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Conversation vocale et tâches",
+      "Équipements domotiques compatibles",
+      "Achats et services selon région"
+    ],
+    "featuresEn": [
+      "Voice conversation and tasks",
+      "Supported smart-home devices",
+      "Region-dependent shopping and services"
+    ],
+    "accessFr": "Service web, application, appareil ou projet open source selon l'outil",
+    "accessEn": "Web service, app, device or open-source project depending on product",
+    "officialSources": [
+      {
+        "url": "https://www.amazon.com/alexaplus",
+        "checkedAt": "2026-11-17",
+        "scope": "product_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Assistant vocal Alexa+ d'Amazon pour conversations, organisation personnelle, achats et pilotage de matériels compatibles.",
+      "audiences": [
+        "Particuliers et professionnels souhaitant déléguer des tâches",
+        "Équipes de productivité, de sécurité et de gouvernance IA"
+      ],
+      "cases": [
+        "Préparer une recherche ou une suite de tâches avec des points de contrôle humains.",
+        "Comparer l'autonomie annoncée aux permissions effectivement nécessaires avant usage."
+      ],
+      "advantages": [
+        "Conversation vocale et tâches",
+        "Équipements domotiques compatibles",
+        "Achats et services selon région"
+      ],
+      "limits": [
+        "Fonctionnalités, coûts et contrôles des achats varient selon pays et appareil ; examiner les autorisations.",
+        "Une exécution autonome peut produire des erreurs ou agir sur des données sensibles ; supervision, portée des autorisations et vérification des résultats restent indispensables."
+      ],
+      "gettingStarted": [
+        "Définir une mission bornée et limiter les autorisations aux ressources nécessaires.",
+        "Tester sur des contenus non sensibles et examiner les traces et les actions avant automatisation durable."
+      ],
+      "examples": [
+        "Prépare un plan de recherche documenté, avec sources et demandes d'approbation avant toute modification externe.",
+        "Évalue l'assistant sur un scénario limité : exactitude, durée, coût, confidentialité et possibilité d'interrompre l'exécution."
+      ],
+      "pricing": "Vérifier forfait, accès régional, crédits, coût des modèles et des intégrations selon les conditions officielles.",
+      "privacy": "Examiner accès aux fichiers, historique, e-mails et applications ; limiter les permissions, protéger les identifiants et désactiver les connexions inutiles.",
+      "selection": [
+        "Comparer degré d'autonomie, support des outils, disponibilité, traçabilité, permissions, coût et capacité de supervision."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "region_and_devices",
+      "evidence": "official_documentation",
+      "sources": [
+        {
+          "url": "https://www.amazon.com/alexaplus",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "openclaw": {
+    "descriptionFr": "Agent personnel open source auto-hébergeable connectant messageries, outils et automatisations.",
+    "descriptionEn": "Self-hostable open-source personal agent connecting messaging services, tools and automations.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Installation sur infrastructure contrôlée",
+      "Connecteurs de messagerie et outils",
+      "Automatisations et tâches récurrentes"
+    ],
+    "featuresEn": [
+      "Self-hosted operation",
+      "Messaging and tool connectors",
+      "Automations and ongoing tasks"
+    ],
+    "accessFr": "Service web, application, appareil ou projet open source selon l'outil",
+    "accessEn": "Web service, app, device or open-source project depending on product",
+    "officialSources": [
+      {
+        "url": "https://docs.openclaw.ai/",
+        "checkedAt": "2026-11-17",
+        "scope": "product_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Agent personnel open source auto-hébergeable connectant messageries, outils et automatisations.",
+      "audiences": [
+        "Particuliers et professionnels souhaitant déléguer des tâches",
+        "Équipes de productivité, de sécurité et de gouvernance IA"
+      ],
+      "cases": [
+        "Préparer une recherche ou une suite de tâches avec des points de contrôle humains.",
+        "Comparer l'autonomie annoncée aux permissions effectivement nécessaires avant usage."
+      ],
+      "advantages": [
+        "Installation sur infrastructure contrôlée",
+        "Connecteurs de messagerie et outils",
+        "Automatisations et tâches récurrentes"
+      ],
+      "limits": [
+        "Renforcer isolation, gestion des secrets et contrôle des outils : les agents auto-hébergés exposent des risques de prompt injection.",
+        "Une exécution autonome peut produire des erreurs ou agir sur des données sensibles ; supervision, portée des autorisations et vérification des résultats restent indispensables."
+      ],
+      "gettingStarted": [
+        "Définir une mission bornée et limiter les autorisations aux ressources nécessaires.",
+        "Tester sur des contenus non sensibles et examiner les traces et les actions avant automatisation durable."
+      ],
+      "examples": [
+        "Prépare un plan de recherche documenté, avec sources et demandes d'approbation avant toute modification externe.",
+        "Évalue l'assistant sur un scénario limité : exactitude, durée, coût, confidentialité et possibilité d'interrompre l'exécution."
+      ],
+      "pricing": "Vérifier forfait, accès régional, crédits, coût des modèles et des intégrations selon les conditions officielles.",
+      "privacy": "Examiner accès aux fichiers, historique, e-mails et applications ; limiter les permissions, protéger les identifiants et désactiver les connexions inutiles.",
+      "selection": [
+        "Comparer degré d'autonomie, support des outils, disponibilité, traçabilité, permissions, coût et capacité de supervision."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "open_source",
+      "evidence": "official_documentation",
+      "sources": [
+        {
+          "url": "https://docs.openclaw.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "genspark-super-agent": {
+    "descriptionFr": "Agent généraliste Genspark pour recherches, création de documents et exécution de tâches numériques.",
+    "descriptionEn": "Genspark general-purpose agent for research, document creation and digital task execution.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Recherche et synthèse",
+      "Génération de livrables",
+      "Tâches multiétapes selon abonnement"
+    ],
+    "featuresEn": [
+      "Research and synthesis",
+      "Deliverable generation",
+      "Subscription-dependent multi-step tasks"
+    ],
+    "accessFr": "Service web, application, appareil ou projet open source selon l'outil",
+    "accessEn": "Web service, app, device or open-source project depending on product",
+    "officialSources": [
+      {
+        "url": "https://www.genspark.ai/",
+        "checkedAt": "2026-11-17",
+        "scope": "product_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Agent généraliste Genspark pour recherches, création de documents et exécution de tâches numériques.",
+      "audiences": [
+        "Particuliers et professionnels souhaitant déléguer des tâches",
+        "Équipes de productivité, de sécurité et de gouvernance IA"
+      ],
+      "cases": [
+        "Préparer une recherche ou une suite de tâches avec des points de contrôle humains.",
+        "Comparer l'autonomie annoncée aux permissions effectivement nécessaires avant usage."
+      ],
+      "advantages": [
+        "Recherche et synthèse",
+        "Génération de livrables",
+        "Tâches multiétapes selon abonnement"
+      ],
+      "limits": [
+        "Vérifier les crédits, services connectés, sources et coûts avant de déléguer des tâches sensibles.",
+        "Une exécution autonome peut produire des erreurs ou agir sur des données sensibles ; supervision, portée des autorisations et vérification des résultats restent indispensables."
+      ],
+      "gettingStarted": [
+        "Définir une mission bornée et limiter les autorisations aux ressources nécessaires.",
+        "Tester sur des contenus non sensibles et examiner les traces et les actions avant automatisation durable."
+      ],
+      "examples": [
+        "Prépare un plan de recherche documenté, avec sources et demandes d'approbation avant toute modification externe.",
+        "Évalue l'assistant sur un scénario limité : exactitude, durée, coût, confidentialité et possibilité d'interrompre l'exécution."
+      ],
+      "pricing": "Vérifier forfait, accès régional, crédits, coût des modèles et des intégrations selon les conditions officielles.",
+      "privacy": "Examiner accès aux fichiers, historique, e-mails et applications ; limiter les permissions, protéger les identifiants et désactiver les connexions inutiles.",
+      "selection": [
+        "Comparer degré d'autonomie, support des outils, disponibilité, traçabilité, permissions, coût et capacité de supervision."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "plan_dependent",
+      "evidence": "official_documentation",
+      "sources": [
+        {
+          "url": "https://www.genspark.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "kimi-agent": {
+    "descriptionFr": "Fonctions agentiques de l'assistant Kimi de Moonshot AI pour recherche approfondie et tâches complexes.",
+    "descriptionEn": "Agent capabilities of Moonshot AI's Kimi assistant for deep research and complex work.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Recherche approfondie",
+      "Raisonnement et synthèse",
+      "Tâches assistées selon version"
+    ],
+    "featuresEn": [
+      "Deep research",
+      "Reasoning and synthesis",
+      "Version-dependent task workflows"
+    ],
+    "accessFr": "Service web, application, appareil ou projet open source selon l'outil",
+    "accessEn": "Web service, app, device or open-source project depending on product",
+    "officialSources": [
+      {
+        "url": "https://www.kimi.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "product_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Fonctions agentiques de l'assistant Kimi de Moonshot AI pour recherche approfondie et tâches complexes.",
+      "audiences": [
+        "Particuliers et professionnels souhaitant déléguer des tâches",
+        "Équipes de productivité, de sécurité et de gouvernance IA"
+      ],
+      "cases": [
+        "Préparer une recherche ou une suite de tâches avec des points de contrôle humains.",
+        "Comparer l'autonomie annoncée aux permissions effectivement nécessaires avant usage."
+      ],
+      "advantages": [
+        "Recherche approfondie",
+        "Raisonnement et synthèse",
+        "Tâches assistées selon version"
+      ],
+      "limits": [
+        "L'autonomie réelle, les options et les régions dépendent de la version du produit ; ne pas généraliser les démonstrations.",
+        "Une exécution autonome peut produire des erreurs ou agir sur des données sensibles ; supervision, portée des autorisations et vérification des résultats restent indispensables."
+      ],
+      "gettingStarted": [
+        "Définir une mission bornée et limiter les autorisations aux ressources nécessaires.",
+        "Tester sur des contenus non sensibles et examiner les traces et les actions avant automatisation durable."
+      ],
+      "examples": [
+        "Prépare un plan de recherche documenté, avec sources et demandes d'approbation avant toute modification externe.",
+        "Évalue l'assistant sur un scénario limité : exactitude, durée, coût, confidentialité et possibilité d'interrompre l'exécution."
+      ],
+      "pricing": "Vérifier forfait, accès régional, crédits, coût des modèles et des intégrations selon les conditions officielles.",
+      "privacy": "Examiner accès aux fichiers, historique, e-mails et applications ; limiter les permissions, protéger les identifiants et désactiver les connexions inutiles.",
+      "selection": [
+        "Comparer degré d'autonomie, support des outils, disponibilité, traçabilité, permissions, coût et capacité de supervision."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "scope_varies",
+      "evidence": "official_documentation",
+      "sources": [
+        {
+          "url": "https://www.kimi.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "qwen-app": {
+    "descriptionFr": "Application Qwen proposant conversation multimodale et assistance aux tâches avec fonctions évolutives.",
+    "descriptionEn": "Qwen application for multimodal conversation and task assistance with evolving capabilities.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Dialogue et compréhension multimodale",
+      "Recherche et production de contenu",
+      "Outils et actions selon version"
+    ],
+    "featuresEn": [
+      "Multimodal chat",
+      "Research and content generation",
+      "Version-dependent tools and actions"
+    ],
+    "accessFr": "Service web, application, appareil ou projet open source selon l'outil",
+    "accessEn": "Web service, app, device or open-source project depending on product",
+    "officialSources": [
+      {
+        "url": "https://qwen.ai/",
+        "checkedAt": "2026-11-17",
+        "scope": "product_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Application Qwen proposant conversation multimodale et assistance aux tâches avec fonctions évolutives.",
+      "audiences": [
+        "Particuliers et professionnels souhaitant déléguer des tâches",
+        "Équipes de productivité, de sécurité et de gouvernance IA"
+      ],
+      "cases": [
+        "Préparer une recherche ou une suite de tâches avec des points de contrôle humains.",
+        "Comparer l'autonomie annoncée aux permissions effectivement nécessaires avant usage."
+      ],
+      "advantages": [
+        "Dialogue et compréhension multimodale",
+        "Recherche et production de contenu",
+        "Outils et actions selon version"
+      ],
+      "limits": [
+        "Distinguer l'application de la famille de modèles Qwen ; fonctions et disponibilité varient par environnement.",
+        "Une exécution autonome peut produire des erreurs ou agir sur des données sensibles ; supervision, portée des autorisations et vérification des résultats restent indispensables."
+      ],
+      "gettingStarted": [
+        "Définir une mission bornée et limiter les autorisations aux ressources nécessaires.",
+        "Tester sur des contenus non sensibles et examiner les traces et les actions avant automatisation durable."
+      ],
+      "examples": [
+        "Prépare un plan de recherche documenté, avec sources et demandes d'approbation avant toute modification externe.",
+        "Évalue l'assistant sur un scénario limité : exactitude, durée, coût, confidentialité et possibilité d'interrompre l'exécution."
+      ],
+      "pricing": "Vérifier forfait, accès régional, crédits, coût des modèles et des intégrations selon les conditions officielles.",
+      "privacy": "Examiner accès aux fichiers, historique, e-mails et applications ; limiter les permissions, protéger les identifiants et désactiver les connexions inutiles.",
+      "selection": [
+        "Comparer degré d'autonomie, support des outils, disponibilité, traçabilité, permissions, coût et capacité de supervision."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "scope_varies",
+      "evidence": "official_documentation",
+      "sources": [
+        {
+          "url": "https://qwen.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "grok-bot": {
+    "descriptionFr": "Assistant Grok associé à xAI ; les capacités d'agent personnel autonome présentées sous le nom « Grok Bot » restent à confirmer.",
+    "descriptionEn": "Grok assistant from xAI; independently confirmed personal-agent capabilities specifically branded Grok Bot are still unclear.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Conversation et recherche Grok",
+      "Fonctions applicatives selon plateforme",
+      "Identité du produit Grok Bot à confirmer"
+    ],
+    "featuresEn": [
+      "Grok chat and research",
+      "Platform-dependent tools",
+      "Grok Bot product identity requires verification"
+    ],
+    "accessFr": "Accès et périmètre à confirmer",
+    "accessEn": "Access and scope require verification",
+    "officialSources": [
+      {
+        "url": "https://grok.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "product_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Assistant Grok associé à xAI ; les capacités d'agent personnel autonome présentées sous le nom « Grok Bot » restent à confirmer.",
+      "audiences": [
+        "Particuliers et professionnels souhaitant déléguer des tâches",
+        "Équipes de productivité, de sécurité et de gouvernance IA"
+      ],
+      "cases": [
+        "Préparer une recherche ou une suite de tâches avec des points de contrôle humains.",
+        "Comparer l'autonomie annoncée aux permissions effectivement nécessaires avant usage."
+      ],
+      "advantages": [
+        "Conversation et recherche Grok",
+        "Fonctions applicatives selon plateforme",
+        "Identité du produit Grok Bot à confirmer"
+      ],
+      "limits": [
+        "Ne pas présenter Grok Bot comme un agent distinct disponible sans documentation officielle explicite.",
+        "Une exécution autonome peut produire des erreurs ou agir sur des données sensibles ; supervision, portée des autorisations et vérification des résultats restent indispensables."
+      ],
+      "gettingStarted": [
+        "Définir une mission bornée et limiter les autorisations aux ressources nécessaires.",
+        "Tester sur des contenus non sensibles et examiner les traces et les actions avant automatisation durable."
+      ],
+      "examples": [
+        "Prépare un plan de recherche documenté, avec sources et demandes d'approbation avant toute modification externe.",
+        "Évalue l'assistant sur un scénario limité : exactitude, durée, coût, confidentialité et possibilité d'interrompre l'exécution."
+      ],
+      "pricing": "Vérifier forfait, accès régional, crédits, coût des modèles et des intégrations selon les conditions officielles.",
+      "privacy": "Examiner accès aux fichiers, historique, e-mails et applications ; limiter les permissions, protéger les identifiants et désactiver les connexions inutiles.",
+      "selection": [
+        "Comparer degré d'autonomie, support des outils, disponibilité, traçabilité, permissions, coût et capacité de supervision."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "product_identity_unverified",
+      "evidence": "limited_official_confirmation",
+      "sources": [
+        {
+          "url": "https://grok.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "review_needed"
+  },
+  "samsung-bixby": {
+    "descriptionFr": "Assistant de Samsung pour appareils compatibles Galaxy avec commandes vocales, fonctions contextuelles et interactions avec l'écosystème.",
+    "descriptionEn": "Samsung assistant for supported Galaxy devices with voice commands, contextual functions and ecosystem actions.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Commandes vocales et contrôle du téléphone",
+      "Fonctions contextuelles",
+      "Intégration aux applications compatibles"
+    ],
+    "featuresEn": [
+      "Voice commands and phone controls",
+      "Contextual assistance",
+      "Supported application integrations"
+    ],
+    "accessFr": "Service web, application, appareil ou projet open source selon l'outil",
+    "accessEn": "Web service, app, device or open-source project depending on product",
+    "officialSources": [
+      {
+        "url": "https://www.samsung.com/us/apps/bixby/",
+        "checkedAt": "2026-11-17",
+        "scope": "product_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Assistant de Samsung pour appareils compatibles Galaxy avec commandes vocales, fonctions contextuelles et interactions avec l'écosystème.",
+      "audiences": [
+        "Particuliers et professionnels souhaitant déléguer des tâches",
+        "Équipes de productivité, de sécurité et de gouvernance IA"
+      ],
+      "cases": [
+        "Préparer une recherche ou une suite de tâches avec des points de contrôle humains.",
+        "Comparer l'autonomie annoncée aux permissions effectivement nécessaires avant usage."
+      ],
+      "advantages": [
+        "Commandes vocales et contrôle du téléphone",
+        "Fonctions contextuelles",
+        "Intégration aux applications compatibles"
+      ],
+      "limits": [
+        "Les fonctions récentes de Bixby varient selon le matériel, la version logicielle, la langue et la région.",
+        "Une exécution autonome peut produire des erreurs ou agir sur des données sensibles ; supervision, portée des autorisations et vérification des résultats restent indispensables."
+      ],
+      "gettingStarted": [
+        "Définir une mission bornée et limiter les autorisations aux ressources nécessaires.",
+        "Tester sur des contenus non sensibles et examiner les traces et les actions avant automatisation durable."
+      ],
+      "examples": [
+        "Prépare un plan de recherche documenté, avec sources et demandes d'approbation avant toute modification externe.",
+        "Évalue l'assistant sur un scénario limité : exactitude, durée, coût, confidentialité et possibilité d'interrompre l'exécution."
+      ],
+      "pricing": "Vérifier forfait, accès régional, crédits, coût des modèles et des intégrations selon les conditions officielles.",
+      "privacy": "Examiner accès aux fichiers, historique, e-mails et applications ; limiter les permissions, protéger les identifiants et désactiver les connexions inutiles.",
+      "selection": [
+        "Comparer degré d'autonomie, support des outils, disponibilité, traçabilité, permissions, coût et capacité de supervision."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "region_device_dependent",
+      "evidence": "official_documentation",
+      "sources": [
+        {
+          "url": "https://www.samsung.com/us/apps/bixby/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "huawei-celia": {
+    "descriptionFr": "Assistant intelligent Huawei présent sur certains terminaux, avec commandes vocales et outils propres à l'écosystème.",
+    "descriptionEn": "Huawei intelligent assistant on selected devices with voice controls and ecosystem utilities.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Commandes et recherche vocales",
+      "Intégration aux appareils compatibles",
+      "Services selon région et version"
+    ],
+    "featuresEn": [
+      "Voice commands and search",
+      "Supported device integration",
+      "Region- and version-dependent services"
+    ],
+    "accessFr": "Accès et périmètre à confirmer",
+    "accessEn": "Access and scope require verification",
+    "officialSources": [
+      {
+        "url": "https://consumer.huawei.com/en/",
+        "checkedAt": "2026-11-17",
+        "scope": "product_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Assistant intelligent Huawei présent sur certains terminaux, avec commandes vocales et outils propres à l'écosystème.",
+      "audiences": [
+        "Particuliers et professionnels souhaitant déléguer des tâches",
+        "Équipes de productivité, de sécurité et de gouvernance IA"
+      ],
+      "cases": [
+        "Préparer une recherche ou une suite de tâches avec des points de contrôle humains.",
+        "Comparer l'autonomie annoncée aux permissions effectivement nécessaires avant usage."
+      ],
+      "advantages": [
+        "Commandes et recherche vocales",
+        "Intégration aux appareils compatibles",
+        "Services selon région et version"
+      ],
+      "limits": [
+        "La page globale Huawei ne confirme pas les mêmes fonctions agentiques sur tous les appareils ; préciser modèle et pays.",
+        "Une exécution autonome peut produire des erreurs ou agir sur des données sensibles ; supervision, portée des autorisations et vérification des résultats restent indispensables."
+      ],
+      "gettingStarted": [
+        "Définir une mission bornée et limiter les autorisations aux ressources nécessaires.",
+        "Tester sur des contenus non sensibles et examiner les traces et les actions avant automatisation durable."
+      ],
+      "examples": [
+        "Prépare un plan de recherche documenté, avec sources et demandes d'approbation avant toute modification externe.",
+        "Évalue l'assistant sur un scénario limité : exactitude, durée, coût, confidentialité et possibilité d'interrompre l'exécution."
+      ],
+      "pricing": "Vérifier forfait, accès régional, crédits, coût des modèles et des intégrations selon les conditions officielles.",
+      "privacy": "Examiner accès aux fichiers, historique, e-mails et applications ; limiter les permissions, protéger les identifiants et désactiver les connexions inutiles.",
+      "selection": [
+        "Comparer degré d'autonomie, support des outils, disponibilité, traçabilité, permissions, coût et capacité de supervision."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "scope_unverified",
+      "evidence": "limited_official_confirmation",
+      "sources": [
+        {
+          "url": "https://consumer.huawei.com/en/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "review_needed"
+  },
+  "xiaomi-miclaw": {
+    "descriptionFr": "Agent système expérimental Xiaomi basé sur MiMo, avec accès bêta limité pour interactions avec appareils et applications.",
+    "descriptionEn": "Experimental Xiaomi MiMo-based system agent with limited beta access for device and app interactions.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Agent système et interaction par tâches",
+      "Intégration à l'écosystème Xiaomi",
+      "Bêta fermée / accès restreint"
+    ],
+    "featuresEn": [
+      "System-level task agent",
+      "Xiaomi ecosystem integration",
+      "Closed beta / restricted access"
+    ],
+    "accessFr": "Bêta fermée",
+    "accessEn": "Closed beta",
+    "officialSources": [
+      {
+        "url": "https://dev.mi.com/xiaomihyperos/announcement/detail?id=41",
+        "checkedAt": "2026-11-17",
+        "scope": "product_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Agent système expérimental Xiaomi basé sur MiMo, avec accès bêta limité pour interactions avec appareils et applications.",
+      "audiences": [
+        "Particuliers et professionnels souhaitant déléguer des tâches",
+        "Équipes de productivité, de sécurité et de gouvernance IA"
+      ],
+      "cases": [
+        "Préparer une recherche ou une suite de tâches avec des points de contrôle humains.",
+        "Comparer l'autonomie annoncée aux permissions effectivement nécessaires avant usage."
+      ],
+      "advantages": [
+        "Agent système et interaction par tâches",
+        "Intégration à l'écosystème Xiaomi",
+        "Bêta fermée / accès restreint"
+      ],
+      "limits": [
+        "Le programme MiClaw a débuté en bêta fermée limitée le 6 mars 2026 ; ne pas annoncer un lancement universel.",
+        "Une exécution autonome peut produire des erreurs ou agir sur des données sensibles ; supervision, portée des autorisations et vérification des résultats restent indispensables."
+      ],
+      "gettingStarted": [
+        "Définir une mission bornée et limiter les autorisations aux ressources nécessaires.",
+        "Tester sur des contenus non sensibles et examiner les traces et les actions avant automatisation durable."
+      ],
+      "examples": [
+        "Prépare un plan de recherche documenté, avec sources et demandes d'approbation avant toute modification externe.",
+        "Évalue l'assistant sur un scénario limité : exactitude, durée, coût, confidentialité et possibilité d'interrompre l'exécution."
+      ],
+      "pricing": "Vérifier forfait, accès régional, crédits, coût des modèles et des intégrations selon les conditions officielles.",
+      "privacy": "Examiner accès aux fichiers, historique, e-mails et applications ; limiter les permissions, protéger les identifiants et désactiver les connexions inutiles.",
+      "selection": [
+        "Comparer degré d'autonomie, support des outils, disponibilité, traçabilité, permissions, coût et capacité de supervision."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "closed_beta",
+      "evidence": "official_documentation",
+      "sources": [
+        {
+          "url": "https://dev.mi.com/xiaomihyperos/announcement/detail?id=41",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "doubao": {
+    "descriptionFr": "Assistant conversationnel multimodal ByteDance destiné à la recherche, à la création et à des tâches numériques selon produit.",
+    "descriptionEn": "ByteDance multimodal conversational assistant for research, creation and product-dependent digital tasks.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Conversation et génération multimodale",
+      "Assistance à la recherche",
+      "Actions selon version et marché"
+    ],
+    "featuresEn": [
+      "Multimodal chat and generation",
+      "Research assistance",
+      "Market- and version-dependent actions"
+    ],
+    "accessFr": "Service web, application, appareil ou projet open source selon l'outil",
+    "accessEn": "Web service, app, device or open-source project depending on product",
+    "officialSources": [
+      {
+        "url": "https://www.doubao.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "product_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Assistant conversationnel multimodal ByteDance destiné à la recherche, à la création et à des tâches numériques selon produit.",
+      "audiences": [
+        "Particuliers et professionnels souhaitant déléguer des tâches",
+        "Équipes de productivité, de sécurité et de gouvernance IA"
+      ],
+      "cases": [
+        "Préparer une recherche ou une suite de tâches avec des points de contrôle humains.",
+        "Comparer l'autonomie annoncée aux permissions effectivement nécessaires avant usage."
+      ],
+      "advantages": [
+        "Conversation et génération multimodale",
+        "Assistance à la recherche",
+        "Actions selon version et marché"
+      ],
+      "limits": [
+        "Fonctionnalités, langue et accès diffèrent selon les marchés ; éviter d'inférer une autonomie complète.",
+        "Une exécution autonome peut produire des erreurs ou agir sur des données sensibles ; supervision, portée des autorisations et vérification des résultats restent indispensables."
+      ],
+      "gettingStarted": [
+        "Définir une mission bornée et limiter les autorisations aux ressources nécessaires.",
+        "Tester sur des contenus non sensibles et examiner les traces et les actions avant automatisation durable."
+      ],
+      "examples": [
+        "Prépare un plan de recherche documenté, avec sources et demandes d'approbation avant toute modification externe.",
+        "Évalue l'assistant sur un scénario limité : exactitude, durée, coût, confidentialité et possibilité d'interrompre l'exécution."
+      ],
+      "pricing": "Vérifier forfait, accès régional, crédits, coût des modèles et des intégrations selon les conditions officielles.",
+      "privacy": "Examiner accès aux fichiers, historique, e-mails et applications ; limiter les permissions, protéger les identifiants et désactiver les connexions inutiles.",
+      "selection": [
+        "Comparer degré d'autonomie, support des outils, disponibilité, traçabilité, permissions, coût et capacité de supervision."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "region_dependent",
+      "evidence": "official_documentation",
+      "sources": [
+        {
+          "url": "https://www.doubao.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "z-ai-autoglm": {
+    "descriptionFr": "Famille de fonctions agentiques AutoGLM dans l'écosystème Z.ai orientées vers des interactions avec interfaces numériques.",
+    "descriptionEn": "AutoGLM agent capabilities in the Z.ai ecosystem focused on digital-interface interaction.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Automatisation de tâches sur interfaces",
+      "Actions numériques en plusieurs étapes",
+      "Fonctions selon environnement et modèle"
+    ],
+    "featuresEn": [
+      "User-interface task automation",
+      "Multi-step digital actions",
+      "Environment- and model-dependent features"
+    ],
+    "accessFr": "Accès et périmètre à confirmer",
+    "accessEn": "Access and scope require verification",
+    "officialSources": [
+      {
+        "url": "https://z.ai/",
+        "checkedAt": "2026-11-17",
+        "scope": "product_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Famille de fonctions agentiques AutoGLM dans l'écosystème Z.ai orientées vers des interactions avec interfaces numériques.",
+      "audiences": [
+        "Particuliers et professionnels souhaitant déléguer des tâches",
+        "Équipes de productivité, de sécurité et de gouvernance IA"
+      ],
+      "cases": [
+        "Préparer une recherche ou une suite de tâches avec des points de contrôle humains.",
+        "Comparer l'autonomie annoncée aux permissions effectivement nécessaires avant usage."
+      ],
+      "advantages": [
+        "Automatisation de tâches sur interfaces",
+        "Actions numériques en plusieurs étapes",
+        "Fonctions selon environnement et modèle"
+      ],
+      "limits": [
+        "Clarifier la disponibilité et le nom du produit AutoGLM par rapport aux autres offres GLM ; accès et matériel variables.",
+        "Une exécution autonome peut produire des erreurs ou agir sur des données sensibles ; supervision, portée des autorisations et vérification des résultats restent indispensables."
+      ],
+      "gettingStarted": [
+        "Définir une mission bornée et limiter les autorisations aux ressources nécessaires.",
+        "Tester sur des contenus non sensibles et examiner les traces et les actions avant automatisation durable."
+      ],
+      "examples": [
+        "Prépare un plan de recherche documenté, avec sources et demandes d'approbation avant toute modification externe.",
+        "Évalue l'assistant sur un scénario limité : exactitude, durée, coût, confidentialité et possibilité d'interrompre l'exécution."
+      ],
+      "pricing": "Vérifier forfait, accès régional, crédits, coût des modèles et des intégrations selon les conditions officielles.",
+      "privacy": "Examiner accès aux fichiers, historique, e-mails et applications ; limiter les permissions, protéger les identifiants et désactiver les connexions inutiles.",
+      "selection": [
+        "Comparer degré d'autonomie, support des outils, disponibilité, traçabilité, permissions, coût et capacité de supervision."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "product_scope_unverified",
+      "evidence": "limited_official_confirmation",
+      "sources": [
+        {
+          "url": "https://z.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "review_needed"
+  },
+  "google-project-astra": {
+    "descriptionFr": "Projet de recherche Google DeepMind sur un assistant multimodal universel percevant un environnement visuel et sonore en temps réel.",
+    "descriptionEn": "Google DeepMind research project for a universal multimodal assistant understanding visual and audio context in real time.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Compréhension vidéo et audio en contexte",
+      "Raisonnement multimodal et mémoire de contexte",
+      "Prototypes de recherche intégrés progressivement à des produits"
+    ],
+    "featuresEn": [
+      "Contextual video/audio understanding",
+      "Multimodal reasoning and memory",
+      "Research prototypes informing products"
+    ],
+    "accessFr": "Recherche / prototype",
+    "accessEn": "Research prototype",
+    "officialSources": [
+      {
+        "url": "https://deepmind.google/models/project-astra/",
+        "checkedAt": "2026-11-17",
+        "scope": "product_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Projet de recherche Google DeepMind sur un assistant multimodal universel percevant un environnement visuel et sonore en temps réel.",
+      "audiences": [
+        "Particuliers et professionnels souhaitant déléguer des tâches",
+        "Équipes de productivité, de sécurité et de gouvernance IA"
+      ],
+      "cases": [
+        "Préparer une recherche ou une suite de tâches avec des points de contrôle humains.",
+        "Comparer l'autonomie annoncée aux permissions effectivement nécessaires avant usage."
+      ],
+      "advantages": [
+        "Compréhension vidéo et audio en contexte",
+        "Raisonnement multimodal et mémoire de contexte",
+        "Prototypes de recherche intégrés progressivement à des produits"
+      ],
+      "limits": [
+        "Project Astra est un programme de recherche, pas une application autonome commercialisée avec disponibilité générale.",
+        "Une exécution autonome peut produire des erreurs ou agir sur des données sensibles ; supervision, portée des autorisations et vérification des résultats restent indispensables."
+      ],
+      "gettingStarted": [
+        "Définir une mission bornée et limiter les autorisations aux ressources nécessaires.",
+        "Tester sur des contenus non sensibles et examiner les traces et les actions avant automatisation durable."
+      ],
+      "examples": [
+        "Prépare un plan de recherche documenté, avec sources et demandes d'approbation avant toute modification externe.",
+        "Évalue l'assistant sur un scénario limité : exactitude, durée, coût, confidentialité et possibilité d'interrompre l'exécution."
+      ],
+      "pricing": "Vérifier forfait, accès régional, crédits, coût des modèles et des intégrations selon les conditions officielles.",
+      "privacy": "Examiner accès aux fichiers, historique, e-mails et applications ; limiter les permissions, protéger les identifiants et désactiver les connexions inutiles.",
+      "selection": [
+        "Comparer degré d'autonomie, support des outils, disponibilité, traçabilité, permissions, coût et capacité de supervision."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "research_prototype",
+      "evidence": "official_documentation",
+      "sources": [
+        {
+          "url": "https://deepmind.google/models/project-astra/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "hermes-agent": {
+    "descriptionFr": "Agent personnel open source Nous Research avec outils, mémoire et intégrations configurables, pouvant être exécuté sur une infrastructure maîtrisée.",
+    "descriptionEn": "Nous Research open-source personal agent with configurable tools, memory and integrations, runnable on user-controlled infrastructure.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Agent open source et outils configurables",
+      "Mémoire et tâches persistantes",
+      "Plugins et connecteurs selon installation"
+    ],
+    "featuresEn": [
+      "Open-source configurable agent tools",
+      "Memory and persistent tasks",
+      "Optional plugins and connectors"
+    ],
+    "accessFr": "Service web, application, appareil ou projet open source selon l'outil",
+    "accessEn": "Web service, app, device or open-source project depending on product",
+    "officialSources": [
+      {
+        "url": "https://github.com/NousResearch/hermes-agent",
+        "checkedAt": "2026-11-17",
+        "scope": "product_features_and_status"
+      }
+    ],
+    "research": {
+      "headline": "Agent personnel open source Nous Research avec outils, mémoire et intégrations configurables, pouvant être exécuté sur une infrastructure maîtrisée.",
+      "audiences": [
+        "Particuliers et professionnels souhaitant déléguer des tâches",
+        "Équipes de productivité, de sécurité et de gouvernance IA"
+      ],
+      "cases": [
+        "Préparer une recherche ou une suite de tâches avec des points de contrôle humains.",
+        "Comparer l'autonomie annoncée aux permissions effectivement nécessaires avant usage."
+      ],
+      "advantages": [
+        "Agent open source et outils configurables",
+        "Mémoire et tâches persistantes",
+        "Plugins et connecteurs selon installation"
+      ],
+      "limits": [
+        "Vérifier les dépendances, autorisations, modèles et coûts d'inférence ; les plugins tiers accroissent la surface de risque.",
+        "Une exécution autonome peut produire des erreurs ou agir sur des données sensibles ; supervision, portée des autorisations et vérification des résultats restent indispensables."
+      ],
+      "gettingStarted": [
+        "Définir une mission bornée et limiter les autorisations aux ressources nécessaires.",
+        "Tester sur des contenus non sensibles et examiner les traces et les actions avant automatisation durable."
+      ],
+      "examples": [
+        "Prépare un plan de recherche documenté, avec sources et demandes d'approbation avant toute modification externe.",
+        "Évalue l'assistant sur un scénario limité : exactitude, durée, coût, confidentialité et possibilité d'interrompre l'exécution."
+      ],
+      "pricing": "Vérifier forfait, accès régional, crédits, coût des modèles et des intégrations selon les conditions officielles.",
+      "privacy": "Examiner accès aux fichiers, historique, e-mails et applications ; limiter les permissions, protéger les identifiants et désactiver les connexions inutiles.",
+      "selection": [
+        "Comparer degré d'autonomie, support des outils, disponibilité, traçabilité, permissions, coût et capacité de supervision."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "open_source",
+      "evidence": "official_documentation",
+      "sources": [
+        {
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  }
+}
