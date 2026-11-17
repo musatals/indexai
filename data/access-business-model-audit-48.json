@@ -1,0 +1,152 @@
+{
+  "langchain": {
+    "accessFr": "Bibliothèques Python et JavaScript libres pour applications et agents IA ; services LangSmith associés",
+    "accessEn": "Open-source Python/JavaScript libraries for AI apps and agents; associated LangSmith services",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "open_source_and_paid",
+      "fr": "Bibliothèques MIT gratuites ; services d’observabilité et déploiement LangSmith selon les quotas et forfaits.",
+      "en": "Free MIT libraries; LangSmith observability and deployment services charged by plans and quotas.",
+      "sourceUrl": "https://www.langchain.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-48"
+  },
+  "langgraph": {
+    "accessFr": "Framework d’orchestration d’agents en Python/JavaScript, libre et intégrable à LangSmith",
+    "accessEn": "Open-source Python/JavaScript agent orchestration framework integrated with LangSmith",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "open_source_and_paid",
+      "fr": "Framework MIT gratuit ; déploiement managé et suivi LangSmith selon formule et consommation.",
+      "en": "Free MIT framework; managed deployment and LangSmith tracing subject to plan and usage.",
+      "sourceUrl": "https://www.langchain.com/langgraph",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-48"
+  },
+  "crewai": {
+    "accessFr": "Framework open source d’agents collaboratifs et plateforme CrewAI AMP managée",
+    "accessEn": "Open-source multi-agent framework and managed CrewAI AMP platform",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "open_source_and_paid",
+      "fr": "Framework open source utilisable gratuitement ; plateforme managée avec niveau gratuit et offres commerciales.",
+      "en": "Free open-source framework; managed platform includes a free tier and commercial plans.",
+      "sourceUrl": "https://crewai.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-48"
+  },
+  "llamaindex": {
+    "accessFr": "Framework open source de données pour agents et RAG ; services LlamaParse et LlamaCloud",
+    "accessEn": "Open-source data framework for agents/RAG; LlamaParse and LlamaCloud services",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "open_source_and_paid",
+      "fr": "Composants open source ; LlamaParse propose crédits gratuits, facturation à l’usage et forfait Pro/Enterprise.",
+      "en": "Open-source components; LlamaParse includes free credits, usage billing and Pro/Enterprise tiers.",
+      "sourceUrl": "https://www.llamaindex.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-48"
+  },
+  "dify": {
+    "accessFr": "Plateforme Web d’agents, de workflows et de RAG, en cloud ou auto-hébergement",
+    "accessEn": "Cloud or self-hosted web platform for agents, workflows and RAG",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "open_source_and_paid",
+      "fr": "Édition communautaire auto-hébergeable gratuite, niveau cloud Sandbox gratuit et abonnements/contrats commerciaux.",
+      "en": "Free self-hosted community edition, free cloud Sandbox and commercial subscriptions/contracts.",
+      "sourceUrl": "https://dify.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-48"
+  },
+  "langflow": {
+    "accessFr": "Éditeur visuel open source d’agents, installable localement ou en infrastructure choisie",
+    "accessEn": "Open-source visual agent builder, locally or independently hosted",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "open_source",
+      "fr": "Logiciel MIT gratuit ; coûts d’hébergement et modèles IA externes à prendre en charge séparément.",
+      "en": "Free MIT software; hosting and external AI-model costs are separate.",
+      "sourceUrl": "https://github.com/langflow-ai/langflow",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-48"
+  },
+  "flowise": {
+    "accessFr": "Éditeur Web open source de chaînes et agents IA, auto-hébergement ou solutions cloud",
+    "accessEn": "Open-source web builder for AI workflows and agents, self-hosting or cloud solutions",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "open_source_and_paid",
+      "fr": "Édition open source auto-hébergeable ; services cloud et offres entreprises commerciaux selon besoins.",
+      "en": "Self-hosted open-source edition; commercial cloud and enterprise options depending on needs.",
+      "sourceUrl": "https://docs.flowiseai.com/getting-started",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-48"
+  },
+  "agno": {
+    "accessFr": "Framework/SDK open source AgentOS pour agents IA, avec control plane disponible sur le Web",
+    "accessEn": "Open-source AgentOS SDK/framework for AI agents with optional web control plane",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "open_source_and_paid",
+      "fr": "SDK et AgentOS libres ; control plane gratuit ou en forfait Pro et Enterprise selon administration.",
+      "en": "Open-source SDK and AgentOS; free control plane and paid Pro/Enterprise management.",
+      "sourceUrl": "https://www.agno.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-48"
+  },
+  "pydantic-ai": {
+    "accessFr": "Framework Python d’agents typés, hébergé par l’utilisateur ; instrumentation Logfire facultative",
+    "accessEn": "Typed Python agent framework run by users; optional Logfire observability",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "open_source_and_paid",
+      "fr": "Framework libre et gratuit ; services Logfire et AI Gateway selon forfait et consommation.",
+      "en": "Free open-source framework; optional Logfire and AI Gateway billed by plans and usage.",
+      "sourceUrl": "https://pydantic.dev/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-48"
+  },
+  "mastra": {
+    "accessFr": "Framework TypeScript d’agents, workflows et RAG, déployé soi-même ou sur Mastra Platform",
+    "accessEn": "TypeScript framework for agents, workflows and RAG, self-hosted or on Mastra Platform",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "open_source_and_paid",
+      "fr": "Framework open source gratuit ; plateforme managée avec essai/niveaux de paiement selon ressources.",
+      "en": "Free open-source framework; managed platform with trial/paid tiers by resources.",
+      "sourceUrl": "https://mastra.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-48"
+  }
+}
