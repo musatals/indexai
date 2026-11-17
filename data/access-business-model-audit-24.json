@@ -1,0 +1,32 @@
+{
+  "canva-magic-media": {
+    "accessFr": "Fonctionnalité de Canva accessible sur navigateur et applications compatibles",
+    "accessEn": "Canva feature available in browser and supported apps",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Accès IA limité dans Canva Free ; quotas et fonctions étendus dans les forfaits payants.",
+      "en": "Limited AI usage in Canva Free; expanded allowances and features with paid plans.",
+      "sourceUrl": "https://www.canva.com/pricing/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-24"
+  },
+  "microsoft-designer": {
+    "accessFr": "Designer sur le Web et applications Microsoft compatibles",
+    "accessEn": "Designer on the web and supported Microsoft apps",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Fonctions gratuites limitées ; accès amélioré selon abonnement Microsoft 365 éligible.",
+      "en": "Limited free functions; expanded access for eligible Microsoft 365 subscriptions.",
+      "sourceUrl": "https://designer.microsoft.com/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-24"
+  }
+}
