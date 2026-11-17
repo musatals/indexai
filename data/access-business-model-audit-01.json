@@ -1,0 +1,354 @@
+{
+  "gemini": {
+    "accessFr": "Application Web et mobile Gemini",
+    "accessEn": "Gemini web and mobile app",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Gratuit avec offres Google AI payantes ; limites et disponibilité selon pays.",
+      "en": "Free with paid Google AI plans; limits and availability vary by region.",
+      "sourceUrl": "https://gemini.google.com/advanced",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17",
+    "officialSources": [
+      {
+        "url": "https://gemini.google.com/advanced",
+        "checkedAt": "2026-11-17",
+        "scope": "access_and_business_model"
+      }
+    ]
+  },
+  "microsoft-copilot": {
+    "accessFr": "Web et applications Microsoft compatibles",
+    "accessEn": "Web and supported Microsoft applications",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Copilot gratuit ; fonctions supplémentaires intégrées aux abonnements Microsoft 365 éligibles.",
+      "en": "Free Copilot; additional features within eligible Microsoft 365 subscriptions.",
+      "sourceUrl": "https://support.microsoft.com/en-us/microsoft-365-copilot/what-s-the-difference-between-microsoft-copilot-free-and-copilot-in-microsoft-365",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17",
+    "officialSources": [
+      {
+        "url": "https://support.microsoft.com/en-us/microsoft-365-copilot/what-s-the-difference-between-microsoft-copilot-free-and-copilot-in-microsoft-365",
+        "checkedAt": "2026-11-17",
+        "scope": "access_and_business_model"
+      }
+    ]
+  },
+  "le-chat-mistral": {
+    "accessFr": "Web, applications mobiles, terminal et VS Code selon fonction",
+    "accessEn": "Web, mobile, terminal and VS Code depending on feature",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Mistral Free et abonnements Pro, Team, Enterprise ; Le Chat a évolué vers Mistral Vibe.",
+      "en": "Mistral Free and Pro, Team, Enterprise plans; Le Chat has evolved into Mistral Vibe.",
+      "sourceUrl": "https://mistral.ai/pricing/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17",
+    "officialSources": [
+      {
+        "url": "https://mistral.ai/pricing/",
+        "checkedAt": "2026-11-17",
+        "scope": "access_and_business_model"
+      }
+    ]
+  },
+  "poe": {
+    "accessFr": "Application Web et mobile",
+    "accessEn": "Web and mobile app",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Accès initial avec points ; abonnements et achats de points selon utilisation des bots.",
+      "en": "Initial access with points; subscriptions and points purchases according to bot usage.",
+      "sourceUrl": "https://poe.com/subscription_plans",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17",
+    "officialSources": [
+      {
+        "url": "https://poe.com/subscription_plans",
+        "checkedAt": "2026-11-17",
+        "scope": "access_and_business_model"
+      }
+    ]
+  },
+  "consensus": {
+    "accessFr": "Application Web et intégrations compatibles",
+    "accessEn": "Web app and supported integrations",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Recherche gratuite ; formules payantes Pro, Deep et équipes selon fonctionnalités.",
+      "en": "Free research tier; paid Pro, Deep and Teams plans by features.",
+      "sourceUrl": "https://help.consensus.app/en/articles/10087865-subscription-plans",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17",
+    "officialSources": [
+      {
+        "url": "https://help.consensus.app/en/articles/10087865-subscription-plans",
+        "checkedAt": "2026-11-17",
+        "scope": "access_and_business_model"
+      }
+    ]
+  },
+  "elicit": {
+    "accessFr": "Web, API selon abonnement",
+    "accessEn": "Web and plan-dependent API",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Basic gratuit ; abonnements Pro et offres professionnelles avec capacités supplémentaires.",
+      "en": "Free Basic plan; paid Pro and professional subscriptions with additional features.",
+      "sourceUrl": "https://elicit.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17",
+    "officialSources": [
+      {
+        "url": "https://elicit.com/pricing",
+        "checkedAt": "2026-11-17",
+        "scope": "access_and_business_model"
+      }
+    ]
+  },
+  "researchrabbit": {
+    "accessFr": "Application Web",
+    "accessEn": "Web application",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Offre Free Forever et offre ResearchRabbit+ ; tarif premium adapté au pays.",
+      "en": "Free Forever and ResearchRabbit+ plans; premium pricing varies by country.",
+      "sourceUrl": "https://www.researchrabbit.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17",
+    "officialSources": [
+      {
+        "url": "https://www.researchrabbit.ai/pricing",
+        "checkedAt": "2026-11-17",
+        "scope": "access_and_business_model"
+      }
+    ]
+  },
+  "openalex": {
+    "accessFr": "Site Web, API et données téléchargeables",
+    "accessEn": "Website, API and downloadable data",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "Données gratuites ; API avec allocation quotidienne gratuite, paiement à l'usage ou forfait annuel.",
+      "en": "Free data; API with daily free allowance, pay-as-you-go or annual plan.",
+      "sourceUrl": "https://help.openalex.org/access/pricing/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17",
+    "officialSources": [
+      {
+        "url": "https://help.openalex.org/access/pricing/",
+        "checkedAt": "2026-11-17",
+        "scope": "access_and_business_model"
+      }
+    ]
+  },
+  "jasper": {
+    "accessFr": "Web et extension de navigateur selon abonnement",
+    "accessEn": "Web and browser extension by subscription",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Abonnement Pro avec essai gratuit limité ; Business sur devis et fonctions pouvant utiliser des crédits.",
+      "en": "Paid Pro plan with limited free trial; custom Business plan and some credit-based features.",
+      "sourceUrl": "https://www.jasper.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17",
+    "officialSources": [
+      {
+        "url": "https://www.jasper.ai/pricing",
+        "checkedAt": "2026-11-17",
+        "scope": "access_and_business_model"
+      }
+    ]
+  },
+  "quillbot": {
+    "accessFr": "Web et outils d'écriture en ligne",
+    "accessEn": "Web and online writing tools",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Outils gratuits avec limites ; abonnement Premium pour fonctions avancées.",
+      "en": "Limited free tools; Premium subscription for advanced features.",
+      "sourceUrl": "https://quillbot.com/upgrade",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17",
+    "officialSources": [
+      {
+        "url": "https://quillbot.com/upgrade",
+        "checkedAt": "2026-11-17",
+        "scope": "access_and_business_model"
+      }
+    ]
+  },
+  "leonardo-ai": {
+    "accessFr": "Plateforme Web et API selon offre",
+    "accessEn": "Web platform and plan-dependent API",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Accès gratuit limité ; offres payantes pour usages avancés ; API avec modalités spécifiques.",
+      "en": "Limited free access; paid plans for advanced use; API has separate pricing terms.",
+      "sourceUrl": "https://leonardo.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17",
+    "officialSources": [
+      {
+        "url": "https://leonardo.ai/pricing",
+        "checkedAt": "2026-11-17",
+        "scope": "access_and_business_model"
+      }
+    ]
+  },
+  "runway": {
+    "accessFr": "Application Web de génération vidéo",
+    "accessEn": "Web-based video generation app",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Offre gratuite avec crédits initiaux ; abonnements payants et crédits selon usage.",
+      "en": "Free plan with initial credits; paid subscriptions and usage credits.",
+      "sourceUrl": "https://help.runwayml.com/hc/en-us/articles/50404627334547-Free-plan-details",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17",
+    "officialSources": [
+      {
+        "url": "https://help.runwayml.com/hc/en-us/articles/50404627334547-Free-plan-details",
+        "checkedAt": "2026-11-17",
+        "scope": "access_and_business_model"
+      }
+    ]
+  },
+  "davinci-resolve": {
+    "accessFr": "Logiciel de bureau Windows, macOS et Linux",
+    "accessEn": "Windows, macOS and Linux desktop software",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "DaVinci Resolve gratuit et DaVinci Resolve Studio payant à l'achat.",
+      "en": "Free DaVinci Resolve and paid DaVinci Resolve Studio purchase.",
+      "sourceUrl": "https://www.blackmagicdesign.com/products/davinciresolve",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17",
+    "officialSources": [
+      {
+        "url": "https://www.blackmagicdesign.com/products/davinciresolve",
+        "checkedAt": "2026-11-17",
+        "scope": "access_and_business_model"
+      }
+    ]
+  },
+  "kapwing": {
+    "accessFr": "Éditeur vidéo Web",
+    "accessEn": "Web video editor",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Offre Free avec limitations ; forfaits Pro et Business payants.",
+      "en": "Free plan with limits; paid Pro and Business plans.",
+      "sourceUrl": "https://www.kapwing.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17",
+    "officialSources": [
+      {
+        "url": "https://www.kapwing.com/pricing",
+        "checkedAt": "2026-11-17",
+        "scope": "access_and_business_model"
+      }
+    ]
+  },
+  "opusclip": {
+    "accessFr": "Application Web",
+    "accessEn": "Web application",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Accès gratuit limité et abonnements payants avec davantage de crédits et fonctionnalités.",
+      "en": "Limited free use and paid subscriptions with more credits and capabilities.",
+      "sourceUrl": "https://www.opus.pro/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17",
+    "officialSources": [
+      {
+        "url": "https://www.opus.pro/pricing",
+        "checkedAt": "2026-11-17",
+        "scope": "access_and_business_model"
+      }
+    ]
+  },
+  "stable-diffusion": {
+    "accessFr": "Modèles téléchargeables, exécution locale ou infrastructure selon implémentation",
+    "accessEn": "Downloadable models, local or hosted deployment depending on implementation",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "open_source_and_paid",
+      "fr": "Modèles diffusés sous licence communautaire conditionnelle ; licence Enterprise requise dans certains usages commerciaux.",
+      "en": "Models under conditional Community License; Enterprise license required for certain commercial uses.",
+      "sourceUrl": "https://stability.ai/license",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17",
+    "officialSources": [
+      {
+        "url": "https://stability.ai/license",
+        "checkedAt": "2026-11-17",
+        "scope": "access_and_business_model"
+      }
+    ]
+  }
+}
