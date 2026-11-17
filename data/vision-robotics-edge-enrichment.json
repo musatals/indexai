@@ -1,0 +1,968 @@
+{
+  "ultralytics-yolo": {
+    "descriptionFr": "Bibliothèque et modèles de vision pour détection d’objets, segmentation, classification, poses et suivi vidéo.",
+    "descriptionEn": "Vision models and toolkit for object detection, segmentation, classification, pose estimation and video tracking.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Entraînement, validation et export de modèles",
+      "Détection, segmentation et estimation de pose",
+      "Prédictions et suivi sur images ou vidéos"
+    ],
+    "featuresEn": [
+      "Model training, validation and export",
+      "Detection, segmentation and pose estimation",
+      "Image/video prediction and tracking"
+    ],
+    "accessFr": "Bibliothèque, plateforme ou matériel selon le produit et la licence",
+    "accessEn": "Library, platform or hardware depending on product and license",
+    "officialSources": [
+      {
+        "url": "https://docs.ultralytics.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Bibliothèque et modèles de vision pour détection d’objets, segmentation, classification, poses et suivi vidéo.",
+      "audiences": [
+        "Développeurs en vision par ordinateur et robotique",
+        "Équipes de données, R&D et déploiement IA"
+      ],
+      "cases": [
+        "Analyse et comptage d’objets filmés avec annotation et mesure de la précision.",
+        "Évaluer la précision, les faux positifs et la latence sur des images ou scénarios représentatifs avant production."
+      ],
+      "advantages": [
+        "Entraînement, validation et export de modèles",
+        "Détection, segmentation et estimation de pose",
+        "Prédictions et suivi sur images ou vidéos"
+      ],
+      "limits": [
+        "Vérifier les obligations de la licence AGPL-3.0 ou de la licence Enterprise pour un déploiement propriétaire.",
+        "Les performances sur démos ne garantissent pas la fiabilité en situation réelle : documenter jeu de test, biais, dérive et conditions d’éclairage."
+      ],
+      "gettingStarted": [
+        "Définir les données et autorisations, les métriques de référence et les contraintes de matériel ou cloud.",
+        "Tester un échantillon représentatif, journaliser les erreurs et valider la sécurité avant déploiement."
+      ],
+      "examples": [
+        "Définis un protocole d’évaluation avec précision, rappel, latence p95 et erreurs par contexte.",
+        "Compare l’approche Ultralytics YOLO à une méthode de référence sur 50 exemples autorisés, puis documente les limites."
+      ],
+      "pricing": "Vérifier licence, matériel, ressources cloud/API, support et coûts d’inférence directement auprès du fournisseur.",
+      "privacy": "Pour images, vidéos et données de capteurs, vérifier consentement, minimisation des données, conservation et droits d’accès ; anonymiser si possible.",
+      "selection": [
+        "Choisir selon type de vision, intégration robotique, coût, déploiement local/cloud, sécurité et contrôle qualité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.ultralytics.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "opencv": {
+    "descriptionFr": "Bibliothèque open source de traitement d’images et de vidéos, vision géométrique et analyse par ordinateur.",
+    "descriptionEn": "Open-source library for image and video processing, geometric computer vision and computer-based analysis.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Traitement et transformations d’images",
+      "Calibration de caméras et vision géométrique",
+      "Analyse de flux vidéo et intégration avec des modèles ML"
+    ],
+    "featuresEn": [
+      "Image processing and transformations",
+      "Camera calibration and geometric vision",
+      "Video stream analysis and ML model integration"
+    ],
+    "accessFr": "Bibliothèque, plateforme ou matériel selon le produit et la licence",
+    "accessEn": "Library, platform or hardware depending on product and license",
+    "officialSources": [
+      {
+        "url": "https://docs.opencv.org/4.x/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Bibliothèque open source de traitement d’images et de vidéos, vision géométrique et analyse par ordinateur.",
+      "audiences": [
+        "Développeurs en vision par ordinateur et robotique",
+        "Équipes de données, R&D et déploiement IA"
+      ],
+      "cases": [
+        "Prototyper une chaîne de prétraitement vidéo avant inférence.",
+        "Évaluer la précision, les faux positifs et la latence sur des images ou scénarios représentatifs avant production."
+      ],
+      "advantages": [
+        "Traitement et transformations d’images",
+        "Calibration de caméras et vision géométrique",
+        "Analyse de flux vidéo et intégration avec des modèles ML"
+      ],
+      "limits": [
+        "OpenCV fournit des primitives de vision, mais pas automatiquement un modèle entraîné ni une solution applicative complète.",
+        "Les performances sur démos ne garantissent pas la fiabilité en situation réelle : documenter jeu de test, biais, dérive et conditions d’éclairage."
+      ],
+      "gettingStarted": [
+        "Définir les données et autorisations, les métriques de référence et les contraintes de matériel ou cloud.",
+        "Tester un échantillon représentatif, journaliser les erreurs et valider la sécurité avant déploiement."
+      ],
+      "examples": [
+        "Définis un protocole d’évaluation avec précision, rappel, latence p95 et erreurs par contexte.",
+        "Compare l’approche OpenCV à une méthode de référence sur 50 exemples autorisés, puis documente les limites."
+      ],
+      "pricing": "Vérifier licence, matériel, ressources cloud/API, support et coûts d’inférence directement auprès du fournisseur.",
+      "privacy": "Pour images, vidéos et données de capteurs, vérifier consentement, minimisation des données, conservation et droits d’accès ; anonymiser si possible.",
+      "selection": [
+        "Choisir selon type de vision, intégration robotique, coût, déploiement local/cloud, sécurité et contrôle qualité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.opencv.org/4.x/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "mediapipe": {
+    "descriptionFr": "Ensemble de SDK et tâches Google AI Edge pour exploiter des modèles multimodaux et des tâches de vision sur différents appareils.",
+    "descriptionEn": "Google AI Edge SDKs and tasks for running multimodal models and vision tasks across devices.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Tâches de vision prêtes à intégrer",
+      "SDK et exécution sur appareils compatibles",
+      "Détection de repères corporels ou faciaux selon modèle"
+    ],
+    "featuresEn": [
+      "Ready-to-integrate vision tasks",
+      "SDKs and on-device execution",
+      "Body or face landmarks depending on model"
+    ],
+    "accessFr": "Bibliothèque, plateforme ou matériel selon le produit et la licence",
+    "accessEn": "Library, platform or hardware depending on product and license",
+    "officialSources": [
+      {
+        "url": "https://developers.google.com/edge/mediapipe/solutions/tasks",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Ensemble de SDK et tâches Google AI Edge pour exploiter des modèles multimodaux et des tâches de vision sur différents appareils.",
+      "audiences": [
+        "Développeurs en vision par ordinateur et robotique",
+        "Équipes de données, R&D et déploiement IA"
+      ],
+      "cases": [
+        "Construire un prototype de suivi gestuel sur appareil.",
+        "Évaluer la précision, les faux positifs et la latence sur des images ou scénarios représentatifs avant production."
+      ],
+      "advantages": [
+        "Tâches de vision prêtes à intégrer",
+        "SDK et exécution sur appareils compatibles",
+        "Détection de repères corporels ou faciaux selon modèle"
+      ],
+      "limits": [
+        "Disponibilité des tâches et des accélérateurs variable selon le SDK, le système et le modèle.",
+        "Les performances sur démos ne garantissent pas la fiabilité en situation réelle : documenter jeu de test, biais, dérive et conditions d’éclairage."
+      ],
+      "gettingStarted": [
+        "Définir les données et autorisations, les métriques de référence et les contraintes de matériel ou cloud.",
+        "Tester un échantillon représentatif, journaliser les erreurs et valider la sécurité avant déploiement."
+      ],
+      "examples": [
+        "Définis un protocole d’évaluation avec précision, rappel, latence p95 et erreurs par contexte.",
+        "Compare l’approche MediaPipe à une méthode de référence sur 50 exemples autorisés, puis documente les limites."
+      ],
+      "pricing": "Vérifier licence, matériel, ressources cloud/API, support et coûts d’inférence directement auprès du fournisseur.",
+      "privacy": "Pour images, vidéos et données de capteurs, vérifier consentement, minimisation des données, conservation et droits d’accès ; anonymiser si possible.",
+      "selection": [
+        "Choisir selon type de vision, intégration robotique, coût, déploiement local/cloud, sécurité et contrôle qualité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://developers.google.com/edge/mediapipe/solutions/tasks",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "nvidia-isaac": {
+    "descriptionFr": "Écosystème NVIDIA de simulation, apprentissage et développement robotique intégrant Isaac Sim, Isaac Lab et Isaac ROS.",
+    "descriptionEn": "NVIDIA robotics development ecosystem spanning simulation, robot learning and Isaac ROS.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Simulation physique et génération de données synthétiques",
+      "Apprentissage et expérimentation robotique",
+      "Intégration ROS 2 et accélération NVIDIA"
+    ],
+    "featuresEn": [
+      "Physics simulation and synthetic data generation",
+      "Robot learning and experimentation",
+      "ROS 2 integration and NVIDIA acceleration"
+    ],
+    "accessFr": "Bibliothèque, plateforme ou matériel selon le produit et la licence",
+    "accessEn": "Library, platform or hardware depending on product and license",
+    "officialSources": [
+      {
+        "url": "https://developer.nvidia.com/isaac",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Écosystème NVIDIA de simulation, apprentissage et développement robotique intégrant Isaac Sim, Isaac Lab et Isaac ROS.",
+      "audiences": [
+        "Développeurs en vision par ordinateur et robotique",
+        "Équipes de données, R&D et déploiement IA"
+      ],
+      "cases": [
+        "Tester en simulation le comportement d’un robot mobile avant essai physique.",
+        "Évaluer la précision, les faux positifs et la latence sur des images ou scénarios représentatifs avant production."
+      ],
+      "advantages": [
+        "Simulation physique et génération de données synthétiques",
+        "Apprentissage et expérimentation robotique",
+        "Intégration ROS 2 et accélération NVIDIA"
+      ],
+      "limits": [
+        "Les composants Isaac ont des licences, prérequis GPU et compatibilités ROS distincts ; vérifier par produit.",
+        "Les performances sur démos ne garantissent pas la fiabilité en situation réelle : documenter jeu de test, biais, dérive et conditions d’éclairage."
+      ],
+      "gettingStarted": [
+        "Définir les données et autorisations, les métriques de référence et les contraintes de matériel ou cloud.",
+        "Tester un échantillon représentatif, journaliser les erreurs et valider la sécurité avant déploiement."
+      ],
+      "examples": [
+        "Définis un protocole d’évaluation avec précision, rappel, latence p95 et erreurs par contexte.",
+        "Compare l’approche NVIDIA Isaac à une méthode de référence sur 50 exemples autorisés, puis documente les limites."
+      ],
+      "pricing": "Vérifier licence, matériel, ressources cloud/API, support et coûts d’inférence directement auprès du fournisseur.",
+      "privacy": "Pour images, vidéos et données de capteurs, vérifier consentement, minimisation des données, conservation et droits d’accès ; anonymiser si possible.",
+      "selection": [
+        "Choisir selon type de vision, intégration robotique, coût, déploiement local/cloud, sécurité et contrôle qualité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://developer.nvidia.com/isaac",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "nvidia-jetson-ai": {
+    "descriptionFr": "Plateforme matérielle NVIDIA et pile JetPack destinées à l’exécution locale de modèles IA sur systèmes embarqués et robots.",
+    "descriptionEn": "NVIDIA embedded hardware and JetPack stack for running AI models locally on robots and edge devices.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Modules de calcul IA embarqués",
+      "JetPack, bibliothèques accélérées et outils",
+      "Déploiement et profilage de modèles en périphérie"
+    ],
+    "featuresEn": [
+      "Embedded AI compute modules",
+      "JetPack and accelerated libraries",
+      "Edge model deployment and profiling"
+    ],
+    "accessFr": "Bibliothèque, plateforme ou matériel selon le produit et la licence",
+    "accessEn": "Library, platform or hardware depending on product and license",
+    "officialSources": [
+      {
+        "url": "https://developer.nvidia.com/embedded/jetpack",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme matérielle NVIDIA et pile JetPack destinées à l’exécution locale de modèles IA sur systèmes embarqués et robots.",
+      "audiences": [
+        "Développeurs en vision par ordinateur et robotique",
+        "Équipes de données, R&D et déploiement IA"
+      ],
+      "cases": [
+        "Déployer une détection locale à faible latence sur une caméra embarquée.",
+        "Évaluer la précision, les faux positifs et la latence sur des images ou scénarios représentatifs avant production."
+      ],
+      "advantages": [
+        "Modules de calcul IA embarqués",
+        "JetPack, bibliothèques accélérées et outils",
+        "Déploiement et profilage de modèles en périphérie"
+      ],
+      "limits": [
+        "Jetson désigne une famille de matériels et de logiciels, pas un service SaaS ; performances et compatibilité dépendent du module.",
+        "Les performances sur démos ne garantissent pas la fiabilité en situation réelle : documenter jeu de test, biais, dérive et conditions d’éclairage."
+      ],
+      "gettingStarted": [
+        "Définir les données et autorisations, les métriques de référence et les contraintes de matériel ou cloud.",
+        "Tester un échantillon représentatif, journaliser les erreurs et valider la sécurité avant déploiement."
+      ],
+      "examples": [
+        "Définis un protocole d’évaluation avec précision, rappel, latence p95 et erreurs par contexte.",
+        "Compare l’approche NVIDIA Jetson AI à une méthode de référence sur 50 exemples autorisés, puis documente les limites."
+      ],
+      "pricing": "Vérifier licence, matériel, ressources cloud/API, support et coûts d’inférence directement auprès du fournisseur.",
+      "privacy": "Pour images, vidéos et données de capteurs, vérifier consentement, minimisation des données, conservation et droits d’accès ; anonymiser si possible.",
+      "selection": [
+        "Choisir selon type de vision, intégration robotique, coût, déploiement local/cloud, sécurité et contrôle qualité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://developer.nvidia.com/embedded/jetpack",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "ros": {
+    "descriptionFr": "Infrastructure logicielle ouverte de robotique, notamment ROS 2, pour composer des nœuds, messages, services et actions.",
+    "descriptionEn": "Open robotics software ecosystem, especially ROS 2, for composing nodes, messages, services and actions.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Architecture modulaire par nœuds",
+      "Communication par topics, services et actions",
+      "Écosystème de pilotes, navigation et simulation"
+    ],
+    "featuresEn": [
+      "Modular node architecture",
+      "Topics, services and actions",
+      "Drivers, navigation and simulation ecosystem"
+    ],
+    "accessFr": "Bibliothèque, plateforme ou matériel selon le produit et la licence",
+    "accessEn": "Library, platform or hardware depending on product and license",
+    "officialSources": [
+      {
+        "url": "https://docs.ros.org/en/rolling/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Infrastructure logicielle ouverte de robotique, notamment ROS 2, pour composer des nœuds, messages, services et actions.",
+      "audiences": [
+        "Développeurs en vision par ordinateur et robotique",
+        "Équipes de données, R&D et déploiement IA"
+      ],
+      "cases": [
+        "Orchestrer les capteurs et commandes d’un robot de recherche.",
+        "Évaluer la précision, les faux positifs et la latence sur des images ou scénarios représentatifs avant production."
+      ],
+      "advantages": [
+        "Architecture modulaire par nœuds",
+        "Communication par topics, services et actions",
+        "Écosystème de pilotes, navigation et simulation"
+      ],
+      "limits": [
+        "ROS ne constitue pas à lui seul un moteur d’IA ni un système de sécurité robotique certifié ; les versions et distributions diffèrent.",
+        "Les performances sur démos ne garantissent pas la fiabilité en situation réelle : documenter jeu de test, biais, dérive et conditions d’éclairage."
+      ],
+      "gettingStarted": [
+        "Définir les données et autorisations, les métriques de référence et les contraintes de matériel ou cloud.",
+        "Tester un échantillon représentatif, journaliser les erreurs et valider la sécurité avant déploiement."
+      ],
+      "examples": [
+        "Définis un protocole d’évaluation avec précision, rappel, latence p95 et erreurs par contexte.",
+        "Compare l’approche ROS à une méthode de référence sur 50 exemples autorisés, puis documente les limites."
+      ],
+      "pricing": "Vérifier licence, matériel, ressources cloud/API, support et coûts d’inférence directement auprès du fournisseur.",
+      "privacy": "Pour images, vidéos et données de capteurs, vérifier consentement, minimisation des données, conservation et droits d’accès ; anonymiser si possible.",
+      "selection": [
+        "Choisir selon type de vision, intégration robotique, coût, déploiement local/cloud, sécurité et contrôle qualité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.ros.org/en/rolling/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "hugging-face-lerobot": {
+    "descriptionFr": "Bibliothèque open source et formats de jeux de données pour enregistrer des démonstrations et entraîner des politiques robotiques.",
+    "descriptionEn": "Open-source robotics library and dataset formats for recording demonstrations and training robot policies.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Format LeRobotDataset avec états, actions et vidéos",
+      "Apprentissage par imitation et modèles de politique",
+      "Partage de jeux de données et politiques via Hugging Face"
+    ],
+    "featuresEn": [
+      "LeRobotDataset format for states, actions and video",
+      "Imitation learning and policy models",
+      "Dataset and policy sharing through Hugging Face"
+    ],
+    "accessFr": "Bibliothèque, plateforme ou matériel selon le produit et la licence",
+    "accessEn": "Library, platform or hardware depending on product and license",
+    "officialSources": [
+      {
+        "url": "https://huggingface.co/docs/lerobot/main/index",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Bibliothèque open source et formats de jeux de données pour enregistrer des démonstrations et entraîner des politiques robotiques.",
+      "audiences": [
+        "Développeurs en vision par ordinateur et robotique",
+        "Équipes de données, R&D et déploiement IA"
+      ],
+      "cases": [
+        "Enregistrer des démonstrations pour entraîner une tâche simple de manipulation.",
+        "Évaluer la précision, les faux positifs et la latence sur des images ou scénarios représentatifs avant production."
+      ],
+      "advantages": [
+        "Format LeRobotDataset avec états, actions et vidéos",
+        "Apprentissage par imitation et modèles de politique",
+        "Partage de jeux de données et politiques via Hugging Face"
+      ],
+      "limits": [
+        "Le transfert du simulateur au robot réel exige calibration, matériel adapté et mesures de sécurité.",
+        "Les performances sur démos ne garantissent pas la fiabilité en situation réelle : documenter jeu de test, biais, dérive et conditions d’éclairage."
+      ],
+      "gettingStarted": [
+        "Définir les données et autorisations, les métriques de référence et les contraintes de matériel ou cloud.",
+        "Tester un échantillon représentatif, journaliser les erreurs et valider la sécurité avant déploiement."
+      ],
+      "examples": [
+        "Définis un protocole d’évaluation avec précision, rappel, latence p95 et erreurs par contexte.",
+        "Compare l’approche Hugging Face LeRobot à une méthode de référence sur 50 exemples autorisés, puis documente les limites."
+      ],
+      "pricing": "Vérifier licence, matériel, ressources cloud/API, support et coûts d’inférence directement auprès du fournisseur.",
+      "privacy": "Pour images, vidéos et données de capteurs, vérifier consentement, minimisation des données, conservation et droits d’accès ; anonymiser si possible.",
+      "selection": [
+        "Choisir selon type de vision, intégration robotique, coût, déploiement local/cloud, sécurité et contrôle qualité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://huggingface.co/docs/lerobot/main/index",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "edge-impulse": {
+    "descriptionFr": "Plateforme de développement d’IA embarquée permettant de collecter des données, entraîner et déployer des modèles sur des appareils edge.",
+    "descriptionEn": "Edge AI development platform to collect data, train and deploy models on edge devices.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Collecte et préparation de données de capteurs",
+      "Entraînement, tests et optimisation embarquée",
+      "Export et déploiement vers appareils compatibles"
+    ],
+    "featuresEn": [
+      "Sensor data ingestion and preparation",
+      "Embedded training, testing and optimization",
+      "Export and deployment to supported devices"
+    ],
+    "accessFr": "Bibliothèque, plateforme ou matériel selon le produit et la licence",
+    "accessEn": "Library, platform or hardware depending on product and license",
+    "officialSources": [
+      {
+        "url": "https://docs.edgeimpulse.com/docs",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de développement d’IA embarquée permettant de collecter des données, entraîner et déployer des modèles sur des appareils edge.",
+      "audiences": [
+        "Développeurs en vision par ordinateur et robotique",
+        "Équipes de données, R&D et déploiement IA"
+      ],
+      "cases": [
+        "Détecter localement une anomalie sonore ou un événement de capteur.",
+        "Évaluer la précision, les faux positifs et la latence sur des images ou scénarios représentatifs avant production."
+      ],
+      "advantages": [
+        "Collecte et préparation de données de capteurs",
+        "Entraînement, tests et optimisation embarquée",
+        "Export et déploiement vers appareils compatibles"
+      ],
+      "limits": [
+        "Le matériel, les fonctionnalités de collaboration et les quotas varient selon le projet et l’offre.",
+        "Les performances sur démos ne garantissent pas la fiabilité en situation réelle : documenter jeu de test, biais, dérive et conditions d’éclairage."
+      ],
+      "gettingStarted": [
+        "Définir les données et autorisations, les métriques de référence et les contraintes de matériel ou cloud.",
+        "Tester un échantillon représentatif, journaliser les erreurs et valider la sécurité avant déploiement."
+      ],
+      "examples": [
+        "Définis un protocole d’évaluation avec précision, rappel, latence p95 et erreurs par contexte.",
+        "Compare l’approche Edge Impulse à une méthode de référence sur 50 exemples autorisés, puis documente les limites."
+      ],
+      "pricing": "Vérifier licence, matériel, ressources cloud/API, support et coûts d’inférence directement auprès du fournisseur.",
+      "privacy": "Pour images, vidéos et données de capteurs, vérifier consentement, minimisation des données, conservation et droits d’accès ; anonymiser si possible.",
+      "selection": [
+        "Choisir selon type de vision, intégration robotique, coût, déploiement local/cloud, sécurité et contrôle qualité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.edgeimpulse.com/docs",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "landing-ai": {
+    "descriptionFr": "Plateforme de vision industrielle exploitant des outils visuels et l’apprentissage à partir de données pour automatiser l’inspection et l’analyse.",
+    "descriptionEn": "Industrial computer vision platform using visual AI and data-driven workflows for inspection and analysis.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Constitution de données visuelles métier",
+      "Annotation et développement de modèles de vision",
+      "Automatisation de scénarios d’inspection"
+    ],
+    "featuresEn": [
+      "Domain-specific visual datasets",
+      "Annotation and vision model development",
+      "Inspection workflow automation"
+    ],
+    "accessFr": "Bibliothèque, plateforme ou matériel selon le produit et la licence",
+    "accessEn": "Library, platform or hardware depending on product and license",
+    "officialSources": [
+      {
+        "url": "https://landing.ai",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de vision industrielle exploitant des outils visuels et l’apprentissage à partir de données pour automatiser l’inspection et l’analyse.",
+      "audiences": [
+        "Développeurs en vision par ordinateur et robotique",
+        "Équipes de données, R&D et déploiement IA"
+      ],
+      "cases": [
+        "Détecter des défauts sur des pièces manufacturées à l’aide d’exemples annotés.",
+        "Évaluer la précision, les faux positifs et la latence sur des images ou scénarios représentatifs avant production."
+      ],
+      "advantages": [
+        "Constitution de données visuelles métier",
+        "Annotation et développement de modèles de vision",
+        "Automatisation de scénarios d’inspection"
+      ],
+      "limits": [
+        "Les produits et modalités de déploiement évoluent ; distinguer les offres documentaires des solutions d’inspection visuelle.",
+        "Les performances sur démos ne garantissent pas la fiabilité en situation réelle : documenter jeu de test, biais, dérive et conditions d’éclairage."
+      ],
+      "gettingStarted": [
+        "Définir les données et autorisations, les métriques de référence et les contraintes de matériel ou cloud.",
+        "Tester un échantillon représentatif, journaliser les erreurs et valider la sécurité avant déploiement."
+      ],
+      "examples": [
+        "Définis un protocole d’évaluation avec précision, rappel, latence p95 et erreurs par contexte.",
+        "Compare l’approche Landing AI à une méthode de référence sur 50 exemples autorisés, puis documente les limites."
+      ],
+      "pricing": "Vérifier licence, matériel, ressources cloud/API, support et coûts d’inférence directement auprès du fournisseur.",
+      "privacy": "Pour images, vidéos et données de capteurs, vérifier consentement, minimisation des données, conservation et droits d’accès ; anonymiser si possible.",
+      "selection": [
+        "Choisir selon type de vision, intégration robotique, coût, déploiement local/cloud, sécurité et contrôle qualité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://landing.ai",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "clarifai": {
+    "descriptionFr": "Plateforme d’IA pour construire, exécuter et orchestrer des modèles et workflows multimodaux, notamment d’analyse d’images.",
+    "descriptionEn": "AI platform for building, running and orchestrating multimodal models and workflows, including image analysis.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Modèles et workflows multimodaux",
+      "API et orchestration d’inférence",
+      "Gestion de modèles et déploiements selon offre"
+    ],
+    "featuresEn": [
+      "Multimodal models and workflows",
+      "Inference APIs and orchestration",
+      "Model management and deployment options"
+    ],
+    "accessFr": "Bibliothèque, plateforme ou matériel selon le produit et la licence",
+    "accessEn": "Library, platform or hardware depending on product and license",
+    "officialSources": [
+      {
+        "url": "https://docs.clarifai.com",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme d’IA pour construire, exécuter et orchestrer des modèles et workflows multimodaux, notamment d’analyse d’images.",
+      "audiences": [
+        "Développeurs en vision par ordinateur et robotique",
+        "Équipes de données, R&D et déploiement IA"
+      ],
+      "cases": [
+        "Comparer des modèles de classification sur un corpus autorisé.",
+        "Évaluer la précision, les faux positifs et la latence sur des images ou scénarios représentatifs avant production."
+      ],
+      "advantages": [
+        "Modèles et workflows multimodaux",
+        "API et orchestration d’inférence",
+        "Gestion de modèles et déploiements selon offre"
+      ],
+      "limits": [
+        "Ne pas confondre modèles disponibles sur la plateforme et capacités garanties d’un modèle spécifique ; coûts et résidence à vérifier.",
+        "Les performances sur démos ne garantissent pas la fiabilité en situation réelle : documenter jeu de test, biais, dérive et conditions d’éclairage."
+      ],
+      "gettingStarted": [
+        "Définir les données et autorisations, les métriques de référence et les contraintes de matériel ou cloud.",
+        "Tester un échantillon représentatif, journaliser les erreurs et valider la sécurité avant déploiement."
+      ],
+      "examples": [
+        "Définis un protocole d’évaluation avec précision, rappel, latence p95 et erreurs par contexte.",
+        "Compare l’approche Clarifai à une méthode de référence sur 50 exemples autorisés, puis documente les limites."
+      ],
+      "pricing": "Vérifier licence, matériel, ressources cloud/API, support et coûts d’inférence directement auprès du fournisseur.",
+      "privacy": "Pour images, vidéos et données de capteurs, vérifier consentement, minimisation des données, conservation et droits d’accès ; anonymiser si possible.",
+      "selection": [
+        "Choisir selon type de vision, intégration robotique, coût, déploiement local/cloud, sécurité et contrôle qualité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.clarifai.com",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "google-cloud-vision-ai": {
+    "descriptionFr": "API cloud Google d’analyse d’images pour étiquettes, reconnaissance de texte, objets et autres propriétés visuelles.",
+    "descriptionEn": "Google Cloud image analysis API for labels, OCR, object localization and other visual features.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Détection d’étiquettes et d’objets",
+      "OCR de texte en image et document",
+      "API et intégration avec Google Cloud"
+    ],
+    "featuresEn": [
+      "Label and object detection",
+      "Image/document OCR",
+      "API integration with Google Cloud"
+    ],
+    "accessFr": "Service cloud accessible par API",
+    "accessEn": "Cloud service via API",
+    "officialSources": [
+      {
+        "url": "https://docs.cloud.google.com/vision/docs/features-list",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "API cloud Google d’analyse d’images pour étiquettes, reconnaissance de texte, objets et autres propriétés visuelles.",
+      "audiences": [
+        "Développeurs en vision par ordinateur et robotique",
+        "Équipes de données, R&D et déploiement IA"
+      ],
+      "cases": [
+        "Indexer des images de bibliothèque avec texte OCR et mots-clés détectés.",
+        "Évaluer la précision, les faux positifs et la latence sur des images ou scénarios représentatifs avant production."
+      ],
+      "advantages": [
+        "Détection d’étiquettes et d’objets",
+        "OCR de texte en image et document",
+        "API et intégration avec Google Cloud"
+      ],
+      "limits": [
+        "Facturation à l’usage et traitement cloud ; vérifier autorisations, régions, confidentialité et biais des détections.",
+        "Les performances sur démos ne garantissent pas la fiabilité en situation réelle : documenter jeu de test, biais, dérive et conditions d’éclairage."
+      ],
+      "gettingStarted": [
+        "Définir les données et autorisations, les métriques de référence et les contraintes de matériel ou cloud.",
+        "Tester un échantillon représentatif, journaliser les erreurs et valider la sécurité avant déploiement."
+      ],
+      "examples": [
+        "Définis un protocole d’évaluation avec précision, rappel, latence p95 et erreurs par contexte.",
+        "Compare l’approche Google Cloud Vision AI à une méthode de référence sur 50 exemples autorisés, puis documente les limites."
+      ],
+      "pricing": "Vérifier licence, matériel, ressources cloud/API, support et coûts d’inférence directement auprès du fournisseur.",
+      "privacy": "Pour images, vidéos et données de capteurs, vérifier consentement, minimisation des données, conservation et droits d’accès ; anonymiser si possible.",
+      "selection": [
+        "Choisir selon type de vision, intégration robotique, coût, déploiement local/cloud, sécurité et contrôle qualité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.cloud.google.com/vision/docs/features-list",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "amazon-rekognition": {
+    "descriptionFr": "Service cloud AWS d’analyse d’images et de vidéos proposant détection de contenu, objets et opérations spécialisées.",
+    "descriptionEn": "AWS cloud service for image and video analysis including content detection, objects and specialized operations.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Analyse d’images via API",
+      "Opérations sur vidéo et flux selon fonctionnalité",
+      "Détection d’étiquettes, de texte ou de contenu selon API"
+    ],
+    "featuresEn": [
+      "Image analysis APIs",
+      "Video and stream operations by feature",
+      "Labels, text or content detection by API"
+    ],
+    "accessFr": "Service cloud accessible par API",
+    "accessEn": "Cloud service via API",
+    "officialSources": [
+      {
+        "url": "https://docs.aws.amazon.com/rekognition/latest/dg/what-is.html",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Service cloud AWS d’analyse d’images et de vidéos proposant détection de contenu, objets et opérations spécialisées.",
+      "audiences": [
+        "Développeurs en vision par ordinateur et robotique",
+        "Équipes de données, R&D et déploiement IA"
+      ],
+      "cases": [
+        "Modérer un catalogue d’images avec revue humaine des cas ambigus.",
+        "Évaluer la précision, les faux positifs et la latence sur des images ou scénarios représentatifs avant production."
+      ],
+      "advantages": [
+        "Analyse d’images via API",
+        "Opérations sur vidéo et flux selon fonctionnalité",
+        "Détection d’étiquettes, de texte ou de contenu selon API"
+      ],
+      "limits": [
+        "Vérifier la disponibilité régionale et les changements de fonctions, notamment sur la biométrie ; évaluation des risques et consentement indispensables.",
+        "Les performances sur démos ne garantissent pas la fiabilité en situation réelle : documenter jeu de test, biais, dérive et conditions d’éclairage."
+      ],
+      "gettingStarted": [
+        "Définir les données et autorisations, les métriques de référence et les contraintes de matériel ou cloud.",
+        "Tester un échantillon représentatif, journaliser les erreurs et valider la sécurité avant déploiement."
+      ],
+      "examples": [
+        "Définis un protocole d’évaluation avec précision, rappel, latence p95 et erreurs par contexte.",
+        "Compare l’approche Amazon Rekognition à une méthode de référence sur 50 exemples autorisés, puis documente les limites."
+      ],
+      "pricing": "Vérifier licence, matériel, ressources cloud/API, support et coûts d’inférence directement auprès du fournisseur.",
+      "privacy": "Pour images, vidéos et données de capteurs, vérifier consentement, minimisation des données, conservation et droits d’accès ; anonymiser si possible.",
+      "selection": [
+        "Choisir selon type de vision, intégration robotique, coût, déploiement local/cloud, sécurité et contrôle qualité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.aws.amazon.com/rekognition/latest/dg/what-is.html",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "azure-ai-vision": {
+    "descriptionFr": "Famille de services Microsoft de vision par ordinateur ; l’API Image Analysis 4.0 est dépréciée et son retrait est prévu le 25 septembre 2028.",
+    "descriptionEn": "Microsoft computer vision service family; Image Analysis 4.0 API is deprecated and scheduled for retirement on September 25, 2028.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Analyse d’images et fonctions OCR selon API",
+      "Intégration aux services Azure",
+      "Documentation de migration vers services successeurs"
+    ],
+    "featuresEn": [
+      "Image analysis and OCR by API",
+      "Azure service integration",
+      "Migration documentation for successor services"
+    ],
+    "accessFr": "Service cloud accessible par API",
+    "accessEn": "Cloud service via API",
+    "officialSources": [
+      {
+        "url": "https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/migration-options",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Famille de services Microsoft de vision par ordinateur ; l’API Image Analysis 4.0 est dépréciée et son retrait est prévu le 25 septembre 2028.",
+      "audiences": [
+        "Développeurs en vision par ordinateur et robotique",
+        "Équipes de données, R&D et déploiement IA"
+      ],
+      "cases": [
+        "Auditer un pipeline historique et planifier sa migration avant le retrait annoncé.",
+        "Évaluer la précision, les faux positifs et la latence sur des images ou scénarios représentatifs avant production."
+      ],
+      "advantages": [
+        "Analyse d’images et fonctions OCR selon API",
+        "Intégration aux services Azure",
+        "Documentation de migration vers services successeurs"
+      ],
+      "limits": [
+        "Attention : Image Analysis 4.0 sera retirée le 25 septembre 2028. Préparer toute nouvelle intégration à partir des options de migration Microsoft.",
+        "Les performances sur démos ne garantissent pas la fiabilité en situation réelle : documenter jeu de test, biais, dérive et conditions d’éclairage."
+      ],
+      "gettingStarted": [
+        "Définir les données et autorisations, les métriques de référence et les contraintes de matériel ou cloud.",
+        "Tester un échantillon représentatif, journaliser les erreurs et valider la sécurité avant déploiement."
+      ],
+      "examples": [
+        "Définis un protocole d’évaluation avec précision, rappel, latence p95 et erreurs par contexte.",
+        "Compare l’approche Azure AI Vision à une méthode de référence sur 50 exemples autorisés, puis documente les limites."
+      ],
+      "pricing": "Vérifier licence, matériel, ressources cloud/API, support et coûts d’inférence directement auprès du fournisseur.",
+      "privacy": "Pour images, vidéos et données de capteurs, vérifier consentement, minimisation des données, conservation et droits d’accès ; anonymiser si possible.",
+      "selection": [
+        "Choisir selon type de vision, intégration robotique, coût, déploiement local/cloud, sécurité et contrôle qualité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "deprecated_migration_required",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/migration-options",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "supervisely": {
+    "descriptionFr": "Plateforme de données de vision pour annoter images, vidéos, nuages de points 3D et imagerie médicale, puis entraîner des modèles.",
+    "descriptionEn": "Computer vision data platform for annotating images, videos, 3D point clouds and medical images, then training models.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Annotation assistée par IA sur plusieurs types de données",
+      "Gestion de jeux de données et contrôle de qualité",
+      "Entraînement et déploiement via agents de calcul"
+    ],
+    "featuresEn": [
+      "AI-assisted multimodal visual annotation",
+      "Dataset management and quality control",
+      "Training and deployment through compute agents"
+    ],
+    "accessFr": "Bibliothèque, plateforme ou matériel selon le produit et la licence",
+    "accessEn": "Library, platform or hardware depending on product and license",
+    "officialSources": [
+      {
+        "url": "https://supervisely.com/model-training/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de données de vision pour annoter images, vidéos, nuages de points 3D et imagerie médicale, puis entraîner des modèles.",
+      "audiences": [
+        "Développeurs en vision par ordinateur et robotique",
+        "Équipes de données, R&D et déploiement IA"
+      ],
+      "cases": [
+        "Créer un jeu annoté pour entraîner une segmentation de défauts.",
+        "Évaluer la précision, les faux positifs et la latence sur des images ou scénarios représentatifs avant production."
+      ],
+      "advantages": [
+        "Annotation assistée par IA sur plusieurs types de données",
+        "Gestion de jeux de données et contrôle de qualité",
+        "Entraînement et déploiement via agents de calcul"
+      ],
+      "limits": [
+        "Les options on-premise, la collaboration, les GPU et le volume de données dépendent du plan et de l’infrastructure.",
+        "Les performances sur démos ne garantissent pas la fiabilité en situation réelle : documenter jeu de test, biais, dérive et conditions d’éclairage."
+      ],
+      "gettingStarted": [
+        "Définir les données et autorisations, les métriques de référence et les contraintes de matériel ou cloud.",
+        "Tester un échantillon représentatif, journaliser les erreurs et valider la sécurité avant déploiement."
+      ],
+      "examples": [
+        "Définis un protocole d’évaluation avec précision, rappel, latence p95 et erreurs par contexte.",
+        "Compare l’approche Supervisely à une méthode de référence sur 50 exemples autorisés, puis documente les limites."
+      ],
+      "pricing": "Vérifier licence, matériel, ressources cloud/API, support et coûts d’inférence directement auprès du fournisseur.",
+      "privacy": "Pour images, vidéos et données de capteurs, vérifier consentement, minimisation des données, conservation et droits d’accès ; anonymiser si possible.",
+      "selection": [
+        "Choisir selon type de vision, intégration robotique, coût, déploiement local/cloud, sécurité et contrôle qualité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://supervisely.com/model-training/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  }
+}
