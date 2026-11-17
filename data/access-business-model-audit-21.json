@@ -1,0 +1,92 @@
+{
+  "adobe-photoshop": {
+    "accessFr": "Photoshop sur ordinateur, navigateur et mobile selon la formule",
+    "accessEn": "Photoshop on desktop, browser and mobile depending on plan",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Abonnement Photoshop ou Creative Cloud ; application mobile et fonctions IA avec conditions spécifiques.",
+      "en": "Photoshop or Creative Cloud subscription; mobile app and AI functions subject to specific terms.",
+      "sourceUrl": "https://www.adobe.com/products/photoshop/plans.html",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-21"
+  },
+  "let-s-enhance": {
+    "accessFr": "Application Web d’amélioration et agrandissement d’images avec traitement par crédits",
+    "accessEn": "Web app for image enhancement and upscaling with credit-based processing",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Crédits d’essai gratuits puis abonnements ou crédits à l’usage pour davantage d’images.",
+      "en": "Free trial credits followed by subscriptions or pay-as-you-go credits for more images.",
+      "sourceUrl": "https://letsenhance.io/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-21"
+  },
+  "clipdrop": {
+    "accessFr": "Suite Web de retouche IA et API pour développeurs",
+    "accessEn": "Web AI photo editing suite and developer API",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Offre gratuite limitée, abonnement Pro et tarification API distincte.",
+      "en": "Limited free tier, Pro subscription and separate API pricing.",
+      "sourceUrl": "https://clipdrop.co/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-21"
+  },
+  "pixelcut": {
+    "accessFr": "Application Web et mobile de retouche et création visuelle",
+    "accessEn": "Web and mobile app for editing and visual creation",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Fonctions de base gratuites, formule Pro pour l’édition en lot, les exports avancés et les outils IA.",
+      "en": "Free basic features; Pro for batch editing, advanced exports and AI tools.",
+      "sourceUrl": "https://www.pixelcut.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-21"
+  },
+  "picsart": {
+    "accessFr": "Suite de création Web et applications mobiles avec outils d’image et vidéo IA",
+    "accessEn": "Web creative suite and mobile apps with AI image and video tools",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Offre Free et abonnements Pro/Ultra avec capacités de crédits variables.",
+      "en": "Free tier and Pro/Ultra subscriptions with different credit allowances.",
+      "sourceUrl": "https://picsart.com/pricing/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-21"
+  },
+  "fotor": {
+    "accessFr": "Éditeur photo Web et applications mobiles avec outils IA",
+    "accessEn": "Web photo editor and mobile apps with AI tools",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Fonctions gratuites, abonnements Pro, Pro+ et Max, crédits additionnels pour certaines opérations.",
+      "en": "Free functions, Pro, Pro+ and Max plans, with extra credits for some actions.",
+      "sourceUrl": "https://www.fotor.com/pricing/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-21"
+  }
+}
