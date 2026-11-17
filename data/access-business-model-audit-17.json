@@ -1,0 +1,107 @@
+{
+  "leonardo-ai": {
+    "accessFr": "Studio Web de génération d’images et vidéos ; API et offres équipes",
+    "accessEn": "Web image/video generation studio; API and team plans",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Quota quotidien de jetons gratuits ; abonnements payants, offres équipes et API distincte.",
+      "en": "Daily free token quota; paid subscriptions, team plans and separate API pricing.",
+      "sourceUrl": "https://leonardo.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-17"
+  },
+  "recraft": {
+    "accessFr": "Éditeur graphique IA sur le Web ; applications et API selon offre",
+    "accessEn": "Web AI design editor; apps and API depending on offer",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Plan gratuit avec limitations de droits et de crédits ; Basic, Pro et Teams payants.",
+      "en": "Free plan with credit and rights limitations; paid Basic, Pro and Teams.",
+      "sourceUrl": "https://www.recraft.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-17"
+  },
+  "krea": {
+    "accessFr": "Suite créative Web pour images, vidéos et amélioration visuelle",
+    "accessEn": "Web creative suite for images, videos and visual enhancement",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Plan gratuit avec unités de calcul quotidiennes ; abonnements pour capacité accrue.",
+      "en": "Free plan with daily compute allowance; subscriptions for expanded capacity.",
+      "sourceUrl": "https://www.krea.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-17"
+  },
+  "freepik-ai": {
+    "accessFr": "Suite créative Freepik accessible depuis le navigateur et applications selon service",
+    "accessEn": "Freepik creative suite via browser and supported apps",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Crédits IA selon formule, offres payantes et achat de crédits supplémentaires.",
+      "en": "AI credits depending on plan, paid subscriptions and additional credit purchases.",
+      "sourceUrl": "https://www.freepik.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-17"
+  },
+  "openart": {
+    "accessFr": "Studio Web de génération d’images, de vidéos et d’audio",
+    "accessEn": "Web studio for image, video and audio generation",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Forfaits créatifs payants avec crédits et quotas variables selon le plan.",
+      "en": "Paid creative plans with variable credits and allowances.",
+      "sourceUrl": "https://openart.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-17"
+  },
+  "nightcafe": {
+    "accessFr": "Studio Web de création d’images IA et espace communautaire",
+    "accessEn": "Web AI image studio and community",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Crédits gratuits quotidiens ; achats de crédits et abonnements PRO.",
+      "en": "Daily free credits; credit purchases and PRO memberships.",
+      "sourceUrl": "https://help.nightcafe.studio/portal/en/kb/articles/free-credits-questions",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-17"
+  },
+  "dreamstudio": {
+    "accessFr": "Studio de génération d’images de Stability AI sur navigateur",
+    "accessEn": "Browser-based Stability AI image generation studio",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Utilisation fondée sur des crédits de studio et des formules d’abonnement ; crédits API séparés.",
+      "en": "Studio credits and subscription arrangements; API credits separate.",
+      "sourceUrl": "https://kb.stability.ai/knowledge-base/credit-usage-across-our-products",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-17"
+  }
+}
