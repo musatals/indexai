@@ -1,0 +1,62 @@
+{
+  "resemble-ai": {
+    "accessFr": "API et studio de voix IA, clonage vocal et outils de sécurité audio",
+    "accessEn": "AI voice API and studio, voice cloning and audio security tools",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "Offre Flex avec crédits prépayés et facturation à l’usage ; offres Business et entreprise selon volume.",
+      "en": "Flex prepaid usage-credit plan; Business and enterprise plans by volume.",
+      "sourceUrl": "https://www.resemble.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-28"
+  },
+  "cartesia": {
+    "accessFr": "API cloud de synthèse vocale, transcription et agents vocaux, avec console développeur",
+    "accessEn": "Cloud TTS, transcription and voice-agent API with developer console",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Offre gratuite avec crédits limités puis forfaits et paiement selon les fonctionnalités et l’usage.",
+      "en": "Free limited-credit tier, then plans and feature-specific usage billing.",
+      "sourceUrl": "https://www.cartesia.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-28"
+  },
+  "openai-tts": {
+    "accessFr": "API de génération audio OpenAI accessible via SDK et requêtes HTTP",
+    "accessEn": "OpenAI speech generation API via SDKs and HTTP requests",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "Facturation API selon le modèle et les unités de génération audio ; accès et quotas distincts de ChatGPT.",
+      "en": "API billing by model and audio generation units; access and quotas separate from ChatGPT.",
+      "sourceUrl": "https://developers.openai.com/api/docs/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-28"
+  },
+  "google-cloud-text-to-speech": {
+    "accessFr": "API Google Cloud Text-to-Speech, SDK et console Google Cloud",
+    "accessEn": "Google Cloud Text-to-Speech API, SDKs and cloud console",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "Facturation selon le type de voix et les caractères traités ; éventuels quotas gratuits et crédits d’essai.",
+      "en": "Billing depends on voice type and processed characters; eligible free quotas and trial credits.",
+      "sourceUrl": "https://cloud.google.com/text-to-speech/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-28"
+  }
+}
