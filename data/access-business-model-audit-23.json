@@ -1,0 +1,47 @@
+{
+  "pixverse": {
+    "accessFr": "Studio de génération vidéo accessible sur le Web ; API sur plateforme séparée",
+    "accessEn": "Web video generation studio; API on a separate platform",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Crédits gratuits quotidiens et formules Web payantes ; abonnements API distincts.",
+      "en": "Daily free credits and paid Web plans; separate API memberships.",
+      "sourceUrl": "https://docs.pixverse.ai/FAQ-PixVerse-App-1533e99bf35080888cb5effee85f8289?pvs=25",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-23"
+  },
+  "vidu": {
+    "accessFr": "Génération vidéo par navigateur ; plateforme API indépendante pour développeurs",
+    "accessEn": "Browser-based video generation; separate developer API platform",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Crédits offerts pour tester l’application et offres commerciales à crédits ; API facturée séparément.",
+      "en": "Free credits for app testing and paid credit plans; API billed separately.",
+      "sourceUrl": "https://www.vidu.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-23"
+  },
+  "higgsfield": {
+    "accessFr": "Studio Web de génération et montage vidéo IA ; API distincte",
+    "accessEn": "AI video generation and editing web studio; separate API",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Accès d’essai limité, abonnements avec allocations mensuelles et recharges de crédits.",
+      "en": "Limited trial, subscriptions with monthly allowances and credit top-ups.",
+      "sourceUrl": "https://higgsfield.ai/creator-hub/help-center/plans/how-do-higgsfield-plans-work",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-23"
+  }
+}
