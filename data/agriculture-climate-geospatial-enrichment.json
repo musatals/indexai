@@ -1,0 +1,968 @@
+{
+  "plantix": {
+    "descriptionFr": "Application mobile de diagnostic indicatif des maladies et ravageurs des cultures à partir de photos, avec conseils agronomiques.",
+    "descriptionEn": "Mobile application for indicative crop disease and pest diagnosis from photos with agronomy guidance.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Analyse photographique de symptômes",
+      "Suggestions de problèmes et traitements",
+      "Guides de culture et calculateur d’engrais"
+    ],
+    "featuresEn": [
+      "Photo-based symptom analysis",
+      "Indicative issue and treatment suggestions",
+      "Crop guidance and fertilizer calculator"
+    ],
+    "accessFr": "Application, logiciel SaaS, API ou plateforme selon produit et disponibilité",
+    "accessEn": "App, SaaS, API or platform depending on product and availability",
+    "officialSources": [
+      {
+        "url": "https://plantix.net/en/plantix-intelligence/api-toolkit/",
+        "checkedAt": "2026-11-17",
+        "scope": "capabilities_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Application mobile de diagnostic indicatif des maladies et ravageurs des cultures à partir de photos, avec conseils agronomiques.",
+      "audiences": [
+        "Agriculteurs, ingénieurs agronomes et chercheurs",
+        "Analystes climatiques, équipes géospatiales et décideurs"
+      ],
+      "cases": [
+        "Étudier les données d’une parcelle ou d’une zone géographique et identifier les observations à confirmer sur le terrain.",
+        "Comparer plusieurs dates, noter les limites des données et documenter les décisions prises."
+      ],
+      "advantages": [
+        "Analyse photographique de symptômes",
+        "Suggestions de problèmes et traitements",
+        "Guides de culture et calculateur d’engrais"
+      ],
+      "limits": [
+        "Le résultat photographique n’est pas un diagnostic agronomique certain ; confirmer les interventions et respecter les réglementations locales.",
+        "L’analyse algorithmique ou satellitaire ne remplace pas une expertise terrain, et les données peuvent comporter des lacunes ou des biais."
+      ],
+      "gettingStarted": [
+        "Vérifier la disponibilité réelle du produit, les droits d’accès et la couverture géographique.",
+        "Tester un secteur limité avec des données vérifiables, puis comparer les résultats à des observations terrain."
+      ],
+      "examples": [
+        "Établis un protocole d’analyse d’une zone agricole avec date, source satellitaire, résolution et niveau d’incertitude.",
+        "Compare les observations de terrain aux sorties du système et signale les différences non expliquées."
+      ],
+      "pricing": "Consulter les modalités actuelles de licence, d’abonnement, de données, d’API et de support auprès du fournisseur.",
+      "privacy": "Protéger coordonnées de parcelles, données de rendement et informations commerciales ; vérifier propriété, partage et conservation des données.",
+      "selection": [
+        "Évaluer couverture spatiale et temporelle, validation terrain, coûts, licence, exportabilité et continuité du fournisseur."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official_product_source",
+      "sources": [
+        {
+          "url": "https://plantix.net/en/plantix-intelligence/api-toolkit/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "cropin": {
+    "descriptionFr": "Plateforme de renseignement agricole combinant données de parcelles, télédétection, météo et modèles de prédiction pour les entreprises.",
+    "descriptionEn": "Agricultural intelligence platform combining field records, remote sensing, weather and predictive models for enterprises.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Numérisation et traçabilité des parcelles",
+      "Analyse satellite, météo et productivité",
+      "Modèles de prévision et workflows métier"
+    ],
+    "featuresEn": [
+      "Numérisation et traçabilité des parcelles",
+      "Analyse satellite, météo et productivité",
+      "Modèles de prévision et workflows métier"
+    ],
+    "accessFr": "Application, logiciel SaaS, API ou plateforme selon produit et disponibilité",
+    "accessEn": "App, SaaS, API or platform depending on product and availability",
+    "officialSources": [
+      {
+        "url": "https://www.cropin.com/platform/",
+        "checkedAt": "2026-11-17",
+        "scope": "capabilities_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de renseignement agricole combinant données de parcelles, télédétection, météo et modèles de prédiction pour les entreprises.",
+      "audiences": [
+        "Agriculteurs, ingénieurs agronomes et chercheurs",
+        "Analystes climatiques, équipes géospatiales et décideurs"
+      ],
+      "cases": [
+        "Étudier les données d’une parcelle ou d’une zone géographique et identifier les observations à confirmer sur le terrain.",
+        "Comparer plusieurs dates, noter les limites des données et documenter les décisions prises."
+      ],
+      "advantages": [
+        "Numérisation et traçabilité des parcelles",
+        "Analyse satellite, météo et productivité",
+        "Modèles de prévision et workflows métier"
+      ],
+      "limits": [
+        "Fonctions et intégrations disponibles selon modules et contrats ; valider la couverture régionale et la qualité des données.",
+        "L’analyse algorithmique ou satellitaire ne remplace pas une expertise terrain, et les données peuvent comporter des lacunes ou des biais."
+      ],
+      "gettingStarted": [
+        "Vérifier la disponibilité réelle du produit, les droits d’accès et la couverture géographique.",
+        "Tester un secteur limité avec des données vérifiables, puis comparer les résultats à des observations terrain."
+      ],
+      "examples": [
+        "Établis un protocole d’analyse d’une zone agricole avec date, source satellitaire, résolution et niveau d’incertitude.",
+        "Compare les observations de terrain aux sorties du système et signale les différences non expliquées."
+      ],
+      "pricing": "Consulter les modalités actuelles de licence, d’abonnement, de données, d’API et de support auprès du fournisseur.",
+      "privacy": "Protéger coordonnées de parcelles, données de rendement et informations commerciales ; vérifier propriété, partage et conservation des données.",
+      "selection": [
+        "Évaluer couverture spatiale et temporelle, validation terrain, coûts, licence, exportabilité et continuité du fournisseur."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official_product_source",
+      "sources": [
+        {
+          "url": "https://www.cropin.com/platform/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "taranis": {
+    "descriptionFr": "Plateforme de suivi agronomique à l’échelle de la feuille exploitant des images aériennes haute résolution et l’IA.",
+    "descriptionEn": "Leaf-level agronomic crop intelligence using high-resolution aerial imagery and AI.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Imagerie aérienne détaillée des cultures",
+      "Identification de risques végétaux",
+      "Suivi et recommandations pour les conseillers agricoles"
+    ],
+    "featuresEn": [
+      "Imagerie aérienne détaillée des cultures",
+      "Identification de risques végétaux",
+      "Suivi et recommandations pour les conseillers agricoles"
+    ],
+    "accessFr": "Application, logiciel SaaS, API ou plateforme selon produit et disponibilité",
+    "accessEn": "App, SaaS, API or platform depending on product and availability",
+    "officialSources": [
+      {
+        "url": "https://www.taranis.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "capabilities_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de suivi agronomique à l’échelle de la feuille exploitant des images aériennes haute résolution et l’IA.",
+      "audiences": [
+        "Agriculteurs, ingénieurs agronomes et chercheurs",
+        "Analystes climatiques, équipes géospatiales et décideurs"
+      ],
+      "cases": [
+        "Étudier les données d’une parcelle ou d’une zone géographique et identifier les observations à confirmer sur le terrain.",
+        "Comparer plusieurs dates, noter les limites des données et documenter les décisions prises."
+      ],
+      "advantages": [
+        "Imagerie aérienne détaillée des cultures",
+        "Identification de risques végétaux",
+        "Suivi et recommandations pour les conseillers agricoles"
+      ],
+      "limits": [
+        "Dépend de la couverture des vols, de la disponibilité d’images et de la validation agronomique sur le terrain.",
+        "L’analyse algorithmique ou satellitaire ne remplace pas une expertise terrain, et les données peuvent comporter des lacunes ou des biais."
+      ],
+      "gettingStarted": [
+        "Vérifier la disponibilité réelle du produit, les droits d’accès et la couverture géographique.",
+        "Tester un secteur limité avec des données vérifiables, puis comparer les résultats à des observations terrain."
+      ],
+      "examples": [
+        "Établis un protocole d’analyse d’une zone agricole avec date, source satellitaire, résolution et niveau d’incertitude.",
+        "Compare les observations de terrain aux sorties du système et signale les différences non expliquées."
+      ],
+      "pricing": "Consulter les modalités actuelles de licence, d’abonnement, de données, d’API et de support auprès du fournisseur.",
+      "privacy": "Protéger coordonnées de parcelles, données de rendement et informations commerciales ; vérifier propriété, partage et conservation des données.",
+      "selection": [
+        "Évaluer couverture spatiale et temporelle, validation terrain, coûts, licence, exportabilité et continuité du fournisseur."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official_product_source",
+      "sources": [
+        {
+          "url": "https://www.taranis.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "prospera": {
+    "descriptionFr": "Ancienne activité de solutions IA agricoles de Valmont, notamment liées au pilotage de l’irrigation ; activité arrêtée en 2025.",
+    "descriptionEn": "Former Valmont agriculture AI operation, including irrigation management; business wound down in 2025.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Historique d’analyses IA agricoles",
+      "Anciennes solutions d’aide à l’irrigation",
+      "Référence conservée pour contexte historique"
+    ],
+    "featuresEn": [
+      "Historique d’analyses IA agricoles",
+      "Anciennes solutions d’aide à l’irrigation",
+      "Référence conservée pour contexte historique"
+    ],
+    "accessFr": "Application, logiciel SaaS, API ou plateforme selon produit et disponibilité",
+    "accessEn": "App, SaaS, API or platform depending on product and availability",
+    "officialSources": [
+      {
+        "url": "https://investors.valmont.com/news-releases/news-release-details/valmont-reports-fourth-quarter-gaap-eps-905-and-adjusted-eps-492",
+        "checkedAt": "2026-11-17",
+        "scope": "capabilities_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Ancienne activité de solutions IA agricoles de Valmont, notamment liées au pilotage de l’irrigation ; activité arrêtée en 2025.",
+      "audiences": [
+        "Agriculteurs, ingénieurs agronomes et chercheurs",
+        "Analystes climatiques, équipes géospatiales et décideurs"
+      ],
+      "cases": [
+        "Étudier les données d’une parcelle ou d’une zone géographique et identifier les observations à confirmer sur le terrain.",
+        "Comparer plusieurs dates, noter les limites des données et documenter les décisions prises."
+      ],
+      "advantages": [
+        "Historique d’analyses IA agricoles",
+        "Anciennes solutions d’aide à l’irrigation",
+        "Référence conservée pour contexte historique"
+      ],
+      "limits": [
+        "Prospera n’est plus à présenter comme un service indépendant actif : Valmont annonce la fin de cette activité en 2025.",
+        "L’analyse algorithmique ou satellitaire ne remplace pas une expertise terrain, et les données peuvent comporter des lacunes ou des biais."
+      ],
+      "gettingStarted": [
+        "Vérifier la disponibilité réelle du produit, les droits d’accès et la couverture géographique.",
+        "Tester un secteur limité avec des données vérifiables, puis comparer les résultats à des observations terrain."
+      ],
+      "examples": [
+        "Établis un protocole d’analyse d’une zone agricole avec date, source satellitaire, résolution et niveau d’incertitude.",
+        "Compare les observations de terrain aux sorties du système et signale les différences non expliquées."
+      ],
+      "pricing": "Consulter les modalités actuelles de licence, d’abonnement, de données, d’API et de support auprès du fournisseur.",
+      "privacy": "Protéger coordonnées de parcelles, données de rendement et informations commerciales ; vérifier propriété, partage et conservation des données.",
+      "selection": [
+        "Évaluer couverture spatiale et temporelle, validation terrain, coûts, licence, exportabilité et continuité du fournisseur."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "discontinued",
+      "evidence": "official_status_checked",
+      "sources": [
+        {
+          "url": "https://investors.valmont.com/news-releases/news-release-details/valmont-reports-fourth-quarter-gaap-eps-905-and-adjusted-eps-492",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_status_reviewed"
+  },
+  "onesoil": {
+    "descriptionFr": "Plateforme d’agriculture de précision associant images satellitaires, indices de végétation, météo et relevés de parcelles.",
+    "descriptionEn": "Precision farming platform combining satellite images, vegetation indices, weather and field observations.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "NDVI et surveillance des champs",
+      "Notes de terrain et historique cultural",
+      "Cartes d’application à dose variable selon offre"
+    ],
+    "featuresEn": [
+      "NDVI et surveillance des champs",
+      "Notes de terrain et historique cultural",
+      "Cartes d’application à dose variable selon offre"
+    ],
+    "accessFr": "Application, logiciel SaaS, API ou plateforme selon produit et disponibilité",
+    "accessEn": "App, SaaS, API or platform depending on product and availability",
+    "officialSources": [
+      {
+        "url": "https://onesoil.ai/en/platform",
+        "checkedAt": "2026-11-17",
+        "scope": "capabilities_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme d’agriculture de précision associant images satellitaires, indices de végétation, météo et relevés de parcelles.",
+      "audiences": [
+        "Agriculteurs, ingénieurs agronomes et chercheurs",
+        "Analystes climatiques, équipes géospatiales et décideurs"
+      ],
+      "cases": [
+        "Étudier les données d’une parcelle ou d’une zone géographique et identifier les observations à confirmer sur le terrain.",
+        "Comparer plusieurs dates, noter les limites des données et documenter les décisions prises."
+      ],
+      "advantages": [
+        "NDVI et surveillance des champs",
+        "Notes de terrain et historique cultural",
+        "Cartes d’application à dose variable selon offre"
+      ],
+      "limits": [
+        "Les images sont affectées par la couverture nuageuse et la résolution ; des outils avancés peuvent nécessiter un abonnement.",
+        "L’analyse algorithmique ou satellitaire ne remplace pas une expertise terrain, et les données peuvent comporter des lacunes ou des biais."
+      ],
+      "gettingStarted": [
+        "Vérifier la disponibilité réelle du produit, les droits d’accès et la couverture géographique.",
+        "Tester un secteur limité avec des données vérifiables, puis comparer les résultats à des observations terrain."
+      ],
+      "examples": [
+        "Établis un protocole d’analyse d’une zone agricole avec date, source satellitaire, résolution et niveau d’incertitude.",
+        "Compare les observations de terrain aux sorties du système et signale les différences non expliquées."
+      ],
+      "pricing": "Consulter les modalités actuelles de licence, d’abonnement, de données, d’API et de support auprès du fournisseur.",
+      "privacy": "Protéger coordonnées de parcelles, données de rendement et informations commerciales ; vérifier propriété, partage et conservation des données.",
+      "selection": [
+        "Évaluer couverture spatiale et temporelle, validation terrain, coûts, licence, exportabilité et continuité du fournisseur."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official_product_source",
+      "sources": [
+        {
+          "url": "https://onesoil.ai/en/platform",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "climate-fieldview": {
+    "descriptionFr": "Plateforme numérique de gestion des données agricoles, cartographie et analyse des performances des parcelles.",
+    "descriptionEn": "Digital farm data platform for mapping, collecting and analyzing field performance.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Centralisation de données agricoles",
+      "Cartographie et comparaison des parcelles",
+      "Analyse de rendement et opérations selon matériel connecté"
+    ],
+    "featuresEn": [
+      "Centralisation de données agricoles",
+      "Cartographie et comparaison des parcelles",
+      "Analyse de rendement et opérations selon matériel connecté"
+    ],
+    "accessFr": "Application, logiciel SaaS, API ou plateforme selon produit et disponibilité",
+    "accessEn": "App, SaaS, API or platform depending on product and availability",
+    "officialSources": [
+      {
+        "url": "https://climatefieldview.com",
+        "checkedAt": "2026-11-17",
+        "scope": "capabilities_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme numérique de gestion des données agricoles, cartographie et analyse des performances des parcelles.",
+      "audiences": [
+        "Agriculteurs, ingénieurs agronomes et chercheurs",
+        "Analystes climatiques, équipes géospatiales et décideurs"
+      ],
+      "cases": [
+        "Étudier les données d’une parcelle ou d’une zone géographique et identifier les observations à confirmer sur le terrain.",
+        "Comparer plusieurs dates, noter les limites des données et documenter les décisions prises."
+      ],
+      "advantages": [
+        "Centralisation de données agricoles",
+        "Cartographie et comparaison des parcelles",
+        "Analyse de rendement et opérations selon matériel connecté"
+      ],
+      "limits": [
+        "Vérifier le fonctionnement par région, la compatibilité des équipements et les modalités de partage des données.",
+        "L’analyse algorithmique ou satellitaire ne remplace pas une expertise terrain, et les données peuvent comporter des lacunes ou des biais."
+      ],
+      "gettingStarted": [
+        "Vérifier la disponibilité réelle du produit, les droits d’accès et la couverture géographique.",
+        "Tester un secteur limité avec des données vérifiables, puis comparer les résultats à des observations terrain."
+      ],
+      "examples": [
+        "Établis un protocole d’analyse d’une zone agricole avec date, source satellitaire, résolution et niveau d’incertitude.",
+        "Compare les observations de terrain aux sorties du système et signale les différences non expliquées."
+      ],
+      "pricing": "Consulter les modalités actuelles de licence, d’abonnement, de données, d’API et de support auprès du fournisseur.",
+      "privacy": "Protéger coordonnées de parcelles, données de rendement et informations commerciales ; vérifier propriété, partage et conservation des données.",
+      "selection": [
+        "Évaluer couverture spatiale et temporelle, validation terrain, coûts, licence, exportabilité et continuité du fournisseur."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "needs_reverification",
+      "evidence": "official_product_source",
+      "sources": [
+        {
+          "url": "https://climatefieldview.com",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "eosda-crop-monitoring": {
+    "descriptionFr": "Service de télédétection agricole pour suivre végétation, météo et état des parcelles à partir d’images satellitaires.",
+    "descriptionEn": "Agricultural remote sensing service for tracking vegetation, weather and field conditions from satellite data.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Indices NDVI, NDRE et NDMI",
+      "Historique des parcelles et météo",
+      "Reconnaissance des zones à inspecter"
+    ],
+    "featuresEn": [
+      "Indices NDVI, NDRE et NDMI",
+      "Historique des parcelles et météo",
+      "Reconnaissance des zones à inspecter"
+    ],
+    "accessFr": "Application, logiciel SaaS, API ou plateforme selon produit et disponibilité",
+    "accessEn": "App, SaaS, API or platform depending on product and availability",
+    "officialSources": [
+      {
+        "url": "https://eos.com/products/crop-monitoring/",
+        "checkedAt": "2026-11-17",
+        "scope": "capabilities_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Service de télédétection agricole pour suivre végétation, météo et état des parcelles à partir d’images satellitaires.",
+      "audiences": [
+        "Agriculteurs, ingénieurs agronomes et chercheurs",
+        "Analystes climatiques, équipes géospatiales et décideurs"
+      ],
+      "cases": [
+        "Étudier les données d’une parcelle ou d’une zone géographique et identifier les observations à confirmer sur le terrain.",
+        "Comparer plusieurs dates, noter les limites des données et documenter les décisions prises."
+      ],
+      "advantages": [
+        "Indices NDVI, NDRE et NDMI",
+        "Historique des parcelles et météo",
+        "Reconnaissance des zones à inspecter"
+      ],
+      "limits": [
+        "Les indices de végétation sont des indicateurs indirects, à confronter aux observations de terrain.",
+        "L’analyse algorithmique ou satellitaire ne remplace pas une expertise terrain, et les données peuvent comporter des lacunes ou des biais."
+      ],
+      "gettingStarted": [
+        "Vérifier la disponibilité réelle du produit, les droits d’accès et la couverture géographique.",
+        "Tester un secteur limité avec des données vérifiables, puis comparer les résultats à des observations terrain."
+      ],
+      "examples": [
+        "Établis un protocole d’analyse d’une zone agricole avec date, source satellitaire, résolution et niveau d’incertitude.",
+        "Compare les observations de terrain aux sorties du système et signale les différences non expliquées."
+      ],
+      "pricing": "Consulter les modalités actuelles de licence, d’abonnement, de données, d’API et de support auprès du fournisseur.",
+      "privacy": "Protéger coordonnées de parcelles, données de rendement et informations commerciales ; vérifier propriété, partage et conservation des données.",
+      "selection": [
+        "Évaluer couverture spatiale et temporelle, validation terrain, coûts, licence, exportabilité et continuité du fournisseur."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official_product_source",
+      "sources": [
+        {
+          "url": "https://eos.com/products/crop-monitoring/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "satellier": {
+    "descriptionFr": "Entrée du catalogue à identité incertaine : les références trouvées décrivent surtout un prestataire de services architecturaux et BIM, non un outil d’IA agricole.",
+    "descriptionEn": "Catalog identity uncertain: available references mainly point to an architecture and BIM services company, not an agricultural AI tool.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Identité et catégorie non vérifiées",
+      "Aucun service agricole officiel établi",
+      "Révision éditoriale et reclassement à prévoir"
+    ],
+    "featuresEn": [
+      "Identité et catégorie non vérifiées",
+      "Aucun service agricole officiel établi",
+      "Révision éditoriale et reclassement à prévoir"
+    ],
+    "accessFr": "Application, logiciel SaaS, API ou plateforme selon produit et disponibilité",
+    "accessEn": "App, SaaS, API or platform depending on product and availability",
+    "officialSources": [
+      {
+        "url": "https://www.linkedin.com/company/satellier",
+        "checkedAt": "2026-11-17",
+        "scope": "capabilities_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Entrée du catalogue à identité incertaine : les références trouvées décrivent surtout un prestataire de services architecturaux et BIM, non un outil d’IA agricole.",
+      "audiences": [
+        "Agriculteurs, ingénieurs agronomes et chercheurs",
+        "Analystes climatiques, équipes géospatiales et décideurs"
+      ],
+      "cases": [
+        "Étudier les données d’une parcelle ou d’une zone géographique et identifier les observations à confirmer sur le terrain.",
+        "Comparer plusieurs dates, noter les limites des données et documenter les décisions prises."
+      ],
+      "advantages": [
+        "Identité et catégorie non vérifiées",
+        "Aucun service agricole officiel établi",
+        "Révision éditoriale et reclassement à prévoir"
+      ],
+      "limits": [
+        "Ne pas recommander comme outil opérationnel agricole ; vérifier l’identité, la dénomination et le fournisseur avant toute publication définitive.",
+        "L’analyse algorithmique ou satellitaire ne remplace pas une expertise terrain, et les données peuvent comporter des lacunes ou des biais."
+      ],
+      "gettingStarted": [
+        "Vérifier la disponibilité réelle du produit, les droits d’accès et la couverture géographique.",
+        "Tester un secteur limité avec des données vérifiables, puis comparer les résultats à des observations terrain."
+      ],
+      "examples": [
+        "Établis un protocole d’analyse d’une zone agricole avec date, source satellitaire, résolution et niveau d’incertitude.",
+        "Compare les observations de terrain aux sorties du système et signale les différences non expliquées."
+      ],
+      "pricing": "Consulter les modalités actuelles de licence, d’abonnement, de données, d’API et de support auprès du fournisseur.",
+      "privacy": "Protéger coordonnées de parcelles, données de rendement et informations commerciales ; vérifier propriété, partage et conservation des données.",
+      "selection": [
+        "Évaluer couverture spatiale et temporelle, validation terrain, coûts, licence, exportabilité et continuité du fournisseur."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "identity_unverified",
+      "evidence": "insufficient",
+      "sources": [
+        {
+          "url": "https://www.linkedin.com/company/satellier",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "identity_unverified"
+  },
+  "descartes-labs": {
+    "descriptionFr": "Ancienne plateforme de données géospatiales acquise par EarthDaily et renommée EarthOne pour les workflows d’analyse géospatiale.",
+    "descriptionEn": "Former geospatial data platform acquired by EarthDaily and rebranded EarthOne for geospatial analysis workflows.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Analyse géospatiale à grande échelle",
+      "Intégration de données d’observation terrestre",
+      "Transition de l’ancienne plateforme vers EarthOne"
+    ],
+    "featuresEn": [
+      "Analyse géospatiale à grande échelle",
+      "Intégration de données d’observation terrestre",
+      "Transition de l’ancienne plateforme vers EarthOne"
+    ],
+    "accessFr": "Application, logiciel SaaS, API ou plateforme selon produit et disponibilité",
+    "accessEn": "App, SaaS, API or platform depending on product and availability",
+    "officialSources": [
+      {
+        "url": "https://docs.earthdaily.com/platform/earthone/platform-updates/introducing-earthone/",
+        "checkedAt": "2026-11-17",
+        "scope": "capabilities_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Ancienne plateforme de données géospatiales acquise par EarthDaily et renommée EarthOne pour les workflows d’analyse géospatiale.",
+      "audiences": [
+        "Agriculteurs, ingénieurs agronomes et chercheurs",
+        "Analystes climatiques, équipes géospatiales et décideurs"
+      ],
+      "cases": [
+        "Étudier les données d’une parcelle ou d’une zone géographique et identifier les observations à confirmer sur le terrain.",
+        "Comparer plusieurs dates, noter les limites des données et documenter les décisions prises."
+      ],
+      "advantages": [
+        "Analyse géospatiale à grande échelle",
+        "Intégration de données d’observation terrestre",
+        "Transition de l’ancienne plateforme vers EarthOne"
+      ],
+      "limits": [
+        "Les anciennes URL de la plateforme Descartes Labs ne fonctionnent plus depuis décembre 2025 : utiliser la documentation EarthOne.",
+        "L’analyse algorithmique ou satellitaire ne remplace pas une expertise terrain, et les données peuvent comporter des lacunes ou des biais."
+      ],
+      "gettingStarted": [
+        "Vérifier la disponibilité réelle du produit, les droits d’accès et la couverture géographique.",
+        "Tester un secteur limité avec des données vérifiables, puis comparer les résultats à des observations terrain."
+      ],
+      "examples": [
+        "Établis un protocole d’analyse d’une zone agricole avec date, source satellitaire, résolution et niveau d’incertitude.",
+        "Compare les observations de terrain aux sorties du système et signale les différences non expliquées."
+      ],
+      "pricing": "Consulter les modalités actuelles de licence, d’abonnement, de données, d’API et de support auprès du fournisseur.",
+      "privacy": "Protéger coordonnées de parcelles, données de rendement et informations commerciales ; vérifier propriété, partage et conservation des données.",
+      "selection": [
+        "Évaluer couverture spatiale et temporelle, validation terrain, coûts, licence, exportabilité et continuité du fournisseur."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "renamed",
+      "evidence": "official_status_checked",
+      "sources": [
+        {
+          "url": "https://docs.earthdaily.com/platform/earthone/platform-updates/introducing-earthone/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_status_reviewed"
+  },
+  "planet-labs": {
+    "descriptionFr": "Fournisseur de données d’observation de la Terre et de surveillance satellitaire pour l’analyse de changements environnementaux.",
+    "descriptionEn": "Earth observation data provider and satellite monitoring platform for analyzing environmental changes.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Images satellites et mosaïques",
+      "Suivi fréquent des changements",
+      "Analyses géospatiales selon abonnement"
+    ],
+    "featuresEn": [
+      "Images satellites et mosaïques",
+      "Suivi fréquent des changements",
+      "Analyses géospatiales selon abonnement"
+    ],
+    "accessFr": "Application, logiciel SaaS, API ou plateforme selon produit et disponibilité",
+    "accessEn": "App, SaaS, API or platform depending on product and availability",
+    "officialSources": [
+      {
+        "url": "https://www.planet.com/products/",
+        "checkedAt": "2026-11-17",
+        "scope": "capabilities_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Fournisseur de données d’observation de la Terre et de surveillance satellitaire pour l’analyse de changements environnementaux.",
+      "audiences": [
+        "Agriculteurs, ingénieurs agronomes et chercheurs",
+        "Analystes climatiques, équipes géospatiales et décideurs"
+      ],
+      "cases": [
+        "Étudier les données d’une parcelle ou d’une zone géographique et identifier les observations à confirmer sur le terrain.",
+        "Comparer plusieurs dates, noter les limites des données et documenter les décisions prises."
+      ],
+      "advantages": [
+        "Images satellites et mosaïques",
+        "Suivi fréquent des changements",
+        "Analyses géospatiales selon abonnement"
+      ],
+      "limits": [
+        "La résolution, la revisite et les droits d’utilisation varient par produit ; les images peuvent être masquées par les nuages.",
+        "L’analyse algorithmique ou satellitaire ne remplace pas une expertise terrain, et les données peuvent comporter des lacunes ou des biais."
+      ],
+      "gettingStarted": [
+        "Vérifier la disponibilité réelle du produit, les droits d’accès et la couverture géographique.",
+        "Tester un secteur limité avec des données vérifiables, puis comparer les résultats à des observations terrain."
+      ],
+      "examples": [
+        "Établis un protocole d’analyse d’une zone agricole avec date, source satellitaire, résolution et niveau d’incertitude.",
+        "Compare les observations de terrain aux sorties du système et signale les différences non expliquées."
+      ],
+      "pricing": "Consulter les modalités actuelles de licence, d’abonnement, de données, d’API et de support auprès du fournisseur.",
+      "privacy": "Protéger coordonnées de parcelles, données de rendement et informations commerciales ; vérifier propriété, partage et conservation des données.",
+      "selection": [
+        "Évaluer couverture spatiale et temporelle, validation terrain, coûts, licence, exportabilité et continuité du fournisseur."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official_product_source",
+      "sources": [
+        {
+          "url": "https://www.planet.com/products/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "google-earth-engine": {
+    "descriptionFr": "Plateforme cloud d’analyse géospatiale pour traiter des collections massives d’images satellites avec JavaScript ou Python.",
+    "descriptionEn": "Cloud geospatial analysis platform for processing large satellite image collections with JavaScript or Python.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Catalogue d’images d’observation terrestre",
+      "API Python et JavaScript",
+      "Calcul et agrégation géospatiale à grande échelle"
+    ],
+    "featuresEn": [
+      "Catalogue d’images d’observation terrestre",
+      "API Python et JavaScript",
+      "Calcul et agrégation géospatiale à grande échelle"
+    ],
+    "accessFr": "Application, logiciel SaaS, API ou plateforme selon produit et disponibilité",
+    "accessEn": "App, SaaS, API or platform depending on product and availability",
+    "officialSources": [
+      {
+        "url": "https://developers.google.com/earth-engine/",
+        "checkedAt": "2026-11-17",
+        "scope": "capabilities_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme cloud d’analyse géospatiale pour traiter des collections massives d’images satellites avec JavaScript ou Python.",
+      "audiences": [
+        "Agriculteurs, ingénieurs agronomes et chercheurs",
+        "Analystes climatiques, équipes géospatiales et décideurs"
+      ],
+      "cases": [
+        "Étudier les données d’une parcelle ou d’une zone géographique et identifier les observations à confirmer sur le terrain.",
+        "Comparer plusieurs dates, noter les limites des données et documenter les décisions prises."
+      ],
+      "advantages": [
+        "Catalogue d’images d’observation terrestre",
+        "API Python et JavaScript",
+        "Calcul et agrégation géospatiale à grande échelle"
+      ],
+      "limits": [
+        "Un projet Google Cloud est obligatoire ; usages commerciaux, quotas et facturation dépendent du programme.",
+        "L’analyse algorithmique ou satellitaire ne remplace pas une expertise terrain, et les données peuvent comporter des lacunes ou des biais."
+      ],
+      "gettingStarted": [
+        "Vérifier la disponibilité réelle du produit, les droits d’accès et la couverture géographique.",
+        "Tester un secteur limité avec des données vérifiables, puis comparer les résultats à des observations terrain."
+      ],
+      "examples": [
+        "Établis un protocole d’analyse d’une zone agricole avec date, source satellitaire, résolution et niveau d’incertitude.",
+        "Compare les observations de terrain aux sorties du système et signale les différences non expliquées."
+      ],
+      "pricing": "Consulter les modalités actuelles de licence, d’abonnement, de données, d’API et de support auprès du fournisseur.",
+      "privacy": "Protéger coordonnées de parcelles, données de rendement et informations commerciales ; vérifier propriété, partage et conservation des données.",
+      "selection": [
+        "Évaluer couverture spatiale et temporelle, validation terrain, coûts, licence, exportabilité et continuité du fournisseur."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official_product_source",
+      "sources": [
+        {
+          "url": "https://developers.google.com/earth-engine/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "tomorrow-io": {
+    "descriptionFr": "Plateforme de renseignement météorologique combinant prévisions, alertes, risques et automatisation de décisions opérationnelles.",
+    "descriptionEn": "Weather intelligence platform combining forecasts, alerts, risks and operational decision workflows.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Prévisions et données météo opérationnelles",
+      "Alertes et risques contextualisés",
+      "API et workflows météorologiques"
+    ],
+    "featuresEn": [
+      "Prévisions et données météo opérationnelles",
+      "Alertes et risques contextualisés",
+      "API et workflows météorologiques"
+    ],
+    "accessFr": "Application, logiciel SaaS, API ou plateforme selon produit et disponibilité",
+    "accessEn": "App, SaaS, API or platform depending on product and availability",
+    "officialSources": [
+      {
+        "url": "https://www.tomorrow.io/weather-intelligence-platform/",
+        "checkedAt": "2026-11-17",
+        "scope": "capabilities_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme de renseignement météorologique combinant prévisions, alertes, risques et automatisation de décisions opérationnelles.",
+      "audiences": [
+        "Agriculteurs, ingénieurs agronomes et chercheurs",
+        "Analystes climatiques, équipes géospatiales et décideurs"
+      ],
+      "cases": [
+        "Étudier les données d’une parcelle ou d’une zone géographique et identifier les observations à confirmer sur le terrain.",
+        "Comparer plusieurs dates, noter les limites des données et documenter les décisions prises."
+      ],
+      "advantages": [
+        "Prévisions et données météo opérationnelles",
+        "Alertes et risques contextualisés",
+        "API et workflows météorologiques"
+      ],
+      "limits": [
+        "Les prévisions comportent des incertitudes, en particulier pour les événements locaux extrêmes ; contrôle humain recommandé.",
+        "L’analyse algorithmique ou satellitaire ne remplace pas une expertise terrain, et les données peuvent comporter des lacunes ou des biais."
+      ],
+      "gettingStarted": [
+        "Vérifier la disponibilité réelle du produit, les droits d’accès et la couverture géographique.",
+        "Tester un secteur limité avec des données vérifiables, puis comparer les résultats à des observations terrain."
+      ],
+      "examples": [
+        "Établis un protocole d’analyse d’une zone agricole avec date, source satellitaire, résolution et niveau d’incertitude.",
+        "Compare les observations de terrain aux sorties du système et signale les différences non expliquées."
+      ],
+      "pricing": "Consulter les modalités actuelles de licence, d’abonnement, de données, d’API et de support auprès du fournisseur.",
+      "privacy": "Protéger coordonnées de parcelles, données de rendement et informations commerciales ; vérifier propriété, partage et conservation des données.",
+      "selection": [
+        "Évaluer couverture spatiale et temporelle, validation terrain, coûts, licence, exportabilité et continuité du fournisseur."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official_product_source",
+      "sources": [
+        {
+          "url": "https://www.tomorrow.io/weather-intelligence-platform/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "jupiter-intelligence": {
+    "descriptionFr": "Plateforme d’analytique des risques climatiques physiques pour actifs, infrastructures et scénarios de résilience.",
+    "descriptionEn": "Physical climate risk analytics platform for assets, infrastructure and resilience scenarios.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Projections des aléas climatiques",
+      "Analyse d’exposition géographique",
+      "API et rapports de risque climatique"
+    ],
+    "featuresEn": [
+      "Projections des aléas climatiques",
+      "Analyse d’exposition géographique",
+      "API et rapports de risque climatique"
+    ],
+    "accessFr": "Application, logiciel SaaS, API ou plateforme selon produit et disponibilité",
+    "accessEn": "App, SaaS, API or platform depending on product and availability",
+    "officialSources": [
+      {
+        "url": "https://www.jupiterintel.com/products",
+        "checkedAt": "2026-11-17",
+        "scope": "capabilities_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme d’analytique des risques climatiques physiques pour actifs, infrastructures et scénarios de résilience.",
+      "audiences": [
+        "Agriculteurs, ingénieurs agronomes et chercheurs",
+        "Analystes climatiques, équipes géospatiales et décideurs"
+      ],
+      "cases": [
+        "Étudier les données d’une parcelle ou d’une zone géographique et identifier les observations à confirmer sur le terrain.",
+        "Comparer plusieurs dates, noter les limites des données et documenter les décisions prises."
+      ],
+      "advantages": [
+        "Projections des aléas climatiques",
+        "Analyse d’exposition géographique",
+        "API et rapports de risque climatique"
+      ],
+      "limits": [
+        "Les projections climatiques dépendent de scénarios et de résolutions ; ne pas les interpréter comme des prévisions certaines.",
+        "L’analyse algorithmique ou satellitaire ne remplace pas une expertise terrain, et les données peuvent comporter des lacunes ou des biais."
+      ],
+      "gettingStarted": [
+        "Vérifier la disponibilité réelle du produit, les droits d’accès et la couverture géographique.",
+        "Tester un secteur limité avec des données vérifiables, puis comparer les résultats à des observations terrain."
+      ],
+      "examples": [
+        "Établis un protocole d’analyse d’une zone agricole avec date, source satellitaire, résolution et niveau d’incertitude.",
+        "Compare les observations de terrain aux sorties du système et signale les différences non expliquées."
+      ],
+      "pricing": "Consulter les modalités actuelles de licence, d’abonnement, de données, d’API et de support auprès du fournisseur.",
+      "privacy": "Protéger coordonnées de parcelles, données de rendement et informations commerciales ; vérifier propriété, partage et conservation des données.",
+      "selection": [
+        "Évaluer couverture spatiale et temporelle, validation terrain, coûts, licence, exportabilité et continuité du fournisseur."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official_product_source",
+      "sources": [
+        {
+          "url": "https://www.jupiterintel.com/products",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "pachama": {
+    "descriptionFr": "Technologie de surveillance et vérification du carbone forestier acquise par Carbon Direct en novembre 2025.",
+    "descriptionEn": "Forest carbon monitoring and verification technology acquired by Carbon Direct in November 2025.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Suivi satellitaire des projets forestiers",
+      "Mesure, rapport et vérification du carbone",
+      "Intégration à l’offre Carbon Direct après acquisition"
+    ],
+    "featuresEn": [
+      "Suivi satellitaire des projets forestiers",
+      "Mesure, rapport et vérification du carbone",
+      "Intégration à l’offre Carbon Direct après acquisition"
+    ],
+    "accessFr": "Application, logiciel SaaS, API ou plateforme selon produit et disponibilité",
+    "accessEn": "App, SaaS, API or platform depending on product and availability",
+    "officialSources": [
+      {
+        "url": "https://www.carbon-direct.com/press/carbon-direct-acquires-pachama",
+        "checkedAt": "2026-11-17",
+        "scope": "capabilities_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Technologie de surveillance et vérification du carbone forestier acquise par Carbon Direct en novembre 2025.",
+      "audiences": [
+        "Agriculteurs, ingénieurs agronomes et chercheurs",
+        "Analystes climatiques, équipes géospatiales et décideurs"
+      ],
+      "cases": [
+        "Étudier les données d’une parcelle ou d’une zone géographique et identifier les observations à confirmer sur le terrain.",
+        "Comparer plusieurs dates, noter les limites des données et documenter les décisions prises."
+      ],
+      "advantages": [
+        "Suivi satellitaire des projets forestiers",
+        "Mesure, rapport et vérification du carbone",
+        "Intégration à l’offre Carbon Direct après acquisition"
+      ],
+      "limits": [
+        "Pachama n’est plus une entreprise indépendante ; vérifier l’offre actuelle et les méthodes de certification directement chez Carbon Direct.",
+        "L’analyse algorithmique ou satellitaire ne remplace pas une expertise terrain, et les données peuvent comporter des lacunes ou des biais."
+      ],
+      "gettingStarted": [
+        "Vérifier la disponibilité réelle du produit, les droits d’accès et la couverture géographique.",
+        "Tester un secteur limité avec des données vérifiables, puis comparer les résultats à des observations terrain."
+      ],
+      "examples": [
+        "Établis un protocole d’analyse d’une zone agricole avec date, source satellitaire, résolution et niveau d’incertitude.",
+        "Compare les observations de terrain aux sorties du système et signale les différences non expliquées."
+      ],
+      "pricing": "Consulter les modalités actuelles de licence, d’abonnement, de données, d’API et de support auprès du fournisseur.",
+      "privacy": "Protéger coordonnées de parcelles, données de rendement et informations commerciales ; vérifier propriété, partage et conservation des données.",
+      "selection": [
+        "Évaluer couverture spatiale et temporelle, validation terrain, coûts, licence, exportabilité et continuité du fournisseur."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "acquired",
+      "evidence": "official_status_checked",
+      "sources": [
+        {
+          "url": "https://www.carbon-direct.com/press/carbon-direct-acquires-pachama",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_status_reviewed"
+  }
+}
