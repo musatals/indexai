@@ -1,0 +1,137 @@
+{
+  "lovo": {
+    "accessFr": "Studio vocal Genny sur le Web, API selon offre",
+    "accessEn": "Genny web voice studio; API depending on plan",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Offre Free limitée et essai de 14 jours des fonctions Pro, puis abonnements payants pour la production.",
+      "en": "Limited Free plan and 14-day Pro trial, followed by paid plans for production.",
+      "sourceUrl": "https://help.lovo.ai/hc/en-us/articles/22141257915417-Is-Genny-a-paid-service",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-09"
+  },
+  "narakeet": {
+    "accessFr": "Application Web de synthèse vocale et vidéo ; API réservée aux comptes éligibles",
+    "accessEn": "Web voice and video creator; API for eligible paid accounts",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "Essai de création gratuit, puis achats de crédits ou formules payantes pour produire de l'audio ou de la vidéo.",
+      "en": "Free creation trial, then paid credits or plans for audio and video production.",
+      "sourceUrl": "https://www.narakeet.com/docs/pricing2/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-09"
+  },
+  "naturalreader": {
+    "accessFr": "Lecteur Web, applications mobiles et extension de navigateur",
+    "accessEn": "Web reader, mobile apps and browser extension",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Voix gratuites de base et abonnements personnels Lite, Plus ou Pro ; licences commerciales distinctes.",
+      "en": "Basic free voices and personal Lite, Plus or Pro subscriptions; separate commercial licensing.",
+      "sourceUrl": "https://help.naturalreaders.com/en/articles/8854700-plans-pricing-personal-version",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-09"
+  },
+  "trint": {
+    "accessFr": "Plateforme Web de transcription et édition collaborative",
+    "accessEn": "Web transcription and collaborative editing platform",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Essai gratuit de sept jours suivi d'abonnements payants mensuels ou annuels.",
+      "en": "Seven-day free trial followed by paid monthly or annual subscriptions.",
+      "sourceUrl": "https://info.trint.com/knowledge/what-is-trints-7-day-free-trial-trint-help-center",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-09"
+  },
+  "wondercraft": {
+    "accessFr": "Studio Web de création audio et vidéo",
+    "accessEn": "Web audio and video creation studio",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Offre gratuite avec crédits, abonnements payants et achats de crédits supplémentaires.",
+      "en": "Free tier with credits, paid subscriptions and additional credit purchases.",
+      "sourceUrl": "https://www.wondercraft.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-09"
+  },
+  "cursor": {
+    "accessFr": "Éditeur de code pour ordinateur et fonctions agentiques",
+    "accessEn": "Desktop code editor with agent capabilities",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Accès Free avec quotas limités ; abonnements payants individuels et professionnels, modèles tiers pouvant être facturés à part.",
+      "en": "Free tier with limited usage; paid individual and team plans, with separate third-party model charges possible.",
+      "sourceUrl": "https://cursor.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-09"
+  },
+  "windsurf": {
+    "accessFr": "Éditeur de développement sur ordinateur",
+    "accessEn": "Desktop development editor",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Offre gratuite et abonnements Pro ou entreprise ; certaines capacités d'IA sont soumises à des quotas.",
+      "en": "Free plan and paid Pro or enterprise tiers; AI usage may be quota-limited.",
+      "sourceUrl": "https://windsurf.com/editor",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-09"
+  },
+  "cline": {
+    "accessFr": "Extension d'éditeur et outils d'automatisation de code",
+    "accessEn": "Editor extension and coding automation tools",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "open_source_and_paid",
+      "fr": "Extension open source sans frais de licence ; coûts des modèles ou abonnements optionnels distincts.",
+      "en": "Open-source extension without seat fees; model usage or optional subscriptions billed separately.",
+      "sourceUrl": "https://cline.bot/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-09"
+  },
+  "openai-codex": {
+    "accessFr": "Application et environnement Codex dans ChatGPT, interfaces de développement selon offre",
+    "accessEn": "Codex app and ChatGPT environment, developer interfaces depending on plan",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Codex est accessible selon les offres ChatGPT admissibles, avec quotas distincts ; l'usage API est facturé séparément.",
+      "en": "Codex is available under eligible ChatGPT plans with distinct limits; API usage is billed separately.",
+      "sourceUrl": "https://developers.openai.com/fr-FR/docs/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-09"
+  }
+}
