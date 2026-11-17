@@ -1,0 +1,32 @@
+{
+  "akool": {
+    "accessFr": "Studio de création vidéo et d’avatars accessible sur le Web ; API et options entreprises",
+    "accessEn": "Browser-based avatar and video creation studio; API and enterprise options",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Formule Free limitée, abonnements payants et offres entreprise personnalisées ; achats de crédits supplémentaires possibles.",
+      "en": "Limited Free plan, paid subscriptions and custom enterprise offers; additional credit packs available.",
+      "sourceUrl": "https://akool.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-27"
+  },
+  "vidnoz": {
+    "accessFr": "Plateforme Web de création de vidéos avec avatars IA et traduction",
+    "accessEn": "Web platform for AI avatar video creation and translation",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Formule gratuite avec limites et filigrane ; abonnements payants et crédits pour la production vidéo.",
+      "en": "Free plan with limits and watermark; paid subscriptions and video production credits.",
+      "sourceUrl": "https://www.vidnoz.com/pricing.html",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-27"
+  }
+}
