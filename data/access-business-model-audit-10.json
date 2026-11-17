@@ -1,0 +1,122 @@
+{
+  "grok": {
+    "accessFr": "Application Web Grok, applications mobiles et accès via X selon disponibilité",
+    "accessEn": "Grok web app, mobile apps and access through X where available",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Accès gratuit soumis à des limites ; forfaits SuperGrok et offres pour entreprises.",
+      "en": "Free access with limits; SuperGrok subscriptions and business offerings.",
+      "sourceUrl": "https://x.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-10"
+  },
+  "deepseek-chat": {
+    "accessFr": "Chat Web et application mobile DeepSeek ; API distincte pour les développeurs",
+    "accessEn": "DeepSeek web chat and mobile app; separate developer API",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Chat et application gratuits ; API facturée séparément selon l’utilisation.",
+      "en": "Free chat and mobile app; API billed separately by usage.",
+      "sourceUrl": "https://www.deepseek.com/en/download/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-10"
+  },
+  "qwen-chat": {
+    "accessFr": "Application Web Qwen, applications mobiles iOS et Android",
+    "accessEn": "Qwen web app and iOS/Android mobile apps",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "free",
+      "fr": "Assistant conversationnel annoncé gratuit sur le site officiel ; offres API et cloud distinctes.",
+      "en": "Conversational assistant described as free on its official site; separate cloud/API offerings.",
+      "sourceUrl": "https://qwen.ai/qwenchat",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-10"
+  },
+  "kimi": {
+    "accessFr": "Assistant Web sur kimi.com et application mobile ; produits spécialisés selon plateforme",
+    "accessEn": "Web assistant at kimi.com and mobile app; specialized products on their respective platforms",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Accès de base et abonnements payants à crédits pour les fonctions avancées ; conditions selon l’offre.",
+      "en": "Basic access and paid credit-based memberships for advanced features; terms depend on plan.",
+      "sourceUrl": "https://www.kimi.com/en/help/membership/membership-pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-10"
+  },
+  "meta-ai": {
+    "accessFr": "Site meta.ai et application Meta AI ; intégré à plusieurs services Meta selon pays",
+    "accessEn": "meta.ai website and Meta AI app; integrated into selected Meta services by region",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "free",
+      "fr": "Assistant gratuit selon la présentation officielle ; disponibilité et fonctionnalités variables selon le pays.",
+      "en": "Free assistant as described by Meta; availability and features vary by region.",
+      "sourceUrl": "https://ai.meta.com/meta-ai/assistant/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-10"
+  },
+  "character-ai": {
+    "accessFr": "Site Web Character.AI et applications iOS/Android",
+    "accessEn": "Character.AI website and iOS/Android apps",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Accès gratuit avec options d’abonnement (c.ai lite et c.ai+) ; prix selon la région.",
+      "en": "Free access with optional subscriptions (c.ai lite and c.ai+); regional prices vary.",
+      "sourceUrl": "https://support.character.ai/hc/en-us/articles/55845963766555-C-ai-FAQ",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-10"
+  },
+  "notebooklm": {
+    "accessFr": "Gemini Notebook (anciennement NotebookLM) sur le Web, intégré à Gemini et disponible sur mobile selon produit",
+    "accessEn": "Gemini Notebook (formerly NotebookLM) on the web, integrated with Gemini and available on mobile depending on product",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Accès de base avec limites ; niveaux d’utilisation supérieurs inclus dans les abonnements Google AI.",
+      "en": "Basic access with limits; higher usage allowances with Google AI subscriptions.",
+      "sourceUrl": "https://one.google.com/intl/en_en/about/google-ai-plans/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-10"
+  },
+  "brave-search-ai": {
+    "accessFr": "Fonction de réponse IA intégrée au moteur Brave Search sur le Web",
+    "accessEn": "AI answering feature integrated into Brave Search on the web",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "free",
+      "fr": "Réponses IA disponibles gratuitement dans Brave Search ; abonnement Premium facultatif pour une recherche sans publicité.",
+      "en": "AI answers available free in Brave Search; optional Premium subscription for ad-free search.",
+      "sourceUrl": "https://brave.com/search/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-10"
+  }
+}
