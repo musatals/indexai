@@ -1,0 +1,62 @@
+{
+  "adobe-express": {
+    "accessFr": "Éditeur graphique Adobe sur le Web, mobile et intégrations Adobe",
+    "accessEn": "Adobe graphics editor on web, mobile and Adobe integrations",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Adobe Express Free avec fonctionnalités limitées ; abonnement Premium et offres équipes.",
+      "en": "Adobe Express Free with limited features; Premium subscription and team plans.",
+      "sourceUrl": "https://www.adobe.com/express/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-38"
+  },
+  "kittl": {
+    "accessFr": "Studio de design et d’illustration dans le navigateur avec outils IA",
+    "accessEn": "Browser-based design and illustration studio with AI tools",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Offre Free pour découverte et projets personnels, abonnements Pro, Expert, Max et Business.",
+      "en": "Free tier for exploration and personal projects, Pro, Expert, Max and Business subscriptions.",
+      "sourceUrl": "https://www.kittl.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-38"
+  },
+  "visme": {
+    "accessFr": "Plateforme Web de création de contenus graphiques et présentations",
+    "accessEn": "Web platform for visual content and presentation creation",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Offre Basic gratuite ; niveaux Starter, Pro et Enterprise selon capacités et équipe.",
+      "en": "Free Basic plan; Starter, Pro and Enterprise tiers by features and team needs.",
+      "sourceUrl": "https://www.visme.co/pricing/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-38"
+  },
+  "gamma": {
+    "accessFr": "Plateforme Web de présentations et documents générés avec IA",
+    "accessEn": "Web AI-generated presentations and document platform",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Formule Free, niveaux payants pour davantage de crédits, de fonctions et d’accès API.",
+      "en": "Free plan, paid tiers for more credits, features and API access.",
+      "sourceUrl": "https://gamma.app/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-38"
+  }
+}
