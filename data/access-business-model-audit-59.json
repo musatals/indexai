@@ -1,0 +1,107 @@
+{
+  "airtable-ai": {
+    "accessFr": "Automatisations et fonctions IA dans Airtable Web et ses applications collaboratives.",
+    "accessEn": "AI features and automations in Airtable web and collaborative apps.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Crédits IA mensuels inclus dans les forfaits, y compris Free ; packs supplémentaires payants.",
+      "en": "Monthly AI credits included in all plans including Free; paid additional credit packs.",
+      "sourceUrl": "https://support.airtable.com/articles/3378106230-airtable-ai-billing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-59"
+  },
+  "asana-ai": {
+    "accessFr": "Fonctions IA intégrées aux projets et workflows Asana, Web et applications associées.",
+    "accessEn": "AI features inside Asana projects and workflows on web and apps.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Offre Asana Personal gratuite ; fonctions IA avancées et demandes IA selon les forfaits payants.",
+      "en": "Free Asana Personal plan; advanced AI features and requests depend on paid plans.",
+      "sourceUrl": "https://asana.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-59"
+  },
+  "monday-ai": {
+    "accessFr": "Fonctions et agents IA intégrés aux espaces de travail monday.com.",
+    "accessEn": "AI functions and agents inside monday.com workspaces.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Accès selon produit monday ; crédits IA partagés et packs supplémentaires selon abonnement.",
+      "en": "Available by monday product plan; pooled AI credits and additional packs by subscription.",
+      "sourceUrl": "https://support.monday.com/hc/en-us/articles/35277848309394-The-pricing-model-for-monday-AI-portfolio",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-59"
+  },
+  "slack-ai": {
+    "accessFr": "Recherche, résumés et assistant IA dans Slack, sur Web, bureau et mobile.",
+    "accessEn": "AI search, summaries and assistant within Slack on web, desktop and mobile.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Slack Free offre des fonctions limitées ; accès IA étendu selon Pro, Business+ et Enterprise+.",
+      "en": "Limited features on Slack Free; expanded AI by Pro, Business+ and Enterprise+ tiers.",
+      "sourceUrl": "https://slack.com/help/articles/25076892548883-Guide-to-AI-features-in-Slack",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-59"
+  },
+  "zoom-ai-companion": {
+    "accessFr": "Assistant de réunions Zoom Workplace et applications Zoom éligibles.",
+    "accessEn": "Meeting assistant within Zoom Workplace and eligible Zoom apps.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Inclus sans supplément dans certains services Zoom payants ; disponibilité et fonctions variables selon région et formule.",
+      "en": "Included without extra charge in certain paid Zoom services; features and regional availability vary.",
+      "sourceUrl": "https://www.zoom.com/en/products/collaboration-tools/zoom-workplace-pro/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-59"
+  },
+  "motion": {
+    "accessFr": "Plateforme Web et applications de planification automatique par IA pour calendriers et équipes.",
+    "accessEn": "Web and app platform for AI-powered scheduling and team planning.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Essai initial, puis abonnements selon nombre de membres et fonctions IA.",
+      "en": "Initial trial followed by subscriptions based on seats and AI features.",
+      "sourceUrl": "https://www.usemotion.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-59"
+  },
+  "sunsama": {
+    "accessFr": "Planification quotidienne Web et applications avec intégrations d'agendas et tâches.",
+    "accessEn": "Daily planning on web and apps with calendar and task integrations.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Essai gratuit de 14 jours puis abonnement ; pas de niveau gratuit permanent.",
+      "en": "14-day free trial then subscription; no permanent free tier.",
+      "sourceUrl": "https://www.sunsama.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-59"
+  }
+}
