@@ -1,0 +1,32 @@
+{
+  "davinci-resolve": {
+    "accessFr": "Logiciel de montage, étalonnage et postproduction sur Windows, macOS et Linux",
+    "accessEn": "Editing, color grading and postproduction software for Windows, macOS and Linux",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Version DaVinci Resolve gratuite ; DaVinci Resolve Studio payant avec fonctionnalités professionnelles supplémentaires.",
+      "en": "Free DaVinci Resolve version; paid Studio version with additional professional features.",
+      "sourceUrl": "https://www.blackmagicdesign.com/products/davinciresolve",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-20"
+  },
+  "kapwing": {
+    "accessFr": "Éditeur vidéo collaboratif accessible dans le navigateur",
+    "accessEn": "Collaborative browser-based video editor",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Offre gratuite limitée ; abonnements Pro et Business pour exportations et fonctionnalités avancées.",
+      "en": "Limited free plan; Pro and Business subscriptions for advanced exports and features.",
+      "sourceUrl": "https://www.kapwing.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-20"
+  }
+}
