@@ -1,0 +1,77 @@
+{
+  "aider": {
+    "accessFr": "Assistant de programmation open source exécuté dans le terminal, connecté à des modèles locaux ou cloud",
+    "accessEn": "Open-source terminal coding assistant connecting to local or cloud models",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "open_source",
+      "fr": "Logiciel gratuit et open source ; éventuels coûts des modèles API choisis séparément.",
+      "en": "Free and open-source software; model API costs may apply separately.",
+      "sourceUrl": "https://aider.chat/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-43"
+  },
+  "cline": {
+    "accessFr": "Extension de programmation agentique pour éditeurs de code, avec modèles sélectionnables",
+    "accessEn": "Agentic coding extension for code editors with selectable models",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "open_source_and_paid",
+      "fr": "Extension open source gratuite en usage individuel ; modèles API ou services d’équipe facturés séparément.",
+      "en": "Free open-source extension for individuals; model APIs or team services may incur charges.",
+      "sourceUrl": "https://cline.bot/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-43"
+  },
+  "openhands": {
+    "accessFr": "Agent de développement disponible en logiciel libre local ou service cloud",
+    "accessEn": "Coding agent offered as local open-source software or cloud service",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "open_source_and_paid",
+      "fr": "Version MIT locale gratuite ; offres cloud payantes et coûts de modèles distincts.",
+      "en": "Free MIT local edition; paid cloud offerings and separate model costs.",
+      "sourceUrl": "https://www.openhands.dev/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-43"
+  },
+  "coderabbit": {
+    "accessFr": "Revue de code IA via intégration GitHub/GitLab et services associés",
+    "accessEn": "AI code reviews through GitHub/GitLab integrations and associated services",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Essai et accès gratuit pour projets open source éligibles ; plans Essentials, Pro et entreprises payants.",
+      "en": "Trial and free usage for eligible open-source projects; paid Essentials, Pro and enterprise plans.",
+      "sourceUrl": "https://www.coderabbit.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-43"
+  },
+  "jetbrains-ai": {
+    "accessFr": "Assistant IA intégré aux IDE JetBrains et produits associés",
+    "accessEn": "AI assistant integrated into JetBrains IDEs and associated products",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Niveau AI Free et plans AI Pro, AI Ultimate et Enterprise avec crédits selon forfait.",
+      "en": "AI Free tier, with AI Pro, AI Ultimate and Enterprise plans and tiered credits.",
+      "sourceUrl": "https://www.jetbrains.com/store/ai/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-43"
+  }
+}
