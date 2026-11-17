@@ -1,0 +1,77 @@
+{
+  "fathom": {
+    "accessFr": "Assistant de réunion connecté à Zoom, Google Meet et Microsoft Teams, avec espace Web",
+    "accessEn": "Meeting assistant for Zoom, Google Meet and Microsoft Teams with web workspace",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Version individuelle gratuite, abonnements Premium, Team et Business avec fonctions supplémentaires.",
+      "en": "Free individual tier, plus Premium, Team and Business subscriptions with added features.",
+      "sourceUrl": "https://help.fathom.video/en/articles/729152",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-32"
+  },
+  "granola": {
+    "accessFr": "Application de prise de notes de réunion sur ordinateur et plateformes compatibles",
+    "accessEn": "Meeting notes application for desktop and supported platforms",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Plan gratuit limité, abonnements Business et Enterprise pour collaboration et fonctions avancées.",
+      "en": "Limited free plan, Business and Enterprise subscriptions for collaboration and advanced features.",
+      "sourceUrl": "https://www.granola.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-32"
+  },
+  "notta": {
+    "accessFr": "Service de transcription et notes IA sur le Web, ordinateur et applications mobiles",
+    "accessEn": "AI transcription and meeting notes on web, desktop and mobile apps",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Formules Free, Pro, Business et Enterprise avec quotas de transcription et fonctions différents.",
+      "en": "Free, Pro, Business and Enterprise plans with different transcription quotas and features.",
+      "sourceUrl": "https://www.notta.ai/en/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-32"
+  },
+  "sonix": {
+    "accessFr": "Plateforme Web de transcription, sous-titrage et traduction de fichiers audio et vidéo",
+    "accessEn": "Web platform for audio/video transcription, subtitles and translation",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "Paiement à l’heure de transcription sans abonnement dans l’offre Standard ; autres niveaux sur abonnement.",
+      "en": "Pay per transcription hour without subscription under Standard; other subscription tiers available.",
+      "sourceUrl": "https://sonix.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-32"
+  },
+  "trint": {
+    "accessFr": "Studio Web de transcription, traduction et collaboration sur médias",
+    "accessEn": "Web studio for media transcription, translation and collaboration",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Abonnements mensuels ou annuels, avec options de volume et d’archivage supplémentaires.",
+      "en": "Monthly or annual subscriptions, with additional volume and archive options.",
+      "sourceUrl": "https://app.trint.com/plans",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-32"
+  }
+}
