@@ -1,0 +1,184 @@
+{
+  "notion-ai": {
+    "accessFr": "Fonctions IA dans Notion sur Web, ordinateur et mobile, avec recherche et agents.",
+    "accessEn": "AI features inside Notion on web, desktop and mobile, including search and agents.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Fonctions avancées intégrées à Notion Business et Enterprise ; crédits spécifiques pour certains agents.",
+      "en": "Advanced features bundled with Notion Business and Enterprise; certain agents use separate credits.",
+      "sourceUrl": "https://www.notion.com/product/ai",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-58"
+  },
+  "microsoft-365-copilot": {
+    "accessFr": "Assistant intégré à Word, Excel, PowerPoint, Outlook et Teams pour comptes éligibles.",
+    "accessEn": "Assistant integrated into Word, Excel, PowerPoint, Outlook and Teams for eligible accounts.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Licence Microsoft 365 Copilot payante en complément d'un abonnement Microsoft 365 éligible.",
+      "en": "Paid Microsoft 365 Copilot license in addition to a qualifying Microsoft 365 subscription.",
+      "sourceUrl": "https://www.microsoft.com/en-us/microsoft-365-copilot/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-58"
+  },
+  "gemini-for-workspace": {
+    "accessFr": "Fonctions Gemini intégrées aux applications Google Workspace, selon édition et région.",
+    "accessEn": "Gemini features integrated with Google Workspace applications, depending on edition and region.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Fonctions Gemini incluses dans certaines éditions payantes Google Workspace ; capacités selon licence.",
+      "en": "Gemini features included in eligible paid Google Workspace editions; entitlements depend on license.",
+      "sourceUrl": "https://workspace.google.com/pricing.html",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-58"
+  },
+  "clickup-brain": {
+    "accessFr": "Assistant Brain dans ClickUp pour projets, documents, réunions et recherche.",
+    "accessEn": "Brain assistant inside ClickUp for projects, documents, meetings and search.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Fonctions ClickUp gratuites avec essai IA ; modules Brain AI et Everything AI payants selon forfait.",
+      "en": "Free ClickUp features with AI trial; Brain AI and Everything AI paid add-ons by tier.",
+      "sourceUrl": "https://clickup.com/brain/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-58"
+  },
+  "coda-ai": {
+    "accessFr": "Assistant intégré aux documents et tables Coda dans l'application Web.",
+    "accessEn": "Assistant integrated into Coda documents and tables in the web application.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Niveau Coda Free et crédits IA limités ; forfaits Pro, Team et Enterprise ou crédits IA additionnels.",
+      "en": "Coda Free tier with limited AI credits; Pro, Team, Enterprise and additional AI credit options.",
+      "sourceUrl": "https://help.coda.io/hc/en-us/articles/39555725230989-Billing-and-pricing-basics",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-58"
+  },
+  "mem": {
+    "accessFr": "Application de notes IA sur Web et macOS ; fermeture annoncée le 15 janvier 2027.",
+    "accessEn": "AI notes application on web and macOS; shutdown announced for January 15, 2027.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Abonnements antérieurs maintenus temporairement, facturation suspendue ; notes en lecture seule dès le 18 décembre 2026.",
+      "en": "Previous subscriptions temporarily honored with billing paused; notes become read-only December 18, 2026.",
+      "sourceUrl": "https://get.mem.ai/blog/mem-is-shutting-down",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-58",
+    "availabilityStatus": "sunsetting"
+  },
+  "clockwise": {
+    "accessFr": "Ancien outil d'optimisation d'agenda connecté à Google Calendar ; service fermé le 27 mars 2026.",
+    "accessEn": "Former Google Calendar scheduling optimizer; service shut down on March 27, 2026.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "discontinued",
+      "fr": "Service arrêté le 27 mars 2026 ; aucune formule commerciale active.",
+      "en": "Service discontinued March 27, 2026; no active commercial plan.",
+      "sourceUrl": "https://getclockwise.com/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-58",
+    "availabilityStatus": "discontinued"
+  },
+  "tana": {
+    "accessFr": "Tana Outliner pour prise de notes structurées et IA, sur Web et application compatible.",
+    "accessEn": "Tana Outliner for structured notes and AI on web and supported app.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Offre Outliner Free avec crédits IA, formules Plus et Pro payantes ; Tana Meetings est un produit distinct.",
+      "en": "Outliner Free tier with AI credits and paid Plus/Pro; Tana Meetings is a separate product.",
+      "sourceUrl": "https://outliner.tana.inc/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-58"
+  },
+  "capacities": {
+    "accessFr": "Espace de gestion des connaissances et notes connectées sur Web et applications.",
+    "accessEn": "Connected knowledge and notes workspace on web and apps.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Formule gratuite ; Capacities Pro et Believer, avec options Pro+ pour budgets IA élargis.",
+      "en": "Free tier; Capacities Pro and Believer, with optional Pro+ for larger AI budgets.",
+      "sourceUrl": "https://capacities.io/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-58"
+  },
+  "reclaim-ai": {
+    "accessFr": "Planification automatique de tâches et réunions sur calendriers connectés, via Web et applications.",
+    "accessEn": "Automatic task and meeting scheduling on connected calendars, via web and apps.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Niveau gratuit et formules payantes pour équipes, agents et automatisations supplémentaires.",
+      "en": "Free tier and paid team plans for more agents and automations.",
+      "sourceUrl": "https://reclaim.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-58"
+  },
+  "read-ai": {
+    "accessFr": "Assistant de réunions, recherche d'entreprise et comptes rendus sur Web et intégrations.",
+    "accessEn": "Web assistant for meetings, enterprise search and summaries, with integrations.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Plans Free, Pro, Enterprise et Enterprise+ avec quotas et fonctions distincts.",
+      "en": "Free, Pro, Enterprise and Enterprise+ tiers with differing allowances and capabilities.",
+      "sourceUrl": "https://www.read.ai/plans-pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-58"
+  },
+  "todoist-assist": {
+    "accessFr": "Fonctions IA de Todoist sur Web et applications pour planifier et organiser les tâches.",
+    "accessEn": "Todoist AI features on web and apps for planning and organizing tasks.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Fonctions de base disponibles gratuitement ; niveaux Todoist Pro et Business pour capacités avancées.",
+      "en": "Some basic AI functions free; Todoist Pro and Business for more advanced features.",
+      "sourceUrl": "https://www.todoist.com/pricing/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-58"
+  }
+}
