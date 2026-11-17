@@ -1,0 +1,107 @@
+{
+  "looka": {
+    "accessFr": "Générateur de logos et kits de marque sur le Web",
+    "accessEn": "Browser-based logo generator and brand kits",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Création et aperçu avant achat ; packages de logo à l’unité ou abonnement Brand Kit.",
+      "en": "Create and preview before purchase; one-time logo packages or Brand Kit subscription.",
+      "sourceUrl": "https://looka.com/pricing/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-39"
+  },
+  "logoai": {
+    "accessFr": "Création de logos et kit de marque accessible sur le Web",
+    "accessEn": "Web-based logo design and brand kit",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Génération et aperçu gratuits ; achat d’un forfait logo pour obtenir les fichiers et droits commerciaux.",
+      "en": "Free logo generation and preview; paid logo packages for downloads and commercial rights.",
+      "sourceUrl": "https://www.logoai.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-39"
+  },
+  "uizard": {
+    "accessFr": "Éditeur Web de maquettes UI et prototypes assistés par IA",
+    "accessEn": "Web AI-assisted UI mockup and prototyping editor",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Plan gratuit limité ; offres Pro et Business avec quotas de projets et fonctions avancées.",
+      "en": "Limited free tier; Pro and Business plans with project allowances and advanced features.",
+      "sourceUrl": "https://uizard.io/pricing/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-39"
+  },
+  "piktochart": {
+    "accessFr": "Éditeur Web d’infographies, présentations et visuels",
+    "accessEn": "Browser-based infographic, presentation and visual editor",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Offre gratuite ; abonnements payants pour exports, identité de marque et capacités avancées.",
+      "en": "Free tier; paid subscriptions for exports, branding and advanced capabilities.",
+      "sourceUrl": "https://piktochart.com/pricing/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-39"
+  },
+  "beautiful-ai": {
+    "accessFr": "Studio de présentations Web collaboratif avec fonctions de génération IA",
+    "accessEn": "Collaborative web presentation studio with AI generation",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Essai gratuit de 14 jours puis abonnements Pro, Team et offres entreprise.",
+      "en": "14-day free trial followed by Pro, Team and enterprise subscriptions.",
+      "sourceUrl": "https://www.beautiful.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-39"
+  },
+  "pitch": {
+    "accessFr": "Plateforme Web de présentations collaboratives et outils de création IA",
+    "accessEn": "Web collaborative presentation platform with AI creation tools",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Offre Free et abonnements payants par utilisateur, selon quotas et collaboration.",
+      "en": "Free plan and paid per-seat subscriptions varying by usage and collaboration.",
+      "sourceUrl": "https://pitch.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-39"
+  },
+  "slidesai": {
+    "accessFr": "Extension Google Slides et outils de présentation IA",
+    "accessEn": "Google Slides add-on and AI presentation tools",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Crédits gratuits mensuels, puis offres Pro et Premium avec plafonds supérieurs.",
+      "en": "Monthly free credits, then Pro and Premium plans with higher limits.",
+      "sourceUrl": "https://help.slidesai.io/how-credits-work-ud9z5",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-39"
+  }
+}
