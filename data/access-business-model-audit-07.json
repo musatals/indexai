@@ -1,0 +1,182 @@
+{
+  "whisper": {
+    "accessFr": "Code source GitHub et exécution locale",
+    "accessEn": "GitHub repository and local inference",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "open_source",
+      "fr": "Code et poids de modèles Whisper sous licence MIT ; le coût du calcul local est distinct de la facturation des API hébergées.",
+      "en": "Whisper code and model weights licensed under MIT; local compute costs are separate from hosted API charges.",
+      "sourceUrl": "https://github.com/openai/whisper",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-07"
+  },
+  "demucs": {
+    "accessFr": "Code source GitHub et exécution locale",
+    "accessEn": "GitHub code and local execution",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "open_source",
+      "fr": "Code Demucs sous licence MIT ; dépôt de référence archivé, sans abonnement commercial propre au projet.",
+      "en": "Demucs code under MIT license; reference repository archived, with no project-specific commercial subscription.",
+      "sourceUrl": "https://github.com/facebookresearch/demucs",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-07"
+  },
+  "ultimate-vocal-remover": {
+    "accessFr": "Logiciel de bureau et code GitHub",
+    "accessEn": "Desktop software and GitHub code",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "open_source",
+      "fr": "Application gratuite et code de l'interface sous licence MIT ; vérifier séparément les licences des modèles employés.",
+      "en": "Free application and MIT-licensed GUI source; model licenses must be checked separately.",
+      "sourceUrl": "https://github.com/Anjok07/ultimatevocalremovergui",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-07"
+  },
+  "auphonic": {
+    "accessFr": "Application Web et API",
+    "accessEn": "Web application and API",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Traitement gratuit dans une limite mensuelle ; abonnements ou crédits supplémentaires payants.",
+      "en": "Free processing within a monthly allowance; paid plans or extra credits.",
+      "sourceUrl": "https://auphonic.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-07"
+  },
+  "adobe-podcast": {
+    "accessFr": "Éditeur et outils audio sur le Web",
+    "accessEn": "Web audio editing and enhancement tools",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Fonctions audio gratuites limitées et Adobe Podcast Premium inclus dans une offre Adobe Firefly payante.",
+      "en": "Limited free audio features with Adobe Podcast Premium available through a paid Adobe Firefly plan.",
+      "sourceUrl": "https://podcast.adobe.com/en/plans",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-07"
+  },
+  "assemblyai": {
+    "accessFr": "API de transcription et services vocaux",
+    "accessEn": "Speech-to-text and voice APIs",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "Crédits d’essai à l'inscription puis facturation API à l’usage, avec options entreprise.",
+      "en": "Trial credits on signup followed by usage-based API billing, with enterprise options.",
+      "sourceUrl": "https://www.assemblyai.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-07"
+  },
+  "deepgram": {
+    "accessFr": "API de transcription, synthèse vocale et agents vocaux",
+    "accessEn": "Speech recognition, synthesis and voice-agent APIs",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "Crédits gratuits de démarrage puis paiement à l’usage ; contrats Growth et Enterprise selon besoins.",
+      "en": "Initial free credits then pay-as-you-go, with Growth and Enterprise arrangements.",
+      "sourceUrl": "https://deepgram.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-07"
+  },
+  "gladia": {
+    "accessFr": "API de transcription audio en temps réel ou différé",
+    "accessEn": "Real-time and asynchronous transcription APIs",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "Crédits de découverte puis paiement à l’usage selon la quantité audio traitée ; offres entreprise distinctes.",
+      "en": "Introductory credits followed by pay-as-you-go based on audio processed; separate enterprise options.",
+      "sourceUrl": "https://support.gladia.io/article/credit-based-billing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-07"
+  },
+  "google-cloud-text-to-speech": {
+    "accessFr": "API Cloud et console Google Cloud",
+    "accessEn": "Cloud API and Google Cloud console",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "API Google Cloud facturée à l’usage avec quota gratuit selon modèle et conditions du compte de facturation.",
+      "en": "Google Cloud API billed by usage, with model-dependent free quota and billing account requirements.",
+      "sourceUrl": "https://cloud.google.com/text-to-speech/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-07"
+  },
+  "amazon-polly": {
+    "accessFr": "Service AWS avec console, SDK et API",
+    "accessEn": "AWS service with console, SDK and API",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "Facturation AWS à l’usage ; crédits promotionnels ou de démarrage possibles selon admissibilité.",
+      "en": "AWS pay-as-you-go billing; introductory or promotional credits may apply.",
+      "sourceUrl": "https://aws.amazon.com/polly/pricing/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-07"
+  },
+  "azure-ai-speech": {
+    "accessFr": "Service Azure avec API et SDK Speech",
+    "accessEn": "Azure Speech API and SDK",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "Niveau gratuit F0 limité et niveau Standard S0 facturé selon utilisation et fonctionnalités.",
+      "en": "Limited F0 free tier and usage-based Standard S0 tier.",
+      "sourceUrl": "https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speech-services-quotas-and-limits",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-07"
+  },
+  "openai-tts": {
+    "accessFr": "API OpenAI pour synthèse vocale",
+    "accessEn": "OpenAI speech-generation API",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "Modèles de synthèse vocale accessibles via l’API OpenAI, facturés selon les règles et volumes des modèles.",
+      "en": "Text-to-speech models through OpenAI API with usage-based model billing.",
+      "sourceUrl": "https://platform.openai.com/pricing/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-07"
+  }
+}
