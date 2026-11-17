@@ -1,0 +1,122 @@
+{
+  "smartcat": {
+    "accessFr": "Plateforme cloud de traduction et workflows d’agents IA pour équipes",
+    "accessEn": "Cloud translation and AI-agent workflow platform for teams",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Offres commerciales pour équipes et entreprises, capacité et périmètre selon le plan ou devis.",
+      "en": "Commercial team and enterprise plans, with scope and capacity depending on plan or quote.",
+      "sourceUrl": "https://www.smartcat.com/pricing/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-16"
+  },
+  "lokalise": {
+    "accessFr": "Plateforme Web de localisation de logiciels avec intégrations et API",
+    "accessEn": "Web software localization platform with integrations and API",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Essai de 14 jours puis abonnements Explorer, Growth et Advanced, ou offre entreprise.",
+      "en": "14-day trial followed by Explorer, Growth and Advanced plans, or enterprise offer.",
+      "sourceUrl": "https://lokalise.com/pricing/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-16"
+  },
+  "crowdin": {
+    "accessFr": "Application cloud de localisation collaborative avec API et intégrations",
+    "accessEn": "Cloud collaborative localization app with API and integrations",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Offres payantes pour équipes ; accès gratuit pour projets open source ou associatifs admissibles.",
+      "en": "Paid team plans; free access for eligible open-source or nonprofit projects.",
+      "sourceUrl": "https://crowdin.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-16"
+  },
+  "unbabel": {
+    "accessFr": "Plateforme de traduction et localisation gérée pour entreprises, intégrations sur demande",
+    "accessEn": "Managed enterprise translation and localization platform, integrations by agreement",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Offres commerciales personnalisées, tarif communiqué sur devis selon les besoins.",
+      "en": "Custom commercial packages with quote-based pricing based on requirements.",
+      "sourceUrl": "https://unbabel.com/contact-us/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-16"
+  },
+  "rask-ai": {
+    "accessFr": "Studio Web de traduction et doublage vidéo assistés par IA",
+    "accessEn": "Web studio for AI-assisted video translation and dubbing",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Essai limité puis abonnements calculés notamment sur les minutes de vidéo ; offre entreprise personnalisée.",
+      "en": "Limited trial then paid plans based in part on video minutes; custom enterprise tier.",
+      "sourceUrl": "https://www.rask.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-16"
+  },
+  "papercup": {
+    "accessFr": "Service professionnel de doublage vidéo assisté par IA avec prestation de localisation",
+    "accessEn": "Professional AI-assisted video dubbing service with localization services",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Tarif par minute de contenu avec ajustements spécifiques au projet, sur proposition commerciale.",
+      "en": "Per-minute content pricing with project-specific adjustments by commercial proposal.",
+      "sourceUrl": "https://staging.papercup.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-16"
+  },
+  "elevenlabs-dubbing": {
+    "accessFr": "Dubbing Studio Web pour fichiers audio et vidéo ; API de doublage",
+    "accessEn": "Web Dubbing Studio for audio and video files; dubbing API",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "Doublage facturé selon les minutes de contenu source, la langue cible et le modèle ; crédits selon formule.",
+      "en": "Dubbing billed by source minutes, target languages and model; credits vary by plan.",
+      "sourceUrl": "https://elevenlabs.io/docs/help-center/product/dubbing/how-much-does-dubbing-cost",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-16"
+  },
+  "heygen-translate": {
+    "accessFr": "Traduction vidéo dans l’application HeyGen sur le Web et via API selon plan",
+    "accessEn": "Video translation in HeyGen web app and API depending on plan",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Essai et crédits selon forfait ; génération et traduction vidéo consomment des crédits suivant le mode choisi.",
+      "en": "Trial and plan-dependent credits; video generation and translation consume credits according to mode.",
+      "sourceUrl": "https://help.heygen.com/en/articles/15125761-heygen-credit-based-pricing-plans-subscriptions-explained",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-16"
+  }
+}
