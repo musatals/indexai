@@ -1,0 +1,122 @@
+{
+  "salesforce-einstein": {
+    "accessFr": "Fonctions IA Einstein intégrées au CRM Salesforce Sales Cloud et aux applications compatibles.",
+    "accessEn": "Einstein AI features integrated into Salesforce Sales Cloud CRM and supported applications.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Fonctions selon éditions Salesforce ; incluses dans certaines éditions Unlimited ou proposées en complément payant.",
+      "en": "Features vary by Salesforce edition; bundled in some Unlimited tiers or available as paid add-ons.",
+      "sourceUrl": "https://help.salesforce.com/s/articleView?id=sf.einstein_sales.htm&type=5",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-60"
+  },
+  "gong": {
+    "accessFr": "Plateforme Web d'intelligence commerciale, d'analyse de conversations et de prévision de revenus.",
+    "accessEn": "Web revenue intelligence, conversation analytics and forecasting platform.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Contrat de plateforme avec licences utilisateurs et éventuels crédits Gong supplémentaires.",
+      "en": "Platform contract with user licenses and additional Gong credits where applicable.",
+      "sourceUrl": "https://www.gong.io/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-60"
+  },
+  "apollo": {
+    "accessFr": "Plateforme Web et extensions de prospection, données B2B et engagement commercial.",
+    "accessEn": "Web platform and extensions for B2B prospecting data and sales engagement.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Plan Free puis Basic, Professional et Organization ; données et enrichissements soumis à crédits.",
+      "en": "Free plan followed by Basic, Professional and Organization; data and enrichment use credits.",
+      "sourceUrl": "https://www.apollo.io/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-60"
+  },
+  "clay": {
+    "accessFr": "Plateforme Web d'enrichissement de contacts et automatisation commerciale avec IA.",
+    "accessEn": "Web platform for lead enrichment and AI-assisted sales automation.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Plan Free, niveaux Launch et Growth, offre Enterprise ; crédits pour données et enrichissements.",
+      "en": "Free, Launch and Growth plans, Enterprise offer; credits for data and enrichment.",
+      "sourceUrl": "https://www.clay.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-60"
+  },
+  "6sense": {
+    "accessFr": "Suite Web d'intelligence sur les comptes B2B, signaux d'intention et priorisation commerciale.",
+    "accessEn": "Web suite for B2B account intelligence, intent signals and sales prioritization.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Offres Revenue Marketing, Sales Intelligence et Intelligence configurées sur devis.",
+      "en": "Revenue Marketing, Sales Intelligence and Intelligence offerings quoted to requirements.",
+      "sourceUrl": "https://6sense.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-60"
+  },
+  "reply-io": {
+    "accessFr": "Plateforme Web de prospection multicanale avec agents commerciaux IA et intégrations CRM.",
+    "accessEn": "Web multichannel outreach platform with AI sales agents and CRM integrations.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Abonnements d'engagement commercial et modules AI SDR selon nombre de contacts, canaux et crédits.",
+      "en": "Sales engagement subscriptions and AI SDR modules by contacts, channels and credits.",
+      "sourceUrl": "https://reply.io/pricing/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-60"
+  },
+  "instantly": {
+    "accessFr": "Plateforme Web d'email sortant, recherche de prospects et agents commerciaux.",
+    "accessEn": "Web outbound email, lead discovery and sales-agent platform.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Abonnements séparés pour emailing, recherche de prospects et fonctionnalités CRM ; crédits IA additionnels.",
+      "en": "Separate subscriptions for email outreach, lead discovery and CRM features; additional AI credits.",
+      "sourceUrl": "https://instantly.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-60"
+  },
+  "regie-ai": {
+    "accessFr": "RegieGO, plateforme Web de prospection et génération d'emails IA pour équipes commerciales.",
+    "accessEn": "RegieGO web platform for AI sales prospecting and email generation.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Plan gratuit de découverte ; offres Pro et Team avec sièges et crédits partagés selon formule.",
+      "en": "Free discovery tier; Pro and Team plans with seats and pooled credits.",
+      "sourceUrl": "https://regie.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-60"
+  }
+}
