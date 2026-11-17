@@ -1,0 +1,47 @@
+{
+  "amazon-polly": {
+    "accessFr": "API Amazon Polly via AWS Console, SDK et services cloud",
+    "accessEn": "Amazon Polly API via AWS Console, SDKs and cloud services",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "Facturation à l’usage selon le nombre de caractères convertis et le moteur vocal ; crédits AWS éventuels pour nouveaux comptes.",
+      "en": "Usage-based billing by characters converted and voice engine; eligible new-account AWS credits.",
+      "sourceUrl": "https://aws.amazon.com/polly/pricing/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-30"
+  },
+  "gladia": {
+    "accessFr": "API cloud de transcription audio et vidéo, temps réel et asynchrone",
+    "accessEn": "Cloud audio/video transcription API for real-time and asynchronous jobs",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "Tarif selon les heures d’audio traitées et le mode, crédits d’essai et contrats annuels possibles.",
+      "en": "Pricing by processed audio hours and mode, with trial credits and optional annual agreements.",
+      "sourceUrl": "https://www.gladia.io/product/speech-to-text-api",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-30"
+  },
+  "meetgeek": {
+    "accessFr": "Assistant de réunions sur le Web pour Zoom, Meet et Teams, intégrations selon formule",
+    "accessEn": "Web meeting assistant for Zoom, Meet and Teams with plan-based integrations",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Offre Free permanente, puis forfaits Pro et Business et fonctionnalités entreprise.",
+      "en": "Permanent Free plan, followed by Pro and Business tiers and enterprise features.",
+      "sourceUrl": "https://meetgeek.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-30"
+  }
+}
