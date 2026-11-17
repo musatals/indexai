@@ -1,0 +1,554 @@
+{
+  "promptfoo": {
+    "descriptionFr": "Framework open source d'évaluation d'applications LLM et de red teaming, avec assertions, jeux de tests, comparaisons et intégration CI/CD.",
+    "descriptionEn": "Open-source framework for LLM application evaluation and red teaming with assertions, test cases, comparisons and CI/CD integration.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Comparaison de prompts, modèles et configurations",
+      "Assertions et tests reproductibles via CLI",
+      "Génération et exécution de scénarios de red teaming"
+    ],
+    "featuresEn": [
+      "Prompt, model and configuration comparison",
+      "Reproducible assertions and CLI evaluations",
+      "Red team scenario generation and execution"
+    ],
+    "accessFr": "Bibliothèque open source, SaaS, extension ou infrastructure selon le produit",
+    "accessEn": "Open-source library, SaaS, extension or infrastructure depending on product",
+    "officialSources": [
+      {
+        "url": "https://www.promptfoo.dev/docs/red-team/configuration/",
+        "checkedAt": "2026-11-17",
+        "scope": "product_capabilities_status_and_limitations"
+      }
+    ],
+    "research": {
+      "headline": "Framework open source d'évaluation d'applications LLM et de red teaming, avec assertions, jeux de tests, comparaisons et intégration CI/CD.",
+      "audiences": [
+        "Équipes de développement LLM et responsables qualité",
+        "Évaluateurs, chercheurs et responsables sécurité IA"
+      ],
+      "cases": [
+        "Évaluer un assistant RAG avant publication, puis automatiser les régressions sur la chaîne de développement.",
+        "Comparer les résultats à une référence avec échantillons représentatifs, seuils, journalisation et validation humaine."
+      ],
+      "advantages": [
+        "Comparaison de prompts, modèles et configurations",
+        "Assertions et tests reproductibles via CLI",
+        "Génération et exécution de scénarios de red teaming"
+      ],
+      "limits": [
+        "Les scans ne prouvent pas l'absence de vulnérabilités ; confirmer les résultats manuellement, contrôler les coûts des appels modèles et n'évaluer que les systèmes autorisés.",
+        "Un score élevé ou un scan sans alerte ne garantit ni sûreté, ni justesse, ni conformité pour tous les utilisateurs."
+      ],
+      "gettingStarted": [
+        "Identifier la question de test, les systèmes autorisés et les critères mesurables.",
+        "Créer un échantillon de référence, exécuter les essais en environnement contrôlé et inspecter les échecs."
+      ],
+      "examples": [
+        "Compare deux versions d'un assistant sur exactitude, stabilité, coûts et latence avec revue humaine des divergences.",
+        "Établis un tableau des cas d'échec, de leurs causes probables et de tests de non-régression."
+      ],
+      "pricing": "Vérifier licences, quotas, forfaits, coût d'API et frais des modèles évalués sur le site du fournisseur.",
+      "privacy": "Éviter d'envoyer secrets, données personnelles ou contenus de production non autorisés vers les fournisseurs de tests et de modèles ; masquer les journaux.",
+      "selection": [
+        "Choisir selon l'objectif : bibliothèque de prompts, tests fonctionnels, audit de sûreté, observabilité ou pilotage opérationnel."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "active",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.promptfoo.dev/docs/red-team/configuration/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "portkey": {
+    "descriptionFr": "Passerelle d'IA pour router des appels entre fournisseurs de modèles, observer les requêtes et appliquer des contrôles opérationnels.",
+    "descriptionEn": "AI gateway for routing calls among model providers, observing requests and applying operational controls.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Gateway compatible avec plusieurs fournisseurs de modèles",
+      "Observabilité des requêtes, coûts et latences",
+      "Garde-fous, routage et fiabilité opérationnelle"
+    ],
+    "featuresEn": [
+      "Multi-provider AI gateway",
+      "Request, cost and latency observability",
+      "Guardrails, routing and operational reliability"
+    ],
+    "accessFr": "Bibliothèque open source, SaaS, extension ou infrastructure selon le produit",
+    "accessEn": "Open-source library, SaaS, extension or infrastructure depending on product",
+    "officialSources": [
+      {
+        "url": "https://portkey.ai/pricing",
+        "checkedAt": "2026-11-17",
+        "scope": "product_capabilities_status_and_limitations"
+      }
+    ],
+    "research": {
+      "headline": "Passerelle d'IA pour router des appels entre fournisseurs de modèles, observer les requêtes et appliquer des contrôles opérationnels.",
+      "audiences": [
+        "Équipes de développement LLM et responsables qualité",
+        "Évaluateurs, chercheurs et responsables sécurité IA"
+      ],
+      "cases": [
+        "Comparer l'incidence d'une nouvelle politique de routage sur les coûts, erreurs et latence d'une application.",
+        "Comparer les résultats à une référence avec échantillons représentatifs, seuils, journalisation et validation humaine."
+      ],
+      "advantages": [
+        "Gateway compatible avec plusieurs fournisseurs de modèles",
+        "Observabilité des requêtes, coûts et latences",
+        "Garde-fous, routage et fiabilité opérationnelle"
+      ],
+      "limits": [
+        "Portkey est d'abord une infrastructure d'exécution et de gouvernance, pas un framework spécialisé de red teaming ; vérifier les capacités incluses dans chaque forfait.",
+        "Un score élevé ou un scan sans alerte ne garantit ni sûreté, ni justesse, ni conformité pour tous les utilisateurs."
+      ],
+      "gettingStarted": [
+        "Identifier la question de test, les systèmes autorisés et les critères mesurables.",
+        "Créer un échantillon de référence, exécuter les essais en environnement contrôlé et inspecter les échecs."
+      ],
+      "examples": [
+        "Compare deux versions d'un assistant sur exactitude, stabilité, coûts et latence avec revue humaine des divergences.",
+        "Établis un tableau des cas d'échec, de leurs causes probables et de tests de non-régression."
+      ],
+      "pricing": "Vérifier licences, quotas, forfaits, coût d'API et frais des modèles évalués sur le site du fournisseur.",
+      "privacy": "Éviter d'envoyer secrets, données personnelles ou contenus de production non autorisés vers les fournisseurs de tests et de modèles ; masquer les journaux.",
+      "selection": [
+        "Choisir selon l'objectif : bibliothèque de prompts, tests fonctionnels, audit de sûreté, observabilité ou pilotage opérationnel."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "active",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://portkey.ai/pricing",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "openai-evals": {
+    "descriptionFr": "Framework open source OpenAI Evals pour décrire et exécuter des évaluations de modèles et partager des jeux de tests.",
+    "descriptionEn": "Open-source OpenAI Evals framework for specifying and running model evaluations and sharing test suites.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Jeux d'évaluation et critères de notation",
+      "Évaluation de performances de modèles et réponses",
+      "Répertoire open source de tâches de référence"
+    ],
+    "featuresEn": [
+      "Evaluation datasets and scoring",
+      "Model and response performance evaluation",
+      "Open-source reference task repository"
+    ],
+    "accessFr": "Bibliothèque open source, SaaS, extension ou infrastructure selon le produit",
+    "accessEn": "Open-source library, SaaS, extension or infrastructure depending on product",
+    "officialSources": [
+      {
+        "url": "https://github.com/openai/evals",
+        "checkedAt": "2026-11-17",
+        "scope": "product_capabilities_status_and_limitations"
+      }
+    ],
+    "research": {
+      "headline": "Framework open source OpenAI Evals pour décrire et exécuter des évaluations de modèles et partager des jeux de tests.",
+      "audiences": [
+        "Équipes de développement LLM et responsables qualité",
+        "Évaluateurs, chercheurs et responsables sécurité IA"
+      ],
+      "cases": [
+        "Exécuter des jeux de questions représentatives sur plusieurs versions d'un modèle et comparer les résultats.",
+        "Comparer les résultats à une référence avec échantillons représentatifs, seuils, journalisation et validation humaine."
+      ],
+      "advantages": [
+        "Jeux d'évaluation et critères de notation",
+        "Évaluation de performances de modèles et réponses",
+        "Répertoire open source de tâches de référence"
+      ],
+      "limits": [
+        "Distinguer ce dépôt open source de l'expérience hébergée d'évaluation de la plateforme OpenAI ; vérifier les mises à jour des API et dépendances.",
+        "Un score élevé ou un scan sans alerte ne garantit ni sûreté, ni justesse, ni conformité pour tous les utilisateurs."
+      ],
+      "gettingStarted": [
+        "Identifier la question de test, les systèmes autorisés et les critères mesurables.",
+        "Créer un échantillon de référence, exécuter les essais en environnement contrôlé et inspecter les échecs."
+      ],
+      "examples": [
+        "Compare deux versions d'un assistant sur exactitude, stabilité, coûts et latence avec revue humaine des divergences.",
+        "Établis un tableau des cas d'échec, de leurs causes probables et de tests de non-régression."
+      ],
+      "pricing": "Vérifier licences, quotas, forfaits, coût d'API et frais des modèles évalués sur le site du fournisseur.",
+      "privacy": "Éviter d'envoyer secrets, données personnelles ou contenus de production non autorisés vers les fournisseurs de tests et de modèles ; masquer les journaux.",
+      "selection": [
+        "Choisir selon l'objectif : bibliothèque de prompts, tests fonctionnels, audit de sûreté, observabilité ou pilotage opérationnel."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "active_repository",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://github.com/openai/evals",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "inspect-ai": {
+    "descriptionFr": "Framework d'évaluation open source Inspect AI, développé par l'AI Security Institute britannique et Meridian Labs pour tester modèles et agents.",
+    "descriptionEn": "Open-source Inspect AI evaluation framework developed by the UK AI Security Institute and Meridian Labs to test models and agents.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Définition de tâches par dataset, solver et scorer",
+      "Évaluation d'agents et de tâches multi-étapes",
+      "Journalisation, limites de coût et outils de comparaison"
+    ],
+    "featuresEn": [
+      "Tasks combining dataset, solver and scorer",
+      "Agent and multi-step task evaluation",
+      "Logging, cost limits and comparison tools"
+    ],
+    "accessFr": "Bibliothèque open source, SaaS, extension ou infrastructure selon le produit",
+    "accessEn": "Open-source library, SaaS, extension or infrastructure depending on product",
+    "officialSources": [
+      {
+        "url": "https://inspect.aisi.org.uk/tutorial.html",
+        "checkedAt": "2026-11-17",
+        "scope": "product_capabilities_status_and_limitations"
+      }
+    ],
+    "research": {
+      "headline": "Framework d'évaluation open source Inspect AI, développé par l'AI Security Institute britannique et Meridian Labs pour tester modèles et agents.",
+      "audiences": [
+        "Équipes de développement LLM et responsables qualité",
+        "Évaluateurs, chercheurs et responsables sécurité IA"
+      ],
+      "cases": [
+        "Évaluer la robustesse d'un agent face à des tâches multi-étapes dans un environnement d'essai contrôlé.",
+        "Comparer les résultats à une référence avec échantillons représentatifs, seuils, journalisation et validation humaine."
+      ],
+      "advantages": [
+        "Définition de tâches par dataset, solver et scorer",
+        "Évaluation d'agents et de tâches multi-étapes",
+        "Journalisation, limites de coût et outils de comparaison"
+      ],
+      "limits": [
+        "Les scores dépendent des tâches, données et méthodes de notation choisies ; répliquer les tests et documenter les échecs environnementaux.",
+        "Un score élevé ou un scan sans alerte ne garantit ni sûreté, ni justesse, ni conformité pour tous les utilisateurs."
+      ],
+      "gettingStarted": [
+        "Identifier la question de test, les systèmes autorisés et les critères mesurables.",
+        "Créer un échantillon de référence, exécuter les essais en environnement contrôlé et inspecter les échecs."
+      ],
+      "examples": [
+        "Compare deux versions d'un assistant sur exactitude, stabilité, coûts et latence avec revue humaine des divergences.",
+        "Établis un tableau des cas d'échec, de leurs causes probables et de tests de non-régression."
+      ],
+      "pricing": "Vérifier licences, quotas, forfaits, coût d'API et frais des modèles évalués sur le site du fournisseur.",
+      "privacy": "Éviter d'envoyer secrets, données personnelles ou contenus de production non autorisés vers les fournisseurs de tests et de modèles ; masquer les journaux.",
+      "selection": [
+        "Choisir selon l'objectif : bibliothèque de prompts, tests fonctionnels, audit de sûreté, observabilité ou pilotage opérationnel."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "active",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://inspect.aisi.org.uk/tutorial.html",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "garak": {
+    "descriptionFr": "Scanner open source de vulnérabilités des modèles de langage, recherchant notamment des risques d'injection de prompt et de contournement de garde-fous.",
+    "descriptionEn": "Open-source LLM vulnerability scanner probing issues such as prompt injection and guardrail bypass.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Sondes pour vulnérabilités propres aux LLM",
+      "Tests de robustesse sur modèles pris en charge",
+      "Journalisation et rapports des résultats de sondes"
+    ],
+    "featuresEn": [
+      "LLM-specific vulnerability probes",
+      "Robustness tests across supported models",
+      "Probe result logging and reporting"
+    ],
+    "accessFr": "Bibliothèque open source, SaaS, extension ou infrastructure selon le produit",
+    "accessEn": "Open-source library, SaaS, extension or infrastructure depending on product",
+    "officialSources": [
+      {
+        "url": "https://docs.garak.ai/garak/overview/our-features",
+        "checkedAt": "2026-11-17",
+        "scope": "product_capabilities_status_and_limitations"
+      }
+    ],
+    "research": {
+      "headline": "Scanner open source de vulnérabilités des modèles de langage, recherchant notamment des risques d'injection de prompt et de contournement de garde-fous.",
+      "audiences": [
+        "Équipes de développement LLM et responsables qualité",
+        "Évaluateurs, chercheurs et responsables sécurité IA"
+      ],
+      "cases": [
+        "Détecter des faiblesses connues dans un modèle d'assistance avant son intégration à un produit.",
+        "Comparer les résultats à une référence avec échantillons représentatifs, seuils, journalisation et validation humaine."
+      ],
+      "advantages": [
+        "Sondes pour vulnérabilités propres aux LLM",
+        "Tests de robustesse sur modèles pris en charge",
+        "Journalisation et rapports des résultats de sondes"
+      ],
+      "limits": [
+        "Les résultats sont probabilistes et ne remplacent pas un audit de sécurité complet ; conserver les scénarios dans un environnement autorisé.",
+        "Un score élevé ou un scan sans alerte ne garantit ni sûreté, ni justesse, ni conformité pour tous les utilisateurs."
+      ],
+      "gettingStarted": [
+        "Identifier la question de test, les systèmes autorisés et les critères mesurables.",
+        "Créer un échantillon de référence, exécuter les essais en environnement contrôlé et inspecter les échecs."
+      ],
+      "examples": [
+        "Compare deux versions d'un assistant sur exactitude, stabilité, coûts et latence avec revue humaine des divergences.",
+        "Établis un tableau des cas d'échec, de leurs causes probables et de tests de non-régression."
+      ],
+      "pricing": "Vérifier licences, quotas, forfaits, coût d'API et frais des modèles évalués sur le site du fournisseur.",
+      "privacy": "Éviter d'envoyer secrets, données personnelles ou contenus de production non autorisés vers les fournisseurs de tests et de modèles ; masquer les journaux.",
+      "selection": [
+        "Choisir selon l'objectif : bibliothèque de prompts, tests fonctionnels, audit de sûreté, observabilité ou pilotage opérationnel."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "active",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.garak.ai/garak/overview/our-features",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "pyrit": {
+    "descriptionFr": "Toolkit open source Microsoft PyRIT de red teaming pour identifier les risques des systèmes d'IA générative au moyen de scans, de scénarios adaptatifs et de tests humains.",
+    "descriptionEn": "Microsoft's open-source PyRIT red teaming toolkit for identifying generative AI risks with scans, adaptive scenarios and human-led testing.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Scans automatisés et tests adversariaux multi-tours",
+      "Connecteurs vers modèles et services compatibles",
+      "Workflows de red teaming et analyse des résultats"
+    ],
+    "featuresEn": [
+      "Automated scans and adaptive multi-turn tests",
+      "Connectors to supported models and services",
+      "Red team workflows and result analysis"
+    ],
+    "accessFr": "Bibliothèque open source, SaaS, extension ou infrastructure selon le produit",
+    "accessEn": "Open-source library, SaaS, extension or infrastructure depending on product",
+    "officialSources": [
+      {
+        "url": "https://github.com/microsoft/PyRIT",
+        "checkedAt": "2026-11-17",
+        "scope": "product_capabilities_status_and_limitations"
+      }
+    ],
+    "research": {
+      "headline": "Toolkit open source Microsoft PyRIT de red teaming pour identifier les risques des systèmes d'IA générative au moyen de scans, de scénarios adaptatifs et de tests humains.",
+      "audiences": [
+        "Équipes de développement LLM et responsables qualité",
+        "Évaluateurs, chercheurs et responsables sécurité IA"
+      ],
+      "cases": [
+        "Conduire une évaluation de sécurité autorisée d'un assistant en ciblant des catégories de risques mesurables.",
+        "Comparer les résultats à une référence avec échantillons représentatifs, seuils, journalisation et validation humaine."
+      ],
+      "advantages": [
+        "Scans automatisés et tests adversariaux multi-tours",
+        "Connecteurs vers modèles et services compatibles",
+        "Workflows de red teaming et analyse des résultats"
+      ],
+      "limits": [
+        "Le dépôt historique Azure/PyRIT renvoie vers microsoft/PyRIT ; prévoir environnement isolé, autorisations de test et contrôle des dépenses API.",
+        "Un score élevé ou un scan sans alerte ne garantit ni sûreté, ni justesse, ni conformité pour tous les utilisateurs."
+      ],
+      "gettingStarted": [
+        "Identifier la question de test, les systèmes autorisés et les critères mesurables.",
+        "Créer un échantillon de référence, exécuter les essais en environnement contrôlé et inspecter les échecs."
+      ],
+      "examples": [
+        "Compare deux versions d'un assistant sur exactitude, stabilité, coûts et latence avec revue humaine des divergences.",
+        "Établis un tableau des cas d'échec, de leurs causes probables et de tests de non-régression."
+      ],
+      "pricing": "Vérifier licences, quotas, forfaits, coût d'API et frais des modèles évalués sur le site du fournisseur.",
+      "privacy": "Éviter d'envoyer secrets, données personnelles ou contenus de production non autorisés vers les fournisseurs de tests et de modèles ; masquer les journaux.",
+      "selection": [
+        "Choisir selon l'objectif : bibliothèque de prompts, tests fonctionnels, audit de sûreté, observabilité ou pilotage opérationnel."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "repository_moved",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://github.com/microsoft/PyRIT",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "promptperfect": {
+    "descriptionFr": "Ancien service Jina AI d'optimisation automatique de prompts, dont la fermeture a été annoncée pour le 1er septembre 2026.",
+    "descriptionEn": "Former Jina AI automated prompt optimization service, announced to shut down on September 1, 2026.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Optimisation de prompts (fonction historique)",
+      "Reformulation et variantes de consignes (fonction historique)",
+      "Service annoncé comme arrêté depuis septembre 2026"
+    ],
+    "featuresEn": [
+      "Prompt optimization (historical feature)",
+      "Instruction reformulation and variants (historical feature)",
+      "Service announced to close in September 2026"
+    ],
+    "accessFr": "Service arrêté",
+    "accessEn": "Discontinued service",
+    "officialSources": [
+      {
+        "url": "https://promptperfect.jina.ai/",
+        "checkedAt": "2026-11-17",
+        "scope": "product_capabilities_status_and_limitations"
+      }
+    ],
+    "research": {
+      "headline": "Ancien service Jina AI d'optimisation automatique de prompts, dont la fermeture a été annoncée pour le 1er septembre 2026.",
+      "audiences": [
+        "Équipes de développement LLM et responsables qualité",
+        "Évaluateurs, chercheurs et responsables sécurité IA"
+      ],
+      "cases": [
+        "Étudier historiquement les techniques d'optimisation de prompts ; sélectionner une alternative maintenue pour un nouvel usage.",
+        "Comparer les résultats à une référence avec échantillons représentatifs, seuils, journalisation et validation humaine."
+      ],
+      "advantages": [
+        "Optimisation de prompts (fonction historique)",
+        "Reformulation et variantes de consignes (fonction historique)",
+        "Service annoncé comme arrêté depuis septembre 2026"
+      ],
+      "limits": [
+        "Ne pas recommander ce service comme actif : son site officiel annonce qu'il ne sera plus disponible après le 1er septembre 2026.",
+        "Un score élevé ou un scan sans alerte ne garantit ni sûreté, ni justesse, ni conformité pour tous les utilisateurs."
+      ],
+      "gettingStarted": [
+        "Identifier la question de test, les systèmes autorisés et les critères mesurables.",
+        "Créer un échantillon de référence, exécuter les essais en environnement contrôlé et inspecter les échecs."
+      ],
+      "examples": [
+        "Compare deux versions d'un assistant sur exactitude, stabilité, coûts et latence avec revue humaine des divergences.",
+        "Établis un tableau des cas d'échec, de leurs causes probables et de tests de non-régression."
+      ],
+      "pricing": "Vérifier licences, quotas, forfaits, coût d'API et frais des modèles évalués sur le site du fournisseur.",
+      "privacy": "Éviter d'envoyer secrets, données personnelles ou contenus de production non autorisés vers les fournisseurs de tests et de modèles ; masquer les journaux.",
+      "selection": [
+        "Choisir selon l'objectif : bibliothèque de prompts, tests fonctionnels, audit de sûreté, observabilité ou pilotage opérationnel."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "discontinued",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://promptperfect.jina.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_discontinuation"
+  },
+  "aiprm": {
+    "descriptionFr": "Bibliothèque communautaire et outil de gestion de modèles de prompts, avec extension et fonctions de partage selon l'offre.",
+    "descriptionEn": "Community-driven prompt library and template management tool with extension and sharing features depending on plan.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Bibliothèque de prompts partagés",
+      "Gestion et organisation de modèles de consignes",
+      "Extension de navigateur et options collaboratives"
+    ],
+    "featuresEn": [
+      "Shared prompt library",
+      "Prompt template organization and management",
+      "Browser extension and collaboration options"
+    ],
+    "accessFr": "Bibliothèque open source, SaaS, extension ou infrastructure selon le produit",
+    "accessEn": "Open-source library, SaaS, extension or infrastructure depending on product",
+    "officialSources": [
+      {
+        "url": "https://www.aiprm.com/features/ai-prompt-library/",
+        "checkedAt": "2026-11-17",
+        "scope": "product_capabilities_status_and_limitations"
+      }
+    ],
+    "research": {
+      "headline": "Bibliothèque communautaire et outil de gestion de modèles de prompts, avec extension et fonctions de partage selon l'offre.",
+      "audiences": [
+        "Équipes de développement LLM et responsables qualité",
+        "Évaluateurs, chercheurs et responsables sécurité IA"
+      ],
+      "cases": [
+        "Constituer une bibliothèque de consignes métier relues puis comparer leur reproductibilité sur des exemples de test.",
+        "Comparer les résultats à une référence avec échantillons représentatifs, seuils, journalisation et validation humaine."
+      ],
+      "advantages": [
+        "Bibliothèque de prompts partagés",
+        "Gestion et organisation de modèles de consignes",
+        "Extension de navigateur et options collaboratives"
+      ],
+      "limits": [
+        "Les prompts communautaires ne sont pas nécessairement évalués ni fiables ; examiner qualité, confidentialité et compatibilité avec le modèle utilisé.",
+        "Un score élevé ou un scan sans alerte ne garantit ni sûreté, ni justesse, ni conformité pour tous les utilisateurs."
+      ],
+      "gettingStarted": [
+        "Identifier la question de test, les systèmes autorisés et les critères mesurables.",
+        "Créer un échantillon de référence, exécuter les essais en environnement contrôlé et inspecter les échecs."
+      ],
+      "examples": [
+        "Compare deux versions d'un assistant sur exactitude, stabilité, coûts et latence avec revue humaine des divergences.",
+        "Établis un tableau des cas d'échec, de leurs causes probables et de tests de non-régression."
+      ],
+      "pricing": "Vérifier licences, quotas, forfaits, coût d'API et frais des modèles évalués sur le site du fournisseur.",
+      "privacy": "Éviter d'envoyer secrets, données personnelles ou contenus de production non autorisés vers les fournisseurs de tests et de modèles ; masquer les journaux.",
+      "selection": [
+        "Choisir selon l'objectif : bibliothèque de prompts, tests fonctionnels, audit de sûreté, observabilité ou pilotage opérationnel."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "active",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.aiprm.com/features/ai-prompt-library/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  }
+}
