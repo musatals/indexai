@@ -1,0 +1,152 @@
+{
+  "workday-illuminate-agents": {
+    "accessFr": "Agents métier Workday pour RH et finance, dans la plateforme Workday.",
+    "accessEn": "Workday HR and finance business agents within the Workday platform.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "Flex Credits décomptés selon les actions ou tâches achevées ; conditions liées au contrat.",
+      "en": "Flex Credits meter actions or completed tasks; terms depend on the contract.",
+      "sourceUrl": "https://www.workday.com/en-us/ai-agents/ai-flex-credits.html",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-56"
+  },
+  "oracle-ai-agent-studio": {
+    "accessFr": "Constructeur d'agents intégré à Oracle Fusion Cloud Applications, avec outils no-code et pro-code.",
+    "accessEn": "Agent builder in Oracle Fusion Cloud Applications with no-code and pro-code tools.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Sans surcoût dans les abonnements Fusion Cloud éligibles ; licence Oracle sous-jacente requise.",
+      "en": "No extra charge with eligible Fusion Cloud subscriptions; underlying Oracle license required.",
+      "sourceUrl": "https://www.oracle.com/news/announcement/oracle-expands-ai-agent-studio-for-fusion-applications-with-agentic-applications-builder-2026-03-24/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-56"
+  },
+  "writer-action-agent": {
+    "accessFr": "Agent WRITER sur plateforme Web d'automatisation pour équipes marketing et commerciales.",
+    "accessEn": "WRITER web agent platform for enterprise marketing and revenue workflows.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Accès commercial par abonnement et crédits ; conditions Enterprise selon contrat.",
+      "en": "Commercial subscription and credits; Enterprise terms by agreement.",
+      "sourceUrl": "https://writer.com/plans/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-56"
+  },
+  "moveworks-ai-agents": {
+    "accessFr": "Plateforme Web d'agents pour assistance aux collaborateurs et intégration de systèmes internes.",
+    "accessEn": "Web agent platform for employee support and internal-system integrations.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Contrat personnalisé, généralement dimensionné par collaborateurs couverts.",
+      "en": "Custom contract, generally scaled by covered employees.",
+      "sourceUrl": "https://www.moveworks.com/us/en/resources/blog/agentic-ai-tools-for-business",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-56"
+  },
+  "sierra-ai": {
+    "accessFr": "Agents de relation client sur canaux Web et conversationnels.",
+    "accessEn": "Customer-service agents across web and conversational channels.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "Modèle de facturation selon les résultats effectivement obtenus, fixé par contrat.",
+      "en": "Contractual outcome-based pricing tied to completed results.",
+      "sourceUrl": "https://sierra.ai/product",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-56"
+  },
+  "uipath-agent-builder": {
+    "accessFr": "Création d'agents sur Studio Web et SDK UiPath, puis déploiement dans Automation Cloud.",
+    "accessEn": "Build agents with UiPath Studio Web and SDKs, then deploy in Automation Cloud.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Plan Community pour découvrir ; licences et quotas professionnels selon contrat Unified Pricing ou Flex.",
+      "en": "Community tier for exploration; professional licensing and allowances under Unified Pricing or Flex.",
+      "sourceUrl": "https://docs.uipath.com/automation-cloud/automation-cloud/latest/admin-guide/unified-pricing-licensing-plan-framework",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-56"
+  },
+  "harvey-agents": {
+    "accessFr": "Agents juridiques sur plateforme Web professionnelle pour cabinets et services juridiques.",
+    "accessEn": "Professional web legal agents for firms and in-house legal teams.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Tarification sur devis selon taille d'équipe, produits et périmètre de déploiement.",
+      "en": "Quote-based pricing by team size, products and deployment scope.",
+      "sourceUrl": "https://www.harvey.ai/blog/top-harvey-use-cases",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-56"
+  },
+  "databricks-agent-bricks": {
+    "accessFr": "Développement d'agents dans Databricks, avec données, modèles et services cloud.",
+    "accessEn": "Agent development within Databricks using data, models and cloud services.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "Facturation aux taux des produits Databricks sous-jacents effectivement consommés.",
+      "en": "Billed at usage rates of underlying Databricks products consumed.",
+      "sourceUrl": "https://www.databricks.com/product/artificial-intelligence/agent-bricks",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-56"
+  },
+  "cohere-north": {
+    "accessFr": "Agents et assistant North en déploiement sécurisé pour entreprises.",
+    "accessEn": "North enterprise agents and assistant with secure deployment.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Offres et hébergement entreprise personnalisés sur devis.",
+      "en": "Custom enterprise plans and hosting by quote.",
+      "sourceUrl": "https://cohere.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-56"
+  },
+  "asana-ai-teammates": {
+    "accessFr": "Agents collaboratifs dans les projets Asana, disponibles sur Web et applications associées.",
+    "accessEn": "Collaborative agents within Asana projects on the web and companion apps.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "Accès selon abonnement Asana, avec consommation de requêtes IA et éventuels quotas supplémentaires.",
+      "en": "Asana plan-dependent access with AI-request usage and additional allowances.",
+      "sourceUrl": "https://help.asana.com/s/article/asana-subscriptions-and-pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-56"
+  }
+}
