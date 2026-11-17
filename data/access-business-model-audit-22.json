@@ -1,0 +1,62 @@
+{
+  "opusclip": {
+    "accessFr": "Application Web de montage automatique de vidéos longues en clips courts",
+    "accessEn": "Web app for turning longer videos into short clips",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Offre Free, abonnements Starter et Pro, formule Business sur devis.",
+      "en": "Free tier, Starter and Pro subscriptions, custom Business plan.",
+      "sourceUrl": "https://www.opus.pro/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-22"
+  },
+  "invideo": {
+    "accessFr": "Studio Web de création et montage vidéo par IA, avec éditeur classique",
+    "accessEn": "Web AI video creation and editing studio with classic editor",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Offre gratuite limitée ; abonnements payants et crédits selon modèles et génération.",
+      "en": "Limited free tier; paid subscriptions and credits by model and generation.",
+      "sourceUrl": "https://invideo.io/pricing/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-22"
+  },
+  "filmora": {
+    "accessFr": "Éditeur vidéo de bureau et mobile avec fonctions IA",
+    "accessEn": "Desktop and mobile video editor with AI features",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Licences ou abonnements payants ; certaines fonctions IA et ressources créatives dépendent de crédits ou options.",
+      "en": "Paid licenses or subscriptions; some AI features and creative assets require credits or extras.",
+      "sourceUrl": "https://filmora.wondershare.com/shop/buy/buy-video-editor.html",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-22"
+  },
+  "adobe-premiere-pro": {
+    "accessFr": "Éditeur vidéo Adobe sur ordinateur et fonctions associées sur mobile",
+    "accessEn": "Adobe video editing on desktop with related mobile features",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Abonnement mensuel ou annuel Adobe Premiere ou Creative Cloud ; pas de licence perpétuelle.",
+      "en": "Monthly or annual Adobe Premiere or Creative Cloud subscription; no perpetual license.",
+      "sourceUrl": "https://www.adobe.com/products/premiere/plans.html",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-22"
+  }
+}
