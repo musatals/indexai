@@ -12,14 +12,7 @@
       "verifiedAt": "2026-11-17"
     },
     "pricingStatus": "official_reviewed",
-    "auditBatch": "access-business-model-2026-11-17",
-    "officialSources": [
-      {
-        "url": "https://gemini.google.com/advanced",
-        "checkedAt": "2026-11-17",
-        "scope": "access_and_business_model"
-      }
-    ]
+    "auditBatch": "access-business-model-2026-11-17"
   },
   "microsoft-copilot": {
     "accessFr": "Web et applications Microsoft compatibles",
@@ -34,14 +27,7 @@
       "verifiedAt": "2026-11-17"
     },
     "pricingStatus": "official_reviewed",
-    "auditBatch": "access-business-model-2026-11-17",
-    "officialSources": [
-      {
-        "url": "https://support.microsoft.com/en-us/microsoft-365-copilot/what-s-the-difference-between-microsoft-copilot-free-and-copilot-in-microsoft-365",
-        "checkedAt": "2026-11-17",
-        "scope": "access_and_business_model"
-      }
-    ]
+    "auditBatch": "access-business-model-2026-11-17"
   },
   "le-chat-mistral": {
     "accessFr": "Web, applications mobiles, terminal et VS Code selon fonction",
@@ -56,14 +42,7 @@
       "verifiedAt": "2026-11-17"
     },
     "pricingStatus": "official_reviewed",
-    "auditBatch": "access-business-model-2026-11-17",
-    "officialSources": [
-      {
-        "url": "https://mistral.ai/pricing/",
-        "checkedAt": "2026-11-17",
-        "scope": "access_and_business_model"
-      }
-    ]
+    "auditBatch": "access-business-model-2026-11-17"
   },
   "poe": {
     "accessFr": "Application Web et mobile",
@@ -78,14 +57,7 @@
       "verifiedAt": "2026-11-17"
     },
     "pricingStatus": "official_reviewed",
-    "auditBatch": "access-business-model-2026-11-17",
-    "officialSources": [
-      {
-        "url": "https://poe.com/subscription_plans",
-        "checkedAt": "2026-11-17",
-        "scope": "access_and_business_model"
-      }
-    ]
+    "auditBatch": "access-business-model-2026-11-17"
   },
   "consensus": {
     "accessFr": "Application Web et intégrations compatibles",
@@ -100,14 +72,7 @@
       "verifiedAt": "2026-11-17"
     },
     "pricingStatus": "official_reviewed",
-    "auditBatch": "access-business-model-2026-11-17",
-    "officialSources": [
-      {
-        "url": "https://help.consensus.app/en/articles/10087865-subscription-plans",
-        "checkedAt": "2026-11-17",
-        "scope": "access_and_business_model"
-      }
-    ]
+    "auditBatch": "access-business-model-2026-11-17"
   },
   "elicit": {
     "accessFr": "Web, API selon abonnement",
@@ -122,14 +87,7 @@
       "verifiedAt": "2026-11-17"
     },
     "pricingStatus": "official_reviewed",
-    "auditBatch": "access-business-model-2026-11-17",
-    "officialSources": [
-      {
-        "url": "https://elicit.com/pricing",
-        "checkedAt": "2026-11-17",
-        "scope": "access_and_business_model"
-      }
-    ]
+    "auditBatch": "access-business-model-2026-11-17"
   },
   "researchrabbit": {
     "accessFr": "Application Web",
@@ -144,14 +102,7 @@
       "verifiedAt": "2026-11-17"
     },
     "pricingStatus": "official_reviewed",
-    "auditBatch": "access-business-model-2026-11-17",
-    "officialSources": [
-      {
-        "url": "https://www.researchrabbit.ai/pricing",
-        "checkedAt": "2026-11-17",
-        "scope": "access_and_business_model"
-      }
-    ]
+    "auditBatch": "access-business-model-2026-11-17"
   },
   "openalex": {
     "accessFr": "Site Web, API et données téléchargeables",
@@ -166,14 +117,7 @@
       "verifiedAt": "2026-11-17"
     },
     "pricingStatus": "official_reviewed",
-    "auditBatch": "access-business-model-2026-11-17",
-    "officialSources": [
-      {
-        "url": "https://help.openalex.org/access/pricing/",
-        "checkedAt": "2026-11-17",
-        "scope": "access_and_business_model"
-      }
-    ]
+    "auditBatch": "access-business-model-2026-11-17"
   },
   "jasper": {
     "accessFr": "Web et extension de navigateur selon abonnement",
@@ -188,14 +132,7 @@
       "verifiedAt": "2026-11-17"
     },
     "pricingStatus": "official_reviewed",
-    "auditBatch": "access-business-model-2026-11-17",
-    "officialSources": [
-      {
-        "url": "https://www.jasper.ai/pricing",
-        "checkedAt": "2026-11-17",
-        "scope": "access_and_business_model"
-      }
-    ]
+    "auditBatch": "access-business-model-2026-11-17"
   },
   "quillbot": {
     "accessFr": "Web et outils d'écriture en ligne",
@@ -210,14 +147,7 @@
       "verifiedAt": "2026-11-17"
     },
     "pricingStatus": "official_reviewed",
-    "auditBatch": "access-business-model-2026-11-17",
-    "officialSources": [
-      {
-        "url": "https://quillbot.com/upgrade",
-        "checkedAt": "2026-11-17",
-        "scope": "access_and_business_model"
-      }
-    ]
+    "auditBatch": "access-business-model-2026-11-17"
   },
   "leonardo-ai": {
     "accessFr": "Plateforme Web et API selon offre",
@@ -232,14 +162,7 @@
       "verifiedAt": "2026-11-17"
     },
     "pricingStatus": "official_reviewed",
-    "auditBatch": "access-business-model-2026-11-17",
-    "officialSources": [
-      {
-        "url": "https://leonardo.ai/pricing",
-        "checkedAt": "2026-11-17",
-        "scope": "access_and_business_model"
-      }
-    ]
+    "auditBatch": "access-business-model-2026-11-17"
   },
   "runway": {
     "accessFr": "Application Web de génération vidéo",
@@ -254,14 +177,7 @@
       "verifiedAt": "2026-11-17"
     },
     "pricingStatus": "official_reviewed",
-    "auditBatch": "access-business-model-2026-11-17",
-    "officialSources": [
-      {
-        "url": "https://help.runwayml.com/hc/en-us/articles/50404627334547-Free-plan-details",
-        "checkedAt": "2026-11-17",
-        "scope": "access_and_business_model"
-      }
-    ]
+    "auditBatch": "access-business-model-2026-11-17"
   },
   "davinci-resolve": {
     "accessFr": "Logiciel de bureau Windows, macOS et Linux",
@@ -276,14 +192,7 @@
       "verifiedAt": "2026-11-17"
     },
     "pricingStatus": "official_reviewed",
-    "auditBatch": "access-business-model-2026-11-17",
-    "officialSources": [
-      {
-        "url": "https://www.blackmagicdesign.com/products/davinciresolve",
-        "checkedAt": "2026-11-17",
-        "scope": "access_and_business_model"
-      }
-    ]
+    "auditBatch": "access-business-model-2026-11-17"
   },
   "kapwing": {
     "accessFr": "Éditeur vidéo Web",
@@ -298,14 +207,7 @@
       "verifiedAt": "2026-11-17"
     },
     "pricingStatus": "official_reviewed",
-    "auditBatch": "access-business-model-2026-11-17",
-    "officialSources": [
-      {
-        "url": "https://www.kapwing.com/pricing",
-        "checkedAt": "2026-11-17",
-        "scope": "access_and_business_model"
-      }
-    ]
+    "auditBatch": "access-business-model-2026-11-17"
   },
   "opusclip": {
     "accessFr": "Application Web",
@@ -320,14 +222,7 @@
       "verifiedAt": "2026-11-17"
     },
     "pricingStatus": "official_reviewed",
-    "auditBatch": "access-business-model-2026-11-17",
-    "officialSources": [
-      {
-        "url": "https://www.opus.pro/pricing",
-        "checkedAt": "2026-11-17",
-        "scope": "access_and_business_model"
-      }
-    ]
+    "auditBatch": "access-business-model-2026-11-17"
   },
   "stable-diffusion": {
     "accessFr": "Modèles téléchargeables, exécution locale ou infrastructure selon implémentation",
@@ -342,13 +237,6 @@
       "verifiedAt": "2026-11-17"
     },
     "pricingStatus": "official_reviewed",
-    "auditBatch": "access-business-model-2026-11-17",
-    "officialSources": [
-      {
-        "url": "https://stability.ai/license",
-        "checkedAt": "2026-11-17",
-        "scope": "access_and_business_model"
-      }
-    ]
+    "auditBatch": "access-business-model-2026-11-17"
   }
 }
