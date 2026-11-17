@@ -1,0 +1,47 @@
+{
+  "adobe-podcast": {
+    "accessFr": "Studio de podcast accessible sur le Web avec fonctions d’amélioration vocale",
+    "accessEn": "Web podcast studio with voice-enhancement features",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Fonctions d’enregistrement et d’amélioration gratuites limitées ; fonctionnalités Premium selon formule Adobe éligible.",
+      "en": "Limited free recording and enhancement; Premium features under eligible Adobe plans.",
+      "sourceUrl": "https://podcast.adobe.com/en/plans",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-31"
+  },
+  "auphonic": {
+    "accessFr": "Plateforme Web de postproduction audio automatique et API",
+    "accessEn": "Web platform for automated audio postproduction and API",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Deux heures de traitement gratuites par mois ; forfaits ou crédits complémentaires.",
+      "en": "Two hours of free processing monthly; additional subscriptions or credits.",
+      "sourceUrl": "https://auphonic.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-31"
+  },
+  "cleanvoice": {
+    "accessFr": "Service Web d’édition automatique de podcast et suppression de bruits",
+    "accessEn": "Web service for automated podcast editing and noise removal",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Essai gratuit puis paiement à l’usage ou abonnements calculés selon les heures de traitement.",
+      "en": "Free trial, followed by pay-as-you-go or subscriptions based on processing hours.",
+      "sourceUrl": "https://cleanvoice.ai/pricing/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-31"
+  }
+}
