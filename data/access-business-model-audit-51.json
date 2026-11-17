@@ -1,0 +1,153 @@
+{
+  "chatgpt-atlas": {
+    "accessFr": "Ancien navigateur macOS d’OpenAI : abandonné avec arrêt programmé au 9 août 2026 ; fonctions transférées vers ChatGPT Work et d’autres expériences prises en charge.",
+    "accessEn": "Former OpenAI macOS browser discontinued with shutdown scheduled August 9, 2026; functionality moved to ChatGPT Work and supported experiences.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "discontinued",
+      "fr": "Navigateur historique arrêté ; aucune offre Atlas active. Consulter les modalités actuelles de ChatGPT Work.",
+      "en": "Discontinued browser; no active Atlas plan. Refer to current ChatGPT Work terms.",
+      "sourceUrl": "https://help.openai.com/en/articles/20001371",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-51",
+    "availabilityStatus": "discontinued"
+  },
+  "perplexity-comet": {
+    "accessFr": "Navigateur Comet avec assistant IA, disponible au téléchargement ; fonctions et quotas liés aux offres Perplexity.",
+    "accessEn": "Comet browser with AI assistant available to download; advanced features and limits depend on Perplexity plans.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Navigateur disponible gratuitement ; certaines capacités avancées dépendent d’un abonnement Perplexity.",
+      "en": "Browser available free; some advanced capabilities depend on a Perplexity subscription.",
+      "sourceUrl": "https://www.perplexity.ai/changelog/what-we-shipped-october-3rd",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-51"
+  },
+  "opera-neon": {
+    "accessFr": "Navigateur Opera Neon pour macOS et Windows, avec agents IA et connexions CLI/MCP.",
+    "accessEn": "Opera Neon browser for macOS and Windows with AI agents and CLI/MCP connections.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Navigateur et connexion à ses propres agents gratuits ; capacités IA intégrées avancées sur abonnement Neon.",
+      "en": "Browser and external agent connectivity are free; built-in advanced AI features require a Neon subscription.",
+      "sourceUrl": "https://www.operaneon.com/upgrade",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-51"
+  },
+  "skyvern": {
+    "accessFr": "Plateforme Web et API d’agents automatisant la navigation et les workflows en navigateur.",
+    "accessEn": "Web platform and API for agents automating browser tasks and workflows.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Offre d’essai gratuite à crédits ; forfaits payants et Enterprise adaptés aux exécutions.",
+      "en": "Free credit-based trial; paid plans and Enterprise tiers for workflow runs.",
+      "sourceUrl": "https://www.skyvern.com/pricing/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-51"
+  },
+  "stagehand": {
+    "accessFr": "Framework de programmation open source d’automatisation de navigateurs ; exécution locale ou sur Browserbase.",
+    "accessEn": "Open-source browser automation programming framework; run locally or on Browserbase.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "open_source_and_paid",
+      "fr": "Framework MIT gratuit en local ; hébergement Browserbase et modèles IA facturés séparément.",
+      "en": "Free MIT framework locally; Browserbase hosting and AI models billed separately.",
+      "sourceUrl": "https://www.browserbase.com/stagehand",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-51"
+  },
+  "browserbase": {
+    "accessFr": "Infrastructure cloud de navigateurs pilotables par agents via API et consoles Web.",
+    "accessEn": "Cloud browser infrastructure operated by agents through APIs and web consoles.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Niveau gratuit limité en heures, puis forfaits Developer, Startup et entreprises avec facturation d’usage supplémentaire.",
+      "en": "Limited free browser hours; Developer, Startup and enterprise plans with additional usage billing.",
+      "sourceUrl": "https://www.browserbase.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-51"
+  },
+  "browseros": {
+    "accessFr": "Navigateur agentique open source BrowserOS neo pour macOS, Windows et Linux selon distribution.",
+    "accessEn": "Open-source BrowserOS neo agent browser for macOS, Windows and Linux depending on build.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "open_source",
+      "fr": "Navigateur AGPL-3.0 gratuit ; modèles IA tiers et clés API éventuellement payants.",
+      "en": "Free AGPL-3.0 browser; third-party models and API keys may cost extra.",
+      "sourceUrl": "https://browseros.com/open-source-ai-browser/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-51"
+  },
+  "nanobrowser": {
+    "accessFr": "Extension Chromium open source d’automatisation Web par agents, utilisable avec modèles sélectionnés.",
+    "accessEn": "Open-source Chromium extension for web automation by agents using chosen models.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "open_source",
+      "fr": "Extension Apache 2.0 gratuite ; frais d’API éventuels pour les modèles IA employés.",
+      "en": "Free Apache 2.0 extension; AI model API fees may apply.",
+      "sourceUrl": "https://github.com/nanobrowser/nanobrowser",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-51"
+  },
+  "agentql": {
+    "accessFr": "API et bibliothèque d’interaction avec pages Web pour agents de navigation et extraction.",
+    "accessEn": "API and library for agents to interact with web pages and extract information.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Essai gratuit d’appels API ; offres commerciales adaptées au volume et à l’usage.",
+      "en": "Free API-call trial; commercial plans based on volume and usage.",
+      "sourceUrl": "https://www.agentql.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-51"
+  },
+  "google-project-mariner": {
+    "accessFr": "Agent expérimental de navigation Web de Google DeepMind, accès limité selon pays et offre Google AI.",
+    "accessEn": "Experimental web navigation agent from Google DeepMind; limited access by region and Google AI plan.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Accès expérimental et disponibilité régionale liés notamment à Google AI Ultra ; pas de tarif autonome identifié.",
+      "en": "Experimental regional access associated in particular with Google AI Ultra; no standalone pricing identified.",
+      "sourceUrl": "https://deepmind.google/technologies/project-mariner/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-51"
+  }
+}
