@@ -1,0 +1,62 @@
+{
+  "udio": {
+    "accessFr": "Studio de création de chansons IA sur le Web",
+    "accessEn": "Browser-based AI music creation studio",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Crédits gratuits limités et abonnements Standard et Pro donnant des plafonds mensuels plus élevés.",
+      "en": "Limited free credits; Standard and Pro subscriptions with higher monthly allowances.",
+      "sourceUrl": "https://help.udio.com/en/articles/10739134-credits-and-credit-limits",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-33"
+  },
+  "aiva": {
+    "accessFr": "Service Web de composition musicale IA avec export de fichiers selon abonnement",
+    "accessEn": "Web AI music composition service with plan-dependent file exports",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Formule Free sous conditions de droits, puis abonnements Standard et Pro avec droits de licence étendus.",
+      "en": "Free tier with licensing conditions, then Standard and Pro subscriptions with expanded licensing rights.",
+      "sourceUrl": "https://www.aiva.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-33"
+  },
+  "soundraw": {
+    "accessFr": "Studio Web de génération et personnalisation de musiques IA",
+    "accessEn": "Web studio for generating and customizing AI music",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Abonnements Creator et Artist selon licences et options de création musicale.",
+      "en": "Creator and Artist subscriptions depending on licensing and music creation features.",
+      "sourceUrl": "https://soundraw.io/pricing/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-33"
+  },
+  "moises": {
+    "accessFr": "Outils de séparation de pistes et d’exercice musical sur le Web et mobile",
+    "accessEn": "Music stem separation and practice tools on web and mobile",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Offre Free avec limites de séparation ; abonnements Premium et Pro pour fonctions étendues.",
+      "en": "Free stem-separation plan with limits; Premium and Pro plans for expanded features.",
+      "sourceUrl": "https://help.moises.ai/hc/en-us/articles/29530482524316-Which-instruments-can-be-separated-on-the-Free-plan",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-33"
+  }
+}
