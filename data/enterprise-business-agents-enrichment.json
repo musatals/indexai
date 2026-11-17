@@ -1,0 +1,1865 @@
+{
+  "salesforce-agentforce": {
+    "descriptionFr": "Plateforme Salesforce de création et d'exécution d'agents métiers pour CRM, vente et service, reliée aux données et flux de travail.",
+    "descriptionEn": "Salesforce platform for creating and operating business agents for CRM, sales and service, connected to data and workflows.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Agents de service et vente",
+      "Orchestration de données CRM",
+      "Actions gouvernées dans Salesforce"
+    ],
+    "featuresEn": [
+      "Business-specific AI agents",
+      "Connections to enterprise applications and data",
+      "Governance, execution and human review"
+    ],
+    "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
+    "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
+    "officialSources": [
+      {
+        "url": "https://www.salesforce.com/agentforce/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme Salesforce de création et d'exécution d'agents métiers pour CRM, vente et service, reliée aux données et flux de travail.",
+      "audiences": [
+        "Équipes CRM, service et ventes et directions métiers",
+        "Responsables SI, conformité, sécurité et transformation digitale"
+      ],
+      "cases": [
+        "Déployer un pilote pour crm, service et ventes sur un processus limité avec métriques de qualité, d'escalade et de coût.",
+        "Comparer les traitements automatiques et les cas transmis à une personne avant d'étendre les autorisations."
+      ],
+      "advantages": [
+        "Agents de service et vente",
+        "Orchestration de données CRM",
+        "Actions gouvernées dans Salesforce"
+      ],
+      "limits": [
+        "Vérifier licences, consommation, droits CRM et supervision des actions commerciales.",
+        "Les agents peuvent générer des erreurs, effectuer des actions inadaptées ou exposer des données sensibles ; prévoir contrôle humain, évaluations et politique d'habilitations."
+      ],
+      "gettingStarted": [
+        "Définir un processus précis, un propriétaire métier, les données et outils autorisés, les cas d'escalade.",
+        "Tester en environnement de préproduction avec journalisation, jeux de cas difficiles et seuils avant la mise en production."
+      ],
+      "examples": [
+        "Décris un agent de crm, service et ventes avec entrées autorisées, actions, approbations et indicateurs de succès.",
+        "Élabore 20 cas d'essai représentatifs, y compris incidents, refus, données manquantes et demandes d'intervention humaine."
+      ],
+      "pricing": "Confirmer le contrat, les forfaits applicatifs, crédits IA, connecteurs, coûts d'inférence et limites de consommation auprès du fournisseur.",
+      "privacy": "Appliquer authentification, permissions minimales, journalisation, gestion des données personnelles et politiques de conservation ; sécuriser les actions sur systèmes métier.",
+      "selection": [
+        "Comparer adéquation métier, profondeur des connecteurs, contrôle des outils, réversibilité, auditabilité et coût global."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official_product_documentation",
+      "sources": [
+        {
+          "url": "https://www.salesforce.com/agentforce/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "gemini-enterprise-agents": {
+    "descriptionFr": "Suite Gemini Enterprise de Google pour recherche dans les données de travail, création d'agents et automatisations connectées ; remplace Agentspace autonome.",
+    "descriptionEn": "Google Gemini Enterprise suite for enterprise search, connected agents and workflow automation; supersedes standalone Agentspace.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Recherche dans les données internes",
+      "Agents et connecteurs d'entreprise",
+      "Automatisation de processus"
+    ],
+    "featuresEn": [
+      "Business-specific AI agents",
+      "Connections to enterprise applications and data",
+      "Governance, execution and human review"
+    ],
+    "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
+    "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
+    "officialSources": [
+      {
+        "url": "https://cloud.google.com/products/gemini-enterprise",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Suite Gemini Enterprise de Google pour recherche dans les données de travail, création d'agents et automatisations connectées ; remplace Agentspace autonome.",
+      "audiences": [
+        "Équipes Recherche et productivité et directions métiers",
+        "Responsables SI, conformité, sécurité et transformation digitale"
+      ],
+      "cases": [
+        "Déployer un pilote pour recherche et productivité sur un processus limité avec métriques de qualité, d'escalade et de coût.",
+        "Comparer les traitements automatiques et les cas transmis à une personne avant d'étendre les autorisations."
+      ],
+      "advantages": [
+        "Recherche dans les données internes",
+        "Agents et connecteurs d'entreprise",
+        "Automatisation de processus"
+      ],
+      "limits": [
+        "Agentspace ne constitue plus un service autonome depuis le 9 octobre 2025 ; distinguer Gemini Enterprise de sa plateforme de développement.",
+        "Les agents peuvent générer des erreurs, effectuer des actions inadaptées ou exposer des données sensibles ; prévoir contrôle humain, évaluations et politique d'habilitations."
+      ],
+      "gettingStarted": [
+        "Définir un processus précis, un propriétaire métier, les données et outils autorisés, les cas d'escalade.",
+        "Tester en environnement de préproduction avec journalisation, jeux de cas difficiles et seuils avant la mise en production."
+      ],
+      "examples": [
+        "Décris un agent de recherche et productivité avec entrées autorisées, actions, approbations et indicateurs de succès.",
+        "Élabore 20 cas d'essai représentatifs, y compris incidents, refus, données manquantes et demandes d'intervention humaine."
+      ],
+      "pricing": "Confirmer le contrat, les forfaits applicatifs, crédits IA, connecteurs, coûts d'inférence et limites de consommation auprès du fournisseur.",
+      "privacy": "Appliquer authentification, permissions minimales, journalisation, gestion des données personnelles et politiques de conservation ; sécuriser les actions sur systèmes métier.",
+      "selection": [
+        "Comparer adéquation métier, profondeur des connecteurs, contrôle des outils, réversibilité, auditabilité et coût global."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official_product_documentation",
+      "sources": [
+        {
+          "url": "https://cloud.google.com/products/gemini-enterprise",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "sap-joule": {
+    "descriptionFr": "Assistant et agents SAP Joule pour exécuter des tâches contextualisées dans les applications métier SAP, avec outils de création dédiés.",
+    "descriptionEn": "SAP Joule assistant and agents for contextual tasks within SAP business applications, with dedicated agent-building tools.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Agents spécialisés par processus SAP",
+      "Joule Studio et AI Agent Hub",
+      "Interactions avec données métier"
+    ],
+    "featuresEn": [
+      "Business-specific AI agents",
+      "Connections to enterprise applications and data",
+      "Governance, execution and human review"
+    ],
+    "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
+    "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
+    "officialSources": [
+      {
+        "url": "https://www.sap.com/products/artificial-intelligence/ai-agents.html",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Assistant et agents SAP Joule pour exécuter des tâches contextualisées dans les applications métier SAP, avec outils de création dédiés.",
+      "audiences": [
+        "Équipes ERP, finance, RH et achats et directions métiers",
+        "Responsables SI, conformité, sécurité et transformation digitale"
+      ],
+      "cases": [
+        "Déployer un pilote pour erp, finance, rh et achats sur un processus limité avec métriques de qualité, d'escalade et de coût.",
+        "Comparer les traitements automatiques et les cas transmis à une personne avant d'étendre les autorisations."
+      ],
+      "advantages": [
+        "Agents spécialisés par processus SAP",
+        "Joule Studio et AI Agent Hub",
+        "Interactions avec données métier"
+      ],
+      "limits": [
+        "La disponibilité varie selon applications et licences ; Joule Studio agent builder est annoncé gratuit jusqu'en décembre 2026 puis premium.",
+        "Les agents peuvent générer des erreurs, effectuer des actions inadaptées ou exposer des données sensibles ; prévoir contrôle humain, évaluations et politique d'habilitations."
+      ],
+      "gettingStarted": [
+        "Définir un processus précis, un propriétaire métier, les données et outils autorisés, les cas d'escalade.",
+        "Tester en environnement de préproduction avec journalisation, jeux de cas difficiles et seuils avant la mise en production."
+      ],
+      "examples": [
+        "Décris un agent de erp, finance, rh et achats avec entrées autorisées, actions, approbations et indicateurs de succès.",
+        "Élabore 20 cas d'essai représentatifs, y compris incidents, refus, données manquantes et demandes d'intervention humaine."
+      ],
+      "pricing": "Confirmer le contrat, les forfaits applicatifs, crédits IA, connecteurs, coûts d'inférence et limites de consommation auprès du fournisseur.",
+      "privacy": "Appliquer authentification, permissions minimales, journalisation, gestion des données personnelles et politiques de conservation ; sécuriser les actions sur systèmes métier.",
+      "selection": [
+        "Comparer adéquation métier, profondeur des connecteurs, contrôle des outils, réversibilité, auditabilité et coût global."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official_product_documentation",
+      "sources": [
+        {
+          "url": "https://www.sap.com/products/artificial-intelligence/ai-agents.html",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "servicenow-ai-agents": {
+    "descriptionFr": "Agents IA ServiceNow pour automatiser des demandes et workflows IT, RH, service client et opérations sur la plateforme Now.",
+    "descriptionEn": "ServiceNow AI agents for automating IT, HR, customer service and operational workflows on the Now Platform.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Traitement de demandes IT et RH",
+      "Orchestration sur la plateforme Now",
+      "Contrôles de gouvernance"
+    ],
+    "featuresEn": [
+      "Business-specific AI agents",
+      "Connections to enterprise applications and data",
+      "Governance, execution and human review"
+    ],
+    "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
+    "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
+    "officialSources": [
+      {
+        "url": "https://www.servicenow.com/products/ai-agents.html",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Agents IA ServiceNow pour automatiser des demandes et workflows IT, RH, service client et opérations sur la plateforme Now.",
+      "audiences": [
+        "Équipes ITSM et services d'entreprise et directions métiers",
+        "Responsables SI, conformité, sécurité et transformation digitale"
+      ],
+      "cases": [
+        "Déployer un pilote pour itsm et services d'entreprise sur un processus limité avec métriques de qualité, d'escalade et de coût.",
+        "Comparer les traitements automatiques et les cas transmis à une personne avant d'étendre les autorisations."
+      ],
+      "advantages": [
+        "Traitement de demandes IT et RH",
+        "Orchestration sur la plateforme Now",
+        "Contrôles de gouvernance"
+      ],
+      "limits": [
+        "Les flux et actions dépendent des modules achetés, habilitations et règles de gouvernance.",
+        "Les agents peuvent générer des erreurs, effectuer des actions inadaptées ou exposer des données sensibles ; prévoir contrôle humain, évaluations et politique d'habilitations."
+      ],
+      "gettingStarted": [
+        "Définir un processus précis, un propriétaire métier, les données et outils autorisés, les cas d'escalade.",
+        "Tester en environnement de préproduction avec journalisation, jeux de cas difficiles et seuils avant la mise en production."
+      ],
+      "examples": [
+        "Décris un agent de itsm et services d'entreprise avec entrées autorisées, actions, approbations et indicateurs de succès.",
+        "Élabore 20 cas d'essai représentatifs, y compris incidents, refus, données manquantes et demandes d'intervention humaine."
+      ],
+      "pricing": "Confirmer le contrat, les forfaits applicatifs, crédits IA, connecteurs, coûts d'inférence et limites de consommation auprès du fournisseur.",
+      "privacy": "Appliquer authentification, permissions minimales, journalisation, gestion des données personnelles et politiques de conservation ; sécuriser les actions sur systèmes métier.",
+      "selection": [
+        "Comparer adéquation métier, profondeur des connecteurs, contrôle des outils, réversibilité, auditabilité et coût global."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official_product_documentation",
+      "sources": [
+        {
+          "url": "https://www.servicenow.com/products/ai-agents.html",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "workday-illuminate-agents": {
+    "descriptionFr": "Agents Workday Illuminate pour soutenir des processus RH, finance et planification dans l'écosystème Workday.",
+    "descriptionEn": "Workday Illuminate agents supporting HR, finance and planning workflows in Workday.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Agents RH et financiers",
+      "Contexte des données Workday",
+      "Automatisation de processus métier"
+    ],
+    "featuresEn": [
+      "Business-specific AI agents",
+      "Connections to enterprise applications and data",
+      "Governance, execution and human review"
+    ],
+    "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
+    "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
+    "officialSources": [
+      {
+        "url": "https://www.workday.com/en-us/artificial-intelligence.html",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Agents Workday Illuminate pour soutenir des processus RH, finance et planification dans l'écosystème Workday.",
+      "audiences": [
+        "Équipes RH et finance et directions métiers",
+        "Responsables SI, conformité, sécurité et transformation digitale"
+      ],
+      "cases": [
+        "Déployer un pilote pour rh et finance sur un processus limité avec métriques de qualité, d'escalade et de coût.",
+        "Comparer les traitements automatiques et les cas transmis à une personne avant d'étendre les autorisations."
+      ],
+      "advantages": [
+        "Agents RH et financiers",
+        "Contexte des données Workday",
+        "Automatisation de processus métier"
+      ],
+      "limits": [
+        "Les fonctions ne sont pas toutes incluses dans chaque produit Workday ; vérifier droits, données sensibles et validation humaine.",
+        "Les agents peuvent générer des erreurs, effectuer des actions inadaptées ou exposer des données sensibles ; prévoir contrôle humain, évaluations et politique d'habilitations."
+      ],
+      "gettingStarted": [
+        "Définir un processus précis, un propriétaire métier, les données et outils autorisés, les cas d'escalade.",
+        "Tester en environnement de préproduction avec journalisation, jeux de cas difficiles et seuils avant la mise en production."
+      ],
+      "examples": [
+        "Décris un agent de rh et finance avec entrées autorisées, actions, approbations et indicateurs de succès.",
+        "Élabore 20 cas d'essai représentatifs, y compris incidents, refus, données manquantes et demandes d'intervention humaine."
+      ],
+      "pricing": "Confirmer le contrat, les forfaits applicatifs, crédits IA, connecteurs, coûts d'inférence et limites de consommation auprès du fournisseur.",
+      "privacy": "Appliquer authentification, permissions minimales, journalisation, gestion des données personnelles et politiques de conservation ; sécuriser les actions sur systèmes métier.",
+      "selection": [
+        "Comparer adéquation métier, profondeur des connecteurs, contrôle des outils, réversibilité, auditabilité et coût global."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official_product_documentation",
+      "sources": [
+        {
+          "url": "https://www.workday.com/en-us/artificial-intelligence.html",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "oracle-ai-agent-studio": {
+    "descriptionFr": "Environnement Oracle AI Agent Studio intégré aux applications Fusion pour concevoir, orchestrer et gouverner des agents et applications agentiques.",
+    "descriptionEn": "Oracle AI Agent Studio integrated into Fusion Applications for building, orchestrating and governing agents and agentic applications.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Outils no-code et pro-code",
+      "Agents et workflows Fusion",
+      "Sécurité et approbations applicatives"
+    ],
+    "featuresEn": [
+      "Agent creation and workflow setup",
+      "Connections to enterprise applications and data",
+      "Governance, execution and human review"
+    ],
+    "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
+    "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
+    "officialSources": [
+      {
+        "url": "https://docs.oracle.com/en/cloud/saas/fusion-ai/26d/aiaas/overview-of-ai-agent-studio.html",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Environnement Oracle AI Agent Studio intégré aux applications Fusion pour concevoir, orchestrer et gouverner des agents et applications agentiques.",
+      "audiences": [
+        "Équipes Applications Fusion Cloud et directions métiers",
+        "Responsables SI, conformité, sécurité et transformation digitale"
+      ],
+      "cases": [
+        "Déployer un pilote pour applications fusion cloud sur un processus limité avec métriques de qualité, d'escalade et de coût.",
+        "Comparer les traitements automatiques et les cas transmis à une personne avant d'étendre les autorisations."
+      ],
+      "advantages": [
+        "Outils no-code et pro-code",
+        "Agents et workflows Fusion",
+        "Sécurité et approbations applicatives"
+      ],
+      "limits": [
+        "L'accès et les capacités dépendent des applications Fusion et du rôle ; respecter les politiques de sécurité et approbations.",
+        "Les agents peuvent générer des erreurs, effectuer des actions inadaptées ou exposer des données sensibles ; prévoir contrôle humain, évaluations et politique d'habilitations."
+      ],
+      "gettingStarted": [
+        "Définir un processus précis, un propriétaire métier, les données et outils autorisés, les cas d'escalade.",
+        "Tester en environnement de préproduction avec journalisation, jeux de cas difficiles et seuils avant la mise en production."
+      ],
+      "examples": [
+        "Décris un agent de applications fusion cloud avec entrées autorisées, actions, approbations et indicateurs de succès.",
+        "Élabore 20 cas d'essai représentatifs, y compris incidents, refus, données manquantes et demandes d'intervention humaine."
+      ],
+      "pricing": "Confirmer le contrat, les forfaits applicatifs, crédits IA, connecteurs, coûts d'inférence et limites de consommation auprès du fournisseur.",
+      "privacy": "Appliquer authentification, permissions minimales, journalisation, gestion des données personnelles et politiques de conservation ; sécuriser les actions sur systèmes métier.",
+      "selection": [
+        "Comparer adéquation métier, profondeur des connecteurs, contrôle des outils, réversibilité, auditabilité et coût global."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official_product_documentation",
+      "sources": [
+        {
+          "url": "https://docs.oracle.com/en/cloud/saas/fusion-ai/26d/aiaas/overview-of-ai-agent-studio.html",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "writer-action-agent": {
+    "descriptionFr": "Fonctions d'agents d'action de WRITER pour produire des livrables et automatiser des opérations en s'appuyant sur les connaissances d'entreprise.",
+    "descriptionEn": "WRITER enterprise action agents for producing deliverables and automating workflows using company knowledge.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Agents et workflows d'entreprise",
+      "Connaissances et données connectées",
+      "Actions et contenus contrôlés"
+    ],
+    "featuresEn": [
+      "Business-specific AI agents",
+      "Connections to enterprise applications and data",
+      "Governance, execution and human review"
+    ],
+    "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
+    "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
+    "officialSources": [
+      {
+        "url": "https://writer.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Fonctions d'agents d'action de WRITER pour produire des livrables et automatiser des opérations en s'appuyant sur les connaissances d'entreprise.",
+      "audiences": [
+        "Équipes Contenu et opérations et directions métiers",
+        "Responsables SI, conformité, sécurité et transformation digitale"
+      ],
+      "cases": [
+        "Déployer un pilote pour contenu et opérations sur un processus limité avec métriques de qualité, d'escalade et de coût.",
+        "Comparer les traitements automatiques et les cas transmis à une personne avant d'étendre les autorisations."
+      ],
+      "advantages": [
+        "Agents et workflows d'entreprise",
+        "Connaissances et données connectées",
+        "Actions et contenus contrôlés"
+      ],
+      "limits": [
+        "Vérifier la disponibilité exacte de l'intitulé Action Agent, les connecteurs et les forfaits.",
+        "Les agents peuvent générer des erreurs, effectuer des actions inadaptées ou exposer des données sensibles ; prévoir contrôle humain, évaluations et politique d'habilitations."
+      ],
+      "gettingStarted": [
+        "Définir un processus précis, un propriétaire métier, les données et outils autorisés, les cas d'escalade.",
+        "Tester en environnement de préproduction avec journalisation, jeux de cas difficiles et seuils avant la mise en production."
+      ],
+      "examples": [
+        "Décris un agent de contenu et opérations avec entrées autorisées, actions, approbations et indicateurs de succès.",
+        "Élabore 20 cas d'essai représentatifs, y compris incidents, refus, données manquantes et demandes d'intervention humaine."
+      ],
+      "pricing": "Confirmer le contrat, les forfaits applicatifs, crédits IA, connecteurs, coûts d'inférence et limites de consommation auprès du fournisseur.",
+      "privacy": "Appliquer authentification, permissions minimales, journalisation, gestion des données personnelles et politiques de conservation ; sécuriser les actions sur systèmes métier.",
+      "selection": [
+        "Comparer adéquation métier, profondeur des connecteurs, contrôle des outils, réversibilité, auditabilité et coût global."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official_product_documentation",
+      "sources": [
+        {
+          "url": "https://writer.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "hubspot-breeze-agents": {
+    "descriptionFr": "Agents Breeze de HubSpot destinés aux équipes marketing, vente et service, exploitant les données du CRM.",
+    "descriptionEn": "HubSpot Breeze agents for marketing, sales and support teams using CRM context.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Agents marketing et prospection",
+      "Assistance au support client",
+      "Contexte CRM HubSpot"
+    ],
+    "featuresEn": [
+      "Business-specific AI agents",
+      "Connections to enterprise applications and data",
+      "Governance, execution and human review"
+    ],
+    "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
+    "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
+    "officialSources": [
+      {
+        "url": "https://www.hubspot.com/products/artificial-intelligence",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Agents Breeze de HubSpot destinés aux équipes marketing, vente et service, exploitant les données du CRM.",
+      "audiences": [
+        "Équipes Marketing, ventes et support et directions métiers",
+        "Responsables SI, conformité, sécurité et transformation digitale"
+      ],
+      "cases": [
+        "Déployer un pilote pour marketing, ventes et support sur un processus limité avec métriques de qualité, d'escalade et de coût.",
+        "Comparer les traitements automatiques et les cas transmis à une personne avant d'étendre les autorisations."
+      ],
+      "advantages": [
+        "Agents marketing et prospection",
+        "Assistance au support client",
+        "Contexte CRM HubSpot"
+      ],
+      "limits": [
+        "Les crédits et fonctions varient selon abonnement ; contrôler les contacts et les communications externes.",
+        "Les agents peuvent générer des erreurs, effectuer des actions inadaptées ou exposer des données sensibles ; prévoir contrôle humain, évaluations et politique d'habilitations."
+      ],
+      "gettingStarted": [
+        "Définir un processus précis, un propriétaire métier, les données et outils autorisés, les cas d'escalade.",
+        "Tester en environnement de préproduction avec journalisation, jeux de cas difficiles et seuils avant la mise en production."
+      ],
+      "examples": [
+        "Décris un agent de marketing, ventes et support avec entrées autorisées, actions, approbations et indicateurs de succès.",
+        "Élabore 20 cas d'essai représentatifs, y compris incidents, refus, données manquantes et demandes d'intervention humaine."
+      ],
+      "pricing": "Confirmer le contrat, les forfaits applicatifs, crédits IA, connecteurs, coûts d'inférence et limites de consommation auprès du fournisseur.",
+      "privacy": "Appliquer authentification, permissions minimales, journalisation, gestion des données personnelles et politiques de conservation ; sécuriser les actions sur systèmes métier.",
+      "selection": [
+        "Comparer adéquation métier, profondeur des connecteurs, contrôle des outils, réversibilité, auditabilité et coût global."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official_product_documentation",
+      "sources": [
+        {
+          "url": "https://www.hubspot.com/products/artificial-intelligence",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "moveworks-ai-agents": {
+    "descriptionFr": "Agents Moveworks pour aider les employés à rechercher des informations et effectuer des demandes dans les applications internes.",
+    "descriptionEn": "Moveworks agents helping employees search internal information and complete requests across workplace systems.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Recherche dans les systèmes internes",
+      "Actions sur demandes employés",
+      "Connecteurs vers applications métier"
+    ],
+    "featuresEn": [
+      "Business-specific AI agents",
+      "Connections to enterprise applications and data",
+      "Governance, execution and human review"
+    ],
+    "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
+    "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
+    "officialSources": [
+      {
+        "url": "https://www.moveworks.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Agents Moveworks pour aider les employés à rechercher des informations et effectuer des demandes dans les applications internes.",
+      "audiences": [
+        "Équipes Support aux employés et directions métiers",
+        "Responsables SI, conformité, sécurité et transformation digitale"
+      ],
+      "cases": [
+        "Déployer un pilote pour support aux employés sur un processus limité avec métriques de qualité, d'escalade et de coût.",
+        "Comparer les traitements automatiques et les cas transmis à une personne avant d'étendre les autorisations."
+      ],
+      "advantages": [
+        "Recherche dans les systèmes internes",
+        "Actions sur demandes employés",
+        "Connecteurs vers applications métier"
+      ],
+      "limits": [
+        "Préserver permissions, auditabilité et confidentialité des demandes RH et IT.",
+        "Les agents peuvent générer des erreurs, effectuer des actions inadaptées ou exposer des données sensibles ; prévoir contrôle humain, évaluations et politique d'habilitations."
+      ],
+      "gettingStarted": [
+        "Définir un processus précis, un propriétaire métier, les données et outils autorisés, les cas d'escalade.",
+        "Tester en environnement de préproduction avec journalisation, jeux de cas difficiles et seuils avant la mise en production."
+      ],
+      "examples": [
+        "Décris un agent de support aux employés avec entrées autorisées, actions, approbations et indicateurs de succès.",
+        "Élabore 20 cas d'essai représentatifs, y compris incidents, refus, données manquantes et demandes d'intervention humaine."
+      ],
+      "pricing": "Confirmer le contrat, les forfaits applicatifs, crédits IA, connecteurs, coûts d'inférence et limites de consommation auprès du fournisseur.",
+      "privacy": "Appliquer authentification, permissions minimales, journalisation, gestion des données personnelles et politiques de conservation ; sécuriser les actions sur systèmes métier.",
+      "selection": [
+        "Comparer adéquation métier, profondeur des connecteurs, contrôle des outils, réversibilité, auditabilité et coût global."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official_product_documentation",
+      "sources": [
+        {
+          "url": "https://www.moveworks.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "sierra-ai": {
+    "descriptionFr": "Agents conversationnels Sierra pour la relation client, l'assistance et certaines actions sur les comptes et commandes.",
+    "descriptionEn": "Sierra conversational agents for customer experience, support and selected account or order actions.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Dialogue client multicanal",
+      "Résolution de demandes",
+      "Intégration aux processus de service"
+    ],
+    "featuresEn": [
+      "Business-specific AI agents",
+      "Connections to enterprise applications and data",
+      "Governance, execution and human review"
+    ],
+    "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
+    "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
+    "officialSources": [
+      {
+        "url": "https://sierra.ai/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Agents conversationnels Sierra pour la relation client, l'assistance et certaines actions sur les comptes et commandes.",
+      "audiences": [
+        "Équipes Expérience client et directions métiers",
+        "Responsables SI, conformité, sécurité et transformation digitale"
+      ],
+      "cases": [
+        "Déployer un pilote pour expérience client sur un processus limité avec métriques de qualité, d'escalade et de coût.",
+        "Comparer les traitements automatiques et les cas transmis à une personne avant d'étendre les autorisations."
+      ],
+      "advantages": [
+        "Dialogue client multicanal",
+        "Résolution de demandes",
+        "Intégration aux processus de service"
+      ],
+      "limits": [
+        "Les réponses et actions nécessitent des règles d'escalade, un contrôle des identités et une mesure des résolutions réelles.",
+        "Les agents peuvent générer des erreurs, effectuer des actions inadaptées ou exposer des données sensibles ; prévoir contrôle humain, évaluations et politique d'habilitations."
+      ],
+      "gettingStarted": [
+        "Définir un processus précis, un propriétaire métier, les données et outils autorisés, les cas d'escalade.",
+        "Tester en environnement de préproduction avec journalisation, jeux de cas difficiles et seuils avant la mise en production."
+      ],
+      "examples": [
+        "Décris un agent de expérience client avec entrées autorisées, actions, approbations et indicateurs de succès.",
+        "Élabore 20 cas d'essai représentatifs, y compris incidents, refus, données manquantes et demandes d'intervention humaine."
+      ],
+      "pricing": "Confirmer le contrat, les forfaits applicatifs, crédits IA, connecteurs, coûts d'inférence et limites de consommation auprès du fournisseur.",
+      "privacy": "Appliquer authentification, permissions minimales, journalisation, gestion des données personnelles et politiques de conservation ; sécuriser les actions sur systèmes métier.",
+      "selection": [
+        "Comparer adéquation métier, profondeur des connecteurs, contrôle des outils, réversibilité, auditabilité et coût global."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official_product_documentation",
+      "sources": [
+        {
+          "url": "https://sierra.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "zendesk-ai-agents": {
+    "descriptionFr": "Agents Zendesk AI conçus pour automatiser la réponse et la résolution de demandes clients sur les canaux de support.",
+    "descriptionEn": "Zendesk AI agents for automated responses and resolution of customer support requests across channels.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Résolution des tickets fréquents",
+      "Base de connaissance de support",
+      "Escalade vers agents humains"
+    ],
+    "featuresEn": [
+      "Business-specific AI agents",
+      "Connections to enterprise applications and data",
+      "Governance, execution and human review"
+    ],
+    "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
+    "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
+    "officialSources": [
+      {
+        "url": "https://www.zendesk.com/ai/ai-agents/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Agents Zendesk AI conçus pour automatiser la réponse et la résolution de demandes clients sur les canaux de support.",
+      "audiences": [
+        "Équipes Service client et directions métiers",
+        "Responsables SI, conformité, sécurité et transformation digitale"
+      ],
+      "cases": [
+        "Déployer un pilote pour service client sur un processus limité avec métriques de qualité, d'escalade et de coût.",
+        "Comparer les traitements automatiques et les cas transmis à une personne avant d'étendre les autorisations."
+      ],
+      "advantages": [
+        "Résolution des tickets fréquents",
+        "Base de connaissance de support",
+        "Escalade vers agents humains"
+      ],
+      "limits": [
+        "La qualité dépend des connaissances, règles de transfert, canaux et forfaits activés.",
+        "Les agents peuvent générer des erreurs, effectuer des actions inadaptées ou exposer des données sensibles ; prévoir contrôle humain, évaluations et politique d'habilitations."
+      ],
+      "gettingStarted": [
+        "Définir un processus précis, un propriétaire métier, les données et outils autorisés, les cas d'escalade.",
+        "Tester en environnement de préproduction avec journalisation, jeux de cas difficiles et seuils avant la mise en production."
+      ],
+      "examples": [
+        "Décris un agent de service client avec entrées autorisées, actions, approbations et indicateurs de succès.",
+        "Élabore 20 cas d'essai représentatifs, y compris incidents, refus, données manquantes et demandes d'intervention humaine."
+      ],
+      "pricing": "Confirmer le contrat, les forfaits applicatifs, crédits IA, connecteurs, coûts d'inférence et limites de consommation auprès du fournisseur.",
+      "privacy": "Appliquer authentification, permissions minimales, journalisation, gestion des données personnelles et politiques de conservation ; sécuriser les actions sur systèmes métier.",
+      "selection": [
+        "Comparer adéquation métier, profondeur des connecteurs, contrôle des outils, réversibilité, auditabilité et coût global."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official_product_documentation",
+      "sources": [
+        {
+          "url": "https://www.zendesk.com/ai/ai-agents/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "ada-ai-agent": {
+    "descriptionFr": "Plateforme Ada d'agents conversationnels automatisant les échanges de support et certaines opérations après authentification.",
+    "descriptionEn": "Ada conversational AI agent platform automating support interactions and certain authenticated actions.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Automatisation de conversations",
+      "Intégration aux systèmes de support",
+      "Escalade et pilotage de qualité"
+    ],
+    "featuresEn": [
+      "Business-specific AI agents",
+      "Connections to enterprise applications and data",
+      "Governance, execution and human review"
+    ],
+    "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
+    "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
+    "officialSources": [
+      {
+        "url": "https://www.ada.cx/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme Ada d'agents conversationnels automatisant les échanges de support et certaines opérations après authentification.",
+      "audiences": [
+        "Équipes Service client multicanal et directions métiers",
+        "Responsables SI, conformité, sécurité et transformation digitale"
+      ],
+      "cases": [
+        "Déployer un pilote pour service client multicanal sur un processus limité avec métriques de qualité, d'escalade et de coût.",
+        "Comparer les traitements automatiques et les cas transmis à une personne avant d'étendre les autorisations."
+      ],
+      "advantages": [
+        "Automatisation de conversations",
+        "Intégration aux systèmes de support",
+        "Escalade et pilotage de qualité"
+      ],
+      "limits": [
+        "Tester les réponses et les escalades avec des cas réels ; protéger identifiants et données des clients.",
+        "Les agents peuvent générer des erreurs, effectuer des actions inadaptées ou exposer des données sensibles ; prévoir contrôle humain, évaluations et politique d'habilitations."
+      ],
+      "gettingStarted": [
+        "Définir un processus précis, un propriétaire métier, les données et outils autorisés, les cas d'escalade.",
+        "Tester en environnement de préproduction avec journalisation, jeux de cas difficiles et seuils avant la mise en production."
+      ],
+      "examples": [
+        "Décris un agent de service client multicanal avec entrées autorisées, actions, approbations et indicateurs de succès.",
+        "Élabore 20 cas d'essai représentatifs, y compris incidents, refus, données manquantes et demandes d'intervention humaine."
+      ],
+      "pricing": "Confirmer le contrat, les forfaits applicatifs, crédits IA, connecteurs, coûts d'inférence et limites de consommation auprès du fournisseur.",
+      "privacy": "Appliquer authentification, permissions minimales, journalisation, gestion des données personnelles et politiques de conservation ; sécuriser les actions sur systèmes métier.",
+      "selection": [
+        "Comparer adéquation métier, profondeur des connecteurs, contrôle des outils, réversibilité, auditabilité et coût global."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official_product_documentation",
+      "sources": [
+        {
+          "url": "https://www.ada.cx/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "kore-ai-agents": {
+    "descriptionFr": "Plateforme Kore.ai de création d'agents conversationnels et de processus intégrés aux outils de l'entreprise.",
+    "descriptionEn": "Kore.ai platform for developing conversational agents and workflows integrated with enterprise tools.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Agents conversationnels",
+      "Orchestration et connecteurs",
+      "Gestion des processus métier"
+    ],
+    "featuresEn": [
+      "Agent creation and workflow setup",
+      "Connections to enterprise applications and data",
+      "Governance, execution and human review"
+    ],
+    "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
+    "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
+    "officialSources": [
+      {
+        "url": "https://kore.ai/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme Kore.ai de création d'agents conversationnels et de processus intégrés aux outils de l'entreprise.",
+      "audiences": [
+        "Équipes Assistance et processus et directions métiers",
+        "Responsables SI, conformité, sécurité et transformation digitale"
+      ],
+      "cases": [
+        "Déployer un pilote pour assistance et processus sur un processus limité avec métriques de qualité, d'escalade et de coût.",
+        "Comparer les traitements automatiques et les cas transmis à une personne avant d'étendre les autorisations."
+      ],
+      "advantages": [
+        "Agents conversationnels",
+        "Orchestration et connecteurs",
+        "Gestion des processus métier"
+      ],
+      "limits": [
+        "Les modalités de gouvernance et de déploiement varient selon l'offre et les intégrations.",
+        "Les agents peuvent générer des erreurs, effectuer des actions inadaptées ou exposer des données sensibles ; prévoir contrôle humain, évaluations et politique d'habilitations."
+      ],
+      "gettingStarted": [
+        "Définir un processus précis, un propriétaire métier, les données et outils autorisés, les cas d'escalade.",
+        "Tester en environnement de préproduction avec journalisation, jeux de cas difficiles et seuils avant la mise en production."
+      ],
+      "examples": [
+        "Décris un agent de assistance et processus avec entrées autorisées, actions, approbations et indicateurs de succès.",
+        "Élabore 20 cas d'essai représentatifs, y compris incidents, refus, données manquantes et demandes d'intervention humaine."
+      ],
+      "pricing": "Confirmer le contrat, les forfaits applicatifs, crédits IA, connecteurs, coûts d'inférence et limites de consommation auprès du fournisseur.",
+      "privacy": "Appliquer authentification, permissions minimales, journalisation, gestion des données personnelles et politiques de conservation ; sécuriser les actions sur systèmes métier.",
+      "selection": [
+        "Comparer adéquation métier, profondeur des connecteurs, contrôle des outils, réversibilité, auditabilité et coût global."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official_product_documentation",
+      "sources": [
+        {
+          "url": "https://kore.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "cognigy-ai-agents": {
+    "descriptionFr": "Plateforme Cognigy d'agents IA pour les centres de contact avec conversation vocale et textuelle et intégration aux systèmes d'entreprise.",
+    "descriptionEn": "Cognigy AI agent platform for contact centers with voice/text conversation and enterprise system integration.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Agents vocaux et chat",
+      "Automatisation de centre de contact",
+      "Transfert aux conseillers"
+    ],
+    "featuresEn": [
+      "Business-specific AI agents",
+      "Connections to enterprise applications and data",
+      "Governance, execution and human review"
+    ],
+    "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
+    "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
+    "officialSources": [
+      {
+        "url": "https://www.cognigy.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme Cognigy d'agents IA pour les centres de contact avec conversation vocale et textuelle et intégration aux systèmes d'entreprise.",
+      "audiences": [
+        "Équipes Centres de contact et directions métiers",
+        "Responsables SI, conformité, sécurité et transformation digitale"
+      ],
+      "cases": [
+        "Déployer un pilote pour centres de contact sur un processus limité avec métriques de qualité, d'escalade et de coût.",
+        "Comparer les traitements automatiques et les cas transmis à une personne avant d'étendre les autorisations."
+      ],
+      "advantages": [
+        "Agents vocaux et chat",
+        "Automatisation de centre de contact",
+        "Transfert aux conseillers"
+      ],
+      "limits": [
+        "Tenir compte des réglementations sur l'enregistrement des appels et les données personnelles.",
+        "Les agents peuvent générer des erreurs, effectuer des actions inadaptées ou exposer des données sensibles ; prévoir contrôle humain, évaluations et politique d'habilitations."
+      ],
+      "gettingStarted": [
+        "Définir un processus précis, un propriétaire métier, les données et outils autorisés, les cas d'escalade.",
+        "Tester en environnement de préproduction avec journalisation, jeux de cas difficiles et seuils avant la mise en production."
+      ],
+      "examples": [
+        "Décris un agent de centres de contact avec entrées autorisées, actions, approbations et indicateurs de succès.",
+        "Élabore 20 cas d'essai représentatifs, y compris incidents, refus, données manquantes et demandes d'intervention humaine."
+      ],
+      "pricing": "Confirmer le contrat, les forfaits applicatifs, crédits IA, connecteurs, coûts d'inférence et limites de consommation auprès du fournisseur.",
+      "privacy": "Appliquer authentification, permissions minimales, journalisation, gestion des données personnelles et politiques de conservation ; sécuriser les actions sur systèmes métier.",
+      "selection": [
+        "Comparer adéquation métier, profondeur des connecteurs, contrôle des outils, réversibilité, auditabilité et coût global."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official_product_documentation",
+      "sources": [
+        {
+          "url": "https://www.cognigy.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "uipath-agent-builder": {
+    "descriptionFr": "Outil UiPath pour concevoir des agents IA et les orchestrer avec robots RPA et interventions humaines.",
+    "descriptionEn": "UiPath tool for designing AI agents and orchestrating them with RPA robots and human interventions.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Création d'agents IA",
+      "Orchestration avec robots logiciels",
+      "Validation humaine dans les processus"
+    ],
+    "featuresEn": [
+      "Agent creation and workflow setup",
+      "Connections to enterprise applications and data",
+      "Governance, execution and human review"
+    ],
+    "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
+    "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
+    "officialSources": [
+      {
+        "url": "https://www.uipath.com/product/agent-builder",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Outil UiPath pour concevoir des agents IA et les orchestrer avec robots RPA et interventions humaines.",
+      "audiences": [
+        "Équipes Automatisation RPA et métier et directions métiers",
+        "Responsables SI, conformité, sécurité et transformation digitale"
+      ],
+      "cases": [
+        "Déployer un pilote pour automatisation rpa et métier sur un processus limité avec métriques de qualité, d'escalade et de coût.",
+        "Comparer les traitements automatiques et les cas transmis à une personne avant d'étendre les autorisations."
+      ],
+      "advantages": [
+        "Création d'agents IA",
+        "Orchestration avec robots logiciels",
+        "Validation humaine dans les processus"
+      ],
+      "limits": [
+        "Des autorisations trop larges peuvent entraîner des modifications non prévues ; prévoir approbations et journalisation.",
+        "Les agents peuvent générer des erreurs, effectuer des actions inadaptées ou exposer des données sensibles ; prévoir contrôle humain, évaluations et politique d'habilitations."
+      ],
+      "gettingStarted": [
+        "Définir un processus précis, un propriétaire métier, les données et outils autorisés, les cas d'escalade.",
+        "Tester en environnement de préproduction avec journalisation, jeux de cas difficiles et seuils avant la mise en production."
+      ],
+      "examples": [
+        "Décris un agent de automatisation rpa et métier avec entrées autorisées, actions, approbations et indicateurs de succès.",
+        "Élabore 20 cas d'essai représentatifs, y compris incidents, refus, données manquantes et demandes d'intervention humaine."
+      ],
+      "pricing": "Confirmer le contrat, les forfaits applicatifs, crédits IA, connecteurs, coûts d'inférence et limites de consommation auprès du fournisseur.",
+      "privacy": "Appliquer authentification, permissions minimales, journalisation, gestion des données personnelles et politiques de conservation ; sécuriser les actions sur systèmes métier.",
+      "selection": [
+        "Comparer adéquation métier, profondeur des connecteurs, contrôle des outils, réversibilité, auditabilité et coût global."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official_product_documentation",
+      "sources": [
+        {
+          "url": "https://www.uipath.com/product/agent-builder",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "automation-anywhere-agentic-automation": {
+    "descriptionFr": "Plateforme Automation Anywhere associant agents IA et automatisation robotisée des processus métier.",
+    "descriptionEn": "Automation Anywhere platform combining AI agents and robotic process automation for business workflows.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Automatisation agentique",
+      "Orchestration de tâches et robots",
+      "Processus de bout en bout"
+    ],
+    "featuresEn": [
+      "Agent creation and workflow setup",
+      "Connections to enterprise applications and data",
+      "Governance, execution and human review"
+    ],
+    "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
+    "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
+    "officialSources": [
+      {
+        "url": "https://www.automationanywhere.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme Automation Anywhere associant agents IA et automatisation robotisée des processus métier.",
+      "audiences": [
+        "Équipes Automatisation d'entreprise et directions métiers",
+        "Responsables SI, conformité, sécurité et transformation digitale"
+      ],
+      "cases": [
+        "Déployer un pilote pour automatisation d'entreprise sur un processus limité avec métriques de qualité, d'escalade et de coût.",
+        "Comparer les traitements automatiques et les cas transmis à une personne avant d'étendre les autorisations."
+      ],
+      "advantages": [
+        "Automatisation agentique",
+        "Orchestration de tâches et robots",
+        "Processus de bout en bout"
+      ],
+      "limits": [
+        "Comparer les licences et fonctions réellement incluses ; tests sur environnements non productifs indispensables.",
+        "Les agents peuvent générer des erreurs, effectuer des actions inadaptées ou exposer des données sensibles ; prévoir contrôle humain, évaluations et politique d'habilitations."
+      ],
+      "gettingStarted": [
+        "Définir un processus précis, un propriétaire métier, les données et outils autorisés, les cas d'escalade.",
+        "Tester en environnement de préproduction avec journalisation, jeux de cas difficiles et seuils avant la mise en production."
+      ],
+      "examples": [
+        "Décris un agent de automatisation d'entreprise avec entrées autorisées, actions, approbations et indicateurs de succès.",
+        "Élabore 20 cas d'essai représentatifs, y compris incidents, refus, données manquantes et demandes d'intervention humaine."
+      ],
+      "pricing": "Confirmer le contrat, les forfaits applicatifs, crédits IA, connecteurs, coûts d'inférence et limites de consommation auprès du fournisseur.",
+      "privacy": "Appliquer authentification, permissions minimales, journalisation, gestion des données personnelles et politiques de conservation ; sécuriser les actions sur systèmes métier.",
+      "selection": [
+        "Comparer adéquation métier, profondeur des connecteurs, contrôle des outils, réversibilité, auditabilité et coût global."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official_product_documentation",
+      "sources": [
+        {
+          "url": "https://www.automationanywhere.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "harvey-agents": {
+    "descriptionFr": "Agents d'IA juridique Harvey pour recherche, analyse de documents et workflows supervisés par des professionnels du droit.",
+    "descriptionEn": "Harvey legal AI agents for research, document analysis and workflows supervised by legal professionals.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Recherche et analyse juridiques",
+      "Traitement de dossiers et contrats",
+      "Workflows pour cabinets et juristes"
+    ],
+    "featuresEn": [
+      "Business-specific AI agents",
+      "Connections to enterprise applications and data",
+      "Governance, execution and human review"
+    ],
+    "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
+    "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
+    "officialSources": [
+      {
+        "url": "https://www.harvey.ai/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Agents d'IA juridique Harvey pour recherche, analyse de documents et workflows supervisés par des professionnels du droit.",
+      "audiences": [
+        "Équipes Droit et conformité et directions métiers",
+        "Responsables SI, conformité, sécurité et transformation digitale"
+      ],
+      "cases": [
+        "Déployer un pilote pour droit et conformité sur un processus limité avec métriques de qualité, d'escalade et de coût.",
+        "Comparer les traitements automatiques et les cas transmis à une personne avant d'étendre les autorisations."
+      ],
+      "advantages": [
+        "Recherche et analyse juridiques",
+        "Traitement de dossiers et contrats",
+        "Workflows pour cabinets et juristes"
+      ],
+      "limits": [
+        "Les résultats juridiques exigent vérification des sources, de la juridiction, de la confidentialité et du raisonnement.",
+        "Les agents peuvent générer des erreurs, effectuer des actions inadaptées ou exposer des données sensibles ; prévoir contrôle humain, évaluations et politique d'habilitations."
+      ],
+      "gettingStarted": [
+        "Définir un processus précis, un propriétaire métier, les données et outils autorisés, les cas d'escalade.",
+        "Tester en environnement de préproduction avec journalisation, jeux de cas difficiles et seuils avant la mise en production."
+      ],
+      "examples": [
+        "Décris un agent de droit et conformité avec entrées autorisées, actions, approbations et indicateurs de succès.",
+        "Élabore 20 cas d'essai représentatifs, y compris incidents, refus, données manquantes et demandes d'intervention humaine."
+      ],
+      "pricing": "Confirmer le contrat, les forfaits applicatifs, crédits IA, connecteurs, coûts d'inférence et limites de consommation auprès du fournisseur.",
+      "privacy": "Appliquer authentification, permissions minimales, journalisation, gestion des données personnelles et politiques de conservation ; sécuriser les actions sur systèmes métier.",
+      "selection": [
+        "Comparer adéquation métier, profondeur des connecteurs, contrôle des outils, réversibilité, auditabilité et coût global."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official_product_documentation",
+      "sources": [
+        {
+          "url": "https://www.harvey.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "palantir-aip-agents": {
+    "descriptionFr": "Systèmes agentiques Palantir AIP connectant modèles d'IA, données gouvernées et actions opérationnelles.",
+    "descriptionEn": "Palantir AIP agentic systems connecting AI models, governed enterprise data and operational actions.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Accès contrôlé aux données métier",
+      "Outils et actions opérationnelles",
+      "Gouvernance et audit"
+    ],
+    "featuresEn": [
+      "Agent creation and workflow setup",
+      "Connections to enterprise applications and data",
+      "Governance, execution and human review"
+    ],
+    "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
+    "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
+    "officialSources": [
+      {
+        "url": "https://www.palantir.com/platforms/aip/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Systèmes agentiques Palantir AIP connectant modèles d'IA, données gouvernées et actions opérationnelles.",
+      "audiences": [
+        "Équipes Opérations et données complexes et directions métiers",
+        "Responsables SI, conformité, sécurité et transformation digitale"
+      ],
+      "cases": [
+        "Déployer un pilote pour opérations et données complexes sur un processus limité avec métriques de qualité, d'escalade et de coût.",
+        "Comparer les traitements automatiques et les cas transmis à une personne avant d'étendre les autorisations."
+      ],
+      "advantages": [
+        "Accès contrôlé aux données métier",
+        "Outils et actions opérationnelles",
+        "Gouvernance et audit"
+      ],
+      "limits": [
+        "Configurer droits, traces et limites d'action ; distinguer simulation, recommandation et action exécutée.",
+        "Les agents peuvent générer des erreurs, effectuer des actions inadaptées ou exposer des données sensibles ; prévoir contrôle humain, évaluations et politique d'habilitations."
+      ],
+      "gettingStarted": [
+        "Définir un processus précis, un propriétaire métier, les données et outils autorisés, les cas d'escalade.",
+        "Tester en environnement de préproduction avec journalisation, jeux de cas difficiles et seuils avant la mise en production."
+      ],
+      "examples": [
+        "Décris un agent de opérations et données complexes avec entrées autorisées, actions, approbations et indicateurs de succès.",
+        "Élabore 20 cas d'essai représentatifs, y compris incidents, refus, données manquantes et demandes d'intervention humaine."
+      ],
+      "pricing": "Confirmer le contrat, les forfaits applicatifs, crédits IA, connecteurs, coûts d'inférence et limites de consommation auprès du fournisseur.",
+      "privacy": "Appliquer authentification, permissions minimales, journalisation, gestion des données personnelles et politiques de conservation ; sécuriser les actions sur systèmes métier.",
+      "selection": [
+        "Comparer adéquation métier, profondeur des connecteurs, contrôle des outils, réversibilité, auditabilité et coût global."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official_product_documentation",
+      "sources": [
+        {
+          "url": "https://www.palantir.com/platforms/aip/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "databricks-agent-bricks": {
+    "descriptionFr": "Plateforme Databricks Agent Bricks pour construire, évaluer et gouverner des agents exploitant les données d'entreprise et AI Search.",
+    "descriptionEn": "Databricks Agent Bricks platform for building, evaluating and governing agents using enterprise data and AI Search.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Création et optimisation d'agents",
+      "Recherche IA et intégration Lakehouse",
+      "Gouvernance des identités et outils"
+    ],
+    "featuresEn": [
+      "Agent creation and workflow setup",
+      "Connections to enterprise applications and data",
+      "Governance, execution and human review"
+    ],
+    "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
+    "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
+    "officialSources": [
+      {
+        "url": "https://docs.databricks.com/aws/en/agents/concepts",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme Databricks Agent Bricks pour construire, évaluer et gouverner des agents exploitant les données d'entreprise et AI Search.",
+      "audiences": [
+        "Équipes Données et applications RAG et directions métiers",
+        "Responsables SI, conformité, sécurité et transformation digitale"
+      ],
+      "cases": [
+        "Déployer un pilote pour données et applications rag sur un processus limité avec métriques de qualité, d'escalade et de coût.",
+        "Comparer les traitements automatiques et les cas transmis à une personne avant d'étendre les autorisations."
+      ],
+      "advantages": [
+        "Création et optimisation d'agents",
+        "Recherche IA et intégration Lakehouse",
+        "Gouvernance des identités et outils"
+      ],
+      "limits": [
+        "Comparer disponibilité cloud, permissions Unity Catalog, coûts de modèles et garde-fous de données.",
+        "Les agents peuvent générer des erreurs, effectuer des actions inadaptées ou exposer des données sensibles ; prévoir contrôle humain, évaluations et politique d'habilitations."
+      ],
+      "gettingStarted": [
+        "Définir un processus précis, un propriétaire métier, les données et outils autorisés, les cas d'escalade.",
+        "Tester en environnement de préproduction avec journalisation, jeux de cas difficiles et seuils avant la mise en production."
+      ],
+      "examples": [
+        "Décris un agent de données et applications rag avec entrées autorisées, actions, approbations et indicateurs de succès.",
+        "Élabore 20 cas d'essai représentatifs, y compris incidents, refus, données manquantes et demandes d'intervention humaine."
+      ],
+      "pricing": "Confirmer le contrat, les forfaits applicatifs, crédits IA, connecteurs, coûts d'inférence et limites de consommation auprès du fournisseur.",
+      "privacy": "Appliquer authentification, permissions minimales, journalisation, gestion des données personnelles et politiques de conservation ; sécuriser les actions sur systèmes métier.",
+      "selection": [
+        "Comparer adéquation métier, profondeur des connecteurs, contrôle des outils, réversibilité, auditabilité et coût global."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official_product_documentation",
+      "sources": [
+        {
+          "url": "https://docs.databricks.com/aws/en/agents/concepts",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "cohere-north": {
+    "descriptionFr": "Plateforme Cohere North d'agents d'entreprise connectés à la recherche et aux processus fondés sur des informations internes.",
+    "descriptionEn": "Cohere North enterprise agent platform connecting internal knowledge search with business processes.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Recherche dans les données d'entreprise",
+      "Agents et automatisations métier",
+      "Accès selon politiques de sécurité"
+    ],
+    "featuresEn": [
+      "Business-specific AI agents",
+      "Connections to enterprise applications and data",
+      "Governance, execution and human review"
+    ],
+    "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
+    "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
+    "officialSources": [
+      {
+        "url": "https://cohere.com/north",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme Cohere North d'agents d'entreprise connectés à la recherche et aux processus fondés sur des informations internes.",
+      "audiences": [
+        "Équipes Recherche et opérations et directions métiers",
+        "Responsables SI, conformité, sécurité et transformation digitale"
+      ],
+      "cases": [
+        "Déployer un pilote pour recherche et opérations sur un processus limité avec métriques de qualité, d'escalade et de coût.",
+        "Comparer les traitements automatiques et les cas transmis à une personne avant d'étendre les autorisations."
+      ],
+      "advantages": [
+        "Recherche dans les données d'entreprise",
+        "Agents et automatisations métier",
+        "Accès selon politiques de sécurité"
+      ],
+      "limits": [
+        "Vérifier disponibilité contractuelle, connecteurs et options de déploiement privé.",
+        "Les agents peuvent générer des erreurs, effectuer des actions inadaptées ou exposer des données sensibles ; prévoir contrôle humain, évaluations et politique d'habilitations."
+      ],
+      "gettingStarted": [
+        "Définir un processus précis, un propriétaire métier, les données et outils autorisés, les cas d'escalade.",
+        "Tester en environnement de préproduction avec journalisation, jeux de cas difficiles et seuils avant la mise en production."
+      ],
+      "examples": [
+        "Décris un agent de recherche et opérations avec entrées autorisées, actions, approbations et indicateurs de succès.",
+        "Élabore 20 cas d'essai représentatifs, y compris incidents, refus, données manquantes et demandes d'intervention humaine."
+      ],
+      "pricing": "Confirmer le contrat, les forfaits applicatifs, crédits IA, connecteurs, coûts d'inférence et limites de consommation auprès du fournisseur.",
+      "privacy": "Appliquer authentification, permissions minimales, journalisation, gestion des données personnelles et politiques de conservation ; sécuriser les actions sur systèmes métier.",
+      "selection": [
+        "Comparer adéquation métier, profondeur des connecteurs, contrôle des outils, réversibilité, auditabilité et coût global."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official_product_documentation",
+      "sources": [
+        {
+          "url": "https://cohere.com/north",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "beam-ai": {
+    "descriptionFr": "Plateforme Beam AI pour configurer des agents métiers capables d'exécuter des workflows opérationnels.",
+    "descriptionEn": "Beam AI platform for configuring business agents that perform operational workflows.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Agents de processus métier",
+      "Intégrations aux systèmes d'entreprise",
+      "Exécution de tâches répétitives"
+    ],
+    "featuresEn": [
+      "Agent creation and workflow setup",
+      "Connections to enterprise applications and data",
+      "Governance, execution and human review"
+    ],
+    "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
+    "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
+    "officialSources": [
+      {
+        "url": "https://beam.ai/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme Beam AI pour configurer des agents métiers capables d'exécuter des workflows opérationnels.",
+      "audiences": [
+        "Équipes Opérations et back-office et directions métiers",
+        "Responsables SI, conformité, sécurité et transformation digitale"
+      ],
+      "cases": [
+        "Déployer un pilote pour opérations et back-office sur un processus limité avec métriques de qualité, d'escalade et de coût.",
+        "Comparer les traitements automatiques et les cas transmis à une personne avant d'étendre les autorisations."
+      ],
+      "advantages": [
+        "Agents de processus métier",
+        "Intégrations aux systèmes d'entreprise",
+        "Exécution de tâches répétitives"
+      ],
+      "limits": [
+        "Les gains annoncés sont propres aux cas d'étude ; mesurer qualité et retours sur exceptions avant généralisation.",
+        "Les agents peuvent générer des erreurs, effectuer des actions inadaptées ou exposer des données sensibles ; prévoir contrôle humain, évaluations et politique d'habilitations."
+      ],
+      "gettingStarted": [
+        "Définir un processus précis, un propriétaire métier, les données et outils autorisés, les cas d'escalade.",
+        "Tester en environnement de préproduction avec journalisation, jeux de cas difficiles et seuils avant la mise en production."
+      ],
+      "examples": [
+        "Décris un agent de opérations et back-office avec entrées autorisées, actions, approbations et indicateurs de succès.",
+        "Élabore 20 cas d'essai représentatifs, y compris incidents, refus, données manquantes et demandes d'intervention humaine."
+      ],
+      "pricing": "Confirmer le contrat, les forfaits applicatifs, crédits IA, connecteurs, coûts d'inférence et limites de consommation auprès du fournisseur.",
+      "privacy": "Appliquer authentification, permissions minimales, journalisation, gestion des données personnelles et politiques de conservation ; sécuriser les actions sur systèmes métier.",
+      "selection": [
+        "Comparer adéquation métier, profondeur des connecteurs, contrôle des outils, réversibilité, auditabilité et coût global."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official_product_documentation",
+      "sources": [
+        {
+          "url": "https://beam.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "dust": {
+    "descriptionFr": "Plateforme Dust de création d'agents connectés aux connaissances et applications d'une équipe.",
+    "descriptionEn": "Dust platform for building agents connected to team knowledge and applications.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Connecteurs aux bases documentaires",
+      "Agents partagés par équipe",
+      "Recherche et actions autorisées"
+    ],
+    "featuresEn": [
+      "Agent creation and workflow setup",
+      "Connections to enterprise applications and data",
+      "Governance, execution and human review"
+    ],
+    "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
+    "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
+    "officialSources": [
+      {
+        "url": "https://dust.tt/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme Dust de création d'agents connectés aux connaissances et applications d'une équipe.",
+      "audiences": [
+        "Équipes Connaissances et productivité et directions métiers",
+        "Responsables SI, conformité, sécurité et transformation digitale"
+      ],
+      "cases": [
+        "Déployer un pilote pour connaissances et productivité sur un processus limité avec métriques de qualité, d'escalade et de coût.",
+        "Comparer les traitements automatiques et les cas transmis à une personne avant d'étendre les autorisations."
+      ],
+      "advantages": [
+        "Connecteurs aux bases documentaires",
+        "Agents partagés par équipe",
+        "Recherche et actions autorisées"
+      ],
+      "limits": [
+        "Configurer les accès aux sources connectées et vérifier la synchronisation et l'isolation des données.",
+        "Les agents peuvent générer des erreurs, effectuer des actions inadaptées ou exposer des données sensibles ; prévoir contrôle humain, évaluations et politique d'habilitations."
+      ],
+      "gettingStarted": [
+        "Définir un processus précis, un propriétaire métier, les données et outils autorisés, les cas d'escalade.",
+        "Tester en environnement de préproduction avec journalisation, jeux de cas difficiles et seuils avant la mise en production."
+      ],
+      "examples": [
+        "Décris un agent de connaissances et productivité avec entrées autorisées, actions, approbations et indicateurs de succès.",
+        "Élabore 20 cas d'essai représentatifs, y compris incidents, refus, données manquantes et demandes d'intervention humaine."
+      ],
+      "pricing": "Confirmer le contrat, les forfaits applicatifs, crédits IA, connecteurs, coûts d'inférence et limites de consommation auprès du fournisseur.",
+      "privacy": "Appliquer authentification, permissions minimales, journalisation, gestion des données personnelles et politiques de conservation ; sécuriser les actions sur systèmes métier.",
+      "selection": [
+        "Comparer adéquation métier, profondeur des connecteurs, contrôle des outils, réversibilité, auditabilité et coût global."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official_product_documentation",
+      "sources": [
+        {
+          "url": "https://dust.tt/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "stackai": {
+    "descriptionFr": "Plateforme StackAI de création d'agents et workflows IA connectés aux documents et outils métiers.",
+    "descriptionEn": "StackAI platform for building AI agents and workflows connected to business documents and tools.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Constructeur de workflows",
+      "Recherche documentaire et agents",
+      "Intégrations et gouvernance"
+    ],
+    "featuresEn": [
+      "Agent creation and workflow setup",
+      "Connections to enterprise applications and data",
+      "Governance, execution and human review"
+    ],
+    "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
+    "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
+    "officialSources": [
+      {
+        "url": "https://www.stack-ai.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme StackAI de création d'agents et workflows IA connectés aux documents et outils métiers.",
+      "audiences": [
+        "Équipes Workflows IA métiers et directions métiers",
+        "Responsables SI, conformité, sécurité et transformation digitale"
+      ],
+      "cases": [
+        "Déployer un pilote pour workflows ia métiers sur un processus limité avec métriques de qualité, d'escalade et de coût.",
+        "Comparer les traitements automatiques et les cas transmis à une personne avant d'étendre les autorisations."
+      ],
+      "advantages": [
+        "Constructeur de workflows",
+        "Recherche documentaire et agents",
+        "Intégrations et gouvernance"
+      ],
+      "limits": [
+        "Vérifier les options de données, limites d'exécution et modalités de déploiement selon contrat.",
+        "Les agents peuvent générer des erreurs, effectuer des actions inadaptées ou exposer des données sensibles ; prévoir contrôle humain, évaluations et politique d'habilitations."
+      ],
+      "gettingStarted": [
+        "Définir un processus précis, un propriétaire métier, les données et outils autorisés, les cas d'escalade.",
+        "Tester en environnement de préproduction avec journalisation, jeux de cas difficiles et seuils avant la mise en production."
+      ],
+      "examples": [
+        "Décris un agent de workflows ia métiers avec entrées autorisées, actions, approbations et indicateurs de succès.",
+        "Élabore 20 cas d'essai représentatifs, y compris incidents, refus, données manquantes et demandes d'intervention humaine."
+      ],
+      "pricing": "Confirmer le contrat, les forfaits applicatifs, crédits IA, connecteurs, coûts d'inférence et limites de consommation auprès du fournisseur.",
+      "privacy": "Appliquer authentification, permissions minimales, journalisation, gestion des données personnelles et politiques de conservation ; sécuriser les actions sur systèmes métier.",
+      "selection": [
+        "Comparer adéquation métier, profondeur des connecteurs, contrôle des outils, réversibilité, auditabilité et coût global."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official_product_documentation",
+      "sources": [
+        {
+          "url": "https://www.stack-ai.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "pega-agentic-ai": {
+    "descriptionFr": "Fonctions Pega d'agents et d'orchestration fondées sur des processus métier gouvernés et des règles de décision.",
+    "descriptionEn": "Pega agent capabilities and orchestration based on governed enterprise workflows and decision rules.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Orchestration des processus",
+      "Décisions et règles métier",
+      "Agents dans les applications Pega"
+    ],
+    "featuresEn": [
+      "Business-specific AI agents",
+      "Connections to enterprise applications and data",
+      "Governance, execution and human review"
+    ],
+    "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
+    "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
+    "officialSources": [
+      {
+        "url": "https://www.pega.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Fonctions Pega d'agents et d'orchestration fondées sur des processus métier gouvernés et des règles de décision.",
+      "audiences": [
+        "Équipes BPM et service et directions métiers",
+        "Responsables SI, conformité, sécurité et transformation digitale"
+      ],
+      "cases": [
+        "Déployer un pilote pour bpm et service sur un processus limité avec métriques de qualité, d'escalade et de coût.",
+        "Comparer les traitements automatiques et les cas transmis à une personne avant d'étendre les autorisations."
+      ],
+      "advantages": [
+        "Orchestration des processus",
+        "Décisions et règles métier",
+        "Agents dans les applications Pega"
+      ],
+      "limits": [
+        "Confirmer la disponibilité des fonctions selon Pega Platform et les droits d'accès aux actions.",
+        "Les agents peuvent générer des erreurs, effectuer des actions inadaptées ou exposer des données sensibles ; prévoir contrôle humain, évaluations et politique d'habilitations."
+      ],
+      "gettingStarted": [
+        "Définir un processus précis, un propriétaire métier, les données et outils autorisés, les cas d'escalade.",
+        "Tester en environnement de préproduction avec journalisation, jeux de cas difficiles et seuils avant la mise en production."
+      ],
+      "examples": [
+        "Décris un agent de bpm et service avec entrées autorisées, actions, approbations et indicateurs de succès.",
+        "Élabore 20 cas d'essai représentatifs, y compris incidents, refus, données manquantes et demandes d'intervention humaine."
+      ],
+      "pricing": "Confirmer le contrat, les forfaits applicatifs, crédits IA, connecteurs, coûts d'inférence et limites de consommation auprès du fournisseur.",
+      "privacy": "Appliquer authentification, permissions minimales, journalisation, gestion des données personnelles et politiques de conservation ; sécuriser les actions sur systèmes métier.",
+      "selection": [
+        "Comparer adéquation métier, profondeur des connecteurs, contrôle des outils, réversibilité, auditabilité et coût global."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official_product_documentation",
+      "sources": [
+        {
+          "url": "https://www.pega.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "notion-agent": {
+    "descriptionFr": "Agent Notion AI travaillant sur pages, projets et bases de données de l'espace de travail, selon droits et fonctionnalités activées.",
+    "descriptionEn": "Notion AI agent working with workspace pages, projects and databases according to permissions and enabled features.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Recherche et synthèse dans Notion",
+      "Mise à jour de pages et bases",
+      "Tâches liées à l'espace collaboratif"
+    ],
+    "featuresEn": [
+      "Business-specific AI agents",
+      "Connections to enterprise applications and data",
+      "Governance, execution and human review"
+    ],
+    "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
+    "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
+    "officialSources": [
+      {
+        "url": "https://www.notion.com/product/ai",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Agent Notion AI travaillant sur pages, projets et bases de données de l'espace de travail, selon droits et fonctionnalités activées.",
+      "audiences": [
+        "Équipes Productivité et connaissances et directions métiers",
+        "Responsables SI, conformité, sécurité et transformation digitale"
+      ],
+      "cases": [
+        "Déployer un pilote pour productivité et connaissances sur un processus limité avec métriques de qualité, d'escalade et de coût.",
+        "Comparer les traitements automatiques et les cas transmis à une personne avant d'étendre les autorisations."
+      ],
+      "advantages": [
+        "Recherche et synthèse dans Notion",
+        "Mise à jour de pages et bases",
+        "Tâches liées à l'espace collaboratif"
+      ],
+      "limits": [
+        "Respecter les permissions, vérifier les modifications et les limites des connecteurs ou de l'abonnement.",
+        "Les agents peuvent générer des erreurs, effectuer des actions inadaptées ou exposer des données sensibles ; prévoir contrôle humain, évaluations et politique d'habilitations."
+      ],
+      "gettingStarted": [
+        "Définir un processus précis, un propriétaire métier, les données et outils autorisés, les cas d'escalade.",
+        "Tester en environnement de préproduction avec journalisation, jeux de cas difficiles et seuils avant la mise en production."
+      ],
+      "examples": [
+        "Décris un agent de productivité et connaissances avec entrées autorisées, actions, approbations et indicateurs de succès.",
+        "Élabore 20 cas d'essai représentatifs, y compris incidents, refus, données manquantes et demandes d'intervention humaine."
+      ],
+      "pricing": "Confirmer le contrat, les forfaits applicatifs, crédits IA, connecteurs, coûts d'inférence et limites de consommation auprès du fournisseur.",
+      "privacy": "Appliquer authentification, permissions minimales, journalisation, gestion des données personnelles et politiques de conservation ; sécuriser les actions sur systèmes métier.",
+      "selection": [
+        "Comparer adéquation métier, profondeur des connecteurs, contrôle des outils, réversibilité, auditabilité et coût global."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official_product_documentation",
+      "sources": [
+        {
+          "url": "https://www.notion.com/product/ai",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "asana-ai-teammates": {
+    "descriptionFr": "Agents collaboratifs Asana AI Teammates opérant dans les projets et tâches, avec mémoire partagée, contexte et revue des livrables.",
+    "descriptionEn": "Asana collaborative AI Teammates working on projects and tasks with shared context, memory and reviewable output.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Coéquipiers IA assignables à des tâches",
+      "Contexte du Work Graph",
+      "Suivi et contrôle des résultats"
+    ],
+    "featuresEn": [
+      "Business-specific AI agents",
+      "Connections to enterprise applications and data",
+      "Governance, execution and human review"
+    ],
+    "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
+    "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
+    "officialSources": [
+      {
+        "url": "https://asana.com/product/ai/ai-teammates",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Agents collaboratifs Asana AI Teammates opérant dans les projets et tâches, avec mémoire partagée, contexte et revue des livrables.",
+      "audiences": [
+        "Équipes Gestion de projets et directions métiers",
+        "Responsables SI, conformité, sécurité et transformation digitale"
+      ],
+      "cases": [
+        "Déployer un pilote pour gestion de projets sur un processus limité avec métriques de qualité, d'escalade et de coût.",
+        "Comparer les traitements automatiques et les cas transmis à une personne avant d'étendre les autorisations."
+      ],
+      "advantages": [
+        "Coéquipiers IA assignables à des tâches",
+        "Contexte du Work Graph",
+        "Suivi et contrôle des résultats"
+      ],
+      "limits": [
+        "Définir rôles et accès aux projets ; évaluer les résultats avant d'agir sur des délais ou décisions.",
+        "Les agents peuvent générer des erreurs, effectuer des actions inadaptées ou exposer des données sensibles ; prévoir contrôle humain, évaluations et politique d'habilitations."
+      ],
+      "gettingStarted": [
+        "Définir un processus précis, un propriétaire métier, les données et outils autorisés, les cas d'escalade.",
+        "Tester en environnement de préproduction avec journalisation, jeux de cas difficiles et seuils avant la mise en production."
+      ],
+      "examples": [
+        "Décris un agent de gestion de projets avec entrées autorisées, actions, approbations et indicateurs de succès.",
+        "Élabore 20 cas d'essai représentatifs, y compris incidents, refus, données manquantes et demandes d'intervention humaine."
+      ],
+      "pricing": "Confirmer le contrat, les forfaits applicatifs, crédits IA, connecteurs, coûts d'inférence et limites de consommation auprès du fournisseur.",
+      "privacy": "Appliquer authentification, permissions minimales, journalisation, gestion des données personnelles et politiques de conservation ; sécuriser les actions sur systèmes métier.",
+      "selection": [
+        "Comparer adéquation métier, profondeur des connecteurs, contrôle des outils, réversibilité, auditabilité et coût global."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official_product_documentation",
+      "sources": [
+        {
+          "url": "https://asana.com/product/ai/ai-teammates",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "glean-agents": {
+    "descriptionFr": "Agents Glean connectés à la recherche d'entreprise et aux outils de travail pour automatiser des processus contrôlés.",
+    "descriptionEn": "Glean agents connected to enterprise search and workplace tools to automate governed workflows.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Agents et bibliothèque de modèles",
+      "Recherche sur connaissances internes",
+      "Actions connectées avec permissions"
+    ],
+    "featuresEn": [
+      "Business-specific AI agents",
+      "Connections to enterprise applications and data",
+      "Governance, execution and human review"
+    ],
+    "accessFr": "Plateforme d'entreprise ou fonctionnalité SaaS selon licences, produits et pays",
+    "accessEn": "Enterprise platform or SaaS feature depending on licensing, products and region",
+    "officialSources": [
+      {
+        "url": "https://docs.glean.com/agents/overview/about-agents",
+        "checkedAt": "2026-11-17",
+        "scope": "features_and_current_status"
+      }
+    ],
+    "research": {
+      "headline": "Agents Glean connectés à la recherche d'entreprise et aux outils de travail pour automatiser des processus contrôlés.",
+      "audiences": [
+        "Équipes Recherche et automatisation et directions métiers",
+        "Responsables SI, conformité, sécurité et transformation digitale"
+      ],
+      "cases": [
+        "Déployer un pilote pour recherche et automatisation sur un processus limité avec métriques de qualité, d'escalade et de coût.",
+        "Comparer les traitements automatiques et les cas transmis à une personne avant d'étendre les autorisations."
+      ],
+      "advantages": [
+        "Agents et bibliothèque de modèles",
+        "Recherche sur connaissances internes",
+        "Actions connectées avec permissions"
+      ],
+      "limits": [
+        "Les identités d'agents et habilitations doivent être bornées ; vérifier les fonctions disponibles selon déploiement.",
+        "Les agents peuvent générer des erreurs, effectuer des actions inadaptées ou exposer des données sensibles ; prévoir contrôle humain, évaluations et politique d'habilitations."
+      ],
+      "gettingStarted": [
+        "Définir un processus précis, un propriétaire métier, les données et outils autorisés, les cas d'escalade.",
+        "Tester en environnement de préproduction avec journalisation, jeux de cas difficiles et seuils avant la mise en production."
+      ],
+      "examples": [
+        "Décris un agent de recherche et automatisation avec entrées autorisées, actions, approbations et indicateurs de succès.",
+        "Élabore 20 cas d'essai représentatifs, y compris incidents, refus, données manquantes et demandes d'intervention humaine."
+      ],
+      "pricing": "Confirmer le contrat, les forfaits applicatifs, crédits IA, connecteurs, coûts d'inférence et limites de consommation auprès du fournisseur.",
+      "privacy": "Appliquer authentification, permissions minimales, journalisation, gestion des données personnelles et politiques de conservation ; sécuriser les actions sur systèmes métier.",
+      "selection": [
+        "Comparer adéquation métier, profondeur des connecteurs, contrôle des outils, réversibilité, auditabilité et coût global."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official_product_documentation",
+      "sources": [
+        {
+          "url": "https://docs.glean.com/agents/overview/about-agents",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  }
+}
