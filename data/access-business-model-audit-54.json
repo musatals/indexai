@@ -1,0 +1,122 @@
+{
+  "salesforce-agentforce": {
+    "accessFr": "Agents métiers disponibles dans l'écosystème Salesforce et ses outils CRM et API.",
+    "accessEn": "Business agents in the Salesforce ecosystem, CRM tools and APIs.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "Facturation possible par conversation, Flex Credits ou licence utilisateur selon cas d'usage.",
+      "en": "Usage may be billed per conversation, via Flex Credits or per-user license depending on use case.",
+      "sourceUrl": "https://www.salesforce.com/agentforce/pricing/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-54"
+  },
+  "gemini-enterprise-agents": {
+    "accessFr": "Agents d'entreprise Google via la plateforme Gemini Enterprise et services Google Cloud.",
+    "accessEn": "Enterprise agents through the Gemini Enterprise platform and Google Cloud services.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "Coûts des modèles et de l'infrastructure, incluant calcul, mémoire et stockage des agents, selon consommation.",
+      "en": "Model and infrastructure usage charges, including agent compute, memory and storage.",
+      "sourceUrl": "https://cloud.google.com/products/gemini-enterprise-agent-platform/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-54"
+  },
+  "hubspot-breeze-agents": {
+    "accessFr": "Agents commerciaux et de service HubSpot dans Agent Hub, anciennement Breeze Agents.",
+    "accessEn": "HubSpot sales and customer agents in Agent Hub, formerly Breeze Agents.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "Fonctions selon abonnement HubSpot ; crédits et facturation à la résolution ou au résultat pour agents éligibles.",
+      "en": "Features depend on HubSpot subscription; credits and outcome/resolution-based pricing for eligible agents.",
+      "sourceUrl": "https://www.hubspot.com/products/artificial-intelligence/credits",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-54"
+  },
+  "zendesk-ai-agents": {
+    "accessFr": "Agents de support disponibles dans les produits Zendesk sur Web, messagerie et autres canaux.",
+    "accessEn": "Support agents available in Zendesk products across web, messaging and other channels.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "Facturation des résolutions automatisées ; niveaux et quotas associés aux forfaits de service.",
+      "en": "Automated-resolution billing with tiers and allowances associated with service plans.",
+      "sourceUrl": "https://support.zendesk.com/hc/en-us/articles/9570369117338-About-automated-resolution-tiers",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-54"
+  },
+  "servicenow-ai-agents": {
+    "accessFr": "Agents professionnels accessibles depuis ServiceNow AI Platform et produits métiers compatibles.",
+    "accessEn": "Enterprise agents through ServiceNow AI Platform and supported business products.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Accès selon produits, modules et niveaux de licence ServiceNow, avec conditions contractuelles.",
+      "en": "Access depends on ServiceNow products, modules and licensing tiers, with contractual terms.",
+      "sourceUrl": "https://www.servicenow.com/docs/r/intelligent-experiences/ai-agent-landing-page.html",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-54"
+  },
+  "dust": {
+    "accessFr": "Plateforme Web et intégrations permettant aux équipes de créer, exécuter et administrer des agents.",
+    "accessEn": "Web platform and integrations for teams to build, run and administer agents.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Abonnements Business ou Enterprise avec licences et crédits IA par utilisateur ou mutualisés.",
+      "en": "Business or Enterprise subscriptions with user-level or pooled AI credits.",
+      "sourceUrl": "https://dust.tt/home/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-54"
+  },
+  "notion-agent": {
+    "accessFr": "Agent Notion intégré à l'espace de travail Web et aux applications compatibles.",
+    "accessEn": "Notion Agent integrated into the web workspace and supported apps.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Essai IA limité avec Free et Plus ; fonctionnalités d'agent dans Business/Enterprise et crédits pour agents personnalisés.",
+      "en": "Limited AI trial on Free and Plus; agent features in Business/Enterprise with credits for custom agents.",
+      "sourceUrl": "https://www.notion.com/product/agents",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-54"
+  },
+  "glean-agents": {
+    "accessFr": "Agents de recherche et de workflows dans la plateforme Glean pour organisations.",
+    "accessEn": "Search and workflow agents within the Glean enterprise platform.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Accès sous licences entreprise ; dans Enterprise Flex, exécutions d'agents décomptées en FlexCredits.",
+      "en": "Enterprise licenses; agent executions use FlexCredits under Enterprise Flex pricing.",
+      "sourceUrl": "https://docs.glean.com/administration/managing-agents/set-up-llms",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-54"
+  }
+}
