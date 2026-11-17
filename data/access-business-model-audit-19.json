@@ -1,0 +1,47 @@
+{
+  "runway": {
+    "accessFr": "Studio de création IA sur le Web, outils vidéo et API selon offre",
+    "accessEn": "Web AI creative studio, video tools and API depending on plan",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Crédits initiaux gratuits limités ; abonnements Standard, Pro et niveaux supérieurs avec crédits mensuels.",
+      "en": "Limited initial free credits; Standard, Pro and higher tiers with monthly credits.",
+      "sourceUrl": "https://help.runwayml.com/hc/en-us/articles/15124877443219-How-do-credits-work",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-19"
+  },
+  "pika": {
+    "accessFr": "Application Web de génération vidéo ; application iOS selon disponibilité",
+    "accessEn": "Web video generation application; iOS app where available",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Offre gratuite limitée et forfaits Starter, Creator ou Fancy ; packs de crédits complémentaires.",
+      "en": "Limited free tier and Starter, Creator or Fancy plans; optional credit packs.",
+      "sourceUrl": "https://pika.art/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-19"
+  },
+  "luma-dream-machine": {
+    "accessFr": "Générateur vidéo et images Dream Machine sur le Web ; API destinée aux développeurs",
+    "accessEn": "Dream Machine web video/image generator; developer API",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Accès gratuit limité et niveaux d’abonnement payants ; crédits API séparés.",
+      "en": "Limited free access and paid subscription tiers; separate API credits.",
+      "sourceUrl": "https://lumalabs.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-19"
+  }
+}
