@@ -1,0 +1,92 @@
+{
+  "copy-ai": {
+    "accessFr": "Plateforme Web de flux de travail commerciaux et de création de contenus ; API selon forfait",
+    "accessEn": "Web platform for business workflows and content generation; API per plan",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Offres professionnelles par abonnement ou crédits d’utilisation ; solutions entreprise personnalisées.",
+      "en": "Business subscriptions or usage credits; custom enterprise solutions.",
+      "sourceUrl": "https://www.copy.ai/prices",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-14"
+  },
+  "writesonic": {
+    "accessFr": "Plateforme Web de visibilité dans les recherches IA et flux marketing",
+    "accessEn": "Web AI search visibility and marketing workflow platform",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Abonnements et offres entreprise pour le suivi de visibilité IA et les workflows marketing.",
+      "en": "Paid subscriptions and enterprise packages for AI visibility tracking and marketing workflows.",
+      "sourceUrl": "https://writesonic.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-14"
+  },
+  "rytr": {
+    "accessFr": "Assistant accessible via application Web ; intégrations selon service",
+    "accessEn": "Assistant accessible via web application; integrations depend on service",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Formule Free et offres payantes pour davantage de capacités ; vérifier le périmètre actuel des fonctions.",
+      "en": "Free tier and paid plans for expanded capabilities; check current feature scope.",
+      "sourceUrl": "https://rytr.me/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-14"
+  },
+  "wordtune": {
+    "accessFr": "Éditeur Web, extension de navigateur et outils de réécriture",
+    "accessEn": "Web editor, browser extension and rewriting tools",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Quota gratuit de réécritures et suggestions ; abonnements avancés ou illimités.",
+      "en": "Free quota of rewrites and suggestions; advanced and unlimited subscriptions.",
+      "sourceUrl": "https://www.wordtune.com/plans",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-14"
+  },
+  "writer": {
+    "accessFr": "Plateforme Web d’agents IA pour entreprises, modèles et intégrations selon contrat",
+    "accessEn": "Enterprise AI agent web platform, models and integrations per agreement",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Offres Starter et Enterprise, avec prix et conditions dépendant du nombre d’utilisateurs et des besoins.",
+      "en": "Starter and Enterprise plans; pricing and terms depend on users and requirements.",
+      "sourceUrl": "https://writer.com/plans/",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-14"
+  },
+  "textcortex": {
+    "accessFr": "Application Web et extension de navigateur, espaces de connaissances et intégrations",
+    "accessEn": "Web application and browser extension, knowledge spaces and integrations",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Usage initial gratuit ou limité ; abonnements et solutions de déploiement entreprise.",
+      "en": "Initial free or limited usage; subscriptions and enterprise deployment options.",
+      "sourceUrl": "https://textcortex.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-14"
+  }
+}
