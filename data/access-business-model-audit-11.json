@@ -1,0 +1,122 @@
+{
+  "exa": {
+    "accessFr": "API de recherche Web pour développeurs ; console et documentation en ligne",
+    "accessEn": "Web search API for developers; online dashboard and documentation",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "Crédits gratuits pour tester l’API, puis facturation à l’utilisation par requête et par service.",
+      "en": "Free API testing credits, then usage-based pricing per request and service.",
+      "sourceUrl": "https://exa.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-11"
+  },
+  "tavily": {
+    "accessFr": "API Web de recherche et d’extraction, SDK Python et JavaScript",
+    "accessEn": "Web search and extraction API, Python and JavaScript SDKs",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "usage_based",
+      "fr": "Plan Researcher avec 1 000 crédits API gratuits par mois ; offres payantes et paiement à l’usage.",
+      "en": "Researcher plan with 1,000 free API credits monthly; paid plans and pay-as-you-go.",
+      "sourceUrl": "https://www.tavily.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-11"
+  },
+  "scite": {
+    "accessFr": "Plateforme de recherche sur navigateur avec Assistant ; API selon accès",
+    "accessEn": "Browser-based research platform with Assistant; API for eligible customers",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Essai gratuit proposé et abonnements individuels ou institutionnels pour les fonctionnalités complètes.",
+      "en": "Free trial offered, followed by individual or institutional subscriptions for full access.",
+      "sourceUrl": "https://scite.ai/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-11"
+  },
+  "kagi-assistant": {
+    "accessFr": "Assistant intégré à Kagi Search sur le Web, avec modèles et modes selon l’abonnement",
+    "accessEn": "Assistant integrated into Kagi Search on the web, with models and modes depending on subscription",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "paid",
+      "fr": "Fonctionnalités Assistant comprises dans les abonnements Kagi ; capacités et modèles selon la formule.",
+      "en": "Assistant features included in Kagi subscriptions; models and limits depend on plan.",
+      "sourceUrl": "https://kagi.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-11"
+  },
+  "semantic-scholar": {
+    "accessFr": "Moteur de recherche scientifique sur le Web ; API Academic Graph et jeux de données accessibles aux développeurs",
+    "accessEn": "Web scholarly search engine; Academic Graph API and developer datasets",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "free",
+      "fr": "Service de recherche scientifique gratuit ; accès API soumis à conditions et limites techniques.",
+      "en": "Free scholarly research service; API access subject to technical limits and terms.",
+      "sourceUrl": "https://www.semanticscholar.org/faq",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-11"
+  },
+  "connected-papers": {
+    "accessFr": "Application Web de cartographie des publications scientifiques",
+    "accessEn": "Web application for scientific literature mapping",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Création de graphes limitée sur la formule gratuite ; abonnements Academic et Business pour des graphes illimités.",
+      "en": "Limited graphs on free plan; Academic and Business subscriptions offer unlimited graphs.",
+      "sourceUrl": "https://www.connectedpapers.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-11"
+  },
+  "litmaps": {
+    "accessFr": "Application Web de cartographie bibliographique et suivi de littérature",
+    "accessEn": "Web app for literature mapping and monitoring",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Formule gratuite limitée en articles et cartes ; abonnements Pro et institutionnels selon éligibilité.",
+      "en": "Free tier limited by articles and maps; Pro and institutional plans subject to eligibility.",
+      "sourceUrl": "https://www.litmaps.com/pricing",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-11"
+  },
+  "zotero": {
+    "accessFr": "Logiciel de bureau et applications compatibles, connecteurs de navigateur, bibliothèque Web et synchronisation",
+    "accessEn": "Desktop software and supported apps, browser connectors, web library and sync",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-17",
+    "pricing": {
+      "model": "open_source_and_paid",
+      "fr": "Logiciel gratuit et open source ; 300 Mo de stockage de fichiers en ligne gratuits, puis abonnements de stockage.",
+      "en": "Free open-source software; 300 MB of free online file storage, then paid storage plans.",
+      "sourceUrl": "https://www.zotero.org/storage",
+      "verifiedAt": "2026-11-17"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-17-11"
+  }
+}
