@@ -1,0 +1,968 @@
+{
+  "perplexity-comet": {
+    "descriptionFr": "Navigateur agentique de Perplexity combinant navigation, réponses contextuelles et assistance aux tâches Web.",
+    "descriptionEn": "Perplexity agentic browser combining browsing, contextual answers, and assistance with web tasks.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Assistant contextuel aux pages consultées",
+      "Recherche et synthèse de contenus Web",
+      "Automatisation de tâches selon accès"
+    ],
+    "featuresEn": [
+      "Page-aware assistant",
+      "Web search and synthesis",
+      "Task automation depending on access"
+    ],
+    "accessFr": "Navigateur, extension, SaaS ou SDK selon le produit",
+    "accessEn": "Browser, extension, SaaS or SDK depending on product",
+    "officialSources": [
+      {
+        "url": "https://www.perplexity.ai/comet",
+        "checkedAt": "2026-11-17",
+        "scope": "capabilities_current_status_and_limitations"
+      }
+    ],
+    "research": {
+      "headline": "Navigateur agentique de Perplexity combinant navigation, réponses contextuelles et assistance aux tâches Web.",
+      "audiences": [
+        "Développeurs d'agents Web et responsables automatisation",
+        "Équipes de recherche, d'assurance qualité et de sécurité"
+      ],
+      "cases": [
+        "Automatiser un processus Web borné avec captures des résultats et étapes de validation.",
+        "Comparer l'exécution sur un site de test après changement de mise en page ou de navigateur."
+      ],
+      "advantages": [
+        "Assistant contextuel aux pages consultées",
+        "Recherche et synthèse de contenus Web",
+        "Automatisation de tâches selon accès"
+      ],
+      "limits": [
+        "La disponibilité, les systèmes compatibles et les actions autonomes diffèrent selon version et compte ; vérifier les autorisations avant toute interaction authentifiée.",
+        "Le navigateur peut traiter des données privées et être exposé à des injections d'instructions ; ne pas autoriser d'actions sensibles sans supervision."
+      ],
+      "gettingStarted": [
+        "Choisir un site ou environnement de test autorisé, sans données sensibles.",
+        "Définir des étapes, permissions minimales, critères de réussite et une procédure d'arrêt."
+      ],
+      "examples": [
+        "Lis trois pages publiques, extrais les informations nécessaires et fournis la source et la date de chaque donnée.",
+        "Effectue un parcours de formulaire de test sans valider d'envoi externe et signale chaque étape incertaine."
+      ],
+      "pricing": "Vérifier coût d'abonnement, sessions de navigateur, crédits de modèle, infrastructure et licences du produit.",
+      "privacy": "Limiter l'accès aux comptes authentifiés et secrets ; contrôler cookies, captures, journaux et transmission des pages aux modèles distants.",
+      "selection": [
+        "Comparer navigateur complet, extension, framework, extraction et infrastructure ; évaluer contrôle d'accès, coût, maintenance et auditabilité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "product_dependent",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.perplexity.ai/comet",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "chatgpt-atlas": {
+    "descriptionFr": "Navigateur OpenAI intégrant ChatGPT, historique de navigation et mode agent ; l'expérience évolue vers ChatGPT pour les travaux agentiques Web.",
+    "descriptionEn": "OpenAI browser integrating ChatGPT, browsing context, and agent mode; its browser-agent experience is evolving toward ChatGPT.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Assistance contextuelle dans la navigation",
+      "Agent pour actions sur sites Web",
+      "Contrôles des mémoires et données de navigation"
+    ],
+    "featuresEn": [
+      "Context-aware browsing assistance",
+      "Agent-driven website actions",
+      "Browsing memory and data controls"
+    ],
+    "accessFr": "Navigateur, extension, SaaS ou SDK selon le produit",
+    "accessEn": "Browser, extension, SaaS or SDK depending on product",
+    "officialSources": [
+      {
+        "url": "https://help.openai.com/en/articles/20001371",
+        "checkedAt": "2026-11-17",
+        "scope": "capabilities_current_status_and_limitations"
+      }
+    ],
+    "research": {
+      "headline": "Navigateur OpenAI intégrant ChatGPT, historique de navigation et mode agent ; l'expérience évolue vers ChatGPT pour les travaux agentiques Web.",
+      "audiences": [
+        "Développeurs d'agents Web et responsables automatisation",
+        "Équipes de recherche, d'assurance qualité et de sécurité"
+      ],
+      "cases": [
+        "Automatiser un processus Web borné avec captures des résultats et étapes de validation.",
+        "Comparer l'exécution sur un site de test après changement de mise en page ou de navigateur."
+      ],
+      "advantages": [
+        "Assistance contextuelle dans la navigation",
+        "Agent pour actions sur sites Web",
+        "Contrôles des mémoires et données de navigation"
+      ],
+      "limits": [
+        "La documentation annonce une évolution d'Atlas vers ChatGPT ; ne pas présumer la pérennité du navigateur ou l'accès au mode agent sur toutes les plateformes.",
+        "Le navigateur peut traiter des données privées et être exposé à des injections d'instructions ; ne pas autoriser d'actions sensibles sans supervision."
+      ],
+      "gettingStarted": [
+        "Choisir un site ou environnement de test autorisé, sans données sensibles.",
+        "Définir des étapes, permissions minimales, critères de réussite et une procédure d'arrêt."
+      ],
+      "examples": [
+        "Lis trois pages publiques, extrais les informations nécessaires et fournis la source et la date de chaque donnée.",
+        "Effectue un parcours de formulaire de test sans valider d'envoi externe et signale chaque étape incertaine."
+      ],
+      "pricing": "Vérifier coût d'abonnement, sessions de navigateur, crédits de modèle, infrastructure et licences du produit.",
+      "privacy": "Limiter l'accès aux comptes authentifiés et secrets ; contrôler cookies, captures, journaux et transmission des pages aux modèles distants.",
+      "selection": [
+        "Comparer navigateur complet, extension, framework, extraction et infrastructure ; évaluer contrôle d'accès, coût, maintenance et auditabilité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "transitioning",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://help.openai.com/en/articles/20001371",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "google-project-mariner": {
+    "descriptionFr": "Prototype de recherche Google DeepMind explorant des agents capables de comprendre et d'interagir avec des sites via navigateur.",
+    "descriptionEn": "Google DeepMind research prototype exploring agents that understand and interact with websites through a browser.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Compréhension des interfaces Web",
+      "Exécution expérimentale d'actions",
+      "Recherche sur les agents navigateur"
+    ],
+    "featuresEn": [
+      "Web interface understanding",
+      "Experimental action execution",
+      "Browser agent research"
+    ],
+    "accessFr": "Recherche et démonstrations",
+    "accessEn": "Research and demonstrations",
+    "officialSources": [
+      {
+        "url": "https://deepmind.google/technologies/project-mariner/",
+        "checkedAt": "2026-11-17",
+        "scope": "capabilities_current_status_and_limitations"
+      }
+    ],
+    "research": {
+      "headline": "Prototype de recherche Google DeepMind explorant des agents capables de comprendre et d'interagir avec des sites via navigateur.",
+      "audiences": [
+        "Développeurs d'agents Web et responsables automatisation",
+        "Équipes de recherche, d'assurance qualité et de sécurité"
+      ],
+      "cases": [
+        "Automatiser un processus Web borné avec captures des résultats et étapes de validation.",
+        "Comparer l'exécution sur un site de test après changement de mise en page ou de navigateur."
+      ],
+      "advantages": [
+        "Compréhension des interfaces Web",
+        "Exécution expérimentale d'actions",
+        "Recherche sur les agents navigateur"
+      ],
+      "limits": [
+        "Il s'agit d'un projet de recherche et de déploiement expérimental ; aucune disponibilité universelle ou fiabilité de production ne doit être présumée.",
+        "Le navigateur peut traiter des données privées et être exposé à des injections d'instructions ; ne pas autoriser d'actions sensibles sans supervision."
+      ],
+      "gettingStarted": [
+        "Choisir un site ou environnement de test autorisé, sans données sensibles.",
+        "Définir des étapes, permissions minimales, critères de réussite et une procédure d'arrêt."
+      ],
+      "examples": [
+        "Lis trois pages publiques, extrais les informations nécessaires et fournis la source et la date de chaque donnée.",
+        "Effectue un parcours de formulaire de test sans valider d'envoi externe et signale chaque étape incertaine."
+      ],
+      "pricing": "Vérifier coût d'abonnement, sessions de navigateur, crédits de modèle, infrastructure et licences du produit.",
+      "privacy": "Limiter l'accès aux comptes authentifiés et secrets ; contrôler cookies, captures, journaux et transmission des pages aux modèles distants.",
+      "selection": [
+        "Comparer navigateur complet, extension, framework, extraction et infrastructure ; évaluer contrôle d'accès, coût, maintenance et auditabilité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "research_prototype",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://deepmind.google/technologies/project-mariner/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "claude-in-chrome": {
+    "descriptionFr": "Extension Anthropic pour que Claude puisse consulter et manipuler des pages dans Chrome sous supervision.",
+    "descriptionEn": "Anthropic Chrome extension allowing Claude to read and interact with browser pages under user supervision.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Lecture et navigation de pages Web",
+      "Interactions avec interfaces et formulaires",
+      "Utilisation avec sessions Chrome existantes"
+    ],
+    "featuresEn": [
+      "Web page reading and navigation",
+      "UI and form interactions",
+      "Use of existing Chrome sessions"
+    ],
+    "accessFr": "Navigateur, extension, SaaS ou SDK selon le produit",
+    "accessEn": "Browser, extension, SaaS or SDK depending on product",
+    "officialSources": [
+      {
+        "url": "https://support.claude.com/en/articles/12012173-get-started-with-claude-in-chrome",
+        "checkedAt": "2026-11-17",
+        "scope": "capabilities_current_status_and_limitations"
+      }
+    ],
+    "research": {
+      "headline": "Extension Anthropic pour que Claude puisse consulter et manipuler des pages dans Chrome sous supervision.",
+      "audiences": [
+        "Développeurs d'agents Web et responsables automatisation",
+        "Équipes de recherche, d'assurance qualité et de sécurité"
+      ],
+      "cases": [
+        "Automatiser un processus Web borné avec captures des résultats et étapes de validation.",
+        "Comparer l'exécution sur un site de test après changement de mise en page ou de navigateur."
+      ],
+      "advantages": [
+        "Lecture et navigation de pages Web",
+        "Interactions avec interfaces et formulaires",
+        "Utilisation avec sessions Chrome existantes"
+      ],
+      "limits": [
+        "L'extension peut accéder aux pages et comptes ouverts ; surveiller ses actions et le risque d'instructions malveillantes insérées dans les pages.",
+        "Le navigateur peut traiter des données privées et être exposé à des injections d'instructions ; ne pas autoriser d'actions sensibles sans supervision."
+      ],
+      "gettingStarted": [
+        "Choisir un site ou environnement de test autorisé, sans données sensibles.",
+        "Définir des étapes, permissions minimales, critères de réussite et une procédure d'arrêt."
+      ],
+      "examples": [
+        "Lis trois pages publiques, extrais les informations nécessaires et fournis la source et la date de chaque donnée.",
+        "Effectue un parcours de formulaire de test sans valider d'envoi externe et signale chaque étape incertaine."
+      ],
+      "pricing": "Vérifier coût d'abonnement, sessions de navigateur, crédits de modèle, infrastructure et licences du produit.",
+      "privacy": "Limiter l'accès aux comptes authentifiés et secrets ; contrôler cookies, captures, journaux et transmission des pages aux modèles distants.",
+      "selection": [
+        "Comparer navigateur complet, extension, framework, extraction et infrastructure ; évaluer contrôle d'accès, coût, maintenance et auditabilité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://support.claude.com/en/articles/12012173-get-started-with-claude-in-chrome",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "opera-neon": {
+    "descriptionFr": "Navigateur agentique Opera Neon avec agents de recherche et d'exécution, connectivité MCP et interface destinée aux tâches complexes.",
+    "descriptionEn": "Opera Neon agentic browser with research and action agents, MCP connectivity, and complex-workflow interface.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Agents spécialisés dans la navigation",
+      "Recherche et tâches Web multiétapes",
+      "Connexion à des agents externes via MCP"
+    ],
+    "featuresEn": [
+      "Specialized browsing agents",
+      "Research and multi-step web tasks",
+      "MCP connection to external agents"
+    ],
+    "accessFr": "Navigateur, extension, SaaS ou SDK selon le produit",
+    "accessEn": "Browser, extension, SaaS or SDK depending on product",
+    "officialSources": [
+      {
+        "url": "https://blogs.opera.com/news/2026/08/your-ai-agents-can-use-opera-neon-free-of-charge/",
+        "checkedAt": "2026-11-17",
+        "scope": "capabilities_current_status_and_limitations"
+      }
+    ],
+    "research": {
+      "headline": "Navigateur agentique Opera Neon avec agents de recherche et d'exécution, connectivité MCP et interface destinée aux tâches complexes.",
+      "audiences": [
+        "Développeurs d'agents Web et responsables automatisation",
+        "Équipes de recherche, d'assurance qualité et de sécurité"
+      ],
+      "cases": [
+        "Automatiser un processus Web borné avec captures des résultats et étapes de validation.",
+        "Comparer l'exécution sur un site de test après changement de mise en page ou de navigateur."
+      ],
+      "advantages": [
+        "Agents spécialisés dans la navigation",
+        "Recherche et tâches Web multiétapes",
+        "Connexion à des agents externes via MCP"
+      ],
+      "limits": [
+        "Distinguer les fonctionnalités incluses dans la version gratuite, les agents avancés et les services éventuellement soumis à facturation.",
+        "Le navigateur peut traiter des données privées et être exposé à des injections d'instructions ; ne pas autoriser d'actions sensibles sans supervision."
+      ],
+      "gettingStarted": [
+        "Choisir un site ou environnement de test autorisé, sans données sensibles.",
+        "Définir des étapes, permissions minimales, critères de réussite et une procédure d'arrêt."
+      ],
+      "examples": [
+        "Lis trois pages publiques, extrais les informations nécessaires et fournis la source et la date de chaque donnée.",
+        "Effectue un parcours de formulaire de test sans valider d'envoi externe et signale chaque étape incertaine."
+      ],
+      "pricing": "Vérifier coût d'abonnement, sessions de navigateur, crédits de modèle, infrastructure et licences du produit.",
+      "privacy": "Limiter l'accès aux comptes authentifiés et secrets ; contrôler cookies, captures, journaux et transmission des pages aux modèles distants.",
+      "selection": [
+        "Comparer navigateur complet, extension, framework, extraction et infrastructure ; évaluer contrôle d'accès, coût, maintenance et auditabilité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://blogs.opera.com/news/2026/08/your-ai-agents-can-use-opera-neon-free-of-charge/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "skyvern": {
+    "descriptionFr": "Plateforme d'automatisation de navigateurs par IA pour formulaires, opérations Web et processus métier, avec SDK, cloud et auto-hébergement.",
+    "descriptionEn": "AI browser automation platform for forms, web operations and business workflows, with SDK, cloud, and self-hosting.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Agents et workflows d'automatisation",
+      "SDK compatible avec Playwright et navigateur cloud",
+      "Remplissage de formulaires et extraction contrôlée"
+    ],
+    "featuresEn": [
+      "Automation agents and workflows",
+      "Playwright-compatible SDK and cloud browser",
+      "Form completion and controlled extraction"
+    ],
+    "accessFr": "Navigateur, extension, SaaS ou SDK selon le produit",
+    "accessEn": "Browser, extension, SaaS or SDK depending on product",
+    "officialSources": [
+      {
+        "url": "https://github.com/Skyvern-AI/skyvern",
+        "checkedAt": "2026-11-17",
+        "scope": "capabilities_current_status_and_limitations"
+      }
+    ],
+    "research": {
+      "headline": "Plateforme d'automatisation de navigateurs par IA pour formulaires, opérations Web et processus métier, avec SDK, cloud et auto-hébergement.",
+      "audiences": [
+        "Développeurs d'agents Web et responsables automatisation",
+        "Équipes de recherche, d'assurance qualité et de sécurité"
+      ],
+      "cases": [
+        "Automatiser un processus Web borné avec captures des résultats et étapes de validation.",
+        "Comparer l'exécution sur un site de test après changement de mise en page ou de navigateur."
+      ],
+      "advantages": [
+        "Agents et workflows d'automatisation",
+        "SDK compatible avec Playwright et navigateur cloud",
+        "Remplissage de formulaires et extraction contrôlée"
+      ],
+      "limits": [
+        "La terminologie et les API ont évolué vers Agents ; prévoir gestion sécurisée des identifiants, reprise sur échec et validation des écritures.",
+        "Le navigateur peut traiter des données privées et être exposé à des injections d'instructions ; ne pas autoriser d'actions sensibles sans supervision."
+      ],
+      "gettingStarted": [
+        "Choisir un site ou environnement de test autorisé, sans données sensibles.",
+        "Définir des étapes, permissions minimales, critères de réussite et une procédure d'arrêt."
+      ],
+      "examples": [
+        "Lis trois pages publiques, extrais les informations nécessaires et fournis la source et la date de chaque donnée.",
+        "Effectue un parcours de formulaire de test sans valider d'envoi externe et signale chaque étape incertaine."
+      ],
+      "pricing": "Vérifier coût d'abonnement, sessions de navigateur, crédits de modèle, infrastructure et licences du produit.",
+      "privacy": "Limiter l'accès aux comptes authentifiés et secrets ; contrôler cookies, captures, journaux et transmission des pages aux modèles distants.",
+      "selection": [
+        "Comparer navigateur complet, extension, framework, extraction et infrastructure ; évaluer contrôle d'accès, coût, maintenance et auditabilité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://github.com/Skyvern-AI/skyvern",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "agent-tars": {
+    "descriptionFr": "Projet open source de ByteDance pour l'interaction multimodale avec interfaces et navigateurs ; dépôt UI-TARS-desktop archivé le 9 novembre 2026.",
+    "descriptionEn": "ByteDance open-source project for multimodal interface and browser interaction; UI-TARS-desktop repository archived on November 9, 2026.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Agent navigateur et interface graphique",
+      "Contrôle d'ordinateur via modèle multimodal",
+      "Code source et versions historiques"
+    ],
+    "featuresEn": [
+      "Browser and GUI agent",
+      "Multimodal computer interaction",
+      "Historical source code and releases"
+    ],
+    "accessFr": "Projet open source archivé",
+    "accessEn": "Archived open-source project",
+    "officialSources": [
+      {
+        "url": "https://github.com/bytedance/UI-TARS-desktop",
+        "checkedAt": "2026-11-17",
+        "scope": "capabilities_current_status_and_limitations"
+      }
+    ],
+    "research": {
+      "headline": "Projet open source de ByteDance pour l'interaction multimodale avec interfaces et navigateurs ; dépôt UI-TARS-desktop archivé le 9 novembre 2026.",
+      "audiences": [
+        "Développeurs d'agents Web et responsables automatisation",
+        "Équipes de recherche, d'assurance qualité et de sécurité"
+      ],
+      "cases": [
+        "Automatiser un processus Web borné avec captures des résultats et étapes de validation.",
+        "Comparer l'exécution sur un site de test après changement de mise en page ou de navigateur."
+      ],
+      "advantages": [
+        "Agent navigateur et interface graphique",
+        "Contrôle d'ordinateur via modèle multimodal",
+        "Code source et versions historiques"
+      ],
+      "limits": [
+        "Dépôt archivé le 9 novembre 2026 : ne pas recommander comme framework activement maintenu sans vérifier une éventuelle succession officielle.",
+        "Le navigateur peut traiter des données privées et être exposé à des injections d'instructions ; ne pas autoriser d'actions sensibles sans supervision."
+      ],
+      "gettingStarted": [
+        "Choisir un site ou environnement de test autorisé, sans données sensibles.",
+        "Définir des étapes, permissions minimales, critères de réussite et une procédure d'arrêt."
+      ],
+      "examples": [
+        "Lis trois pages publiques, extrais les informations nécessaires et fournis la source et la date de chaque donnée.",
+        "Effectue un parcours de formulaire de test sans valider d'envoi externe et signale chaque étape incertaine."
+      ],
+      "pricing": "Vérifier coût d'abonnement, sessions de navigateur, crédits de modèle, infrastructure et licences du produit.",
+      "privacy": "Limiter l'accès aux comptes authentifiés et secrets ; contrôler cookies, captures, journaux et transmission des pages aux modèles distants.",
+      "selection": [
+        "Comparer navigateur complet, extension, framework, extraction et infrastructure ; évaluer contrôle d'accès, coût, maintenance et auditabilité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "archived_repository",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://github.com/bytedance/UI-TARS-desktop",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_archive_status"
+  },
+  "stagehand": {
+    "descriptionFr": "Framework open source Browserbase d'automatisation de navigateur, associant code et primitives IA pour agir, observer et extraire.",
+    "descriptionEn": "Open-source Browserbase browser automation framework combining code with AI primitives for acting, observing, and extracting.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Automatisation par commandes en langage naturel",
+      "Primitives act, observe et extract",
+      "Intégration avec environnements navigateur et tests"
+    ],
+    "featuresEn": [
+      "Natural-language browser automation",
+      "Act, observe and extract primitives",
+      "Browser environment and testing integration"
+    ],
+    "accessFr": "Navigateur, extension, SaaS ou SDK selon le produit",
+    "accessEn": "Browser, extension, SaaS or SDK depending on product",
+    "officialSources": [
+      {
+        "url": "https://www.browserbase.com/stagehand",
+        "checkedAt": "2026-11-17",
+        "scope": "capabilities_current_status_and_limitations"
+      }
+    ],
+    "research": {
+      "headline": "Framework open source Browserbase d'automatisation de navigateur, associant code et primitives IA pour agir, observer et extraire.",
+      "audiences": [
+        "Développeurs d'agents Web et responsables automatisation",
+        "Équipes de recherche, d'assurance qualité et de sécurité"
+      ],
+      "cases": [
+        "Automatiser un processus Web borné avec captures des résultats et étapes de validation.",
+        "Comparer l'exécution sur un site de test après changement de mise en page ou de navigateur."
+      ],
+      "advantages": [
+        "Automatisation par commandes en langage naturel",
+        "Primitives act, observe et extract",
+        "Intégration avec environnements navigateur et tests"
+      ],
+      "limits": [
+        "Les signatures et emplacements des méthodes ont changé entre versions ; suivre la documentation de la version installée, particulièrement Stagehand v4.",
+        "Le navigateur peut traiter des données privées et être exposé à des injections d'instructions ; ne pas autoriser d'actions sensibles sans supervision."
+      ],
+      "gettingStarted": [
+        "Choisir un site ou environnement de test autorisé, sans données sensibles.",
+        "Définir des étapes, permissions minimales, critères de réussite et une procédure d'arrêt."
+      ],
+      "examples": [
+        "Lis trois pages publiques, extrais les informations nécessaires et fournis la source et la date de chaque donnée.",
+        "Effectue un parcours de formulaire de test sans valider d'envoi externe et signale chaque étape incertaine."
+      ],
+      "pricing": "Vérifier coût d'abonnement, sessions de navigateur, crédits de modèle, infrastructure et licences du produit.",
+      "privacy": "Limiter l'accès aux comptes authentifiés et secrets ; contrôler cookies, captures, journaux et transmission des pages aux modèles distants.",
+      "selection": [
+        "Comparer navigateur complet, extension, framework, extraction et infrastructure ; évaluer contrôle d'accès, coût, maintenance et auditabilité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "version_sensitive",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.browserbase.com/stagehand",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "browserbase": {
+    "descriptionFr": "Infrastructure cloud de navigateurs pour exécuter et superviser des agents Web, sessions, extraction et automatisations.",
+    "descriptionEn": "Cloud browser infrastructure for running and observing web agents, sessions, scraping, and automation.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Navigateurs distants et sessions gérées",
+      "Observabilité et débogage d'exécutions",
+      "Infrastructure pour agents et frameworks de navigation"
+    ],
+    "featuresEn": [
+      "Managed remote browsers and sessions",
+      "Execution observability and debugging",
+      "Infrastructure for agents and automation frameworks"
+    ],
+    "accessFr": "Navigateur, extension, SaaS ou SDK selon le produit",
+    "accessEn": "Browser, extension, SaaS or SDK depending on product",
+    "officialSources": [
+      {
+        "url": "https://www.browserbase.com/",
+        "checkedAt": "2026-11-17",
+        "scope": "capabilities_current_status_and_limitations"
+      }
+    ],
+    "research": {
+      "headline": "Infrastructure cloud de navigateurs pour exécuter et superviser des agents Web, sessions, extraction et automatisations.",
+      "audiences": [
+        "Développeurs d'agents Web et responsables automatisation",
+        "Équipes de recherche, d'assurance qualité et de sécurité"
+      ],
+      "cases": [
+        "Automatiser un processus Web borné avec captures des résultats et étapes de validation.",
+        "Comparer l'exécution sur un site de test après changement de mise en page ou de navigateur."
+      ],
+      "advantages": [
+        "Navigateurs distants et sessions gérées",
+        "Observabilité et débogage d'exécutions",
+        "Infrastructure pour agents et frameworks de navigation"
+      ],
+      "limits": [
+        "Browserbase fournit l'infrastructure, pas nécessairement le raisonnement agentique ; coûts de sessions, stockage, proxies et secrets à vérifier.",
+        "Le navigateur peut traiter des données privées et être exposé à des injections d'instructions ; ne pas autoriser d'actions sensibles sans supervision."
+      ],
+      "gettingStarted": [
+        "Choisir un site ou environnement de test autorisé, sans données sensibles.",
+        "Définir des étapes, permissions minimales, critères de réussite et une procédure d'arrêt."
+      ],
+      "examples": [
+        "Lis trois pages publiques, extrais les informations nécessaires et fournis la source et la date de chaque donnée.",
+        "Effectue un parcours de formulaire de test sans valider d'envoi externe et signale chaque étape incertaine."
+      ],
+      "pricing": "Vérifier coût d'abonnement, sessions de navigateur, crédits de modèle, infrastructure et licences du produit.",
+      "privacy": "Limiter l'accès aux comptes authentifiés et secrets ; contrôler cookies, captures, journaux et transmission des pages aux modèles distants.",
+      "selection": [
+        "Comparer navigateur complet, extension, framework, extraction et infrastructure ; évaluer contrôle d'accès, coût, maintenance et auditabilité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://www.browserbase.com/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "fellou": {
+    "descriptionFr": "Navigateur IA orienté recherche approfondie et automatisation de processus entre sites et applications.",
+    "descriptionEn": "AI browser aimed at deep research and automated workflows across websites and applications.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Recherche multi-source approfondie",
+      "Tâches et navigation automatisées",
+      "Actions inter-applications selon fonctionnalités"
+    ],
+    "featuresEn": [
+      "Deep multi-source research",
+      "Automated tasks and browsing",
+      "Cross-app actions depending on feature"
+    ],
+    "accessFr": "Navigateur, extension, SaaS ou SDK selon le produit",
+    "accessEn": "Browser, extension, SaaS or SDK depending on product",
+    "officialSources": [
+      {
+        "url": "https://fellou.ai/",
+        "checkedAt": "2026-11-17",
+        "scope": "capabilities_current_status_and_limitations"
+      }
+    ],
+    "research": {
+      "headline": "Navigateur IA orienté recherche approfondie et automatisation de processus entre sites et applications.",
+      "audiences": [
+        "Développeurs d'agents Web et responsables automatisation",
+        "Équipes de recherche, d'assurance qualité et de sécurité"
+      ],
+      "cases": [
+        "Automatiser un processus Web borné avec captures des résultats et étapes de validation.",
+        "Comparer l'exécution sur un site de test après changement de mise en page ou de navigateur."
+      ],
+      "advantages": [
+        "Recherche multi-source approfondie",
+        "Tâches et navigation automatisées",
+        "Actions inter-applications selon fonctionnalités"
+      ],
+      "limits": [
+        "Les crédits et fonctions dépendent de l'abonnement ; vérifier les résultats, les autorisations de compte et les modifications externes.",
+        "Le navigateur peut traiter des données privées et être exposé à des injections d'instructions ; ne pas autoriser d'actions sensibles sans supervision."
+      ],
+      "gettingStarted": [
+        "Choisir un site ou environnement de test autorisé, sans données sensibles.",
+        "Définir des étapes, permissions minimales, critères de réussite et une procédure d'arrêt."
+      ],
+      "examples": [
+        "Lis trois pages publiques, extrais les informations nécessaires et fournis la source et la date de chaque donnée.",
+        "Effectue un parcours de formulaire de test sans valider d'envoi externe et signale chaque étape incertaine."
+      ],
+      "pricing": "Vérifier coût d'abonnement, sessions de navigateur, crédits de modèle, infrastructure et licences du produit.",
+      "privacy": "Limiter l'accès aux comptes authentifiés et secrets ; contrôler cookies, captures, journaux et transmission des pages aux modèles distants.",
+      "selection": [
+        "Comparer navigateur complet, extension, framework, extraction et infrastructure ; évaluer contrôle d'accès, coût, maintenance et auditabilité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "documented",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://fellou.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "browseros": {
+    "descriptionFr": "Navigateur Chromium open source orienté agents IA, automatisations et modèles locaux, avec intégration MCP.",
+    "descriptionEn": "Open-source Chromium-based browser focused on AI agents, automations, local models, and MCP integration.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Navigateur Chromium avec agent intégré",
+      "Prise en charge de modèles locaux",
+      "Connectivité MCP et automatisations"
+    ],
+    "featuresEn": [
+      "Chromium browser with built-in agent",
+      "Local model support",
+      "MCP connectivity and automations"
+    ],
+    "accessFr": "Navigateur, extension, SaaS ou SDK selon le produit",
+    "accessEn": "Browser, extension, SaaS or SDK depending on product",
+    "officialSources": [
+      {
+        "url": "https://github.com/browseros-ai/BrowserOS",
+        "checkedAt": "2026-11-17",
+        "scope": "capabilities_current_status_and_limitations"
+      }
+    ],
+    "research": {
+      "headline": "Navigateur Chromium open source orienté agents IA, automatisations et modèles locaux, avec intégration MCP.",
+      "audiences": [
+        "Développeurs d'agents Web et responsables automatisation",
+        "Équipes de recherche, d'assurance qualité et de sécurité"
+      ],
+      "cases": [
+        "Automatiser un processus Web borné avec captures des résultats et étapes de validation.",
+        "Comparer l'exécution sur un site de test après changement de mise en page ou de navigateur."
+      ],
+      "advantages": [
+        "Navigateur Chromium avec agent intégré",
+        "Prise en charge de modèles locaux",
+        "Connectivité MCP et automatisations"
+      ],
+      "limits": [
+        "Le traitement local dépend du modèle et de l'intégration ; l'utilisation de services externes peut transmettre des données hors appareil.",
+        "Le navigateur peut traiter des données privées et être exposé à des injections d'instructions ; ne pas autoriser d'actions sensibles sans supervision."
+      ],
+      "gettingStarted": [
+        "Choisir un site ou environnement de test autorisé, sans données sensibles.",
+        "Définir des étapes, permissions minimales, critères de réussite et une procédure d'arrêt."
+      ],
+      "examples": [
+        "Lis trois pages publiques, extrais les informations nécessaires et fournis la source et la date de chaque donnée.",
+        "Effectue un parcours de formulaire de test sans valider d'envoi externe et signale chaque étape incertaine."
+      ],
+      "pricing": "Vérifier coût d'abonnement, sessions de navigateur, crédits de modèle, infrastructure et licences du produit.",
+      "privacy": "Limiter l'accès aux comptes authentifiés et secrets ; contrôler cookies, captures, journaux et transmission des pages aux modèles distants.",
+      "selection": [
+        "Comparer navigateur complet, extension, framework, extraction et infrastructure ; évaluer contrôle d'accès, coût, maintenance et auditabilité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "open_source",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://github.com/browseros-ai/BrowserOS",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "nanobrowser": {
+    "descriptionFr": "Agent open source d'automatisation Web utilisé dans un navigateur connecté, avec choix de modèles et tâches multiétapes.",
+    "descriptionEn": "Open-source web automation agent using a signed-in browser, model choice, and multi-step tasks.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Exécution de tâches dans navigateur existant",
+      "Choix de modèles compatibles",
+      "Automatisation multiétapes et extension"
+    ],
+    "featuresEn": [
+      "Tasks inside existing browser sessions",
+      "Choice of compatible models",
+      "Multi-step automation and extension"
+    ],
+    "accessFr": "Navigateur, extension, SaaS ou SDK selon le produit",
+    "accessEn": "Browser, extension, SaaS or SDK depending on product",
+    "officialSources": [
+      {
+        "url": "https://github.com/nanobrowser/nanobrowser",
+        "checkedAt": "2026-11-17",
+        "scope": "capabilities_current_status_and_limitations"
+      }
+    ],
+    "research": {
+      "headline": "Agent open source d'automatisation Web utilisé dans un navigateur connecté, avec choix de modèles et tâches multiétapes.",
+      "audiences": [
+        "Développeurs d'agents Web et responsables automatisation",
+        "Équipes de recherche, d'assurance qualité et de sécurité"
+      ],
+      "cases": [
+        "Automatiser un processus Web borné avec captures des résultats et étapes de validation.",
+        "Comparer l'exécution sur un site de test après changement de mise en page ou de navigateur."
+      ],
+      "advantages": [
+        "Exécution de tâches dans navigateur existant",
+        "Choix de modèles compatibles",
+        "Automatisation multiétapes et extension"
+      ],
+      "limits": [
+        "L'agent agit dans un navigateur potentiellement connecté ; limiter les permissions, protéger les clés API et demander confirmation avant les actions sensibles.",
+        "Le navigateur peut traiter des données privées et être exposé à des injections d'instructions ; ne pas autoriser d'actions sensibles sans supervision."
+      ],
+      "gettingStarted": [
+        "Choisir un site ou environnement de test autorisé, sans données sensibles.",
+        "Définir des étapes, permissions minimales, critères de réussite et une procédure d'arrêt."
+      ],
+      "examples": [
+        "Lis trois pages publiques, extrais les informations nécessaires et fournis la source et la date de chaque donnée.",
+        "Effectue un parcours de formulaire de test sans valider d'envoi externe et signale chaque étape incertaine."
+      ],
+      "pricing": "Vérifier coût d'abonnement, sessions de navigateur, crédits de modèle, infrastructure et licences du produit.",
+      "privacy": "Limiter l'accès aux comptes authentifiés et secrets ; contrôler cookies, captures, journaux et transmission des pages aux modèles distants.",
+      "selection": [
+        "Comparer navigateur complet, extension, framework, extraction et infrastructure ; évaluer contrôle d'accès, coût, maintenance et auditabilité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "open_source",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://github.com/nanobrowser/nanobrowser",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "agentql": {
+    "descriptionFr": "Langage de requêtes et SDK d'extraction Web qui identifient des données ou éléments de page à partir d'instructions en langage naturel.",
+    "descriptionEn": "Web query language and SDK for locating page elements or extracting structured data using natural-language descriptions.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Extraction structurée depuis le Web",
+      "Sélection d'éléments par requêtes sémantiques",
+      "SDK Python et JavaScript intégrables à Playwright"
+    ],
+    "featuresEn": [
+      "Structured web data extraction",
+      "Semantic element selection",
+      "Python and JavaScript SDKs for Playwright"
+    ],
+    "accessFr": "Navigateur, extension, SaaS ou SDK selon le produit",
+    "accessEn": "Browser, extension, SaaS or SDK depending on product",
+    "officialSources": [
+      {
+        "url": "https://docs.agentql.com/agentql-query",
+        "checkedAt": "2026-11-17",
+        "scope": "capabilities_current_status_and_limitations"
+      }
+    ],
+    "research": {
+      "headline": "Langage de requêtes et SDK d'extraction Web qui identifient des données ou éléments de page à partir d'instructions en langage naturel.",
+      "audiences": [
+        "Développeurs d'agents Web et responsables automatisation",
+        "Équipes de recherche, d'assurance qualité et de sécurité"
+      ],
+      "cases": [
+        "Automatiser un processus Web borné avec captures des résultats et étapes de validation.",
+        "Comparer l'exécution sur un site de test après changement de mise en page ou de navigateur."
+      ],
+      "advantages": [
+        "Extraction structurée depuis le Web",
+        "Sélection d'éléments par requêtes sémantiques",
+        "SDK Python et JavaScript intégrables à Playwright"
+      ],
+      "limits": [
+        "AgentQL est un composant d'extraction et d'automatisation, pas un navigateur autonome ; respecter droits d'accès, conditions des sites et limitations d'API.",
+        "Le navigateur peut traiter des données privées et être exposé à des injections d'instructions ; ne pas autoriser d'actions sensibles sans supervision."
+      ],
+      "gettingStarted": [
+        "Choisir un site ou environnement de test autorisé, sans données sensibles.",
+        "Définir des étapes, permissions minimales, critères de réussite et une procédure d'arrêt."
+      ],
+      "examples": [
+        "Lis trois pages publiques, extrais les informations nécessaires et fournis la source et la date de chaque donnée.",
+        "Effectue un parcours de formulaire de test sans valider d'envoi externe et signale chaque étape incertaine."
+      ],
+      "pricing": "Vérifier coût d'abonnement, sessions de navigateur, crédits de modèle, infrastructure et licences du produit.",
+      "privacy": "Limiter l'accès aux comptes authentifiés et secrets ; contrôler cookies, captures, journaux et transmission des pages aux modèles distants.",
+      "selection": [
+        "Comparer navigateur complet, extension, framework, extraction et infrastructure ; évaluer contrôle d'accès, coût, maintenance et auditabilité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "developer_tool",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://docs.agentql.com/agentql-query",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  },
+  "hugging-face-computer-agent": {
+    "descriptionFr": "Ensemble de démonstrations, bibliothèques et ressources communautaires Hugging Face sur les agents capables de piloter des interfaces informatiques.",
+    "descriptionEn": "Hugging Face community demonstrations, libraries, and resources for agents that operate computer interfaces.",
+    "descriptionStatus": "editorial",
+    "editorialDate": "2026-11-17",
+    "featuresFr": [
+      "Prototypes de computer use",
+      "Exemples d'interactions avec interfaces",
+      "Ressources de recherche et d'évaluation"
+    ],
+    "featuresEn": [
+      "Computer-use prototypes",
+      "Interface interaction examples",
+      "Research and evaluation resources"
+    ],
+    "accessFr": "Recherche et démonstrations",
+    "accessEn": "Research and demonstrations",
+    "officialSources": [
+      {
+        "url": "https://huggingface.co/blog/cua",
+        "checkedAt": "2026-11-17",
+        "scope": "capabilities_current_status_and_limitations"
+      }
+    ],
+    "research": {
+      "headline": "Ensemble de démonstrations, bibliothèques et ressources communautaires Hugging Face sur les agents capables de piloter des interfaces informatiques.",
+      "audiences": [
+        "Développeurs d'agents Web et responsables automatisation",
+        "Équipes de recherche, d'assurance qualité et de sécurité"
+      ],
+      "cases": [
+        "Automatiser un processus Web borné avec captures des résultats et étapes de validation.",
+        "Comparer l'exécution sur un site de test après changement de mise en page ou de navigateur."
+      ],
+      "advantages": [
+        "Prototypes de computer use",
+        "Exemples d'interactions avec interfaces",
+        "Ressources de recherche et d'évaluation"
+      ],
+      "limits": [
+        "L'intitulé désigne des ressources et démonstrations plutôt qu'un produit SaaS unique maintenu ; performances très sensibles aux modifications d'interfaces.",
+        "Le navigateur peut traiter des données privées et être exposé à des injections d'instructions ; ne pas autoriser d'actions sensibles sans supervision."
+      ],
+      "gettingStarted": [
+        "Choisir un site ou environnement de test autorisé, sans données sensibles.",
+        "Définir des étapes, permissions minimales, critères de réussite et une procédure d'arrêt."
+      ],
+      "examples": [
+        "Lis trois pages publiques, extrais les informations nécessaires et fournis la source et la date de chaque donnée.",
+        "Effectue un parcours de formulaire de test sans valider d'envoi externe et signale chaque étape incertaine."
+      ],
+      "pricing": "Vérifier coût d'abonnement, sessions de navigateur, crédits de modèle, infrastructure et licences du produit.",
+      "privacy": "Limiter l'accès aux comptes authentifiés et secrets ; contrôler cookies, captures, journaux et transmission des pages aux modèles distants.",
+      "selection": [
+        "Comparer navigateur complet, extension, framework, extraction et infrastructure ; évaluer contrôle d'accès, coût, maintenance et auditabilité."
+      ],
+      "reviewedAt": "2026-11-17",
+      "status": "research_collection",
+      "evidence": "official",
+      "sources": [
+        {
+          "url": "https://huggingface.co/blog/cua",
+          "type": "official",
+          "reviewedAt": "2026-11-17"
+        }
+      ]
+    },
+    "verification": "official_reviewed"
+  }
+}
