@@ -1,0 +1,122 @@
+{
+  "adcreative-ai": {
+    "accessFr": "Application Web de création de visuels publicitaires, de variations de créations et d'analyse.",
+    "accessEn": "Web app for advertising creatives, variants and analysis.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "paid",
+      "fr": "Abonnements payants et offres entreprise personnalisées ; conditions d’essai à vérifier lors de l’inscription.",
+      "en": "Paid subscriptions and tailored enterprise offers; check trial terms at sign-up.",
+      "sourceUrl": "https://www.adcreative.ai/",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-18-64"
+  },
+  "creatify": {
+    "accessFr": "Application Web de génération de publicités vidéo, avatars et créations à partir de produits.",
+    "accessEn": "Web app for video ads, avatars and product-based creative generation.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Accès gratuit limité puis abonnements et crédits de génération ; offres entreprise disponibles.",
+      "en": "Limited free access followed by subscriptions and generation credits; enterprise options available.",
+      "sourceUrl": "https://creatify.ai/pricing",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-18-64"
+  },
+  "ocoya": {
+    "accessFr": "Plateforme Web de génération de contenu, calendrier éditorial et publication sur réseaux sociaux.",
+    "accessEn": "Web platform for content generation, editorial calendars and social scheduling.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "paid",
+      "fr": "Abonnements payants par forfait, avec crédits et limites de génération ; offres personnalisées possibles.",
+      "en": "Paid subscription tiers with generation credits and limits; custom plans may be available.",
+      "sourceUrl": "https://www.ocoya.com/pricing",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-18-64"
+  },
+  "predis-ai": {
+    "accessFr": "Application Web pour créations marketing IA, vidéo, image et publication sociale ; accès API selon offre.",
+    "accessEn": "Web app for AI marketing creatives, video, image and social publishing; API access varies by tier.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Essai gratuit puis abonnements à crédits selon volumes, marques et fonctionnalités.",
+      "en": "Free trial followed by credit-based subscriptions by volume, brand count and features.",
+      "sourceUrl": "https://predis.ai/pricing/",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-18-64"
+  },
+  "hootsuite-owlywriter": {
+    "accessFr": "Assistant de rédaction et génération de publications intégré à la plateforme Web Hootsuite.",
+    "accessEn": "Writing and post-generation assistant integrated within the Hootsuite web platform.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "paid",
+      "fr": "OwlyWriter inclus selon les offres Hootsuite, dont les abonnements sont principalement facturés par utilisateur.",
+      "en": "OwlyWriter included in Hootsuite plans, with subscriptions primarily billed per user.",
+      "sourceUrl": "https://www.hootsuite.com/plans",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-18-64"
+  },
+  "buffer-ai": {
+    "accessFr": "Assistant IA dans Buffer pour concevoir, reformuler et réutiliser des publications sociales.",
+    "accessEn": "AI assistant within Buffer for drafting, rewriting and repurposing social posts.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Forfait gratuit disponible ; abonnements payants principalement par canal connecté et fonctionnalités.",
+      "en": "Free plan available; paid subscriptions primarily per connected channel and included features.",
+      "sourceUrl": "https://buffer.com/pricing",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-18-64"
+  },
+  "lumen5": {
+    "accessFr": "Créateur vidéo en ligne utilisant l’IA pour transformer idées, textes et articles en vidéos.",
+    "accessEn": "Online AI video creator turning ideas, text and articles into videos.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Offre communautaire gratuite limitée, puis abonnements payants et formules équipe.",
+      "en": "Limited free community plan followed by paid subscriptions and team tiers.",
+      "sourceUrl": "https://lumen5.com/pricing/",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-18-64"
+  },
+  "promo-com": {
+    "accessFr": "Application Web de production de vidéos marketing, incluant des fonctionnalités PromoAI.",
+    "accessEn": "Web app for marketing video production including PromoAI features.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "paid",
+      "fr": "Abonnements mensuels ou annuels avec quotas de vidéos et capacités PromoAI variables.",
+      "en": "Monthly or yearly subscriptions with differing video quotas and PromoAI capabilities.",
+      "sourceUrl": "https://promo.com/pricing",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-18-64"
+  }
+}
