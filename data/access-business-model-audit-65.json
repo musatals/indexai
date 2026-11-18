@@ -1,0 +1,107 @@
+{
+  "pencil": {
+    "accessFr": "Plateforme Web Pencil pour créer des publicités, utiliser des agents créatifs et connecter les comptes publicitaires.",
+    "accessEn": "Pencil web platform for generating ads, working with creative agents and connecting ad accounts.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "paid",
+      "fr": "Forfaits Pencil/Pencil Pro, générations consommant des crédits selon les modèles ; tarification d’équipe et entreprise.",
+      "en": "Pencil/Pencil Pro plans with model-dependent generation credits; team and enterprise pricing.",
+      "sourceUrl": "https://trypencil.com/pricing",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-18-65"
+  },
+  "typeface": {
+    "accessFr": "Plateforme Typeface ARC destinée aux équipes marketing d’entreprise, avec workflows et contrôles de marque.",
+    "accessEn": "Typeface ARC enterprise marketing platform with workflows and brand controls.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "paid",
+      "fr": "Offre entreprise avec démonstration et contrat personnalisé ; tarifs à confirmer auprès de Typeface.",
+      "en": "Enterprise offering with demo and custom contract; confirm pricing directly with Typeface.",
+      "sourceUrl": "https://www.typeface.ai/",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-18-65"
+  },
+  "hubspot-breeze": {
+    "accessFr": "Fonctionnalités Breeze AI dans le CRM HubSpot, les hubs marketing et les outils commerciaux.",
+    "accessEn": "Breeze AI features inside HubSpot CRM, marketing hubs and sales tools.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "freemium",
+      "fr": "HubSpot propose des outils gratuits et forfaits payants ; fonctions IA et crédits selon produits et abonnements.",
+      "en": "HubSpot offers free tools and paid tiers; AI features and credits vary by product and subscription.",
+      "sourceUrl": "https://www.hubspot.com/pricing/marketing",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-18-65"
+  },
+  "mutiny": {
+    "accessFr": "Plateforme Web Mutiny pour créer des contenus de vente, pages personnalisées et actifs marketing connectés au CRM.",
+    "accessEn": "Mutiny web platform for sales content, personalized pages and CRM-connected marketing assets.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "paid",
+      "fr": "Offres commerciales avec quotas de crédits IA ; consulter le tarif Business publié et le devis Enterprise.",
+      "en": "Commercial plans with AI credit allocations; check published Business pricing and Enterprise quote.",
+      "sourceUrl": "https://www.mutinyhq.com/pricing",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-18-65"
+  },
+  "persado": {
+    "accessFr": "Plateforme d’optimisation des messages marketing pour équipes d’entreprise, intégrée aux campagnes.",
+    "accessEn": "Enterprise marketing-message optimization platform integrated with campaign workflows.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "paid",
+      "fr": "Offre entreprise commercialisée sur proposition et démonstration ; tarif public standard non confirmé.",
+      "en": "Enterprise offering available through proposal and demo; no standard public price confirmed.",
+      "sourceUrl": "https://www.persado.com/platform",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-18-65"
+  },
+  "phrasee": {
+    "accessFr": "Plateforme IA pour générer et optimiser les messages marketing sur plusieurs canaux.",
+    "accessEn": "AI platform for generating and optimizing marketing messages across channels.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "paid",
+      "fr": "Offres professionnelles sur devis selon canaux, volume et intégrations ; vérifier les modalités auprès de l’éditeur.",
+      "en": "Professional plans by quote depending on channels, volume and integrations; confirm with vendor.",
+      "sourceUrl": "https://phrasee.co/",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-18-65"
+  },
+  "lately-ai": {
+    "accessFr": "Plateforme Web transformant contenus longs en publications marketing destinées à plusieurs réseaux.",
+    "accessEn": "Web platform converting long-form content into marketing posts across networks.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "paid",
+      "fr": "Offres commerciales et démonstration via l’équipe Lately ; montants et conditions à confirmer.",
+      "en": "Commercial plans and demo through Lately sales; confirm prices and terms.",
+      "sourceUrl": "https://www.lately.ai/",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-18-65"
+  }
+}
