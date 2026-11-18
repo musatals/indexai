@@ -434,20 +434,35 @@ function handleKey(e){if(e.key==='/'&&!['INPUT','TEXTAREA'].includes(document.ac
 async function bootstrap(){document.documentElement.dataset.theme=state.theme;
  try{const r=await Promise.all(['tools','categories','families','quality-report'].map(n=>fetch('/data/'+n+'.json').then(x=>{if(!x.ok)throw Error(n);return x.json()})));
  [db.tools,db.categories,db.families,db.quality]=r;
- // Enrichissements modulaires : préserver le catalogue central, y compris quand il grossit.
- try {
-   const modules=['video-editing-enrichment','avatar-dubbing-enrichment','voice-synthesis-enrichment','music-composition-enrichment','audio-podcast-enrichment','graphic-branding-enrichment','presentations-infographics-enrichment','programming-assistants-enrichment','site-app-builders-enrichment','autonomous-agents-orchestration-enrichment','automation-integrations-enrichment','organization-productivity-enrichment','email-communication-enrichment','marketing-advertising-enrichment','seo-ai-visibility-enrichment','sales-prospecting-crm-enrichment','customer-support-chatbots-enrichment','voice-agents-telephony-enrichment','education-tutoring-enrichment','data-bi-analytics-enrichment','document-ocr-enrichment','3d-spatial-xr-enrichment','architecture-real-estate-interior-enrichment','games-characters-enrichment','health-medicine-enrichment','legal-compliance-enrichment','finance-accounting-insurance-enrichment','hr-recruitment-careers-enrichment','cybersecurity-detection-enrichment','ai-detection-authenticity-enrichment','ecommerce-retail-enrichment','llm-model-providers-enrichment','local-ai-inference-deployment-enrichment','rag-vector-search-enrichment','mlops-monitoring-evaluation-enrichment','data-annotation-training-enrichment','vision-robotics-edge-enrichment','agriculture-climate-geospatial-enrichment','travel-leisure-daily-enrichment','prompt-testing-redteaming-enrichment','ai-directories-discovery-enrichment','personal-proactive-agents-enrichment','web-browser-agents-enrichment','coding-agents-enrichment','enterprise-business-agents-enrichment','agent-building-platforms-enrichment','access-business-model-audit-01','access-business-model-audit-02','access-business-model-audit-03','access-business-model-audit-04','access-business-model-audit-05','access-business-model-audit-06','access-business-model-audit-07','access-business-model-audit-08','access-business-model-audit-09','access-business-model-audit-10','access-business-model-audit-11','access-business-model-audit-12','access-business-model-audit-13','access-business-model-audit-14','access-business-model-audit-15','access-business-model-audit-16','access-business-model-audit-17','access-business-model-audit-18','access-business-model-audit-19','access-business-model-audit-20','access-business-model-audit-21','access-business-model-audit-22','access-business-model-audit-23','access-business-model-audit-24','access-business-model-audit-25','access-business-model-audit-26','access-business-model-audit-27','access-business-model-audit-28','access-business-model-audit-29','access-business-model-audit-30','access-business-model-audit-31','access-business-model-audit-32','access-business-model-audit-33','access-business-model-audit-34','access-business-model-audit-35','access-business-model-audit-36','access-business-model-audit-37','access-business-model-audit-38','access-business-model-audit-39','access-business-model-audit-40','access-business-model-audit-41','access-business-model-audit-42','access-business-model-audit-43','access-business-model-audit-44','access-business-model-audit-45','access-business-model-audit-46','access-business-model-audit-47','access-business-model-audit-48','access-business-model-audit-49','access-business-model-audit-50','access-business-model-audit-51','access-business-model-audit-52','access-business-model-audit-53','access-business-model-audit-54','access-business-model-audit-55','access-business-model-audit-56','access-business-model-audit-57','access-business-model-audit-58','access-business-model-audit-59','access-business-model-audit-60','access-business-model-audit-61','access-business-model-audit-62','access-business-model-audit-63','access-business-model-audit-64','access-business-model-audit-65','access-business-model-audit-66','identity-and-link-audit-67'];
-   const results=await Promise.all(modules.map(async moduleName=>{
-     const response=await fetch('/data/'+moduleName+'.json');
-     return response.ok?response.json():{};
-   }));
+ // Show the usable catalogue immediately; editorial data arrives progressively afterwards.
+ // The ordered bundles preserve the original source priority without 113 HTTP requests.
+ const loadEditorialBundles=async()=>{
+   const bundles=Array.from({length:12},(_,i)=>'/data/indexai-enrichment-bundle-'+String(i+1).padStart(2,'0')+'.json');
+   const results=new Array(bundles.length);
+   let cursor=0;
+   const worker=async()=>{
+     while(cursor<bundles.length){
+       const index=cursor++;
+       try{
+         const response=await fetch(bundles[index]);
+         if(!response.ok)throw Error(String(response.status));
+         results[index]=await response.json();
+       }catch(error){
+         results[index]={};
+         console.warn('IndexAI enrichment bundle unavailable:',bundles[index],error);
+       }
+     }
+   };
+   await Promise.all(Array.from({length:4},worker));
    for(const updates of results){
-     db.tools.forEach(tool=>{
+     for(const tool of db.tools){
        const entry=updates[tool.slug];
        if(entry)Object.assign(tool,entry);
-     });
+     }
    }
- } catch(error){console.warn('Optional editorial enrichments unavailable',error);}
+   // Repaint once, preserving the active route, without making enrichment block first paint.
+   if(!document.activeElement?.matches('input,textarea,select'))renderView();
+ };
  db.toolSlug=new Map(db.tools.map(t=>[t.slug,t]));db.catSlug=new Map(db.categories.map(c=>[c.slug,c]));
  db.tools.forEach(t=>{t.secondaryCategories=t.secondaryCategories||[]});
  state.compare=state.compare.filter(id=>db.tools.some(t=>t.id===id)).slice(0,4);
@@ -457,6 +472,8 @@ async function bootstrap(){document.documentElement.dataset.theme=state.theme;
  document.addEventListener('click',handleClick);document.addEventListener('input',handleInput);document.addEventListener('change',handleChange);document.addEventListener('keydown',handleKey);
  window.addEventListener('popstate',()=>{current=route();absorbSharedComparison();state.search=new URLSearchParams(location.search).get('q')||'';render();});
  render();
+ // Defer network-heavy documentation so the first interactive frame gets priority.
+ setTimeout(()=>{void loadEditorialBundles();},150);
  }catch(err){const el=$('#app');if(el)el.innerHTML=`<div class="loading-error"><h1>IndexAI</h1><p>${T('Impossible de charger le répertoire. Vérifiez la connexion et le serveur.','Unable to load catalog data. Please check connectivity and the server.')}</p><button onclick="location.reload()">${T('Réessayer','Retry')}</button></div>`;console.error('IndexAI startup:',err);}
 }
 bootstrap();
