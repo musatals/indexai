@@ -1,0 +1,83 @@
+{
+  "tl": {
+    "descriptionFr": "Entrée historique au nom tronqué « tl ». L’identification à tl;dv est plausible à partir de la catégorie et de la source d’inventaire, mais non confirmée : ne pas attribuer automatiquement le site d’un autre outil.",
+    "descriptionEn": "Historical entry with truncated name “tl”. A match to tl;dv is plausible from category and source inventory, but unconfirmed: do not automatically assign another tool's website.",
+    "descriptionStatus": "identity_unresolved",
+    "editorialDate": "2026-11-18",
+    "availabilityStatus": "identity_unresolved",
+    "accessFr": "Plateforme et identité exactes non établies ; lien direct suspendu jusqu’à vérification de la source initiale.",
+    "accessEn": "Exact platform and identity unconfirmed; direct link withheld pending source verification.",
+    "accessStatus": "unverified",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "unknown",
+      "fr": "Modèle économique non déterminable tant que l’identité de l’outil n’est pas confirmée.",
+      "en": "Pricing model cannot be determined until the tool identity is confirmed.",
+      "sourceUrl": "https://allailists.com/ai-tools/meetings/",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "identity_unresolved",
+    "officialSources": [
+      {
+        "url": "https://allailists.com/ai-tools/meetings/",
+        "checkedAt": "2026-11-18",
+        "scope": "identity_research"
+      }
+    ],
+    "auditBatch": "identity-and-link-audit-2026-11-18-67"
+  },
+  "amper-music": {
+    "descriptionFr": "Ancienne plateforme de composition musicale assistée par IA. Shutterstock a annoncé l’acquisition d’Amper Music en novembre 2020 ; il ne faut pas présenter sa plateforme historique comme un service autonome actuellement souscrit.",
+    "descriptionEn": "Former AI-assisted music composition platform. Shutterstock announced its acquisition of Amper Music in November 2020; its historical product should not be presented as a currently subscribable standalone service.",
+    "descriptionStatus": "official_reviewed",
+    "editorialDate": "2026-11-18",
+    "availabilityStatus": "historical_acquired",
+    "accessFr": "Produit historique acquis par Shutterstock en 2020 ; aucun accès autonome actuel confirmé.",
+    "accessEn": "Historical product acquired by Shutterstock in 2020; no current standalone access confirmed.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "discontinued",
+      "fr": "Anciennes conditions de vente non applicables ; aucune offre autonome actuelle confirmée.",
+      "en": "Legacy pricing is not applicable; no current standalone plan confirmed.",
+      "sourceUrl": "https://investor.shutterstock.com/news-releases/news-release-details/shutterstock-announces-acquisition-amper-music",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "official_reviewed",
+    "officialSources": [
+      {
+        "url": "https://investor.shutterstock.com/news-releases/news-release-details/shutterstock-announces-acquisition-amper-music",
+        "checkedAt": "2026-11-18",
+        "scope": "acquisition_and_historical_status"
+      }
+    ],
+    "auditBatch": "identity-and-link-audit-2026-11-18-67"
+  },
+  "satellier": {
+    "descriptionFr": "Entrée du catalogue attribuée au géospatial, non identifiée comme outil IA vérifiable. Les résultats publics homonymes décrivent une société de services CAO/BIM ; l’équivalence avec cet outil demeure non prouvée.",
+    "descriptionEn": "Catalog entry assigned to geospatial AI but not identified as a verifiable AI tool. Public namesakes describe a CAD/BIM services firm; equivalence remains unproven.",
+    "descriptionStatus": "identity_unresolved",
+    "editorialDate": "2026-11-18",
+    "availabilityStatus": "identity_unresolved",
+    "accessFr": "Plateforme géospatiale IA non vérifiée ; URL non attribuée pour éviter une confusion d’entité.",
+    "accessEn": "Geospatial AI platform not verified; no website assigned to avoid entity confusion.",
+    "accessStatus": "unverified",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "unknown",
+      "fr": "Tarification indéterminée : aucun fournisseur IA correspondant identifié avec certitude.",
+      "en": "Pricing unknown: no matching AI vendor reliably identified.",
+      "sourceUrl": "https://www.linkedin.com/company/satellier",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "identity_unresolved",
+    "officialSources": [
+      {
+        "url": "https://www.linkedin.com/company/satellier",
+        "checkedAt": "2026-11-18",
+        "scope": "namesake_only_not_verified_ai_product"
+      }
+    ],
+    "auditBatch": "identity-and-link-audit-2026-11-18-67"
+  }
+}
