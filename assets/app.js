@@ -66,7 +66,7 @@ const ico=(name,sz=18,cls='')=>`<svg class="icon ${cls}" width="${sz}" height="$
 const T=(fr,en)=>state.lang==='fr'?fr:en;
 const TYPES={'Application / service':['Application / service','App / service'], 'Technologie / plateforme / logiciel':['Technologie / plateforme / logiciel','Technology / platform / software'], 'Agent / framework / plateforme':['Agent / framework / plateforme','Agent / framework / platform'], 'Annuaire':['Annuaire','Directory']};
 const kinds=()=>Array.from(new Set(db.tools.map(t=>t.kind)));
-const state={lang:getStore('indexai-lang',getStore('atlas-lang','fr')),theme:getStore('indexai-theme','light'),favorites:getStore('indexai-favorites',getStore('atlas-favorites',[])),compare:getStore('indexai-compare',getStore('atlas-compare',[])),view:getStore('indexai-layout',getStore('atlas-layout','cards')),search:'',category:'',kind:'',link:'all',sort:'az',page:1,mobileMenu:false};
+const state={lang:getStore('indexai-lang',getStore('atlas-lang','fr')),theme:getStore('indexai-theme','light'),favorites:getStore('indexai-favorites',getStore('atlas-favorites',[])),compare:getStore('indexai-compare',getStore('atlas-compare',[])),view:getStore('indexai-layout',getStore('atlas-layout','cards')),search:'',category:'',kind:'',link:'all',sort:'az',page:1,mobileMenu:false,galaxyUniverse:getStore('indexai-galaxy-universe','essentiels')};
 const db={tools:[],categories:[],families:[],quality:null,toolSlug:new Map(),catSlug:new Map()};
 const route=()=>{
  const p=decodeURI(location.pathname).split('/').filter(Boolean), search=new URLSearchParams(location.search);
@@ -139,36 +139,26 @@ const needs=[
 function needCard(n){const count=db.tools.filter(t=>n[4].includes(t.category)||t.secondaryCategories.some(c=>n[4].includes(c))).length;
  return `<a href="/besoins/?besoin=${n[0]}" data-nav="/besoins/?besoin=${n[0]}" class="need-card"><span class="need-icon">${n[1]}</span><span><strong>${T(n[2],n[3])}</strong><small>${fmt(count)} ${T('références','entries')}</small></span>${ico('arrow',16)}</a>`;
 }
+const galaxyUniverses=[{"id":"essentiels","fr":"Découvrir","en":"Discover","entries":[["assistants-generalistes","💬","Assistants","Assistants"],["recherche-web-et-reponses","🔎","Recherche","Search"],["images-generatives","🎨","Images","Images"],["video-generative","🎬","Vidéo","Video"],["voix-et-synthese-vocale","🎙️","Voix","Voice"],["programmation-assistee","💻","Code","Coding"],["agents-autonomes-et-orchestration","🤖","Agents IA","AI agents"],["education-et-tutorat","📚","Éducation","Education"],["marketing-et-publicite","📣","Marketing","Marketing"],["donnees-bi-et-analytique","📊","Données","Analytics"],["3d-spatial-et-xr","🧊","3D & XR","3D & XR"],["cybersecurite-et-detection","🛡️","Sécurité","Security"]]},{"id":"creation","fr":"Créer","en":"Create","entries":[["redaction-et-correction","✍️","Rédaction","Writing"],["traduction-et-localisation","🌍","Traduction","Translate"],["retouche-et-restauration-dimages","🖼️","Retouche","Editing"],["montage-video-et-clips","🎞️","Montage","Editing video"],["avatars-presentateurs-et-doublage","🧑‍🎤","Avatars","Avatars"],["musique-et-composition","🎵","Musique","Music"],["audio-podcasts-et-traitement","🎧","Podcasts","Podcasts"],["design-graphique-et-branding","🖌️","Design","Design"],["presentations-et-infographies","📽️","Diaporamas","Slides"],["creation-de-sites-et-applications","🛠️","Sites & apps","Web & apps"],["jeux-video-et-personnages","🎮","Jeux","Games"],["architecture-immobilier-et-interieur","🏠","Architecture","Architecture"]]},{"id":"entreprise","fr":"Entreprise","en":"Business","entries":[["organisation-et-productivite","🗓️","Productivité","Productivity"],["email-et-communication","✉️","Email","Email"],["seo-et-visibilite-ia","📈","SEO","SEO"],["ventes-prospection-et-crm","🤝","Ventes & CRM","Sales & CRM"],["support-client-et-chatbots","💭","Chatbots","Chatbots"],["agents-vocaux-et-telephonie","☎️","Téléphonie","Telephony"],["extraction-documentaire-et-ocr","📄","Documents","Documents"],["finance-comptabilite-et-assurance","💳","Finance","Finance"],["droit-et-conformite","⚖️","Droit","Legal"],["rh-recrutement-et-carrieres","👥","Recrutement","Hiring"],["e-commerce-et-retail","🛍️","E-commerce","E-commerce"],["agents-ia-entreprise","🏢","Agents métier","Work agents"]]},{"id":"technologies","fr":"Technologies","en":"Technology","entries":[["llm-modeles-et-fournisseurs","🧠","Modèles LLM","LLM models"],["ia-locale-inference-et-deploiement","💾","IA locale","Local AI"],["rag-bases-vectorielles-et-recherche","🧩","RAG","RAG"],["mlops-suivi-et-evaluation","⚙️","MLOps","MLOps"],["donnees-annotation-et-entrainement","🏷️","Annotation","Labeling"],["vision-robotique-et-edge-ai","🦾","Robotique","Robotics"],["detection-ia-et-authenticite","🔬","Détection IA","AI detection"],["prompts-tests-et-red-teaming","🧪","Tests prompts","Prompt tests"],["agents-web-navigateurs","🌐","Agents Web","Web agents"],["agents-ia-programmation","👨‍💻","Agents code","Code agents"],["plateformes-agents-ia","🧱","Créer agents","Agent builders"],["automatisation-et-integrations","🔄","Automatisation","Automation"]]},{"id":"specialises","fr":"Spécialisés","en":"Specialized","entries":[["recherche-academique-et-science","🔭","Science","Science"],["transcription-et-reunions","📝","Réunions","Meetings"],["sante-et-medecine","🩺","Santé","Health"],["agriculture-climat-et-geospatial","🌱","Climat & Geo","Climate & Geo"],["voyages-loisirs-et-vie-quotidienne","🧳","Voyages","Travel"],["annuaires-et-plateformes-de-decouverte","🗂️","Annuaires","Directories"],["agents-ia-personnels","🧑‍🚀","Agents perso","Personal agents"]]}];
+
 function visual(){
- const destinations=[
-  ['assistants-generalistes','💬','Assistants','Assistants'],
-  ['recherche-web-et-reponses','🔎','Recherche','Search'],
-  ['images-generatives','🎨','Images','Images'],
-  ['video-generative','🎬','Vidéo','Video'],
-  ['voix-et-synthese-vocale','🎙️','Voix','Voice'],
-  ['programmation-assistee','💻','Code','Coding'],
-  ['agents-autonomes-et-orchestration','🤖','Agents IA','AI agents'],
-  ['education-et-tutorat','📚','Éducation','Education'],
-  ['marketing-et-publicite','📣','Marketing','Marketing'],
-  ['donnees-bi-et-analytique','📊','Données','Analytics'],
-  ['3d-spatial-et-xr','🧊','3D & XR','3D & XR'],
-  ['cybersecurite-et-detection','🛡️','Sécurité','Security']
- ];
+ const selected=galaxyUniverses.find(g=>g.id===state.galaxyUniverse)||galaxyUniverses[0];
+ const destinations=selected.entries;
+ const universes=galaxyUniverses.map(g=>`<button type="button" class="galaxy-universe ${g.id===selected.id?'is-active':''}" data-action="galaxy-universe" data-id="${g.id}" aria-pressed="${g.id===selected.id}">${E(T(g.fr,g.en))}</button>`).join('');
  const nodes=destinations.map(([slug,symbol,fr,en],i)=>{
-   const c=category(slug);
-   if(!c)return '';
-   // Static orbital coordinates remain usable when JS or motion is disabled.
+   const c=category(slug);if(!c)return '';
    const phase=-Math.PI/2+i*2*Math.PI/destinations.length;
    const left=(50+Math.cos(phase)*37).toFixed(2);
    const top=(50+Math.sin(phase)*40).toFixed(2);
    return `<a href="/categories/${E(c.slug)}/" data-nav="/categories/${E(c.slug)}/" class="orbit-node node-${i+1}" data-orbit-index="${i}" style="left:${left}%;top:${top}%" title="${E(cName(c))}" aria-label="${E(cName(c))} · ${fmt(c.count)} ${T('outils','tools')}"><span class="orbit-symbol" aria-hidden="true">${symbol}</span><span class="orbit-node-label">${E(T(fr,en))}</span></a>`;
  }).join('');
  return `<div class="galaxy-section">
+  <div class="galaxy-universes" role="group" aria-label="${T('Choisir un univers de la galaxie IA','Choose an AI galaxy universe')}">${universes}</div>
   <div class="galaxy-visual">
     <div class="nebula-stage" id="indexaiNebula" aria-hidden="true"><canvas class="nebula-canvas" aria-hidden="true"></canvas></div>
-    <div class="visual-orbit" role="navigation" aria-label="${T('Galaxie interactive des catégories IA','Interactive galaxy of AI categories')}" data-orbit-count="12">
+    <div class="visual-orbit" role="navigation" aria-label="${T('Catégories IA : ','AI categories: ')+E(T(selected.fr,selected.en))}" data-orbit-count="${destinations.length}">
       <div class="orbit-ring ring-one" aria-hidden="true"></div><div class="orbit-ring ring-two" aria-hidden="true"></div><div class="orbit-ring ring-three" aria-hidden="true"></div>
-      <span class="orbit-center" aria-hidden="true"><span class="orbit-glyph">✳</span><strong>IA</strong></span>
+      <a href="/categories/" data-nav="/categories/" class="orbit-center" title="${T('Toutes les catégories IA','All AI categories')}" aria-label="${T('Explorer les 55 catégories IA','Explore all 55 AI categories')}"><span class="orbit-glyph" aria-hidden="true">✳</span><strong>IA</strong></a>
       ${nodes}
     </div>
   </div>
@@ -400,6 +390,14 @@ function showSuggestions(v){const el=$('#suggestions');if(!el)return;const q=v.t
 function syncSearchURL(){if(current.type!=='repertoire')return;const u=new URL(location.href);if(state.search.trim())u.searchParams.set('q',state.search);else u.searchParams.delete('q');history.replaceState({},'',u.pathname+u.search);}
 function handleClick(e){const action=e.target.closest('[data-action]');if(action){e.preventDefault();const a=action.dataset.action;
  if(a==='toggle-menu'){state.mobileMenu=!state.mobileMenu;render();return;}
+ if(a==='galaxy-universe'){
+   const value=action.dataset.id;
+   if(!galaxyUniverses.some(g=>g.id===value)||state.galaxyUniverse===value)return;
+   state.galaxyUniverse=value;store('indexai-galaxy-universe',value);
+   renderView();
+   document.querySelector('.galaxy-universe[data-id="'+value+'"]')?.focus({preventScroll:true});
+   return;
+ }
  if(a==='theme'){state.theme=state.theme==='dark'?'light':'dark';store('indexai-theme',state.theme);render();return;}
  if(a==='lang'){state.lang=state.lang==='fr'?'en':'fr';store('indexai-lang',state.lang);render();return;}
  if(a==='favorite'){const id=action.dataset.id;state.favorites=state.favorites.includes(id)?state.favorites.filter(x=>x!==id):[...state.favorites,id];store('indexai-favorites',state.favorites);renderView();toast(state.favorites.includes(id)?T('Ajouté aux favoris','Saved to favorites'):T('Retiré des favoris','Removed from favorites'));return;}
