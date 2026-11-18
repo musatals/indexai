@@ -1145,3 +1145,23 @@ body{background:var(--bg)}
     transform:translate(0,-50%);
   }
 }
+
+/* 2026-11-18: warmer planet hover, distinct from pale unselected backgrounds. */
+.hero-nebula .orbit-node:hover,
+.hero-nebula .orbit-node:focus-visible,
+:root[data-theme=light] .hero-nebula .orbit-node:hover,
+:root[data-theme=light] .hero-nebula .orbit-node:focus-visible{
+  background:#c2925e!important;
+  color:#332013!important;
+  border-color:#f0c088!important;
+  box-shadow:0 0 0 2px rgba(230,170,102,.32),0 6px 20px rgba(71,45,24,.34)!important;
+  outline:2px solid #83512b;
+  outline-offset:1px;
+}
+:root[data-theme=dark] .hero-nebula .orbit-node:hover,
+:root[data-theme=dark] .hero-nebula .orbit-node:focus-visible{
+  background:#9c653e!important;
+  color:#fff3df!important;
+  border-color:#d7aa75!important;
+  box-shadow:0 0 0 2px rgba(207,153,96,.26),0 7px 18px rgba(0,0,0,.34)!important;
+}
