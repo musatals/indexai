@@ -244,6 +244,7 @@ function toolPage(t){if(!t)return notFound();const c=category(t.categorySlug),ur
     discontinued:['Service arrêté','Discontinued'],
     free:['Gratuit','Free']
   };
+  if(model==='unknown'||t.pricingStatus==='identity_unresolved')return {label:T('Non déterminé','Not established'),verified:false};
   if(labels[model])return {label:T(...labels[model]),verified:!!t.pricing?.sourceUrl};
   const raw=String(t.research?.pricing||'').toLowerCase();
   // Only classify explicit product-specific statements, never general advice to check fees.
@@ -263,7 +264,7 @@ function toolPage(t){if(!t)return notFound();const c=category(t.categorySlug),ur
    url?(new URL(url).hostname==='github.com'?T('Dépôt GitHub public','Public GitHub repository'):T('Site officiel en ligne','Official website online')):
    T('Mode d’accès non confirmé','Access method unconfirmed');
  const economicLabel=E(economy.label);
- const economicSource=url?` <a href="${E(t.pricing?.sourceUrl && urlSafe(t.pricing.sourceUrl) || url)}" target="_blank" rel="noopener noreferrer">${T('Vérifier les conditions','Check terms')} ${ico('external',13)}</a>`:'';
+ const economicSource=(t.pricingStatus==='identity_unresolved'||t.pricing?.model==='unknown')?'':(urlSafe(t.pricing?.sourceUrl||'')||url)?` <a href="${E(urlSafe(t.pricing?.sourceUrl||'')||url)}" target="_blank" rel="noopener noreferrer">${T('Vérifier les conditions','Check terms')} ${ico('external',13)}</a>`:'';
  const summary=described?`<p class="editorial-intro">${E(desc)}</p><p class="editorial-note">${ico('info',16)} ${T('Synthèse éditoriale à recouper avec la documentation du fournisseur.','Editorial summary; confirm details with the vendor documentation.')}</p>`:`<div class="editorial-empty">${ico('book',19)}<p>${T('Aucune description fonctionnelle suffisamment fiable n’est encore disponible pour cette référence. Consultez son site et ses documents officiels ; cette fiche est à enrichir.','No sufficiently reliable functional description has been documented for this entry yet. Consult the vendor website and official documents; this record needs enrichment.')}</p></div>`;
  return `${breadcrumbs([T('Répertoire','Directory'),'/repertoire/'],[cName(c),`/categories/${c.slug}/`],[t.name,null])}
  <div class="tool-detail-hero"><div class="detail-logo-wrap">${toolLogo(t)}</div><div class="detail-head"><div class="eyebrow">${E(t.id)} <span class="tiny-separator">/</span> ${T('FICHE OUTIL','TOOL PROFILE')}</div><h1>${E(t.name)}</h1><div class="detail-pills"><a href="/categories/${c.slug}/" data-nav="/categories/${c.slug}/" class="pill pill-accent">${E(cName(c))}</a><span class="pill ${priced?'pill-sourced':'pill-amber'}">${ico(priced?'check':'clock',13)} ${t.availabilityStatus==='discontinued'?T('Service arrêté','Discontinued'):t.availabilityStatus==='sunsetting'?T('Fin de vie annoncée','Sunsetting'):t.research?T('Fiche approfondie','Detailed profile'):priced?T('Tarif documenté','Pricing documented'):described?T('Présentation éditoriale','Editorial summary'):T('À documenter','Research pending')}</span></div></div><div class="detail-actions"><button class="btn btn-secondary ${inFav(t)?'btn-chosen':''}" data-action="favorite" data-id="${t.id}">${ico('heart',17)} ${inFav(t)?T('Enregistré','Saved'):T('Favori','Save')}</button><button class="btn btn-secondary ${inComp(t)?'btn-chosen':''}" data-action="compare" data-id="${t.id}">${ico('compare',18)} ${inComp(t)?T('Dans le comparateur','Added to compare'):T('Comparer','Compare')}</button>${url&&t.availabilityStatus!=='discontinued'?`<a class="btn btn-primary" href="${E(url)}" target="_blank" rel="noopener noreferrer nofollow">${T('Accéder au site','Visit website')} ${ico('external',16)}</a>`:''}</div></div>
@@ -309,7 +310,7 @@ function liveQuality(){
  const candidateSharedUrls=[...groups.entries()].filter(([,names])=>names.length>1).map(([url,names])=>({url,count:names.length,tools:names})).sort((a,b)=>b.count-a.count);
  const missingUrls=db.tools.filter(t=>!t.url).map(t=>({id:t.id,name:t.name,slug:t.slug}));
  const missingAccess=db.tools.filter(t=>!t.accessFr?.trim()||!t.accessEn?.trim());
- const missingPricing=db.tools.filter(t=>!t.pricing?.fr?.trim()||!t.pricing?.en?.trim()||!t.pricing?.model);
+ const missingPricing=db.tools.filter(t=>!t.pricing?.fr?.trim()||!t.pricing?.en?.trim()||!t.pricing?.model||t.pricing.model==='unknown'||t.pricingStatus==='identity_unresolved');
  const descriptionsPresent=db.tools.filter(t=>t.descriptionFr?.trim()&&t.descriptionEn?.trim()).length;
  const pricingReferenced=db.tools.filter(t=>t.pricing?.sourceUrl&&t.pricingStatus==='official_reviewed').length;
  return {candidateSharedUrls,missingUrls,missingAccess,missingPricing,descriptionsPresent,pricingReferenced};
