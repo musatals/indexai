@@ -33,6 +33,24 @@ export function mountNebula(stage) {
   let pointerX = 0, pointerY = 0, targetX = 0, targetY = 0;
   let pressure = 0, burst = 0, visible = true, destroyed = false;
   let raf = 0, last = 0, frameTime = 0;
+  // Orbit words around the central IA sun; keep the words upright and clickable.
+  const orbit = hero.querySelector('.visual-orbit');
+  const orbitNodes = [...(orbit?.querySelectorAll('[data-orbit-index]') || [])];
+  let orbitPhase = 0, orbitLast = 0, orbitInteracting = false;
+  function positionOrbit() {
+    if (!orbit || !orbitNodes.length) return;
+    for (const node of orbitNodes) {
+      const i = Number(node.dataset.orbitIndex);
+      const angle = -Math.PI / 2 + i * TWO_PI / orbitNodes.length + orbitPhase;
+      node.style.left = (50 + 38 * Math.cos(angle)).toFixed(3) + '%';
+      node.style.top = (50 + 40 * Math.sin(angle)).toFixed(3) + '%';
+    }
+  }
+  function orbitHoverStart() { orbitInteracting = true; }
+  function orbitHoverEnd() { orbitInteracting = orbit?.contains(document.activeElement) || false; }
+  function orbitFocusStart() { orbitInteracting = true; }
+  function orbitFocusEnd() { orbitInteracting = orbit?.contains(document.activeElement) || false; }
+
   let userPaused = false;
   try { userPaused = sessionStorage.getItem('indexai-nebula-paused') === '1'; } catch (_) {}
   let motion = !reducedMedia.matches && !userPaused;
@@ -110,6 +128,7 @@ export function mountNebula(stage) {
     dark = isDark();
     particles();
     haze = drawHaze();
+    positionOrbit();
     draw(performance.now());
   }
   function draw(ms) {
@@ -195,6 +214,11 @@ export function mountNebula(stage) {
     if (destroyed || !visible || !motion || document.hidden) return;
     const delay = lowPower ? 1000 / 17 : 1000 / 28;
     if (now - frameTime >= delay) {
+      if (orbitLast && !orbitInteracting) {
+        orbitPhase = (orbitPhase + Math.min((now - orbitLast) / 1000, .12) * .052) % TWO_PI;
+        positionOrbit();
+      }
+      orbitLast = now;
       pointerX = easing(pointerX, targetX, .07);
       pointerY = easing(pointerY, targetY, .07);
       pressure *= .93;
@@ -245,6 +269,12 @@ export function mountNebula(stage) {
   if (observer) observer.observe(hero);
   else window.addEventListener('resize', resize, { passive: true });
   onScreen.observe(hero);
+  if (orbit) {
+    orbit.addEventListener('pointerenter', orbitHoverStart);
+    orbit.addEventListener('pointerleave', orbitHoverEnd);
+    orbit.addEventListener('focusin', orbitFocusStart);
+    orbit.addEventListener('focusout', orbitFocusEnd);
+  }
   hero.addEventListener('pointermove', pointermove, { passive: true });
   hero.addEventListener('pointerleave', pointerleave, { passive: true });
   hero.addEventListener('pointerdown', pointerdown, { passive: true });
@@ -260,6 +290,12 @@ export function mountNebula(stage) {
     if (observer) observer.disconnect();
     else window.removeEventListener('resize', resize);
     onScreen.disconnect();
+    if (orbit) {
+      orbit.removeEventListener('pointerenter', orbitHoverStart);
+      orbit.removeEventListener('pointerleave', orbitHoverEnd);
+      orbit.removeEventListener('focusin', orbitFocusStart);
+      orbit.removeEventListener('focusout', orbitFocusEnd);
+    }
     hero.removeEventListener('pointermove', pointermove);
     hero.removeEventListener('pointerleave', pointerleave);
     hero.removeEventListener('pointerdown', pointerdown);
