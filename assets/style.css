@@ -481,3 +481,87 @@ body{background:var(--bg)}
   :root[data-theme=light] .hero-nebula .orbit-caption{padding:0}
   .hero-nebula .nebula-motion-toggle{bottom:52px}
 }
+
+
+/* IndexAI constellation v3: meaningful emoji + permanently visible bilingual labels.
+   Desktop keeps the orbital composition; smaller screens use an accessible grid. */
+.hero-nebula .visual-orbit{
+  width:100%;max-width:445px;height:405px;margin:0 auto;
+  transform:none;justify-self:center;overflow:visible;
+}
+.hero-nebula .orbit-ring{top:46%;pointer-events:none}
+.hero-nebula .ring-one{width:185px;height:185px}
+.hero-nebula .ring-two{width:340px;height:340px}
+.hero-nebula .orbit-center{top:46%;width:82px;height:82px;pointer-events:none}
+.hero-nebula .orbit-node,
+:root[data-theme=light] .hero-nebula .orbit-node,
+:root[data-theme=dark] .hero-nebula .orbit-node{
+  width:122px;height:47px;box-sizing:border-box;
+  padding:5px 9px;border-radius:13px;
+  display:flex;flex-direction:row;gap:8px;justify-content:flex-start;
+  align-items:center;transform:none;z-index:3;
+  text-decoration:none;
+}
+.hero-nebula .orbit-node .orbit-symbol{font-size:22px;line-height:1.1;flex:0 0 25px;text-align:center}
+.hero-nebula .orbit-node .orbit-node-label{
+  font:700 11px/1.18 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+  letter-spacing:0;overflow-wrap:anywhere;text-align:left;
+}
+.hero-nebula .orbit-node:hover,
+.hero-nebula .orbit-node:focus-visible{transform:translateY(-2px);filter:brightness(1.06);box-shadow:0 10px 20px rgba(61,39,26,.24)}
+.hero-nebula .node-1,.hero-nebula .node-2{top:3%}
+.hero-nebula .node-3,.hero-nebula .node-4{top:18%}
+.hero-nebula .node-5,.hero-nebula .node-6{top:33%}
+.hero-nebula .node-7,.hero-nebula .node-8{top:48%}
+.hero-nebula .node-9,.hero-nebula .node-10{top:63%}
+.hero-nebula .node-11,.hero-nebula .node-12{top:78%}
+.hero-nebula .node-1,.hero-nebula .node-3,.hero-nebula .node-5,
+.hero-nebula .node-7,.hero-nebula .node-9,.hero-nebula .node-11{left:0;right:auto;bottom:auto}
+.hero-nebula .node-2,.hero-nebula .node-4,.hero-nebula .node-6,
+.hero-nebula .node-8,.hero-nebula .node-10,.hero-nebula .node-12{right:0;left:auto;bottom:auto}
+.hero-nebula .orbit-all-categories{
+  position:absolute;bottom:23px;left:50%;transform:translateX(-50%);
+  z-index:6;display:flex;gap:6px;align-items:center;justify-content:center;
+  white-space:nowrap;text-decoration:underline;text-underline-offset:3px;
+  font-size:11px;font-weight:800;color:#6f4025;
+}
+:root[data-theme=dark] .hero-nebula .orbit-all-categories{color:#fff0d4}
+.hero-nebula .orbit-all-categories:hover{color:#b86b3b}
+.hero-nebula .orbit-all-categories:focus-visible{outline:2px solid currentColor;outline-offset:4px}
+.hero-nebula .orbit-caption{bottom:-10px}
+@media(min-width:1120px){
+  .hero.hero-nebula{grid-template-columns:minmax(0,1fr) minmax(415px,.94fr);min-height:490px}
+}
+@media(min-width:701px) and (max-width:1119px){
+  .hero.hero-nebula{grid-template-columns:minmax(0,1fr) minmax(285px,.9fr);min-height:490px}
+  .hero-nebula .visual-orbit{height:410px;max-width:310px}
+  .hero-nebula .orbit-node,:root[data-theme=light] .hero-nebula .orbit-node,:root[data-theme=dark] .hero-nebula .orbit-node{width:112px;padding:5px 6px;gap:5px}
+  .hero-nebula .orbit-node .orbit-node-label{font-size:10px}
+  .hero-nebula .orbit-center{width:65px;height:65px}
+  .hero-nebula .ring-two{width:250px;height:310px}
+}
+@media(max-width:700px){
+  .hero.hero-nebula{overflow:hidden}
+  .hero-nebula .visual-orbit{
+    width:100%;max-width:440px;height:auto;min-height:0;
+    display:grid;grid-template-columns:repeat(2,minmax(0,1fr));
+    align-items:stretch;gap:8px;margin:20px auto 45px;
+    transform:none;
+  }
+  .hero-nebula .orbit-center,.hero-nebula .orbit-ring{display:none}
+  .hero-nebula .orbit-node,
+  :root[data-theme=light] .hero-nebula .orbit-node,
+  :root[data-theme=dark] .hero-nebula .orbit-node{
+    position:static;width:100%;height:46px;min-width:0;transform:none;
+  }
+  .hero-nebula .orbit-node .orbit-symbol{font-size:20px;flex-basis:24px}
+  .hero-nebula .orbit-node .orbit-node-label{font-size:11px}
+  .hero-nebula .orbit-all-categories{bottom:-29px;font-size:11px}
+  .hero-nebula .orbit-caption{bottom:-57px;font-size:11px;white-space:normal}
+  .hero-nebula .nebula-motion-toggle{bottom:6px;right:9px}
+}
+@media(max-width:360px){
+  .hero-nebula .visual-orbit{gap:6px}
+  .hero-nebula .orbit-node,:root[data-theme=light] .hero-nebula .orbit-node,:root[data-theme=dark] .hero-nebula .orbit-node{padding:4px 5px;gap:4px}
+  .hero-nebula .orbit-node .orbit-node-label{font-size:10px}
+}
