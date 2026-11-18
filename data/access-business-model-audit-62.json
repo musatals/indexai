@@ -1,0 +1,137 @@
+{
+  "intercom-fin": {
+    "accessFr": "Agent Fin accessible via Intercom et certains helpdesks partenaires, avec canaux numériques et transfert humain.",
+    "accessEn": "Fin agent through Intercom and selected partner helpdesks, with digital channels and human handoff.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "usage",
+      "fr": "Facturation principalement par outcome Fin (à partir de 0,99 USD selon le type), avec éventuels frais de sièges ou canaux.",
+      "en": "Primarily billed per Fin outcome (from USD 0.99 depending on outcome type), plus possible seat or channel charges.",
+      "sourceUrl": "https://www.intercom.com/pricing",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-18-62"
+  },
+  "zendesk-ai": {
+    "accessFr": "Agents IA intégrés aux offres Zendesk Support et Suite, pour le support multicanal.",
+    "accessEn": "AI agents within Zendesk Support and Suite plans for omnichannel support.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "paid",
+      "fr": "Abonnement Zendesk par offre et agents humains ; résolutions automatisées facturées suivant les conditions du forfait.",
+      "en": "Zendesk subscription by plan and human agents; automated resolutions billed according to plan terms.",
+      "sourceUrl": "https://www.zendesk.com/pricing/",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-18-62"
+  },
+  "ada": {
+    "accessFr": "Plateforme entreprise accessible depuis le tableau de bord Ada, avec intégrations API/SDK et canaux de support.",
+    "accessEn": "Enterprise platform through the Ada dashboard, API/SDK integrations and support channels.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "paid",
+      "fr": "Offre entreprise contractualisée ; modalités de tarification à confirmer par devis auprès d’Ada.",
+      "en": "Enterprise contracted offering; confirm commercial pricing through an Ada quote.",
+      "sourceUrl": "https://www.ada.cx/platform/",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-18-62"
+  },
+  "decagon": {
+    "accessFr": "Plateforme d’agents de relation client pour entreprises, incluant plusieurs canaux et intégrations.",
+    "accessEn": "Enterprise customer-experience agent platform supporting multiple channels and integrations.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "paid",
+      "fr": "Tarification contractuelle entreprise ; conditions et métriques de facturation à confirmer sur devis.",
+      "en": "Contract-based enterprise pricing; confirm billing metrics and terms in a quotation.",
+      "sourceUrl": "https://decagon.ai/blog/pricing-ai-agents",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-18-62"
+  },
+  "forethought": {
+    "accessFr": "Plateforme Web d’agents de support IA pour chat, mobile et intégrations de service client.",
+    "accessEn": "Web AI support-agent platform for chat, mobile, and customer-service integrations.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "paid",
+      "fr": "Modèle combinant frais d’accès à la plateforme et facturation basée sur les résultats ; devis selon déploiement.",
+      "en": "Blended platform-access fee and outcome-based pricing, with deployment-specific quotation.",
+      "sourceUrl": "https://forethought.ai/pricing",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-18-62"
+  },
+  "botpress": {
+    "accessFr": "Plateforme Web Botpress (Desk, Studio, Viber et ADK) pour créer et déployer des agents IA.",
+    "accessEn": "Botpress web platform (Desk, Studio, Viber and ADK) for creating and deploying AI agents.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Offre communautaire gratuite et formules payantes principalement calculées selon les conversations et volumes.",
+      "en": "Free community plan and paid tiers primarily based on conversation and usage volumes.",
+      "sourceUrl": "https://botpress.com/pricing",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-18-62"
+  },
+  "voiceflow": {
+    "accessFr": "Plateforme cloud pour concevoir, tester et déployer des agents conversationnels Web, vocaux ou via API.",
+    "accessEn": "Cloud platform for building, testing and deploying conversational agents for web, voice or API.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Formules selon l’équipe et la capacité ; crédits de consommation et options entreprise sur devis.",
+      "en": "Plans by team and capacity; usage credits and enterprise options by quote.",
+      "sourceUrl": "https://www.voiceflow.com/pricing",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-18-62"
+  },
+  "tidio-lyro": {
+    "accessFr": "Agent IA Lyro intégré à Tidio et connectable à des logiciels de service client compatibles.",
+    "accessEn": "Lyro AI agent within Tidio and connected to compatible customer-service software.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Essai et accès initial limité, puis offres payantes selon le volume de conversations Lyro ; formule entreprise sur demande.",
+      "en": "Trial and limited initial access, then paid tiers by Lyro conversation volume; enterprise offering by request.",
+      "sourceUrl": "https://www.tidio.com/pricing/",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-18-62"
+  },
+  "gorgias": {
+    "accessFr": "Helpdesk Web et agent IA pour le commerce en ligne, intégré aux boutiques et canaux clients.",
+    "accessEn": "Web helpdesk and AI agent for ecommerce, integrated with stores and customer channels.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "paid",
+      "fr": "Abonnement helpdesk avec facturation liée aux tickets ; interactions de l’agent IA facturées selon l’offre.",
+      "en": "Helpdesk subscription with ticket-based billing; AI-agent interactions charged according to the plan.",
+      "sourceUrl": "https://www.gorgias.com/blog/ai-agent-pricing",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-18-62"
+  }
+}
