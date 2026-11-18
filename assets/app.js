@@ -139,8 +139,34 @@ const needs=[
 function needCard(n){const count=db.tools.filter(t=>n[4].includes(t.category)||t.secondaryCategories.some(c=>n[4].includes(c))).length;
  return `<a href="/besoins/?besoin=${n[0]}" data-nav="/besoins/?besoin=${n[0]}" class="need-card"><span class="need-icon">${n[1]}</span><span><strong>${T(n[2],n[3])}</strong><small>${fmt(count)} ${T('références','entries')}</small></span>${ico('arrow',16)}</a>`;
 }
-function visual(){const cats=[['Images génératives','Images génératives','◈'],['Programmation assistée','Programmation assistée','⌘'],['Agents autonomes et orchestration','Agents autonomes et orchestration','✣'],['LLM, modèles et fournisseurs','LLM, modèles et fournisseurs','◇'],['Éducation et tutorat','Éducation et tutorat','✦'],['3D, spatial et XR','3D, spatial et XR','⬡']];
- return `<div class="visual-orbit" role="group" aria-label="${T('Accès rapide à six catégories','Quick access to six categories')}"><div class="orbit-ring ring-one"></div><div class="orbit-ring ring-two"></div><div class="orbit-lines"></div><span class="orbit-center"><span class="orbit-glyph">✳</span><strong>IA</strong></span>${cats.map((x,i)=>{const c=db.categories.find(c=>c.name===x[0]);return `<a href="/categories/${c.slug}/" data-nav="/categories/${c.slug}/" class="orbit-node node-${i+1}" title="${E(cName(c))}"><span>${x[2]}</span></a>`}).join('')}<span class="orbit-caption">${T('Un écosystème · mille possibilités','One ecosystem · endless possibilities')}</span></div>`;}
+function visual(){
+ const destinations=[
+  ['assistants-generalistes','💬','Assistants','Assistants'],
+  ['recherche-web-et-reponses','🔎','Recherche','Search'],
+  ['images-generatives','🎨','Images','Images'],
+  ['video-generative','🎬','Vidéo','Video'],
+  ['voix-et-synthese-vocale','🎙️','Voix','Voice'],
+  ['programmation-assistee','💻','Code','Coding'],
+  ['agents-autonomes-et-orchestration','🤖','Agents IA','AI agents'],
+  ['education-et-tutorat','📚','Éducation','Education'],
+  ['marketing-et-publicite','📣','Marketing','Marketing'],
+  ['donnees-bi-et-analytique','📊','Données','Analytics'],
+  ['3d-spatial-et-xr','🧊','3D & XR','3D & XR'],
+  ['cybersecurite-et-detection','🛡️','Sécurité','Security']
+ ];
+ const nodes=destinations.map(([slug,symbol,fr,en],i)=>{
+   const c=category(slug);
+   if(!c)return '';
+   return `<a href="/categories/${E(c.slug)}/" data-nav="/categories/${E(c.slug)}/" class="orbit-node node-${i+1}" title="${E(cName(c))}" aria-label="${E(cName(c))} · ${fmt(c.count)} ${T('outils','tools')}"><span class="orbit-symbol" aria-hidden="true">${symbol}</span><span class="orbit-node-label">${E(T(fr,en))}</span></a>`;
+ }).join('');
+ return `<div class="visual-orbit" role="navigation" aria-label="${T('Constellation : 12 catégories d’outils IA','Constellation: 12 AI tool categories')}">
+  <div class="orbit-ring ring-one" aria-hidden="true"></div><div class="orbit-ring ring-two" aria-hidden="true"></div>
+  <span class="orbit-center" aria-hidden="true"><span class="orbit-glyph">✳</span><strong>IA</strong></span>
+  ${nodes}
+  <a href="/categories/" data-nav="/categories/" class="orbit-all-categories">${T('Explorer les 55 catégories','Explore all 55 categories')} ${ico('arrow',13)}</a>
+  <span class="orbit-caption">${T('Un écosystème · mille possibilités','One ecosystem · endless possibilities')}</span>
+ </div>`;
+}
 function home(){const countWithUrl=db.tools.filter(t=>t.url).length;
  const featured=['ChatGPT','Midjourney','Cursor','Ollama','Gamma','ElevenLabs','Perplexity','Meshy'].map(name=>db.tools.find(t=>t.name===name)).filter(Boolean);
  return `<div class="home-screen"><div class="hero hero-nebula"><div class="nebula-stage" id="indexaiNebula" aria-hidden="true"><canvas class="nebula-canvas" aria-hidden="true"></canvas></div><div class="hero-copy"><div class="hero-tag"><span class="live-spark"></span>${T('UN RÉPERTOIRE, DES CENTAINES DE POSSIBILITÉS','ONE DIRECTORY, HUNDREDS OF POSSIBILITIES')}</div><h1>${T('Trouvez l’outil IA <em>qui change tout.</em>','Find the AI tool <em>that changes everything.</em>')}</h1><p>${T('Explorez une cartographie structurée de l’intelligence artificielle. Recherchez, découvrez et comparez — avec des informations clairement sourcées.','Explore a structured map of artificial intelligence. Search, discover and compare — with clearly sourced information.')}</p><div class="hero-actions"><a href="/repertoire/" data-nav="/repertoire/" class="btn btn-primary">${ico('grid',18)} ${T('Explorer le répertoire','Explore directory')} ${ico('arrow',17)}</a><a href="/agents/" data-nav="/agents/" class="btn btn-ghost">${ico('spark',18)} ${T('Découvrir les agents IA','Explore AI agents')}</a><a href="/besoins/" data-nav="/besoins/" class="btn btn-ghost">${ico('compass',17)} ${T('Parcourir par besoin','Browse by use case')}</a><a class="btn btn-ghost" href="/dossiers/" data-nav="/dossiers/">${ico('book',17)} ${T('Dossiers approfondis','Detailed profiles')}</a></div><div class="hero-note">${ico('shield',15)} ${T('Transparence documentaire : aucune fiche n’est présentée comme vérifiée sans contrôle.','Editorial transparency: no tool is shown as verified without review.')}</div></div>${visual()}<button type="button" class="nebula-motion-toggle" aria-label="${T('Mettre en pause les nuages','Pause cloud animation')}" aria-pressed="false"><span class="nebula-toggle-icon" aria-hidden="true">Ⅱ</span><span class="nebula-toggle-label">${T('Pause','Pause')}</span></button></div>
