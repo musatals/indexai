@@ -875,3 +875,85 @@ body{background:var(--bg)}
   .sidebar.expanded .nav-link span:not(.nav-count){display:inline}
   .sidebar.expanded .nav-link{justify-content:flex-start;gap:13px}
 }
+
+/* IndexAI galaxy universes v4 — readable filters above the moving star system. */
+.hero-nebula .galaxy-section{
+  max-width:540px;
+}
+.hero-nebula .galaxy-universes{
+  position:relative;
+  z-index:8;
+  display:flex;
+  flex-wrap:wrap;
+  align-items:center;
+  justify-content:center;
+  gap:5px;
+  width:100%;
+  padding:0 4px 8px;
+  box-sizing:border-box;
+}
+.hero-nebula .galaxy-universe{
+  font:700 10px/1.2 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+  min-height:30px;
+  padding:6px 9px;
+  border-radius:999px;
+  border:1px solid rgba(131,91,56,.46);
+  background:rgba(255,250,239,.78);
+  color:#5d3924;
+  box-shadow:0 2px 8px rgba(80,49,30,.09);
+  cursor:pointer;
+  touch-action:manipulation;
+  transition:background .18s,border-color .18s,box-shadow .18s;
+}
+.hero-nebula .galaxy-universe.is-active{
+  background:#754b32;
+  color:#fff8ed;
+  border-color:#a77751;
+  box-shadow:0 3px 12px rgba(95,58,34,.25);
+}
+.hero-nebula .galaxy-universe:hover{
+  border-color:#b57c50;
+  box-shadow:0 3px 12px rgba(95,58,34,.20);
+}
+.hero-nebula .galaxy-universe:focus-visible{
+  outline:2px solid #df995f;
+  outline-offset:3px;
+}
+:root[data-theme=dark] .hero-nebula .galaxy-universe{
+  background:rgba(61,42,35,.92);
+  border-color:#9f7455;
+  color:#f9e5cb;
+}
+:root[data-theme=dark] .hero-nebula .galaxy-universe.is-active{
+  background:#e4b78d;
+  border-color:#f5d1ab;
+  color:#35221b;
+}
+.hero-nebula .visual-orbit .orbit-center{
+  pointer-events:auto;
+  text-decoration:none;
+  cursor:pointer;
+}
+.hero-nebula .visual-orbit .orbit-center:focus-visible{
+  outline:3px solid #efbb78;
+  outline-offset:5px;
+}
+@media(max-width:700px){
+  .hero-nebula .galaxy-universes{
+    gap:6px;
+    padding:0 0 12px;
+  }
+  .hero-nebula .galaxy-universe{
+    min-height:35px;
+    padding:7px 10px;
+    font-size:11px;
+  }
+  .hero-nebula .galaxy-section{margin-top:15px}
+  .hero-nebula .galaxy-visual{margin-top:2px}
+}
+@media(max-width:380px){
+  .hero-nebula .galaxy-universe{font-size:10px;padding:6px 8px;min-height:33px}
+}
+@media(prefers-reduced-motion:reduce){
+  .hero-nebula .galaxy-universe{transition:none}
+}
