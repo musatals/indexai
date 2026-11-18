@@ -64,7 +64,7 @@ export function mountNebula(stage) {
   const center = () => [w * .5, h * .5];
   const isDark = () => document.documentElement.dataset.theme === 'dark';
   function particles() {
-    const count = w < 680 ? 475 : w < 1024 ? 790 : 1320;
+    const count = w < 680 ? 290 : w < 1024 ? 520 : 850;
     const arms = 4;
     dust = [];
     for (let i = 0; i < count; i++) {
@@ -87,7 +87,7 @@ export function mountNebula(stage) {
     const [cx, cy] = center();
     const colors = palette();
     const rgen = randomSource(20261115);
-    const layers = w < 680 ? 58 : 104;
+    const layers = w < 680 ? 36 : 72;
     // Layered, soft, overlapping wisps—an abstract, volumetric cloud field.
     for (let i = 0; i < layers; i++) {
       const r = Math.pow(rgen(), .75);
@@ -213,7 +213,7 @@ export function mountNebula(stage) {
   function tick(now) {
     raf = 0;
     if (destroyed || !visible || !motion || document.hidden) return;
-    const delay = lowPower ? 1000 / 17 : 1000 / 28;
+    const delay = lowPower ? 1000 / 14 : 1000 / 24;
     if (now - frameTime >= delay) {
       if (orbitLast && !orbitInteracting) {
         orbitPhase = (orbitPhase + Math.min((now - orbitLast) / 1000, .12) * .052) % TWO_PI;
