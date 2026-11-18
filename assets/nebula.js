@@ -60,7 +60,7 @@ export function mountNebula(stage) {
   }, { threshold: 0.01 });
   const rand = randomSource(794315);
   const palette = () => lightPalette(dark);
-  const center = () => [w * (w < 700 ? .72 : .785), h * .48];
+  const center = () => [w * .5, h * .5];
   const isDark = () => document.documentElement.dataset.theme === 'dark';
   function particles() {
     const count = w < 680 ? 475 : w < 1024 ? 790 : 1320;
@@ -117,7 +117,7 @@ export function mountNebula(stage) {
     return off;
   }
   function resize() {
-    const bounds = hero.getBoundingClientRect();
+    const bounds = stage.getBoundingClientRect();
     w = Math.max(1, bounds.width);
     h = Math.max(1, bounds.height);
     scale = Math.min(window.devicePixelRatio || 1, 1.4) * (lowPower ? .75 : .85);
@@ -229,7 +229,7 @@ export function mountNebula(stage) {
     requestFrame();
   }
   function pointermove(e) {
-    const rect = hero.getBoundingClientRect();
+    const rect = stage.getBoundingClientRect();
     targetX = clamp((e.clientX - rect.left) / rect.width * 2 - 1, -1, 1);
     targetY = clamp((e.clientY - rect.top) / rect.height * 2 - 1, -1, 1);
     pressure = clamp(pressure + .035, 0, 1);
@@ -266,9 +266,9 @@ export function mountNebula(stage) {
   }
   function onVisibility() { if (!document.hidden) requestFrame(); }
   const observer = typeof ResizeObserver === 'function' ? new ResizeObserver(resize) : null;
-  if (observer) observer.observe(hero);
+  if (observer) observer.observe(stage);
   else window.addEventListener('resize', resize, { passive: true });
-  onScreen.observe(hero);
+  onScreen.observe(stage);
   if (orbit) {
     orbit.addEventListener('pointerenter', orbitHoverStart);
     orbit.addEventListener('pointerleave', orbitHoverEnd);
