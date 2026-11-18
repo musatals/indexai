@@ -157,10 +157,14 @@ function visual(){
  const nodes=destinations.map(([slug,symbol,fr,en],i)=>{
    const c=category(slug);
    if(!c)return '';
-   return `<a href="/categories/${E(c.slug)}/" data-nav="/categories/${E(c.slug)}/" class="orbit-node node-${i+1}" title="${E(cName(c))}" aria-label="${E(cName(c))} · ${fmt(c.count)} ${T('outils','tools')}"><span class="orbit-symbol" aria-hidden="true">${symbol}</span><span class="orbit-node-label">${E(T(fr,en))}</span></a>`;
+   // Static orbital coordinates remain usable when JS or motion is disabled.
+   const phase=-Math.PI/2+i*2*Math.PI/destinations.length;
+   const left=(50+Math.cos(phase)*37).toFixed(2);
+   const top=(50+Math.sin(phase)*40).toFixed(2);
+   return `<a href="/categories/${E(c.slug)}/" data-nav="/categories/${E(c.slug)}/" class="orbit-node node-${i+1}" data-orbit-index="${i}" style="left:${left}%;top:${top}%" title="${E(cName(c))}" aria-label="${E(cName(c))} · ${fmt(c.count)} ${T('outils','tools')}"><span class="orbit-symbol" aria-hidden="true">${symbol}</span><span class="orbit-node-label">${E(T(fr,en))}</span></a>`;
  }).join('');
- return `<div class="visual-orbit" role="navigation" aria-label="${T('Constellation : 12 catégories d’outils IA','Constellation: 12 AI tool categories')}">
-  <div class="orbit-ring ring-one" aria-hidden="true"></div><div class="orbit-ring ring-two" aria-hidden="true"></div>
+ return `<div class="visual-orbit" role="navigation" aria-label="${T('Galaxie interactive des catégories IA','Interactive galaxy of AI categories')}" data-orbit-count="12">
+  <div class="orbit-ring ring-one" aria-hidden="true"></div><div class="orbit-ring ring-two" aria-hidden="true"></div><div class="orbit-ring ring-three" aria-hidden="true"></div>
   <span class="orbit-center" aria-hidden="true"><span class="orbit-glyph">✳</span><strong>IA</strong></span>
   ${nodes}
   <a href="/categories/" data-nav="/categories/" class="orbit-all-categories">${T('Explorer les 55 catégories','Explore all 55 categories')} ${ico('arrow',13)}</a>
