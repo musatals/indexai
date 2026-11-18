@@ -304,7 +304,7 @@ function liveQuality(){
  const groups=new Map();
  for(const t of db.tools){
    if(!t.url)continue;
-   try{const u=new URL(t.url);const key=u.hostname.toLowerCase()+u.pathname.replace(/\\/$/,'');const arr=groups.get(key)||[];arr.push(t.name);groups.set(key,arr)}catch{}
+   try{const u=new URL(t.url);const key=u.hostname.toLowerCase()+u.pathname.replace(/\/$/,'');const arr=groups.get(key)||[];arr.push(t.name);groups.set(key,arr)}catch{}
  }
  const candidateSharedUrls=[...groups.entries()].filter(([,names])=>names.length>1).map(([url,names])=>({url,count:names.length,tools:names})).sort((a,b)=>b.count-a.count);
  const missingUrls=db.tools.filter(t=>!t.url).map(t=>({id:t.id,name:t.name,slug:t.slug}));
