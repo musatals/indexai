@@ -1165,3 +1165,11 @@ body{background:var(--bg)}
   border-color:#d7aa75!important;
   box-shadow:0 0 0 2px rgba(207,153,96,.26),0 7px 18px rgba(0,0,0,.34)!important;
 }
+
+/* Stable colors across galaxy universe ordering. */
+.hero-nebula .galaxy-universe[data-id="essentiels"]{--universe-accent:#b47743;--universe-bg:rgba(186,120,65,.14)}
+.hero-nebula .galaxy-universe[data-id="agents"]{--universe-accent:#8e69aa;--universe-bg:rgba(142,105,170,.14)}
+.hero-nebula .galaxy-universe[data-id="creation"]{--universe-accent:#b15e86;--universe-bg:rgba(177,94,134,.14)}
+.hero-nebula .galaxy-universe[data-id="entreprise"]{--universe-accent:#467c84;--universe-bg:rgba(70,124,132,.14)}
+.hero-nebula .galaxy-universe[data-id="technologies"]{--universe-accent:#607e43;--universe-bg:rgba(96,126,67,.14)}
+.hero-nebula .galaxy-universe[data-id="specialises"]{--universe-accent:#a85c72;--universe-bg:rgba(168,92,114,.14)}
