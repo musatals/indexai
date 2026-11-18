@@ -1,0 +1,122 @@
+{
+  "sierra": {
+    "accessFr": "Plateforme d’agents de relation client accessible aux entreprises, avec connexion aux systèmes CRM et aux canaux de support.",
+    "accessEn": "Enterprise customer-agent platform connected to CRM systems and support channels.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "paid",
+      "fr": "Tarification sur résultats obtenus, selon contrat et définition des outcomes.",
+      "en": "Outcome-based pricing according to contract and agreed outcome definitions.",
+      "sourceUrl": "https://sierra.ai/product",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-18-63"
+  },
+  "kore-ai": {
+    "accessFr": "Plateforme Kore.ai pour agents de service client et orchestration, avec intégrations aux environnements d’entreprise.",
+    "accessEn": "Kore.ai platform for customer-service agents and orchestration, with enterprise integrations.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "paid",
+      "fr": "Offres professionnelles personnalisées ; prix final et volumes à confirmer auprès de l’éditeur.",
+      "en": "Custom enterprise offerings; confirm final pricing and volume with the vendor.",
+      "sourceUrl": "https://www.kore.ai/ai-for-service/agent-ai",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-18-63"
+  },
+  "cognigy": {
+    "accessFr": "Plateforme NiCE Cognigy pour agents vocaux et conversationnels connectés aux centres de contacts.",
+    "accessEn": "NiCE Cognigy platform for voice and conversational agents connected to contact centers.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "paid",
+      "fr": "Contrat entreprise associant capacité de plateforme et consommation par conversation ou minute selon l’offre.",
+      "en": "Enterprise contract combining platform capacity and consumption by conversation or minute, depending on package.",
+      "sourceUrl": "https://www.cognigy.com/best-conversational-ai-platforms/pricing",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-18-63"
+  },
+  "freshworks-freddy-ai": {
+    "accessFr": "Fonctions Freddy AI disponibles dans les produits Freshworks (Freshdesk et Freshchat), selon l’abonnement.",
+    "accessEn": "Freddy AI capabilities within Freshworks products (Freshdesk and Freshchat), according to subscription.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "paid",
+      "fr": "Forfaits Freshworks et modules Freddy AI ; Copilot par agent et Agent IA selon sessions ou packs.",
+      "en": "Freshworks tiers and Freddy AI add-ons; Copilot per agent and AI Agent by session or session packs.",
+      "sourceUrl": "https://www.freshworks.com/freshdesk/omni/pricing/",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-18-63"
+  },
+  "kustomer": {
+    "accessFr": "Plateforme CRM de service client Kustomer avec agents IA, automatisation et canaux de messagerie.",
+    "accessEn": "Kustomer customer-service CRM with AI agents, automation, and messaging channels.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "paid",
+      "fr": "Abonnements selon formule et usage IA ; voix, SMS et WhatsApp peuvent être facturés à l’usage.",
+      "en": "Plan subscriptions and AI usage; voice, SMS and WhatsApp may be metered separately.",
+      "sourceUrl": "https://www.kustomer.com/pricing/",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-18-63"
+  },
+  "liveperson": {
+    "accessFr": "Plateforme LivePerson Conversational Cloud pour messagerie, agents conversationnels et analyse des échanges.",
+    "accessEn": "LivePerson Conversational Cloud platform for messaging, conversational agents and interaction analytics.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "paid",
+      "fr": "Contrats de plateforme et options selon les canaux et capacités ; vérifier les conditions commerciales.",
+      "en": "Platform contracts and options by channels and capabilities; confirm commercial terms.",
+      "sourceUrl": "https://www.liveperson.com/pricing/",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-18-63"
+  },
+  "yellow-ai": {
+    "accessFr": "Plateforme Yellow.ai de création et déploiement d’agents IA omnicanaux, avec console et intégrations.",
+    "accessEn": "Yellow.ai platform for building and deploying omnichannel AI agents with console and integrations.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Offre Freemium pour explorer la plateforme ; formules Premium et tarification entreprise sur demande.",
+      "en": "Freemium plan for exploring the platform; premium tiers and enterprise pricing on request.",
+      "sourceUrl": "https://docs.yellow.ai/docs/platform_concepts/get_started/upgrade",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-18-63"
+  },
+  "ibm-watsonx-orchestrate": {
+    "accessFr": "Plateforme IBM watsonx Orchestrate pour créer et gouverner des agents IA sur le cloud et en entreprise.",
+    "accessEn": "IBM watsonx Orchestrate platform for building and governing AI agents in cloud and enterprise environments.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Essai gratuit et offres payantes adaptées aux équipes, environnements et charges de travail.",
+      "en": "Free trial and paid plans scaled to teams, deployment environments and workloads.",
+      "sourceUrl": "https://www.ibm.com/products/watsonx-orchestrate/pricing",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-18-63"
+  }
+}
