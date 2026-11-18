@@ -1,0 +1,167 @@
+{
+  "superhuman": {
+    "accessFr": "Client de messagerie Superhuman disponible sur le Web et appareils compatibles ; connexion aux comptes mail pris en charge.",
+    "accessEn": "Superhuman email client on the web and supported devices; connects to compatible mail accounts.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "paid",
+      "fr": "Abonnement individuel ou équipe, avec options professionnelles selon fonctionnalités.",
+      "en": "Individual or team subscription, with professional options by feature set.",
+      "sourceUrl": "https://superhuman.com/pricing",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-18-66"
+  },
+  "shortwave": {
+    "accessFr": "Client de messagerie Web et applications pour comptes Gmail/Google Workspace, doté de fonctions IA.",
+    "accessEn": "Web and app email client for Gmail/Google Workspace accounts, with AI functionality.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Formule gratuite limitée puis forfaits payants, notamment pour les fonctions IA et équipes.",
+      "en": "Limited free tier followed by paid plans for AI features and teams.",
+      "sourceUrl": "https://www.shortwave.com/pricing",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-18-66"
+  },
+  "spark-mail": {
+    "accessFr": "Client de messagerie multiplateforme sur ordinateurs et appareils mobiles, avec assistant Spark +AI.",
+    "accessEn": "Cross-platform email client on desktop and mobile with Spark +AI assistant.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Accès gratuit aux fonctions de base, puis forfaits Premium et offres équipes.",
+      "en": "Free access to basic features followed by Premium and team plans.",
+      "sourceUrl": "https://sparkmailapp.com/pricing",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-18-66"
+  },
+  "mailbutler": {
+    "accessFr": "Extension et outils d’aide à la messagerie pour clients de courrier compatibles, dont Apple Mail, Gmail et Outlook.",
+    "accessEn": "Email-assistance extension and tools for supported clients including Apple Mail, Gmail and Outlook.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "paid",
+      "fr": "Essai gratuit puis abonnements payants par niveau de fonctionnalités et utilisateur.",
+      "en": "Free trial then paid subscription tiers based on features and users.",
+      "sourceUrl": "https://www.mailbutler.io/pricing/",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-18-66"
+  },
+  "sanebox": {
+    "accessFr": "Service cloud de tri et priorisation des emails connecté à des boîtes mail compatibles.",
+    "accessEn": "Cloud email sorting and prioritization service connected to compatible mailboxes.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "paid",
+      "fr": "Essai disponible, puis abonnements selon formule et nombre de comptes ou fonctionnalités.",
+      "en": "Trial available, then subscriptions according to tier and mailbox or feature allowance.",
+      "sourceUrl": "https://www.sanebox.com/pricing",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-18-66"
+  },
+  "missive": {
+    "accessFr": "Application collaborative de messagerie sur Web, Windows, macOS et mobile, avec fonctionnalités IA.",
+    "accessEn": "Collaborative email app across web, Windows, macOS and mobile, with AI features.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "paid",
+      "fr": "Essai gratuit et abonnements par utilisateur ; accès IA et intégrations selon formule.",
+      "en": "Free trial and per-user subscriptions; AI access and integrations depend on tier.",
+      "sourceUrl": "https://missiveapp.com/pricing",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-18-66"
+  },
+  "lavender": {
+    "accessFr": "Assistant IA de rédaction et coaching d’emails de prospection, principalement via navigateur et intégrations commerciales.",
+    "accessEn": "AI writing assistant and sales-email coach, mainly through browser and sales integrations.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Formule gratuite limitée et abonnements individuels ou équipe selon les usages.",
+      "en": "Limited free plan and individual or team subscriptions depending on usage.",
+      "sourceUrl": "https://www.lavender.ai/pricing",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-18-66"
+  },
+  "flowrite": {
+    "accessFr": "Ancien outil de génération de messages par IA ; offre à considérer dans l’écosystème MailMaestro après acquisition.",
+    "accessEn": "Legacy AI message-generation tool; review within the MailMaestro ecosystem after acquisition.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "paid",
+      "fr": "Anciennes offres Flowrite à ne pas considérer comme actuelles sans vérification ; consulter les offres MailMaestro.",
+      "en": "Do not treat historical Flowrite plans as current without verification; consult MailMaestro offerings.",
+      "sourceUrl": "https://www.maestrolabs.com/",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-18-66"
+  },
+  "hubspot-ai-email": {
+    "accessFr": "Outils de génération d’emails IA accessibles depuis les produits HubSpot CRM et Marketing Hub.",
+    "accessEn": "AI email-generation tools available within HubSpot CRM and Marketing Hub products.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Outils de base gratuits et forfaits HubSpot payants ; limites IA liées au produit et à la formule.",
+      "en": "Free basic tools and paid HubSpot plans; AI limits depend on product and tier.",
+      "sourceUrl": "https://www.hubspot.com/pricing/marketing",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-18-66"
+  },
+  "microsoft-outlook-copilot": {
+    "accessFr": "Fonctionnalités Copilot intégrées à Outlook dans les environnements Microsoft 365 compatibles.",
+    "accessEn": "Copilot capabilities integrated into Outlook within compatible Microsoft 365 environments.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "paid",
+      "fr": "Abonnement Microsoft 365 éligible, avec options Copilot supplémentaires selon l’offre et le compte.",
+      "en": "Eligible Microsoft 365 subscription, with additional Copilot options depending on plan and account.",
+      "sourceUrl": "https://www.microsoft.com/en-us/microsoft-365-copilot/pricing",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-18-66"
+  },
+  "gemini-in-gmail": {
+    "accessFr": "Fonctions Gemini intégrées à Gmail sur comptes et appareils éligibles, notamment via Google Workspace.",
+    "accessEn": "Gemini features inside Gmail for eligible accounts and devices, including Google Workspace.",
+    "accessStatus": "official_reviewed",
+    "accessVerifiedAt": "2026-11-18",
+    "pricing": {
+      "model": "freemium",
+      "fr": "Accès et limites variables selon compte Google, abonnement Google AI ou formule Workspace.",
+      "en": "Access and limits vary by Google account, Google AI subscription or Workspace plan.",
+      "sourceUrl": "https://workspace.google.com/pricing.html",
+      "verifiedAt": "2026-11-18"
+    },
+    "pricingStatus": "official_reviewed",
+    "auditBatch": "access-business-model-2026-11-18-66"
+  }
+}
