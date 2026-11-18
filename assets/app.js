@@ -363,7 +363,7 @@ function updateHomeNebula(){
   const version = ++nebulaVersion;
   nebulaStop(); nebulaStop = () => {};
   if(current.type !== 'home') return;
-  import('/assets/nebula.js?v=galaxy-layout-mobile-20261118').then(module => {
+  import('/assets/nebula.js?v=galaxy-universes-20261118').then(module => {
     if(version !== nebulaVersion || current.type !== 'home') return;
     const stage = $('#indexaiNebula');
     if(stage && typeof module.mountNebula === 'function'){
