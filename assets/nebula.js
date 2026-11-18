@@ -22,7 +22,8 @@ function lightPalette(dark) {
 export function mountNebula(stage) {
   const canvas = stage && stage.querySelector('canvas');
   const hero = stage && stage.closest('.hero-nebula');
-  if (!canvas || !hero) return () => {};
+  const galaxyVisual = stage && stage.closest('.galaxy-visual');
+  if (!canvas || !hero || !galaxyVisual) return () => {};
   const ctx = canvas.getContext('2d', { alpha: true, desynchronized: true });
   if (!ctx) return () => {};
   const toggle = hero.querySelector('.nebula-motion-toggle');
@@ -34,7 +35,7 @@ export function mountNebula(stage) {
   let pressure = 0, burst = 0, visible = true, destroyed = false;
   let raf = 0, last = 0, frameTime = 0;
   // Orbit words around the central IA sun; keep the words upright and clickable.
-  const orbit = hero.querySelector('.visual-orbit');
+  const orbit = galaxyVisual.querySelector('.visual-orbit');
   const orbitNodes = [...(orbit?.querySelectorAll('[data-orbit-index]') || [])];
   let orbitPhase = 0, orbitLast = 0, orbitInteracting = false;
   function positionOrbit() {
@@ -275,9 +276,9 @@ export function mountNebula(stage) {
     orbit.addEventListener('focusin', orbitFocusStart);
     orbit.addEventListener('focusout', orbitFocusEnd);
   }
-  hero.addEventListener('pointermove', pointermove, { passive: true });
-  hero.addEventListener('pointerleave', pointerleave, { passive: true });
-  hero.addEventListener('pointerdown', pointerdown, { passive: true });
+  galaxyVisual.addEventListener('pointermove', pointermove, { passive: true });
+  galaxyVisual.addEventListener('pointerleave', pointerleave, { passive: true });
+  galaxyVisual.addEventListener('pointerdown', pointerdown, { passive: true });
   document.addEventListener('visibilitychange', onVisibility);
   if (reducedMedia.addEventListener) reducedMedia.addEventListener('change', onMotionChange);
   if (toggle) toggle.addEventListener('click', onToggle);
@@ -296,9 +297,9 @@ export function mountNebula(stage) {
       orbit.removeEventListener('focusin', orbitFocusStart);
       orbit.removeEventListener('focusout', orbitFocusEnd);
     }
-    hero.removeEventListener('pointermove', pointermove);
-    hero.removeEventListener('pointerleave', pointerleave);
-    hero.removeEventListener('pointerdown', pointerdown);
+    galaxyVisual.removeEventListener('pointermove', pointermove);
+    galaxyVisual.removeEventListener('pointerleave', pointerleave);
+    galaxyVisual.removeEventListener('pointerdown', pointerdown);
     document.removeEventListener('visibilitychange', onVisibility);
     if (reducedMedia.removeEventListener) reducedMedia.removeEventListener('change', onMotionChange);
     if (toggle) toggle.removeEventListener('click', onToggle);
