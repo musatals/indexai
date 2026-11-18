@@ -649,3 +649,229 @@ body{background:var(--bg)}
 @media(prefers-reduced-motion:reduce){
   .hero-nebula .orbit-node{transition:none!important}
 }
+
+/* IndexAI — 2026-11-18: accessible navigation and galaxy layout repair.
+   Space the link and the caption in normal flow rather than overlaying orbit nodes. */
+.hero.hero-nebula{
+  align-items:center;
+  grid-template-columns:minmax(0,1fr) minmax(380px,.95fr);
+  column-gap:16px;
+  padding-bottom:32px;
+  overflow:hidden;
+}
+.hero-nebula .galaxy-section{
+  position:relative;
+  isolation:isolate;
+  z-index:2;
+  width:100%;
+  max-width:510px;
+  min-width:0;
+  justify-self:center;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  gap:0;
+  padding-bottom:0;
+}
+.hero-nebula .galaxy-visual{
+  position:relative;
+  isolation:isolate;
+  width:100%;
+  height:435px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+.hero-nebula .galaxy-visual .nebula-stage{
+  position:absolute;inset:0;z-index:0;overflow:hidden;
+  -webkit-mask-image:radial-gradient(ellipse at 50% 50%,#000 0%,#000 65%,transparent 98%);
+  mask-image:radial-gradient(ellipse at 50% 50%,#000 0%,#000 65%,transparent 98%);
+  pointer-events:none;
+}
+.hero-nebula .galaxy-visual .nebula-stage::before,
+.hero-nebula .galaxy-visual .nebula-stage::after{
+  inset:-8%;
+}
+.hero-nebula .galaxy-visual .visual-orbit{
+  position:relative!important;z-index:2;
+  width:100%;height:100%;min-height:0;max-width:480px;
+  margin:0!important;overflow:visible;
+}
+.hero-nebula .galaxy-footer{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+  gap:15px;
+  width:100%;
+  padding:10px 8px 0;
+  box-sizing:border-box;
+  position:relative;
+  z-index:6;
+  text-align:center;
+}
+.hero-nebula .galaxy-footer .orbit-all-categories{
+  position:static!important;
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  transform:none!important;
+  max-width:100%;
+  color:#704629;
+  font-size:12px;
+  line-height:1.4;
+  text-decoration:underline;
+  text-underline-offset:4px;
+  white-space:normal;
+}
+:root[data-theme=dark] .hero-nebula .galaxy-footer .orbit-all-categories{color:#f4d9b9}
+.hero-nebula .galaxy-footer .orbit-caption,
+:root[data-theme=light] .hero-nebula .galaxy-footer .orbit-caption,
+:root[data-theme=dark] .hero-nebula .galaxy-footer .orbit-caption{
+  position:static!important;
+  display:block;
+  transform:none!important;
+  bottom:auto!important;left:auto!important;right:auto!important;
+  width:auto;max-width:100%;
+  margin:0!important;
+  font-size:12px;line-height:1.4;
+  white-space:normal;
+  text-align:center;
+}
+.hero-nebula .galaxy-footer .orbit-caption{pointer-events:none}
+@media(min-width:701px) and (max-width:1120px){
+  .hero.hero-nebula{
+    grid-template-columns:minmax(0,1fr) minmax(280px,.9fr);
+    padding:28px 20px 28px 26px;
+    min-height:505px;
+  }
+  .hero-nebula .galaxy-visual{height:392px}
+  .hero-nebula .galaxy-visual .visual-orbit{max-width:310px}
+  .hero-nebula .galaxy-footer{gap:11px}
+}
+@media(max-width:700px){
+  .hero.hero-nebula{
+    display:flex!important;
+    flex-direction:column;
+    align-items:stretch;
+    padding:50px 17px 36px;
+    min-height:0;
+    gap:12px;
+    overflow:hidden;
+  }
+  .hero-nebula .hero-copy{
+    width:100%;
+    max-width:none!important;
+    box-sizing:border-box;
+    text-align:center;
+    margin:0 auto;
+  }
+  .hero-nebula .hero-copy .hero-tag{
+    justify-content:center;
+    text-align:center;
+    margin-left:auto;margin-right:auto;
+  }
+  .hero-nebula .hero-copy h1,
+  .hero-nebula .hero-copy p{
+    max-width:100%;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+  }
+  .hero-nebula .hero-actions{
+    width:100%;
+    justify-content:center;
+    align-items:center;
+  }
+  .hero-nebula .hero-note{
+    width:100%;
+    display:flex;
+    justify-content:center;
+    text-align:center;
+    margin:16px auto 0;
+  }
+  .hero-nebula .galaxy-section{
+    width:100%;max-width:450px;
+    margin:9px auto 0;
+    padding:0;
+  }
+  .hero-nebula .galaxy-visual{
+    width:100%;
+    max-width:380px;
+    height:340px;
+    margin:0 auto;
+  }
+  .hero-nebula .galaxy-visual .visual-orbit{
+    display:block!important;
+    width:100%;
+    height:100%;min-height:0;
+    max-width:350px;
+    margin:0 auto!important;
+  }
+  .hero-nebula .galaxy-visual .nebula-stage{
+    inset:0;
+    -webkit-mask-image:radial-gradient(ellipse at center,#000 0%,#000 60%,transparent 99%);
+    mask-image:radial-gradient(ellipse at center,#000 0%,#000 60%,transparent 99%);
+  }
+  .hero-nebula .galaxy-footer{
+    margin:0 auto;
+    padding-top:8px;
+    gap:15px;
+    padding-bottom:12px;
+  }
+  .hero-nebula .galaxy-footer .orbit-all-categories{
+    font-size:12px;
+    padding:4px 0;
+    text-align:center;
+  }
+  .hero-nebula .galaxy-footer .orbit-caption,
+  :root[data-theme=light] .hero-nebula .galaxy-footer .orbit-caption,
+  :root[data-theme=dark] .hero-nebula .galaxy-footer .orbit-caption{
+    font-size:12px;
+    padding:6px 10px;
+  }
+  :root[data-theme=light] .hero-nebula .galaxy-footer .orbit-caption{padding:6px 0}
+  .hero-nebula .nebula-motion-toggle{top:9px;right:9px;bottom:auto}
+}
+@media(max-width:380px){
+  .hero-nebula .galaxy-visual{height:300px;max-width:295px}
+  .hero-nebula .galaxy-visual .visual-orbit{max-width:285px}
+}
+
+/* Icon-only sidebar at medium widths: informative tooltip before hover is lost. */
+@media(min-width:861px) and (max-width:1100px){
+  .sidebar{overflow:visible!important}
+  .sidenav .nav-link{position:relative}
+  .sidenav .nav-link::after{
+    content:attr(data-tooltip);
+    position:absolute;
+    z-index:60;
+    left:calc(100% + 12px);
+    top:50%;
+    transform:translate(-5px,-50%);
+    pointer-events:none;
+    opacity:0;
+    visibility:hidden;
+    max-width:215px;
+    width:max-content;
+    padding:9px 12px;
+    background:#34261f;
+    color:#fff4e6;
+    border:1px solid #9a765b;
+    border-radius:9px;
+    box-shadow:0 8px 25px #130a0559;
+    font-size:12px;
+    font-weight:700;
+    line-height:1.2;
+    white-space:normal;
+    transition:opacity .15s,transform .15s,visibility .15s;
+  }
+  .sidenav .nav-link:hover::after,.sidenav .nav-link:focus-visible::after{
+    opacity:1;visibility:visible;
+    transform:translate(0,-50%);
+  }
+}
+@media(max-width:860px){
+  .sidebar.expanded .nav-link span:not(.nav-count){display:inline}
+  .sidebar.expanded .nav-link{justify-content:flex-start;gap:13px}
+}
