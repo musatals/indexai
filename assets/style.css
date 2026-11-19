@@ -1173,3 +1173,26 @@ body{background:var(--bg)}
 .hero-nebula .galaxy-universe[data-id="entreprise"]{--universe-accent:#467c84;--universe-bg:rgba(70,124,132,.14)}
 .hero-nebula .galaxy-universe[data-id="technologies"]{--universe-accent:#607e43;--universe-bg:rgba(96,126,67,.14)}
 .hero-nebula .galaxy-universe[data-id="specialises"]{--universe-accent:#a85c72;--universe-bg:rgba(168,92,114,.14)}
+
+/* N. ELM. personal signature — unobtrusive, transparent and footer-aligned. */
+.footer-inner .footer-signature{
+  display:block;
+  width:96px;
+  height:auto;
+  flex:0 0 96px;
+  object-fit:contain;
+  margin-left:auto;
+  opacity:.92;
+  filter:drop-shadow(0 1px 3px rgba(49,35,24,.14));
+}
+:root[data-theme=dark] .footer-inner .footer-signature{
+  opacity:.97;
+  filter:drop-shadow(0 1px 4px rgba(0,0,0,.46));
+}
+@media(max-width:700px){
+  .footer-inner .footer-signature{
+    width:86px;
+    flex-basis:86px;
+    margin-left:auto;
+  }
+}
