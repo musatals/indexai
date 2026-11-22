@@ -1203,3 +1203,11 @@ body{background:var(--bg)}
 :root[data-theme=dark] .footer-inner .footer-editorial-title{color:#F0D7A6}
 :root[data-theme=dark] .footer-inner .footer-editorial-credit .footer-signature-text{color:#C4CFD8}
 @media(max-width:700px){.footer-inner .footer-editorial-credit{gap:9px;white-space:normal;flex-wrap:wrap}.footer-inner .footer-editorial-title{font-size:13px}.footer-inner .footer-editorial-credit .footer-signature-text{font-size:15px;padding-left:10px}}
+
+/* Crédit éditorial sans gras, contrasté selon le thème IndexAI. */
+.footer-inner .footer-editorial-title{font-weight:400}
+.footer-inner .footer-editorial-credit .footer-signature-text{font-weight:400}
+:root[data-theme=light] .footer-inner .footer-editorial-title{color:#67471F}
+:root[data-theme=light] .footer-inner .footer-editorial-credit .footer-signature-text{color:#31485F;border-left-color:#94764D}
+:root[data-theme=dark] .footer-inner .footer-editorial-title{color:#EAD2AA}
+:root[data-theme=dark] .footer-inner .footer-editorial-credit .footer-signature-text{color:#CBD8E3;border-left-color:#D8C497}
