@@ -67,7 +67,7 @@ const T=(fr,en)=>state.lang==='fr'?fr:en;
 const TYPES={'Application / service':['Application / service','App / service'], 'Technologie / plateforme / logiciel':['Technologie / plateforme / logiciel','Technology / platform / software'], 'Agent / framework / plateforme':['Agent / framework / plateforme','Agent / framework / platform'], 'Annuaire':['Annuaire','Directory']};
 const kinds=()=>Array.from(new Set(db.tools.map(t=>t.kind)));
 const state={lang:getStore('indexai-lang',getStore('atlas-lang','fr')),theme:getStore('indexai-theme','light'),favorites:getStore('indexai-favorites',getStore('atlas-favorites',[])),compare:getStore('indexai-compare',getStore('atlas-compare',[])),view:getStore('indexai-layout',getStore('atlas-layout','cards')),search:'',category:'',kind:'',link:'all',sort:'az',page:1,mobileMenu:false,galaxyUniverse:getStore('indexai-galaxy-universe','essentiels')};
-const db={tools:[],categories:[],families:[],quality:null,toolSlug:new Map(),catSlug:new Map()};
+const db={tools:[],categories:[],families:[],quality:null,toolSlug:new Map(),catSlug:new Map(),catalogReady:false};
 const route=()=>{
  const p=decodeURI(location.pathname).split('/').filter(Boolean), search=new URLSearchParams(location.search);
  if(p[0]==='outils'&&p[1])return {type:'tool',slug:p[1]};
@@ -78,7 +78,9 @@ const route=()=>{
 };
 let current=route();
 const absorbSharedComparison=()=>{if(current.type!=='comparateur')return;const param=new URLSearchParams(location.search).get('ids');if(!param)return;const requested=param.split(',').filter(Boolean).slice(0,4);state.compare=requested.filter(id=>db.tools.some(t=>t.id===id));store('indexai-compare',state.compare);};
-const nav=(path)=>{history.pushState({},'',path);current=route();absorbSharedComparison();state.page=1;state.mobileMenu=false;window.scrollTo({top:0,behavior:'instant'});render();};
+let maybeLoadEditorial=()=>{};
+let retryCatalog=()=>{};
+const nav=(path)=>{history.pushState({},'',path);current=route();absorbSharedComparison();state.page=1;state.mobileMenu=false;window.scrollTo({top:0,behavior:'instant'});render();maybeLoadEditorial();};
 const category=(slug)=>db.catSlug.get(slug);
 const tool=(slug)=>db.toolSlug.get(slug);
 const cName=c=>state.lang==='fr'?c.name:c.en;
@@ -110,7 +112,7 @@ function shell(){
    <nav class="side-categories">${db.categories.slice().sort((a,b)=>b.count-a.count).slice(0,7).map(c=>`<a href="/categories/${c.slug}/" data-nav="/categories/${c.slug}/"><span class="side-mini" style="--tile:${catHue(c)}">${catIcon(c)}</span><span>${E(cName(c))}</span><span class="side-num">${c.count}</span></a>`).join('')}</nav>
    <div class="sidebar-foot"><span class="online-dot"></span>${T('Référentiel initial · 2026','Initial inventory · 2026')}<br><span class="sidebar-sub">${T('Données en cours de vérification','Verification in progress')}</span></div>
   </aside><main id="mainContent" class="main-content" tabindex="-1"></main></div>
- <footer class="footer"><div class="footer-inner"><div class="footbrand">Index<span>AI</span></div><p>${T('Cartographier l’intelligence artificielle, un outil à la fois.','Mapping AI, one tool at a time.')}<span class="foot-divider"> · </span>${fmt(db.tools.length)} ${T('références','entries')}<span class="foot-divider"> · </span>2026</p><div class="footlinks"><a href="/qualite/" data-nav="/qualite/">${T('Méthodologie','Methodology')}</a><a href="/data/tools.json" download>${T('Données JSON','JSON data')}</a><a href="/sources/atlas_outils_ia_2026.csv" download>CSV</a></div><img class="footer-signature" src="/assets/signature-n-elm.svg" width="100" height="34" loading="lazy" decoding="async" alt="Signature N. ELM."></div></footer>
+ <footer class="footer"><div class="footer-inner"><div class="footbrand">Index<span>AI</span></div><p>${T('Cartographier l’intelligence artificielle, un outil à la fois.','Mapping AI, one tool at a time.')}<span class="foot-divider"> · </span>${fmt(db.quality?.total||db.tools.length)} ${T('références','entries')}<span class="foot-divider"> · </span>2026</p><div class="footlinks"><a href="/qualite/" data-nav="/qualite/">${T('Méthodologie','Methodology')}</a><a href="/data/tools.json" download>${T('Données JSON','JSON data')}</a><a href="/sources/atlas_outils_ia_2026.csv" download>CSV</a></div><img class="footer-signature" src="/assets/signature-n-elm.svg" width="100" height="34" loading="lazy" decoding="async" alt="Signature N. ELM."></div></footer>
  <div class="toast" id="toast" role="status" aria-live="polite"></div>`;
 }
 const headline=(eyebrow,title,sub)=>`<div class="page-intro"><div class="eyebrow">${eyebrow}</div><h1>${title}</h1>${sub?`<p>${sub}</p>`:''}</div>`;
@@ -137,7 +139,7 @@ const needs=[
  ['business','▣','Développer son activité','Grow a business',['Marketing et publicité','Ventes, prospection et CRM','E-commerce et retail']]
 ];
 function needCard(n){const count=db.tools.filter(t=>n[4].includes(t.category)||t.secondaryCategories.some(c=>n[4].includes(c))).length;
- return `<a href="/besoins/?besoin=${n[0]}" data-nav="/besoins/?besoin=${n[0]}" class="need-card"><span class="need-icon">${n[1]}</span><span><strong>${T(n[2],n[3])}</strong><small>${fmt(count)} ${T('références','entries')}</small></span>${ico('arrow',16)}</a>`;
+ return `<a href="/besoins/?besoin=${n[0]}" data-nav="/besoins/?besoin=${n[0]}" class="need-card"><span class="need-icon">${n[1]}</span><span><strong>${T(n[2],n[3])}</strong><small>${db.catalogReady?fmt(count)+' '+T('références','entries'):T('Chargement…','Loading…')}</small></span>${ico('arrow',16)}</a>`;
 }
 const galaxyUniverses=[{"id":"essentiels","fr":"Découvrir","en":"Discover","entries":[["assistants-generalistes","💬","Assistants","Assistants"],["recherche-web-et-reponses","🔎","Recherche","Search"],["images-generatives","🎨","Images","Images"],["video-generative","🎬","Vidéo","Video"],["voix-et-synthese-vocale","🎙️","Voix","Voice"],["programmation-assistee","💻","Code","Coding"],["@agents","🤖","Tous les agents","All agents"],["education-et-tutorat","📚","Éducation","Education"],["marketing-et-publicite","📣","Marketing","Marketing"],["donnees-bi-et-analytique","📊","Données","Analytics"],["3d-spatial-et-xr","🧊","3D & XR","3D & XR"],["cybersecurite-et-detection","🛡️","Sécurité","Security"]]},{"id":"agents","fr":"Agents IA","en":"AI agents","entries":[["agents-autonomes-et-orchestration","🤖","Orchestration","Orchestration"],["agents-ia-personnels","🧑‍🚀","Agents perso","Personal agents"],["agents-web-navigateurs","🌐","Agents Web","Web agents"],["agents-ia-programmation","👨‍💻","Agents code","Coding agents"],["agents-ia-entreprise","🏢","Agents métier","Work agents"],["plateformes-agents-ia","🧱","Créer agents","Agent builders"],["agents-vocaux-et-telephonie","☎️","Agents vocaux","Voice agents"]]},{"id":"creation","fr":"Créer","en":"Create","entries":[["redaction-et-correction","✍️","Rédaction","Writing"],["traduction-et-localisation","🌍","Traduction","Translate"],["retouche-et-restauration-dimages","🖼️","Retouche","Editing"],["montage-video-et-clips","🎞️","Montage","Editing video"],["avatars-presentateurs-et-doublage","🧑‍🎤","Avatars","Avatars"],["musique-et-composition","🎵","Musique","Music"],["audio-podcasts-et-traitement","🎧","Podcasts","Podcasts"],["design-graphique-et-branding","🖌️","Design","Design"],["presentations-et-infographies","📽️","Diaporamas","Slides"],["creation-de-sites-et-applications","🛠️","Sites & apps","Web & apps"],["jeux-video-et-personnages","🎮","Jeux","Games"],["architecture-immobilier-et-interieur","🏠","Architecture","Architecture"]]},{"id":"entreprise","fr":"Entreprise","en":"Business","entries":[["organisation-et-productivite","🗓️","Productivité","Productivity"],["email-et-communication","✉️","Email","Email"],["seo-et-visibilite-ia","📈","SEO","SEO"],["ventes-prospection-et-crm","🤝","Ventes & CRM","Sales & CRM"],["support-client-et-chatbots","💭","Chatbots","Chatbots"],["extraction-documentaire-et-ocr","📄","Documents","Documents"],["finance-comptabilite-et-assurance","💳","Finance","Finance"],["droit-et-conformite","⚖️","Droit","Legal"],["rh-recrutement-et-carrieres","👥","Recrutement","Hiring"],["e-commerce-et-retail","🛍️","E-commerce","E-commerce"]]},{"id":"technologies","fr":"Technologies","en":"Technology","entries":[["llm-modeles-et-fournisseurs","🧠","Modèles LLM","LLM models"],["ia-locale-inference-et-deploiement","💾","IA locale","Local AI"],["rag-bases-vectorielles-et-recherche","🧩","RAG","RAG"],["mlops-suivi-et-evaluation","⚙️","MLOps","MLOps"],["donnees-annotation-et-entrainement","🏷️","Annotation","Labeling"],["vision-robotique-et-edge-ai","🦾","Robotique","Robotics"],["detection-ia-et-authenticite","🔬","Détection IA","AI detection"],["prompts-tests-et-red-teaming","🧪","Tests prompts","Prompt tests"],["automatisation-et-integrations","🔄","Automatisation","Automation"]]},{"id":"specialises","fr":"Spécialisés","en":"Specialized","entries":[["recherche-academique-et-science","🔭","Science","Science"],["transcription-et-reunions","📝","Réunions","Meetings"],["sante-et-medecine","🩺","Santé","Health"],["agriculture-climat-et-geospatial","🌱","Climat & Geo","Climate & Geo"],["voyages-loisirs-et-vie-quotidienne","🧳","Voyages","Travel"],["annuaires-et-plateformes-de-decouverte","🗂️","Annuaires","Directories"]]}];
 
@@ -175,13 +177,13 @@ function visual(){
   </div>
  </div>`;
 }
-function home(){const countWithUrl=db.tools.filter(t=>t.url).length;
+function home(){const countWithUrl=db.catalogReady?db.tools.filter(t=>t.url).length:(db.quality?.toolsWithUrl||0);
  const featured=['ChatGPT','Midjourney','Cursor','Ollama','Gamma','ElevenLabs','Perplexity','Meshy'].map(name=>db.tools.find(t=>t.name===name)).filter(Boolean);
  return `<div class="home-screen"><div class="hero hero-nebula"><div class="hero-copy"><div class="hero-tag"><span class="live-spark"></span>${T('UN RÉPERTOIRE, DES CENTAINES DE POSSIBILITÉS','ONE DIRECTORY, HUNDREDS OF POSSIBILITIES')}</div><h1>${T('Trouvez l’outil IA <em>qui change tout.</em>','Find the AI tool <em>that changes everything.</em>')}</h1><p>${T('Explorez une cartographie structurée de l’intelligence artificielle. Recherchez, découvrez et comparez — avec des informations clairement sourcées.','Explore a structured map of artificial intelligence. Search, discover and compare — with clearly sourced information.')}</p><div class="hero-actions"><a href="/repertoire/" data-nav="/repertoire/" class="btn btn-primary">${ico('grid',18)} ${T('Explorer le répertoire','Explore directory')} ${ico('arrow',17)}</a><a href="/agents/" data-nav="/agents/" class="btn btn-ghost">${ico('spark',18)} ${T('Découvrir les agents IA','Explore AI agents')}</a><a href="/besoins/" data-nav="/besoins/" class="btn btn-ghost">${ico('compass',17)} ${T('Parcourir par besoin','Browse by use case')}</a><a class="btn btn-ghost" href="/dossiers/" data-nav="/dossiers/">${ico('book',17)} ${T('Dossiers approfondis','Detailed profiles')}</a></div><div class="hero-note">${ico('shield',15)} ${T('Transparence documentaire : aucune fiche n’est présentée comme vérifiée sans contrôle.','Editorial transparency: no tool is shown as verified without review.')}</div></div>${visual()}</div>
- <section class="stats-grid" aria-label="${T('Statistiques du catalogue','Catalog statistics')}">${stat('grid',fmt(db.tools.length),T('Outils & ressources','Tools & resources'))}${stat('layers',fmt(db.categories.length),T('Catégories','Categories'))}${stat('book',fmt(db.quality?.deepProfiles||0),T('Dossiers approfondis','Researched dossiers'),fmt(db.quality?.deepProfilesOfficialSourceReviewed||0)+' '+T('avec sources officielles','with official sources'))}${stat('link',fmt(countWithUrl),T('Liens renseignés','Listed links'))}</section>
+ <section class="stats-grid" aria-label="${T('Statistiques du catalogue','Catalog statistics')}">${stat('grid',fmt(db.quality?.total||db.tools.length),T('Outils & ressources','Tools & resources'))}${stat('layers',fmt(db.categories.length),T('Catégories','Categories'))}${stat('book',fmt(db.quality?.deepProfiles||0),T('Dossiers approfondis','Researched dossiers'),fmt(db.quality?.deepProfilesOfficialSourceReviewed||0)+' '+T('avec sources officielles','with official sources'))}${stat('link',fmt(countWithUrl),T('Liens renseignés','Listed links'))}</section>
  <section class="section-block"><div class="section-title"><div><span class="section-eyebrow">01 / ${T('EXPLORATION','EXPLORATION')}</span><h2>${T('Les grands univers de l’IA','Explore the AI landscape')}</h2><p>${T('Six portes d’entrée vers 55 catégories détaillées.','Six gateways to 50 detailed categories.')}</p></div><a href="/categories/" data-nav="/categories/" class="text-link">${T('Toutes les catégories','All categories')} ${ico('arrow',16)}</a></div><div class="families-grid">${db.families.map(f=>`<a href="/categories/?famille=${f.id}" data-nav="/categories/?famille=${f.id}" class="family-card family-${f.id}"><div class="family-number">${fmt(f.count)} ${T('outils','tools')}</div><div class="family-symbol">${E(f.symbol)}</div><div class="family-label">${E(familyName(f))}</div><div class="family-bottom"><span>${f.categories} ${T('catégories','categories')}</span>${ico('arrow',19)}</div></a>`).join('')}</div></section>
- <section class="section-block"><div class="section-title"><div><span class="section-eyebrow">02 / ${T('CAS D’USAGE','USE CASES')}</span><h2>${T('Quel est votre objectif ?','What do you want to do?')}</h2><p>${T('Partez de votre besoin, pas de la technologie.','Start with your task, not the technology.')}</p></div><a href="/besoins/" data-nav="/besoins/" class="text-link">${T('Tous les usages','All use cases')} ${ico('arrow',16)}</a></div><div class="needs-grid">${needs.slice(0,8).map(needCard).join('')}</div></section>
- <section class="section-block"><div class="section-title"><div><span class="section-eyebrow">03 / ${T('REPÈRES DE DÉPART','STARTING POINTS')}</span><h2>${T('Quelques outils à explorer','A few tools to explore')}</h2><p>${T('Sélection éditoriale diversifiée, sans classement ni évaluation de qualité.','A varied editorial selection, not a ranking or quality assessment.')}</p></div><a href="/repertoire/" data-nav="/repertoire/" class="text-link">${T('Voir les 909 références','Browse all 909 entries')} ${ico('arrow',16)}</a></div><div class="tools-grid">${featured.map(t=>toolCard(t)).join('')}</div></section>
+ <section class="section-block"><div class="section-title"><div><span class="section-eyebrow">02 / ${T('CAS D’USAGE','USE CASES')}</span><h2>${T('Quel est votre objectif ?','What do you want to do?')}</h2><p>${T('Partez de votre besoin, pas de la technologie.','Start with your task, not the technology.')}</p></div><a href="/besoins/" data-nav="/besoins/" class="text-link">${T('Tous les usages','All use cases')} ${ico('arrow',16)}</a></div><div class="needs-grid" id="homeNeeds">${needs.slice(0,8).map(needCard).join('')}</div></section>
+ <section class="section-block"><div class="section-title"><div><span class="section-eyebrow">03 / ${T('REPÈRES DE DÉPART','STARTING POINTS')}</span><h2>${T('Quelques outils à explorer','A few tools to explore')}</h2><p>${T('Sélection éditoriale diversifiée, sans classement ni évaluation de qualité.','A varied editorial selection, not a ranking or quality assessment.')}</p></div><a href="/repertoire/" data-nav="/repertoire/" class="text-link">${T('Voir les 909 références','Browse all 909 entries')} ${ico('arrow',16)}</a></div><div id="homeFeatured">${db.catalogReady?`<div class="tools-grid">${featured.map(t=>toolCard(t)).join('')}</div>`:`<div class="catalog-loading-inline" role="status"><span class="catalog-spinner" aria-hidden="true"></span>${T('Chargement progressif des outils présentés…','Loading featured tools progressively…')}</div>`}</div></section>
  <div class="notice-card"><span>${ico('info',21)}</span><p><strong>${T('Inventaire en construction','Work in progress')}</strong><br>${T('Le répertoire initial est conservé; 78 outils majeurs disposent désormais de dossiers approfondis et de références datées. Les autres fiches restent à documenter.','The initial inventory is preserved; 78 major tools now have researched dossiers and dated references. Other profiles remain to be documented.')}</p><a href="/qualite/" data-nav="/qualite/">${T('Comprendre la méthode','Read our methodology')} ${ico('arrow',16)}</a></div></div>`;
 }
 function score(t,q){if(!q)return 1;const query=norm(q).trim();const tokens=query.split(/\s+/).filter(Boolean);
@@ -379,8 +381,12 @@ function updateHomeNebula(){
     }
   }).catch(() => { /* CSS gradients remain usable if canvas is unavailable. */ });
 }
+function catalogLoading(){
+ const label=current.type==='category'?cName(category(current.slug)||{name:'Catégorie',en:'Category'}):current.type==='tool'?current.slug.replace(/-/g,' '):T('Répertoire des outils IA','AI tools directory');
+ return `<div class="catalog-route-loading" role="status" aria-live="polite"><span class="catalog-spinner" aria-hidden="true"></span><h1>${E(label)}</h1><p>${T('Les outils de cette rubrique arrivent progressivement. Vous pouvez continuer à naviguer.','Tools for this section are loading progressively. You can keep browsing.')}</p></div>`;
+}
 function renderView(){const main=$('#mainContent');if(!main)return;let content;
- if(current.type==='home')content=home();else if(current.type==='repertoire')content=directory();else if(current.type==='agents')content=agentsPage();else if(current.type==='dossiers')content=dossiersPage();else if(current.type==='categories')content=categoriesPage();else if(current.type==='category')content=categoryPage(category(current.slug));else if(current.type==='tool')content=toolPage(tool(current.slug));else if(current.type==='besoins')content=needsPage();else if(current.type==='comparateur')content=comparePage();else if(current.type==='favoris')content=savedPage();else if(current.type==='qualite')content=qualityPage();else content=notFound();
+ if(!db.catalogReady && !['home','categories'].includes(current.type))content=catalogLoading();else if(current.type==='home')content=home();else if(current.type==='repertoire')content=directory();else if(current.type==='agents')content=agentsPage();else if(current.type==='dossiers')content=dossiersPage();else if(current.type==='categories')content=categoriesPage();else if(current.type==='category')content=categoryPage(category(current.slug));else if(current.type==='tool')content=toolPage(tool(current.slug));else if(current.type==='besoins')content=needsPage();else if(current.type==='comparateur')content=comparePage();else if(current.type==='favoris')content=savedPage();else if(current.type==='qualite')content=qualityPage();else content=notFound();
  main.innerHTML=content;updateHomeNebula();document.title=(current.type==='tool'?tool(current.slug)?.name:current.type==='category'?cName(category(current.slug)||{name:'Catégorie',en:'Category'}):T({'home':'Explorer les outils IA','repertoire':'Répertoire','agents':'Agents IA','dossiers':'Dossiers documentés','categories':'Catégories','besoins':'Par besoins','comparateur':'Comparateur','favoris':'Favoris','qualite':'Sources & qualité'}[current.type]||'IndexAI',{'home':'Explore AI tools','repertoire':'Directory','agents':'AI agents','dossiers':'Researched guides','categories':'Categories','besoins':'Use cases','comparateur':'Compare','favoris':'Saved','qualite':'Sources & quality'}[current.type]||'IndexAI'))+' · IndexAI';
 }
 function render(){document.documentElement.lang=state.lang;document.documentElement.dataset.theme=state.theme;$('#app').innerHTML=shell();renderView();if(current.type==='repertoire'){$('#globalSearch').value=state.search;}if(current.type==='comparateur')updateCompareSearch('');}
@@ -396,7 +402,8 @@ function showSuggestions(v){const el=$('#suggestions');if(!el)return;const q=v.t
 }
 function syncSearchURL(){if(current.type!=='repertoire')return;const u=new URL(location.href);if(state.search.trim())u.searchParams.set('q',state.search);else u.searchParams.delete('q');history.replaceState({},'',u.pathname+u.search);}
 function handleClick(e){const action=e.target.closest('[data-action]');if(action){e.preventDefault();const a=action.dataset.action;
- if(a==='toggle-menu'){state.mobileMenu=!state.mobileMenu;render();return;}
+ if(a==='retry-catalog'){void retryCatalog();return;}
+  if(a==='toggle-menu'){state.mobileMenu=!state.mobileMenu;render();return;}
  if(a==='galaxy-universe'){
    const value=action.dataset.id;
    if(!galaxyUniverses.some(g=>g.id===value)||state.galaxyUniverse===value)return;
@@ -432,8 +439,8 @@ function handleKey(e){if(e.key==='/'&&!['INPUT','TEXTAREA'].includes(document.ac
  if(e.key==='Enter'&&e.target.id==='directorySearch'){e.preventDefault();e.target.blur();}
 }
 async function bootstrap(){document.documentElement.dataset.theme=state.theme;
- try{const r=await Promise.all(['tools','categories','families','quality-report'].map(n=>fetch('/data/'+n+'.json').then(x=>{if(!x.ok)throw Error(n);return x.json()})));
- [db.tools,db.categories,db.families,db.quality]=r;
+ try{const r=await Promise.all(['categories','families','quality-report'].map(n=>fetch('/data/'+n+'.json').then(x=>{if(!x.ok)throw Error(n);return x.json()})));
+ [db.categories,db.families,db.quality]=r;
  // Show the usable catalogue immediately; editorial data arrives progressively afterwards.
  // The ordered bundles preserve the original source priority without 113 HTTP requests.
  const loadEditorialBundles=async()=>{
@@ -455,25 +462,70 @@ async function bootstrap(){document.documentElement.dataset.theme=state.theme;
    };
    await Promise.all(Array.from({length:4},worker));
    for(const updates of results){
-     for(const tool of db.tools){
-       const entry=updates[tool.slug];
-       if(entry)Object.assign(tool,entry);
+     for(const [slug,entry] of Object.entries(updates)){
+       const tool=db.toolSlug.get(slug);
+       if(tool)Object.assign(tool,entry);
      }
    }
    // Repaint once, preserving the active route, without making enrichment block first paint.
-   if(!document.activeElement?.matches('input,textarea,select'))renderView();
+   if(current.type!=='home'&&!document.activeElement?.matches('input,textarea,select'))renderView();
  };
- db.toolSlug=new Map(db.tools.map(t=>[t.slug,t]));db.catSlug=new Map(db.categories.map(c=>[c.slug,c]));
- db.tools.forEach(t=>{t.secondaryCategories=t.secondaryCategories||[]});
- state.compare=state.compare.filter(id=>db.tools.some(t=>t.id===id)).slice(0,4);
- state.favorites=state.favorites.filter(id=>db.tools.some(t=>t.id===id));
- absorbSharedComparison();
+const needsEditorial=()=>['tool','dossiers','agents','category','besoins','qualite','comparateur','favoris'].includes(current.type);
+ let enrichmentScheduled=false;
+ maybeLoadEditorial=()=>{
+   if(!db.catalogReady||enrichmentScheduled||!needsEditorial())return;
+   enrichmentScheduled=true;
+   const start=()=>{
+     if(!needsEditorial()){enrichmentScheduled=false;return;}
+     void loadEditorialBundles();
+   };
+   if('requestIdleCallback' in window)window.requestIdleCallback(start,{timeout:1600});
+   else setTimeout(start,650);
+ };
+ db.catSlug=new Map(db.categories.map(c=>[c.slug,c]));
  if(current.type==='repertoire')state.search=new URLSearchParams(location.search).get('q')||'';
  document.addEventListener('click',handleClick);document.addEventListener('input',handleInput);document.addEventListener('change',handleChange);document.addEventListener('keydown',handleKey);
- window.addEventListener('popstate',()=>{current=route();absorbSharedComparison();state.search=new URLSearchParams(location.search).get('q')||'';render();});
+ window.addEventListener('popstate',()=>{current=route();absorbSharedComparison();state.search=new URLSearchParams(location.search).get('q')||'';render();maybeLoadEditorial();});
  render();
- // Defer network-heavy documentation so the first interactive frame gets priority.
- setTimeout(()=>{void loadEditorialBundles();},150);
+// The homepage is already interactive: fetch the 1 MB catalog only after its first frame.
+ let toolsLoading=false;
+ retryCatalog=async()=>{
+   if(toolsLoading||db.catalogReady)return;
+   toolsLoading=true;
+   try {
+     const response=await fetch('/data/tools.json');
+     if(!response.ok)throw Error('tools.json HTTP '+response.status);
+     const entries=await response.json();
+     if(!Array.isArray(entries))throw Error('Invalid tools catalog');
+     db.tools=entries;
+     db.tools.forEach(t=>{t.secondaryCategories=t.secondaryCategories||[]});
+     db.toolSlug=new Map(db.tools.map(t=>[t.slug,t]));
+     db.catalogReady=true;
+     state.compare=state.compare.filter(id=>db.tools.some(t=>t.id===id)).slice(0,4);
+     state.favorites=state.favorites.filter(id=>db.tools.some(t=>t.id===id));
+     absorbSharedComparison();
+     if(current.type==='home'){
+       // Preserve the galaxy animation while only updating sections below the fold.
+       const needsRoot=$('#homeNeeds');
+       if(needsRoot)needsRoot.innerHTML=needs.slice(0,8).map(needCard).join('');
+       const featuredRoot=$('#homeFeatured');
+       if(featuredRoot){
+         const featured=['ChatGPT','Midjourney','Cursor','Ollama','Gamma','ElevenLabs','Perplexity','Meshy'].map(name=>db.tools.find(t=>t.name===name)).filter(Boolean);
+         featuredRoot.innerHTML='<div class="tools-grid">'+featured.map(t=>toolCard(t)).join('')+'</div>';
+       }
+       const agentNode=$('.orbit-node[href="/agents/"]');
+       if(agentNode)agentNode.setAttribute('aria-label',T('Tous les agents IA','All AI agents')+' · '+fmt(db.tools.filter(t=>t.agentType).length)+' '+T('outils','tools'));
+     }else renderView();
+     maybeLoadEditorial();
+   }catch(error){
+     const target=current.type==='home'?$('#homeFeatured'):$('#mainContent');
+     if(target)target.innerHTML=`<div class="catalog-load-error" role="alert"><p>${T('Le catalogue ne répond pas pour le moment. L’accueil reste accessible.','The catalog is temporarily unavailable. The homepage remains accessible.')}</p><button class="btn btn-secondary" data-action="retry-catalog">${T('Réessayer','Try again')}</button></div>`;
+     console.error('IndexAI tools catalog:',error);
+   }finally{toolsLoading=false;}
+ };
+ // Yield to the browser so it paints the welcome screen before parsing the catalog.
+ if(document.visibilityState==='hidden')setTimeout(()=>{void retryCatalog();},0);
+ else requestAnimationFrame(()=>setTimeout(()=>{void retryCatalog();},0));
  }catch(err){const el=$('#app');if(el)el.innerHTML=`<div class="loading-error"><h1>IndexAI</h1><p>${T('Impossible de charger le répertoire. Vérifiez la connexion et le serveur.','Unable to load catalog data. Please check connectivity and the server.')}</p><button onclick="location.reload()">${T('Réessayer','Retry')}</button></div>`;console.error('IndexAI startup:',err);}
 }
 bootstrap();
