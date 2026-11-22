@@ -77,7 +77,7 @@ const route=()=>{
  return {type:'home'};
 };
 let current=route();
-const absorbSharedComparison=()=>{if(current.type!=='comparateur')return;const param=new URLSearchParams(location.search).get('ids');if(!param)return;const requested=param.split(',').filter(Boolean).slice(0,4);state.compare=requested.filter(id=>db.tools.some(t=>t.id===id));store('indexai-compare',state.compare);};
+const absorbSharedComparison=()=>{if(current.type!=='comparateur'||!db.catalogReady)return;const param=new URLSearchParams(location.search).get('ids');if(!param)return;const requested=param.split(',').filter(Boolean).slice(0,4);state.compare=requested.filter(id=>db.tools.some(t=>t.id===id));store('indexai-compare',state.compare);};
 let maybeLoadEditorial=()=>{};
 let retryCatalog=()=>{};
 const nav=(path)=>{history.pushState({},'',path);current=route();absorbSharedComparison();state.page=1;state.mobileMenu=false;window.scrollTo({top:0,behavior:'instant'});render();maybeLoadEditorial();};
