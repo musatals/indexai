@@ -1173,27 +1173,22 @@ body{background:var(--bg)}
 .hero-nebula .galaxy-universe[data-id="technologies"]{--universe-accent:#607e43;--universe-bg:rgba(96,126,67,.14)}
 .hero-nebula .galaxy-universe[data-id="specialises"]{--universe-accent:#a85c72;--universe-bg:rgba(168,92,114,.14)}
 
-/* N. ELM. personal signature — unobtrusive, transparent and footer-aligned. */
-.footer-inner .footer-signature{
-  display:block;
-  width:96px;
-  height:auto;
-  flex:0 0 96px;
-  object-fit:contain;
+/* Text signature: responsive, readable in both light and dark themes. */
+.footer-inner .footer-signature-text{
+  display:inline-block;
+  flex:0 0 auto;
   margin-left:auto;
-  opacity:.92;
-  filter:drop-shadow(0 1px 3px rgba(49,35,24,.14));
+  white-space:nowrap;
+  font-family:Georgia,'Times New Roman',serif;
+  font-style:italic;
+  font-weight:600;
+  font-size:15px;
+  letter-spacing:.015em;
+  line-height:1.4;
+  color:var(--muted);
 }
-:root[data-theme=dark] .footer-inner .footer-signature{
-  opacity:.97;
-  filter:drop-shadow(0 1px 4px rgba(0,0,0,.46));
-}
-@media(max-width:700px){
-  .footer-inner .footer-signature{
-    width:86px;
-    flex-basis:86px;
-    margin-left:auto;
-  }
-}
+:root[data-theme=light] .footer-inner .footer-signature-text{color:#865a3d}
+:root[data-theme=dark] .footer-inner .footer-signature-text{color:#dec6a8}
+@media(max-width:700px){.footer-inner .footer-signature-text{font-size:14px;margin-left:auto}}
 
 .catalog-loading-inline,.catalog-route-loading,.catalog-load-error{display:flex;align-items:center;gap:12px;padding:28px;color:var(--muted);background:var(--surface);border:1px solid var(--stroke);border-radius:15px}.catalog-route-loading{min-height:48vh;flex-direction:column;justify-content:center;text-align:center}.catalog-route-loading h1{margin:6px 0 0;font-size:26px;color:var(--text)}.catalog-route-loading p{max-width:430px}.catalog-load-error{flex-wrap:wrap}.catalog-load-error p{margin:0}.catalog-spinner{display:inline-block;flex:none;width:22px;height:22px;border-radius:50%;border:2px solid var(--stroke2);border-top-color:var(--cyan);animation:catalog-spin .8s linear infinite}@keyframes catalog-spin{to{transform:rotate(360deg)}}@media(prefers-reduced-motion:reduce){.catalog-spinner{animation:none}}
