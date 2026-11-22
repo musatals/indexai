@@ -450,44 +450,59 @@ async function bootstrap(){document.documentElement.dataset.theme=state.theme;
  [db.categories,db.families,db.quality,db.featured]=r;
  // Show the usable catalogue immediately; editorial data arrives progressively afterwards.
  // The ordered bundles preserve the original source priority without 113 HTTP requests.
+ // Only fetch the bundles needed for a selected tool. Entire editorial corpus
+ // is reserved for dossier/quality views where broad coverage matters.
+ const loadedBundles=new Map();
+ let bundleIndexPromise=null;
+ let fullEditorialLoaded=false;
+ const loadBundle=async n=>{
+   if(!loadedBundles.has(n)){
+     const path='/data/indexai-enrichment-bundle-'+String(n).padStart(2,'0')+'.json';
+     loadedBundles.set(n,fetch(path).then(r=>{if(!r.ok)throw Error(path+' HTTP '+r.status);return r.json()}).catch(error=>{
+       loadedBundles.delete(n);console.warn('IndexAI enrichment unavailable:',path,error);return {};
+     }));
+   }
+   return loadedBundles.get(n);
+ };
+ const enrichNumbers=async()=>{
+   if(current.type==='tool'){
+     const slug=current.slug;
+     if(!bundleIndexPromise)bundleIndexPromise=fetch('/data/enrichment-index.json').then(r=>{
+       if(!r.ok)throw Error('Enrichment index unavailable');return r.json();
+     }).catch(e=>{bundleIndexPromise=null;console.warn(e);return {};});
+     const index=await bundleIndexPromise;
+     return index[slug]||[];
+   }
+   return Array.from({length:12},(_,i)=>i+1);
+ };
  const loadEditorialBundles=async()=>{
-   const bundles=Array.from({length:12},(_,i)=>'/data/indexai-enrichment-bundle-'+String(i+1).padStart(2,'0')+'.json');
-   const results=new Array(bundles.length);
-   let cursor=0;
-   const worker=async()=>{
-     while(cursor<bundles.length){
-       const index=cursor++;
-       try{
-         const response=await fetch(bundles[index]);
-         if(!response.ok)throw Error(String(response.status));
-         results[index]=await response.json();
-       }catch(error){
-         results[index]={};
-         console.warn('IndexAI enrichment bundle unavailable:',bundles[index],error);
-       }
-     }
-   };
-   await Promise.all(Array.from({length:4},worker));
+   const target=current.type==='tool'?current.slug:null;
+   const numbers=await enrichNumbers();
+   if(!numbers.length)return;
+   const results=await Promise.all(numbers.map(loadBundle));
    for(const updates of results){
      for(const [slug,entry] of Object.entries(updates)){
-       const tool=db.toolSlug.get(slug);
-       if(tool)Object.assign(tool,entry);
+       const found=db.toolSlug.get(slug);
+       if(found)Object.assign(found,entry);
      }
    }
-   // Repaint once, preserving the active route, without making enrichment block first paint.
-   if(current.type!=='home'&&!document.activeElement?.matches('input,textarea,select'))renderView();
+   if(!target)fullEditorialLoaded=true;
+   if(current.type!=='home'&&(!target||(current.type==='tool'&&current.slug===target))&&!document.activeElement?.matches('input,textarea,select'))renderView();
  };
-const needsEditorial=()=>['tool','dossiers','agents','category','besoins','qualite','comparateur','favoris'].includes(current.type);
- let enrichmentScheduled=false;
+ const needsEditorial=()=>['tool','dossiers','agents','category','besoins','qualite','comparateur','favoris'].includes(current.type);
+ let editorialActive=false,editorialRoute='';
  maybeLoadEditorial=()=>{
-   if(!db.catalogReady||enrichmentScheduled||!needsEditorial())return;
-   enrichmentScheduled=true;
-   const start=()=>{
-     if(!needsEditorial()){enrichmentScheduled=false;return;}
-     void loadEditorialBundles();
+   if(!db.catalogReady||!needsEditorial())return;
+   const key=current.type==='tool'?'tool:'+current.slug:'full';
+   if(key==='full'&&fullEditorialLoaded)return;
+   if(editorialActive&&editorialRoute===key)return;
+   editorialActive=true;editorialRoute=key;
+   const start=async()=>{
+     if(!needsEditorial()){editorialActive=false;return;}
+     try{await loadEditorialBundles();}finally{editorialActive=false;}
    };
-   if('requestIdleCallback' in window)window.requestIdleCallback(start,{timeout:1600});
-   else setTimeout(start,650);
+   if('requestIdleCallback' in window)window.requestIdleCallback(start,{timeout:2200});
+   else setTimeout(start,900);
  };
  db.catSlug=new Map(db.categories.map(c=>[c.slug,c]));
  if(current.type==='repertoire')state.search=new URLSearchParams(location.search).get('q')||'';
