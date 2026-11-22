@@ -1192,3 +1192,14 @@ body{background:var(--bg)}
 @media(max-width:700px){.footer-inner .footer-signature-text{font-size:14px;margin-left:auto}}
 
 .catalog-loading-inline,.catalog-route-loading,.catalog-load-error{display:flex;align-items:center;gap:12px;padding:28px;color:var(--muted);background:var(--surface);border:1px solid var(--stroke);border-radius:15px}.catalog-route-loading{min-height:48vh;flex-direction:column;justify-content:center;text-align:center}.catalog-route-loading h1{margin:6px 0 0;font-size:26px;color:var(--text)}.catalog-route-loading p{max-width:430px}.catalog-load-error{flex-wrap:wrap}.catalog-load-error p{margin:0}.catalog-spinner{display:inline-block;flex:none;width:22px;height:22px;border-radius:50%;border:2px solid var(--stroke2);border-top-color:var(--cyan);animation:catalog-spin .8s linear infinite}@keyframes catalog-spin{to{transform:rotate(360deg)}}@media(prefers-reduced-motion:reduce){.catalog-spinner{animation:none}}
+
+/* Signature éditoriale harmonisée — INDEXIA */
+.footer-inner{flex-wrap:wrap}
+.footer-inner .footer-editorial-credit{display:inline-flex;flex:0 0 auto;align-items:center;gap:13px;margin-left:auto;white-space:nowrap}
+.footer-inner .footer-editorial-title{font-family:Georgia,'Times New Roman',serif;font-size:15px;font-weight:600;line-height:1.25;color:#F0D7A6}
+.footer-inner .footer-editorial-credit .footer-signature-text{margin-left:0;border-left:1px solid #D8C497;padding-left:14px;font-family:Georgia,'Times New Roman',serif;font-style:italic;font-size:17px;font-weight:700;letter-spacing:.035em;color:#C4CFD8}
+:root[data-theme=light] .footer-inner .footer-editorial-title{color:#805526}
+:root[data-theme=light] .footer-inner .footer-editorial-credit .footer-signature-text{color:#45576B;border-left-color:#A9864A}
+:root[data-theme=dark] .footer-inner .footer-editorial-title{color:#F0D7A6}
+:root[data-theme=dark] .footer-inner .footer-editorial-credit .footer-signature-text{color:#C4CFD8}
+@media(max-width:700px){.footer-inner .footer-editorial-credit{gap:9px;white-space:normal;flex-wrap:wrap}.footer-inner .footer-editorial-title{font-size:13px}.footer-inner .footer-editorial-credit .footer-signature-text{font-size:15px;padding-left:10px}}
