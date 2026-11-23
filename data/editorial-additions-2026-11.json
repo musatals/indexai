@@ -689,5 +689,182 @@
     "ar": "مساعد Gemini داخل Gmail لصياغة الرسائل وتلخيص المحادثات واقتراح الردود عند توفر الخدمة.",
     "officialSource": "https://support.google.com/mail/answer/14355636?co=GENIE.Platform%3DDesktop&hl=en",
     "sourceReviewedAt": "2026-11-23"
+  },
+  "creatify": {
+    "fr": "Plateforme de création de publicités vidéo par IA à partir de produits, de scripts ou d'instructions, avec montage et déclinaisons de formats.",
+    "en": "AI platform for generating video ads from products, scripts or prompts, with editing and format variations.",
+    "ar": "منصة لإنشاء إعلانات فيديو بالذكاء الاصطناعي انطلاقًا من المنتجات أو النصوص أو التعليمات، مع أدوات للتحرير وإنتاج نسخ متعددة.",
+    "officialSource": "https://help.creatify.ai/en/articles/17323796-ad-agent",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "pencil": {
+    "fr": "Espace de création publicitaire assistée par IA combinant visuels, vidéos, textes et flux de travail pour les équipes marketing.",
+    "en": "AI-assisted advertising workspace combining visuals, video, copy and creative workflows for marketing teams.",
+    "ar": "مساحة عمل لإنشاء الإعلانات بمساعدة الذكاء الاصطناعي، تجمع الصور والفيديو والنصوص وسير العمل لفرق التسويق.",
+    "officialSource": "https://help.trypencil.com/en/articles/10106178-what-is-pencil",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "typeface": {
+    "fr": "Plateforme d'IA pour les équipes marketing d'entreprise, associant identité de marque, génération de contenus et agents de campagne.",
+    "en": "Enterprise marketing AI platform combining brand intelligence, content creation and campaign agents.",
+    "ar": "منصة ذكاء اصطناعي لتسويق المؤسسات تجمع هوية العلامة التجارية وإنشاء المحتوى ووكلاء إدارة الحملات.",
+    "officialSource": "https://www.typeface.ai/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "persado": {
+    "fr": "Solution d'IA générative pour rédiger, adapter et tester des messages marketing sur plusieurs canaux, selon l'audience et la marque.",
+    "en": "Generative AI for drafting, adapting and testing marketing messages across channels in line with audience and brand.",
+    "ar": "حل ذكاء اصطناعي لصياغة الرسائل التسويقية وتكييفها واختبارها عبر قنوات متعددة وفق الجمهور وهوية العلامة.",
+    "officialSource": "https://www.persado.com/company/press-releases/new-persado-essential-motivation-ai-solution-empowers-marketers-to-instantly-generate-better-performing-messages-across-channels",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "phrasee": {
+    "fr": "Outil historiquement nommé Phrasee, désormais Jacquard : agents de création, de contrôle et d'optimisation de messages marketing conformes à la marque.",
+    "en": "Formerly Phrasee, now Jacquard: agents for creating, checking and optimizing on-brand marketing messages.",
+    "ar": "المنصة المعروفة سابقًا باسم Phrasee وأصبحت Jacquard، وتوفر وكلاء لإنشاء الرسائل التسويقية ومراجعتها وتحسينها بما يوافق هوية العلامة.",
+    "officialSource": "https://www.jacquard.com/",
+    "sourceReviewedAt": "2026-11-23",
+    "currentName": "Jacquard"
+  },
+  "ocoya": {
+    "fr": "Plateforme de préparation et de programmation de publications sociales, avec assistance IA pour les textes et flux de publication.",
+    "en": "Platform for drafting and scheduling social posts, with AI support for copy and publishing workflows.",
+    "ar": "منصة لإعداد منشورات شبكات التواصل وجدولتها، مع مساعدة الذكاء الاصطناعي في الكتابة وسير النشر.",
+    "officialSource": "https://www.ocoya.com/features/mcp",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "predis-ai": {
+    "fr": "Générateur IA de publications sociales produisant notamment textes, visuels, carrousels et vidéos à partir d'une consigne.",
+    "en": "AI social-media post generator creating captions, images, carousels and videos from a prompt.",
+    "ar": "مولّد منشورات للشبكات الاجتماعية بالذكاء الاصطناعي ينتج النصوص والصور والمنشورات المتعددة الشرائح ومقاطع الفيديو انطلاقًا من تعليمات.",
+    "officialSource": "https://predis.ai/ai-social-media-post-generator/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "buffer-ai": {
+    "fr": "Fonctions IA de Buffer pour trouver des idées, rédiger, reformuler et adapter des publications aux réseaux sociaux.",
+    "en": "Buffer AI features for brainstorming, drafting, rephrasing and adapting social media posts.",
+    "ar": "وظائف ذكاء اصطناعي في Buffer لاقتراح الأفكار وكتابة منشورات الشبكات الاجتماعية وإعادة صياغتها وتكييفها.",
+    "officialSource": "https://support.buffer.com/en-us/articles/using-buffers-ai-assistant-qbBulfw9sn",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "clearscope": {
+    "fr": "Plateforme de recherche, rédaction et suivi de contenus visant leur visibilité dans les moteurs de recherche et les réponses IA.",
+    "en": "Content research, writing and tracking platform focused on visibility in search engines and AI-generated answers.",
+    "ar": "منصة للبحث في المحتوى وكتابته ومتابعته بهدف تحسين ظهوره في محركات البحث وإجابات الذكاء الاصطناعي.",
+    "officialSource": "https://www.clearscope.io/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "frase": {
+    "fr": "Outil de recherche et d'optimisation de contenus pour le SEO classique et la visibilité dans les réponses générées par IA (GEO).",
+    "en": "Content research and optimization tool for traditional SEO and visibility in AI-generated answers (GEO).",
+    "ar": "أداة للبحث في المحتوى وتحسينه لمحركات البحث التقليدية وللظهور في الإجابات المولّدة بالذكاء الاصطناعي.",
+    "officialSource": "https://www.frase.io/company/about",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "marketmuse": {
+    "fr": "Outil historique de stratégie et d'analyse de contenu fondées sur l'IA, désormais intégré à l'offre Siteimprove.ai.",
+    "en": "AI-based content strategy and analysis tool, now part of the Siteimprove.ai offering.",
+    "ar": "أداة للتخطيط الاستراتيجي للمحتوى وتحليله باستخدام الذكاء الاصطناعي، أصبحت ضمن خدمات Siteimprove.ai.",
+    "officialSource": "https://www.siteimprove.com/marketmuse/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "se-ranking": {
+    "fr": "Suite de référencement pour analyser mots-clés, positions, sites et concurrents, avec outils de visibilité dans la recherche IA.",
+    "en": "SEO suite for keyword, rank, site and competitor analysis, including AI-search visibility tools.",
+    "ar": "مجموعة أدوات لتحسين الظهور في محركات البحث وتحليل الكلمات المفتاحية والترتيب والمواقع والمنافسين، مع متابعة الظهور في البحث بالذكاء الاصطناعي.",
+    "officialSource": "https://seranking.com/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "profound": {
+    "fr": "Plateforme de mesure de la présence des marques et de leurs pages dans les réponses des moteurs et assistants IA.",
+    "en": "Platform for tracking brand and page visibility in AI search engines and assistant answers.",
+    "ar": "منصة لقياس ظهور العلامات التجارية وصفحاتها في إجابات محركات البحث والمساعدين المعتمدين على الذكاء الاصطناعي.",
+    "officialSource": "https://www.tryprofound.com/features/pages",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "spark-mail": {
+    "fr": "Client de messagerie incluant des fonctions IA de rédaction, résumé, recherche et gestion de courriels selon l'offre.",
+    "en": "Email client with AI-supported drafting, summarization, search and inbox tasks, depending on the plan.",
+    "ar": "تطبيق بريد إلكتروني يتضمن وظائف ذكاء اصطناعي لكتابة الرسائل وتلخيصها والبحث فيها وإدارة المهام بحسب الخطة.",
+    "officialSource": "https://sparkmailapp.com/features/spark-ai",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "mailbutler": {
+    "fr": "Assistant de courrier électronique pour rédiger, résumer et organiser des messages, intégré aux flux Mailbutler.",
+    "en": "Email assistant for drafting, summarizing and organizing messages within Mailbutler workflows.",
+    "ar": "مساعد بريد إلكتروني لصياغة الرسائل وتلخيصها وتنظيمها ضمن أدوات Mailbutler.",
+    "officialSource": "https://www.mailbutler.io/smart-assistant/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "sanebox": {
+    "fr": "Service de gestion de boîte de réception qui trie les messages et propose des fonctions IA de synthèse et de brouillons.",
+    "en": "Inbox management service that sorts email and provides AI summaries and reply drafts.",
+    "ar": "خدمة لتنظيم صندوق البريد وفرز الرسائل، مع وظائف ذكاء اصطناعي للتلخيص وإعداد مسودات الردود.",
+    "officialSource": "https://www.sanebox.com/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "missive": {
+    "fr": "Boîte de réception collaborative dotée d'un assistant IA pour retrouver des messages, préparer des réponses et soutenir le travail d'équipe.",
+    "en": "Collaborative inbox with an AI assistant for finding messages, drafting replies and supporting team workflows.",
+    "ar": "صندوق بريد تعاوني يضم مساعدًا ذكيًا للعثور على الرسائل وصياغة الردود ودعم سير عمل الفرق.",
+    "officialSource": "https://missiveapp.com/ai-assistant",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "alteryx-aidin": {
+    "fr": "Fonctionnalités IA d'Alteryx pour accompagner la préparation et l'analyse des données ainsi que la création de flux analytiques.",
+    "en": "Alteryx AI capabilities supporting data preparation, analysis and analytical workflow creation.",
+    "ar": "قدرات ذكاء اصطناعي ضمن Alteryx تدعم إعداد البيانات وتحليلها وإنشاء مسارات العمل التحليلية.",
+    "officialSource": "https://www.alteryx.com/blog/alteryx-announces-generative-ai-capabilities",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "akkio": {
+    "fr": "Plateforme d'IA destinée aux agences médias pour l'analyse d'audiences, la préparation de campagnes et la mesure de leurs résultats.",
+    "en": "AI platform for media agencies to analyze audiences, plan campaigns and measure outcomes.",
+    "ar": "منصة ذكاء اصطناعي لوكالات الإعلام والإعلان لتحليل الجمهور وتخطيط الحملات وقياس نتائجها.",
+    "officialSource": "https://www.akkio.com/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "rows-ai": {
+    "fr": "Assistant IA intégré aux feuilles de calcul Rows pour analyser les données, construire des tableaux et automatiser certaines opérations.",
+    "en": "AI assistant in Rows spreadsheets for data analysis, spreadsheet creation and selected automations.",
+    "ar": "مساعد ذكاء اصطناعي ضمن جداول Rows لتحليل البيانات وإنشاء الجداول وأتمتة بعض العمليات.",
+    "officialSource": "https://rows.com/docs/using-the-rows-ai-analyst?category=ai",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "formula-bot": {
+    "fr": "Service anciennement appelé Formula Bot, désormais Better Analyst, pour analyser des tableaux, générer des formules et créer des rapports.",
+    "en": "Formerly Formula Bot, now Better Analyst, for spreadsheet analysis, formula generation and reporting.",
+    "ar": "خدمة كانت تعرف باسم Formula Bot وأصبحت Better Analyst، لتحليل الجداول وإنشاء الصيغ والتقارير.",
+    "officialSource": "https://betteranalyst.com/",
+    "sourceReviewedAt": "2026-11-23",
+    "currentName": "Better Analyst"
+  },
+  "pecan-ai": {
+    "fr": "Plateforme d'analyse prédictive assistée par IA pour créer des modèles de prévision à partir de données métier.",
+    "en": "AI-powered predictive analytics platform for building forecasting models from business data.",
+    "ar": "منصة للتحليلات التنبؤية بالذكاء الاصطناعي تساعد على إنشاء نماذج توقع انطلاقًا من بيانات الأعمال.",
+    "officialSource": "https://www.pecan.ai/blog/predictive-analytics-tools/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "clari": {
+    "fr": "Plateforme d'orchestration commerciale exploitant les données et l'IA pour suivre les opportunités, les interactions et les prévisions.",
+    "en": "Revenue orchestration platform using data and AI to track opportunities, interactions and forecasts.",
+    "ar": "منصة لتنظيم عمليات المبيعات تستخدم البيانات والذكاء الاصطناعي لمتابعة الفرص والتفاعلات والتوقعات.",
+    "officialSource": "https://prod.clari.com/products/product-overview/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "apollo": {
+    "fr": "Plateforme commerciale pour rechercher des prospects, enrichir les données de contact et gérer la prospection avec assistance IA.",
+    "en": "Sales platform for finding prospects, enriching contact information and managing outreach with AI support.",
+    "ar": "منصة للمبيعات تساعد على اكتشاف العملاء المحتملين وإثراء بيانات الاتصال وإدارة التواصل التجاري بمساعدة الذكاء الاصطناعي.",
+    "officialSource": "https://www.apollo.io/llm-info",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "6sense": {
+    "fr": "Plateforme de renseignement commercial B2B utilisant l'IA pour détecter des signaux d'achat et orienter les actions marketing et ventes.",
+    "en": "B2B revenue intelligence platform using AI to identify buying signals and guide sales and marketing actions.",
+    "ar": "منصة لاستخبارات المبيعات بين الشركات تستخدم الذكاء الاصطناعي لرصد مؤشرات الشراء وتوجيه أنشطة التسويق والمبيعات.",
+    "officialSource": "https://6sense.com/platform/revvyai",
+    "sourceReviewedAt": "2026-11-23"
   }
 }
