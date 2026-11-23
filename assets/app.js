@@ -3,7 +3,7 @@
 'use strict';
 const $ = (s, root=document) => root.querySelector(s);
 const E = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const norm = s => String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[’']/g,' ');
+const norm = s => String(s||'').normalize('NFD').replace(/[\u0300-\u036f\u064B-\u065F\u0670]/g,'').toLowerCase().replace(/[أإآٱ]/g,'ا').replace(/ى/g,'ي').replace(/ة/g,'ه').replace(/[’']/g,' ');
 const fold = s => norm(s).replace(/[^a-z0-9 \u0621-\u064a\u0660-\u0669]/g,' ');
 // Bounded edit distance for small spelling mistakes in search words.
 const similar=(a,b)=>{
@@ -74,17 +74,17 @@ async function ensureArabic(){
 }
 const T=(fr,en)=>state.lang==='ar'?(arabicTranslations[fr]||en):state.lang==='fr'?fr:en;
 const langUrl=(path)=>{
- if(state.lang!=='ar')return path;
- const u=new URL(path,location.origin);u.searchParams.set('lang','ar');
+ if(!['ar','en'].includes(state.lang))return path;
+ const u=new URL(path,location.origin);u.searchParams.set('lang',state.lang);
  return u.pathname+u.search+u.hash;
 };
-const syncLanguageLinks=()=>{if(state.lang!=='ar')return;document.querySelectorAll('a[data-nav]').forEach(a=>{const path=a.getAttribute('data-nav');if(path&&path.startsWith('/'))a.setAttribute('href',langUrl(path));});};
+const syncLanguageLinks=()=>{if(!['ar','en'].includes(state.lang))return;document.querySelectorAll('a[data-nav]').forEach(a=>{const path=a.getAttribute('data-nav');if(path&&path.startsWith('/'))a.setAttribute('href',langUrl(path));});};
 const toolDesc=t=>state.lang==='ar'?(t.descriptionAr||t.descriptionEn||t.descriptionFr):state.lang==='fr'?t.descriptionFr:(t.descriptionEn||t.descriptionFr);
 const toolKind=k=>state.lang==='ar'?({'Application / service':'تطبيق أو خدمة','Technologie / plateforme / logiciel':'تقنية أو منصة أو برنامج','Agent / framework / plateforme':'وكيل أو إطار أو منصة','Annuaire':'دليل'}[k]||k):state.lang==='fr'?k:(TYPES[k]?.[1]||k);
 
 const TYPES={'Application / service':['Application / service','App / service'], 'Technologie / plateforme / logiciel':['Technologie / plateforme / logiciel','Technology / platform / software'], 'Agent / framework / plateforme':['Agent / framework / plateforme','Agent / framework / platform'], 'Annuaire':['Annuaire','Directory']};
 const kinds=()=>Array.from(new Set(db.tools.map(t=>t.kind)));
-const state={lang:(new URLSearchParams(location.search).get('lang')==='ar'?'ar':getStore('indexai-lang',getStore('atlas-lang','fr'))),theme:getStore('indexai-theme','light'),favorites:getStore('indexai-favorites',getStore('atlas-favorites',[])),compare:getStore('indexai-compare',getStore('atlas-compare',[])),view:getStore('indexai-layout',getStore('atlas-layout','cards')),search:'',category:'',kind:'',link:'all',sort:'az',page:1,mobileMenu:false,galaxyUniverse:getStore('indexai-galaxy-universe','essentiels')};
+const state={lang:(['fr','en','ar'].includes(new URLSearchParams(location.search).get('lang'))?new URLSearchParams(location.search).get('lang'):getStore('indexai-lang',getStore('atlas-lang','fr'))),theme:getStore('indexai-theme','light'),favorites:getStore('indexai-favorites',getStore('atlas-favorites',[])),compare:getStore('indexai-compare',getStore('atlas-compare',[])),view:getStore('indexai-layout',getStore('atlas-layout','cards')),search:'',category:'',kind:'',link:'all',sort:'az',page:1,mobileMenu:false,galaxyUniverse:getStore('indexai-galaxy-universe','essentiels')};
 const db={tools:[],featured:[],categories:[],families:[],quality:null,toolSlug:new Map(),catSlug:new Map(),catalogReady:false};
 const route=()=>{
  const p=decodeURI(location.pathname).split('/').filter(Boolean), search=new URLSearchParams(location.search);
@@ -98,7 +98,7 @@ let current=route();
 const absorbSharedComparison=()=>{if(current.type!=='comparateur'||!db.catalogReady)return;const param=new URLSearchParams(location.search).get('ids');if(!param)return;const requested=param.split(',').filter(Boolean).slice(0,4);state.compare=requested.filter(id=>db.tools.some(t=>t.id===id));store('indexai-compare',state.compare);};
 let maybeLoadEditorial=()=>{};
 let retryCatalog=()=>{};
-const nav=(path)=>{history.pushState({},'',langUrl(path));current=route();absorbSharedComparison();state.page=1;state.mobileMenu=false;window.scrollTo({top:0,behavior:'instant'});render();maybeLoadEditorial();if(!db.catalogReady&&current.type!=='home'&&current.type!=='categories')void retryCatalog();};
+const nav=(path)=>{history.pushState({lang:state.lang},'',langUrl(path));current=route();absorbSharedComparison();state.page=1;state.mobileMenu=false;window.scrollTo({top:0,behavior:'instant'});render();maybeLoadEditorial();if(!db.catalogReady&&current.type!=='home'&&current.type!=='categories')void retryCatalog();};
 const category=(slug)=>db.catSlug.get(slug);
 const tool=(slug)=>db.toolSlug.get(slug);
 const cName=c=>state.lang==='ar'?(c?.ar||c?.en||c?.name):state.lang==='fr'?c.name:c.en;
@@ -415,7 +415,7 @@ function renderView(){const main=$('#mainContent');if(!main)return;let content;
  main.innerHTML=content;updateHomeNebula();syncLanguageLinks();document.title=(current.type==='tool'?tool(current.slug)?.name:current.type==='category'?cName(category(current.slug)||{name:'Catégorie',en:'Category'}):T({'home':'Explorer les outils IA','repertoire':'Répertoire','agents':'Agents IA','dossiers':'Dossiers documentés','categories':'Catégories','besoins':'Par besoins','comparateur':'Comparateur','favoris':'Favoris','qualite':'Sources & qualité'}[current.type]||'IndexAI',{'home':'Explore AI tools','repertoire':'Directory','agents':'AI agents','dossiers':'Researched guides','categories':'Categories','besoins':'Use cases','comparateur':'Compare','favoris':'Saved','qualite':'Sources & quality'}[current.type]||'IndexAI'))+' · IndexAI';
 }
 function render(){document.documentElement.lang=state.lang;document.documentElement.dir=state.lang==='ar'?'rtl':'ltr';document.documentElement.dataset.theme=state.theme;
-let meta=document.querySelector('meta[name="description"]');if(meta&&state.lang==='ar')meta.content='دليل يضم 909 أدوات ومراجع للذكاء الاصطناعي ضمن 55 تصنيفًا، مع البحث والمقارنة والاستكشاف.';$('#app').innerHTML=shell();renderView();if(current.type==='repertoire'){$('#globalSearch').value=state.search;}if(current.type==='comparateur')updateCompareSearch('');syncLanguageLinks();}
+let meta=document.querySelector('meta[name="description"]');if(meta)meta.content=state.lang==='ar'?'دليل يضم 909 أدوات ومراجع للذكاء الاصطناعي ضمن 55 تصنيفًا، مع البحث والمقارنة والاستكشاف.':state.lang==='en'?'A directory of 909 AI tools and resources in 55 categories. Search, compare and explore.':'Répertoire de 909 outils et ressources d’intelligence artificielle dans 55 catégories. Recherche, comparaison et exploration.';$('#app').innerHTML=shell();renderView();if(current.type==='repertoire'){$('#globalSearch').value=state.search;}if(current.type==='comparateur')updateCompareSearch('');syncLanguageLinks();}
 const toast=(msg)=>{const el=$('#toast');if(!el)return;el.textContent=msg;el.classList.add('show');clearTimeout(toast.timer);toast.timer=setTimeout(()=>el.classList.remove('show'),3200)};
 function copy(s,msg){if(navigator.clipboard?.writeText)navigator.clipboard.writeText(s).then(()=>toast(msg),()=>fallbackCopy(s,msg));else fallbackCopy(s,msg)}
 function fallbackCopy(s,msg){const ta=document.createElement('textarea');ta.value=s;ta.style.position='fixed';ta.style.left='-9999px';document.body.append(ta);ta.select();try{document.execCommand('copy');toast(msg)}catch{toast(T('Copie impossible','Copy failed'))}ta.remove();}
@@ -440,7 +440,7 @@ async function handleClick(e){const action=e.target.closest('[data-action]');if(
    return;
  }
  if(a==='theme'){state.theme=state.theme==='dark'?'light':'dark';store('indexai-theme',state.theme);render();return;}
- if(a==='lang'){const next=action.dataset.lang;if(!['fr','en','ar'].includes(next)||next===state.lang)return;try{if(next==='ar')await ensureArabic();}catch(error){toast('Arabic language file could not be loaded');return;}state.lang=next;store('indexai-lang',next);const u=new URL(location.href);if(next==='ar')u.searchParams.set('lang','ar');else u.searchParams.delete('lang');history.replaceState({},'',u.pathname+u.search+u.hash);render();return;}
+ if(a==='lang'){const next=action.dataset.lang;if(!['fr','en','ar'].includes(next)||next===state.lang)return;try{if(next==='ar')await ensureArabic();}catch(error){toast('Arabic language file could not be loaded');return;}state.lang=next;store('indexai-lang',next);const u=new URL(location.href);if(['ar','en'].includes(next))u.searchParams.set('lang',next);else u.searchParams.delete('lang');history.replaceState({lang:next},'',u.pathname+u.search+u.hash);render();return;}
  if(a==='favorite'){const id=action.dataset.id;state.favorites=state.favorites.includes(id)?state.favorites.filter(x=>x!==id):[...state.favorites,id];store('indexai-favorites',state.favorites);renderView();toast(state.favorites.includes(id)?T('Ajouté aux favoris','Saved to favorites'):T('Retiré des favoris','Removed from favorites'));return;}
  if(a==='compare'){const id=action.dataset.id;if(state.compare.includes(id))state.compare=state.compare.filter(x=>x!==id);else if(state.compare.length>=4){toast(T('Maximum : 4 outils','Maximum 4 tools'));return;}else state.compare.push(id);store('indexai-compare',state.compare);if(current.type==='comparateur'&&new URLSearchParams(location.search).has('ids'))history.replaceState({},'','/comparateur/');render();toast(T('Comparateur mis à jour','Comparison updated'));return;}
  if(a==='layout'){state.view=action.dataset.value;store('indexai-layout',state.view);renderView();return;}
@@ -465,7 +465,7 @@ function handleKey(e){if(e.key==='/'&&!['INPUT','TEXTAREA'].includes(document.ac
  if(e.key==='Enter'&&e.target.id==='globalSearch'){e.preventDefault();state.search=e.target.value;nav('/repertoire/'+(state.search?'?q='+encodeURIComponent(state.search):''));}
  if(e.key==='Enter'&&e.target.id==='directorySearch'){e.preventDefault();e.target.blur();}
 }
-async function bootstrap(){document.documentElement.dataset.theme=state.theme;document.documentElement.dir=state.lang==='ar'?'rtl':'ltr';if(state.lang==='ar'){try{await ensureArabic()}catch(e){state.lang='en'}}
+async function bootstrap(){history.replaceState({lang:state.lang},'',location.href);document.documentElement.dataset.theme=state.theme;document.documentElement.dir=state.lang==='ar'?'rtl':'ltr';if(state.lang==='ar'){try{await ensureArabic()}catch(e){state.lang='en'}}
  try{const r=await Promise.all(['categories','families','quality-report','featured-tools'].map(n=>fetch('/data/'+n+'.json').then(x=>{if(!x.ok)throw Error(n);return x.json()})));
  [db.categories,db.families,db.quality,db.featured]=r;
  applyArabicDescriptions();
@@ -528,7 +528,7 @@ async function bootstrap(){document.documentElement.dataset.theme=state.theme;do
  db.catSlug=new Map(db.categories.map(c=>[c.slug,c]));
  if(current.type==='repertoire')state.search=new URLSearchParams(location.search).get('q')||'';
  document.addEventListener('click',handleClick);document.addEventListener('input',handleInput);document.addEventListener('change',handleChange);document.addEventListener('keydown',handleKey);
- window.addEventListener('popstate',async()=>{const queryLanguage=new URLSearchParams(location.search).get('lang');if(queryLanguage==='ar'){try{await ensureArabic();state.lang='ar'}catch{state.lang='en'}}current=route();absorbSharedComparison();state.search=new URLSearchParams(location.search).get('q')||'';render();maybeLoadEditorial();if(!db.catalogReady&&current.type!=='home'&&current.type!=='categories')void retryCatalog();});
+ window.addEventListener('popstate',async()=>{const queryLanguage=new URLSearchParams(location.search).get('lang');state.lang=['fr','en','ar'].includes(queryLanguage)?queryLanguage:(history.state?.lang||'fr');if(state.lang==='ar'){try{await ensureArabic()}catch{state.lang='en'}}current=route();absorbSharedComparison();state.search=new URLSearchParams(location.search).get('q')||'';render();maybeLoadEditorial();if(!db.catalogReady&&current.type!=='home'&&current.type!=='categories')void retryCatalog();});
  render();
 // The homepage is already interactive: fetch the 1 MB catalog only after its first frame.
  let toolsLoading=false;
