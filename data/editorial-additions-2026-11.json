@@ -125,5 +125,47 @@
     "ar": "خدمة من AWS للتعرف على النصوص وتحليل المستندات واستخراج الكتابة المطبوعة أو اليدوية والنماذج والجداول.",
     "officialSource": "https://docs.aws.amazon.com/textract/latest/dg/",
     "sourceReviewedAt": "2026-11-23"
+  },
+  "rodin": {
+    "fr": "Générateur de ressources 3D Hyper3D Rodin à partir de textes ou d’images de référence, avec options de modèles, textures et export.",
+    "en": "Hyper3D Rodin generator of 3D assets from text or reference images, with model, texture and export options.",
+    "ar": "مولّد نماذج ثلاثية الأبعاد من Hyper3D Rodin انطلاقًا من النصوص أو الصور المرجعية، مع خيارات للمواد والخامات والتصدير.",
+    "officialSource": "https://docs.hyper3d.ai/en",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "luma-ai": {
+    "fr": "Plateforme de création visuelle et d’expériences 3D interactives, notamment pour capturer et présenter des scènes spatiales.",
+    "en": "Visual creation platform with interactive 3D scene experiences for capturing and presenting spatial content.",
+    "ar": "منصة للإبداع البصري والتجارب ثلاثية الأبعاد التفاعلية، بما فيها التقاط المشاهد المكانية وعرضها.",
+    "officialSource": "https://lumalabs.ai/interactive-scenes",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "spline-ai": {
+    "fr": "Éditeur 3D dans le navigateur proposant une génération IA de modèles depuis texte ou image, intégrables dans des scènes interactives.",
+    "en": "Browser-based 3D editor with AI model generation from text or images for interactive scenes.",
+    "ar": "محرر ثلاثي الأبعاد في المتصفح يتيح توليد مجسمات من النصوص أو الصور ودمجها في مشاهد تفاعلية.",
+    "officialSource": "https://docs.spline.design/generate/ai-3d-generation",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "blockade-labs-skybox": {
+    "fr": "Création d’environnements panoramiques à 360° à partir de descriptions ou d’images pour scènes immersives.",
+    "en": "Generation of 360-degree panoramic environments from text prompts or images for immersive scenes.",
+    "ar": "أداة لإنشاء بيئات بانورامية بزاوية 360 درجة من الأوصاف النصية أو الصور لاستخدامها في المشاهد الغامرة.",
+    "officialSource": "https://docs.blockadelabs.com/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "gaussian-splatting": {
+    "fr": "Implémentation de recherche du rendu de scènes 3D par gaussiennes, associée à l’article sur le rendu temps réel de champs radiants.",
+    "en": "Research implementation of 3D Gaussian Splatting for real-time radiance-field scene rendering.",
+    "ar": "تطبيق بحثي لتقنية Gaussian Splatting التي تمثل المشاهد ثلاثية الأبعاد وتعرضها آنياً باستخدام توزيعات غاوسية.",
+    "officialSource": "https://github.com/graphdeco-inria/gaussian-splatting",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "nerfstudio": {
+    "fr": "Framework ouvert de recherche et de développement de champs de rayonnement neuronaux (NeRF) et de méthodes de reconstruction 3D.",
+    "en": "Open research framework for neural radiance fields (NeRF) and 3D reconstruction methods.",
+    "ar": "إطار بحثي مفتوح المصدر لتطوير حقول الإشعاع العصبية (NeRF) وتقنيات إعادة بناء المشاهد ثلاثية الأبعاد.",
+    "officialSource": "https://docs.nerf.studio/",
+    "sourceReviewedAt": "2026-11-23"
   }
 }
