@@ -316,5 +316,201 @@
     "ar": "عائلة نماذج متعددة اللغات من Alibaba Qwen للتطبيقات النصية ووسائط أخرى مع موارد للمطورين.",
     "officialSource": "https://qwenlm.github.io/blog/qwen/",
     "sourceReviewedAt": "2026-11-23"
+  },
+  "gemini-code-assist": {
+    "fr": "Assistant de développement Google dans les IDE : génération et complétion de code, dialogue contextuel et mode agent pour certaines tâches de programmation.",
+    "en": "Google development assistant in IDEs offering code generation, completions, contextual chat and an agent mode for some coding tasks.",
+    "ar": "مساعد برمجة من Google داخل بيئات التطوير يوفر توليد الشيفرة وإكمالها والمحادثة حول المشروع ووضع الوكيل لبعض المهام البرمجية.",
+    "officialSource": "https://docs.cloud.google.com/gemini/docs/codeassist/overview?hl=en",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "amazon-q-developer": {
+    "fr": "Assistant AWS de programmation dans les IDE : suggestions de code, chat, aide au débogage et à la modification de projets ; fonctionnalités selon l’éditeur et l’offre.",
+    "en": "AWS developer assistant for IDE code suggestions, chat, debugging and project modifications; availability depends on editor and plan.",
+    "ar": "مساعد برمجة من AWS يقدم اقتراحات للشيفرة ومحادثة تقنية ودعم تصحيح الأخطاء وتعديل المشاريع داخل بيئات التطوير، بحسب الخطة والمحرر.",
+    "officialSource": "https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/q-in-IDE.html",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "tabnine": {
+    "fr": "Assistant de programmation pour les équipes proposant la complétion de code, le dialogue contextuel et des capacités d’agent selon le déploiement.",
+    "en": "Coding assistant for teams offering code completions, contextual chat and task-oriented agent capabilities depending on deployment.",
+    "ar": "مساعد برمجة موجه للفرق يوفر إكمال الشيفرة والمحادثة المرتبطة بالسياق ووظائف وكيل لتنفيذ المهام بحسب بيئة النشر.",
+    "officialSource": "https://docs.tabnine.com/main/getting-started/tabnine-agent",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "coderabbit": {
+    "fr": "Outil de revue de code assistée par IA pour commenter et analyser les demandes de fusion, avec des contrôles et analyses configurables.",
+    "en": "AI-assisted code review tool for analyzing pull requests and giving review feedback with configurable checks.",
+    "ar": "أداة لمراجعة الشيفرة بالذكاء الاصطناعي وتحليل طلبات دمج التعديلات وتقديم ملاحظات وفحوص قابلة للتهيئة.",
+    "officialSource": "https://docs.coderabbit.ai/tools/pmd",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "devin": {
+    "fr": "Agent d’ingénierie logicielle de Cognition pouvant travailler sur des dépôts de code et des tâches de développement avec configuration et supervision.",
+    "en": "Cognition software engineering agent that works on repositories and development tasks with setup and supervision.",
+    "ar": "وكيل هندسة برمجية من Cognition يعمل على مستودعات الشيفرة ومهام التطوير مع إمكان تهيئته ومتابعة تنفيذ أعماله.",
+    "officialSource": "https://docs.devin.ai/fr/onboard-devin/repo-setup",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "replit-agent": {
+    "fr": "Agent de création d’applications dans Replit, capable de proposer et modifier des projets à partir d’instructions en langage naturel, avec étapes de vérification.",
+    "en": "Replit app-building agent that creates and edits projects from natural-language instructions, with checkpoints and review steps.",
+    "ar": "وكيل لإنشاء التطبيقات ضمن Replit انطلاقًا من تعليمات باللغة الطبيعية، مع تعديل المشاريع ومراجعة مراحل العمل.",
+    "officialSource": "https://docs.replit.com/fr/references/agent/overview",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "qodo": {
+    "fr": "Outils de revue de code et de contrôle des changements, notamment sur les demandes de fusion, avec règles et configurations dédiées.",
+    "en": "Code review and change-checking tools, especially for pull requests, with configurable policies and rules.",
+    "ar": "أدوات لمراجعة الشيفرة والتحقق من التعديلات، خصوصًا طلبات الدمج، مع إمكان تخصيص القواعد وإعدادات المراجعة.",
+    "officialSource": "https://docs.qodo.ai/qodo-documentation/code-review/get-started/configuration-overview/configuration-file",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "wix-ai": {
+    "fr": "Fonctions de création de sites Wix assistées par IA, dont la génération d’un site selon une description des besoins, avant personnalisation dans l’éditeur.",
+    "en": "Wix AI-assisted website creation, including generating a site from a needs description before customization in the editor.",
+    "ar": "وظائف من Wix لإنشاء المواقع بمساعدة الذكاء الاصطناعي، بما فيها توليد موقع من وصف الاحتياجات ثم تخصيصه داخل المحرر.",
+    "officialSource": "https://support.wix.com/en/article/wix-harmony-editor-creating-a-site-with-ai",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "10web": {
+    "fr": "Constructeur de sites WordPress assisté par IA : création initiale du site depuis une description puis personnalisation dans un éditeur.",
+    "en": "AI-assisted WordPress website builder that creates an initial site from a description and allows further editing.",
+    "ar": "منشئ مواقع WordPress بالذكاء الاصطناعي يولد الموقع الأولي من الوصف، ثم يتيح تخصيصه وتحريره.",
+    "officialSource": "https://help.10web.io/hc/en-us/articles/36515422635922-How-to-Generate-a-Website-with-10Web-s-Agentic-Website-Builder",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "hostinger-ai-website-builder": {
+    "fr": "Outils Hostinger de création de sites et applications par IA, avec modes manuel et agentique et options d’édition et de publication.",
+    "en": "Hostinger AI tools for creating sites and apps, offering manual and agentic modes with editing and publishing options.",
+    "ar": "أدوات Hostinger لإنشاء المواقع والتطبيقات بالذكاء الاصطناعي، مع وضع يدوي ووضع وكيل وخيارات للتحرير والنشر.",
+    "officialSource": "https://www.hostinger.com/support/10683629-hostinger-ai-builder-difference-between-manual-agentic-mode/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "bubble": {
+    "fr": "Plateforme de développement visuel sans code, dotée d’un générateur d’applications à partir d’instructions et d’un éditeur pour affiner le résultat.",
+    "en": "Visual no-code development platform with a prompt-based app generator and an editor for refining the generated project.",
+    "ar": "منصة لتطوير التطبيقات بصريًا دون برمجة، توفر توليد التطبيقات من الأوامر النصية ثم تحسينها داخل المحرر.",
+    "officialSource": "https://manual.bubble.io/new-start-here",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "flutterflow": {
+    "fr": "Plateforme de création d’applications visuelles avec génération de conceptions par IA et outils permettant de modifier et construire des écrans.",
+    "en": "Visual app-building platform offering AI-assisted design generation and tools for editing and building app screens.",
+    "ar": "منصة مرئية لإنشاء التطبيقات تتيح توليد التصاميم بمساعدة الذكاء الاصطناعي وتعديل الشاشات وبناء الواجهات.",
+    "officialSource": "https://docs.flutterflow.io/designer/quickstart/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "softr": {
+    "fr": "Constructeur sans code d’applications professionnelles, avec génération d’application depuis une description et édition des pages et accès.",
+    "en": "No-code business application builder with prompt-based app generation and editing of pages and access permissions.",
+    "ar": "منشئ تطبيقات مهنية دون برمجة يدعم إنشاء التطبيق من وصف نصي وتحرير الصفحات وصلاحيات الوصول.",
+    "officialSource": "https://docs.softr.io/start-here/ai-co-builder",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "momen": {
+    "fr": "Plateforme de création d’applications par IA et sans code, intégrant données, pages, logiques métier et agents pour des projets web.",
+    "en": "AI-assisted no-code app builder combining data, pages, business logic and agents for web applications.",
+    "ar": "منصة لإنشاء التطبيقات بالذكاء الاصطناعي ودون برمجة، تجمع قواعد البيانات والصفحات ومنطق الأعمال والوكلاء.",
+    "officialSource": "https://docs.momen.app/docs/build_with_ai/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "microsoft-copilot-studio": {
+    "fr": "Environnement Microsoft de conception d’agents métiers à partir d’instructions, de connaissances et d’outils connectés aux processus.",
+    "en": "Microsoft environment for building business agents using instructions, knowledge sources and tools connected to workflows.",
+    "ar": "بيئة من Microsoft لإنشاء وكلاء الأعمال اعتمادًا على التعليمات ومصادر المعرفة والأدوات المتصلة بالإجراءات.",
+    "officialSource": "https://learn.microsoft.com/en-us/microsoft-copilot-studio/authoring-first-bot",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "langflow": {
+    "fr": "Éditeur visuel de flux d’applications IA et de modèles d’agents, permettant de connecter des composants et de tester les résultats.",
+    "en": "Visual editor for AI application flows and agent templates, linking components and testing results.",
+    "ar": "محرر مرئي لمسارات تطبيقات الذكاء الاصطناعي وقوالب الوكلاء، يربط المكونات ويتيح اختبار النتائج.",
+    "officialSource": "https://docs.langflow.org/concepts-overview",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "agno": {
+    "fr": "Framework de développement d’agents IA pouvant utiliser des outils et des instructions et exécuter des tâches structurées.",
+    "en": "Framework for building AI agents with tools and instructions to carry out structured tasks.",
+    "ar": "إطار لتطوير وكلاء الذكاء الاصطناعي باستخدام الأدوات والتعليمات لتنفيذ مهام منظمة.",
+    "officialSource": "https://docs.agno.com/agents/overview",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "smolagents": {
+    "fr": "Bibliothèque Python de Hugging Face pour créer des agents légers, notamment des agents qui appellent des outils via du code.",
+    "en": "Hugging Face Python library for building lightweight agents, including code-based tool-calling agents.",
+    "ar": "مكتبة Python من Hugging Face لإنشاء وكلاء خفيفين، بما في ذلك وكلاء يستخدمون الشيفرة لاستدعاء الأدوات.",
+    "officialSource": "https://huggingface.co/docs/smolagents/main/en/index",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "mastra": {
+    "fr": "Framework TypeScript pour créer des agents, outils et workflows IA avec des possibilités d’observation et d’intégration applicative.",
+    "en": "TypeScript framework for agents, AI tools and workflows, with observability and application integration features.",
+    "ar": "إطار عمل بلغة TypeScript لبناء وكلاء الذكاء الاصطناعي والأدوات ومسارات العمل، مع المراقبة والتكامل مع التطبيقات.",
+    "officialSource": "https://mastra.ai/docs",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "letta": {
+    "fr": "Plateforme d’agents à état persistant qui conservent mémoire et historique au fil des interactions.",
+    "en": "Platform for persistent, stateful agents that retain memory and conversation history across interactions.",
+    "ar": "منصة لوكلاء ذوي حالة مستمرة يحتفظون بالذاكرة وسجل التفاعل عبر المحادثات.",
+    "officialSource": "https://docs.letta.com/concepts/stateful-agents",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "openai-agents-sdk": {
+    "fr": "Kit de développement pour orchestrer des agents, outils, transferts entre agents, sessions et garde-fous dans des applications.",
+    "en": "Development kit for orchestrating agents, tools, agent handoffs, sessions and guardrails in applications.",
+    "ar": "حزمة تطوير لتنسيق الوكلاء والأدوات وتسليم المهام بين الوكلاء والجلسات وضوابط السلامة داخل التطبيقات.",
+    "officialSource": "https://openai.github.io/openai-agents-python/agents/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "composio": {
+    "fr": "Infrastructure de connexion permettant à des agents de découvrir et d’exécuter des actions dans des applications avec authentification adaptée.",
+    "en": "Integration infrastructure enabling agents to discover and perform actions across apps with managed authentication.",
+    "ar": "بنية للتكامل تسمح للوكلاء باكتشاف الإجراءات وتنفيذها عبر التطبيقات مع إدارة المصادقة والاتصال.",
+    "officialSource": "https://docs.composio.dev/docs/quickstart",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "pipedream": {
+    "fr": "Plateforme de workflows pour connecter des services web, déclencher des tâches et enchaîner des étapes d’intégration.",
+    "en": "Workflow platform connecting web services, triggering tasks and chaining integration steps.",
+    "ar": "منصة لمسارات العمل تربط الخدمات الرقمية وتطلق المهام وتنسق خطوات التكامل.",
+    "officialSource": "https://pipedream.com/workflows",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "microsoft-power-automate": {
+    "fr": "Service Microsoft d’automatisation des processus avec des flux déclenchés par événement, manuellement ou selon une planification.",
+    "en": "Microsoft workflow automation service supporting event-triggered, manual and scheduled flows.",
+    "ar": "خدمة من Microsoft لأتمتة الإجراءات باستخدام مسارات عمل تبدأ بالأحداث أو يدويًا أو وفق جدول زمني.",
+    "officialSource": "https://learn.microsoft.com/en-us/power-automate/flow-types",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "workato": {
+    "fr": "Plateforme d’intégration et d’automatisation où des « recettes » définissent les déclencheurs et étapes reliant plusieurs applications.",
+    "en": "Integration and automation platform using recipes to define triggers and steps across applications.",
+    "ar": "منصة للتكامل والأتمتة تستخدم «وصفات» تحدد المشغلات والخطوات بين التطبيقات المختلفة.",
+    "officialSource": "https://docs.workato.com/recipes/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "browse-ai": {
+    "fr": "Outil de robots web configurables pour extraire des données de pages et surveiller leurs modifications.",
+    "en": "Configurable web robots for extracting data from webpages and monitoring changes.",
+    "ar": "أداة لإنشاء روبوتات ويب قابلة للتهيئة لاستخراج بيانات الصفحات ومراقبة التغييرات.",
+    "officialSource": "https://docs.browse.ai/api/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "apify": {
+    "fr": "Plateforme d’automatisation web où des « Actors » exécutent des tâches comme l’extraction de données et la navigation automatisée.",
+    "en": "Web automation platform whose Actors run tasks such as data extraction and browser automation.",
+    "ar": "منصة لأتمتة الويب تستخدم برامج تسمى «Actors» لتنفيذ مهام مثل استخراج البيانات والتحكم في المتصفح.",
+    "officialSource": "https://docs.apify.com/actors",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "ifttt": {
+    "fr": "Service d’automatisation par « applets » reliant des événements déclencheurs à des actions dans différentes applications.",
+    "en": "Applet-based automation service connecting trigger events to actions across applications.",
+    "ar": "خدمة للأتمتة تعتمد على وحدات «Applets» لربط الأحداث المشغّلة بإجراءات عبر التطبيقات.",
+    "officialSource": "https://ifttt.com/explore/how-to-connect-your-first-applet",
+    "sourceReviewedAt": "2026-11-23"
   }
 }
