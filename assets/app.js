@@ -542,7 +542,7 @@ async function bootstrap(){history.replaceState({lang:state.lang},'',location.hr
    try {
      const [response,editorial] = await Promise.all([
        fetch('/data/tools.json'),
-       fetch('/data/editorial-additions-2026-11.json?v=20261123').then(r=>{if(!r.ok)throw Error('Editorial source HTTP '+r.status);return r.json();}).catch(error=>{console.warn('Supplemental editorial profiles unavailable:',error);return {};})
+       fetch('/data/editorial-additions-2026-11.json?v=20261123-data-docs').then(r=>{if(!r.ok)throw Error('Editorial source HTTP '+r.status);return r.json();}).catch(error=>{console.warn('Supplemental editorial profiles unavailable:',error);return {};})
      ]);
      if(!response.ok)throw Error('tools.json HTTP '+response.status);
      const entries=await response.json();
