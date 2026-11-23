@@ -71,7 +71,7 @@ const applyArabicDescriptions=()=>{for(const t of [...db.featured,...db.tools])i
 const applyEditorialAdditions=()=>{for(const t of db.tools){const entry=db.editorialAdditions[t.slug];if(entry)Object.assign(t,{descriptionFr:entry.fr,descriptionEn:entry.en,descriptionAr:entry.ar,officialSource:entry.officialSource,sourceReviewedAt:entry.sourceReviewedAt,currentName:entry.currentName||''});}};
 async function ensureArabic(){
  if(arabicLoad)return arabicLoad;
- arabicLoad=Promise.all([import('/assets/ar-i18n.js?v=ar-media-work-20261123'),fetch('/data/tool-descriptions-ar.json?v=ar-education-sourced-20261123').then(r=>r.ok?r.json():{}).catch(()=>({}))]).then(([m,descriptions])=>{arabicTranslations=m.translations||{};arabicAliases=m.aliases||{};arabicDescriptions=descriptions;applyArabicDescriptions();}).catch(error=>{arabicLoad=null;console.warn('Arabic translations unavailable',error);throw error;});
+ arabicLoad=Promise.all([import('/assets/ar-i18n.js?v=ar-market-analytics-20261123'),fetch('/data/tool-descriptions-ar.json?v=ar-education-sourced-20261123').then(r=>r.ok?r.json():{}).catch(()=>({}))]).then(([m,descriptions])=>{arabicTranslations=m.translations||{};arabicAliases=m.aliases||{};arabicDescriptions=descriptions;applyArabicDescriptions();}).catch(error=>{arabicLoad=null;console.warn('Arabic translations unavailable',error);throw error;});
  return arabicLoad;
 }
 const T=(fr,en)=>state.lang==='ar'?(arabicTranslations[fr]||en):state.lang==='fr'?fr:en;
@@ -542,7 +542,7 @@ async function bootstrap(){history.replaceState({lang:state.lang},'',location.hr
    try {
      const [response,editorial] = await Promise.all([
        fetch('/data/tools.json'),
-       fetch('/data/editorial-additions-2026-11.json?v=20261123-media-work').then(r=>{if(!r.ok)throw Error('Editorial source HTTP '+r.status);return r.json();}).catch(error=>{console.warn('Supplemental editorial profiles unavailable:',error);return {};})
+       fetch('/data/editorial-additions-2026-11.json?v=20261123-market-analytics').then(r=>{if(!r.ok)throw Error('Editorial source HTTP '+r.status);return r.json();}).catch(error=>{console.warn('Supplemental editorial profiles unavailable:',error);return {};})
      ]);
      if(!response.ok)throw Error('tools.json HTTP '+response.status);
      const entries=await response.json();
