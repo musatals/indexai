@@ -1,0 +1,171 @@
+{
+  "openalex": {
+    "fr": "Catalogue ouvert de publications et de métadonnées scientifiques reliant travaux, auteurs, institutions, sources et citations, avec API de recherche.",
+    "en": "Open scholarly metadata catalog connecting works, authors, institutions, sources and citations, accessible through a search API.",
+    "ar": "فهرس مفتوح للمنشورات والبيانات العلمية الوصفية يربط الأبحاث والمؤلفين والمؤسسات والمصادر والاستشهادات، مع واجهة بحث برمجية.",
+    "officialSource": "https://help.openalex.org/api/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "eduaide-ai": {
+    "fr": "Espace de travail pour enseignants : plans de cours, fiches pédagogiques, évaluations et adaptation de ressources à différents élèves.",
+    "en": "Teacher workspace for lesson plans, instructional materials, assessments and differentiated resources.",
+    "ar": "مساحة عمل للمعلمين تساعد في إعداد خطط الدروس والمواد والاختبارات وتكييف الموارد مع اختلاف احتياجات المتعلمين.",
+    "officialSource": "https://www.eduaide.ai/solutions/lesson-planning",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "brisk-teaching": {
+    "fr": "Assistant pour enseignants : création de supports, quiz et présentations, adaptation des niveaux et commentaires sur les travaux d’élèves.",
+    "en": "Teacher assistant for producing resources, quizzes and presentations, adapting reading levels, and reviewing student work.",
+    "ar": "مساعد للمعلمين لإنشاء الموارد والاختبارات والعروض، وتكييف مستويات القراءة، وإعداد ملاحظات على أعمال المتعلمين.",
+    "officialSource": "https://www.briskteaching.com/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "curipod": {
+    "fr": "Plateforme de leçons interactives avec activités de classe et retours assistés par IA, déclenchés et encadrés par l’enseignant.",
+    "en": "Interactive lessons with classroom activities and AI-assisted feedback initiated and supervised by teachers.",
+    "ar": "منصة للدروس التفاعلية والأنشطة الصفية تقدم تغذية راجعة بمساعدة الذكاء الاصطناعي تحت إشراف المعلم.",
+    "officialSource": "https://curipod.com/c/safe-and-teacher-controlled-ai",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "schoolai": {
+    "fr": "Environnements d’apprentissage « Spaces » configurés par les enseignants, avec expériences personnalisées et suivi pédagogique.",
+    "en": "Teacher-configured Spaces for personalized student learning experiences and instructional monitoring.",
+    "ar": "بيئات تعلم تفاعلية تسمى «Spaces» يصممها المعلمون لتقديم أنشطة مخصصة ومتابعة تقدم المتعلمين.",
+    "officialSource": "https://help.schoolai.com/en/articles/15538519-getting-started-with-spaces",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "quizizz": {
+    "fr": "Anciennement Quizizz, désormais Wayground : plateforme pédagogique pour cours interactifs, entraînements et évaluations avec fonctions IA.",
+    "en": "Formerly Quizizz, now Wayground: educational platform for interactive lessons, practice and assessments with AI-assisted tools.",
+    "ar": "منصة تعليمية عُرفت باسم Quizizz وأصبحت Wayground، تقدم دروسًا تفاعلية وتدريبات وتقييمات مدعومة بأدوات ذكاء اصطناعي.",
+    "officialSource": "https://help.wayground.com/support/solutions/articles/158000403867-quizizz-is-now-wayground-what-s-changing-and-what-s-not",
+    "currentName": "Wayground (anciennement Quizizz)",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "kahoot": {
+    "fr": "Plateforme de quiz pédagogiques et de jeux d’apprentissage ; un générateur IA peut créer des questions à partir de thèmes ou de ressources.",
+    "en": "Learning quiz and game platform with AI-assisted question generation from topics or teaching resources.",
+    "ar": "منصة للألعاب والاختبارات التعليمية تتيح إنشاء الأسئلة بمساعدة الذكاء الاصطناعي انطلاقًا من الموضوعات أو الموارد.",
+    "officialSource": "https://support.kahoot.com/hc/en-us/articles/40988856361747-How-to-generate-Kahoot-questions-with-AI",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "quizlet": {
+    "fr": "Outils de révision et de mémorisation : fiches, guides d’étude et tests d’entraînement générés à partir de supports pédagogiques.",
+    "en": "Study and memorization tools offering flashcards, study guides and AI-generated practice tests based on learning materials.",
+    "ar": "أدوات للمراجعة والحفظ، تشمل بطاقات تعليمية وأدلة دراسة واختبارات تدريبية تُنشأ من المواد الدراسية.",
+    "officialSource": "https://quizlet.com/features/ai-study-tools",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "photomath": {
+    "fr": "Application d’aide en mathématiques qui analyse les expressions et équations et présente les étapes de leur résolution.",
+    "en": "Math learning app that analyzes expressions and equations and explains their solutions step by step.",
+    "ar": "تطبيق للمساعدة في الرياضيات يتعرف على العبارات والمعادلات ويشرح خطوات حلها تدريجيًا.",
+    "officialSource": "https://support.google.com/photomath/answer/14328660?hl=en-GB",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "speak": {
+    "fr": "Application de langues proposant des conversations orales avec un tuteur IA pour s’exercer sans partenaire humain.",
+    "en": "Language-learning app offering spoken conversation practice with an AI tutor without requiring a human partner.",
+    "ar": "تطبيق لتعلم اللغات يتيح التدرب على المحادثات الشفوية مع معلم افتراضي يعمل بالذكاء الاصطناعي.",
+    "officialSource": "https://www.speak.com/careers",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "elsa-speak": {
+    "fr": "Application de pratique de l’anglais oral analysant la prononciation et fournissant des retours personnalisés grâce à la reconnaissance vocale.",
+    "en": "Spoken English learning app analyzing pronunciation and delivering personalized feedback using speech recognition.",
+    "ar": "تطبيق لتطوير التحدث بالإنجليزية يحلل النطق ويوفر ملاحظات فردية اعتمادًا على التعرف على الصوت.",
+    "officialSource": "https://elsaspeak.com/en/new-homepage/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "talkpal": {
+    "fr": "Tuteur de langues par IA proposant dialogues écrits et oraux, entraînement à la prononciation et retours pédagogiques.",
+    "en": "AI language tutor with written and spoken conversations, pronunciation practice and learning feedback.",
+    "ar": "معلم لغات بالذكاء الاصطناعي يوفر محادثات كتابية وشفوية وتدريبًا على النطق وتغذية راجعة تعليمية.",
+    "officialSource": "https://talkpal.ai/support/what-is-talkpal-ai/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "tutorai": {
+    "fr": "Service de parcours pédagogiques générés à partir de thèmes ou de documents fournis par l’apprenant.",
+    "en": "AI learning service for generating courses and learning pathways from topics or user-provided documents.",
+    "ar": "خدمة تعليمية تساعد على إنشاء مسارات ودروس انطلاقًا من موضوعات أو مستندات يقدمها المتعلم.",
+    "officialSource": "https://tutorai.me/create-course",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "knowt": {
+    "fr": "Plateforme de révision qui transforme notes et documents en fiches mémoires, tests pratiques et ressources d’étude grâce à l’IA.",
+    "en": "Study platform turning notes and documents into flashcards, practice tests and revision resources with AI support.",
+    "ar": "منصة للمراجعة تحوّل الملاحظات والمستندات إلى بطاقات للحفظ واختبارات تدريبية ومواد للدراسة بمساعدة الذكاء الاصطناعي.",
+    "officialSource": "https://help.knowt.com/en/articles/10722204-student-s-guide-to-getting-started",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "studyfetch": {
+    "fr": "Assistant d’étude exploitant les cours importés (documents, notes ou vidéos) pour répondre aux questions et créer des fiches et quiz.",
+    "en": "Study assistant working from uploaded lessons, notes or videos to answer questions and generate flashcards and quizzes.",
+    "ar": "مساعد للدراسة يعتمد على الدروس والملاحظات أو الفيديوهات المرفوعة للإجابة عن الأسئلة وإنشاء بطاقات واختبارات.",
+    "officialSource": "https://www.studyfetch.com/ai-study-buddy",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "power-bi-copilot": {
+    "fr": "Fonctions de Copilot dans Power BI permettant de poser des questions sur les rapports, d’en résumer les données et de créer des éléments visuels.",
+    "en": "Copilot features in Power BI for asking questions about reports, summarizing data and assisting with report visuals.",
+    "ar": "وظائف Copilot ضمن Power BI لطرح الأسئلة حول التقارير وتلخيص بياناتها والمساعدة في إنشاء العناصر المرئية.",
+    "officialSource": "https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-introduction",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "azure-ai-document-intelligence": {
+    "fr": "Service Microsoft d’analyse documentaire et d’OCR pour extraire textes, tableaux, champs et données structurées de fichiers.",
+    "en": "Microsoft document analysis and OCR service extracting text, tables, fields and structured data from files.",
+    "ar": "خدمة من Microsoft لتحليل المستندات والتعرف البصري على النصوص واستخراج الجداول والحقول والبيانات المنظمة.",
+    "officialSource": "https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/overview?view=doc-intel-4.0.0",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "amazon-textract": {
+    "fr": "Service AWS d’OCR et d’analyse de documents permettant d’extraire texte imprimé ou manuscrit, formulaires et tableaux.",
+    "en": "AWS document OCR and analysis service extracting printed or handwritten text, forms and tables.",
+    "ar": "خدمة من AWS للتعرف على النصوص وتحليل المستندات واستخراج الكتابة المطبوعة أو اليدوية والنماذج والجداول.",
+    "officialSource": "https://docs.aws.amazon.com/textract/latest/dg/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "rodin": {
+    "fr": "Générateur de ressources 3D Hyper3D Rodin à partir de textes ou d’images de référence, avec options de modèles, textures et export.",
+    "en": "Hyper3D Rodin generator of 3D assets from text or reference images, with model, texture and export options.",
+    "ar": "مولّد نماذج ثلاثية الأبعاد من Hyper3D Rodin انطلاقًا من النصوص أو الصور المرجعية، مع خيارات للمواد والخامات والتصدير.",
+    "officialSource": "https://docs.hyper3d.ai/en",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "luma-ai": {
+    "fr": "Plateforme de création visuelle et d’expériences 3D interactives, notamment pour capturer et présenter des scènes spatiales.",
+    "en": "Visual creation platform with interactive 3D scene experiences for capturing and presenting spatial content.",
+    "ar": "منصة للإبداع البصري والتجارب ثلاثية الأبعاد التفاعلية، بما فيها التقاط المشاهد المكانية وعرضها.",
+    "officialSource": "https://lumalabs.ai/interactive-scenes",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "spline-ai": {
+    "fr": "Éditeur 3D dans le navigateur proposant une génération IA de modèles depuis texte ou image, intégrables dans des scènes interactives.",
+    "en": "Browser-based 3D editor with AI model generation from text or images for interactive scenes.",
+    "ar": "محرر ثلاثي الأبعاد في المتصفح يتيح توليد مجسمات من النصوص أو الصور ودمجها في مشاهد تفاعلية.",
+    "officialSource": "https://docs.spline.design/generate/ai-3d-generation",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "blockade-labs-skybox": {
+    "fr": "Création d’environnements panoramiques à 360° à partir de descriptions ou d’images pour scènes immersives.",
+    "en": "Generation of 360-degree panoramic environments from text prompts or images for immersive scenes.",
+    "ar": "أداة لإنشاء بيئات بانورامية بزاوية 360 درجة من الأوصاف النصية أو الصور لاستخدامها في المشاهد الغامرة.",
+    "officialSource": "https://docs.blockadelabs.com/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "gaussian-splatting": {
+    "fr": "Implémentation de recherche du rendu de scènes 3D par gaussiennes, associée à l’article sur le rendu temps réel de champs radiants.",
+    "en": "Research implementation of 3D Gaussian Splatting for real-time radiance-field scene rendering.",
+    "ar": "تطبيق بحثي لتقنية Gaussian Splatting التي تمثل المشاهد ثلاثية الأبعاد وتعرضها آنياً باستخدام توزيعات غاوسية.",
+    "officialSource": "https://github.com/graphdeco-inria/gaussian-splatting",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "nerfstudio": {
+    "fr": "Framework ouvert de recherche et de développement de champs de rayonnement neuronaux (NeRF) et de méthodes de reconstruction 3D.",
+    "en": "Open research framework for neural radiance fields (NeRF) and 3D reconstruction methods.",
+    "ar": "إطار بحثي مفتوح المصدر لتطوير حقول الإشعاع العصبية (NeRF) وتقنيات إعادة بناء المشاهد ثلاثية الأبعاد.",
+    "officialSource": "https://docs.nerf.studio/",
+    "sourceReviewedAt": "2026-11-23"
+  }
+}

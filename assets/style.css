@@ -1279,3 +1279,12 @@ body{background:var(--bg)}
 :root[dir=rtl] .arabic-filter-button:focus-visible{outline:2px solid var(--cyan);outline-offset:2px}
 :root[dir=rtl] .research-cover p,:root[dir=rtl] .research-note{text-align:right;line-height:1.85}
 :root[dir=rtl] .research-sources a{unicode-bidi:isolate}
+
+
+/* Official-source metadata: separate documentation evidence from quality certification. */
+.editorial-source-reference{display:flex;flex-direction:column;gap:5px;overflow-wrap:anywhere}
+.editorial-source-reference strong{font-weight:600}
+.editorial-source-reference a{word-break:break-word}
+.editorial-source-reference small{font-size:11px;color:var(--muted);line-height:1.55}
+:root[dir=rtl] .editorial-source-reference{text-align:right;direction:rtl}
+:root[dir=rtl] .editorial-source-reference a{direction:ltr;unicode-bidi:isolate;text-align:right}
