@@ -167,5 +167,154 @@
     "ar": "إطار بحثي مفتوح المصدر لتطوير حقول الإشعاع العصبية (NeRF) وتقنيات إعادة بناء المشاهد ثلاثية الأبعاد.",
     "officialSource": "https://docs.nerf.studio/",
     "sourceReviewedAt": "2026-11-23"
+  },
+  "dataiku": {
+    "fr": "Plateforme d'IA pour entreprises combinant préparation et analyse des données, apprentissage automatique, agents et gouvernance des projets.",
+    "en": "Enterprise AI platform combining data preparation and analytics, machine learning, agents and project governance.",
+    "ar": "منصة ذكاء اصطناعي للمؤسسات تجمع إعداد البيانات وتحليلها وتعلم الآلة والوكلاء وحوكمة المشاريع.",
+    "officialSource": "https://www.dataiku.com/product",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "qlik-staige": {
+    "fr": "Ensemble de capacités d'IA de Qlik pour l'analytique, l'exploration de données et les usages assistés par l'intelligence artificielle.",
+    "en": "Qlik AI capabilities for analytics, data exploration and AI-assisted enterprise workflows.",
+    "ar": "مجموعة قدرات ذكاء اصطناعي من Qlik لتحليل البيانات واستكشافها ودعم سير العمل في المؤسسات.",
+    "officialSource": "https://www.qlik.com/us/news/company/press-room/press-releases/qlik-announces-qlik-staige",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "tableau-ai": {
+    "fr": "Fonctions d'IA de Tableau, notamment Tableau Pulse et son agent, pour synthétiser les indicateurs et explorer les données en langage naturel.",
+    "en": "Tableau AI features including Tableau Pulse and its agent, for metric summaries and natural-language data exploration.",
+    "ar": "وظائف ذكاء اصطناعي من Tableau، ومنها Tableau Pulse ووكيله، لتلخيص المؤشرات واستكشاف البيانات باللغة الطبيعية.",
+    "officialSource": "https://help.tableau.com/current/online/en-us/pulse_ask_discover_qa.htm",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "databricks-ai-bi": {
+    "fr": "Suite d'analyse Databricks AI/BI avec tableaux de bord et exploration conversationnelle des données grâce à Genie.",
+    "en": "Databricks AI/BI analytics with dashboards and conversational data exploration using Genie.",
+    "ar": "مجموعة لتحليلات الأعمال من Databricks تشمل لوحات المعلومات والاستكشاف الحواري للبيانات عبر Genie.",
+    "officialSource": "https://docs.databricks.com/gcp/en/ai-bi/concepts",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "snowflake-cortex": {
+    "fr": "Fonctions d'IA de Snowflake utilisables notamment en SQL pour traiter, extraire ou analyser des contenus textuels et visuels dans l'environnement de données.",
+    "en": "Snowflake AI functions available through SQL for processing, extracting and analyzing text and image data.",
+    "ar": "وظائف ذكاء اصطناعي ضمن Snowflake يمكن استخدامها عبر SQL لمعالجة النصوص والصور واستخراج معلومات منها وتحليلها.",
+    "officialSource": "https://docs.snowflake.com/en/user-guide/snowflake-cortex/aisql",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "h2o-ai": {
+    "fr": "Plateforme et outils H2O pour l'apprentissage automatique, dont Driverless AI qui automatise plusieurs étapes de création de modèles prédictifs.",
+    "en": "H2O machine learning tools, including Driverless AI for automating steps in predictive model development.",
+    "ar": "منصة وأدوات لتعلم الآلة من H2O، تتضمن Driverless AI لأتمتة مراحل من بناء النماذج التنبؤية.",
+    "officialSource": "https://docs.h2o.ai/driverless-ai/latest-stable/docs/userguide/index.html",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "rossum": {
+    "fr": "Plateforme de traitement intelligent des documents transactionnels, de la collecte à l'extraction et à la validation des données.",
+    "en": "Intelligent processing platform for transactional documents, from collection through extraction and validation.",
+    "ar": "منصة لمعالجة المستندات التجارية آليًا، من جمع الملفات إلى استخراج البيانات والتحقق منها.",
+    "officialSource": "https://rossum.ai/intelligent-document-processing/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "veryfi": {
+    "fr": "Services et API d'OCR pour extraire des données structurées de reçus, factures et autres documents professionnels.",
+    "en": "OCR services and APIs for extracting structured data from receipts, invoices and other business documents.",
+    "ar": "خدمات وواجهات برمجية للتعرف البصري على النصوص واستخراج بيانات منظمة من الإيصالات والفواتير والمستندات المهنية.",
+    "officialSource": "https://docs.veryfi.com/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "mindee": {
+    "fr": "API de reconnaissance de documents et d'OCR permettant de créer des modèles d'extraction et de récupérer du texte ou des champs structurés.",
+    "en": "Document recognition and OCR API for configuring extraction models and retrieving text or structured fields.",
+    "ar": "واجهة برمجية للتعرف على المستندات وقراءة النصوص وإنشاء نماذج لاستخراج الحقول والبيانات المنظمة.",
+    "officialSource": "https://docs.mindee.com/getting-started/key-features",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "docsumo": {
+    "fr": "Solution de traitement documentaire automatisant la classification, l'extraction de champs et de tableaux et la vérification des données.",
+    "en": "Document processing solution automating classification, extraction of fields and tables, and data verification.",
+    "ar": "حل لمعالجة المستندات آليًا يشمل التصنيف واستخراج الحقول والجداول ومراجعة البيانات.",
+    "officialSource": "https://support.docsumo.com/docs/document-processing",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "unstructured": {
+    "fr": "Outils pour convertir des documents de formats variés en données structurées et exploitables dans des chaînes de traitement et de RAG.",
+    "en": "Tools to transform multiple document formats into structured information for processing and RAG pipelines.",
+    "ar": "أدوات لتحويل المستندات بمختلف صيغها إلى بيانات منظمة يمكن استخدامها في المعالجة وأنظمة التوليد المعزز بالاسترجاع.",
+    "officialSource": "https://www.unstructured.io/pricing",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "llamaparse": {
+    "fr": "Plateforme LlamaIndex de lecture de documents complexes, dont PDF et scans, avec extraction en Markdown ou JSON et fonctions de classification.",
+    "en": "LlamaIndex document platform for parsing complex PDFs and scans into Markdown or JSON and extracting structured fields.",
+    "ar": "منصة من LlamaIndex لمعالجة المستندات المعقدة وملفات PDF والصور الممسوحة وتحويلها إلى Markdown أو JSON واستخراج البيانات المنظمة.",
+    "officialSource": "https://developers.llamaindex.ai/llamaparse/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "chatpdf": {
+    "fr": "Assistant permettant de poser des questions sur des fichiers PDF et d'autres documents et d'explorer leurs contenus dans une interface de dialogue.",
+    "en": "Assistant for asking questions about PDFs and other documents and exploring their contents in a chat interface.",
+    "ar": "مساعد يتيح طرح الأسئلة حول ملفات PDF ومستندات أخرى واستكشاف محتواها عبر واجهة محادثة.",
+    "officialSource": "https://www.chatpdf.com/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "adobe-acrobat-ai-assistant": {
+    "fr": "Assistant d'Adobe Acrobat pour résumer des PDF et répondre à des questions sur leur contenu, avec renvois vers les passages sources.",
+    "en": "Adobe Acrobat assistant for summarizing PDFs and answering document questions with references to source passages.",
+    "ar": "مساعد ضمن Adobe Acrobat لتلخيص ملفات PDF والإجابة عن الأسئلة المتعلقة بها مع الإشارة إلى المقاطع المصدرية.",
+    "officialSource": "https://helpx.adobe.com/acrobat/desktop/use-acrobat-ai/generative-ai-features/ai-get-answers.html",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "realityscan": {
+    "fr": "Logiciel de photogrammétrie d'Epic Games, anciennement RealityCapture, pour reconstruire des modèles 3D et des nuages de points à partir d'images ou de relevés laser.",
+    "en": "Epic Games photogrammetry software, formerly RealityCapture, reconstructing 3D models and point clouds from photographs or laser scans.",
+    "ar": "برنامج للتصوير المساحي من Epic Games كان يُعرف باسم RealityCapture، يعيد بناء مجسمات ثلاثية الأبعاد وسحب نقاط من الصور أو المسح الليزري.",
+    "officialSource": "https://www.realityscan.com/features?lang=en-US",
+    "currentName": "RealityScan (anciennement RealityCapture)",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "kaedim": {
+    "fr": "Service de production d'objets 3D à partir d'images, combinant modèles d'apprentissage automatique et intervention d'une équipe artistique.",
+    "en": "3D asset production from reference images, combining machine learning with an in-house artist team.",
+    "ar": "خدمة لإنشاء أصول ثلاثية الأبعاد من الصور المرجعية تجمع تعلم الآلة مع مراجعة فريق فني متخصص.",
+    "officialSource": "https://docs.kaedim3d.com/welcome/how-kaedim-works",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "wonder-studio": {
+    "fr": "Ancienne dénomination d'Autodesk Flow Studio, outil de VFX qui aide à animer et intégrer des personnages numériques dans des vidéos réelles.",
+    "en": "Former name of Autodesk Flow Studio, a VFX tool for animating and compositing digital characters into live-action footage.",
+    "ar": "الاسم السابق لأداة Autodesk Flow Studio للمؤثرات البصرية، التي تساعد على تحريك الشخصيات الرقمية وإدماجها في الفيديو الواقعي.",
+    "officialSource": "https://help.wonderdynamics.com/working-with-wonder-studio-getting-started/",
+    "currentName": "Autodesk Flow Studio (anciennement Wonder Studio)",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "google-flow": {
+    "fr": "Studio créatif de Google Labs pour concevoir des vidéos, images et effets visuels avec des outils de génération assistée par IA.",
+    "en": "Google Labs creative studio for producing videos, images and visual effects with AI-assisted generation tools.",
+    "ar": "استوديو إبداعي من Google Labs لتصميم الفيديوهات والصور والمؤثرات البصرية بأدوات توليد مدعومة بالذكاء الاصطناعي.",
+    "officialSource": "https://labs.google/fx/tools/flow",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "meta-llama": {
+    "fr": "Famille de modèles de langage développée par Meta, accompagnée de ressources officielles pour le téléchargement, l'inférence et l'adaptation des modèles sous leurs licences.",
+    "en": "Meta language model family with official resources for obtaining, running and adapting the models under their licenses.",
+    "ar": "عائلة نماذج لغوية من Meta تتوفر معها موارد رسمية للتنزيل والتشغيل والتخصيص وفق شروط التراخيص.",
+    "officialSource": "https://github.com/meta-llama/llama-models",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "deepseek": {
+    "fr": "Famille de modèles et services DeepSeek destinés notamment aux usages conversationnels et au développement via des API.",
+    "en": "DeepSeek model family and services for conversational applications and integration through APIs.",
+    "ar": "عائلة نماذج وخدمات من DeepSeek للمحادثة وتطوير التطبيقات عبر الواجهات البرمجية.",
+    "officialSource": "https://api-docs.deepseek.com/en/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "qwen": {
+    "fr": "Famille de modèles multilingues d'Alibaba Qwen pour des applications textuelles et d'autres modalités, avec des ressources pour les développeurs.",
+    "en": "Alibaba Qwen multilingual model family for text and other modalities, with developer resources.",
+    "ar": "عائلة نماذج متعددة اللغات من Alibaba Qwen للتطبيقات النصية ووسائط أخرى مع موارد للمطورين.",
+    "officialSource": "https://qwenlm.github.io/blog/qwen/",
+    "sourceReviewedAt": "2026-11-23"
   }
 }
