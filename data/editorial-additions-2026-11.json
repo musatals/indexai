@@ -1041,5 +1041,182 @@
     "ar": "مكتبة مفتوحة المصدر لفحص جودة البيانات وتقييم أنظمة تعلم الآلة والذكاء الاصطناعي التوليدي ومراقبتها.",
     "officialSource": "https://github.com/evidentlyai/evidently",
     "sourceReviewedAt": "2026-11-23"
+  },
+  "google-vertex-ai": {
+    "fr": "Ancienne plateforme Vertex AI, désormais intégrée à Gemini Enterprise Agent Platform pour les modèles, le développement et le déploiement d'agents.",
+    "en": "Former Vertex AI platform, now part of Gemini Enterprise Agent Platform for models, development and agent deployment.",
+    "ar": "منصة Vertex AI السابقة، أصبحت ضمن Gemini Enterprise Agent Platform للوصول إلى النماذج وتطوير الوكلاء ونشرهم.",
+    "officialSource": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/vertex-ai-name-changes",
+    "sourceReviewedAt": "2026-11-23",
+    "currentName": "Gemini Enterprise Agent Platform"
+  },
+  "amazon-bedrock": {
+    "fr": "Service AWS pour accéder à des modèles de fondation et développer des applications ou agents d'IA générative via des API.",
+    "en": "AWS service for accessing foundation models and building generative AI applications or agents through APIs.",
+    "ar": "خدمة من AWS للوصول إلى النماذج الأساسية وإنشاء تطبيقات أو وكلاء ذكاء اصطناعي توليدي عبر واجهات برمجية.",
+    "officialSource": "https://docs.aws.amazon.com/bedrock/latest/userguide/what-is-bedrock.html",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "azure-ai-foundry": {
+    "fr": "Ancienne appellation Microsoft de la plateforme désormais nommée Microsoft Foundry, destinée à créer, évaluer et gérer des applications et agents IA.",
+    "en": "Former Microsoft platform name, now Microsoft Foundry, for building, evaluating and managing AI applications and agents.",
+    "ar": "التسمية السابقة لمنصة Microsoft Foundry المخصصة لبناء تطبيقات الذكاء الاصطناعي ووكلائه وتقييمها وإدارتها.",
+    "officialSource": "https://learn.microsoft.com/en-us/azure/foundry/what-is-foundry",
+    "sourceReviewedAt": "2026-11-23",
+    "currentName": "Microsoft Foundry"
+  },
+  "ibm-watsonx-ai": {
+    "fr": "Environnement IBM pour expérimenter avec les modèles de fondation, préparer des instructions et déployer des solutions d'IA.",
+    "en": "IBM environment for experimenting with foundation models, creating prompts and deploying AI solutions.",
+    "ar": "بيئة من IBM لتجربة النماذج الأساسية وإعداد الموجّهات ونشر حلول الذكاء الاصطناعي.",
+    "officialSource": "https://www.ibm.com/docs/en/watsonx/saas?topic=developing-generative-ai-solutions",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "together-ai": {
+    "fr": "Plateforme de services d'inférence, d'hébergement et d'entraînement de modèles d'IA accessibles par API.",
+    "en": "AI model inference, hosting and training platform accessible through APIs.",
+    "ar": "منصة لخدمات تشغيل نماذج الذكاء الاصطناعي واستضافتها وتدريبها عبر واجهات برمجية.",
+    "officialSource": "https://www.together.ai/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "fireworks-ai": {
+    "fr": "Plateforme d'inférence et d'adaptation de modèles d'IA avec API et offres d'exécution sans serveur ou dédiées.",
+    "en": "AI inference and model adaptation platform with APIs and serverless or dedicated deployment options.",
+    "ar": "منصة لتشغيل نماذج الذكاء الاصطناعي وتكييفها عبر واجهات برمجية وخيارات استضافة بلا خادم أو مخصصة.",
+    "officialSource": "https://docs.fireworks.ai/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "groqcloud": {
+    "fr": "Plateforme Groq pour appeler des modèles d'IA hébergés via des API et les intégrer à des applications.",
+    "en": "Groq's platform for calling hosted AI models through APIs and integrating them into applications.",
+    "ar": "منصة من Groq لاستدعاء نماذج الذكاء الاصطناعي المستضافة عبر واجهات برمجية ودمجها في التطبيقات.",
+    "officialSource": "https://console.groq.com/docs/overview",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "openrouter": {
+    "fr": "Interface unique permettant de découvrir et d'appeler des modèles d'IA issus de différents fournisseurs.",
+    "en": "Single API for discovering and calling AI models from multiple providers.",
+    "ar": "واجهة برمجية موحدة لاكتشاف نماذج الذكاء الاصطناعي واستدعائها من مزودين متعددين.",
+    "officialSource": "https://openrouter.ai/docs/quickstart",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "jan": {
+    "fr": "Application de bureau permettant de télécharger et d'utiliser des modèles IA localement, avec options d'assistants et d'API.",
+    "en": "Desktop app for downloading and running AI models locally, with assistant and API features.",
+    "ar": "تطبيق سطح مكتب لتنزيل نماذج الذكاء الاصطناعي وتشغيلها محليًا، مع أدوات للمساعدين والواجهات البرمجية.",
+    "officialSource": "https://docs.jan.ai/desktop/quickstart",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "gpt4all": {
+    "fr": "Application pour exécuter des modèles de langage sur ordinateur et interroger des fichiers locaux avec LocalDocs.",
+    "en": "Application for running language models on a computer and querying local files using LocalDocs.",
+    "ar": "تطبيق لتشغيل النماذج اللغوية على الحاسوب والاستفسار عن الملفات المحلية باستخدام LocalDocs.",
+    "officialSource": "https://docs.gpt4all.io/gpt4all_desktop/quickstart.html",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "open-webui": {
+    "fr": "Interface web auto-hébergeable pour converser avec des modèles locaux ou distants et utiliser des documents dans des flux RAG.",
+    "en": "Self-hosted web interface for chatting with local or remote models and using documents in RAG workflows.",
+    "ar": "واجهة ويب قابلة للاستضافة الذاتية للمحادثة مع نماذج محلية أو بعيدة واستخدام المستندات في أنظمة RAG.",
+    "officialSource": "https://docs.openwebui.com/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "anythingllm": {
+    "fr": "Espace de travail avec des modèles de langage et des documents privés, disponible pour usage local ou collaboratif.",
+    "en": "Workspace for language models and private documents, available for local or collaborative use.",
+    "ar": "مساحة عمل للنماذج اللغوية والمستندات الخاصة، متاحة للاستخدام المحلي أو التعاوني.",
+    "officialSource": "https://docs.anythingllm.com/installation-desktop/overview",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "localai": {
+    "fr": "Serveur open source pour faire fonctionner divers modèles sur son propre matériel via des API compatibles avec les formats répandus.",
+    "en": "Open-source server for running multiple models on private hardware through familiar API formats.",
+    "ar": "خادم مفتوح المصدر لتشغيل نماذج متنوعة على الأجهزة الخاصة عبر واجهات برمجية متوافقة مع صيغ شائعة.",
+    "officialSource": "https://localai.io/docs/overview/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "sglang": {
+    "fr": "Infrastructure open source de service d'inférence pour modèles de langage et multimodaux destinés à la production.",
+    "en": "Open-source inference serving framework for language and multimodal models in production.",
+    "ar": "بنية مفتوحة المصدر لتقديم خدمات الاستدلال للنماذج اللغوية ومتعددة الوسائط في بيئات الإنتاج.",
+    "officialSource": "https://sgl-project.github.io/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "tensorrt-llm": {
+    "fr": "Bibliothèque NVIDIA pour accélérer et optimiser l'inférence des grands modèles de langage sur GPU NVIDIA.",
+    "en": "NVIDIA library for accelerating and optimizing large language model inference on NVIDIA GPUs.",
+    "ar": "مكتبة من NVIDIA لتسريع تشغيل النماذج اللغوية الكبيرة وتحسينه على معالجات الرسوميات من إنفيديا.",
+    "officialSource": "https://nvidia.github.io/TensorRT-LLM/overview.html",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "mlx": {
+    "fr": "Cadre numérique et d'apprentissage automatique optimisé pour les appareils Apple Silicon.",
+    "en": "Numerical computing and machine learning framework optimized for Apple silicon.",
+    "ar": "إطار للحوسبة العددية وتعلم الآلة مصمم للعمل بكفاءة على أجهزة Apple Silicon.",
+    "officialSource": "https://ml-explore.github.io/mlx/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "milvus": {
+    "fr": "Base de données vectorielle open source pour indexer des représentations numériques et réaliser des recherches par similarité.",
+    "en": "Open-source vector database for indexing embeddings and running similarity search.",
+    "ar": "قاعدة بيانات متجهية مفتوحة المصدر لفهرسة التمثيلات العددية والبحث بالتشابه.",
+    "officialSource": "https://milvus.io/docs/overview.md",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "chroma": {
+    "fr": "Base de données de récupération d'informations stockant des embeddings et métadonnées pour la recherche sémantique.",
+    "en": "Retrieval database storing embeddings and metadata for semantic search.",
+    "ar": "قاعدة بيانات لاسترجاع المعلومات تخزن التمثيلات المتجهية والبيانات الوصفية للبحث الدلالي.",
+    "officialSource": "https://docs.trychroma.com/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "lancedb": {
+    "fr": "Base de données de recherche vectorielle adaptée aux applications IA multimodales et aux données conservées localement ou à distance.",
+    "en": "Vector search database for multimodal AI applications and data stored locally or remotely.",
+    "ar": "قاعدة بيانات للبحث المتجهي في تطبيقات الذكاء الاصطناعي متعددة الوسائط، تدعم التخزين المحلي والبعيد.",
+    "officialSource": "https://docs.lancedb.com/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "vespa": {
+    "fr": "Plateforme de recherche combinant interrogation lexicale, recherche vectorielle et classement des résultats.",
+    "en": "Search platform combining lexical queries, vector retrieval and result ranking.",
+    "ar": "منصة بحث تجمع الاستعلامات النصية والاسترجاع المتجهي وترتيب النتائج.",
+    "officialSource": "https://docs.vespa.ai/en/learn/tutorials/hybrid-search.html",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "elasticsearch": {
+    "fr": "Moteur de recherche et d'analyse prenant en charge l'indexation de textes, la recherche vectorielle et sémantique.",
+    "en": "Search and analytics engine supporting text indexing, vector search and semantic retrieval.",
+    "ar": "محرك للبحث والتحليل يدعم فهرسة النصوص والبحث المتجهي والاسترجاع الدلالي.",
+    "officialSource": "https://www.elastic.co/docs/solutions/search/vector",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "opensearch": {
+    "fr": "Plateforme ouverte de recherche et d'analyse de données, avec fonctions de recherche classique, vectorielle et neuronale.",
+    "en": "Open-source search and analytics platform with traditional, vector and neural search.",
+    "ar": "منصة مفتوحة المصدر للبحث وتحليل البيانات تدعم البحث التقليدي والمتجهي والعصبي.",
+    "officialSource": "https://docs.opensearch.org/latest/vector-search/getting-started/concepts/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "haystack": {
+    "fr": "Cadre open source pour assembler des pipelines documentaires, des systèmes RAG et des agents à partir de composants modulaires.",
+    "en": "Open-source framework for assembling document pipelines, RAG systems and agents from modular components.",
+    "ar": "إطار مفتوح المصدر لبناء مسارات معالجة المستندات وأنظمة RAG والوكلاء باستخدام مكونات قابلة للتركيب.",
+    "officialSource": "https://docs.haystack.deepset.ai/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "ragflow": {
+    "fr": "Application open source de génération augmentée par récupération, avec analyse et segmentation de documents.",
+    "en": "Open-source retrieval-augmented generation application with document parsing and chunking.",
+    "ar": "تطبيق مفتوح المصدر للتوليد المعزز بالاسترجاع، مع تحليل المستندات وتقسيمها إلى مقاطع.",
+    "officialSource": "https://ragflow.io/docs",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "graphrag": {
+    "fr": "Projet Microsoft de RAG fondé sur les graphes de connaissances extraits de corpus pour faciliter recherche et synthèse.",
+    "en": "Microsoft RAG project based on knowledge graphs extracted from corpora for retrieval and synthesis.",
+    "ar": "مشروع من مايكروسوفت يعتمد على الرسوم البيانية المعرفية المستخرجة من مجموعات الوثائق لدعم البحث والتلخيص في أنظمة RAG.",
+    "officialSource": "https://microsoft.github.io/graphrag/",
+    "sourceReviewedAt": "2026-11-23"
   }
 }
