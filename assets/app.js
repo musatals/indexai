@@ -70,7 +70,7 @@ let arabicLoad=null;
 const applyArabicDescriptions=()=>{for(const t of [...db.featured,...db.tools])if(arabicDescriptions[t.slug])t.descriptionAr=arabicDescriptions[t.slug];};
 async function ensureArabic(){
  if(arabicLoad)return arabicLoad;
- arabicLoad=Promise.all([import('/assets/ar-i18n.js?v=ar-content-20261123'),fetch('/data/tool-descriptions-ar.json?v=ar-content-20261123').then(r=>r.ok?r.json():{}).catch(()=>({}))]).then(([m,descriptions])=>{arabicTranslations=m.translations||{};arabicAliases=m.aliases||{};arabicDescriptions=descriptions;applyArabicDescriptions();}).catch(error=>{arabicLoad=null;console.warn('Arabic translations unavailable',error);throw error;});
+ arabicLoad=Promise.all([import('/assets/ar-i18n.js?v=arabic-profiles-phase3-20261123'),fetch('/data/tool-descriptions-ar.json?v=arabic-profiles-phase3-20261123').then(r=>r.ok?r.json():{}).catch(()=>({}))]).then(([m,descriptions])=>{arabicTranslations=m.translations||{};arabicAliases=m.aliases||{};arabicDescriptions=descriptions;applyArabicDescriptions();}).catch(error=>{arabicLoad=null;console.warn('Arabic translations unavailable',error);throw error;});
  return arabicLoad;
 }
 const T=(fr,en)=>state.lang==='ar'?(arabicTranslations[fr]||en):state.lang==='fr'?fr:en;
