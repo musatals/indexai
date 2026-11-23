@@ -1262,3 +1262,11 @@ body{background:var(--bg)}
  :root[dir=rtl] .top-actions{gap:4px}
  :root[dir=rtl] .hero h1{line-height:1.45}
 }
+
+/* Arabic edition: keep untranslated source text legible in its natural direction. */
+:root[dir=rtl] .tool-card-summary[lang=en],
+:root[dir=rtl] .editorial-intro[lang=en]{direction:ltr;text-align:left;unicode-bidi:plaintext}
+:root[dir=rtl] .arabic-coverage-note{direction:rtl;text-align:right;margin:0 0 18px;padding:11px 15px;background:var(--surface);border:1px solid var(--stroke);border-radius:10px;line-height:1.8}
+:root[dir=rtl] .tool-card-summary[lang=ar],
+:root[dir=rtl] .editorial-intro[lang=ar]{direction:rtl;text-align:right;line-height:1.85}
+:root[dir=rtl] .tool-card-summary{overflow-wrap:anywhere}
