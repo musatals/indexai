@@ -9,7 +9,7 @@
     "descriptionFr": "Catégorie du catalogue initial : Assistants généralistes.",
     "descriptionEn": "Category of the source inventory: General AI assistants.",
     "ar": "المساعدون العامّون",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال المساعدون العامّون، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "مساعدون للمحادثة والكتابة والتعلّم والتحليل، مع وظائف متنوعة تختلف حسب الأداة وخطتها."
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@
     "descriptionFr": "Catégorie du catalogue initial : Recherche web et réponses.",
     "descriptionEn": "Category of the source inventory: AI web search.",
     "ar": "البحث على الويب والإجابات",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال البحث على الويب والإجابات، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "أدوات للعثور على المعلومات عبر الإنترنت وصياغة إجابات مع روابط إلى المصادر عند توفرها."
   },
   {
     "id": 3,
@@ -33,7 +33,7 @@
     "descriptionFr": "Catégorie du catalogue initial : Recherche académique et science.",
     "descriptionEn": "Category of the source inventory: Academic research.",
     "ar": "البحث الأكاديمي والعلوم",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال البحث الأكاديمي والعلوم، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "منصات لاستكشاف الأدبيات العلمية وتحليل الأوراق والاستشهادات وإعداد مراجعات البحث."
   },
   {
     "id": 4,
@@ -45,7 +45,7 @@
     "descriptionFr": "Catégorie du catalogue initial : Rédaction et correction.",
     "descriptionEn": "Category of the source inventory: Writing and editing.",
     "ar": "الكتابة والتدقيق",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال الكتابة والتدقيق، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "مساعدات للكتابة وإعادة الصياغة والتدقيق الإملائي والنحوي وتحسين الأسلوب."
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@
     "descriptionFr": "Catégorie du catalogue initial : Traduction et localisation.",
     "descriptionEn": "Category of the source inventory: Translation and localization.",
     "ar": "الترجمة والتوطين",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال الترجمة والتوطين، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "خدمات لترجمة النصوص والوثائق وتوطين المواقع والبرامج والوسائط بين اللغات."
   },
   {
     "id": 6,
@@ -69,7 +69,7 @@
     "descriptionFr": "Catégorie du catalogue initial : Images génératives.",
     "descriptionEn": "Category of the source inventory: Image generation.",
     "ar": "توليد الصور",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال توليد الصور، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "نماذج ومنصات لتحويل الأوصاف النصية والأفكار إلى صور ورسوم بصرية."
   },
   {
     "id": 7,
@@ -81,7 +81,7 @@
     "descriptionFr": "Catégorie du catalogue initial : Retouche et restauration d’images.",
     "descriptionEn": "Category of the source inventory: Image editing and restoration.",
     "ar": "تحرير الصور وترميمها",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال تحرير الصور وترميمها، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "أدوات لتحسين الصور وترميمها وعزل الخلفيات وتعديل العناصر وزيادة الدقة."
   },
   {
     "id": 8,
@@ -93,7 +93,7 @@
     "descriptionFr": "Catégorie du catalogue initial : Vidéo générative.",
     "descriptionEn": "Category of the source inventory: Video generation.",
     "ar": "توليد الفيديو",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال توليد الفيديو، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "منصات ونماذج لإنشاء مشاهد فيديو انطلاقًا من النصوص أو الصور أو المراجع."
   },
   {
     "id": 9,
@@ -105,7 +105,7 @@
     "descriptionFr": "Catégorie du catalogue initial : Montage vidéo et clips.",
     "descriptionEn": "Category of the source inventory: Video editing and clips.",
     "ar": "تحرير الفيديو والمقاطع",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال تحرير الفيديو والمقاطع، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "محررات لتركيب المقاطع وقصها وإضافة الترجمة والمؤثرات وتحسين الإنتاج."
   },
   {
     "id": 10,
@@ -117,7 +117,7 @@
     "descriptionFr": "Catégorie du catalogue initial : Avatars, présentateurs et doublage.",
     "descriptionEn": "Category of the source inventory: AI avatars and dubbing.",
     "ar": "الصور الرمزية والتقديم والدبلجة",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال الصور الرمزية والتقديم والدبلجة، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "خدمات لإنشاء مقدّمين افتراضيين وشخصيات متحركة ودبلجة الفيديو بلغات مختلفة."
   },
   {
     "id": 11,
@@ -129,7 +129,7 @@
     "descriptionFr": "Catégorie du catalogue initial : Voix et synthèse vocale.",
     "descriptionEn": "Category of the source inventory: Text-to-speech and voice.",
     "ar": "الأصوات والتوليد الصوتي",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال الأصوات والتوليد الصوتي، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "تقنيات لتحويل النصوص إلى كلام طبيعي وإنشاء أصوات اصطناعية ومعالجتها."
   },
   {
     "id": 12,
@@ -141,7 +141,7 @@
     "descriptionFr": "Catégorie du catalogue initial : Transcription et réunions.",
     "descriptionEn": "Category of the source inventory: Transcription and meetings.",
     "ar": "النسخ النصي والاجتماعات",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال النسخ النصي والاجتماعات، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "أدوات لتحويل التسجيلات إلى نصوص وتلخيص الاجتماعات والبحث في محاضرها."
   },
   {
     "id": 13,
@@ -153,7 +153,7 @@
     "descriptionFr": "Catégorie du catalogue initial : Musique et composition.",
     "descriptionEn": "Category of the source inventory: Music and composition.",
     "ar": "الموسيقى والتأليف",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال الموسيقى والتأليف، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "منصات لتأليف الموسيقى وتوليد المقاطع وفصل الصوتيات ومعالجتها."
   },
   {
     "id": 14,
@@ -165,7 +165,7 @@
     "descriptionFr": "Catégorie du catalogue initial : Audio, podcasts et traitement.",
     "descriptionEn": "Category of the source inventory: Audio and podcasts.",
     "ar": "الصوت والبودكاست والمعالجة",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال الصوت والبودكاست والمعالجة، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "خدمات لتحسين جودة الصوت وتحرير البودكاست وتنظيف التسجيلات."
   },
   {
     "id": 15,
@@ -177,7 +177,7 @@
     "descriptionFr": "Catégorie du catalogue initial : Design graphique et branding.",
     "descriptionEn": "Category of the source inventory: Graphic design and branding.",
     "ar": "التصميم الجرافيكي والهوية البصرية",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال التصميم الجرافيكي والهوية البصرية، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "أدوات لتصميم الهويات البصرية والشعارات والملصقات والمواد الإبداعية."
   },
   {
     "id": 16,
@@ -189,7 +189,7 @@
     "descriptionFr": "Catégorie du catalogue initial : Présentations et infographies.",
     "descriptionEn": "Category of the source inventory: Presentations and infographics.",
     "ar": "العروض التقديمية والرسوم المعلوماتية",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال العروض التقديمية والرسوم المعلوماتية، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "منصات لإنشاء عروض تقديمية ومخططات ورسومات معلوماتية انطلاقًا من الأفكار والبيانات."
   },
   {
     "id": 17,
@@ -201,7 +201,7 @@
     "descriptionFr": "Catégorie du catalogue initial : Programmation assistée.",
     "descriptionEn": "Category of the source inventory: Coding assistants.",
     "ar": "المساعدة في البرمجة",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال المساعدة في البرمجة، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "مساعدون ووكلاء لتوليد الشيفرة وفهم المشاريع واكتشاف الأخطاء وإصلاحها."
   },
   {
     "id": 18,
@@ -213,7 +213,7 @@
     "descriptionFr": "Catégorie du catalogue initial : Création de sites et applications.",
     "descriptionEn": "Category of the source inventory: App and website building.",
     "ar": "إنشاء المواقع والتطبيقات",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال إنشاء المواقع والتطبيقات، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "أدوات لبناء مواقع الويب والتطبيقات واختبارها ونشرها باستخدام واجهات مرئية أو تعليمات لغوية."
   },
   {
     "id": 19,
@@ -225,7 +225,7 @@
     "descriptionFr": "Catégorie du catalogue initial : Agents autonomes et orchestration.",
     "descriptionEn": "Category of the source inventory: AI agents and orchestration.",
     "ar": "الوكلاء المستقلون وتنسيق المهام",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال الوكلاء المستقلون وتنسيق المهام، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "أطر عمل لتنسيق الوكلاء الأذكياء وتنفيذ المهام متعددة الخطوات."
   },
   {
     "id": 20,
@@ -237,7 +237,7 @@
     "descriptionFr": "Catégorie du catalogue initial : Automatisation et intégrations.",
     "descriptionEn": "Category of the source inventory: Automation and integrations.",
     "ar": "الأتمتة والتكامل",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال الأتمتة والتكامل، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "منصات لربط التطبيقات وتنسيق الإجراءات وتكرار العمليات آليًا."
   },
   {
     "id": 21,
@@ -249,7 +249,7 @@
     "descriptionFr": "Catégorie du catalogue initial : Organisation et productivité.",
     "descriptionEn": "Category of the source inventory: Productivity and organization.",
     "ar": "التنظيم والإنتاجية",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال التنظيم والإنتاجية، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "أدوات لتدوين الملاحظات وتنظيم المشاريع والمواعيد والمستندات والعمل اليومي."
   },
   {
     "id": 22,
@@ -261,7 +261,7 @@
     "descriptionFr": "Catégorie du catalogue initial : Email et communication.",
     "descriptionEn": "Category of the source inventory: Email and communication.",
     "ar": "البريد الإلكتروني والتواصل",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال البريد الإلكتروني والتواصل، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "خدمات لصياغة الرسائل وإدارة البريد وتحسين الاتصال المؤسسي."
   },
   {
     "id": 23,
@@ -273,7 +273,7 @@
     "descriptionFr": "Catégorie du catalogue initial : Marketing et publicité.",
     "descriptionEn": "Category of the source inventory: Marketing and advertising.",
     "ar": "التسويق والإعلان",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال التسويق والإعلان، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "منصات لدعم حملات التسويق وإنتاج الإعلانات وتحليل المحتوى."
   },
   {
     "id": 24,
@@ -285,7 +285,7 @@
     "descriptionFr": "Catégorie du catalogue initial : SEO et visibilité IA.",
     "descriptionEn": "Category of the source inventory: SEO and AI visibility.",
     "ar": "تحسين الظهور في محركات البحث والذكاء الاصطناعي",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال تحسين الظهور في محركات البحث والذكاء الاصطناعي، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "حلول لتحسين ظهور المواقع والمحتوى في محركات البحث ومحركات الإجابة الذكية."
   },
   {
     "id": 25,
@@ -297,7 +297,7 @@
     "descriptionFr": "Catégorie du catalogue initial : Ventes, prospection et CRM.",
     "descriptionEn": "Category of the source inventory: Sales and CRM.",
     "ar": "المبيعات وإدارة علاقات العملاء",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال المبيعات وإدارة علاقات العملاء، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "أدوات للبحث عن العملاء المحتملين وإدارة العلاقات التجارية ومسارات البيع."
   },
   {
     "id": 26,
@@ -309,7 +309,7 @@
     "descriptionFr": "Catégorie du catalogue initial : Support client et chatbots.",
     "descriptionEn": "Category of the source inventory: Customer support and chatbots.",
     "ar": "دعم العملاء وروبوتات المحادثة",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال دعم العملاء وروبوتات المحادثة، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "أنظمة للمساعدة في الرد على العملاء وإدارة المحادثات وقنوات الدعم."
   },
   {
     "id": 27,
@@ -321,7 +321,7 @@
     "descriptionFr": "Catégorie du catalogue initial : Agents vocaux et téléphonie.",
     "descriptionEn": "Category of the source inventory: Voice agents and telephony.",
     "ar": "الوكلاء الصوتيون والاتصالات الهاتفية",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال الوكلاء الصوتيون والاتصالات الهاتفية، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "وكلاء صوتيون لإجراء المحادثات والمساعدة الهاتفية وتنفيذ مهام خدمة العملاء."
   },
   {
     "id": 28,
@@ -333,7 +333,7 @@
     "descriptionFr": "Catégorie du catalogue initial : Éducation et tutorat.",
     "descriptionEn": "Category of the source inventory: Education and tutoring.",
     "ar": "التعليم والدروس الخصوصية",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال التعليم والدروس الخصوصية، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "أدوات للتعلّم الشخصي وإعداد الدروس والمراجعة والشرح والتقييم."
   },
   {
     "id": 29,
@@ -345,7 +345,7 @@
     "descriptionFr": "Catégorie du catalogue initial : Données, BI et analytique.",
     "descriptionEn": "Category of the source inventory: Analytics and business intelligence.",
     "ar": "تحليل البيانات وذكاء الأعمال",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال تحليل البيانات وذكاء الأعمال، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "منصات لتحليل البيانات ولوحات المؤشرات وذكاء الأعمال وتفسير النتائج."
   },
   {
     "id": 30,
@@ -357,7 +357,7 @@
     "descriptionFr": "Catégorie du catalogue initial : Extraction documentaire et OCR.",
     "descriptionEn": "Category of the source inventory: Document extraction and OCR.",
     "ar": "استخراج البيانات من المستندات والتعرّف البصري على النصوص",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال استخراج البيانات من المستندات والتعرّف البصري على النصوص، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "حلول لاستخراج المعلومات من الملفات الممسوحة والمستندات وتحويل الصور إلى نصوص."
   },
   {
     "id": 31,
@@ -369,7 +369,7 @@
     "descriptionFr": "Catégorie du catalogue initial : 3D, spatial et XR.",
     "descriptionEn": "Category of the source inventory: 3D and spatial computing.",
     "ar": "الواقع الممتد والحوسبة المكانية ثلاثية الأبعاد",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال الواقع الممتد والحوسبة المكانية ثلاثية الأبعاد، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "أدوات لإنشاء مجسمات ثلاثية الأبعاد وتجارب الواقع الممتد والحوسبة المكانية."
   },
   {
     "id": 32,
@@ -381,7 +381,7 @@
     "descriptionFr": "Catégorie du catalogue initial : Architecture, immobilier et intérieur.",
     "descriptionEn": "Category of the source inventory: Architecture and real estate.",
     "ar": "العمارة والعقارات والتصميم الداخلي",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال العمارة والعقارات والتصميم الداخلي، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "خدمات لتصميم المساحات الداخلية وتصور المباني والعقارات والمشاريع المعمارية."
   },
   {
     "id": 33,
@@ -393,7 +393,7 @@
     "descriptionFr": "Catégorie du catalogue initial : Jeux vidéo et personnages.",
     "descriptionEn": "Category of the source inventory: Gaming and digital characters.",
     "ar": "ألعاب الفيديو والشخصيات الرقمية",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال ألعاب الفيديو والشخصيات الرقمية، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "أدوات لتطوير الألعاب والشخصيات الرقمية والرسوم والتحريك."
   },
   {
     "id": 34,
@@ -405,7 +405,7 @@
     "descriptionFr": "Catégorie du catalogue initial : Santé et médecine.",
     "descriptionEn": "Category of the source inventory: Healthcare and medicine.",
     "ar": "الصحة والطب",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال الصحة والطب، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "تطبيقات متخصصة لدعم العمل الطبي والبحث الصحي، مع ضرورة الالتزام بضوابط السلامة والتحقق السريري."
   },
   {
     "id": 35,
@@ -417,7 +417,7 @@
     "descriptionFr": "Catégorie du catalogue initial : Droit et conformité.",
     "descriptionEn": "Category of the source inventory: Legal and compliance.",
     "ar": "القانون والامتثال",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال القانون والامتثال، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "منصات لمراجعة الوثائق القانونية والبحث في النصوص والامتثال للمتطلبات التنظيمية."
   },
   {
     "id": 36,
@@ -429,7 +429,7 @@
     "descriptionFr": "Catégorie du catalogue initial : Finance, comptabilité et assurance.",
     "descriptionEn": "Category of the source inventory: Finance, accounting and insurance.",
     "ar": "المالية والمحاسبة والتأمين",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال المالية والمحاسبة والتأمين، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "أدوات لتحليل البيانات المالية والمحاسبة وإعداد التقارير ودعم العمليات التأمينية."
   },
   {
     "id": 37,
@@ -441,7 +441,7 @@
     "descriptionFr": "Catégorie du catalogue initial : RH, recrutement et carrières.",
     "descriptionEn": "Category of the source inventory: Human resources and careers.",
     "ar": "الموارد البشرية والتوظيف والمسارات المهنية",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال الموارد البشرية والتوظيف والمسارات المهنية، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "حلول للتوظيف وتحليل السير الذاتية وتنمية المهارات وإدارة الموارد البشرية."
   },
   {
     "id": 38,
@@ -453,7 +453,7 @@
     "descriptionFr": "Catégorie du catalogue initial : Cybersécurité et détection.",
     "descriptionEn": "Category of the source inventory: Cybersecurity and detection.",
     "ar": "الأمن السيبراني والكشف",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال الأمن السيبراني والكشف، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "منصات لرصد التهديدات الرقمية وتحليل الأحداث الأمنية ومساعدة فرق الحماية."
   },
   {
     "id": 39,
@@ -465,7 +465,7 @@
     "descriptionFr": "Catégorie du catalogue initial : Détection IA et authenticité.",
     "descriptionEn": "Category of the source inventory: AI content detection and authenticity.",
     "ar": "كشف المحتوى المولّد بالذكاء الاصطناعي والتحقق من أصالته",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال كشف المحتوى المولّد بالذكاء الاصطناعي والتحقق من أصالته، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "أدوات لفحص أصالة المحتوى وتقدير احتمال توليده آليًا؛ نتائج الكشف ليست دليلًا قاطعًا."
   },
   {
     "id": 40,
@@ -477,7 +477,7 @@
     "descriptionFr": "Catégorie du catalogue initial : E-commerce et retail.",
     "descriptionEn": "Category of the source inventory: E-commerce and retail.",
     "ar": "التجارة الإلكترونية والبيع بالتجزئة",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال التجارة الإلكترونية والبيع بالتجزئة، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "حلول لإدارة المتاجر الإلكترونية وصور المنتجات والتسويق وتجربة المشتري."
   },
   {
     "id": 41,
@@ -489,7 +489,7 @@
     "descriptionFr": "Catégorie du catalogue initial : LLM, modèles et fournisseurs.",
     "descriptionEn": "Category of the source inventory: LLMs, models and providers.",
     "ar": "نماذج اللغة الكبيرة ومزوّدوها",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال نماذج اللغة الكبيرة ومزوّدوها، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "نماذج اللغة الكبيرة والخدمات التي تتيح استخدامها وتخصيصها عبر واجهات وأدوات مختلفة."
   },
   {
     "id": 42,
@@ -501,7 +501,7 @@
     "descriptionFr": "Catégorie du catalogue initial : IA locale, inference et déploiement.",
     "descriptionEn": "Category of the source inventory: Local AI and deployment.",
     "ar": "الذكاء الاصطناعي المحلي والاستدلال والنشر",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال الذكاء الاصطناعي المحلي والاستدلال والنشر، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "برامج لتشغيل نماذج الذكاء الاصطناعي على الأجهزة المحلية وخوادم المؤسسات ونشرها."
   },
   {
     "id": 43,
@@ -513,7 +513,7 @@
     "descriptionFr": "Catégorie du catalogue initial : RAG, bases vectorielles et recherche.",
     "descriptionEn": "Category of the source inventory: RAG and vector databases.",
     "ar": "التوليد المعزّز بالاسترجاع وقواعد البيانات المتجهية",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال التوليد المعزّز بالاسترجاع وقواعد البيانات المتجهية، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "أطر وتقنيات لربط النماذج اللغوية بالمصادر وقواعد البيانات المتجهية واسترجاع المعرفة."
   },
   {
     "id": 44,
@@ -525,7 +525,7 @@
     "descriptionFr": "Catégorie du catalogue initial : MLOps, suivi et évaluation.",
     "descriptionEn": "Category of the source inventory: MLOps and evaluation.",
     "ar": "عمليات تعلم الآلة والتقييم",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال عمليات تعلم الآلة والتقييم، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "أدوات لتشغيل النماذج ومراقبتها وتقييم جودتها وإدارة دورة حياتها."
   },
   {
     "id": 45,
@@ -537,7 +537,7 @@
     "descriptionFr": "Catégorie du catalogue initial : Données, annotation et entraînement.",
     "descriptionEn": "Category of the source inventory: Data labeling and training.",
     "ar": "البيانات ووسمها والتدريب",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال البيانات ووسمها والتدريب، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "خدمات لإعداد مجموعات البيانات ووسم العينات وتنظيم التدريب والتقييم."
   },
   {
     "id": 46,
@@ -549,7 +549,7 @@
     "descriptionFr": "Catégorie du catalogue initial : Vision, robotique et edge AI.",
     "descriptionEn": "Category of the source inventory: Computer vision and robotics.",
     "ar": "الرؤية الحاسوبية والروبوتات والذكاء الطرفي",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال الرؤية الحاسوبية والروبوتات والذكاء الطرفي، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "أدوات لمعالجة الصور والفيديو في الأنظمة الروبوتية والأجهزة الطرفية."
   },
   {
     "id": 47,
@@ -561,7 +561,7 @@
     "descriptionFr": "Catégorie du catalogue initial : Agriculture, climat et géospatial.",
     "descriptionEn": "Category of the source inventory: Agri-tech and geospatial.",
     "ar": "الزراعة والمناخ والمعلومات الجغرافية",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال الزراعة والمناخ والمعلومات الجغرافية، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "تطبيقات للزراعة والمناخ ورصد الأرض والخرائط وتحليل البيانات الجغرافية."
   },
   {
     "id": 48,
@@ -573,7 +573,7 @@
     "descriptionFr": "Catégorie du catalogue initial : Voyages, loisirs et vie quotidienne.",
     "descriptionEn": "Category of the source inventory: Travel and lifestyle.",
     "ar": "السفر والترفيه والحياة اليومية",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال السفر والترفيه والحياة اليومية، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "مساعدات لتخطيط السفر واكتشاف الأنشطة وتنظيم المهام اليومية والترفيه."
   },
   {
     "id": 49,
@@ -585,7 +585,7 @@
     "descriptionFr": "Catégorie du catalogue initial : Prompts, tests et red teaming.",
     "descriptionEn": "Category of the source inventory: Prompt testing and red teaming.",
     "ar": "اختبار الموجّهات والأمان الهجومي",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال اختبار الموجّهات والأمان الهجومي، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "أدوات لتصميم الموجهات واختبار استجابات النماذج ومراجعة متانة الأنظمة."
   },
   {
     "id": 50,
@@ -597,7 +597,7 @@
     "descriptionFr": "Catégorie du catalogue initial : Annuaires et plateformes de découverte.",
     "descriptionEn": "Category of the source inventory: AI tool directories.",
     "ar": "أدلة أدوات الذكاء الاصطناعي ومنصات اكتشافها",
-    "descriptionAr": "يضم هذا التصنيف أدوات وموارد في مجال أدلة أدوات الذكاء الاصطناعي ومنصات اكتشافها، وفق التنظيم الأصلي للدليل."
+    "descriptionAr": "فهارس ومنصات تساعد على اكتشاف أدوات الذكاء الاصطناعي ومقارنتها وتنظيمها."
   },
   {
     "id": 51,
@@ -609,7 +609,7 @@
     "descriptionEn": "Personal AI agents that plan and carry out tasks under user oversight.",
     "count": 19,
     "ar": "الوكلاء الشخصيون والاستباقيون",
-    "descriptionAr": "وكلاء شخصيون يستطيعون التخطيط للمهام وتنفيذها تحت إشراف المستخدم."
+    "descriptionAr": "وكلاء شخصيون ينظمون المهام ويتابعونها وينفذون خطوات تحت إشراف المستخدم."
   },
   {
     "id": 52,
@@ -621,7 +621,7 @@
     "descriptionEn": "Agents that browse, research, interact with websites and automate web workflows.",
     "count": 14,
     "ar": "وكلاء الويب والمتصفحات المستقلة",
-    "descriptionAr": "وكلاء يتصفحون الويب ويبحثون ويتفاعلون مع المواقع ويؤتمتون إجراءات المتصفح."
+    "descriptionAr": "وكلاء للتصفح والبحث والتفاعل مع المواقع وأتمتة خطوات العمل عبر الويب."
   },
   {
     "id": 53,
@@ -633,7 +633,7 @@
     "descriptionEn": "Coding agents that analyze, change, test and deliver software.",
     "count": 18,
     "ar": "وكلاء البرمجة بالذكاء الاصطناعي",
-    "descriptionAr": "وكلاء برمجيون يحلّلون الشيفرة ويعدّلونها ويختبرونها ويساعدون على تسليم البرمجيات."
+    "descriptionAr": "وكلاء لتحليل المشاريع البرمجية وتعديل الشيفرة وتشغيل الاختبارات ودعم التسليم."
   },
   {
     "id": 54,
@@ -645,7 +645,7 @@
     "descriptionEn": "Specialized business agents for enterprise operations, service and workflows.",
     "count": 27,
     "ar": "وكلاء الأعمال والمؤسسات",
-    "descriptionAr": "وكلاء متخصصون في عمليات المؤسسات وخدمة العملاء وإجراءات العمل."
+    "descriptionAr": "وكلاء متخصصون في إجراءات العمل وخدمة العملاء والعمليات داخل المؤسسات."
   },
   {
     "id": 55,
@@ -657,6 +657,6 @@
     "descriptionEn": "Frameworks, evaluation tools, platforms and infrastructure for building AI agents.",
     "count": 23,
     "ar": "منصات إنشاء وكلاء الذكاء الاصطناعي",
-    "descriptionAr": "أطر ومنصات وأدوات تقييم وبنى تحتية لإنشاء وكلاء الذكاء الاصطناعي."
+    "descriptionAr": "منصات وأطر وأدوات مراقبة لبناء وكلاء ذكاء اصطناعي واختبارهم وتشغيلهم."
   }
 ]
