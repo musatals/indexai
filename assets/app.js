@@ -64,10 +64,12 @@ const icons = {
 };
 const ico=(name,sz=18,cls='')=>`<svg class="icon ${cls}" width="${sz}" height="${sz}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${icons[name]||icons.spark}</svg>`;
 let arabicTranslations={};
+let arabicDescriptions={};
 let arabicLoad=null;
+const applyArabicDescriptions=()=>{for(const t of [...db.featured,...db.tools])if(arabicDescriptions[t.slug])t.descriptionAr=arabicDescriptions[t.slug];};
 async function ensureArabic(){
  if(arabicLoad)return arabicLoad;
- arabicLoad=import('/assets/ar-i18n.js').then(m=>{arabicTranslations=m.translations||{};}).catch(error=>{arabicLoad=null;console.warn('Arabic translations unavailable',error);throw error;});
+ arabicLoad=Promise.all([import('/assets/ar-i18n.js'),fetch('/data/tool-descriptions-ar.json').then(r=>r.ok?r.json():{}).catch(()=>({}))]).then(([m,descriptions])=>{arabicTranslations=m.translations||{};arabicDescriptions=descriptions;applyArabicDescriptions();}).catch(error=>{arabicLoad=null;console.warn('Arabic translations unavailable',error);throw error;});
  return arabicLoad;
 }
 const T=(fr,en)=>state.lang==='ar'?(arabicTranslations[fr]||en):state.lang==='fr'?fr:en;
@@ -101,6 +103,7 @@ const category=(slug)=>db.catSlug.get(slug);
 const tool=(slug)=>db.toolSlug.get(slug);
 const cName=c=>state.lang==='ar'?(c?.ar||c?.en||c?.name):state.lang==='fr'?c.name:c.en;
 const familyName=f=>state.lang==='ar'?(f?.ar||f?.en):state.lang==='fr'?f.fr:f.en;
+const familyDescription=f=>state.lang==='ar'?(f?.descriptionAr||f?.descriptionEn):state.lang==='fr'?f.descriptionFr:f.descriptionEn;
 const inFav=t=>state.favorites.includes(t.id);
 const inComp=t=>state.compare.includes(t.id);
 const catHue=c=>({'discover':'#9a6c47','creative':'#b97965','builders':'#577d6d','business':'#bb873b','specialized':'#947c65','directory':'#826a90'})[c?.family]||'#8fcfff';
@@ -232,7 +235,7 @@ function directory(){const filteredAll=filtered(), per=24, lastPage=Math.max(1,M
  ${!items.length?`<div class="empty-state">${ico('search',32)}<h3>${T('Aucun outil trouvé','No matching tools')}</h3><p>${T('Essayez de modifier la recherche ou les filtres.','Try different keywords or filters.')}</p><button class="btn btn-secondary" data-action="reset">${T('Tout afficher','Show all')}</button></div>`:state.view==='cards'?`<div class="tools-grid">${items.map(t=>toolCard(t)).join('')}</div>`:state.view==='list'?`<div class="tools-list">${items.map(listTool).join('')}</div>`:state.view==='logos'?`<div class="logos-grid">${items.map(t=>`<a class="logo-item" href="/outils/${t.slug}/" data-nav="/outils/${t.slug}/" title="${E(t.name)}">${toolLogo(t)}<span>${E(t.name)}</span></a>`).join('')}</div>`:tableTools(items)}
  ${lastPage>1?`<nav class="pagination" aria-label="${T('Pagination des résultats','Results pagination')}"><button data-action="page" data-value="${state.page-1}" ${state.page<=1?'disabled':''}>${ico('chevron',16,'flip')} ${T('Précédent','Previous')}</button><span>${T('Page','Page')} <strong>${state.page}</strong> / ${lastPage}</span><button data-action="page" data-value="${state.page+1}" ${state.page>=lastPage?'disabled':''}>${T('Suivant','Next')} ${ico('chevron',16)}</button></nav>`:''}`;
 }
-function categoriesPage(){const f=new URLSearchParams(location.search).get('famille')||'';let groups=db.families.filter(x=>!f||x.id===f);return `${headline(T('EXPLORATION PAR DOMAINE','EXPLORE BY DOMAIN'),T('55 catégories. Une vue complète.','55 categories. One complete view.'),T('Retrouvez chaque catégorie d’origine dans un classement thématique, sans perdre les classifications initiales.','Browse every original category in a thematic grouping, preserving the source classification.'))}<div class="family-tabs"><a href="/categories/" data-nav="/categories/" class="${!f?'active':''}">${T('Toutes','All')}</a>${db.families.map(x=>`<a href="/categories/?famille=${x.id}" data-nav="/categories/?famille=${x.id}" class="${f===x.id?'active':''}">${E(familyName(x))}</a>`).join('')}</div>${groups.map(g=>{const cs=db.categories.filter(c=>c.family===g.id);return `<section class="category-section"><div class="category-section-head"><div class="family-heading-symbol family-${g.id}">${E(g.symbol)}</div><div><h2>${E(familyName(g))}</h2><p>${T(g.descriptionFr,g.descriptionEn)}</p></div><span class="count-chip">${g.count} ${T('outils','tools')}</span></div><div class="category-grid">${cs.map(catCard).join('')}</div></section>`;}).join('')}`;}
+function categoriesPage(){const f=new URLSearchParams(location.search).get('famille')||'';let groups=db.families.filter(x=>!f||x.id===f);return `${headline(T('EXPLORATION PAR DOMAINE','EXPLORE BY DOMAIN'),T('55 catégories. Une vue complète.','55 categories. One complete view.'),T('Retrouvez chaque catégorie d’origine dans un classement thématique, sans perdre les classifications initiales.','Browse every original category in a thematic grouping, preserving the source classification.'))}<div class="family-tabs"><a href="/categories/" data-nav="/categories/" class="${!f?'active':''}">${T('Toutes','All')}</a>${db.families.map(x=>`<a href="/categories/?famille=${x.id}" data-nav="/categories/?famille=${x.id}" class="${f===x.id?'active':''}">${E(familyName(x))}</a>`).join('')}</div>${groups.map(g=>{const cs=db.categories.filter(c=>c.family===g.id);return `<section class="category-section"><div class="category-section-head"><div class="family-heading-symbol family-${g.id}">${E(g.symbol)}</div><div><h2>${E(familyName(g))}</h2><p>${familyDescription(g)}</p></div><span class="count-chip">${g.count} ${T('outils','tools')}</span></div><div class="category-grid">${cs.map(catCard).join('')}</div></section>`;}).join('')}`;}
 function breadcrumbs(...crumbs){return `<nav class="breadcrumbs" aria-label="${T('Fil d’Ariane','Breadcrumb')}"><a href="/" data-nav="/">${T('Accueil','Home')}</a>${crumbs.map(([text,href])=>`${ico('chevron',13)}${href?`<a href="${href}" data-nav="${href}">${E(text)}</a>`:`<span aria-current="page">${E(text)}</span>`}`).join('')}</nav>`;}
 function dossiersPage(){
  const items=db.tools.filter(t=>t.research).sort((a,b)=>a.name.localeCompare(b.name));
@@ -339,7 +342,7 @@ function comparePage(){const query=new URLSearchParams(location.search).get('ids
  ${compareRow(T('Autres catégories','Other categories'),arr.map(t=>t.secondaryCategories.length?E(t.secondaryCategories.join(' · ')):T('Non renseignées','Not listed')))}
  ${compareRow(T('Nature','Type'),arr.map(t=>E(toolKind(t.kind))))}
  ${compareRow(T('Adresse web','Website'),arr.map(t=>t.url?`<a href="${E(t.url)}" target="_blank" rel="noopener noreferrer nofollow">${T('Site renseigné','Listed site')} ${ico('external',13)}</a>`:T('Non renseignée','Not listed')))}
- ${compareRow(T('Présentation','Overview'),arr.map(t=>t.descriptionFr?E(state.lang==='fr'?t.descriptionFr:t.descriptionEn||t.descriptionFr):`<span class="unknown">${T('Non documentée','Not documented')}</span>`))}
+ ${compareRow(T('Présentation','Overview'),arr.map(t=>t.descriptionFr?E(toolDesc(t)):`<span class="unknown">${T('Non documentée','Not documented')}</span>`))}
  ${compareRow(T('Fonctions documentées','Documented capabilities'),arr.map(t=>t.featuresFr?.length?E((state.lang==='fr'?t.featuresFr:t.featuresEn||t.featuresFr).join(' · ')):`<span class="unknown">${T('Non confirmées','Not confirmed')}</span>`))}
  ${compareRow(T('Tarification','Pricing'),arr.map(t=>t.pricing?.sourceUrl?`${E(state.lang==='fr'?t.pricing.fr:t.pricing.en)}<p><a target="_blank" rel="noopener noreferrer" href="${E(t.pricing.sourceUrl)}">${T('Source officielle','Official source')} ${ico('external',12)}</a></p>`:`<span class="unknown">${T('Non vérifiée','Not verified')}</span>`))}
  ${compareRow(T('API','API'),arr.map(()=>`<span class="unknown">${T('Non vérifiée','Not verified')}</span>`))}
@@ -411,7 +414,8 @@ function renderView(){const main=$('#mainContent');if(!main)return;let content;
  if(!db.catalogReady && !['home','categories'].includes(current.type))content=catalogLoading();else if(current.type==='home')content=home();else if(current.type==='repertoire')content=directory();else if(current.type==='agents')content=agentsPage();else if(current.type==='dossiers')content=dossiersPage();else if(current.type==='categories')content=categoriesPage();else if(current.type==='category')content=categoryPage(category(current.slug));else if(current.type==='tool')content=toolPage(tool(current.slug));else if(current.type==='besoins')content=needsPage();else if(current.type==='comparateur')content=comparePage();else if(current.type==='favoris')content=savedPage();else if(current.type==='qualite')content=qualityPage();else content=notFound();
  main.innerHTML=content;updateHomeNebula();syncLanguageLinks();document.title=(current.type==='tool'?tool(current.slug)?.name:current.type==='category'?cName(category(current.slug)||{name:'Catégorie',en:'Category'}):T({'home':'Explorer les outils IA','repertoire':'Répertoire','agents':'Agents IA','dossiers':'Dossiers documentés','categories':'Catégories','besoins':'Par besoins','comparateur':'Comparateur','favoris':'Favoris','qualite':'Sources & qualité'}[current.type]||'IndexAI',{'home':'Explore AI tools','repertoire':'Directory','agents':'AI agents','dossiers':'Researched guides','categories':'Categories','besoins':'Use cases','comparateur':'Compare','favoris':'Saved','qualite':'Sources & quality'}[current.type]||'IndexAI'))+' · IndexAI';
 }
-function render(){document.documentElement.lang=state.lang;document.documentElement.dir=state.lang==='ar'?'rtl':'ltr';document.documentElement.dataset.theme=state.theme;$('#app').innerHTML=shell();renderView();if(current.type==='repertoire'){$('#globalSearch').value=state.search;}if(current.type==='comparateur')updateCompareSearch('');syncLanguageLinks();}
+function render(){document.documentElement.lang=state.lang;document.documentElement.dir=state.lang==='ar'?'rtl':'ltr';document.documentElement.dataset.theme=state.theme;
+let meta=document.querySelector('meta[name="description"]');if(meta&&state.lang==='ar')meta.content='دليل يضم 909 أدوات ومراجع للذكاء الاصطناعي ضمن 55 تصنيفًا، مع البحث والمقارنة والاستكشاف.';$('#app').innerHTML=shell();renderView();if(current.type==='repertoire'){$('#globalSearch').value=state.search;}if(current.type==='comparateur')updateCompareSearch('');syncLanguageLinks();}
 const toast=(msg)=>{const el=$('#toast');if(!el)return;el.textContent=msg;el.classList.add('show');clearTimeout(toast.timer);toast.timer=setTimeout(()=>el.classList.remove('show'),3200)};
 function copy(s,msg){if(navigator.clipboard?.writeText)navigator.clipboard.writeText(s).then(()=>toast(msg),()=>fallbackCopy(s,msg));else fallbackCopy(s,msg)}
 function fallbackCopy(s,msg){const ta=document.createElement('textarea');ta.value=s;ta.style.position='fixed';ta.style.left='-9999px';document.body.append(ta);ta.select();try{document.execCommand('copy');toast(msg)}catch{toast(T('Copie impossible','Copy failed'))}ta.remove();}
@@ -464,6 +468,7 @@ function handleKey(e){if(e.key==='/'&&!['INPUT','TEXTAREA'].includes(document.ac
 async function bootstrap(){document.documentElement.dataset.theme=state.theme;document.documentElement.dir=state.lang==='ar'?'rtl':'ltr';if(state.lang==='ar'){try{await ensureArabic()}catch(e){state.lang='en'}}
  try{const r=await Promise.all(['categories','families','quality-report','featured-tools'].map(n=>fetch('/data/'+n+'.json').then(x=>{if(!x.ok)throw Error(n);return x.json()})));
  [db.categories,db.families,db.quality,db.featured]=r;
+ applyArabicDescriptions();
  // Show the usable catalogue immediately; editorial data arrives progressively afterwards.
  // The ordered bundles preserve the original source priority without 113 HTTP requests.
  // Only fetch the bundles needed for a selected tool. Entire editorial corpus
@@ -537,6 +542,7 @@ async function bootstrap(){document.documentElement.dataset.theme=state.theme;do
      if(!Array.isArray(entries))throw Error('Invalid tools catalog');
      db.tools=entries;
      db.tools.forEach(t=>{t.secondaryCategories=t.secondaryCategories||[]});
+     applyArabicDescriptions();
      db.toolSlug=new Map(db.tools.map(t=>[t.slug,t]));
      db.catalogReady=true;
      state.compare=state.compare.filter(id=>db.tools.some(t=>t.id===id)).slice(0,4);
