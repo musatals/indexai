@@ -512,5 +512,182 @@
     "ar": "خدمة للأتمتة تعتمد على وحدات «Applets» لربط الأحداث المشغّلة بإجراءات عبر التطبيقات.",
     "officialSource": "https://ifttt.com/explore/how-to-connect-your-first-applet",
     "sourceReviewedAt": "2026-11-23"
+  },
+  "kapwing": {
+    "fr": "Éditeur vidéo dans le navigateur avec coupe assistée par IA, sous-titrage, traduction et outils de montage fondés sur la transcription.",
+    "en": "Browser video editor with AI-assisted cutting, captions, translation and transcript-based editing.",
+    "ar": "محرر فيديو عبر المتصفح يتيح القص بمساعدة الذكاء الاصطناعي وإضافة الترجمة النصية وترجمتها وتحرير المقاطع انطلاقًا من تفريغ الكلام.",
+    "officialSource": "https://www.kapwing.com/ai",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "invideo": {
+    "fr": "Plateforme de création vidéo à partir de scripts et d'instructions, associant séquences, illustrations, voix et montage automatisé.",
+    "en": "Video creation platform turning scripts and instructions into scenes with visuals, voiceover and automated editing.",
+    "ar": "منصة لإنشاء الفيديو انطلاقًا من النصوص والتعليمات، تجمع المشاهد والمواد البصرية والتعليق الصوتي والمونتاج الآلي.",
+    "officialSource": "https://invideo.io/ai-models/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "vizard": {
+    "fr": "Outil pour extraire de courtes séquences de vidéos longues, les recadrer et préparer des clips pour les réseaux sociaux.",
+    "en": "Tool for extracting short clips from long videos, reframing them and preparing social-media video content.",
+    "ar": "أداة لاستخراج مقاطع قصيرة من الفيديوهات الطويلة وإعادة تأطيرها وتجهيزها للنشر على الشبكات الاجتماعية.",
+    "officialSource": "https://help.vizard.ai/en/articles/8767566-how-many-clips-can-ai-generate",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "adobe-premiere-pro": {
+    "fr": "Logiciel de montage professionnel intégrant des fonctions d'IA comme le montage textuel, la transcription et l'amélioration de la parole.",
+    "en": "Professional video editing software with AI features such as text-based editing, transcription and speech enhancement.",
+    "ar": "برنامج احترافي للمونتاج يضم وظائف ذكاء اصطناعي مثل التحرير انطلاقًا من النص وتفريغ الكلام وتحسين الصوت.",
+    "officialSource": "https://www.adobe.com/products/premiere/ai-video-editing.html",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "davinci-resolve": {
+    "fr": "Suite de montage, d'étalonnage, d'audio et d'effets intégrant, selon les versions, des fonctions d'IA et le DaVinci Neural Engine.",
+    "en": "Editing, color, audio and visual-effects suite with AI features and the DaVinci Neural Engine in supported editions.",
+    "ar": "مجموعة لتحرير الفيديو وتصحيح الألوان والصوت والمؤثرات، وتضم بحسب الإصدار وظائف ذكاء اصطناعي ومحرك DaVinci Neural Engine.",
+    "officialSource": "https://www.blackmagicdesign.com/products/davinciresolve",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "fathom": {
+    "fr": "Assistant de réunions qui enregistre les échanges autorisés et produit transcription, compte rendu et tâches de suivi à partir de l'audio.",
+    "en": "Meeting assistant for permitted recordings, transcripts, summaries and follow-up action items.",
+    "ar": "مساعد للاجتماعات المسجّلة بإذن المشاركين يتيح تفريغ الكلام وتلخيص النقاش وتحديد إجراءات المتابعة.",
+    "officialSource": "https://help.fathom.video/en/articles/7574785",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "granola": {
+    "fr": "Carnet de notes de réunion qui combine transcription et notes personnelles pour élaborer des comptes rendus contextualisés.",
+    "en": "Meeting notepad that combines transcription with personal notes to produce contextualized meeting records.",
+    "ar": "دفتر ملاحظات للاجتماعات يجمع تفريغ الكلام والملاحظات الشخصية لإعداد محاضر وملخصات مرتبطة بسياق النقاش.",
+    "officialSource": "https://www.granola.ai/ai-note-taker",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "assemblyai": {
+    "fr": "API de reconnaissance vocale pour convertir des fichiers et flux audio en transcriptions exploitables par des applications.",
+    "en": "Speech recognition API for transcribing recorded and real-time audio in applications.",
+    "ar": "واجهة برمجية للتعرف على الكلام وتحويل التسجيلات الصوتية والبث المباشر إلى نصوص يمكن للتطبيقات معالجتها.",
+    "officialSource": "https://www.assemblyai.com/products/speech-to-text",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "read-ai": {
+    "fr": "Service de prise de notes et de synthèse de réunions, avec transcription, décisions et actions à entreprendre.",
+    "en": "Meeting note-taking and summary service with transcripts, key discussion points and action items.",
+    "ar": "خدمة لتدوين الاجتماعات وتلخيصها، تشمل تفريغ الكلام وأهم نقاط النقاش وإجراءات المتابعة.",
+    "officialSource": "https://www.read.ai/meeting-reports",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "azure-ai-speech": {
+    "fr": "Services de Microsoft pour la reconnaissance de la parole, la synthèse vocale et certaines fonctions de traduction audio.",
+    "en": "Microsoft services for speech recognition, text-to-speech and supported speech translation workflows.",
+    "ar": "خدمات من Microsoft للتعرف على الكلام وتحويل النص إلى صوت وبعض مسارات ترجمة الكلام.",
+    "officialSource": "https://learn.microsoft.com/en-us/azure/cognitive-services/speech/home",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "google-cloud-text-to-speech": {
+    "fr": "API Google Cloud transformant texte ou SSML en fichiers audio de parole synthétisée.",
+    "en": "Google Cloud API converting text or SSML into synthesized speech audio.",
+    "ar": "واجهة برمجية من Google Cloud لتحويل النصوص أو لغة SSML إلى صوت كلام مولّد آليًا.",
+    "officialSource": "https://docs.cloud.google.com/text-to-speech/docs",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "amazon-polly": {
+    "fr": "Service AWS de synthèse vocale convertissant des textes en voix avec différents moteurs et options de sortie.",
+    "en": "AWS text-to-speech service turning text into spoken audio with multiple voice engines and output options.",
+    "ar": "خدمة من AWS لتحويل النص إلى كلام صوتي باستخدام محركات وأصوات وخيارات إخراج متعددة.",
+    "officialSource": "https://docs.aws.amazon.com/polly/latest/dg/how-text-to-speech-works.html",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "naturalreader": {
+    "fr": "Outil de lecture vocale de textes et documents avec des voix de synthèse, selon la version personnelle ou commerciale.",
+    "en": "Text and document reading tool with synthesized voices, with features depending on the personal or commercial edition.",
+    "ar": "أداة لقراءة النصوص والمستندات صوتيًا بأصوات اصطناعية، مع اختلاف الوظائف بين النسخة الشخصية والتجارية.",
+    "officialSource": "https://help.naturalreaders.com/en/articles/8823808-what-features-are-available-in-naturalreader-ai-text-to-speech-personal-version",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "pitch": {
+    "fr": "Plateforme collaborative de présentations permettant de générer des diapositives à partir d'une consigne et de les affiner avec un assistant.",
+    "en": "Collaborative presentation platform generating slides from a prompt and refining them with an AI assistant.",
+    "ar": "منصة تعاونية للعروض التقديمية تتيح توليد الشرائح انطلاقًا من تعليمات نصية ثم تحسينها بمساعد ذكي.",
+    "officialSource": "https://help.pitch.com/en/articles/14844265-create-a-new-presentation",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "plus-ai": {
+    "fr": "Assistant de création et de modification de présentations directement dans PowerPoint et Google Slides.",
+    "en": "AI assistant for creating and editing presentations directly in PowerPoint and Google Slides.",
+    "ar": "مساعد ذكاء اصطناعي لإنشاء العروض التقديمية وتعديلها مباشرة داخل PowerPoint وGoogle Slides.",
+    "officialSource": "https://plusai.com/features/prompt-to-presentation",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "gemini-for-workspace": {
+    "fr": "Fonctions Gemini dans les applications Google Workspace pour aider à rédiger, résumer et travailler avec des documents et messages.",
+    "en": "Gemini features in Google Workspace apps supporting writing, summarization and work with documents and messages.",
+    "ar": "وظائف Gemini داخل تطبيقات Google Workspace للمساعدة في الكتابة والتلخيص والعمل على المستندات والرسائل.",
+    "officialSource": "https://knowledge.workspace.google.com/admin/generative-ai/workspace-with-gemini/google-workspace-with-gemini",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "coda-ai": {
+    "fr": "Fonctions d'IA de Superhuman Docs (anciennement Coda) pour rédiger, résumer et agir sur les documents et tableaux.",
+    "en": "AI features in Superhuman Docs (formerly Coda) for drafting, summarizing and taking action in documents and tables.",
+    "ar": "وظائف ذكاء اصطناعي في Superhuman Docs، المعروفة سابقًا باسم Coda، للكتابة والتلخيص وتنفيذ الإجراءات داخل المستندات والجداول.",
+    "officialSource": "https://help.coda.io/hc/en-us/articles/39555802361613-Coda-AI-features",
+    "sourceReviewedAt": "2026-11-23",
+    "currentName": "Superhuman Docs (anciennement Coda)"
+  },
+  "airtable-ai": {
+    "fr": "Outils d'IA d'Airtable, dont les agents de champ, pour extraire des informations et générer du contenu à partir des enregistrements.",
+    "en": "Airtable AI tools including field agents for extracting information and generating content based on records.",
+    "ar": "أدوات ذكاء اصطناعي من Airtable تشمل وكلاء الحقول لاستخراج المعلومات وتوليد المحتوى اعتمادًا على السجلات.",
+    "officialSource": "https://support.airtable.com/articles/8052242094-using-airtable-ai-in-fields",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "asana-ai": {
+    "fr": "Fonctions d'IA d'Asana pour préparer des mises à jour de projet, structurer les objectifs et assister des workflows.",
+    "en": "Asana AI features for drafting project status updates, structuring goals and assisting workflows.",
+    "ar": "وظائف ذكاء اصطناعي ضمن Asana لصياغة تحديثات المشاريع وتنظيم الأهداف والمساعدة في مسارات العمل.",
+    "officialSource": "https://help.asana.com/s/article/get-started-with-asana-ai",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "slack-ai": {
+    "fr": "Fonctions d'IA de Slack pour rechercher dans les messages et résumer des conversations ou des canaux selon l'offre.",
+    "en": "Slack AI features for searching messages and summarizing conversations or channels, depending on the plan.",
+    "ar": "وظائف ذكاء اصطناعي في Slack للبحث في الرسائل وتلخيص المحادثات والقنوات، وفق الخطة المستخدمة.",
+    "officialSource": "https://slack.com/help/articles/25076892548883-Guide-to-AI-features-in-Slack",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "zoom-ai-companion": {
+    "fr": "Fonctions d'assistance IA de Zoom Workplace pour résumer les réunions et faciliter le suivi ; la gamme a évolué avec ZoomMate.",
+    "en": "Zoom Workplace AI assistance for meeting summaries and follow-ups; the product line has evolved with ZoomMate.",
+    "ar": "وظائف مساعدة ذكية في Zoom Workplace لتلخيص الاجتماعات ومتابعتها، وقد تطورت منظومة المنتج مع ZoomMate.",
+    "officialSource": "https://www.zoom.com/en/blog/zoom-ai-companion-zoommate/",
+    "sourceReviewedAt": "2026-11-23",
+    "currentName": "Zoom Workplace AI / ZoomMate (marque AI Companion retirée)"
+  },
+  "reclaim-ai": {
+    "fr": "Planificateur intelligent pour réserver du temps aux tâches, habitudes et plages de concentration en tenant compte du calendrier.",
+    "en": "Smart scheduler reserving calendar time for tasks, habits and focused work around existing commitments.",
+    "ar": "أداة ذكية لتنظيم الوقت تخصص فترات للمهام والعادات والعمل المركّز وفق الالتزامات الموجودة في التقويم.",
+    "officialSource": "https://help.reclaim.ai/en/articles/6207587-how-reclaim-manages-your-schedule-automatically",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "todoist-assist": {
+    "fr": "Ensemble de fonctions d'IA Todoist pour faciliter notamment la création de tâches à partir de messages et la définition de filtres.",
+    "en": "Todoist AI features supporting tasks created from messages and natural-language filter configuration.",
+    "ar": "مجموعة وظائف ذكاء اصطناعي من Todoist تساعد في إنشاء المهام من الرسائل وإعداد المرشحات باستخدام اللغة الطبيعية.",
+    "officialSource": "https://www.todoist.com/help/todoist/todoist-and-ai/introduction-to-todoist-assist-KgPP22q5O",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "microsoft-outlook-copilot": {
+    "fr": "Fonctions de Copilot dans Outlook pour rédiger des courriels et résumer des fils de discussion, selon les licences et versions.",
+    "en": "Copilot in Outlook for drafting emails and summarizing threads, subject to version and licensing.",
+    "ar": "وظائف Copilot في Outlook لصياغة رسائل البريد وتلخيص سلاسل المحادثة، بحسب الترخيص والإصدار.",
+    "officialSource": "https://support.microsoft.com/en-us/outlook/frequently-asked-questions-about-copilot-in-outlook",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "gemini-in-gmail": {
+    "fr": "Assistant Gemini dans Gmail pour rédiger des messages, résumer des conversations et proposer des réponses lorsque la fonction est disponible.",
+    "en": "Gemini in Gmail for drafting messages, summarizing threads and suggesting replies when enabled.",
+    "ar": "مساعد Gemini داخل Gmail لصياغة الرسائل وتلخيص المحادثات واقتراح الردود عند توفر الخدمة.",
+    "officialSource": "https://support.google.com/mail/answer/14355636?co=GENIE.Platform%3DDesktop&hl=en",
+    "sourceReviewedAt": "2026-11-23"
   }
 }
