@@ -866,5 +866,180 @@
     "ar": "منصة لاستخبارات المبيعات بين الشركات تستخدم الذكاء الاصطناعي لرصد مؤشرات الشراء وتوجيه أنشطة التسويق والمبيعات.",
     "officialSource": "https://6sense.com/platform/revvyai",
     "sourceReviewedAt": "2026-11-23"
+  },
+  "labelbox": {
+    "fr": "Plateforme de préparation et d'annotation de données d'entraînement, avec outils de revue, de contrôle qualité et de collaboration pour les équipes IA.",
+    "en": "Data preparation and labeling platform with review, quality assurance and collaboration workflows for AI teams.",
+    "ar": "منصة لإعداد بيانات تدريب الذكاء الاصطناعي ووسمها، مع أدوات للمراجعة وضبط الجودة والتعاون بين الفرق.",
+    "officialSource": "https://labelbox.com/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "scale-ai": {
+    "fr": "Plateforme de production et de contrôle de données pour les modèles IA, incluant l'annotation, le retour humain et l'évaluation.",
+    "en": "Platform for producing and reviewing AI training data, including annotation, human feedback and model evaluation.",
+    "ar": "منصة لإنتاج بيانات تدريب نماذج الذكاء الاصطناعي ومراجعتها، تشمل وسم البيانات والتغذية الراجعة البشرية وتقييم النماذج.",
+    "officialSource": "https://scale.com/data-engine",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "snorkel-ai": {
+    "fr": "Plateforme de développement de données centrée sur la qualité des ensembles d'entraînement, avec étiquetage programmatique et revue humaine.",
+    "en": "Data development platform focused on training dataset quality, including programmatic labeling and human review.",
+    "ar": "منصة لتطوير مجموعات بيانات التدريب وتحسين جودتها، تجمع الوسم البرمجي للبيانات والمراجعة البشرية.",
+    "officialSource": "https://docs.snorkel.ai/docs/25.9/user-guide/intro/what-is-snorkel/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "argilla": {
+    "fr": "Outil ouvert de collecte et d'annotation de données et de retours humains pour créer ou améliorer les jeux de données des modèles.",
+    "en": "Open tool for collecting and labeling data and human feedback to create or improve model datasets.",
+    "ar": "أداة مفتوحة المصدر لجمع البيانات ووسمها وتسجيل ملاحظات المراجعين من أجل إنشاء مجموعات بيانات النماذج وتحسينها.",
+    "officialSource": "https://docs.argilla.io/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "superannotate": {
+    "fr": "Plateforme de gestion des annotations de données, des équipes et des procédures de contrôle qualité pour l'entraînement des modèles.",
+    "en": "Platform for managing data annotation, labeling teams and quality-control workflows for model training.",
+    "ar": "منصة لإدارة وسم البيانات وفرق المراجعة وإجراءات ضمان الجودة عند تجهيز بيانات تدريب النماذج.",
+    "officialSource": "https://www.superannotate.com/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "encord": {
+    "fr": "Environnement de gestion, d'annotation et de sélection de données multimodales pour l'entraînement et l'évaluation des systèmes IA.",
+    "en": "Workspace for managing, annotating and curating multimodal data used to train and evaluate AI systems.",
+    "ar": "بيئة لإدارة البيانات متعددة الوسائط ووسمها وانتقائها لاستخدامها في تدريب أنظمة الذكاء الاصطناعي وتقييمها.",
+    "officialSource": "https://encord.com/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "v7-darwin": {
+    "fr": "Outil V7 Darwin de création et de revue d'annotations visuelles, notamment sur des images et vidéos, avec assistance à l'annotation.",
+    "en": "V7 Darwin tool for creating and reviewing visual annotations on images and video, with annotation assistance.",
+    "ar": "أداة V7 Darwin لإنشاء الوسوم البصرية ومراجعتها على الصور والفيديو، مع وظائف للمساعدة في الوسم.",
+    "officialSource": "https://docs.v7labs.com/docs/annotation-workview-intro",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "cvat": {
+    "fr": "Outil ouvert d'annotation de données visuelles, incluant images et vidéos, avec suivi d'objets, contrôle qualité et assistance automatique.",
+    "en": "Open visual-data annotation tool covering images and videos, object tracking, quality assurance and assisted labeling.",
+    "ar": "أداة مفتوحة المصدر لوسم البيانات المرئية مثل الصور والفيديو، مع تتبع العناصر وضبط الجودة والمساعدة في الوسم الآلي.",
+    "officialSource": "https://docs.cvat.ai/docs/getting_started/overview/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "prodigy": {
+    "fr": "Outil d'annotation configurable pour constituer des données d'entraînement et d'évaluation, notamment pour le traitement automatique des langues.",
+    "en": "Configurable annotation tool for building training and evaluation data, notably for natural language processing.",
+    "ar": "أداة قابلة للتخصيص لوسم البيانات وإنشاء مجموعات التدريب والتقييم، ولا سيما في معالجة اللغات الطبيعية.",
+    "officialSource": "https://prodi.gy/docs",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "hugging-face-datasets": {
+    "fr": "Bibliothèque Hugging Face pour charger, traiter et partager des jeux de données destinés au texte, à l'image et à l'audio.",
+    "en": "Hugging Face library for loading, processing and sharing text, image and audio datasets.",
+    "ar": "مكتبة من Hugging Face لتحميل مجموعات البيانات ومعالجتها ومشاركتها في مجالات النصوص والصور والصوت.",
+    "officialSource": "https://huggingface.co/docs/datasets/main/en/index",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "hugging-face-trl": {
+    "fr": "Bibliothèque Hugging Face d'après-entraînement des modèles de langage, notamment par ajustement supervisé et optimisation des préférences.",
+    "en": "Hugging Face library for post-training language models using supervised fine-tuning and preference optimization techniques.",
+    "ar": "مكتبة من Hugging Face لمرحلة ما بعد تدريب النماذج اللغوية، تشمل الضبط الدقيق الموجّه وتحسين التفضيلات.",
+    "officialSource": "https://huggingface.co/docs/trl/index",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "axolotl": {
+    "fr": "Cadre ouvert de préparation et de réglage fin de modèles de langage, piloté par fichiers de configuration et divers modes d'entraînement.",
+    "en": "Open framework for fine-tuning language models with configuration files and multiple training approaches.",
+    "ar": "إطار عمل مفتوح المصدر للضبط الدقيق للنماذج اللغوية باستخدام ملفات إعداد وخيارات متعددة للتدريب.",
+    "officialSource": "https://github.com/axolotl-ai-cloud/axolotl",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "llama-factory": {
+    "fr": "Projet ouvert proposant une interface web et des outils en ligne de commande pour adapter par entraînement différents modèles de langage.",
+    "en": "Open-source project providing a web interface and command-line tools for fine-tuning multiple language models.",
+    "ar": "مشروع مفتوح المصدر يوفر واجهة ويب وأدوات سطر أوامر للضبط الدقيق لمجموعة من النماذج اللغوية.",
+    "officialSource": "https://github.com/hiyouga/LLaMA-Factory",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "peft": {
+    "fr": "Bibliothèque Hugging Face d'ajustement économe en paramètres pour adapter de grands modèles à de nouvelles tâches sans réentraîner tous leurs poids.",
+    "en": "Hugging Face library for parameter-efficient fine-tuning, adapting large models without retraining all their weights.",
+    "ar": "مكتبة من Hugging Face للضبط الدقيق قليل المعلمات، تتيح تكييف النماذج الكبيرة دون إعادة تدريب جميع أوزانها.",
+    "officialSource": "https://huggingface.co/docs/peft/main/index",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "deepspeed": {
+    "fr": "Bibliothèque de Microsoft pour optimiser l'entraînement distribué et l'exécution de grands modèles, notamment la gestion de la mémoire et du parallélisme.",
+    "en": "Microsoft library for optimizing distributed training and execution of large models, including memory use and parallelism.",
+    "ar": "مكتبة من Microsoft لتحسين التدريب الموزع وتشغيل النماذج الكبيرة، خصوصًا إدارة الذاكرة وعمليات المعالجة المتوازية.",
+    "officialSource": "https://www.deepspeed.ai/training/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "langsmith": {
+    "fr": "Plateforme LangChain de traçage, de débogage et d'évaluation des applications d'IA, avec jeux d'essai et suivi des exécutions.",
+    "en": "LangChain platform for tracing, debugging and evaluating AI applications with test datasets and run tracking.",
+    "ar": "منصة من LangChain لتتبع عمليات تطبيقات الذكاء الاصطناعي وتصحيحها وتقييمها باستخدام مجموعات اختبار وسجلات التنفيذ.",
+    "officialSource": "https://docs.langchain.com/langsmith/evaluation-types",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "arize-phoenix": {
+    "fr": "Plateforme ouverte d'observabilité et d'évaluation d'applications IA et d'agents, avec traçage, expérimentation et analyse des erreurs.",
+    "en": "Open-source observability and evaluation platform for AI applications and agents, offering tracing, experiments and debugging.",
+    "ar": "منصة مفتوحة المصدر لمراقبة تطبيقات الذكاء الاصطناعي والوكلاء وتقييمها، مع تتبع العمليات والتجارب وتحليل الأخطاء.",
+    "officialSource": "https://arize.com/docs/phoenix/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "arize-ai": {
+    "fr": "Plateforme Arize AX pour observer, diagnostiquer et évaluer les modèles, applications et agents d'IA en développement et en production.",
+    "en": "Arize AX platform for observing, debugging and evaluating AI models, applications and agents during development and production.",
+    "ar": "منصة Arize AX لمراقبة نماذج الذكاء الاصطناعي وتطبيقاته ووكلائه وتشخيص مشكلاتها وتقييمها في التطوير والإنتاج.",
+    "officialSource": "https://arize.com/products/ax/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "helicone": {
+    "fr": "Passerelle d'accès aux modèles de langage avec journalisation des requêtes et outils d'observabilité pour suivre l'utilisation et la fiabilité.",
+    "en": "LLM gateway with request logging and observability tools for tracking model usage and reliability.",
+    "ar": "بوابة للوصول إلى النماذج اللغوية تتضمن تسجيل الطلبات وأدوات مراقبة الاستخدام والاعتمادية.",
+    "officialSource": "https://docs.helicone.ai/getting-started/quick-start",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "braintrust": {
+    "fr": "Plateforme pour tester les applications d'IA au moyen de jeux de données, d'expériences, de critères de notation et de traces d'exécution.",
+    "en": "Platform for testing AI applications using datasets, experiments, scoring criteria and execution traces.",
+    "ar": "منصة لاختبار تطبيقات الذكاء الاصطناعي باستخدام مجموعات البيانات والتجارب ومعايير التقييم وسجلات التنفيذ.",
+    "officialSource": "https://www.braintrust.dev/articles/how-to-test-ai-models",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "promptlayer": {
+    "fr": "Outil de gestion des instructions destinées aux modèles : versions, tests, évaluations et observation des appels aux modèles.",
+    "en": "Prompt management tool for versioning, testing, evaluating and observing model requests.",
+    "ar": "أداة لإدارة الموجّهات المرسلة إلى النماذج، تشمل تتبع الإصدارات والاختبارات والتقييم ومراقبة الطلبات.",
+    "officialSource": "https://www.promptlayer.com/prompt-management/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "trulens": {
+    "fr": "Bibliothèque d'instrumentation et d'évaluation d'applications à modèles de langage, en particulier pour juger la pertinence et l'ancrage des réponses RAG.",
+    "en": "Library for instrumenting and evaluating LLM applications, including relevance and groundedness checks for RAG systems.",
+    "ar": "مكتبة لتتبع تطبيقات النماذج اللغوية وتقييمها، بما في ذلك قياس ملاءمة الإجابات واستنادها إلى المصادر في أنظمة RAG.",
+    "officialSource": "https://www.trulens.org/component_guides/instrumentation/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "ragas": {
+    "fr": "Bibliothèque d'évaluation d'applications de génération augmentée par la recherche et d'autres systèmes LLM, à l'aide de mesures configurables.",
+    "en": "Library for evaluating retrieval-augmented generation and other LLM applications using configurable metrics.",
+    "ar": "مكتبة لتقييم أنظمة التوليد المعزّز بالاسترجاع وتطبيقات النماذج اللغوية الأخرى باستخدام مقاييس قابلة للتخصيص.",
+    "officialSource": "https://docs.ragas.io/en/stable/concepts/metrics/overview/",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "deepeval": {
+    "fr": "Cadre de tests pour les applications LLM et les agents, intégrable aux scripts Python et aux chaînes d'intégration continue.",
+    "en": "Testing framework for LLM applications and agents, usable from Python scripts and continuous integration pipelines.",
+    "ar": "إطار عمل لاختبار تطبيقات النماذج اللغوية والوكلاء، قابل للدمج مع شيفرات Python ومسارات التكامل المستمر.",
+    "officialSource": "https://deepeval.com/docs/introduction",
+    "sourceReviewedAt": "2026-11-23"
+  },
+  "evidently-ai": {
+    "fr": "Bibliothèque ouverte d'analyse de la qualité des données et d'évaluation et surveillance des systèmes d'apprentissage automatique et d'IA générative.",
+    "en": "Open-source library for data-quality analysis, evaluation and monitoring of machine learning and generative AI systems.",
+    "ar": "مكتبة مفتوحة المصدر لفحص جودة البيانات وتقييم أنظمة تعلم الآلة والذكاء الاصطناعي التوليدي ومراقبتها.",
+    "officialSource": "https://github.com/evidentlyai/evidently",
+    "sourceReviewedAt": "2026-11-23"
   }
 }
