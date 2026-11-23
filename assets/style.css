@@ -1211,3 +1211,54 @@ body{background:var(--bg)}
 :root[data-theme=light] .footer-inner .footer-editorial-credit .footer-signature-text{color:#31485F;border-left-color:#94764D}
 :root[data-theme=dark] .footer-inner .footer-editorial-title{color:#EAD2AA}
 :root[data-theme=dark] .footer-inner .footer-editorial-credit .footer-signature-text{color:#CBD8E3;border-left-color:#D8C497}
+
+
+/* Trilingual IndexAI — 2026-11-23. RTL applies only to Arabic. */
+.language-switch{display:inline-flex;align-items:center;gap:3px;border:1px solid var(--stroke2);border-radius:9px;padding:3px;background:var(--surface);white-space:nowrap;flex-shrink:0}
+.language-switch .lang-button{border:0;background:transparent;color:var(--muted);font-weight:600;padding:6px 8px;border-radius:6px;letter-spacing:0}
+.language-switch .lang-button.is-active{background:var(--surface3);color:var(--text);box-shadow:inset 0 0 0 1px var(--stroke2)}
+.language-switch .lang-button:focus-visible{outline:2px solid var(--cyan);outline-offset:2px}
+:root[lang=ar]{
+ --font-body:Tahoma,'Noto Sans Arabic','Segoe UI',Arial,sans-serif;
+ --font-heading:Tahoma,'Noto Sans Arabic','Segoe UI',Arial,sans-serif;
+}
+:root[dir=rtl] body{direction:rtl;text-align:start}
+:root[dir=rtl] :is(h1,h2,h3,p,small,label,li,dt,dd){letter-spacing:normal}
+:root[dir=rtl] .topbar-inner{padding:0 30px 0 38px;gap:18px}
+:root[dir=rtl] .top-actions{margin-left:0;margin-right:auto}
+:root[dir=rtl] .app-layout{direction:rtl}
+:root[dir=rtl] .sidebar{border-right:0;border-left:1px solid var(--stroke);padding:32px 23px 24px 16px}
+:root[dir=rtl] .nav-link.active:before{left:auto;right:0}
+:root[dir=rtl] .nav-link .nav-count{margin-left:0;margin-right:auto}
+:root[dir=rtl] .global-search{padding:0 16px 0 12px}
+:root[dir=rtl] input,:root[dir=rtl] select,:root[dir=rtl] textarea{text-align:start;direction:rtl}
+:root[dir=rtl] .sidebar-sub{margin-left:0;margin-right:15px}
+:root[dir=rtl] .footer-inner .footer-editorial-credit{margin-left:0;margin-right:auto}
+:root[dir=rtl] .footer-inner .footer-editorial-credit .footer-signature-text{border-left:0;padding-left:0;border-right:1px solid #94764D;padding-right:14px;direction:ltr;unicode-bidi:isolate}
+:root[dir=rtl] .footer-inner .footer-signature-text{margin-left:0;margin-right:auto}
+:root[dir=rtl] .hero h1{letter-spacing:normal;line-height:1.4}
+:root[dir=rtl] .page-intro h1{letter-spacing:normal;line-height:1.45}
+:root[dir=rtl] .hero-copy,:root[dir=rtl] .page-intro{text-align:right}
+:root[dir=rtl] .hero-nebula .galaxy-visual,:root[dir=rtl] .hero-nebula .visual-orbit{direction:ltr}
+:root[dir=rtl] .hero-nebula .orbit-node-label{direction:rtl;unicode-bidi:plaintext}
+:root[dir=rtl] .hero-tag,:root[dir=rtl] .section-eyebrow,:root[dir=rtl] .eyebrow{letter-spacing:normal}
+:root[dir=rtl] .stat-icon{right:auto;left:16px}
+:root[dir=rtl] .family-number{left:auto;right:18px}
+:root[dir=rtl] .family-symbol{right:auto;left:26px}
+:root[dir=rtl] .search-suggestions .suggest-all svg:last-child{margin-left:0;margin-right:auto}
+:root[dir=rtl] .logo-fallback,:root[dir=rtl] .brand-title,:root[dir=rtl] .footbrand{direction:ltr;unicode-bidi:isolate}
+:root[dir=rtl] a[href^="http"],:root[dir=rtl] a[href^="mailto:"]{unicode-bidi:plaintext}
+:root[dir=rtl] .pagination .icon{transform:scaleX(-1)}
+@media(min-width:861px) and (max-width:1100px){
+ :root[dir=rtl] .sidenav .nav-link::after{left:auto;right:calc(100% + 9px)}
+}
+@media(max-width:860px){
+ :root[dir=rtl] .sidebar{border-left:0}
+ :root[dir=rtl] .topbar-inner{padding-inline:14px;gap:8px}
+}
+@media(max-width:700px){
+ .language-switch .lang-button{padding:6px 5px;font-size:10px}
+ .language-switch{gap:1px;padding:2px}
+ :root[dir=rtl] .top-actions{gap:4px}
+ :root[dir=rtl] .hero h1{line-height:1.45}
+}

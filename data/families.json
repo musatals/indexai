@@ -7,7 +7,9 @@
     "descriptionFr": "Explorez les assistants, la recherche, la rédaction et la formation.",
     "descriptionEn": "Explore assistants, research, writing, and learning.",
     "count": 131,
-    "categories": 8
+    "categories": 8,
+    "ar": "الاكتشاف والتعلّم",
+    "descriptionAr": "اكتشف المساعدين والبحث والكتابة والتعلّم."
   },
   {
     "id": "creative",
@@ -17,7 +19,9 @@
     "descriptionFr": "Image, vidéo, musique, voix et création visuelle.",
     "descriptionEn": "Images, video, music, voice, and visual creation.",
     "count": 173,
-    "categories": 11
+    "categories": 11,
+    "ar": "الإبداع والوسائط",
+    "descriptionAr": "أنشئ الصور والفيديو والموسيقى والمحتوى المرئي."
   },
   {
     "id": "builders",
@@ -27,7 +31,9 @@
     "descriptionFr": "Code, agents, modèles et automatisation des workflows.",
     "descriptionEn": "Code, agents, models, and workflow automation.",
     "count": 244,
-    "categories": 13
+    "categories": 13,
+    "ar": "التطوير والأتمتة",
+    "descriptionAr": "طوّر البرمجيات والوكلاء والنماذج وأتمتة الأعمال."
   },
   {
     "id": "business",
@@ -37,7 +43,9 @@
     "descriptionFr": "Productivité et fonctions métiers pour les organisations.",
     "descriptionEn": "Productivity and business functions for organizations.",
     "count": 202,
-    "categories": 12
+    "categories": 12,
+    "ar": "العمل وريادة الأعمال",
+    "descriptionAr": "حسّن الإنتاجية والعمليات التجارية للمؤسسات."
   },
   {
     "id": "specialized",
@@ -47,7 +55,9 @@
     "descriptionFr": "Solutions pour les sciences, les industries et les métiers spécialisés.",
     "descriptionEn": "Solutions for science, industries, and specialized fields.",
     "count": 142,
-    "categories": 10
+    "categories": 10,
+    "ar": "العلوم والقطاعات",
+    "descriptionAr": "حلول للعلوم والصناعات والتخصصات المهنية."
   },
   {
     "id": "directory",
@@ -57,6 +67,8 @@
     "descriptionFr": "Annuaires et plateformes de découverte de solutions IA.",
     "descriptionEn": "Directories and discovery platforms for AI tools.",
     "count": 17,
-    "categories": 1
+    "categories": 1,
+    "ar": "استكشاف المنظومة",
+    "descriptionAr": "دلائل ومنصات لاستكشاف حلول الذكاء الاصطناعي."
   }
 ]
