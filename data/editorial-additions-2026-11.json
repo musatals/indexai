@@ -3168,5 +3168,89 @@
     "ar": "مساعد لإنشاء العروض التقديمية ضمن Prezi يحوّل الأفكار والتعليمات إلى محتوى بصري منظم وقابل للتعديل. يعمل داخل بيئة العروض الخاصة بالمنصة، مع ضرورة مراجعة المحتوى وخيارات التصدير ومدى ملاءمة الحركات البصرية للجمهور.",
     "officialSource": "https://prezi.com/",
     "sourceReviewedAt": "2026-11-24"
+  },
+  "synthesia": {
+    "fr": "Plateforme de création de vidéos à partir de scripts, avec présentateurs virtuels, voix synthétiques et outils de localisation. Elle sert notamment à produire des modules de formation et des communications internes actualisables sans nouveau tournage. Vérifier la prononciation, les traductions et les droits des avatars.",
+    "en": "Script-to-video platform with virtual presenters, synthetic voices and localization tools. It supports training modules and internal communications that can be updated without filming again. Review pronunciation, translations and avatar rights.",
+    "ar": "منصة لإنشاء الفيديو من النصوص باستخدام مقدمين افتراضيين وأصوات اصطناعية وأدوات للتوطين اللغوي. تُستخدم لإنتاج وحدات تدريبية ورسائل داخلية قابلة للتحديث دون إعادة التصوير. ينبغي مراجعة النطق والترجمات وحقوق استخدام الشخصيات الرقمية.",
+    "officialSource": "https://help.synthesia.io/en/articles/9994493-what-is-synthesia",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "heygen": {
+    "fr": "Studio vidéo proposant des avatars, des doubles numériques personnalisés et la traduction de vidéos avec doublage ou synchronisation labiale. Il facilite l’adaptation de contenus à plusieurs publics linguistiques. La création d’un double vidéo requiert un enregistrement de consentement ; contrôler les traductions avant diffusion.",
+    "en": "Video studio offering avatars, custom digital twins and video translation with dubbing or lip synchronization. It helps adapt content for multilingual audiences. Creating a video-based digital twin requires recorded consent; review translations before release.",
+    "ar": "استوديو فيديو يتيح شخصيات افتراضية ونسخًا رقمية مخصصة وترجمة الفيديو بالدبلجة أو مزامنة حركة الشفاه. يساعد على تكييف المحتوى لجمهور متعدد اللغات. يتطلب إنشاء نسخة رقمية من فيديو تسجيل الموافقة، وينبغي مراجعة الترجمات قبل النشر.",
+    "officialSource": "https://help.heygen.com/en/articles/12092609-recording-your-consent-video",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "d-id": {
+    "fr": "Creative Reality Studio permet de faire parler un portrait ou un avatar à partir d’un script et d’une voix synthétique. Les vidéos peuvent servir à la médiation culturelle, aux explications et aux présentations courtes. Signaler les reconstitutions fictives et respecter le droit à l’image des personnes représentées.",
+    "en": "Creative Reality Studio animates portraits or avatars using scripts and synthetic speech. Videos can support cultural interpretation, explanations and short presentations. Label fictional reconstructions and respect likeness rights.",
+    "ar": "يتيح Creative Reality Studio تحريك الصور الشخصية أو الشخصيات الافتراضية وجعلها تتحدث انطلاقًا من نص وصوت اصطناعي. يفيد في الوساطة الثقافية والشروحات والعروض القصيرة. ينبغي توضيح المشاهد المتخيلة واحترام حقوق الأشخاص الذين تُستخدم صورهم.",
+    "officialSource": "https://www.d-id.com/creative-reality-studio/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "colossyan": {
+    "fr": "Plateforme de formation vidéo avec avatars, conversion de documents et présentations en cours, localisation multilingue, questionnaires et scénarios à embranchements. L’export SCORM permet une diffusion dans des LMS compatibles. Tester les interactions et vérifier les acquis pédagogiques.",
+    "en": "Video-learning platform with avatars, document and slide conversion, multilingual localization, quizzes and branching scenarios. SCORM export supports delivery through compatible LMS platforms. Test interactions and assess learning outcomes.",
+    "ar": "منصة للتدريب بالفيديو تضم شخصيات رقمية وتحويل المستندات والعروض إلى دروس وتوطينًا متعدد اللغات واختبارات وسيناريوهات متفرعة. يتيح تصدير SCORM نشر المحتوى في أنظمة إدارة التعلم المتوافقة. ينبغي اختبار التفاعلات وتقويم نتائج التعلم.",
+    "officialSource": "https://www.colossyan.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "elai-io": {
+    "fr": "Plateforme de génération de vidéos pédagogiques à partir de textes et d’avatars, acquise par Panopto en octobre 2024. Les vidéos peuvent être exportées vers une bibliothèque Panopto pour bénéficier de ses permissions et outils de gestion. Vérifier les licences et les modalités d’intégration.",
+    "en": "Text-to-video and avatar-based learning platform acquired by Panopto in October 2024. Videos can be exported into a Panopto library to use its permissions and management tools. Check licensing and integration requirements.",
+    "ar": "منصة لتوليد الفيديوهات التعليمية من النصوص باستخدام شخصيات رقمية، استحوذت عليها Panopto في أكتوبر 2024. يمكن تصدير الفيديوهات إلى مكتبة Panopto للاستفادة من صلاحياتها وأدوات إدارتها. ينبغي التحقق من التراخيص ومتطلبات التكامل.",
+    "officialSource": "https://elai.freshdesk.com/support/solutions/articles/73000556575-learn-about-panopto-and-elai",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "hour-one": {
+    "fr": "Technologie de génération de vidéos personnalisées et d’expériences interactives acquise par Wix, selon son annonce du 23 mai 2025. Le site historique n’a pas pu être consulté lors de cette revue ; la disponibilité d’un abonnement autonome reste à confirmer avant tout nouveau projet.",
+    "en": "Personalized video and interactive experience technology acquired by Wix, announced on May 23, 2025. The historical website could not be accessed during this review; standalone subscription availability remains unconfirmed.",
+    "ar": "تقنية لتوليد الفيديوهات المخصصة والتجارب التفاعلية أعلنت Wix الاستحواذ عليها في 23 مايو 2025. تعذّر الوصول إلى الموقع التاريخي أثناء هذه المراجعة؛ لذا يجب التحقق من إتاحة الاشتراك المستقل قبل بدء مشروع جديد.",
+    "officialSource": "https://www.wix.com/press-room/home/post/wix-acquires-hour-one-to-expand-generative-ai-capabilities-and-accelerate-product-innovation",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "deepbrain-ai": {
+    "fr": "AI Studios de DeepBrain AI combine création de vidéos à partir de scripts, documents ou présentations, avatars, montage et doublage. La traduction des projets peut aussi porter sur le texte affiché à l’écran. Relire les scripts et vérifier la cohérence des éléments visuels traduits.",
+    "en": "DeepBrain AI’s AI Studios combines script, document and slide-to-video creation, avatars, editing and dubbing. Project translation can also cover on-screen text. Review scripts and check translated visual elements for consistency.",
+    "ar": "تجمع منصة AI Studios من DeepBrain AI بين إنشاء الفيديو من النصوص والمستندات والعروض والشخصيات الرقمية والتحرير والدبلجة. يمكن أن تشمل ترجمة المشاريع النصوص الظاهرة على الشاشة أيضًا. ينبغي مراجعة النصوص والتحقق من اتساق العناصر البصرية المترجمة.",
+    "officialSource": "https://help.aistudios.com/en/articles/11698763-what-are-the-differences-between-ai-dubbing-video-translation",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "tavus": {
+    "fr": "Infrastructure pour développeurs permettant d’intégrer des personnages numériques conversationnels en vidéo ou en voix dans des applications. Son interface CVI gère des échanges en temps réel et des répliques personnalisées. Tester la latence, les réponses et la confidentialité des conversations.",
+    "en": "Developer infrastructure for embedding conversational digital characters in video or voice applications. Its CVI supports real-time interactions and custom replicas. Test latency, response quality and conversation privacy.",
+    "ar": "بنية برمجية للمطورين لإدماج شخصيات رقمية محاورة بالصوت أو الفيديو داخل التطبيقات. تدعم واجهة CVI التفاعل الآني والنسخ الرقمية المخصصة. ينبغي اختبار زمن الاستجابة وجودة الإجابات وخصوصية المحادثات.",
+    "officialSource": "https://www.tavus.io/blog/introducing-the-worlds-fastest-conversational-video-interface-for-developers",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "akool": {
+    "fr": "Suite de création visuelle regroupant avatars parlants ou diffusés en direct, traduction vidéo et génération d’images et de vidéos. Elle peut servir à localiser des présentations ou contenus marketing. Les transformations de visages et de voix exigent une autorisation appropriée et un étiquetage clair des contenus synthétiques.",
+    "en": "Visual creation suite combining talking and streaming avatars, video translation and image and video generation. It can localize presentations and marketing material. Face and voice transformations require appropriate permission and clear labeling of synthetic content.",
+    "ar": "مجموعة أدوات للإنتاج البصري تجمع الشخصيات الناطقة والمباشرة وترجمة الفيديو وتوليد الصور والمقاطع. تفيد في توطين العروض والمواد التسويقية. تتطلب تعديلات الوجوه والأصوات إذنًا مناسبًا وتوضيح الطبيعة الاصطناعية للمحتوى.",
+    "officialSource": "https://www.akool.com/landing",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "vidnoz": {
+    "fr": "Générateur vidéo accessible en ligne, avec bibliothèque d’avatars, modèles de présentation et conversion de textes ou documents en vidéos. Il facilite les explications et tutoriels courts. Vérifier les limites du forfait, la qualité des voix et les autorisations relatives aux portraits.",
+    "en": "Online video generator with an avatar library, presentation templates and text or document-to-video conversion. Useful for short explanations and tutorials. Check plan limitations, voice quality and portrait permissions.",
+    "ar": "مولّد فيديو عبر الويب يضم مكتبة شخصيات رقمية وقوالب عروض وتحويل النصوص أو المستندات إلى فيديوهات. يفيد في إعداد الشروحات والدروس القصيرة. ينبغي التحقق من حدود الاشتراك وجودة الأصوات والأذونات المتعلقة بالصور الشخصية.",
+    "officialSource": "https://www.vidnoz.com/text-to-video-ai.html",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "pipio": {
+    "fr": "Service historiquement consacré aux vidéos avec avatars et au doublage synchronisé. Sa documentation API décrit encore la traduction vidéo, mais le site principal n’a pas pu être consulté le 24 novembre 2026. La disponibilité du service et des abonnements reste incertaine ; ne pas considérer la documentation comme preuve de fonctionnement.",
+    "en": "Service historically focused on avatar videos and lip-synchronized dubbing. Its API documentation still describes video translation, but the main site could not be accessed on November 24, 2026. Service and subscription availability remain uncertain; documentation alone does not establish operability.",
+    "ar": "خدمة ارتبطت تاريخيًا بفيديوهات الشخصيات الرقمية والدبلجة المتزامنة مع حركة الشفاه. لا تزال وثائق واجهتها البرمجية تصف ترجمة الفيديو، لكن تعذّر الوصول إلى الموقع الرئيسي في 24 نوفمبر 2026. تبقى إتاحة الخدمة والاشتراكات غير مؤكدة؛ ولا تثبت الوثائق وحدها أن الخدمة تعمل.",
+    "officialSource": "https://docs.pipio.ai/dubbing-v2",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "dubverse": {
+    "fr": "Plateforme de localisation audiovisuelle proposant doublage automatique, synthèse vocale et sous-titrage multilingue à partir de vidéos importées ou de liens compatibles. Elle convient à l’adaptation de cours et de contenus éditoriaux. Relire les traductions, contrôler les sous-titres et obtenir les autorisations pour toute voix clonée.",
+    "en": "Audiovisual localization platform offering automated dubbing, text-to-speech and multilingual subtitles from uploaded videos or supported links. Useful for adapting courses and editorial content. Review translations and subtitles and obtain permission for cloned voices.",
+    "ar": "منصة لتوطين المحتوى السمعي البصري توفر الدبلجة الآلية وتحويل النص إلى كلام والترجمة النصية متعددة اللغات انطلاقًا من فيديوهات مرفوعة أو روابط متوافقة. تناسب تكييف الدروس والمحتويات التحريرية. ينبغي مراجعة الترجمات والحصول على إذن لاستنساخ الأصوات.",
+    "officialSource": "https://dubverse.ai/features/",
+    "sourceReviewedAt": "2026-11-24"
   }
 }
