@@ -4744,5 +4744,75 @@
     "ar": "إضافة مفتوحة المصدر لـ PostgreSQL لتخزين المتجهات والاستعلام عنها باستخدام SQL. تدعم البحث الدقيق وفهارس HNSW وIVFFlat التقريبية. تفيد في الجمع بين البيانات العلائقية والبحث الدلالي؛ ينبغي قياس المفاضلة بين الاسترجاع وزمن الاستجابة.",
     "officialSource": "https://github.com/pgvector/pgvector",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "ollama": {
+    "fr": "Environnement d'exécution de modèles linguistiques et multimodaux proposant une bibliothèque de modèles, une CLI et une API. Il distingue modèles locaux et modèles cloud. Pour les corpus confidentiels, vérifier le mode d'exécution, les flux réseau et les licences.",
+    "en": "Environment for running language and multimodal models with a model library, CLI and API. Distinguishes local and cloud models. For confidential corpora, verify execution mode, network traffic and licenses.",
+    "ar": "بيئة لتشغيل النماذج اللغوية ومتعددة الوسائط توفر مكتبة نماذج وواجهة أوامر وواجهة برمجية. تميز بين النماذج المحلية والسحابية. للمدونات السرية ينبغي التحقق من نمط التنفيذ وحركة الشبكة والتراخيص.",
+    "officialSource": "https://docs.ollama.com/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "vllm": {
+    "fr": "Moteur d'inférence et de service de modèles conçu pour optimiser le débit des requêtes, avec serveur HTTP compatible avec plusieurs interfaces OpenAI. Adapté aux déploiements mutualisés sur accélérateurs. Mesurer latence, débit, mémoire et compatibilité du modèle.",
+    "en": "Inference and serving engine designed to optimize request throughput, with an HTTP server compatible with several OpenAI interfaces. Suitable for shared accelerator deployments. Measure latency, throughput, memory and model compatibility.",
+    "ar": "محرك استدلال وتقديم نماذج مصمم لتحسين معدل معالجة الطلبات، مع خادم HTTP متوافق مع عدة واجهات OpenAI. يناسب النشر المشترك على المسرعات. ينبغي قياس زمن الاستجابة والإنتاجية والذاكرة وتوافق النموذج.",
+    "officialSource": "https://docs.vllm.ai/en/latest/serving/online_serving/openai_compatible_server/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "pinecone": {
+    "fr": "Service de base vectorielle gérée pour indexer et rechercher des contenus, avec recherche sémantique, hybride, filtrage et espaces de noms. Utile pour les architectures RAG multi-utilisateurs. Contrôler les droits d'accès, l'isolation et les coûts des index.",
+    "en": "Managed vector database for indexing and searching content, with semantic and hybrid search, filtering and namespaces. Useful for multi-tenant RAG architectures. Review access rights, isolation and index costs.",
+    "ar": "خدمة قاعدة بيانات متجهية مُدارة لفهرسة المحتوى والبحث فيه مع البحث الدلالي والهجين والتصفية ونطاقات الأسماء. تفيد في بنى RAG متعددة المستأجرين. ينبغي مراقبة صلاحيات الوصول والعزل وتكاليف الفهارس.",
+    "officialSource": "https://docs.pinecone.io/guides/index-data/implement-multitenancy",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "openai-api": {
+    "fr": "Plateforme d'API pour intégrer les modèles OpenAI dans des applications, notamment génération multimodale, sorties structurées, appels d'outils et embeddings selon le modèle. L'API Responses facilite les parcours agentiques. Contrôler les clés, les coûts, la conservation des données et la validité des résultats.",
+    "en": "API platform integrating OpenAI models into applications, including multimodal generation, structured outputs, tool calls and embeddings depending on the model. The Responses API supports agentic workflows. Review keys, costs, data retention and output validity.",
+    "ar": "منصة واجهات برمجية لدمج نماذج OpenAI في التطبيقات، تشمل التوليد متعدد الوسائط والمخرجات المنظمة واستدعاء الأدوات والتضمينات بحسب النموذج. تدعم واجهة Responses مسارات الوكلاء. ينبغي مراقبة المفاتيح والتكاليف والاحتفاظ بالبيانات وصحة النتائج.",
+    "officialSource": "https://platform.openai.com/overview",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "anthropic-api": {
+    "fr": "Plateforme développeur donnant accès aux modèles Claude par API, avec messages, appels d'outils, traitement de fichiers et services d'agents selon les capacités disponibles. Vérifier les limites de contexte, les autorisations et les politiques de données avant intégration.",
+    "en": "Developer platform providing API access to Claude models, with messages, tool calls, file processing and agent services depending on available capabilities. Check context limits, permissions and data policies before integration.",
+    "ar": "منصة للمطورين تتيح الوصول إلى نماذج Claude عبر واجهة برمجية، مع الرسائل واستدعاء الأدوات ومعالجة الملفات وخدمات الوكلاء بحسب الإمكانات المتاحة. ينبغي مراجعة حدود السياق والصلاحيات وسياسات البيانات قبل الدمج.",
+    "officialSource": "https://platform.claude.com/docs/en/api/overview",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "google-gemini-api": {
+    "fr": "API de Google pour intégrer les modèles Gemini dans des applications de génération et d'analyse multimodale. Elle propose des sorties structurées, des appels de fonctions et des outils selon le modèle. Vérifier les quotas, les conditions de traitement et les schémas de sortie.",
+    "en": "Google API for integrating Gemini models into generative and multimodal analysis applications. Supports structured outputs, function calling and tools depending on the model. Check quotas, processing terms and output schemas.",
+    "ar": "واجهة Google البرمجية لدمج نماذج Gemini في تطبيقات التوليد والتحليل متعدد الوسائط. تدعم المخرجات المنظمة واستدعاء الدوال والأدوات بحسب النموذج. ينبغي مراجعة الحصص وشروط المعالجة ومخططات المخرجات.",
+    "officialSource": "https://ai.google.dev/gemini-api/docs/get-started",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "mistral-ai": {
+    "fr": "Fournisseur de modèles linguistiques, multimodaux, d'embeddings et d'extraction documentaire. Son API propose notamment des fonctions OCR et des modèles de génération. Distinguer les modèles accessibles par API des poids téléchargeables et vérifier les licences de chaque version.",
+    "en": "Provider of language, multimodal, embedding and document extraction models. Its API includes OCR and generation capabilities. Distinguish API-accessible models from downloadable weights and check each version's license.",
+    "ar": "مزود للنماذج اللغوية ومتعددة الوسائط والتضمينات واستخراج المستندات. تشمل واجهته البرمجية التعرف البصري على الحروف والتوليد. ينبغي التمييز بين النماذج المتاحة عبر API والأوزان القابلة للتنزيل ومراجعة ترخيص كل إصدار.",
+    "officialSource": "https://docs.mistral.ai/models",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "cohere": {
+    "fr": "Fournisseur de modèles et API pour la génération, les embeddings et le reclassement de résultats avec Rerank. Ces fonctions permettent de construire des systèmes RAG multilingues et des outils de recherche d'entreprise. Tester la pertinence sur les corpus et langues cibles.",
+    "en": "Model and API provider for generation, embeddings and result reranking with Rerank. These functions support multilingual RAG and enterprise search tools. Test relevance on target corpora and languages.",
+    "ar": "مزود نماذج وواجهات برمجية للتوليد والتضمينات وإعادة ترتيب النتائج باستخدام Rerank. تدعم هذه الوظائف أنظمة RAG متعددة اللغات وأدوات البحث المؤسسي. ينبغي اختبار الملاءمة على المدونات واللغات المستهدفة.",
+    "officialSource": "https://docs.cohere.com/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "hugging-face": {
+    "fr": "Plateforme de partage et de collaboration autour des modèles, jeux de données et démonstrations Spaces, avec dépôts versionnés et outils de déploiement. Vérifier les fiches de modèles, licences, provenance et révisions avant téléchargement ou réutilisation.",
+    "en": "Collaboration and sharing platform for models, datasets and Spaces demos, with versioned repositories and deployment tools. Check model cards, licenses, provenance and revisions before downloading or reuse.",
+    "ar": "منصة للتعاون ومشاركة النماذج ومجموعات البيانات والعروض التجريبية Spaces مع مستودعات ذات إصدارات وأدوات نشر. ينبغي مراجعة بطاقات النماذج والتراخيص والمصادر والإصدارات قبل التنزيل أو إعادة الاستخدام.",
+    "officialSource": "https://huggingface.co/docs/hub/main/index",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "sambanova-cloud": {
+    "fr": "Service d'inférence hébergé donnant accès à plusieurs modèles avec des interfaces compatibles OpenAI et Anthropic selon les fonctions. Il propose génération, embeddings et intégrations RAG. Vérifier les modèles disponibles, limites de débit, coûts et conditions de confidentialité.",
+    "en": "Hosted inference service providing access to several models with OpenAI- and Anthropic-compatible interfaces depending on features. Supports generation, embeddings and RAG integrations. Check model availability, rate limits, costs and privacy terms.",
+    "ar": "خدمة استدلال مستضافة تتيح الوصول إلى نماذج متعددة عبر واجهات متوافقة مع OpenAI وAnthropic بحسب الوظائف. تدعم التوليد والتضمينات وتكاملات RAG. ينبغي مراجعة النماذج المتاحة وحدود الطلبات والتكاليف وشروط الخصوصية.",
+    "officialSource": "https://docs.sambanova.ai/docs/en/get-started/overview",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
