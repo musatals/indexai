@@ -1395,5 +1395,181 @@
     "ar": "أداة مفتوحة المصدر من مايكروسوفت لفرق الاختبارات الهجومية بهدف فحص متانة نماذج وتطبيقات الذكاء الاصطناعي التوليدي ومخاطرها.",
     "officialSource": "https://github.com/microsoft/PyRIT",
     "sourceReviewedAt": "2026-11-24"
+  },
+  "nuance-dragon-copilot": {
+    "fr": "Assistant clinique Microsoft Dragon Copilot, issu de Nuance, qui associe dictée médicale et génération de notes à partir des consultations pour les professionnels de santé.",
+    "en": "Microsoft Dragon Copilot clinical assistant, built on Nuance technology, combining medical dictation and ambient visit-note drafting for clinicians.",
+    "ar": "مساعد سريري من Microsoft Dragon Copilot يعتمد على تقنيات Nuance ويجمع الإملاء الطبي وإعداد مسودات ملاحظات الزيارات للأطباء.",
+    "officialSource": "https://www.microsoft.com/en-us/health-solutions/clinical-workflow/dragon-copilot",
+    "sourceReviewedAt": "2026-11-24",
+    "currentName": "Microsoft Dragon Copilot"
+  },
+  "ambience-healthcare": {
+    "fr": "Assistant de documentation clinique utilisant les échanges au cours des consultations pour préparer des notes structurées et soutenir les flux de travail des soignants.",
+    "en": "Clinical documentation assistant that drafts structured notes from visits and supports clinician workflows.",
+    "ar": "مساعد لتوثيق الزيارات الطبية يعد مسودات ملاحظات منظمة من المحادثات السريرية ويساند سير عمل المختصين.",
+    "officialSource": "https://www.ambiencehealthcare.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "suki": {
+    "fr": "Assistant vocal pour cliniciens proposant la dictée, la préparation de notes de consultation et des tâches de documentation assistées par IA.",
+    "en": "Voice assistant for clinicians offering dictation, visit-note drafts and AI-assisted documentation tasks.",
+    "ar": "مساعد صوتي للممارسين الصحيين يوفر الإملاء وإعداد مسودات ملاحظات الزيارات ومهام التوثيق بمساعدة الذكاء الاصطناعي.",
+    "officialSource": "https://www.suki.ai/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "nabla": {
+    "fr": "Assistant de documentation médicale pour transformer des conversations de consultation en projets de notes et aider les professionnels dans leurs tâches administratives.",
+    "en": "Medical documentation assistant turning clinical conversations into draft notes and supporting healthcare administrative work.",
+    "ar": "مساعد للتوثيق الطبي يحوّل محادثات الاستشارة إلى مسودات ملاحظات ويساند الأعمال الإدارية للطاقم الصحي.",
+    "officialSource": "https://www.nabla.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "heidi-health": {
+    "fr": "Assistant de prise de notes cliniques générant des résumés et projets de documents à partir des échanges avec les patients, sous validation du praticien.",
+    "en": "Clinical note-taking assistant that drafts summaries and documents from patient consultations for clinician review.",
+    "ar": "مساعد لتدوين الملاحظات السريرية وإعداد الملخصات ومسودات الوثائق من اللقاءات مع المرضى، مع ضرورة مراجعة الطبيب.",
+    "officialSource": "https://www.heidihealth.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "viz-ai": {
+    "fr": "Plateforme d'analyse d'images et de coordination des soins qui aide les équipes cliniques à prioriser les alertes et organiser les interventions.",
+    "en": "Imaging analysis and care coordination platform helping clinical teams prioritize alerts and organize interventions.",
+    "ar": "منصة لتحليل الصور الطبية وتنسيق الرعاية تساعد الفرق السريرية على ترتيب التنبيهات وتنظيم التدخلات.",
+    "officialSource": "https://www.viz.ai/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "tempus": {
+    "fr": "Entreprise de technologies de santé utilisant des données cliniques et moléculaires pour soutenir la recherche et des solutions d'aide à la décision en médecine de précision.",
+    "en": "Healthcare technology company using clinical and molecular data to support research and precision medicine decision tools.",
+    "ar": "شركة تكنولوجيا صحية تستخدم البيانات السريرية والجزيئية لدعم البحث وأدوات مساندة القرار في الطب الدقيق.",
+    "officialSource": "https://www.tempus.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "pathai": {
+    "fr": "Plateforme de pathologie numérique exploitant l'analyse d'images histologiques pour soutenir les laboratoires, la recherche et le développement de traitements.",
+    "en": "Digital pathology platform analyzing tissue slide images to support laboratories, research and therapeutic development.",
+    "ar": "منصة لعلم الأمراض الرقمي تحلل صور شرائح الأنسجة لدعم المختبرات والبحث وتطوير العلاجات.",
+    "officialSource": "https://www.pathai.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "qure-ai": {
+    "fr": "Solutions d'analyse d'imagerie médicale, notamment radiographies et scanners, pour assister les professionnels dans le triage et l'examen des cas.",
+    "en": "Medical imaging analysis solutions, including X-rays and CT scans, assisting professionals in triage and case review.",
+    "ar": "حلول لتحليل التصوير الطبي، مثل الأشعة السينية والتصوير المقطعي، لمساعدة المختصين على الفرز ومراجعة الحالات.",
+    "officialSource": "https://www.qure.ai/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "lunit": {
+    "fr": "Outils d'intelligence artificielle d'analyse d'imagerie médicale, notamment pour la radiologie et la pathologie, destinés aux professionnels.",
+    "en": "AI tools for medical imaging analysis, notably radiology and pathology, designed for clinical professionals.",
+    "ar": "أدوات ذكاء اصطناعي لتحليل التصوير الطبي، خاصة الأشعة وعلم الأمراض، موجهة إلى المختصين الصحيين.",
+    "officialSource": "https://www.lunit.io/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "ada-health": {
+    "fr": "Outil d'évaluation indicative des symptômes guidant les utilisateurs dans la description de leur état, sans remplacer une consultation médicale.",
+    "en": "Symptom assessment tool helping users describe health concerns without replacing professional medical advice.",
+    "ar": "أداة إرشادية لتقييم الأعراض تساعد المستخدمين على وصف مشكلاتهم الصحية دون أن تحل محل الاستشارة الطبية.",
+    "officialSource": "https://ada.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "buoy-health": {
+    "fr": "Service d'orientation fondé sur un questionnaire de symptômes pour aider à comprendre les possibilités de soins, sans établir de diagnostic définitif.",
+    "en": "Symptom questionnaire and care navigation service for exploring care options without providing a definitive diagnosis.",
+    "ar": "خدمة لاستعراض الأعراض والإرشاد إلى خيارات الرعاية عبر استبيان، دون تقديم تشخيص طبي نهائي.",
+    "officialSource": "https://www.buoyhealth.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "insilico-medicine": {
+    "fr": "Entreprise de recherche pharmaceutique recourant à l'intelligence artificielle pour identifier des cibles biologiques et concevoir des candidats médicaments.",
+    "en": "Drug discovery company using AI to identify biological targets and design drug candidates.",
+    "ar": "شركة لأبحاث اكتشاف الأدوية تستخدم الذكاء الاصطناعي لتحديد الأهداف البيولوجية وتصميم مركبات دوائية مرشحة.",
+    "officialSource": "https://insilico.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "isomorphic-labs": {
+    "fr": "Entreprise de recherche en découverte de médicaments utilisant des modèles d'intelligence artificielle pour étudier les interactions moléculaires et accélérer la conception.",
+    "en": "Drug discovery research company using AI models to study molecular interactions and support compound design.",
+    "ar": "شركة بحثية لاكتشاف الأدوية تستخدم نماذج الذكاء الاصطناعي لدراسة التفاعلات الجزيئية ودعم تصميم المركبات.",
+    "officialSource": "https://www.isomorphiclabs.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "mediapipe": {
+    "fr": "Ensemble Google d'outils et modèles de perception pour détecter et suivre des éléments visuels tels que mains, poses et visages sur différents appareils.",
+    "en": "Google perception tools and models for detecting and tracking visual landmarks such as hands, poses and faces across devices.",
+    "ar": "مجموعة أدوات ونماذج إدراك بصري من Google لاكتشاف معالم اليدين ووضعيات الجسم والوجوه وتتبعها على أجهزة مختلفة.",
+    "officialSource": "https://ai.google.dev/edge/mediapipe/solutions/guide",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "nvidia-jetson-ai": {
+    "fr": "Plateforme matérielle et logicielle NVIDIA de calcul IA embarqué destinée aux robots, caméras intelligentes et équipements en périphérie du réseau.",
+    "en": "NVIDIA hardware and software platform for embedded AI in robotics, smart cameras and edge devices.",
+    "ar": "منصة عتادية وبرمجية من NVIDIA لتشغيل الذكاء الاصطناعي المدمج في الروبوتات والكاميرات الذكية وأجهزة الحافة.",
+    "officialSource": "https://developer.nvidia.com/embedded-computing",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "ros": {
+    "fr": "Écosystème open source Robot Operating System fournissant bibliothèques et outils pour relier capteurs, actionneurs, navigation et logiciels robotiques.",
+    "en": "Robot Operating System open-source ecosystem connecting robot sensors, actuators, navigation and software components.",
+    "ar": "منظومة Robot Operating System مفتوحة المصدر توفر مكتبات وأدوات لربط المستشعرات والمشغلات والملاحة ومكونات برمجيات الروبوتات.",
+    "officialSource": "https://docs.ros.org/en/rolling/index.html",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "hugging-face-lerobot": {
+    "fr": "Projet ouvert Hugging Face proposant outils, jeux de données et modèles pour entraîner, évaluer et partager des systèmes d'apprentissage robotique.",
+    "en": "Hugging Face open-source tools, datasets and models for training, evaluating and sharing robot learning systems.",
+    "ar": "مشروع مفتوح من Hugging Face يوفر أدوات ومجموعات بيانات ونماذج لتدريب أنظمة التعلم الروبوتي وتقييمها ومشاركتها.",
+    "officialSource": "https://huggingface.co/docs/lerobot/main/index",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "edge-impulse": {
+    "fr": "Plateforme de développement de modèles de machine learning embarqués, de la collecte de données au déploiement sur microcontrôleurs et appareils périphériques.",
+    "en": "Embedded machine learning development platform, from data collection to deployment on microcontrollers and edge devices.",
+    "ar": "منصة لتطوير نماذج تعلم الآلة المدمجة، من جمع البيانات إلى نشر النماذج على المتحكمات الدقيقة وأجهزة الحافة.",
+    "officialSource": "https://docs.edgeimpulse.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "landing-ai": {
+    "fr": "Outils d'IA visuelle et de traitement documentaire destinés à extraire, structurer et exploiter des informations issues d'images ou de documents.",
+    "en": "Visual and document AI tools for extracting, structuring and using information from images or documents.",
+    "ar": "أدوات ذكاء اصطناعي بصري ووثائقي لاستخراج المعلومات من الصور والمستندات وتنظيمها واستخدامها.",
+    "officialSource": "https://landing.ai/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "clarifai": {
+    "fr": "Plateforme de déploiement et d'orchestration de modèles d'IA multimodaux, proposant des API d'analyse de contenus et de création de flux.",
+    "en": "Platform for deploying and orchestrating multimodal AI models with content analysis APIs and workflow tooling.",
+    "ar": "منصة لنشر نماذج الذكاء الاصطناعي متعددة الوسائط وتنسيقها عبر واجهات لتحليل المحتوى وبناء مسارات العمل.",
+    "officialSource": "https://www.clarifai.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "google-cloud-vision-ai": {
+    "fr": "API Google Cloud Vision permettant d'analyser des images, reconnaître des objets et extraire du texte de contenus visuels.",
+    "en": "Google Cloud Vision API for analyzing images, recognizing objects and extracting text from visual content.",
+    "ar": "واجهة Google Cloud Vision لتحليل الصور والتعرف على العناصر واستخراج النصوص من المحتوى المرئي.",
+    "officialSource": "https://docs.cloud.google.com/vision/docs",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "amazon-rekognition": {
+    "fr": "Service AWS d'analyse d'images et de vidéos via API pour détecter objets, scènes et textes selon les fonctionnalités disponibles.",
+    "en": "AWS API service for analyzing images and video to detect objects, scenes and text among supported features.",
+    "ar": "خدمة من AWS لتحليل الصور والفيديو عبر واجهة برمجية واكتشاف العناصر والمشاهد والنصوص ضمن وظائفها المتاحة.",
+    "officialSource": "https://docs.aws.amazon.com/rekognition/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "azure-ai-vision": {
+    "fr": "Services de vision informatique Microsoft Azure permettant d'analyser des images et d'extraire des informations visuelles et textuelles.",
+    "en": "Microsoft Azure computer vision services for image analysis and extraction of visual and text information.",
+    "ar": "خدمات الرؤية الحاسوبية في Microsoft Azure لتحليل الصور واستخراج المعلومات البصرية والنصية.",
+    "officialSource": "https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/overview",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "supervisely": {
+    "fr": "Plateforme de gestion de données d'images et de vidéos, d'annotation et de préparation de jeux de données pour entraîner des modèles de vision.",
+    "en": "Image and video data management, labeling and dataset preparation platform for training computer vision models.",
+    "ar": "منصة لإدارة بيانات الصور والفيديو ووسمها وإعداد مجموعات البيانات لتدريب نماذج الرؤية الحاسوبية.",
+    "officialSource": "https://docs.supervisely.com/",
+    "sourceReviewedAt": "2026-11-24"
   }
 }
