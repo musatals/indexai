@@ -4268,5 +4268,68 @@
     "ar": "خدمة لمراجعة الشيفرة تفهرس العلاقات بين الملفات والدوال والتبعيات لتحليل طلبات الدمج بما يتجاوز الأسطر المعدلة. تكمل الملاحظات الآلية الاختبارات والمراجعة البشرية؛ ينبغي التحقق من الإنذارات الخاطئة وسرية المستودع.",
     "officialSource": "https://www.greptile.com/",
     "sourceReviewedAt": "2026-11-24"
+  },
+  "google-jules": {
+    "fr": "Agent de développement asynchrone de Google connecté à GitHub. Il clone le dépôt dans une machine virtuelle, installe les dépendances et prépare des corrections, tests ou fonctionnalités. Examiner les différences et les résultats avant fusion.",
+    "en": "Google asynchronous coding agent connected to GitHub. It clones a repository into a virtual machine, installs dependencies and prepares fixes, tests or features. Review diffs and results before merging.",
+    "ar": "وكيل برمجة غير متزامن من Google يتصل بـ GitHub ويستنسخ المستودع داخل آلة افتراضية ويثبت التبعيات ويعد الإصلاحات والاختبارات والوظائف. ينبغي مراجعة الفروق والنتائج قبل الدمج.",
+    "officialSource": "https://jules.google/docs/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "cursor-agent": {
+    "fr": "Agent intégré à Cursor capable d'explorer un projet, modifier plusieurs fichiers et exécuter des commandes. Les Cloud Agents travaillent à distance et peuvent être déclenchés par des événements. Limiter les accès et contrôler les modifications.",
+    "en": "Agent integrated into Cursor that explores projects, edits multiple files and runs commands. Cloud Agents run remotely and can be triggered by events. Restrict access and review changes.",
+    "ar": "وكيل مدمج في Cursor يستكشف المشاريع ويعدل ملفات متعددة وينفذ الأوامر. تعمل الوكلاء السحابية عن بعد ويمكن تشغيلها استجابة للأحداث. ينبغي تقييد الوصول ومراجعة التعديلات.",
+    "officialSource": "https://cursor.com/docs/agent/overview",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "jetbrains-junie": {
+    "fr": "Agent de programmation JetBrains conçu pour planifier et réaliser des tâches complexes dans les IDE compatibles et le terminal. Il peut collaborer avec le développeur lors des modifications. Vérifier les résultats et configurer les permissions.",
+    "en": "JetBrains coding agent designed to plan and execute complex tasks in compatible IDEs and terminals. It can collaborate with developers during changes. Verify results and configure permissions.",
+    "ar": "وكيل برمجة من JetBrains مصمم لتخطيط المهام المعقدة وتنفيذها في بيئات التطوير المتوافقة والطرفية. يمكنه التعاون مع المطور أثناء التعديلات. ينبغي التحقق من النتائج وضبط الصلاحيات.",
+    "officialSource": "https://www.jetbrains.com/help/ai-assistant/junie-agent.html",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "goose-block": {
+    "fr": "Agent généraliste à code source ouvert exécuté sur la machine de l'utilisateur. Il peut mobiliser des outils et sources de données grâce aux extensions MCP, notamment pour le développement. L'exécution locale ne garantit pas que le modèle ou les services connectés soient locaux.",
+    "en": "Open-source general-purpose agent running on the user's machine. MCP extensions connect tools and data sources, including development workflows. Local execution does not guarantee that models or connected services run locally.",
+    "ar": "وكيل عام مفتوح المصدر يعمل على جهاز المستخدم. تتيح إضافات MCP ربط الأدوات ومصادر البيانات بما فيها مسارات التطوير. لا يضمن التنفيذ المحلي أن النماذج أو الخدمات المتصلة تعمل محليًا.",
+    "officialSource": "https://block.github.io/goose/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "gemini-cli": {
+    "fr": "Agent de terminal open source de Google capable d'utiliser des outils de développement et d'exécuter des commandes. Google a annoncé la transition vers Antigravity CLI, avec maintien de certains accès à Gemini CLI. Vérifier les modes d'authentification encore disponibles et les permissions.",
+    "en": "Google open-source terminal agent capable of using development tools and running commands. Google announced a transition to Antigravity CLI while retaining selected Gemini CLI access options. Check current authentication methods and permissions.",
+    "ar": "وكيل طرفية مفتوح المصدر من Google يستطيع استخدام أدوات التطوير وتنفيذ الأوامر. أعلنت Google الانتقال إلى Antigravity CLI مع الإبقاء على بعض طرق الوصول إلى Gemini CLI. ينبغي مراجعة طرق المصادقة المتاحة والصلاحيات.",
+    "officialSource": "https://github.com/google-gemini/gemini-cli/discussions/27274",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "qwen-code": {
+    "fr": "Agent de programmation open source pour le terminal, développé autour des modèles Qwen et évoluant vers plusieurs protocoles et plateformes. Il permet notamment de déléguer des tâches à des sous-agents. Vérifier les fournisseurs de modèles, les permissions et les coûts.",
+    "en": "Open-source terminal coding agent developed around Qwen models and evolving toward multiple protocols and platforms. Supports delegation to subagents. Check model providers, permissions and costs.",
+    "ar": "وكيل برمجة مفتوح المصدر للطرفية طور حول نماذج Qwen ويتطور نحو دعم بروتوكولات ومنصات متعددة. يتيح تفويض المهام إلى وكلاء فرعيين. ينبغي مراجعة مزودي النماذج والصلاحيات والتكاليف.",
+    "officialSource": "https://github.com/QwenLM/qwen-code",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "zed-agent": {
+    "fr": "Agent natif de l'éditeur Zed utilisant les modèles configurés par l'utilisateur et les outils du projet, du terminal et du protocole MCP. Zed permet également de connecter des agents externes. Contrôler les modifications et les accès aux données.",
+    "en": "Native Zed editor agent using user-configured models, project and terminal tools and MCP. Zed also supports external agents. Review changes and data access.",
+    "ar": "وكيل أصلي في محرر Zed يستخدم النماذج التي يضبطها المستخدم وأدوات المشروع والطرفية وبروتوكول MCP. يتيح Zed أيضًا ربط وكلاء خارجيين. ينبغي مراجعة التعديلات والوصول إلى البيانات.",
+    "officialSource": "https://zed.dev/docs/ai/agents",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "github-copilot-coding-agent": {
+    "fr": "Fonctions agentiques de GitHub Copilot permettant d'étudier une tâche, préparer des modifications et collaborer autour des demandes de fusion. Les sessions de recherche et de planification ne créent pas systématiquement une pull request. Appliquer les protections de branche et la revue humaine.",
+    "en": "GitHub Copilot agent capabilities for investigating tasks, preparing changes and collaborating on pull requests. Research and planning sessions do not necessarily create a pull request. Apply branch protections and human review.",
+    "ar": "وظائف وكلاء GitHub Copilot لدراسة المهام وإعداد التعديلات والتعاون في طلبات الدمج. لا تنشئ جلسات البحث والتخطيط طلب دمج بالضرورة. ينبغي تطبيق حماية الفروع والمراجعة البشرية.",
+    "officialSource": "https://docs.github.com/en/copilot/how-tos/copilot-on-github/use-copilot-agents/research-plan-iterate",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "factory-droids": {
+    "fr": "Agents de développement de Factory destinés à réaliser des tâches de programmation dans les projets logiciels. Ils assistent les développeurs dans l'exécution de travaux délégués. Définir des critères d'acceptation et contrôler les modifications avant intégration.",
+    "en": "Factory development agents designed to perform coding tasks in software projects. They assist developers with delegated work. Define acceptance criteria and review changes before integration.",
+    "ar": "وكلاء تطوير من Factory مصممون لتنفيذ مهام البرمجة في المشاريع البرمجية. يساعدون المطورين على إنجاز الأعمال المفوضة. ينبغي تحديد معايير القبول ومراجعة التعديلات قبل الدمج.",
+    "officialSource": "https://factory.ai/product/droids",
+    "sourceReviewedAt": "2026-11-24"
   }
 }
