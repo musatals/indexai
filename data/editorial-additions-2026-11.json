@@ -3252,5 +3252,75 @@
     "ar": "منصة لتوطين المحتوى السمعي البصري توفر الدبلجة الآلية وتحويل النص إلى كلام والترجمة النصية متعددة اللغات انطلاقًا من فيديوهات مرفوعة أو روابط متوافقة. تناسب تكييف الدروس والمحتويات التحريرية. ينبغي مراجعة الترجمات والحصول على إذن لاستنساخ الأصوات.",
     "officialSource": "https://dubverse.ai/features/",
     "sourceReviewedAt": "2026-11-24"
+  },
+  "elevenlabs": {
+    "fr": "Plateforme de synthèse vocale et de production audio proposant des modèles multilingues, dont plusieurs prennent en charge l’arabe, ainsi que des outils de doublage et de clonage vocal. Choisir le modèle et la voix selon la langue et la latence ; obtenir l’autorisation avant toute imitation d’une voix.",
+    "en": "Speech synthesis and audio production platform with multilingual models, several supporting Arabic, plus dubbing and voice cloning tools. Select model and voice according to language and latency; obtain permission before replicating a voice.",
+    "ar": "منصة لتوليد الكلام وإنتاج الصوت تضم نماذج متعددة اللغات يدعم عدد منها العربية، إضافة إلى أدوات الدبلجة واستنساخ الأصوات. ينبغي اختيار النموذج والصوت وفق اللغة وزمن الاستجابة والحصول على إذن قبل محاكاة صوت شخص.",
+    "officialSource": "https://elevenlabs.io/docs/help-center/other/what-languages-do-you-support",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "murf": {
+    "fr": "Studio de production de voix off pour formations, présentations et vidéos, offrant des voix en arabe standard et dans certaines variantes régionales. Tester la prononciation des termes techniques et vérifier les conditions de diffusion selon l’offre.",
+    "en": "Voiceover production studio for training, presentations and videos, with Modern Standard Arabic and selected regional voices. Test technical pronunciation and check distribution rights under the selected plan.",
+    "ar": "استوديو لإنتاج التعليق الصوتي للدورات والعروض والفيديوهات، يوفّر أصواتًا بالعربية الفصحى وبعض التنويعات الإقليمية. ينبغي اختبار نطق المصطلحات التقنية والتحقق من شروط النشر بحسب الاشتراك.",
+    "officialSource": "https://murf.ai/text-to-speech/arabic",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "speechify": {
+    "fr": "Lecteur vocal qui transforme textes et documents, notamment PDF, en contenu à écouter. Il facilite l’accès aux ressources écrites et propose des voix arabes. Distinguer lecture personnelle et production audio ; vérifier la qualité de lecture des documents complexes.",
+    "en": "Speech reader converting text and documents, including PDFs, into listenable audio. It improves access to written resources and offers Arabic voices. Distinguish personal reading from audio production and check reading quality for complex documents.",
+    "ar": "قارئ صوتي يحوّل النصوص والمستندات، بما فيها ملفات PDF، إلى محتوى مسموع ويسهّل الوصول إلى الموارد المكتوبة ويوفر أصواتًا عربية. ينبغي التمييز بين القراءة الشخصية وإنتاج الصوت والتحقق من جودة قراءة المستندات المعقدة.",
+    "officialSource": "https://speechify.com/ar/text-reader/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "wellsaid-labs": {
+    "fr": "Studio de voix off pour la production professionnelle et collaborative. Le catalogue Global Voices comprend des voix arabes, notamment algériennes, avec styles et accès variables. Vérifier la disponibilité de chaque voix et les licences.",
+    "en": "Voiceover studio for collaborative professional production. Its Global Voices catalog includes Arabic voices, including Algerian voices, with varying styles and access. Check individual voice availability and licensing.",
+    "ar": "استوديو للتعليق الصوتي المهني والتعاوني. يضم دليل Global Voices أصواتًا عربية منها أصوات جزائرية، مع اختلاف الأساليب والإتاحة. ينبغي التحقق من توفر كل صوت وشروط الترخيص قبل إنتاج المحتوى.",
+    "officialSource": "https://help.wellsaid.io/hc/en-us/articles/39112914360467-List-of-WellSaid-Voices",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "resemble-ai": {
+    "fr": "Plateforme de génération vocale avec des solutions hébergées et des modèles ouverts Chatterbox. La version multilingue permet la synthèse et le clonage dans plusieurs langues, dont l’arabe. Comparer les modalités de déploiement et les licences ; utiliser uniquement des échantillons autorisés.",
+    "en": "Speech generation platform with managed services and open Chatterbox models. Its multilingual version supports synthesis and cloning in languages including Arabic. Compare deployment and licensing options; use only authorized voice samples.",
+    "ar": "منصة لتوليد الأصوات توفر خدمات مستضافة ونماذج Chatterbox المفتوحة. يدعم الإصدار متعدد اللغات توليد الكلام واستنساخ الأصوات بلغات منها العربية. ينبغي مقارنة خيارات التشغيل والتراخيص وعدم استخدام عينات صوتية دون إذن.",
+    "officialSource": "https://www.resemble.ai/products/text-to-speech",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "lovo": {
+    "fr": "Genny de LOVO propose la génération et l’édition de voix off multilingues, avec des voix arabes et des variantes régionales. Il convient aux narrations et aux contenus de formation ; vérifier la prononciation, les droits commerciaux et les possibilités de montage selon le forfait.",
+    "en": "LOVO’s Genny supports multilingual voiceover generation and editing, with Arabic voices and regional variants. Suitable for narration and learning content; check pronunciation, commercial rights and editing options by plan.",
+    "ar": "يتيح Genny من LOVO توليد التعليق الصوتي وتحريره بلغات متعددة، بما فيها العربية وتنويعاتها الإقليمية. يناسب السرد والمواد التدريبية؛ ينبغي مراجعة النطق وحقوق الاستخدام التجاري وخيارات التحرير بحسب الاشتراك.",
+    "officialSource": "https://lovo.ai/da/text-to-speech/arabic-text-to-speech",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "narakeet": {
+    "fr": "Service de narration transformant du texte en audio ou en vidéo, avec des voix arabes pour leçons, articles et présentations. Il permet de produire notamment des fichiers MP3 et MP4. Contrôler la prononciation des noms propres et les droits de diffusion avant publication.",
+    "en": "Narration service converting text into audio or video, with Arabic voices for lessons, articles and presentations. It can produce MP3 and MP4 files. Check proper-name pronunciation and distribution rights before publishing.",
+    "ar": "خدمة للسرد الصوتي تحوّل النص إلى صوت أو فيديو بأصوات عربية مناسبة للدروس والمقالات والعروض. تتيح إنتاج ملفات منها MP3 وMP4. ينبغي مراجعة نطق الأسماء وحقوق النشر قبل إتاحة المحتوى.",
+    "officialSource": "https://www.narakeet.com/languages/text-to-speech-arabic/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "cartesia": {
+    "fr": "Infrastructure de synthèse vocale Sonic accessible par API, conçue notamment pour les agents vocaux à faible latence. Le catalogue comprend des voix arabes et des variantes régionales. Mesurer la latence de bout en bout et tester la prononciation des noms et nombres.",
+    "en": "Sonic speech synthesis infrastructure available through an API, designed for low-latency voice agents. Its catalog includes Arabic voices and regional variants. Measure end-to-end latency and test pronunciation of names and numbers.",
+    "ar": "بنية تحتية لتوليد الكلام باستخدام Sonic عبر واجهة برمجية، مخصصة خصوصًا للوكلاء الصوتيين سريعي الاستجابة. يضم دليلها أصواتًا عربية وتنويعات إقليمية. ينبغي قياس زمن الاستجابة الكامل واختبار نطق الأسماء والأرقام.",
+    "officialSource": "https://www.cartesia.ai/fr/languages/arabic",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "hume-ai": {
+    "fr": "API vocales pour la synthèse expressive avec Octave et les interactions en temps réel avec EVI. Elles permettent de guider le style de parole. La prise en charge de l’arabe doit être vérifiée séparément pour chaque modèle ; les mesures d’expression ne prouvent pas la capacité de synthèse.",
+    "en": "Voice APIs for expressive synthesis with Octave and real-time interaction with EVI. They support speech style direction. Arabic support must be checked separately for each model; expression measurement does not establish synthesis support.",
+    "ar": "واجهات برمجية للصوت تشمل توليد الكلام التعبيري عبر Octave والتفاعل الآني عبر EVI. تتيح توجيه أسلوب الكلام. يجب التحقق من دعم العربية لكل نموذج على حدة، إذ لا يثبت تحليل التعبيرات الصوتية توفر توليد الكلام بالعربية.",
+    "officialSource": "https://dev.hume.ai/docs/expression-measurement/science",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "openai-tts": {
+    "fr": "Service de synthèse vocale de l’API OpenAI permettant de convertir du texte en audio, avec choix de voix et réglages selon le modèle. Il convient aux lecteurs et narrations. Tester la prononciation des textes arabes et informer les utilisateurs que la voix est générée par IA.",
+    "en": "OpenAI API speech synthesis service converting text into audio, with voice choices and model-dependent controls. Suitable for readers and narration. Test Arabic pronunciation and disclose that the voice is AI-generated.",
+    "ar": "خدمة لتوليد الكلام عبر واجهة OpenAI البرمجية تحوّل النص إلى صوت، مع اختيار الأصوات وضوابط تختلف بحسب النموذج. تناسب تطبيقات القراءة والسرد. ينبغي اختبار نطق النصوص العربية وإعلام المستخدمين بأن الصوت مولّد بالذكاء الاصطناعي.",
+    "officialSource": "https://developers.openai.com/api/docs/guides/text-to-speech",
+    "sourceReviewedAt": "2026-11-24"
   }
 }
