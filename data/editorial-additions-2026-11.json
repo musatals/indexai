@@ -4870,5 +4870,75 @@
     "ar": "مساعد حواري قائم على نماذج Qwen للكتابة والشرح والمساعدة التقنية. ينبغي التمييز بين التطبيق المستضاف والنماذج القابلة للتنزيل من عائلة Qwen ومراجعة إمكانات كل إصدار وتراخيصه.",
     "officialSource": "https://qwen.ai/home",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "microsoft-copilot": {
+    "fr": "Assistant Microsoft pour la rédaction, les échanges multimodaux et l'analyse de fichiers. Les fonctions et les données accessibles diffèrent entre comptes personnels et professionnels Microsoft 365. Vérifier les autorisations et les informations générées.",
+    "en": "Microsoft assistant for writing, multimodal conversations and file analysis. Features and accessible data differ between personal and Microsoft 365 business accounts. Review permissions and generated information.",
+    "ar": "مساعد من Microsoft للكتابة والمحادثات متعددة الوسائط وتحليل الملفات. تختلف الوظائف والبيانات المتاحة بين الحسابات الشخصية وحسابات Microsoft 365 المهنية. ينبغي مراجعة الصلاحيات والمعلومات المولدة.",
+    "officialSource": "https://support.microsoft.com/en-us/privacy/microsoft-copilot/transparency-note",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "grok": {
+    "fr": "Assistant conversationnel de xAI proposant rédaction, recherche, raisonnement, voix et génération d'images selon le mode utilisé. Vérifier les sources originales, notamment lorsque les réponses reposent sur des publications sociales, et contrôler les conditions d'utilisation des médias.",
+    "en": "Conversational assistant from xAI offering writing, search, reasoning, voice and image generation depending on mode. Check original sources, especially when answers rely on social posts, and review media usage terms.",
+    "ar": "مساعد حواري من xAI يقدم الكتابة والبحث والاستدلال والصوت وتوليد الصور بحسب الوضع. ينبغي مراجعة المصادر الأصلية خصوصًا عند الاعتماد على منشورات التواصل الاجتماعي والتحقق من شروط استخدام الوسائط.",
+    "officialSource": "https://x.ai/grok",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "deepseek-chat": {
+    "fr": "Interface conversationnelle des modèles DeepSeek pour les questions, le raisonnement et les tâches de programmation. Distinguer le service web et mobile des modèles distribués et de l'API développeur. Vérifier les réponses, les licences et les conditions de traitement des données.",
+    "en": "Conversational interface for DeepSeek models supporting questions, reasoning and coding tasks. Distinguish the web and mobile service from distributed models and the developer API. Check answers, licenses and data processing terms.",
+    "ar": "واجهة حوارية لنماذج DeepSeek تدعم الأسئلة والاستدلال ومهام البرمجة. ينبغي التمييز بين خدمة الويب والهاتف والنماذج الموزعة وواجهة المطورين، ومراجعة الإجابات والتراخيص وشروط معالجة البيانات.",
+    "officialSource": "https://www.deepseek.com/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "kimi": {
+    "fr": "Assistant de Moonshot AI combinant conversation, analyse de documents, recherche approfondie et agents de création de présentations, feuilles de calcul et sites. Les capacités varient selon le modèle et le mode. Vérifier les références et les fichiers produits.",
+    "en": "Moonshot AI assistant combining chat, document analysis, deep research and agents for creating slides, spreadsheets and websites. Capabilities vary by model and mode. Verify references and generated files.",
+    "ar": "مساعد من Moonshot AI يجمع الحوار وتحليل المستندات والبحث المعمق ووكلاء لإنشاء العروض وجداول البيانات والمواقع. تختلف الإمكانات بحسب النموذج والوضع. ينبغي مراجعة المراجع والملفات المنتجة.",
+    "officialSource": "https://www.kimi.com/en/help/new-user-guide/overview",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "meta-ai": {
+    "fr": "Assistant de Meta accessible via plusieurs applications de son écosystème, proposant conversation, recherche, voix et création visuelle selon les marchés et services. Les modèles Muse alimentent certaines fonctions. Vérifier la disponibilité régionale et les paramètres de confidentialité.",
+    "en": "Meta assistant available across several ecosystem apps, offering chat, search, voice and visual creation depending on market and service. Muse models power selected features. Check regional availability and privacy settings.",
+    "ar": "مساعد من Meta متاح عبر عدة تطبيقات في منظومتها ويقدم الحوار والبحث والصوت والإنشاء البصري بحسب السوق والخدمة. تشغل نماذج Muse بعض الوظائف. ينبغي التحقق من الإتاحة الإقليمية وإعدادات الخصوصية.",
+    "officialSource": "https://about.fb.com/news/2026/04/introducing-muse-spark-meta-superintelligence-labs/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "pi": {
+    "fr": "Assistant conversationnel d'Inflection AI axé sur les échanges en langage naturel et la voix, utile pour réfléchir à des idées et organiser des tâches quotidiennes. Il ne remplace pas un professionnel de santé ni les relations humaines. Éviter de communiquer des informations sensibles.",
+    "en": "Inflection AI conversational assistant focused on natural dialogue and voice, useful for exploring ideas and organizing everyday tasks. It does not replace healthcare professionals or human relationships. Avoid sharing sensitive information.",
+    "ar": "مساعد حواري من Inflection AI يركز على الحوار الطبيعي والصوت ويفيد في استكشاف الأفكار وتنظيم المهام اليومية. لا يحل محل مختصي الصحة أو العلاقات الإنسانية. ينبغي تجنب مشاركة المعلومات الحساسة.",
+    "officialSource": "https://hey.pi.ai/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "you-com": {
+    "fr": "Plateforme historiquement orientée vers la recherche conversationnelle, désormais centrée sur des API de recherche web, récupération de contenus, réponses documentées et inférence multimodèle. Vérifier les offres accessibles aux particuliers et distinguer citations et validation factuelle.",
+    "en": "Platform historically focused on conversational search, now centered on APIs for web search, content retrieval, referenced answers and multi-model inference. Check consumer availability and distinguish citations from factual validation.",
+    "ar": "منصة ركزت سابقًا على البحث الحواري وتتجه الآن نحو واجهات البحث على الويب واسترجاع المحتوى والإجابات الموثقة والاستدلال متعدد النماذج. ينبغي مراجعة إتاحة الخدمات للأفراد والتمييز بين الاستشهاد والتحقق من الحقائق.",
+    "officialSource": "https://you.com/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "huggingchat": {
+    "fr": "Interface de dialogue de Hugging Face permettant d'expérimenter des modèles ouverts hébergés. La disponibilité des modèles peut évoluer et le service ne constitue pas une exécution locale. Consulter les fiches et licences des modèles avant réutilisation.",
+    "en": "Hugging Face chat interface for experimenting with hosted open models. Model availability can change and the service does not constitute local execution. Consult model cards and licenses before reuse.",
+    "ar": "واجهة حوارية من Hugging Face لتجربة النماذج المفتوحة المستضافة. قد تتغير إتاحة النماذج ولا تعد الخدمة تنفيذًا محليًا. ينبغي مراجعة بطاقات النماذج وتراخيصها قبل إعادة الاستخدام.",
+    "officialSource": "https://huggingface.co/chat/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "character-ai": {
+    "fr": "Plateforme de création et de dialogue avec des personnages fictifs configurables, destinée notamment au jeu de rôle et à l'écriture narrative. Les conversations ouvertes avec les personnages ne sont plus proposées aux moins de 18 ans selon l'éditeur. Ne pas assimiler les propos des personnages à des faits.",
+    "en": "Platform for creating and chatting with configurable fictional characters, particularly for roleplay and narrative writing. According to the provider, open-ended character chat is no longer available to under-18s. Do not treat character statements as facts.",
+    "ar": "منصة لإنشاء شخصيات خيالية قابلة للتخصيص والتحدث معها، خصوصًا لتقمص الأدوار والكتابة السردية. وفق المزود لم تعد المحادثات المفتوحة مع الشخصيات متاحة لمن هم دون 18 عامًا. لا ينبغي اعتبار أقوال الشخصيات حقائق.",
+    "officialSource": "https://blog.character.ai/continuing-to-build-upon-our-safety-priorities/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "replika": {
+    "fr": "Compagnon conversationnel virtuel avec personnalisation d'avatar, mémoire des échanges et fonctions vocales. Destiné aux interactions sociales simulées, il ne possède pas de sentiments humains et ne remplace ni les relations humaines ni un accompagnement professionnel. Vérifier les paramètres de confidentialité.",
+    "en": "Virtual conversational companion with avatar customization, conversation memory and voice features. Designed for simulated social interactions, it does not have human feelings or replace human relationships or professional support. Review privacy settings.",
+    "ar": "رفيق حواري افتراضي مع تخصيص الصورة الرمزية وذاكرة المحادثات ووظائف صوتية. صمم للتفاعلات الاجتماعية المحاكاة ولا يمتلك مشاعر بشرية ولا يحل محل العلاقات الإنسانية أو الدعم المهني. ينبغي مراجعة إعدادات الخصوصية.",
+    "officialSource": "https://replika.com/",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
