@@ -4688,5 +4688,61 @@
     "ar": "منظومة أتمتة Python تستخدم RCC لإدارة البيئات القابلة لإعادة الإنتاج والروبوتات البرمجية. توثق Sema4.ai الموارد الحالية. ينبغي مراجعة ترخيص كل مكون وعزل عمليات التنفيذ.",
     "officialSource": "https://sema4.ai/docs/automation/quickstart-guide",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "lm-studio": {
+    "fr": "Application de bureau pour télécharger et exécuter des modèles linguistiques localement, avec serveur API et fonctionnement hors ligne après téléchargement. Distinguer les modèles locaux des offres cloud et vérifier la mémoire disponible et la sécurité du serveur.",
+    "en": "Desktop application for downloading and running language models locally, with an API server and offline operation after download. Distinguish local models from cloud offerings and check available memory and server security.",
+    "ar": "تطبيق لسطح المكتب لتنزيل النماذج اللغوية وتشغيلها محليًا مع خادم API وإمكانية العمل دون اتصال بعد التنزيل. ينبغي التمييز بين النماذج المحلية والخدمات السحابية والتحقق من الذاكرة المتاحة وأمان الخادم.",
+    "officialSource": "https://lmstudio.ai/docs/app/offline",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "llama-cpp": {
+    "fr": "Moteur d'inférence C/C++ pour modèles linguistiques et multimodaux, notamment au format GGUF. La quantification permet d'adapter les besoins en mémoire au matériel. Tester la qualité des modèles quantifiés et respecter leurs licences.",
+    "en": "C/C++ inference engine for language and multimodal models, notably in GGUF format. Quantization helps adapt memory requirements to hardware. Test quantized model quality and comply with model licenses.",
+    "ar": "محرك استدلال بلغة C/C++ للنماذج اللغوية ومتعددة الوسائط، خصوصًا بصيغة GGUF. يساعد التكميم على ملاءمة متطلبات الذاكرة مع الأجهزة. ينبغي اختبار جودة النماذج المكممة واحترام تراخيصها.",
+    "officialSource": "https://github.com/ggml-org/llama.cpp",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "text-generation-inference": {
+    "fr": "Serveur d'inférence de Hugging Face pour distribuer des modèles linguistiques, notamment sur GPU. Le dépôt officiel indique un passage en mode maintenance. Pour un nouveau déploiement, comparer les moteurs activement développés et vérifier les mises à jour de sécurité.",
+    "en": "Hugging Face inference server for serving language models, notably on GPUs. Its official repository indicates maintenance mode. For new deployments, compare actively developed engines and check security updates.",
+    "ar": "خادم استدلال من Hugging Face لتقديم النماذج اللغوية خصوصًا على وحدات GPU. يشير المستودع الرسمي إلى الانتقال إلى وضع الصيانة. للمشاريع الجديدة ينبغي مقارنة المحركات النشطة والتحقق من تحديثات الأمان.",
+    "officialSource": "https://github.com/huggingface/text-generation-inference",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "llamafile": {
+    "fr": "Projet Mozilla permettant de distribuer des modèles linguistiques sous forme d'exécutables portables. Il simplifie les expérimentations locales sans serveur distant obligatoire. Vérifier la compatibilité du système, la provenance des fichiers et les ressources matérielles.",
+    "en": "Mozilla project distributing language models as portable executables. Simplifies local experiments without a mandatory remote server. Check operating system compatibility, file provenance and hardware resources.",
+    "ar": "مشروع من Mozilla يتيح توزيع النماذج اللغوية كملفات تنفيذية قابلة للنقل. يسهل التجارب المحلية دون خادم بعيد إلزامي. ينبغي مراجعة توافق النظام ومصدر الملفات والموارد المادية.",
+    "officialSource": "https://github.com/mozilla-ai/llamafile",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "weaviate": {
+    "fr": "Base de données vectorielle proposant recherche sémantique et hybride associant vecteurs et mots-clés BM25. Adaptée à l'indexation de corpus pour le RAG. Évaluer la pertinence des résultats, les filtres et les autorisations sur les collections.",
+    "en": "Vector database supporting semantic and hybrid search combining vectors and BM25 keywords. Suitable for indexing RAG corpora. Evaluate retrieval relevance, filters and collection permissions.",
+    "ar": "قاعدة بيانات متجهية تدعم البحث الدلالي والهجين الذي يجمع المتجهات والكلمات المفتاحية BM25. تناسب فهرسة المدونات الوثائقية لأنظمة RAG. ينبغي تقييم ملاءمة النتائج والمرشحات وصلاحيات المجموعات.",
+    "officialSource": "https://docs.weaviate.io/weaviate/concepts/search/hybrid-search",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "qdrant": {
+    "fr": "Base vectorielle proposant recherche par similarité, filtres sur métadonnées et combinaison de recherches lexicales et sémantiques. Utile pour les systèmes RAG nécessitant une sélection fine des documents. Tester la qualité de récupération et isoler les données des utilisateurs.",
+    "en": "Vector database offering similarity search, metadata filtering and combined lexical and semantic retrieval. Useful for RAG systems requiring precise document selection. Test retrieval quality and isolate user data.",
+    "ar": "قاعدة بيانات متجهية توفر البحث بالتشابه وتصفية البيانات الوصفية والجمع بين الاسترجاع المعجمي والدلالي. تفيد أنظمة RAG التي تتطلب اختيارًا دقيقًا للوثائق. ينبغي اختبار جودة الاسترجاع وعزل بيانات المستخدمين.",
+    "officialSource": "https://qdrant.tech/documentation/search/text-search/hybrid-search/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "faiss": {
+    "fr": "Bibliothèque de recherche de similarité et de regroupement de vecteurs denses, sous licence MIT. Elle propose différents index et compromis entre vitesse, mémoire et précision. Ce n'est pas une base de données complète ; prévoir la persistance et la gestion des métadonnées.",
+    "en": "MIT-licensed library for similarity search and clustering of dense vectors. Offers index choices and trade-offs between speed, memory and accuracy. Not a complete database; design persistence and metadata management separately.",
+    "ar": "مكتبة للبحث بالتشابه وتجميع المتجهات الكثيفة بترخيص MIT. توفر فهارس متنوعة ومفاضلات بين السرعة والذاكرة والدقة. ليست قاعدة بيانات متكاملة؛ ينبغي إعداد التخزين الدائم وإدارة البيانات الوصفية بصورة مستقلة.",
+    "officialSource": "https://github.com/facebookresearch/faiss",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "pgvector": {
+    "fr": "Extension open source de PostgreSQL pour stocker et interroger des vecteurs avec SQL. Elle propose une recherche exacte et des index approximatifs HNSW et IVFFlat. Utile pour associer données relationnelles et recherche sémantique ; mesurer les compromis de rappel et latence.",
+    "en": "Open-source PostgreSQL extension for storing and querying vectors with SQL. Supports exact search and approximate HNSW and IVFFlat indexes. Useful for combining relational data and semantic search; measure recall and latency trade-offs.",
+    "ar": "إضافة مفتوحة المصدر لـ PostgreSQL لتخزين المتجهات والاستعلام عنها باستخدام SQL. تدعم البحث الدقيق وفهارس HNSW وIVFFlat التقريبية. تفيد في الجمع بين البيانات العلائقية والبحث الدلالي؛ ينبغي قياس المفاضلة بين الاسترجاع وزمن الاستجابة.",
+    "officialSource": "https://github.com/pgvector/pgvector",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
