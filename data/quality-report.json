@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T21:33:00Z",
+  "generatedAt": "2026-11-24",
   "source": "sources/atlas_outils_ia_2026.csv",
   "total": 909,
   "categories": 55,
@@ -7,7 +7,7 @@
   "missingUrls": [
     {
       "id": "AI-0185",
-      "name": "tl"
+      "name": "tl — fragment d'import, non-produit (voir tl;dv)"
     },
     {
       "id": "AI-0212",
@@ -122,15 +122,15 @@
   "individuallyVerified": 0,
   "descriptionsPresent": 310,
   "pricingVerified": 32,
-  "editorialReviewPending": 310,
+  "editorialReviewPending": 625,
   "nameDuplicates": [],
-  "deepProfiles": 78,
-  "deepProfilesOfficialSourceReviewed": 78,
+  "deepProfiles": 198,
+  "deepProfilesOfficialSourceReviewed": 187,
   "discontinuedProductsFlagged": [
     "Sora"
   ],
-  "deepResearchDate": "2026-11-15",
-  "researchScope": "Official product sources for 78 in-depth dossiers; other entries are editorial summaries of vendor offerings and must not be treated as independent product testing.",
+  "deepResearchDate": "2026-11-24",
+  "researchScope": "198 structured research dossiers including 187 with official source links and 11 provisional cases; 22 more were enriched on 2026-11-24. Separately, 284 profiles have trilingual source-linked summaries and 625 retain preliminary Arabic descriptions. No independent functional tests or certifications are implied.",
   "agentExpansion": {
     "date": "2026-11-15",
     "newAgentRecords": 101,
@@ -157,5 +157,19 @@
       }
     ],
     "description": "Vendor-referenced inventory, not an exhaustive census; 9 dossiers reviewed from official resources; other new entries are editorial summaries."
-  }
+  },
+  "descriptionsArabicPresent": 909,
+  "trilingualProfilesOfficialSourceReviewed": 284,
+  "arabicBriefProfilesPendingVerification": 625,
+  "researchDossiersProvisional": 11,
+  "catalogAnomalies": [
+    {
+      "kind": "imported_duplicate_fragment",
+      "id": "AI-0185",
+      "name": "tl — fragment d'import, non-produit (voir tl;dv)",
+      "canonicalId": "AI-0186",
+      "canonicalName": "tl;dv",
+      "note": "The original tool name tl;dv was split at the semicolon on import. Preserve the fragment for historical traceability, but do not treat it as a distinct product."
+    }
+  ]
 }
