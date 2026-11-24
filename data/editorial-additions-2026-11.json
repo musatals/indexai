@@ -3541,5 +3541,83 @@
     "ar": "استوديو للتسجيل عن بعد للمقابلات والبودكاست والفيديو، يتيح مسارات منفصلة للمشاركين والتحرير اعتمادًا على التفريغ النصي. يدعم تفريغ العربية، لكن التطبيق المحمول يعرض النصوص ذات الاتجاه من اليمين إلى اليسار ضمن تدفق من اليسار إلى اليمين وفق الوثائق. ينبغي مراجعة العرض والاحتفاظ بالأصول والحصول على موافقة المشاركين.",
     "officialSource": "https://support.riverside.com/hc/en-us/articles/9173731506589-Which-languages-can-Riverside-transcribe",
     "sourceReviewedAt": "2026-11-24"
+  },
+  "midjourney": {
+    "fr": "Service de création visuelle à partir de consignes et d’images de référence, avec variantes et éditeur permettant des modifications ciblées ou l’extension du cadre. Adapté à l’exploration artistique ; vérifier les droits des images importées et les conditions commerciales liées à l’abonnement.",
+    "en": "Visual creation service using prompts and reference images, with variations and an editor for targeted changes or canvas expansion. Useful for artistic exploration; check rights to imported images and plan-specific commercial terms.",
+    "ar": "خدمة للإبداع البصري انطلاقًا من التعليمات والصور المرجعية، توفر تنويعات ومحررًا للتعديلات الموضعية وتوسيع إطار الصورة. تناسب الاستكشاف الفني؛ ينبغي التحقق من حقوق الصور المستوردة وشروط الاستخدام التجاري بحسب الاشتراك.",
+    "officialSource": "https://docs.midjourney.com/hc/en-us/articles/32083055291277-Terms-of-Service",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "adobe-firefly": {
+    "fr": "Famille de modèles et environnement Adobe de génération et de transformation de contenus visuels, intégrés à des applications créatives. Les modèles Firefly sont entraînés notamment sur des contenus sous licence et du domaine public ; Adobe autorise les usages commerciaux des fonctions non bêta. Vérifier aussi les conditions des modèles partenaires.",
+    "en": "Adobe generative model family and creative environment for producing and transforming visual media, integrated with creative apps. Firefly models use licensed and public-domain training content among other sources; Adobe permits commercial use of non-beta features. Check partner model terms separately.",
+    "ar": "عائلة نماذج وبيئة إبداعية من Adobe لتوليد المحتوى البصري وتحويله، مدمجة في التطبيقات الإبداعية. دُرّبت نماذج Firefly على مواد مرخصة وأخرى من الملك العام ضمن مصادرها، وتسمح Adobe بالاستخدام التجاري للميزات غير التجريبية. ينبغي مراجعة شروط نماذج الشركاء أيضًا.",
+    "officialSource": "https://helpx.adobe.com/firefly/web/get-started/learn-the-basics/adobe-firefly-faq.html",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "stable-diffusion": {
+    "fr": "Famille de modèles de diffusion pour créer et modifier des images, avec déploiement local possible selon la version. Elle permet d’expérimenter avec des paramètres et interfaces personnalisables. La licence communautaire couvre certains modèles sous conditions de revenus ; vérifier la licence exacte de chaque poids et extension.",
+    "en": "Diffusion model family for image generation and editing, with local deployment available for selected versions. Supports experimentation with customizable parameters and interfaces. The Community License covers certain models subject to revenue conditions; check the exact license for each checkpoint and extension.",
+    "ar": "عائلة نماذج انتشار لتوليد الصور وتعديلها مع إمكانية التشغيل المحلي لبعض الإصدارات. تتيح التجريب بإعدادات وواجهات قابلة للتخصيص. يغطي الترخيص المجتمعي بعض النماذج وفق شروط مرتبطة بالإيرادات؛ ينبغي مراجعة الترخيص المحدد لكل نموذج وإضافة.",
+    "officialSource": "https://stability.ai/license",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "leonardo-ai": {
+    "fr": "Studio de création d’images et de vidéos avec génération à partir de texte ou d’images, retouche locale et canevas interactif. Une API permet d’intégrer ces fonctions à des projets. Les droits et la confidentialité diffèrent selon les offres gratuites, payantes et API ; consulter les conditions correspondantes.",
+    "en": "Image and video creation studio with text- or image-based generation, targeted editing and interactive canvas tools. An API supports integration into projects. Rights and privacy differ across free, paid and API plans; check the corresponding terms.",
+    "ar": "استوديو لإنشاء الصور والفيديوهات من النصوص أو الصور، مع التعديل الموضعي ولوحة عمل تفاعلية. تتيح واجهة برمجية دمج الوظائف في المشاريع. تختلف الحقوق والخصوصية بحسب الخطط المجانية والمدفوعة واستخدام الواجهة البرمجية؛ ينبغي مراجعة الشروط المناسبة.",
+    "officialSource": "https://www.leonardo.ai/ai-image-generator",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "ideogram": {
+    "fr": "Plateforme de génération et d’édition d’images particulièrement adaptée aux compositions contenant du texte, comme les affiches et couvertures. Studio permet de travailler sur une composition avec des calques. Vérifier systématiquement l’orthographe et le rendu des caractères arabes avant publication.",
+    "en": "Image generation and editing platform particularly suited to compositions containing text, such as posters and covers. Studio supports layered composition work. Always check spelling and Arabic character rendering before publication.",
+    "ar": "منصة لتوليد الصور وتحريرها تناسب خصوصًا التصاميم التي تتضمن نصوصًا كالملصقات والأغلفة. يتيح Studio العمل على التكوين باستخدام الطبقات. ينبغي التحقق من الإملاء وطريقة عرض الحروف العربية قبل النشر.",
+    "officialSource": "https://ideogram.ai/features/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "flux": {
+    "fr": "Famille de modèles de Black Forest Labs pour la génération et la retouche d’images, avec variantes accessibles par API et certaines à poids téléchargeables. Les modèles locaux offrent davantage de maîtrise du traitement, mais les licences commerciales diffèrent selon la variante. Ne pas assimiler poids accessibles et licence libre.",
+    "en": "Black Forest Labs image generation and editing model family, with API variants and selected downloadable weights. Local models offer greater processing control, but commercial licenses vary by variant. Accessible weights do not necessarily mean an unrestricted license.",
+    "ar": "عائلة نماذج من Black Forest Labs لتوليد الصور وتعديلها، تتوفر عبر واجهات برمجية مع إمكانية تنزيل أوزان بعض الإصدارات. تمنح النماذج المحلية تحكمًا أكبر في المعالجة، لكن التراخيص التجارية تختلف بحسب الإصدار. إتاحة الأوزان لا تعني بالضرورة حرية الاستخدام.",
+    "officialSource": "https://help.bfl.ai/articles/7655484417-what-flux-models-are-available",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "recraft": {
+    "fr": "Studio graphique de génération et de retouche d’images matricielles et vectorielles, avec création de fichiers SVG modifiables. Il convient notamment aux illustrations et aux identités visuelles. Les images créées gratuitement et celles produites sous abonnement ont des conditions de propriété et de confidentialité différentes.",
+    "en": "Graphic studio for generating and editing raster and vector images, including editable SVG files. Useful for illustration and branding. Images created on free and paid plans have different ownership and privacy terms.",
+    "ar": "استوديو للتصميم وتوليد الصور النقطية والمتجهية وتحريرها، بما فيها ملفات SVG القابلة للتعديل. يناسب الرسوم التوضيحية والهويات البصرية. تختلف شروط الملكية والخصوصية بين الصور المنشأة مجانًا وتلك المنتجة ضمن الاشتراكات المدفوعة.",
+    "officialSource": "https://www.recraft.ai/ai-image-generator",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "krea": {
+    "fr": "Suite créative réunissant plusieurs modèles de génération d’images et de vidéos, un canevas réactif en temps réel et des outils d’agrandissement et de retouche. Elle permet de comparer des approches visuelles dans une même interface. Les détails ajoutés par amélioration ne doivent pas être considérés comme des informations documentaires originales.",
+    "en": "Creative suite combining multiple image and video models, a responsive real-time canvas and enhancement and editing tools. It enables visual workflow comparison in one interface. Details added during enhancement should not be treated as original documentary information.",
+    "ar": "مجموعة إبداعية تجمع نماذج متعددة لتوليد الصور والفيديو ولوحة تفاعلية آنية وأدوات التكبير والتحرير. تتيح مقارنة أساليب العمل البصري ضمن واجهة واحدة. لا ينبغي اعتبار التفاصيل التي تضيفها أدوات التحسين معلومات توثيقية أصلية.",
+    "officialSource": "https://www.krea.ai/features/ai-image-generator",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "dreamstudio": {
+    "fr": "Ancienne interface de génération d’images de Stability AI, désormais nommée Brand Studio selon l’éditeur. La plateforme actuelle vise la production créative cohérente avec l’identité des marques et combine plusieurs modèles. Vérifier les modalités d’accès actuelles plutôt que de supposer le maintien de toutes les fonctions historiques.",
+    "en": "Former Stability AI image generation interface, now named Brand Studio according to the provider. The current platform targets brand-consistent creative production and combines several models. Check present access requirements rather than assuming all historical features remain available.",
+    "ar": "واجهة سابقة لتوليد الصور من Stability AI أصبحت تحمل اسم Brand Studio وفق المطوّر. تستهدف المنصة الحالية الإنتاج الإبداعي المتسق مع هوية العلامات وتجمع نماذج متعددة. ينبغي مراجعة شروط الإتاحة الحالية بدل افتراض استمرار جميع الوظائف القديمة.",
+    "officialSource": "https://kb.stability.ai/knowledge-base/-fraud-alert-identifying-genuine-dream-studio-transactions-and-reporting-fraud",
+    "sourceReviewedAt": "2026-11-24",
+    "currentName": "Brand Studio (ex-DreamStudio)"
+  },
+  "artbreeder": {
+    "fr": "Atelier d’expérimentation visuelle associant Splicer 2 pour mélanger et modifier des images, Composer pour combiner images et texte, et Collager pour assembler des éléments graphiques. Adapté aux variations de personnages et compositions ; vérifier les droits des références et les paramètres de partage.",
+    "en": "Visual experimentation workspace combining Splicer 2 for blending and editing images, Composer for combining images and text, and Collager for assembling graphics. Useful for character and composition variations; check reference rights and sharing settings.",
+    "ar": "ورشة للتجريب البصري تجمع Splicer 2 لمزج الصور وتعديلها وComposer للجمع بين الصور والنصوص وCollager لتركيب العناصر الرسومية. تناسب تنويعات الشخصيات والتكوينات؛ ينبغي مراجعة حقوق المراجع وإعدادات المشاركة.",
+    "officialSource": "https://www.artbreeder.com/tools",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "microsoft-designer": {
+    "fr": "Application Microsoft de création et de retouche de visuels à partir de descriptions, destinée notamment aux illustrations et communications personnelles. La documentation précise que l’offre Designer avec compte Microsoft personnel est réservée aux usages non commerciaux. Vérifier les conditions des intégrations Microsoft 365 séparément.",
+    "en": "Microsoft application for generating and editing visuals from descriptions, aimed at illustrations and personal communications. Documentation states that Designer with a personal Microsoft account is licensed for non-commercial use. Check Microsoft 365 integration terms separately.",
+    "ar": "تطبيق من Microsoft لإنشاء العناصر البصرية وتحريرها انطلاقًا من الأوصاف، موجه خصوصًا للرسوم والتواصل الشخصي. توضح الوثائق أن استخدام Designer بحساب Microsoft شخصي مخصص للأغراض غير التجارية. ينبغي مراجعة شروط التكامل مع Microsoft 365 بصورة مستقلة.",
+    "officialSource": "https://support.microsoft.com/en-us/designer/frequently-asked-questions-about-microsoft-designer",
+    "sourceReviewedAt": "2026-11-24"
   }
 }
