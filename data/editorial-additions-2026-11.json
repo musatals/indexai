@@ -2928,5 +2928,68 @@
       "evidence": "official"
     },
     "currentName": "tl;dv"
+  },
+  "eightfold-ai": {
+    "fr": "Plateforme de gestion des talents fondée sur les compétences : elle aide les équipes RH à repérer des candidats, rapprocher profils et postes, accompagner la mobilité interne et coordonner certaines étapes du recrutement avec des agents IA. Les recommandations doivent rester soumises à une décision humaine.",
+    "en": "Skills-based talent intelligence platform that helps HR teams discover candidates, match people to roles, support internal mobility and coordinate parts of recruiting with AI agents. Recommendations should inform, not replace, human employment decisions.",
+    "ar": "منصة لإدارة المواهب تعتمد على تحليل المهارات لمساعدة فرق الموارد البشرية على اكتشاف المرشحين ومطابقة الكفاءات مع الوظائف ودعم التنقل المهني الداخلي. تضم وكلاء ذكاء اصطناعي لبعض مراحل التوظيف، لكن توصياتها تحتاج إلى مراجعة بشرية قبل اتخاذ القرار.",
+    "officialSource": "https://eightfold.ai/products/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "hirevue": {
+    "fr": "Plateforme de recrutement proposant entretiens vidéo différés ou en direct, planification et évaluations structurées liées aux compétences du poste. Pour certaines évaluations assistées par IA, l'analyse porte sur le contenu des réponses ; l'employeur doit contrôler les critères et les décisions.",
+    "en": "Recruitment platform for on-demand or live video interviews, scheduling and structured job-related assessments. Where AI scoring is used, the provider says it analyzes answer content; employers remain responsible for reviewing criteria and hiring decisions.",
+    "ar": "منصة توظيف لتنظيم المقابلات المرئية المباشرة أو المسجلة مسبقًا، وجدولتها وإجراء تقييمات منظمة مرتبطة بمتطلبات الوظيفة. توضح الشركة أن بعض التقييمات المعتمدة على الذكاء الاصطناعي تحلل مضمون الإجابات، مع ضرورة مراجعة المعايير والقرارات بشريًا.",
+    "officialSource": "https://www.hirevue.com/platform/our-science",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "khanmigo": {
+    "fr": "Assistant pédagogique de Khan Academy : il aide les enseignants à préparer cours, objectifs et évaluations, et propose un tutorat guidé aux apprenants éligibles. L'accès des élèves et des familles dépend du pays, de l'âge et, selon les cas, d'un partenariat scolaire.",
+    "en": "Khan Academy's AI teaching assistant supports lesson planning, learning objectives and assessment materials, while eligible learners can receive guided tutoring. Student and family access varies by country, age and, in some cases, school partnership.",
+    "ar": "مساعد تعليمي من Khan Academy يساعد المعلمين على تخطيط الدروس وصياغة أهداف التعلم وإعداد أدوات التقييم، ويوفر للمتعلمين المؤهلين إرشادًا تدريجيًا بدل الاكتفاء بالأجوبة الجاهزة. يختلف إتاحته للطلاب والأسر بحسب البلد والعمر والشراكات المدرسية.",
+    "officialSource": "https://www.khanacademy.org/khanmigo",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "magicschool-ai": {
+    "fr": "Ensemble d'outils IA pour enseignants : préparation de séquences, supports différenciés, questionnaires et évaluations. L'espace MagicStudent permet des activités encadrées avec visibilité et contrôles pour les enseignants ; les contenus générés et les données d'élèves exigent une vigilance pédagogique.",
+    "en": "AI toolkit for teachers to prepare lessons, differentiated materials, quizzes and assessments. MagicStudent offers supervised student activities with teacher visibility and controls; generated material and student information still require careful review.",
+    "ar": "مجموعة أدوات ذكاء اصطناعي للمعلمين لإعداد الدروس والأنشطة المتدرجة والاختبارات والتقييمات. تتيح بيئة MagicStudent أنشطة للطلاب تحت إشراف المعلم مع أدوات للمتابعة والتحكم، مع ضرورة مراجعة صحة المواد وحماية بيانات المتعلمين.",
+    "officialSource": "https://www.magicschool.ai/magicstudent",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "diffit": {
+    "fr": "Outil destiné aux enseignants pour créer ou adapter des textes, questions de compréhension et activités à différents niveaux de lecture. Il peut s'appuyer sur un document ou un sujet de cours ; l'enseignant doit vérifier la fidélité aux sources et l'adéquation au programme.",
+    "en": "Teaching tool for creating or adapting reading passages, comprehension questions and classroom activities to different reading levels. It can start from source materials or lesson topics; teachers should verify source fidelity and curricular fit.",
+    "ar": "أداة للمعلمين تُنشئ نصوصًا تعليمية وأسئلة للفهم وأنشطة صفية أو تكيّفها مع مستويات قراءة متفاوتة. يمكن الانطلاق من مستند أو موضوع دراسي، لكن ينبغي للمعلم التحقق من دقة المحتوى وملاءمته للمنهاج ومستوى المتعلمين.",
+    "officialSource": "https://web.diffit.me/diffit-certified-educator-course/create",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "canva": {
+    "fr": "Plateforme de création de visuels, présentations, documents et vidéos. Sa suite Magic Studio apporte notamment des aides à la rédaction, à la génération de visuels et à l'adaptation de créations ; les résultats doivent être relus et les conditions d'utilisation des contenus vérifiées.",
+    "en": "Design platform for graphics, presentations, documents and videos. Magic Studio includes AI-assisted writing, visual generation and design adaptation; outputs need review and creators should check the terms for using generated content.",
+    "ar": "منصة لإنشاء التصاميم والعروض التقديمية والمستندات والفيديوهات. تضم مجموعة Magic Studio أدوات للمساعدة في الكتابة وتوليد العناصر البصرية وتكييف التصاميم لمقاسات واستخدامات مختلفة. ينبغي مراجعة النتائج والتحقق من شروط استخدام المحتوى المُولَّد.",
+    "officialSource": "https://www.canva.com/newsroom/news/magic-studio/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "adobe-express": {
+    "fr": "Application Adobe de création rapide pour affiches, publications sociales, vidéos courtes et supports de marque. Elle combine modèles personnalisables, montage simplifié et fonctions d'IA générative liées à Firefly ; certaines options et certains crédits dépendent de l'offre.",
+    "en": "Adobe's quick-creation app for posters, social posts, short videos and branded assets. It combines editable templates, simplified editing and Firefly-powered generative AI features; availability and credits vary by plan.",
+    "ar": "تطبيق من Adobe لإنشاء الملصقات ومنشورات الشبكات الاجتماعية والفيديوهات القصيرة والمواد البصرية الخاصة بالعلامات التجارية. يجمع بين القوالب القابلة للتعديل وأدوات التحرير المبسطة ووظائف الذكاء الاصطناعي التوليدي من Firefly، مع اختلاف الميزات والحصص حسب الاشتراك.",
+    "officialSource": "https://www.adobe.com/express/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "figma-ai": {
+    "fr": "Fonctions d'IA intégrées à l'environnement Figma pour accélérer le travail de conception d'interfaces. First Draft peut produire une première maquette modifiable à partir d'une consigne ; l'accès aux outils, les crédits et les limites dépendent du compte et du forfait.",
+    "en": "AI capabilities within Figma that help teams start and refine interface designs. First Draft can turn a prompt into an editable initial mock-up; tool availability, AI credits and usage limits depend on account and plan.",
+    "ar": "وظائف ذكاء اصطناعي مدمجة في Figma لمساعدة فرق التصميم على بدء واجهات المستخدم وتطويرها. تستطيع ميزة First Draft إنشاء مسودة تصميم قابلة للتعديل انطلاقًا من تعليمات نصية، بينما تختلف إتاحة الميزات وأرصدة الاستخدام حسب الحساب والخطة.",
+    "officialSource": "https://help.figma.com/hc/en-us/articles/23870272542231-Get-started-with-Figma-AI",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "gamma": {
+    "fr": "Outil de création assistée par IA qui transforme idées, plans ou documents en présentations structurées, pages web et autres contenus visuels. Les présentations peuvent être partagées par lien et exportées notamment en PDF ou PowerPoint ; faits et mise en page restent à contrôler.",
+    "en": "AI creation tool that turns ideas, outlines or documents into structured presentations, websites and visual content. Decks can be shared by link and exported to formats such as PDF and PowerPoint; facts and layout still need checking.",
+    "ar": "أداة تعتمد على الذكاء الاصطناعي لتحويل الأفكار والخطط والمستندات إلى عروض تقديمية منظمة وصفحات ويب ومحتويات بصرية. تتيح مشاركة العروض عبر رابط أو تصديرها بصيغ مثل PDF وPowerPoint، مع ضرورة مراجعة المعلومات والتصميم قبل النشر.",
+    "officialSource": "https://gamma.app/products/presentations",
+    "sourceReviewedAt": "2026-11-24"
   }
 }
