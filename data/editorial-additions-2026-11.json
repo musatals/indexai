@@ -3407,5 +3407,90 @@
     "ar": "استوديو للإبداع الموسيقي يساعد فيه Agent One على تخطيط وإنتاج الأغاني والمقطوعات الآلية والمسارات المنفصلة والعناصر البصرية. يدعم منشئي البودكاست والمحتوى السمعي البصري. تتوقف الحقوق على الاشتراك والتراخيص والمساهمة البشرية؛ ينبغي مراجعة الشروط قبل النشر.",
     "officialSource": "https://www.soundverse.ai/about",
     "sourceReviewedAt": "2026-11-24"
+  },
+  "moises": {
+    "fr": "Application pour musiciens combinant séparation des pistes, détection des accords, transcription et modification du tempo ou de la hauteur. Elle facilite l’apprentissage instrumental et la préparation de répétitions. Vérifier les accords détectés et les droits sur les enregistrements importés.",
+    "en": "Musician's workspace combining stem separation, chord detection, transcription and tempo or pitch adjustment. Useful for instrumental practice and rehearsals. Check detected chords and rights to uploaded recordings.",
+    "ar": "تطبيق للموسيقيين يجمع فصل المسارات الصوتية واكتشاف التآلفات والتفريغ وتعديل السرعة وطبقة الصوت. يفيد في تعلم العزف والتحضير للتدريبات. ينبغي مراجعة التآلفات المكتشفة وحقوق التسجيلات المرفوعة.",
+    "officialSource": "https://moises.ai/tools/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "landr": {
+    "fr": "Suite de production musicale réunissant mastering automatisé, effets audio, collaboration et distribution. Le mastering peut être effectué en ligne ou dans un logiciel audio compatible via un plugin. Vérifier les exigences des distributeurs, notamment pour les œuvres générées par IA.",
+    "en": "Music production suite combining automated mastering, audio effects, collaboration and distribution. Mastering is available online or through a compatible audio workstation plugin. Check distributor requirements, especially for AI-generated works.",
+    "ar": "مجموعة أدوات للإنتاج الموسيقي تجمع المعالجة النهائية الآلية والمؤثرات الصوتية والتعاون والتوزيع. يمكن إجراء الماسترينغ عبر الإنترنت أو إضافة متوافقة مع برنامج الصوت. ينبغي مراجعة شروط الموزعين، خصوصًا للأعمال المولدة بالذكاء الاصطناعي.",
+    "officialSource": "https://www.landr.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "kits-ai": {
+    "fr": "Studio audio orienté vers les musiciens, permettant de transformer des performances vocales, créer des modèles de voix et isoler des chants. Il facilite les maquettes et arrangements ; obtenir le consentement des personnes dont les voix sont utilisées et vérifier les licences.",
+    "en": "Music-focused audio studio for transforming vocal performances, creating voice models and isolating vocals. Useful for demos and arrangements; obtain consent from voice owners and check licensing terms.",
+    "ar": "استوديو صوتي للموسيقيين يتيح تحويل الأداء الغنائي وإنشاء نماذج للأصوات وعزل الغناء. يفيد في إعداد النماذج الأولية والتوزيع الموسيقي؛ ينبغي الحصول على موافقة أصحاب الأصوات والتحقق من التراخيص.",
+    "officialSource": "https://www.kits.ai/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "lalal-ai": {
+    "fr": "Outil de séparation de sources pour extraire voix, batterie, basse et autres instruments de fichiers audio ou vidéo. Il propose également le nettoyage de la parole et des intégrations API et VST. Des artefacts peuvent subsister ; vérifier les droits des fichiers traités.",
+    "en": "Source separation tool extracting vocals, drums, bass and other instruments from audio or video files. It also offers speech cleaning and API and VST integrations. Artifacts may remain; check rights to processed recordings.",
+    "ar": "أداة لفصل المصادر الصوتية واستخراج الغناء والطبول والباس وآلات أخرى من ملفات الصوت أو الفيديو. توفر أيضًا تنظيف الكلام وتكاملات API وVST. قد تبقى تشوهات صوتية؛ ينبغي التحقق من حقوق التسجيلات المعالجة.",
+    "officialSource": "https://www.lalal.ai/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "adobe-podcast": {
+    "fr": "Environnement web de traitement et d’enregistrement sonore. Enhance Speech réduit notamment le bruit et la réverbération des voix, tandis que Studio permet d’enregistrer et de monter des contenus. Pour les archives ou entretiens de recherche, conserver toujours le fichier original.",
+    "en": "Web-based audio recording and processing environment. Enhance Speech reduces voice noise and reverberation, while Studio supports recording and editing. For archives or research interviews, always retain the original recording.",
+    "ar": "بيئة ويب لتسجيل الصوت ومعالجته. تقلل ميزة Enhance Speech الضجيج والصدى في التسجيلات الكلامية، بينما يتيح Studio التسجيل والتحرير. عند معالجة الأرشيف أو المقابلات البحثية ينبغي الاحتفاظ دائمًا بالتسجيل الأصلي.",
+    "officialSource": "https://podcast.adobe.com/en/features",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "auphonic": {
+    "fr": "Service de postproduction audio automatisée proposant équilibrage des niveaux, réduction du bruit, traitement multipiste, normalisation du volume et transcription. Il convient aux podcasts et contenus pédagogiques. Vérifier les niveaux cibles et écouter le résultat avant publication.",
+    "en": "Automated audio postproduction service offering level balancing, noise reduction, multitrack processing, loudness normalization and transcription. Useful for podcasts and educational content. Check target levels and audition outputs before publishing.",
+    "ar": "خدمة للمعالجة الصوتية اللاحقة الآلية توفر موازنة المستويات وتقليل الضجيج ومعالجة المسارات المتعددة وتوحيد شدة الصوت والتفريغ النصي. تناسب البودكاست والمواد التعليمية. ينبغي التحقق من المستويات المستهدفة والاستماع إلى النتائج قبل النشر.",
+    "officialSource": "https://auphonic.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "podcastle": {
+    "fr": "Podcastle a adopté le nom Async le 28 janvier 2026. La plateforme réunit désormais des outils de production audio et vidéo, de montage et de génération vocale assistés par IA. Consulter le produit actuel et vérifier les modalités de migration et d’accès aux fonctions utilisées.",
+    "en": "Podcastle rebranded as Async on January 28, 2026. The platform combines AI-assisted audio and video production, editing and voice generation. Consult the current product and check migration and feature access requirements.",
+    "ar": "أصبح اسم Podcastle هو Async في 28 يناير 2026. تجمع المنصة أدوات إنتاج الصوت والفيديو والتحرير وتوليد الأصوات بمساعدة الذكاء الاصطناعي. ينبغي الرجوع إلى المنتج الحالي والتحقق من شروط الانتقال وإتاحة الوظائف المطلوبة.",
+    "officialSource": "https://async.com/announcements/podcastle-is-now-async/",
+    "sourceReviewedAt": "2026-11-24",
+    "currentName": "Async (ex-Podcastle)"
+  },
+  "cleanvoice": {
+    "fr": "Outil de montage automatisé des podcasts permettant de réduire les bruits, hésitations, sons de bouche et silences prolongés. Il propose aussi transcription et synthèse. Vérifier que les coupes ne suppriment pas des éléments significatifs du discours, notamment dans les entretiens scientifiques.",
+    "en": "Automated podcast editing tool reducing noise, hesitations, mouth sounds and long pauses, with transcription and summarization. Check that edits do not remove meaningful speech elements, especially in research interviews.",
+    "ar": "أداة للتحرير الآلي للبودكاست تقلل الضجيج والترددات الكلامية وأصوات الفم وفترات الصمت الطويلة، وتوفر التفريغ والتلخيص. ينبغي التأكد من أن الحذف لا يزيل عناصر ذات دلالة من الخطاب، خصوصًا في المقابلات البحثية.",
+    "officialSource": "https://docs.cleanvoice.ai/docs/v2/configuration",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "wondercraft": {
+    "fr": "Studio multimédia assisté par IA réunissant création de podcasts, synthèse vocale, avatars et génération de vidéos à partir de scripts. Il convient notamment aux équipes de formation et de communication. Contrôler la fidélité des scripts et obtenir les autorisations relatives aux voix clonées.",
+    "en": "AI-assisted multimedia studio combining podcast creation, speech synthesis, avatars and script-based video generation. Useful for training and communication teams. Review script fidelity and obtain authorization for cloned voices.",
+    "ar": "استوديو متعدد الوسائط يجمع إنشاء البودكاست وتوليد الكلام والشخصيات الرقمية وإنتاج الفيديو من النصوص. يناسب فرق التدريب والتواصل. ينبغي مراجعة دقة النصوص والحصول على الأذونات اللازمة لاستنساخ الأصوات.",
+    "officialSource": "https://www.wondercraft.ai/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "alitu": {
+    "fr": "Plateforme de production de podcasts regroupant enregistrement, nettoyage automatique, montage par transcription et publication. Elle simplifie la réalisation d’épisodes sans expertise technique avancée. Relire la transcription et vérifier les coupures et les conditions d’hébergement.",
+    "en": "Podcast production platform combining recording, automatic cleanup, transcript-based editing and publishing. It simplifies episode production without advanced technical expertise. Review transcripts, edits and hosting terms.",
+    "ar": "منصة لإنتاج البودكاست تجمع التسجيل والتنظيف الآلي والتحرير عبر النص المفرغ والنشر. تسهّل إعداد الحلقات دون خبرة تقنية متقدمة. ينبغي مراجعة التفريغ النصي ومواضع الحذف وشروط الاستضافة.",
+    "officialSource": "https://alitu.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "ultimate-vocal-remover": {
+    "fr": "Logiciel de bureau à code source ouvert sous licence MIT, utilisant des réseaux neuronaux pour séparer les voix et instruments. Le traitement local facilite les expérimentations sans téléverser les fichiers. Vérifier les exigences matérielles et les licences des modèles sélectionnés.",
+    "en": "Open-source desktop software with MIT-licensed GUI code, using neural networks to separate vocals and instruments. Local processing supports experiments without uploading recordings. Check hardware requirements and selected model licenses.",
+    "ar": "برنامج مكتبي مفتوح المصدر تخضع شيفرة واجهته لترخيص MIT، ويستخدم الشبكات العصبية لفصل الغناء والآلات. تتيح المعالجة المحلية إجراء التجارب دون رفع التسجيلات. ينبغي مراجعة متطلبات الأجهزة وتراخيص النماذج المختارة.",
+    "officialSource": "https://github.com/anjok07/ultimatevocalremovergui",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "demucs": {
+    "fr": "Projet de séparation de sources musicales sous licence MIT permettant d’isoler notamment voix, batterie et basse. Le dépôt original de Meta a été archivé le 1er janvier 2025 et n’est plus maintenu. Utile pour des expériences reproductibles ; vérifier les dépendances et les éventuelles continuations communautaires.",
+    "en": "MIT-licensed music source separation project isolating vocals, drums and bass. Meta's original repository was archived on January 1, 2025 and is no longer maintained. Useful for reproducible experiments; check dependencies and community continuations.",
+    "ar": "مشروع لفصل المصادر الموسيقية بترخيص MIT يتيح عزل الغناء والطبول والباس. أُرشف مستودع Meta الأصلي في 1 يناير 2025 ولم يعد يخضع للصيانة. يفيد في التجارب القابلة لإعادة الإنتاج؛ ينبغي مراجعة التبعيات والمشاريع المجتمعية البديلة.",
+    "officialSource": "https://github.com/facebookresearch/demucs",
+    "sourceReviewedAt": "2026-11-24"
   }
 }
