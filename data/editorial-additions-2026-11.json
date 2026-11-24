@@ -4506,5 +4506,103 @@
     "ar": "منصة لإنشاء التطبيقات والمواقع عبر الحوار مع الذكاء الاصطناعي. تجمع المحرر وإدارة البيانات والفروع والتكاملات ووظائف الاختبار. ينبغي مراجعة قواعد أمان البيانات والنسخ الاحتياطية وصلاحيات الوصول قبل النشر.",
     "officialSource": "https://docs.base44.com/",
     "sourceReviewedAt": "2026-11-24"
+  },
+  "manus": {
+    "fr": "Agent généraliste hébergé qui réalise des tâches complexes à partir d'instructions, notamment recherche, création de présentations et sites web. Les livrables doivent être contrôlés et les accès aux services externes limités aux besoins de la tâche.",
+    "en": "Hosted general-purpose agent performing complex tasks from instructions, including research, slide creation and websites. Review deliverables and restrict external service access to task requirements.",
+    "ar": "وكيل عام مستضاف ينفذ مهام معقدة انطلاقًا من التعليمات، منها البحث وإنشاء العروض والمواقع. ينبغي مراجعة المخرجات وتقييد الوصول إلى الخدمات الخارجية بحسب الحاجة.",
+    "officialSource": "https://manus.im/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "crewai": {
+    "fr": "Framework Python pour organiser des agents spécialisés en équipes et orchestrer des workflows avec mémoire, connaissances et observabilité. Distinguer les décisions des agents des étapes programmées et tester les outils et conditions d'arrêt.",
+    "en": "Python framework for organizing specialized agents into crews and orchestrating workflows with memory, knowledge and observability. Distinguish agent decisions from programmed steps and test tools and stopping conditions.",
+    "ar": "إطار عمل بلغة Python لتنظيم الوكلاء المتخصصين في فرق وتنسيق مسارات العمل مع الذاكرة والمعرفة وقابلية الرصد. ينبغي التمييز بين قرارات الوكلاء والخطوات المبرمجة واختبار الأدوات وشروط التوقف.",
+    "officialSource": "https://docs.crewai.com/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "langchain": {
+    "fr": "Framework de développement d'applications fondées sur des modèles linguistiques, avec interfaces pour modèles, outils et agents. Il permet de composer des systèmes de recherche documentaire et d'action. Évaluer la pertinence des réponses et limiter les permissions des outils.",
+    "en": "Framework for language model applications with interfaces for models, tools and agents. Supports composing retrieval and action systems. Evaluate answer relevance and restrict tool permissions.",
+    "ar": "إطار لتطوير تطبيقات النماذج اللغوية بواجهات للنماذج والأدوات والوكلاء. يتيح تركيب أنظمة الاسترجاع وتنفيذ الإجراءات. ينبغي تقييم ملاءمة الإجابات وتقييد صلاحيات الأدوات.",
+    "officialSource": "https://docs.langchain.com/oss/python/learn",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "langgraph": {
+    "fr": "Bibliothèque d'orchestration agentique organisant les traitements en graphes de nœuds et transitions avec état persistant et points de reprise. Elle facilite les workflows longs et les interventions humaines. Prévoir la reprise sur erreur et les conditions de terminaison.",
+    "en": "Agent orchestration library organizing processing into graphs of nodes and transitions with persistent state and checkpoints. Supports long workflows and human intervention. Design error recovery and termination conditions.",
+    "ar": "مكتبة لتنسيق الوكلاء تنظم المعالجة في رسوم بيانية من العقد والانتقالات مع حالة مستمرة ونقاط استئناف. تسهل مسارات العمل الطويلة والتدخل البشري. ينبغي إعداد استعادة العمل عند الأخطاء وشروط الإنهاء.",
+    "officialSource": "https://docs.langchain.com/oss/javascript/langgraph/thinking-in-langgraph",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "llamaindex": {
+    "fr": "Framework Python et TypeScript pour relier modèles linguistiques et sources de données, construire des index documentaires, des systèmes RAG et des workflows agentiques. Tester la qualité du découpage, de la récupération et des citations ainsi que les droits d'accès.",
+    "en": "Python and TypeScript framework connecting language models and data sources, building document indexes, RAG systems and agentic workflows. Test chunking, retrieval, citation quality and access rights.",
+    "ar": "إطار بلغة Python وTypeScript لربط النماذج اللغوية بمصادر البيانات وبناء الفهارس الوثائقية وأنظمة RAG ومسارات الوكلاء. ينبغي اختبار جودة التجزئة والاسترجاع والاستشهادات وصلاحيات الوصول.",
+    "officialSource": "https://developers.llamaindex.ai/python/framework/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "dify": {
+    "fr": "Plateforme de création d'applications IA et d'agents, associant workflows visuels, bases de connaissances, outils externes, publication et suivi des exécutions. Vérifier les quotas, les secrets et les conditions de licence de l'édition choisie.",
+    "en": "AI application and agent development platform combining visual workflows, knowledge bases, external tools, publishing and execution monitoring. Check quotas, secrets and licensing terms for the selected edition.",
+    "ar": "منصة لإنشاء تطبيقات الذكاء الاصطناعي والوكلاء تجمع مسارات العمل المرئية وقواعد المعرفة والأدوات الخارجية والنشر ومراقبة التنفيذ. ينبغي مراجعة الحصص والأسرار وشروط ترخيص الإصدار المختار.",
+    "officialSource": "https://docs.dify.ai/en/home",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "flowise": {
+    "fr": "Plateforme open source de développement visuel de workflows LLM et d'agents. Elle permet de relier modèles, outils et composants documentaires et de tester les parcours. Sécuriser les points d'accès et les identifiants des services connectés.",
+    "en": "Open-source visual development platform for LLM workflows and agents. Connects models, tools and document components and supports workflow testing. Secure endpoints and connected service credentials.",
+    "ar": "منصة مفتوحة المصدر للتطوير المرئي لمسارات النماذج اللغوية والوكلاء. تتيح ربط النماذج والأدوات والمكونات الوثائقية واختبار المسارات. ينبغي تأمين نقاط الوصول وبيانات اعتماد الخدمات المتصلة.",
+    "officialSource": "https://docs.flowiseai.com/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "autogen": {
+    "fr": "Framework de recherche Microsoft pour systèmes multi-agents et communications événementielles. Sa documentation actuelle avertit de l'absence de maintenance continue et recommande la migration vers Microsoft Agent Framework. Examiner les risques des dépendances pour les projets existants.",
+    "en": "Microsoft research framework for multi-agent systems and event-driven communication. Current documentation warns of absent ongoing maintenance and recommends migration to Microsoft Agent Framework. Review dependency risks for existing projects.",
+    "ar": "إطار بحثي من Microsoft للأنظمة متعددة الوكلاء والتواصل القائم على الأحداث. تحذر وثائقه الحالية من غياب الصيانة المستمرة وتوصي بالانتقال إلى Microsoft Agent Framework. ينبغي مراجعة مخاطر التبعيات في المشاريع القائمة.",
+    "officialSource": "https://microsoft.github.io/autogen/stable/index.html",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "semantic-kernel": {
+    "fr": "SDK Microsoft pour intégrer des modèles, fonctions et agents dans les applications. Microsoft Agent Framework est présenté comme son successeur et un guide de migration documente les changements d'API. Évaluer la compatibilité des projets avant migration.",
+    "en": "Microsoft SDK for integrating models, functions and agents into applications. Microsoft Agent Framework is presented as its successor, with an official API migration guide. Evaluate project compatibility before migration.",
+    "ar": "حزمة تطوير من Microsoft لدمج النماذج والدوال والوكلاء في التطبيقات. يقدم Microsoft Agent Framework بوصفه خليفته مع دليل رسمي لترحيل الواجهات البرمجية. ينبغي تقييم توافق المشاريع قبل الترحيل.",
+    "officialSource": "https://learn.microsoft.com/en-us/agent-framework/migration-guide/from-semantic-kernel/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "pydantic-ai": {
+    "fr": "Framework Python de création d'agents utilisant des types et schémas validés pour les entrées, dépendances et sorties structurées. Utile pour intégrer les résultats aux applications métier. La validation de structure ne garantit pas la vérité des contenus.",
+    "en": "Python agent framework using validated types and schemas for inputs, dependencies and structured outputs. Useful for integrating results into business applications. Schema validation does not guarantee factual accuracy.",
+    "ar": "إطار Python لإنشاء الوكلاء باستخدام الأنواع والمخططات المتحقق منها للمدخلات والتبعيات والمخرجات المنظمة. يفيد في دمج النتائج بتطبيقات الأعمال. لا يضمن التحقق البنيوي صحة المحتوى.",
+    "officialSource": "https://pydantic.dev/docs/ai/overview/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "relevance-ai": {
+    "fr": "Plateforme de création d'agents métier et d'équipes coordonnées, avec outils, déclencheurs, tables de connaissances et évaluations. Elle permet de construire des automatisations commerciales et opérationnelles. Limiter les accès aux données et valider les décisions sensibles.",
+    "en": "Business agent and coordinated workforce platform with tools, triggers, knowledge tables and evaluations. Supports sales and operational automation. Restrict data access and validate sensitive decisions.",
+    "ar": "منصة لإنشاء وكلاء الأعمال والفرق المنسقة مع أدوات ومحفزات وجداول معرفة وتقييمات. تتيح أتمتة المبيعات والعمليات. ينبغي تقييد الوصول إلى البيانات ومراجعة القرارات الحساسة.",
+    "officialSource": "https://relevanceai.com/docs/changelog",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "lindy": {
+    "fr": "Assistant agentique hébergé destiné aux tâches professionnelles, notamment suivi de courriels, préparation de réunions et mise à jour de systèmes connectés. Configurer les intégrations et les approbations avant les actions externes et contrôler les résultats.",
+    "en": "Hosted agentic assistant for professional tasks including email follow-up, meeting preparation and connected system updates. Configure integrations and approvals before external actions and review results.",
+    "ar": "مساعد بالوكلاء مستضاف للمهام المهنية مثل متابعة البريد وإعداد الاجتماعات وتحديث الأنظمة المتصلة. ينبغي ضبط التكاملات والموافقات قبل الإجراءات الخارجية ومراجعة النتائج.",
+    "officialSource": "https://www.lindy.ai/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "taskade": {
+    "fr": "Espace de travail associant projets, agents IA personnalisables, applications et automatisations. Il permet de structurer des tâches et des processus collaboratifs. Vérifier les droits de partage et les déclencheurs avant d'automatiser des actions.",
+    "en": "Workspace combining projects, customizable AI agents, applications and automation. Supports structured tasks and collaborative processes. Review sharing permissions and triggers before automating actions.",
+    "ar": "مساحة عمل تجمع المشاريع ووكلاء الذكاء الاصطناعي القابلين للتخصيص والتطبيقات والأتمتة. تتيح تنظيم المهام والعمليات التعاونية. ينبغي مراجعة صلاحيات المشاركة والمحفزات قبل أتمتة الإجراءات.",
+    "officialSource": "https://www.taskade.com/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "browser-use": {
+    "fr": "Outils de navigation agentique permettant de piloter un navigateur et d'exécuter des tâches web à partir d'instructions, avec offre d'agents et de navigateurs hébergés. Limiter les sessions authentifiées et demander une approbation pour les transactions et publications.",
+    "en": "Agentic browsing tools for controlling a browser and performing web tasks from instructions, including hosted agents and browsers. Restrict authenticated sessions and require approval for transactions and publication.",
+    "ar": "أدوات لتصفح الويب بالوكلاء تتيح التحكم في المتصفح وتنفيذ المهام من التعليمات مع خدمات للوكلاء والمتصفحات المستضافة. ينبغي تقييد الجلسات المصادق عليها وطلب الموافقة للمعاملات والنشر.",
+    "officialSource": "https://docs.browser-use.com/cloud/quickstart",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
