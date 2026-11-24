@@ -4058,5 +4058,47 @@
     "ar": "استوديو لإنشاء الفيديو يحول المقالات والنصوص المستوردة إلى سيناريوهات ومقاطع بصرية باستخدام القوالب والوسائط. يوفر أيضًا خيارات التعليق الصوتي. ينبغي مراجعة دقة الملخص وتراخيص الوسائط ووضوح العرض قبل النشر.",
     "officialSource": "https://help.lumen5.com/en/article/how-do-i-select-a-template-start-creating-a-video-in-lumen5-11aod0v/",
     "sourceReviewedAt": "2026-11-24"
+  },
+  "lavender": {
+    "fr": "Coach de rédaction commerciale qui analyse les courriels de prospection et propose des améliorations de clarté, de personnalisation et de concision. Ses recommandations aident à préparer des messages individuels, sans garantir un taux de réponse. Vérifier les données utilisées et respecter le consentement des destinataires.",
+    "en": "Sales email coach analyzing outreach messages and suggesting improvements to clarity, personalization and concision. Its recommendations support individual messaging without guaranteeing replies. Review data use and respect recipient consent.",
+    "ar": "مدرب للكتابة التجارية يحلل رسائل التواصل مع العملاء المحتملين ويقترح تحسينات للوضوح والتخصيص والإيجاز. تساعد توصياته على إعداد رسائل فردية دون ضمان الردود. ينبغي مراجعة استخدام البيانات واحترام موافقة المستلمين.",
+    "officialSource": "https://lavender.ai/coach",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "hubspot-ai-email": {
+    "fr": "Fonctions de rédaction et de reformulation de courriels marketing et commerciaux dans HubSpot. Breeze Assistant peut exploiter les données du CRM et le fil de discussion dans Gmail via l’extension compatible. Vérifier les informations, les autorisations et les messages avant envoi.",
+    "en": "Email drafting and rewriting features within HubSpot for marketing and sales. Breeze Assistant can use CRM data and the current Gmail thread through the compatible extension. Check information, permissions and messages before sending.",
+    "ar": "وظائف لصياغة رسائل التسويق والمبيعات وإعادة صياغتها داخل HubSpot. يستطيع Breeze Assistant الاستفادة من بيانات إدارة علاقات العملاء وسلسلة الرسائل الحالية في Gmail عبر الإضافة المتوافقة. ينبغي مراجعة المعلومات والصلاحيات والرسائل قبل الإرسال.",
+    "officialSource": "https://knowledge.hubspot.com/website-pages/generate-content-with-breeze",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "hubspot-breeze": {
+    "fr": "Couche d’intelligence artificielle intégrée à HubSpot, associant assistant conversationnel et agents pour les équipes de vente, marketing et service client. Elle utilise le contexte du CRM pour préparer des contenus, synthétiser des dossiers et automatiser certaines tâches. Contrôler les accès, les crédits et les actions des agents.",
+    "en": "AI layer integrated into HubSpot, combining a conversational assistant and agents for sales, marketing and customer service. It uses CRM context to draft content, summarize records and automate selected tasks. Review permissions, credits and agent actions.",
+    "ar": "طبقة ذكاء اصطناعي مدمجة في HubSpot تجمع مساعدًا حواريًا ووكلاء لفرق المبيعات والتسويق وخدمة العملاء. تستخدم سياق بيانات إدارة علاقات العملاء لإعداد المحتوى وتلخيص السجلات وأتمتة بعض المهام. ينبغي مراقبة الصلاحيات والأرصدة وإجراءات الوكلاء.",
+    "officialSource": "https://www.hubspot.com/products/artificial-intelligence/breeze-ai-assistant",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "mutiny": {
+    "fr": "Assistant IA pour les équipes commerciales, historiquement centré sur la personnalisation marketing par compte. Le produit actuel aide à préparer les rendez-vous, synthétiser les échanges et rédiger des relances et propositions adaptées aux clients. Contrôler les données commerciales et les engagements avant diffusion.",
+    "en": "AI assistant for sales teams, historically focused on account-based marketing personalization. The current product helps prepare meetings, summarize discussions and draft tailored follow-ups and proposals. Verify commercial data and commitments before sharing.",
+    "ar": "مساعد ذكاء اصطناعي لفرق المبيعات ركز سابقًا على تخصيص التسويق بحسب الحسابات. يساعد المنتج الحالي على إعداد الاجتماعات وتلخيص المناقشات وصياغة رسائل المتابعة والمقترحات المخصصة للعملاء. ينبغي التحقق من البيانات التجارية والالتزامات قبل المشاركة.",
+    "officialSource": "https://www.mutinyhq.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "lately-ai": {
+    "fr": "Plateforme de gestion de contenus sociaux qui transforme des ressources existantes en publications adaptées aux canaux de communication. Son agent Kately accompagne la planification, la création et la gestion des campagnes organiques. Vérifier la fidélité aux sources, le ton éditorial et les résultats mesurés.",
+    "en": "Social content management platform repurposing existing assets into posts adapted to communication channels. Its Kately agent supports planning, creation and management of organic campaigns. Check source fidelity, editorial tone and measured results.",
+    "ar": "منصة لإدارة محتوى الشبكات الاجتماعية تعيد توظيف الموارد الموجودة في منشورات ملائمة لقنوات التواصل. يساعد وكيل Kately على تخطيط الحملات غير المدفوعة وإنشاء محتواها وإدارتها. ينبغي مراجعة الأمانة للمصادر والنبرة التحريرية والنتائج المقاسة.",
+    "officialSource": "https://www.lately.ai/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "promo-com": {
+    "fr": "Studio vidéo en ligne destiné aux entreprises, avec modèles de vidéos publicitaires et sociales, outils de montage et fonctionnalités PromoAI de création et planification. Adapter les formats aux canaux de diffusion et vérifier les licences des médias et les affirmations publicitaires.",
+    "en": "Online video studio for businesses, offering advertising and social video templates, editing tools and PromoAI creation and planning features. Adapt formats to distribution channels and check media licenses and advertising claims.",
+    "ar": "استوديو فيديو عبر الإنترنت للمؤسسات يوفر قوالب للإعلانات ومقاطع التواصل الاجتماعي وأدوات التحرير ووظائف PromoAI للإنشاء والتخطيط. ينبغي تكييف الصيغ مع قنوات النشر والتحقق من تراخيص الوسائط والادعاءات الإعلانية.",
+    "officialSource": "https://promo.com/",
+    "sourceReviewedAt": "2026-11-24"
   }
 }
