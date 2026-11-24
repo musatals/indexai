@@ -12465,21 +12465,23 @@
   },
   {
     "id": "AI-0185",
-    "name": "tl",
+    "name": "tl — fragment d'import, non-produit (voir tl;dv)",
     "slug": "tl",
     "category": "Transcription et réunions",
     "categorySlug": "transcription-et-reunions",
     "secondaryCategories": [],
     "url": "",
-    "kind": "Application / service",
+    "kind": "Artefact de catalogage, non-produit",
     "verification": "unverified",
     "source": "https://allailists.com/",
     "inventoriedAt": "2026-11-15",
-    "sharedUrlCount": 0
+    "sharedUrlCount": 0,
+    "inventoryIssue": "Nom tl;dv séparé en deux enregistrements lors de l'import initial ; voir AI-0186.",
+    "canonicalRecordId": "AI-0186"
   },
   {
     "id": "AI-0186",
-    "name": "dv",
+    "name": "tl;dv",
     "slug": "dv",
     "category": "Transcription et réunions",
     "categorySlug": "transcription-et-reunions",
