@@ -4604,5 +4604,89 @@
     "ar": "أدوات لتصفح الويب بالوكلاء تتيح التحكم في المتصفح وتنفيذ المهام من التعليمات مع خدمات للوكلاء والمتصفحات المستضافة. ينبغي تقييد الجلسات المصادق عليها وطلب الموافقة للمعاملات والنشر.",
     "officialSource": "https://docs.browser-use.com/cloud/quickstart",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "zapier": {
+    "fr": "Plateforme d'intégration reliant des applications par déclencheurs et actions, avec étapes IA et agents. Utiliser des règles déterministes pour les opérations répétables et des validations humaines pour les actions sensibles.",
+    "en": "Integration platform connecting apps through triggers and actions, with AI steps and agents. Use deterministic rules for repeatable operations and human approvals for sensitive actions.",
+    "ar": "منصة تكامل تربط التطبيقات عبر المحفزات والإجراءات مع خطوات ووكلاء للذكاء الاصطناعي. ينبغي استخدام قواعد حتمية للعمليات المتكررة وموافقات بشرية للإجراءات الحساسة.",
+    "officialSource": "https://zapier.com/blog/agentic-workflows/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "make": {
+    "fr": "Éditeur visuel de scénarios reliant applications, API et agents IA. Les scénarios peuvent traiter des données et servir d'outils aux agents. Prévoir des routes d'erreur et contrôler les opérations facturées.",
+    "en": "Visual scenario editor connecting applications, APIs and AI agents. Scenarios can process data and serve as agent tools. Design error routes and monitor billable operations.",
+    "ar": "محرر مرئي للسيناريوهات يربط التطبيقات وواجهات API والوكلاء. يمكن للسيناريوهات معالجة البيانات والعمل كأدوات للوكلاء. ينبغي إعداد مسارات الأخطاء ومراقبة العمليات المدفوعة.",
+    "officialSource": "https://help.make.com/make-ai-agents-the-next-step-in-automation",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "n8n": {
+    "fr": "Plateforme de workflows à nœuds, disponible en hébergement géré ou auto-hébergé, avec connecteurs, code et composants IA. Vérifier les conditions de licence, sécuriser les identifiants et tester les reprises sur erreur.",
+    "en": "Node-based workflow platform available as managed or self-hosted deployment, with connectors, code and AI components. Check licensing, secure credentials and test error recovery.",
+    "ar": "منصة لمسارات العمل القائمة على العقد متاحة باستضافة مُدارة أو ذاتية، مع موصلات وشيفرة ومكونات ذكاء اصطناعي. ينبغي مراجعة الترخيص وتأمين بيانات الاعتماد واختبار استعادة العمل عند الخطأ.",
+    "officialSource": "https://docs.n8n.io/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "bardeen": {
+    "fr": "Outil d'automatisation des tâches répétitives dans le navigateur et entre applications, notamment collecte et transfert de données. Vérifier les autorisations, les conditions des sites et la fiabilité des données extraites.",
+    "en": "Automation tool for repetitive browser and cross-app tasks, including data collection and transfer. Check permissions, website terms and extracted data reliability.",
+    "ar": "أداة لأتمتة المهام المتكررة في المتصفح وبين التطبيقات، ومنها جمع البيانات ونقلها. ينبغي مراجعة الصلاحيات وشروط المواقع وموثوقية البيانات المستخرجة.",
+    "officialSource": "https://www.bardeen.ai/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "gumloop": {
+    "fr": "Plateforme visuelle d'automatisation intégrant modèles IA, traitements de données et services externes. Elle permet de composer des chaînes de traitement sans écrire toute l'intégration. Tester les entrées atypiques et les coûts par exécution.",
+    "en": "Visual automation platform integrating AI models, data processing and external services. Supports composing processing pipelines without coding every integration. Test unusual inputs and per-run costs.",
+    "ar": "منصة مرئية للأتمتة تدمج نماذج الذكاء الاصطناعي ومعالجة البيانات والخدمات الخارجية. تتيح تركيب سلاسل المعالجة دون برمجة جميع التكاملات. ينبغي اختبار المدخلات غير المعتادة وتكاليف التنفيذ.",
+    "officialSource": "https://www.gumloop.com/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "relay-app": {
+    "fr": "Plateforme de workflows reliant applications et étapes IA, avec possibilités d'intervention humaine. Utile pour les processus nécessitant une approbation avant envoi ou modification. Définir responsables et conditions de reprise.",
+    "en": "Workflow platform connecting apps and AI steps with human intervention options. Useful for processes requiring approval before sending or modifying data. Define reviewers and resumption conditions.",
+    "ar": "منصة لمسارات العمل تربط التطبيقات وخطوات الذكاء الاصطناعي مع إمكانات التدخل البشري. تفيد في العمليات التي تستلزم الموافقة قبل الإرسال أو التعديل. ينبغي تحديد المسؤولين وشروط الاستئناف.",
+    "officialSource": "https://www.relay.app/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "activepieces": {
+    "fr": "Plateforme d'automatisation avec édition communautaire open source, connecteurs et éditeur visuel. Elle permet de construire des workflows déclenchés par événements et d'intégrer des modèles IA. Vérifier les différences entre éditions et sécuriser l'hébergement.",
+    "en": "Automation platform with an open-source community edition, connectors and visual editor. Supports event-triggered workflows and AI model integration. Check edition differences and secure hosting.",
+    "ar": "منصة أتمتة بإصدار مجتمعي مفتوح المصدر وموصلات ومحرر مرئي. تتيح إنشاء مسارات تستجيب للأحداث ودمج نماذج الذكاء الاصطناعي. ينبغي مراجعة اختلافات الإصدارات وتأمين الاستضافة.",
+    "officialSource": "https://www.activepieces.com/blog/activepieces-tutorial-for-building-your-first-workflow",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "latenode": {
+    "fr": "Environnement low-code pour relier services web, API et étapes JavaScript dans des scénarios automatisés. Utile lorsque les connecteurs standards exigent un traitement personnalisé. Tester les délais, les erreurs et les secrets.",
+    "en": "Low-code environment connecting web services, APIs and JavaScript steps in automated scenarios. Useful when standard connectors require custom processing. Test timeouts, errors and secret handling.",
+    "ar": "بيئة منخفضة البرمجة تربط خدمات الويب وواجهات API وخطوات JavaScript ضمن سيناريوهات آلية. تفيد عندما تتطلب الموصلات معالجة مخصصة. ينبغي اختبار المهلات والأخطاء والتعامل مع الأسرار.",
+    "officialSource": "https://latenode.com/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "uipath": {
+    "fr": "Suite d'automatisation de processus combinant RPA, intégrations et agents IA. Maestro Orchestrate coordonne robots, agents et interventions humaines dans les processus métiers. Définir les règles d'escalade et contrôler les journaux d'exécution.",
+    "en": "Process automation suite combining RPA, integrations and AI agents. Maestro Orchestrate coordinates robots, agents and human interventions in business processes. Define escalation rules and review execution logs.",
+    "ar": "مجموعة لأتمتة العمليات تجمع RPA والتكاملات ووكلاء الذكاء الاصطناعي. ينسق Maestro Orchestrate الروبوتات والوكلاء والتدخلات البشرية في عمليات الأعمال. ينبغي تحديد قواعد التصعيد ومراجعة سجلات التنفيذ.",
+    "officialSource": "https://docs.uipath.com/maestro/automation-cloud/latest/user-guide/overview",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "automation-anywhere": {
+    "fr": "Plateforme d'automatisation d'entreprise associant robots logiciels, traitements documentaires et capacités agentiques. Elle vise les processus transversaux impliquant applications et données. Contrôler les permissions, les exceptions et la traçabilité.",
+    "en": "Enterprise automation platform combining software robots, document processing and agentic capabilities. Targets cross-application business processes. Review permissions, exceptions and auditability.",
+    "ar": "منصة لأتمتة المؤسسات تجمع الروبوتات البرمجية ومعالجة المستندات وقدرات الوكلاء. تستهدف عمليات الأعمال الممتدة عبر التطبيقات. ينبغي مراقبة الصلاحيات والاستثناءات وقابلية التدقيق.",
+    "officialSource": "https://www.automationanywhere.com/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "axiom-ai": {
+    "fr": "Outil d'automatisation du navigateur pour reproduire des interactions web et extraire des données, avec interfaces sans code ou programmables. Vérifier les conditions des sites, la stabilité des sélecteurs et les autorisations des sessions.",
+    "en": "Browser automation tool for reproducing web interactions and extracting data through no-code or programmable interfaces. Check website terms, selector stability and session permissions.",
+    "ar": "أداة لأتمتة المتصفح لتكرار التفاعلات واستخراج البيانات عبر واجهات دون برمجة أو قابلة للبرمجة. ينبغي مراجعة شروط المواقع وثبات المحددات وصلاحيات الجلسات.",
+    "officialSource": "https://axiom.ai/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "robocorp": {
+    "fr": "Écosystème d'automatisation Python utilisant notamment RCC pour gérer des environnements reproductibles et des robots logiciels. Les ressources actuelles sont documentées par Sema4.ai. Examiner les licences de chaque composant et isoler les exécutions.",
+    "en": "Python automation ecosystem using RCC to manage reproducible environments and software robots. Current resources are documented by Sema4.ai. Review each component's license and isolate executions.",
+    "ar": "منظومة أتمتة Python تستخدم RCC لإدارة البيئات القابلة لإعادة الإنتاج والروبوتات البرمجية. توثق Sema4.ai الموارد الحالية. ينبغي مراجعة ترخيص كل مكون وعزل عمليات التنفيذ.",
+    "officialSource": "https://sema4.ai/docs/automation/quickstart-guide",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
