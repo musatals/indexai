@@ -4331,5 +4331,96 @@
     "ar": "وكلاء تطوير من Factory مصممون لتنفيذ مهام البرمجة في المشاريع البرمجية. يساعدون المطورين على إنجاز الأعمال المفوضة. ينبغي تحديد معايير القبول ومراجعة التعديلات قبل الدمج.",
     "officialSource": "https://factory.ai/product/droids",
     "sourceReviewedAt": "2026-11-24"
+  },
+  "codeium": {
+    "fr": "Ancienne marque d'assistance au code, dont le site redirige vers Devin Desktop. L'environnement actuel réunit édition de code, complétion et gestion d'agents locaux ou distants. Vérifier les conditions des anciennes extensions.",
+    "en": "Former coding assistance brand whose website redirects to Devin Desktop. The current environment combines code editing, completion and local or remote agent management. Check legacy extension availability.",
+    "ar": "علامة سابقة للمساعدة في البرمجة يحيل موقعها إلى Devin Desktop. تجمع البيئة الحالية تحرير الشيفرة والإكمال وإدارة الوكلاء المحليين والبعيدين. ينبغي مراجعة إتاحة الإضافات السابقة.",
+    "officialSource": "https://devin.ai/desktop",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "jetbrains-ai": {
+    "fr": "Assistant intégré aux IDE JetBrains pour expliquer, générer et améliorer le code avec des modèles configurables. Il peut accueillir des agents et outils MCP. Contrôler les données contextuelles transmises au fournisseur.",
+    "en": "Assistant integrated into JetBrains IDEs for explaining, generating and improving code with configurable models. Supports agents and MCP tools. Review contextual data sent to providers.",
+    "ar": "مساعد مدمج في بيئات JetBrains لشرح الشيفرة وتوليدها وتحسينها باستخدام نماذج قابلة للضبط. يدعم الوكلاء وأدوات MCP. ينبغي مراجعة بيانات السياق المرسلة إلى المزود.",
+    "officialSource": "https://www.jetbrains.com/help/ai-assistant/about-ai-assistant.html",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "augment-code": {
+    "fr": "Plateforme de développement pour équipes logicielles réunissant intelligence contextuelle du dépôt, agents, revue de code et automatisation. Les interfaces incluent Auggie CLI et des intégrations IDE. Définir les accès aux dépôts et contrôler les résultats.",
+    "en": "Software engineering platform combining repository context intelligence, agents, code review and automation. Interfaces include Auggie CLI and IDE integrations. Define repository access and review results.",
+    "ar": "منصة تطوير برمجيات تجمع فهم سياق المستودعات والوكلاء ومراجعة الشيفرة والأتمتة. تشمل واجهاتها Auggie CLI وتكاملات بيئات التطوير. ينبغي تحديد صلاحيات المستودعات ومراجعة النتائج.",
+    "officialSource": "https://docs.augmentcode.com/introduction",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "swe-agent": {
+    "fr": "Projet de recherche et agent de programmation open source destiné notamment à résoudre des problèmes GitHub. Il utilise un modèle linguistique et un environnement d'exécution configurable. Isoler les commandes et vérifier les correctifs produits.",
+    "en": "Open-source research coding agent designed in particular to solve GitHub issues. Uses a language model and configurable execution environment. Isolate commands and validate patches.",
+    "ar": "مشروع بحثي ووكيل برمجة مفتوح المصدر لمعالجة مشكلات GitHub خصوصًا. يستخدم نموذجًا لغويًا وبيئة تنفيذ قابلة للضبط. ينبغي عزل الأوامر والتحقق من الإصلاحات.",
+    "officialSource": "https://swe-agent.com/latest/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "devin-cognition": {
+    "fr": "Agent de développement de Cognition capable de travailler sur des dépôts, de préparer des modifications et de tester des applications dans des sessions dédiées. Les travaux peuvent être délégués à des agents distants. Vérifier les tests et demandes de fusion.",
+    "en": "Cognition coding agent that works on repositories, prepares changes and tests applications in dedicated sessions. Work can be delegated to remote agents. Review tests and pull requests.",
+    "ar": "وكيل تطوير من Cognition يعمل على المستودعات ويعد التعديلات ويختبر التطبيقات في جلسات مخصصة. يمكن تفويض العمل لوكلاء بعيدين. ينبغي مراجعة الاختبارات وطلبات الدمج.",
+    "officialSource": "https://docs.devin.ai/get-started/devin-intro",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "windsurf-cascade": {
+    "fr": "Agent intégré à Devin Desktop, anciennement Windsurf, proposant dialogue, modification du code, appels d'outils et points de restauration. Il prend en charge les règles de projet et MCP. Contrôler les permissions et les changements.",
+    "en": "Agent integrated into Devin Desktop, formerly Windsurf, offering chat, code edits, tool calls and checkpoints. Supports project rules and MCP. Review permissions and changes.",
+    "ar": "وكيل مدمج في Devin Desktop المعروف سابقًا باسم Windsurf يوفر الحوار وتعديل الشيفرة واستدعاء الأدوات ونقاط الاستعادة. يدعم قواعد المشروع وMCP. ينبغي مراقبة الصلاحيات والتعديلات.",
+    "officialSource": "https://docs.devin.ai/desktop/cascade/cascade",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "kiro": {
+    "fr": "Environnement de développement agentique orienté spécifications, plans de travail et automatisations déclenchées par des événements. Accessible notamment dans un IDE et une CLI. Utiliser les spécifications comme critères de validation et limiter les permissions des agents.",
+    "en": "Agentic development environment centered on specifications, work plans and event-triggered automations. Available through an IDE and CLI among other interfaces. Use specifications as acceptance criteria and restrict agent permissions.",
+    "ar": "بيئة تطوير بالوكلاء تركز على المواصفات وخطط العمل والأتمتة المرتبطة بالأحداث. تتوفر عبر بيئة تطوير وطرفية ضمن واجهات أخرى. ينبغي استخدام المواصفات كمعايير قبول وتقييد صلاحيات الوكلاء.",
+    "officialSource": "https://kiro.dev/docs/getting-started/first-project/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "opencode": {
+    "fr": "Agent de programmation open source disponible dans le terminal, sur desktop et sur le web. Il permet de configurer fournisseurs de modèles, agents, outils et serveurs MCP. Vérifier les coûts des modèles et les règles d'accès aux fichiers.",
+    "en": "Open-source coding agent available in terminal, desktop and web interfaces. Supports configurable model providers, agents, tools and MCP servers. Check model costs and file access policies.",
+    "ar": "وكيل برمجة مفتوح المصدر متاح في الطرفية وتطبيق سطح المكتب والويب. يتيح ضبط مزودي النماذج والوكلاء والأدوات وخوادم MCP. ينبغي مراجعة تكاليف النماذج وقواعد الوصول للملفات.",
+    "officialSource": "https://opencode.ai/docs/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "amp-sourcegraph": {
+    "fr": "Agent de programmation Amp proposant une interface en ligne de commande, des sous-agents et des sessions partageables. Il aide à explorer, modifier et tester des projets. Vérifier les paramètres de partage et les changements avant intégration.",
+    "en": "Amp coding agent offering a command-line interface, subagents and shareable sessions. Helps explore, edit and test projects. Review sharing settings and changes before integration.",
+    "ar": "وكيل برمجة Amp يوفر واجهة سطر الأوامر ووكلاء فرعيين وجلسات قابلة للمشاركة. يساعد في استكشاف المشاريع وتعديلها واختبارها. ينبغي مراجعة إعدادات المشاركة والتغييرات قبل الدمج.",
+    "officialSource": "https://ampcode.com/manual",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "augment-agent": {
+    "fr": "Agent de développement de la plateforme Augment, utilisant le contexte du dépôt pour réaliser des tâches logicielles. L'écosystème comprend Cosmos et Auggie CLI. Vérifier les modifications, les droits d'accès et les critères de livraison.",
+    "en": "Development agent within Augment using repository context for software tasks. The ecosystem includes Cosmos and Auggie CLI. Review changes, access rights and acceptance criteria.",
+    "ar": "وكيل تطوير ضمن منصة Augment يستفيد من سياق المستودع لإنجاز المهام البرمجية. تشمل المنظومة Cosmos وAuggie CLI. ينبغي مراجعة التعديلات والصلاحيات ومعايير التسليم.",
+    "officialSource": "https://docs.augmentcode.com/introduction",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "tabnine-agent": {
+    "fr": "Agents de programmation de Tabnine destinés aux équipes, avec contexte organisationnel et flux de développement dans les IDE et le terminal. Tabnine annonce son acquisition par Tricentis. Vérifier les options de confidentialité et de déploiement.",
+    "en": "Tabnine coding agents for teams, with organizational context and IDE or terminal workflows. Tabnine announces its acquisition by Tricentis. Check privacy and deployment options.",
+    "ar": "وكلاء برمجة من Tabnine للفرق مع سياق مؤسسي ومسارات عمل في بيئات التطوير والطرفية. تعلن Tabnine استحواذ Tricentis عليها. ينبغي مراجعة خيارات الخصوصية والنشر.",
+    "officialSource": "https://www.tabnine.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "plandex": {
+    "fr": "Agent de programmation open source conçu pour des projets importants et des tâches complexes. Le dépôt officiel reste une référence documentaire ; le site principal n'a pas répondu lors de la revue. Vérifier la maintenance et les modalités d'installation.",
+    "en": "Open-source coding agent designed for large projects and complex tasks. Its official repository remains a documentation reference; the main website did not respond during review. Check maintenance and installation options.",
+    "ar": "وكيل برمجة مفتوح المصدر مصمم للمشاريع الكبيرة والمهام المعقدة. يظل المستودع الرسمي مرجعًا توثيقيًا؛ لم يستجب الموقع الرئيسي أثناء المراجعة. ينبغي التحقق من الصيانة وخيارات التثبيت.",
+    "officialSource": "https://github.com/plandex-ai/plandex",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "amazon-q-developer-agent": {
+    "fr": "Agent AWS d'assistance au développement, accessible notamment dans les IDE et GitHub. Il peut exploiter une issue et le dépôt pour préparer un correctif et une demande de fusion. Limiter les permissions IAM et contrôler les modifications.",
+    "en": "AWS development agent accessible through IDEs and GitHub among other interfaces. It can use an issue and repository context to prepare a patch and pull request. Restrict IAM permissions and review changes.",
+    "ar": "وكيل تطوير من AWS متاح في بيئات التطوير وGitHub ضمن واجهات أخرى. يمكنه استخدام سياق المشكلة والمستودع لإعداد إصلاح وطلب دمج. ينبغي تقييد صلاحيات IAM ومراجعة التعديلات.",
+    "officialSource": "https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/github-feature-development.html",
+    "sourceReviewedAt": "2026-11-24"
   }
 }
