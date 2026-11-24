@@ -2991,5 +2991,40 @@
     "ar": "أداة تعتمد على الذكاء الاصطناعي لتحويل الأفكار والخطط والمستندات إلى عروض تقديمية منظمة وصفحات ويب ومحتويات بصرية. تتيح مشاركة العروض عبر رابط أو تصديرها بصيغ مثل PDF وPowerPoint، مع ضرورة مراجعة المعلومات والتصميم قبل النشر.",
     "officialSource": "https://gamma.app/products/presentations",
     "sourceReviewedAt": "2026-11-24"
+  },
+  "notion-ai": {
+    "fr": "Assistant intégré à Notion pour rédiger et synthétiser des documents, rechercher des informations dans l’espace de travail et les applications connectées, et produire des comptes rendus de réunions. Les connecteurs, les droits d’accès et les fonctions disponibles dépendent de la configuration et du forfait.",
+    "en": "AI assistant within Notion for drafting and summarizing documents, searching the workspace and connected apps, and creating meeting notes. Connectors, access rights and available features depend on configuration and plan.",
+    "ar": "مساعد مدمج في Notion لصياغة المستندات وتلخيصها والبحث في مساحة العمل والتطبيقات المتصلة وإعداد محاضر الاجتماعات. تختلف إمكانات الربط والصلاحيات والميزات المتاحة بحسب إعدادات المؤسسة والاشتراك.",
+    "officialSource": "https://www.notion.com/help/notion-ai-faqs",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "microsoft-365-copilot": {
+    "fr": "Assistant professionnel intégré aux applications Microsoft 365, notamment Word et PowerPoint, pour rédiger, synthétiser et exploiter les informations de travail auxquelles l’utilisateur a accès. Son efficacité dépend de la qualité des données, des autorisations et des licences ; les réponses doivent être contrôlées.",
+    "en": "Work assistant integrated with Microsoft 365 apps such as Word and PowerPoint for drafting, summarizing and using authorized workplace information. Effectiveness depends on data quality, permissions and licensing; outputs require review.",
+    "ar": "مساعد مهني مدمج في تطبيقات Microsoft 365 مثل Word وPowerPoint لصياغة المحتوى وتلخيصه والاستفادة من معلومات العمل التي يملك المستخدم صلاحية الوصول إليها. تعتمد فعاليته على جودة البيانات والصلاحيات والترخيص، وتحتاج مخرجاته إلى المراجعة.",
+    "officialSource": "https://learn.microsoft.com/en-us/microsoft-365/copilot/microsoft-365-copilot-architecture",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "clickup-brain": {
+    "fr": "Assistant intégré à ClickUp pour interroger les données de projet, résumer les activités des tâches, préparer des documents et identifier des actions à suivre. Il peut exploiter le contexte de l’espace de travail selon les droits et le forfait ; vérifier les synthèses avant de les diffuser.",
+    "en": "AI assistant within ClickUp for querying project information, summarizing task activity, drafting documents and identifying follow-up actions. It uses workspace context subject to permissions and plan; summaries should be checked before sharing.",
+    "ar": "مساعد ذكاء اصطناعي داخل ClickUp للاستعلام عن معلومات المشاريع وتلخيص أنشطة المهام وإعداد المستندات واستخراج الإجراءات المطلوب متابعتها. يستفيد من سياق مساحة العمل وفق الصلاحيات والاشتراك، وينبغي مراجعة الملخصات قبل مشاركتها.",
+    "officialSource": "https://help.clickup.com/hc/en-us/articles/40676496321303-Use-AI-for-documentation",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "capacities": {
+    "fr": "Espace de gestion des connaissances qui organise notes, livres, personnes et projets sous forme d’objets liés et de propriétés. Son assistant IA peut interroger les notes, résumer ou traduire des textes et renseigner certaines propriétés ; contrôler les modifications et les informations sensibles.",
+    "en": "Knowledge management workspace organizing notes, books, people and projects as linked objects with properties. Its AI assistant can query notes, summarize or translate text and fill in properties; review changes and sensitive information.",
+    "ar": "مساحة لإدارة المعرفة تنظّم الملاحظات والكتب والأشخاص والمشاريع في صورة كائنات مترابطة ذات خصائص. يستطيع مساعدها الذكي الاستعلام عن الملاحظات وتلخيص النصوص وترجمتها وتعبئة بعض الخصائص، مع ضرورة مراجعة التعديلات وحماية المعلومات الحساسة.",
+    "officialSource": "https://capacities.io/about/facts",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "duolingo-max": {
+    "fr": "Formule d’apprentissage des langues de Duolingo intégrant des exercices conversationnels assistés par IA, dont les jeux de rôle et les appels vidéo avec des personnages virtuels. Ces activités permettent de pratiquer dans des situations simulées ; la disponibilité varie selon la langue et l’offre.",
+    "en": "Duolingo language-learning tier offering AI-supported conversation practice, including roleplay and video calls with virtual characters. These activities provide simulated speaking situations; availability varies by language and plan.",
+    "ar": "اشتراك لتعلم اللغات من Duolingo يتيح تدريبات محادثة مدعومة بالذكاء الاصطناعي، منها تمثيل الأدوار والمكالمات المرئية مع شخصيات افتراضية. تساعد هذه الأنشطة على ممارسة اللغة في مواقف محاكية للواقع، وتختلف إتاحتها بحسب اللغة والاشتراك.",
+    "officialSource": "https://blog.duolingo.com/covering-all-the-bases-duolingos-approach-to-speaking-skills/",
+    "sourceReviewedAt": "2026-11-24"
   }
 }
