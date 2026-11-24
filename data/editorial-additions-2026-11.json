@@ -4814,5 +4814,61 @@
     "ar": "خدمة استدلال مستضافة تتيح الوصول إلى نماذج متعددة عبر واجهات متوافقة مع OpenAI وAnthropic بحسب الوظائف. تدعم التوليد والتضمينات وتكاملات RAG. ينبغي مراجعة النماذج المتاحة وحدود الطلبات والتكاليف وشروط الخصوصية.",
     "officialSource": "https://docs.sambanova.ai/docs/en/get-started/overview",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "chatgpt": {
+    "fr": "Assistant multimodal d'OpenAI pour la rédaction, l'analyse de fichiers, la recherche web, la programmation et les échanges vocaux. Les projets permettent de regrouper documents et conversations. Les capacités dépendent de l'offre ; vérifier les sources et les paramètres de données.",
+    "en": "OpenAI multimodal assistant for writing, file analysis, web research, coding and voice conversations. Projects organize documents and conversations. Capabilities vary by plan; verify sources and data settings.",
+    "ar": "مساعد متعدد الوسائط من OpenAI للكتابة وتحليل الملفات والبحث على الويب والبرمجة والمحادثات الصوتية. تتيح المشاريع تنظيم الوثائق والمحادثات. تختلف الإمكانات بحسب الاشتراك؛ ينبغي مراجعة المصادر وإعدادات البيانات.",
+    "officialSource": "https://help.openai.com/en/articles/9260256-chatgpt-capabilities-overview",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "claude": {
+    "fr": "Assistant d'Anthropic pour analyser des documents, rédiger et programmer. Les projets réunissent des ressources contextuelles et les artefacts permettent de créer des documents, interfaces et outils interactifs. Contrôler les résultats et les permissions des intégrations.",
+    "en": "Anthropic assistant for document analysis, writing and coding. Projects organize contextual resources and artifacts enable documents, interfaces and interactive tools. Review outputs and integration permissions.",
+    "ar": "مساعد من Anthropic لتحليل الوثائق والكتابة والبرمجة. تجمع المشاريع الموارد السياقية وتتيح المصنوعات إنشاء الوثائق والواجهات والأدوات التفاعلية. ينبغي مراجعة النتائج وصلاحيات التكاملات.",
+    "officialSource": "https://support.claude.com/en/articles/17153992-what-are-artifacts-and-how-do-i-use-them",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "gemini": {
+    "fr": "Assistant multimodal de Google pour la rédaction, l'analyse et la recherche. Deep Research permet de préparer des rapports à partir du Web et de sources connectées autorisées. Vérifier les citations et les paramètres de partage des documents.",
+    "en": "Google multimodal assistant for writing, analysis and research. Deep Research prepares reports using the web and authorized connected sources. Verify citations and document sharing settings.",
+    "ar": "مساعد متعدد الوسائط من Google للكتابة والتحليل والبحث. تتيح Deep Research إعداد تقارير من الويب والمصادر المتصلة المصرح بها. ينبغي التحقق من الاستشهادات وإعدادات مشاركة الوثائق.",
+    "officialSource": "https://support.google.com/gemini/answer/15719111",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "perplexity": {
+    "fr": "Moteur de réponses conversationnelles qui recherche des informations et présente des synthèses accompagnées de références. Les modes avancés permettent de choisir certains modèles et d'approfondir les recherches. Consulter les documents originaux avant de reprendre une affirmation.",
+    "en": "Conversational answer engine that retrieves information and presents referenced summaries. Advanced modes support model selection and deeper searches. Consult original documents before reusing claims.",
+    "ar": "محرك إجابات حواري يبحث عن المعلومات ويقدم ملخصات مصحوبة بالمراجع. تتيح الأوضاع المتقدمة اختيار بعض النماذج وتعميق البحث. ينبغي الرجوع إلى الوثائق الأصلية قبل إعادة استخدام الادعاءات.",
+    "officialSource": "https://www.perplexity.ai/help-center/en/articles/10352903-what-is-pro-search",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "le-chat-mistral": {
+    "fr": "Assistant conversationnel de Mistral AI, désormais intégré à Mistral Vibe sous l'appellation Vibe for work. Il associe rédaction, recherche web et exploitation de documents ou outils connectés. Vérifier les sources et distinguer ce service de Vibe for code.",
+    "en": "Mistral AI conversational assistant now integrated into Mistral Vibe as Vibe for work. Combines writing, web research and use of documents or connected tools. Verify sources and distinguish it from Vibe for code.",
+    "ar": "مساعد حواري من Mistral AI مدمج الآن في Mistral Vibe باسم Vibe for work. يجمع الكتابة والبحث على الويب واستعمال الوثائق والأدوات المتصلة. ينبغي مراجعة المصادر وتمييزه عن Vibe for code.",
+    "officialSource": "https://mistral.ai/fr/products/vibe/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "poe": {
+    "fr": "Plateforme de Quora réunissant des assistants alimentés par différents fournisseurs de modèles et des bots personnalisés. Elle permet de comparer les réponses et de composer des workflows. Les quotas, capacités et traitements de données varient selon les bots.",
+    "en": "Quora platform bringing together assistants powered by different model providers and custom bots. Supports response comparison and workflow composition. Quotas, capabilities and data processing vary by bot.",
+    "ar": "منصة من Quora تجمع مساعدين يعتمدون على مزودي نماذج مختلفين وروبوتات مخصصة. تتيح مقارنة الإجابات وتركيب مسارات العمل. تختلف الحصص والإمكانات ومعالجة البيانات بحسب الروبوت.",
+    "officialSource": "https://help.poe.com/hc/en-us/articles/19944206309524-Poe-FAQs",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "duck-ai": {
+    "fr": "Interface conversationnelle de DuckDuckGo donnant accès à plusieurs modèles tiers. Selon sa politique officielle, les conversations ne sont pas conservées par défaut ni utilisées pour entraîner les modèles. Vérifier les modalités propres aux fonctions et fournisseurs sélectionnés.",
+    "en": "DuckDuckGo chat interface providing access to multiple third-party models. Its official policy states chats are not stored by default or used for model training. Check terms for selected features and providers.",
+    "ar": "واجهة حوارية من DuckDuckGo تتيح الوصول إلى نماذج متعددة من جهات خارجية. وفق سياستها الرسمية لا تحفظ المحادثات افتراضيًا ولا تستخدم لتدريب النماذج. ينبغي مراجعة شروط الوظائف والمزودين المختارين.",
+    "officialSource": "https://duckduckgo.com/duckduckgo-help-pages/duckai/ai-chat-privacy",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "qwen-chat": {
+    "fr": "Assistant conversationnel fondé sur les modèles Qwen, destiné aux tâches de rédaction, d'explication et d'assistance technique. Distinguer l'application hébergée des modèles téléchargeables de la famille Qwen et vérifier les capacités et licences de chaque version.",
+    "en": "Conversational assistant powered by Qwen models for writing, explanation and technical assistance. Distinguish the hosted application from downloadable Qwen models and check each version's capabilities and licenses.",
+    "ar": "مساعد حواري قائم على نماذج Qwen للكتابة والشرح والمساعدة التقنية. ينبغي التمييز بين التطبيق المستضاف والنماذج القابلة للتنزيل من عائلة Qwen ومراجعة إمكانات كل إصدار وتراخيصه.",
+    "officialSource": "https://qwen.ai/home",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
