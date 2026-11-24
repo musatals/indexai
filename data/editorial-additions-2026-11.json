@@ -3726,5 +3726,103 @@
     "ar": "تطبيق للمسح ثلاثي الأبعاد يعيد بناء الأشياء والفضاءات باستخدام التصوير المساحي وتقنية Gaussian Splatting ومستشعر LiDAR على الأجهزة المتوافقة. تنتج أوضاع الالتقاط تمثيلات مختلفة، وتعتمد صيغ التصدير على الوضع والاشتراك. للتوثيق التراثي ينبغي الاحتفاظ بالصور الأصلية والتحقق من القياسات والدقة الهندسية.",
     "officialSource": "https://learn.poly.cam/hc/en-us/articles/27425185907348-How-to-Use-Object-Mode",
     "sourceReviewedAt": "2026-11-24"
+  },
+  "elicit": {
+    "fr": "Assistant de recherche proposant un parcours de revue systématique : recherche d’articles, sélection selon des critères, extraction structurée et synthèse. Les décisions d’inclusion et les données extraites doivent être contrôlées par les chercheurs et documentées pour assurer la reproductibilité.",
+    "en": "Research assistant with a systematic review workflow for paper discovery, criteria-based screening, structured extraction and synthesis. Researchers must verify inclusion decisions and extracted data and document them for reproducibility.",
+    "ar": "مساعد بحث يوفر مسارًا للمراجعة المنهجية يشمل البحث عن المقالات وفرزها وفق معايير محددة واستخراج البيانات المنظمة وتلخيصها. ينبغي للباحثين التحقق من قرارات الإدراج والبيانات المستخرجة وتوثيقها لضمان قابلية إعادة إنتاج البحث.",
+    "officialSource": "https://support.elicit.com/en/articles/14759154-systematic-reviews-in-elicit",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "consensus": {
+    "fr": "Moteur de recherche scientifique qui synthétise des publications pertinentes et renvoie vers les études sources. Le Consensus Meter visualise les réponses convergentes ou divergentes à certaines questions fermées. Cette distribution ne remplace ni une évaluation de la qualité méthodologique ni une méta-analyse.",
+    "en": "Scientific search engine synthesizing relevant publications with links to source studies. The Consensus Meter visualizes agreement or disagreement for selected yes-or-no questions. This distribution does not replace methodological quality assessment or meta-analysis.",
+    "ar": "محرك بحث علمي يلخص المنشورات ذات الصلة ويربط النتائج بالدراسات الأصلية. يعرض مقياس Consensus Meter مدى توافق الإجابات أو اختلافها في بعض الأسئلة المغلقة. لا يغني هذا التوزيع عن تقييم الجودة المنهجية أو التحليل التلوي.",
+    "officialSource": "https://help.consensus.app/en/articles/9922673-how-consensus-works",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "scite": {
+    "fr": "Plateforme d’analyse des citations qui présente les passages citants et les classe selon qu’ils soutiennent, mentionnent ou contestent une affirmation. Les Smart Citations aident à contextualiser la réception scientifique d’un article ; vérifier les passages originaux et ne pas assimiler une classification automatique à une évaluation de validité.",
+    "en": "Citation analysis platform displaying citing passages and classifying them as supporting, mentioning or contrasting a claim. Smart Citations help contextualize scholarly reception; inspect original passages and do not equate automated classifications with validity assessments.",
+    "ar": "منصة لتحليل الاستشهادات تعرض المقاطع المستشهِدة وتصنفها بحسب دعمها للادعاء أو ذكره أو معارضته. تساعد Smart Citations على فهم تلقي المقالة علميًا؛ ينبغي مراجعة المقاطع الأصلية وعدم اعتبار التصنيف الآلي تقييمًا لصحة النتائج.",
+    "officialSource": "https://scite.ai/features",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "semantic-scholar": {
+    "fr": "Moteur de recherche académique associé à un graphe de publications, auteurs et citations. Son API Academic Graph permet de récupérer des métadonnées et relations bibliographiques pour des analyses reproductibles. Vérifier la couverture disciplinaire, les identifiants, les doublons et les conditions d’accès aux données.",
+    "en": "Academic search engine backed by a graph of papers, authors and citations. Its Academic Graph API retrieves metadata and bibliographic relationships for reproducible analyses. Check disciplinary coverage, identifiers, duplicates and data access terms.",
+    "ar": "محرك بحث أكاديمي يستند إلى رسم بياني للمنشورات والمؤلفين والاستشهادات. تتيح واجهة Academic Graph استرجاع البيانات الوصفية والعلاقات الببليوغرافية للتحليلات القابلة لإعادة الإنتاج. ينبغي مراجعة التغطية التخصصية والمعرّفات والتكرارات وشروط الوصول إلى البيانات.",
+    "officialSource": "https://api.semanticscholar.org/api-docs",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "researchrabbit": {
+    "fr": "Outil de découverte bibliographique visuelle qui développe une recherche à partir d’articles de départ, d’auteurs et de publications apparentées. Il facilite l’exploration progressive d’un domaine et l’organisation des références. Compléter cette méthode par des recherches indépendantes pour limiter le biais des articles de départ.",
+    "en": "Visual literature discovery tool expanding searches from seed papers, authors and related publications. It supports iterative exploration and reference organization. Complement this approach with independent searches to limit seed-paper bias.",
+    "ar": "أداة للاكتشاف الببليوغرافي البصري توسّع البحث انطلاقًا من مقالات مرجعية ومؤلفين ومنشورات ذات صلة. تسهّل الاستكشاف التدريجي للمجال وتنظيم المراجع. ينبغي استكمالها بعمليات بحث مستقلة للحد من تحيز المقالات المرجعية.",
+    "officialSource": "https://www.researchrabbit.ai/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "connected-papers": {
+    "fr": "Outil cartographique qui rapproche les publications selon la cocitation et le couplage bibliographique. Le graphe représente une similarité de références, et non nécessairement des citations directes entre les articles. Utile pour explorer un domaine, sans prétendre couvrir toute sa littérature.",
+    "en": "Literature mapping tool connecting papers through co-citation and bibliographic coupling. Its graph represents reference-based similarity rather than necessarily direct citations between papers. Useful for exploring a field, without claiming exhaustive coverage.",
+    "ar": "أداة لرسم خرائط المنشورات اعتمادًا على الاستشهاد المشترك والاقتران الببليوغرافي. يمثل الرسم البياني التشابه القائم على المراجع وليس بالضرورة استشهادات مباشرة بين المقالات. تفيد في استكشاف المجال دون الادعاء بتغطية جميع أدبياته.",
+    "officialSource": "https://www.connectedpapers.com/about",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "litmaps": {
+    "fr": "Plateforme de cartographie bibliographique permettant d’explorer des publications à partir d’articles de référence et de suivre les nouvelles connexions pertinentes. Elle facilite la veille scientifique et la préparation des revues de littérature. Conserver les dates et critères de recherche et compléter les résultats par des bases spécialisées.",
+    "en": "Literature mapping platform exploring publications from seed papers and tracking relevant new connections. Useful for research monitoring and literature reviews. Record search dates and criteria and complement results with specialized databases.",
+    "ar": "منصة لرسم الخرائط الببليوغرافية تتيح استكشاف المنشورات من مقالات مرجعية ومتابعة الروابط الجديدة ذات الصلة. تسهّل اليقظة العلمية وإعداد مراجعات الأدبيات. ينبغي تسجيل تواريخ البحث ومعاييره واستكمال النتائج بقواعد بيانات متخصصة.",
+    "officialSource": "https://www.litmaps.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "scispace": {
+    "fr": "Environnement d’assistance à la recherche réunissant recherche d’articles, interrogation de PDF, revue de littérature, extraction de données et rédaction. L’ancien domaine Typeset redirige vers SciSpace. Vérifier les réponses et citations dans les documents sources et respecter les règles de confidentialité des manuscrits.",
+    "en": "Research workspace combining paper search, PDF questioning, literature review, data extraction and writing. The former Typeset domain redirects to SciSpace. Verify answers and citations in original documents and respect manuscript confidentiality requirements.",
+    "ar": "بيئة مساعدة للبحث تجمع البحث عن المقالات والاستفسار عن ملفات PDF ومراجعة الأدبيات واستخراج البيانات والكتابة. يعيد نطاق Typeset القديم التوجيه إلى SciSpace. ينبغي التحقق من الإجابات والاستشهادات في المستندات الأصلية واحترام سرية المخطوطات.",
+    "officialSource": "https://scispace.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "scholarcy": {
+    "fr": "Assistant de lecture qui transforme articles, livres et autres documents en fiches de synthèse interactives pour identifier les informations essentielles et organiser ses lectures. Les fiches facilitent le tri initial mais ne remplacent pas la lecture attentive des méthodes, résultats et limites.",
+    "en": "Reading assistant converting papers, books and other documents into interactive summary cards to identify key information and organize readings. Cards support initial screening but do not replace careful reading of methods, results and limitations.",
+    "ar": "مساعد للقراءة يحوّل المقالات والكتب وغيرها من المستندات إلى بطاقات تلخيص تفاعلية لاستخلاص المعلومات الأساسية وتنظيم القراءات. تسهّل البطاقات الفرز الأولي لكنها لا تغني عن القراءة الدقيقة للمنهج والنتائج والحدود.",
+    "officialSource": "https://www.scholarcy.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "explainpaper": {
+    "fr": "Assistant de lecture permettant de sélectionner un passage difficile dans un article importé et d’obtenir une explication simplifiée. Il aide à comprendre le vocabulaire spécialisé et les concepts complexes. Confronter les explications au texte original et aux définitions disciplinaires.",
+    "en": "Reading assistant allowing users to highlight difficult passages in uploaded papers and receive simplified explanations. Helps with specialist vocabulary and complex concepts. Compare explanations with the original text and disciplinary definitions.",
+    "ar": "مساعد للقراءة يتيح تحديد مقطع صعب في مقالة مرفوعة والحصول على شرح مبسط. يساعد على فهم المصطلحات المتخصصة والمفاهيم المعقدة. ينبغي مقارنة الشروح بالنص الأصلي والتعريفات المعتمدة في التخصص.",
+    "officialSource": "https://www.explainpaper.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "paperpal": {
+    "fr": "Assistant de rédaction scientifique proposant corrections linguistiques, reformulation, aide aux citations et contrôles de manuscrits. Il facilite la préparation éditoriale sans garantir l’acceptation par une revue. Vérifier chaque référence, préserver la voix de l’auteur et respecter les règles de divulgation de l’usage de l’IA.",
+    "en": "Academic writing assistant offering language correction, paraphrasing, citation assistance and manuscript checks. Supports editorial preparation without guaranteeing journal acceptance. Verify every reference, preserve authorial voice and follow AI-use disclosure rules.",
+    "ar": "مساعد للكتابة العلمية يقدم التصحيح اللغوي وإعادة الصياغة والمساعدة في الاستشهادات وفحص المخطوطات. يسهل الإعداد للنشر دون ضمان قبول المجلة. ينبغي التحقق من كل مرجع والحفاظ على أسلوب المؤلف واحترام قواعد الإفصاح عن استخدام الذكاء الاصطناعي.",
+    "officialSource": "https://paperpal.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "jenni-ai": {
+    "fr": "Espace de rédaction académique associant bibliothèque de sources, suggestions de texte et insertion de citations. Il aide à structurer une argumentation à partir de références choisies. Contrôler l’adéquation de chaque citation à l’affirmation et ne pas déléguer l’analyse scientifique ni la responsabilité d’auteur.",
+    "en": "Academic writing workspace combining a source library, text suggestions and citation insertion. Helps structure arguments from selected references. Check that each citation supports its claim and retain responsibility for scientific analysis and authorship.",
+    "ar": "مساحة للكتابة الأكاديمية تجمع مكتبة للمصادر واقتراحات نصية وإدراج الاستشهادات. تساعد على بناء الحجة استنادًا إلى مراجع مختارة. ينبغي التحقق من ملاءمة كل استشهاد للادعاء وعدم تفويض التحليل العلمي أو مسؤولية التأليف.",
+    "officialSource": "https://jenni.ai/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "humata": {
+    "fr": "Assistant documentaire permettant d’interroger plusieurs fichiers, de comparer des passages et de générer des synthèses avec renvois aux sources. Une API est proposée pour intégrer ces fonctions. Vérifier chaque citation dans le document original et les conditions de traitement des données sensibles.",
+    "en": "Document assistant for querying multiple files, comparing passages and generating summaries with source references. An API supports integration. Verify each citation in the original document and check sensitive-data processing terms.",
+    "ar": "مساعد وثائقي يتيح الاستفسار عن ملفات متعددة ومقارنة المقاطع وإعداد ملخصات مع إحالات إلى المصادر. تتوفر واجهة برمجية لدمج هذه الوظائف. ينبغي التحقق من كل إحالة في المستند الأصلي وشروط معالجة البيانات الحساسة.",
+    "officialSource": "https://www.humata.ai/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "notebooklm": {
+    "fr": "Assistant documentaire de Google, également désigné Gemini Notebook dans l’aide actuelle, permettant d’interroger des sources importées et de produire notes, synthèses audio et cartes mentales. Les citations renvoient à des passages des sources sélectionnées. Vérifier les extraits et la confidentialité des documents avant partage.",
+    "en": "Google document assistant, also called Gemini Notebook in current help, for querying imported sources and creating notes, audio summaries and mind maps. Citations point to passages in selected sources. Verify excerpts and document privacy before sharing.",
+    "ar": "مساعد وثائقي من Google يُسمى أيضًا Gemini Notebook في وثائق المساعدة الحالية، يتيح الاستفسار عن المصادر المستوردة وإنتاج الملاحظات والملخصات الصوتية والخرائط الذهنية. تحيل الاستشهادات إلى مقاطع من المصادر المحددة. ينبغي مراجعة المقتطفات وخصوصية المستندات قبل المشاركة.",
+    "officialSource": "https://support.google.com/gemininotebook/answer/16179559",
+    "sourceReviewedAt": "2026-11-24"
   }
 }
