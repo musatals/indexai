@@ -3952,5 +3952,68 @@
     "ar": "بيئة للتوليد الأدبي التفاعلي تتيح مواصلة القصص وتنظيم معلومات الشخصيات والعوالم في Lorebook. تؤثر إعدادات السياق في النصوص المولدة. ينبغي مراجعة المقاطع للتحقق من الاستمرارية والتمييز بين الإبداعات التخيلية والوقائع الموثقة.",
     "officialSource": "https://docs.novelai.net/en/text/lorebook/",
     "sourceReviewedAt": "2026-11-24"
+  },
+  "copy-ai": {
+    "fr": "Plateforme d’automatisation des processus marketing et commerciaux (GTM) associant workflows, rédaction et profils de ton de marque adaptés aux publics. Elle facilite la production coordonnée de contenus et les opérations répétitives. Contrôler les données clients, les affirmations et les messages avant diffusion.",
+    "en": "Go-to-market automation platform combining workflows, writing and audience-specific brand voice profiles. It supports coordinated content production and repetitive business processes. Review customer data, claims and messages before release.",
+    "ar": "منصة لأتمتة عمليات التسويق والمبيعات تجمع مسارات العمل والكتابة وملفات نبرة العلامة التجارية المخصصة للجمهور. تسهّل إنتاج المحتوى المتناسق والعمليات المتكررة. ينبغي مراجعة بيانات العملاء والادعاءات والرسائل قبل النشر.",
+    "officialSource": "https://www.copy.ai/platform/brand-voice",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "writesonic": {
+    "fr": "Plateforme de visibilité numérique associant production de contenus, SEO et optimisation pour les moteurs génératifs (GEO). Elle suit les mentions et citations de marques dans les réponses IA, propose des audits et des améliorations éditoriales. Les indicateurs observés ne garantissent pas un classement futur.",
+    "en": "Digital visibility platform combining content production, SEO and generative engine optimization (GEO). Tracks brand mentions and citations in AI answers and proposes audits and editorial improvements. Observed metrics do not guarantee future rankings.",
+    "ar": "منصة للظهور الرقمي تجمع إنتاج المحتوى وتحسين محركات البحث وتحسين الظهور في المحركات التوليدية GEO. تتابع ذكر العلامات التجارية والاستشهاد بها في إجابات الذكاء الاصطناعي وتقترح عمليات تدقيق وتحسينات تحريرية. لا تضمن المؤشرات المرصودة ترتيبًا مستقبليًا.",
+    "officialSource": "https://docs.writesonic.com/docs/what-is-writesonic",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "hyperwrite": {
+    "fr": "Assistant personnel de rédaction et de recherche proposant des suggestions, reformulations et aides à la préparation de documents. Il peut accompagner des tâches professionnelles mais les références et les informations générées nécessitent une vérification indépendante. Éviter de transmettre des données confidentielles sans autorisation.",
+    "en": "Personal writing and research assistant offering suggestions, rewrites and document preparation support. It can assist professional tasks, but generated information and references require independent verification. Avoid sharing confidential data without authorization.",
+    "ar": "مساعد شخصي للكتابة والبحث يقدم اقتراحات وإعادة صياغة ودعمًا لإعداد المستندات. يمكنه المساعدة في المهام المهنية، لكن المعلومات والمراجع المولدة تحتاج إلى تحقق مستقل. ينبغي تجنب مشاركة البيانات السرية دون إذن.",
+    "officialSource": "https://www.hyperwriteai.com/personal-assistant",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "writer": {
+    "fr": "Plateforme d’agents IA pour les entreprises, dotée d’un Knowledge Graph permettant d’ancrer les réponses dans les sources internes par RAG. Les profils d’agents et les autorisations encadrent les accès. Vérifier la provenance des réponses et appliquer une validation humaine aux actions sensibles.",
+    "en": "Enterprise AI agent platform with a Knowledge Graph for grounding responses in internal sources through RAG. Agent profiles and permissions govern access. Verify response provenance and require human review for sensitive actions.",
+    "ar": "منصة للوكلاء الأذكياء في المؤسسات تضم رسمًا بيانيًا معرفيًا لإسناد الإجابات إلى المصادر الداخلية عبر التوليد المعزز بالاسترجاع RAG. تضبط ملفات الوكلاء والصلاحيات الوصول إلى البيانات. ينبغي التحقق من مصادر الإجابات وإخضاع الإجراءات الحساسة للمراجعة البشرية.",
+    "officialSource": "https://support.writer.com/articles/5542422490-building-enterprise-brain",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "anyword": {
+    "fr": "Assistant marketing qui génère et compare des variantes de textes selon le public, le canal et l’objectif. Son score prédictif exploite des données de performance et des profils de marque ; une API permet certaines intégrations. Les scores restent des estimations à confronter aux résultats de tests réels.",
+    "en": "Marketing assistant generating and comparing copy variants by audience, channel and goal. Its predictive score uses performance data and brand profiles, with API integration options. Scores remain estimates to validate against actual test results.",
+    "ar": "مساعد تسويقي يولد صيغًا نصية متعددة ويقارنها بحسب الجمهور والقناة والهدف. تعتمد درجاته التنبؤية على بيانات الأداء وملفات العلامة التجارية، مع خيارات للتكامل عبر واجهة برمجية. تظل الدرجات تقديرات ينبغي مقارنتها بنتائج الاختبارات الفعلية.",
+    "officialSource": "https://www.anyword.com/api",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "textcortex": {
+    "fr": "Assistant de rédaction et de recherche qui combine profils personnalisés, modèles de tâches et bases de connaissances alimentées par des fichiers ou des pages web. Les contenus web importés ne sont pas nécessairement synchronisés en temps réel. Vérifier la fraîcheur des sources et les permissions.",
+    "en": "Writing and research assistant combining custom personas, task templates and knowledge bases populated with files or web pages. Imported web content is not necessarily synchronized in real time. Check source freshness and permissions.",
+    "ar": "مساعد للكتابة والبحث يجمع الشخصيات المخصصة وقوالب المهام وقواعد المعرفة المستندة إلى الملفات أو صفحات الويب. لا تُزامن محتويات الويب المستوردة بالضرورة في الوقت الفعلي. ينبغي مراجعة حداثة المصادر والصلاحيات.",
+    "officialSource": "https://help.textcortex.com/hc/en-us/articles/21889436807825-TextCortex-User-Handbook",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "prowritingaid": {
+    "fr": "Assistant de révision littéraire et stylistique proposant des rapports sur la qualité rédactionnelle, ainsi que des analyses de chapitres, de manuscrits, d’intrigue et de personnages. Ces retours complètent le travail éditorial sans remplacer un lecteur humain. Les quotas des rapports avancés varient selon l’offre.",
+    "en": "Literary and stylistic editing assistant providing writing reports and chapter, manuscript, plot and character analyses. Feedback complements editorial work rather than replacing human readers. Advanced report quotas vary by plan.",
+    "ar": "مساعد للمراجعة الأدبية والأسلوبية يقدم تقارير عن جودة الكتابة وتحليلات للفصول والمخطوطات والحبكة والشخصيات. تكمل الملاحظات العمل التحريري ولا تحل محل القارئ البشري. تختلف حصص التقارير المتقدمة بحسب الاشتراك.",
+    "officialSource": "https://help.prowritingaid.com/article/297-does-prowritingaid-use-ai",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "lex": {
+    "fr": "Éditeur de texte en ligne conçu pour la rédaction et la révision dans une interface épurée, avec assistance IA intégrée pour améliorer progressivement les brouillons. Adapté aux articles et documents de travail. Vérifier les propositions et conserver la maîtrise de la version finale.",
+    "en": "Online text editor designed for writing and revision in a minimalist interface, with integrated AI assistance for iteratively improving drafts. Suitable for articles and working documents. Review suggestions and retain control of the final version.",
+    "ar": "محرر نصوص عبر الويب مصمم للكتابة والمراجعة في واجهة بسيطة، مع مساعدة ذكية مدمجة لتحسين المسودات تدريجيًا. يناسب المقالات ومستندات العمل. ينبغي مراجعة الاقتراحات والحفاظ على التحكم في النسخة النهائية.",
+    "officialSource": "https://lex.page/trial",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "simplified": {
+    "fr": "Suite de création de contenus associant rédaction assistée, conception graphique, vidéo et planification des publications sociales. Les modèles et ressources de marque aident à décliner un message sur plusieurs supports. Contrôler les droits des médias et valider les publications programmées.",
+    "en": "Content creation suite combining assisted writing, graphic design, video and social publishing schedules. Templates and brand assets support adaptation across formats. Check media rights and review scheduled publications.",
+    "ar": "مجموعة أدوات لإنشاء المحتوى تجمع الكتابة المدعومة بالذكاء الاصطناعي والتصميم والفيديو وجدولة منشورات التواصل الاجتماعي. تساعد القوالب وموارد العلامة التجارية على تكييف الرسالة مع صيغ متعددة. ينبغي التحقق من حقوق الوسائط ومراجعة المنشورات المجدولة.",
+    "officialSource": "https://simplified.com/ai-writer",
+    "sourceReviewedAt": "2026-11-24"
   }
 }
