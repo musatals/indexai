@@ -3619,5 +3619,84 @@
     "ar": "تطبيق من Microsoft لإنشاء العناصر البصرية وتحريرها انطلاقًا من الأوصاف، موجه خصوصًا للرسوم والتواصل الشخصي. توضح الوثائق أن استخدام Designer بحساب Microsoft شخصي مخصص للأغراض غير التجارية. ينبغي مراجعة شروط التكامل مع Microsoft 365 بصورة مستقلة.",
     "officialSource": "https://support.microsoft.com/en-us/designer/frequently-asked-questions-about-microsoft-designer",
     "sourceReviewedAt": "2026-11-24"
+  },
+  "runway": {
+    "fr": "Studio de production audiovisuelle générative combinant création de vidéos à partir de textes ou d’images et transformation de séquences existantes. Gen-4.5 permet de guider le mouvement, le cadrage et la progression temporelle. Vérifier la continuité visuelle entre les plans et les droits des références.",
+    "en": "Generative audiovisual studio combining text-to-video, image-to-video and editing of existing footage. Gen-4.5 supports guidance of motion, framing and temporal progression. Review continuity between shots and rights to reference material.",
+    "ar": "استوديو للإنتاج السمعي البصري التوليدي يجمع إنشاء الفيديو من النصوص والصور وتعديل المقاطع الموجودة. يتيح Gen-4.5 توجيه الحركة والتأطير والتطور الزمني. ينبغي مراجعة الاتساق البصري بين اللقطات وحقوق المواد المرجعية.",
+    "officialSource": "https://help.runwayml.com/hc/en-us/articles/46974685288467-Creating-with-Gen-4-5",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "pika": {
+    "fr": "Atelier de génération vidéo à partir de descriptions et de références multimédias, avec plusieurs modèles et outils créatifs. Les entrées acceptées varient selon le modèle choisi. Adapté aux animations courtes et aux essais visuels ; contrôler la cohérence des mouvements et les conditions d’utilisation.",
+    "en": "Video generation workspace using descriptions and multimedia references, with multiple models and creative tools. Supported inputs vary by selected model. Useful for short animations and visual experiments; check motion consistency and usage terms.",
+    "ar": "ورشة لتوليد الفيديو من الأوصاف والمراجع متعددة الوسائط، تضم نماذج وأدوات إبداعية مختلفة. تختلف المدخلات المدعومة بحسب النموذج المختار. تناسب الرسوم المتحركة القصيرة والتجارب البصرية؛ ينبغي مراجعة اتساق الحركة وشروط الاستخدام.",
+    "officialSource": "https://creation.pika.art/apps/create-video",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "luma-dream-machine": {
+    "fr": "Studio de création vidéo de Luma AI proposant des générations à partir d’images ou de texte et des transformations vidéo. Ray3 introduit des références de personnages et des images clés pour guider la continuité. Tester les transitions et la fidélité aux références avant montage final.",
+    "en": "Luma AI video creation studio offering image- or text-based generation and video transformation. Ray3 introduces character references and keyframes to guide continuity. Test transitions and reference fidelity before final editing.",
+    "ar": "استوديو لإنشاء الفيديو من Luma AI يتيح التوليد من الصور أو النصوص وتحويل الفيديو. يوفر Ray3 مراجع للشخصيات وإطارات مفتاحية لتوجيه الاستمرارية البصرية. ينبغي اختبار الانتقالات ومدى الالتزام بالمراجع قبل المونتاج النهائي.",
+    "officialSource": "https://lumalabs.ai/ray3",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "kling-ai": {
+    "fr": "Famille de modèles et plateforme de génération d’images et de vidéos, avec création à partir de descriptions et de références visuelles. Certaines intégrations proposent un contrôle du mouvement guidé par une vidéo de référence. Les fonctionnalités et conditions d’accès varient selon le modèle et le fournisseur.",
+    "en": "Image and video generation platform and model family using descriptions and visual references. Selected integrations offer motion control guided by reference footage. Features and access conditions vary by model and provider.",
+    "ar": "منصة وعائلة نماذج لتوليد الصور والفيديو من الأوصاف والمراجع البصرية. توفر بعض التكاملات تحكمًا في الحركة بالاستناد إلى فيديو مرجعي. تختلف الوظائف وشروط الوصول بحسب النموذج ومزود الخدمة.",
+    "officialSource": "https://app.klingai.com/",
+    "sourceReviewedAt": "2026-11-24",
+    "supportingSource": "https://help.runwayml.com/hc/en-us/articles/50280558448147-Creating-with-Kling-3-0-Motion-Control"
+  },
+  "hailuo-ai": {
+    "fr": "Service de MiniMax pour générer des séquences vidéo à partir de texte ou d’images. Certains modèles acceptent des images initiale et finale ou une référence de personnage pour mieux guider le mouvement. Vérifier la stabilité des sujets et signaler les reconstitutions fictives.",
+    "en": "MiniMax service generating video sequences from text or images. Selected models accept start and end frames or character references to guide movement. Check subject stability and label fictional reconstructions.",
+    "ar": "خدمة من MiniMax لتوليد مقاطع الفيديو من النصوص أو الصور. تقبل بعض النماذج إطاري البداية والنهاية أو مرجعًا للشخصية لتوجيه الحركة. ينبغي مراجعة ثبات العناصر وتوضيح أن المشاهد المعاد تصورها تخيلية.",
+    "officialSource": "https://www.minimax.io/news/minimax-hailuo-02-start-end-frames-feature-is-now-live",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "sora": {
+    "fr": "Ancienne plateforme de génération vidéo d’OpenAI, conservée à titre documentaire. Les applications et le service web ont été arrêtés le 26 avril 2026, puis l’API le 24 septembre 2026. L’aide officielle décrit les modalités d’export des anciens contenus, sous réserve de disponibilité. Ne pas recommander pour de nouveaux projets.",
+    "en": "Former OpenAI video generation platform retained for historical reference. Web and app access ended on April 26, 2026, followed by API discontinuation on September 24, 2026. Official help describes export options for existing content, subject to availability. Not recommended for new projects.",
+    "ar": "منصة سابقة لتوليد الفيديو من OpenAI تُحفظ لأغراض التوثيق التاريخي. توقفت التطبيقات وخدمة الويب في 26 أبريل 2026، ثم الواجهة البرمجية في 24 سبتمبر 2026. يوضح مركز المساعدة الرسمي خيارات تصدير المحتوى السابق رهناً بالإتاحة. لا يُنصح بها للمشاريع الجديدة.",
+    "officialSource": "https://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "haiper": {
+    "fr": "Ancien service de génération de courtes vidéos à partir de textes et d’images. Le site officiel ne fournit plus de contenu exploitable lors de la revue du 24 novembre 2026 ; des sources secondaires signalent la disparition de l’application grand public. La fermeture définitive n’a pas été confirmée par une annonce officielle consultable.",
+    "en": "Former service for generating short videos from text and images. Its official website provided no readable content during the November 24, 2026 review; secondary sources report the disappearance of the consumer app. Permanent closure was not confirmed by an accessible official announcement.",
+    "ar": "خدمة سابقة لتوليد فيديوهات قصيرة من النصوص والصور. لم يوفر موقعها الرسمي محتوى مقروءًا أثناء مراجعة 24 نوفمبر 2026، وتشير مصادر ثانوية إلى اختفاء التطبيق الموجه للجمهور. لم يتأكد الإغلاق النهائي من إعلان رسمي متاح.",
+    "officialSource": "https://haiper.ai/",
+    "sourceReviewedAt": "2026-11-24",
+    "supportingSource": "https://weusedthis.com/products/haiper"
+  },
+  "pixverse": {
+    "fr": "Plateforme de génération vidéo proposant des outils créatifs et une interface API pour intégrer la génération à des applications. Les paramètres, formats et modèles varient selon les points d’accès. Vérifier le résultat image par image, les droits des médias et les coûts de génération.",
+    "en": "Video generation platform offering creative tools and an API for integrating generation into applications. Settings, formats and models vary by endpoint. Review output frame by frame, media rights and generation costs.",
+    "ar": "منصة لتوليد الفيديو توفر أدوات إبداعية وواجهة برمجية لدمج التوليد في التطبيقات. تختلف الإعدادات والصيغ والنماذج بحسب نقطة الوصول. ينبغي مراجعة النتائج إطارًا بإطار وحقوق الوسائط وتكاليف التوليد.",
+    "officialSource": "https://docs.pixverse.ai/Getting-Started-41a3e99bf35080809e96f74177765b66",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "vidu": {
+    "fr": "Plateforme vidéo proposant la génération à partir de texte, d’images et de références multiples. Les références de sujets permettent de guider la continuité des personnages et des objets entre les plans. Une API est disponible ; vérifier la fidélité visuelle et les autorisations des personnes représentées.",
+    "en": "Video platform supporting text, image and multiple-reference generation. Subject references help guide character and object continuity across shots. An API is available; check visual fidelity and permissions from depicted people.",
+    "ar": "منصة فيديو تدعم التوليد من النصوص والصور والمراجع المتعددة. تساعد مراجع العناصر على توجيه اتساق الشخصيات والأشياء بين اللقطات. تتوفر واجهة برمجية؛ ينبغي مراجعة الدقة البصرية وأذونات الأشخاص الممثلين.",
+    "officialSource": "https://platform.vidu.com/docs/introduction",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "ltx-studio": {
+    "fr": "Environnement de production audiovisuelle reliant scénario, storyboard, génération d’images et de vidéos et montage sur timeline. Il aide à préparer les plans et à visualiser des séquences avant production. Distinguer le studio hébergé des modèles LTX distribués séparément et contrôler la cohérence narrative.",
+    "en": "Audiovisual production workspace connecting scripts, storyboards, image and video generation and timeline editing. Helps plan shots and visualize sequences before production. Distinguish the hosted studio from separately distributed LTX models and review narrative consistency.",
+    "ar": "بيئة للإنتاج السمعي البصري تربط السيناريو ولوحات القصة وتوليد الصور والفيديو والمونتاج على الخط الزمني. تساعد على تخطيط اللقطات وتصور المشاهد قبل الإنتاج. ينبغي التمييز بين الاستوديو المستضاف ونماذج LTX الموزعة بصورة مستقلة ومراجعة الاتساق السردي.",
+    "officialSource": "https://website.ltx.studio/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "wan-ai": {
+    "fr": "Famille de modèles vidéo d’Alibaba comprenant des versions hébergées et des modèles téléchargeables. Wan2.2 propose notamment génération depuis le texte ou l’image et animation guidée par l’audio selon la variante ; son dépôt est sous licence Apache 2.0. Vérifier les besoins matériels et la licence de chaque version.",
+    "en": "Alibaba video model family including hosted versions and downloadable models. Wan2.2 supports text- or image-based generation and audio-driven animation depending on the variant; its repository uses Apache 2.0. Check hardware requirements and each version’s license.",
+    "ar": "عائلة نماذج فيديو من Alibaba تشمل إصدارات مستضافة ونماذج قابلة للتنزيل. يدعم Wan2.2 التوليد من النص أو الصورة والتحريك الموجه بالصوت بحسب الإصدار، ويخضع مستودعه لترخيص Apache 2.0. ينبغي مراجعة متطلبات الأجهزة وترخيص كل إصدار.",
+    "officialSource": "https://github.com/Wan-Video/Wan2.2",
+    "sourceReviewedAt": "2026-11-24"
   }
 }
