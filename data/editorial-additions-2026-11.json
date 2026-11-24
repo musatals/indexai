@@ -1218,5 +1218,182 @@
     "ar": "مشروع من مايكروسوفت يعتمد على الرسوم البيانية المعرفية المستخرجة من مجموعات الوثائق لدعم البحث والتلخيص في أنظمة RAG.",
     "officialSource": "https://microsoft.github.io/graphrag/",
     "sourceReviewedAt": "2026-11-23"
+  },
+  "crowdstrike-charlotte-ai": {
+    "fr": "Assistant de cybersécurité intégré à CrowdStrike Falcon pour rechercher des incidents, examiner des signaux et accompagner les analystes SOC.",
+    "en": "Security assistant in CrowdStrike Falcon for investigating alerts and helping security operations analysts.",
+    "ar": "مساعد للأمن السيبراني مدمج في CrowdStrike Falcon للبحث في الحوادث وتحليل التنبيهات ومساندة محللي مراكز العمليات الأمنية.",
+    "officialSource": "https://www.crowdstrike.com/en-us/platform/charlotte-ai/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "sentinelone-purple-ai": {
+    "fr": "Assistant IA de la plateforme SentinelOne Singularity pour l'investigation, la recherche de menaces et le triage des incidents.",
+    "en": "AI assistant in SentinelOne Singularity for threat investigation, hunting and incident triage.",
+    "ar": "مساعد ذكاء اصطناعي في منصة SentinelOne Singularity للتحقيق في التهديدات والبحث عنها وفرز الحوادث.",
+    "officialSource": "https://www.sentinelone.com/platform/purple/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "vectra-ai": {
+    "fr": "Plateforme d'analyse des signaux d'attaque pour repérer et examiner des comportements suspects sur réseaux, identités et infrastructures cloud.",
+    "en": "Attack-signal analysis platform for detecting and investigating suspicious behavior in networks, identities and cloud services.",
+    "ar": "منصة لتحليل مؤشرات الهجمات ورصد السلوكيات المشبوهة في الشبكات والهويات والخدمات السحابية والتحقيق فيها.",
+    "officialSource": "https://www.vectra.ai/platform",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "abnormal-ai": {
+    "fr": "Plateforme de sécurité des communications utilisant l'analyse comportementale pour identifier des courriels malveillants et des risques liés aux comptes.",
+    "en": "Communication security platform using behavioral analysis to identify malicious email and account risks.",
+    "ar": "منصة لأمن الاتصالات تستخدم تحليل السلوك لاكتشاف البريد الإلكتروني الخبيث والمخاطر المرتبطة بالحسابات.",
+    "officialSource": "https://abnormal.ai/platform/email-security",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "snyk-deepcode": {
+    "fr": "Moteur d'analyse de code de Snyk destiné à détecter et prioriser des vulnérabilités et à suggérer des corrections dans le développement logiciel.",
+    "en": "Snyk code analysis engine for detecting and prioritizing vulnerabilities and suggesting software fixes.",
+    "ar": "محرك لتحليل الشيفرة البرمجية من Snyk يهدف إلى كشف الثغرات وترتيب أولوياتها واقتراح إصلاحات لها.",
+    "officialSource": "https://snyk.io/platform/deepcode-ai/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "wiz": {
+    "fr": "Plateforme de sécurité des environnements cloud et des charges de travail IA, reliant configurations, accès et vulnérabilités ; Wiz appartient à Google Cloud depuis mars 2026.",
+    "en": "Cloud and AI workload security platform correlating configurations, identities and vulnerabilities; Wiz joined Google Cloud in March 2026.",
+    "ar": "منصة لحماية البيئات السحابية وأعباء عمل الذكاء الاصطناعي تربط الإعدادات والهويات والثغرات؛ انضمت Wiz إلى Google Cloud في مارس 2026.",
+    "officialSource": "https://www.wiz.io/platform",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "protect-ai": {
+    "fr": "Ancien fournisseur de sécurité des modèles et applications IA, acquis par Palo Alto Networks en 2025 ; ses technologies ont été intégrées à Prisma AIRS.",
+    "en": "Former AI model and application security vendor acquired by Palo Alto Networks in 2025; its technology was integrated into Prisma AIRS.",
+    "ar": "شركة سابقة متخصصة في أمن نماذج وتطبيقات الذكاء الاصطناعي، استحوذت عليها Palo Alto Networks عام 2025 ودمجت تقنياتها في Prisma AIRS.",
+    "officialSource": "https://www.paloaltonetworks.com/company/press/2025/palo-alto-networks-completes-acquisition-of-protect-ai",
+    "sourceReviewedAt": "2026-11-24",
+    "currentName": "Palo Alto Networks Prisma AIRS"
+  },
+  "lakera-guard": {
+    "fr": "Service de protections d'applications IA contre les injections d'instructions, les fuites de données et des sorties à risque, dans l'offre Check Point AI Security après l'acquisition de Lakera.",
+    "en": "AI application guardrails against prompt injection, data leaks and risky output, now within Check Point AI Security following the Lakera acquisition.",
+    "ar": "خدمة لحماية تطبيقات الذكاء الاصطناعي من حقن التعليمات وتسرب البيانات والمخرجات الخطرة، أصبحت ضمن حلول Check Point بعد الاستحواذ على Lakera.",
+    "officialSource": "https://docs.lakera.ai/docs/defenses",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "hiddenlayer": {
+    "fr": "Plateforme de sécurisation des modèles et applications IA combinant analyse de modèles, évaluation offensive et surveillance des interactions à l'exécution.",
+    "en": "AI model and application security platform combining model scanning, red teaming and runtime monitoring.",
+    "ar": "منصة لحماية نماذج وتطبيقات الذكاء الاصطناعي تجمع فحص النماذج والاختبارات الهجومية ومراقبة التفاعلات أثناء التشغيل.",
+    "officialSource": "https://www.hiddenlayer.com/insight/introducing-workflow-aligned-modules-in-the-hiddenlayer-ai-security-platform",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "prompt-security": {
+    "fr": "Solution de contrôle de l'usage de l'IA en entreprise, des prompts et des risques de fuite de données ; intégrée à SentinelOne après son acquisition.",
+    "en": "Enterprise AI usage, prompt and data leakage security solution, part of SentinelOne following its acquisition.",
+    "ar": "حل لمراقبة استخدام الذكاء الاصطناعي في المؤسسات وحماية الموجّهات ومنع تسرب البيانات؛ أصبح جزءًا من SentinelOne بعد الاستحواذ.",
+    "officialSource": "https://www.sentinelone.com/press/sentinelone-to-acquire-prompt-security-to-advance-genai-security/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "robust-intelligence": {
+    "fr": "Ancien éditeur de solutions d'évaluation et de protection des modèles IA, acquis par Cisco en 2024 ; ses technologies contribuent notamment à Cisco AI Defense.",
+    "en": "Former AI model assessment and protection provider acquired by Cisco in 2024; its technology underpins parts of Cisco AI Defense.",
+    "ar": "شركة سابقة لتقييم نماذج الذكاء الاصطناعي وحمايتها، استحوذت عليها Cisco عام 2024 وتُستخدم تقنياتها ضمن Cisco AI Defense.",
+    "officialSource": "https://www.cisco.com/site/us/en/products/security/ai-defense/robust-intelligence-is-part-of-cisco/index.html",
+    "sourceReviewedAt": "2026-11-24",
+    "currentName": "Cisco AI Defense"
+  },
+  "palo-alto-cortex-xsiam": {
+    "fr": "Plateforme de gestion des opérations de sécurité regroupant données, corrélation des menaces, enquêtes et automatisations avec analyse assistée par IA.",
+    "en": "Security operations platform bringing together telemetry, threat correlation, investigations and AI-assisted automation.",
+    "ar": "منصة لإدارة العمليات الأمنية تجمع البيانات وربط التهديدات والتحقيقات والأتمتة بمساعدة تحليل الذكاء الاصطناعي.",
+    "officialSource": "https://www.paloaltonetworks.com/cortex/cortex-xsiam",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "reality-defender": {
+    "fr": "Service d'analyse d'images, de vidéos et d'enregistrements audio pour repérer des indices de manipulation et de deepfake ; un résultat n'est pas une preuve définitive.",
+    "en": "Image, video and audio analysis service for deepfake and manipulation signals; its classifications are not definitive proof.",
+    "ar": "خدمة لتحليل الصور والفيديو والتسجيلات الصوتية لرصد مؤشرات التزييف العميق؛ ولا تُعد نتائج التصنيف دليلاً قاطعًا.",
+    "officialSource": "https://www.realitydefender.com/product/realapi",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "hive-moderation": {
+    "fr": "API et outils de modération Hive pour analyser images, vidéos et textes et classer des contenus nécessitant un examen ou une restriction.",
+    "en": "Hive moderation APIs for analyzing images, video and text and classifying content that may require review or restriction.",
+    "ar": "واجهات وأدوات من Hive للإشراف على المحتوى عبر تحليل الصور والفيديو والنصوص وتصنيف المواد التي قد تحتاج إلى مراجعة.",
+    "officialSource": "https://docs.thehive.ai/reference/v1-dashboard-api-reference",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "originality-ai": {
+    "fr": "Service de vérification de contenus textuels proposant notamment estimation de génération par IA et analyse du plagiat, sans certitude absolue sur l'auteur.",
+    "en": "Text review service offering AI-generation estimates and plagiarism checks, without proving authorship with certainty.",
+    "ar": "خدمة لفحص النصوص وتقدير احتمال توليدها بالذكاء الاصطناعي والكشف عن الانتحال، دون إثبات قاطع لهوية الكاتب.",
+    "officialSource": "https://docs.originality.ai/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "turnitin": {
+    "fr": "Plateforme d'intégrité académique comportant des rapports de similarité et, dans certaines langues et conditions, des indicateurs de rédaction par IA à interpréter prudemment.",
+    "en": "Academic integrity platform with similarity reports and, for supported languages and conditions, AI-writing indicators that need cautious interpretation.",
+    "ar": "منصة للنزاهة الأكاديمية توفر تقارير التشابه ومؤشرات محتملة للكتابة بالذكاء الاصطناعي للغات والشروط المدعومة؛ ويجب تفسير نتائجها بحذر.",
+    "officialSource": "https://guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "winston-ai": {
+    "fr": "Outil d'analyse de textes pour estimer une éventuelle génération par IA et rechercher des similarités, avec des limites inhérentes aux détecteurs.",
+    "en": "Text analysis tool for estimating potential AI generation and checking similarities, subject to detector limitations.",
+    "ar": "أداة لتحليل النصوص وتقدير احتمال توليدها بالذكاء الاصطناعي وفحص التشابه، مع مراعاة حدود دقة الكواشف.",
+    "officialSource": "https://help.gowinston.ai/understanding-ai-detection/what-is-an-ai-content-detector",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "zerogpt": {
+    "fr": "Service d'examen de textes proposant un score de probabilité de génération par IA ainsi que des outils de vérification et rédaction ; ne prouve pas l'origine du texte.",
+    "en": "Text review service estimating AI-generated content and offering writing tools; its score does not prove text origin.",
+    "ar": "خدمة لفحص النصوص وتقدير احتمال توليدها بالذكاء الاصطناعي مع أدوات كتابة إضافية؛ ولا تثبت النتيجة مصدر النص بصورة قاطعة.",
+    "officialSource": "https://www.zerogpt.com/faq",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "sightengine": {
+    "fr": "API de modération d'images, vidéos et autres contenus avec modèles de détection des médias synthétiques et deepfakes.",
+    "en": "Image, video and content moderation API with detection models for synthetic media and deepfakes.",
+    "ar": "واجهة برمجية للإشراف على الصور والفيديو والمحتوى، تتضمن نماذج لرصد الوسائط الاصطناعية والتزييف العميق.",
+    "officialSource": "https://www.sightengine.com/docs/moderate-stored-video",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "hive-ai": {
+    "fr": "Service de classification de médias Hive permettant d'estimer si des contenus visuels, textuels ou audio ont été produits par IA.",
+    "en": "Hive media classification service for estimating whether visual, text or audio content was AI-generated.",
+    "ar": "خدمة من Hive لتصنيف الوسائط وتقدير ما إذا كانت الصور أو النصوص أو التسجيلات الصوتية مولّدة بالذكاء الاصطناعي.",
+    "officialSource": "https://docs.thehive.ai/docs/ai-generated-content-detection",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "truepic": {
+    "fr": "Technologie de capture vérifiable et de traçabilité des photos et vidéos fondée notamment sur des signatures et les standards de provenance C2PA.",
+    "en": "Verifiable photo and video capture and provenance technology using signatures and C2PA standards.",
+    "ar": "تقنية لالتقاط الصور والفيديو مع إمكانية التحقق من المصدر وتتبع تاريخ الوسائط باستخدام التوقيعات ومعايير C2PA.",
+    "officialSource": "https://www.truepic.com/learning/transparency-in-ai",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "content-credentials": {
+    "fr": "Initiative ouverte de métadonnées signées suivant le standard C2PA pour vérifier des informations de provenance et d'édition des médias, sans garantir leur véracité factuelle.",
+    "en": "Open initiative for C2PA-signed media provenance and edit-history information; credentials alone do not establish factual truth.",
+    "ar": "مبادرة مفتوحة لبيانات منشأ الوسائط وسجل تعديلها الموقعة وفق معيار C2PA؛ ولا تضمن بيانات الاعتماد وحدها صحة المحتوى.",
+    "officialSource": "https://contentcredentials.org/about/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "ai-or-not": {
+    "fr": "Service proposant des contrôles de détection de médias générés par IA, notamment images, vidéos et sons, avec résultats à confirmer par d'autres éléments.",
+    "en": "Service for checking potentially AI-generated media, including images, video and audio; results require corroboration.",
+    "ar": "خدمة لفحص الوسائط المحتمل توليدها بالذكاء الاصطناعي، مثل الصور والفيديو والصوت؛ ويجب دعم نتائجها بأدلة أخرى.",
+    "officialSource": "https://www.aiornot.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "inspect-ai": {
+    "fr": "Cadre open source d'évaluation des modèles d'IA développé par l'AI Security Institute britannique, structurant jeux de test, procédures et critères de notation.",
+    "en": "Open-source AI model evaluation framework developed by the UK AI Security Institute, combining test datasets, solvers and scoring.",
+    "ar": "إطار عمل مفتوح المصدر لتقييم نماذج الذكاء الاصطناعي طوره معهد أمن الذكاء الاصطناعي البريطاني، يجمع مجموعات الاختبار وخطوات التنفيذ ومعايير التقييم.",
+    "officialSource": "https://inspect.aisi.org.uk/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "pyrit": {
+    "fr": "Outil open source de Microsoft destiné aux équipes de red teaming pour tester la robustesse et les risques des modèles et applications d'IA générative.",
+    "en": "Microsoft open-source red teaming toolkit for testing security weaknesses and risks in generative AI models and applications.",
+    "ar": "أداة مفتوحة المصدر من مايكروسوفت لفرق الاختبارات الهجومية بهدف فحص متانة نماذج وتطبيقات الذكاء الاصطناعي التوليدي ومخاطرها.",
+    "officialSource": "https://github.com/microsoft/PyRIT",
+    "sourceReviewedAt": "2026-11-24"
   }
 }
