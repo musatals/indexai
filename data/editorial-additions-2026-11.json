@@ -4100,5 +4100,89 @@
     "ar": "استوديو فيديو عبر الإنترنت للمؤسسات يوفر قوالب للإعلانات ومقاطع التواصل الاجتماعي وأدوات التحرير ووظائف PromoAI للإنشاء والتخطيط. ينبغي تكييف الصيغ مع قنوات النشر والتحقق من تراخيص الوسائط والادعاءات الإعلانية.",
     "officialSource": "https://promo.com/",
     "sourceReviewedAt": "2026-11-24"
+  },
+  "semrush": {
+    "fr": "Suite de référencement et d'analyse concurrentielle associant recherche de mots-clés, liens entrants et suivi de visibilité. AI Visibility Toolkit analyse les mentions et sources dans les réponses génératives. Ses estimations ne constituent pas des mesures directes du trafic réel.",
+    "en": "SEO and competitive intelligence suite combining keyword research, backlinks and visibility tracking. AI Visibility Toolkit analyzes mentions and sources in generated answers. Estimates are not direct measurements of actual traffic.",
+    "ar": "مجموعة أدوات لتحسين الظهور في محركات البحث وتحليل المنافسة تجمع البحث عن الكلمات المفتاحية والروابط الواردة وتتبع الظهور. تحلل AI Visibility Toolkit الإشارات والمصادر في الإجابات التوليدية. لا تمثل التقديرات قياسات مباشرة للزيارات الفعلية.",
+    "officialSource": "https://www.semrush.com/kb/1607-semrush-ai-visibility-data",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "ahrefs": {
+    "fr": "Plateforme d'analyse SEO pour explorer les liens entrants, les mots-clés et les problèmes techniques. Brand Radar étend l'analyse aux réponses IA et aux sources qui les influencent. Distinguer les mentions observées des impressions et visites réellement mesurées.",
+    "en": "SEO analysis platform for exploring backlinks, keywords and technical issues. Brand Radar extends analysis to AI answers and their influencing sources. Distinguish observed mentions from measured impressions and visits.",
+    "ar": "منصة لتحليل تحسين محركات البحث واستكشاف الروابط الواردة والكلمات المفتاحية والمشكلات التقنية. يوسع Brand Radar التحليل ليشمل إجابات الذكاء الاصطناعي ومصادرها المؤثرة. ينبغي التمييز بين الإشارات المرصودة ومرات الظهور والزيارات المقاسة.",
+    "officialSource": "https://ahrefs.com/brand-radar/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "surfer-seo": {
+    "fr": "Éditeur de contenu proposant des recommandations de structure et de couverture thématique à partir de données de recherche. Il fournit des scores SEO et de recherche IA. Utiliser ces indicateurs comme aides éditoriales, sans sacrifier la précision ni la lisibilité.",
+    "en": "Content editor offering structural and topical coverage recommendations based on search data. It provides SEO and AI search scores. Use these as editorial aids without sacrificing accuracy or readability.",
+    "ar": "محرر محتوى يقترح تحسينات للبنية والتغطية الموضوعية بناء على بيانات البحث. يقدم مؤشرات لتحسين محركات البحث والبحث بالذكاء الاصطناعي. ينبغي استخدامها كأدوات مساعدة دون التضحية بالدقة أو سهولة القراءة.",
+    "officialSource": "https://docs.surferseo.com/en/articles/5700347-content-editor-overview",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "neuronwriter": {
+    "fr": "Éditeur d'optimisation sémantique qui propose des termes et indicateurs de couverture des sujets. Ses scores de contenu et d'optimisation IA orientent la révision. Ils ne garantissent pas le classement ni la qualité scientifique des textes.",
+    "en": "Semantic optimization editor suggesting terms and topic coverage indicators. Content and AI optimization scores guide revisions. They do not guarantee rankings or scholarly quality.",
+    "ar": "محرر للتحسين الدلالي يقترح المصطلحات ومؤشرات تغطية الموضوعات. تساعد درجات المحتوى والتحسين بالذكاء الاصطناعي على المراجعة، لكنها لا تضمن ترتيب النتائج أو الجودة العلمية للنصوص.",
+    "officialSource": "https://neuronwriter.com/faq-category/content-editor/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "outranking": {
+    "fr": "Plateforme de stratégie éditoriale et de rédaction assistée pour préparer et optimiser des articles destinés aux moteurs de recherche. Vérifier les recommandations, les sources et les affirmations avant publication.",
+    "en": "Content strategy and assisted writing platform for preparing and optimizing articles for search engines. Review recommendations, sources and claims before publishing.",
+    "ar": "منصة للاستراتيجية التحريرية والكتابة المساعدة لإعداد المقالات وتحسينها لمحركات البحث. ينبغي مراجعة التوصيات والمصادر والادعاءات قبل النشر.",
+    "officialSource": "https://outranking.io/onboarding/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "scalenut": {
+    "fr": "Plateforme de SEO et GEO dont Cruise Mode associe recherche de sujets, mots-clés, questions et rédaction assistée. Les scores et suggestions facilitent la préparation d'articles, sans garantir leur visibilité dans les réponses génératives.",
+    "en": "SEO and GEO platform whose Cruise Mode combines topic research, keywords, questions and assisted writing. Scores and suggestions support article preparation without guaranteeing visibility in generated answers.",
+    "ar": "منصة لتحسين الظهور في محركات البحث والمحركات التوليدية تجمع فيها Cruise Mode البحث عن الموضوعات والكلمات المفتاحية والأسئلة والكتابة المساعدة. تسهل المؤشرات إعداد المقالات دون ضمان ظهورها في الإجابات التوليدية.",
+    "officialSource": "https://www.scalenut.com/features/cruise-mode",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "contentshake-ai": {
+    "fr": "Ancien nom du Content Toolkit de Semrush, consacré à la recherche de sujets et à la création et optimisation de contenus. Vérifier les faits, les références et les modalités actuelles d'abonnement avant utilisation.",
+    "en": "Former name of Semrush Content Toolkit, focused on topic research, content creation and optimization. Verify facts, references and current subscription terms before use.",
+    "ar": "الاسم السابق لأداة Content Toolkit من Semrush، المخصصة للبحث عن الموضوعات وإنشاء المحتوى وتحسينه. ينبغي التحقق من الحقائق والمراجع وشروط الاشتراك الحالية قبل الاستخدام.",
+    "officialSource": "https://sv.semrush.com/semrush-questions/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "alli-ai": {
+    "fr": "Solution d'automatisation du référencement technique et sur page pouvant déployer des modifications sur les sites compatibles. Elle propose également des fonctions de visibilité IA. Tester les changements, conserver une possibilité de retour arrière et contrôler les pages indexables.",
+    "en": "Technical and on-page SEO automation solution capable of deploying changes to compatible websites. Also offers AI visibility features. Test changes, retain rollback options and review indexable pages.",
+    "ar": "حل لأتمتة التحسين التقني وتحسين صفحات المواقع المتوافقة مع إمكانية نشر التعديلات. يوفر أيضًا وظائف الظهور في البحث بالذكاء الاصطناعي. ينبغي اختبار التغييرات وإتاحة التراجع ومراجعة الصفحات القابلة للفهرسة.",
+    "officialSource": "https://www.alliai.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "rank-math": {
+    "fr": "Extension SEO pour WordPress intégrant Content AI pour la rédaction et l'optimisation des contenus. Les recommandations complètent les réglages de référencement ; contrôler les métadonnées et les données structurées avant publication.",
+    "en": "WordPress SEO plugin integrating Content AI for writing and content optimization. Recommendations complement SEO settings; verify metadata and structured data before publishing.",
+    "ar": "إضافة لتحسين محركات البحث في WordPress تدمج Content AI للكتابة وتحسين المحتوى. تكمل التوصيات إعدادات التحسين؛ ينبغي التحقق من البيانات الوصفية والبيانات المنظمة قبل النشر.",
+    "officialSource": "https://rankmath.com/kb/content-ai-setup/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "yoast-seo": {
+    "fr": "Extension de référencement proposant analyse de contenu, réglages techniques et fonctions IA selon l'offre. Certaines capacités WordPress permettent aux assistants compatibles de consulter ou modifier des paramètres SEO. Vérifier les autorisations et les modifications avant leur application.",
+    "en": "SEO plugin offering content analysis, technical settings and plan-dependent AI features. Selected WordPress abilities allow compatible assistants to inspect or update SEO settings. Review permissions and changes before applying them.",
+    "ar": "إضافة لتحسين محركات البحث تقدم تحليل المحتوى والإعدادات التقنية ووظائف الذكاء الاصطناعي بحسب الاشتراك. تتيح بعض قدرات WordPress للمساعدين المتوافقين مراجعة إعدادات التحسين أو تعديلها. ينبغي مراجعة الصلاحيات والتغييرات قبل تطبيقها.",
+    "officialSource": "https://yoast.com/help/faq-ai-in-yoast-seo/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "otterly-ai": {
+    "fr": "Service de veille de la visibilité dans les moteurs de recherche génératifs, reposant sur le suivi de requêtes et de mentions de marques. Les résultats varient selon les formulations, les moteurs et les dates ; documenter le protocole de suivi.",
+    "en": "Generative search visibility monitoring service based on tracked prompts and brand mentions. Results vary by wording, engine and date; document the monitoring protocol.",
+    "ar": "خدمة لمراقبة الظهور في محركات البحث التوليدية تعتمد على تتبع الاستعلامات والإشارات إلى العلامات التجارية. تختلف النتائج بحسب الصياغة والمحرك والتاريخ؛ ينبغي توثيق منهجية المتابعة.",
+    "officialSource": "https://help.otterly.ai/which-ai-searches-does-otterlyai-support",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "peec-ai": {
+    "fr": "Plateforme d'analyse des réponses IA qui suit la visibilité des marques, leurs concurrents et les sources citées. Elle propose aussi l'analyse des robots et des visites provenant d'assistants IA. Distinguer les mentions, les accès des robots et les conversions mesurées.",
+    "en": "AI answer analytics platform tracking brand visibility, competitors and cited sources. It also offers bot and AI referral analytics. Distinguish mentions, crawler visits and measured conversions.",
+    "ar": "منصة لتحليل إجابات الذكاء الاصطناعي تتتبع ظهور العلامات التجارية والمنافسين والمصادر المستشهد بها. تقدم أيضًا تحليل روبوتات الزحف والزيارات القادمة من المساعدين. ينبغي التمييز بين الإشارات وزيارات الروبوتات والتحويلات المقاسة.",
+    "officialSource": "https://peec.ai/ai-instructions",
+    "sourceReviewedAt": "2026-11-24"
   }
 }
