@@ -3097,5 +3097,76 @@
     "ar": "منصة لتصميم العروض التقديمية والتقارير والرسوم المعلوماتية، تضم استوديو ذكاء اصطناعي لإنشاء عروض قابلة للتعديل من التعليمات النصية. يمكن تخصيص العناصر البصرية والهوية التصميمية، مع ضرورة التحقق من صحة المحتوى المُولّد.",
     "officialSource": "https://support.visme.co/ai-creation-studio-how-to-create-a-presentation-with-ai-from-a-prompt/",
     "sourceReviewedAt": "2026-11-24"
+  },
+  "looka": {
+    "fr": "Générateur de logos qui propose des compositions à partir du nom de l’entreprise et de préférences graphiques. Le Brand Kit décline ensuite le logo, les couleurs et les polices en supports marketing personnalisables. Vérifier les conditions de téléchargement et la disponibilité juridique du signe.",
+    "en": "Logo generator that proposes designs based on a business name and visual preferences. Its Brand Kit applies the chosen logo, colors and fonts to customizable marketing assets. Check download terms and trademark availability.",
+    "ar": "مولّد شعارات يقترح تصاميم انطلاقًا من اسم المؤسسة وتفضيلاتها البصرية. تتيح حزمة الهوية البصرية توظيف الشعار والألوان والخطوط في مواد تسويقية قابلة للتخصيص. ينبغي التحقق من شروط التنزيل وإمكانية تسجيل العلامة التجارية.",
+    "officialSource": "https://looka.com/logo-maker/how-it-works/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "brandmark": {
+    "fr": "Service de conception de logos associant modèles, typographies et génération d’icônes par IA. L’éditeur web permet de personnaliser les compositions et de créer des supports de marque, avec des exports SVG, PNG ou PDF selon l’offre. Vérifier les droits et la distinctivité du logo.",
+    "en": "Logo design service combining templates, typography and AI-generated icons. Its browser editor supports customization and brand assets, with SVG, PNG or PDF exports depending on the package. Check usage rights and logo distinctiveness.",
+    "ar": "خدمة لتصميم الشعارات تجمع القوالب والخطوط وتوليد الأيقونات بالذكاء الاصطناعي. يتيح محرر الويب تخصيص التصميم وإنشاء مواد الهوية البصرية وتصديرها بصيغ SVG وPNG وPDF بحسب العرض. ينبغي التحقق من الحقوق وتميّز الشعار.",
+    "officialSource": "https://brandmark.io/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "logoai": {
+    "fr": "Plateforme de création de logos et d’identités visuelles associées. Elle décline les éléments graphiques en cartes de visite, maquettes, publications sociales et modèles de documents. Le Brand Center facilite leur cohérence ; vérifier les formats inclus et les droits commerciaux.",
+    "en": "Platform for creating logos and matching visual identities, extending designs to business cards, mockups, social posts and document templates. Brand Center helps maintain visual consistency; check included formats and commercial rights.",
+    "ar": "منصة لإنشاء الشعارات والهويات البصرية المتناسقة وتطبيقها على بطاقات العمل والنماذج البصرية ومنشورات التواصل وقوالب المستندات. يساعد مركز العلامة التجارية على توحيد التصميم، مع ضرورة التحقق من الصيغ المتاحة وحقوق الاستخدام التجاري.",
+    "officialSource": "https://www.logoai.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "designs-ai": {
+    "fr": "Suite de création assistée par IA qui rassemble des outils de design, image, vidéo, audio et présentation pour produire des supports de communication à partir d’un brief. Elle vise la cohérence de marque entre formats ; vérifier les crédits, licences et résultats avant diffusion.",
+    "en": "AI creative suite combining design, image, video, audio and presentation tools to produce communication assets from a brief. It aims to maintain brand consistency across formats; check credits, licensing and outputs before publishing.",
+    "ar": "مجموعة أدوات إبداعية مدعومة بالذكاء الاصطناعي تشمل التصميم والصور والفيديو والصوت والعروض التقديمية لإنتاج مواد تواصل انطلاقًا من موجز للمشروع. تساعد على توحيد الهوية البصرية عبر الصيغ المختلفة، مع ضرورة مراجعة الحصص والتراخيص والنتائج.",
+    "officialSource": "https://designs.ai/en",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "kittl": {
+    "fr": "Éditeur graphique en ligne associant composition, effets typographiques et édition vectorielle à des outils IA de génération d’images, de vectorisation et de suppression d’arrière-plan. Adapté aux illustrations et supports de marque ; contrôler la qualité des fichiers et les licences avant impression ou vente.",
+    "en": "Online graphic editor combining layout, typography and vector editing with AI image generation, vectorization and background removal. Suitable for illustrations and branded assets; check file quality and licensing before printing or selling.",
+    "ar": "محرر تصميم على الويب يجمع التكوين البصري وتأثيرات الخطوط وتحرير الرسوم المتجهية مع توليد الصور وتحويلها إلى رسوم متجهية وإزالة الخلفيات. يناسب الرسوم التوضيحية ومواد الهوية البصرية، مع ضرورة مراجعة جودة الملفات والتراخيص قبل الطباعة أو البيع.",
+    "officialSource": "https://www.kittl.com/tools",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "uizard": {
+    "fr": "Outil de prototypage d’interfaces permettant de transformer une consigne, une capture d’écran ou un croquis en maquettes modifiables. Autodesigner aide à élaborer des parcours sur plusieurs écrans. Les prototypes servent à explorer et tester un concept, sans garantir une application prête à déployer.",
+    "en": "UI prototyping tool that turns prompts, screenshots or sketches into editable mockups. Autodesigner helps develop multi-screen designs. Prototypes support concept exploration and testing, without guaranteeing a deployable application.",
+    "ar": "أداة لنمذجة واجهات المستخدم تحوّل التعليمات النصية ولقطات الشاشة والرسومات الأولية إلى تصاميم قابلة للتعديل. تساعد ميزة Autodesigner على بناء نماذج متعددة الشاشات لاختبار الأفكار، دون ضمان الحصول على تطبيق جاهز للنشر.",
+    "officialSource": "https://uizard.io/ai-design/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "khroma": {
+    "fr": "Outil de recherche de palettes qui apprend les préférences de l’utilisateur à partir d’une sélection initiale de 50 couleurs. Il génère des associations personnalisées, filtrables notamment par teinte ou code couleur, et permet de sauvegarder les favoris. Contrôler les contrastes et l’accessibilité séparément.",
+    "en": "Palette discovery tool learning user preferences from an initial selection of 50 colors. It generates personalized combinations that can be filtered by hue or color code and saved as favorites. Check contrast and accessibility separately.",
+    "ar": "أداة لاكتشاف لوحات الألوان تتعلم تفضيلات المستخدم من اختيار أولي لخمسين لونًا. تولّد مجموعات لونية مخصصة يمكن تصفيتها بحسب الدرجة أو رمز اللون وحفظ المفضلة منها. ينبغي التحقق بصورة مستقلة من التباين وإمكانية الوصول.",
+    "officialSource": "https://www.khroma.co/train",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "galileo-ai": {
+    "fr": "Ancien outil de génération de maquettes d’interfaces à partir de texte. Son adresse historique redirige désormais vers Stitch de Google Labs, qui génère et affine des interfaces à partir de descriptions et de références visuelles, avec production de code front-end. Galileo AI ne doit plus être présenté comme un service autonome.",
+    "en": "Former text-to-UI mockup generator. Its historical website now redirects to Google Labs’ Stitch, which generates and refines interfaces from descriptions and visual references and produces frontend code. Galileo AI should no longer be presented as a standalone service.",
+    "ar": "أداة سابقة لتوليد نماذج واجهات المستخدم انطلاقًا من النص. يعيد عنوانها التاريخي التوجيه إلى Stitch من Google Labs، الذي يولّد الواجهات ويطوّرها باستخدام الأوصاف والمراجع البصرية ويتيح إنتاج شيفرة الواجهة الأمامية. لا ينبغي تقديم Galileo AI كخدمة مستقلة حاليًا.",
+    "officialSource": "https://developers.googleblog.com/stitch-a-new-way-to-design-uis/",
+    "sourceReviewedAt": "2026-11-24",
+    "currentName": "Galileo AI → Google Stitch"
+  },
+  "framer-ai": {
+    "fr": "Fonctions IA intégrées à Framer pour générer et affiner la structure et le design d’un site web. Les créations restent éditables dans un environnement réunissant design responsive, CMS, référencement et publication. Tester l’accessibilité, les comportements mobiles et les fonctionnalités avant mise en ligne.",
+    "en": "AI capabilities in Framer for generating and refining website structure and design. Outputs remain editable in a workspace combining responsive design, CMS, SEO and publishing. Test accessibility, mobile behavior and functionality before launch.",
+    "ar": "وظائف ذكاء اصطناعي ضمن Framer لتوليد بنية مواقع الويب وتصميمها وتحسينهما. تبقى النتائج قابلة للتعديل في بيئة تجمع التصميم المتجاوب وإدارة المحتوى وتحسين الظهور في البحث والنشر. ينبغي اختبار إمكانية الوصول وتجربة الهاتف والوظائف قبل الإطلاق.",
+    "officialSource": "https://www.framer.com/solutions/ai-website-builder/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "prezi-ai": {
+    "fr": "Assistant de création de présentations au sein de Prezi, destiné à transformer une idée ou une consigne en contenu visuel structuré et modifiable. Il s’inscrit dans l’environnement de présentation de Prezi ; vérifier le contenu, les options d’export et l’adéquation des animations au public.",
+    "en": "Presentation creation assistant within Prezi that turns an idea or prompt into structured, editable visual content. It works within Prezi’s presentation environment; check content, export options and whether animations suit the audience.",
+    "ar": "مساعد لإنشاء العروض التقديمية ضمن Prezi يحوّل الأفكار والتعليمات إلى محتوى بصري منظم وقابل للتعديل. يعمل داخل بيئة العروض الخاصة بالمنصة، مع ضرورة مراجعة المحتوى وخيارات التصدير ومدى ملاءمة الحركات البصرية للجمهور.",
+    "officialSource": "https://prezi.com/",
+    "sourceReviewedAt": "2026-11-24"
   }
 }
