@@ -3824,5 +3824,21 @@
     "ar": "مساعد وثائقي من Google يُسمى أيضًا Gemini Notebook في وثائق المساعدة الحالية، يتيح الاستفسار عن المصادر المستوردة وإنتاج الملاحظات والملخصات الصوتية والخرائط الذهنية. تحيل الاستشهادات إلى مقاطع من المصادر المحددة. ينبغي مراجعة المقتطفات وخصوصية المستندات قبل المشاركة.",
     "officialSource": "https://support.google.com/gemininotebook/answer/16179559",
     "sourceReviewedAt": "2026-11-24"
+  },
+  "socratic": {
+    "fr": "Ancienne application de Google permettant de photographier une question scolaire pour obtenir des explications et des ressources pédagogiques. Son adresse historique redirige vers Google Lens ; le service autonome n’est plus proposé selon les sources disponibles. La date officielle de fermeture reste non confirmée. Privilégier les explications progressives plutôt que la copie de solutions.",
+    "en": "Former Google learning app that used photos of homework questions to find explanations and educational resources. Its historical address redirects to Google Lens; available sources indicate that the standalone app is no longer offered. An official closure date remains unconfirmed. Favor step-by-step learning over copying answers.",
+    "ar": "تطبيق تعليمي سابق من Google كان يتيح تصوير الأسئلة المدرسية للحصول على شروح وموارد تعليمية. يعيد عنوانه التاريخي التوجيه إلى Google Lens، وتشير المصادر المتاحة إلى توقف التطبيق المستقل. لم يتأكد تاريخ الإغلاق رسميًا. ينبغي تفضيل التعلم التدريجي على نسخ الحلول.",
+    "officialSource": "https://support.google.com/socratic/answer/9413931",
+    "supportingSource": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "languagetool": {
+    "fr": "Correcteur multilingue d’orthographe, de grammaire et de style, issu d’un projet à code source ouvert. Il propose un éditeur web et des intégrations dont les conditions varient selon l’offre. L’arabe figure parmi les langues gratuites prises en charge, mais la couverture des règles varie selon la langue. Vérifier les suggestions en contexte.",
+    "en": "Multilingual spelling, grammar and style checker originating from an open-source project. It provides a web editor and integrations whose terms vary by plan. Arabic is supported in the free version, but rule coverage varies by language. Review suggestions in context.",
+    "ar": "مدقق متعدد اللغات للإملاء والنحو والأسلوب نشأ من مشروع مفتوح المصدر. يوفر محررًا عبر الويب وتكاملات تختلف شروطها بحسب الاشتراك. تندرج العربية ضمن اللغات المدعومة مجانًا، لكن تغطية القواعد تختلف باختلاف اللغة. ينبغي مراجعة الاقتراحات في سياقها.",
+    "officialSource": "https://help.languagetool.org/hc/en-us/articles/39254526141463-What-languages-does-LanguageTool-support",
+    "supportingSource": "https://dev.languagetool.org/languages",
+    "sourceReviewedAt": "2026-11-24"
   }
 }
