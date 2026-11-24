@@ -4940,5 +4940,68 @@
     "ar": "رفيق حواري افتراضي مع تخصيص الصورة الرمزية وذاكرة المحادثات ووظائف صوتية. صمم للتفاعلات الاجتماعية المحاكاة ولا يمتلك مشاعر بشرية ولا يحل محل العلاقات الإنسانية أو الدعم المهني. ينبغي مراجعة إعدادات الخصوصية.",
     "officialSource": "https://replika.com/",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "brave-search-ai": {
+    "fr": "Moteur de recherche proposant des réponses synthétiques avec références aux pages retrouvées. Son API permet aussi d'intégrer des réponses documentées aux applications. Vérifier les sources originales et distinguer les extraits des synthèses générées.",
+    "en": "Search engine offering summarized answers with references to retrieved pages. Its API also integrates grounded answers into applications. Check original sources and distinguish extracts from generated summaries.",
+    "ar": "محرك بحث يقدم إجابات موجزة مع إحالات إلى الصفحات المسترجعة. تتيح واجهته البرمجية دمج الإجابات المستندة إلى المصادر في التطبيقات. ينبغي مراجعة المصادر الأصلية والتمييز بين المقتطفات والملخصات المولدة.",
+    "officialSource": "https://api-dashboard.search.brave.com/documentation/services/answers",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "andi": {
+    "fr": "Moteur de recherche conversationnel proposant des réponses plutôt qu'une simple liste de liens. Il facilite l'exploration initiale d'un sujet. Vérifier les documents originaux et compléter la recherche avec des bases spécialisées.",
+    "en": "Conversational search engine offering answers rather than just lists of links. Useful for initial topic exploration. Verify original documents and supplement searches with specialist databases.",
+    "ar": "محرك بحث حواري يقدم إجابات بدل الاكتفاء بقوائم الروابط. يفيد في الاستكشاف الأولي للموضوعات. ينبغي مراجعة الوثائق الأصلية واستكمال البحث بقواعد البيانات المتخصصة.",
+    "officialSource": "https://andisearch.com/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "komo": {
+    "fr": "Service historiquement consacré à la recherche conversationnelle, dont le site présente désormais un projet d'automatisation des cycles opérationnels d'entreprise sur liste d'attente. La disponibilité de l'ancien moteur n'est pas confirmée. Vérifier l'accès avant adoption.",
+    "en": "Service historically focused on conversational search whose website now presents a waitlisted business process automation project. Availability of the former search engine is unconfirmed. Verify access before adoption.",
+    "ar": "خدمة ركزت سابقًا على البحث الحواري ويعرض موقعها الآن مشروعًا لأتمتة دورات العمليات المؤسسية بقائمة انتظار. لم تتأكد إتاحة محرك البحث السابق. ينبغي التحقق من الوصول قبل الاعتماد.",
+    "officialSource": "https://komo.ai/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "exa": {
+    "fr": "API de recherche web destinée aux applications IA, avec récupération de contenus, recherche à différents niveaux de profondeur et intégrations MCP. Utile pour alimenter les agents et systèmes RAG. Évaluer la couverture, la fraîcheur et la pertinence des documents retrouvés.",
+    "en": "Web search API for AI applications, with content retrieval, varying search depths and MCP integrations. Useful for grounding agents and RAG systems. Evaluate coverage, freshness and relevance of retrieved documents.",
+    "ar": "واجهة برمجية للبحث على الويب موجهة لتطبيقات الذكاء الاصطناعي، توفر استرجاع المحتوى ومستويات مختلفة من عمق البحث وتكاملات MCP. تفيد في تغذية الوكلاء وأنظمة RAG. ينبغي تقييم التغطية وحداثة الوثائق وملاءمتها.",
+    "officialSource": "https://exa.ai/docs/reference/search-api-guide",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "tavily": {
+    "fr": "Ensemble d'API pour rechercher sur le Web, extraire le contenu de pages, explorer des sites et cartographier leurs liens. Les SDK Python et JavaScript facilitent l'intégration dans des agents. Contrôler les domaines consultés, les coûts et la qualité des sources.",
+    "en": "APIs for web search, page content extraction, website crawling and link mapping. Python and JavaScript SDKs support agent integration. Review queried domains, costs and source quality.",
+    "ar": "مجموعة واجهات برمجية للبحث على الويب واستخراج محتوى الصفحات والزحف في المواقع ورسم خرائط روابطها. تسهل حزم Python وJavaScript دمجها في الوكلاء. ينبغي مراقبة النطاقات والتكاليف وجودة المصادر.",
+    "officialSource": "https://docs.tavily.com/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "genspark": {
+    "fr": "Plateforme de recherche et de production assistée par IA dont Super Agent coordonne des outils dans un environnement cloud. Elle permet de consulter le Web, traiter des fichiers, exécuter du code et créer des documents. Vérifier les références et autoriser séparément les actions externes.",
+    "en": "AI-assisted research and production platform whose Super Agent coordinates tools in a cloud environment. Supports web research, file processing, code execution and document creation. Verify references and separately authorize external actions.",
+    "ar": "منصة للبحث والإنتاج المدعوم بالذكاء الاصطناعي ينسق فيها Super Agent الأدوات داخل بيئة سحابية. تتيح البحث على الويب ومعالجة الملفات وتنفيذ الشيفرة وإنشاء الوثائق. ينبغي مراجعة المراجع والموافقة منفصلًا على الإجراءات الخارجية.",
+    "officialSource": "https://www.genspark.ai/helpcenter/super-agent",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "felo": {
+    "fr": "Plateforme de recherche IA multilingue et de création de contenus, proposant des modes de recherche approfondie et des fonctions de présentation. Utile pour explorer des ressources dans différentes langues. Vérifier les traductions, les références et les crédits consommés.",
+    "en": "Multilingual AI search and content creation platform offering research modes and presentation features. Useful for exploring resources across languages. Verify translations, references and credit usage.",
+    "ar": "منصة متعددة اللغات للبحث بالذكاء الاصطناعي وإنشاء المحتوى توفر أوضاع البحث المعمق ووظائف العروض التقديمية. تفيد في استكشاف الموارد بلغات مختلفة. ينبغي مراجعة الترجمات والمراجع والأرصدة المستهلكة.",
+    "officialSource": "https://felo.ai/en/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "kagi-assistant": {
+    "fr": "Assistant multimodèle associé au moteur Kagi, pouvant intégrer les résultats de recherche, les préférences de classement et les filtres thématiques Lenses. Il aide à documenter des questions et analyser des pages. Vérifier les citations et les conditions d'accès aux modèles.",
+    "en": "Multi-model assistant connected to Kagi Search, optionally using search results, ranking preferences and thematic Lenses. Supports research and page analysis. Verify citations and model access terms.",
+    "ar": "مساعد متعدد النماذج مرتبط بمحرك Kagi يمكنه استخدام نتائج البحث وتفضيلات الترتيب والمرشحات الموضوعية Lenses. يساعد في البحث وتحليل الصفحات. ينبغي مراجعة الاستشهادات وشروط الوصول إلى النماذج.",
+    "officialSource": "https://help.kagi.com/kagi/ai/assistant.html",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "wolfram-alpha": {
+    "fr": "Moteur de connaissances calculables exploitant des données structurées et des algorithmes pour résoudre des problèmes mathématiques, scientifiques et quantitatifs. Accessible sur le Web et par API. Vérifier les hypothèses, unités et dates des données utilisées.",
+    "en": "Computational knowledge engine using structured data and algorithms to solve mathematical, scientific and quantitative problems. Available on the web and through APIs. Check assumptions, units and dates of underlying data.",
+    "ar": "محرك للمعرفة القابلة للحوسبة يستخدم البيانات المنظمة والخوارزميات لحل المسائل الرياضية والعلمية والكمية. يتوفر عبر الويب والواجهات البرمجية. ينبغي مراجعة الافتراضات والوحدات وتواريخ البيانات المستخدمة.",
+    "officialSource": "https://www.wolframalpha.com/tour",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
