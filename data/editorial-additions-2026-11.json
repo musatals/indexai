@@ -3698,5 +3698,33 @@
     "ar": "عائلة نماذج فيديو من Alibaba تشمل إصدارات مستضافة ونماذج قابلة للتنزيل. يدعم Wan2.2 التوليد من النص أو الصورة والتحريك الموجه بالصوت بحسب الإصدار، ويخضع مستودعه لترخيص Apache 2.0. ينبغي مراجعة متطلبات الأجهزة وترخيص كل إصدار.",
     "officialSource": "https://github.com/Wan-Video/Wan2.2",
     "sourceReviewedAt": "2026-11-24"
+  },
+  "meshy": {
+    "fr": "Plateforme de génération de modèles 3D texturés à partir de descriptions ou d’images, avec fonctions de remaillage, texturation et animation accessibles également par API. Les exports comprennent GLB, FBX, OBJ, USDZ et STL. Vérifier la topologie, les matériaux et les droits avant intégration dans une scène interactive ou une exposition virtuelle.",
+    "en": "Platform generating textured 3D models from prompts or images, with remeshing, texturing and animation tools also accessible through an API. Export formats include GLB, FBX, OBJ, USDZ and STL. Check topology, materials and usage rights before integrating assets into interactive scenes or virtual exhibitions.",
+    "ar": "منصة لتوليد نماذج ثلاثية الأبعاد مزودة بالخامات انطلاقًا من الأوصاف أو الصور، مع أدوات لإعادة بناء الشبكة وإضافة الخامات والتحريك متاحة أيضًا عبر واجهة برمجية. تشمل صيغ التصدير GLB وFBX وOBJ وUSDZ وSTL. ينبغي مراجعة بنية الشبكة والمواد وحقوق الاستخدام قبل إدماج النماذج في المشاهد التفاعلية أو المعارض الافتراضية.",
+    "officialSource": "https://docs.meshy.ai/en",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "tripo-ai": {
+    "fr": "Service de génération d’objets 3D à partir de textes et d’images, complété par des outils de conversion de formats et de traitement des maillages. Les exports GLB, FBX et OBJ facilitent l’intégration dans les moteurs 3D et les visualiseurs web. Vérifier les textures, l’échelle et la qualité géométrique avant publication.",
+    "en": "Service for generating 3D objects from text and images, complemented by format conversion and mesh processing tools. GLB, FBX and OBJ exports support integration into 3D engines and web viewers. Check textures, scale and geometry quality before publication.",
+    "ar": "خدمة لتوليد المجسمات ثلاثية الأبعاد من النصوص والصور، مع أدوات لتحويل الصيغ ومعالجة الشبكات الهندسية. تسهّل صيغ GLB وFBX وOBJ إدماج النماذج في المحركات ثلاثية الأبعاد وعارضات الويب. ينبغي مراجعة الخامات والمقياس وجودة الهندسة قبل النشر.",
+    "officialSource": "https://www.tripo3d.ai/help/getting-started/what-3d-file-formats-do-you-support",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "masterpiece-x": {
+    "fr": "Environnement de création d’objets, personnages et animaux en 3D à partir de descriptions textuelles. La documentation décrit un export natif GLB compatible avec des outils tels que Blender, Unity et Unreal Engine. Les options de partage et d’export privé doivent être vérifiées ; les modèles générés restent des créations interprétatives.",
+    "en": "Workspace for creating 3D objects, characters and animals from text descriptions. Documentation describes native GLB export compatible with tools such as Blender, Unity and Unreal Engine. Check sharing and private export options; generated models remain interpretive creations.",
+    "ar": "بيئة لإنشاء مجسمات وشخصيات وحيوانات ثلاثية الأبعاد من الأوصاف النصية. توضح الوثائق إمكانية التصدير بصيغة GLB المتوافقة مع أدوات مثل Blender وUnity وUnreal Engine. ينبغي مراجعة خيارات المشاركة والتصدير الخاص؛ وتظل النماذج المولدة إبداعات تفسيرية.",
+    "officialSource": "https://masterpiecex.com/faqs-masterpiecex",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "polycam": {
+    "fr": "Application de numérisation 3D permettant de reconstruire des objets et espaces par photogrammétrie, Gaussian Splatting et LiDAR sur les appareils compatibles. Les modes de capture produisent des représentations différentes et les formats d’export dépendent du mode et du forfait. Pour un usage patrimonial, conserver les photographies sources et vérifier les mesures et la fidélité géométrique.",
+    "en": "3D scanning application reconstructing objects and spaces through photogrammetry, Gaussian splatting and LiDAR on compatible devices. Capture modes produce different representations, and export formats depend on mode and plan. For heritage documentation, retain source photographs and verify measurements and geometric fidelity.",
+    "ar": "تطبيق للمسح ثلاثي الأبعاد يعيد بناء الأشياء والفضاءات باستخدام التصوير المساحي وتقنية Gaussian Splatting ومستشعر LiDAR على الأجهزة المتوافقة. تنتج أوضاع الالتقاط تمثيلات مختلفة، وتعتمد صيغ التصدير على الوضع والاشتراك. للتوثيق التراثي ينبغي الاحتفاظ بالصور الأصلية والتحقق من القياسات والدقة الهندسية.",
+    "officialSource": "https://learn.poly.cam/hc/en-us/articles/27425185907348-How-to-Use-Object-Mode",
+    "sourceReviewedAt": "2026-11-24"
   }
 }
