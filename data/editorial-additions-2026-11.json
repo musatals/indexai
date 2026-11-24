@@ -3492,5 +3492,54 @@
     "ar": "مشروع لفصل المصادر الموسيقية بترخيص MIT يتيح عزل الغناء والطبول والباس. أُرشف مستودع Meta الأصلي في 1 يناير 2025 ولم يعد يخضع للصيانة. يفيد في التجارب القابلة لإعادة الإنتاج؛ ينبغي مراجعة التبعيات والمشاريع المجتمعية البديلة.",
     "officialSource": "https://github.com/facebookresearch/demucs",
     "sourceReviewedAt": "2026-11-24"
+  },
+  "opusclip": {
+    "fr": "Outil de montage assisté par IA qui extrait des séquences courtes de vidéos longues, les recadre et ajoute des sous-titres animés. Il facilite la réutilisation des conférences et podcasts. La documentation indique que les langues écrites de droite à gauche, dont l’arabe, ne sont actuellement pas prises en charge pour la transcription.",
+    "en": "AI video editor that extracts short clips from longer recordings, reframes them and adds animated captions. Useful for repurposing lectures and podcasts. Documentation states that right-to-left languages, including Arabic, are currently unsupported for transcription.",
+    "ar": "أداة مونتاج بالذكاء الاصطناعي تستخرج مقاطع قصيرة من الفيديوهات الطويلة وتعيد تأطيرها وتضيف ترجمات مكتوبة متحركة. تفيد في إعادة توظيف المحاضرات والبودكاست. تشير الوثائق إلى أن التفريغ النصي لا يدعم حاليًا اللغات المكتوبة من اليمين إلى اليسار، ومنها العربية.",
+    "officialSource": "https://www.opus.pro/tools/podcast-transcription",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "veed": {
+    "fr": "Éditeur vidéo en ligne réunissant enregistrement, montage, transcription et traduction des sous-titres. Plusieurs variantes de l’arabe sont prises en charge. Les sous-titres peuvent être intégrés à la vidéo ou téléchargés en SRT ou VTT selon l’offre ; vérifier la synchronisation et le rendu des textes arabes.",
+    "en": "Browser-based video editor combining recording, editing, transcription and subtitle translation. Several Arabic variants are supported. Captions can be embedded in video or downloaded as SRT or VTT depending on the plan; check timing and Arabic text rendering.",
+    "ar": "محرر فيديو عبر الويب يجمع التسجيل والمونتاج والتفريغ النصي وترجمة التعليقات المكتوبة. يدعم عدة تنويعات من العربية. يمكن دمج الترجمات في الفيديو أو تنزيلها بصيغ SRT وVTT بحسب الاشتراك؛ ينبغي مراجعة التزامن وطريقة عرض النص العربي.",
+    "officialSource": "https://support.veed.io/en/articles/6971225-languages-we-support-for-subtitle-generation-and-translation",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "wisecut": {
+    "fr": "Service de montage automatisé qui analyse la parole pour supprimer des silences et hésitations, produire des sous-titres et appliquer des recadrages. L’arabe figure parmi les langues prises en charge. Les téléchargements vidéo nécessitent une offre payante selon l’aide officielle ; contrôler les coupes avant export.",
+    "en": "Automated video editing service analyzing speech to remove pauses and fillers, create captions and apply framing changes. Arabic is listed as supported. Official help states video downloads require a paid plan; review cuts before exporting.",
+    "ar": "خدمة مونتاج آلي تحلل الكلام لحذف فترات الصمت والتردد وإنتاج الترجمات المكتوبة وتعديل التأطير. ترد العربية ضمن اللغات المدعومة. وفق مركز المساعدة يتطلب تنزيل الفيديو اشتراكًا مدفوعًا؛ ينبغي مراجعة مواضع القص قبل التصدير.",
+    "officialSource": "https://help.wisecut.video/article/which-languages-does-wisecut-support",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "captions": {
+    "fr": "Application de création et de montage vidéo de la société Mirage, proposant des retouches assistées par IA, des sous-titres, des séquences d’illustration et des commandes textuelles. La traduction des sous-titres vers l’arabe est documentée. Distinguer traduction et transcription, dont les possibilités varient selon la plateforme.",
+    "en": "Video creation and editing app from Mirage, offering AI-assisted edits, captions, supplementary footage and text-based commands. Arabic subtitle translation is documented. Distinguish translation from transcription, whose availability varies by platform.",
+    "ar": "تطبيق لإنشاء الفيديو وتحريره من شركة Mirage، يوفّر تعديلات ذكية وترجمات مكتوبة ومقاطع توضيحية وأوامر نصية للمونتاج. تدعم الوثائق ترجمة التعليقات إلى العربية. ينبغي التمييز بين الترجمة والتفريغ النصي الذي تختلف إمكاناته بحسب المنصة.",
+    "officialSource": "https://captions.ai/help/guides/multilingual/international-subtitles",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "submagic": {
+    "fr": "Éditeur de vidéos courtes qui automatise le sous-titrage, les coupes, les zooms et l’ajout de séquences d’illustration. L’arabe figure dans la liste des langues de sous-titrage. Son agent Iris peut réaliser un premier montage ; relire les textes, vérifier les droits des médias et les conditions d’export.",
+    "en": "Short-form video editor automating captions, cuts, zooms and supplementary footage. Arabic is listed among caption languages. Its Iris agent can produce an initial edit; review text, media rights and export terms.",
+    "ar": "محرر للمقاطع القصيرة يؤتمت إضافة الترجمات المكتوبة والقص والتقريب وإدراج مقاطع توضيحية. ترد العربية ضمن لغات التعليقات المكتوبة. يستطيع وكيل Iris إعداد مونتاج أولي؛ ينبغي مراجعة النصوص وحقوق الوسائط وشروط التصدير.",
+    "officialSource": "https://care.submagic.co/en/article/what-languages-do-we-support-1odqila/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "filmora": {
+    "fr": "Logiciel de montage Wondershare associant édition sur timeline, effets et outils IA de transcription et de traduction vidéo. La reconnaissance de la parole prend en charge l’arabe, et certains outils de sous-titrage proposent un rendu de droite à gauche. Vérifier les crédits IA, les paramètres d’export et la lisibilité.",
+    "en": "Wondershare video editor combining timeline editing, effects and AI transcription and video translation. Speech-to-text supports Arabic, and selected caption tools offer right-to-left rendering. Check AI credits, export settings and readability.",
+    "ar": "برنامج مونتاج من Wondershare يجمع التحرير على الخط الزمني والمؤثرات وأدوات التفريغ وترجمة الفيديو بالذكاء الاصطناعي. يدعم تحويل الكلام إلى نص العربية، وتتيح بعض أدوات التعليقات العرض من اليمين إلى اليسار. ينبغي مراجعة أرصدة الاستخدام وإعدادات التصدير ووضوح النص.",
+    "officialSource": "https://filmora.wondershare.com/speech-to-text.html",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "riverside": {
+    "fr": "Studio d’enregistrement à distance pour entretiens, podcasts et vidéos, avec pistes séparées par participant et montage à partir de la transcription. L’arabe peut être transcrit, mais l’application mobile affiche les transcriptions de droite à gauche dans un flux de gauche à droite selon la documentation. Vérifier le rendu, conserver les originaux et obtenir le consentement des participants.",
+    "en": "Remote recording studio for interviews, podcasts and videos, offering separate participant tracks and transcript-based editing. Arabic transcription is available, but mobile displays right-to-left transcripts in a left-to-right flow according to documentation. Check rendering, retain originals and obtain participant consent.",
+    "ar": "استوديو للتسجيل عن بعد للمقابلات والبودكاست والفيديو، يتيح مسارات منفصلة للمشاركين والتحرير اعتمادًا على التفريغ النصي. يدعم تفريغ العربية، لكن التطبيق المحمول يعرض النصوص ذات الاتجاه من اليمين إلى اليسار ضمن تدفق من اليسار إلى اليمين وفق الوثائق. ينبغي مراجعة العرض والاحتفاظ بالأصول والحصول على موافقة المشاركين.",
+    "officialSource": "https://support.riverside.com/hc/en-us/articles/9173731506589-Which-languages-can-Riverside-transcribe",
+    "sourceReviewedAt": "2026-11-24"
   }
 }
