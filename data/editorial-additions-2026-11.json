@@ -4184,5 +4184,89 @@
     "ar": "منصة لتحليل إجابات الذكاء الاصطناعي تتتبع ظهور العلامات التجارية والمنافسين والمصادر المستشهد بها. تقدم أيضًا تحليل روبوتات الزحف والزيارات القادمة من المساعدين. ينبغي التمييز بين الإشارات وزيارات الروبوتات والتحويلات المقاسة.",
     "officialSource": "https://peec.ai/ai-instructions",
     "sourceReviewedAt": "2026-11-24"
+  },
+  "github-copilot": {
+    "fr": "Assistant de développement intégré aux IDE et à GitHub, associant suggestions de code, dialogue contextuel, revue et fonctions agentiques. Selon le mode, il peut modifier plusieurs fichiers et lancer des commandes. Examiner les différences, les dépendances et les tests avant fusion.",
+    "en": "Development assistant integrated into IDEs and GitHub, combining code suggestions, contextual chat, review and agentic features. Depending on mode, it can edit multiple files and run commands. Review diffs, dependencies and tests before merging.",
+    "ar": "مساعد تطوير مدمج في بيئات البرمجة وGitHub يجمع اقتراحات الشيفرة والحوار السياقي والمراجعة ووظائف الوكلاء. يمكنه بحسب الوضع تعديل ملفات متعددة وتنفيذ أوامر. ينبغي مراجعة الفروق والتبعيات والاختبارات قبل الدمج.",
+    "officialSource": "https://docs.github.com/en/copilot/concepts/copilot-surfaces/copilot-in-ides",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "cursor": {
+    "fr": "Éditeur de code assisté par IA proposant recherche dans le dépôt, modifications multifichiers, exécution de commandes et agents distants. Il aide à réaliser des fonctionnalités et refactorisations. Limiter les permissions et examiner les changements avant intégration.",
+    "en": "AI-assisted code editor offering repository search, multi-file edits, command execution and remote agents. Supports feature implementation and refactoring. Restrict permissions and review changes before integration.",
+    "ar": "محرر شيفرة مدعوم بالذكاء الاصطناعي يوفر البحث في المستودع وتعديل ملفات متعددة وتنفيذ الأوامر ووكلاء عن بعد. يساعد على تطوير الوظائف وإعادة هيكلة الشيفرة. ينبغي تقييد الصلاحيات ومراجعة التغييرات قبل الدمج.",
+    "officialSource": "https://cursor.com/docs/agent/overview",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "windsurf": {
+    "fr": "Environnement de développement agentique historiquement nommé Windsurf, dont la documentation Cascade redirige vers Devin Desktop. Cascade associe dialogue, modifications de code, appels d'outils et points de restauration. Vérifier les offres actuelles et les autorisations d'exécution.",
+    "en": "Agentic development environment historically named Windsurf, whose Cascade documentation redirects to Devin Desktop. Cascade combines chat, code changes, tool calls and restoration checkpoints. Check current offerings and execution permissions.",
+    "ar": "بيئة تطوير بالوكلاء عرفت باسم Windsurf وتحيل وثائق Cascade الخاصة بها إلى Devin Desktop. يجمع Cascade الحوار وتعديل الشيفرة واستدعاء الأدوات ونقاط الاستعادة. ينبغي مراجعة العروض الحالية وصلاحيات التنفيذ.",
+    "officialSource": "https://docs.devin.ai/desktop/cascade/cascade",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "claude-code": {
+    "fr": "Agent de programmation utilisable dans le terminal et dans des environnements distants. Il explore les dépôts, modifie les fichiers et exécute des outils selon les autorisations configurées. Prévoir des règles de projet, des tests et une revue humaine des actions sensibles.",
+    "en": "Coding agent available in terminals and remote environments. It explores repositories, edits files and executes tools according to configured permissions. Establish project rules, tests and human review of sensitive actions.",
+    "ar": "وكيل برمجة يعمل في الطرفية والبيئات البعيدة. يستكشف المستودعات ويعدل الملفات وينفذ الأدوات وفق الصلاحيات المحددة. ينبغي وضع قواعد للمشروع واختبارات ومراجعة بشرية للإجراءات الحساسة.",
+    "officialSource": "https://code.claude.com/docs/en/settings",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "openai-codex": {
+    "fr": "Agent de développement d'OpenAI destiné à l'implémentation de fonctionnalités, à la correction de défauts et à la refactorisation. Il prend en charge des tâches parallèles et des environnements distants, ainsi que la revue de code. Vérifier les résultats des tests et les droits d'accès au dépôt.",
+    "en": "OpenAI development agent for feature implementation, bug fixing and refactoring. Supports parallel tasks, remote environments and code review. Verify test results and repository access permissions.",
+    "ar": "وكيل تطوير من OpenAI لتنفيذ الوظائف وإصلاح الأخطاء وإعادة هيكلة الشيفرة. يدعم المهام المتوازية والبيئات البعيدة ومراجعة الشيفرة. ينبغي التحقق من نتائج الاختبارات وصلاحيات الوصول إلى المستودع.",
+    "officialSource": "https://openai.com/codex/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "sourcegraph-cody": {
+    "fr": "Assistant de programmation reposant sur le contexte du code accessible via Sourcegraph. Il propose dialogue, explications et complétion dans des IDE compatibles et sur le web. La documentation actuelle décrit notamment Cody Enterprise ; vérifier les conditions d'accès avant adoption.",
+    "en": "Coding assistant using code context accessible through Sourcegraph. Offers chat, explanations and completion in compatible IDEs and on the web. Current documentation notably describes Cody Enterprise; check access conditions before adoption.",
+    "ar": "مساعد برمجة يستفيد من سياق الشيفرة المتاح عبر Sourcegraph. يقدم الحوار والشروح والإكمال في بيئات التطوير المتوافقة وعلى الويب. تتناول الوثائق الحالية خصوصا Cody Enterprise؛ ينبغي مراجعة شروط الوصول قبل الاعتماد.",
+    "officialSource": "https://sourcegraph.com/docs/cody/quickstart",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "continue": {
+    "fr": "Ensemble d'extensions à code source ouvert pour VS Code et JetBrains et d'outils en ligne de commande, permettant de configurer des agents de développement et des modèles. Le mode agent peut modifier le dépôt et exécuter des commandes. Contrôler les modèles, les secrets et les autorisations.",
+    "en": "Open-source extensions for VS Code and JetBrains and command-line tools for configuring development agents and models. Agent mode can edit repositories and run commands. Review model selection, secrets and permissions.",
+    "ar": "مجموعة إضافات مفتوحة المصدر لبيئتي VS Code وJetBrains وأدوات سطر الأوامر لتكوين وكلاء التطوير والنماذج. يستطيع وضع الوكيل تعديل المستودع وتنفيذ الأوامر. ينبغي مراقبة اختيار النماذج والأسرار والصلاحيات.",
+    "officialSource": "https://docs.continue.dev/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "aider": {
+    "fr": "Assistant de programmation en binôme dans le terminal, compatible avec des modèles locaux ou distants. Il construit une carte du dépôt, intègre Git et peut lancer les tests et contrôles de style. Les commits facilitent la revue et le retour arrière, sans dispenser de vérifier le code.",
+    "en": "Terminal-based pair programming assistant supporting local and remote models. It maps repositories, integrates Git and can run tests and lint checks. Commits support review and rollback but do not replace code validation.",
+    "ar": "مساعد للبرمجة الثنائية في الطرفية يدعم النماذج المحلية والبعيدة. يبني خريطة للمستودع ويتكامل مع Git ويمكنه تشغيل الاختبارات وفحص أسلوب الشيفرة. تسهل عمليات الإيداع المراجعة والتراجع لكنها لا تغني عن التحقق من الشيفرة.",
+    "officialSource": "https://aider.chat/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "cline": {
+    "fr": "Agent de programmation disponible notamment dans VS Code, JetBrains et le terminal. Il peut consulter et modifier des fichiers, exécuter des commandes et utiliser un navigateur. Configurer soigneusement les approbations et vérifier les opérations touchant aux données ou à la production.",
+    "en": "Coding agent available in VS Code, JetBrains and terminals. It can inspect and edit files, execute commands and use a browser. Configure approvals carefully and review operations affecting data or production.",
+    "ar": "وكيل برمجة متاح في VS Code وJetBrains والطرفية. يمكنه قراءة الملفات وتعديلها وتنفيذ الأوامر واستخدام المتصفح. ينبغي ضبط الموافقات بعناية ومراجعة العمليات التي تؤثر على البيانات أو بيئة الإنتاج.",
+    "officialSource": "https://docs.cline.bot/cline-overview",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "roo-code": {
+    "fr": "Ancien environnement agentique de programmation dont le site renvoie désormais à Roomote, produit des mêmes créateurs. Roomote propose des agents distants, des environnements isolés et des demandes de fusion avec prévisualisations. Distinguer l'extension historique du service actuel et vérifier leurs conditions respectives.",
+    "en": "Historical agentic coding environment whose website now redirects to Roomote, a product from the same creators. Roomote offers remote agents, isolated environments and pull requests with previews. Distinguish the historical extension from the current service and check their respective terms.",
+    "ar": "بيئة برمجة سابقة بالوكلاء يحيل موقعها الآن إلى Roomote من المطورين أنفسهم. يقدم Roomote وكلاء عن بعد وبيئات معزولة وطلبات دمج مع معاينات. ينبغي التمييز بين الإضافة السابقة والخدمة الحالية والتحقق من شروط كل منهما.",
+    "officialSource": "https://roomote.dev/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "openhands": {
+    "fr": "Écosystème de développement agentique comprenant un client web à code source ouvert, un SDK et des services hébergés ou auto-hébergés. Les agents peuvent contribuer aux corrections, tests et migrations. Isoler leur environnement et limiter les identifiants et accès aux systèmes sensibles.",
+    "en": "Agentic development ecosystem including an open-source web client, SDK and hosted or self-hosted services. Agents can assist with fixes, tests and migrations. Isolate their environment and restrict credentials and access to sensitive systems.",
+    "ar": "منظومة تطوير بالوكلاء تضم عميل ويب مفتوح المصدر وحزمة تطوير وخدمات مستضافة أو ذاتية الاستضافة. يمكن للوكلاء المساعدة في الإصلاحات والاختبارات والترحيل. ينبغي عزل بيئتهم وتقييد بيانات الاعتماد والوصول إلى الأنظمة الحساسة.",
+    "officialSource": "https://docs.openhands.dev/overview/introduction",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "greptile": {
+    "fr": "Service de revue de code qui indexe les relations entre fichiers, fonctions et dépendances pour analyser les demandes de fusion au-delà des seules lignes modifiées. Les observations automatisées complètent les tests et la revue humaine ; vérifier les faux positifs et la confidentialité du dépôt.",
+    "en": "Code review service indexing relationships between files, functions and dependencies to analyze pull requests beyond changed lines. Automated findings complement tests and human review; check false positives and repository confidentiality.",
+    "ar": "خدمة لمراجعة الشيفرة تفهرس العلاقات بين الملفات والدوال والتبعيات لتحليل طلبات الدمج بما يتجاوز الأسطر المعدلة. تكمل الملاحظات الآلية الاختبارات والمراجعة البشرية؛ ينبغي التحقق من الإنذارات الخاطئة وسرية المستودع.",
+    "officialSource": "https://www.greptile.com/",
+    "sourceReviewedAt": "2026-11-24"
   }
 }
