@@ -3026,5 +3026,76 @@
     "ar": "اشتراك لتعلم اللغات من Duolingo يتيح تدريبات محادثة مدعومة بالذكاء الاصطناعي، منها تمثيل الأدوار والمكالمات المرئية مع شخصيات افتراضية. تساعد هذه الأنشطة على ممارسة اللغة في مواقف محاكية للواقع، وتختلف إتاحتها بحسب اللغة والاشتراك.",
     "officialSource": "https://blog.duolingo.com/covering-all-the-bases-duolingos-approach-to-speaking-skills/",
     "sourceReviewedAt": "2026-11-24"
+  },
+  "motion": {
+    "fr": "Plateforme de gestion du travail qui réunit tâches, projets et calendrier. Son moteur de planification répartit les tâches selon leur durée, leur priorité, les échéances et les créneaux disponibles. Les estimations et contraintes doivent être régulièrement ajustées.",
+    "en": "Work management platform combining tasks, projects and calendars. Automatic scheduling allocates tasks according to duration, priorities, deadlines and available time. Users should regularly review estimates and scheduling constraints.",
+    "ar": "منصة لإدارة العمل تجمع المهام والمشاريع والتقويم. توزّع المهام آليًا بحسب مدتها وأولويتها ومواعيدها النهائية والوقت المتاح، مع ضرورة مراجعة تقديرات المدة وقيود الجدولة بانتظام.",
+    "officialSource": "https://www.usemotion.com/help/time-management/auto-scheduling",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "mem": {
+    "fr": "Service de prise de notes et de recherche assistée par IA en cours de fermeture. L’éditeur a annoncé le 16 novembre 2026 le passage en lecture seule le 18 décembre 2026 et l’arrêt définitif le 15 janvier 2027. Exporter ses notes avant cette échéance ; ne pas adopter ce service pour un nouveau projet.",
+    "en": "AI-assisted note-taking and retrieval service being discontinued. On November 16, 2026, the provider announced read-only access from December 18, 2026 and permanent shutdown on January 15, 2027. Export notes before shutdown; unsuitable for new projects.",
+    "ar": "خدمة لتدوين الملاحظات واسترجاعها بالذكاء الاصطناعي يجري إيقافها. أعلن المطوّر في 16 نوفمبر 2026 تحويل الملاحظات إلى وضع القراءة فقط في 18 ديسمبر 2026 وإغلاق الخدمة نهائيًا في 15 يناير 2027. يُنصح بتصدير البيانات قبل الإغلاق وعدم اعتمادها لمشاريع جديدة.",
+    "officialSource": "https://get.mem.ai/blog/mem-is-shutting-down",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "reflect": {
+    "fr": "Application de notes reliées dont l’éditeur propose désormais Reflect Open, une application distincte et open source utilisant des fichiers Markdown locaux. Elle permet la recherche, les liens entre notes et l’assistance IA via une clé personnelle. L’application historique reste maintenue selon l’annonce officielle ; vérifier la disponibilité des versions.",
+    "en": "Linked-note application whose developer now offers Reflect Open, a separate open-source app using local Markdown files. It supports search, backlinks and AI through personal provider keys. The original app remains maintained according to the announcement; check current platform availability.",
+    "ar": "تطبيق للملاحظات المترابطة يقدّم مطوّره أيضًا Reflect Open، وهو تطبيق مستقل مفتوح المصدر يعتمد ملفات Markdown محلية. يدعم البحث والروابط المتبادلة والمساعدة الذكية باستخدام مفتاح مزوّد شخصي. يستمر دعم التطبيق الأصلي وفق الإعلان الرسمي، ويجب التحقق من إتاحة الإصدارات.",
+    "officialSource": "https://reflect.app/blog/reflect-open",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "tana": {
+    "fr": "Tana Outliner structure les notes en objets et champs personnalisables grâce aux supertags, avec recherche, transcription et synthèse assistées par IA. Il faut le distinguer du produit Tana consacré aux réunions vidéo et aux agents IA. Vérifier les droits de partage et le traitement des enregistrements.",
+    "en": "Tana Outliner structures notes with customizable supertags and fields, alongside AI search, transcription and summarization. It is distinct from Tana, the video-meeting and AI-agent product. Review sharing permissions and recording policies.",
+    "ar": "ينظّم Tana Outliner الملاحظات في كائنات وحقول قابلة للتخصيص بواسطة Supertags، مع البحث والتفريغ والتلخيص بمساعدة الذكاء الاصطناعي. وهو منتج مختلف عن Tana المخصص للاجتماعات المرئية والوكلاء الأذكياء. ينبغي مراجعة صلاحيات المشاركة وسياسات التسجيل.",
+    "officialSource": "https://outliner.tana.inc/",
+    "sourceReviewedAt": "2026-11-24",
+    "currentName": "Tana Outliner"
+  },
+  "monday-ai": {
+    "fr": "Fonctions IA intégrées aux tableaux et workflows de monday.com pour résumer des tâches, générer des mises à jour, classer des textes et automatiser certaines actions. Les crédits et les fonctions disponibles varient selon la formule ; conserver un contrôle humain des automatisations sensibles.",
+    "en": "AI features embedded in monday.com boards and workflows for task summaries, updates, text classification and automation. Credits and availability vary by plan; retain human oversight for sensitive automated actions.",
+    "ar": "وظائف ذكاء اصطناعي مدمجة في لوحات monday.com ومسارات العمل لتلخيص المهام وإنشاء التحديثات وتصنيف النصوص وأتمتة بعض الإجراءات. تختلف الحصص والميزات بحسب الاشتراك، وينبغي إبقاء الإجراءات الحساسة تحت إشراف بشري.",
+    "officialSource": "https://support.monday.com/hc/en-us/articles/18433811274386-AI-blocks",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "beautiful-ai": {
+    "fr": "Plateforme de présentations qui génère des diapositives à partir de consignes et utilise des mises en page Smart Slides ajustant automatiquement l’alignement et l’espacement. Elle convient aux rapports et présentations d’équipe ; vérifier les chiffres et adapter le rendu avant diffusion.",
+    "en": "Presentation platform that generates slides from prompts and uses Smart Slides to adjust alignment and spacing as content changes. Useful for reports and team decks; verify figures and refine the design before sharing.",
+    "ar": "منصة للعروض التقديمية تنشئ الشرائح انطلاقًا من التعليمات وتستخدم تخطيطات Smart Slides لضبط المحاذاة والمسافات تلقائيًا عند تعديل المحتوى. تناسب التقارير وعروض الفرق، مع ضرورة التحقق من الأرقام وتحسين التصميم قبل النشر.",
+    "officialSource": "https://www.beautiful.ai/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "slidesai": {
+    "fr": "Outil de création de présentations à partir de textes, notes, documents ou consignes, utilisable notamment dans Google Slides et PowerPoint. Les diapositives restent modifiables ; relire les résumés, contrôler les références et adapter la densité du texte au public.",
+    "en": "Presentation generator converting text, notes, documents or prompts into editable decks, including workflows in Google Slides and PowerPoint. Review summaries and references and adjust slide density for the intended audience.",
+    "ar": "أداة لإنشاء عروض تقديمية قابلة للتعديل انطلاقًا من النصوص والملاحظات والمستندات والتعليمات، وتعمل ضمن Google Slides وPowerPoint وغيرها. ينبغي مراجعة الملخصات والمراجع وضبط كثافة النص بما يناسب الجمهور.",
+    "officialSource": "https://help.slidesai.io/what-is-slidesai-0gye5",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "napkin-ai": {
+    "fr": "Outil qui transforme un passage de texte en schémas, graphiques ou illustrations explicatives modifiables. Les visuels peuvent être exportés en PNG, SVG, PPT ou PDF selon les options disponibles. Vérifier la fidélité des relations et des données représentées.",
+    "en": "Tool converting text passages into editable diagrams, charts and explanatory visuals, with PNG, SVG, PPT or PDF export options. Check that depicted relationships and data accurately reflect the source.",
+    "ar": "أداة تحوّل مقاطع النص إلى مخططات ورسوم بيانية وعناصر توضيحية قابلة للتعديل، مع خيارات تصدير بصيغ PNG وSVG وPPT وPDF. يجب التحقق من دقة العلاقات والبيانات الممثلة بصريًا ومطابقتها للمصدر.",
+    "officialSource": "https://help.napkin.ai/en/collections/19688176-napkin-visuals",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "piktochart": {
+    "fr": "Plateforme de communication visuelle dont le générateur Pikto AI transforme consignes, notes et documents en infographies personnalisables. L’éditeur permet de modifier la structure et la présentation ; contrôler les données chiffrées et les références avant publication.",
+    "en": "Visual communication platform whose Pikto AI generator transforms prompts, notes and documents into customizable infographics. The editor supports layout and structure changes; check numerical data and references before publishing.",
+    "ar": "منصة للتواصل البصري تحوّل فيها أداة Pikto AI التعليمات والملاحظات والمستندات إلى رسوم معلوماتية قابلة للتخصيص. يتيح المحرر تعديل البنية والتصميم، ويجب مراجعة البيانات الرقمية والمراجع قبل النشر.",
+    "officialSource": "https://piktochart.com/ai-infographic-generator/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "visme": {
+    "fr": "Plateforme de création de présentations, rapports et infographies, avec un studio IA capable de générer des présentations modifiables à partir de consignes. Les éléments graphiques et l’identité visuelle peuvent être adaptés ; vérifier l’exactitude du contenu généré.",
+    "en": "Design platform for presentations, reports and infographics, with an AI creation studio generating editable presentations from prompts. Visual elements and branding can be customized; verify the accuracy of generated content.",
+    "ar": "منصة لتصميم العروض التقديمية والتقارير والرسوم المعلوماتية، تضم استوديو ذكاء اصطناعي لإنشاء عروض قابلة للتعديل من التعليمات النصية. يمكن تخصيص العناصر البصرية والهوية التصميمية، مع ضرورة التحقق من صحة المحتوى المُولّد.",
+    "officialSource": "https://support.visme.co/ai-creation-studio-how-to-create-a-presentation-with-ai-from-a-prompt/",
+    "sourceReviewedAt": "2026-11-24"
   }
 }
