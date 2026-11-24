@@ -2928,5 +2928,987 @@
       "evidence": "official"
     },
     "currentName": "tl;dv"
+  },
+  "eightfold-ai": {
+    "fr": "Plateforme de gestion des talents fondée sur les compétences : elle aide les équipes RH à repérer des candidats, rapprocher profils et postes, accompagner la mobilité interne et coordonner certaines étapes du recrutement avec des agents IA. Les recommandations doivent rester soumises à une décision humaine.",
+    "en": "Skills-based talent intelligence platform that helps HR teams discover candidates, match people to roles, support internal mobility and coordinate parts of recruiting with AI agents. Recommendations should inform, not replace, human employment decisions.",
+    "ar": "منصة لإدارة المواهب تعتمد على تحليل المهارات لمساعدة فرق الموارد البشرية على اكتشاف المرشحين ومطابقة الكفاءات مع الوظائف ودعم التنقل المهني الداخلي. تضم وكلاء ذكاء اصطناعي لبعض مراحل التوظيف، لكن توصياتها تحتاج إلى مراجعة بشرية قبل اتخاذ القرار.",
+    "officialSource": "https://eightfold.ai/products/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "hirevue": {
+    "fr": "Plateforme de recrutement proposant entretiens vidéo différés ou en direct, planification et évaluations structurées liées aux compétences du poste. Pour certaines évaluations assistées par IA, l'analyse porte sur le contenu des réponses ; l'employeur doit contrôler les critères et les décisions.",
+    "en": "Recruitment platform for on-demand or live video interviews, scheduling and structured job-related assessments. Where AI scoring is used, the provider says it analyzes answer content; employers remain responsible for reviewing criteria and hiring decisions.",
+    "ar": "منصة توظيف لتنظيم المقابلات المرئية المباشرة أو المسجلة مسبقًا، وجدولتها وإجراء تقييمات منظمة مرتبطة بمتطلبات الوظيفة. توضح الشركة أن بعض التقييمات المعتمدة على الذكاء الاصطناعي تحلل مضمون الإجابات، مع ضرورة مراجعة المعايير والقرارات بشريًا.",
+    "officialSource": "https://www.hirevue.com/platform/our-science",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "khanmigo": {
+    "fr": "Assistant pédagogique de Khan Academy : il aide les enseignants à préparer cours, objectifs et évaluations, et propose un tutorat guidé aux apprenants éligibles. L'accès des élèves et des familles dépend du pays, de l'âge et, selon les cas, d'un partenariat scolaire.",
+    "en": "Khan Academy's AI teaching assistant supports lesson planning, learning objectives and assessment materials, while eligible learners can receive guided tutoring. Student and family access varies by country, age and, in some cases, school partnership.",
+    "ar": "مساعد تعليمي من Khan Academy يساعد المعلمين على تخطيط الدروس وصياغة أهداف التعلم وإعداد أدوات التقييم، ويوفر للمتعلمين المؤهلين إرشادًا تدريجيًا بدل الاكتفاء بالأجوبة الجاهزة. يختلف إتاحته للطلاب والأسر بحسب البلد والعمر والشراكات المدرسية.",
+    "officialSource": "https://www.khanacademy.org/khanmigo",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "magicschool-ai": {
+    "fr": "Ensemble d'outils IA pour enseignants : préparation de séquences, supports différenciés, questionnaires et évaluations. L'espace MagicStudent permet des activités encadrées avec visibilité et contrôles pour les enseignants ; les contenus générés et les données d'élèves exigent une vigilance pédagogique.",
+    "en": "AI toolkit for teachers to prepare lessons, differentiated materials, quizzes and assessments. MagicStudent offers supervised student activities with teacher visibility and controls; generated material and student information still require careful review.",
+    "ar": "مجموعة أدوات ذكاء اصطناعي للمعلمين لإعداد الدروس والأنشطة المتدرجة والاختبارات والتقييمات. تتيح بيئة MagicStudent أنشطة للطلاب تحت إشراف المعلم مع أدوات للمتابعة والتحكم، مع ضرورة مراجعة صحة المواد وحماية بيانات المتعلمين.",
+    "officialSource": "https://www.magicschool.ai/magicstudent",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "diffit": {
+    "fr": "Outil destiné aux enseignants pour créer ou adapter des textes, questions de compréhension et activités à différents niveaux de lecture. Il peut s'appuyer sur un document ou un sujet de cours ; l'enseignant doit vérifier la fidélité aux sources et l'adéquation au programme.",
+    "en": "Teaching tool for creating or adapting reading passages, comprehension questions and classroom activities to different reading levels. It can start from source materials or lesson topics; teachers should verify source fidelity and curricular fit.",
+    "ar": "أداة للمعلمين تُنشئ نصوصًا تعليمية وأسئلة للفهم وأنشطة صفية أو تكيّفها مع مستويات قراءة متفاوتة. يمكن الانطلاق من مستند أو موضوع دراسي، لكن ينبغي للمعلم التحقق من دقة المحتوى وملاءمته للمنهاج ومستوى المتعلمين.",
+    "officialSource": "https://web.diffit.me/diffit-certified-educator-course/create",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "canva": {
+    "fr": "Plateforme de création de visuels, présentations, documents et vidéos. Sa suite Magic Studio apporte notamment des aides à la rédaction, à la génération de visuels et à l'adaptation de créations ; les résultats doivent être relus et les conditions d'utilisation des contenus vérifiées.",
+    "en": "Design platform for graphics, presentations, documents and videos. Magic Studio includes AI-assisted writing, visual generation and design adaptation; outputs need review and creators should check the terms for using generated content.",
+    "ar": "منصة لإنشاء التصاميم والعروض التقديمية والمستندات والفيديوهات. تضم مجموعة Magic Studio أدوات للمساعدة في الكتابة وتوليد العناصر البصرية وتكييف التصاميم لمقاسات واستخدامات مختلفة. ينبغي مراجعة النتائج والتحقق من شروط استخدام المحتوى المُولَّد.",
+    "officialSource": "https://www.canva.com/newsroom/news/magic-studio/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "adobe-express": {
+    "fr": "Application Adobe de création rapide pour affiches, publications sociales, vidéos courtes et supports de marque. Elle combine modèles personnalisables, montage simplifié et fonctions d'IA générative liées à Firefly ; certaines options et certains crédits dépendent de l'offre.",
+    "en": "Adobe's quick-creation app for posters, social posts, short videos and branded assets. It combines editable templates, simplified editing and Firefly-powered generative AI features; availability and credits vary by plan.",
+    "ar": "تطبيق من Adobe لإنشاء الملصقات ومنشورات الشبكات الاجتماعية والفيديوهات القصيرة والمواد البصرية الخاصة بالعلامات التجارية. يجمع بين القوالب القابلة للتعديل وأدوات التحرير المبسطة ووظائف الذكاء الاصطناعي التوليدي من Firefly، مع اختلاف الميزات والحصص حسب الاشتراك.",
+    "officialSource": "https://www.adobe.com/express/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "figma-ai": {
+    "fr": "Fonctions d'IA intégrées à l'environnement Figma pour accélérer le travail de conception d'interfaces. First Draft peut produire une première maquette modifiable à partir d'une consigne ; l'accès aux outils, les crédits et les limites dépendent du compte et du forfait.",
+    "en": "AI capabilities within Figma that help teams start and refine interface designs. First Draft can turn a prompt into an editable initial mock-up; tool availability, AI credits and usage limits depend on account and plan.",
+    "ar": "وظائف ذكاء اصطناعي مدمجة في Figma لمساعدة فرق التصميم على بدء واجهات المستخدم وتطويرها. تستطيع ميزة First Draft إنشاء مسودة تصميم قابلة للتعديل انطلاقًا من تعليمات نصية، بينما تختلف إتاحة الميزات وأرصدة الاستخدام حسب الحساب والخطة.",
+    "officialSource": "https://help.figma.com/hc/en-us/articles/23870272542231-Get-started-with-Figma-AI",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "gamma": {
+    "fr": "Outil de création assistée par IA qui transforme idées, plans ou documents en présentations structurées, pages web et autres contenus visuels. Les présentations peuvent être partagées par lien et exportées notamment en PDF ou PowerPoint ; faits et mise en page restent à contrôler.",
+    "en": "AI creation tool that turns ideas, outlines or documents into structured presentations, websites and visual content. Decks can be shared by link and exported to formats such as PDF and PowerPoint; facts and layout still need checking.",
+    "ar": "أداة تعتمد على الذكاء الاصطناعي لتحويل الأفكار والخطط والمستندات إلى عروض تقديمية منظمة وصفحات ويب ومحتويات بصرية. تتيح مشاركة العروض عبر رابط أو تصديرها بصيغ مثل PDF وPowerPoint، مع ضرورة مراجعة المعلومات والتصميم قبل النشر.",
+    "officialSource": "https://gamma.app/products/presentations",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "notion-ai": {
+    "fr": "Assistant intégré à Notion pour rédiger et synthétiser des documents, rechercher des informations dans l’espace de travail et les applications connectées, et produire des comptes rendus de réunions. Les connecteurs, les droits d’accès et les fonctions disponibles dépendent de la configuration et du forfait.",
+    "en": "AI assistant within Notion for drafting and summarizing documents, searching the workspace and connected apps, and creating meeting notes. Connectors, access rights and available features depend on configuration and plan.",
+    "ar": "مساعد مدمج في Notion لصياغة المستندات وتلخيصها والبحث في مساحة العمل والتطبيقات المتصلة وإعداد محاضر الاجتماعات. تختلف إمكانات الربط والصلاحيات والميزات المتاحة بحسب إعدادات المؤسسة والاشتراك.",
+    "officialSource": "https://www.notion.com/help/notion-ai-faqs",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "microsoft-365-copilot": {
+    "fr": "Assistant professionnel intégré aux applications Microsoft 365, notamment Word et PowerPoint, pour rédiger, synthétiser et exploiter les informations de travail auxquelles l’utilisateur a accès. Son efficacité dépend de la qualité des données, des autorisations et des licences ; les réponses doivent être contrôlées.",
+    "en": "Work assistant integrated with Microsoft 365 apps such as Word and PowerPoint for drafting, summarizing and using authorized workplace information. Effectiveness depends on data quality, permissions and licensing; outputs require review.",
+    "ar": "مساعد مهني مدمج في تطبيقات Microsoft 365 مثل Word وPowerPoint لصياغة المحتوى وتلخيصه والاستفادة من معلومات العمل التي يملك المستخدم صلاحية الوصول إليها. تعتمد فعاليته على جودة البيانات والصلاحيات والترخيص، وتحتاج مخرجاته إلى المراجعة.",
+    "officialSource": "https://learn.microsoft.com/en-us/microsoft-365/copilot/microsoft-365-copilot-architecture",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "clickup-brain": {
+    "fr": "Assistant intégré à ClickUp pour interroger les données de projet, résumer les activités des tâches, préparer des documents et identifier des actions à suivre. Il peut exploiter le contexte de l’espace de travail selon les droits et le forfait ; vérifier les synthèses avant de les diffuser.",
+    "en": "AI assistant within ClickUp for querying project information, summarizing task activity, drafting documents and identifying follow-up actions. It uses workspace context subject to permissions and plan; summaries should be checked before sharing.",
+    "ar": "مساعد ذكاء اصطناعي داخل ClickUp للاستعلام عن معلومات المشاريع وتلخيص أنشطة المهام وإعداد المستندات واستخراج الإجراءات المطلوب متابعتها. يستفيد من سياق مساحة العمل وفق الصلاحيات والاشتراك، وينبغي مراجعة الملخصات قبل مشاركتها.",
+    "officialSource": "https://help.clickup.com/hc/en-us/articles/40676496321303-Use-AI-for-documentation",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "capacities": {
+    "fr": "Espace de gestion des connaissances qui organise notes, livres, personnes et projets sous forme d’objets liés et de propriétés. Son assistant IA peut interroger les notes, résumer ou traduire des textes et renseigner certaines propriétés ; contrôler les modifications et les informations sensibles.",
+    "en": "Knowledge management workspace organizing notes, books, people and projects as linked objects with properties. Its AI assistant can query notes, summarize or translate text and fill in properties; review changes and sensitive information.",
+    "ar": "مساحة لإدارة المعرفة تنظّم الملاحظات والكتب والأشخاص والمشاريع في صورة كائنات مترابطة ذات خصائص. يستطيع مساعدها الذكي الاستعلام عن الملاحظات وتلخيص النصوص وترجمتها وتعبئة بعض الخصائص، مع ضرورة مراجعة التعديلات وحماية المعلومات الحساسة.",
+    "officialSource": "https://capacities.io/about/facts",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "duolingo-max": {
+    "fr": "Formule d’apprentissage des langues de Duolingo intégrant des exercices conversationnels assistés par IA, dont les jeux de rôle et les appels vidéo avec des personnages virtuels. Ces activités permettent de pratiquer dans des situations simulées ; la disponibilité varie selon la langue et l’offre.",
+    "en": "Duolingo language-learning tier offering AI-supported conversation practice, including roleplay and video calls with virtual characters. These activities provide simulated speaking situations; availability varies by language and plan.",
+    "ar": "اشتراك لتعلم اللغات من Duolingo يتيح تدريبات محادثة مدعومة بالذكاء الاصطناعي، منها تمثيل الأدوار والمكالمات المرئية مع شخصيات افتراضية. تساعد هذه الأنشطة على ممارسة اللغة في مواقف محاكية للواقع، وتختلف إتاحتها بحسب اللغة والاشتراك.",
+    "officialSource": "https://blog.duolingo.com/covering-all-the-bases-duolingos-approach-to-speaking-skills/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "motion": {
+    "fr": "Plateforme de gestion du travail qui réunit tâches, projets et calendrier. Son moteur de planification répartit les tâches selon leur durée, leur priorité, les échéances et les créneaux disponibles. Les estimations et contraintes doivent être régulièrement ajustées.",
+    "en": "Work management platform combining tasks, projects and calendars. Automatic scheduling allocates tasks according to duration, priorities, deadlines and available time. Users should regularly review estimates and scheduling constraints.",
+    "ar": "منصة لإدارة العمل تجمع المهام والمشاريع والتقويم. توزّع المهام آليًا بحسب مدتها وأولويتها ومواعيدها النهائية والوقت المتاح، مع ضرورة مراجعة تقديرات المدة وقيود الجدولة بانتظام.",
+    "officialSource": "https://www.usemotion.com/help/time-management/auto-scheduling",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "mem": {
+    "fr": "Service de prise de notes et de recherche assistée par IA en cours de fermeture. L’éditeur a annoncé le 16 novembre 2026 le passage en lecture seule le 18 décembre 2026 et l’arrêt définitif le 15 janvier 2027. Exporter ses notes avant cette échéance ; ne pas adopter ce service pour un nouveau projet.",
+    "en": "AI-assisted note-taking and retrieval service being discontinued. On November 16, 2026, the provider announced read-only access from December 18, 2026 and permanent shutdown on January 15, 2027. Export notes before shutdown; unsuitable for new projects.",
+    "ar": "خدمة لتدوين الملاحظات واسترجاعها بالذكاء الاصطناعي يجري إيقافها. أعلن المطوّر في 16 نوفمبر 2026 تحويل الملاحظات إلى وضع القراءة فقط في 18 ديسمبر 2026 وإغلاق الخدمة نهائيًا في 15 يناير 2027. يُنصح بتصدير البيانات قبل الإغلاق وعدم اعتمادها لمشاريع جديدة.",
+    "officialSource": "https://get.mem.ai/blog/mem-is-shutting-down",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "reflect": {
+    "fr": "Application de notes reliées dont l’éditeur propose désormais Reflect Open, une application distincte et open source utilisant des fichiers Markdown locaux. Elle permet la recherche, les liens entre notes et l’assistance IA via une clé personnelle. L’application historique reste maintenue selon l’annonce officielle ; vérifier la disponibilité des versions.",
+    "en": "Linked-note application whose developer now offers Reflect Open, a separate open-source app using local Markdown files. It supports search, backlinks and AI through personal provider keys. The original app remains maintained according to the announcement; check current platform availability.",
+    "ar": "تطبيق للملاحظات المترابطة يقدّم مطوّره أيضًا Reflect Open، وهو تطبيق مستقل مفتوح المصدر يعتمد ملفات Markdown محلية. يدعم البحث والروابط المتبادلة والمساعدة الذكية باستخدام مفتاح مزوّد شخصي. يستمر دعم التطبيق الأصلي وفق الإعلان الرسمي، ويجب التحقق من إتاحة الإصدارات.",
+    "officialSource": "https://reflect.app/blog/reflect-open",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "tana": {
+    "fr": "Tana Outliner structure les notes en objets et champs personnalisables grâce aux supertags, avec recherche, transcription et synthèse assistées par IA. Il faut le distinguer du produit Tana consacré aux réunions vidéo et aux agents IA. Vérifier les droits de partage et le traitement des enregistrements.",
+    "en": "Tana Outliner structures notes with customizable supertags and fields, alongside AI search, transcription and summarization. It is distinct from Tana, the video-meeting and AI-agent product. Review sharing permissions and recording policies.",
+    "ar": "ينظّم Tana Outliner الملاحظات في كائنات وحقول قابلة للتخصيص بواسطة Supertags، مع البحث والتفريغ والتلخيص بمساعدة الذكاء الاصطناعي. وهو منتج مختلف عن Tana المخصص للاجتماعات المرئية والوكلاء الأذكياء. ينبغي مراجعة صلاحيات المشاركة وسياسات التسجيل.",
+    "officialSource": "https://outliner.tana.inc/",
+    "sourceReviewedAt": "2026-11-24",
+    "currentName": "Tana Outliner"
+  },
+  "monday-ai": {
+    "fr": "Fonctions IA intégrées aux tableaux et workflows de monday.com pour résumer des tâches, générer des mises à jour, classer des textes et automatiser certaines actions. Les crédits et les fonctions disponibles varient selon la formule ; conserver un contrôle humain des automatisations sensibles.",
+    "en": "AI features embedded in monday.com boards and workflows for task summaries, updates, text classification and automation. Credits and availability vary by plan; retain human oversight for sensitive automated actions.",
+    "ar": "وظائف ذكاء اصطناعي مدمجة في لوحات monday.com ومسارات العمل لتلخيص المهام وإنشاء التحديثات وتصنيف النصوص وأتمتة بعض الإجراءات. تختلف الحصص والميزات بحسب الاشتراك، وينبغي إبقاء الإجراءات الحساسة تحت إشراف بشري.",
+    "officialSource": "https://support.monday.com/hc/en-us/articles/18433811274386-AI-blocks",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "beautiful-ai": {
+    "fr": "Plateforme de présentations qui génère des diapositives à partir de consignes et utilise des mises en page Smart Slides ajustant automatiquement l’alignement et l’espacement. Elle convient aux rapports et présentations d’équipe ; vérifier les chiffres et adapter le rendu avant diffusion.",
+    "en": "Presentation platform that generates slides from prompts and uses Smart Slides to adjust alignment and spacing as content changes. Useful for reports and team decks; verify figures and refine the design before sharing.",
+    "ar": "منصة للعروض التقديمية تنشئ الشرائح انطلاقًا من التعليمات وتستخدم تخطيطات Smart Slides لضبط المحاذاة والمسافات تلقائيًا عند تعديل المحتوى. تناسب التقارير وعروض الفرق، مع ضرورة التحقق من الأرقام وتحسين التصميم قبل النشر.",
+    "officialSource": "https://www.beautiful.ai/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "slidesai": {
+    "fr": "Outil de création de présentations à partir de textes, notes, documents ou consignes, utilisable notamment dans Google Slides et PowerPoint. Les diapositives restent modifiables ; relire les résumés, contrôler les références et adapter la densité du texte au public.",
+    "en": "Presentation generator converting text, notes, documents or prompts into editable decks, including workflows in Google Slides and PowerPoint. Review summaries and references and adjust slide density for the intended audience.",
+    "ar": "أداة لإنشاء عروض تقديمية قابلة للتعديل انطلاقًا من النصوص والملاحظات والمستندات والتعليمات، وتعمل ضمن Google Slides وPowerPoint وغيرها. ينبغي مراجعة الملخصات والمراجع وضبط كثافة النص بما يناسب الجمهور.",
+    "officialSource": "https://help.slidesai.io/what-is-slidesai-0gye5",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "napkin-ai": {
+    "fr": "Outil qui transforme un passage de texte en schémas, graphiques ou illustrations explicatives modifiables. Les visuels peuvent être exportés en PNG, SVG, PPT ou PDF selon les options disponibles. Vérifier la fidélité des relations et des données représentées.",
+    "en": "Tool converting text passages into editable diagrams, charts and explanatory visuals, with PNG, SVG, PPT or PDF export options. Check that depicted relationships and data accurately reflect the source.",
+    "ar": "أداة تحوّل مقاطع النص إلى مخططات ورسوم بيانية وعناصر توضيحية قابلة للتعديل، مع خيارات تصدير بصيغ PNG وSVG وPPT وPDF. يجب التحقق من دقة العلاقات والبيانات الممثلة بصريًا ومطابقتها للمصدر.",
+    "officialSource": "https://help.napkin.ai/en/collections/19688176-napkin-visuals",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "piktochart": {
+    "fr": "Plateforme de communication visuelle dont le générateur Pikto AI transforme consignes, notes et documents en infographies personnalisables. L’éditeur permet de modifier la structure et la présentation ; contrôler les données chiffrées et les références avant publication.",
+    "en": "Visual communication platform whose Pikto AI generator transforms prompts, notes and documents into customizable infographics. The editor supports layout and structure changes; check numerical data and references before publishing.",
+    "ar": "منصة للتواصل البصري تحوّل فيها أداة Pikto AI التعليمات والملاحظات والمستندات إلى رسوم معلوماتية قابلة للتخصيص. يتيح المحرر تعديل البنية والتصميم، ويجب مراجعة البيانات الرقمية والمراجع قبل النشر.",
+    "officialSource": "https://piktochart.com/ai-infographic-generator/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "visme": {
+    "fr": "Plateforme de création de présentations, rapports et infographies, avec un studio IA capable de générer des présentations modifiables à partir de consignes. Les éléments graphiques et l’identité visuelle peuvent être adaptés ; vérifier l’exactitude du contenu généré.",
+    "en": "Design platform for presentations, reports and infographics, with an AI creation studio generating editable presentations from prompts. Visual elements and branding can be customized; verify the accuracy of generated content.",
+    "ar": "منصة لتصميم العروض التقديمية والتقارير والرسوم المعلوماتية، تضم استوديو ذكاء اصطناعي لإنشاء عروض قابلة للتعديل من التعليمات النصية. يمكن تخصيص العناصر البصرية والهوية التصميمية، مع ضرورة التحقق من صحة المحتوى المُولّد.",
+    "officialSource": "https://support.visme.co/ai-creation-studio-how-to-create-a-presentation-with-ai-from-a-prompt/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "looka": {
+    "fr": "Générateur de logos qui propose des compositions à partir du nom de l’entreprise et de préférences graphiques. Le Brand Kit décline ensuite le logo, les couleurs et les polices en supports marketing personnalisables. Vérifier les conditions de téléchargement et la disponibilité juridique du signe.",
+    "en": "Logo generator that proposes designs based on a business name and visual preferences. Its Brand Kit applies the chosen logo, colors and fonts to customizable marketing assets. Check download terms and trademark availability.",
+    "ar": "مولّد شعارات يقترح تصاميم انطلاقًا من اسم المؤسسة وتفضيلاتها البصرية. تتيح حزمة الهوية البصرية توظيف الشعار والألوان والخطوط في مواد تسويقية قابلة للتخصيص. ينبغي التحقق من شروط التنزيل وإمكانية تسجيل العلامة التجارية.",
+    "officialSource": "https://looka.com/logo-maker/how-it-works/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "brandmark": {
+    "fr": "Service de conception de logos associant modèles, typographies et génération d’icônes par IA. L’éditeur web permet de personnaliser les compositions et de créer des supports de marque, avec des exports SVG, PNG ou PDF selon l’offre. Vérifier les droits et la distinctivité du logo.",
+    "en": "Logo design service combining templates, typography and AI-generated icons. Its browser editor supports customization and brand assets, with SVG, PNG or PDF exports depending on the package. Check usage rights and logo distinctiveness.",
+    "ar": "خدمة لتصميم الشعارات تجمع القوالب والخطوط وتوليد الأيقونات بالذكاء الاصطناعي. يتيح محرر الويب تخصيص التصميم وإنشاء مواد الهوية البصرية وتصديرها بصيغ SVG وPNG وPDF بحسب العرض. ينبغي التحقق من الحقوق وتميّز الشعار.",
+    "officialSource": "https://brandmark.io/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "logoai": {
+    "fr": "Plateforme de création de logos et d’identités visuelles associées. Elle décline les éléments graphiques en cartes de visite, maquettes, publications sociales et modèles de documents. Le Brand Center facilite leur cohérence ; vérifier les formats inclus et les droits commerciaux.",
+    "en": "Platform for creating logos and matching visual identities, extending designs to business cards, mockups, social posts and document templates. Brand Center helps maintain visual consistency; check included formats and commercial rights.",
+    "ar": "منصة لإنشاء الشعارات والهويات البصرية المتناسقة وتطبيقها على بطاقات العمل والنماذج البصرية ومنشورات التواصل وقوالب المستندات. يساعد مركز العلامة التجارية على توحيد التصميم، مع ضرورة التحقق من الصيغ المتاحة وحقوق الاستخدام التجاري.",
+    "officialSource": "https://www.logoai.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "designs-ai": {
+    "fr": "Suite de création assistée par IA qui rassemble des outils de design, image, vidéo, audio et présentation pour produire des supports de communication à partir d’un brief. Elle vise la cohérence de marque entre formats ; vérifier les crédits, licences et résultats avant diffusion.",
+    "en": "AI creative suite combining design, image, video, audio and presentation tools to produce communication assets from a brief. It aims to maintain brand consistency across formats; check credits, licensing and outputs before publishing.",
+    "ar": "مجموعة أدوات إبداعية مدعومة بالذكاء الاصطناعي تشمل التصميم والصور والفيديو والصوت والعروض التقديمية لإنتاج مواد تواصل انطلاقًا من موجز للمشروع. تساعد على توحيد الهوية البصرية عبر الصيغ المختلفة، مع ضرورة مراجعة الحصص والتراخيص والنتائج.",
+    "officialSource": "https://designs.ai/en",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "kittl": {
+    "fr": "Éditeur graphique en ligne associant composition, effets typographiques et édition vectorielle à des outils IA de génération d’images, de vectorisation et de suppression d’arrière-plan. Adapté aux illustrations et supports de marque ; contrôler la qualité des fichiers et les licences avant impression ou vente.",
+    "en": "Online graphic editor combining layout, typography and vector editing with AI image generation, vectorization and background removal. Suitable for illustrations and branded assets; check file quality and licensing before printing or selling.",
+    "ar": "محرر تصميم على الويب يجمع التكوين البصري وتأثيرات الخطوط وتحرير الرسوم المتجهية مع توليد الصور وتحويلها إلى رسوم متجهية وإزالة الخلفيات. يناسب الرسوم التوضيحية ومواد الهوية البصرية، مع ضرورة مراجعة جودة الملفات والتراخيص قبل الطباعة أو البيع.",
+    "officialSource": "https://www.kittl.com/tools",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "uizard": {
+    "fr": "Outil de prototypage d’interfaces permettant de transformer une consigne, une capture d’écran ou un croquis en maquettes modifiables. Autodesigner aide à élaborer des parcours sur plusieurs écrans. Les prototypes servent à explorer et tester un concept, sans garantir une application prête à déployer.",
+    "en": "UI prototyping tool that turns prompts, screenshots or sketches into editable mockups. Autodesigner helps develop multi-screen designs. Prototypes support concept exploration and testing, without guaranteeing a deployable application.",
+    "ar": "أداة لنمذجة واجهات المستخدم تحوّل التعليمات النصية ولقطات الشاشة والرسومات الأولية إلى تصاميم قابلة للتعديل. تساعد ميزة Autodesigner على بناء نماذج متعددة الشاشات لاختبار الأفكار، دون ضمان الحصول على تطبيق جاهز للنشر.",
+    "officialSource": "https://uizard.io/ai-design/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "khroma": {
+    "fr": "Outil de recherche de palettes qui apprend les préférences de l’utilisateur à partir d’une sélection initiale de 50 couleurs. Il génère des associations personnalisées, filtrables notamment par teinte ou code couleur, et permet de sauvegarder les favoris. Contrôler les contrastes et l’accessibilité séparément.",
+    "en": "Palette discovery tool learning user preferences from an initial selection of 50 colors. It generates personalized combinations that can be filtered by hue or color code and saved as favorites. Check contrast and accessibility separately.",
+    "ar": "أداة لاكتشاف لوحات الألوان تتعلم تفضيلات المستخدم من اختيار أولي لخمسين لونًا. تولّد مجموعات لونية مخصصة يمكن تصفيتها بحسب الدرجة أو رمز اللون وحفظ المفضلة منها. ينبغي التحقق بصورة مستقلة من التباين وإمكانية الوصول.",
+    "officialSource": "https://www.khroma.co/train",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "galileo-ai": {
+    "fr": "Ancien outil de génération de maquettes d’interfaces à partir de texte. Son adresse historique redirige désormais vers Stitch de Google Labs, qui génère et affine des interfaces à partir de descriptions et de références visuelles, avec production de code front-end. Galileo AI ne doit plus être présenté comme un service autonome.",
+    "en": "Former text-to-UI mockup generator. Its historical website now redirects to Google Labs’ Stitch, which generates and refines interfaces from descriptions and visual references and produces frontend code. Galileo AI should no longer be presented as a standalone service.",
+    "ar": "أداة سابقة لتوليد نماذج واجهات المستخدم انطلاقًا من النص. يعيد عنوانها التاريخي التوجيه إلى Stitch من Google Labs، الذي يولّد الواجهات ويطوّرها باستخدام الأوصاف والمراجع البصرية ويتيح إنتاج شيفرة الواجهة الأمامية. لا ينبغي تقديم Galileo AI كخدمة مستقلة حاليًا.",
+    "officialSource": "https://developers.googleblog.com/stitch-a-new-way-to-design-uis/",
+    "sourceReviewedAt": "2026-11-24",
+    "currentName": "Galileo AI → Google Stitch"
+  },
+  "framer-ai": {
+    "fr": "Fonctions IA intégrées à Framer pour générer et affiner la structure et le design d’un site web. Les créations restent éditables dans un environnement réunissant design responsive, CMS, référencement et publication. Tester l’accessibilité, les comportements mobiles et les fonctionnalités avant mise en ligne.",
+    "en": "AI capabilities in Framer for generating and refining website structure and design. Outputs remain editable in a workspace combining responsive design, CMS, SEO and publishing. Test accessibility, mobile behavior and functionality before launch.",
+    "ar": "وظائف ذكاء اصطناعي ضمن Framer لتوليد بنية مواقع الويب وتصميمها وتحسينهما. تبقى النتائج قابلة للتعديل في بيئة تجمع التصميم المتجاوب وإدارة المحتوى وتحسين الظهور في البحث والنشر. ينبغي اختبار إمكانية الوصول وتجربة الهاتف والوظائف قبل الإطلاق.",
+    "officialSource": "https://www.framer.com/solutions/ai-website-builder/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "prezi-ai": {
+    "fr": "Assistant de création de présentations au sein de Prezi, destiné à transformer une idée ou une consigne en contenu visuel structuré et modifiable. Il s’inscrit dans l’environnement de présentation de Prezi ; vérifier le contenu, les options d’export et l’adéquation des animations au public.",
+    "en": "Presentation creation assistant within Prezi that turns an idea or prompt into structured, editable visual content. It works within Prezi’s presentation environment; check content, export options and whether animations suit the audience.",
+    "ar": "مساعد لإنشاء العروض التقديمية ضمن Prezi يحوّل الأفكار والتعليمات إلى محتوى بصري منظم وقابل للتعديل. يعمل داخل بيئة العروض الخاصة بالمنصة، مع ضرورة مراجعة المحتوى وخيارات التصدير ومدى ملاءمة الحركات البصرية للجمهور.",
+    "officialSource": "https://prezi.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "synthesia": {
+    "fr": "Plateforme de création de vidéos à partir de scripts, avec présentateurs virtuels, voix synthétiques et outils de localisation. Elle sert notamment à produire des modules de formation et des communications internes actualisables sans nouveau tournage. Vérifier la prononciation, les traductions et les droits des avatars.",
+    "en": "Script-to-video platform with virtual presenters, synthetic voices and localization tools. It supports training modules and internal communications that can be updated without filming again. Review pronunciation, translations and avatar rights.",
+    "ar": "منصة لإنشاء الفيديو من النصوص باستخدام مقدمين افتراضيين وأصوات اصطناعية وأدوات للتوطين اللغوي. تُستخدم لإنتاج وحدات تدريبية ورسائل داخلية قابلة للتحديث دون إعادة التصوير. ينبغي مراجعة النطق والترجمات وحقوق استخدام الشخصيات الرقمية.",
+    "officialSource": "https://help.synthesia.io/en/articles/9994493-what-is-synthesia",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "heygen": {
+    "fr": "Studio vidéo proposant des avatars, des doubles numériques personnalisés et la traduction de vidéos avec doublage ou synchronisation labiale. Il facilite l’adaptation de contenus à plusieurs publics linguistiques. La création d’un double vidéo requiert un enregistrement de consentement ; contrôler les traductions avant diffusion.",
+    "en": "Video studio offering avatars, custom digital twins and video translation with dubbing or lip synchronization. It helps adapt content for multilingual audiences. Creating a video-based digital twin requires recorded consent; review translations before release.",
+    "ar": "استوديو فيديو يتيح شخصيات افتراضية ونسخًا رقمية مخصصة وترجمة الفيديو بالدبلجة أو مزامنة حركة الشفاه. يساعد على تكييف المحتوى لجمهور متعدد اللغات. يتطلب إنشاء نسخة رقمية من فيديو تسجيل الموافقة، وينبغي مراجعة الترجمات قبل النشر.",
+    "officialSource": "https://help.heygen.com/en/articles/12092609-recording-your-consent-video",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "d-id": {
+    "fr": "Creative Reality Studio permet de faire parler un portrait ou un avatar à partir d’un script et d’une voix synthétique. Les vidéos peuvent servir à la médiation culturelle, aux explications et aux présentations courtes. Signaler les reconstitutions fictives et respecter le droit à l’image des personnes représentées.",
+    "en": "Creative Reality Studio animates portraits or avatars using scripts and synthetic speech. Videos can support cultural interpretation, explanations and short presentations. Label fictional reconstructions and respect likeness rights.",
+    "ar": "يتيح Creative Reality Studio تحريك الصور الشخصية أو الشخصيات الافتراضية وجعلها تتحدث انطلاقًا من نص وصوت اصطناعي. يفيد في الوساطة الثقافية والشروحات والعروض القصيرة. ينبغي توضيح المشاهد المتخيلة واحترام حقوق الأشخاص الذين تُستخدم صورهم.",
+    "officialSource": "https://www.d-id.com/creative-reality-studio/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "colossyan": {
+    "fr": "Plateforme de formation vidéo avec avatars, conversion de documents et présentations en cours, localisation multilingue, questionnaires et scénarios à embranchements. L’export SCORM permet une diffusion dans des LMS compatibles. Tester les interactions et vérifier les acquis pédagogiques.",
+    "en": "Video-learning platform with avatars, document and slide conversion, multilingual localization, quizzes and branching scenarios. SCORM export supports delivery through compatible LMS platforms. Test interactions and assess learning outcomes.",
+    "ar": "منصة للتدريب بالفيديو تضم شخصيات رقمية وتحويل المستندات والعروض إلى دروس وتوطينًا متعدد اللغات واختبارات وسيناريوهات متفرعة. يتيح تصدير SCORM نشر المحتوى في أنظمة إدارة التعلم المتوافقة. ينبغي اختبار التفاعلات وتقويم نتائج التعلم.",
+    "officialSource": "https://www.colossyan.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "elai-io": {
+    "fr": "Plateforme de génération de vidéos pédagogiques à partir de textes et d’avatars, acquise par Panopto en octobre 2024. Les vidéos peuvent être exportées vers une bibliothèque Panopto pour bénéficier de ses permissions et outils de gestion. Vérifier les licences et les modalités d’intégration.",
+    "en": "Text-to-video and avatar-based learning platform acquired by Panopto in October 2024. Videos can be exported into a Panopto library to use its permissions and management tools. Check licensing and integration requirements.",
+    "ar": "منصة لتوليد الفيديوهات التعليمية من النصوص باستخدام شخصيات رقمية، استحوذت عليها Panopto في أكتوبر 2024. يمكن تصدير الفيديوهات إلى مكتبة Panopto للاستفادة من صلاحياتها وأدوات إدارتها. ينبغي التحقق من التراخيص ومتطلبات التكامل.",
+    "officialSource": "https://elai.freshdesk.com/support/solutions/articles/73000556575-learn-about-panopto-and-elai",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "hour-one": {
+    "fr": "Technologie de génération de vidéos personnalisées et d’expériences interactives acquise par Wix, selon son annonce du 23 mai 2025. Le site historique n’a pas pu être consulté lors de cette revue ; la disponibilité d’un abonnement autonome reste à confirmer avant tout nouveau projet.",
+    "en": "Personalized video and interactive experience technology acquired by Wix, announced on May 23, 2025. The historical website could not be accessed during this review; standalone subscription availability remains unconfirmed.",
+    "ar": "تقنية لتوليد الفيديوهات المخصصة والتجارب التفاعلية أعلنت Wix الاستحواذ عليها في 23 مايو 2025. تعذّر الوصول إلى الموقع التاريخي أثناء هذه المراجعة؛ لذا يجب التحقق من إتاحة الاشتراك المستقل قبل بدء مشروع جديد.",
+    "officialSource": "https://www.wix.com/press-room/home/post/wix-acquires-hour-one-to-expand-generative-ai-capabilities-and-accelerate-product-innovation",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "deepbrain-ai": {
+    "fr": "AI Studios de DeepBrain AI combine création de vidéos à partir de scripts, documents ou présentations, avatars, montage et doublage. La traduction des projets peut aussi porter sur le texte affiché à l’écran. Relire les scripts et vérifier la cohérence des éléments visuels traduits.",
+    "en": "DeepBrain AI’s AI Studios combines script, document and slide-to-video creation, avatars, editing and dubbing. Project translation can also cover on-screen text. Review scripts and check translated visual elements for consistency.",
+    "ar": "تجمع منصة AI Studios من DeepBrain AI بين إنشاء الفيديو من النصوص والمستندات والعروض والشخصيات الرقمية والتحرير والدبلجة. يمكن أن تشمل ترجمة المشاريع النصوص الظاهرة على الشاشة أيضًا. ينبغي مراجعة النصوص والتحقق من اتساق العناصر البصرية المترجمة.",
+    "officialSource": "https://help.aistudios.com/en/articles/11698763-what-are-the-differences-between-ai-dubbing-video-translation",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "tavus": {
+    "fr": "Infrastructure pour développeurs permettant d’intégrer des personnages numériques conversationnels en vidéo ou en voix dans des applications. Son interface CVI gère des échanges en temps réel et des répliques personnalisées. Tester la latence, les réponses et la confidentialité des conversations.",
+    "en": "Developer infrastructure for embedding conversational digital characters in video or voice applications. Its CVI supports real-time interactions and custom replicas. Test latency, response quality and conversation privacy.",
+    "ar": "بنية برمجية للمطورين لإدماج شخصيات رقمية محاورة بالصوت أو الفيديو داخل التطبيقات. تدعم واجهة CVI التفاعل الآني والنسخ الرقمية المخصصة. ينبغي اختبار زمن الاستجابة وجودة الإجابات وخصوصية المحادثات.",
+    "officialSource": "https://www.tavus.io/blog/introducing-the-worlds-fastest-conversational-video-interface-for-developers",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "akool": {
+    "fr": "Suite de création visuelle regroupant avatars parlants ou diffusés en direct, traduction vidéo et génération d’images et de vidéos. Elle peut servir à localiser des présentations ou contenus marketing. Les transformations de visages et de voix exigent une autorisation appropriée et un étiquetage clair des contenus synthétiques.",
+    "en": "Visual creation suite combining talking and streaming avatars, video translation and image and video generation. It can localize presentations and marketing material. Face and voice transformations require appropriate permission and clear labeling of synthetic content.",
+    "ar": "مجموعة أدوات للإنتاج البصري تجمع الشخصيات الناطقة والمباشرة وترجمة الفيديو وتوليد الصور والمقاطع. تفيد في توطين العروض والمواد التسويقية. تتطلب تعديلات الوجوه والأصوات إذنًا مناسبًا وتوضيح الطبيعة الاصطناعية للمحتوى.",
+    "officialSource": "https://www.akool.com/landing",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "vidnoz": {
+    "fr": "Générateur vidéo accessible en ligne, avec bibliothèque d’avatars, modèles de présentation et conversion de textes ou documents en vidéos. Il facilite les explications et tutoriels courts. Vérifier les limites du forfait, la qualité des voix et les autorisations relatives aux portraits.",
+    "en": "Online video generator with an avatar library, presentation templates and text or document-to-video conversion. Useful for short explanations and tutorials. Check plan limitations, voice quality and portrait permissions.",
+    "ar": "مولّد فيديو عبر الويب يضم مكتبة شخصيات رقمية وقوالب عروض وتحويل النصوص أو المستندات إلى فيديوهات. يفيد في إعداد الشروحات والدروس القصيرة. ينبغي التحقق من حدود الاشتراك وجودة الأصوات والأذونات المتعلقة بالصور الشخصية.",
+    "officialSource": "https://www.vidnoz.com/text-to-video-ai.html",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "pipio": {
+    "fr": "Service historiquement consacré aux vidéos avec avatars et au doublage synchronisé. Sa documentation API décrit encore la traduction vidéo, mais le site principal n’a pas pu être consulté le 24 novembre 2026. La disponibilité du service et des abonnements reste incertaine ; ne pas considérer la documentation comme preuve de fonctionnement.",
+    "en": "Service historically focused on avatar videos and lip-synchronized dubbing. Its API documentation still describes video translation, but the main site could not be accessed on November 24, 2026. Service and subscription availability remain uncertain; documentation alone does not establish operability.",
+    "ar": "خدمة ارتبطت تاريخيًا بفيديوهات الشخصيات الرقمية والدبلجة المتزامنة مع حركة الشفاه. لا تزال وثائق واجهتها البرمجية تصف ترجمة الفيديو، لكن تعذّر الوصول إلى الموقع الرئيسي في 24 نوفمبر 2026. تبقى إتاحة الخدمة والاشتراكات غير مؤكدة؛ ولا تثبت الوثائق وحدها أن الخدمة تعمل.",
+    "officialSource": "https://docs.pipio.ai/dubbing-v2",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "dubverse": {
+    "fr": "Plateforme de localisation audiovisuelle proposant doublage automatique, synthèse vocale et sous-titrage multilingue à partir de vidéos importées ou de liens compatibles. Elle convient à l’adaptation de cours et de contenus éditoriaux. Relire les traductions, contrôler les sous-titres et obtenir les autorisations pour toute voix clonée.",
+    "en": "Audiovisual localization platform offering automated dubbing, text-to-speech and multilingual subtitles from uploaded videos or supported links. Useful for adapting courses and editorial content. Review translations and subtitles and obtain permission for cloned voices.",
+    "ar": "منصة لتوطين المحتوى السمعي البصري توفر الدبلجة الآلية وتحويل النص إلى كلام والترجمة النصية متعددة اللغات انطلاقًا من فيديوهات مرفوعة أو روابط متوافقة. تناسب تكييف الدروس والمحتويات التحريرية. ينبغي مراجعة الترجمات والحصول على إذن لاستنساخ الأصوات.",
+    "officialSource": "https://dubverse.ai/features/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "elevenlabs": {
+    "fr": "Plateforme de synthèse vocale et de production audio proposant des modèles multilingues, dont plusieurs prennent en charge l’arabe, ainsi que des outils de doublage et de clonage vocal. Choisir le modèle et la voix selon la langue et la latence ; obtenir l’autorisation avant toute imitation d’une voix.",
+    "en": "Speech synthesis and audio production platform with multilingual models, several supporting Arabic, plus dubbing and voice cloning tools. Select model and voice according to language and latency; obtain permission before replicating a voice.",
+    "ar": "منصة لتوليد الكلام وإنتاج الصوت تضم نماذج متعددة اللغات يدعم عدد منها العربية، إضافة إلى أدوات الدبلجة واستنساخ الأصوات. ينبغي اختيار النموذج والصوت وفق اللغة وزمن الاستجابة والحصول على إذن قبل محاكاة صوت شخص.",
+    "officialSource": "https://elevenlabs.io/docs/help-center/other/what-languages-do-you-support",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "murf": {
+    "fr": "Studio de production de voix off pour formations, présentations et vidéos, offrant des voix en arabe standard et dans certaines variantes régionales. Tester la prononciation des termes techniques et vérifier les conditions de diffusion selon l’offre.",
+    "en": "Voiceover production studio for training, presentations and videos, with Modern Standard Arabic and selected regional voices. Test technical pronunciation and check distribution rights under the selected plan.",
+    "ar": "استوديو لإنتاج التعليق الصوتي للدورات والعروض والفيديوهات، يوفّر أصواتًا بالعربية الفصحى وبعض التنويعات الإقليمية. ينبغي اختبار نطق المصطلحات التقنية والتحقق من شروط النشر بحسب الاشتراك.",
+    "officialSource": "https://murf.ai/text-to-speech/arabic",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "speechify": {
+    "fr": "Lecteur vocal qui transforme textes et documents, notamment PDF, en contenu à écouter. Il facilite l’accès aux ressources écrites et propose des voix arabes. Distinguer lecture personnelle et production audio ; vérifier la qualité de lecture des documents complexes.",
+    "en": "Speech reader converting text and documents, including PDFs, into listenable audio. It improves access to written resources and offers Arabic voices. Distinguish personal reading from audio production and check reading quality for complex documents.",
+    "ar": "قارئ صوتي يحوّل النصوص والمستندات، بما فيها ملفات PDF، إلى محتوى مسموع ويسهّل الوصول إلى الموارد المكتوبة ويوفر أصواتًا عربية. ينبغي التمييز بين القراءة الشخصية وإنتاج الصوت والتحقق من جودة قراءة المستندات المعقدة.",
+    "officialSource": "https://speechify.com/ar/text-reader/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "wellsaid-labs": {
+    "fr": "Studio de voix off pour la production professionnelle et collaborative. Le catalogue Global Voices comprend des voix arabes, notamment algériennes, avec styles et accès variables. Vérifier la disponibilité de chaque voix et les licences.",
+    "en": "Voiceover studio for collaborative professional production. Its Global Voices catalog includes Arabic voices, including Algerian voices, with varying styles and access. Check individual voice availability and licensing.",
+    "ar": "استوديو للتعليق الصوتي المهني والتعاوني. يضم دليل Global Voices أصواتًا عربية منها أصوات جزائرية، مع اختلاف الأساليب والإتاحة. ينبغي التحقق من توفر كل صوت وشروط الترخيص قبل إنتاج المحتوى.",
+    "officialSource": "https://help.wellsaid.io/hc/en-us/articles/39112914360467-List-of-WellSaid-Voices",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "resemble-ai": {
+    "fr": "Plateforme de génération vocale avec des solutions hébergées et des modèles ouverts Chatterbox. La version multilingue permet la synthèse et le clonage dans plusieurs langues, dont l’arabe. Comparer les modalités de déploiement et les licences ; utiliser uniquement des échantillons autorisés.",
+    "en": "Speech generation platform with managed services and open Chatterbox models. Its multilingual version supports synthesis and cloning in languages including Arabic. Compare deployment and licensing options; use only authorized voice samples.",
+    "ar": "منصة لتوليد الأصوات توفر خدمات مستضافة ونماذج Chatterbox المفتوحة. يدعم الإصدار متعدد اللغات توليد الكلام واستنساخ الأصوات بلغات منها العربية. ينبغي مقارنة خيارات التشغيل والتراخيص وعدم استخدام عينات صوتية دون إذن.",
+    "officialSource": "https://www.resemble.ai/products/text-to-speech",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "lovo": {
+    "fr": "Genny de LOVO propose la génération et l’édition de voix off multilingues, avec des voix arabes et des variantes régionales. Il convient aux narrations et aux contenus de formation ; vérifier la prononciation, les droits commerciaux et les possibilités de montage selon le forfait.",
+    "en": "LOVO’s Genny supports multilingual voiceover generation and editing, with Arabic voices and regional variants. Suitable for narration and learning content; check pronunciation, commercial rights and editing options by plan.",
+    "ar": "يتيح Genny من LOVO توليد التعليق الصوتي وتحريره بلغات متعددة، بما فيها العربية وتنويعاتها الإقليمية. يناسب السرد والمواد التدريبية؛ ينبغي مراجعة النطق وحقوق الاستخدام التجاري وخيارات التحرير بحسب الاشتراك.",
+    "officialSource": "https://lovo.ai/da/text-to-speech/arabic-text-to-speech",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "narakeet": {
+    "fr": "Service de narration transformant du texte en audio ou en vidéo, avec des voix arabes pour leçons, articles et présentations. Il permet de produire notamment des fichiers MP3 et MP4. Contrôler la prononciation des noms propres et les droits de diffusion avant publication.",
+    "en": "Narration service converting text into audio or video, with Arabic voices for lessons, articles and presentations. It can produce MP3 and MP4 files. Check proper-name pronunciation and distribution rights before publishing.",
+    "ar": "خدمة للسرد الصوتي تحوّل النص إلى صوت أو فيديو بأصوات عربية مناسبة للدروس والمقالات والعروض. تتيح إنتاج ملفات منها MP3 وMP4. ينبغي مراجعة نطق الأسماء وحقوق النشر قبل إتاحة المحتوى.",
+    "officialSource": "https://www.narakeet.com/languages/text-to-speech-arabic/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "cartesia": {
+    "fr": "Infrastructure de synthèse vocale Sonic accessible par API, conçue notamment pour les agents vocaux à faible latence. Le catalogue comprend des voix arabes et des variantes régionales. Mesurer la latence de bout en bout et tester la prononciation des noms et nombres.",
+    "en": "Sonic speech synthesis infrastructure available through an API, designed for low-latency voice agents. Its catalog includes Arabic voices and regional variants. Measure end-to-end latency and test pronunciation of names and numbers.",
+    "ar": "بنية تحتية لتوليد الكلام باستخدام Sonic عبر واجهة برمجية، مخصصة خصوصًا للوكلاء الصوتيين سريعي الاستجابة. يضم دليلها أصواتًا عربية وتنويعات إقليمية. ينبغي قياس زمن الاستجابة الكامل واختبار نطق الأسماء والأرقام.",
+    "officialSource": "https://www.cartesia.ai/fr/languages/arabic",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "hume-ai": {
+    "fr": "API vocales pour la synthèse expressive avec Octave et les interactions en temps réel avec EVI. Elles permettent de guider le style de parole. La prise en charge de l’arabe doit être vérifiée séparément pour chaque modèle ; les mesures d’expression ne prouvent pas la capacité de synthèse.",
+    "en": "Voice APIs for expressive synthesis with Octave and real-time interaction with EVI. They support speech style direction. Arabic support must be checked separately for each model; expression measurement does not establish synthesis support.",
+    "ar": "واجهات برمجية للصوت تشمل توليد الكلام التعبيري عبر Octave والتفاعل الآني عبر EVI. تتيح توجيه أسلوب الكلام. يجب التحقق من دعم العربية لكل نموذج على حدة، إذ لا يثبت تحليل التعبيرات الصوتية توفر توليد الكلام بالعربية.",
+    "officialSource": "https://dev.hume.ai/docs/expression-measurement/science",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "openai-tts": {
+    "fr": "Service de synthèse vocale de l’API OpenAI permettant de convertir du texte en audio, avec choix de voix et réglages selon le modèle. Il convient aux lecteurs et narrations. Tester la prononciation des textes arabes et informer les utilisateurs que la voix est générée par IA.",
+    "en": "OpenAI API speech synthesis service converting text into audio, with voice choices and model-dependent controls. Suitable for readers and narration. Test Arabic pronunciation and disclose that the voice is AI-generated.",
+    "ar": "خدمة لتوليد الكلام عبر واجهة OpenAI البرمجية تحوّل النص إلى صوت، مع اختيار الأصوات وضوابط تختلف بحسب النموذج. تناسب تطبيقات القراءة والسرد. ينبغي اختبار نطق النصوص العربية وإعلام المستخدمين بأن الصوت مولّد بالذكاء الاصطناعي.",
+    "officialSource": "https://developers.openai.com/api/docs/guides/text-to-speech",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "suno": {
+    "fr": "Studio de génération de chansons et de musique à partir de descriptions, de paroles et de références créatives. Les offres payantes donnent accès à des droits commerciaux selon les conditions de téléchargement applicables ; les créations gratuites sont réservées aux usages non commerciaux. Vérifier les droits sur les éléments importés.",
+    "en": "Music and song generation studio using descriptions, lyrics and creative inputs. Paid plans grant commercial rights subject to applicable download terms; free creations are for non-commercial use. Check rights to uploaded material.",
+    "ar": "استوديو لتوليد الأغاني والموسيقى من الأوصاف والكلمات والمدخلات الإبداعية. تمنح الاشتراكات المدفوعة حقوق استخدام تجاري وفق شروط التنزيل المعمول بها، بينما تقتصر إبداعات الخطة المجانية على الاستخدام غير التجاري. ينبغي التحقق من حقوق المواد المرفوعة.",
+    "officialSource": "https://help.suno.com/en/articles/9601665",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "udio": {
+    "fr": "Plateforme de création musicale assistée par IA permettant de générer et retravailler des chansons. Depuis le partenariat avec Universal Music Group, la documentation de transition indique que les téléchargements audio, vidéo et de pistes séparées sont désactivés. Vérifier les conditions actuelles avant tout projet nécessitant des exports.",
+    "en": "AI-assisted music platform for generating and refining songs. Following the Universal Music Group partnership, transition documentation states that audio, video and stem downloads are disabled. Check current conditions before starting projects requiring exports.",
+    "ar": "منصة لإنشاء الأغاني وتطويرها بمساعدة الذكاء الاصطناعي. تشير وثائق المرحلة الانتقالية بعد الشراكة مع Universal Music Group إلى تعطيل تنزيل الصوت والفيديو والمسارات الصوتية المنفصلة. ينبغي التحقق من الشروط الحالية قبل بدء مشروع يتطلب تصدير الملفات.",
+    "officialSource": "https://help.udio.com/en/articles/12683565-changes-associated-with-the-universal-music-group-umg-partnership",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "aiva": {
+    "fr": "Assistant de composition musicale permettant de générer des morceaux dans différents styles, notamment pour la bande sonore de projets créatifs. Les droits d’utilisation et de propriété revendiqués par le service varient selon l’abonnement, notamment Pro. Vérifier le contrat et la protection juridique effective des compositions.",
+    "en": "Music composition assistant generating pieces in different styles, including soundtracks for creative projects. Usage rights and ownership provisions vary by subscription, including Pro. Check contractual terms and actual legal protection of compositions.",
+    "ar": "مساعد للتأليف الموسيقي يولّد مقطوعات بأساليب متعددة، منها الموسيقى التصويرية للمشاريع الإبداعية. تختلف حقوق الاستخدام والملكية المنصوص عليها في الخدمة بحسب الاشتراك، بما في ذلك Pro. ينبغي مراجعة العقد والحماية القانونية الفعلية للمقطوعات.",
+    "officialSource": "https://www.aiva.ai/t/ai-music-generation/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "soundraw": {
+    "fr": "Générateur de musique pour vidéos, podcasts et projets artistiques. Les licences distinguent l’intégration d’une musique de fond et la distribution de chansons modifiées par des musiciens. Certaines exploitations musicales nécessitent des contributions créatives supplémentaires et une formule adaptée.",
+    "en": "Music generator for videos, podcasts and artistic projects. Licensing distinguishes background music integration from distribution of songs modified by musicians. Certain music releases require additional creative contributions and an appropriate plan.",
+    "ar": "مولّد موسيقى للفيديو والبودكاست والمشاريع الفنية. تميّز التراخيص بين إدراج الموسيقى الخلفية وتوزيع الأغاني التي يعدّلها الموسيقيون. تتطلب بعض أشكال الاستغلال الموسيقي مساهمات إبداعية إضافية واشتراكًا مناسبًا.",
+    "officialSource": "https://soundraw.io/license",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "beatoven-ai": {
+    "fr": "Générateur de musique d’accompagnement pour vidéos, jeux, podcasts et autres contenus. La licence autorise, sous conditions, la synchronisation des morceaux avec un projet ; elle ne doit pas être assimilée à un droit de distribution indépendante sur les plateformes musicales.",
+    "en": "Background music generator for videos, games, podcasts and other content. Its conditional license allows synchronization of tracks with a project; this does not amount to independent music distribution rights on streaming platforms.",
+    "ar": "مولّد موسيقى مصاحبة للفيديو والألعاب والبودكاست ومحتويات أخرى. يسمح الترخيص بشروط محددة بمزامنة المقطوعات مع المشروع، ولا يعادل حق توزيع الموسيقى بشكل مستقل على منصات البث الموسيقي.",
+    "officialSource": "https://www.beatoven.ai/tos",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "boomy": {
+    "fr": "Plateforme de création et de personnalisation de morceaux accessible aux débutants. Selon la documentation, Boomy conserve par défaut les droits d’auteur revendiqués sur les créations, mais les abonnements Creator et Pro accordent des droits commerciaux aux titres téléchargés pendant l’abonnement. Vérifier les conditions des distributeurs.",
+    "en": "Music creation and customization platform accessible to beginners. According to its documentation, Boomy retains claimed copyright by default, while Creator and Pro memberships grant commercial rights to tracks downloaded during membership. Check distributor requirements.",
+    "ar": "منصة لإنشاء المقطوعات الموسيقية وتخصيصها تناسب المبتدئين. وفق وثائق الخدمة تحتفظ Boomy افتراضيًا بحقوق المؤلف التي تطالب بها، بينما تمنح اشتراكات Creator وPro حقوقًا تجارية للمقطوعات المنزلة أثناء الاشتراك. ينبغي مراجعة شروط الموزعين.",
+    "officialSource": "https://support.boomy.com/hc/en-us/articles/14581348824973-Who-owns-the-copyright-to-the-songs-I-create-with-Boomy",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "loudly": {
+    "fr": "Environnement de production musicale combinant génération de morceaux, remix, séparation de pistes et outils de finition audio. Des licences non exclusives couvrent certains usages créatifs ; la distribution sur les services musicaux est soumise à des conditions spécifiques. Vérifier les droits sur les pistes importées.",
+    "en": "Music production environment combining track generation, remixing, stem separation and audio finishing. Non-exclusive licenses cover eligible creative uses; distribution to music services has specific conditions. Check rights to imported tracks.",
+    "ar": "بيئة للإنتاج الموسيقي تجمع توليد المقطوعات وإعادة المزج وفصل المسارات وأدوات المعالجة النهائية للصوت. تغطي التراخيص غير الحصرية استخدامات إبداعية محددة، ويخضع التوزيع عبر خدمات الموسيقى لشروط خاصة. ينبغي التحقق من حقوق المسارات المستوردة.",
+    "officialSource": "https://www.loudly.com/faq",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "mubert": {
+    "fr": "Service de génération de musique instrumentale d’accompagnement à partir de descriptions et de durées choisies. Mubert Render propose des licences adaptées à différents projets. Les téléchargements gratuits sont non monétisés et nécessitent une attribution ; vérifier les restrictions de redistribution musicale indépendante.",
+    "en": "Instrumental background music generation service using prompts and selected durations. Mubert Render offers licenses for different projects. Free downloads are non-monetized and require attribution; check restrictions on standalone music redistribution.",
+    "ar": "خدمة لتوليد الموسيقى الآلية المصاحبة انطلاقًا من الأوصاف والمدد المحددة. يوفر Mubert Render تراخيص لمشاريع مختلفة. تقتصر التنزيلات المجانية على المشاريع غير المدرة للدخل وتتطلب الإسناد؛ ينبغي مراجعة قيود إعادة توزيع الموسيقى بصورة مستقلة.",
+    "officialSource": "https://mubert.com/render/faq",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "stable-audio": {
+    "fr": "Famille de modèles de Stability AI pour créer musique instrumentale, ambiances et effets sonores à partir de texte ou d’audio. Stable Audio 3.0 comprend des modèles à poids accessibles. Les conditions du service hébergé et celles des modèles auto-hébergés diffèrent ; vérifier la licence exacte et les seuils applicables.",
+    "en": "Stability AI model family for generating instrumental music, ambience and sound effects from text or audio. Stable Audio 3.0 includes open-weight models. Hosted and self-hosted licensing differs; check the exact license and applicable thresholds.",
+    "ar": "عائلة نماذج من Stability AI لتوليد الموسيقى الآلية والأجواء والمؤثرات الصوتية من النص أو الصوت. تتضمن Stable Audio 3.0 نماذج ذات أوزان متاحة. تختلف شروط الخدمة المستضافة عن تراخيص النماذج المستضافة ذاتيًا؛ ينبغي مراجعة الترخيص المحدد والحدود المطبقة.",
+    "officialSource": "https://stability.ai/explainers/can-ai-generated-music-be-used-commercially",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "musicgen": {
+    "fr": "Famille de modèles de Meta destinée à la génération musicale à partir de descriptions textuelles, avec certaines variantes guidées par une mélodie. Elle peut servir à l’expérimentation locale et à la recherche. Les poids de musicgen-small sont sous CC BY-NC 4.0 : vérifier la licence de chaque modèle avant utilisation commerciale.",
+    "en": "Meta music generation model family using text descriptions, with some melody-conditioned variants. Suitable for local experimentation and research. The musicgen-small weights use CC BY-NC 4.0: check each model’s license before commercial use.",
+    "ar": "عائلة نماذج من Meta لتوليد الموسيقى من الأوصاف النصية، وتضم إصدارات تسترشد بلحن. تناسب التجارب المحلية والبحث. تخضع أوزان musicgen-small لترخيص CC BY-NC 4.0؛ ينبغي مراجعة ترخيص كل نموذج قبل الاستخدام التجاري.",
+    "officialSource": "https://huggingface.co/facebook/musicgen-small",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "riffusion": {
+    "fr": "Référence historique de génération musicale par IA ayant évolué vers ProducerAI, intégré à Google Labs, puis renommé Google Flow Music. Le produit actuel accompagne la composition et la transformation musicale. Consulter les modalités d’accès et de licence du service actuel plutôt que celles de Riffusion.",
+    "en": "Historical AI music generation project that evolved into ProducerAI, joined Google Labs and was renamed Google Flow Music. The current product supports music creation and transformation. Consult the current service’s access and licensing terms rather than historical Riffusion terms.",
+    "ar": "مرجع تاريخي لتوليد الموسيقى بالذكاء الاصطناعي تطوّر إلى ProducerAI وانضم إلى Google Labs ثم أصبح Google Flow Music. يدعم المنتج الحالي التأليف وتعديل الموسيقى. ينبغي الرجوع إلى شروط الوصول والترخيص الحالية بدل شروط Riffusion القديمة.",
+    "officialSource": "https://blog.google/innovation-and-ai/models-and-research/google-labs/believe-flow-music-partnership/",
+    "sourceReviewedAt": "2026-11-24",
+    "currentName": "Google Flow Music (ex-Riffusion / ProducerAI)"
+  },
+  "soundverse": {
+    "fr": "Studio de création musicale dont Agent One aide à planifier et produire chansons, instrumentaux, pistes séparées et éléments visuels. Il accompagne les créateurs de podcasts et de contenus audiovisuels. Les droits dépendent de l’offre, des licences et de la contribution humaine ; vérifier les conditions avant diffusion.",
+    "en": "Music creation studio whose Agent One helps plan and produce songs, instrumentals, stems and visual assets. It supports podcast and audiovisual creators. Rights depend on the plan, licenses and human creative input; check terms before release.",
+    "ar": "استوديو للإبداع الموسيقي يساعد فيه Agent One على تخطيط وإنتاج الأغاني والمقطوعات الآلية والمسارات المنفصلة والعناصر البصرية. يدعم منشئي البودكاست والمحتوى السمعي البصري. تتوقف الحقوق على الاشتراك والتراخيص والمساهمة البشرية؛ ينبغي مراجعة الشروط قبل النشر.",
+    "officialSource": "https://www.soundverse.ai/about",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "moises": {
+    "fr": "Application pour musiciens combinant séparation des pistes, détection des accords, transcription et modification du tempo ou de la hauteur. Elle facilite l’apprentissage instrumental et la préparation de répétitions. Vérifier les accords détectés et les droits sur les enregistrements importés.",
+    "en": "Musician's workspace combining stem separation, chord detection, transcription and tempo or pitch adjustment. Useful for instrumental practice and rehearsals. Check detected chords and rights to uploaded recordings.",
+    "ar": "تطبيق للموسيقيين يجمع فصل المسارات الصوتية واكتشاف التآلفات والتفريغ وتعديل السرعة وطبقة الصوت. يفيد في تعلم العزف والتحضير للتدريبات. ينبغي مراجعة التآلفات المكتشفة وحقوق التسجيلات المرفوعة.",
+    "officialSource": "https://moises.ai/tools/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "landr": {
+    "fr": "Suite de production musicale réunissant mastering automatisé, effets audio, collaboration et distribution. Le mastering peut être effectué en ligne ou dans un logiciel audio compatible via un plugin. Vérifier les exigences des distributeurs, notamment pour les œuvres générées par IA.",
+    "en": "Music production suite combining automated mastering, audio effects, collaboration and distribution. Mastering is available online or through a compatible audio workstation plugin. Check distributor requirements, especially for AI-generated works.",
+    "ar": "مجموعة أدوات للإنتاج الموسيقي تجمع المعالجة النهائية الآلية والمؤثرات الصوتية والتعاون والتوزيع. يمكن إجراء الماسترينغ عبر الإنترنت أو إضافة متوافقة مع برنامج الصوت. ينبغي مراجعة شروط الموزعين، خصوصًا للأعمال المولدة بالذكاء الاصطناعي.",
+    "officialSource": "https://www.landr.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "kits-ai": {
+    "fr": "Studio audio orienté vers les musiciens, permettant de transformer des performances vocales, créer des modèles de voix et isoler des chants. Il facilite les maquettes et arrangements ; obtenir le consentement des personnes dont les voix sont utilisées et vérifier les licences.",
+    "en": "Music-focused audio studio for transforming vocal performances, creating voice models and isolating vocals. Useful for demos and arrangements; obtain consent from voice owners and check licensing terms.",
+    "ar": "استوديو صوتي للموسيقيين يتيح تحويل الأداء الغنائي وإنشاء نماذج للأصوات وعزل الغناء. يفيد في إعداد النماذج الأولية والتوزيع الموسيقي؛ ينبغي الحصول على موافقة أصحاب الأصوات والتحقق من التراخيص.",
+    "officialSource": "https://www.kits.ai/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "lalal-ai": {
+    "fr": "Outil de séparation de sources pour extraire voix, batterie, basse et autres instruments de fichiers audio ou vidéo. Il propose également le nettoyage de la parole et des intégrations API et VST. Des artefacts peuvent subsister ; vérifier les droits des fichiers traités.",
+    "en": "Source separation tool extracting vocals, drums, bass and other instruments from audio or video files. It also offers speech cleaning and API and VST integrations. Artifacts may remain; check rights to processed recordings.",
+    "ar": "أداة لفصل المصادر الصوتية واستخراج الغناء والطبول والباس وآلات أخرى من ملفات الصوت أو الفيديو. توفر أيضًا تنظيف الكلام وتكاملات API وVST. قد تبقى تشوهات صوتية؛ ينبغي التحقق من حقوق التسجيلات المعالجة.",
+    "officialSource": "https://www.lalal.ai/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "adobe-podcast": {
+    "fr": "Environnement web de traitement et d’enregistrement sonore. Enhance Speech réduit notamment le bruit et la réverbération des voix, tandis que Studio permet d’enregistrer et de monter des contenus. Pour les archives ou entretiens de recherche, conserver toujours le fichier original.",
+    "en": "Web-based audio recording and processing environment. Enhance Speech reduces voice noise and reverberation, while Studio supports recording and editing. For archives or research interviews, always retain the original recording.",
+    "ar": "بيئة ويب لتسجيل الصوت ومعالجته. تقلل ميزة Enhance Speech الضجيج والصدى في التسجيلات الكلامية، بينما يتيح Studio التسجيل والتحرير. عند معالجة الأرشيف أو المقابلات البحثية ينبغي الاحتفاظ دائمًا بالتسجيل الأصلي.",
+    "officialSource": "https://podcast.adobe.com/en/features",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "auphonic": {
+    "fr": "Service de postproduction audio automatisée proposant équilibrage des niveaux, réduction du bruit, traitement multipiste, normalisation du volume et transcription. Il convient aux podcasts et contenus pédagogiques. Vérifier les niveaux cibles et écouter le résultat avant publication.",
+    "en": "Automated audio postproduction service offering level balancing, noise reduction, multitrack processing, loudness normalization and transcription. Useful for podcasts and educational content. Check target levels and audition outputs before publishing.",
+    "ar": "خدمة للمعالجة الصوتية اللاحقة الآلية توفر موازنة المستويات وتقليل الضجيج ومعالجة المسارات المتعددة وتوحيد شدة الصوت والتفريغ النصي. تناسب البودكاست والمواد التعليمية. ينبغي التحقق من المستويات المستهدفة والاستماع إلى النتائج قبل النشر.",
+    "officialSource": "https://auphonic.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "podcastle": {
+    "fr": "Podcastle a adopté le nom Async le 28 janvier 2026. La plateforme réunit désormais des outils de production audio et vidéo, de montage et de génération vocale assistés par IA. Consulter le produit actuel et vérifier les modalités de migration et d’accès aux fonctions utilisées.",
+    "en": "Podcastle rebranded as Async on January 28, 2026. The platform combines AI-assisted audio and video production, editing and voice generation. Consult the current product and check migration and feature access requirements.",
+    "ar": "أصبح اسم Podcastle هو Async في 28 يناير 2026. تجمع المنصة أدوات إنتاج الصوت والفيديو والتحرير وتوليد الأصوات بمساعدة الذكاء الاصطناعي. ينبغي الرجوع إلى المنتج الحالي والتحقق من شروط الانتقال وإتاحة الوظائف المطلوبة.",
+    "officialSource": "https://async.com/announcements/podcastle-is-now-async/",
+    "sourceReviewedAt": "2026-11-24",
+    "currentName": "Async (ex-Podcastle)"
+  },
+  "cleanvoice": {
+    "fr": "Outil de montage automatisé des podcasts permettant de réduire les bruits, hésitations, sons de bouche et silences prolongés. Il propose aussi transcription et synthèse. Vérifier que les coupes ne suppriment pas des éléments significatifs du discours, notamment dans les entretiens scientifiques.",
+    "en": "Automated podcast editing tool reducing noise, hesitations, mouth sounds and long pauses, with transcription and summarization. Check that edits do not remove meaningful speech elements, especially in research interviews.",
+    "ar": "أداة للتحرير الآلي للبودكاست تقلل الضجيج والترددات الكلامية وأصوات الفم وفترات الصمت الطويلة، وتوفر التفريغ والتلخيص. ينبغي التأكد من أن الحذف لا يزيل عناصر ذات دلالة من الخطاب، خصوصًا في المقابلات البحثية.",
+    "officialSource": "https://docs.cleanvoice.ai/docs/v2/configuration",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "wondercraft": {
+    "fr": "Studio multimédia assisté par IA réunissant création de podcasts, synthèse vocale, avatars et génération de vidéos à partir de scripts. Il convient notamment aux équipes de formation et de communication. Contrôler la fidélité des scripts et obtenir les autorisations relatives aux voix clonées.",
+    "en": "AI-assisted multimedia studio combining podcast creation, speech synthesis, avatars and script-based video generation. Useful for training and communication teams. Review script fidelity and obtain authorization for cloned voices.",
+    "ar": "استوديو متعدد الوسائط يجمع إنشاء البودكاست وتوليد الكلام والشخصيات الرقمية وإنتاج الفيديو من النصوص. يناسب فرق التدريب والتواصل. ينبغي مراجعة دقة النصوص والحصول على الأذونات اللازمة لاستنساخ الأصوات.",
+    "officialSource": "https://www.wondercraft.ai/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "alitu": {
+    "fr": "Plateforme de production de podcasts regroupant enregistrement, nettoyage automatique, montage par transcription et publication. Elle simplifie la réalisation d’épisodes sans expertise technique avancée. Relire la transcription et vérifier les coupures et les conditions d’hébergement.",
+    "en": "Podcast production platform combining recording, automatic cleanup, transcript-based editing and publishing. It simplifies episode production without advanced technical expertise. Review transcripts, edits and hosting terms.",
+    "ar": "منصة لإنتاج البودكاست تجمع التسجيل والتنظيف الآلي والتحرير عبر النص المفرغ والنشر. تسهّل إعداد الحلقات دون خبرة تقنية متقدمة. ينبغي مراجعة التفريغ النصي ومواضع الحذف وشروط الاستضافة.",
+    "officialSource": "https://alitu.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "ultimate-vocal-remover": {
+    "fr": "Logiciel de bureau à code source ouvert sous licence MIT, utilisant des réseaux neuronaux pour séparer les voix et instruments. Le traitement local facilite les expérimentations sans téléverser les fichiers. Vérifier les exigences matérielles et les licences des modèles sélectionnés.",
+    "en": "Open-source desktop software with MIT-licensed GUI code, using neural networks to separate vocals and instruments. Local processing supports experiments without uploading recordings. Check hardware requirements and selected model licenses.",
+    "ar": "برنامج مكتبي مفتوح المصدر تخضع شيفرة واجهته لترخيص MIT، ويستخدم الشبكات العصبية لفصل الغناء والآلات. تتيح المعالجة المحلية إجراء التجارب دون رفع التسجيلات. ينبغي مراجعة متطلبات الأجهزة وتراخيص النماذج المختارة.",
+    "officialSource": "https://github.com/anjok07/ultimatevocalremovergui",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "demucs": {
+    "fr": "Projet de séparation de sources musicales sous licence MIT permettant d’isoler notamment voix, batterie et basse. Le dépôt original de Meta a été archivé le 1er janvier 2025 et n’est plus maintenu. Utile pour des expériences reproductibles ; vérifier les dépendances et les éventuelles continuations communautaires.",
+    "en": "MIT-licensed music source separation project isolating vocals, drums and bass. Meta's original repository was archived on January 1, 2025 and is no longer maintained. Useful for reproducible experiments; check dependencies and community continuations.",
+    "ar": "مشروع لفصل المصادر الموسيقية بترخيص MIT يتيح عزل الغناء والطبول والباس. أُرشف مستودع Meta الأصلي في 1 يناير 2025 ولم يعد يخضع للصيانة. يفيد في التجارب القابلة لإعادة الإنتاج؛ ينبغي مراجعة التبعيات والمشاريع المجتمعية البديلة.",
+    "officialSource": "https://github.com/facebookresearch/demucs",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "opusclip": {
+    "fr": "Outil de montage assisté par IA qui extrait des séquences courtes de vidéos longues, les recadre et ajoute des sous-titres animés. Il facilite la réutilisation des conférences et podcasts. La documentation indique que les langues écrites de droite à gauche, dont l’arabe, ne sont actuellement pas prises en charge pour la transcription.",
+    "en": "AI video editor that extracts short clips from longer recordings, reframes them and adds animated captions. Useful for repurposing lectures and podcasts. Documentation states that right-to-left languages, including Arabic, are currently unsupported for transcription.",
+    "ar": "أداة مونتاج بالذكاء الاصطناعي تستخرج مقاطع قصيرة من الفيديوهات الطويلة وتعيد تأطيرها وتضيف ترجمات مكتوبة متحركة. تفيد في إعادة توظيف المحاضرات والبودكاست. تشير الوثائق إلى أن التفريغ النصي لا يدعم حاليًا اللغات المكتوبة من اليمين إلى اليسار، ومنها العربية.",
+    "officialSource": "https://www.opus.pro/tools/podcast-transcription",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "veed": {
+    "fr": "Éditeur vidéo en ligne réunissant enregistrement, montage, transcription et traduction des sous-titres. Plusieurs variantes de l’arabe sont prises en charge. Les sous-titres peuvent être intégrés à la vidéo ou téléchargés en SRT ou VTT selon l’offre ; vérifier la synchronisation et le rendu des textes arabes.",
+    "en": "Browser-based video editor combining recording, editing, transcription and subtitle translation. Several Arabic variants are supported. Captions can be embedded in video or downloaded as SRT or VTT depending on the plan; check timing and Arabic text rendering.",
+    "ar": "محرر فيديو عبر الويب يجمع التسجيل والمونتاج والتفريغ النصي وترجمة التعليقات المكتوبة. يدعم عدة تنويعات من العربية. يمكن دمج الترجمات في الفيديو أو تنزيلها بصيغ SRT وVTT بحسب الاشتراك؛ ينبغي مراجعة التزامن وطريقة عرض النص العربي.",
+    "officialSource": "https://support.veed.io/en/articles/6971225-languages-we-support-for-subtitle-generation-and-translation",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "wisecut": {
+    "fr": "Service de montage automatisé qui analyse la parole pour supprimer des silences et hésitations, produire des sous-titres et appliquer des recadrages. L’arabe figure parmi les langues prises en charge. Les téléchargements vidéo nécessitent une offre payante selon l’aide officielle ; contrôler les coupes avant export.",
+    "en": "Automated video editing service analyzing speech to remove pauses and fillers, create captions and apply framing changes. Arabic is listed as supported. Official help states video downloads require a paid plan; review cuts before exporting.",
+    "ar": "خدمة مونتاج آلي تحلل الكلام لحذف فترات الصمت والتردد وإنتاج الترجمات المكتوبة وتعديل التأطير. ترد العربية ضمن اللغات المدعومة. وفق مركز المساعدة يتطلب تنزيل الفيديو اشتراكًا مدفوعًا؛ ينبغي مراجعة مواضع القص قبل التصدير.",
+    "officialSource": "https://help.wisecut.video/article/which-languages-does-wisecut-support",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "captions": {
+    "fr": "Application de création et de montage vidéo de la société Mirage, proposant des retouches assistées par IA, des sous-titres, des séquences d’illustration et des commandes textuelles. La traduction des sous-titres vers l’arabe est documentée. Distinguer traduction et transcription, dont les possibilités varient selon la plateforme.",
+    "en": "Video creation and editing app from Mirage, offering AI-assisted edits, captions, supplementary footage and text-based commands. Arabic subtitle translation is documented. Distinguish translation from transcription, whose availability varies by platform.",
+    "ar": "تطبيق لإنشاء الفيديو وتحريره من شركة Mirage، يوفّر تعديلات ذكية وترجمات مكتوبة ومقاطع توضيحية وأوامر نصية للمونتاج. تدعم الوثائق ترجمة التعليقات إلى العربية. ينبغي التمييز بين الترجمة والتفريغ النصي الذي تختلف إمكاناته بحسب المنصة.",
+    "officialSource": "https://captions.ai/help/guides/multilingual/international-subtitles",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "submagic": {
+    "fr": "Éditeur de vidéos courtes qui automatise le sous-titrage, les coupes, les zooms et l’ajout de séquences d’illustration. L’arabe figure dans la liste des langues de sous-titrage. Son agent Iris peut réaliser un premier montage ; relire les textes, vérifier les droits des médias et les conditions d’export.",
+    "en": "Short-form video editor automating captions, cuts, zooms and supplementary footage. Arabic is listed among caption languages. Its Iris agent can produce an initial edit; review text, media rights and export terms.",
+    "ar": "محرر للمقاطع القصيرة يؤتمت إضافة الترجمات المكتوبة والقص والتقريب وإدراج مقاطع توضيحية. ترد العربية ضمن لغات التعليقات المكتوبة. يستطيع وكيل Iris إعداد مونتاج أولي؛ ينبغي مراجعة النصوص وحقوق الوسائط وشروط التصدير.",
+    "officialSource": "https://care.submagic.co/en/article/what-languages-do-we-support-1odqila/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "filmora": {
+    "fr": "Logiciel de montage Wondershare associant édition sur timeline, effets et outils IA de transcription et de traduction vidéo. La reconnaissance de la parole prend en charge l’arabe, et certains outils de sous-titrage proposent un rendu de droite à gauche. Vérifier les crédits IA, les paramètres d’export et la lisibilité.",
+    "en": "Wondershare video editor combining timeline editing, effects and AI transcription and video translation. Speech-to-text supports Arabic, and selected caption tools offer right-to-left rendering. Check AI credits, export settings and readability.",
+    "ar": "برنامج مونتاج من Wondershare يجمع التحرير على الخط الزمني والمؤثرات وأدوات التفريغ وترجمة الفيديو بالذكاء الاصطناعي. يدعم تحويل الكلام إلى نص العربية، وتتيح بعض أدوات التعليقات العرض من اليمين إلى اليسار. ينبغي مراجعة أرصدة الاستخدام وإعدادات التصدير ووضوح النص.",
+    "officialSource": "https://filmora.wondershare.com/speech-to-text.html",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "riverside": {
+    "fr": "Studio d’enregistrement à distance pour entretiens, podcasts et vidéos, avec pistes séparées par participant et montage à partir de la transcription. L’arabe peut être transcrit, mais l’application mobile affiche les transcriptions de droite à gauche dans un flux de gauche à droite selon la documentation. Vérifier le rendu, conserver les originaux et obtenir le consentement des participants.",
+    "en": "Remote recording studio for interviews, podcasts and videos, offering separate participant tracks and transcript-based editing. Arabic transcription is available, but mobile displays right-to-left transcripts in a left-to-right flow according to documentation. Check rendering, retain originals and obtain participant consent.",
+    "ar": "استوديو للتسجيل عن بعد للمقابلات والبودكاست والفيديو، يتيح مسارات منفصلة للمشاركين والتحرير اعتمادًا على التفريغ النصي. يدعم تفريغ العربية، لكن التطبيق المحمول يعرض النصوص ذات الاتجاه من اليمين إلى اليسار ضمن تدفق من اليسار إلى اليمين وفق الوثائق. ينبغي مراجعة العرض والاحتفاظ بالأصول والحصول على موافقة المشاركين.",
+    "officialSource": "https://support.riverside.com/hc/en-us/articles/9173731506589-Which-languages-can-Riverside-transcribe",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "midjourney": {
+    "fr": "Service de création visuelle à partir de consignes et d’images de référence, avec variantes et éditeur permettant des modifications ciblées ou l’extension du cadre. Adapté à l’exploration artistique ; vérifier les droits des images importées et les conditions commerciales liées à l’abonnement.",
+    "en": "Visual creation service using prompts and reference images, with variations and an editor for targeted changes or canvas expansion. Useful for artistic exploration; check rights to imported images and plan-specific commercial terms.",
+    "ar": "خدمة للإبداع البصري انطلاقًا من التعليمات والصور المرجعية، توفر تنويعات ومحررًا للتعديلات الموضعية وتوسيع إطار الصورة. تناسب الاستكشاف الفني؛ ينبغي التحقق من حقوق الصور المستوردة وشروط الاستخدام التجاري بحسب الاشتراك.",
+    "officialSource": "https://docs.midjourney.com/hc/en-us/articles/32083055291277-Terms-of-Service",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "adobe-firefly": {
+    "fr": "Famille de modèles et environnement Adobe de génération et de transformation de contenus visuels, intégrés à des applications créatives. Les modèles Firefly sont entraînés notamment sur des contenus sous licence et du domaine public ; Adobe autorise les usages commerciaux des fonctions non bêta. Vérifier aussi les conditions des modèles partenaires.",
+    "en": "Adobe generative model family and creative environment for producing and transforming visual media, integrated with creative apps. Firefly models use licensed and public-domain training content among other sources; Adobe permits commercial use of non-beta features. Check partner model terms separately.",
+    "ar": "عائلة نماذج وبيئة إبداعية من Adobe لتوليد المحتوى البصري وتحويله، مدمجة في التطبيقات الإبداعية. دُرّبت نماذج Firefly على مواد مرخصة وأخرى من الملك العام ضمن مصادرها، وتسمح Adobe بالاستخدام التجاري للميزات غير التجريبية. ينبغي مراجعة شروط نماذج الشركاء أيضًا.",
+    "officialSource": "https://helpx.adobe.com/firefly/web/get-started/learn-the-basics/adobe-firefly-faq.html",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "stable-diffusion": {
+    "fr": "Famille de modèles de diffusion pour créer et modifier des images, avec déploiement local possible selon la version. Elle permet d’expérimenter avec des paramètres et interfaces personnalisables. La licence communautaire couvre certains modèles sous conditions de revenus ; vérifier la licence exacte de chaque poids et extension.",
+    "en": "Diffusion model family for image generation and editing, with local deployment available for selected versions. Supports experimentation with customizable parameters and interfaces. The Community License covers certain models subject to revenue conditions; check the exact license for each checkpoint and extension.",
+    "ar": "عائلة نماذج انتشار لتوليد الصور وتعديلها مع إمكانية التشغيل المحلي لبعض الإصدارات. تتيح التجريب بإعدادات وواجهات قابلة للتخصيص. يغطي الترخيص المجتمعي بعض النماذج وفق شروط مرتبطة بالإيرادات؛ ينبغي مراجعة الترخيص المحدد لكل نموذج وإضافة.",
+    "officialSource": "https://stability.ai/license",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "leonardo-ai": {
+    "fr": "Studio de création d’images et de vidéos avec génération à partir de texte ou d’images, retouche locale et canevas interactif. Une API permet d’intégrer ces fonctions à des projets. Les droits et la confidentialité diffèrent selon les offres gratuites, payantes et API ; consulter les conditions correspondantes.",
+    "en": "Image and video creation studio with text- or image-based generation, targeted editing and interactive canvas tools. An API supports integration into projects. Rights and privacy differ across free, paid and API plans; check the corresponding terms.",
+    "ar": "استوديو لإنشاء الصور والفيديوهات من النصوص أو الصور، مع التعديل الموضعي ولوحة عمل تفاعلية. تتيح واجهة برمجية دمج الوظائف في المشاريع. تختلف الحقوق والخصوصية بحسب الخطط المجانية والمدفوعة واستخدام الواجهة البرمجية؛ ينبغي مراجعة الشروط المناسبة.",
+    "officialSource": "https://www.leonardo.ai/ai-image-generator",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "ideogram": {
+    "fr": "Plateforme de génération et d’édition d’images particulièrement adaptée aux compositions contenant du texte, comme les affiches et couvertures. Studio permet de travailler sur une composition avec des calques. Vérifier systématiquement l’orthographe et le rendu des caractères arabes avant publication.",
+    "en": "Image generation and editing platform particularly suited to compositions containing text, such as posters and covers. Studio supports layered composition work. Always check spelling and Arabic character rendering before publication.",
+    "ar": "منصة لتوليد الصور وتحريرها تناسب خصوصًا التصاميم التي تتضمن نصوصًا كالملصقات والأغلفة. يتيح Studio العمل على التكوين باستخدام الطبقات. ينبغي التحقق من الإملاء وطريقة عرض الحروف العربية قبل النشر.",
+    "officialSource": "https://ideogram.ai/features/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "flux": {
+    "fr": "Famille de modèles de Black Forest Labs pour la génération et la retouche d’images, avec variantes accessibles par API et certaines à poids téléchargeables. Les modèles locaux offrent davantage de maîtrise du traitement, mais les licences commerciales diffèrent selon la variante. Ne pas assimiler poids accessibles et licence libre.",
+    "en": "Black Forest Labs image generation and editing model family, with API variants and selected downloadable weights. Local models offer greater processing control, but commercial licenses vary by variant. Accessible weights do not necessarily mean an unrestricted license.",
+    "ar": "عائلة نماذج من Black Forest Labs لتوليد الصور وتعديلها، تتوفر عبر واجهات برمجية مع إمكانية تنزيل أوزان بعض الإصدارات. تمنح النماذج المحلية تحكمًا أكبر في المعالجة، لكن التراخيص التجارية تختلف بحسب الإصدار. إتاحة الأوزان لا تعني بالضرورة حرية الاستخدام.",
+    "officialSource": "https://help.bfl.ai/articles/7655484417-what-flux-models-are-available",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "recraft": {
+    "fr": "Studio graphique de génération et de retouche d’images matricielles et vectorielles, avec création de fichiers SVG modifiables. Il convient notamment aux illustrations et aux identités visuelles. Les images créées gratuitement et celles produites sous abonnement ont des conditions de propriété et de confidentialité différentes.",
+    "en": "Graphic studio for generating and editing raster and vector images, including editable SVG files. Useful for illustration and branding. Images created on free and paid plans have different ownership and privacy terms.",
+    "ar": "استوديو للتصميم وتوليد الصور النقطية والمتجهية وتحريرها، بما فيها ملفات SVG القابلة للتعديل. يناسب الرسوم التوضيحية والهويات البصرية. تختلف شروط الملكية والخصوصية بين الصور المنشأة مجانًا وتلك المنتجة ضمن الاشتراكات المدفوعة.",
+    "officialSource": "https://www.recraft.ai/ai-image-generator",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "krea": {
+    "fr": "Suite créative réunissant plusieurs modèles de génération d’images et de vidéos, un canevas réactif en temps réel et des outils d’agrandissement et de retouche. Elle permet de comparer des approches visuelles dans une même interface. Les détails ajoutés par amélioration ne doivent pas être considérés comme des informations documentaires originales.",
+    "en": "Creative suite combining multiple image and video models, a responsive real-time canvas and enhancement and editing tools. It enables visual workflow comparison in one interface. Details added during enhancement should not be treated as original documentary information.",
+    "ar": "مجموعة إبداعية تجمع نماذج متعددة لتوليد الصور والفيديو ولوحة تفاعلية آنية وأدوات التكبير والتحرير. تتيح مقارنة أساليب العمل البصري ضمن واجهة واحدة. لا ينبغي اعتبار التفاصيل التي تضيفها أدوات التحسين معلومات توثيقية أصلية.",
+    "officialSource": "https://www.krea.ai/features/ai-image-generator",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "dreamstudio": {
+    "fr": "Ancienne interface de génération d’images de Stability AI, désormais nommée Brand Studio selon l’éditeur. La plateforme actuelle vise la production créative cohérente avec l’identité des marques et combine plusieurs modèles. Vérifier les modalités d’accès actuelles plutôt que de supposer le maintien de toutes les fonctions historiques.",
+    "en": "Former Stability AI image generation interface, now named Brand Studio according to the provider. The current platform targets brand-consistent creative production and combines several models. Check present access requirements rather than assuming all historical features remain available.",
+    "ar": "واجهة سابقة لتوليد الصور من Stability AI أصبحت تحمل اسم Brand Studio وفق المطوّر. تستهدف المنصة الحالية الإنتاج الإبداعي المتسق مع هوية العلامات وتجمع نماذج متعددة. ينبغي مراجعة شروط الإتاحة الحالية بدل افتراض استمرار جميع الوظائف القديمة.",
+    "officialSource": "https://kb.stability.ai/knowledge-base/-fraud-alert-identifying-genuine-dream-studio-transactions-and-reporting-fraud",
+    "sourceReviewedAt": "2026-11-24",
+    "currentName": "Brand Studio (ex-DreamStudio)"
+  },
+  "artbreeder": {
+    "fr": "Atelier d’expérimentation visuelle associant Splicer 2 pour mélanger et modifier des images, Composer pour combiner images et texte, et Collager pour assembler des éléments graphiques. Adapté aux variations de personnages et compositions ; vérifier les droits des références et les paramètres de partage.",
+    "en": "Visual experimentation workspace combining Splicer 2 for blending and editing images, Composer for combining images and text, and Collager for assembling graphics. Useful for character and composition variations; check reference rights and sharing settings.",
+    "ar": "ورشة للتجريب البصري تجمع Splicer 2 لمزج الصور وتعديلها وComposer للجمع بين الصور والنصوص وCollager لتركيب العناصر الرسومية. تناسب تنويعات الشخصيات والتكوينات؛ ينبغي مراجعة حقوق المراجع وإعدادات المشاركة.",
+    "officialSource": "https://www.artbreeder.com/tools",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "microsoft-designer": {
+    "fr": "Application Microsoft de création et de retouche de visuels à partir de descriptions, destinée notamment aux illustrations et communications personnelles. La documentation précise que l’offre Designer avec compte Microsoft personnel est réservée aux usages non commerciaux. Vérifier les conditions des intégrations Microsoft 365 séparément.",
+    "en": "Microsoft application for generating and editing visuals from descriptions, aimed at illustrations and personal communications. Documentation states that Designer with a personal Microsoft account is licensed for non-commercial use. Check Microsoft 365 integration terms separately.",
+    "ar": "تطبيق من Microsoft لإنشاء العناصر البصرية وتحريرها انطلاقًا من الأوصاف، موجه خصوصًا للرسوم والتواصل الشخصي. توضح الوثائق أن استخدام Designer بحساب Microsoft شخصي مخصص للأغراض غير التجارية. ينبغي مراجعة شروط التكامل مع Microsoft 365 بصورة مستقلة.",
+    "officialSource": "https://support.microsoft.com/en-us/designer/frequently-asked-questions-about-microsoft-designer",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "runway": {
+    "fr": "Studio de production audiovisuelle générative combinant création de vidéos à partir de textes ou d’images et transformation de séquences existantes. Gen-4.5 permet de guider le mouvement, le cadrage et la progression temporelle. Vérifier la continuité visuelle entre les plans et les droits des références.",
+    "en": "Generative audiovisual studio combining text-to-video, image-to-video and editing of existing footage. Gen-4.5 supports guidance of motion, framing and temporal progression. Review continuity between shots and rights to reference material.",
+    "ar": "استوديو للإنتاج السمعي البصري التوليدي يجمع إنشاء الفيديو من النصوص والصور وتعديل المقاطع الموجودة. يتيح Gen-4.5 توجيه الحركة والتأطير والتطور الزمني. ينبغي مراجعة الاتساق البصري بين اللقطات وحقوق المواد المرجعية.",
+    "officialSource": "https://help.runwayml.com/hc/en-us/articles/46974685288467-Creating-with-Gen-4-5",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "pika": {
+    "fr": "Atelier de génération vidéo à partir de descriptions et de références multimédias, avec plusieurs modèles et outils créatifs. Les entrées acceptées varient selon le modèle choisi. Adapté aux animations courtes et aux essais visuels ; contrôler la cohérence des mouvements et les conditions d’utilisation.",
+    "en": "Video generation workspace using descriptions and multimedia references, with multiple models and creative tools. Supported inputs vary by selected model. Useful for short animations and visual experiments; check motion consistency and usage terms.",
+    "ar": "ورشة لتوليد الفيديو من الأوصاف والمراجع متعددة الوسائط، تضم نماذج وأدوات إبداعية مختلفة. تختلف المدخلات المدعومة بحسب النموذج المختار. تناسب الرسوم المتحركة القصيرة والتجارب البصرية؛ ينبغي مراجعة اتساق الحركة وشروط الاستخدام.",
+    "officialSource": "https://creation.pika.art/apps/create-video",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "luma-dream-machine": {
+    "fr": "Studio de création vidéo de Luma AI proposant des générations à partir d’images ou de texte et des transformations vidéo. Ray3 introduit des références de personnages et des images clés pour guider la continuité. Tester les transitions et la fidélité aux références avant montage final.",
+    "en": "Luma AI video creation studio offering image- or text-based generation and video transformation. Ray3 introduces character references and keyframes to guide continuity. Test transitions and reference fidelity before final editing.",
+    "ar": "استوديو لإنشاء الفيديو من Luma AI يتيح التوليد من الصور أو النصوص وتحويل الفيديو. يوفر Ray3 مراجع للشخصيات وإطارات مفتاحية لتوجيه الاستمرارية البصرية. ينبغي اختبار الانتقالات ومدى الالتزام بالمراجع قبل المونتاج النهائي.",
+    "officialSource": "https://lumalabs.ai/ray3",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "kling-ai": {
+    "fr": "Famille de modèles et plateforme de génération d’images et de vidéos, avec création à partir de descriptions et de références visuelles. Certaines intégrations proposent un contrôle du mouvement guidé par une vidéo de référence. Les fonctionnalités et conditions d’accès varient selon le modèle et le fournisseur.",
+    "en": "Image and video generation platform and model family using descriptions and visual references. Selected integrations offer motion control guided by reference footage. Features and access conditions vary by model and provider.",
+    "ar": "منصة وعائلة نماذج لتوليد الصور والفيديو من الأوصاف والمراجع البصرية. توفر بعض التكاملات تحكمًا في الحركة بالاستناد إلى فيديو مرجعي. تختلف الوظائف وشروط الوصول بحسب النموذج ومزود الخدمة.",
+    "officialSource": "https://app.klingai.com/",
+    "sourceReviewedAt": "2026-11-24",
+    "supportingSource": "https://help.runwayml.com/hc/en-us/articles/50280558448147-Creating-with-Kling-3-0-Motion-Control"
+  },
+  "hailuo-ai": {
+    "fr": "Service de MiniMax pour générer des séquences vidéo à partir de texte ou d’images. Certains modèles acceptent des images initiale et finale ou une référence de personnage pour mieux guider le mouvement. Vérifier la stabilité des sujets et signaler les reconstitutions fictives.",
+    "en": "MiniMax service generating video sequences from text or images. Selected models accept start and end frames or character references to guide movement. Check subject stability and label fictional reconstructions.",
+    "ar": "خدمة من MiniMax لتوليد مقاطع الفيديو من النصوص أو الصور. تقبل بعض النماذج إطاري البداية والنهاية أو مرجعًا للشخصية لتوجيه الحركة. ينبغي مراجعة ثبات العناصر وتوضيح أن المشاهد المعاد تصورها تخيلية.",
+    "officialSource": "https://www.minimax.io/news/minimax-hailuo-02-start-end-frames-feature-is-now-live",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "sora": {
+    "fr": "Ancienne plateforme de génération vidéo d’OpenAI, conservée à titre documentaire. Les applications et le service web ont été arrêtés le 26 avril 2026, puis l’API le 24 septembre 2026. L’aide officielle décrit les modalités d’export des anciens contenus, sous réserve de disponibilité. Ne pas recommander pour de nouveaux projets.",
+    "en": "Former OpenAI video generation platform retained for historical reference. Web and app access ended on April 26, 2026, followed by API discontinuation on September 24, 2026. Official help describes export options for existing content, subject to availability. Not recommended for new projects.",
+    "ar": "منصة سابقة لتوليد الفيديو من OpenAI تُحفظ لأغراض التوثيق التاريخي. توقفت التطبيقات وخدمة الويب في 26 أبريل 2026، ثم الواجهة البرمجية في 24 سبتمبر 2026. يوضح مركز المساعدة الرسمي خيارات تصدير المحتوى السابق رهناً بالإتاحة. لا يُنصح بها للمشاريع الجديدة.",
+    "officialSource": "https://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "haiper": {
+    "fr": "Ancien service de génération de courtes vidéos à partir de textes et d’images. Le site officiel ne fournit plus de contenu exploitable lors de la revue du 24 novembre 2026 ; des sources secondaires signalent la disparition de l’application grand public. La fermeture définitive n’a pas été confirmée par une annonce officielle consultable.",
+    "en": "Former service for generating short videos from text and images. Its official website provided no readable content during the November 24, 2026 review; secondary sources report the disappearance of the consumer app. Permanent closure was not confirmed by an accessible official announcement.",
+    "ar": "خدمة سابقة لتوليد فيديوهات قصيرة من النصوص والصور. لم يوفر موقعها الرسمي محتوى مقروءًا أثناء مراجعة 24 نوفمبر 2026، وتشير مصادر ثانوية إلى اختفاء التطبيق الموجه للجمهور. لم يتأكد الإغلاق النهائي من إعلان رسمي متاح.",
+    "officialSource": "https://haiper.ai/",
+    "sourceReviewedAt": "2026-11-24",
+    "supportingSource": "https://weusedthis.com/products/haiper"
+  },
+  "pixverse": {
+    "fr": "Plateforme de génération vidéo proposant des outils créatifs et une interface API pour intégrer la génération à des applications. Les paramètres, formats et modèles varient selon les points d’accès. Vérifier le résultat image par image, les droits des médias et les coûts de génération.",
+    "en": "Video generation platform offering creative tools and an API for integrating generation into applications. Settings, formats and models vary by endpoint. Review output frame by frame, media rights and generation costs.",
+    "ar": "منصة لتوليد الفيديو توفر أدوات إبداعية وواجهة برمجية لدمج التوليد في التطبيقات. تختلف الإعدادات والصيغ والنماذج بحسب نقطة الوصول. ينبغي مراجعة النتائج إطارًا بإطار وحقوق الوسائط وتكاليف التوليد.",
+    "officialSource": "https://docs.pixverse.ai/Getting-Started-41a3e99bf35080809e96f74177765b66",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "vidu": {
+    "fr": "Plateforme vidéo proposant la génération à partir de texte, d’images et de références multiples. Les références de sujets permettent de guider la continuité des personnages et des objets entre les plans. Une API est disponible ; vérifier la fidélité visuelle et les autorisations des personnes représentées.",
+    "en": "Video platform supporting text, image and multiple-reference generation. Subject references help guide character and object continuity across shots. An API is available; check visual fidelity and permissions from depicted people.",
+    "ar": "منصة فيديو تدعم التوليد من النصوص والصور والمراجع المتعددة. تساعد مراجع العناصر على توجيه اتساق الشخصيات والأشياء بين اللقطات. تتوفر واجهة برمجية؛ ينبغي مراجعة الدقة البصرية وأذونات الأشخاص الممثلين.",
+    "officialSource": "https://platform.vidu.com/docs/introduction",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "ltx-studio": {
+    "fr": "Environnement de production audiovisuelle reliant scénario, storyboard, génération d’images et de vidéos et montage sur timeline. Il aide à préparer les plans et à visualiser des séquences avant production. Distinguer le studio hébergé des modèles LTX distribués séparément et contrôler la cohérence narrative.",
+    "en": "Audiovisual production workspace connecting scripts, storyboards, image and video generation and timeline editing. Helps plan shots and visualize sequences before production. Distinguish the hosted studio from separately distributed LTX models and review narrative consistency.",
+    "ar": "بيئة للإنتاج السمعي البصري تربط السيناريو ولوحات القصة وتوليد الصور والفيديو والمونتاج على الخط الزمني. تساعد على تخطيط اللقطات وتصور المشاهد قبل الإنتاج. ينبغي التمييز بين الاستوديو المستضاف ونماذج LTX الموزعة بصورة مستقلة ومراجعة الاتساق السردي.",
+    "officialSource": "https://website.ltx.studio/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "wan-ai": {
+    "fr": "Famille de modèles vidéo d’Alibaba comprenant des versions hébergées et des modèles téléchargeables. Wan2.2 propose notamment génération depuis le texte ou l’image et animation guidée par l’audio selon la variante ; son dépôt est sous licence Apache 2.0. Vérifier les besoins matériels et la licence de chaque version.",
+    "en": "Alibaba video model family including hosted versions and downloadable models. Wan2.2 supports text- or image-based generation and audio-driven animation depending on the variant; its repository uses Apache 2.0. Check hardware requirements and each version’s license.",
+    "ar": "عائلة نماذج فيديو من Alibaba تشمل إصدارات مستضافة ونماذج قابلة للتنزيل. يدعم Wan2.2 التوليد من النص أو الصورة والتحريك الموجه بالصوت بحسب الإصدار، ويخضع مستودعه لترخيص Apache 2.0. ينبغي مراجعة متطلبات الأجهزة وترخيص كل إصدار.",
+    "officialSource": "https://github.com/Wan-Video/Wan2.2",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "meshy": {
+    "fr": "Plateforme de génération de modèles 3D texturés à partir de descriptions ou d’images, avec fonctions de remaillage, texturation et animation accessibles également par API. Les exports comprennent GLB, FBX, OBJ, USDZ et STL. Vérifier la topologie, les matériaux et les droits avant intégration dans une scène interactive ou une exposition virtuelle.",
+    "en": "Platform generating textured 3D models from prompts or images, with remeshing, texturing and animation tools also accessible through an API. Export formats include GLB, FBX, OBJ, USDZ and STL. Check topology, materials and usage rights before integrating assets into interactive scenes or virtual exhibitions.",
+    "ar": "منصة لتوليد نماذج ثلاثية الأبعاد مزودة بالخامات انطلاقًا من الأوصاف أو الصور، مع أدوات لإعادة بناء الشبكة وإضافة الخامات والتحريك متاحة أيضًا عبر واجهة برمجية. تشمل صيغ التصدير GLB وFBX وOBJ وUSDZ وSTL. ينبغي مراجعة بنية الشبكة والمواد وحقوق الاستخدام قبل إدماج النماذج في المشاهد التفاعلية أو المعارض الافتراضية.",
+    "officialSource": "https://docs.meshy.ai/en",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "tripo-ai": {
+    "fr": "Service de génération d’objets 3D à partir de textes et d’images, complété par des outils de conversion de formats et de traitement des maillages. Les exports GLB, FBX et OBJ facilitent l’intégration dans les moteurs 3D et les visualiseurs web. Vérifier les textures, l’échelle et la qualité géométrique avant publication.",
+    "en": "Service for generating 3D objects from text and images, complemented by format conversion and mesh processing tools. GLB, FBX and OBJ exports support integration into 3D engines and web viewers. Check textures, scale and geometry quality before publication.",
+    "ar": "خدمة لتوليد المجسمات ثلاثية الأبعاد من النصوص والصور، مع أدوات لتحويل الصيغ ومعالجة الشبكات الهندسية. تسهّل صيغ GLB وFBX وOBJ إدماج النماذج في المحركات ثلاثية الأبعاد وعارضات الويب. ينبغي مراجعة الخامات والمقياس وجودة الهندسة قبل النشر.",
+    "officialSource": "https://www.tripo3d.ai/help/getting-started/what-3d-file-formats-do-you-support",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "masterpiece-x": {
+    "fr": "Environnement de création d’objets, personnages et animaux en 3D à partir de descriptions textuelles. La documentation décrit un export natif GLB compatible avec des outils tels que Blender, Unity et Unreal Engine. Les options de partage et d’export privé doivent être vérifiées ; les modèles générés restent des créations interprétatives.",
+    "en": "Workspace for creating 3D objects, characters and animals from text descriptions. Documentation describes native GLB export compatible with tools such as Blender, Unity and Unreal Engine. Check sharing and private export options; generated models remain interpretive creations.",
+    "ar": "بيئة لإنشاء مجسمات وشخصيات وحيوانات ثلاثية الأبعاد من الأوصاف النصية. توضح الوثائق إمكانية التصدير بصيغة GLB المتوافقة مع أدوات مثل Blender وUnity وUnreal Engine. ينبغي مراجعة خيارات المشاركة والتصدير الخاص؛ وتظل النماذج المولدة إبداعات تفسيرية.",
+    "officialSource": "https://masterpiecex.com/faqs-masterpiecex",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "polycam": {
+    "fr": "Application de numérisation 3D permettant de reconstruire des objets et espaces par photogrammétrie, Gaussian Splatting et LiDAR sur les appareils compatibles. Les modes de capture produisent des représentations différentes et les formats d’export dépendent du mode et du forfait. Pour un usage patrimonial, conserver les photographies sources et vérifier les mesures et la fidélité géométrique.",
+    "en": "3D scanning application reconstructing objects and spaces through photogrammetry, Gaussian splatting and LiDAR on compatible devices. Capture modes produce different representations, and export formats depend on mode and plan. For heritage documentation, retain source photographs and verify measurements and geometric fidelity.",
+    "ar": "تطبيق للمسح ثلاثي الأبعاد يعيد بناء الأشياء والفضاءات باستخدام التصوير المساحي وتقنية Gaussian Splatting ومستشعر LiDAR على الأجهزة المتوافقة. تنتج أوضاع الالتقاط تمثيلات مختلفة، وتعتمد صيغ التصدير على الوضع والاشتراك. للتوثيق التراثي ينبغي الاحتفاظ بالصور الأصلية والتحقق من القياسات والدقة الهندسية.",
+    "officialSource": "https://learn.poly.cam/hc/en-us/articles/27425185907348-How-to-Use-Object-Mode",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "elicit": {
+    "fr": "Assistant de recherche proposant un parcours de revue systématique : recherche d’articles, sélection selon des critères, extraction structurée et synthèse. Les décisions d’inclusion et les données extraites doivent être contrôlées par les chercheurs et documentées pour assurer la reproductibilité.",
+    "en": "Research assistant with a systematic review workflow for paper discovery, criteria-based screening, structured extraction and synthesis. Researchers must verify inclusion decisions and extracted data and document them for reproducibility.",
+    "ar": "مساعد بحث يوفر مسارًا للمراجعة المنهجية يشمل البحث عن المقالات وفرزها وفق معايير محددة واستخراج البيانات المنظمة وتلخيصها. ينبغي للباحثين التحقق من قرارات الإدراج والبيانات المستخرجة وتوثيقها لضمان قابلية إعادة إنتاج البحث.",
+    "officialSource": "https://support.elicit.com/en/articles/14759154-systematic-reviews-in-elicit",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "consensus": {
+    "fr": "Moteur de recherche scientifique qui synthétise des publications pertinentes et renvoie vers les études sources. Le Consensus Meter visualise les réponses convergentes ou divergentes à certaines questions fermées. Cette distribution ne remplace ni une évaluation de la qualité méthodologique ni une méta-analyse.",
+    "en": "Scientific search engine synthesizing relevant publications with links to source studies. The Consensus Meter visualizes agreement or disagreement for selected yes-or-no questions. This distribution does not replace methodological quality assessment or meta-analysis.",
+    "ar": "محرك بحث علمي يلخص المنشورات ذات الصلة ويربط النتائج بالدراسات الأصلية. يعرض مقياس Consensus Meter مدى توافق الإجابات أو اختلافها في بعض الأسئلة المغلقة. لا يغني هذا التوزيع عن تقييم الجودة المنهجية أو التحليل التلوي.",
+    "officialSource": "https://help.consensus.app/en/articles/9922673-how-consensus-works",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "scite": {
+    "fr": "Plateforme d’analyse des citations qui présente les passages citants et les classe selon qu’ils soutiennent, mentionnent ou contestent une affirmation. Les Smart Citations aident à contextualiser la réception scientifique d’un article ; vérifier les passages originaux et ne pas assimiler une classification automatique à une évaluation de validité.",
+    "en": "Citation analysis platform displaying citing passages and classifying them as supporting, mentioning or contrasting a claim. Smart Citations help contextualize scholarly reception; inspect original passages and do not equate automated classifications with validity assessments.",
+    "ar": "منصة لتحليل الاستشهادات تعرض المقاطع المستشهِدة وتصنفها بحسب دعمها للادعاء أو ذكره أو معارضته. تساعد Smart Citations على فهم تلقي المقالة علميًا؛ ينبغي مراجعة المقاطع الأصلية وعدم اعتبار التصنيف الآلي تقييمًا لصحة النتائج.",
+    "officialSource": "https://scite.ai/features",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "semantic-scholar": {
+    "fr": "Moteur de recherche académique associé à un graphe de publications, auteurs et citations. Son API Academic Graph permet de récupérer des métadonnées et relations bibliographiques pour des analyses reproductibles. Vérifier la couverture disciplinaire, les identifiants, les doublons et les conditions d’accès aux données.",
+    "en": "Academic search engine backed by a graph of papers, authors and citations. Its Academic Graph API retrieves metadata and bibliographic relationships for reproducible analyses. Check disciplinary coverage, identifiers, duplicates and data access terms.",
+    "ar": "محرك بحث أكاديمي يستند إلى رسم بياني للمنشورات والمؤلفين والاستشهادات. تتيح واجهة Academic Graph استرجاع البيانات الوصفية والعلاقات الببليوغرافية للتحليلات القابلة لإعادة الإنتاج. ينبغي مراجعة التغطية التخصصية والمعرّفات والتكرارات وشروط الوصول إلى البيانات.",
+    "officialSource": "https://api.semanticscholar.org/api-docs",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "researchrabbit": {
+    "fr": "Outil de découverte bibliographique visuelle qui développe une recherche à partir d’articles de départ, d’auteurs et de publications apparentées. Il facilite l’exploration progressive d’un domaine et l’organisation des références. Compléter cette méthode par des recherches indépendantes pour limiter le biais des articles de départ.",
+    "en": "Visual literature discovery tool expanding searches from seed papers, authors and related publications. It supports iterative exploration and reference organization. Complement this approach with independent searches to limit seed-paper bias.",
+    "ar": "أداة للاكتشاف الببليوغرافي البصري توسّع البحث انطلاقًا من مقالات مرجعية ومؤلفين ومنشورات ذات صلة. تسهّل الاستكشاف التدريجي للمجال وتنظيم المراجع. ينبغي استكمالها بعمليات بحث مستقلة للحد من تحيز المقالات المرجعية.",
+    "officialSource": "https://www.researchrabbit.ai/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "connected-papers": {
+    "fr": "Outil cartographique qui rapproche les publications selon la cocitation et le couplage bibliographique. Le graphe représente une similarité de références, et non nécessairement des citations directes entre les articles. Utile pour explorer un domaine, sans prétendre couvrir toute sa littérature.",
+    "en": "Literature mapping tool connecting papers through co-citation and bibliographic coupling. Its graph represents reference-based similarity rather than necessarily direct citations between papers. Useful for exploring a field, without claiming exhaustive coverage.",
+    "ar": "أداة لرسم خرائط المنشورات اعتمادًا على الاستشهاد المشترك والاقتران الببليوغرافي. يمثل الرسم البياني التشابه القائم على المراجع وليس بالضرورة استشهادات مباشرة بين المقالات. تفيد في استكشاف المجال دون الادعاء بتغطية جميع أدبياته.",
+    "officialSource": "https://www.connectedpapers.com/about",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "litmaps": {
+    "fr": "Plateforme de cartographie bibliographique permettant d’explorer des publications à partir d’articles de référence et de suivre les nouvelles connexions pertinentes. Elle facilite la veille scientifique et la préparation des revues de littérature. Conserver les dates et critères de recherche et compléter les résultats par des bases spécialisées.",
+    "en": "Literature mapping platform exploring publications from seed papers and tracking relevant new connections. Useful for research monitoring and literature reviews. Record search dates and criteria and complement results with specialized databases.",
+    "ar": "منصة لرسم الخرائط الببليوغرافية تتيح استكشاف المنشورات من مقالات مرجعية ومتابعة الروابط الجديدة ذات الصلة. تسهّل اليقظة العلمية وإعداد مراجعات الأدبيات. ينبغي تسجيل تواريخ البحث ومعاييره واستكمال النتائج بقواعد بيانات متخصصة.",
+    "officialSource": "https://www.litmaps.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "scispace": {
+    "fr": "Environnement d’assistance à la recherche réunissant recherche d’articles, interrogation de PDF, revue de littérature, extraction de données et rédaction. L’ancien domaine Typeset redirige vers SciSpace. Vérifier les réponses et citations dans les documents sources et respecter les règles de confidentialité des manuscrits.",
+    "en": "Research workspace combining paper search, PDF questioning, literature review, data extraction and writing. The former Typeset domain redirects to SciSpace. Verify answers and citations in original documents and respect manuscript confidentiality requirements.",
+    "ar": "بيئة مساعدة للبحث تجمع البحث عن المقالات والاستفسار عن ملفات PDF ومراجعة الأدبيات واستخراج البيانات والكتابة. يعيد نطاق Typeset القديم التوجيه إلى SciSpace. ينبغي التحقق من الإجابات والاستشهادات في المستندات الأصلية واحترام سرية المخطوطات.",
+    "officialSource": "https://scispace.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "scholarcy": {
+    "fr": "Assistant de lecture qui transforme articles, livres et autres documents en fiches de synthèse interactives pour identifier les informations essentielles et organiser ses lectures. Les fiches facilitent le tri initial mais ne remplacent pas la lecture attentive des méthodes, résultats et limites.",
+    "en": "Reading assistant converting papers, books and other documents into interactive summary cards to identify key information and organize readings. Cards support initial screening but do not replace careful reading of methods, results and limitations.",
+    "ar": "مساعد للقراءة يحوّل المقالات والكتب وغيرها من المستندات إلى بطاقات تلخيص تفاعلية لاستخلاص المعلومات الأساسية وتنظيم القراءات. تسهّل البطاقات الفرز الأولي لكنها لا تغني عن القراءة الدقيقة للمنهج والنتائج والحدود.",
+    "officialSource": "https://www.scholarcy.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "explainpaper": {
+    "fr": "Assistant de lecture permettant de sélectionner un passage difficile dans un article importé et d’obtenir une explication simplifiée. Il aide à comprendre le vocabulaire spécialisé et les concepts complexes. Confronter les explications au texte original et aux définitions disciplinaires.",
+    "en": "Reading assistant allowing users to highlight difficult passages in uploaded papers and receive simplified explanations. Helps with specialist vocabulary and complex concepts. Compare explanations with the original text and disciplinary definitions.",
+    "ar": "مساعد للقراءة يتيح تحديد مقطع صعب في مقالة مرفوعة والحصول على شرح مبسط. يساعد على فهم المصطلحات المتخصصة والمفاهيم المعقدة. ينبغي مقارنة الشروح بالنص الأصلي والتعريفات المعتمدة في التخصص.",
+    "officialSource": "https://www.explainpaper.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "paperpal": {
+    "fr": "Assistant de rédaction scientifique proposant corrections linguistiques, reformulation, aide aux citations et contrôles de manuscrits. Il facilite la préparation éditoriale sans garantir l’acceptation par une revue. Vérifier chaque référence, préserver la voix de l’auteur et respecter les règles de divulgation de l’usage de l’IA.",
+    "en": "Academic writing assistant offering language correction, paraphrasing, citation assistance and manuscript checks. Supports editorial preparation without guaranteeing journal acceptance. Verify every reference, preserve authorial voice and follow AI-use disclosure rules.",
+    "ar": "مساعد للكتابة العلمية يقدم التصحيح اللغوي وإعادة الصياغة والمساعدة في الاستشهادات وفحص المخطوطات. يسهل الإعداد للنشر دون ضمان قبول المجلة. ينبغي التحقق من كل مرجع والحفاظ على أسلوب المؤلف واحترام قواعد الإفصاح عن استخدام الذكاء الاصطناعي.",
+    "officialSource": "https://paperpal.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "jenni-ai": {
+    "fr": "Espace de rédaction académique associant bibliothèque de sources, suggestions de texte et insertion de citations. Il aide à structurer une argumentation à partir de références choisies. Contrôler l’adéquation de chaque citation à l’affirmation et ne pas déléguer l’analyse scientifique ni la responsabilité d’auteur.",
+    "en": "Academic writing workspace combining a source library, text suggestions and citation insertion. Helps structure arguments from selected references. Check that each citation supports its claim and retain responsibility for scientific analysis and authorship.",
+    "ar": "مساحة للكتابة الأكاديمية تجمع مكتبة للمصادر واقتراحات نصية وإدراج الاستشهادات. تساعد على بناء الحجة استنادًا إلى مراجع مختارة. ينبغي التحقق من ملاءمة كل استشهاد للادعاء وعدم تفويض التحليل العلمي أو مسؤولية التأليف.",
+    "officialSource": "https://jenni.ai/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "humata": {
+    "fr": "Assistant documentaire permettant d’interroger plusieurs fichiers, de comparer des passages et de générer des synthèses avec renvois aux sources. Une API est proposée pour intégrer ces fonctions. Vérifier chaque citation dans le document original et les conditions de traitement des données sensibles.",
+    "en": "Document assistant for querying multiple files, comparing passages and generating summaries with source references. An API supports integration. Verify each citation in the original document and check sensitive-data processing terms.",
+    "ar": "مساعد وثائقي يتيح الاستفسار عن ملفات متعددة ومقارنة المقاطع وإعداد ملخصات مع إحالات إلى المصادر. تتوفر واجهة برمجية لدمج هذه الوظائف. ينبغي التحقق من كل إحالة في المستند الأصلي وشروط معالجة البيانات الحساسة.",
+    "officialSource": "https://www.humata.ai/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "notebooklm": {
+    "fr": "Assistant documentaire de Google, également désigné Gemini Notebook dans l’aide actuelle, permettant d’interroger des sources importées et de produire notes, synthèses audio et cartes mentales. Les citations renvoient à des passages des sources sélectionnées. Vérifier les extraits et la confidentialité des documents avant partage.",
+    "en": "Google document assistant, also called Gemini Notebook in current help, for querying imported sources and creating notes, audio summaries and mind maps. Citations point to passages in selected sources. Verify excerpts and document privacy before sharing.",
+    "ar": "مساعد وثائقي من Google يُسمى أيضًا Gemini Notebook في وثائق المساعدة الحالية، يتيح الاستفسار عن المصادر المستوردة وإنتاج الملاحظات والملخصات الصوتية والخرائط الذهنية. تحيل الاستشهادات إلى مقاطع من المصادر المحددة. ينبغي مراجعة المقتطفات وخصوصية المستندات قبل المشاركة.",
+    "officialSource": "https://support.google.com/gemininotebook/answer/16179559",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "socratic": {
+    "fr": "Ancienne application de Google permettant de photographier une question scolaire pour obtenir des explications et des ressources pédagogiques. Son adresse historique redirige vers Google Lens ; le service autonome n’est plus proposé selon les sources disponibles. La date officielle de fermeture reste non confirmée. Privilégier les explications progressives plutôt que la copie de solutions.",
+    "en": "Former Google learning app that used photos of homework questions to find explanations and educational resources. Its historical address redirects to Google Lens; available sources indicate that the standalone app is no longer offered. An official closure date remains unconfirmed. Favor step-by-step learning over copying answers.",
+    "ar": "تطبيق تعليمي سابق من Google كان يتيح تصوير الأسئلة المدرسية للحصول على شروح وموارد تعليمية. يعيد عنوانه التاريخي التوجيه إلى Google Lens، وتشير المصادر المتاحة إلى توقف التطبيق المستقل. لم يتأكد تاريخ الإغلاق رسميًا. ينبغي تفضيل التعلم التدريجي على نسخ الحلول.",
+    "officialSource": "https://support.google.com/socratic/answer/9413931",
+    "supportingSource": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "languagetool": {
+    "fr": "Correcteur multilingue d’orthographe, de grammaire et de style, issu d’un projet à code source ouvert. Il propose un éditeur web et des intégrations dont les conditions varient selon l’offre. L’arabe figure parmi les langues gratuites prises en charge, mais la couverture des règles varie selon la langue. Vérifier les suggestions en contexte.",
+    "en": "Multilingual spelling, grammar and style checker originating from an open-source project. It provides a web editor and integrations whose terms vary by plan. Arabic is supported in the free version, but rule coverage varies by language. Review suggestions in context.",
+    "ar": "مدقق متعدد اللغات للإملاء والنحو والأسلوب نشأ من مشروع مفتوح المصدر. يوفر محررًا عبر الويب وتكاملات تختلف شروطها بحسب الاشتراك. تندرج العربية ضمن اللغات المدعومة مجانًا، لكن تغطية القواعد تختلف باختلاف اللغة. ينبغي مراجعة الاقتراحات في سياقها.",
+    "officialSource": "https://help.languagetool.org/hc/en-us/articles/39254526141463-What-languages-does-LanguageTool-support",
+    "supportingSource": "https://dev.languagetool.org/languages",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "deepl": {
+    "fr": "Service de traduction automatique de textes et fichiers, avec glossaires pour harmoniser la terminologie, notamment en arabe. Les formats et options varient selon l’offre. Vérifier la fidélité des traductions spécialisées et la mise en page des documents RTL.",
+    "en": "Machine translation service for text and files, with glossaries for terminology consistency, including Arabic. Formats and options vary by plan. Review specialist translations and RTL document layout.",
+    "ar": "خدمة للترجمة الآلية للنصوص والملفات، مع مسارد لتوحيد المصطلحات بما فيها العربية. تختلف الصيغ والخيارات بحسب الاشتراك. ينبغي مراجعة دقة الترجمات المتخصصة وتنسيق المستندات المكتوبة من اليمين إلى اليسار.",
+    "officialSource": "https://support.deepl.com/hc/en-us/articles/360021634540-About-the-glossary",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "google-translate": {
+    "fr": "Service de traduction de textes, images, paroles et pages web, selon l’appareil utilisé. La traduction de fichiers sur ordinateur accepte notamment DOCX, PDF, PPTX et XLSX, avec des limites pour les pages numérisées. Vérifier les expressions idiomatiques et les passages techniques.",
+    "en": "Translation service for text, images, speech and websites, depending on device. Desktop document translation supports DOCX, PDF, PPTX and XLSX, with limitations for scanned pages. Review idioms and technical passages.",
+    "ar": "خدمة لترجمة النصوص والصور والكلام وصفحات الويب بحسب الجهاز المستخدم. تدعم ترجمة المستندات على الحاسوب صيغ DOCX وPDF وPPTX وXLSX مع قيود تتعلق بالصفحات الممسوحة ضوئيًا. ينبغي مراجعة التعابير الاصطلاحية والمقاطع التقنية.",
+    "officialSource": "https://support.google.com/translate/answer/2534559",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "microsoft-translator": {
+    "fr": "Service Microsoft de traduction multilingue, dont les fonctions professionnelles Azure Translator proposent des API pour textes et documents. L’arabe est pris en charge ; certaines fonctions personnalisées varient selon la langue. Vérifier la conservation de la structure et les règles de confidentialité.",
+    "en": "Microsoft multilingual translation service whose Azure Translator offering provides text and document APIs. Arabic is supported; customization features vary by language. Check structure preservation and privacy requirements.",
+    "ar": "خدمة ترجمة متعددة اللغات من Microsoft تتيح عبر Azure Translator واجهات برمجية لترجمة النصوص والمستندات. تدعم العربية، وتختلف إمكانات التخصيص بحسب اللغة. ينبغي التحقق من الحفاظ على البنية ومتطلبات الخصوصية.",
+    "officialSource": "https://learn.microsoft.com/en-us/azure/ai-services/translator/language-support",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "reverso": {
+    "fr": "Service de traduction et de recherche linguistique dont Reverso Context présente des mots et expressions dans des exemples bilingues, notamment anglais-arabe. Utile pour comparer les emplois contextualisés ; vérifier la pertinence et la fiabilité des exemples plutôt que les reprendre automatiquement.",
+    "en": "Translation and language research service whose Reverso Context displays words and expressions in bilingual examples, including English-Arabic. Useful for comparing contextual usage; assess example relevance and reliability before reuse.",
+    "ar": "خدمة للترجمة والبحث اللغوي تعرض فيها Reverso Context الكلمات والتعابير ضمن أمثلة ثنائية اللغة، منها الإنجليزية والعربية. تفيد في مقارنة الاستعمالات السياقية؛ ينبغي تقييم ملاءمة الأمثلة وموثوقيتها قبل إعادة استخدامها.",
+    "officialSource": "https://context.reverso.net/translation/english-arabic/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "smartcat": {
+    "fr": "Plateforme de traduction collaborative associant traduction assistée par IA, mémoires de traduction et glossaires. Les segments validés peuvent être réutilisés pour harmoniser les projets. Organiser la validation humaine des termes et vérifier les conditions de traitement des contenus confidentiels.",
+    "en": "Collaborative translation platform combining AI-assisted translation, translation memories and glossaries. Approved segments can be reused across projects. Organize human terminology review and check confidential-content processing terms.",
+    "ar": "منصة للترجمة التعاونية تجمع الترجمة المدعومة بالذكاء الاصطناعي وذاكرات الترجمة والمسارد. يمكن إعادة استخدام المقاطع المعتمدة لتوحيد المشاريع. ينبغي تنظيم المراجعة البشرية للمصطلحات والتحقق من شروط معالجة المحتوى السري.",
+    "officialSource": "https://help.smartcat.com/leveraging-smartcat-linguistic-assets/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "phrase": {
+    "fr": "Environnement de gestion de traduction et de localisation destiné aux projets multilingues. Les mémoires réutilisent les segments traduits tandis que les bases terminologiques harmonisent les concepts et les termes. Définir les étapes de validation et contrôler la cohérence des versions livrées.",
+    "en": "Translation and localization management environment for multilingual projects. Memories reuse translated segments while term bases harmonize concepts and terminology. Define review stages and check consistency across delivered versions.",
+    "ar": "بيئة لإدارة الترجمة والتوطين للمشاريع متعددة اللغات. تعيد ذاكرات الترجمة استخدام المقاطع المترجمة، بينما توحّد قواعد المصطلحات المفاهيم والتعابير. ينبغي تحديد مراحل المراجعة والتحقق من اتساق الإصدارات المسلّمة.",
+    "officialSource": "https://support.phrase.com/hc/en-us/articles/5709688865692-Translation-Memories-Overview",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "lokalise": {
+    "fr": "Plateforme de localisation de logiciels et sites web organisée autour de clés de traduction, de langues et de statuts. Les captures d’écran liées aux clés donnent du contexte aux traducteurs ; les glossaires facilitent la cohérence. Tester les interfaces RTL et les variables après intégration.",
+    "en": "Software and website localization platform organized around translation keys, languages and statuses. Screenshots linked to keys provide translator context; glossaries improve consistency. Test RTL interfaces and placeholders after integration.",
+    "ar": "منصة لتوطين البرمجيات ومواقع الويب تعتمد مفاتيح الترجمة واللغات وحالات الإنجاز. توفر لقطات الشاشة المرتبطة بالمفاتيح سياقًا للمترجمين، وتساعد المسارد على الاتساق. ينبغي اختبار واجهات الاتجاه من اليمين إلى اليسار والمتغيرات بعد الدمج.",
+    "officialSource": "https://developers.lokalise.com/docs/software-localization-workflow",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "crowdin": {
+    "fr": "Plateforme collaborative de localisation de logiciels et contenus, avec éditeur de traduction, mémoires, glossaires et API. Les équipes peuvent distinguer les propositions automatiques des traductions révisées. Préserver les variables et balises et tester les fichiers localisés avant livraison.",
+    "en": "Collaborative software and content localization platform with translation editor, memories, glossaries and API. Teams can distinguish automated suggestions from reviewed translations. Preserve placeholders and tags and test localized files before delivery.",
+    "ar": "منصة تعاونية لتوطين البرمجيات والمحتوى، تضم محرر ترجمة وذاكرات ومسارد وواجهة برمجية. تستطيع الفرق التمييز بين الاقتراحات الآلية والترجمات المراجعة. ينبغي الحفاظ على المتغيرات والوسوم واختبار الملفات الموطّنة قبل التسليم.",
+    "officialSource": "https://support.crowdin.com/online-editor/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "deepl-write": {
+    "fr": "Assistant de révision rédactionnelle distinct du traducteur DeepL, proposant des corrections et des reformulations ainsi que des réglages de style et de ton selon la langue et la plateforme. Ne pas présumer que toutes les langues de DeepL Translator sont disponibles dans Write.",
+    "en": "Writing revision assistant distinct from DeepL Translator, offering corrections, rephrasing and style or tone controls depending on language and platform. Do not assume that all DeepL Translator languages are available in Write.",
+    "ar": "مساعد لمراجعة الكتابة يختلف عن مترجم DeepL، ويقترح التصحيحات وإعادة الصياغة وضبط الأسلوب والنبرة بحسب اللغة والمنصة. لا ينبغي افتراض أن جميع لغات DeepL Translator متاحة في Write.",
+    "officialSource": "https://support.deepl.com/hc/en-us/articles/6318834492700-About-DeepL-Write",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "grammarly": {
+    "fr": "Assistant de révision de textes qui propose des corrections, des améliorations de clarté, de concision et de ton. Il accompagne notamment la rédaction professionnelle et académique. Vérifier que les suggestions préservent le sens et le style de l’auteur ; les fonctions varient selon l’offre.",
+    "en": "Writing revision assistant offering corrections and suggestions for clarity, concision and tone. Useful in professional and academic writing. Ensure suggestions preserve meaning and authorial voice; features vary by plan.",
+    "ar": "مساعد لمراجعة النصوص يقترح التصحيحات وتحسين الوضوح والإيجاز والنبرة. يفيد في الكتابة المهنية والأكاديمية. ينبغي التأكد من حفاظ الاقتراحات على المعنى وأسلوب المؤلف؛ تختلف الوظائف بحسب الاشتراك.",
+    "officialSource": "https://www.grammarly.com/blog/writing-process/writing-strategies/",
+    "sourceReviewedAt": "2026-11-24"
   }
 }
