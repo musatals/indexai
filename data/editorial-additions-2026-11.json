@@ -3322,5 +3322,90 @@
     "ar": "خدمة لتوليد الكلام عبر واجهة OpenAI البرمجية تحوّل النص إلى صوت، مع اختيار الأصوات وضوابط تختلف بحسب النموذج. تناسب تطبيقات القراءة والسرد. ينبغي اختبار نطق النصوص العربية وإعلام المستخدمين بأن الصوت مولّد بالذكاء الاصطناعي.",
     "officialSource": "https://developers.openai.com/api/docs/guides/text-to-speech",
     "sourceReviewedAt": "2026-11-24"
+  },
+  "suno": {
+    "fr": "Studio de génération de chansons et de musique à partir de descriptions, de paroles et de références créatives. Les offres payantes donnent accès à des droits commerciaux selon les conditions de téléchargement applicables ; les créations gratuites sont réservées aux usages non commerciaux. Vérifier les droits sur les éléments importés.",
+    "en": "Music and song generation studio using descriptions, lyrics and creative inputs. Paid plans grant commercial rights subject to applicable download terms; free creations are for non-commercial use. Check rights to uploaded material.",
+    "ar": "استوديو لتوليد الأغاني والموسيقى من الأوصاف والكلمات والمدخلات الإبداعية. تمنح الاشتراكات المدفوعة حقوق استخدام تجاري وفق شروط التنزيل المعمول بها، بينما تقتصر إبداعات الخطة المجانية على الاستخدام غير التجاري. ينبغي التحقق من حقوق المواد المرفوعة.",
+    "officialSource": "https://help.suno.com/en/articles/9601665",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "udio": {
+    "fr": "Plateforme de création musicale assistée par IA permettant de générer et retravailler des chansons. Depuis le partenariat avec Universal Music Group, la documentation de transition indique que les téléchargements audio, vidéo et de pistes séparées sont désactivés. Vérifier les conditions actuelles avant tout projet nécessitant des exports.",
+    "en": "AI-assisted music platform for generating and refining songs. Following the Universal Music Group partnership, transition documentation states that audio, video and stem downloads are disabled. Check current conditions before starting projects requiring exports.",
+    "ar": "منصة لإنشاء الأغاني وتطويرها بمساعدة الذكاء الاصطناعي. تشير وثائق المرحلة الانتقالية بعد الشراكة مع Universal Music Group إلى تعطيل تنزيل الصوت والفيديو والمسارات الصوتية المنفصلة. ينبغي التحقق من الشروط الحالية قبل بدء مشروع يتطلب تصدير الملفات.",
+    "officialSource": "https://help.udio.com/en/articles/12683565-changes-associated-with-the-universal-music-group-umg-partnership",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "aiva": {
+    "fr": "Assistant de composition musicale permettant de générer des morceaux dans différents styles, notamment pour la bande sonore de projets créatifs. Les droits d’utilisation et de propriété revendiqués par le service varient selon l’abonnement, notamment Pro. Vérifier le contrat et la protection juridique effective des compositions.",
+    "en": "Music composition assistant generating pieces in different styles, including soundtracks for creative projects. Usage rights and ownership provisions vary by subscription, including Pro. Check contractual terms and actual legal protection of compositions.",
+    "ar": "مساعد للتأليف الموسيقي يولّد مقطوعات بأساليب متعددة، منها الموسيقى التصويرية للمشاريع الإبداعية. تختلف حقوق الاستخدام والملكية المنصوص عليها في الخدمة بحسب الاشتراك، بما في ذلك Pro. ينبغي مراجعة العقد والحماية القانونية الفعلية للمقطوعات.",
+    "officialSource": "https://www.aiva.ai/t/ai-music-generation/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "soundraw": {
+    "fr": "Générateur de musique pour vidéos, podcasts et projets artistiques. Les licences distinguent l’intégration d’une musique de fond et la distribution de chansons modifiées par des musiciens. Certaines exploitations musicales nécessitent des contributions créatives supplémentaires et une formule adaptée.",
+    "en": "Music generator for videos, podcasts and artistic projects. Licensing distinguishes background music integration from distribution of songs modified by musicians. Certain music releases require additional creative contributions and an appropriate plan.",
+    "ar": "مولّد موسيقى للفيديو والبودكاست والمشاريع الفنية. تميّز التراخيص بين إدراج الموسيقى الخلفية وتوزيع الأغاني التي يعدّلها الموسيقيون. تتطلب بعض أشكال الاستغلال الموسيقي مساهمات إبداعية إضافية واشتراكًا مناسبًا.",
+    "officialSource": "https://soundraw.io/license",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "beatoven-ai": {
+    "fr": "Générateur de musique d’accompagnement pour vidéos, jeux, podcasts et autres contenus. La licence autorise, sous conditions, la synchronisation des morceaux avec un projet ; elle ne doit pas être assimilée à un droit de distribution indépendante sur les plateformes musicales.",
+    "en": "Background music generator for videos, games, podcasts and other content. Its conditional license allows synchronization of tracks with a project; this does not amount to independent music distribution rights on streaming platforms.",
+    "ar": "مولّد موسيقى مصاحبة للفيديو والألعاب والبودكاست ومحتويات أخرى. يسمح الترخيص بشروط محددة بمزامنة المقطوعات مع المشروع، ولا يعادل حق توزيع الموسيقى بشكل مستقل على منصات البث الموسيقي.",
+    "officialSource": "https://www.beatoven.ai/tos",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "boomy": {
+    "fr": "Plateforme de création et de personnalisation de morceaux accessible aux débutants. Selon la documentation, Boomy conserve par défaut les droits d’auteur revendiqués sur les créations, mais les abonnements Creator et Pro accordent des droits commerciaux aux titres téléchargés pendant l’abonnement. Vérifier les conditions des distributeurs.",
+    "en": "Music creation and customization platform accessible to beginners. According to its documentation, Boomy retains claimed copyright by default, while Creator and Pro memberships grant commercial rights to tracks downloaded during membership. Check distributor requirements.",
+    "ar": "منصة لإنشاء المقطوعات الموسيقية وتخصيصها تناسب المبتدئين. وفق وثائق الخدمة تحتفظ Boomy افتراضيًا بحقوق المؤلف التي تطالب بها، بينما تمنح اشتراكات Creator وPro حقوقًا تجارية للمقطوعات المنزلة أثناء الاشتراك. ينبغي مراجعة شروط الموزعين.",
+    "officialSource": "https://support.boomy.com/hc/en-us/articles/14581348824973-Who-owns-the-copyright-to-the-songs-I-create-with-Boomy",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "loudly": {
+    "fr": "Environnement de production musicale combinant génération de morceaux, remix, séparation de pistes et outils de finition audio. Des licences non exclusives couvrent certains usages créatifs ; la distribution sur les services musicaux est soumise à des conditions spécifiques. Vérifier les droits sur les pistes importées.",
+    "en": "Music production environment combining track generation, remixing, stem separation and audio finishing. Non-exclusive licenses cover eligible creative uses; distribution to music services has specific conditions. Check rights to imported tracks.",
+    "ar": "بيئة للإنتاج الموسيقي تجمع توليد المقطوعات وإعادة المزج وفصل المسارات وأدوات المعالجة النهائية للصوت. تغطي التراخيص غير الحصرية استخدامات إبداعية محددة، ويخضع التوزيع عبر خدمات الموسيقى لشروط خاصة. ينبغي التحقق من حقوق المسارات المستوردة.",
+    "officialSource": "https://www.loudly.com/faq",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "mubert": {
+    "fr": "Service de génération de musique instrumentale d’accompagnement à partir de descriptions et de durées choisies. Mubert Render propose des licences adaptées à différents projets. Les téléchargements gratuits sont non monétisés et nécessitent une attribution ; vérifier les restrictions de redistribution musicale indépendante.",
+    "en": "Instrumental background music generation service using prompts and selected durations. Mubert Render offers licenses for different projects. Free downloads are non-monetized and require attribution; check restrictions on standalone music redistribution.",
+    "ar": "خدمة لتوليد الموسيقى الآلية المصاحبة انطلاقًا من الأوصاف والمدد المحددة. يوفر Mubert Render تراخيص لمشاريع مختلفة. تقتصر التنزيلات المجانية على المشاريع غير المدرة للدخل وتتطلب الإسناد؛ ينبغي مراجعة قيود إعادة توزيع الموسيقى بصورة مستقلة.",
+    "officialSource": "https://mubert.com/render/faq",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "stable-audio": {
+    "fr": "Famille de modèles de Stability AI pour créer musique instrumentale, ambiances et effets sonores à partir de texte ou d’audio. Stable Audio 3.0 comprend des modèles à poids accessibles. Les conditions du service hébergé et celles des modèles auto-hébergés diffèrent ; vérifier la licence exacte et les seuils applicables.",
+    "en": "Stability AI model family for generating instrumental music, ambience and sound effects from text or audio. Stable Audio 3.0 includes open-weight models. Hosted and self-hosted licensing differs; check the exact license and applicable thresholds.",
+    "ar": "عائلة نماذج من Stability AI لتوليد الموسيقى الآلية والأجواء والمؤثرات الصوتية من النص أو الصوت. تتضمن Stable Audio 3.0 نماذج ذات أوزان متاحة. تختلف شروط الخدمة المستضافة عن تراخيص النماذج المستضافة ذاتيًا؛ ينبغي مراجعة الترخيص المحدد والحدود المطبقة.",
+    "officialSource": "https://stability.ai/explainers/can-ai-generated-music-be-used-commercially",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "musicgen": {
+    "fr": "Famille de modèles de Meta destinée à la génération musicale à partir de descriptions textuelles, avec certaines variantes guidées par une mélodie. Elle peut servir à l’expérimentation locale et à la recherche. Les poids de musicgen-small sont sous CC BY-NC 4.0 : vérifier la licence de chaque modèle avant utilisation commerciale.",
+    "en": "Meta music generation model family using text descriptions, with some melody-conditioned variants. Suitable for local experimentation and research. The musicgen-small weights use CC BY-NC 4.0: check each model’s license before commercial use.",
+    "ar": "عائلة نماذج من Meta لتوليد الموسيقى من الأوصاف النصية، وتضم إصدارات تسترشد بلحن. تناسب التجارب المحلية والبحث. تخضع أوزان musicgen-small لترخيص CC BY-NC 4.0؛ ينبغي مراجعة ترخيص كل نموذج قبل الاستخدام التجاري.",
+    "officialSource": "https://huggingface.co/facebook/musicgen-small",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "riffusion": {
+    "fr": "Référence historique de génération musicale par IA ayant évolué vers ProducerAI, intégré à Google Labs, puis renommé Google Flow Music. Le produit actuel accompagne la composition et la transformation musicale. Consulter les modalités d’accès et de licence du service actuel plutôt que celles de Riffusion.",
+    "en": "Historical AI music generation project that evolved into ProducerAI, joined Google Labs and was renamed Google Flow Music. The current product supports music creation and transformation. Consult the current service’s access and licensing terms rather than historical Riffusion terms.",
+    "ar": "مرجع تاريخي لتوليد الموسيقى بالذكاء الاصطناعي تطوّر إلى ProducerAI وانضم إلى Google Labs ثم أصبح Google Flow Music. يدعم المنتج الحالي التأليف وتعديل الموسيقى. ينبغي الرجوع إلى شروط الوصول والترخيص الحالية بدل شروط Riffusion القديمة.",
+    "officialSource": "https://blog.google/innovation-and-ai/models-and-research/google-labs/believe-flow-music-partnership/",
+    "sourceReviewedAt": "2026-11-24",
+    "currentName": "Google Flow Music (ex-Riffusion / ProducerAI)"
+  },
+  "soundverse": {
+    "fr": "Studio de création musicale dont Agent One aide à planifier et produire chansons, instrumentaux, pistes séparées et éléments visuels. Il accompagne les créateurs de podcasts et de contenus audiovisuels. Les droits dépendent de l’offre, des licences et de la contribution humaine ; vérifier les conditions avant diffusion.",
+    "en": "Music creation studio whose Agent One helps plan and produce songs, instrumentals, stems and visual assets. It supports podcast and audiovisual creators. Rights depend on the plan, licenses and human creative input; check terms before release.",
+    "ar": "استوديو للإبداع الموسيقي يساعد فيه Agent One على تخطيط وإنتاج الأغاني والمقطوعات الآلية والمسارات المنفصلة والعناصر البصرية. يدعم منشئي البودكاست والمحتوى السمعي البصري. تتوقف الحقوق على الاشتراك والتراخيص والمساهمة البشرية؛ ينبغي مراجعة الشروط قبل النشر.",
+    "officialSource": "https://www.soundverse.ai/about",
+    "sourceReviewedAt": "2026-11-24"
   }
 }
