@@ -1571,5 +1571,185 @@
     "ar": "منصة لإدارة بيانات الصور والفيديو ووسمها وإعداد مجموعات البيانات لتدريب نماذج الرؤية الحاسوبية.",
     "officialSource": "https://docs.supervisely.com/",
     "sourceReviewedAt": "2026-11-24"
+  },
+  "lexis-ai": {
+    "fr": "Anciennement Lexis+ AI, Lexis+ avec Protégé est la plateforme de recherche, analyse et rédaction juridique de LexisNexis, dont les résultats doivent être vérifiés par un professionnel.",
+    "en": "Formerly Lexis+ AI, Lexis+ with Protégé is LexisNexis's legal research, analysis and drafting platform; professional review remains necessary.",
+    "ar": "كانت تعرف باسم Lexis+ AI وأصبحت Lexis+ with Protégé، وهي منصة من LexisNexis للبحث القانوني والتحليل وصياغة الوثائق مع ضرورة مراجعة النتائج من مختص.",
+    "officialSource": "https://www.lexisnexis.com/en-us/products/lexis-plus-protege.page",
+    "sourceReviewedAt": "2026-11-24",
+    "currentName": "Lexis+ with Protégé"
+  },
+  "vlex-vincent-ai": {
+    "fr": "Assistant de recherche juridique Vincent AI associé à vLex, qui fait partie de Clio depuis 2025, pour analyser des sources et assister le travail documentaire des juristes.",
+    "en": "Vincent AI is vLex's legal research assistant; vLex joined Clio in 2025. It supports source analysis and legal research workflows.",
+    "ar": "فينسنت إيه آي مساعد للبحث القانوني من vLex التي انضمت إلى Clio عام 2025، لدراسة المصادر القانونية ودعم عمل المختصين.",
+    "officialSource": "https://www.clio.com/about/press/clio-completes-landmark-1b-vlex-acquisition-series-g-5b-valuation/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "spellbook": {
+    "fr": "Assistant de contrats juridiques permettant aux professionnels de revoir, annoter et rédiger des clauses à partir des documents et de consignes.",
+    "en": "Legal contract assistant for reviewing, annotating and drafting clauses from documents and instructions.",
+    "ar": "مساعد للعقود القانونية يتيح للمختصين مراجعة البنود والتعليق عليها وصياغة مسوداتها بالاعتماد على المستندات والتعليمات.",
+    "officialSource": "https://help.spellbook.legal/en/articles/9926203-spellbook-overview",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "luminance": {
+    "fr": "Plateforme d'analyse et de gestion de contrats juridiques, avec recherche documentaire, révision et automatisation de certaines étapes du cycle contractuel.",
+    "en": "Legal contract analysis and lifecycle platform with document search, review and automation of selected contracting steps.",
+    "ar": "منصة لتحليل العقود القانونية وإدارتها تتيح البحث في المستندات والمراجعة وأتمتة بعض مراحل دورة العقود.",
+    "officialSource": "https://www.luminance.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "lawgeex": {
+    "fr": "Solution historiquement dédiée à la revue automatisée de contrats suivant des critères prédéfinis ; disponibilité et périmètre actuels à vérifier auprès de l'éditeur.",
+    "en": "Historically a contract review automation solution based on predefined policies; current availability and scope require vendor verification.",
+    "ar": "حل اشتهر بأتمتة مراجعة العقود وفق سياسات محددة؛ ويجب التحقق من توافر الخدمة ووظائفها الحالية لدى الجهة الناشرة.",
+    "officialSource": "https://www.lawgeex.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "evisort": {
+    "fr": "Technologie d'intelligence contractuelle intégrée aux produits Workday : extraction d'informations et recherche dans les accords, sous le nom Workday Contract Intelligence.",
+    "en": "Contract intelligence technology integrated into Workday products for extracting information and searching agreements, now Workday Contract Intelligence.",
+    "ar": "تقنية لتحليل العقود أصبحت مدمجة في منتجات Workday لاستخراج المعلومات والبحث في الاتفاقيات، تحت اسم Workday Contract Intelligence.",
+    "officialSource": "https://www.workday.com/en-us/products/contract-management/contract-intelligence.html",
+    "sourceReviewedAt": "2026-11-24",
+    "currentName": "Workday Contract Intelligence"
+  },
+  "ironclad-ai": {
+    "fr": "Fonctions d'IA de la plateforme de gestion du cycle de vie des contrats Ironclad pour rechercher, extraire, réviser et préparer des accords.",
+    "en": "AI features of Ironclad contract lifecycle management for searching, extracting, reviewing and preparing agreements.",
+    "ar": "وظائف ذكاء اصطناعي ضمن منصة Ironclad لإدارة دورة العقود، تشمل البحث واستخراج المعلومات ومراجعة الاتفاقيات وإعدادها.",
+    "officialSource": "https://support.ironcladapp.com/hc/en-us/articles/12947738534935-Ironclad-AI-Overview",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "contractpodai": {
+    "fr": "Ancien nom de Leah depuis janvier 2026 : plateforme d'IA agentique pour les contrats, les opérations juridiques et les processus d'entreprise.",
+    "en": "Renamed Leah in January 2026: an agentic AI platform for contracts, legal operations and enterprise workflows.",
+    "ar": "الاسم السابق لشركة Leah منذ يناير 2026، وهي منصة لوكلاء الذكاء الاصطناعي لإدارة العقود والعمليات القانونية وسير عمل المؤسسات.",
+    "officialSource": "https://leahai.com/press-releases/contractpodai-becomes-leah/",
+    "sourceReviewedAt": "2026-11-24",
+    "currentName": "Leah"
+  },
+  "paxton-ai": {
+    "fr": "Assistant de recherche et de rédaction juridique pour analyser des dossiers, explorer des sources et élaborer des projets de documents sous contrôle humain.",
+    "en": "Legal research and drafting assistant for analyzing case files, exploring legal sources and preparing documents for human review.",
+    "ar": "مساعد للبحث القانوني وصياغة الوثائق يتيح تحليل الملفات والاطلاع على المصادر وإعداد مسودات تخضع لمراجعة بشرية.",
+    "officialSource": "https://www.paxton.ai/research",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "evenup": {
+    "fr": "Plateforme d'IA destinée aux cabinets traitant des dossiers de dommages corporels pour organiser les pièces et préparer des demandes d'indemnisation.",
+    "en": "AI platform for personal injury law firms to organize case materials and prepare settlement demands.",
+    "ar": "منصة ذكاء اصطناعي لمكاتب قضايا الإصابات الشخصية لتنظيم ملفات القضايا وإعداد مطالبات التعويض.",
+    "officialSource": "https://www.evenuplaw.com/products/demands/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "casetext": {
+    "fr": "Ancienne entreprise de recherche juridique acquise par Thomson Reuters en 2023 ; ses technologies et CoCounsel sont intégrés à l'offre juridique de Thomson Reuters.",
+    "en": "Legal research company acquired by Thomson Reuters in 2023; its CoCounsel technology became part of Thomson Reuters legal products.",
+    "ar": "شركة بحث قانوني سابقة استحوذت عليها Thomson Reuters عام 2023؛ وأصبحت تقنياتها ومساعد CoCounsel جزءًا من حلولها القانونية.",
+    "officialSource": "https://www.thomsonreuters.com/en/press-releases/2023/august/thomson-reuters-completes-acquisition-of-casetext-inc",
+    "sourceReviewedAt": "2026-11-24",
+    "currentName": "Thomson Reuters CoCounsel"
+  },
+  "brex": {
+    "fr": "Plateforme de cartes et de gestion des dépenses d'entreprise avec automatisations et fonctions d'IA ; Brex a été acquise par Capital One en avril 2026.",
+    "en": "Business card and spend management platform with automations and AI features; Brex was acquired by Capital One in April 2026.",
+    "ar": "منصة لبطاقات الشركات وإدارة مصروفاتها مع وظائف أتمتة وذكاء اصطناعي؛ استحوذت عليها Capital One في أبريل 2026.",
+    "officialSource": "https://www.capitalone.com/about/newsroom/capital-one-completes-acquisition-of-brex/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "vic-ai": {
+    "fr": "Plateforme d'automatisation des comptes fournisseurs utilisant l'IA pour lire, rapprocher et orienter les factures et leurs validations.",
+    "en": "AI-powered accounts payable platform for extracting, matching and routing invoices through approval workflows.",
+    "ar": "منصة لأتمتة الحسابات الدائنة باستخدام الذكاء الاصطناعي لقراءة الفواتير ومطابقتها وتوجيهها خلال مسارات الموافقة.",
+    "officialSource": "https://www.vic.ai/blog/q1-2026-product-release-expanding-autonomy-across-the-ap-lifecycle",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "dext": {
+    "fr": "Outil de collecte et de traitement de justificatifs comptables pour extraire des données de factures et reçus et préparer leur intégration dans la comptabilité.",
+    "en": "Accounting document collection and processing tool for extracting invoice and receipt details and preparing bookkeeping entries.",
+    "ar": "أداة لجمع المستندات المحاسبية ومعالجتها واستخراج بيانات الفواتير والإيصالات وإعدادها للإدخال المحاسبي.",
+    "officialSource": "https://dext.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "botkeeper": {
+    "fr": "Outil de tenue comptable assistée par IA pour les cabinets, avec automatisation des écritures, rapprochements et contrôles.",
+    "en": "AI-assisted bookkeeping software for accounting firms with automated entries, reconciliation and review workflows.",
+    "ar": "برنامج لمسك الدفاتر المحاسبية بمساعدة الذكاء الاصطناعي لمكاتب المحاسبة، يتضمن أتمتة القيود والمطابقة والمراجعة.",
+    "officialSource": "https://www.botkeeper.com/blog/botkeeper-infinite-new-releases-new-pages-smarter-recs-faster-flows",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "floqast": {
+    "fr": "Logiciel de clôture financière et de gestion des processus comptables, avec automatisations et fonctions d'aide à la réconciliation.",
+    "en": "Financial close and accounting workflow software with automation and reconciliation support.",
+    "ar": "برنامج لإدارة الإقفال المالي والعمليات المحاسبية مع أتمتة المهام ودعم تسوية الحسابات.",
+    "officialSource": "https://floqast.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "blackline": {
+    "fr": "Plateforme de transformation des processus de clôture, de rapprochement et d'automatisation comptable pour les directions financières.",
+    "en": "Finance operations platform for account reconciliation, close management and accounting automation.",
+    "ar": "منصة لأتمتة العمليات المالية والمحاسبية، بما فيها مطابقة الحسابات وإدارة الإقفال المالي.",
+    "officialSource": "https://www.blackline.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "highradius": {
+    "fr": "Plateforme d'automatisation des processus financiers, notamment du recouvrement, des comptes clients et de la gestion de trésorerie.",
+    "en": "Finance process automation platform for collections, accounts receivable and treasury operations.",
+    "ar": "منصة لأتمتة العمليات المالية، خاصة تحصيل المستحقات والحسابات المدينة وإدارة الخزينة.",
+    "officialSource": "https://www.highradius.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "kavout": {
+    "fr": "Service de recherche sur les marchés utilisant des indicateurs et classements calculés par IA pour explorer des actions, sans constituer un conseil d'investissement.",
+    "en": "Market research service using AI-derived indicators and stock rankings to explore equities; not individualized investment advice.",
+    "ar": "خدمة للبحث في الأسواق تستخدم مؤشرات وتصنيفات مستندة إلى الذكاء الاصطناعي لاستكشاف الأسهم، ولا تقدم نصيحة استثمارية شخصية.",
+    "officialSource": "https://www.kavout.com/top-ai-stock-picks",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "finchat": {
+    "fr": "Ancien nom de Fiscal.ai, plateforme de recherche financière rassemblant données d'entreprises, résultats, documents et analyses assistées par IA.",
+    "en": "Formerly FinChat, Fiscal.ai is a financial research platform combining company data, earnings, documents and AI-assisted analysis.",
+    "ar": "الاسم السابق لمنصة Fiscal.ai للبحث المالي التي تجمع بيانات الشركات ونتائجها ومستنداتها وتحليلات بمساعدة الذكاء الاصطناعي.",
+    "officialSource": "https://fiscal.ai/blog/series-a-announcement/",
+    "sourceReviewedAt": "2026-11-24",
+    "currentName": "Fiscal.ai"
+  },
+  "fiscalnote": {
+    "fr": "Plateforme de veille sur les politiques publiques, les évolutions réglementaires et législatives et leurs conséquences pour les organisations.",
+    "en": "Policy and regulatory intelligence platform tracking legislation, government activity and organizational impacts.",
+    "ar": "منصة لرصد السياسات العامة والتطورات التشريعية والتنظيمية وتحليل آثارها على المؤسسات.",
+    "officialSource": "https://fiscalnote.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "hebbia": {
+    "fr": "Espace de travail de recherche et d'analyse documentaire utilisant l'IA pour interroger de grands corpus et structurer les réponses, notamment en finance.",
+    "en": "AI research workspace for querying large document collections and structuring findings, notably in finance.",
+    "ar": "مساحة عمل للبحث وتحليل المستندات باستخدام الذكاء الاصطناعي لاستجواب مجموعات كبيرة من الملفات وتنظيم النتائج، خصوصًا في القطاع المالي.",
+    "officialSource": "https://www.hebbia.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "zest-ai": {
+    "fr": "Plateforme de modèles et d'analyse de données de crédit destinée aux organismes prêteurs, notamment pour soutenir la décision de souscription.",
+    "en": "Credit modeling and analytics platform for lenders supporting underwriting decisions.",
+    "ar": "منصة لبناء نماذج الائتمان وتحليل بياناته لمؤسسات الإقراض، بهدف دعم قرارات منح القروض.",
+    "officialSource": "https://www.zest.ai/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "shift-technology": {
+    "fr": "Plateforme d'analyse des dossiers de sinistres et de détection de fraude dans l'assurance à l'aide de modèles d'intelligence artificielle.",
+    "en": "Insurance AI platform for claims analysis and fraud detection.",
+    "ar": "منصة ذكاء اصطناعي لتحليل ملفات مطالبات التأمين والكشف عن مؤشرات الاحتيال.",
+    "officialSource": "https://www.shift-technology.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "tractable": {
+    "fr": "Outils d'IA d'analyse d'images de véhicules et de biens endommagés pour accompagner l'examen de sinistres et l'estimation des réparations.",
+    "en": "AI image analysis tools for damaged vehicles and property, supporting claims review and repair assessment.",
+    "ar": "أدوات ذكاء اصطناعي لتحليل صور المركبات والممتلكات المتضررة لدعم مراجعة مطالبات التأمين وتقدير الإصلاحات.",
+    "officialSource": "https://tractable.ai/",
+    "sourceReviewedAt": "2026-11-24"
   }
 }
