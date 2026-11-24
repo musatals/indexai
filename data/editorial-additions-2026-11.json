@@ -3910,5 +3910,47 @@
     "ar": "مساعد لمراجعة النصوص يقترح التصحيحات وتحسين الوضوح والإيجاز والنبرة. يفيد في الكتابة المهنية والأكاديمية. ينبغي التأكد من حفاظ الاقتراحات على المعنى وأسلوب المؤلف؛ تختلف الوظائف بحسب الاشتراك.",
     "officialSource": "https://www.grammarly.com/blog/writing-process/writing-strategies/",
     "sourceReviewedAt": "2026-11-24"
+  },
+  "jasper": {
+    "fr": "Plateforme d’IA pour les équipes marketing, combinant agents spécialisés, gestion du ton de marque, guides stylistiques et base de connaissances interne. Elle aide à décliner des campagnes sur plusieurs canaux. Vérifier les affirmations commerciales et la cohérence des contenus avant diffusion.",
+    "en": "AI platform for marketing teams combining specialized agents, brand voice management, style guides and an internal knowledge base. It supports campaign adaptation across channels. Verify commercial claims and content consistency before publication.",
+    "ar": "منصة ذكاء اصطناعي لفرق التسويق تجمع الوكلاء المتخصصين وإدارة نبرة العلامة التجارية وأدلة الأسلوب وقاعدة المعرفة الداخلية. تساعد على تكييف الحملات مع قنوات متعددة. ينبغي التحقق من الادعاءات التجارية واتساق المحتوى قبل النشر.",
+    "officialSource": "https://www.jasper.ai/jasper-iq",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "rytr": {
+    "fr": "Assistant de rédaction proposant des modèles pour courriels, publications, publicités, descriptions de produits et sections d’articles. Il permet de préciser le contexte et le ton du texte. L’offre actuelle comprend aussi des fonctions de suivi relationnel. Vérifier les données utilisées et relire les messages avant envoi.",
+    "en": "Writing assistant with templates for emails, posts, advertisements, product descriptions and article sections. Users can specify context and tone. The current offering also includes relationship follow-up features. Check data usage and review messages before sending.",
+    "ar": "مساعد للكتابة يقدم قوالب للبريد الإلكتروني والمنشورات والإعلانات وأوصاف المنتجات وأجزاء المقالات. يتيح تحديد سياق النص ونبرته. يشمل العرض الحالي أيضًا وظائف لمتابعة العلاقات المهنية. ينبغي مراجعة استخدام البيانات والرسائل قبل إرسالها.",
+    "officialSource": "https://rytr.me/create-features/writing-use-cases",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "quillbot": {
+    "fr": "Suite d’assistance rédactionnelle regroupant reformulation, correction, synthèse et traduction. Les langues disponibles diffèrent selon la fonction : l’arabe figure dans le traducteur mais pas dans la liste officielle du reformulateur. Vérifier que les reformulations conservent le sens et les citations des textes sources.",
+    "en": "Writing assistance suite combining paraphrasing, grammar checking, summarization and translation. Supported languages vary by feature: Arabic is listed for the translator but not in the official paraphraser list. Ensure rewrites preserve meaning and source citations.",
+    "ar": "مجموعة أدوات للمساعدة في الكتابة تجمع إعادة الصياغة والتصحيح والتلخيص والترجمة. تختلف اللغات المتاحة بحسب الوظيفة؛ ترد العربية ضمن المترجم لكنها لا تظهر في القائمة الرسمية لأداة إعادة الصياغة. ينبغي التأكد من الحفاظ على المعنى والاستشهادات بالمصادر.",
+    "officialSource": "https://help.quillbot.com/hc/en-us/articles/4541525640727-What-languages-does-Quillbot-work-in",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "wordtune": {
+    "fr": "Assistant de reformulation permettant de modifier le ton, la clarté et la fluidité d’un texte, principalement en anglais. Il accepte notamment des entrées en arabe pour proposer une traduction reformulée en anglais. La génération dans d’autres langues n’est pas garantie ; vérifier la fidélité sémantique des suggestions.",
+    "en": "Rewriting assistant for adjusting tone, clarity and fluency, primarily in English. It accepts Arabic among input languages for translated English rewrites. Output in other languages is not guaranteed; verify semantic fidelity of suggestions.",
+    "ar": "مساعد لإعادة الصياغة يتيح تعديل النبرة والوضوح والسلاسة، خصوصًا باللغة الإنجليزية. يقبل نصوصًا عربية ضمن لغات الإدخال ليقترح ترجمة معاد صياغتها بالإنجليزية. لا يضمن توليد النصوص بلغات أخرى؛ ينبغي التحقق من أمانة المعنى في الاقتراحات.",
+    "officialSource": "https://support.wordtune.com/en/articles/5856755-translate-with-rewrite-which-languages-does-wordtune-support",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "sudowrite": {
+    "fr": "Atelier d’écriture créative destiné notamment aux romanciers, avec génération et révision de passages, planification narrative et Story Bible pour organiser personnages, univers et intrigue. Les suggestions servent de matière à retravailler ; préserver la cohérence du récit, la voix de l’auteur et l’originalité du manuscrit.",
+    "en": "Creative writing workspace for novelists, with passage generation and revision, narrative planning and a Story Bible for characters, setting and plot. Treat suggestions as material for revision; preserve narrative consistency, authorial voice and manuscript originality.",
+    "ar": "ورشة للكتابة الإبداعية موجهة خصوصًا للروائيين، تتيح توليد المقاطع ومراجعتها والتخطيط السردي وتنظيم الشخصيات والعالم والحبكة عبر Story Bible. ينبغي التعامل مع الاقتراحات كمادة قابلة للمراجعة والحفاظ على اتساق السرد وأسلوب المؤلف وأصالة المخطوط.",
+    "officialSource": "https://feedback.sudowrite.com/en/help/articles/1671191-what-is-story-bible",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "novelai": {
+    "fr": "Environnement de génération littéraire interactive permettant de poursuivre des récits et d’organiser les informations sur les personnages et univers dans un Lorebook. Les paramètres de contexte influencent les textes générés. Relire les passages pour contrôler la continuité et distinguer les créations fictives des faits documentés.",
+    "en": "Interactive literary generation environment for continuing stories and organizing character and world information in a Lorebook. Context settings influence generated text. Review passages for continuity and distinguish fictional creations from documented facts.",
+    "ar": "بيئة للتوليد الأدبي التفاعلي تتيح مواصلة القصص وتنظيم معلومات الشخصيات والعوالم في Lorebook. تؤثر إعدادات السياق في النصوص المولدة. ينبغي مراجعة المقاطع للتحقق من الاستمرارية والتمييز بين الإبداعات التخيلية والوقائع الموثقة.",
+    "officialSource": "https://docs.novelai.net/en/text/lorebook/",
+    "sourceReviewedAt": "2026-11-24"
   }
 }
