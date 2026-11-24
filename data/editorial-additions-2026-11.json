@@ -4015,5 +4015,48 @@
     "ar": "مجموعة أدوات لإنشاء المحتوى تجمع الكتابة المدعومة بالذكاء الاصطناعي والتصميم والفيديو وجدولة منشورات التواصل الاجتماعي. تساعد القوالب وموارد العلامة التجارية على تكييف الرسالة مع صيغ متعددة. ينبغي التحقق من حقوق الوسائط ومراجعة المنشورات المجدولة.",
     "officialSource": "https://simplified.com/ai-writer",
     "sourceReviewedAt": "2026-11-24"
+  },
+  "superhuman": {
+    "fr": "Assistant de messagerie pour Gmail et Outlook, proposant tri automatique, brouillons de réponses, recherche dans les échanges et suivi des conversations. Vérifier les autorisations accordées et relire les messages avant envoi.",
+    "en": "Email assistant for Gmail and Outlook offering automated triage, reply drafts, message search and conversation follow-up. Review granted permissions and check messages before sending.",
+    "ar": "مساعد للبريد الإلكتروني في Gmail وOutlook يتيح فرز الرسائل آليًا وإعداد مسودات الردود والبحث في المراسلات ومتابعة المحادثات. ينبغي مراجعة الصلاحيات الممنوحة والرسائل قبل إرسالها.",
+    "officialSource": "https://superhuman.com/mail",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "shortwave": {
+    "fr": "Client de messagerie doté d’un assistant IA capable de rechercher des informations dans les courriels et pièces jointes, synthétiser les échanges et préparer des réponses contextualisées. La profondeur de recherche dépend de l’offre ; vérifier les sources et la confidentialité.",
+    "en": "Email client with an AI assistant that searches messages and attachments, summarizes conversations and drafts contextual replies. Search depth depends on the plan; verify sources and privacy settings.",
+    "ar": "عميل بريد إلكتروني يضم مساعدًا ذكيًا للبحث في الرسائل والمرفقات وتلخيص المحادثات وإعداد ردود تستند إلى السياق. يعتمد نطاق البحث على الاشتراك؛ ينبغي التحقق من المصادر وإعدادات الخصوصية.",
+    "officialSource": "https://www.shortwave.com/docs/guides/ai-assistant/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "flowrite": {
+    "fr": "Ancien assistant de rédaction de courriels acquis par Maestro Labs en janvier 2025 et intégré à MailMaestro. Consulter le produit successeur pour connaître les fonctions de rédaction, de réponse et les modalités d’intégration à la messagerie.",
+    "en": "Former email writing assistant acquired by Maestro Labs in January 2025 and integrated into MailMaestro. Consult the successor product for current drafting, reply and email integration features.",
+    "ar": "مساعد سابق لكتابة البريد الإلكتروني استحوذت عليه Maestro Labs في يناير 2025 ودمجته في MailMaestro. ينبغي الرجوع إلى المنتج الحالي لمعرفة وظائف الصياغة والرد والتكامل مع البريد الإلكتروني.",
+    "officialSource": "https://www.maestrolabs.com/flowrite",
+    "sourceReviewedAt": "2026-11-24",
+    "currentName": "MailMaestro (ex-Flowrite)"
+  },
+  "adcreative-ai": {
+    "fr": "Plateforme de création publicitaire proposant génération de visuels et textes, variantes créatives et estimation de performances. Les scores prédictifs peuvent guider la sélection des annonces, mais ne remplacent pas les tests comparatifs ni les mesures réelles de conversion.",
+    "en": "Advertising creation platform offering visual and text generation, creative variants and performance estimates. Predictive scores can guide ad selection but do not replace comparative testing or actual conversion measurements.",
+    "ar": "منصة لإنشاء الإعلانات توفر توليد الصور والنصوص وتنويعات التصاميم وتقديرات الأداء. تساعد الدرجات التنبؤية في اختيار الإعلانات، لكنها لا تغني عن الاختبارات المقارنة وقياس التحويلات الفعلية.",
+    "officialSource": "https://help.adcreative.ai/en/articles/8885776-what-is-creative-scoring-ai-and-how-to-use-it",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "hootsuite-owlywriter": {
+    "fr": "Assistant rédactionnel intégré à Hootsuite pour préparer des légendes et idées de publications sociales, notamment autour d’événements du calendrier éditorial. Adapter le ton au public et contrôler les faits et les droits avant programmation.",
+    "en": "Writing assistant integrated into Hootsuite for drafting social media captions and post ideas, including editorial calendar events. Adapt tone to the audience and check facts and rights before scheduling.",
+    "ar": "مساعد للكتابة مدمج في Hootsuite لإعداد نصوص وأفكار منشورات الشبكات الاجتماعية، بما فيها المناسبات المدرجة في التقويم التحريري. ينبغي تكييف النبرة مع الجمهور والتحقق من الحقائق والحقوق قبل الجدولة.",
+    "officialSource": "https://help.hootsuite.com/s/article/create-and-schedule?language=en_US",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "lumen5": {
+    "fr": "Studio de création vidéo permettant de transformer articles et textes importés en scripts, puis en séquences visuelles à partir de modèles et de médias. Il propose également des narrations vocales. Vérifier la fidélité du résumé, les licences des médias et la lisibilité avant publication.",
+    "en": "Video creation studio converting imported articles and text into scripts and visual sequences using templates and media. Voiceover options are also available. Check summary fidelity, media licenses and readability before publication.",
+    "ar": "استوديو لإنشاء الفيديو يحول المقالات والنصوص المستوردة إلى سيناريوهات ومقاطع بصرية باستخدام القوالب والوسائط. يوفر أيضًا خيارات التعليق الصوتي. ينبغي مراجعة دقة الملخص وتراخيص الوسائط ووضوح العرض قبل النشر.",
+    "officialSource": "https://help.lumen5.com/en/article/how-do-i-select-a-template-start-creating-a-video-in-lumen5-11aod0v/",
+    "sourceReviewedAt": "2026-11-24"
   }
 }
