@@ -1751,5 +1751,103 @@
     "ar": "أدوات ذكاء اصطناعي لتحليل صور المركبات والممتلكات المتضررة لدعم مراجعة مطالبات التأمين وتقدير الإصلاحات.",
     "officialSource": "https://tractable.ai/",
     "sourceReviewedAt": "2026-11-24"
+  },
+  "paradox": {
+    "fr": "Assistant conversationnel de recrutement Paradox (Olivia), désormais intégré à Workday depuis octobre 2025, pour guider les candidatures, planifier les entretiens et fluidifier l'embauche.",
+    "en": "Paradox's Olivia conversational hiring assistant, part of Workday since October 2025, supports candidate applications, interview scheduling and hiring workflows.",
+    "ar": "مساعد بارادوكس أوليفيا للمحادثة في التوظيف، أصبح جزءًا من Workday منذ أكتوبر 2025، ويساعد على إرشاد المتقدمين وجدولة المقابلات وتنظيم إجراءات التوظيف.",
+    "officialSource": "https://investor.workday.com/news-and-events/press-releases/news-details/2025/Workday-Completes-Acquisition-of-Paradox-10-01-2025/default.aspx",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "textio": {
+    "fr": "Plateforme d'assistance à la rédaction de communications RH, notamment les offres d'emploi et les évaluations de performance, avec analyse du langage utilisé.",
+    "en": "Writing assistance platform for HR communications such as job posts and performance feedback, with language analysis.",
+    "ar": "منصة مساعدة لكتابة نصوص الموارد البشرية مثل إعلانات الوظائف وتقييمات الأداء، مع تحليل اللغة المستخدمة.",
+    "officialSource": "https://textio.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "seekout": {
+    "fr": "Plateforme de recherche et de recrutement de talents avec recherche de profils, qualification et flux de prospection assistés par IA.",
+    "en": "Talent sourcing and recruiting platform offering candidate search, screening and AI-supported outreach workflows.",
+    "ar": "منصة للبحث عن المواهب واستقطابها، تشمل العثور على المرشحين وتقييم ملفاتهم وإدارة التواصل معهم بمساعدة الذكاء الاصطناعي.",
+    "officialSource": "https://www.seekout.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "humanly": {
+    "fr": "Assistant de recrutement conversationnel pour conduire des échanges préliminaires, organiser des entretiens et accompagner les candidats.",
+    "en": "Conversational recruiting assistant for preliminary candidate interactions, interview scheduling and candidate support.",
+    "ar": "مساعد محادثة للتوظيف لإجراء التفاعلات الأولية مع المرشحين وجدولة المقابلات وتوجيه المتقدمين.",
+    "officialSource": "https://humanly.io/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "workable-ai": {
+    "fr": "Fonctions d'IA de Workable pour préparer des offres d'emploi et soutenir le suivi des candidatures au sein d'un logiciel de recrutement.",
+    "en": "Workable AI features for drafting job postings and supporting applicant workflows within a hiring platform.",
+    "ar": "وظائف ذكاء اصطناعي في Workable لصياغة إعلانات الوظائف والمساعدة في متابعة طلبات التوظيف ضمن منصة لإدارة المرشحين.",
+    "officialSource": "https://www.workable.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "ashby": {
+    "fr": "Logiciel de suivi des candidatures et de recrutement avec fonctions IA pour réviser les dossiers, rédiger des communications et coordonner les étapes de sélection.",
+    "en": "Applicant tracking and recruiting platform with AI assistance for reviewing applications, drafting communications and coordinating hiring stages.",
+    "ar": "منصة لتتبع طلبات التوظيف وإدارة التوظيف توفر مساعدة ذكاء اصطناعي لمراجعة الطلبات وصياغة الرسائل وتنسيق مراحل الاختيار.",
+    "officialSource": "https://docs.ashbyhq.com/ai-features-in-ashby",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "beamery": {
+    "fr": "Plateforme de gestion du vivier de talents et des compétences pour repérer les candidats, soutenir la mobilité interne et planifier les besoins en effectifs.",
+    "en": "Talent lifecycle and skills platform for candidate discovery, internal mobility and workforce planning.",
+    "ar": "منصة لإدارة المواهب والمهارات لاكتشاف المرشحين ودعم التنقل المهني الداخلي والتخطيط لاحتياجات القوى العاملة.",
+    "officialSource": "https://beamery.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "phenom": {
+    "fr": "Plateforme d'expérience des talents réunissant recherche d'emploi, recommandations de postes, recrutement et mobilité professionnelle.",
+    "en": "Talent experience platform combining job discovery, role recommendations, recruiting and internal career mobility.",
+    "ar": "منصة لتجربة المواهب تجمع اكتشاف الوظائف واقتراح المناصب وإجراءات التوظيف والتنقل الوظيفي الداخلي.",
+    "officialSource": "https://www.phenom.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "teal": {
+    "fr": "Espace de travail pour candidats qui organise les offres d'emploi, prépare les CV et accompagne la recherche d'emploi avec des outils IA.",
+    "en": "Job seeker workspace for tracking opportunities, preparing resumes and organizing applications with AI tools.",
+    "ar": "مساحة عمل للباحثين عن وظائف لتنظيم العروض الوظيفية وإعداد السير الذاتية وتتبع طلبات التوظيف بمساعدة أدوات الذكاء الاصطناعي.",
+    "officialSource": "https://www.tealhq.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "rezi": {
+    "fr": "Outil de rédaction et d'optimisation de CV qui aide les candidats à structurer leurs expériences et adapter leurs candidatures.",
+    "en": "Resume creation and optimization tool helping job seekers structure experience and tailor applications.",
+    "ar": "أداة لإنشاء السير الذاتية وتحسينها تساعد الباحثين عن عمل على تنظيم خبراتهم وتكييف طلبات التوظيف.",
+    "officialSource": "https://www.rezi.ai/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "kickresume": {
+    "fr": "Plateforme de création de CV et de lettres de motivation avec modèles et assistance rédactionnelle IA pour candidats.",
+    "en": "Resume and cover letter builder with templates and AI writing assistance for job applicants.",
+    "ar": "منصة لإنشاء السير الذاتية ورسائل التقديم باستخدام قوالب ومساعدة الذكاء الاصطناعي في الكتابة.",
+    "officialSource": "https://www.kickresume.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "enhancv": {
+    "fr": "Créateur de CV permettant de personnaliser la présentation des expériences et compétences et de préparer des candidatures professionnelles.",
+    "en": "Resume builder for customizing the presentation of experience and skills and preparing professional applications.",
+    "ar": "منشئ سير ذاتية يتيح تخصيص عرض الخبرات والمهارات وإعداد طلبات توظيف احترافية.",
+    "officialSource": "https://enhancv.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "jobscan": {
+    "fr": "Outil de comparaison entre CV et offres d'emploi pour identifier des mots-clés et améliorer la pertinence des candidatures, sans garantir leur acceptation.",
+    "en": "Resume-to-job-description comparison tool identifying relevant keywords and helping tailor applications without guaranteeing selection.",
+    "ar": "أداة لمقارنة السيرة الذاتية بوصف الوظيفة لاكتشاف الكلمات ذات الصلة وتحسين ملاءمة طلب التوظيف، دون ضمان القبول.",
+    "officialSource": "https://www.jobscan.co/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "final-round-ai": {
+    "fr": "Plateforme de préparation aux entretiens proposant des simulations, conseils et retours assistés par IA ; l'usage pendant un entretien réel dépend des règles de l'employeur.",
+    "en": "Interview preparation platform with AI-assisted practice, guidance and feedback; use during real interviews depends on employer rules.",
+    "ar": "منصة للتحضير لمقابلات العمل عبر المحاكاة والنصائح والتغذية الراجعة بمساعدة الذكاء الاصطناعي؛ ويخضع استخدامها أثناء المقابلات الفعلية لقواعد جهة التوظيف.",
+    "officialSource": "https://www.finalroundai.com/",
+    "sourceReviewedAt": "2026-11-24"
   }
 }
