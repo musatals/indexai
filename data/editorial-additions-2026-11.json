@@ -1849,5 +1849,1084 @@
     "ar": "منصة للتحضير لمقابلات العمل عبر المحاكاة والنصائح والتغذية الراجعة بمساعدة الذكاء الاصطناعي؛ ويخضع استخدامها أثناء المقابلات الفعلية لقواعد جهة التوظيف.",
     "officialSource": "https://www.finalroundai.com/",
     "sourceReviewedAt": "2026-11-24"
+  },
+  "giskard": {
+    "fr": "Outil ouvert de test d’applications IA et d’agents. Son scanner génère des scénarios adverses pour identifier des vulnérabilités et des faiblesses de comportement.",
+    "en": "Open-source testing tools for AI applications and agents; its scanner generates adversarial scenarios to uncover vulnerabilities and behavioral weaknesses.",
+    "ar": "أدوات مفتوحة المصدر لاختبار تطبيقات الذكاء الاصطناعي والوكلاء؛ ينشئ الماسح سيناريوهات هجومية للكشف عن الثغرات وضعف السلوك.",
+    "officialSource": "https://docs.giskard.ai/oss/scan",
+    "sourceReviewedAt": "2026-11-24",
+    "research": {
+      "headline": "Outil ouvert de test d’applications IA et d’agents. Son scanner génère des scénarios adverses pour identifier des vulnérabilités et des faiblesses de comportement.",
+      "headlineEn": "Open-source testing tools for AI applications and agents; its scanner generates adversarial scenarios to uncover vulnerabilities and behavioral weaknesses.",
+      "headlineAr": "أدوات مفتوحة المصدر لاختبار تطبيقات الذكاء الاصطناعي والوكلاء؛ ينشئ الماسح سيناريوهات هجومية للكشف عن الثغرات وضعف السلوك.",
+      "cases": [
+        "Tester un assistant documentaire contre des réponses non fondées et des instructions hostiles."
+      ],
+      "casesEn": [
+        "Test a document assistant for unsupported answers and hostile prompts."
+      ],
+      "casesAr": [
+        "اختبار مساعد للمستندات ضد الإجابات غير المستندة إلى مصادر والتعليمات الضارة."
+      ],
+      "limits": [
+        "Les résultats dépendent des scénarios et des modèles juges : un test réussi ne garantit pas la sécurité."
+      ],
+      "limitsEn": [
+        "Results depend on attack scenarios and judge models; passing a scan does not certify security."
+      ],
+      "limitsAr": [
+        "تتوقف النتائج على سيناريوهات الهجوم ونماذج التقييم؛ ولا يعني اجتياز الفحص ضمان الأمان."
+      ],
+      "gettingStarted": [
+        "Lire la documentation officielle et réaliser un essai sur un corpus ou une tâche non sensibles avant l'intégration."
+      ],
+      "gettingStartedEn": [
+        "Read the official documentation and run a small non-sensitive test before production integration."
+      ],
+      "gettingStartedAr": [
+        "اقرأ الوثائق الرسمية وجرّب الخدمة على مهمة أو بيانات غير حساسة قبل دمجها في الإنتاج."
+      ],
+      "sources": [
+        {
+          "url": "https://docs.giskard.ai/oss/scan",
+          "type": "official",
+          "reviewedAt": "2026-11-24"
+        }
+      ],
+      "reviewedAt": "2026-11-24",
+      "status": "documented",
+      "evidence": "official"
+    }
+  },
+  "dvc": {
+    "fr": "Outil open source associé à Git pour versionner des jeux de données, des modèles et des étapes de pipelines d’apprentissage automatique.",
+    "en": "Git-based open-source tooling for versioning datasets, models and machine-learning pipeline stages.",
+    "ar": "أداة مفتوحة المصدر مرتبطة بـGit لإدارة إصدارات مجموعات البيانات والنماذج ومراحل مسارات تعلم الآلة.",
+    "officialSource": "https://doc.dvc.org/start",
+    "sourceReviewedAt": "2026-11-24",
+    "research": {
+      "headline": "Outil open source associé à Git pour versionner des jeux de données, des modèles et des étapes de pipelines d’apprentissage automatique.",
+      "headlineEn": "Git-based open-source tooling for versioning datasets, models and machine-learning pipeline stages.",
+      "headlineAr": "أداة مفتوحة المصدر مرتبطة بـGit لإدارة إصدارات مجموعات البيانات والنماذج ومراحل مسارات تعلم الآلة.",
+      "cases": [
+        "Relier une version de données au code et au résultat d’une expérience reproductible."
+      ],
+      "casesEn": [
+        "Link a dataset version to code and the results of a reproducible experiment."
+      ],
+      "casesAr": [
+        "ربط إصدار من البيانات بالشيفرة ونتائج تجربة قابلة للإعادة."
+      ],
+      "limits": [
+        "DVC exige de définir et maintenir un stockage approprié pour les grands fichiers."
+      ],
+      "limitsEn": [
+        "DVC needs appropriately configured storage for large datasets and artifacts."
+      ],
+      "limitsAr": [
+        "تتطلب الأداة إعداد تخزين مناسب للبيانات والملفات الكبيرة والمحافظة عليه."
+      ],
+      "gettingStarted": [
+        "Lire la documentation officielle et réaliser un essai sur un corpus ou une tâche non sensibles avant l'intégration."
+      ],
+      "gettingStartedEn": [
+        "Read the official documentation and run a small non-sensitive test before production integration."
+      ],
+      "gettingStartedAr": [
+        "اقرأ الوثائق الرسمية وجرّب الخدمة على مهمة أو بيانات غير حساسة قبل دمجها في الإنتاج."
+      ],
+      "sources": [
+        {
+          "url": "https://doc.dvc.org/start",
+          "type": "official",
+          "reviewedAt": "2026-11-24"
+        }
+      ],
+      "reviewedAt": "2026-11-24",
+      "status": "documented",
+      "evidence": "official"
+    }
+  },
+  "clearml": {
+    "fr": "Plateforme MLOps pour enregistrer les expériences, comparer les paramètres, conserver les artefacts et organiser l’exécution des tâches.",
+    "en": "MLOps platform for tracking experiments, comparing parameters, preserving artifacts and organizing task execution.",
+    "ar": "منصة MLOps لتتبع التجارب ومقارنة المعلمات وحفظ الملفات الناتجة وتنظيم تنفيذ المهام.",
+    "officialSource": "https://clear.ml/docs/latest/docs/getting_started/auto_log_exp/",
+    "sourceReviewedAt": "2026-11-24",
+    "research": {
+      "headline": "Plateforme MLOps pour enregistrer les expériences, comparer les paramètres, conserver les artefacts et organiser l’exécution des tâches.",
+      "headlineEn": "MLOps platform for tracking experiments, comparing parameters, preserving artifacts and organizing task execution.",
+      "headlineAr": "منصة MLOps لتتبع التجارب ومقارنة المعلمات وحفظ الملفات الناتجة وتنظيم تنفيذ المهام.",
+      "cases": [
+        "Suivre les métriques d’entraînement de plusieurs essais et reproduire une exécution."
+      ],
+      "casesEn": [
+        "Track training metrics across runs and reproduce a selected experiment."
+      ],
+      "casesAr": [
+        "تتبع مقاييس التدريب عبر تجارب متعددة وإعادة تنفيذ تجربة محددة."
+      ],
+      "limits": [
+        "L’automatisation du suivi nécessite d’instrumenter les scripts et de protéger les données enregistrées."
+      ],
+      "limitsEn": [
+        "Automatic tracking requires instrumenting scripts and protecting logged data."
+      ],
+      "limitsAr": [
+        "يتطلب التتبع الآلي إضافة أدوات إلى الشيفرة وحماية البيانات المسجلة."
+      ],
+      "gettingStarted": [
+        "Lire la documentation officielle et réaliser un essai sur un corpus ou une tâche non sensibles avant l'intégration."
+      ],
+      "gettingStartedEn": [
+        "Read the official documentation and run a small non-sensitive test before production integration."
+      ],
+      "gettingStartedAr": [
+        "اقرأ الوثائق الرسمية وجرّب الخدمة على مهمة أو بيانات غير حساسة قبل دمجها في الإنتاج."
+      ],
+      "sources": [
+        {
+          "url": "https://clear.ml/docs/latest/docs/getting_started/auto_log_exp/",
+          "type": "official",
+          "reviewedAt": "2026-11-24"
+        }
+      ],
+      "reviewedAt": "2026-11-24",
+      "status": "documented",
+      "evidence": "official"
+    }
+  },
+  "openai-evals": {
+    "fr": "Cadre ouvert OpenAI pour définir et exécuter des évaluations de modèles et de systèmes LLM avec jeux de données et critères de notation.",
+    "en": "OpenAI’s open framework for defining and running evaluations of models and LLM systems using datasets and scoring rules.",
+    "ar": "إطار مفتوح من OpenAI لتعريف اختبارات النماذج والأنظمة اللغوية وتشغيلها باستخدام مجموعات بيانات ومعايير تقييم.",
+    "officialSource": "https://github.com/openai/evals",
+    "sourceReviewedAt": "2026-11-24",
+    "research": {
+      "headline": "Cadre ouvert OpenAI pour définir et exécuter des évaluations de modèles et de systèmes LLM avec jeux de données et critères de notation.",
+      "headlineEn": "OpenAI’s open framework for defining and running evaluations of models and LLM systems using datasets and scoring rules.",
+      "headlineAr": "إطار مفتوح من OpenAI لتعريف اختبارات النماذج والأنظمة اللغوية وتشغيلها باستخدام مجموعات بيانات ومعايير تقييم.",
+      "cases": [
+        "Créer un jeu d’essai pour comparer des réponses sur des questions métier."
+      ],
+      "casesEn": [
+        "Build a test set comparing model responses to domain-specific questions."
+      ],
+      "casesAr": [
+        "بناء مجموعة اختبار لمقارنة إجابات النماذج عن أسئلة تخصصية."
+      ],
+      "limits": [
+        "Les scores ne valent que pour les cas et barèmes choisis ; ils ne prouvent pas une qualité générale."
+      ],
+      "limitsEn": [
+        "Scores only cover selected test cases and rubrics; they do not establish general quality."
+      ],
+      "limitsAr": [
+        "تعكس النتائج حالات الاختبار والمعايير المختارة فقط ولا تثبت الجودة العامة."
+      ],
+      "gettingStarted": [
+        "Lire la documentation officielle et réaliser un essai sur un corpus ou une tâche non sensibles avant l'intégration."
+      ],
+      "gettingStartedEn": [
+        "Read the official documentation and run a small non-sensitive test before production integration."
+      ],
+      "gettingStartedAr": [
+        "اقرأ الوثائق الرسمية وجرّب الخدمة على مهمة أو بيانات غير حساسة قبل دمجها في الإنتاج."
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/openai/evals",
+          "type": "official",
+          "reviewedAt": "2026-11-24"
+        }
+      ],
+      "reviewedAt": "2026-11-24",
+      "status": "documented",
+      "evidence": "official"
+    }
+  },
+  "redis-vector-search": {
+    "fr": "Fonctions de recherche vectorielle de Redis combinant représentations numériques, recherche KNN, filtres de métadonnées et requêtes hybrides.",
+    "en": "Redis vector search supports embeddings, nearest-neighbor queries, metadata filters and hybrid retrieval.",
+    "ar": "يدعم البحث المتجهي في Redis التمثيلات العددية واستعلامات أقرب الجيران ومرشحات البيانات الوصفية والاسترجاع الهجين.",
+    "officialSource": "https://redis.io/docs/latest/develop/ai/search-and-query/vectors/",
+    "sourceReviewedAt": "2026-11-24",
+    "research": {
+      "headline": "Fonctions de recherche vectorielle de Redis combinant représentations numériques, recherche KNN, filtres de métadonnées et requêtes hybrides.",
+      "headlineEn": "Redis vector search supports embeddings, nearest-neighbor queries, metadata filters and hybrid retrieval.",
+      "headlineAr": "يدعم البحث المتجهي في Redis التمثيلات العددية واستعلامات أقرب الجيران ومرشحات البيانات الوصفية والاسترجاع الهجين.",
+      "cases": [
+        "Retrouver des passages sémantiquement proches dans un assistant documentaire RAG."
+      ],
+      "casesEn": [
+        "Retrieve semantically similar passages for a document-based RAG assistant."
+      ],
+      "casesAr": [
+        "استرجاع مقاطع متقاربة المعنى لمساعد مستندات يعتمد على RAG."
+      ],
+      "limits": [
+        "La qualité dépend des embeddings, du découpage, des filtres et du paramétrage de l’index."
+      ],
+      "limitsEn": [
+        "Quality depends on embeddings, chunking, filters and index configuration."
+      ],
+      "limitsAr": [
+        "تعتمد الجودة على التمثيلات المتجهية وتقسيم النصوص والمرشحات وإعداد الفهرس."
+      ],
+      "gettingStarted": [
+        "Lire la documentation officielle et réaliser un essai sur un corpus ou une tâche non sensibles avant l'intégration."
+      ],
+      "gettingStartedEn": [
+        "Read the official documentation and run a small non-sensitive test before production integration."
+      ],
+      "gettingStartedAr": [
+        "اقرأ الوثائق الرسمية وجرّب الخدمة على مهمة أو بيانات غير حساسة قبل دمجها في الإنتاج."
+      ],
+      "sources": [
+        {
+          "url": "https://redis.io/docs/latest/develop/ai/search-and-query/vectors/",
+          "type": "official",
+          "reviewedAt": "2026-11-24"
+        }
+      ],
+      "reviewedAt": "2026-11-24",
+      "status": "documented",
+      "evidence": "official"
+    }
+  },
+  "neo4j-graphrag": {
+    "fr": "Bibliothèque officielle Neo4j GraphRAG pour Python, associant récupération depuis un graphe de connaissances et génération de réponses.",
+    "en": "Official Neo4j GraphRAG Python package connecting knowledge-graph retrieval with answer generation.",
+    "ar": "حزمة Neo4j GraphRAG الرسمية للغة Python تربط الاسترجاع من الرسم البياني المعرفي بتوليد الإجابات.",
+    "officialSource": "https://neo4j.com/docs/neo4j-graphrag-python/current/",
+    "sourceReviewedAt": "2026-11-24",
+    "research": {
+      "headline": "Bibliothèque officielle Neo4j GraphRAG pour Python, associant récupération depuis un graphe de connaissances et génération de réponses.",
+      "headlineEn": "Official Neo4j GraphRAG Python package connecting knowledge-graph retrieval with answer generation.",
+      "headlineAr": "حزمة Neo4j GraphRAG الرسمية للغة Python تربط الاسترجاع من الرسم البياني المعرفي بتوليد الإجابات.",
+      "cases": [
+        "Explorer des relations entre entités et passages documentaires pour répondre à une question."
+      ],
+      "casesEn": [
+        "Explore entity relationships and retrieved documents to answer a question."
+      ],
+      "casesAr": [
+        "استكشاف العلاقات بين الكيانات والمقاطع المسترجعة للإجابة عن سؤال."
+      ],
+      "limits": [
+        "Le graphe et les liens extraits doivent être contrôlés : une relation générée peut être erronée."
+      ],
+      "limitsEn": [
+        "Extracted entities and relationships need review; inferred links may be wrong."
+      ],
+      "limitsAr": [
+        "تحتاج الكيانات والعلاقات المستخرجة إلى مراجعة لأن الروابط المستنتجة قد تكون خاطئة."
+      ],
+      "gettingStarted": [
+        "Lire la documentation officielle et réaliser un essai sur un corpus ou une tâche non sensibles avant l'intégration."
+      ],
+      "gettingStartedEn": [
+        "Read the official documentation and run a small non-sensitive test before production integration."
+      ],
+      "gettingStartedAr": [
+        "اقرأ الوثائق الرسمية وجرّب الخدمة على مهمة أو بيانات غير حساسة قبل دمجها في الإنتاج."
+      ],
+      "sources": [
+        {
+          "url": "https://neo4j.com/docs/neo4j-graphrag-python/current/",
+          "type": "official",
+          "reviewedAt": "2026-11-24"
+        }
+      ],
+      "reviewedAt": "2026-11-24",
+      "status": "documented",
+      "evidence": "official"
+    }
+  },
+  "onnx-runtime": {
+    "fr": "Moteur d’inférence portable pour exécuter des modèles ONNX sur divers matériels et systèmes à l’aide de fournisseurs d’exécution adaptés.",
+    "en": "Portable inference engine for running ONNX models on different hardware and systems using execution providers.",
+    "ar": "محرك استدلال محمول لتشغيل نماذج ONNX على أجهزة وأنظمة متنوعة باستخدام مزودي تنفيذ مناسبين.",
+    "officialSource": "https://onnxruntime.ai/docs/",
+    "sourceReviewedAt": "2026-11-24",
+    "research": {
+      "headline": "Moteur d’inférence portable pour exécuter des modèles ONNX sur divers matériels et systèmes à l’aide de fournisseurs d’exécution adaptés.",
+      "headlineEn": "Portable inference engine for running ONNX models on different hardware and systems using execution providers.",
+      "headlineAr": "محرك استدلال محمول لتشغيل نماذج ONNX على أجهزة وأنظمة متنوعة باستخدام مزودي تنفيذ مناسبين.",
+      "cases": [
+        "Déployer un même modèle de classification sur un serveur ou un appareil local."
+      ],
+      "casesEn": [
+        "Deploy a classification model on a server or a local device."
+      ],
+      "casesAr": [
+        "نشر نموذج تصنيف على خادم أو جهاز محلي."
+      ],
+      "limits": [
+        "La prise en charge des opérateurs et les performances varient selon le format et le matériel."
+      ],
+      "limitsEn": [
+        "Operator support and performance vary with model format and hardware."
+      ],
+      "limitsAr": [
+        "يختلف دعم العمليات والأداء بحسب صيغة النموذج والعتاد."
+      ],
+      "gettingStarted": [
+        "Lire la documentation officielle et réaliser un essai sur un corpus ou une tâche non sensibles avant l'intégration."
+      ],
+      "gettingStartedEn": [
+        "Read the official documentation and run a small non-sensitive test before production integration."
+      ],
+      "gettingStartedAr": [
+        "اقرأ الوثائق الرسمية وجرّب الخدمة على مهمة أو بيانات غير حساسة قبل دمجها في الإنتاج."
+      ],
+      "sources": [
+        {
+          "url": "https://onnxruntime.ai/docs/",
+          "type": "official",
+          "reviewedAt": "2026-11-24"
+        }
+      ],
+      "reviewedAt": "2026-11-24",
+      "status": "documented",
+      "evidence": "official"
+    }
+  },
+  "openvino": {
+    "fr": "Ensemble logiciel Intel pour convertir, optimiser et exécuter des modèles de deep learning sur des processeurs et accélérateurs compatibles.",
+    "en": "Intel toolkit for converting, optimizing and running deep-learning models on supported CPUs and accelerators.",
+    "ar": "مجموعة أدوات من Intel لتحويل نماذج التعلم العميق وتحسينها وتشغيلها على المعالجات والمسرّعات المدعومة.",
+    "officialSource": "https://docs.openvino.ai/2026/openvino-workflow/running-inference.html",
+    "sourceReviewedAt": "2026-11-24",
+    "research": {
+      "headline": "Ensemble logiciel Intel pour convertir, optimiser et exécuter des modèles de deep learning sur des processeurs et accélérateurs compatibles.",
+      "headlineEn": "Intel toolkit for converting, optimizing and running deep-learning models on supported CPUs and accelerators.",
+      "headlineAr": "مجموعة أدوات من Intel لتحويل نماذج التعلم العميق وتحسينها وتشغيلها على المعالجات والمسرّعات المدعومة.",
+      "cases": [
+        "Optimiser l’inférence d’un modèle de vision sur un poste équipé d’un processeur compatible."
+      ],
+      "casesEn": [
+        "Optimize vision-model inference on a computer with supported hardware."
+      ],
+      "casesAr": [
+        "تحسين استدلال نموذج رؤية حاسوبية على جهاز مزود بعتاد مدعوم."
+      ],
+      "limits": [
+        "Il faut contrôler la compatibilité des modèles, des appareils et des versions."
+      ],
+      "limitsEn": [
+        "Model, device and software version compatibility must be checked."
+      ],
+      "limitsAr": [
+        "يجب التحقق من توافق النماذج والأجهزة وإصدارات البرمجيات."
+      ],
+      "gettingStarted": [
+        "Lire la documentation officielle et réaliser un essai sur un corpus ou une tâche non sensibles avant l'intégration."
+      ],
+      "gettingStartedEn": [
+        "Read the official documentation and run a small non-sensitive test before production integration."
+      ],
+      "gettingStartedAr": [
+        "اقرأ الوثائق الرسمية وجرّب الخدمة على مهمة أو بيانات غير حساسة قبل دمجها في الإنتاج."
+      ],
+      "sources": [
+        {
+          "url": "https://docs.openvino.ai/2026/openvino-workflow/running-inference.html",
+          "type": "official",
+          "reviewedAt": "2026-11-24"
+        }
+      ],
+      "reviewedAt": "2026-11-24",
+      "status": "documented",
+      "evidence": "official"
+    }
+  },
+  "bentoml": {
+    "fr": "Cadre Python pour transformer des modèles en services d’inférence, gérer les dépendances et préparer leur déploiement.",
+    "en": "Python framework for packaging models as inference services, managing dependencies and preparing deployments.",
+    "ar": "إطار Python لتغليف النماذج كخدمات استدلال وإدارة الاعتماديات وتجهيز نشرها.",
+    "officialSource": "https://docs.bentoml.com/en/latest/",
+    "sourceReviewedAt": "2026-11-24",
+    "research": {
+      "headline": "Cadre Python pour transformer des modèles en services d’inférence, gérer les dépendances et préparer leur déploiement.",
+      "headlineEn": "Python framework for packaging models as inference services, managing dependencies and preparing deployments.",
+      "headlineAr": "إطار Python لتغليف النماذج كخدمات استدلال وإدارة الاعتماديات وتجهيز نشرها.",
+      "cases": [
+        "Exposer un modèle interne derrière une API documentée utilisable par une application."
+      ],
+      "casesEn": [
+        "Expose an internal model through a documented API for an application."
+      ],
+      "casesAr": [
+        "إتاحة نموذج داخلي عبر واجهة برمجية موثقة تستخدمها التطبيقات."
+      ],
+      "limits": [
+        "La mise en production demande des contrôles d’accès, de ressources et de surveillance."
+      ],
+      "limitsEn": [
+        "Production use requires access controls, resource planning and monitoring."
+      ],
+      "limitsAr": [
+        "يتطلب التشغيل الإنتاجي ضوابط وصول وتخطيط الموارد والمراقبة."
+      ],
+      "gettingStarted": [
+        "Lire la documentation officielle et réaliser un essai sur un corpus ou une tâche non sensibles avant l'intégration."
+      ],
+      "gettingStartedEn": [
+        "Read the official documentation and run a small non-sensitive test before production integration."
+      ],
+      "gettingStartedAr": [
+        "اقرأ الوثائق الرسمية وجرّب الخدمة على مهمة أو بيانات غير حساسة قبل دمجها في الإنتاج."
+      ],
+      "sources": [
+        {
+          "url": "https://docs.bentoml.com/en/latest/",
+          "type": "official",
+          "reviewedAt": "2026-11-24"
+        }
+      ],
+      "reviewedAt": "2026-11-24",
+      "status": "documented",
+      "evidence": "official"
+    }
+  },
+  "ray-serve": {
+    "fr": "Composant de Ray pour déployer des services d’inférence Python et orchestrer plusieurs modèles ou traitements au sein d’une application évolutive.",
+    "en": "Ray component for deploying Python inference services and composing multiple models and processing stages in scalable applications.",
+    "ar": "مكون من Ray لنشر خدمات الاستدلال بـPython وتنسيق نماذج أو مراحل معالجة متعددة ضمن تطبيقات قابلة للتوسع.",
+    "officialSource": "https://docs.ray.io/en/latest/serve/",
+    "sourceReviewedAt": "2026-11-24",
+    "research": {
+      "headline": "Composant de Ray pour déployer des services d’inférence Python et orchestrer plusieurs modèles ou traitements au sein d’une application évolutive.",
+      "headlineEn": "Ray component for deploying Python inference services and composing multiple models and processing stages in scalable applications.",
+      "headlineAr": "مكون من Ray لنشر خدمات الاستدلال بـPython وتنسيق نماذج أو مراحل معالجة متعددة ضمن تطبيقات قابلة للتوسع.",
+      "cases": [
+        "Assembler un pipeline de prédiction avec plusieurs étapes déployées séparément."
+      ],
+      "casesEn": [
+        "Compose a prediction pipeline with separately deployed stages."
+      ],
+      "casesAr": [
+        "بناء مسار تنبؤ بمراحل متعددة تُنشر بشكل منفصل."
+      ],
+      "limits": [
+        "L’exploitation distribuée ajoute une complexité d’infrastructure et de supervision."
+      ],
+      "limitsEn": [
+        "Distributed operations add infrastructure and monitoring complexity."
+      ],
+      "limitsAr": [
+        "تضيف العمليات الموزعة تعقيدًا للبنية التحتية والمراقبة."
+      ],
+      "gettingStarted": [
+        "Lire la documentation officielle et réaliser un essai sur un corpus ou une tâche non sensibles avant l'intégration."
+      ],
+      "gettingStartedEn": [
+        "Read the official documentation and run a small non-sensitive test before production integration."
+      ],
+      "gettingStartedAr": [
+        "اقرأ الوثائق الرسمية وجرّب الخدمة على مهمة أو بيانات غير حساسة قبل دمجها في الإنتاج."
+      ],
+      "sources": [
+        {
+          "url": "https://docs.ray.io/en/latest/serve/",
+          "type": "official",
+          "reviewedAt": "2026-11-24"
+        }
+      ],
+      "reviewedAt": "2026-11-24",
+      "status": "documented",
+      "evidence": "official"
+    }
+  },
+  "kserve": {
+    "fr": "Plateforme open source de déploiement de modèles sur Kubernetes, avec ressources dédiées à l’inférence et à la montée en charge.",
+    "en": "Open-source model serving platform on Kubernetes using dedicated inference resources and scaling controls.",
+    "ar": "منصة مفتوحة المصدر لنشر النماذج على Kubernetes باستخدام موارد استدلال وخيارات للتوسع.",
+    "officialSource": "https://kserve.github.io/website/docs/next/intro",
+    "sourceReviewedAt": "2026-11-24",
+    "research": {
+      "headline": "Plateforme open source de déploiement de modèles sur Kubernetes, avec ressources dédiées à l’inférence et à la montée en charge.",
+      "headlineEn": "Open-source model serving platform on Kubernetes using dedicated inference resources and scaling controls.",
+      "headlineAr": "منصة مفتوحة المصدر لنشر النماذج على Kubernetes باستخدام موارد استدلال وخيارات للتوسع.",
+      "cases": [
+        "Déployer un modèle sous forme de service Kubernetes géré par une ressource KServe."
+      ],
+      "casesEn": [
+        "Deploy a model as a Kubernetes service managed through KServe resources."
+      ],
+      "casesAr": [
+        "نشر نموذج كخدمة على Kubernetes تدار عبر موارد KServe."
+      ],
+      "limits": [
+        "Une installation et des compétences Kubernetes restent nécessaires."
+      ],
+      "limitsEn": [
+        "Kubernetes setup and operational expertise remain necessary."
+      ],
+      "limitsAr": [
+        "لا يزال إعداد Kubernetes والخبرة التشغيلية به ضروريين."
+      ],
+      "gettingStarted": [
+        "Lire la documentation officielle et réaliser un essai sur un corpus ou une tâche non sensibles avant l'intégration."
+      ],
+      "gettingStartedEn": [
+        "Read the official documentation and run a small non-sensitive test before production integration."
+      ],
+      "gettingStartedAr": [
+        "اقرأ الوثائق الرسمية وجرّب الخدمة على مهمة أو بيانات غير حساسة قبل دمجها في الإنتاج."
+      ],
+      "sources": [
+        {
+          "url": "https://kserve.github.io/website/docs/next/intro",
+          "type": "official",
+          "reviewedAt": "2026-11-24"
+        }
+      ],
+      "reviewedAt": "2026-11-24",
+      "status": "documented",
+      "evidence": "official"
+    }
+  },
+  "modal": {
+    "fr": "Plateforme de calcul cloud pour fonctions Python et charges IA, avec allocation de GPU et déclenchement de tâches à la demande.",
+    "en": "Cloud platform for Python functions and AI workloads with GPU allocation and on-demand execution.",
+    "ar": "منصة حوسبة سحابية لوظائف Python وأعباء عمل الذكاء الاصطناعي مع تخصيص GPU وتنفيذ حسب الطلب.",
+    "officialSource": "https://modal.com/docs",
+    "sourceReviewedAt": "2026-11-24",
+    "research": {
+      "headline": "Plateforme de calcul cloud pour fonctions Python et charges IA, avec allocation de GPU et déclenchement de tâches à la demande.",
+      "headlineEn": "Cloud platform for Python functions and AI workloads with GPU allocation and on-demand execution.",
+      "headlineAr": "منصة حوسبة سحابية لوظائف Python وأعباء عمل الذكاء الاصطناعي مع تخصيص GPU وتنفيذ حسب الطلب.",
+      "cases": [
+        "Exécuter un traitement de documents sur GPU sans maintenir un serveur dédié."
+      ],
+      "casesEn": [
+        "Run a GPU-based document processing job without maintaining a dedicated server."
+      ],
+      "casesAr": [
+        "تنفيذ مهمة لمعالجة المستندات على GPU دون صيانة خادم مخصص."
+      ],
+      "limits": [
+        "Le coût dépend du temps et des ressources consommés ; vérifier les quotas et la confidentialité."
+      ],
+      "limitsEn": [
+        "Costs depend on runtime and resources; check quotas and data handling."
+      ],
+      "limitsAr": [
+        "تعتمد التكلفة على زمن التشغيل والموارد؛ يجب مراجعة الحصص ومعالجة البيانات."
+      ],
+      "gettingStarted": [
+        "Lire la documentation officielle et réaliser un essai sur un corpus ou une tâche non sensibles avant l'intégration."
+      ],
+      "gettingStartedEn": [
+        "Read the official documentation and run a small non-sensitive test before production integration."
+      ],
+      "gettingStartedAr": [
+        "اقرأ الوثائق الرسمية وجرّب الخدمة على مهمة أو بيانات غير حساسة قبل دمجها في الإنتاج."
+      ],
+      "sources": [
+        {
+          "url": "https://modal.com/docs",
+          "type": "official",
+          "reviewedAt": "2026-11-24"
+        }
+      ],
+      "reviewedAt": "2026-11-24",
+      "status": "documented",
+      "evidence": "official"
+    }
+  },
+  "runpod": {
+    "fr": "Fournisseur de ressources GPU hébergées permettant d’exécuter des applications d’IA et des modèles, sous forme d’instances ou d’exécutions sans serveur.",
+    "en": "Hosted GPU compute provider for AI applications and models through instances or serverless execution.",
+    "ar": "مزود حوسبة GPU مستضافة لتشغيل تطبيقات ونماذج الذكاء الاصطناعي عبر مثيلات أو تنفيذ بلا خادم.",
+    "officialSource": "https://docs.runpod.io/",
+    "sourceReviewedAt": "2026-11-24",
+    "research": {
+      "headline": "Fournisseur de ressources GPU hébergées permettant d’exécuter des applications d’IA et des modèles, sous forme d’instances ou d’exécutions sans serveur.",
+      "headlineEn": "Hosted GPU compute provider for AI applications and models through instances or serverless execution.",
+      "headlineAr": "مزود حوسبة GPU مستضافة لتشغيل تطبيقات ونماذج الذكاء الاصطناعي عبر مثيلات أو تنفيذ بلا خادم.",
+      "cases": [
+        "Lancer un poste GPU pour tester un modèle trop volumineux pour une machine locale."
+      ],
+      "casesEn": [
+        "Launch a GPU instance to test a model too large for local hardware."
+      ],
+      "casesAr": [
+        "تشغيل مثيل GPU لاختبار نموذج أكبر من قدرة الجهاز المحلي."
+      ],
+      "limits": [
+        "La disponibilité des GPU, les coûts et la sécurité de stockage doivent être contrôlés."
+      ],
+      "limitsEn": [
+        "GPU availability, costs and storage security require review."
+      ],
+      "limitsAr": [
+        "يجب مراجعة توافر وحدات GPU والتكاليف وأمن التخزين."
+      ],
+      "gettingStarted": [
+        "Lire la documentation officielle et réaliser un essai sur un corpus ou une tâche non sensibles avant l'intégration."
+      ],
+      "gettingStartedEn": [
+        "Read the official documentation and run a small non-sensitive test before production integration."
+      ],
+      "gettingStartedAr": [
+        "اقرأ الوثائق الرسمية وجرّب الخدمة على مهمة أو بيانات غير حساسة قبل دمجها في الإنتاج."
+      ],
+      "sources": [
+        {
+          "url": "https://docs.runpod.io/",
+          "type": "official",
+          "reviewedAt": "2026-11-24"
+        }
+      ],
+      "reviewedAt": "2026-11-24",
+      "status": "documented",
+      "evidence": "official"
+    }
+  },
+  "replicate": {
+    "fr": "Service d’exécution de modèles d’IA depuis une interface web ou une API, avec entrées, sorties et prédictions propres à chaque modèle.",
+    "en": "Service for running AI models through a web interface or API using model-specific inputs, outputs and predictions.",
+    "ar": "خدمة لتشغيل نماذج الذكاء الاصطناعي عبر واجهة ويب أو API وفق مدخلات ومخرجات كل نموذج.",
+    "officialSource": "https://replicate.com/docs/topics/models/run-a-model/",
+    "sourceReviewedAt": "2026-11-24",
+    "research": {
+      "headline": "Service d’exécution de modèles d’IA depuis une interface web ou une API, avec entrées, sorties et prédictions propres à chaque modèle.",
+      "headlineEn": "Service for running AI models through a web interface or API using model-specific inputs, outputs and predictions.",
+      "headlineAr": "خدمة لتشغيل نماذج الذكاء الاصطناعي عبر واجهة ويب أو API وفق مدخلات ومخرجات كل نموذج.",
+      "cases": [
+        "Tester un modèle de génération d’images puis l’intégrer à une application par API."
+      ],
+      "casesEn": [
+        "Try an image-generation model and then integrate it into an application through an API."
+      ],
+      "casesAr": [
+        "تجربة نموذج لتوليد الصور ثم دمجه في تطبيق عبر واجهة برمجية."
+      ],
+      "limits": [
+        "Les licences, les coûts et les conditions diffèrent selon les modèles proposés."
+      ],
+      "limitsEn": [
+        "Licenses, pricing and terms vary by model."
+      ],
+      "limitsAr": [
+        "تختلف التراخيص والأسعار والشروط بين النماذج المعروضة."
+      ],
+      "gettingStarted": [
+        "Lire la documentation officielle et réaliser un essai sur un corpus ou une tâche non sensibles avant l'intégration."
+      ],
+      "gettingStartedEn": [
+        "Read the official documentation and run a small non-sensitive test before production integration."
+      ],
+      "gettingStartedAr": [
+        "اقرأ الوثائق الرسمية وجرّب الخدمة على مهمة أو بيانات غير حساسة قبل دمجها في الإنتاج."
+      ],
+      "sources": [
+        {
+          "url": "https://replicate.com/docs/topics/models/run-a-model/",
+          "type": "official",
+          "reviewedAt": "2026-11-24"
+        }
+      ],
+      "reviewedAt": "2026-11-24",
+      "status": "documented",
+      "evidence": "official"
+    }
+  },
+  "cerebras-inference": {
+    "fr": "Service de Cerebras permettant d’appeler des modèles de langage via des API et d’exécuter leur inférence sur son infrastructure spécialisée.",
+    "en": "Cerebras service for accessing language models through APIs and running inference on its specialized infrastructure.",
+    "ar": "خدمة من Cerebras لاستدعاء النماذج اللغوية عبر واجهات برمجية وتشغيل الاستدلال على بنيتها المتخصصة.",
+    "officialSource": "https://docs.cerebras.ai/",
+    "sourceReviewedAt": "2026-11-24",
+    "research": {
+      "headline": "Service de Cerebras permettant d’appeler des modèles de langage via des API et d’exécuter leur inférence sur son infrastructure spécialisée.",
+      "headlineEn": "Cerebras service for accessing language models through APIs and running inference on its specialized infrastructure.",
+      "headlineAr": "خدمة من Cerebras لاستدعاء النماذج اللغوية عبر واجهات برمجية وتشغيل الاستدلال على بنيتها المتخصصة.",
+      "cases": [
+        "Intégrer un modèle conversationnel à un prototype utilisant une API d’inférence."
+      ],
+      "casesEn": [
+        "Integrate a conversational model into a prototype using an inference API."
+      ],
+      "casesAr": [
+        "دمج نموذج محادثة في نموذج أولي عبر واجهة استدلال برمجية."
+      ],
+      "limits": [
+        "Le choix de modèles, les limites et le coût doivent être contrôlés dans la documentation actuelle."
+      ],
+      "limitsEn": [
+        "Model choices, quotas and prices must be checked in current documentation."
+      ],
+      "limitsAr": [
+        "يجب مراجعة النماذج المتاحة والحدود والتكلفة في الوثائق الحالية."
+      ],
+      "gettingStarted": [
+        "Lire la documentation officielle et réaliser un essai sur un corpus ou une tâche non sensibles avant l'intégration."
+      ],
+      "gettingStartedEn": [
+        "Read the official documentation and run a small non-sensitive test before production integration."
+      ],
+      "gettingStartedAr": [
+        "اقرأ الوثائق الرسمية وجرّب الخدمة على مهمة أو بيانات غير حساسة قبل دمجها في الإنتاج."
+      ],
+      "sources": [
+        {
+          "url": "https://docs.cerebras.ai/",
+          "type": "official",
+          "reviewedAt": "2026-11-24"
+        }
+      ],
+      "reviewedAt": "2026-11-24",
+      "status": "documented",
+      "evidence": "official"
+    }
+  },
+  "nvidia-nim": {
+    "fr": "Microservices d’inférence NVIDIA destinés au déploiement de modèles de fondation dans des environnements d’entreprise, cloud ou centres de données.",
+    "en": "NVIDIA inference microservices for deploying foundation models in enterprise, cloud or data center environments.",
+    "ar": "خدمات استدلال مصغرة من NVIDIA لنشر النماذج الأساسية في المؤسسات والسحابة ومراكز البيانات.",
+    "officialSource": "https://docs.nvidia.com/nim/",
+    "sourceReviewedAt": "2026-11-24",
+    "research": {
+      "headline": "Microservices d’inférence NVIDIA destinés au déploiement de modèles de fondation dans des environnements d’entreprise, cloud ou centres de données.",
+      "headlineEn": "NVIDIA inference microservices for deploying foundation models in enterprise, cloud or data center environments.",
+      "headlineAr": "خدمات استدلال مصغرة من NVIDIA لنشر النماذج الأساسية في المؤسسات والسحابة ومراكز البيانات.",
+      "cases": [
+        "Déployer un modèle de langue servi par un conteneur d’inférence sur infrastructure compatible."
+      ],
+      "casesEn": [
+        "Deploy a language model through a containerized inference service on compatible infrastructure."
+      ],
+      "casesAr": [
+        "نشر نموذج لغوي عبر خدمة استدلال داخل حاوية على بنية تحتية متوافقة."
+      ],
+      "limits": [
+        "Les GPU, licences et configurations pris en charge dépendent du microservice et de la version."
+      ],
+      "limitsEn": [
+        "Supported GPUs, licenses and configurations depend on the microservice version."
+      ],
+      "limitsAr": [
+        "تختلف وحدات GPU والتراخيص والإعدادات المدعومة بحسب الخدمة المصغرة وإصدارها."
+      ],
+      "gettingStarted": [
+        "Lire la documentation officielle et réaliser un essai sur un corpus ou une tâche non sensibles avant l'intégration."
+      ],
+      "gettingStartedEn": [
+        "Read the official documentation and run a small non-sensitive test before production integration."
+      ],
+      "gettingStartedAr": [
+        "اقرأ الوثائق الرسمية وجرّب الخدمة على مهمة أو بيانات غير حساسة قبل دمجها في الإنتاج."
+      ],
+      "sources": [
+        {
+          "url": "https://docs.nvidia.com/nim/",
+          "type": "official",
+          "reviewedAt": "2026-11-24"
+        }
+      ],
+      "reviewedAt": "2026-11-24",
+      "status": "documented",
+      "evidence": "official"
+    }
+  },
+  "comet": {
+    "fr": "Plateforme de suivi des expériences d’apprentissage automatique pour enregistrer paramètres, métriques, modèles et comparaisons entre essais.",
+    "en": "Machine-learning experiment tracking platform for logging parameters, metrics, models and run comparisons.",
+    "ar": "منصة لتتبع تجارب تعلم الآلة وتسجيل المعلمات والمقاييس والنماذج ومقارنة التنفيذات.",
+    "officialSource": "https://www.comet.com/docs/v2/guides/experiment-management/quickstart/",
+    "sourceReviewedAt": "2026-11-24",
+    "research": {
+      "headline": "Plateforme de suivi des expériences d’apprentissage automatique pour enregistrer paramètres, métriques, modèles et comparaisons entre essais.",
+      "headlineEn": "Machine-learning experiment tracking platform for logging parameters, metrics, models and run comparisons.",
+      "headlineAr": "منصة لتتبع تجارب تعلم الآلة وتسجيل المعلمات والمقاييس والنماذج ومقارنة التنفيذات.",
+      "cases": [
+        "Comparer les courbes d’entraînement et les hyperparamètres de plusieurs essais."
+      ],
+      "casesEn": [
+        "Compare training curves and hyperparameters across experiments."
+      ],
+      "casesAr": [
+        "مقارنة منحنيات التدريب والمعلمات الفائقة عبر تجارب متعددة."
+      ],
+      "limits": [
+        "Les journaux d’expériences doivent être configurés sans divulguer de données sensibles."
+      ],
+      "limitsEn": [
+        "Experiment logging must be configured without exposing sensitive data."
+      ],
+      "limitsAr": [
+        "ينبغي ضبط تسجيل التجارب دون كشف بيانات حساسة."
+      ],
+      "gettingStarted": [
+        "Lire la documentation officielle et réaliser un essai sur un corpus ou une tâche non sensibles avant l'intégration."
+      ],
+      "gettingStartedEn": [
+        "Read the official documentation and run a small non-sensitive test before production integration."
+      ],
+      "gettingStartedAr": [
+        "اقرأ الوثائق الرسمية وجرّب الخدمة على مهمة أو بيانات غير حساسة قبل دمجها في الإنتاج."
+      ],
+      "sources": [
+        {
+          "url": "https://www.comet.com/docs/v2/guides/experiment-management/quickstart/",
+          "type": "official",
+          "reviewedAt": "2026-11-24"
+        }
+      ],
+      "reviewedAt": "2026-11-24",
+      "status": "documented",
+      "evidence": "official"
+    }
+  },
+  "fal-ai": {
+    "fr": "Plateforme d’inférence hébergée pour exécuter des modèles génératifs à l’aide d’une API synchrone ou d’une file de requêtes asynchrones.",
+    "en": "Hosted inference platform for generative models using synchronous endpoints and asynchronous request queues.",
+    "ar": "منصة استدلال مستضافة لتشغيل النماذج التوليدية عبر واجهات متزامنة أو طوابير طلبات غير متزامنة.",
+    "officialSource": "https://fal.ai/docs/api-reference/inference-api/queue/submit",
+    "sourceReviewedAt": "2026-11-24",
+    "research": {
+      "headline": "Plateforme d’inférence hébergée pour exécuter des modèles génératifs à l’aide d’une API synchrone ou d’une file de requêtes asynchrones.",
+      "headlineEn": "Hosted inference platform for generative models using synchronous endpoints and asynchronous request queues.",
+      "headlineAr": "منصة استدلال مستضافة لتشغيل النماذج التوليدية عبر واجهات متزامنة أو طوابير طلبات غير متزامنة.",
+      "cases": [
+        "Envoyer une génération vidéo en file d’attente, puis récupérer son résultat une fois terminée."
+      ],
+      "casesEn": [
+        "Queue a video-generation task and fetch its result when processing finishes."
+      ],
+      "casesAr": [
+        "إرسال مهمة توليد فيديو إلى قائمة انتظار ثم جلب النتيجة بعد اكتمال المعالجة."
+      ],
+      "limits": [
+        "Les modèles, les délais et les tarifs varient ; les requêtes doivent gérer les échecs."
+      ],
+      "limitsEn": [
+        "Models, latency and pricing vary; callers must handle errors."
+      ],
+      "limitsAr": [
+        "تختلف النماذج والمهل والأسعار؛ ويجب على التطبيقات التعامل مع الإخفاقات."
+      ],
+      "gettingStarted": [
+        "Lire la documentation officielle et réaliser un essai sur un corpus ou une tâche non sensibles avant l'intégration."
+      ],
+      "gettingStartedEn": [
+        "Read the official documentation and run a small non-sensitive test before production integration."
+      ],
+      "gettingStartedAr": [
+        "اقرأ الوثائق الرسمية وجرّب الخدمة على مهمة أو بيانات غير حساسة قبل دمجها في الإنتاج."
+      ],
+      "sources": [
+        {
+          "url": "https://fal.ai/docs/api-reference/inference-api/queue/submit",
+          "type": "official",
+          "reviewedAt": "2026-11-24"
+        }
+      ],
+      "reviewedAt": "2026-11-24",
+      "status": "documented",
+      "evidence": "official"
+    }
+  },
+  "deepinfra": {
+    "fr": "Service d’hébergement de modèles ouverts accessible via des API compatibles avec OpenAI ou des points d’accès natifs.",
+    "en": "Hosting service for open models with OpenAI-compatible APIs and native inference endpoints.",
+    "ar": "خدمة لاستضافة النماذج المفتوحة عبر واجهات برمجية متوافقة مع OpenAI أو نقاط استدلال أصلية.",
+    "officialSource": "https://github.com/deepinfra/docs/blob/main/api-reference/introduction.mdx",
+    "sourceReviewedAt": "2026-11-24",
+    "research": {
+      "headline": "Service d’hébergement de modèles ouverts accessible via des API compatibles avec OpenAI ou des points d’accès natifs.",
+      "headlineEn": "Hosting service for open models with OpenAI-compatible APIs and native inference endpoints.",
+      "headlineAr": "خدمة لاستضافة النماذج المفتوحة عبر واجهات برمجية متوافقة مع OpenAI أو نقاط استدلال أصلية.",
+      "cases": [
+        "Intégrer un modèle de conversation ou d’embeddings dans une application via une API."
+      ],
+      "casesEn": [
+        "Integrate a chat or embedding model into an application using an API."
+      ],
+      "casesAr": [
+        "دمج نموذج محادثة أو تمثيلات متجهية في تطبيق عبر واجهة برمجية."
+      ],
+      "limits": [
+        "Le modèle disponible, ses données d’entraînement et ses conditions d’usage doivent être examinés."
+      ],
+      "limitsEn": [
+        "Model availability, training provenance and usage terms need review."
+      ],
+      "limitsAr": [
+        "يجب مراجعة توافر النموذج ومصدر تدريبه وشروط استخدامه."
+      ],
+      "gettingStarted": [
+        "Lire la documentation officielle et réaliser un essai sur un corpus ou une tâche non sensibles avant l'intégration."
+      ],
+      "gettingStartedEn": [
+        "Read the official documentation and run a small non-sensitive test before production integration."
+      ],
+      "gettingStartedAr": [
+        "اقرأ الوثائق الرسمية وجرّب الخدمة على مهمة أو بيانات غير حساسة قبل دمجها في الإنتاج."
+      ],
+      "sources": [
+        {
+          "url": "https://github.com/deepinfra/docs/blob/main/api-reference/introduction.mdx",
+          "type": "official",
+          "reviewedAt": "2026-11-24"
+        }
+      ],
+      "reviewedAt": "2026-11-24",
+      "status": "documented",
+      "evidence": "official"
+    }
+  },
+  "fiddler-ai": {
+    "fr": "Plateforme de surveillance et de contrôle d’applications LLM proposant analyse des traces, signaux de qualité et garde-fous de sécurité.",
+    "en": "LLM observability and security platform for analyzing traces, quality signals and safety guardrails.",
+    "ar": "منصة لمراقبة تطبيقات النماذج اللغوية وأمنها عبر تحليل السجلات ومؤشرات الجودة وضوابط السلامة.",
+    "officialSource": "https://www.fiddler.ai/llmops",
+    "sourceReviewedAt": "2026-11-24",
+    "research": {
+      "headline": "Plateforme de surveillance et de contrôle d’applications LLM proposant analyse des traces, signaux de qualité et garde-fous de sécurité.",
+      "headlineEn": "LLM observability and security platform for analyzing traces, quality signals and safety guardrails.",
+      "headlineAr": "منصة لمراقبة تطبيقات النماذج اللغوية وأمنها عبر تحليل السجلات ومؤشرات الجودة وضوابط السلامة.",
+      "cases": [
+        "Surveiller les requêtes d’un assistant conversationnel afin de repérer des anomalies et incidents."
+      ],
+      "casesEn": [
+        "Monitor a conversational assistant’s requests to identify anomalies and incidents."
+      ],
+      "casesAr": [
+        "مراقبة طلبات مساعد محادثة لاكتشاف الانحرافات والحوادث."
+      ],
+      "limits": [
+        "Les métriques automatisées ne remplacent pas des évaluations humaines ni une politique de sécurité."
+      ],
+      "limitsEn": [
+        "Automated metrics do not replace human evaluation or a security policy."
+      ],
+      "limitsAr": [
+        "لا تحل المقاييس الآلية محل التقييم البشري أو سياسة الأمن."
+      ],
+      "gettingStarted": [
+        "Lire la documentation officielle et réaliser un essai sur un corpus ou une tâche non sensibles avant l'intégration."
+      ],
+      "gettingStartedEn": [
+        "Read the official documentation and run a small non-sensitive test before production integration."
+      ],
+      "gettingStartedAr": [
+        "اقرأ الوثائق الرسمية وجرّب الخدمة على مهمة أو بيانات غير حساسة قبل دمجها في الإنتاج."
+      ],
+      "sources": [
+        {
+          "url": "https://www.fiddler.ai/llmops",
+          "type": "official",
+          "reviewedAt": "2026-11-24"
+        }
+      ],
+      "reviewedAt": "2026-11-24",
+      "status": "documented",
+      "evidence": "official"
+    }
+  },
+  "ai21-labs": {
+    "fr": "Éditeur de modèles de langage et de services de développement IA, dont la famille Jamba et des outils pour intégrer les modèles aux applications.",
+    "en": "Provider of language models and AI developer services, including Jamba models and application integration tools.",
+    "ar": "مزود للنماذج اللغوية وخدمات تطوير الذكاء الاصطناعي، منها نماذج Jamba وأدوات دمجها في التطبيقات.",
+    "officialSource": "https://www.ai21.com/developer-hub/",
+    "sourceReviewedAt": "2026-11-24",
+    "research": {
+      "headline": "Éditeur de modèles de langage et de services de développement IA, dont la famille Jamba et des outils pour intégrer les modèles aux applications.",
+      "headlineEn": "Provider of language models and AI developer services, including Jamba models and application integration tools.",
+      "headlineAr": "مزود للنماذج اللغوية وخدمات تطوير الذكاء الاصطناعي، منها نماذج Jamba وأدوات دمجها في التطبيقات.",
+      "cases": [
+        "Tester l’extraction d’informations d’un rapport via un modèle disponible dans les services AI21."
+      ],
+      "casesEn": [
+        "Test information extraction from a report using a model offered by AI21."
+      ],
+      "casesAr": [
+        "تجربة استخراج معلومات من تقرير باستخدام نموذج متاح من AI21."
+      ],
+      "limits": [
+        "Les capacités, les quotas et les restrictions varient selon le modèle et son offre."
+      ],
+      "limitsEn": [
+        "Capabilities, limits and restrictions depend on the model and plan."
+      ],
+      "limitsAr": [
+        "تختلف القدرات والحدود والقيود حسب النموذج والخطة."
+      ],
+      "gettingStarted": [
+        "Lire la documentation officielle et réaliser un essai sur un corpus ou une tâche non sensibles avant l'intégration."
+      ],
+      "gettingStartedEn": [
+        "Read the official documentation and run a small non-sensitive test before production integration."
+      ],
+      "gettingStartedAr": [
+        "اقرأ الوثائق الرسمية وجرّب الخدمة على مهمة أو بيانات غير حساسة قبل دمجها في الإنتاج."
+      ],
+      "sources": [
+        {
+          "url": "https://www.ai21.com/developer-hub/",
+          "type": "official",
+          "reviewedAt": "2026-11-24"
+        }
+      ],
+      "reviewedAt": "2026-11-24",
+      "status": "documented",
+      "evidence": "official"
+    }
+  },
+  "dv": {
+    "fr": "L’outil s’appelle tl;dv (et non « dv ») : assistant de réunions permettant d’enregistrer, transcrire, résumer et retrouver des échanges, avec automatisations de suivi.",
+    "en": "The tool is named tl;dv (not “dv”): meeting assistant for recording, transcribing, summarizing and retrieving discussions, with follow-up automations.",
+    "ar": "الاسم الصحيح للأداة هو tl;dv وليس «dv»: مساعد اجتماعات لتسجيل المحادثات ونسخها وتلخيصها والبحث فيها وأتمتة المتابعة.",
+    "officialSource": "https://tldv.io/",
+    "sourceReviewedAt": "2026-11-24",
+    "research": {
+      "headline": "L’outil s’appelle tl;dv (et non « dv ») : assistant de réunions permettant d’enregistrer, transcrire, résumer et retrouver des échanges, avec automatisations de suivi.",
+      "headlineEn": "The tool is named tl;dv (not “dv”): meeting assistant for recording, transcribing, summarizing and retrieving discussions, with follow-up automations.",
+      "headlineAr": "الاسم الصحيح للأداة هو tl;dv وليس «dv»: مساعد اجتماعات لتسجيل المحادثات ونسخها وتلخيصها والبحث فيها وأتمتة المتابعة.",
+      "cases": [
+        "Enregistrer une réunion, retrouver une décision dans la transcription et préparer un compte rendu."
+      ],
+      "casesEn": [
+        "Record a meeting, find a decision in its transcript and prepare follow-up notes."
+      ],
+      "casesAr": [
+        "تسجيل اجتماع والعثور على قرار في نص المحضر وإعداد ملاحظات المتابعة."
+      ],
+      "limits": [
+        "L’enregistrement nécessite le respect des règles de confidentialité, de consentement et de conservation."
+      ],
+      "limitsEn": [
+        "Recording requires compliance with privacy, consent and retention requirements."
+      ],
+      "limitsAr": [
+        "يتطلب التسجيل احترام قواعد الخصوصية والموافقة والاحتفاظ بالبيانات."
+      ],
+      "gettingStarted": [
+        "Lire la documentation officielle et réaliser un essai sur un corpus ou une tâche non sensibles avant l'intégration."
+      ],
+      "gettingStartedEn": [
+        "Read the official documentation and run a small non-sensitive test before production integration."
+      ],
+      "gettingStartedAr": [
+        "اقرأ الوثائق الرسمية وجرّب الخدمة على مهمة أو بيانات غير حساسة قبل دمجها في الإنتاج."
+      ],
+      "sources": [
+        {
+          "url": "https://tldv.io/",
+          "type": "official",
+          "reviewedAt": "2026-11-24"
+        }
+      ],
+      "reviewedAt": "2026-11-24",
+      "status": "documented",
+      "evidence": "official"
+    },
+    "currentName": "tl;dv"
   }
 }
