@@ -4422,5 +4422,89 @@
     "ar": "وكيل تطوير من AWS متاح في بيئات التطوير وGitHub ضمن واجهات أخرى. يمكنه استخدام سياق المشكلة والمستودع لإعداد إصلاح وطلب دمج. ينبغي تقييد صلاحيات IAM ومراجعة التعديلات.",
     "officialSource": "https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/github-feature-development.html",
     "sourceReviewedAt": "2026-11-24"
+  },
+  "lovable": {
+    "fr": "Plateforme de création d'applications web par dialogue avec un agent IA, combinant interface, backend, intégrations API et synchronisation Git. Elle propose des outils de test, de sécurité et de publication. Vérifier les règles d'accès aux données et les secrets avant déploiement.",
+    "en": "Conversational web app builder combining interface, backend, API integrations and Git synchronization. Includes testing, security and publishing tools. Review data access rules and secrets before deployment.",
+    "ar": "منصة لإنشاء تطبيقات الويب عبر الحوار مع وكيل ذكاء اصطناعي تجمع الواجهات والخلفية البرمجية وتكاملات API ومزامنة Git. توفر أدوات للاختبار والأمان والنشر. ينبغي مراجعة قواعد الوصول إلى البيانات والأسرار قبل النشر.",
+    "officialSource": "https://docs.lovable.dev/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "bolt-new": {
+    "fr": "Atelier de développement dans le navigateur permettant de décrire une application, modifier son code et visualiser son fonctionnement. Les modes de planification et les outils de sécurité facilitent les itérations. Tester les dépendances et les fonctionnalités avant publication.",
+    "en": "Browser-based development workspace for describing applications, editing code and previewing behavior. Planning modes and security tools support iteration. Test dependencies and features before publishing.",
+    "ar": "بيئة تطوير في المتصفح تتيح وصف التطبيق وتعديل شيفرته ومعاينة عمله. تسهل أوضاع التخطيط وأدوات الأمان التحسين التدريجي. ينبغي اختبار التبعيات والوظائف قبل النشر.",
+    "officialSource": "https://support.bolt.new/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "v0": {
+    "fr": "Agent de création d'interfaces et d'applications full-stack de Vercel. Il génère du code, propose des prévisualisations, des intégrations de bases de données et une synchronisation GitHub. Examiner les accès serveur, les variables d'environnement et les tests avant déploiement.",
+    "en": "Vercel agent for building interfaces and full-stack applications. Generates code and provides previews, database integrations and GitHub synchronization. Review server access, environment variables and tests before deployment.",
+    "ar": "وكيل من Vercel لإنشاء الواجهات والتطبيقات المتكاملة. يولد الشيفرة ويوفر المعاينات وتكامل قواعد البيانات ومزامنة GitHub. ينبغي مراجعة الوصول إلى الخادم ومتغيرات البيئة والاختبارات قبل النشر.",
+    "officialSource": "https://v0.app/docs",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "replit": {
+    "fr": "Environnement de développement hébergé avec agent IA, éditeur, prévisualisation, tests et publication. Il permet de créer des applications à partir de descriptions et de gérer bases de données et authentification. Distinguer données de test et de production et surveiller les coûts.",
+    "en": "Hosted development environment with an AI agent, editor, previews, testing and publishing. Supports prompt-based app creation, databases and authentication. Separate test and production data and monitor costs.",
+    "ar": "بيئة تطوير مستضافة تضم وكيل ذكاء اصطناعي ومحررًا ومعاينات واختبارات ونشرًا. تتيح إنشاء التطبيقات من الأوصاف وإدارة قواعد البيانات والمصادقة. ينبغي فصل بيانات الاختبار عن الإنتاج ومراقبة التكاليف.",
+    "officialSource": "https://docs.replit.com/features/agent/overview",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "firebase-studio": {
+    "fr": "Environnement cloud de développement et de prototypage de Google dont la fermeture est annoncée pour le 22 mars 2027. Les espaces existants restent utilisables jusqu'à cette date selon la documentation. Préparer la migration vers les outils recommandés ; les services Firebase principaux ne sont pas concernés.",
+    "en": "Google cloud development and prototyping environment scheduled to sunset on March 22, 2027. Existing workspaces remain usable until that date according to documentation. Prepare migration to recommended tools; core Firebase services are unaffected.",
+    "ar": "بيئة تطوير ونمذجة أولية سحابية من Google تقرر إيقافها في 22 مارس 2027. تظل مساحات العمل القائمة قابلة للاستخدام حتى ذلك التاريخ وفق الوثائق. ينبغي إعداد الترحيل إلى الأدوات الموصى بها؛ لا يشمل الإيقاف خدمات Firebase الأساسية.",
+    "officialSource": "https://firebase.google.com/docs/studio/migrating-project",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "framer": {
+    "fr": "Éditeur visuel de sites web associant conception, CMS, publication et agents IA travaillant sur le contenu et les interfaces. Adapté aux portails éditoriaux et portfolios. Vérifier l'accessibilité, les mises en page mobiles et les possibilités de portabilité.",
+    "en": "Visual website editor combining design, CMS, publishing and AI agents working on content and interfaces. Suitable for editorial sites and portfolios. Check accessibility, mobile layouts and portability options.",
+    "ar": "محرر مرئي لمواقع الويب يجمع التصميم ونظام إدارة المحتوى والنشر ووكلاء الذكاء الاصطناعي العاملين على المحتوى والواجهات. يناسب المواقع التحريرية ومعارض الأعمال. ينبغي مراجعة إمكانية الوصول وتنسيقات الهاتف وقابلية النقل.",
+    "officialSource": "https://www.framer.com/ai/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "webflow-ai": {
+    "fr": "Fonctions IA intégrées à Webflow pour générer des sites multipages, thèmes et contenus CMS, puis les modifier dans un éditeur visuel. Des outils SEO et AEO complètent la conception. Vérifier les limites d'export, l'accessibilité et les contenus générés.",
+    "en": "AI features integrated into Webflow for generating multipage sites, themes and CMS content and refining them visually. SEO and AEO tools complement design. Check export limitations, accessibility and generated content.",
+    "ar": "وظائف ذكاء اصطناعي مدمجة في Webflow لإنشاء مواقع متعددة الصفحات وسمات ومحتوى CMS وتعديلها بصريًا. تكمل أدوات SEO وAEO عملية التصميم. ينبغي مراجعة قيود التصدير وإمكانية الوصول والمحتوى المولد.",
+    "officialSource": "https://help.webflow.com/hc/en-us/articles/38840145286035-Build-a-site-with-Webflow-s-AI-site-builder",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "durable": {
+    "fr": "Générateur de sites web sans code destiné notamment aux petites entreprises. Il produit une première structure et des contenus à partir de renseignements sur l'activité, modifiables ensuite. Vérifier les textes commerciaux, les domaines et les conditions d'hébergement.",
+    "en": "No-code website builder aimed particularly at small businesses. Produces an initial structure and editable content from business information. Review commercial copy, domains and hosting terms.",
+    "ar": "منشئ مواقع دون برمجة موجه خصوصًا للمؤسسات الصغيرة. ينتج بنية أولية ومحتوى قابلًا للتعديل انطلاقًا من معلومات النشاط. ينبغي مراجعة النصوص التجارية والنطاقات وشروط الاستضافة.",
+    "officialSource": "https://durable.com/ai-website-builder",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "appy-pie": {
+    "fr": "Plateforme de création d'applications à partir de descriptions, avec éditeur visuel et parcours de publication mobile. Elle propose aussi des outils de création de sites, formulaires et quiz. Vérifier les exigences des boutiques d'applications et les frais de publication.",
+    "en": "Prompt-based application creation platform with a visual editor and mobile publishing workflow. Also offers website, form and quiz builders. Check app store requirements and publishing fees.",
+    "ar": "منصة لإنشاء التطبيقات من الأوصاف مع محرر مرئي ومسار للنشر على الهواتف. توفر أيضًا أدوات لإنشاء المواقع والنماذج والاختبارات. ينبغي مراجعة متطلبات متاجر التطبيقات ورسوم النشر.",
+    "officialSource": "https://www.appypie.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "glide": {
+    "fr": "Plateforme de création d'applications métiers à partir de données, évoluant vers GlideOS avec agents IA, projets, bases de données et gestion des accès. Adaptée aux outils internes. Vérifier les autorisations par utilisateur et les limites de synchronisation.",
+    "en": "Business app platform built around data, evolving toward GlideOS with AI agents, projects, databases and access management. Suited to internal tools. Review per-user permissions and synchronization limits.",
+    "ar": "منصة لإنشاء تطبيقات الأعمال انطلاقًا من البيانات تتطور نحو GlideOS مع وكلاء ذكاء اصطناعي ومشاريع وقواعد بيانات وإدارة الوصول. تناسب الأدوات الداخلية. ينبغي مراجعة صلاحيات المستخدمين وحدود المزامنة.",
+    "officialSource": "https://www.glideapps.com/docs/os/what-is-glide-os",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "create": {
+    "fr": "Service anciennement identifié comme Create.xyz et désormais présenté sous le nom Anything. Il transforme des descriptions en applications mobiles, sites et outils fondés sur du code, avec des intégrations externes. Contrôler l'authentification, la portabilité et les coûts.",
+    "en": "Service formerly identified as Create.xyz and now presented as Anything. Turns prompts into code-based mobile apps, sites and tools with external integrations. Review authentication, portability and costs.",
+    "ar": "خدمة عرفت سابقًا باسم Create.xyz وتقدم الآن باسم Anything. تحول الأوصاف إلى تطبيقات هاتفية ومواقع وأدوات قائمة على الشيفرة مع تكاملات خارجية. ينبغي مراجعة المصادقة وقابلية النقل والتكاليف.",
+    "officialSource": "https://www.anything.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "base44": {
+    "fr": "Plateforme de création d'applications et sites par conversation avec une IA. Elle associe éditeur, gestion de données, branches, intégrations et fonctions de test. Examiner les règles de sécurité des données, les sauvegardes et les droits d'accès avant publication.",
+    "en": "Conversational AI platform for building apps and websites. Combines editor, data management, branches, integrations and testing features. Review data security rules, backups and access permissions before publishing.",
+    "ar": "منصة لإنشاء التطبيقات والمواقع عبر الحوار مع الذكاء الاصطناعي. تجمع المحرر وإدارة البيانات والفروع والتكاملات ووظائف الاختبار. ينبغي مراجعة قواعد أمان البيانات والنسخ الاحتياطية وصلاحيات الوصول قبل النشر.",
+    "officialSource": "https://docs.base44.com/",
+    "sourceReviewedAt": "2026-11-24"
   }
 }
