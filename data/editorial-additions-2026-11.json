@@ -6564,5 +6564,47 @@
     "ar": "حل لتخصيص متاجر Shopify يوفر التوصيات وإدارة عروض السلة وعروض ما بعد الشراء واختبارات A/B. تختلف خدمة Rebuy Monetize المجانية عن الوحدات المدفوعة التي ترتبط تكلفتها جزئيًا بعدد الطلبات. ينبغي مراجعة ملاءمة العروض وتجنب الواجهات المضللة.",
     "officialSource": "https://www.rebuyengine.com/pricing",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "freepik-ai": {
+    "fr": "Suite créative Magnific, anciennement Freepik, réunissant génération et retouche d’images, vidéo, audio et bibliothèque de contenus. Accès web et API selon l’offre, avec accès gratuit limité, abonnements et crédits. Vérifier les licences et conditions d’attribution.",
+    "en": "Magnific creative suite, formerly Freepik, combining image generation and editing, video, audio and a stock library. Web and API access depending on plan, with limited free access, subscriptions and credits. Check licensing and attribution requirements.",
+    "ar": "مجموعة Magnific الإبداعية المعروفة سابقًا باسم Freepik تجمع توليد الصور وتحريرها والفيديو والصوت ومكتبة المحتوى. تتاح عبر الويب والواجهات البرمجية بحسب الخطة، مع وصول مجاني محدود واشتراكات وأرصدة. ينبغي مراجعة التراخيص وشروط نسب المحتوى.",
+    "officialSource": "https://www.freepik.com/ai/faq/freepik-subscriptions-plans",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "decktopus": {
+    "fr": "Outil web pour générer des présentations et modifier les diapositives à l’aide de l’IA, avec modèles et outils de partage. Propose des abonnements individuels et professionnels avec crédits d’IA, également utilisables via son serveur MCP. Vérifier les textes et la mise en page avant diffusion.",
+    "en": "Web tool for generating presentations and editing slides with AI, including templates and sharing tools. Individual and business subscriptions include AI credits, also usable through its MCP server. Review text and layout before distribution.",
+    "ar": "أداة ويب لتوليد العروض وتعديل الشرائح بالذكاء الاصطناعي مع قوالب وأدوات مشاركة. توفر اشتراكات فردية ومهنية بأرصدة للذكاء الاصطناعي يمكن استخدامها عبر خادم MCP أيضًا. ينبغي مراجعة النصوص والتنسيق قبل النشر.",
+    "officialSource": "https://www.decktopus.com/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "presentations-ai": {
+    "fr": "Générateur de présentations à partir d’instructions textuelles, avec modèles visuels, actualisation de données et suivi des présentations selon l’offre. Accès web et API ; crédits d’essai, abonnements et consommation par diapositive pour l’API. Vérifier les données et la cohérence graphique.",
+    "en": "Presentation generator using text instructions, visual templates, data refresh and presentation analytics depending on plan. Web and API access; trial credits, subscriptions and per-slide API usage. Review data and visual consistency.",
+    "ar": "مولد عروض تقديمية انطلاقًا من تعليمات نصية، مع قوالب مرئية وتحديث البيانات وتحليلات العروض بحسب الخطة. يتاح عبر الويب والواجهات البرمجية مع أرصدة تجريبية واشتراكات واستهلاك محسوب لكل شريحة عبر الواجهة البرمجية. ينبغي مراجعة البيانات والاتساق البصري.",
+    "officialSource": "https://docs.presentations.ai/docs/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "magicslides": {
+    "fr": "Assistant de création de diapositives depuis un sujet ou du contenu fourni, utilisable sur le Web et via une extension Google Slides. Les présentations peuvent être exportées en PPTX ou PDF selon l’offre. Plans avec quotas et fonctions premium. Contrôler la fidélité de l’export.",
+    "en": "Slide creation assistant using a topic or supplied content, available on the web and through a Google Slides add-on. Presentations can be exported to PPTX or PDF depending on plan. Plans include quotas and premium features. Check export fidelity.",
+    "ar": "مساعد لإنشاء الشرائح انطلاقًا من موضوع أو محتوى مقدم، يتاح عبر الويب وإضافة Google Slides. يمكن تصدير العروض بصيغتي PPTX وPDF بحسب الخطة. تتضمن العروض حصصًا ووظائف مميزة. ينبغي التحقق من دقة التنسيق بعد التصدير.",
+    "officialSource": "https://www.magicslides.app/addon",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "canva-presentations": {
+    "fr": "Fonctions de création de présentations dans Canva, notamment Magic Design pour proposer des structures et mises en page à partir d’instructions. Accès via Canva sur le Web et les applications compatibles ; utilisation gratuite limitée et quotas supérieurs selon l’abonnement. Vérifier les droits des éléments visuels.",
+    "en": "Canva presentation creation features, including Magic Design for suggesting structures and layouts from prompts. Access via Canva web and compatible apps; limited free use and higher allowances depending on subscription. Check visual asset rights.",
+    "ar": "وظائف إنشاء العروض في Canva ومنها Magic Design لاقتراح البنية والتنسيق بناءً على التعليمات. تتاح عبر الويب والتطبيقات المتوافقة مع استخدام مجاني محدود وحصص أكبر بحسب الاشتراك. ينبغي مراجعة حقوق العناصر البصرية.",
+    "officialSource": "https://www.canva.com/magic-design/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "slidespeak": {
+    "fr": "Assistant de création de présentations à partir de documents Word, PDF, Excel ou d’instructions textuelles. Édition et export PowerPoint ou PDF, avec API pour automatiser les rapports. Accès web par abonnement et crédits ; API facturée selon l’usage. Vérifier les données et le rendu des fichiers.",
+    "en": "Presentation assistant using Word, PDF, Excel documents or text prompts. Editing and PowerPoint or PDF export, with an API for automated reports. Web subscriptions and credits; usage-based API billing. Review data and file rendering.",
+    "ar": "مساعد لإنشاء العروض من مستندات Word وPDF وExcel أو التعليمات النصية. يوفر التحرير والتصدير إلى PowerPoint أو PDF وواجهة برمجية لأتمتة التقارير. يتاح عبر الويب باشتراكات وأرصدة وتحتسب رسوم الواجهة بحسب الاستخدام. ينبغي مراجعة البيانات ومظهر الملفات.",
+    "officialSource": "https://slidespeak.co/help/articles/how-credits-work-in-slidespeak",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
