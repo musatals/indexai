@@ -6767,5 +6767,54 @@
     "ar": "مولد موسيقى مصاحبة عبر الويب من SOUNDRAW يتيح اختيار الأجواء والنوع وتخصيص البنية الموسيقية. تعتمد الاشتراكات والتراخيص على الاستخدامات المصرح بها. تظل الموسيقى المعفاة من الإتاوات خاضعة لشروط الترخيص؛ ينبغي مراجعة قيود إعادة التوزيع.",
     "officialSource": "https://ecrettmusic.com/terms",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "lara-translate": {
+    "fr": "Service de traduction de Translated spécialisé dans les textes, documents, images et audio, avec adaptation stylistique et terminologique. Accès web, SDK, API et MCP ; offre gratuite limitée, abonnements et facturation API selon les caractères sources ou la durée audio. Faire relire les traductions sensibles.",
+    "en": "Translated's specialized translation service for text, documents, images and audio, with stylistic and terminology adaptation. Web, SDK, API and MCP access; limited free tier, subscriptions and API billing by source characters or audio duration. Have sensitive translations reviewed.",
+    "ar": "خدمة ترجمة من Translated متخصصة في النصوص والوثائق والصور والصوت مع تكييف الأسلوب والمصطلحات. تتاح عبر الويب وحزم التطوير والواجهات البرمجية وMCP، بخطة مجانية محدودة واشتراكات وفوترة بحسب حروف النص المصدر أو مدة الصوت. ينبغي مراجعة الترجمات الحساسة.",
+    "officialSource": "https://laratranslate.com/translate",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "playground-ai": {
+    "fr": "Éditeur graphique génératif pour créer et retoucher des compositions avec des calques de texte, images et formes. Accès web et application compatible, offre gratuite limitée et abonnements à crédits dont la consommation dépend du modèle. Vérifier les droits des ressources et les textes générés.",
+    "en": "Generative graphic editor for creating and editing designs with text, image and shape layers. Web and compatible app access, limited free tier and credit subscriptions with model-specific usage. Review asset rights and generated text.",
+    "ar": "محرر رسومي توليدي لإنشاء التصاميم وتعديلها باستخدام طبقات النص والصور والأشكال. يتاح عبر الويب والتطبيقات المتوافقة مع خطة مجانية محدودة واشتراكات بالأرصدة يختلف استهلاكها بحسب النموذج. ينبغي مراجعة حقوق العناصر والنصوص المولدة.",
+    "officialSource": "https://playgroundai.com/design/whats-new",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "mage-space": {
+    "fr": "Plateforme web multimodèle pour générer et modifier images, vidéos et audio, avec import de modèles LoRA selon l’offre. Propose API, SDK Python et TypeScript et serveur MCP. Accès gratuit limité, abonnements et unités Gems selon les opérations. Vérifier licences et confidentialité des créations.",
+    "en": "Multi-model web platform for generating and editing images, video and audio, with LoRA import depending on plan. Offers API, Python and TypeScript SDKs and MCP server. Limited free access, subscriptions and Gems for operations. Review licenses and creation privacy.",
+    "ar": "منصة ويب متعددة النماذج لتوليد الصور والفيديو والصوت وتعديلها، مع استيراد LoRA بحسب الخطة. توفر واجهة برمجية وحزم Python وTypeScript وخادم MCP. تتاح بخطة مجانية محدودة واشتراكات ووحدات Gems بحسب العمليات. ينبغي مراجعة التراخيص وخصوصية المخرجات.",
+    "officialSource": "https://www.mage.space/membership",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "clockwise": {
+    "fr": "Ancien assistant de calendrier qui réorganisait les réunions flexibles et réservait des plages de concentration. Le service a annoncé sa fermeture en mars 2026 et recommandé une transition vers Reclaim. Fiche historique : les anciens abonnements ne sont plus à présenter comme disponibles.",
+    "en": "Former calendar assistant that rescheduled flexible meetings and protected focus time. The service announced shutdown in March 2026 and recommended transition to Reclaim. Historical entry: legacy subscriptions should no longer be presented as available.",
+    "ar": "مساعد سابق للتقويم يعيد جدولة الاجتماعات المرنة ويحجز أوقات التركيز. أعلنت الخدمة إغلاقها في مارس 2026 وأوصت بالانتقال إلى Reclaim. سجل تاريخي؛ لا ينبغي تقديم الاشتراكات السابقة باعتبارها متاحة.",
+    "officialSource": "https://getclockwise.com/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "sunsama": {
+    "fr": "Planificateur quotidien combinant tâches, calendriers et organisation volontaire de la charge de travail. Accès web et applications compatibles avec intégrations aux outils professionnels. Essai puis abonnement individuel ; vérifier les autorisations des calendriers connectés.",
+    "en": "Daily planner combining tasks, calendars and intentional workload planning. Web and compatible apps with workplace integrations. Trial followed by individual subscription; review connected calendar permissions.",
+    "ar": "مخطط يومي يجمع المهام والتقويمات والتنظيم الواعي لعبء العمل. يتاح عبر الويب والتطبيقات المتوافقة مع تكاملات مهنية. تجربة ثم اشتراك فردي؛ ينبغي مراجعة صلاحيات التقويمات المتصلة.",
+    "officialSource": "https://help.sunsama.com/docs/billing/overview/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "obviously-ai": {
+    "fr": "Plateforme de science des données sans code pour entraîner des modèles prédictifs à partir de tableaux, notamment classification, régression et prévision temporelle. Accès web et intégrations API, offres commerciales et quotas de prédictions. Évaluer les modèles sur des données indépendantes.",
+    "en": "No-code data science platform for training predictive models from tabular data, including classification, regression and time-series forecasting. Web and API integrations, commercial plans and prediction quotas. Evaluate models on independent data.",
+    "ar": "منصة لعلوم البيانات دون برمجة لتدريب نماذج تنبؤية من البيانات الجدولية تشمل التصنيف والانحدار والتنبؤ الزمني. تتاح عبر الويب والتكاملات البرمجية بعروض تجارية وحصص للتنبؤات. ينبغي تقييم النماذج على بيانات مستقلة.",
+    "officialSource": "https://obviously.ai/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "polymer": {
+    "fr": "Outil de business intelligence sans code pour transformer des tableaux en visualisations et tableaux de bord, avec assistant PolymerAI et intégration API. Accès web, abonnements et quotas de réponses IA selon la formule. Contrôler les agrégations et les permissions de partage.",
+    "en": "No-code business intelligence tool turning spreadsheets into visualizations and dashboards, with PolymerAI assistant and API integration. Web access, subscriptions and plan-dependent AI response quotas. Review aggregations and sharing permissions.",
+    "ar": "أداة ذكاء أعمال دون برمجة لتحويل الجداول إلى تصورات ولوحات معلومات مع مساعد PolymerAI وتكامل برمجي. تتاح عبر الويب باشتراكات وحصص لإجابات الذكاء الاصطناعي بحسب الخطة. ينبغي مراجعة التجميعات وصلاحيات المشاركة.",
+    "officialSource": "https://www.polymersearch.com/pricing",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
