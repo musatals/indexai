@@ -5164,5 +5164,1405 @@
     "ar": "واجهة برمجية للنسخ الصوتي المباشر والمؤجل مع اختيار النماذج وخيارات اكتشاف اللغة. تختلف إمكانات تبديل اللغة والترجمة بحسب النموذج. ينبغي مراجعة التغطية اللغوية وزمن الاستجابة ومعالجة البيانات.",
     "officialSource": "https://eu1.docs.gladia.io/languages/supported-languages/",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "julius-ai": {
+    "fr": "Assistant d'analyse de données permettant d'interroger des feuilles de calcul, de produire des graphiques et de réaliser des analyses statistiques avec du code. Vérifier les traitements, hypothèses et résultats avant de les utiliser dans un rapport scientifique.",
+    "en": "Data analysis assistant for querying spreadsheets, creating charts and performing statistical analyses with code. Verify transformations, assumptions and results before using them in scientific reports.",
+    "ar": "مساعد لتحليل البيانات يتيح الاستفسار عن جداول البيانات وإنشاء الرسوم البيانية وإجراء التحليلات الإحصائية بالشيفرة. ينبغي التحقق من المعالجات والافتراضات والنتائج قبل استخدامها في التقارير العلمية.",
+    "officialSource": "https://julius.ai/home/statistical-software",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "hex": {
+    "fr": "Environnement collaboratif d'analyse associant notebooks SQL et Python, visualisations et assistance IA. Les analyses peuvent être transformées en applications de données. Vérifier les requêtes générées, la reproductibilité et les droits d'accès.",
+    "en": "Collaborative analytics environment combining SQL and Python notebooks, visualizations and AI assistance. Analyses can become data applications. Check generated queries, reproducibility and access rights.",
+    "ar": "بيئة تعاونية للتحليل تجمع دفاتر SQL وPython والتصورات والمساعدة بالذكاء الاصطناعي. يمكن تحويل التحليلات إلى تطبيقات بيانات. ينبغي مراجعة الاستعلامات المولدة وقابلية إعادة الإنتاج وصلاحيات الوصول.",
+    "officialSource": "https://hex.tech/product/notebooks/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "thoughtspot": {
+    "fr": "Plateforme décisionnelle permettant d'explorer des données métier par recherche et dialogue avec Spotter. Les analystes configurables peuvent s'appuyer sur des modèles de données spécialisés. Vérifier les définitions des indicateurs et les restrictions d'accès.",
+    "en": "Business intelligence platform for exploring business data through search and dialogue with Spotter. Configurable analysts can use specialized data models. Verify metric definitions and access restrictions.",
+    "ar": "منصة ذكاء أعمال لاستكشاف البيانات المهنية عبر البحث والحوار مع Spotter. يمكن للمحللين القابلين للتخصيص الاستناد إلى نماذج بيانات متخصصة. ينبغي مراجعة تعريفات المؤشرات وقيود الوصول.",
+    "officialSource": "https://docs.thoughtspot.com/cloud/26.10.0.cl/spotter-analysts",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "mlflow": {
+    "fr": "Plateforme open source de suivi des expériences et du cycle de vie des modèles, étendue à la traçabilité et à l'évaluation des applications génératives et agents. Comparer les versions sur des jeux de tests représentatifs et protéger les données enregistrées dans les traces.",
+    "en": "Open-source experiment tracking and model lifecycle platform extended to tracing and evaluating generative applications and agents. Compare versions on representative test sets and protect data captured in traces.",
+    "ar": "منصة مفتوحة المصدر لتتبع التجارب ودورة حياة النماذج تمتد إلى تتبع وتقييم التطبيقات التوليدية والوكلاء. ينبغي مقارنة الإصدارات على مجموعات اختبار ممثلة وحماية البيانات المسجلة في سجلات التتبع.",
+    "officialSource": "https://mlflow.org/docs/latest/genai/tracing/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "langfuse": {
+    "fr": "Plateforme d'observabilité des applications LLM permettant d'inspecter les appels de modèles, les étapes d'agents et les scores d'évaluation. Les jeux de données et expériences facilitent les tests répétés. Éviter de journaliser des secrets ou des données personnelles inutiles.",
+    "en": "LLM application observability platform for inspecting model calls, agent steps and evaluation scores. Datasets and experiments facilitate repeated tests. Avoid logging secrets or unnecessary personal data.",
+    "ar": "منصة لمراقبة تطبيقات النماذج اللغوية الكبيرة تتيح فحص استدعاءات النماذج وخطوات الوكلاء ودرجات التقييم. تسهل مجموعات البيانات والتجارب الاختبارات المتكررة. ينبغي تجنب تسجيل الأسرار أو البيانات الشخصية غير الضرورية.",
+    "officialSource": "https://langfuse.com/resources/engineering/ai-safety",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "humanloop": {
+    "fr": "Ancienne plateforme de gestion de prompts, d'expérimentation et d'évaluation des applications LLM. L'éditeur a annoncé sa fermeture au 8 septembre 2025 après son acquisition. Référence historique conservée ; ne pas considérer le service comme une solution active.",
+    "en": "Former prompt management, experimentation and evaluation platform for LLM applications. The provider announced its shutdown on September 8, 2025 following acquisition. Retained as a historical reference, not an active service.",
+    "ar": "منصة سابقة لإدارة التعليمات والتجارب وتقييم تطبيقات النماذج اللغوية الكبيرة. أعلن المزود إغلاقها في 8 سبتمبر 2025 بعد الاستحواذ. تحفظ كمرجع تاريخي ولا ينبغي اعتبارها خدمة نشطة.",
+    "officialSource": "https://humanloop.com/docs/changelog/2025/08",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "neptune-ai": {
+    "fr": "Ancien service de suivi des expériences d'apprentissage automatique, métriques et artefacts de modèles. Le service SaaS a été arrêté le 6 mars 2026 et les données hébergées supprimées selon la FAQ officielle. Référence historique, non disponible comme service cloud actif.",
+    "en": "Former service for tracking machine learning experiments, metrics and model artifacts. The SaaS service shut down on March 6, 2026 and hosted data was deleted according to the official FAQ. Historical reference, not an active cloud service.",
+    "ar": "خدمة سابقة لتتبع تجارب التعلم الآلي والمقاييس ومخرجات النماذج. أوقفت الخدمة السحابية في 6 مارس 2026 وحذفت البيانات المستضافة وفق الأسئلة الشائعة الرسمية. مرجع تاريخي وليس خدمة سحابية نشطة.",
+    "officialSource": "https://support.neptune.ai/en/articles/13925412-faq",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "unsloth": {
+    "fr": "Bibliothèque et environnement d'optimisation de l'affinage des modèles linguistiques, notamment par adaptation efficace en paramètres. Permet d'expérimenter avec des ressources matérielles limitées selon le modèle. Vérifier les licences, la qualité des données et les performances sur un jeu de validation distinct.",
+    "en": "Library and environment for optimizing language model fine-tuning, including parameter-efficient adaptation. Supports experiments with limited hardware depending on the model. Check licenses, data quality and performance on a separate validation set.",
+    "ar": "مكتبة وبيئة لتحسين الضبط الدقيق للنماذج اللغوية بما في ذلك التكيف الفعال للمعلمات. تتيح التجارب بموارد مادية محدودة بحسب النموذج. ينبغي مراجعة التراخيص وجودة البيانات والأداء على مجموعة تحقق مستقلة.",
+    "officialSource": "https://unsloth.ai/docs/get-started/fine-tuning-llms-guide",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "pytorch": {
+    "fr": "Bibliothèque open source d'apprentissage profond proposant des tenseurs, la différentiation automatique avec autograd et des outils d'entraînement de réseaux neuronaux. Utile pour la recherche et le développement de modèles ; documenter les versions, graines aléatoires et configurations matérielles.",
+    "en": "Open-source deep learning library offering tensors, automatic differentiation with autograd and neural network training tools. Useful for model research and development; document versions, random seeds and hardware configurations.",
+    "ar": "مكتبة مفتوحة المصدر للتعلم العميق توفر الموترات والتفاضل التلقائي عبر autograd وأدوات تدريب الشبكات العصبية. تفيد في البحث وتطوير النماذج؛ ينبغي توثيق الإصدارات والبذور العشوائية وإعدادات الأجهزة.",
+    "officialSource": "https://docs.pytorch.org/docs/stable/autograd.html",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "tensorflow": {
+    "fr": "Cadre open source d'apprentissage automatique pour construire et entraîner des modèles, notamment avec l'API Keras. Il permet de préparer des pipelines de données et d'évaluer les réseaux neuronaux. Vérifier la compatibilité des versions et la généralisation sur des données indépendantes.",
+    "en": "Open-source machine learning framework for building and training models, including through the Keras API. Supports data pipelines and neural network evaluation. Check version compatibility and generalization on independent data.",
+    "ar": "إطار مفتوح المصدر للتعلم الآلي لبناء النماذج وتدريبها خصوصًا عبر واجهة Keras. يدعم مسارات البيانات وتقييم الشبكات العصبية. ينبغي مراجعة توافق الإصدارات وقدرة التعميم على بيانات مستقلة.",
+    "officialSource": "https://www.tensorflow.org/guide/keras/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "rask-ai": {
+    "fr": "Plateforme de localisation audio et vidéo : transcription, traduction, doublage, correction segment par segment et export de sous-titres. Une API permet d’automatiser ces opérations. Vérifier le consentement des locuteurs avant le clonage vocal.",
+    "en": "Audio and video localization platform offering transcription, translation, dubbing, segment-level editing and subtitle export. An API supports workflow automation. Obtain speaker consent before voice cloning.",
+    "ar": "منصة لتوطين الصوت والفيديو تتيح تفريغ الكلام وترجمته ودبلجته وتصحيح المقاطع وتصدير الترجمة النصية. توفر واجهة برمجية لأتمتة هذه العمليات. ينبغي الحصول على موافقة المتحدثين قبل استنساخ أصواتهم.",
+    "officialSource": "https://help.rask.ai/hc/what-you-can-create-with-rask",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "elevenlabs-dubbing": {
+    "fr": "Fonction de doublage multilingue de contenus audio et vidéo. Le studio permet de modifier les transcriptions, de réattribuer les locuteurs et de régénérer les segments. Contrôler la prononciation et les autorisations vocales.",
+    "en": "Multilingual audio and video dubbing feature. The studio supports transcript edits, speaker reassignment and segment regeneration. Review pronunciation and voice permissions.",
+    "ar": "ميزة لدبلجة المحتويات الصوتية والمرئية بلغات متعددة. يتيح الاستوديو تعديل النصوص المفرغة وإعادة تعيين المتحدثين وتوليد المقاطع من جديد. ينبغي مراجعة النطق والتحقق من أذونات استخدام الأصوات.",
+    "officialSource": "https://elevenlabs.io/docs/overview/capabilities/dubbing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "heygen-translate": {
+    "fr": "Service web de traduction vidéo permettant d’importer un fichier, de choisir les langues cibles et de produire une version doublée. Utile pour adapter des contenus pédagogiques ou professionnels ; contrôler les termes spécialisés et la synchronisation.",
+    "en": "Web-based video translation service that accepts uploaded files, target language selection and dubbed output. Useful for adapting educational and professional content; review specialized terminology and synchronization.",
+    "ar": "خدمة عبر الويب لترجمة الفيديو تتيح رفع ملف واختيار اللغات المستهدفة وإنتاج نسخة مدبلجة. تفيد في تكييف المحتويات التعليمية والمهنية؛ ينبغي مراجعة المصطلحات المتخصصة وتزامن الصوت والصورة.",
+    "officialSource": "https://help.heygen.com/en/articles/10029081-how-to-get-started-with-video-translation",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "unbabel": {
+    "fr": "Solution de traduction destinée notamment aux entreprises et au service client, combinant traduction automatique, estimation de qualité et révision humaine lorsque nécessaire. Adapter le niveau de contrôle à la sensibilité des contenus.",
+    "en": "Translation solution for businesses and customer support combining machine translation, quality estimation and human review when needed. Match the level of review to content sensitivity.",
+    "ar": "حل للترجمة موجه خصوصًا إلى المؤسسات وخدمة العملاء، يجمع بين الترجمة الآلية وتقدير الجودة والمراجعة البشرية عند الحاجة. ينبغي تكييف مستوى المراجعة مع حساسية المحتوى.",
+    "officialSource": "https://customer-happiness.unbabel.com/hc/en-us/articles/28194900604951-How-does-Unbabel-assess-quality",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "upscayl": {
+    "fr": "Application gratuite et open source pour agrandir des images par IA sous Windows, macOS et Linux. Le traitement local utilise des modèles de super-résolution ; vérifier les détails reconstruits, notamment pour les documents patrimoniaux.",
+    "en": "Free, open-source AI image upscaling desktop application for Windows, macOS and Linux. Local processing uses super-resolution models; inspect reconstructed details, especially in heritage documents.",
+    "ar": "تطبيق مجاني ومفتوح المصدر لتكبير الصور بالذكاء الاصطناعي على ويندوز وماك ولينكس. يعتمد على نماذج الدقة الفائقة في المعالجة المحلية؛ ينبغي فحص التفاصيل المعاد بناؤها خصوصًا في الوثائق التراثية.",
+    "officialSource": "https://github.com/upscayl/upscayl",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "real-esrgan": {
+    "fr": "Projet de recherche et logiciel de restauration d'images par super-résolution, avec des modèles préentraînés et une interface en ligne de commande. Les textures reconstruites restent des estimations, non des preuves de détails originaux.",
+    "en": "Image restoration and super-resolution research software with pretrained models and a command-line interface. Reconstructed textures are estimates rather than evidence of original detail.",
+    "ar": "مشروع بحثي وبرمجية لترميم الصور ورفع دقتها باستخدام نماذج مدربة مسبقًا وواجهة سطر الأوامر. تظل الخامات المعاد بناؤها تقديرات وليست دليلًا على التفاصيل الأصلية.",
+    "officialSource": "https://github.com/xinntao/Real-ESRGAN",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "gfpgan": {
+    "fr": "Projet de restauration de visages dans des photographies dégradées, utilisant un modèle génératif préentraîné. Accessible par le code et les démonstrations indiquées dans le dépôt. Les traits reconstruits peuvent différer du visage original.",
+    "en": "Face restoration project for degraded photographs using a pretrained generative model. Available through source code and demos listed in the repository. Reconstructed facial features can differ from the original.",
+    "ar": "مشروع لترميم الوجوه في الصور المتدهورة باستخدام نموذج توليدي مدرب مسبقًا. يتاح عبر الشيفرة والعروض التجريبية المذكورة في المستودع. قد تختلف الملامح المعاد بناؤها عن الوجه الأصلي.",
+    "officialSource": "https://github.com/TencentARC/GFPGAN",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "photoroom": {
+    "fr": "Éditeur d'images pour créer notamment des visuels de produits, détourer les sujets et uniformiser les arrière-plans. Accessible sur le Web et sur mobile ; le traitement par lots facilite la préparation de catalogues selon les fonctionnalités disponibles.",
+    "en": "Image editor for product visuals, subject cutouts and consistent backgrounds. Available on web and mobile; batch editing helps prepare catalogs depending on feature availability.",
+    "ar": "محرر صور لإنشاء صور المنتجات وعزل العناصر وتوحيد الخلفيات. يتاح عبر الويب والهواتف المحمولة؛ وتساعد المعالجة الدفعية على إعداد الفهارس بحسب الوظائف المتاحة.",
+    "officialSource": "https://help.photoroom.com/en/articles/11784338-what-is-the-batch-feature",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "remove-bg": {
+    "fr": "Service de détourage automatique permettant d'isoler un sujet en supprimant son arrière-plan. L'API facilite l'intégration dans des chaînes de traitement d'images. Vérifier les contours complexes, notamment les cheveux et les éléments transparents.",
+    "en": "Automatic background removal service that isolates image subjects. Its API supports integration into image-processing workflows. Check complex edges, especially hair and transparent elements.",
+    "ar": "خدمة لإزالة خلفيات الصور تلقائيًا وعزل العناصر الرئيسية. تسهل واجهتها البرمجية دمجها في مسارات معالجة الصور. ينبغي فحص الحواف المعقدة خصوصًا الشعر والعناصر الشفافة.",
+    "officialSource": "https://www.remove.bg/i/api",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "topaz-photo": {
+    "fr": "Logiciel de traitement photographique combinant des modèles de réduction du bruit, de netteté, de récupération des visages et d'agrandissement. Les réglages permettent d'adapter le traitement ; comparer systématiquement le résultat au fichier original.",
+    "en": "Photo enhancement software combining denoising, sharpening, face recovery and upscaling models. Settings allow treatment adjustments; systematically compare results with the original file.",
+    "ar": "برنامج لتحسين الصور يجمع نماذج إزالة الضجيج وزيادة الحدة وترميم الوجوه ورفع الدقة. تتيح الإعدادات تكييف المعالجة؛ ينبغي مقارنة النتيجة بالملف الأصلي بصورة منهجية.",
+    "officialSource": "https://docs.topazlabs.com/topaz-photo/enhancements/wonder",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "nightcafe": {
+    "fr": "Studio web de création visuelle proposant plusieurs familles de modèles génératifs, avec des réglages de qualité et des coûts en crédits variables selon le modèle. Comparer les résultats et les conditions de partage avant publication.",
+    "en": "Web-based creative studio offering several generative model families, with quality settings and model-dependent credit costs. Compare outputs and sharing conditions before publishing.",
+    "ar": "استوديو ويب للإبداع البصري يوفر عدة عائلات من النماذج التوليدية مع إعدادات للجودة وتكاليف بالأرصدة تختلف بحسب النموذج. ينبغي مقارنة النتائج وشروط المشاركة قبل النشر.",
+    "officialSource": "https://help.nightcafe.studio/portal/en/kb/articles/nightcafe-ai-models-guide",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "canva-magic-media": {
+    "fr": "Fonctions génératives intégrées à Canva pour produire des images, illustrations et clips à partir de descriptions, puis les insérer dans une composition graphique. Les limites d'utilisation dépendent de l'offre et des fonctions choisies.",
+    "en": "Generative tools integrated into Canva for creating images, graphics and clips from descriptions and incorporating them into designs. Usage limits depend on the plan and selected features.",
+    "ar": "أدوات توليدية مدمجة في كانفا لإنشاء الصور والرسوم والمقاطع انطلاقًا من أوصاف نصية وإدراجها في التصاميم. تختلف حدود الاستخدام بحسب الاشتراك والوظائف المختارة.",
+    "officialSource": "https://www.canva.com/en_gb/help/using-magic-media/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "adobe-photoshop": {
+    "fr": "Éditeur photographique intégrant le remplissage génératif et l'extension générative pour modifier des zones sélectionnées ou prolonger une composition. Le traitement non destructif facilite la comparaison avec l'original. Vérifier les droits et les crédits associés à l'offre Adobe.",
+    "en": "Photo editor integrating generative fill and expansion to modify selected regions or extend a composition. Non-destructive editing supports comparison with the original. Check licensing and credits associated with the Adobe plan.",
+    "ar": "محرر للصور يدمج التعبئة التوليدية والتوسيع التوليدي لتعديل مناطق محددة أو تمديد التكوين البصري. يسهل التحرير غير المتلف مقارنة النتيجة بالأصل. ينبغي مراجعة الحقوق والأرصدة المرتبطة باشتراك أدوبي.",
+    "officialSource": "https://helpx.adobe.com/photoshop/desktop/generative-ai/generative-ai-features-overview.html",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "imagineart": {
+    "fr": "Plateforme de création visuelle proposant plusieurs modèles de génération d'images. Le choix du modèle et des paramètres permet d'adapter la production à des besoins de composition, de typographie ou de cohérence visuelle. Vérifier les limites et droits propres à chaque modèle.",
+    "en": "Visual creation platform offering multiple image-generation models. Model and parameter selection helps tailor outputs to composition, typography or visual consistency requirements. Check model-specific limits and usage rights.",
+    "ar": "منصة للإبداع البصري توفر عدة نماذج لتوليد الصور. يساعد اختيار النموذج والإعدادات على تكييف النتائج مع متطلبات التكوين والطباعة والاتساق البصري. ينبغي التحقق من حدود كل نموذج وحقوق استخدامه.",
+    "officialSource": "https://www.imagine.art/models/kling/kling-image-4-0",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "openart": {
+    "fr": "Studio créatif en ligne réunissant des modèles de génération d’images, de vidéos et de sons. La plateforme propose notamment des outils de cohérence des personnages et d’entraînement de modèles personnalisés. Accès web avec offres et quotas variables ; vérifier les droits des modèles utilisés.",
+    "en": "Online creative studio combining image, video and audio generation models, with character consistency and custom model training tools. Web access with varying plans and quotas; check individual model usage rights.",
+    "ar": "استوديو إبداعي عبر الويب يجمع نماذج لتوليد الصور والفيديو والصوت، ويوفر أدوات للحفاظ على اتساق الشخصيات وتدريب نماذج مخصصة. تختلف الحصص بحسب الاشتراك؛ ينبغي مراجعة حقوق استخدام كل نموذج.",
+    "officialSource": "https://openart.ai/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "seaart": {
+    "fr": "Plateforme web de création et de partage d’images et de vidéos, proposant des références visuelles et des workflows ComfyUI réutilisables. Certaines générations sont gratuites, d’autres consomment des crédits ou de l’énergie selon le modèle et l’offre.",
+    "en": "Web platform for creating and sharing images and videos, with visual references and reusable ComfyUI workflows. Some generations are free; others consume credits or stamina depending on model and plan.",
+    "ar": "منصة ويب لإنشاء الصور والفيديو ومشاركتها، تتيح استخدام المراجع البصرية ومسارات عمل ComfyUI القابلة لإعادة الاستخدام. بعض عمليات التوليد مجانية وبعضها يستهلك الأرصدة أو الطاقة بحسب النموذج والاشتراك.",
+    "officialSource": "https://www.seaart.ai/create/image",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "tensor-art": {
+    "fr": "Environnement web de génération visuelle permettant de composer des pipelines avec des modèles, des adaptations LoRA, ControlNet et des étapes de post-traitement. La consommation de crédits varie selon les modèles et les ressources mobilisées. Vérifier les licences des composants.",
+    "en": "Web-based visual generation environment for assembling pipelines with models, LoRA adapters, ControlNet and post-processing steps. Credit consumption varies with models and computing resources. Check component licenses.",
+    "ar": "بيئة ويب للتوليد البصري تتيح بناء مسارات تجمع النماذج وتكييفات LoRA ووحدات ControlNet ومراحل المعالجة اللاحقة. يختلف استهلاك الأرصدة بحسب النماذج والموارد الحاسوبية المستخدمة. ينبغي مراجعة تراخيص المكونات.",
+    "officialSource": "https://tensor.art/canvas/workflow",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "veo": {
+    "fr": "Famille de modèles de Google DeepMind pour générer des vidéos à partir de consignes ou d’images. Les versions compatibles produisent également du son synchronisé. L’accès et la tarification dépendent du service intégrateur et du modèle ; contrôler la continuité des scènes et la fidélité des dialogues.",
+    "en": "Google DeepMind video generation model family using text prompts or images. Compatible versions also produce synchronized audio. Access and pricing depend on the integrating service and model; review scene continuity and dialogue fidelity.",
+    "ar": "عائلة نماذج من Google DeepMind لتوليد الفيديو انطلاقًا من التعليمات النصية أو الصور. تولد الإصدارات المتوافقة صوتًا متزامنًا أيضًا. يتوقف الوصول والتسعير على الخدمة المدمجة والنموذج؛ ينبغي مراجعة استمرارية المشاهد ودقة الحوار.",
+    "officialSource": "https://deepmind.google/models/veo/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "genmo": {
+    "fr": "Éditeur du modèle de génération vidéo Mochi 1, dont les poids et le code sont distribués sous licence Apache 2.0. Le dépôt permet l'expérimentation locale avec des ressources GPU adaptées. Évaluer la fluidité du mouvement et le respect des consignes ; les coûts de calcul restent à la charge de l'utilisateur.",
+    "en": "Developer of the Mochi 1 video generation model, with weights and code released under Apache 2.0. The repository supports local experimentation with suitable GPU resources. Evaluate motion and prompt adherence; computing costs remain the user's responsibility.",
+    "ar": "مطوّر نموذج Mochi 1 لتوليد الفيديو، الذي تتاح أوزانه وشيفرته بموجب ترخيص Apache 2.0. يتيح المستودع التجارب المحلية باستخدام موارد معالجة رسومية مناسبة. ينبغي تقييم سلاسة الحركة والالتزام بالتعليمات؛ وتبقى تكاليف الحوسبة على عاتق المستخدم.",
+    "officialSource": "https://github.com/genmoai/mochi",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "open-sora": {
+    "fr": "Projet de recherche de HPC-AI Tech sur la génération vidéo, proposant des modèles, du code et des ressources d'entraînement et d'inférence. Accessible via le dépôt et une infrastructure de calcul adaptée. Vérifier la licence de chaque version et des poids associés avant un usage commercial.",
+    "en": "HPC-AI Tech research project on video generation providing models, code, training and inference resources. Accessible through the repository and suitable computing infrastructure. Check each release and associated weights' licensing before commercial use.",
+    "ar": "مشروع بحثي من HPC-AI Tech لتوليد الفيديو يوفر نماذج وشيفرة وموارد للتدريب والاستدلال. يتاح عبر المستودع وبنية حوسبة مناسبة. ينبغي مراجعة ترخيص كل إصدار والأوزان المرتبطة به قبل الاستخدام التجاري.",
+    "officialSource": "https://github.com/hpcaitech/Open-Sora",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "higgsfield": {
+    "fr": "Studio web de génération et d'édition audiovisuelle réunissant plusieurs modèles. Cinema Studio propose des réglages de caméra, d'objectif et d'éclairage ainsi que des références visuelles. Les abonnements et crédits varient selon les modèles ; vérifier la continuité des plans et les autorisations des personnes représentées.",
+    "en": "Web-based audiovisual creation and editing studio combining multiple models. Cinema Studio provides camera, lens and lighting settings plus visual references. Subscriptions and credits vary by model; check shot continuity and permissions of depicted individuals.",
+    "ar": "استوديو عبر الويب لإنشاء المحتوى السمعي البصري وتحريره باستخدام عدة نماذج. يوفر Cinema Studio إعدادات للكاميرا والعدسات والإضاءة ومراجع بصرية. تختلف الاشتراكات والأرصدة بحسب النموذج؛ ينبغي مراجعة استمرارية اللقطات وأذونات الأشخاص الممثلين فيها.",
+    "officialSource": "https://higgsfield.ai/creator-hub/help-center/tools/how-do-i-use-cinema-studio",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "pollo-ai": {
+    "fr": "Plateforme web de création vidéo assistée par IA combinant plusieurs modèles de génération à partir de texte ou d'images. Elle propose des outils pour préparer des clips promotionnels, des présentations et des contenus pour les réseaux sociaux. Les offres payantes et quotas varient ; vérifier les droits et les résultats avant diffusion.",
+    "en": "Web-based AI video creation platform combining multiple text-to-video and image-to-video models. Its tools support promotional clips, presentations and social media content. Paid plans and quotas vary; check usage rights and outputs before distribution.",
+    "ar": "منصة ويب لإنشاء الفيديو بالذكاء الاصطناعي تجمع عدة نماذج للتوليد انطلاقًا من النصوص أو الصور. توفر أدوات لإعداد المقاطع الترويجية والعروض ومحتوى الشبكات الاجتماعية. تختلف الاشتراكات المدفوعة والحصص؛ ينبغي مراجعة الحقوق والنتائج قبل النشر.",
+    "officialSource": "https://pollo.ai/hub/best-ai-video-generators",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "kaiber": {
+    "fr": "Studio de création audiovisuelle Superstudio associant plusieurs modèles de génération, animation par images clés, synchronisation labiale et montage de clips musicaux. Accessible en ligne avec des offres et quotas variables. Vérifier les droits des images et pistes audio importées.",
+    "en": "Superstudio combines multiple audiovisual generation models, keyframe animation, lip synchronization and music video creation. Available online with varying plans and quotas. Check rights to imported images and audio tracks.",
+    "ar": "استوديو Superstudio للإبداع السمعي البصري يجمع عدة نماذج توليدية والتحريك بالإطارات المفتاحية ومزامنة الشفاه وإنشاء المقاطع الموسيقية. يتاح عبر الإنترنت باشتراكات وحصص متفاوتة؛ ينبغي مراجعة حقوق الصور والمسارات الصوتية المستوردة.",
+    "officialSource": "https://helpcenter.kaiber.ai/en/help/articles/0784317-welcome-to-kaiber",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "civitai": {
+    "fr": "Communauté web de partage de modèles visuels et d'adaptations LoRA, avec génération hébergée et téléchargement selon les ressources. Le système Buzz et les adhésions financent certains usages. Vérifier les licences, la provenance des modèles et les filtres de contenu ; des ressources peuvent être inadaptées aux mineurs.",
+    "en": "Web community for sharing visual models and LoRA adapters, with hosted generation and downloads depending on the resource. Buzz credits and memberships fund some uses. Check licenses, model provenance and content filters; some material may be unsuitable for minors.",
+    "ar": "مجتمع عبر الويب لمشاركة النماذج البصرية وتكييفات LoRA، مع إمكانات التوليد المستضاف والتنزيل بحسب المورد. تموّل أرصدة Buzz والعضويات بعض الاستخدامات. ينبغي مراجعة التراخيص ومصدر النماذج ومرشحات المحتوى؛ فقد تكون بعض الموارد غير مناسبة للقاصرين.",
+    "officialSource": "https://civitai.tech/creator-program",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "capcut": {
+    "fr": "Éditeur vidéo sur Web, ordinateur et mobile proposant montage multipiste, sous-titres automatiques, détourage et modèles de composition. Des fonctions gratuites coexistent avec une offre Pro dont les tarifs varient selon le marché. Vérifier la transcription et les droits des médias avant export.",
+    "en": "Video editor for web, desktop and mobile offering multitrack editing, automatic captions, background removal and templates. Free features coexist with a Pro plan whose pricing varies by market. Review transcripts and media rights before export.",
+    "ar": "محرر فيديو عبر الويب والحاسوب والهاتف يوفر المونتاج متعدد المسارات والتسميات التوضيحية التلقائية وإزالة الخلفيات وقوالب التصميم. يجمع بين وظائف مجانية واشتراك Pro تختلف أسعاره حسب السوق. ينبغي مراجعة النصوص المفرغة وحقوق الوسائط قبل التصدير.",
+    "officialSource": "https://www.capcut.com/resource/ai-video-editing-tools",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "descript": {
+    "fr": "Éditeur audio et vidéo permettant de modifier un enregistrement en éditant sa transcription, de supprimer les hésitations, d'améliorer la voix avec Studio Sound et de créer des extraits. Offre gratuite limitée et abonnements avec quotas. Contrôler les noms propres, les coupes et les autorisations vocales.",
+    "en": "Audio and video editor that lets users edit recordings through transcripts, remove filler words, improve speech with Studio Sound and create clips. Limited free plan and subscriptions with quotas. Review proper names, cuts and voice permissions.",
+    "ar": "محرر صوت وفيديو يتيح تعديل التسجيلات عبر تحرير النصوص المفرغة وإزالة كلمات التردد وتحسين الصوت باستخدام Studio Sound وإنشاء المقاطع القصيرة. يوفر خطة مجانية محدودة واشتراكات بحصص استخدام. ينبغي مراجعة أسماء الأعلام ومواضع القطع وأذونات استخدام الأصوات.",
+    "officialSource": "https://www.descript.com/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "magnific-ai": {
+    "fr": "Outil web de super-résolution créative désormais intégré à Magnific, la plateforme anciennement Freepik. Il permet d’ajouter des détails générés et d’affiner la netteté. L’ancien service reste accessible aux abonnés existants jusqu’à échéance de leur offre. Ne pas confondre les détails synthétiques avec les détails originaux.",
+    "en": "Creative web upscaler now integrated into Magnific, formerly Freepik. It adds generated detail and enhances sharpness. The legacy service remains available to existing subscribers until their plan expires. Do not mistake synthetic details for original evidence.",
+    "ar": "أداة ويب لرفع الدقة بصورة إبداعية أصبحت جزءًا من منصة Magnific المعروفة سابقًا باسم Freepik. تضيف تفاصيل مولدة وتحسن الحدة. تبقى الخدمة القديمة متاحة للمشتركين الحاليين حتى انتهاء اشتراكهم. لا ينبغي اعتبار التفاصيل الاصطناعية جزءًا من الأصل.",
+    "officialSource": "https://www.magnific.com/magnific-ai",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "let-s-enhance": {
+    "fr": "Service web de super-résolution et d’amélioration d’images destiné notamment à l’impression et aux visuels de produits. Combine réduction du bruit, netteté et agrandissement. Les abonnements et achats ponctuels de crédits répondent à des volumes différents. Vérifier la lisibilité des textes après traitement.",
+    "en": "Web image enhancement and upscaling service for print and product visuals, combining denoising, sharpening and enlargement. Subscriptions and one-off credit purchases suit different volumes. Check text legibility after processing.",
+    "ar": "خدمة ويب لتحسين الصور ورفع دقتها، خصوصًا للطباعة وصور المنتجات، تجمع إزالة الضجيج وزيادة الحدة والتكبير. تتيح الاشتراكات وشراء الأرصدة لمرة واحدة وفق حجم العمل. ينبغي التحقق من وضوح النصوص بعد المعالجة.",
+    "officialSource": "https://help.letsenhance.io/en/article/subscription-vs-pay-as-you-go-whats-the-difference-1cs51ls/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "clipdrop": {
+    "fr": "Suite web de retouche et de génération d’images proposant détourage, suppression d’éléments et agrandissement. Certaines fonctions sont gratuites avec limites ; une offre payante et des modalités API distinctes existent. Contrôler les contours et les zones reconstruites.",
+    "en": "Web image editing and generation suite offering background removal, object removal and upscaling. Some features are free with limits; paid access and separate API terms exist. Inspect edges and reconstructed areas.",
+    "ar": "مجموعة أدوات ويب لتحرير الصور وتوليدها، تشمل إزالة الخلفيات والعناصر والتكبير. تتاح بعض الوظائف مجانًا بحدود معينة مع عروض مدفوعة وشروط مستقلة للواجهة البرمجية. ينبغي فحص الحواف والمناطق المعاد بناؤها.",
+    "officialSource": "https://clipdrop.co/en-US/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "cleanup-pictures": {
+    "fr": "Outil web de retouche par remplissage des zones sélectionnées pour retirer des objets, textes ou défauts. Une utilisation gratuite limitée et des options payantes ou API permettent différents usages. Les pixels reconstruits ne constituent pas une restitution documentaire certaine.",
+    "en": "Web inpainting tool for removing selected objects, text or defects. Limited free use and paid or API options support different workflows. Reconstructed pixels do not constitute reliable documentary restoration.",
+    "ar": "أداة ويب للترميم الموضعي تملأ المناطق المحددة لإزالة العناصر أو النصوص أو العيوب. تتوفر استخدامات مجانية محدودة وخيارات مدفوعة أو برمجية. لا تمثل وحدات البكسل المعاد توليدها ترميمًا وثائقيًا مؤكدًا.",
+    "officialSource": "https://cleanup.pictures/support",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "remini": {
+    "fr": "Service de restauration photographique et d’amélioration des portraits, notamment pour réduire le flou et reconstruire des détails de visages. Accessible sur le Web et via application ; vérifier les offres disponibles avant achat. Les visages reconstruits peuvent s’écarter des originaux.",
+    "en": "Photo restoration and portrait enhancement service addressing blur and reconstructing facial details. Available on the web and through an app; check available plans before purchase. Reconstructed faces may differ from originals.",
+    "ar": "خدمة لترميم الصور وتحسين الصور الشخصية، خصوصًا لتخفيف الضبابية وإعادة بناء تفاصيل الوجوه. تتاح عبر الويب والتطبيق؛ ينبغي مراجعة العروض قبل الشراء. قد تختلف الوجوه المعاد بناؤها عن الأصل.",
+    "officialSource": "https://remini.ai/photo-restorer",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "pixelcut": {
+    "fr": "Éditeur web et mobile orienté notamment vers les visuels commerciaux, avec détourage, effacement d’objets, agrandissement et génération d’images. Offre gratuite et abonnement Pro avec crédits, traitement par lots et export HD selon le plan. Contrôler la fidélité des produits représentés.",
+    "en": "Web and mobile editor for commercial visuals, with background removal, object erasure, upscaling and image generation. Free access and Pro subscription with credits, batch editing and HD export depending on plan. Check product fidelity.",
+    "ar": "محرر عبر الويب والهاتف موجه خصوصًا إلى الصور التجارية، مع إزالة الخلفيات والعناصر والتكبير وتوليد الصور. يتاح مجانًا وباشتراك Pro يتضمن أرصدة ومعالجة دفعية وتصديرًا عالي الدقة بحسب الخطة. ينبغي التحقق من دقة تمثيل المنتجات.",
+    "officialSource": "https://www.pixelcut.ai/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "picsart": {
+    "fr": "Plateforme créative intégrant retouche photo, montage vidéo et génération visuelle avec plusieurs modèles. Accessible en ligne et sur mobile, avec fonctions gratuites et abonnements à crédits. Le traitement par lots facilite les séries de visuels ; vérifier les licences des ressources.",
+    "en": "Creative platform combining photo editing, video editing and visual generation with multiple models. Available online and on mobile, with free features and credit-based subscriptions. Batch editing supports visual series; check asset licenses.",
+    "ar": "منصة إبداعية تجمع تحرير الصور والفيديو والتوليد البصري باستخدام عدة نماذج. تتاح عبر الإنترنت والهاتف، مع وظائف مجانية واشتراكات تعتمد على الأرصدة. تسهل المعالجة الدفعية إنتاج سلاسل من الصور؛ ينبغي مراجعة تراخيص الموارد.",
+    "officialSource": "https://picsart.com/pricing/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "fotor": {
+    "fr": "Éditeur graphique en ligne associant retouche photographique, collages, compositions et outils génératifs. L’offre gratuite et les abonnements ou crédits payants différencient les fonctions et les exports. Vérifier les paramètres de résolution et les droits des éléments utilisés.",
+    "en": "Online graphic editor combining photo editing, collages, designs and generative tools. Free access, subscriptions and paid credits differentiate features and exports. Check resolution settings and asset rights.",
+    "ar": "محرر رسومي عبر الإنترنت يجمع تعديل الصور والكولاج والتصاميم والأدوات التوليدية. تختلف الوظائف والتصدير بين الوصول المجاني والاشتراكات والأرصدة المدفوعة. ينبغي مراجعة إعدادات الدقة وحقوق العناصر المستخدمة.",
+    "officialSource": "https://www.fotor.com/pricing/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "luminar-neo": {
+    "fr": "Logiciel de retouche photographique pour Mac et Windows, proposant des outils IA de correction de lumière et d’amélioration des images. Les licences et offres complémentaires déterminent les fonctions disponibles. Conserver les originaux et comparer les corrections avant export.",
+    "en": "Photo editing software for Mac and Windows with AI tools for lighting corrections and image enhancement. Licenses and additional plans determine feature availability. Preserve originals and compare edits before export.",
+    "ar": "برنامج لتحرير الصور على ماك وويندوز يتضمن أدوات ذكاء اصطناعي لتصحيح الإضاءة وتحسين الصور. تحدد التراخيص والعروض الإضافية الوظائف المتاحة. ينبغي حفظ الملفات الأصلية ومقارنة التعديلات قبل التصدير.",
+    "officialSource": "https://skylum.com/luminar/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "vanceai": {
+    "fr": "Suite de traitement d’images proposant agrandissement, réduction du bruit, netteté et restauration. Accessible via navigateur et selon les produits via logiciel de bureau. La facturation par crédits dépend des opérations ; comparer le résultat à la source pour détecter les artefacts.",
+    "en": "Image processing suite offering upscaling, denoising, sharpening and restoration. Accessible through a browser and, for selected products, desktop software. Credit charges depend on operations; compare outputs to the source for artifacts.",
+    "ar": "مجموعة أدوات لمعالجة الصور تشمل التكبير وإزالة الضجيج وزيادة الحدة والترميم. تتاح عبر المتصفح وبعض المنتجات عبر برامج سطح المكتب. تعتمد تكلفة الأرصدة على العمليات؛ ينبغي مقارنة النتائج بالمصدر لاكتشاف التشوهات.",
+    "officialSource": "https://vanceai.com/pricing/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "salesforce-einstein": {
+    "fr": "Ensemble de fonctions d’IA intégrées au CRM Salesforce, notamment la notation prédictive des opportunités et l’assistance générative. Certaines fonctions sont désormais proposées sous Agentforce. Accès via les services cloud Salesforce, avec licences et crédits selon l’offre. Contrôler les droits d’accès aux données CRM.",
+    "en": "AI capabilities integrated into Salesforce CRM, including predictive opportunity scoring and generative assistance. Some capabilities are now offered under Agentforce. Available through Salesforce cloud services with plan-dependent licenses and credits. Review CRM data access permissions.",
+    "ar": "مجموعة وظائف ذكاء اصطناعي مدمجة في نظام Salesforce لإدارة علاقات العملاء، تشمل التقييم التنبؤي للفرص التجارية والمساعدة التوليدية. تقدم بعض الوظائف الآن تحت اسم Agentforce. تتاح عبر الخدمات السحابية بتراخيص وأرصدة تختلف بحسب الخطة. ينبغي ضبط صلاحيات الوصول إلى بيانات العملاء.",
+    "officialSource": "https://www.salesforce.com/sales/ai",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "gong": {
+    "fr": "Plateforme cloud d’intelligence commerciale qui analyse les échanges avec les clients et les données CRM pour suivre les opportunités, repérer les risques et accompagner les équipes de vente. Tarification professionnelle selon les modules, utilisateurs et certains usages à crédits. Encadrer l’enregistrement des conversations et vérifier les prévisions.",
+    "en": "Cloud revenue intelligence platform analyzing customer conversations and CRM data to track deals, identify risks and support sales coaching. Business pricing depends on modules, users and certain credit-metered uses. Govern conversation recording and validate forecasts.",
+    "ar": "منصة سحابية للذكاء التجاري تحلل محادثات العملاء وبيانات إدارة العلاقات لمتابعة الصفقات ورصد المخاطر وتدريب فرق المبيعات. تختلف التكلفة المهنية بحسب الوحدات والمستخدمين وبعض الاستخدامات المقاسة بالأرصدة. ينبغي تنظيم تسجيل المحادثات والتحقق من التوقعات.",
+    "officialSource": "https://www.gong.io/faqs",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "clay": {
+    "fr": "Espace web de prospection et d’enrichissement de données commerciales combinant plusieurs fournisseurs en cascade et recherche assistée par Claygent. Les plans gratuits et payants limitent notamment les actions et crédits de données. Vérifier l’exactitude des coordonnées et respecter les règles de prospection et de protection des données.",
+    "en": "Web workspace for sales prospecting and data enrichment combining sequential provider waterfalls with Claygent-assisted research. Free and paid plans impose action and data-credit limits. Validate contact details and comply with outreach and data protection rules.",
+    "ar": "مساحة عمل عبر الويب للتنقيب التجاري وإثراء البيانات تجمع مزودين متتابعين للبيانات والبحث بمساعدة Claygent. تفرض الخطط المجانية والمدفوعة حدودًا على الإجراءات وأرصدة البيانات. ينبغي التحقق من صحة بيانات الاتصال واحترام قواعد التواصل التجاري وحماية البيانات.",
+    "officialSource": "https://www.clay.com/pricing?external_link=true",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "intercom-fin": {
+    "fr": "Agent de service client qui exploite les ressources d’assistance pour traiter les demandes et transmettre les cas nécessitant une intervention humaine. Accessible via Intercom et ses intégrations ; facturation de Fin selon les résultats définis par l’éditeur, avec abonnements distincts selon la configuration. Tester les réponses et les règles de transfert.",
+    "en": "Customer support agent using help content to address requests and hand off cases needing human intervention. Available through Intercom and integrations; Fin is billed by provider-defined outcomes, with separate subscriptions depending on setup. Test answers and handoff rules.",
+    "ar": "وكيل لخدمة العملاء يستفيد من موارد الدعم لمعالجة الطلبات وتحويل الحالات التي تتطلب تدخلًا بشريًا. يتاح عبر Intercom وتكاملاته؛ تحتسب تكلفة Fin وفق النتائج التي يحددها المزود، مع اشتراكات منفصلة بحسب الإعداد. ينبغي اختبار الإجابات وقواعد التحويل.",
+    "officialSource": "https://www.intercom.com/help/en/articles/8205718-fin-ai-agent-outcomes",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "zendesk-ai": {
+    "fr": "Fonctions d’IA du service client Zendesk permettant de répondre aux demandes, automatiser des procédures et assister les équipes de support sur plusieurs canaux. Service cloud avec abonnements et quotas ou facturation de résolutions automatisées selon l’offre. Prévoir une intervention humaine pour les situations complexes.",
+    "en": "Zendesk customer service AI capabilities for responding to requests, automating procedures and supporting teams across channels. Cloud service with subscriptions and automated-resolution quotas or billing depending on plan. Provide human intervention for complex cases.",
+    "ar": "وظائف ذكاء اصطناعي في Zendesk لخدمة العملاء تتيح الرد على الطلبات وأتمتة الإجراءات ومساندة فرق الدعم عبر قنوات متعددة. خدمة سحابية باشتراكات وحصص أو فوترة لحل الطلبات تلقائيًا بحسب الخطة. ينبغي توفير تدخل بشري للحالات المعقدة.",
+    "officialSource": "https://www.zendesk.com/pricing/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "botpress": {
+    "fr": "Environnement visuel de conception d’agents conversationnels permettant d’organiser des workflows, relier des bases de connaissances et intégrer des API. Accès hébergé avec tarification selon les conversations et capacités de stockage ou de service. Tester les réponses hors base documentaire et limiter les permissions des intégrations.",
+    "en": "Visual conversational agent development environment for organizing workflows, connecting knowledge bases and integrating APIs. Hosted access with conversation-based pricing and storage or service capacity limits. Test responses beyond the knowledge base and restrict integration permissions.",
+    "ar": "بيئة مرئية لتطوير الوكلاء الحواريين تتيح تنظيم مسارات العمل وربط قواعد المعرفة ودمج الواجهات البرمجية. تتاح كخدمة مستضافة بتسعير يعتمد على المحادثات وسعات التخزين أو الخدمة. ينبغي اختبار الإجابات خارج قاعدة المعرفة وتقييد صلاحيات التكاملات.",
+    "officialSource": "https://botpress.com/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "voiceflow": {
+    "fr": "Plateforme collaborative pour concevoir, tester et déployer des agents textuels et vocaux reliés à des bases de connaissances et des outils externes. Accès web et API, avec offre gratuite et abonnements assortis de crédits d’usage. Simuler les parcours et prévoir des mécanismes de transfert.",
+    "en": "Collaborative platform for designing, testing and deploying chat and voice agents connected to knowledge bases and external tools. Web and API access with free and paid tiers plus usage credits. Simulate user journeys and provide handoff mechanisms.",
+    "ar": "منصة تعاونية لتصميم الوكلاء النصيين والصوتيين واختبارهم ونشرهم مع ربطهم بقواعد المعرفة والأدوات الخارجية. تتاح عبر الويب والواجهات البرمجية بخطة مجانية واشتراكات وأرصدة استخدام. ينبغي محاكاة مسارات المستخدمين وتوفير آليات التحويل.",
+    "officialSource": "https://www.voiceflow.com/ai-info",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "vapi": {
+    "fr": "Infrastructure API et SDK pour créer des agents vocaux destinés aux appels téléphoniques et applications web, en combinant reconnaissance vocale, modèles linguistiques et synthèse vocale. Facturation à la minute avec coûts éventuels des fournisseurs et de la téléphonie. Tester la latence, les interruptions et le consentement à l’enregistrement.",
+    "en": "API and SDK infrastructure for building voice agents for phone calls and web apps, combining speech recognition, language models and speech synthesis. Per-minute billing with potential provider and telephony costs. Test latency, interruptions and recording consent.",
+    "ar": "بنية للواجهات البرمجية وحزم التطوير لإنشاء وكلاء صوتيين للمكالمات وتطبيقات الويب تجمع التعرف على الكلام والنماذج اللغوية وتوليد الصوت. تحسب التكلفة بالدقيقة مع رسوم محتملة للمزودين والاتصالات. ينبغي اختبار زمن الاستجابة والمقاطعات والموافقة على التسجيل.",
+    "officialSource": "https://docs.vapi.ai/assistants/model-intelligence/understanding-cost",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "retell-ai": {
+    "fr": "Plateforme hébergée d’agents vocaux pour les appels entrants et sortants des centres de contact, avec intégration téléphonique et transfert vers des opérateurs. Facturation à l’usage par minute selon les composants, et contrats personnalisés pour les entreprises. Prévoir le consentement, les tests de qualité et l’escalade humaine.",
+    "en": "Hosted voice agent platform for inbound and outbound contact center calls, with telephony integration and transfer to operators. Usage-based per-minute billing varies by components, with custom enterprise contracts. Provide consent, quality testing and human escalation.",
+    "ar": "منصة مستضافة للوكلاء الصوتيين للمكالمات الواردة والصادرة في مراكز الاتصال، مع تكامل هاتفي وتحويل إلى الموظفين. تعتمد الفوترة على دقائق الاستخدام والمكونات، مع عقود مخصصة للمؤسسات. ينبغي توفير الموافقة واختبارات الجودة والتحويل إلى الدعم البشري.",
+    "officialSource": "https://www.retellai.com/pricing?rel=nofollow&target=blank",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "world-labs": {
+    "fr": "Éditeur de Marble, modèle multimodal générant des environnements tridimensionnels explorables à partir de textes ou d’images. Le studio web propose des fonctions de génération et de contrôle spatial, avec offres et crédits selon les opérations. Les espaces synthétiques ne constituent pas des relevés métriques du monde réel.",
+    "en": "Developer of Marble, a multimodal model generating explorable 3D environments from text or images. The web studio offers generation and spatial controls with plans and operation-based credits. Synthetic spaces are not measured surveys of real environments.",
+    "ar": "مطوّر Marble، وهو نموذج متعدد الوسائط يولد بيئات ثلاثية الأبعاد قابلة للاستكشاف انطلاقًا من النصوص أو الصور. يوفر الاستوديو عبر الويب أدوات للتوليد والتحكم المكاني باشتراكات وأرصدة بحسب العمليات. لا تمثل البيئات الاصطناعية قياسات ميدانية للعالم الحقيقي.",
+    "officialSource": "https://marble.worldlabs.ai/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "interior-ai": {
+    "fr": "Service web de visualisation d’aménagement intérieur à partir de photographies, avec choix de styles et mise en scène virtuelle de pièces. Abonnements assortis de quotas de rendus. Les propositions servent à explorer des idées décoratives et non à valider des dimensions ou des contraintes constructives.",
+    "en": "Web service for interior design visualization from photographs, with style selection and virtual room staging. Subscriptions include rendering quotas. Outputs help explore design ideas rather than validate dimensions or construction constraints.",
+    "ar": "خدمة عبر الويب لتصور التصميم الداخلي انطلاقًا من الصور الفوتوغرافية مع اختيار الأنماط والتأثيث الافتراضي للغرف. توفر اشتراكات بحصص للتصيير. تساعد النتائج على استكشاف الأفكار الجمالية ولا تصلح للتحقق من الأبعاد أو القيود الإنشائية.",
+    "officialSource": "https://interiorai.com/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "testfit": {
+    "fr": "Plateforme de faisabilité immobilière pour explorer des scénarios d’implantation, surfaces, nombre de logements et hypothèses financières. Des outils paramétriques facilitent la comparaison des variantes. Offre professionnelle payante selon les produits. Faire vérifier les règles d’urbanisme et les calculs par des spécialistes.",
+    "en": "Real estate feasibility platform for exploring site layouts, areas, unit counts and financial assumptions. Parametric tools facilitate scenario comparisons. Paid professional offerings vary by product. Have specialists verify planning regulations and calculations.",
+    "ar": "منصة لدراسة الجدوى العقارية تستكشف سيناريوهات توزيع المباني والمساحات وعدد الوحدات والافتراضات المالية. تسهل الأدوات البارامترية مقارنة البدائل. تتوفر عروض مهنية مدفوعة بحسب المنتج. ينبغي التحقق من لوائح التعمير والحسابات بمساعدة المختصين.",
+    "officialSource": "https://www.testfit.io/product/site-solver",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "matterport": {
+    "fr": "Plateforme de numérisation d’espaces physiques permettant de constituer des jumeaux numériques et des visites 3D à partir de captures compatibles. Accès cloud avec abonnements selon les espaces actifs, matériels et exports éventuellement facturés séparément. Vérifier la précision requise et les autorisations de captation.",
+    "en": "Physical space digitization platform for creating digital twins and 3D tours from compatible captures. Cloud access with subscriptions based on active spaces; hardware and exports may cost extra. Verify required accuracy and capture permissions.",
+    "ar": "منصة لرقمنة الأماكن المادية وإنشاء توائم رقمية وجولات ثلاثية الأبعاد من عمليات التقاط متوافقة. تتاح سحابيًا باشتراكات تعتمد على المساحات النشطة، وقد تحسب تكلفة المعدات والتصدير بصورة منفصلة. ينبغي التحقق من الدقة المطلوبة وأذونات التصوير.",
+    "officialSource": "https://matterport.com/plans",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "inworld-ai": {
+    "fr": "Infrastructure pour développeurs proposant des services d’inférence de modèles linguistiques et des composants vocaux destinés aux applications interactives. Accès via interfaces de développement avec crédits et abonnements selon la consommation. Vérifier la latence, les coûts par composant et la protection des données conversationnelles.",
+    "en": "Developer infrastructure offering language model inference and voice components for interactive applications. Developer interfaces with credits and subscriptions tied to usage. Check latency, component costs and conversation data protection.",
+    "ar": "بنية تحتية للمطورين تقدم خدمات استدلال النماذج اللغوية ومكونات صوتية للتطبيقات التفاعلية. تتاح عبر واجهات تطوير مع أرصدة واشتراكات مرتبطة بالاستهلاك. ينبغي التحقق من زمن الاستجابة وتكاليف المكونات وحماية بيانات المحادثات.",
+    "officialSource": "https://inworld.ai/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "convai": {
+    "fr": "Plateforme de création et de déploiement de personnages conversationnels et d’avatars pour jeux, Web et expériences XR. Personnalisation de la voix, des connaissances et du comportement avec interfaces d’intégration. Offres selon les interactions et capacités de déploiement. Encadrer les réponses et tester les comportements en situation immersive.",
+    "en": "Platform for creating and deploying conversational characters and avatars in games, web applications and XR experiences. Voice, knowledge and behavior customization with integration interfaces. Plans vary by interactions and deployment capacity. Set response boundaries and test behavior in immersive contexts.",
+    "ar": "منصة لإنشاء ونشر الشخصيات الحوارية والصور الرمزية في الألعاب وتطبيقات الويب وتجارب الواقع الممتد. تتيح تخصيص الصوت والمعرفة والسلوك عبر واجهات التكامل. تختلف الخطط بحسب التفاعلات وقدرات النشر. ينبغي ضبط حدود الإجابات واختبار السلوك في البيئات الغامرة.",
+    "officialSource": "https://convai.com/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "openevidence": {
+    "fr": "Assistant de recherche clinique fournissant des réponses référencées à partir de la littérature médicale évaluée par les pairs. Accès réservé selon les critères de vérification professionnelle ; l'offre institutionnelle pour les organisations admissibles aux États-Unis est sans frais de licence ou d'intégration. Vérifier les articles originaux et le contexte clinique.",
+    "en": "Clinical research assistant providing cited answers from peer-reviewed medical literature. Access depends on professional verification; eligible US institutions can use the enterprise offering without license or integration fees. Check original articles and clinical context.",
+    "ar": "مساعد للبحث السريري يقدم إجابات موثقة من الأدبيات الطبية المحكّمة. يخضع الوصول للتحقق من الصفة المهنية؛ ويتاح العرض المؤسسي للجهات المؤهلة في الولايات المتحدة دون رسوم ترخيص أو تكامل. ينبغي مراجعة المقالات الأصلية والسياق السريري.",
+    "officialSource": "https://portal.openevidence.com/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "abridge": {
+    "fr": "Plateforme de documentation clinique qui transforme les échanges entre soignants et patients en projets de notes médicales. Déploiement institutionnel et intégration aux dossiers électroniques selon les accords commerciaux. Le clinicien doit valider les notes et respecter les règles de confidentialité et de consentement.",
+    "en": "Clinical documentation platform turning clinician-patient conversations into draft medical notes. Institutional deployment and electronic record integration depend on commercial agreements. Clinicians must validate notes and observe privacy and consent requirements.",
+    "ar": "منصة للتوثيق السريري تحول المحادثات بين مقدمي الرعاية والمرضى إلى مسودات ملاحظات طبية. يعتمد النشر المؤسسي والتكامل مع السجلات الإلكترونية على الاتفاقات التجارية. يجب على الطبيب مراجعة الملاحظات واحترام قواعد الخصوصية والموافقة.",
+    "officialSource": "https://www.abridge.com/press-release/va-enterprise-contract",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "aidoc": {
+    "fr": "Plateforme clinique aiOS permettant de déployer et coordonner plusieurs applications d'IA, notamment pour le triage radiologique. Accès institutionnel selon les solutions et contrats. Vérifier les indications autorisées dans chaque pays ; les alertes ne remplacent pas l'interprétation médicale.",
+    "en": "Clinical aiOS platform for deploying and coordinating AI applications, including radiology triage. Institutional access varies by solution and contract. Verify authorized indications in each jurisdiction; alerts do not replace medical interpretation.",
+    "ar": "منصة aiOS السريرية لنشر وتنسيق تطبيقات الذكاء الاصطناعي، ومنها فرز حالات الأشعة بحسب الأولوية. يتاح الوصول المؤسسي بحسب الحلول والعقود. ينبغي التحقق من الاستعمالات المرخصة في كل بلد؛ ولا تحل التنبيهات محل التفسير الطبي.",
+    "officialSource": "https://www.aidoc.com/platform/aios/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "harvey": {
+    "fr": "Assistant d'IA pour les professionnels du droit et des services spécialisés, destiné à la recherche, l'analyse et la rédaction de documents. Accès professionnel selon les offres de l'éditeur, avec programme universitaire distinct. Vérifier les références juridiques, la juridiction et les règles de secret professionnel.",
+    "en": "AI assistant for legal and professional services supporting research, analysis and document drafting. Professional access depends on provider offerings, with a separate law school program. Verify legal references, jurisdiction and confidentiality obligations.",
+    "ar": "مساعد ذكاء اصطناعي للمهنيين في القانون والخدمات المتخصصة يدعم البحث والتحليل وصياغة الوثائق. يتاح بحسب عروض المزود المهنية مع برنامج جامعي مستقل. ينبغي التحقق من المراجع القانونية والاختصاص القضائي والتزامات السر المهني.",
+    "officialSource": "https://help.harvey.ai/articles/harvey-faq",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "thomson-reuters-cocounsel": {
+    "fr": "Assistant juridique professionnel de Thomson Reuters associant recherche, analyse et rédaction, avec accès à des ressources Westlaw et Practical Law selon l'offre. Commercialisé auprès des professionnels et organisations. Contrôler les citations, leur actualité et leur applicabilité avant réutilisation.",
+    "en": "Thomson Reuters professional legal assistant combining research, analysis and drafting with Westlaw and Practical Law resources depending on the offering. Marketed to professionals and organizations. Check citations, currency and applicability before reuse.",
+    "ar": "مساعد قانوني مهني من Thomson Reuters يجمع البحث والتحليل والصياغة مع موارد Westlaw وPractical Law بحسب العرض. يسوق للمهنيين والمؤسسات. ينبغي مراجعة الاستشهادات وحداثتها وقابليتها للتطبيق قبل إعادة استخدامها.",
+    "officialSource": "https://legal.thomsonreuters.com/en/products/cocounsel-legal",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "ramp": {
+    "fr": "Plateforme de gestion des dépenses professionnelles, factures et rapprochements comptables, avec extraction de données par OCR et automatisation des approbations selon les offres. Accès web professionnel, formule gratuite et offres Plus et Enterprise. Vérifier l'éligibilité géographique et conserver des contrôles humains sur les paiements.",
+    "en": "Business spend, invoice and accounting reconciliation platform with OCR extraction and approval automation depending on plan. Professional web access with Free, Plus and Enterprise plans. Check geographic eligibility and retain human payment controls.",
+    "ar": "منصة لإدارة نفقات المؤسسات والفواتير والمطابقة المحاسبية، مع استخراج البيانات بالتعرف الضوئي على الحروف وأتمتة الموافقات بحسب الخطة. تتاح عبر الويب بخطط مجانية وPlus وEnterprise. ينبغي التحقق من الأهلية الجغرافية والإبقاء على الرقابة البشرية على المدفوعات.",
+    "officialSource": "https://ramp.com/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "alphasense": {
+    "fr": "Plateforme de veille économique et financière combinant recherche assistée par IA, publications d'entreprises, analyses sous licence et transcriptions d'entretiens. Abonnements professionnels par utilisateur ou entreprise selon les besoins. Vérifier les documents primaires et leurs dates avant toute décision d'investissement.",
+    "en": "Market and financial intelligence platform combining AI-assisted search, company disclosures, licensed research and interview transcripts. Professional per-seat or enterprise subscriptions depend on needs. Verify primary documents and dates before investment decisions.",
+    "ar": "منصة للرصد الاقتصادي والمالي تجمع البحث المدعوم بالذكاء الاصطناعي وإفصاحات الشركات والتحليلات المرخصة ونصوص المقابلات. تتوفر اشتراكات مهنية لكل مستخدم أو مؤسسة بحسب الاحتياجات. ينبغي مراجعة الوثائق الأصلية وتواريخها قبل اتخاذ قرارات الاستثمار.",
+    "officialSource": "https://www.alpha-sense.com/pricing/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "microsoft-security-copilot": {
+    "fr": "Assistant de cybersécurité pour analyser les incidents et données issues des outils Microsoft et partenaires. Accès cloud avec capacité incluse dans certaines licences Microsoft 365 E5 et E7 ou capacité facturée en unités SCU. Vérifier les permissions et valider les actions de réponse aux incidents.",
+    "en": "Cybersecurity assistant for analyzing incidents and data from Microsoft and partner tools. Cloud access with included capacity under eligible Microsoft 365 E5 and E7 licenses or capacity billed in SCUs. Review permissions and validate incident response actions.",
+    "ar": "مساعد للأمن السيبراني لتحليل الحوادث والبيانات من أدوات Microsoft وشركائها. يتاح سحابيًا بسعة مدمجة في بعض تراخيص Microsoft 365 E5 وE7 أو بسعة تحسب بوحدات SCU. ينبغي مراجعة الصلاحيات والتحقق من إجراءات الاستجابة للحوادث.",
+    "officialSource": "https://learn.microsoft.com/en-us/copilot/security/security-copilot-inclusion",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "darktrace": {
+    "fr": "Plateforme de cybersécurité analysant les comportements et corrélant les signaux de menace pour faciliter la détection et la réponse. Solutions professionnelles déployées selon les environnements et contrats commerciaux. Tester les faux positifs et encadrer les réponses automatisées pour éviter les interruptions injustifiées.",
+    "en": "Cybersecurity platform analyzing behavior and correlating threat signals to support detection and response. Professional solutions deployed according to environments and commercial contracts. Test false positives and govern automated responses to avoid unwarranted disruption.",
+    "ar": "منصة للأمن السيبراني تحلل السلوك وتربط إشارات التهديد لدعم الكشف والاستجابة. تنشر الحلول المهنية بحسب البيئات والعقود التجارية. ينبغي اختبار الإنذارات الكاذبة وضبط الاستجابات الآلية لتجنب التعطيل غير المبرر.",
+    "officialSource": "https://www.darktrace.com/products",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "gptzero": {
+    "fr": "Service web de classification probabiliste des textes susceptibles d'être générés par IA, accessible également via extension et API. Accès gratuit limité et offres payantes. Les faux positifs et négatifs imposent une vérification humaine ; ne pas utiliser le score seul pour sanctionner un étudiant.",
+    "en": "Web service for probabilistic classification of potentially AI-generated text, also available through an extension and API. Limited free access and paid plans. False positives and negatives require human review; never use the score alone to penalize a student.",
+    "ar": "خدمة ويب للتصنيف الاحتمالي للنصوص التي قد تكون مولدة بالذكاء الاصطناعي، تتاح أيضًا عبر إضافة للمتصفح وواجهة برمجية. توفر وصولًا مجانيًا محدودًا وعروضًا مدفوعة. تستلزم الأخطاء الإيجابية والسلبية مراجعة بشرية؛ ولا يجوز الاعتماد على النتيجة وحدها لمعاقبة طالب.",
+    "officialSource": "https://gptzero.me/faq",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "copyleaks": {
+    "fr": "Plateforme de détection de similarités textuelles et de contenus potentiellement générés par IA, avec accès web, API et intégrations éducatives selon l'offre. Abonnements et contrats institutionnels. Distinguer correspondances documentaires et estimations probabilistes ; examiner les sources avant toute décision.",
+    "en": "Platform for textual similarity and potential AI-content detection, with web access, API and educational integrations depending on plan. Subscriptions and institutional contracts. Distinguish documentary matches from probabilistic estimates; review sources before decisions.",
+    "ar": "منصة لكشف التشابه النصي والمحتوى المحتمل توليده بالذكاء الاصطناعي، تتاح عبر الويب والواجهات البرمجية والتكاملات التعليمية بحسب العرض. توفر اشتراكات وعقودًا مؤسسية. ينبغي التمييز بين التطابقات الوثائقية والتقديرات الاحتمالية ومراجعة المصادر قبل اتخاذ القرارات.",
+    "officialSource": "https://copyleaks.com/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "c2pa": {
+    "fr": "Standard technique ouvert de provenance des médias numériques utilisant des manifestes signés et liés cryptographiquement aux fichiers. Les Content Credentials documentent les déclarations relatives à la création et aux modifications. Spécifications publiques ; coûts éventuels d'implémentation et de signature. Une provenance valide ne prouve pas la vérité du contenu.",
+    "en": "Open technical standard for digital media provenance using signed manifests cryptographically bound to assets. Content Credentials document assertions about creation and edits. Public specifications; implementation and signing may incur costs. Valid provenance does not prove content truthfulness.",
+    "ar": "معيار تقني مفتوح لتوثيق منشأ الوسائط الرقمية باستخدام بيانات وصفية موقعة ومرتبطة تشفيريًا بالملفات. توثق بيانات اعتماد المحتوى التصريحات المتعلقة بالإنشاء والتعديلات. المواصفات متاحة للعموم وقد تترتب تكاليف للتنفيذ والتوقيع. لا يثبت صحة المنشأ صدق المحتوى نفسه.",
+    "officialSource": "https://spec.c2pa.org/specifications/specifications/2.5/index.html",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "shopify-magic": {
+    "fr": "Ensemble de fonctions génératives intégrées à l'administration Shopify, notamment pour préparer des textes commerciaux et des visuels de boutique. Accès lié aux services Shopify, selon les fonctions et conditions de l'offre. Vérifier les caractéristiques des produits et les allégations avant publication.",
+    "en": "Generative features integrated into Shopify admin, notably for preparing commercial text and store visuals. Access depends on Shopify services, features and plan terms. Verify product specifications and claims before publication.",
+    "ar": "مجموعة وظائف توليدية مدمجة في لوحة إدارة Shopify، خصوصًا لإعداد النصوص التجارية والصور الخاصة بالمتجر. يرتبط الوصول بخدمات Shopify والوظائف وشروط الخطة. ينبغي مراجعة مواصفات المنتجات والادعاءات قبل النشر.",
+    "officialSource": "https://help.shopify.com/en/manual/ai-powered-tools",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "algolia": {
+    "fr": "Infrastructure de recherche hébergée pour sites et applications combinant indexation, recherche par mots-clés et recherche vectorielle hybride avec NeuralSearch selon l'offre. API et composants d'interface ; facturation selon le plan et les volumes. Tester la pertinence et protéger les données indexées.",
+    "en": "Hosted search infrastructure for sites and apps combining indexing, keyword search and hybrid vector search through NeuralSearch depending on plan. APIs and UI components; billing depends on plan and volume. Test relevance and protect indexed data.",
+    "ar": "بنية بحث مستضافة للمواقع والتطبيقات تجمع الفهرسة والبحث بالكلمات المفتاحية والبحث المتجهي الهجين عبر NeuralSearch بحسب الخطة. توفر واجهات برمجية ومكونات للواجهات؛ وتعتمد الفوترة على الخطة وحجم الاستخدام. ينبغي اختبار الملاءمة وحماية البيانات المفهرسة.",
+    "officialSource": "https://www.algolia.com/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "weights-et-biases": {
+    "fr": "Plateforme de suivi des expériences de machine learning permettant de consigner métriques, hyperparamètres, versions du code et artefacts de modèles. Intégration aux scripts via SDK et visualisation web. Offres gratuites ou payantes selon les besoins, avec services de calcul distincts. Documenter les données et conditions de reproductibilité.",
+    "en": "Machine learning experiment tracking platform recording metrics, hyperparameters, code versions and model artifacts. SDK integration and web dashboards. Free or paid offerings depending on needs, with separate compute services. Document data and reproducibility conditions.",
+    "ar": "منصة لتتبع تجارب التعلم الآلي تسجل المقاييس والمعلمات الفائقة وإصدارات الشيفرة ومخرجات النماذج. تتكامل مع البرامج عبر حزمة تطوير ولوحات ويب. توفر عروضًا مجانية أو مدفوعة بحسب الاحتياجات مع خدمات حوسبة منفصلة. ينبغي توثيق البيانات وشروط إعادة إنتاج التجارب.",
+    "officialSource": "https://wandb.ai/site/experiment-tracking/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "label-studio": {
+    "fr": "Outil d'annotation de données multimodales pour préparer des corpus d'entraînement et d'évaluation, avec interfaces configurables pour textes, images et autres médias. Édition libre auto-hébergeable et service Enterprise payant. Définir des consignes d'annotation et mesurer l'accord entre annotateurs.",
+    "en": "Multimodal data annotation tool for training and evaluation datasets, with configurable interfaces for text, images and other media. Open-source self-hosted edition and paid Enterprise service. Define annotation guidelines and measure inter-annotator agreement.",
+    "ar": "أداة لوسم البيانات متعددة الوسائط لإعداد مجموعات التدريب والتقييم، توفر واجهات قابلة للتخصيص للنصوص والصور والوسائط الأخرى. تتوفر نسخة مفتوحة المصدر قابلة للاستضافة الذاتية وخدمة Enterprise مدفوعة. ينبغي وضع إرشادات للوسم وقياس الاتفاق بين المعلقين.",
+    "officialSource": "https://labelstud.io/guide/get_started",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "roboflow": {
+    "fr": "Plateforme de vision artificielle pour organiser et annoter des images, entraîner des modèles et déployer des inférences. Accès web et API avec offres gratuites ou payantes et crédits selon le stockage, l'entraînement et le déploiement. Contrôler les biais des données et tester les modèles sur des images indépendantes.",
+    "en": "Computer vision platform for organizing and labeling images, training models and deploying inference. Web and API access with free or paid plans and credits for storage, training and deployment. Check data bias and test models on independent images.",
+    "ar": "منصة للرؤية الحاسوبية لتنظيم الصور ووسمها وتدريب النماذج ونشر الاستدلال. تتاح عبر الويب والواجهات البرمجية بخطط مجانية أو مدفوعة وأرصدة للتخزين والتدريب والنشر. ينبغي فحص تحيز البيانات واختبار النماذج على صور مستقلة.",
+    "officialSource": "https://roboflow.com/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "ultralytics-yolo": {
+    "fr": "Famille de modèles et outils de vision artificielle pour la détection d'objets et la segmentation, avec interfaces Python et ligne de commande. Code et modèles soumis aux conditions AGPL-3.0 ou à une licence Enterprise selon l'usage. Évaluer les performances sur des données représentatives et vérifier les obligations de licence.",
+    "en": "Computer vision model family and tools for object detection and segmentation, with Python and command-line interfaces. Code and models are subject to AGPL-3.0 or Enterprise licensing depending on use. Evaluate performance on representative data and verify license obligations.",
+    "ar": "عائلة نماذج وأدوات للرؤية الحاسوبية لكشف الأجسام وتجزئة الصور، مع واجهات Python وسطر الأوامر. تخضع الشيفرة والنماذج لشروط AGPL-3.0 أو ترخيص Enterprise بحسب الاستخدام. ينبغي تقييم الأداء على بيانات ممثلة والتحقق من التزامات الترخيص.",
+    "officialSource": "https://www.ultralytics.com/license",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "opencv": {
+    "fr": "Bibliothèque libre de vision artificielle et de traitement d'images proposant des algorithmes de filtrage, géométrie, vidéo et inférence de réseaux neuronaux. Accessible notamment via Python et C++, sous licence Apache 2.0 pour les versions actuelles. Vérifier les licences des modèles tiers et calibrer les mesures.",
+    "en": "Open-source computer vision and image processing library offering filtering, geometry, video and neural network inference algorithms. Available notably through Python and C++, under Apache 2.0 for current versions. Check third-party model licenses and calibrate measurements.",
+    "ar": "مكتبة مفتوحة المصدر للرؤية الحاسوبية ومعالجة الصور توفر خوارزميات الترشيح والهندسة والفيديو واستدلال الشبكات العصبية. تتاح خصوصًا عبر Python وC++ بموجب ترخيص Apache 2.0 للإصدارات الحالية. ينبغي مراجعة تراخيص النماذج الخارجية ومعايرة القياسات.",
+    "officialSource": "https://opencv.org/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "nvidia-isaac": {
+    "fr": "Ensemble de technologies NVIDIA pour développer des robots autonomes, comprenant Isaac Sim pour la simulation et les données synthétiques, Isaac Lab pour l'apprentissage et Isaac ROS pour les composants robotiques. Accès développeur selon les licences des composants ; coûts matériels et de calcul variables. Valider les comportements en conditions réelles.",
+    "en": "NVIDIA robotics development ecosystem including Isaac Sim for simulation and synthetic data, Isaac Lab for robot learning and Isaac ROS for robotics components. Developer access depends on component licenses; hardware and compute costs vary. Validate behavior in real-world conditions.",
+    "ar": "منظومة تقنيات NVIDIA لتطوير الروبوتات المستقلة تشمل Isaac Sim للمحاكاة والبيانات الاصطناعية وIsaac Lab لتعلم الروبوتات وIsaac ROS للمكونات الروبوتية. يخضع وصول المطورين لتراخيص المكونات وتختلف تكاليف المعدات والحوسبة. ينبغي التحقق من السلوك في الظروف الواقعية.",
+    "officialSource": "https://developer.nvidia.com/isaac",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "plantix": {
+    "fr": "Application mobile gratuite de diagnostic des cultures à partir de photographies, avec identification probable des maladies et ravageurs. Des API professionnelles permettent l’intégration dans d’autres services. Confirmer les résultats sur le terrain avant tout traitement.",
+    "en": "Free mobile crop diagnosis app using photographs to identify likely diseases and pests. Professional APIs support integration into other services. Confirm results in the field before treatment.",
+    "ar": "تطبيق مجاني للهواتف لتشخيص المحاصيل انطلاقًا من الصور وتحديد الأمراض والآفات المحتملة. تتيح واجهات برمجية مهنية دمج الوظائف في خدمات أخرى. ينبغي التحقق ميدانيًا من النتائج قبل أي معالجة.",
+    "officialSource": "https://www.plantix.net/en/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "google-earth-engine": {
+    "fr": "Infrastructure cloud d’analyse géospatiale combinant catalogues de données satellitaires et calcul distribué. Accessible via JavaScript et Python dans un projet Google Cloud enregistré. Accès non commercial gratuit sous conditions et quotas ; offres commerciales payantes. Documenter les résolutions et périodes des données.",
+    "en": "Cloud geospatial analysis infrastructure combining satellite data catalogs and distributed computing. Accessible through JavaScript and Python in a registered Google Cloud project. Eligible noncommercial access is free subject to quotas; commercial plans are paid. Document data resolutions and dates.",
+    "ar": "بنية سحابية للتحليل الجغرافي المكاني تجمع فهارس البيانات الفضائية والحوسبة الموزعة. تتاح عبر JavaScript وPython ضمن مشروع Google Cloud مسجل. الوصول غير التجاري مجاني للمشاريع المؤهلة ضمن حصص محددة، والعروض التجارية مدفوعة. ينبغي توثيق دقة البيانات وفتراتها.",
+    "officialSource": "https://developers.google.com/earth-engine/guides/access",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "cropin": {
+    "fr": "Plateforme professionnelle associant données de terrain, observations satellitaires, météo et modèles agronomiques. OrbitAI permet d’interroger ces ressources pour appuyer les décisions agricoles et logistiques. Accès cloud et déploiement institutionnel selon contrat ; vérifier les recommandations auprès des agronomes.",
+    "en": "Enterprise platform combining field data, satellite observations, weather and agronomic models. OrbitAI supports querying these resources for agricultural and supply decisions. Cloud access and institutional deployment under contract; validate recommendations with agronomists.",
+    "ar": "منصة مهنية تجمع بيانات الحقول والرصد الفضائي والطقس والنماذج الزراعية. يتيح OrbitAI الاستعلام عن هذه الموارد لدعم القرارات الزراعية واللوجستية. تتاح سحابيًا وبنشر مؤسسي بحسب العقد؛ ينبغي مراجعة التوصيات مع المختصين الزراعيين.",
+    "officialSource": "https://www.cropin.com/products/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "taranis": {
+    "fr": "Service d’intelligence agricole combinant images aériennes détaillées, analyse automatisée et expertise agronomique pour repérer les anomalies des cultures. Offre professionnelle dont les conditions dépendent du déploiement. Confirmer les observations par inspection au sol.",
+    "en": "Agricultural intelligence service combining detailed aerial imagery, automated analysis and agronomic expertise to identify crop anomalies. Professional terms depend on deployment. Confirm observations through ground inspection.",
+    "ar": "خدمة للذكاء الزراعي تجمع الصور الجوية المفصلة والتحليل الآلي والخبرة الزراعية لرصد مشكلات المحاصيل. تختلف شروط العرض المهني بحسب النشر. ينبغي تأكيد الملاحظات بالفحص الميداني.",
+    "officialSource": "https://www.taranis.com/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "onesoil": {
+    "fr": "Plateforme web et mobile de suivi des parcelles par imagerie satellitaire et indices de végétation NDVI. Les fonctions de base sont gratuites ; l’historique mobile étendu et les cartes d’application à dose variable relèvent d’offres payantes. Tenir compte des nuages et des limites des indices.",
+    "en": "Web and mobile field monitoring platform using satellite imagery and NDVI vegetation indices. Basic features are free; extended mobile history and variable-rate application maps require paid offerings. Account for clouds and index limitations.",
+    "ar": "منصة ويب وهاتف لمراقبة الحقول بالصور الفضائية ومؤشر الغطاء النباتي NDVI. الوظائف الأساسية مجانية، بينما يتطلب السجل الموسمي الموسع على الهاتف وخرائط التطبيق بمعدلات متغيرة عروضًا مدفوعة. ينبغي مراعاة السحب وحدود المؤشرات.",
+    "officialSource": "https://help.onesoil.ai/en/articles/5237584-how-the-onesoil-web-and-mobile-apps-differ",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "climate-fieldview": {
+    "fr": "Plateforme d’agriculture numérique permettant de cartographier les opérations et de comparer les rendements selon les parcelles, semences et pratiques. Accès via applications et équipements compatibles, avec formule de base et offres payantes selon le marché. Vérifier la qualité des données et des recommandations.",
+    "en": "Digital farming platform for mapping operations and comparing yields across fields, seed types and practices. Access through apps and compatible equipment, with basic and paid plans varying by market. Check data quality and recommendations.",
+    "ar": "منصة للزراعة الرقمية تتيح رسم خرائط العمليات ومقارنة الغلة بحسب الحقول والبذور والممارسات. تتاح عبر تطبيقات ومعدات متوافقة، مع خطة أساسية وعروض مدفوعة تختلف بحسب السوق. ينبغي مراجعة جودة البيانات والتوصيات.",
+    "officialSource": "https://climate.com/en-us/pricing.html",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "eosda-crop-monitoring": {
+    "fr": "Service web de suivi des cultures par satellite, associant indices de végétation, météo, stades de croissance et limites de parcelles. Les offres Essential et Professional donnent accès à des fonctions supplémentaires, avec capacité de suivi dépendant notamment de la superficie. Vérifier les dates et la couverture nuageuse.",
+    "en": "Web-based satellite crop monitoring service combining vegetation indices, weather, growth stages and field boundaries. Essential and Professional plans unlock additional features, with monitoring capacity depending partly on area. Check acquisition dates and cloud cover.",
+    "ar": "خدمة ويب لمراقبة المحاصيل بالأقمار الصناعية تجمع مؤشرات الغطاء النباتي والطقس ومراحل النمو وحدود الحقول. تتيح خطتا Essential وProfessional وظائف إضافية، وتعتمد سعة المتابعة جزئيًا على المساحة. ينبغي مراجعة تواريخ التقاط الصور والغطاء السحابي.",
+    "officialSource": "https://eos.com/user-guide/crop-monitoring/account-and-pricing/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "planet-labs": {
+    "fr": "Fournisseur d’imagerie satellitaire pour observer les changements terrestres, avec accès par plateforme et API. PlanetScope facilite le suivi répété des zones ; abonnements par superficie et crédits de surveillance selon l’offre. Vérifier les licences, la résolution et les dates d’acquisition.",
+    "en": "Satellite imagery provider for monitoring land changes, accessible through a platform and APIs. PlanetScope supports repeated area monitoring; area-based subscriptions and monitoring credits vary by offering. Check licenses, resolution and acquisition dates.",
+    "ar": "مزود للصور الفضائية لمتابعة تغيرات سطح الأرض، يتاح عبر منصة وواجهات برمجية. يسهل PlanetScope الرصد المتكرر للمناطق؛ وتختلف الاشتراكات بحسب المساحة وأرصدة الرصد وفق العرض. ينبغي مراجعة التراخيص والدقة وتواريخ التقاط الصور.",
+    "officialSource": "https://docs.planet.com/platform/monitoring-credits/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "tomorrow-io": {
+    "fr": "Plateforme d’intelligence météorologique pour intégrer prévisions et données météo aux décisions opérationnelles. Accès par API et offres professionnelles adaptées aux besoins. Vérifier les incertitudes des prévisions et consulter les alertes officielles en cas de danger.",
+    "en": "Weather intelligence platform integrating forecasts and weather data into operational decisions. API access and business plans tailored to needs. Check forecast uncertainty and consult official warnings in hazardous conditions.",
+    "ar": "منصة للذكاء الجوي تدمج التوقعات والبيانات الجوية في القرارات التشغيلية. تتاح عبر واجهة برمجية وعروض مهنية بحسب الاحتياجات. ينبغي مراعاة عدم اليقين في التوقعات والرجوع إلى التحذيرات الرسمية عند الخطر.",
+    "officialSource": "https://support.tomorrow.io/hc/en-us/articles/23554984091156-Tomorrow-io-Pricing-Overview",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "jupiter-intelligence": {
+    "fr": "Plateforme professionnelle d’analyse des risques climatiques physiques pour sites, infrastructures et portefeuilles d’actifs. Accès SaaS, API d’entreprise et accompagnement spécialisé sur offre commerciale. Interpréter les résultats selon les scénarios et horizons temporels retenus.",
+    "en": "Professional physical climate risk analytics platform for sites, infrastructure and asset portfolios. SaaS, enterprise API and specialist support under commercial terms. Interpret results according to selected scenarios and time horizons.",
+    "ar": "منصة مهنية لتحليل المخاطر المناخية المادية للمواقع والبنى التحتية ومحافظ الأصول. تتاح كخدمة سحابية وواجهة برمجية للمؤسسات ودعم متخصص وفق عرض تجاري. ينبغي تفسير النتائج بحسب السيناريوهات والآفاق الزمنية المختارة.",
+    "officialSource": "https://www.jupiterintel.com/products",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "mindtrip": {
+    "fr": "Assistant de voyage accessible sur le Web et sur mobile pour organiser itinéraires, lieux, réservations et alertes personnalisées. Application iOS gratuite ; les réservations sont effectuées auprès de partenaires et restent soumises à leurs tarifs et conditions. Vérifier les horaires et confirmations.",
+    "en": "Web and mobile travel assistant organizing itineraries, places, bookings and personalized alerts. Free iOS app; reservations are handled by partners under their own prices and conditions. Verify opening hours and booking confirmations.",
+    "ar": "مساعد سفر عبر الويب والهاتف لتنظيم المسارات والأماكن والحجوزات والتنبيهات المخصصة. تطبيق iOS مجاني؛ تتم الحجوزات لدى الشركاء وفق أسعارهم وشروطهم. ينبغي التحقق من ساعات العمل وتأكيدات الحجز.",
+    "officialSource": "https://mindtrip.ai/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "layla": {
+    "fr": "Assistant web de planification de voyages proposant des idées de destinations et des itinéraires selon les préférences exprimées. Vérifier les conditions d’accès et les tarifs des prestations avant réservation ; les suggestions ne garantissent pas la disponibilité.",
+    "en": "Web travel planning assistant suggesting destinations and itineraries based on stated preferences. Check access terms and service prices before booking; suggestions do not guarantee availability.",
+    "ar": "مساعد عبر الويب لتخطيط السفر يقترح الوجهات والمسارات بحسب التفضيلات المعلنة. ينبغي مراجعة شروط الوصول وأسعار الخدمات قبل الحجز؛ ولا تضمن الاقتراحات التوفر الفعلي.",
+    "officialSource": "https://layla.ai/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "be-my-eyes": {
+    "fr": "Service gratuit d’accessibilité pour personnes aveugles ou malvoyantes, associant appels vidéo avec des bénévoles et descriptions d’images par Be My AI. Accessible sur mobile et Windows ; offre professionnelle distincte. Ne pas utiliser les descriptions automatiques comme seule source pour une décision de sécurité.",
+    "en": "Free accessibility service for blind or low-vision users combining volunteer video calls and Be My AI image descriptions. Available on mobile and Windows, with a separate workplace offering. Do not rely on automated descriptions alone for safety decisions.",
+    "ar": "خدمة مجانية لإتاحة الوصول للمكفوفين وضعاف البصر تجمع مكالمات الفيديو مع المتطوعين ووصف الصور عبر Be My AI. تتاح على الهاتف وويندوز مع عرض مهني منفصل. لا ينبغي الاعتماد على الأوصاف الآلية وحدها في قرارات السلامة.",
+    "officialSource": "https://support.bemyeyes.com/hc/en-us/articles/360005528557-Getting-started-with-Be-My-Eyes",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "goblin-tools": {
+    "fr": "Collection d’outils simples pour décomposer des tâches, reformuler des textes et estimer des durées, pensée notamment pour les personnes neurodivergentes. Fonctions de base gratuites sur le Web ; applications mobiles et abonnement Pro facultatif pour des fonctions supplémentaires. Les estimations restent indicatives.",
+    "en": "Collection of simple tools for breaking down tasks, rewriting text and estimating durations, designed particularly for neurodivergent users. Core web features are free; mobile apps and optional Pro subscription offer additional access or features. Estimates remain approximate.",
+    "ar": "مجموعة أدوات بسيطة لتقسيم المهام وإعادة صياغة النصوص وتقدير المدد، صممت خصوصًا للأشخاص ذوي التنوع العصبي. الوظائف الأساسية مجانية عبر الويب، مع تطبيقات للهاتف واشتراك Pro اختياري لوظائف إضافية. تظل التقديرات تقريبية.",
+    "officialSource": "https://goblin.tools/terms",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "portkey": {
+    "fr": "Passerelle pour applications IA facilitant l’accès à plusieurs fournisseurs de modèles et le suivi des traces, erreurs et performances. Accès API et offres selon le volume et les besoins de déploiement. Vérifier les coûts des fournisseurs et la confidentialité des journaux.",
+    "en": "AI application gateway supporting multiple model providers and monitoring traces, errors and performance. API access and plans based on volume and deployment needs. Check provider costs and log confidentiality.",
+    "ar": "بوابة لتطبيقات الذكاء الاصطناعي تسهل الوصول إلى عدة مزودين للنماذج ومتابعة سجلات التنفيذ والأخطاء والأداء. تتاح عبر واجهة برمجية وعروض بحسب الحجم واحتياجات النشر. ينبغي مراجعة تكاليف المزودين وسرية السجلات.",
+    "officialSource": "https://portkey.ai/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "promptfoo": {
+    "fr": "Cadre libre d’évaluation des applications fondées sur des modèles linguistiques, avec bibliothèque et interface en ligne de commande pour comparer les réponses et effectuer des tests de sécurité autorisés. Coûts éventuels des modèles et du calcul. Documenter les jeux de tests et examiner les résultats manuellement.",
+    "en": "Open-source evaluation framework for language-model applications, with library and CLI for comparing outputs and authorized security testing. Model and compute costs may apply. Document test suites and manually review findings.",
+    "ar": "إطار مفتوح المصدر لتقييم تطبيقات النماذج اللغوية يوفر مكتبة وواجهة سطر أوامر لمقارنة الإجابات وإجراء اختبارات أمنية مصرح بها. قد تترتب تكاليف للنماذج والحوسبة. ينبغي توثيق مجموعات الاختبار ومراجعة النتائج يدويًا.",
+    "officialSource": "https://www.promptfoo.dev/docs/intro/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "garak": {
+    "fr": "Scanner libre de vulnérabilités des applications à modèles linguistiques maintenu par NVIDIA. Accessible via code Python et intégrations de développement ; coûts éventuels des modèles et ressources de calcul. Réserver les audits aux systèmes autorisés et confirmer les résultats avant remédiation.",
+    "en": "Open-source vulnerability scanner for language-model applications maintained by NVIDIA. Available through Python code and developer integrations; model and compute costs may apply. Restrict audits to authorized systems and confirm findings before remediation.",
+    "ar": "ماسح مفتوح المصدر لثغرات تطبيقات النماذج اللغوية تديره NVIDIA. يتاح عبر شيفرة Python وتكاملات التطوير، وقد تترتب تكاليف للنماذج والحوسبة. ينبغي حصر التدقيق في الأنظمة المصرح بها والتحقق من النتائج قبل المعالجة.",
+    "officialSource": "https://github.com/NVIDIA/garak",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "google-agent-development-kit": {
+    "fr": "Cadre open source de développement, d'évaluation et de déploiement d'agents, disponible en Python, Java, Go, Kotlin et TypeScript. Compatible avec différents modèles et infrastructures. Les coûts des modèles et de l'hébergement restent distincts. Tester les outils et limiter leurs permissions.",
+    "en": "Open-source framework for building, evaluating and deploying agents in Python, Java, Go, Kotlin and TypeScript. Supports different models and infrastructure. Model and hosting costs are separate. Test tools and limit their permissions.",
+    "ar": "إطار مفتوح المصدر لتطوير الوكلاء وتقييمهم ونشرهم بلغات Python وJava وGo وKotlin وTypeScript. يدعم نماذج وبنى تحتية متنوعة. تحسب تكاليف النماذج والاستضافة بصورة منفصلة. ينبغي اختبار الأدوات وتقييد صلاحياتها.",
+    "officialSource": "https://github.com/google/adk-docs",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "strands-agents": {
+    "fr": "SDK open source sous licence Apache 2.0 permettant de développer des agents en Python et TypeScript avec différents modèles et outils. Le projet est regroupé dans le dépôt harness-sdk. Les appels aux modèles et l'infrastructure peuvent être facturés séparément. Prévoir des tests et des limites d'exécution.",
+    "en": "Apache 2.0 open-source SDK for developing agents in Python and TypeScript with different models and tools. The project is consolidated in the harness-sdk repository. Model calls and infrastructure may incur separate costs. Define tests and execution limits.",
+    "ar": "حزمة تطوير مفتوحة المصدر بترخيص Apache 2.0 لإنشاء الوكلاء باستخدام Python وTypeScript ونماذج وأدوات متنوعة. يجمع المشروع في مستودع harness-sdk. قد تحسب تكاليف استدعاء النماذج والبنية التحتية بصورة منفصلة. ينبغي تحديد الاختبارات وحدود التنفيذ.",
+    "officialSource": "https://github.com/strands-agents/harness-sdk",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "haystack-agents": {
+    "fr": "Composant Agent du cadre Haystack permettant de combiner modèles linguistiques, outils de recherche documentaire et appels de fonctions dans une boucle avec état et conditions d'arrêt. Accessible par code Python ; prévoir les coûts des services connectés. Évaluer les réponses et les actions autorisées.",
+    "en": "Haystack Agent component combining language models, document retrieval and function calls in a stateful loop with stopping conditions. Available through Python code; account for connected service costs. Evaluate responses and permitted actions.",
+    "ar": "مكون Agent في إطار Haystack يجمع النماذج اللغوية واسترجاع الوثائق واستدعاء الوظائف ضمن حلقة ذات حالة وشروط توقف. يتاح عبر شيفرة Python مع مراعاة تكاليف الخدمات المتصلة. ينبغي تقييم الإجابات والإجراءات المسموح بها.",
+    "officialSource": "https://docs.haystack.deepset.ai/docs/agents",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "cloudflare-agents": {
+    "fr": "SDK pour construire des agents persistants exécutés sur Cloudflare Durable Objects, avec état propre et stockage SQLite. Accès développeur via Workers ; facturation des ressources selon les quotas et la consommation. Contrôler la conservation des données et les coûts des modèles externes.",
+    "en": "SDK for building persistent agents running on Cloudflare Durable Objects, with individual state and SQLite storage. Developer access through Workers; resource billing depends on quotas and usage. Govern data retention and external model costs.",
+    "ar": "حزمة تطوير لإنشاء وكلاء مستمرين يعملون على Cloudflare Durable Objects مع حالة خاصة وتخزين SQLite. يتاح الوصول للمطورين عبر Workers وتحسب تكلفة الموارد بحسب الحصص والاستهلاك. ينبغي ضبط الاحتفاظ بالبيانات وتكاليف النماذج الخارجية.",
+    "officialSource": "https://www.cloudflare.com/products/agents/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "amazon-bedrock-agentcore": {
+    "fr": "Ensemble de services cloud pour l'exécution et l'intégration d'agents, comprenant notamment Runtime, Gateway et Identity. Accès via AWS, avec facturation selon les composants et leur utilisation. Configurer les permissions et surveiller séparément les coûts de calcul et de modèles.",
+    "en": "Cloud services for running and integrating agents, including Runtime, Gateway and Identity. Available through AWS with component-based usage pricing. Configure permissions and monitor compute and model costs separately.",
+    "ar": "مجموعة خدمات سحابية لتشغيل الوكلاء ودمجهم تشمل Runtime وGateway وIdentity. تتاح عبر AWS بفوترة حسب المكونات والاستخدام. ينبغي ضبط الصلاحيات ومراقبة تكاليف الحوسبة والنماذج بصورة منفصلة.",
+    "officialSource": "https://aws.amazon.com/bedrock/agentcore/pricing/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "e2b": {
+    "fr": "Infrastructure de sandboxes cloud isolées permettant aux agents d'exécuter du code et de manipuler des fichiers dans des environnements dédiés. Accès via SDK ; offres et consommation liées aux ressources CPU, mémoire et durée. Limiter les secrets et permissions transmis aux environnements.",
+    "en": "Cloud sandbox infrastructure enabling agents to execute code and manipulate files in dedicated environments. SDK access; plans and usage depend on CPU, memory and runtime. Restrict secrets and permissions supplied to environments.",
+    "ar": "بنية تحتية لبيئات تنفيذ سحابية معزولة تتيح للوكلاء تشغيل الشيفرة والتعامل مع الملفات في بيئات مخصصة. تتاح عبر حزمة تطوير وتختلف العروض والاستهلاك بحسب المعالج والذاكرة ومدة التشغيل. ينبغي تقييد الأسرار والصلاحيات الممنوحة للبيئات.",
+    "officialSource": "https://e2b.dev/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "browserbase": {
+    "fr": "Infrastructure cloud de sessions de navigateur pour automatiser les interactions web depuis des applications et agents. Accès API avec offres gratuites limitées, abonnements et consommation supplémentaire selon le plan. Respecter les autorisations des sites et protéger les données de session.",
+    "en": "Cloud browser session infrastructure for automating web interactions from applications and agents. API access with limited free plans, subscriptions and additional usage depending on plan. Respect site permissions and protect session data.",
+    "ar": "بنية سحابية لجلسات المتصفح تتيح أتمتة التفاعلات عبر الويب من التطبيقات والوكلاء. تتاح عبر واجهة برمجية بخطط مجانية محدودة واشتراكات واستهلاك إضافي بحسب الخطة. ينبغي احترام أذونات المواقع وحماية بيانات الجلسات.",
+    "officialSource": "https://www.browserbase.com/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "stagehand": {
+    "fr": "Cadre de développement d'automatisations web associant commandes de navigateur et assistance de modèles linguistiques. Exécution avec navigateur local ou infrastructure Browserbase selon configuration ; coûts possibles des modèles et sessions hébergées. Tester les interactions et demander une confirmation pour les actions sensibles.",
+    "en": "Web automation framework combining browser commands and language-model assistance. Runs with local browsers or Browserbase infrastructure depending on configuration; models and hosted sessions may incur costs. Test interactions and require confirmation for sensitive actions.",
+    "ar": "إطار لتطوير أتمتة الويب يجمع أوامر المتصفح ومساعدة النماذج اللغوية. يعمل باستخدام متصفح محلي أو بنية Browserbase بحسب الإعداد، وقد تترتب تكاليف للنماذج والجلسات المستضافة. ينبغي اختبار التفاعلات وطلب التأكيد للإجراءات الحساسة.",
+    "officialSource": "https://github.com/browserbase/stagehand/blob/main/packages/docs/v4/configuration/browser.mdx",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "salesforce-agentforce": {
+    "fr": "Plateforme de création et de déploiement d'agents reliés aux données et processus CRM de Salesforce. Accès cloud professionnel avec tarification par crédits Flex, conversations ou licences selon l'offre. Définir des permissions et contrôler les actions modifiant les dossiers clients.",
+    "en": "Platform for building and deploying agents connected to Salesforce CRM data and workflows. Professional cloud access with Flex Credit, conversation or license pricing depending on the plan. Define permissions and review actions modifying customer records.",
+    "ar": "منصة لإنشاء ونشر وكلاء مرتبطين ببيانات ومسارات إدارة علاقات العملاء في Salesforce. تتاح سحابيًا للمؤسسات بتسعير يعتمد على أرصدة Flex أو المحادثات أو التراخيص بحسب العرض. ينبغي تحديد الصلاحيات ومراجعة الإجراءات التي تعدل سجلات العملاء.",
+    "officialSource": "https://www.salesforce.com/agentforce/pricing/?bc=OTH",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "sap-joule": {
+    "fr": "Assistant et orchestrateur d'agents intégré aux applications métiers SAP. Joule Studio permet de créer des agents personnalisés reliés aux processus SAP et externes. Les capacités avancées sont facturées notamment en AI Units ; vérifier les droits d'accès et les validations financières.",
+    "en": "Assistant and agent orchestrator integrated with SAP business applications. Joule Studio supports custom agents connected to SAP and external processes. Advanced capabilities use AI Units among other pricing mechanisms; review permissions and financial approvals.",
+    "ar": "مساعد ومنسق للوكلاء مدمج في تطبيقات SAP المهنية. يتيح Joule Studio إنشاء وكلاء مخصصين مرتبطين بعمليات SAP والأنظمة الخارجية. تحسب تكلفة الوظائف المتقدمة خصوصًا بوحدات AI Units؛ ينبغي مراجعة الصلاحيات والموافقات المالية.",
+    "officialSource": "https://www.sap.com/products/artificial-intelligence/pricing.html",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "servicenow-ai-agents": {
+    "fr": "Agents intégrés à la plateforme ServiceNow pour traiter incidents, demandes et tâches métiers. AI Agent Studio permet de construire des agents, tandis que l'orchestration coordonne leurs outils et workflows. Accès selon licences et modules ; encadrer les actions sur les systèmes connectés.",
+    "en": "Agents integrated into ServiceNow for handling incidents, requests and business tasks. AI Agent Studio supports agent construction, while orchestration coordinates tools and workflows. Access depends on licenses and modules; govern actions on connected systems.",
+    "ar": "وكلاء مدمجون في منصة ServiceNow لمعالجة الحوادث والطلبات والمهام المهنية. يتيح AI Agent Studio بناء الوكلاء بينما ينسق نظام التنسيق الأدوات ومسارات العمل. يعتمد الوصول على التراخيص والوحدات؛ ينبغي ضبط الإجراءات على الأنظمة المتصلة.",
+    "officialSource": "https://www.servicenow.com/products/ai-agents.html",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "workday-illuminate-agents": {
+    "fr": "Agents métiers de Workday, présentés notamment sous la gamme Sana AI Agents, destinés aux processus RH et financiers. Workday Build permet de concevoir et orchestrer des interactions agentiques. Accès institutionnel selon contrat et fonctionnalités activées. Conserver une validation humaine des décisions concernant les salariés.",
+    "en": "Workday business agents, marketed notably as Sana AI Agents, supporting HR and finance processes. Workday Build enables design and orchestration of agent interactions. Institutional access depends on contracts and enabled features. Retain human review of decisions affecting employees.",
+    "ar": "وكلاء مهنيون من Workday يقدمون خصوصًا ضمن مجموعة Sana AI Agents لدعم عمليات الموارد البشرية والمالية. يتيح Workday Build تصميم التفاعلات بين الوكلاء وتنسيقها. يعتمد الوصول المؤسسي على العقود والوظائف المفعلة. ينبغي الإبقاء على المراجعة البشرية للقرارات المتعلقة بالموظفين.",
+    "officialSource": "https://www.workday.com/en-us/artificial-intelligence/ai-agents.html",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "oracle-ai-agent-studio": {
+    "fr": "Environnement de création d'agents et d'applications agentiques intégré à Oracle Fusion Cloud Applications, avec outils sans code et programmation. Les agents accèdent aux objets métiers, workflows et API autorisés. Accès lié aux services Oracle et conditions contractuelles ; vérifier les rôles et approbations.",
+    "en": "Agent and agentic application builder integrated into Oracle Fusion Cloud Applications, offering no-code and programming tools. Agents access authorized business objects, workflows and APIs. Access depends on Oracle services and contractual terms; verify roles and approvals.",
+    "ar": "بيئة لإنشاء الوكلاء والتطبيقات الوكيلية مدمجة في Oracle Fusion Cloud Applications، توفر أدوات دون برمجة وأخرى برمجية. يصل الوكلاء إلى عناصر الأعمال ومسارات العمل والواجهات المصرح بها. يرتبط الوصول بخدمات Oracle وشروط العقود؛ ينبغي مراجعة الأدوار والموافقات.",
+    "officialSource": "https://docs.oracle.com/en/cloud/saas/fusion-ai/26d/aiaas/overview-of-ai-agent-studio.html",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "hubspot-breeze-agents": {
+    "fr": "Agents commerciaux et de service client de HubSpot, désormais regroupés dans Agent Hub, anciennement Breeze Agents. Ils exploitent le contexte CRM pour traiter des demandes et accompagner la prospection. Certaines tâches sont facturées selon les résultats obtenus ; vérifier les offres et règles de prospection.",
+    "en": "HubSpot sales and customer service agents now grouped in Agent Hub, formerly Breeze Agents. They use CRM context to handle requests and support prospecting. Some tasks are billed by completed outcomes; check plans and outreach rules.",
+    "ar": "وكلاء للمبيعات وخدمة العملاء من HubSpot يجمعهم الآن Agent Hub المعروف سابقًا باسم Breeze Agents. يستفيدون من سياق إدارة علاقات العملاء لمعالجة الطلبات ودعم التنقيب التجاري. تحسب تكلفة بعض المهام بحسب النتائج المحققة؛ ينبغي مراجعة العروض وقواعد التواصل التجاري.",
+    "officialSource": "https://www.hubspot.com/products/artificial-intelligence",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "moveworks-ai-agents": {
+    "fr": "Plateforme d'assistance aux employés combinant recherche dans les ressources internes et exécution de tâches via des intégrations métiers. Agent Studio permet de développer des agents ; déploiement sur le Web et messageries d'entreprise. Offre institutionnelle sur contrat. Respecter les permissions documentaires et les procédures de transfert humain.",
+    "en": "Employee assistance platform combining internal resource search and task execution through business integrations. Agent Studio supports agent development; deployment on web and enterprise messaging channels. Institutional contract-based offering. Respect document permissions and human handoff procedures.",
+    "ar": "منصة لمساعدة الموظفين تجمع البحث في الموارد الداخلية وتنفيذ المهام عبر التكاملات المهنية. يتيح Agent Studio تطوير الوكلاء ونشرهم على الويب وقنوات المراسلة المؤسسية. تتوفر بعقود مؤسسية. ينبغي احترام صلاحيات الوثائق وإجراءات التحويل إلى الدعم البشري.",
+    "officialSource": "https://help.moveworks.com/ai-assistant/overview",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "sierra-ai": {
+    "fr": "Plateforme de création d'agents de relation client capables de traiter des demandes et d'interagir avec des systèmes métiers. Déploiement professionnel avec tarification fondée sur les résultats définis contractuellement. Tester les réponses, les règles commerciales et le transfert vers des conseillers.",
+    "en": "Platform for building customer experience agents that handle requests and interact with business systems. Professional deployment with contract-defined outcome-based pricing. Test responses, business rules and handoff to human advisors.",
+    "ar": "منصة لإنشاء وكلاء لخدمة العملاء يعالجون الطلبات ويتفاعلون مع الأنظمة المهنية. يتاح النشر المؤسسي بتسعير يعتمد على النتائج المحددة تعاقديًا. ينبغي اختبار الإجابات والقواعد التجارية والتحويل إلى المستشارين البشريين.",
+    "officialSource": "https://sierra.ai/product",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "uipath-agent-builder": {
+    "fr": "Outil de conception visuelle d'agents IA dans UiPath Studio, permettant de configurer instructions, outils et contexte, puis d'intégrer les agents aux automatisations métiers. Accès via l'écosystème UiPath selon licences et consommation. Prévoir des approbations pour les actions sensibles.",
+    "en": "Visual AI agent design tool in UiPath Studio for configuring instructions, tools and context and integrating agents into business automations. Access through the UiPath ecosystem depends on licenses and usage. Require approvals for sensitive actions.",
+    "ar": "أداة مرئية لتصميم وكلاء الذكاء الاصطناعي في UiPath Studio تتيح ضبط التعليمات والأدوات والسياق ودمج الوكلاء في أتمتة الأعمال. يعتمد الوصول عبر منظومة UiPath على التراخيص والاستهلاك. ينبغي اشتراط الموافقة على الإجراءات الحساسة.",
+    "officialSource": "https://www.uipath.com/platform/agentic-automation/agentic-ai/agent-builder",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "automation-anywhere-agentic-automation": {
+    "fr": "Plateforme d'automatisation des processus combinant agents IA, robotisation RPA, API et traitement documentaire. Automation Co-Pilot facilite l'interaction depuis les applications de travail. Offre professionnelle selon contrat et ressources déployées. Tester les workflows et prévoir des contrôles humains.",
+    "en": "Process automation platform combining AI agents, RPA, APIs and document processing. Automation Co-Pilot supports interaction from work applications. Professional offering based on contracts and deployed resources. Test workflows and provide human controls.",
+    "ar": "منصة لأتمتة العمليات تجمع وكلاء الذكاء الاصطناعي والأتمتة الروبوتية RPA والواجهات البرمجية ومعالجة الوثائق. يسهل Automation Co-Pilot التفاعل من تطبيقات العمل. تتاح بعروض مهنية حسب العقود والموارد المنشورة. ينبغي اختبار مسارات العمل وتوفير ضوابط بشرية.",
+    "officialSource": "https://www.automationanywhere.com/products",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "palantir-aip-agents": {
+    "fr": "Agents interactifs de la plateforme Palantir AIP, configurables dans Agent Studio avec informations et outils propres à l'organisation. Agent Manager facilite la gestion des agents publiés. Accès professionnel dans l'écosystème Foundry/AIP selon contrat. Limiter les actions aux données et fonctions autorisées.",
+    "en": "Interactive agents in Palantir AIP, configured in Agent Studio with organization-specific information and tools. Agent Manager supports management of published agents. Professional access through Foundry/AIP under contract. Restrict actions to authorized data and functions.",
+    "ar": "وكلاء تفاعليون في منصة Palantir AIP يمكن إعدادهم في Agent Studio بمعلومات وأدوات خاصة بالمؤسسة. يسهل Agent Manager إدارة الوكلاء المنشورين. يتاح الوصول المهني عبر منظومة Foundry/AIP بحسب العقد. ينبغي حصر الإجراءات في البيانات والوظائف المصرح بها.",
+    "officialSource": "https://www.palantir.com/docs/foundry/aip/agent-stack",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "databricks-agent-bricks": {
+    "fr": "Environnement de création, d'évaluation et de gouvernance d'agents exploitant les données de Databricks, avec services et interfaces de développement pour la production. Facturation à l'usage des produits Databricks sous-jacents. Évaluer les réponses sur des jeux de tests et appliquer les contrôles d'accès aux données.",
+    "en": "Environment for building, evaluating and governing agents using Databricks data, with developer interfaces and production services. Usage-based billing for underlying Databricks products. Evaluate responses on test sets and apply data access controls.",
+    "ar": "بيئة لإنشاء وتقييم وحوكمة الوكلاء الذين يستفيدون من بيانات Databricks، مع واجهات تطوير وخدمات للنشر الفعلي. تعتمد الفوترة على استخدام منتجات Databricks الأساسية. ينبغي تقييم الإجابات على مجموعات اختبار وتطبيق ضوابط الوصول إلى البيانات.",
+    "officialSource": "https://www.databricks.com/product/artificial-intelligence/agent-bricks",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "chatgpt-agent": {
+    "fr": "Fonction agentique de ChatGPT combinant recherche, navigation interactive et exécution de tâches à plusieurs étapes. Accès selon les abonnements et paramètres de l'espace de travail. Vérifier les permissions des applications connectées et superviser les actions sensibles.",
+    "en": "ChatGPT agentic feature combining research, interactive browsing and multistep task execution. Access depends on subscriptions and workspace settings. Review connected app permissions and supervise sensitive actions.",
+    "ar": "ميزة وكيلية في ChatGPT تجمع البحث والتصفح التفاعلي وتنفيذ المهام متعددة الخطوات. يعتمد الوصول على الاشتراكات وإعدادات مساحة العمل. ينبغي مراجعة صلاحيات التطبيقات المتصلة والإشراف على الإجراءات الحساسة.",
+    "officialSource": "https://help.openai.com/en/articles/11752874-chatgpt-agent",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "chatgpt-atlas": {
+    "fr": "Ancien navigateur intégrant ChatGPT et des fonctions de navigation agentique. OpenAI a annoncé son retrait et la transition de ses capacités vers ChatGPT et Codex. Fiche conservée à titre historique ; consulter les instructions officielles relatives aux données locales et à la migration.",
+    "en": "Former browser integrating ChatGPT and agentic browsing capabilities. OpenAI announced its retirement and the transition of capabilities to ChatGPT and Codex. Retained as a historical reference; consult official local data and migration guidance.",
+    "ar": "متصفح سابق يدمج ChatGPT ووظائف التصفح الوكيلي. أعلنت OpenAI إيقافه ونقل إمكاناته إلى ChatGPT وCodex. تحفظ هذه البطاقة كمرجع تاريخي؛ ينبغي الرجوع إلى الإرشادات الرسمية المتعلقة بالبيانات المحلية والانتقال.",
+    "officialSource": "https://help.openai.com/en/articles/20001371-chatgpt-atlas-retirement",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "openclaw": {
+    "fr": "Assistant personnel open source auto-hébergeable reliant des modèles linguistiques à des canaux de messagerie et outils externes. Le logiciel peut être installé sur une infrastructure personnelle ; les modèles, serveurs et services tiers peuvent engendrer des frais. Isoler les accès sensibles et examiner les extensions installées.",
+    "en": "Self-hostable open-source personal assistant connecting language models to messaging channels and external tools. Software can run on personal infrastructure; models, servers and third-party services may incur costs. Isolate sensitive access and review installed extensions.",
+    "ar": "مساعد شخصي مفتوح المصدر قابل للاستضافة الذاتية يربط النماذج اللغوية بقنوات المراسلة والأدوات الخارجية. يمكن تشغيل البرنامج على بنية تحتية شخصية؛ وقد تترتب تكاليف للنماذج والخوادم والخدمات الخارجية. ينبغي عزل الوصول الحساس ومراجعة الإضافات المثبتة.",
+    "officialSource": "https://docs.openclaw.ai/help/faq/what-is-openclaw",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "opera-neon": {
+    "fr": "Navigateur agentique expérimental associant navigation et outils d'automatisation. Une formule gratuite permet de connecter des agents externes via MCP ou l'interface de commande du navigateur ; les capacités IA intégrées relèvent d'offres distinctes. Vérifier les actions avant toute transmission de données ou transaction.",
+    "en": "Experimental agentic browser combining browsing and automation tools. A free plan supports external agents through MCP or the browser command-line interface; built-in AI capabilities have separate offerings. Review actions before sharing data or making transactions.",
+    "ar": "متصفح وكيلي تجريبي يجمع التصفح وأدوات الأتمتة. تتيح خطة مجانية ربط الوكلاء الخارجيين عبر MCP أو واجهة سطر أوامر المتصفح؛ وتخضع إمكانات الذكاء الاصطناعي المدمجة لعروض منفصلة. ينبغي مراجعة الإجراءات قبل إرسال البيانات أو إجراء المعاملات.",
+    "officialSource": "https://blogs.opera.com/news/2026/08/your-ai-agents-can-use-opera-neon-free-of-charge/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "claude-cowork": {
+    "fr": "Assistant agentique d’Anthropic pour réaliser des tâches à plusieurs étapes, analyser des fichiers et produire des livrables. Accessible sur le Web, sur ordinateur et sur mobile selon les abonnements payants et les paramètres d’organisation. Superviser les accès aux fichiers et aux applications connectées.",
+    "en": "Anthropic agentic assistant for completing multistep tasks, analyzing files and producing deliverables. Available on web, desktop and mobile depending on paid plans and organization settings. Supervise file and connected application access.",
+    "ar": "مساعد وكيلي من Anthropic لإنجاز المهام متعددة الخطوات وتحليل الملفات وإنتاج المخرجات. يتاح عبر الويب والحاسوب والهاتف بحسب الاشتراكات المدفوعة وإعدادات المؤسسة. ينبغي الإشراف على صلاحيات الوصول إلى الملفات والتطبيقات المتصلة.",
+    "officialSource": "https://support.claude.com/en/articles/15520349-use-claude-cowork-on-web-desktop-and-mobile",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "claude-in-chrome": {
+    "fr": "Intégration de Claude au navigateur Chrome pour naviguer, cliquer, saisir du texte et remplir des formulaires dans les tâches autorisées. Compatible avec certains workflows Cowork et Claude Code ; accès selon abonnement et paramètres administratifs. Vérifier les actions sensibles et les permissions des sites.",
+    "en": "Claude integration with Chrome for browsing, clicking, typing and filling forms in authorized tasks. Supports selected Cowork and Claude Code workflows; access depends on subscription and administrator settings. Review sensitive actions and site permissions.",
+    "ar": "تكامل Claude مع متصفح Chrome للتصفح والنقر وإدخال النصوص وملء النماذج ضمن المهام المصرح بها. يدعم بعض مسارات Cowork وClaude Code؛ ويعتمد الوصول على الاشتراك وإعدادات المسؤول. ينبغي مراجعة الإجراءات الحساسة وأذونات المواقع.",
+    "officialSource": "https://support.claude.com/en/articles/12012173-get-started-with-claude-in-chrome",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "gemini-spark": {
+    "fr": "Agent personnel intégré à Gemini pour déléguer des tâches à plusieurs étapes et automatiser certaines activités numériques, notamment via Chrome. Accessible aux abonnés Google AI Pro et Ultra dans les pays pris en charge. Définir les autorisations et vérifier les actions avant les engagements importants.",
+    "en": "Personal agent integrated into Gemini for delegating multistep tasks and automating selected digital activities, including through Chrome. Available to Google AI Pro and Ultra subscribers in supported countries. Define permissions and review actions before major commitments.",
+    "ar": "وكيل شخصي مدمج في Gemini لتفويض المهام متعددة الخطوات وأتمتة بعض الأنشطة الرقمية، ومنها التصفح عبر Chrome. يتاح لمشتركي Google AI Pro وUltra في البلدان المدعومة. ينبغي تحديد الصلاحيات ومراجعة الإجراءات قبل الالتزامات المهمة.",
+    "officialSource": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-july-2026/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "genspark-super-agent": {
+    "fr": "Assistant agentique par session orchestrant recherche, code, fichiers et outils spécialisés pour produire des livrables. Accessible via Genspark avec modes Standard et Ultra ; abonnements, quotas hebdomadaires admissibles et crédits selon l’usage. Contrôler les sources et les fichiers générés.",
+    "en": "Session-based agentic assistant orchestrating research, code, files and specialized tools to produce deliverables. Available through Genspark in Standard and Ultra modes; subscriptions, eligible weekly allowances and usage credits apply. Review sources and generated files.",
+    "ar": "مساعد وكيلي يعمل ضمن جلسات وينسق البحث والشيفرة والملفات والأدوات المتخصصة لإنتاج المخرجات. يتاح عبر Genspark بنمطي Standard وUltra مع اشتراكات وحصص أسبوعية مؤهلة وأرصدة بحسب الاستخدام. ينبغي مراجعة المصادر والملفات المولدة.",
+    "officialSource": "https://www.genspark.ai/helpcenter/super-agent",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "perplexity-comet": {
+    "fr": "Navigateur intégrant un assistant IA capable d’exploiter le contexte des onglets et d’aider à réaliser des tâches de navigation. Disponible notamment sur ordinateur et Android ; fonctions et limites selon l’offre Perplexity. Vérifier les autorisations et les informations transmises aux sites.",
+    "en": "Browser integrating an AI assistant that uses tab context and helps complete browsing tasks. Available notably on desktop and Android; features and limits depend on the Perplexity offering. Review permissions and information shared with websites.",
+    "ar": "متصفح يدمج مساعدًا للذكاء الاصطناعي يستفيد من سياق علامات التبويب ويساعد على إنجاز مهام التصفح. يتاح خصوصًا على الحاسوب وأندرويد، وتختلف الوظائف والحدود بحسب عرض Perplexity. ينبغي مراجعة الصلاحيات والمعلومات المرسلة إلى المواقع.",
+    "officialSource": "https://www.perplexity.ai/en-GB/hub/blog/comet-for-android-is-here",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "skyvern": {
+    "fr": "Plateforme d'automatisation des workflows web associant vision artificielle, modèles linguistiques et navigateur Playwright. Elle propose un SDK et un éditeur visuel de workflows, avec code ouvert et services cloud. Les frais dépendent de l'hébergement et des modèles utilisés. Limiter les permissions et superviser les opérations sensibles.",
+    "en": "Web workflow automation platform combining computer vision, language models and Playwright browsers. Offers an SDK and visual workflow builder, with open-source code and cloud services. Costs depend on hosting and model usage. Restrict permissions and supervise sensitive operations.",
+    "ar": "منصة لأتمتة مسارات العمل عبر الويب تجمع الرؤية الحاسوبية والنماذج اللغوية ومتصفح Playwright. توفر حزمة تطوير ومحررًا مرئيًا لمسارات العمل مع شيفرة مفتوحة المصدر وخدمات سحابية. تعتمد التكاليف على الاستضافة والنماذج المستخدمة. ينبغي تقييد الصلاحيات والإشراف على العمليات الحساسة.",
+    "officialSource": "https://github.com/Skyvern-AI/skyvern",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "agent-tars": {
+    "fr": "Agent multimodal issu de l'écosystème open source TARS de ByteDance, capable d'interagir avec des interfaces graphiques et des outils externes. Disponible sous forme d'application et d'interface en ligne de commande expérimentales. Les coûts des modèles et services distants sont distincts. Vérifier les actions et isoler les données sensibles.",
+    "en": "Multimodal agent from ByteDance's open-source TARS ecosystem, capable of interacting with graphical interfaces and external tools. Available as an experimental app and command-line interface. Model and remote-service costs are separate. Review actions and isolate sensitive data.",
+    "ar": "وكيل متعدد الوسائط من منظومة TARS مفتوحة المصدر التابعة لشركة ByteDance، يتفاعل مع الواجهات الرسومية والأدوات الخارجية. يتاح كتطبيق تجريبي وواجهة سطر أوامر. تحسب تكاليف النماذج والخدمات البعيدة بصورة منفصلة. ينبغي مراجعة الإجراءات وعزل البيانات الحساسة.",
+    "officialSource": "https://github.com/bytedance/UI-TARS-desktop",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "browseros": {
+    "fr": "Navigateur agentique open source fondé sur Chromium. BrowserOS neo permet de connecter des agents externes et de suivre leurs sessions dans des onglets dédiés. Le navigateur est gratuit ; les modèles et abonnements tiers peuvent engendrer des frais. Examiner les permissions des comptes connectés.",
+    "en": "Open-source Chromium-based agentic browser. BrowserOS neo connects external agents and tracks their sessions in dedicated tabs. The browser is free; third-party models and subscriptions may incur costs. Review connected account permissions.",
+    "ar": "متصفح وكيلي مفتوح المصدر مبني على Chromium. يتيح BrowserOS neo ربط الوكلاء الخارجيين ومتابعة جلساتهم في علامات تبويب مخصصة. المتصفح مجاني، وقد تترتب تكاليف على النماذج والاشتراكات الخارجية. ينبغي مراجعة صلاحيات الحسابات المتصلة.",
+    "officialSource": "https://github.com/browseros-ai/BrowserOS",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "nanobrowser": {
+    "fr": "Agent open source d'automatisation web fonctionnant dans le navigateur de l'utilisateur, notamment avec ses sessions déjà ouvertes. Accessible sous forme d'extension et de code source ; les modèles configurés peuvent générer des frais. Contrôler les accès aux pages privées et les actions avant soumission.",
+    "en": "Open-source web automation agent operating in the user's browser, including existing authenticated sessions. Available as an extension and source code; configured models may incur charges. Review access to private pages and actions before submission.",
+    "ar": "وكيل مفتوح المصدر لأتمتة الويب يعمل داخل متصفح المستخدم، بما في ذلك جلسات تسجيل الدخول القائمة. يتاح كإضافة وشيفرة مصدرية، وقد تترتب رسوم على النماذج المضبوطة. ينبغي مراجعة الوصول إلى الصفحات الخاصة والإجراءات قبل إرسالها.",
+    "officialSource": "https://github.com/nanobrowser/nanobrowser",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "agentql": {
+    "fr": "Service et langage de requête pour identifier des éléments web par leur signification et extraire des données structurées. API REST, SDK Python et JavaScript fondés sur Playwright, et extension de débogage. Essai gratuit et offres payantes selon les volumes. Respecter les droits d'accès et valider les données extraites.",
+    "en": "Service and query language for semantically identifying web elements and extracting structured data. REST API, Playwright-based Python and JavaScript SDKs, and debugger extension. Free trial and paid volume-based plans. Respect access rights and validate extracted data.",
+    "ar": "خدمة ولغة استعلام لتحديد عناصر الويب دلاليًا واستخراج البيانات المهيكلة. توفر واجهة REST وحزمتي Python وJavaScript المبنيتين على Playwright وإضافة لتصحيح الأخطاء. تتاح تجربة مجانية وعروض مدفوعة بحسب الحجم. ينبغي احترام حقوق الوصول والتحقق من البيانات المستخرجة.",
+    "officialSource": "https://docs.agentql.com/home",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "openmanus": {
+    "fr": "Cadre open source de développement d'agents généralistes pour planifier des tâches et exploiter des outils configurés. Accessible via dépôt et installation Python, avec configuration de fournisseurs de modèles. Les appels aux modèles et l'infrastructure peuvent être facturés. Tester les workflows et limiter les permissions.",
+    "en": "Open-source framework for building general-purpose agents that plan tasks and use configured tools. Available through its repository and Python installation, with configurable model providers. Model calls and infrastructure may incur charges. Test workflows and restrict permissions.",
+    "ar": "إطار مفتوح المصدر لتطوير وكلاء متعددي الأغراض يخططون للمهام ويستخدمون الأدوات المضبوطة. يتاح عبر المستودع والتثبيت باستخدام Python مع إمكانية ضبط مزودي النماذج. قد تترتب تكاليف على استدعاءات النماذج والبنية التحتية. ينبغي اختبار مسارات العمل وتقييد الصلاحيات.",
+    "officialSource": "https://openmanus.github.io/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "hermes-agent": {
+    "fr": "Agent personnel de Nous Research doté de capacités d'utilisation d'outils et de compétences réutilisables. Accessible via code source, interface de commande et application de bureau. Les fournisseurs de modèles et services externes peuvent être facturés séparément ; une offre Nous Portal regroupe certains accès. Examiner les compétences installées et les permissions.",
+    "en": "Personal agent from Nous Research with tool-use capabilities and reusable skills. Available through source code, command-line interface and desktop app. Model providers and external services may be billed separately; Nous Portal bundles selected access. Review installed skills and permissions.",
+    "ar": "وكيل شخصي من Nous Research يتمتع بإمكانات استخدام الأدوات ومهارات قابلة لإعادة الاستخدام. يتاح عبر الشيفرة المصدرية وواجهة سطر الأوامر وتطبيق سطح المكتب. قد تحسب تكلفة مزودي النماذج والخدمات الخارجية بصورة منفصلة، ويجمع Nous Portal بعض خدمات الوصول. ينبغي مراجعة المهارات المثبتة والصلاحيات.",
+    "officialSource": "https://hermes-agent.nousresearch.com/docs",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "beeai": {
+    "fr": "Cadre open source hébergé par la Linux Foundation pour construire des systèmes multi-agents avec outils, recherche documentaire et contraintes d'exécution. Accessible via la documentation et le code du projet ; les modèles et ressources de déploiement peuvent entraîner des frais. Définir des règles de contrôle et évaluer les résultats.",
+    "en": "Linux Foundation-hosted open-source framework for building multi-agent systems with tools, retrieval and execution constraints. Available through project documentation and code; models and deployment resources may incur costs. Define control rules and evaluate results.",
+    "ar": "إطار مفتوح المصدر تستضيفه Linux Foundation لبناء أنظمة متعددة الوكلاء تشمل الأدوات واسترجاع الوثائق وقيود التنفيذ. يتاح عبر وثائق المشروع وشيفرته؛ وقد تترتب تكاليف على النماذج وموارد النشر. ينبغي تحديد قواعد الرقابة وتقييم النتائج.",
+    "officialSource": "https://i-am-bee.github.io/beeai-framework/introduction/welcome",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "openai-agents-api": {
+    "fr": "API d'exécution gérée d'agents chez OpenAI, distincte des Agents SDK Python et TypeScript qui exécutent l'orchestration dans l'application du développeur. Accès développeur et facturation selon les services utilisés. Vérifier les permissions, la persistance des états et les approbations.",
+    "en": "Managed agent execution API from OpenAI, distinct from the Python and TypeScript Agents SDKs that orchestrate agents within the developer's application. Developer access and service-based billing. Review permissions, state persistence and approvals.",
+    "ar": "واجهة برمجية من OpenAI لتشغيل الوكلاء ضمن خدمة مُدارة، تختلف عن حزم Agents SDK بلغتي Python وTypeScript التي تنسق الوكلاء داخل تطبيق المطور. يتاح الوصول للمطورين وتختلف الفوترة بحسب الخدمات المستخدمة. ينبغي مراجعة الصلاحيات وحفظ الحالة والموافقات.",
+    "officialSource": "https://developers.openai.com/api/docs/guides/agents/sdk",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "openai-agentkit": {
+    "fr": "Ensemble d'outils annoncé par OpenAI pour créer et intégrer des agents, comprenant historiquement Agent Builder et ChatKit. Le 3 juin 2026, OpenAI a annoncé l'arrêt progressif d'Agent Builder et Evals. Consulter la documentation de migration avant tout nouveau projet ; les coûts API dépendent des services utilisés.",
+    "en": "OpenAI toolkit announced for building and integrating agents, historically including Agent Builder and ChatKit. On June 3, 2026, OpenAI announced the wind-down of Agent Builder and Evals. Consult migration documentation before new projects; API costs depend on services used.",
+    "ar": "مجموعة أدوات أعلنت عنها OpenAI لإنشاء الوكلاء ودمجهم، شملت سابقًا Agent Builder وChatKit. في 3 يونيو 2026 أعلنت الشركة الإيقاف التدريجي لمنتجي Agent Builder وEvals. ينبغي مراجعة وثائق الانتقال قبل بدء مشروع جديد؛ وتختلف تكاليف الواجهات البرمجية بحسب الخدمات المستخدمة.",
+    "officialSource": "https://openai.com/index/introducing-agentkit/?rd=1",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "microsoft-foundry-agent-service": {
+    "fr": "Service cloud géré pour construire, déployer et mettre à l'échelle des agents, y compris des agents développés avec des frameworks externes. Fournit des points d'accès gérés, une identité Entra, la persistance des sessions et l'observabilité. Facturation Azure selon les ressources et services consommés. Contrôler les identités et accès.",
+    "en": "Managed cloud service for building, deploying and scaling agents, including those built with external frameworks. Provides managed endpoints, Entra identity, session persistence and observability. Azure billing depends on consumed resources and services. Govern identities and access.",
+    "ar": "خدمة سحابية مُدارة لإنشاء الوكلاء ونشرهم وتوسيع نطاقهم، بما في ذلك الوكلاء المطورون بأطر خارجية. توفر نقاط وصول مُدارة وهوية Entra وحفظ حالة الجلسات وقابلية مراقبة التنفيذ. تعتمد فوترة Azure على الموارد والخدمات المستهلكة. ينبغي ضبط الهويات وصلاحيات الوصول.",
+    "officialSource": "https://learn.microsoft.com/en-us/azure/foundry/agents/overview",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "microsoft-magentic-ui": {
+    "fr": "Projet de recherche de Microsoft Foundry Labs explorant l'interaction humain-agent pour réaliser des tâches sur des interfaces web et informatiques. Accessible via le dépôt de recherche et les options expérimentales Foundry. Les modèles et ressources d'exécution peuvent être facturés séparément. Superviser les actions externes.",
+    "en": "Microsoft Foundry Labs research project exploring human-agent interaction for tasks involving web and computer interfaces. Available through the research repository and experimental Foundry options. Models and runtime resources may incur separate charges. Supervise external actions.",
+    "ar": "مشروع بحثي من Microsoft Foundry Labs يستكشف التفاعل بين الإنسان والوكيل لإنجاز المهام عبر واجهات الويب والحاسوب. يتاح عبر المستودع البحثي والخيارات التجريبية في Foundry. قد تحسب تكلفة النماذج وموارد التنفيذ بصورة منفصلة. ينبغي الإشراف على الإجراءات الخارجية.",
+    "officialSource": "https://labs.ai.azure.com/innovations/magentic-ui/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "langsmith-agent-builder": {
+    "fr": "Interface sans code de LangSmith permettant de construire des agents à partir d'instructions et d'outils, de gérer leur contexte et de joindre des fichiers. Accès via LangSmith selon les offres et capacités disponibles ; les coûts d'exécution et de modèles sont à vérifier. Tester les agents avant usage métier.",
+    "en": "LangSmith no-code interface for constructing agents from instructions and tools, managing context and attaching files. Access through LangSmith depends on offerings and available capabilities; check runtime and model costs. Test agents before business use.",
+    "ar": "واجهة دون برمجة في LangSmith لإنشاء الوكلاء انطلاقًا من التعليمات والأدوات وإدارة السياق وإرفاق الملفات. يعتمد الوصول عبر LangSmith على العروض والوظائف المتاحة؛ ينبغي مراجعة تكاليف التنفيذ والنماذج واختبار الوكلاء قبل الاستخدام المهني.",
+    "officialSource": "https://www.langchain.com/blog/new-in-agent-builder-all-new-agent-chat-file-uploads-tool-registry",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "arcade-dev": {
+    "fr": "Infrastructure d'outils pour agents permettant de connecter des applications externes via des serveurs MCP, avec gestion de l'authentification et des permissions. Accès développeur via API et intégrations ; consulter les conditions commerciales et quotas en vigueur. Limiter les autorisations au strict nécessaire.",
+    "en": "Agent tool infrastructure connecting external applications through MCP servers with authentication and permission management. Developer access through APIs and integrations; consult current commercial terms and quotas. Apply least-privilege permissions.",
+    "ar": "بنية أدوات للوكلاء تربط التطبيقات الخارجية عبر خوادم MCP مع إدارة المصادقة والصلاحيات. يتاح الوصول للمطورين عبر الواجهات البرمجية والتكاملات؛ ينبغي مراجعة الشروط التجارية والحصص الحالية ومنح الحد الأدنى اللازم من الصلاحيات.",
+    "officialSource": "https://docs.arcade.dev/en/resources/tools",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "pipedream-ai-agents": {
+    "fr": "Infrastructure d'intégration et d'automatisation permettant aux applications agentiques de connecter des comptes externes et d'exécuter des workflows. Accès développeur via Pipedream Connect et interfaces de programmation ; tarification selon les utilisateurs connectés et la consommation selon l'offre. Protéger les identifiants et contrôler les actions.",
+    "en": "Integration and automation infrastructure enabling agentic applications to connect external accounts and execute workflows. Developer access through Pipedream Connect and APIs; pricing depends on connected users and usage under the selected plan. Protect credentials and review actions.",
+    "ar": "بنية للتكامل والأتمتة تتيح للتطبيقات الوكيلية ربط الحسابات الخارجية وتنفيذ مسارات العمل. يتاح الوصول للمطورين عبر Pipedream Connect والواجهات البرمجية؛ يعتمد التسعير على المستخدمين المتصلين والاستهلاك بحسب الخطة. ينبغي حماية بيانات الاعتماد ومراجعة الإجراءات.",
+    "officialSource": "https://pipedream.com/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "nvidia-nemo-agent-toolkit": {
+    "fr": "Bibliothèque NVIDIA pour connecter des agents à des outils et sources de données et instrumenter leurs workflows. Dépréciée depuis octobre 2026, avec fin de vie annoncée pour fin 2026. Code et documentation accessibles pour maintenance et référence historique ; privilégier une solution maintenue pour les nouveaux projets.",
+    "en": "NVIDIA library for connecting agents to tools and data sources and instrumenting their workflows. Deprecated since October 2026, with end of life announced for late 2026. Code and documentation remain available for maintenance and historical reference; prefer a maintained solution for new projects.",
+    "ar": "مكتبة من NVIDIA لربط الوكلاء بالأدوات ومصادر البيانات ومراقبة مسارات عملهم. أصبحت مهملة منذ أكتوبر 2026 مع إعلان نهاية دورة حياتها بنهاية 2026. تتاح الشيفرة والوثائق لأغراض الصيانة والمرجعية التاريخية؛ يفضل اختيار حل يحظى بالصيانة للمشروعات الجديدة.",
+    "officialSource": "https://docs.nvidia.com/nemo/agent-toolkit/1.9/components/agents/index.html",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "vertex-ai-agent-builder": {
+    "fr": "Suite Google Cloud pour créer, déployer et gouverner des agents en production. Accès par console et interfaces de développement ; les coûts dépendent des modèles et services cloud mobilisés. Consulter également la documentation de Gemini Enterprise Agent Platform pour les évolutions de l'offre.",
+    "en": "Google Cloud suite for building, deploying and governing production agents. Console and developer interface access; costs depend on underlying models and cloud services. Consult Gemini Enterprise Agent Platform documentation for product evolution.",
+    "ar": "مجموعة خدمات من Google Cloud لإنشاء الوكلاء ونشرهم وحوكمتهم في بيئات الإنتاج. تتاح عبر لوحة التحكم وواجهات التطوير؛ وتعتمد التكاليف على النماذج والخدمات السحابية المستخدمة. ينبغي مراجعة وثائق Gemini Enterprise Agent Platform لمتابعة تطور العرض.",
+    "officialSource": "https://docs.cloud.google.com/agent-builder",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "amazon-bedrock-agents": {
+    "fr": "Service AWS permettant de configurer des agents associant instructions, modèles, bases de connaissances et groupes d'actions API. Des agents superviseurs peuvent coordonner plusieurs collaborateurs. Accès cloud et facturation des ressources consommées ; limiter les autorisations IAM.",
+    "en": "AWS service for configuring agents combining instructions, models, knowledge bases and API action groups. Supervisor agents can coordinate multiple collaborators. Cloud access and resource-based billing; restrict IAM permissions.",
+    "ar": "خدمة من AWS لإعداد وكلاء يجمعون التعليمات والنماذج وقواعد المعرفة ومجموعات إجراءات الواجهات البرمجية. يمكن لوكيل مشرف تنسيق عدة وكلاء متعاونين. تتاح سحابيًا وتحتسب تكلفة الموارد المستهلكة؛ ينبغي تقييد صلاحيات IAM.",
+    "officialSource": "https://docs.aws.amazon.com/bedrock/latest/userguide/agents-how.html",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "zapier-agents": {
+    "fr": "Service web de création d'agents reliés aux applications et sources de connaissances de Zapier. Les agents réalisent des actions et recherches selon des instructions configurées. Offres gratuites limitées et payantes avec quotas d'activités ; surveiller la consommation et les autorisations.",
+    "en": "Web service for creating agents connected to Zapier applications and knowledge sources. Agents perform actions and searches based on configured instructions. Limited free and paid plans with activity quotas; monitor usage and permissions.",
+    "ar": "خدمة ويب لإنشاء وكلاء مرتبطين بتطبيقات Zapier ومصادر المعرفة. ينفذ الوكلاء الإجراءات وعمليات البحث وفق التعليمات المحددة. توفر خططًا مجانية محدودة ومدفوعة بحصص للأنشطة؛ ينبغي مراقبة الاستهلاك والصلاحيات.",
+    "officialSource": "https://help.zapier.com/hc/en-us/articles/26559132765325-How-is-Zapier-Agents-usage-measured",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "notion-agent": {
+    "fr": "Assistant intégré à Notion pour rechercher et synthétiser des informations et réaliser des tâches dans l'espace de travail. Les Custom Agents peuvent recevoir des instructions, outils et permissions propres. L'accès dépend du plan et certaines exécutions consomment des crédits individuels ou partagés. Définir des budgets et contrôler les accès.",
+    "en": "Notion assistant for retrieving and synthesizing information and performing workspace tasks. Custom Agents can have distinct instructions, tools and permissions. Access depends on plan and some runs consume individual or shared credits. Set budgets and review access.",
+    "ar": "مساعد مدمج في Notion للبحث عن المعلومات وتلخيصها وإنجاز المهام في مساحة العمل. يمكن تزويد الوكلاء المخصصين بتعليمات وأدوات وصلاحيات خاصة. يعتمد الوصول على الخطة وتستهلك بعض العمليات أرصدة فردية أو مشتركة. ينبغي تحديد الميزانيات وضبط الوصول.",
+    "officialSource": "https://www.notion.com/help/notion-agent",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "asana-ai-teammates": {
+    "fr": "Agents collaboratifs intégrés aux projets Asana, configurables pour des rôles tels que le suivi de campagne ou la synthèse des activités. Ils peuvent produire des brouillons et des sous-tâches soumis à revue. Accès selon les plans Asana, avec requêtes IA mesurées et possibilités d'achat de capacités supplémentaires.",
+    "en": "Collaborative agents integrated into Asana projects, configurable for roles such as campaign coordination or activity reporting. They can produce drafts and subtasks for review. Access depends on Asana plans, with metered AI requests and options to purchase additional capacity.",
+    "ar": "وكلاء تعاونيون مدمجون في مشاريع Asana يمكن إعدادهم لأدوار مثل تنسيق الحملات وتلخيص الأنشطة. يمكنهم إعداد مسودات ومهام فرعية للمراجعة. يعتمد الوصول على خطط Asana مع قياس طلبات الذكاء الاصطناعي وإمكان شراء سعة إضافية.",
+    "officialSource": "https://asana.com/product/ai/ai-teammates",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "glean-agents": {
+    "fr": "Agents d'entreprise exploitant les sources internes et les outils connectés pour rechercher des informations et automatiser des workflows. Glean propose des agents autonomes et des agents de workflow, avec choix de modèles selon configuration. L'offre Enterprise Flex mesure notamment les exécutions en FlexCredits selon leur complexité. Respecter les permissions documentaires.",
+    "en": "Enterprise agents using internal sources and connected tools to retrieve information and automate workflows. Glean provides autonomous and workflow agents, with configurable model choices. Enterprise Flex measures agent runs in FlexCredits based on complexity. Respect document permissions.",
+    "ar": "وكلاء للمؤسسات يستفيدون من المصادر الداخلية والأدوات المتصلة لاسترجاع المعلومات وأتمتة مسارات العمل. توفر Glean وكلاء مستقلين ووكلاء لمسارات العمل مع اختيار النماذج بحسب الإعداد. يقيس عرض Enterprise Flex عمليات التنفيذ بأرصدة FlexCredits وفق تعقيدها. ينبغي احترام صلاحيات الوثائق.",
+    "officialSource": "https://docs.glean.com/administration/managing-agents/set-up-llms",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "mindstudio": {
+    "fr": "Plateforme web de conception et de déploiement d’agents sans code, avec accès à différents modèles et extension Chrome pour exécuter des agents. Les offres individuelles et professionnelles distinguent les capacités de création et les frais de modèles. Tester les workflows avant publication.",
+    "en": "Web platform for no-code agent building and deployment, with multiple models and a Chrome extension for running agents. Individual and business plans distinguish building capabilities and model charges. Test workflows before publishing.",
+    "ar": "منصة ويب لإنشاء الوكلاء ونشرهم دون برمجة، تتيح نماذج متعددة وإضافة Chrome لتشغيل الوكلاء. تميز الخطط الفردية والمهنية بين إمكانات الإنشاء وتكاليف النماذج. ينبغي اختبار مسارات العمل قبل النشر.",
+    "officialSource": "https://www.mindstudio.ai/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "agentops": {
+    "fr": "Service d’observabilité pour applications agentiques, avec SDK Python pour enregistrer les événements, suivre les coûts et examiner les sessions. Tableau de bord hébergé et facturation à l’usage selon l’offre. Éviter de transmettre des secrets dans les traces.",
+    "en": "Observability service for agentic applications, with a Python SDK for recording events, tracking costs and examining sessions. Hosted dashboard and usage-based billing depending on plan. Avoid transmitting secrets in traces.",
+    "ar": "خدمة لمراقبة التطبيقات الوكيلية توفر حزمة Python لتسجيل الأحداث وتتبع التكاليف وفحص الجلسات. تتاح لوحة متابعة مستضافة وفوترة بحسب الاستخدام والخطة. ينبغي تجنب إرسال الأسرار ضمن سجلات التنفيذ.",
+    "officialSource": "https://www.agentops.ai/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "agentuity": {
+    "fr": "Infrastructure cloud conçue pour déployer et exploiter des agents IA, avec outils de télémétrie et de diagnostic des sessions. Accès développeur et tarification selon les ressources et l’offre. Configurer la rétention des données et surveiller les coûts.",
+    "en": "Cloud infrastructure for deploying and operating AI agents with session telemetry and debugging tools. Developer access and pricing based on resources and plan. Configure data retention and monitor costs.",
+    "ar": "بنية سحابية لنشر وكلاء الذكاء الاصطناعي وتشغيلهم مع أدوات للقياس عن بعد وتشخيص الجلسات. تتاح للمطورين بتسعير يعتمد على الموارد والخطة. ينبغي ضبط الاحتفاظ بالبيانات ومراقبة التكاليف.",
+    "officialSource": "https://agentuity.com/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "stackai": {
+    "fr": "Plateforme web de conception visuelle d’agents et de workflows sans code, reliant modèles, sources documentaires et applications métiers. Propose des interfaces et points d’accès API, avec offres commerciales et contrats Enterprise. Tester la qualité des réponses et les permissions des connecteurs.",
+    "en": "Web-based visual no-code agent and workflow builder connecting models, document sources and business applications. Provides interfaces and API endpoints, with commercial plans and enterprise contracts. Test response quality and connector permissions.",
+    "ar": "منصة ويب مرئية لإنشاء الوكلاء ومسارات العمل دون برمجة تربط النماذج والمصادر الوثائقية وتطبيقات الأعمال. توفر واجهات ونقاط وصول برمجية مع عروض تجارية وعقود للمؤسسات. ينبغي اختبار جودة الإجابات وصلاحيات الموصلات.",
+    "officialSource": "https://www.stackai.com/platform/workflow",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "dust": {
+    "fr": "Plateforme collaborative de création d’agents personnalisés exploitant les connaissances internes, les outils MCP et différents modèles. Les workflows peuvent être déclenchés par des événements ou planifiés. Accès web avec crédits gratuits limités, abonnements par utilisateur et contrats Enterprise. Respecter les droits documentaires.",
+    "en": "Collaborative platform for custom agents using internal knowledge, MCP tools and multiple models. Workflows can be scheduled or event-triggered. Web access with limited free credits, per-user subscriptions and enterprise contracts. Respect document permissions.",
+    "ar": "منصة تعاونية لإنشاء وكلاء مخصصين يستخدمون المعرفة الداخلية وأدوات MCP ونماذج متعددة. يمكن جدولة مسارات العمل أو تشغيلها عند وقوع أحداث. تتاح عبر الويب بأرصدة مجانية محدودة واشتراكات لكل مستخدم وعقود للمؤسسات. ينبغي احترام صلاحيات الوثائق.",
+    "officialSource": "https://dust.tt/home/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "beam-ai": {
+    "fr": "Plateforme professionnelle d’automatisation agentique pour traiter des processus tels que le rapprochement de factures et commandes ou la gestion des demandes. Accès institutionnel sur offre commerciale, sans tarif public confirmé. Définir des règles de validation et de transfert humain.",
+    "en": "Enterprise agentic automation platform for processes such as invoice and purchase order matching or request handling. Institutional access under commercial terms, with no confirmed public price. Define validation and human handoff rules.",
+    "ar": "منصة مهنية للأتمتة الوكيلية لمعالجة عمليات مثل مطابقة الفواتير وأوامر الشراء وإدارة الطلبات. يتاح الوصول المؤسسي وفق عرض تجاري دون سعر عام مؤكد. ينبغي تحديد قواعد التحقق والتحويل إلى الموظفين.",
+    "officialSource": "https://beam.ai/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "cohere-north": {
+    "fr": "Plateforme agentique d’entreprise de Cohere pour interroger des ressources internes, automatiser des tâches et créer des agents via une interface ou des workflows API. North 2 met l’accent sur les options de déploiement et le contrôle des données. Tarification professionnelle personnalisée ; vérifier la résidence des données et les permissions.",
+    "en": "Cohere enterprise agentic platform for querying internal resources, automating tasks and creating agents through an interface or API workflows. North 2 emphasizes deployment options and data control. Custom enterprise pricing; review data residency and permissions.",
+    "ar": "منصة وكيلية للمؤسسات من Cohere للاستعلام عن الموارد الداخلية وأتمتة المهام وإنشاء الوكلاء عبر واجهة أو مسارات برمجية. يركز North 2 على خيارات النشر والتحكم في البيانات. يعتمد التسعير المهني على عروض مخصصة؛ ينبغي مراجعة مكان تخزين البيانات والصلاحيات.",
+    "officialSource": "https://cohere.com/north",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "dots-openai": {
+    "fr": "Agent personnel persistant de ChatGPT capable de suivre des projets entre les conversations, d'exploiter les applications connectées et de déléguer des tâches à Work ou Codex. Accès web, bureau et mobile selon le déploiement et les conditions du compte. Vérifier les permissions et les modalités de facturation.",
+    "en": "Persistent ChatGPT personal agent that follows projects across conversations, uses connected apps and delegates tasks to Work or Codex. Web, desktop and mobile access depends on rollout and account conditions. Review permissions and billing terms.",
+    "ar": "وكيل شخصي مستمر في ChatGPT يتابع المشاريع بين المحادثات ويستخدم التطبيقات المتصلة ويفوض المهام إلى Work أو Codex. يتاح عبر الويب والحاسوب والهاتف بحسب مراحل الإطلاق وشروط الحساب. ينبغي مراجعة الصلاحيات وشروط الفوترة.",
+    "officialSource": "https://help.openai.com/en/articles/20001530-getting-started-with-your-dot",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "kimi-agent": {
+    "fr": "Mode agent de Kimi, initialement nommé OK Computer, permettant de planifier des tâches complexes et de produire des sites web, présentations et documents. Accès via le Web et les applications compatibles, avec limites selon l'offre. Contrôler les sources et tester les fichiers générés avant publication.",
+    "en": "Kimi agent mode, originally called OK Computer, for planning complex tasks and producing websites, presentations and documents. Web and compatible app access with plan-dependent limits. Review sources and test generated files before publishing.",
+    "ar": "نمط الوكيل في Kimi المعروف سابقًا باسم OK Computer لتخطيط المهام المعقدة وإنتاج المواقع والعروض والوثائق. يتاح عبر الويب والتطبيقات المتوافقة بحدود تختلف بحسب الخطة. ينبغي مراجعة المصادر واختبار الملفات المولدة قبل النشر.",
+    "officialSource": "https://www.kimi.com/en/help/agent/agent-features-and-limits",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "amazon-alexa": {
+    "fr": "Assistant vocal d'Amazon intégré aux appareils compatibles et aux applications Alexa. Alexa+ ajoute des capacités conversationnelles génératives ; aux États-Unis, l'offre complète est incluse dans Prime ou accessible par abonnement distinct, avec expérience gratuite limitée sur le Web et mobile. Vérifier la disponibilité régionale et les autorisations domotiques.",
+    "en": "Amazon voice assistant integrated with compatible devices and Alexa apps. Alexa+ adds generative conversational capabilities; in the US, full access is included with Prime or a separate subscription, with limited free web and mobile access. Check regional availability and smart-home permissions.",
+    "ar": "مساعد صوتي من Amazon مدمج في الأجهزة المتوافقة وتطبيقات Alexa. يضيف Alexa+ إمكانات حوارية توليدية؛ وفي الولايات المتحدة يتاح العرض الكامل ضمن Prime أو باشتراك منفصل مع تجربة مجانية محدودة عبر الويب والهاتف. ينبغي التحقق من التوفر الإقليمي وصلاحيات المنزل الذكي.",
+    "officialSource": "https://www.aboutamazon.com/news/devices/alexa-plus-available-free-prime-members-us",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "samsung-bixby": {
+    "fr": "Assistant vocal intégré aux appareils Samsung compatibles pour commander certaines fonctions et effectuer des tâches courantes. L'accès nécessite notamment un compte Samsung et une connexion de données. Service lié à l'écosystème matériel ; les fonctions disponibles varient selon les appareils, langues et régions.",
+    "en": "Voice assistant integrated into compatible Samsung devices for controlling selected functions and everyday tasks. Access requires a Samsung account and data connection. Service tied to the hardware ecosystem; available features vary by device, language and region.",
+    "ar": "مساعد صوتي مدمج في أجهزة Samsung المتوافقة للتحكم في بعض الوظائف وإنجاز المهام اليومية. يتطلب الوصول حساب Samsung واتصالًا بالبيانات. ترتبط الخدمة بمنظومة الأجهزة وتختلف الوظائف بحسب الجهاز واللغة والمنطقة.",
+    "officialSource": "https://www.samsung.com/us/apps/bixby/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "huawei-celia": {
+    "fr": "Assistant vocal intégré à certains appareils Huawei, permettant d'interagir avec les fonctions compatibles du téléphone et de ses accessoires. Accès lié aux appareils et régions pris en charge ; aucun abonnement autonome confirmé. Vérifier la langue et la compatibilité dans la documentation du modèle.",
+    "en": "Voice assistant integrated into selected Huawei devices for interacting with supported phone and accessory functions. Access depends on supported devices and regions; no standalone subscription confirmed. Check language and compatibility in model documentation.",
+    "ar": "مساعد صوتي مدمج في بعض أجهزة Huawei يتيح التفاعل مع وظائف الهاتف والملحقات المتوافقة. يعتمد الوصول على الأجهزة والمناطق المدعومة؛ ولم يتأكد وجود اشتراك مستقل. ينبغي مراجعة اللغة والتوافق في وثائق الجهاز.",
+    "officialSource": "https://consumer.huawei.com/ca/support/content/en-us00977131/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "qwen-app": {
+    "fr": "Assistant conversationnel grand public reposant sur la famille de modèles Qwen. Accessible via le portail Qwen et les applications compatibles ; distinguer les conditions du service grand public de celles des API et des modèles téléchargeables. Vérifier les limites d'accès et les réponses factuelles.",
+    "en": "Consumer conversational assistant powered by the Qwen model family. Accessible via the Qwen portal and compatible apps; distinguish consumer service terms from API and downloadable model terms. Check access limits and factual responses.",
+    "ar": "مساعد حواري موجه لعامة المستخدمين يعتمد على عائلة نماذج Qwen. يتاح عبر بوابة Qwen والتطبيقات المتوافقة؛ ينبغي التمييز بين شروط خدمة المستخدمين وشروط الواجهات البرمجية والنماذج القابلة للتنزيل. ينبغي مراجعة حدود الوصول ودقة الإجابات.",
+    "officialSource": "https://qwen.ai/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "perplexity-assistant": {
+    "fr": "Assistant intégré à l'application Perplexity, associant recherche et assistance aux tâches telles que la rédaction de courriels ou la préparation de rendez-vous. Accès mobile selon le système, les permissions et l'offre Perplexity. Vérifier les sources et confirmer les réservations et autres actions externes.",
+    "en": "Assistant within the Perplexity app combining search and task assistance such as email drafting and appointment preparation. Mobile access depends on operating system, permissions and Perplexity plan. Verify sources and confirm bookings and other external actions.",
+    "ar": "مساعد مدمج في تطبيق Perplexity يجمع البحث والمساعدة في مهام مثل صياغة الرسائل الإلكترونية وإعداد المواعيد. يعتمد الوصول عبر الهاتف على نظام التشغيل والصلاحيات وخطة Perplexity. ينبغي مراجعة المصادر وتأكيد الحجوزات والإجراءات الخارجية الأخرى.",
+    "officialSource": "https://apps.apple.com/us/app/perplexity-ai-search-chat/id1668000334",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "tidio-lyro": {
+    "fr": "Agent conversationnel de service client exploitant les connaissances de l'entreprise et transférant les demandes non résolues aux conseillers. Accessible via Tidio et des intégrations de support ; offres et quotas calculés en conversations. Tester la qualité des réponses et les règles de transfert.",
+    "en": "Customer service conversational agent using company knowledge and handing unresolved requests to human advisors. Available through Tidio and help desk integrations; plans and quotas are measured in conversations. Test answer quality and handoff rules.",
+    "ar": "وكيل حواري لخدمة العملاء يستفيد من معرفة المؤسسة ويحول الطلبات غير المحلولة إلى المستشارين البشريين. يتاح عبر Tidio وتكاملات الدعم؛ تحسب الخطط والحصص بالمحادثات. ينبغي اختبار جودة الإجابات وقواعد التحويل.",
+    "officialSource": "https://help.tidio.com/articles/lyro-main/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "elevenlabs-conversational-ai": {
+    "fr": "Plateforme ElevenAgents pour concevoir des agents vocaux en temps réel associant reconnaissance et synthèse vocales, modèles linguistiques et bases de connaissances. Accès web et développeur avec crédits et facturation selon les composants utilisés. Prévoir les coûts de téléphonie et le consentement à l'enregistrement.",
+    "en": "ElevenAgents platform for building real-time voice agents combining speech recognition and synthesis, language models and knowledge bases. Web and developer access with credits and component-based charges. Account for telephony costs and recording consent.",
+    "ar": "منصة ElevenAgents لإنشاء وكلاء صوتيين في الوقت الفعلي تجمع التعرف على الكلام وتوليد الصوت والنماذج اللغوية وقواعد المعرفة. تتاح عبر الويب وواجهات التطوير بأرصدة ورسوم بحسب المكونات. ينبغي مراعاة تكاليف الاتصالات والموافقة على التسجيل.",
+    "officialSource": "https://elevenlabs.io/pricing/agents",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "livekit-agents": {
+    "fr": "Framework open source de développement d'agents vocaux et multimodaux en temps réel avec SDK Python et Node.js. Déploiement possible sur infrastructure propre ou LiveKit Cloud. Les coûts d'hébergement, de communication et d'inférence dépendent de la configuration. Tester la latence et les interruptions.",
+    "en": "Open-source framework for real-time voice and multimodal agents with Python and Node.js SDKs. Deploy on self-hosted infrastructure or LiveKit Cloud. Hosting, communication and inference costs depend on configuration. Test latency and interruptions.",
+    "ar": "إطار مفتوح المصدر لتطوير الوكلاء الصوتيين ومتعددي الوسائط في الوقت الفعلي بحزمتي Python وNode.js. يمكن النشر على بنية ذاتية الاستضافة أو LiveKit Cloud. تعتمد تكاليف الاستضافة والاتصالات والاستدلال على الإعداد. ينبغي اختبار زمن الاستجابة والمقاطعات.",
+    "officialSource": "https://docs.livekit.io/agents/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "decagon": {
+    "fr": "Plateforme professionnelle d'agents IA pour traiter les demandes clients et assister les conseillers avec le contexte des comptes et des politiques internes. Déploiement institutionnel selon les conditions commerciales ; aucun montant public confirmé ici. Vérifier les autorisations d'action et la procédure d'escalade humaine.",
+    "en": "Enterprise AI agent platform for handling customer requests and assisting representatives using account context and internal policies. Institutional deployment under commercial terms; no public amount confirmed here. Review action permissions and human escalation procedures.",
+    "ar": "منصة مهنية لوكلاء الذكاء الاصطناعي لمعالجة طلبات العملاء ومساعدة الموظفين باستخدام سياق الحسابات والسياسات الداخلية. يتاح النشر المؤسسي وفق الشروط التجارية دون مبلغ عام مؤكد هنا. ينبغي مراجعة صلاحيات الإجراءات وآليات التحويل إلى الدعم البشري.",
+    "officialSource": "https://decagon.ai/blog/decagon-assist",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "forethought": {
+    "fr": "Plateforme de support client associant agents de résolution, recherche de connaissances et assistance aux conseillers par suggestions de réponses et résumés de tickets. Intégration aux logiciels de support ; offre professionnelle selon contrat. Contrôler les réponses et les lacunes documentaires.",
+    "en": "Customer support platform combining resolution agents, knowledge retrieval and representative assistance through response suggestions and ticket summaries. Help desk integrations; professional contract-based offering. Review answers and knowledge gaps.",
+    "ar": "منصة لدعم العملاء تجمع وكلاء حل الطلبات واسترجاع المعرفة ومساعدة الموظفين عبر اقتراحات الإجابات وملخصات التذاكر. تتكامل مع برمجيات الدعم بعروض مهنية حسب العقد. ينبغي مراجعة الإجابات والثغرات الوثائقية.",
+    "officialSource": "https://forethought.ai/platform/assist",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "polyai": {
+    "fr": "Plateforme de développement et de déploiement d'assistants vocaux pour centres de contact, intégrés aux infrastructures téléphoniques et aux processus de service client. Accès professionnel sur contrat ; tarifs détaillés non confirmés. Tester les accents, la compréhension et le transfert humain.",
+    "en": "Platform for developing and deploying contact-center voice assistants integrated with telephony infrastructure and customer service workflows. Professional contract access; detailed pricing not confirmed. Test accents, comprehension and human handoff.",
+    "ar": "منصة لتطوير ونشر المساعدين الصوتيين لمراكز الاتصال مع التكامل مع البنية الهاتفية ومسارات خدمة العملاء. يتاح الوصول المهني بموجب عقد دون أسعار تفصيلية مؤكدة. ينبغي اختبار اللهجات والفهم والتحويل إلى الموظفين.",
+    "officialSource": "https://poly.ai/technology",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "cognigy-ai-agents": {
+    "fr": "Plateforme NiCE Cognigy de conception et d'exploitation d'agents conversationnels pour les entreprises et centres de contact. Les outils de supervision facilitent le suivi du fonctionnement des agents. Accès professionnel selon contrat ; vérifier les intégrations et les contrôles humains.",
+    "en": "NiCE Cognigy platform for designing and operating conversational agents for enterprises and contact centers. Monitoring tools support oversight of agent operations. Professional contract-based access; review integrations and human controls.",
+    "ar": "منصة NiCE Cognigy لتصميم وتشغيل الوكلاء الحواريين للمؤسسات ومراكز الاتصال. تسهل أدوات المراقبة متابعة أداء الوكلاء. يتاح الوصول المهني بحسب العقد؛ ينبغي مراجعة التكاملات والضوابط البشرية.",
+    "officialSource": "https://www.cognigy.com/news/nice-cognigy-launches-ai-ops-center",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "ada": {
+    "fr": "Plateforme cloud de service client associant agents IA et conseillers humains pour résoudre les demandes. Déploiement professionnel selon contrat ; contrôler les réponses et les transferts vers les conseillers.",
+    "en": "Cloud customer service platform combining AI agents and human advisors to resolve requests. Enterprise deployment under contract; review answers and human handoffs.",
+    "ar": "منصة سحابية لخدمة العملاء تجمع وكلاء الذكاء الاصطناعي والمستشارين البشريين لحل الطلبات. يتاح النشر المهني وفق عقد؛ ينبغي مراجعة الإجابات والتحويل إلى المستشارين.",
+    "officialSource": "https://www.ada.cx/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "kore-ai": {
+    "fr": "Plateforme d'entreprise pour concevoir des agents et workflows sur les canaux vocaux et numériques, avec routage et assistance aux conseillers. Accès professionnel selon les modules et contrats ; tester les permissions et les transferts.",
+    "en": "Enterprise platform for designing agents and workflows across voice and digital channels, including routing and advisor assistance. Professional access depends on modules and contracts; test permissions and handoffs.",
+    "ar": "منصة مؤسسية لتصميم الوكلاء ومسارات العمل عبر القنوات الصوتية والرقمية مع توجيه الطلبات ومساعدة المستشارين. يعتمد الوصول المهني على الوحدات والعقود؛ ينبغي اختبار الصلاحيات والتحويلات.",
+    "officialSource": "https://www.kore.ai/ai-for-service",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "cognigy": {
+    "fr": "Plateforme NiCE Cognigy pour orchestrer des agents IA de centres de contact, connecter les systèmes métiers et suivre les performances via AI Ops Center. Offre professionnelle sur contrat ; tester les réponses et la reprise humaine.",
+    "en": "NiCE Cognigy platform for orchestrating contact-center AI agents, connecting business systems and monitoring performance through AI Ops Center. Contract-based enterprise offering; test responses and human takeover.",
+    "ar": "منصة NiCE Cognigy لتنسيق وكلاء الذكاء الاصطناعي في مراكز الاتصال وربط أنظمة الأعمال ومراقبة الأداء عبر AI Ops Center. تتاح بعقود مؤسسية؛ ينبغي اختبار الإجابات وإمكان التدخل البشري.",
+    "officialSource": "https://www.cognigy.com/product/cognigy-ai",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "freshworks-freddy-ai": {
+    "fr": "Fonctions IA intégrées à Freshdesk et aux services Freshworks pour répondre aux demandes et assister les équipes. Accès cloud, abonnements et packs de sessions supplémentaires pour Freddy AI Agent selon l'offre. Vérifier la consommation et les réponses.",
+    "en": "AI features integrated into Freshdesk and Freshworks services to answer requests and assist teams. Cloud access, subscriptions and additional Freddy AI Agent session packs depending on plan. Review usage and responses.",
+    "ar": "وظائف ذكاء اصطناعي مدمجة في Freshdesk وخدمات Freshworks للرد على الطلبات ومساعدة الفرق. تتاح سحابيًا باشتراكات وحزم جلسات إضافية لـ Freddy AI Agent بحسب الخطة. ينبغي مراجعة الاستهلاك والإجابات.",
+    "officialSource": "https://www.freshworks.com/freshdesk/pricing/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "gorgias": {
+    "fr": "Plateforme de service client pour le commerce électronique, avec agent IA pouvant automatiser des interactions et transférer les demandes complexes. Abonnement et frais supplémentaires liés aux interactions automatisées selon les règles de facturation. Contrôler les actions sur les commandes.",
+    "en": "E-commerce customer service platform with an AI agent that automates interactions and transfers complex requests. Subscription and additional automated-interaction fees under billing rules. Review actions affecting orders.",
+    "ar": "منصة لخدمة عملاء التجارة الإلكترونية توفر وكيلًا ذكيًا لأتمتة التفاعلات وتحويل الطلبات المعقدة. تعتمد التكلفة على الاشتراك ورسوم إضافية للتفاعلات المؤتمتة وفق قواعد الفوترة. ينبغي مراجعة الإجراءات المتعلقة بالطلبات.",
+    "officialSource": "https://helpcenter.gorgias.com/en-US/what-counts-as-a-billable-ticket-or-automated-interaction-199385",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "kustomer": {
+    "fr": "CRM de service client avec agents IA pouvant dialoguer et exécuter des actions autorisées dans Kustomer. Accès cloud par abonnement, options IA et consommation variable pour certains canaux. Limiter les outils autorisés et valider les modifications des dossiers.",
+    "en": "Customer service CRM with AI agents that converse and perform authorized actions within Kustomer. Cloud subscriptions, AI options and variable usage charges for selected channels. Restrict authorized tools and validate record changes.",
+    "ar": "نظام لإدارة علاقات العملاء يوفر وكلاء ذكاء اصطناعي للمحادثة وتنفيذ الإجراءات المصرح بها داخل Kustomer. يتاح سحابيًا باشتراكات وخيارات ذكاء اصطناعي ورسوم استخدام لبعض القنوات. ينبغي تقييد الأدوات المسموح بها والتحقق من تعديلات السجلات.",
+    "officialSource": "https://www.kustomer.com/pricing/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "liveperson": {
+    "fr": "Plateforme Conversational Cloud pour connecter les entreprises aux clients via messagerie web et canaux compatibles, avec automatisation et transfert aux conseillers. Accès professionnel et intégrations développeur selon contrat. Vérifier les droits d'accès aux conversations.",
+    "en": "Conversational Cloud platform connecting businesses and customers through web messaging and supported channels, with automation and human handoff. Professional access and developer integrations under contract. Review conversation access rights.",
+    "ar": "منصة Conversational Cloud لربط المؤسسات بالعملاء عبر مراسلة الويب والقنوات المتوافقة، مع الأتمتة والتحويل إلى المستشارين. يتاح الوصول المهني وتكاملات المطورين بحسب العقد. ينبغي مراجعة صلاحيات الوصول إلى المحادثات.",
+    "officialSource": "https://developers.liveperson.com/getting-started.html",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "yellow-ai": {
+    "fr": "Plateforme d'automatisation du service client avec éditeur d'agents, bases de connaissances et tests automatisés. Accessible aux organisations via le Web et les intégrations, selon offres commerciales. Évaluer les réponses documentaires et prévoir une escalade humaine.",
+    "en": "Customer service automation platform with an agent builder, knowledge bases and automated testing. Available to organizations through web and integrations under commercial terms. Evaluate grounded answers and provide human escalation.",
+    "ar": "منصة لأتمتة خدمة العملاء توفر محررًا للوكلاء وقواعد معرفة واختبارات آلية. تتاح للمؤسسات عبر الويب والتكاملات وفق العروض التجارية. ينبغي تقييم الإجابات المستندة إلى الوثائق وتوفير التحويل إلى الدعم البشري.",
+    "officialSource": "https://docs.yellow.ai/docs/platform_concepts/getting-started",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "ibm-watsonx-orchestrate": {
+    "fr": "Plateforme IBM pour créer et orchestrer des agents et automatiser les processus métiers, notamment financiers et administratifs. Accès cloud avec essai et offres dont les coûts dépendent des équipes et ressources. Prévoir des validations pour les opérations sensibles.",
+    "en": "IBM platform for building and orchestrating agents and automating business processes, including finance and administration. Cloud access with trial and plans priced according to teams and resources. Require approvals for sensitive operations.",
+    "ar": "منصة IBM لإنشاء الوكلاء وتنسيقهم وأتمتة عمليات الأعمال، ومنها العمليات المالية والإدارية. تتاح سحابيًا مع تجربة وعروض تختلف تكلفتها حسب الفرق والموارد. ينبغي اشتراط الموافقات للعمليات الحساسة.",
+    "officialSource": "https://www.ibm.com/products/watsonx-orchestrate/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "pipecat": {
+    "fr": "Framework Python open source pour concevoir des agents conversationnels vocaux et multimodaux en temps réel en combinant modèles, transports audio et services de parole. Le code est accessible librement ; les fournisseurs et l'hébergement peuvent être payants. Tester latence et interruptions.",
+    "en": "Open-source Python framework for real-time voice and multimodal conversational agents combining models, audio transports and speech services. Code is freely available; providers and hosting may incur charges. Test latency and interruptions.",
+    "ar": "إطار Python مفتوح المصدر لإنشاء وكلاء حواريين صوتيين ومتعددي الوسائط في الزمن الحقيقي يجمع النماذج وقنوات نقل الصوت وخدمات الكلام. الشيفرة متاحة بحرية، وقد تترتب تكاليف للمزودين والاستضافة. ينبغي اختبار زمن الاستجابة والمقاطعات.",
+    "officialSource": "https://github.com/pipecat-ai/pipecat",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "synthflow": {
+    "fr": "Plateforme professionnelle de déploiement d'agents vocaux pour automatiser les appels clients, avec téléphonie et intégrations métiers. Les nouveaux déploiements sont tarifés sur contrat selon volumes, intégrations et exigences de sécurité. Prévoir consentement et transfert humain.",
+    "en": "Enterprise platform for deploying voice agents to automate customer calls, with telephony and business integrations. New deployments are contract-priced according to volume, integrations and security requirements. Provide consent and human handoff.",
+    "ar": "منصة مهنية لنشر الوكلاء الصوتيين لأتمتة مكالمات العملاء مع تكاملات الاتصالات وأنظمة الأعمال. يسعر النشر الجديد وفق عقد يعتمد على الحجم والتكاملات ومتطلبات الأمن. ينبغي توفير الموافقة والتحويل إلى الدعم البشري.",
+    "officialSource": "https://synthflow.ai//pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "bland-ai": {
+    "fr": "Plateforme cloud de création d’agents téléphoniques entrants et sortants, avec éditeur visuel et API. Facturation à la consommation et offres professionnelles sur devis. Vérifier le consentement, les règles de démarchage et les transferts humains.",
+    "en": "Cloud platform for inbound and outbound phone agents, with visual builder and API. Usage-based billing and custom enterprise plans. Review consent, outreach rules and human handoff.",
+    "ar": "منصة سحابية لإنشاء وكلاء للمكالمات الواردة والصادرة، مع محرر مرئي وواجهة برمجية. تعتمد الفوترة على الاستهلاك مع عروض مؤسسية مخصصة. ينبغي مراعاة الموافقة وقواعد الاتصال التجاري والتحويل إلى موظف بشري.",
+    "officialSource": "https://www.bland.ai/enterprise-ai-voice-agents",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "vocode": {
+    "fr": "Bibliothèque open source pour développer des applications vocales fondées sur des modèles linguistiques, en combinant transcription, génération de réponses et synthèse vocale. Installation Python et intégrations téléphoniques ; coûts éventuels des services tiers. Tester la latence et la confidentialité.",
+    "en": "Open-source library for voice applications combining transcription, language-model responses and speech synthesis. Python installation and telephony integrations; third-party services may incur costs. Test latency and privacy.",
+    "ar": "مكتبة مفتوحة المصدر لتطوير التطبيقات الصوتية تجمع التفريغ النصي وإجابات النماذج اللغوية وتوليد الكلام. تتاح عبر Python وتكاملات الاتصالات، وقد تترتب تكاليف للخدمات الخارجية. ينبغي اختبار زمن الاستجابة والخصوصية.",
+    "officialSource": "https://github.com/vocodedev/vocode-core",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "twilio-ai": {
+    "fr": "Services de communication programmables comprenant Conversation Relay pour intégrer des agents vocaux et Conversation Intelligence pour transcrire et analyser les échanges. Accès API avec tarification à la minute et selon les opérations. Encadrer l’enregistrement et la conservation des conversations.",
+    "en": "Programmable communications services including Conversation Relay for voice agents and Conversation Intelligence for transcription and analysis. API access with per-minute and operation-based charges. Govern recording and retention.",
+    "ar": "خدمات اتصالات قابلة للبرمجة تشمل Conversation Relay لدمج الوكلاء الصوتيين وConversation Intelligence لتفريغ المحادثات وتحليلها. تتاح عبر واجهات برمجية بفوترة حسب الدقائق والعمليات. ينبغي ضبط التسجيل والاحتفاظ بالمحادثات.",
+    "officialSource": "https://www.twilio.com/en-us/products/conversational-ai/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "outreach": {
+    "fr": "Plateforme agentique pour équipes commerciales, couvrant prospection, suivi des opportunités, analyse des échanges et prévisions. Le site historique redirige vers outreach.ai. Accès professionnel sur devis ; contrôler les données CRM et les messages sortants.",
+    "en": "Agentic platform for sales teams spanning prospecting, deal management, conversation analysis and forecasting. The legacy website redirects to outreach.ai. Professional access by quotation; review CRM data and outbound messages.",
+    "ar": "منصة وكيلية لفرق المبيعات تشمل التنقيب التجاري ومتابعة الفرص وتحليل المحادثات والتوقعات. يعيد الموقع السابق التوجيه إلى outreach.ai. يتاح الوصول المهني وفق عرض سعر؛ ينبغي مراجعة بيانات العملاء والرسائل الصادرة.",
+    "officialSource": "https://www.outreach.ai/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "salesloft": {
+    "fr": "Plateforme d’orchestration commerciale associée à Clari, combinant suivi des opportunités, analyse des conversations, prévisions et workflows de vente. Accès cloud professionnel selon contrat. Vérifier les signaux prédictifs et les droits sur les enregistrements.",
+    "en": "Revenue orchestration platform associated with Clari, combining deal tracking, conversation analysis, forecasting and sales workflows. Professional cloud access under contract. Validate predictive signals and recording permissions.",
+    "ar": "منصة لتنسيق العمليات التجارية مرتبطة بـ Clari تجمع متابعة الفرص وتحليل المحادثات والتوقعات ومسارات المبيعات. تتاح سحابيًا وفق عقد مهني. ينبغي التحقق من المؤشرات التنبؤية وأذونات التسجيل.",
+    "officialSource": "https://www.salesloft.com/company/newsroom/salesloft-conversation-intelligence",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "regie-ai": {
+    "fr": "Plateforme RegieGO de prospection commerciale assistée par IA, permettant de rechercher des comptes et contacts selon des critères, analyser les signaux d’intérêt et préparer des messages. Accès web professionnel ; conditions commerciales à confirmer. Respecter les règles de prospection.",
+    "en": "RegieGO AI sales prospecting platform for finding accounts and contacts by criteria, analyzing buying signals and preparing messages. Professional web access; confirm commercial terms. Follow outreach rules.",
+    "ar": "منصة RegieGO للتنقيب التجاري بالذكاء الاصطناعي تتيح البحث عن الشركات وجهات الاتصال وفق معايير وتحليل مؤشرات الاهتمام وإعداد الرسائل. تتاح مهنيًا عبر الويب؛ ينبغي مراجعة الشروط التجارية واحترام قواعد التواصل.",
+    "officialSource": "https://regie.ai/platform/prospecting",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "conversica": {
+    "fr": "Agents conversationnels professionnels pour engager les prospects, assurer des relances et traiter certaines interactions de service client. Déploiement cloud selon contrat ; vérifier les règles d’envoi, les réponses et la transmission aux équipes humaines.",
+    "en": "Professional conversational agents for engaging prospects, following up and handling selected customer service interactions. Cloud deployment under contract; review sending rules, responses and human handoff.",
+    "ar": "وكلاء حواريون مهنيون للتواصل مع العملاء المحتملين ومتابعتهم ومعالجة بعض تفاعلات خدمة العملاء. يتاح النشر السحابي وفق عقد؛ ينبغي مراجعة قواعد الإرسال والإجابات والتحويل إلى الفرق البشرية.",
+    "officialSource": "https://www.conversica.com/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "people-ai": {
+    "fr": "Plateforme d’intelligence commerciale dont le site redirige désormais vers Backstory. Elle rapproche les signaux commerciaux pour analyser les risques des opportunités, les relations avec les parties prenantes et la santé du pipeline. Accès professionnel sur devis ; valider les données et conclusions.",
+    "en": "Revenue intelligence platform whose website now redirects to Backstory. It combines sales signals to analyze deal risk, stakeholder relationships and pipeline health. Professional access by quotation; validate data and conclusions.",
+    "ar": "منصة للذكاء التجاري يعيد موقعها التوجيه الآن إلى Backstory. تجمع المؤشرات التجارية لتحليل مخاطر الصفقات وعلاقات الأطراف المعنية وحالة مسار المبيعات. يتاح الوصول المهني وفق عرض سعر؛ ينبغي التحقق من البيانات والاستنتاجات.",
+    "officialSource": "https://www.backstory.ai/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "reply-io": {
+    "fr": "Service de prospection multicanale permettant de gérer des séquences de contact, avec agent Jason AI SDR proposé séparément selon l’offre. Abonnements et options variables selon les volumes et canaux. Respecter le consentement et les désinscriptions.",
+    "en": "Multichannel prospecting service managing outreach sequences, with Jason AI SDR offered separately depending on plan. Subscriptions and options vary by volume and channel. Respect consent and opt-outs.",
+    "ar": "خدمة للتنقيب التجاري متعدد القنوات تدير تسلسلات التواصل، مع وكيل Jason AI SDR المتاح بصورة منفصلة بحسب الخطة. تختلف الاشتراكات والخيارات بحسب الحجم والقنوات. ينبغي احترام الموافقة وطلبات إلغاء الاشتراك.",
+    "officialSource": "https://reply.io/pricing/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "instantly": {
+    "fr": "Plateforme web de prospection par courriel, gestion des contacts et CRM, avec agents de réponse et enrichissement des données selon l’offre. Abonnements distincts et crédits pour certaines fonctions IA. Vérifier les coordonnées et respecter les règles anti-spam.",
+    "en": "Web platform for email prospecting, contact management and CRM, with reply agents and data enrichment depending on plan. Separate subscriptions and credits for selected AI features. Verify contact details and follow anti-spam rules.",
+    "ar": "منصة ويب للتنقيب بالبريد الإلكتروني وإدارة جهات الاتصال وعلاقات العملاء، مع وكلاء للرد وإثراء البيانات بحسب الخطة. توفر اشتراكات منفصلة وأرصدة لبعض وظائف الذكاء الاصطناعي. ينبغي التحقق من بيانات الاتصال واحترام قواعد مكافحة الرسائل المزعجة.",
+    "officialSource": "https://instantly.ai/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "amplemarket": {
+    "fr": "Plateforme commerciale B2B combinant recherche de prospects, signaux d’intention, séquences multicanales et assistant Duo. Accès web par abonnement professionnel avec crédits selon les fonctions. Vérifier la pertinence des données et les autorisations de communication.",
+    "en": "B2B sales platform combining prospect research, intent signals, multichannel sequences and Duo assistant. Professional web subscription with feature-specific credits. Verify data relevance and communication permissions.",
+    "ar": "منصة للمبيعات بين المؤسسات تجمع البحث عن العملاء المحتملين ومؤشرات نية الشراء وتسلسلات التواصل متعددة القنوات ومساعد Duo. تتاح عبر الويب باشتراك مهني وأرصدة بحسب الوظائف. ينبغي التحقق من ملاءمة البيانات وأذونات التواصل.",
+    "officialSource": "https://www.amplemarket.com/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "shopify-sidekick": {
+    "fr": "Assistant conversationnel intégré à l’administration Shopify pour expliquer les fonctions de la boutique et aider à accomplir des tâches commerciales complexes. Accès lié au compte Shopify et aux fonctionnalités disponibles. Vérifier les changements proposés avant application.",
+    "en": "Conversational assistant integrated into Shopify admin to explain store functions and assist with complex commerce tasks. Access tied to Shopify account and available features. Review proposed changes before applying them.",
+    "ar": "مساعد حواري مدمج في لوحة إدارة Shopify يشرح وظائف المتجر ويساعد على إنجاز المهام التجارية المعقدة. يرتبط الوصول بحساب Shopify والوظائف المتاحة. ينبغي مراجعة التغييرات المقترحة قبل تطبيقها.",
+    "officialSource": "https://help.shopify.com/en/manual/ai-powered-tools/sidekick",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "klaviyo-ai": {
+    "fr": "Fonctions IA de marketing et de service client de Klaviyo, dont Composer pour les workflows marketing et Customer Agent pour les conversations. Accès cloud selon abonnement, crédits Composer et résolutions facturées selon l’offre. Vérifier la segmentation et les messages avant diffusion.",
+    "en": "Klaviyo marketing and customer service AI features, including Composer for marketing workflows and Customer Agent for conversations. Cloud access through subscriptions, Composer credits and plan-dependent resolution charges. Review segmentation and messages before distribution.",
+    "ar": "وظائف ذكاء اصطناعي للتسويق وخدمة العملاء في Klaviyo، منها Composer لمسارات التسويق وCustomer Agent للمحادثات. تتاح سحابيًا باشتراكات وأرصدة Composer وفوترة لحل الطلبات بحسب الخطة. ينبغي مراجعة تقسيم الجمهور والرسائل قبل النشر.",
+    "officialSource": "https://www.klaviyo.com/solutions/ai/ai-agent-pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "octane-ai": {
+    "fr": "Outil de création de questionnaires pour boutiques en ligne, permettant de recueillir les préférences déclarées et recommander des produits. Smart Copy aide à rédiger les textes. Abonnements et crédits selon l’utilisation des questionnaires et fonctions IA. Informer les utilisateurs sur la collecte des données.",
+    "en": "Online-store quiz builder collecting declared preferences and recommending products. Smart Copy assists with copywriting. Subscriptions and credits depend on quiz and AI feature usage. Inform users about data collection.",
+    "ar": "أداة لإنشاء استبيانات المتاجر الإلكترونية تجمع التفضيلات المعلنة وتوصي بالمنتجات. تساعد Smart Copy في صياغة النصوص. تعتمد الاشتراكات والأرصدة على استخدام الاستبيانات ووظائف الذكاء الاصطناعي. ينبغي إبلاغ المستخدمين بجمع البيانات.",
+    "officialSource": "https://help.octaneai.com/en/articles/2404075-octane-ai-plans-and-pricing-credits-system",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "nosto": {
+    "fr": "Plateforme de personnalisation du commerce électronique associant recherche, recommandations de produits, merchandising et tests A/B. Intégrations avec plusieurs plateformes de boutique et services professionnels selon contrat. Mesurer la pertinence des recommandations et respecter les choix de confidentialité.",
+    "en": "E-commerce personalization platform combining search, product recommendations, merchandising and A/B tests. Integrations with multiple storefront platforms and professional services under contract. Measure recommendation relevance and respect privacy choices.",
+    "ar": "منصة لتخصيص التجارة الإلكترونية تجمع البحث وتوصيات المنتجات وإدارة العرض التجاري واختبارات A/B. تتكامل مع منصات متاجر متعددة وتوفر خدمات مهنية وفق عقد. ينبغي قياس ملاءمة التوصيات واحترام خيارات الخصوصية.",
+    "officialSource": "https://www.nosto.com/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "bloomreach": {
+    "fr": "Plateforme de personnalisation commerciale combinant recherche de produits, marketing multicanal, recommandations et agents Loomi. Accès cloud professionnel selon modules et volumes. Vérifier les données clients, la pertinence des résultats et les consentements.",
+    "en": "Commerce personalization platform combining product search, multichannel marketing, recommendations and Loomi agents. Professional cloud access depending on modules and volumes. Review customer data, result relevance and consent.",
+    "ar": "منصة لتخصيص التجارة تجمع البحث عن المنتجات والتسويق متعدد القنوات والتوصيات ووكلاء Loomi. تتاح سحابيًا للمؤسسات بحسب الوحدات والأحجام. ينبغي مراجعة بيانات العملاء وملاءمة النتائج والموافقات.",
+    "officialSource": "https://www.bloomreach.com/en",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "constructor": {
+    "fr": "Plateforme de recherche et découverte de produits pour commerces en ligne, utilisant le comportement et le contexte pour personnaliser les résultats, catégories et recommandations. Propose aussi un assistant d’achat en langage naturel. Offre professionnelle selon contrat ; tester pertinence et biais du classement.",
+    "en": "E-commerce search and product discovery platform using behavior and context to personalize results, categories and recommendations. Also offers a natural-language shopping assistant. Contract-based enterprise offering; test relevance and ranking bias.",
+    "ar": "منصة للبحث واكتشاف المنتجات في المتاجر الإلكترونية تستخدم السلوك والسياق لتخصيص النتائج والفئات والتوصيات. توفر أيضًا مساعد تسوق باللغة الطبيعية. تتاح بعقود مهنية؛ ينبغي اختبار الملاءمة وتحيز ترتيب النتائج.",
+    "officialSource": "https://constructor.com/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "dynamic-yield": {
+    "fr": "Solution Mastercard de personnalisation des expériences numériques, permettant de configurer et tester des recommandations et contenus selon les segments et comportements. Accès professionnel sur contrat et intégrations aux canaux numériques. Mesurer les effets par expérimentation et respecter les préférences de confidentialité.",
+    "en": "Mastercard digital experience personalization solution for configuring and testing recommendations and content based on segments and behavior. Contract-based professional access and digital channel integrations. Measure effects through experiments and respect privacy preferences.",
+    "ar": "حل من Mastercard لتخصيص التجارب الرقمية وإعداد واختبار التوصيات والمحتوى بحسب الشرائح والسلوك. يتاح مهنيًا وفق عقد ويتكامل مع القنوات الرقمية. ينبغي قياس الأثر بالتجارب واحترام تفضيلات الخصوصية.",
+    "officialSource": "https://www.mastercard.com/us/en/business/consumer-acquisition-and-engagement/personalization/dynamic-yield.html",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "rebuy": {
+    "fr": "Solution de personnalisation pour Shopify proposant recommandations, merchandising du panier, offres après achat et tests A/B. Offre gratuite Rebuy Monetize distincte des modules payants dont les coûts dépendent notamment du nombre de commandes. Vérifier la pertinence des offres et éviter les interfaces trompeuses.",
+    "en": "Shopify personalization solution offering recommendations, cart merchandising, post-purchase offers and A/B tests. Free Rebuy Monetize is distinct from paid modules priced partly by order volume. Review offer relevance and avoid misleading interfaces.",
+    "ar": "حل لتخصيص متاجر Shopify يوفر التوصيات وإدارة عروض السلة وعروض ما بعد الشراء واختبارات A/B. تختلف خدمة Rebuy Monetize المجانية عن الوحدات المدفوعة التي ترتبط تكلفتها جزئيًا بعدد الطلبات. ينبغي مراجعة ملاءمة العروض وتجنب الواجهات المضللة.",
+    "officialSource": "https://www.rebuyengine.com/pricing",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
