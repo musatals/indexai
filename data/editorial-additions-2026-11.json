@@ -5234,5 +5234,33 @@
     "ar": "إطار مفتوح المصدر للتعلم الآلي لبناء النماذج وتدريبها خصوصًا عبر واجهة Keras. يدعم مسارات البيانات وتقييم الشبكات العصبية. ينبغي مراجعة توافق الإصدارات وقدرة التعميم على بيانات مستقلة.",
     "officialSource": "https://www.tensorflow.org/guide/keras/",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "rask-ai": {
+    "fr": "Plateforme de localisation audio et vidéo : transcription, traduction, doublage, correction segment par segment et export de sous-titres. Une API permet d’automatiser ces opérations. Vérifier le consentement des locuteurs avant le clonage vocal.",
+    "en": "Audio and video localization platform offering transcription, translation, dubbing, segment-level editing and subtitle export. An API supports workflow automation. Obtain speaker consent before voice cloning.",
+    "ar": "منصة لتوطين الصوت والفيديو تتيح تفريغ الكلام وترجمته ودبلجته وتصحيح المقاطع وتصدير الترجمة النصية. توفر واجهة برمجية لأتمتة هذه العمليات. ينبغي الحصول على موافقة المتحدثين قبل استنساخ أصواتهم.",
+    "officialSource": "https://help.rask.ai/hc/what-you-can-create-with-rask",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "elevenlabs-dubbing": {
+    "fr": "Fonction de doublage multilingue de contenus audio et vidéo. Le studio permet de modifier les transcriptions, de réattribuer les locuteurs et de régénérer les segments. Contrôler la prononciation et les autorisations vocales.",
+    "en": "Multilingual audio and video dubbing feature. The studio supports transcript edits, speaker reassignment and segment regeneration. Review pronunciation and voice permissions.",
+    "ar": "ميزة لدبلجة المحتويات الصوتية والمرئية بلغات متعددة. يتيح الاستوديو تعديل النصوص المفرغة وإعادة تعيين المتحدثين وتوليد المقاطع من جديد. ينبغي مراجعة النطق والتحقق من أذونات استخدام الأصوات.",
+    "officialSource": "https://elevenlabs.io/docs/overview/capabilities/dubbing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "heygen-translate": {
+    "fr": "Service web de traduction vidéo permettant d’importer un fichier, de choisir les langues cibles et de produire une version doublée. Utile pour adapter des contenus pédagogiques ou professionnels ; contrôler les termes spécialisés et la synchronisation.",
+    "en": "Web-based video translation service that accepts uploaded files, target language selection and dubbed output. Useful for adapting educational and professional content; review specialized terminology and synchronization.",
+    "ar": "خدمة عبر الويب لترجمة الفيديو تتيح رفع ملف واختيار اللغات المستهدفة وإنتاج نسخة مدبلجة. تفيد في تكييف المحتويات التعليمية والمهنية؛ ينبغي مراجعة المصطلحات المتخصصة وتزامن الصوت والصورة.",
+    "officialSource": "https://help.heygen.com/en/articles/10029081-how-to-get-started-with-video-translation",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "unbabel": {
+    "fr": "Solution de traduction destinée notamment aux entreprises et au service client, combinant traduction automatique, estimation de qualité et révision humaine lorsque nécessaire. Adapter le niveau de contrôle à la sensibilité des contenus.",
+    "en": "Translation solution for businesses and customer support combining machine translation, quality estimation and human review when needed. Match the level of review to content sensitivity.",
+    "ar": "حل للترجمة موجه خصوصًا إلى المؤسسات وخدمة العملاء، يجمع بين الترجمة الآلية وتقدير الجودة والمراجعة البشرية عند الحاجة. ينبغي تكييف مستوى المراجعة مع حساسية المحتوى.",
+    "officialSource": "https://customer-happiness.unbabel.com/hc/en-us/articles/28194900604951-How-does-Unbabel-assess-quality",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
