@@ -6998,5 +6998,61 @@
     "ar": "خدمة عبر الويب لتصور التصميم الداخلي والتأثيث الافتراضي انطلاقًا من الصور مع إمكان تعديل عناصر محددة. تعتمد الاشتراكات المدفوعة على أرصدة تختلف بحسب الخطة. الصور مقترحات جمالية وليست مخططات تقنية معتمدة.",
     "officialSource": "https://www.reimaginehome.ai/pricing",
     "sourceReviewedAt": "2026-11-26"
+  },
+  "aiprm": {
+    "fr": "Bibliothèque de modèles de prompts réutilisables pour assistants conversationnels, avec modèles communautaires, variables et fonctions de gestion de modèles privés selon l'offre. Édition gratuite et abonnements premium. Vérifier les résultats et éviter d'insérer des données sensibles dans les modèles partagés.",
+    "en": "Reusable prompt-template library for conversational assistants, with community templates, variables and private-template management depending on plan. Free edition and premium subscriptions. Review outputs and avoid sensitive data in shared templates.",
+    "ar": "مكتبة لقوالب التعليمات القابلة لإعادة الاستخدام مع المساعدات الحوارية، تشمل قوالب المجتمع والمتغيرات وإدارة القوالب الخاصة بحسب الخطة. تتوفر نسخة مجانية واشتراكات مدفوعة. ينبغي مراجعة النتائج وتجنب البيانات الحساسة في القوالب المشتركة.",
+    "officialSource": "https://www.aiprm.com/pricing/",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "futurepedia": {
+    "fr": "Portail indépendant de découverte des outils IA, organisé par usages et catégories, complété par des ressources de formation. Consultation publique du répertoire ; les conditions des formations et des outils référencés sont distinctes. Vérifier les informations auprès des éditeurs.",
+    "en": "Independent AI discovery portal organized by use case and category, complemented by educational resources. Public directory browsing; training and listed tools have separate terms. Verify information with vendors.",
+    "ar": "بوابة مستقلة لاكتشاف أدوات الذكاء الاصطناعي حسب الاستخدام والفئة، مع موارد تعليمية. يمكن تصفح الدليل علنًا، وتختلف شروط التدريب والأدوات المدرجة. ينبغي التحقق من المعلومات لدى المزودين.",
+    "officialSource": "https://www.futurepedia.io/about-us",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "google-project-astra": {
+    "fr": "Projet de recherche de Google DeepMind explorant un assistant universel multimodal capable d'interpréter son environnement et d'interagir avec des services Google. Certaines capacités sont expérimentales : ne pas assimiler le prototype à un abonnement commercial autonome. Vérifier la disponibilité des fonctions dans les produits concernés.",
+    "en": "Google DeepMind research project exploring a universal multimodal assistant that interprets its surroundings and interacts with Google services. Some capabilities are experimental; the prototype is not a standalone commercial subscription. Check feature availability in the relevant products.",
+    "ar": "مشروع بحثي من Google DeepMind يستكشف مساعدًا عامًا متعدد الوسائط قادرًا على تفسير محيطه والتفاعل مع خدمات Google. بعض القدرات تجريبية ولا يمثل النموذج الأولي اشتراكًا تجاريًا مستقلًا. ينبغي التحقق من إتاحة الوظائف في المنتجات المعنية.",
+    "officialSource": "https://deepmind.google/models/project-astra/",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "google-project-mariner": {
+    "fr": "Projet de recherche de Google DeepMind consacré aux agents capables d'interagir avec les interfaces du navigateur pour réaliser des tâches. Distinguer les démonstrations de recherche des fonctions commerciales effectivement disponibles. Vérifier les conditions d'accès et superviser les actions sensibles.",
+    "en": "Google DeepMind research project investigating agents that interact with browser interfaces to perform tasks. Distinguish research demonstrations from available commercial features. Check access conditions and supervise sensitive actions.",
+    "ar": "مشروع بحثي من Google DeepMind يدرس الوكلاء القادرين على التفاعل مع واجهات المتصفح لإنجاز المهام. ينبغي التمييز بين العروض البحثية والوظائف التجارية المتاحة والتحقق من شروط الوصول والإشراف على الإجراءات الحساسة.",
+    "officialSource": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/google-gemini-ai-update-december-2024/",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "google-imagefx": {
+    "fr": "Outil expérimental de Google Labs pour générer des images à partir de descriptions textuelles, fondé sur les modèles Imagen. Accès et disponibilité à vérifier sur Labs selon le pays et les évolutions du service. Contrôler les droits et l'exactitude des représentations avant publication.",
+    "en": "Experimental Google Labs tool for generating images from text using Imagen models. Check current Labs access and availability by country and service changes. Review rights and visual accuracy before publishing.",
+    "ar": "أداة تجريبية من Google Labs لتوليد الصور انطلاقًا من الأوصاف النصية باستخدام نماذج Imagen. ينبغي التحقق من الوصول والإتاحة الحالية حسب البلد وتطور الخدمة ومراجعة الحقوق ودقة الصور قبل النشر.",
+    "officialSource": "https://blog.google/innovation-and-ai/models-and-research/google-labs/video-image-generation-update-december-2024/",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "product-hunt-ai": {
+    "fr": "Rubrique de Product Hunt dédiée à la découverte de nouveaux produits IA par catégories, lancements et évaluations communautaires. Consultation publique ; les conditions commerciales des produits sont propres aux éditeurs. La popularité communautaire ne remplace pas une évaluation indépendante.",
+    "en": "Product Hunt section for discovering AI products through categories, launches and community ratings. Public browsing; commercial terms vary by vendor. Community popularity is not a substitute for independent evaluation.",
+    "ar": "قسم من Product Hunt لاكتشاف منتجات الذكاء الاصطناعي عبر الفئات والإطلاقات وتقييمات المجتمع. التصفح متاح علنًا وتختلف الشروط التجارية بحسب المزود. لا تغني الشعبية عن التقييم المستقل.",
+    "officialSource": "https://www.producthunt.com/topics/artificial-intelligence",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "futuretools": {
+    "fr": "Portail web de veille et de découverte des outils IA associant une base consultable à des actualités sur les produits et l'écosystème. Consultation publique ; vérifier directement les tarifs et la disponibilité de chaque outil référencé. Distinguer actualités et évaluations approfondies.",
+    "en": "Web portal for AI monitoring and discovery combining a searchable tool database with ecosystem and product news. Public browsing; check pricing and availability directly with listed vendors. Distinguish news coverage from in-depth evaluations.",
+    "ar": "بوابة ويب لمتابعة واكتشاف أدوات الذكاء الاصطناعي تجمع قاعدة قابلة للبحث وأخبار المنتجات والمنظومة. التصفح متاح علنًا، وينبغي التحقق من الأسعار والإتاحة لدى المزودين والتمييز بين الأخبار والتقييمات المعمقة.",
+    "officialSource": "https://futuretools.io/",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "toolify": {
+    "fr": "Annuaire web d'outils IA proposant des sélections par catégorie et des filtres de découverte, notamment pour les outils gratuits. Les conditions de chaque produit restent indépendantes du répertoire. Vérifier les tarifs, la disponibilité et la pertinence des classements auprès des sources originales.",
+    "en": "Web directory of AI tools offering category collections and discovery filters, including free tools. Each product has its own terms independent of the directory. Verify pricing, availability and ranking relevance against original sources.",
+    "ar": "دليل ويب لأدوات الذكاء الاصطناعي يقدم مجموعات حسب الفئة ومرشحات للاكتشاف بما فيها الأدوات المجانية. لكل منتج شروط مستقلة عن الدليل. ينبغي التحقق من الأسعار والإتاحة وملاءمة التصنيفات بالرجوع إلى المصادر الأصلية.",
+    "officialSource": "https://www.toolify.ai/",
+    "sourceReviewedAt": "2026-11-26"
   }
 }
