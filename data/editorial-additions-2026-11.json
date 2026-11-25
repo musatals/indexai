@@ -5388,5 +5388,33 @@
     "ar": "منصة ويب لإنشاء الفيديو بالذكاء الاصطناعي تجمع عدة نماذج للتوليد انطلاقًا من النصوص أو الصور. توفر أدوات لإعداد المقاطع الترويجية والعروض ومحتوى الشبكات الاجتماعية. تختلف الاشتراكات المدفوعة والحصص؛ ينبغي مراجعة الحقوق والنتائج قبل النشر.",
     "officialSource": "https://pollo.ai/hub/best-ai-video-generators",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "kaiber": {
+    "fr": "Studio de création audiovisuelle Superstudio associant plusieurs modèles de génération, animation par images clés, synchronisation labiale et montage de clips musicaux. Accessible en ligne avec des offres et quotas variables. Vérifier les droits des images et pistes audio importées.",
+    "en": "Superstudio combines multiple audiovisual generation models, keyframe animation, lip synchronization and music video creation. Available online with varying plans and quotas. Check rights to imported images and audio tracks.",
+    "ar": "استوديو Superstudio للإبداع السمعي البصري يجمع عدة نماذج توليدية والتحريك بالإطارات المفتاحية ومزامنة الشفاه وإنشاء المقاطع الموسيقية. يتاح عبر الإنترنت باشتراكات وحصص متفاوتة؛ ينبغي مراجعة حقوق الصور والمسارات الصوتية المستوردة.",
+    "officialSource": "https://helpcenter.kaiber.ai/en/help/articles/0784317-welcome-to-kaiber",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "civitai": {
+    "fr": "Communauté web de partage de modèles visuels et d'adaptations LoRA, avec génération hébergée et téléchargement selon les ressources. Le système Buzz et les adhésions financent certains usages. Vérifier les licences, la provenance des modèles et les filtres de contenu ; des ressources peuvent être inadaptées aux mineurs.",
+    "en": "Web community for sharing visual models and LoRA adapters, with hosted generation and downloads depending on the resource. Buzz credits and memberships fund some uses. Check licenses, model provenance and content filters; some material may be unsuitable for minors.",
+    "ar": "مجتمع عبر الويب لمشاركة النماذج البصرية وتكييفات LoRA، مع إمكانات التوليد المستضاف والتنزيل بحسب المورد. تموّل أرصدة Buzz والعضويات بعض الاستخدامات. ينبغي مراجعة التراخيص ومصدر النماذج ومرشحات المحتوى؛ فقد تكون بعض الموارد غير مناسبة للقاصرين.",
+    "officialSource": "https://civitai.tech/creator-program",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "capcut": {
+    "fr": "Éditeur vidéo sur Web, ordinateur et mobile proposant montage multipiste, sous-titres automatiques, détourage et modèles de composition. Des fonctions gratuites coexistent avec une offre Pro dont les tarifs varient selon le marché. Vérifier la transcription et les droits des médias avant export.",
+    "en": "Video editor for web, desktop and mobile offering multitrack editing, automatic captions, background removal and templates. Free features coexist with a Pro plan whose pricing varies by market. Review transcripts and media rights before export.",
+    "ar": "محرر فيديو عبر الويب والحاسوب والهاتف يوفر المونتاج متعدد المسارات والتسميات التوضيحية التلقائية وإزالة الخلفيات وقوالب التصميم. يجمع بين وظائف مجانية واشتراك Pro تختلف أسعاره حسب السوق. ينبغي مراجعة النصوص المفرغة وحقوق الوسائط قبل التصدير.",
+    "officialSource": "https://www.capcut.com/resource/ai-video-editing-tools",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "descript": {
+    "fr": "Éditeur audio et vidéo permettant de modifier un enregistrement en éditant sa transcription, de supprimer les hésitations, d'améliorer la voix avec Studio Sound et de créer des extraits. Offre gratuite limitée et abonnements avec quotas. Contrôler les noms propres, les coupes et les autorisations vocales.",
+    "en": "Audio and video editor that lets users edit recordings through transcripts, remove filler words, improve speech with Studio Sound and create clips. Limited free plan and subscriptions with quotas. Review proper names, cuts and voice permissions.",
+    "ar": "محرر صوت وفيديو يتيح تعديل التسجيلات عبر تحرير النصوص المفرغة وإزالة كلمات التردد وتحسين الصوت باستخدام Studio Sound وإنشاء المقاطع القصيرة. يوفر خطة مجانية محدودة واشتراكات بحصص استخدام. ينبغي مراجعة أسماء الأعلام ومواضع القطع وأذونات استخدام الأصوات.",
+    "officialSource": "https://www.descript.com/pricing",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
