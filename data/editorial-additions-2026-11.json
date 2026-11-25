@@ -6305,5 +6305,54 @@
     "ar": "مساعد مدمج في تطبيق Perplexity يجمع البحث والمساعدة في مهام مثل صياغة الرسائل الإلكترونية وإعداد المواعيد. يعتمد الوصول عبر الهاتف على نظام التشغيل والصلاحيات وخطة Perplexity. ينبغي مراجعة المصادر وتأكيد الحجوزات والإجراءات الخارجية الأخرى.",
     "officialSource": "https://apps.apple.com/us/app/perplexity-ai-search-chat/id1668000334",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "tidio-lyro": {
+    "fr": "Agent conversationnel de service client exploitant les connaissances de l'entreprise et transférant les demandes non résolues aux conseillers. Accessible via Tidio et des intégrations de support ; offres et quotas calculés en conversations. Tester la qualité des réponses et les règles de transfert.",
+    "en": "Customer service conversational agent using company knowledge and handing unresolved requests to human advisors. Available through Tidio and help desk integrations; plans and quotas are measured in conversations. Test answer quality and handoff rules.",
+    "ar": "وكيل حواري لخدمة العملاء يستفيد من معرفة المؤسسة ويحول الطلبات غير المحلولة إلى المستشارين البشريين. يتاح عبر Tidio وتكاملات الدعم؛ تحسب الخطط والحصص بالمحادثات. ينبغي اختبار جودة الإجابات وقواعد التحويل.",
+    "officialSource": "https://help.tidio.com/articles/lyro-main/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "elevenlabs-conversational-ai": {
+    "fr": "Plateforme ElevenAgents pour concevoir des agents vocaux en temps réel associant reconnaissance et synthèse vocales, modèles linguistiques et bases de connaissances. Accès web et développeur avec crédits et facturation selon les composants utilisés. Prévoir les coûts de téléphonie et le consentement à l'enregistrement.",
+    "en": "ElevenAgents platform for building real-time voice agents combining speech recognition and synthesis, language models and knowledge bases. Web and developer access with credits and component-based charges. Account for telephony costs and recording consent.",
+    "ar": "منصة ElevenAgents لإنشاء وكلاء صوتيين في الوقت الفعلي تجمع التعرف على الكلام وتوليد الصوت والنماذج اللغوية وقواعد المعرفة. تتاح عبر الويب وواجهات التطوير بأرصدة ورسوم بحسب المكونات. ينبغي مراعاة تكاليف الاتصالات والموافقة على التسجيل.",
+    "officialSource": "https://elevenlabs.io/pricing/agents",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "livekit-agents": {
+    "fr": "Framework open source de développement d'agents vocaux et multimodaux en temps réel avec SDK Python et Node.js. Déploiement possible sur infrastructure propre ou LiveKit Cloud. Les coûts d'hébergement, de communication et d'inférence dépendent de la configuration. Tester la latence et les interruptions.",
+    "en": "Open-source framework for real-time voice and multimodal agents with Python and Node.js SDKs. Deploy on self-hosted infrastructure or LiveKit Cloud. Hosting, communication and inference costs depend on configuration. Test latency and interruptions.",
+    "ar": "إطار مفتوح المصدر لتطوير الوكلاء الصوتيين ومتعددي الوسائط في الوقت الفعلي بحزمتي Python وNode.js. يمكن النشر على بنية ذاتية الاستضافة أو LiveKit Cloud. تعتمد تكاليف الاستضافة والاتصالات والاستدلال على الإعداد. ينبغي اختبار زمن الاستجابة والمقاطعات.",
+    "officialSource": "https://docs.livekit.io/agents/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "decagon": {
+    "fr": "Plateforme professionnelle d'agents IA pour traiter les demandes clients et assister les conseillers avec le contexte des comptes et des politiques internes. Déploiement institutionnel selon les conditions commerciales ; aucun montant public confirmé ici. Vérifier les autorisations d'action et la procédure d'escalade humaine.",
+    "en": "Enterprise AI agent platform for handling customer requests and assisting representatives using account context and internal policies. Institutional deployment under commercial terms; no public amount confirmed here. Review action permissions and human escalation procedures.",
+    "ar": "منصة مهنية لوكلاء الذكاء الاصطناعي لمعالجة طلبات العملاء ومساعدة الموظفين باستخدام سياق الحسابات والسياسات الداخلية. يتاح النشر المؤسسي وفق الشروط التجارية دون مبلغ عام مؤكد هنا. ينبغي مراجعة صلاحيات الإجراءات وآليات التحويل إلى الدعم البشري.",
+    "officialSource": "https://decagon.ai/blog/decagon-assist",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "forethought": {
+    "fr": "Plateforme de support client associant agents de résolution, recherche de connaissances et assistance aux conseillers par suggestions de réponses et résumés de tickets. Intégration aux logiciels de support ; offre professionnelle selon contrat. Contrôler les réponses et les lacunes documentaires.",
+    "en": "Customer support platform combining resolution agents, knowledge retrieval and representative assistance through response suggestions and ticket summaries. Help desk integrations; professional contract-based offering. Review answers and knowledge gaps.",
+    "ar": "منصة لدعم العملاء تجمع وكلاء حل الطلبات واسترجاع المعرفة ومساعدة الموظفين عبر اقتراحات الإجابات وملخصات التذاكر. تتكامل مع برمجيات الدعم بعروض مهنية حسب العقد. ينبغي مراجعة الإجابات والثغرات الوثائقية.",
+    "officialSource": "https://forethought.ai/platform/assist",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "polyai": {
+    "fr": "Plateforme de développement et de déploiement d'assistants vocaux pour centres de contact, intégrés aux infrastructures téléphoniques et aux processus de service client. Accès professionnel sur contrat ; tarifs détaillés non confirmés. Tester les accents, la compréhension et le transfert humain.",
+    "en": "Platform for developing and deploying contact-center voice assistants integrated with telephony infrastructure and customer service workflows. Professional contract access; detailed pricing not confirmed. Test accents, comprehension and human handoff.",
+    "ar": "منصة لتطوير ونشر المساعدين الصوتيين لمراكز الاتصال مع التكامل مع البنية الهاتفية ومسارات خدمة العملاء. يتاح الوصول المهني بموجب عقد دون أسعار تفصيلية مؤكدة. ينبغي اختبار اللهجات والفهم والتحويل إلى الموظفين.",
+    "officialSource": "https://poly.ai/technology",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "cognigy-ai-agents": {
+    "fr": "Plateforme NiCE Cognigy de conception et d'exploitation d'agents conversationnels pour les entreprises et centres de contact. Les outils de supervision facilitent le suivi du fonctionnement des agents. Accès professionnel selon contrat ; vérifier les intégrations et les contrôles humains.",
+    "en": "NiCE Cognigy platform for designing and operating conversational agents for enterprises and contact centers. Monitoring tools support oversight of agent operations. Professional contract-based access; review integrations and human controls.",
+    "ar": "منصة NiCE Cognigy لتصميم وتشغيل الوكلاء الحواريين للمؤسسات ومراكز الاتصال. تسهل أدوات المراقبة متابعة أداء الوكلاء. يتاح الوصول المهني بحسب العقد؛ ينبغي مراجعة التكاملات والضوابط البشرية.",
+    "officialSource": "https://www.cognigy.com/news/nice-cognigy-launches-ai-ops-center",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
