@@ -6963,5 +6963,40 @@
     "ar": "مساعد للاستخبارات التجارية بين الشركات مدمج في ZoomInfo، يستخدم بيانات المؤسسات وجهات الاتصال وإشارات الشراء لترتيب الحسابات حسب الأولوية وإعداد التواصل التجاري. يتاح عبر المنصة المهنية وتكاملات إدارة العملاء بحسب الخطة. اشتراك مدفوع وفق عرض سعر يعتمد على الوظائف والمستخدمين والأحجام التعاقدية. ينبغي التحقق من دقة بيانات الاتصال والالتزامات المتعلقة بحماية البيانات.",
     "officialSource": "https://www.sec.gov/Archives/edgar/data/1794515/000179451526000038/zi-20260331.htm",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "hugging-face-spaces": {
+    "fr": "Plateforme d'hébergement et de découverte de démonstrations interactives de modèles IA, avec dépôts Git et environnements Gradio, Docker ou statiques. Accès web aux espaces publics ; ressources de calcul de base gratuites et matériel supérieur facturé. Vérifier les licences et la confidentialité de chaque espace.",
+    "en": "Platform for hosting and discovering interactive AI model demos using Git repositories and Gradio, Docker or static environments. Public Spaces are accessible on the web; basic compute is free and upgraded hardware is billed. Check each Space's licensing and privacy.",
+    "ar": "منصة لاستضافة واستكشاف عروض تفاعلية لنماذج الذكاء الاصطناعي باستخدام مستودعات Git وبيئات Gradio وDocker أو صفحات ثابتة. تتاح المساحات العامة عبر الويب مع موارد حوسبة أساسية مجانية وعتاد إضافي مدفوع. ينبغي مراجعة تراخيص كل مساحة وخصوصيتها.",
+    "officialSource": "https://huggingface.co/docs/hub/spaces-overview",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "sakana-ai-scientist": {
+    "fr": "Projet de recherche de Sakana AI automatisant la formulation d'idées, la programmation et l'exécution d'expériences ainsi que la rédaction et l'évaluation de rapports scientifiques. Code de recherche accessible via les liens du projet ; les coûts dépendent des modèles et du calcul utilisés. Les résultats exigent une validation scientifique indépendante.",
+    "en": "Sakana AI research project automating idea generation, experiment coding and execution, and scientific report writing and review. Research code is available through project links; costs depend on model and compute usage. Results require independent scientific validation.",
+    "ar": "مشروع بحثي من Sakana AI يؤتمت توليد الأفكار وبرمجة التجارب وتنفيذها وكتابة التقارير العلمية ومراجعتها. تتاح الشيفرة البحثية عبر روابط المشروع وتختلف التكاليف بحسب النماذج والحوسبة المستخدمة. تتطلب النتائج تحققًا علميًا مستقلًا.",
+    "officialSource": "https://sakana.ai/ai-scientist-nature/",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "lily-ai": {
+    "fr": "Solution professionnelle d'enrichissement des catalogues marchands par des attributs structurés et des descriptions adaptées à la recherche et aux systèmes de recommandation. Accès via la plateforme professionnelle ; conditions tarifaires à confirmer auprès de l'éditeur. Contrôler la fidélité des attributs aux produits réels et mesurer les effets sur la découverte.",
+    "en": "Enterprise solution enriching retail catalogs with structured attributes and descriptions for search and recommendation systems. Access through the professional platform; pricing terms should be confirmed with the vendor. Check attribute accuracy against actual products and measure discovery outcomes.",
+    "ar": "حل مؤسسي لإثراء كتالوجات البيع بالتجزئة بسمات منظمة وأوصاف ملائمة للبحث وأنظمة التوصية. يتاح عبر المنصة المهنية ويجب تأكيد شروط التسعير مع المزود. ينبغي مطابقة السمات مع المنتجات الفعلية وقياس أثرها على اكتشاف المنتجات.",
+    "officialSource": "https://www.lily.ai/topics/product-data",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "rep-ai": {
+    "fr": "Agent conversationnel pour boutiques Shopify combinant aide au choix des produits et assistance client. Accès via une intégration à la boutique ; offres payantes dont certaines dépendent du trafic et de la formule. Vérifier la synchronisation des prix et stocks ainsi que les possibilités de transfert vers un conseiller.",
+    "en": "Conversational agent for Shopify stores combining product discovery and customer support. Access through store integration; paid plans may depend on traffic and plan type. Check price and inventory synchronization and human handoff options.",
+    "ar": "وكيل محادثة لمتاجر Shopify يجمع المساعدة في اختيار المنتجات وخدمة العملاء. يتاح عبر التكامل مع المتجر، وتوجد خطط مدفوعة يرتبط بعضها بحجم الزيارات ونوع الاشتراك. ينبغي التحقق من مزامنة الأسعار والمخزون وإمكانات التحويل إلى مستشار بشري.",
+    "officialSource": "https://help.hellorep.ai/hc/en-us/articles/14990922497170-Upgrade-or-downgrade-your-plan",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "reimaginehome": {
+    "fr": "Service web de visualisation d'aménagement intérieur et de mise en scène virtuelle à partir d'images, avec possibilités de modification ciblée. Abonnements payants fondés sur des crédits selon la formule. Les visuels sont des propositions esthétiques, non des plans techniques validés.",
+    "en": "Web service for interior redesign and virtual staging from images, with targeted editing options. Paid subscriptions use plan-dependent credits. Images are aesthetic proposals, not validated technical plans.",
+    "ar": "خدمة عبر الويب لتصور التصميم الداخلي والتأثيث الافتراضي انطلاقًا من الصور مع إمكان تعديل عناصر محددة. تعتمد الاشتراكات المدفوعة على أرصدة تختلف بحسب الخطة. الصور مقترحات جمالية وليست مخططات تقنية معتمدة.",
+    "officialSource": "https://www.reimaginehome.ai/pricing",
+    "sourceReviewedAt": "2026-11-26"
   }
 }
