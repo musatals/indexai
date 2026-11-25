@@ -5332,5 +5332,33 @@
     "ar": "منصة للإبداع البصري توفر عدة نماذج لتوليد الصور. يساعد اختيار النموذج والإعدادات على تكييف النتائج مع متطلبات التكوين والطباعة والاتساق البصري. ينبغي التحقق من حدود كل نموذج وحقوق استخدامه.",
     "officialSource": "https://www.imagine.art/models/kling/kling-image-4-0",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "openart": {
+    "fr": "Studio créatif en ligne réunissant des modèles de génération d’images, de vidéos et de sons. La plateforme propose notamment des outils de cohérence des personnages et d’entraînement de modèles personnalisés. Accès web avec offres et quotas variables ; vérifier les droits des modèles utilisés.",
+    "en": "Online creative studio combining image, video and audio generation models, with character consistency and custom model training tools. Web access with varying plans and quotas; check individual model usage rights.",
+    "ar": "استوديو إبداعي عبر الويب يجمع نماذج لتوليد الصور والفيديو والصوت، ويوفر أدوات للحفاظ على اتساق الشخصيات وتدريب نماذج مخصصة. تختلف الحصص بحسب الاشتراك؛ ينبغي مراجعة حقوق استخدام كل نموذج.",
+    "officialSource": "https://openart.ai/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "seaart": {
+    "fr": "Plateforme web de création et de partage d’images et de vidéos, proposant des références visuelles et des workflows ComfyUI réutilisables. Certaines générations sont gratuites, d’autres consomment des crédits ou de l’énergie selon le modèle et l’offre.",
+    "en": "Web platform for creating and sharing images and videos, with visual references and reusable ComfyUI workflows. Some generations are free; others consume credits or stamina depending on model and plan.",
+    "ar": "منصة ويب لإنشاء الصور والفيديو ومشاركتها، تتيح استخدام المراجع البصرية ومسارات عمل ComfyUI القابلة لإعادة الاستخدام. بعض عمليات التوليد مجانية وبعضها يستهلك الأرصدة أو الطاقة بحسب النموذج والاشتراك.",
+    "officialSource": "https://www.seaart.ai/create/image",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "tensor-art": {
+    "fr": "Environnement web de génération visuelle permettant de composer des pipelines avec des modèles, des adaptations LoRA, ControlNet et des étapes de post-traitement. La consommation de crédits varie selon les modèles et les ressources mobilisées. Vérifier les licences des composants.",
+    "en": "Web-based visual generation environment for assembling pipelines with models, LoRA adapters, ControlNet and post-processing steps. Credit consumption varies with models and computing resources. Check component licenses.",
+    "ar": "بيئة ويب للتوليد البصري تتيح بناء مسارات تجمع النماذج وتكييفات LoRA ووحدات ControlNet ومراحل المعالجة اللاحقة. يختلف استهلاك الأرصدة بحسب النماذج والموارد الحاسوبية المستخدمة. ينبغي مراجعة تراخيص المكونات.",
+    "officialSource": "https://tensor.art/canvas/workflow",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "veo": {
+    "fr": "Famille de modèles de Google DeepMind pour générer des vidéos à partir de consignes ou d’images. Les versions compatibles produisent également du son synchronisé. L’accès et la tarification dépendent du service intégrateur et du modèle ; contrôler la continuité des scènes et la fidélité des dialogues.",
+    "en": "Google DeepMind video generation model family using text prompts or images. Compatible versions also produce synchronized audio. Access and pricing depend on the integrating service and model; review scene continuity and dialogue fidelity.",
+    "ar": "عائلة نماذج من Google DeepMind لتوليد الفيديو انطلاقًا من التعليمات النصية أو الصور. تولد الإصدارات المتوافقة صوتًا متزامنًا أيضًا. يتوقف الوصول والتسعير على الخدمة المدمجة والنموذج؛ ينبغي مراجعة استمرارية المشاهد ودقة الحوار.",
+    "officialSource": "https://deepmind.google/models/veo/",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
