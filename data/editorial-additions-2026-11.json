@@ -6858,5 +6858,26 @@
     "ar": "وظائف Gemini المدمجة في خرائط Google، ومنها Ask Maps لاستكشاف الأماكن وإعداد المسارات والمساعدة الحوارية أثناء التنقل. تتاح عبر التطبيقات المتوافقة دون إعلان اشتراك خاص بهذه الوظائف للمستهلكين؛ ويختلف التوفر بحسب المنطقة والجهاز. ينبغي التحقق من الظروف الفعلية.",
     "officialSource": "https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "yummly": {
+    "fr": "Ancienne plateforme de recettes et de planification des repas avec recommandations personnalisées. L'éditeur a annoncé la fermeture définitive du site et des applications en décembre 2024. Fiche historique : aucun abonnement actif à recommander.",
+    "en": "Former recipe and meal planning platform with personalized recommendations. The publisher announced permanent closure of its website and apps in December 2024. Historical entry; no active subscription to recommend.",
+    "ar": "منصة سابقة للوصفات وتخطيط الوجبات مع توصيات مخصصة. أعلن الناشر الإغلاق النهائي للموقع والتطبيقات في ديسمبر 2024. سجل تاريخي؛ لا يوجد اشتراك نشط يمكن التوصية به.",
+    "officialSource": "https://milled.com/yummly.com/important-notice-yummly-discontinuation-sF5GpZgHP5VctzYY",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "chefgpt": {
+    "fr": "Assistant culinaire de MIU Digital proposant des recettes, des programmes de repas et un suivi des calories. Accessible sur les applications iOS et Android ; achats intégrés et abonnements Pro dont les tarifs varient. Vérifier les allergènes, les valeurs nutritionnelles et les températures de cuisson.",
+    "en": "MIU Digital cooking assistant offering recipes, meal plans and calorie tracking. Available on iOS and Android apps; in-app purchases and Pro subscriptions with variable pricing. Verify allergens, nutritional values and cooking temperatures.",
+    "ar": "مساعد طبخ من MIU Digital يقترح وصفات وبرامج للوجبات ويتابع السعرات الحرارية. يتاح عبر تطبيقات iOS وAndroid مع مشتريات داخل التطبيق واشتراكات Pro بأسعار متغيرة. ينبغي التحقق من مسببات الحساسية والقيم الغذائية ودرجات الطهي.",
+    "officialSource": "https://apps.apple.com/us/app/chefgpt-ai-calories-tracker/id6449961549",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "roam-around": {
+    "fr": "Ancien planificateur d'itinéraires touristiques intégré à Layla après son acquisition en 2024. Les fonctions de planification sont désormais proposées via Layla, acquise par Expedia Group le 31 juillet 2026. Accès web et mobile via Layla ; les conditions commerciales relèvent de cette plateforme et des partenaires de réservation.",
+    "en": "Former travel itinerary planner integrated into Layla after its acquisition in 2024. Planning features are now offered through Layla, acquired by Expedia Group on July 31, 2026. Web and mobile access through Layla; commercial terms depend on that platform and booking partners.",
+    "ar": "مخطط رحلات سابق اندمج في Layla بعد الاستحواذ عليه عام 2024. تقدم وظائف التخطيط حاليًا عبر Layla التي استحوذت عليها Expedia Group في 31 يوليو 2026. يتاح الوصول عبر الويب والهاتف من خلال Layla، وتخضع الشروط التجارية للمنصة وشركاء الحجز.",
+    "officialSource": "https://layla.ai/roamaround",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
