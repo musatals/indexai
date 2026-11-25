@@ -5262,5 +5262,47 @@
     "ar": "حل للترجمة موجه خصوصًا إلى المؤسسات وخدمة العملاء، يجمع بين الترجمة الآلية وتقدير الجودة والمراجعة البشرية عند الحاجة. ينبغي تكييف مستوى المراجعة مع حساسية المحتوى.",
     "officialSource": "https://customer-happiness.unbabel.com/hc/en-us/articles/28194900604951-How-does-Unbabel-assess-quality",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "upscayl": {
+    "fr": "Application gratuite et open source pour agrandir des images par IA sous Windows, macOS et Linux. Le traitement local utilise des modèles de super-résolution ; vérifier les détails reconstruits, notamment pour les documents patrimoniaux.",
+    "en": "Free, open-source AI image upscaling desktop application for Windows, macOS and Linux. Local processing uses super-resolution models; inspect reconstructed details, especially in heritage documents.",
+    "ar": "تطبيق مجاني ومفتوح المصدر لتكبير الصور بالذكاء الاصطناعي على ويندوز وماك ولينكس. يعتمد على نماذج الدقة الفائقة في المعالجة المحلية؛ ينبغي فحص التفاصيل المعاد بناؤها خصوصًا في الوثائق التراثية.",
+    "officialSource": "https://github.com/upscayl/upscayl",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "real-esrgan": {
+    "fr": "Projet de recherche et logiciel de restauration d'images par super-résolution, avec des modèles préentraînés et une interface en ligne de commande. Les textures reconstruites restent des estimations, non des preuves de détails originaux.",
+    "en": "Image restoration and super-resolution research software with pretrained models and a command-line interface. Reconstructed textures are estimates rather than evidence of original detail.",
+    "ar": "مشروع بحثي وبرمجية لترميم الصور ورفع دقتها باستخدام نماذج مدربة مسبقًا وواجهة سطر الأوامر. تظل الخامات المعاد بناؤها تقديرات وليست دليلًا على التفاصيل الأصلية.",
+    "officialSource": "https://github.com/xinntao/Real-ESRGAN",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "gfpgan": {
+    "fr": "Projet de restauration de visages dans des photographies dégradées, utilisant un modèle génératif préentraîné. Accessible par le code et les démonstrations indiquées dans le dépôt. Les traits reconstruits peuvent différer du visage original.",
+    "en": "Face restoration project for degraded photographs using a pretrained generative model. Available through source code and demos listed in the repository. Reconstructed facial features can differ from the original.",
+    "ar": "مشروع لترميم الوجوه في الصور المتدهورة باستخدام نموذج توليدي مدرب مسبقًا. يتاح عبر الشيفرة والعروض التجريبية المذكورة في المستودع. قد تختلف الملامح المعاد بناؤها عن الوجه الأصلي.",
+    "officialSource": "https://github.com/TencentARC/GFPGAN",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "photoroom": {
+    "fr": "Éditeur d'images pour créer notamment des visuels de produits, détourer les sujets et uniformiser les arrière-plans. Accessible sur le Web et sur mobile ; le traitement par lots facilite la préparation de catalogues selon les fonctionnalités disponibles.",
+    "en": "Image editor for product visuals, subject cutouts and consistent backgrounds. Available on web and mobile; batch editing helps prepare catalogs depending on feature availability.",
+    "ar": "محرر صور لإنشاء صور المنتجات وعزل العناصر وتوحيد الخلفيات. يتاح عبر الويب والهواتف المحمولة؛ وتساعد المعالجة الدفعية على إعداد الفهارس بحسب الوظائف المتاحة.",
+    "officialSource": "https://help.photoroom.com/en/articles/11784338-what-is-the-batch-feature",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "remove-bg": {
+    "fr": "Service de détourage automatique permettant d'isoler un sujet en supprimant son arrière-plan. L'API facilite l'intégration dans des chaînes de traitement d'images. Vérifier les contours complexes, notamment les cheveux et les éléments transparents.",
+    "en": "Automatic background removal service that isolates image subjects. Its API supports integration into image-processing workflows. Check complex edges, especially hair and transparent elements.",
+    "ar": "خدمة لإزالة خلفيات الصور تلقائيًا وعزل العناصر الرئيسية. تسهل واجهتها البرمجية دمجها في مسارات معالجة الصور. ينبغي فحص الحواف المعقدة خصوصًا الشعر والعناصر الشفافة.",
+    "officialSource": "https://www.remove.bg/i/api",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "topaz-photo": {
+    "fr": "Logiciel de traitement photographique combinant des modèles de réduction du bruit, de netteté, de récupération des visages et d'agrandissement. Les réglages permettent d'adapter le traitement ; comparer systématiquement le résultat au fichier original.",
+    "en": "Photo enhancement software combining denoising, sharpening, face recovery and upscaling models. Settings allow treatment adjustments; systematically compare results with the original file.",
+    "ar": "برنامج لتحسين الصور يجمع نماذج إزالة الضجيج وزيادة الحدة وترميم الوجوه ورفع الدقة. تتيح الإعدادات تكييف المعالجة؛ ينبغي مقارنة النتيجة بالملف الأصلي بصورة منهجية.",
+    "officialSource": "https://docs.topazlabs.com/topaz-photo/enhancements/wonder",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
