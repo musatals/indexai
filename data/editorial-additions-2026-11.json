@@ -5591,5 +5591,68 @@
     "ar": "منصة لإنشاء ونشر الشخصيات الحوارية والصور الرمزية في الألعاب وتطبيقات الويب وتجارب الواقع الممتد. تتيح تخصيص الصوت والمعرفة والسلوك عبر واجهات التكامل. تختلف الخطط بحسب التفاعلات وقدرات النشر. ينبغي ضبط حدود الإجابات واختبار السلوك في البيئات الغامرة.",
     "officialSource": "https://convai.com/pricing",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "openevidence": {
+    "fr": "Assistant de recherche clinique fournissant des réponses référencées à partir de la littérature médicale évaluée par les pairs. Accès réservé selon les critères de vérification professionnelle ; l'offre institutionnelle pour les organisations admissibles aux États-Unis est sans frais de licence ou d'intégration. Vérifier les articles originaux et le contexte clinique.",
+    "en": "Clinical research assistant providing cited answers from peer-reviewed medical literature. Access depends on professional verification; eligible US institutions can use the enterprise offering without license or integration fees. Check original articles and clinical context.",
+    "ar": "مساعد للبحث السريري يقدم إجابات موثقة من الأدبيات الطبية المحكّمة. يخضع الوصول للتحقق من الصفة المهنية؛ ويتاح العرض المؤسسي للجهات المؤهلة في الولايات المتحدة دون رسوم ترخيص أو تكامل. ينبغي مراجعة المقالات الأصلية والسياق السريري.",
+    "officialSource": "https://portal.openevidence.com/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "abridge": {
+    "fr": "Plateforme de documentation clinique qui transforme les échanges entre soignants et patients en projets de notes médicales. Déploiement institutionnel et intégration aux dossiers électroniques selon les accords commerciaux. Le clinicien doit valider les notes et respecter les règles de confidentialité et de consentement.",
+    "en": "Clinical documentation platform turning clinician-patient conversations into draft medical notes. Institutional deployment and electronic record integration depend on commercial agreements. Clinicians must validate notes and observe privacy and consent requirements.",
+    "ar": "منصة للتوثيق السريري تحول المحادثات بين مقدمي الرعاية والمرضى إلى مسودات ملاحظات طبية. يعتمد النشر المؤسسي والتكامل مع السجلات الإلكترونية على الاتفاقات التجارية. يجب على الطبيب مراجعة الملاحظات واحترام قواعد الخصوصية والموافقة.",
+    "officialSource": "https://www.abridge.com/press-release/va-enterprise-contract",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "aidoc": {
+    "fr": "Plateforme clinique aiOS permettant de déployer et coordonner plusieurs applications d'IA, notamment pour le triage radiologique. Accès institutionnel selon les solutions et contrats. Vérifier les indications autorisées dans chaque pays ; les alertes ne remplacent pas l'interprétation médicale.",
+    "en": "Clinical aiOS platform for deploying and coordinating AI applications, including radiology triage. Institutional access varies by solution and contract. Verify authorized indications in each jurisdiction; alerts do not replace medical interpretation.",
+    "ar": "منصة aiOS السريرية لنشر وتنسيق تطبيقات الذكاء الاصطناعي، ومنها فرز حالات الأشعة بحسب الأولوية. يتاح الوصول المؤسسي بحسب الحلول والعقود. ينبغي التحقق من الاستعمالات المرخصة في كل بلد؛ ولا تحل التنبيهات محل التفسير الطبي.",
+    "officialSource": "https://www.aidoc.com/platform/aios/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "harvey": {
+    "fr": "Assistant d'IA pour les professionnels du droit et des services spécialisés, destiné à la recherche, l'analyse et la rédaction de documents. Accès professionnel selon les offres de l'éditeur, avec programme universitaire distinct. Vérifier les références juridiques, la juridiction et les règles de secret professionnel.",
+    "en": "AI assistant for legal and professional services supporting research, analysis and document drafting. Professional access depends on provider offerings, with a separate law school program. Verify legal references, jurisdiction and confidentiality obligations.",
+    "ar": "مساعد ذكاء اصطناعي للمهنيين في القانون والخدمات المتخصصة يدعم البحث والتحليل وصياغة الوثائق. يتاح بحسب عروض المزود المهنية مع برنامج جامعي مستقل. ينبغي التحقق من المراجع القانونية والاختصاص القضائي والتزامات السر المهني.",
+    "officialSource": "https://help.harvey.ai/articles/harvey-faq",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "thomson-reuters-cocounsel": {
+    "fr": "Assistant juridique professionnel de Thomson Reuters associant recherche, analyse et rédaction, avec accès à des ressources Westlaw et Practical Law selon l'offre. Commercialisé auprès des professionnels et organisations. Contrôler les citations, leur actualité et leur applicabilité avant réutilisation.",
+    "en": "Thomson Reuters professional legal assistant combining research, analysis and drafting with Westlaw and Practical Law resources depending on the offering. Marketed to professionals and organizations. Check citations, currency and applicability before reuse.",
+    "ar": "مساعد قانوني مهني من Thomson Reuters يجمع البحث والتحليل والصياغة مع موارد Westlaw وPractical Law بحسب العرض. يسوق للمهنيين والمؤسسات. ينبغي مراجعة الاستشهادات وحداثتها وقابليتها للتطبيق قبل إعادة استخدامها.",
+    "officialSource": "https://legal.thomsonreuters.com/en/products/cocounsel-legal",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "ramp": {
+    "fr": "Plateforme de gestion des dépenses professionnelles, factures et rapprochements comptables, avec extraction de données par OCR et automatisation des approbations selon les offres. Accès web professionnel, formule gratuite et offres Plus et Enterprise. Vérifier l'éligibilité géographique et conserver des contrôles humains sur les paiements.",
+    "en": "Business spend, invoice and accounting reconciliation platform with OCR extraction and approval automation depending on plan. Professional web access with Free, Plus and Enterprise plans. Check geographic eligibility and retain human payment controls.",
+    "ar": "منصة لإدارة نفقات المؤسسات والفواتير والمطابقة المحاسبية، مع استخراج البيانات بالتعرف الضوئي على الحروف وأتمتة الموافقات بحسب الخطة. تتاح عبر الويب بخطط مجانية وPlus وEnterprise. ينبغي التحقق من الأهلية الجغرافية والإبقاء على الرقابة البشرية على المدفوعات.",
+    "officialSource": "https://ramp.com/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "alphasense": {
+    "fr": "Plateforme de veille économique et financière combinant recherche assistée par IA, publications d'entreprises, analyses sous licence et transcriptions d'entretiens. Abonnements professionnels par utilisateur ou entreprise selon les besoins. Vérifier les documents primaires et leurs dates avant toute décision d'investissement.",
+    "en": "Market and financial intelligence platform combining AI-assisted search, company disclosures, licensed research and interview transcripts. Professional per-seat or enterprise subscriptions depend on needs. Verify primary documents and dates before investment decisions.",
+    "ar": "منصة للرصد الاقتصادي والمالي تجمع البحث المدعوم بالذكاء الاصطناعي وإفصاحات الشركات والتحليلات المرخصة ونصوص المقابلات. تتوفر اشتراكات مهنية لكل مستخدم أو مؤسسة بحسب الاحتياجات. ينبغي مراجعة الوثائق الأصلية وتواريخها قبل اتخاذ قرارات الاستثمار.",
+    "officialSource": "https://www.alpha-sense.com/pricing/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "microsoft-security-copilot": {
+    "fr": "Assistant de cybersécurité pour analyser les incidents et données issues des outils Microsoft et partenaires. Accès cloud avec capacité incluse dans certaines licences Microsoft 365 E5 et E7 ou capacité facturée en unités SCU. Vérifier les permissions et valider les actions de réponse aux incidents.",
+    "en": "Cybersecurity assistant for analyzing incidents and data from Microsoft and partner tools. Cloud access with included capacity under eligible Microsoft 365 E5 and E7 licenses or capacity billed in SCUs. Review permissions and validate incident response actions.",
+    "ar": "مساعد للأمن السيبراني لتحليل الحوادث والبيانات من أدوات Microsoft وشركائها. يتاح سحابيًا بسعة مدمجة في بعض تراخيص Microsoft 365 E5 وE7 أو بسعة تحسب بوحدات SCU. ينبغي مراجعة الصلاحيات والتحقق من إجراءات الاستجابة للحوادث.",
+    "officialSource": "https://learn.microsoft.com/en-us/copilot/security/security-copilot-inclusion",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "darktrace": {
+    "fr": "Plateforme de cybersécurité analysant les comportements et corrélant les signaux de menace pour faciliter la détection et la réponse. Solutions professionnelles déployées selon les environnements et contrats commerciaux. Tester les faux positifs et encadrer les réponses automatisées pour éviter les interruptions injustifiées.",
+    "en": "Cybersecurity platform analyzing behavior and correlating threat signals to support detection and response. Professional solutions deployed according to environments and commercial contracts. Test false positives and govern automated responses to avoid unwarranted disruption.",
+    "ar": "منصة للأمن السيبراني تحلل السلوك وتربط إشارات التهديد لدعم الكشف والاستجابة. تنشر الحلول المهنية بحسب البيئات والعقود التجارية. ينبغي اختبار الإنذارات الكاذبة وضبط الاستجابات الآلية لتجنب التعطيل غير المبرر.",
+    "officialSource": "https://www.darktrace.com/products",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
