@@ -6053,5 +6053,61 @@
     "ar": "متصفح يدمج مساعدًا للذكاء الاصطناعي يستفيد من سياق علامات التبويب ويساعد على إنجاز مهام التصفح. يتاح خصوصًا على الحاسوب وأندرويد، وتختلف الوظائف والحدود بحسب عرض Perplexity. ينبغي مراجعة الصلاحيات والمعلومات المرسلة إلى المواقع.",
     "officialSource": "https://www.perplexity.ai/en-GB/hub/blog/comet-for-android-is-here",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "skyvern": {
+    "fr": "Plateforme d'automatisation des workflows web associant vision artificielle, modèles linguistiques et navigateur Playwright. Elle propose un SDK et un éditeur visuel de workflows, avec code ouvert et services cloud. Les frais dépendent de l'hébergement et des modèles utilisés. Limiter les permissions et superviser les opérations sensibles.",
+    "en": "Web workflow automation platform combining computer vision, language models and Playwright browsers. Offers an SDK and visual workflow builder, with open-source code and cloud services. Costs depend on hosting and model usage. Restrict permissions and supervise sensitive operations.",
+    "ar": "منصة لأتمتة مسارات العمل عبر الويب تجمع الرؤية الحاسوبية والنماذج اللغوية ومتصفح Playwright. توفر حزمة تطوير ومحررًا مرئيًا لمسارات العمل مع شيفرة مفتوحة المصدر وخدمات سحابية. تعتمد التكاليف على الاستضافة والنماذج المستخدمة. ينبغي تقييد الصلاحيات والإشراف على العمليات الحساسة.",
+    "officialSource": "https://github.com/Skyvern-AI/skyvern",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "agent-tars": {
+    "fr": "Agent multimodal issu de l'écosystème open source TARS de ByteDance, capable d'interagir avec des interfaces graphiques et des outils externes. Disponible sous forme d'application et d'interface en ligne de commande expérimentales. Les coûts des modèles et services distants sont distincts. Vérifier les actions et isoler les données sensibles.",
+    "en": "Multimodal agent from ByteDance's open-source TARS ecosystem, capable of interacting with graphical interfaces and external tools. Available as an experimental app and command-line interface. Model and remote-service costs are separate. Review actions and isolate sensitive data.",
+    "ar": "وكيل متعدد الوسائط من منظومة TARS مفتوحة المصدر التابعة لشركة ByteDance، يتفاعل مع الواجهات الرسومية والأدوات الخارجية. يتاح كتطبيق تجريبي وواجهة سطر أوامر. تحسب تكاليف النماذج والخدمات البعيدة بصورة منفصلة. ينبغي مراجعة الإجراءات وعزل البيانات الحساسة.",
+    "officialSource": "https://github.com/bytedance/UI-TARS-desktop",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "browseros": {
+    "fr": "Navigateur agentique open source fondé sur Chromium. BrowserOS neo permet de connecter des agents externes et de suivre leurs sessions dans des onglets dédiés. Le navigateur est gratuit ; les modèles et abonnements tiers peuvent engendrer des frais. Examiner les permissions des comptes connectés.",
+    "en": "Open-source Chromium-based agentic browser. BrowserOS neo connects external agents and tracks their sessions in dedicated tabs. The browser is free; third-party models and subscriptions may incur costs. Review connected account permissions.",
+    "ar": "متصفح وكيلي مفتوح المصدر مبني على Chromium. يتيح BrowserOS neo ربط الوكلاء الخارجيين ومتابعة جلساتهم في علامات تبويب مخصصة. المتصفح مجاني، وقد تترتب تكاليف على النماذج والاشتراكات الخارجية. ينبغي مراجعة صلاحيات الحسابات المتصلة.",
+    "officialSource": "https://github.com/browseros-ai/BrowserOS",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "nanobrowser": {
+    "fr": "Agent open source d'automatisation web fonctionnant dans le navigateur de l'utilisateur, notamment avec ses sessions déjà ouvertes. Accessible sous forme d'extension et de code source ; les modèles configurés peuvent générer des frais. Contrôler les accès aux pages privées et les actions avant soumission.",
+    "en": "Open-source web automation agent operating in the user's browser, including existing authenticated sessions. Available as an extension and source code; configured models may incur charges. Review access to private pages and actions before submission.",
+    "ar": "وكيل مفتوح المصدر لأتمتة الويب يعمل داخل متصفح المستخدم، بما في ذلك جلسات تسجيل الدخول القائمة. يتاح كإضافة وشيفرة مصدرية، وقد تترتب رسوم على النماذج المضبوطة. ينبغي مراجعة الوصول إلى الصفحات الخاصة والإجراءات قبل إرسالها.",
+    "officialSource": "https://github.com/nanobrowser/nanobrowser",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "agentql": {
+    "fr": "Service et langage de requête pour identifier des éléments web par leur signification et extraire des données structurées. API REST, SDK Python et JavaScript fondés sur Playwright, et extension de débogage. Essai gratuit et offres payantes selon les volumes. Respecter les droits d'accès et valider les données extraites.",
+    "en": "Service and query language for semantically identifying web elements and extracting structured data. REST API, Playwright-based Python and JavaScript SDKs, and debugger extension. Free trial and paid volume-based plans. Respect access rights and validate extracted data.",
+    "ar": "خدمة ولغة استعلام لتحديد عناصر الويب دلاليًا واستخراج البيانات المهيكلة. توفر واجهة REST وحزمتي Python وJavaScript المبنيتين على Playwright وإضافة لتصحيح الأخطاء. تتاح تجربة مجانية وعروض مدفوعة بحسب الحجم. ينبغي احترام حقوق الوصول والتحقق من البيانات المستخرجة.",
+    "officialSource": "https://docs.agentql.com/home",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "openmanus": {
+    "fr": "Cadre open source de développement d'agents généralistes pour planifier des tâches et exploiter des outils configurés. Accessible via dépôt et installation Python, avec configuration de fournisseurs de modèles. Les appels aux modèles et l'infrastructure peuvent être facturés. Tester les workflows et limiter les permissions.",
+    "en": "Open-source framework for building general-purpose agents that plan tasks and use configured tools. Available through its repository and Python installation, with configurable model providers. Model calls and infrastructure may incur charges. Test workflows and restrict permissions.",
+    "ar": "إطار مفتوح المصدر لتطوير وكلاء متعددي الأغراض يخططون للمهام ويستخدمون الأدوات المضبوطة. يتاح عبر المستودع والتثبيت باستخدام Python مع إمكانية ضبط مزودي النماذج. قد تترتب تكاليف على استدعاءات النماذج والبنية التحتية. ينبغي اختبار مسارات العمل وتقييد الصلاحيات.",
+    "officialSource": "https://openmanus.github.io/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "hermes-agent": {
+    "fr": "Agent personnel de Nous Research doté de capacités d'utilisation d'outils et de compétences réutilisables. Accessible via code source, interface de commande et application de bureau. Les fournisseurs de modèles et services externes peuvent être facturés séparément ; une offre Nous Portal regroupe certains accès. Examiner les compétences installées et les permissions.",
+    "en": "Personal agent from Nous Research with tool-use capabilities and reusable skills. Available through source code, command-line interface and desktop app. Model providers and external services may be billed separately; Nous Portal bundles selected access. Review installed skills and permissions.",
+    "ar": "وكيل شخصي من Nous Research يتمتع بإمكانات استخدام الأدوات ومهارات قابلة لإعادة الاستخدام. يتاح عبر الشيفرة المصدرية وواجهة سطر الأوامر وتطبيق سطح المكتب. قد تحسب تكلفة مزودي النماذج والخدمات الخارجية بصورة منفصلة، ويجمع Nous Portal بعض خدمات الوصول. ينبغي مراجعة المهارات المثبتة والصلاحيات.",
+    "officialSource": "https://hermes-agent.nousresearch.com/docs",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "beeai": {
+    "fr": "Cadre open source hébergé par la Linux Foundation pour construire des systèmes multi-agents avec outils, recherche documentaire et contraintes d'exécution. Accessible via la documentation et le code du projet ; les modèles et ressources de déploiement peuvent entraîner des frais. Définir des règles de contrôle et évaluer les résultats.",
+    "en": "Linux Foundation-hosted open-source framework for building multi-agent systems with tools, retrieval and execution constraints. Available through project documentation and code; models and deployment resources may incur costs. Define control rules and evaluate results.",
+    "ar": "إطار مفتوح المصدر تستضيفه Linux Foundation لبناء أنظمة متعددة الوكلاء تشمل الأدوات واسترجاع الوثائق وقيود التنفيذ. يتاح عبر وثائق المشروع وشيفرته؛ وقد تترتب تكاليف على النماذج وموارد النشر. ينبغي تحديد قواعد الرقابة وتقييم النتائج.",
+    "officialSource": "https://i-am-bee.github.io/beeai-framework/introduction/welcome",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
