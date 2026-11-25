@@ -7194,5 +7194,40 @@
     "ar": "Open-AutoGLM من Z.ai إطار لتطوير وكلاء يتفاعلون مع واجهات الهاتف انطلاقًا من التعليمات. يقدم المستودع أمثلة للإعداد ونماذج متخصصة منها AutoGLM-Phone-9B. الشيفرة متاحة علنًا وتختلف تكاليف الحوسبة والواجهة البرمجية بحسب البنية التحتية. ينبغي الإشراف على الإجراءات ومراجعة التراخيص والصلاحيات.",
     "officialSource": "https://github.com/zai-org/Open-AutoGLM",
     "sourceReviewedAt": "2026-11-26"
+  },
+  "munch": {
+    "fr": "Anciennement GetMunch, Munch Studio est une plateforme de gestion des réseaux sociaux qui combine stratégie éditoriale, création, programmation et réutilisation de vidéos longues en clips courts. Accès web par abonnement selon les quotas ; vérifier les droits des médias et relire les publications.",
+    "en": "Formerly GetMunch, Munch Studio combines social media strategy, content creation, scheduling and repurposing long videos into short clips. Web subscription with plan-dependent quotas; check media rights and review posts.",
+    "ar": "منصة Munch Studio المعروفة سابقًا باسم GetMunch تجمع استراتيجية المحتوى وإنشاءه وجدولته وتحويل الفيديوهات الطويلة إلى مقاطع قصيرة. تتاح عبر الويب باشتراك وحصص حسب الخطة؛ ينبغي مراجعة حقوق الوسائط والمنشورات.",
+    "officialSource": "https://www.munchstudio.com/about",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "promptperfect": {
+    "fr": "Ancien optimiseur de prompts de Jina AI destiné à adapter les instructions aux modèles génératifs. Le site annonce la fin de disponibilité après le 1er septembre 2026, à la suite du rachat de Jina AI par Elastic. Référence historique, sans offre commerciale active recommandée.",
+    "en": "Former Jina AI prompt optimizer designed to adapt instructions to generative models. The website announces discontinuation after September 1, 2026 following Elastic's acquisition of Jina AI. Historical reference; no active commercial plan recommended.",
+    "ar": "أداة سابقة من Jina AI لتحسين التعليمات وتكييفها مع النماذج التوليدية. يعلن الموقع انتهاء الإتاحة بعد 1 سبتمبر 2026 عقب استحواذ Elastic على Jina AI. مرجع تاريخي دون توصية باشتراك تجاري نشط.",
+    "officialSource": "https://promptperfect.jina.ai/",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "playht": {
+    "fr": "Ancien service PlayHT (PlayAI) de synthèse vocale et de clonage de voix. Des sources secondaires documentent son arrêt après l'acquisition par Meta en 2025 ; les démonstrations du compte officiel Hugging Face sont indiquées en pause. Ne pas présumer d'un accès ou d'un tarif actif ; date exacte d'arrêt non confirmée directement auprès de l'éditeur.",
+    "en": "Former PlayHT (PlayAI) text-to-speech and voice-cloning service. Secondary sources document closure after Meta's 2025 acquisition; demos on its official Hugging Face account are marked paused. Do not assume active access or pricing; exact closure date not directly confirmed with vendor.",
+    "ar": "خدمة سابقة لتحويل النص إلى كلام واستنساخ الأصوات باسم PlayHT أو PlayAI. توثق مصادر ثانوية توقفها بعد استحواذ Meta عام 2025، وتظهر عروض حسابها الرسمي على Hugging Face متوقفة مؤقتًا. لا ينبغي افتراض إتاحة أو أسعار نشطة؛ لم يؤكد تاريخ التوقف مباشرة لدى المزود.",
+    "officialSource": "https://huggingface.co/PlayHT/spaces",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "tome": {
+    "fr": "Ancienne application Tome Slides de création de présentations assistée par IA. La fermeture au 30 avril 2025 est documentée par une annonce officielle archivée. Référence historique : ne pas présenter les anciens abonnements comme disponibles.",
+    "en": "Former Tome Slides AI-assisted presentation application. An archived vendor announcement documents its April 30, 2025 sunset. Historical reference: do not present previous subscriptions as available.",
+    "ar": "تطبيق سابق لإنشاء العروض بمساعدة الذكاء الاصطناعي باسم Tome Slides. يوثق إعلان رسمي مؤرشف إيقاف الخدمة في 30 أبريل 2025. مرجع تاريخي؛ لا ينبغي عرض الاشتراكات السابقة باعتبارها متاحة.",
+    "officialSource": "https://web.archive.org/web/20250410120512/https://tome.app/help/en/articles/10744234-tome-slides-is-sunsetting-on-april-30th-2025",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "podium": {
+    "fr": "Service destiné aux créateurs de podcasts pour générer des notes d'épisode et des résumés à partir du contenu audio. Le site documente ces usages ; accès opérationnel et tarifs actuels non confirmés. Relire les résumés et vérifier les droits des enregistrements.",
+    "en": "Service for podcast creators generating show notes and summaries from audio content. Vendor pages document these uses; current operational access and prices are unconfirmed. Review summaries and recording rights.",
+    "ar": "خدمة لصناع البودكاست لإنشاء ملاحظات الحلقات وملخصاتها من المحتوى الصوتي. يوثق موقع المزود هذه الاستخدامات؛ لم يؤكد الوصول التشغيلي أو الأسعار الحالية. ينبغي مراجعة الملخصات وحقوق التسجيلات.",
+    "officialSource": "https://hello.podium.page/feature/ai-generated-show-notes",
+    "sourceReviewedAt": "2026-11-26"
   }
 }
