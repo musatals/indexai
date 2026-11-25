@@ -5164,5 +5164,75 @@
     "ar": "واجهة برمجية للنسخ الصوتي المباشر والمؤجل مع اختيار النماذج وخيارات اكتشاف اللغة. تختلف إمكانات تبديل اللغة والترجمة بحسب النموذج. ينبغي مراجعة التغطية اللغوية وزمن الاستجابة ومعالجة البيانات.",
     "officialSource": "https://eu1.docs.gladia.io/languages/supported-languages/",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "julius-ai": {
+    "fr": "Assistant d'analyse de données permettant d'interroger des feuilles de calcul, de produire des graphiques et de réaliser des analyses statistiques avec du code. Vérifier les traitements, hypothèses et résultats avant de les utiliser dans un rapport scientifique.",
+    "en": "Data analysis assistant for querying spreadsheets, creating charts and performing statistical analyses with code. Verify transformations, assumptions and results before using them in scientific reports.",
+    "ar": "مساعد لتحليل البيانات يتيح الاستفسار عن جداول البيانات وإنشاء الرسوم البيانية وإجراء التحليلات الإحصائية بالشيفرة. ينبغي التحقق من المعالجات والافتراضات والنتائج قبل استخدامها في التقارير العلمية.",
+    "officialSource": "https://julius.ai/home/statistical-software",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "hex": {
+    "fr": "Environnement collaboratif d'analyse associant notebooks SQL et Python, visualisations et assistance IA. Les analyses peuvent être transformées en applications de données. Vérifier les requêtes générées, la reproductibilité et les droits d'accès.",
+    "en": "Collaborative analytics environment combining SQL and Python notebooks, visualizations and AI assistance. Analyses can become data applications. Check generated queries, reproducibility and access rights.",
+    "ar": "بيئة تعاونية للتحليل تجمع دفاتر SQL وPython والتصورات والمساعدة بالذكاء الاصطناعي. يمكن تحويل التحليلات إلى تطبيقات بيانات. ينبغي مراجعة الاستعلامات المولدة وقابلية إعادة الإنتاج وصلاحيات الوصول.",
+    "officialSource": "https://hex.tech/product/notebooks/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "thoughtspot": {
+    "fr": "Plateforme décisionnelle permettant d'explorer des données métier par recherche et dialogue avec Spotter. Les analystes configurables peuvent s'appuyer sur des modèles de données spécialisés. Vérifier les définitions des indicateurs et les restrictions d'accès.",
+    "en": "Business intelligence platform for exploring business data through search and dialogue with Spotter. Configurable analysts can use specialized data models. Verify metric definitions and access restrictions.",
+    "ar": "منصة ذكاء أعمال لاستكشاف البيانات المهنية عبر البحث والحوار مع Spotter. يمكن للمحللين القابلين للتخصيص الاستناد إلى نماذج بيانات متخصصة. ينبغي مراجعة تعريفات المؤشرات وقيود الوصول.",
+    "officialSource": "https://docs.thoughtspot.com/cloud/26.10.0.cl/spotter-analysts",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "mlflow": {
+    "fr": "Plateforme open source de suivi des expériences et du cycle de vie des modèles, étendue à la traçabilité et à l'évaluation des applications génératives et agents. Comparer les versions sur des jeux de tests représentatifs et protéger les données enregistrées dans les traces.",
+    "en": "Open-source experiment tracking and model lifecycle platform extended to tracing and evaluating generative applications and agents. Compare versions on representative test sets and protect data captured in traces.",
+    "ar": "منصة مفتوحة المصدر لتتبع التجارب ودورة حياة النماذج تمتد إلى تتبع وتقييم التطبيقات التوليدية والوكلاء. ينبغي مقارنة الإصدارات على مجموعات اختبار ممثلة وحماية البيانات المسجلة في سجلات التتبع.",
+    "officialSource": "https://mlflow.org/docs/latest/genai/tracing/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "langfuse": {
+    "fr": "Plateforme d'observabilité des applications LLM permettant d'inspecter les appels de modèles, les étapes d'agents et les scores d'évaluation. Les jeux de données et expériences facilitent les tests répétés. Éviter de journaliser des secrets ou des données personnelles inutiles.",
+    "en": "LLM application observability platform for inspecting model calls, agent steps and evaluation scores. Datasets and experiments facilitate repeated tests. Avoid logging secrets or unnecessary personal data.",
+    "ar": "منصة لمراقبة تطبيقات النماذج اللغوية الكبيرة تتيح فحص استدعاءات النماذج وخطوات الوكلاء ودرجات التقييم. تسهل مجموعات البيانات والتجارب الاختبارات المتكررة. ينبغي تجنب تسجيل الأسرار أو البيانات الشخصية غير الضرورية.",
+    "officialSource": "https://langfuse.com/resources/engineering/ai-safety",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "humanloop": {
+    "fr": "Ancienne plateforme de gestion de prompts, d'expérimentation et d'évaluation des applications LLM. L'éditeur a annoncé sa fermeture au 8 septembre 2025 après son acquisition. Référence historique conservée ; ne pas considérer le service comme une solution active.",
+    "en": "Former prompt management, experimentation and evaluation platform for LLM applications. The provider announced its shutdown on September 8, 2025 following acquisition. Retained as a historical reference, not an active service.",
+    "ar": "منصة سابقة لإدارة التعليمات والتجارب وتقييم تطبيقات النماذج اللغوية الكبيرة. أعلن المزود إغلاقها في 8 سبتمبر 2025 بعد الاستحواذ. تحفظ كمرجع تاريخي ولا ينبغي اعتبارها خدمة نشطة.",
+    "officialSource": "https://humanloop.com/docs/changelog/2025/08",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "neptune-ai": {
+    "fr": "Ancien service de suivi des expériences d'apprentissage automatique, métriques et artefacts de modèles. Le service SaaS a été arrêté le 6 mars 2026 et les données hébergées supprimées selon la FAQ officielle. Référence historique, non disponible comme service cloud actif.",
+    "en": "Former service for tracking machine learning experiments, metrics and model artifacts. The SaaS service shut down on March 6, 2026 and hosted data was deleted according to the official FAQ. Historical reference, not an active cloud service.",
+    "ar": "خدمة سابقة لتتبع تجارب التعلم الآلي والمقاييس ومخرجات النماذج. أوقفت الخدمة السحابية في 6 مارس 2026 وحذفت البيانات المستضافة وفق الأسئلة الشائعة الرسمية. مرجع تاريخي وليس خدمة سحابية نشطة.",
+    "officialSource": "https://support.neptune.ai/en/articles/13925412-faq",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "unsloth": {
+    "fr": "Bibliothèque et environnement d'optimisation de l'affinage des modèles linguistiques, notamment par adaptation efficace en paramètres. Permet d'expérimenter avec des ressources matérielles limitées selon le modèle. Vérifier les licences, la qualité des données et les performances sur un jeu de validation distinct.",
+    "en": "Library and environment for optimizing language model fine-tuning, including parameter-efficient adaptation. Supports experiments with limited hardware depending on the model. Check licenses, data quality and performance on a separate validation set.",
+    "ar": "مكتبة وبيئة لتحسين الضبط الدقيق للنماذج اللغوية بما في ذلك التكيف الفعال للمعلمات. تتيح التجارب بموارد مادية محدودة بحسب النموذج. ينبغي مراجعة التراخيص وجودة البيانات والأداء على مجموعة تحقق مستقلة.",
+    "officialSource": "https://unsloth.ai/docs/get-started/fine-tuning-llms-guide",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "pytorch": {
+    "fr": "Bibliothèque open source d'apprentissage profond proposant des tenseurs, la différentiation automatique avec autograd et des outils d'entraînement de réseaux neuronaux. Utile pour la recherche et le développement de modèles ; documenter les versions, graines aléatoires et configurations matérielles.",
+    "en": "Open-source deep learning library offering tensors, automatic differentiation with autograd and neural network training tools. Useful for model research and development; document versions, random seeds and hardware configurations.",
+    "ar": "مكتبة مفتوحة المصدر للتعلم العميق توفر الموترات والتفاضل التلقائي عبر autograd وأدوات تدريب الشبكات العصبية. تفيد في البحث وتطوير النماذج؛ ينبغي توثيق الإصدارات والبذور العشوائية وإعدادات الأجهزة.",
+    "officialSource": "https://docs.pytorch.org/docs/stable/autograd.html",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "tensorflow": {
+    "fr": "Cadre open source d'apprentissage automatique pour construire et entraîner des modèles, notamment avec l'API Keras. Il permet de préparer des pipelines de données et d'évaluer les réseaux neuronaux. Vérifier la compatibilité des versions et la généralisation sur des données indépendantes.",
+    "en": "Open-source machine learning framework for building and training models, including through the Keras API. Supports data pipelines and neural network evaluation. Check version compatibility and generalization on independent data.",
+    "ar": "إطار مفتوح المصدر للتعلم الآلي لبناء النماذج وتدريبها خصوصًا عبر واجهة Keras. يدعم مسارات البيانات وتقييم الشبكات العصبية. ينبغي مراجعة توافق الإصدارات وقدرة التعميم على بيانات مستقلة.",
+    "officialSource": "https://www.tensorflow.org/guide/keras/",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
