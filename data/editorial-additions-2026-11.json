@@ -5416,5 +5416,75 @@
     "ar": "محرر صوت وفيديو يتيح تعديل التسجيلات عبر تحرير النصوص المفرغة وإزالة كلمات التردد وتحسين الصوت باستخدام Studio Sound وإنشاء المقاطع القصيرة. يوفر خطة مجانية محدودة واشتراكات بحصص استخدام. ينبغي مراجعة أسماء الأعلام ومواضع القطع وأذونات استخدام الأصوات.",
     "officialSource": "https://www.descript.com/pricing",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "magnific-ai": {
+    "fr": "Outil web de super-résolution créative désormais intégré à Magnific, la plateforme anciennement Freepik. Il permet d’ajouter des détails générés et d’affiner la netteté. L’ancien service reste accessible aux abonnés existants jusqu’à échéance de leur offre. Ne pas confondre les détails synthétiques avec les détails originaux.",
+    "en": "Creative web upscaler now integrated into Magnific, formerly Freepik. It adds generated detail and enhances sharpness. The legacy service remains available to existing subscribers until their plan expires. Do not mistake synthetic details for original evidence.",
+    "ar": "أداة ويب لرفع الدقة بصورة إبداعية أصبحت جزءًا من منصة Magnific المعروفة سابقًا باسم Freepik. تضيف تفاصيل مولدة وتحسن الحدة. تبقى الخدمة القديمة متاحة للمشتركين الحاليين حتى انتهاء اشتراكهم. لا ينبغي اعتبار التفاصيل الاصطناعية جزءًا من الأصل.",
+    "officialSource": "https://www.magnific.com/magnific-ai",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "let-s-enhance": {
+    "fr": "Service web de super-résolution et d’amélioration d’images destiné notamment à l’impression et aux visuels de produits. Combine réduction du bruit, netteté et agrandissement. Les abonnements et achats ponctuels de crédits répondent à des volumes différents. Vérifier la lisibilité des textes après traitement.",
+    "en": "Web image enhancement and upscaling service for print and product visuals, combining denoising, sharpening and enlargement. Subscriptions and one-off credit purchases suit different volumes. Check text legibility after processing.",
+    "ar": "خدمة ويب لتحسين الصور ورفع دقتها، خصوصًا للطباعة وصور المنتجات، تجمع إزالة الضجيج وزيادة الحدة والتكبير. تتيح الاشتراكات وشراء الأرصدة لمرة واحدة وفق حجم العمل. ينبغي التحقق من وضوح النصوص بعد المعالجة.",
+    "officialSource": "https://help.letsenhance.io/en/article/subscription-vs-pay-as-you-go-whats-the-difference-1cs51ls/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "clipdrop": {
+    "fr": "Suite web de retouche et de génération d’images proposant détourage, suppression d’éléments et agrandissement. Certaines fonctions sont gratuites avec limites ; une offre payante et des modalités API distinctes existent. Contrôler les contours et les zones reconstruites.",
+    "en": "Web image editing and generation suite offering background removal, object removal and upscaling. Some features are free with limits; paid access and separate API terms exist. Inspect edges and reconstructed areas.",
+    "ar": "مجموعة أدوات ويب لتحرير الصور وتوليدها، تشمل إزالة الخلفيات والعناصر والتكبير. تتاح بعض الوظائف مجانًا بحدود معينة مع عروض مدفوعة وشروط مستقلة للواجهة البرمجية. ينبغي فحص الحواف والمناطق المعاد بناؤها.",
+    "officialSource": "https://clipdrop.co/en-US/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "cleanup-pictures": {
+    "fr": "Outil web de retouche par remplissage des zones sélectionnées pour retirer des objets, textes ou défauts. Une utilisation gratuite limitée et des options payantes ou API permettent différents usages. Les pixels reconstruits ne constituent pas une restitution documentaire certaine.",
+    "en": "Web inpainting tool for removing selected objects, text or defects. Limited free use and paid or API options support different workflows. Reconstructed pixels do not constitute reliable documentary restoration.",
+    "ar": "أداة ويب للترميم الموضعي تملأ المناطق المحددة لإزالة العناصر أو النصوص أو العيوب. تتوفر استخدامات مجانية محدودة وخيارات مدفوعة أو برمجية. لا تمثل وحدات البكسل المعاد توليدها ترميمًا وثائقيًا مؤكدًا.",
+    "officialSource": "https://cleanup.pictures/support",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "remini": {
+    "fr": "Service de restauration photographique et d’amélioration des portraits, notamment pour réduire le flou et reconstruire des détails de visages. Accessible sur le Web et via application ; vérifier les offres disponibles avant achat. Les visages reconstruits peuvent s’écarter des originaux.",
+    "en": "Photo restoration and portrait enhancement service addressing blur and reconstructing facial details. Available on the web and through an app; check available plans before purchase. Reconstructed faces may differ from originals.",
+    "ar": "خدمة لترميم الصور وتحسين الصور الشخصية، خصوصًا لتخفيف الضبابية وإعادة بناء تفاصيل الوجوه. تتاح عبر الويب والتطبيق؛ ينبغي مراجعة العروض قبل الشراء. قد تختلف الوجوه المعاد بناؤها عن الأصل.",
+    "officialSource": "https://remini.ai/photo-restorer",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "pixelcut": {
+    "fr": "Éditeur web et mobile orienté notamment vers les visuels commerciaux, avec détourage, effacement d’objets, agrandissement et génération d’images. Offre gratuite et abonnement Pro avec crédits, traitement par lots et export HD selon le plan. Contrôler la fidélité des produits représentés.",
+    "en": "Web and mobile editor for commercial visuals, with background removal, object erasure, upscaling and image generation. Free access and Pro subscription with credits, batch editing and HD export depending on plan. Check product fidelity.",
+    "ar": "محرر عبر الويب والهاتف موجه خصوصًا إلى الصور التجارية، مع إزالة الخلفيات والعناصر والتكبير وتوليد الصور. يتاح مجانًا وباشتراك Pro يتضمن أرصدة ومعالجة دفعية وتصديرًا عالي الدقة بحسب الخطة. ينبغي التحقق من دقة تمثيل المنتجات.",
+    "officialSource": "https://www.pixelcut.ai/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "picsart": {
+    "fr": "Plateforme créative intégrant retouche photo, montage vidéo et génération visuelle avec plusieurs modèles. Accessible en ligne et sur mobile, avec fonctions gratuites et abonnements à crédits. Le traitement par lots facilite les séries de visuels ; vérifier les licences des ressources.",
+    "en": "Creative platform combining photo editing, video editing and visual generation with multiple models. Available online and on mobile, with free features and credit-based subscriptions. Batch editing supports visual series; check asset licenses.",
+    "ar": "منصة إبداعية تجمع تحرير الصور والفيديو والتوليد البصري باستخدام عدة نماذج. تتاح عبر الإنترنت والهاتف، مع وظائف مجانية واشتراكات تعتمد على الأرصدة. تسهل المعالجة الدفعية إنتاج سلاسل من الصور؛ ينبغي مراجعة تراخيص الموارد.",
+    "officialSource": "https://picsart.com/pricing/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "fotor": {
+    "fr": "Éditeur graphique en ligne associant retouche photographique, collages, compositions et outils génératifs. L’offre gratuite et les abonnements ou crédits payants différencient les fonctions et les exports. Vérifier les paramètres de résolution et les droits des éléments utilisés.",
+    "en": "Online graphic editor combining photo editing, collages, designs and generative tools. Free access, subscriptions and paid credits differentiate features and exports. Check resolution settings and asset rights.",
+    "ar": "محرر رسومي عبر الإنترنت يجمع تعديل الصور والكولاج والتصاميم والأدوات التوليدية. تختلف الوظائف والتصدير بين الوصول المجاني والاشتراكات والأرصدة المدفوعة. ينبغي مراجعة إعدادات الدقة وحقوق العناصر المستخدمة.",
+    "officialSource": "https://www.fotor.com/pricing/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "luminar-neo": {
+    "fr": "Logiciel de retouche photographique pour Mac et Windows, proposant des outils IA de correction de lumière et d’amélioration des images. Les licences et offres complémentaires déterminent les fonctions disponibles. Conserver les originaux et comparer les corrections avant export.",
+    "en": "Photo editing software for Mac and Windows with AI tools for lighting corrections and image enhancement. Licenses and additional plans determine feature availability. Preserve originals and compare edits before export.",
+    "ar": "برنامج لتحرير الصور على ماك وويندوز يتضمن أدوات ذكاء اصطناعي لتصحيح الإضاءة وتحسين الصور. تحدد التراخيص والعروض الإضافية الوظائف المتاحة. ينبغي حفظ الملفات الأصلية ومقارنة التعديلات قبل التصدير.",
+    "officialSource": "https://skylum.com/luminar/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "vanceai": {
+    "fr": "Suite de traitement d’images proposant agrandissement, réduction du bruit, netteté et restauration. Accessible via navigateur et selon les produits via logiciel de bureau. La facturation par crédits dépend des opérations ; comparer le résultat à la source pour détecter les artefacts.",
+    "en": "Image processing suite offering upscaling, denoising, sharpening and restoration. Accessible through a browser and, for selected products, desktop software. Credit charges depend on operations; compare outputs to the source for artifacts.",
+    "ar": "مجموعة أدوات لمعالجة الصور تشمل التكبير وإزالة الضجيج وزيادة الحدة والترميم. تتاح عبر المتصفح وبعض المنتجات عبر برامج سطح المكتب. تعتمد تكلفة الأرصدة على العمليات؛ ينبغي مقارنة النتائج بالمصدر لاكتشاف التشوهات.",
+    "officialSource": "https://vanceai.com/pricing/",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
