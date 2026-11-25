@@ -6354,5 +6354,82 @@
     "ar": "منصة NiCE Cognigy لتصميم وتشغيل الوكلاء الحواريين للمؤسسات ومراكز الاتصال. تسهل أدوات المراقبة متابعة أداء الوكلاء. يتاح الوصول المهني بحسب العقد؛ ينبغي مراجعة التكاملات والضوابط البشرية.",
     "officialSource": "https://www.cognigy.com/news/nice-cognigy-launches-ai-ops-center",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "ada": {
+    "fr": "Plateforme cloud de service client associant agents IA et conseillers humains pour résoudre les demandes. Déploiement professionnel selon contrat ; contrôler les réponses et les transferts vers les conseillers.",
+    "en": "Cloud customer service platform combining AI agents and human advisors to resolve requests. Enterprise deployment under contract; review answers and human handoffs.",
+    "ar": "منصة سحابية لخدمة العملاء تجمع وكلاء الذكاء الاصطناعي والمستشارين البشريين لحل الطلبات. يتاح النشر المهني وفق عقد؛ ينبغي مراجعة الإجابات والتحويل إلى المستشارين.",
+    "officialSource": "https://www.ada.cx/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "kore-ai": {
+    "fr": "Plateforme d'entreprise pour concevoir des agents et workflows sur les canaux vocaux et numériques, avec routage et assistance aux conseillers. Accès professionnel selon les modules et contrats ; tester les permissions et les transferts.",
+    "en": "Enterprise platform for designing agents and workflows across voice and digital channels, including routing and advisor assistance. Professional access depends on modules and contracts; test permissions and handoffs.",
+    "ar": "منصة مؤسسية لتصميم الوكلاء ومسارات العمل عبر القنوات الصوتية والرقمية مع توجيه الطلبات ومساعدة المستشارين. يعتمد الوصول المهني على الوحدات والعقود؛ ينبغي اختبار الصلاحيات والتحويلات.",
+    "officialSource": "https://www.kore.ai/ai-for-service",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "cognigy": {
+    "fr": "Plateforme NiCE Cognigy pour orchestrer des agents IA de centres de contact, connecter les systèmes métiers et suivre les performances via AI Ops Center. Offre professionnelle sur contrat ; tester les réponses et la reprise humaine.",
+    "en": "NiCE Cognigy platform for orchestrating contact-center AI agents, connecting business systems and monitoring performance through AI Ops Center. Contract-based enterprise offering; test responses and human takeover.",
+    "ar": "منصة NiCE Cognigy لتنسيق وكلاء الذكاء الاصطناعي في مراكز الاتصال وربط أنظمة الأعمال ومراقبة الأداء عبر AI Ops Center. تتاح بعقود مؤسسية؛ ينبغي اختبار الإجابات وإمكان التدخل البشري.",
+    "officialSource": "https://www.cognigy.com/product/cognigy-ai",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "freshworks-freddy-ai": {
+    "fr": "Fonctions IA intégrées à Freshdesk et aux services Freshworks pour répondre aux demandes et assister les équipes. Accès cloud, abonnements et packs de sessions supplémentaires pour Freddy AI Agent selon l'offre. Vérifier la consommation et les réponses.",
+    "en": "AI features integrated into Freshdesk and Freshworks services to answer requests and assist teams. Cloud access, subscriptions and additional Freddy AI Agent session packs depending on plan. Review usage and responses.",
+    "ar": "وظائف ذكاء اصطناعي مدمجة في Freshdesk وخدمات Freshworks للرد على الطلبات ومساعدة الفرق. تتاح سحابيًا باشتراكات وحزم جلسات إضافية لـ Freddy AI Agent بحسب الخطة. ينبغي مراجعة الاستهلاك والإجابات.",
+    "officialSource": "https://www.freshworks.com/freshdesk/pricing/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "gorgias": {
+    "fr": "Plateforme de service client pour le commerce électronique, avec agent IA pouvant automatiser des interactions et transférer les demandes complexes. Abonnement et frais supplémentaires liés aux interactions automatisées selon les règles de facturation. Contrôler les actions sur les commandes.",
+    "en": "E-commerce customer service platform with an AI agent that automates interactions and transfers complex requests. Subscription and additional automated-interaction fees under billing rules. Review actions affecting orders.",
+    "ar": "منصة لخدمة عملاء التجارة الإلكترونية توفر وكيلًا ذكيًا لأتمتة التفاعلات وتحويل الطلبات المعقدة. تعتمد التكلفة على الاشتراك ورسوم إضافية للتفاعلات المؤتمتة وفق قواعد الفوترة. ينبغي مراجعة الإجراءات المتعلقة بالطلبات.",
+    "officialSource": "https://helpcenter.gorgias.com/en-US/what-counts-as-a-billable-ticket-or-automated-interaction-199385",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "kustomer": {
+    "fr": "CRM de service client avec agents IA pouvant dialoguer et exécuter des actions autorisées dans Kustomer. Accès cloud par abonnement, options IA et consommation variable pour certains canaux. Limiter les outils autorisés et valider les modifications des dossiers.",
+    "en": "Customer service CRM with AI agents that converse and perform authorized actions within Kustomer. Cloud subscriptions, AI options and variable usage charges for selected channels. Restrict authorized tools and validate record changes.",
+    "ar": "نظام لإدارة علاقات العملاء يوفر وكلاء ذكاء اصطناعي للمحادثة وتنفيذ الإجراءات المصرح بها داخل Kustomer. يتاح سحابيًا باشتراكات وخيارات ذكاء اصطناعي ورسوم استخدام لبعض القنوات. ينبغي تقييد الأدوات المسموح بها والتحقق من تعديلات السجلات.",
+    "officialSource": "https://www.kustomer.com/pricing/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "liveperson": {
+    "fr": "Plateforme Conversational Cloud pour connecter les entreprises aux clients via messagerie web et canaux compatibles, avec automatisation et transfert aux conseillers. Accès professionnel et intégrations développeur selon contrat. Vérifier les droits d'accès aux conversations.",
+    "en": "Conversational Cloud platform connecting businesses and customers through web messaging and supported channels, with automation and human handoff. Professional access and developer integrations under contract. Review conversation access rights.",
+    "ar": "منصة Conversational Cloud لربط المؤسسات بالعملاء عبر مراسلة الويب والقنوات المتوافقة، مع الأتمتة والتحويل إلى المستشارين. يتاح الوصول المهني وتكاملات المطورين بحسب العقد. ينبغي مراجعة صلاحيات الوصول إلى المحادثات.",
+    "officialSource": "https://developers.liveperson.com/getting-started.html",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "yellow-ai": {
+    "fr": "Plateforme d'automatisation du service client avec éditeur d'agents, bases de connaissances et tests automatisés. Accessible aux organisations via le Web et les intégrations, selon offres commerciales. Évaluer les réponses documentaires et prévoir une escalade humaine.",
+    "en": "Customer service automation platform with an agent builder, knowledge bases and automated testing. Available to organizations through web and integrations under commercial terms. Evaluate grounded answers and provide human escalation.",
+    "ar": "منصة لأتمتة خدمة العملاء توفر محررًا للوكلاء وقواعد معرفة واختبارات آلية. تتاح للمؤسسات عبر الويب والتكاملات وفق العروض التجارية. ينبغي تقييم الإجابات المستندة إلى الوثائق وتوفير التحويل إلى الدعم البشري.",
+    "officialSource": "https://docs.yellow.ai/docs/platform_concepts/getting-started",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "ibm-watsonx-orchestrate": {
+    "fr": "Plateforme IBM pour créer et orchestrer des agents et automatiser les processus métiers, notamment financiers et administratifs. Accès cloud avec essai et offres dont les coûts dépendent des équipes et ressources. Prévoir des validations pour les opérations sensibles.",
+    "en": "IBM platform for building and orchestrating agents and automating business processes, including finance and administration. Cloud access with trial and plans priced according to teams and resources. Require approvals for sensitive operations.",
+    "ar": "منصة IBM لإنشاء الوكلاء وتنسيقهم وأتمتة عمليات الأعمال، ومنها العمليات المالية والإدارية. تتاح سحابيًا مع تجربة وعروض تختلف تكلفتها حسب الفرق والموارد. ينبغي اشتراط الموافقات للعمليات الحساسة.",
+    "officialSource": "https://www.ibm.com/products/watsonx-orchestrate/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "pipecat": {
+    "fr": "Framework Python open source pour concevoir des agents conversationnels vocaux et multimodaux en temps réel en combinant modèles, transports audio et services de parole. Le code est accessible librement ; les fournisseurs et l'hébergement peuvent être payants. Tester latence et interruptions.",
+    "en": "Open-source Python framework for real-time voice and multimodal conversational agents combining models, audio transports and speech services. Code is freely available; providers and hosting may incur charges. Test latency and interruptions.",
+    "ar": "إطار Python مفتوح المصدر لإنشاء وكلاء حواريين صوتيين ومتعددي الوسائط في الزمن الحقيقي يجمع النماذج وقنوات نقل الصوت وخدمات الكلام. الشيفرة متاحة بحرية، وقد تترتب تكاليف للمزودين والاستضافة. ينبغي اختبار زمن الاستجابة والمقاطعات.",
+    "officialSource": "https://github.com/pipecat-ai/pipecat",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "synthflow": {
+    "fr": "Plateforme professionnelle de déploiement d'agents vocaux pour automatiser les appels clients, avec téléphonie et intégrations métiers. Les nouveaux déploiements sont tarifés sur contrat selon volumes, intégrations et exigences de sécurité. Prévoir consentement et transfert humain.",
+    "en": "Enterprise platform for deploying voice agents to automate customer calls, with telephony and business integrations. New deployments are contract-priced according to volume, integrations and security requirements. Provide consent and human handoff.",
+    "ar": "منصة مهنية لنشر الوكلاء الصوتيين لأتمتة مكالمات العملاء مع تكاملات الاتصالات وأنظمة الأعمال. يسعر النشر الجديد وفق عقد يعتمد على الحجم والتكاملات ومتطلبات الأمن. ينبغي توفير الموافقة والتحويل إلى الدعم البشري.",
+    "officialSource": "https://synthflow.ai//pricing",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
