@@ -5906,5 +5906,89 @@
     "ar": "إطار لتطوير أتمتة الويب يجمع أوامر المتصفح ومساعدة النماذج اللغوية. يعمل باستخدام متصفح محلي أو بنية Browserbase بحسب الإعداد، وقد تترتب تكاليف للنماذج والجلسات المستضافة. ينبغي اختبار التفاعلات وطلب التأكيد للإجراءات الحساسة.",
     "officialSource": "https://github.com/browserbase/stagehand/blob/main/packages/docs/v4/configuration/browser.mdx",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "salesforce-agentforce": {
+    "fr": "Plateforme de création et de déploiement d'agents reliés aux données et processus CRM de Salesforce. Accès cloud professionnel avec tarification par crédits Flex, conversations ou licences selon l'offre. Définir des permissions et contrôler les actions modifiant les dossiers clients.",
+    "en": "Platform for building and deploying agents connected to Salesforce CRM data and workflows. Professional cloud access with Flex Credit, conversation or license pricing depending on the plan. Define permissions and review actions modifying customer records.",
+    "ar": "منصة لإنشاء ونشر وكلاء مرتبطين ببيانات ومسارات إدارة علاقات العملاء في Salesforce. تتاح سحابيًا للمؤسسات بتسعير يعتمد على أرصدة Flex أو المحادثات أو التراخيص بحسب العرض. ينبغي تحديد الصلاحيات ومراجعة الإجراءات التي تعدل سجلات العملاء.",
+    "officialSource": "https://www.salesforce.com/agentforce/pricing/?bc=OTH",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "sap-joule": {
+    "fr": "Assistant et orchestrateur d'agents intégré aux applications métiers SAP. Joule Studio permet de créer des agents personnalisés reliés aux processus SAP et externes. Les capacités avancées sont facturées notamment en AI Units ; vérifier les droits d'accès et les validations financières.",
+    "en": "Assistant and agent orchestrator integrated with SAP business applications. Joule Studio supports custom agents connected to SAP and external processes. Advanced capabilities use AI Units among other pricing mechanisms; review permissions and financial approvals.",
+    "ar": "مساعد ومنسق للوكلاء مدمج في تطبيقات SAP المهنية. يتيح Joule Studio إنشاء وكلاء مخصصين مرتبطين بعمليات SAP والأنظمة الخارجية. تحسب تكلفة الوظائف المتقدمة خصوصًا بوحدات AI Units؛ ينبغي مراجعة الصلاحيات والموافقات المالية.",
+    "officialSource": "https://www.sap.com/products/artificial-intelligence/pricing.html",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "servicenow-ai-agents": {
+    "fr": "Agents intégrés à la plateforme ServiceNow pour traiter incidents, demandes et tâches métiers. AI Agent Studio permet de construire des agents, tandis que l'orchestration coordonne leurs outils et workflows. Accès selon licences et modules ; encadrer les actions sur les systèmes connectés.",
+    "en": "Agents integrated into ServiceNow for handling incidents, requests and business tasks. AI Agent Studio supports agent construction, while orchestration coordinates tools and workflows. Access depends on licenses and modules; govern actions on connected systems.",
+    "ar": "وكلاء مدمجون في منصة ServiceNow لمعالجة الحوادث والطلبات والمهام المهنية. يتيح AI Agent Studio بناء الوكلاء بينما ينسق نظام التنسيق الأدوات ومسارات العمل. يعتمد الوصول على التراخيص والوحدات؛ ينبغي ضبط الإجراءات على الأنظمة المتصلة.",
+    "officialSource": "https://www.servicenow.com/products/ai-agents.html",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "workday-illuminate-agents": {
+    "fr": "Agents métiers de Workday, présentés notamment sous la gamme Sana AI Agents, destinés aux processus RH et financiers. Workday Build permet de concevoir et orchestrer des interactions agentiques. Accès institutionnel selon contrat et fonctionnalités activées. Conserver une validation humaine des décisions concernant les salariés.",
+    "en": "Workday business agents, marketed notably as Sana AI Agents, supporting HR and finance processes. Workday Build enables design and orchestration of agent interactions. Institutional access depends on contracts and enabled features. Retain human review of decisions affecting employees.",
+    "ar": "وكلاء مهنيون من Workday يقدمون خصوصًا ضمن مجموعة Sana AI Agents لدعم عمليات الموارد البشرية والمالية. يتيح Workday Build تصميم التفاعلات بين الوكلاء وتنسيقها. يعتمد الوصول المؤسسي على العقود والوظائف المفعلة. ينبغي الإبقاء على المراجعة البشرية للقرارات المتعلقة بالموظفين.",
+    "officialSource": "https://www.workday.com/en-us/artificial-intelligence/ai-agents.html",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "oracle-ai-agent-studio": {
+    "fr": "Environnement de création d'agents et d'applications agentiques intégré à Oracle Fusion Cloud Applications, avec outils sans code et programmation. Les agents accèdent aux objets métiers, workflows et API autorisés. Accès lié aux services Oracle et conditions contractuelles ; vérifier les rôles et approbations.",
+    "en": "Agent and agentic application builder integrated into Oracle Fusion Cloud Applications, offering no-code and programming tools. Agents access authorized business objects, workflows and APIs. Access depends on Oracle services and contractual terms; verify roles and approvals.",
+    "ar": "بيئة لإنشاء الوكلاء والتطبيقات الوكيلية مدمجة في Oracle Fusion Cloud Applications، توفر أدوات دون برمجة وأخرى برمجية. يصل الوكلاء إلى عناصر الأعمال ومسارات العمل والواجهات المصرح بها. يرتبط الوصول بخدمات Oracle وشروط العقود؛ ينبغي مراجعة الأدوار والموافقات.",
+    "officialSource": "https://docs.oracle.com/en/cloud/saas/fusion-ai/26d/aiaas/overview-of-ai-agent-studio.html",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "hubspot-breeze-agents": {
+    "fr": "Agents commerciaux et de service client de HubSpot, désormais regroupés dans Agent Hub, anciennement Breeze Agents. Ils exploitent le contexte CRM pour traiter des demandes et accompagner la prospection. Certaines tâches sont facturées selon les résultats obtenus ; vérifier les offres et règles de prospection.",
+    "en": "HubSpot sales and customer service agents now grouped in Agent Hub, formerly Breeze Agents. They use CRM context to handle requests and support prospecting. Some tasks are billed by completed outcomes; check plans and outreach rules.",
+    "ar": "وكلاء للمبيعات وخدمة العملاء من HubSpot يجمعهم الآن Agent Hub المعروف سابقًا باسم Breeze Agents. يستفيدون من سياق إدارة علاقات العملاء لمعالجة الطلبات ودعم التنقيب التجاري. تحسب تكلفة بعض المهام بحسب النتائج المحققة؛ ينبغي مراجعة العروض وقواعد التواصل التجاري.",
+    "officialSource": "https://www.hubspot.com/products/artificial-intelligence",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "moveworks-ai-agents": {
+    "fr": "Plateforme d'assistance aux employés combinant recherche dans les ressources internes et exécution de tâches via des intégrations métiers. Agent Studio permet de développer des agents ; déploiement sur le Web et messageries d'entreprise. Offre institutionnelle sur contrat. Respecter les permissions documentaires et les procédures de transfert humain.",
+    "en": "Employee assistance platform combining internal resource search and task execution through business integrations. Agent Studio supports agent development; deployment on web and enterprise messaging channels. Institutional contract-based offering. Respect document permissions and human handoff procedures.",
+    "ar": "منصة لمساعدة الموظفين تجمع البحث في الموارد الداخلية وتنفيذ المهام عبر التكاملات المهنية. يتيح Agent Studio تطوير الوكلاء ونشرهم على الويب وقنوات المراسلة المؤسسية. تتوفر بعقود مؤسسية. ينبغي احترام صلاحيات الوثائق وإجراءات التحويل إلى الدعم البشري.",
+    "officialSource": "https://help.moveworks.com/ai-assistant/overview",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "sierra-ai": {
+    "fr": "Plateforme de création d'agents de relation client capables de traiter des demandes et d'interagir avec des systèmes métiers. Déploiement professionnel avec tarification fondée sur les résultats définis contractuellement. Tester les réponses, les règles commerciales et le transfert vers des conseillers.",
+    "en": "Platform for building customer experience agents that handle requests and interact with business systems. Professional deployment with contract-defined outcome-based pricing. Test responses, business rules and handoff to human advisors.",
+    "ar": "منصة لإنشاء وكلاء لخدمة العملاء يعالجون الطلبات ويتفاعلون مع الأنظمة المهنية. يتاح النشر المؤسسي بتسعير يعتمد على النتائج المحددة تعاقديًا. ينبغي اختبار الإجابات والقواعد التجارية والتحويل إلى المستشارين البشريين.",
+    "officialSource": "https://sierra.ai/product",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "uipath-agent-builder": {
+    "fr": "Outil de conception visuelle d'agents IA dans UiPath Studio, permettant de configurer instructions, outils et contexte, puis d'intégrer les agents aux automatisations métiers. Accès via l'écosystème UiPath selon licences et consommation. Prévoir des approbations pour les actions sensibles.",
+    "en": "Visual AI agent design tool in UiPath Studio for configuring instructions, tools and context and integrating agents into business automations. Access through the UiPath ecosystem depends on licenses and usage. Require approvals for sensitive actions.",
+    "ar": "أداة مرئية لتصميم وكلاء الذكاء الاصطناعي في UiPath Studio تتيح ضبط التعليمات والأدوات والسياق ودمج الوكلاء في أتمتة الأعمال. يعتمد الوصول عبر منظومة UiPath على التراخيص والاستهلاك. ينبغي اشتراط الموافقة على الإجراءات الحساسة.",
+    "officialSource": "https://www.uipath.com/platform/agentic-automation/agentic-ai/agent-builder",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "automation-anywhere-agentic-automation": {
+    "fr": "Plateforme d'automatisation des processus combinant agents IA, robotisation RPA, API et traitement documentaire. Automation Co-Pilot facilite l'interaction depuis les applications de travail. Offre professionnelle selon contrat et ressources déployées. Tester les workflows et prévoir des contrôles humains.",
+    "en": "Process automation platform combining AI agents, RPA, APIs and document processing. Automation Co-Pilot supports interaction from work applications. Professional offering based on contracts and deployed resources. Test workflows and provide human controls.",
+    "ar": "منصة لأتمتة العمليات تجمع وكلاء الذكاء الاصطناعي والأتمتة الروبوتية RPA والواجهات البرمجية ومعالجة الوثائق. يسهل Automation Co-Pilot التفاعل من تطبيقات العمل. تتاح بعروض مهنية حسب العقود والموارد المنشورة. ينبغي اختبار مسارات العمل وتوفير ضوابط بشرية.",
+    "officialSource": "https://www.automationanywhere.com/products",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "palantir-aip-agents": {
+    "fr": "Agents interactifs de la plateforme Palantir AIP, configurables dans Agent Studio avec informations et outils propres à l'organisation. Agent Manager facilite la gestion des agents publiés. Accès professionnel dans l'écosystème Foundry/AIP selon contrat. Limiter les actions aux données et fonctions autorisées.",
+    "en": "Interactive agents in Palantir AIP, configured in Agent Studio with organization-specific information and tools. Agent Manager supports management of published agents. Professional access through Foundry/AIP under contract. Restrict actions to authorized data and functions.",
+    "ar": "وكلاء تفاعليون في منصة Palantir AIP يمكن إعدادهم في Agent Studio بمعلومات وأدوات خاصة بالمؤسسة. يسهل Agent Manager إدارة الوكلاء المنشورين. يتاح الوصول المهني عبر منظومة Foundry/AIP بحسب العقد. ينبغي حصر الإجراءات في البيانات والوظائف المصرح بها.",
+    "officialSource": "https://www.palantir.com/docs/foundry/aip/agent-stack",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "databricks-agent-bricks": {
+    "fr": "Environnement de création, d'évaluation et de gouvernance d'agents exploitant les données de Databricks, avec services et interfaces de développement pour la production. Facturation à l'usage des produits Databricks sous-jacents. Évaluer les réponses sur des jeux de tests et appliquer les contrôles d'accès aux données.",
+    "en": "Environment for building, evaluating and governing agents using Databricks data, with developer interfaces and production services. Usage-based billing for underlying Databricks products. Evaluate responses on test sets and apply data access controls.",
+    "ar": "بيئة لإنشاء وتقييم وحوكمة الوكلاء الذين يستفيدون من بيانات Databricks، مع واجهات تطوير وخدمات للنشر الفعلي. تعتمد الفوترة على استخدام منتجات Databricks الأساسية. ينبغي تقييم الإجابات على مجموعات اختبار وتطبيق ضوابط الوصول إلى البيانات.",
+    "officialSource": "https://www.databricks.com/product/artificial-intelligence/agent-bricks",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
