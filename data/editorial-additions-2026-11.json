@@ -6655,5 +6655,61 @@
     "ar": "تطبيق للتصور التوليدي من EvolveLAB ضمن منظومة Chaos يستخدم هندسة المشروع أو صوره لاستكشاف التصييرات المعمارية. يتاح عبر الويب والتكاملات المتوافقة ومنها Revit وForma، بتراخيص تجارية وأسعار للطلاب. لا تضمن التصييرات الدقة الهندسية أو قابلية التنفيذ التقنية.",
     "officialSource": "https://www.evolvelab.io/veras",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "maket": {
+    "fr": "Outil web de conception résidentielle permettant de générer des plans par étage, dessiner ou importer un plan et explorer des rendus 3D. Accès gratuit limité et abonnements avec crédits consommés par génération. Faire valider les dimensions et la conformité par un professionnel.",
+    "en": "Web-based residential design tool generating floor plans by storey, supporting manual drawing or plan uploads and exploring 3D renders. Limited free access and subscriptions with generation credits. Have dimensions and compliance reviewed by a professional.",
+    "ar": "أداة ويب للتصميم السكني تتيح توليد المخططات لكل طابق ورسمها أو استيرادها واستكشاف التصييرات الثلاثية الأبعاد. تتوفر بخطة مجانية محدودة واشتراكات بأرصدة للتوليد. ينبغي عرض الأبعاد والمطابقة التنظيمية على مختص.",
+    "officialSource": "https://www.maket.ai/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "virtual-staging-ai": {
+    "fr": "Service web de mise en scène immobilière virtuelle ajoutant du mobilier aux photographies de pièces. Abonnements selon le volume de photographies traitées. Signaler les images modifiées dans les annonces et éviter de masquer les caractéristiques réelles du bien.",
+    "en": "Web virtual property staging service adding furniture to room photographs. Subscriptions depend on photo volume. Disclose edited listing images and avoid concealing actual property features.",
+    "ar": "خدمة ويب للتأثيث العقاري الافتراضي تضيف الأثاث إلى صور الغرف. تعتمد الاشتراكات على عدد الصور المعالجة. ينبغي الإفصاح عن الصور المعدلة في الإعلانات وتجنب إخفاء الخصائص الحقيقية للعقار.",
+    "officialSource": "https://www.virtualstaging.ai/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "restb-ai": {
+    "fr": "Service B2B de vision par ordinateur analysant les photos immobilières pour en extraire des caractéristiques et métadonnées structurées. Intégration aux plateformes et flux de données immobiliers ; tarification sur devis selon les biens analysés, modules et débit de requêtes. Vérifier les attributs inférés.",
+    "en": "B2B computer vision service extracting structured attributes and metadata from real estate photographs. Integrates with property platforms and data pipelines; custom pricing by analyzed properties, modules and request throughput. Validate inferred attributes.",
+    "ar": "خدمة رؤية حاسوبية للمؤسسات تستخرج الخصائص والبيانات الوصفية المهيكلة من الصور العقارية. تتكامل مع المنصات ومسارات البيانات العقارية؛ ويحدد السعر حسب العقارات المحللة والوحدات ومعدل الطلبات. ينبغي التحقق من الخصائص المستنتجة.",
+    "officialSource": "https://restb.ai/company/faq/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "scenario": {
+    "fr": "Plateforme de production créative pour les studios et artistes, générant images, vidéos, audio et modèles 3D avec entraînement de modèles personnalisés pour maintenir un style cohérent. Accès web et API, abonnements et unités de calcul consommées selon les modèles. Vérifier les droits sur les références et la qualité des actifs exportés.",
+    "en": "Creative production platform for studios and artists generating images, video, audio and 3D models, with custom model training for consistent styles. Web and API access, subscriptions and compute units consumed according to model. Check reference rights and exported asset quality.",
+    "ar": "منصة للإنتاج الإبداعي للفنانين والاستوديوهات تولد الصور والفيديو والصوت والنماذج الثلاثية الأبعاد مع تدريب نماذج مخصصة للحفاظ على اتساق الأسلوب. تتاح عبر الويب والواجهات البرمجية باشتراكات ووحدات حوسبة تستهلك بحسب النموذج. ينبغي مراجعة حقوق المراجع وجودة العناصر المصدرة.",
+    "officialSource": "https://www.scenario.com/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "ludo-ai": {
+    "fr": "Suite de création de ressources pour jeux vidéo : sprites animés, textures, interfaces, effets sonores et modèles 3D avec rigging et export GLB. Accès web, CLI, API, MCP et extension Unity ; essai et abonnements à crédits. Tester les performances et les licences dans le moteur cible.",
+    "en": "Game asset creation suite for animated sprites, textures, interfaces, sound effects and rigged 3D models with GLB export. Web, CLI, API, MCP and Unity plugin access; trial and credit-based subscriptions. Test performance and licenses in the target engine.",
+    "ar": "مجموعة لإنشاء عناصر ألعاب الفيديو تشمل الرسوم المتحركة ثنائية الأبعاد والخامات والواجهات والمؤثرات الصوتية والنماذج الثلاثية الأبعاد المزودة بهياكل تحريك وتصدير GLB. تتاح عبر الويب وسطر الأوامر والواجهات البرمجية وMCP وإضافة Unity، مع تجربة واشتراكات بالأرصدة. ينبغي اختبار الأداء والتراخيص في محرك الألعاب المستهدف.",
+    "officialSource": "https://ludo.ai/docs/game-asset-generation",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "rosebud-ai": {
+    "fr": "Plateforme web permettant de prototyper des jeux interactifs à partir d'instructions textuelles, avec génération de ressources et édition du code selon l'offre. Hébergement intégré, accès gratuit limité et abonnements à crédits ; droits commerciaux et projets privés selon la formule. Tester le code et les droits avant publication.",
+    "en": "Web platform for prototyping interactive games from text instructions, with asset generation and code editing depending on plan. Integrated hosting, limited free access and credit subscriptions; commercial rights and private projects depend on tier. Test code and rights before publishing.",
+    "ar": "منصة ويب لإنشاء نماذج أولية لألعاب تفاعلية من تعليمات نصية، مع توليد العناصر وتحرير الشيفرة بحسب الخطة. توفر استضافة مدمجة ووصولًا مجانيًا محدودًا واشتراكات بالأرصدة؛ وتعتمد الحقوق التجارية والمشاريع الخاصة على الخطة. ينبغي اختبار الشيفرة ومراجعة الحقوق قبل النشر.",
+    "officialSource": "https://www.play.rosebud.ai/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "layer-ai": {
+    "fr": "Plateforme de production visuelle pour studios de jeux, avec modèles personnalisés, ensembles de références, génération 3D et workflows créatifs. Accès web et intégrations notamment Photoshop, Premiere Pro et Figma. Facturation selon les Creative Units consommées par modèle, avec forfaits et achats supplémentaires. Vérifier les droits et la cohérence artistique.",
+    "en": "Visual production platform for game studios with custom models, reference sets, 3D generation and creative workflows. Web access and integrations including Photoshop, Premiere Pro and Figma. Billing through model-specific Creative Units, with plans and top-ups. Check rights and artistic consistency.",
+    "ar": "منصة للإنتاج البصري لاستوديوهات الألعاب توفر نماذج مخصصة ومجموعات مراجع وتوليدًا ثلاثي الأبعاد ومسارات إبداعية. تتاح عبر الويب وتتكامل مع Photoshop وPremiere Pro وFigma. تعتمد الفوترة على وحدات Creative Units بحسب النموذج مع خطط وشراء أرصدة إضافية. ينبغي مراجعة الحقوق والاتساق الفني.",
+    "officialSource": "https://layer.ai/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "ready-player-me": {
+    "fr": "Service historique de création d'avatars 3D personnalisables et d'intégration dans des applications immersives et jeux. Les partenaires ont confirmé la fermeture des services le 31 janvier 2026 ; les anciens SDK et API ne doivent plus être considérés comme opérationnels. Fiche conservée à titre documentaire ; prévoir une migration et vérifier les droits sur les avatars exportés.",
+    "en": "Historical service for customizable 3D avatars integrated into immersive applications and games. Partners confirmed service closure on January 31, 2026; legacy SDKs and APIs should no longer be considered operational. Retained for documentary purposes; plan migration and review exported avatar rights.",
+    "ar": "خدمة تاريخية لإنشاء صور رمزية ثلاثية الأبعاد قابلة للتخصيص ودمجها في التطبيقات الغامرة والألعاب. أكد الشركاء إغلاق الخدمات في 31 يناير 2026؛ ولا ينبغي اعتبار حزم التطوير والواجهات البرمجية السابقة عاملة. يحتفظ بالسجل لأغراض توثيقية؛ ينبغي التخطيط للانتقال ومراجعة حقوق الصور الرمزية المصدرة.",
+    "officialSource": "https://help.rooom.com/hc/en-us/articles/43089347158801-Switch-from-Ready-Player-Me-to-the-rooom-Avatar-System",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
