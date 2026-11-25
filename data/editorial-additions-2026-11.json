@@ -6606,5 +6606,54 @@
     "ar": "مساعد لإنشاء العروض من مستندات Word وPDF وExcel أو التعليمات النصية. يوفر التحرير والتصدير إلى PowerPoint أو PDF وواجهة برمجية لأتمتة التقارير. يتاح عبر الويب باشتراكات وأرصدة وتحتسب رسوم الواجهة بحسب الاستخدام. ينبغي مراجعة البيانات ومظهر الملفات.",
     "officialSource": "https://slidespeak.co/help/articles/how-credits-work-in-slidespeak",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "homestyler": {
+    "fr": "Plateforme de conception intérieure 3D accessible sur le Web. AI Planner génère des plans modifiables à partir des besoins en pièces et en surface ; import DWG, bibliothèques de mobilier et rendus selon l’offre. Formule gratuite et abonnements avec quotas de rendu et crédits IA. Vérifier dimensions et contraintes techniques.",
+    "en": "Web-based 3D interior design platform. AI Planner generates editable floor plans from room and area requirements; DWG import, furniture libraries and renders depend on plan. Free tier and subscriptions with rendering allowances and AI credits. Verify dimensions and technical constraints.",
+    "ar": "منصة ويب للتصميم الداخلي ثلاثي الأبعاد. يولد AI Planner مخططات قابلة للتعديل بناء على احتياجات الغرف والمساحة، مع استيراد DWG ومكتبات الأثاث والتصيير بحسب الخطة. تتوفر خطة مجانية واشتراكات بحصص للتصيير وأرصدة للذكاء الاصطناعي. ينبغي التحقق من الأبعاد والقيود التقنية.",
+    "officialSource": "https://www.homestyler.com/pricing?lang=en_US",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "planner-5d": {
+    "fr": "Logiciel de conception intérieure 2D et 3D avec reconnaissance de plans importés et création de modèles réutilisables à partir de photos. Accès web et applications compatibles ; offre gratuite et abonnements Premium ou Professional avec quotas IA et rendus. Vérifier les mesures et les coûts estimés.",
+    "en": "2D and 3D interior design software with uploaded floor plan recognition and reusable model creation from photos. Web and compatible apps; free tier and Premium or Professional subscriptions with AI and rendering allowances. Verify measurements and cost estimates.",
+    "ar": "برنامج للتصميم الداخلي ثنائي وثلاثي الأبعاد يتعرف على المخططات المستوردة وينشئ نماذج قابلة لإعادة الاستخدام من الصور. يتاح عبر الويب والتطبيقات المتوافقة مع خطة مجانية واشتراكات Premium وProfessional وحصص للذكاء الاصطناعي والتصيير. ينبغي التحقق من القياسات والتكاليف المقدرة.",
+    "officialSource": "https://planner5d.com/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "coohom": {
+    "fr": "Plateforme cloud de conception intérieure transformant des plans importés en projets 3D modifiables, avec catalogues d’objets, rendus et fonctions professionnelles de nomenclature et d’actifs paramétriques. Accès web, offre gratuite limitée et abonnements ou devis professionnels. Contrôler les dimensions et les données de production.",
+    "en": "Cloud interior design platform converting uploaded floor plans into editable 3D projects, with object libraries, rendering and professional bills of materials and parametric assets. Web access, limited free offering and subscriptions or enterprise quotes. Check dimensions and production data.",
+    "ar": "منصة سحابية للتصميم الداخلي تحول المخططات المستوردة إلى مشاريع ثلاثية الأبعاد قابلة للتعديل مع مكتبات العناصر والتصيير ووظائف مهنية لقوائم المواد والعناصر البارامترية. تتاح عبر الويب بخطة مجانية محدودة واشتراكات أو عروض أسعار مهنية. ينبغي مراجعة الأبعاد وبيانات الإنتاج.",
+    "officialSource": "https://www.coohom.com/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "foyr-neo": {
+    "fr": "Logiciel web de conception et présentation d’intérieurs associant plans 2D, scènes 3D, mobilier et rendus photoréalistes. Foyr propose également des fonctions de visualisation en réalité augmentée. Abonnements professionnels selon projets et capacités de rendu. Vérifier l’échelle, les matériaux et les mesures avant réalisation.",
+    "en": "Web interior design and presentation software combining 2D floor plans, 3D scenes, furniture and photorealistic renders. Foyr also offers augmented reality visualization features. Professional subscriptions vary by projects and rendering capacity. Verify scale, materials and measurements before construction.",
+    "ar": "برنامج ويب لتصميم المساحات الداخلية وعرضها يجمع المخططات الثنائية الأبعاد والمشاهد الثلاثية والأثاث والتصيير الواقعي. توفر Foyr أيضًا وظائف للعرض بالواقع المعزز. تختلف الاشتراكات المهنية بحسب المشاريع وقدرات التصيير. ينبغي التحقق من المقياس والمواد والقياسات قبل التنفيذ.",
+    "officialSource": "https://foyr.com/pricing/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "lookx-ai": {
+    "fr": "Plateforme de génération visuelle destinée à l’architecture et au design, permettant d’explorer des rendus et variantes stylistiques à partir de références. Accès via LookX AI Cloud, offres commerciales et options professionnelles selon la formule. Les images constituent des propositions conceptuelles, pas des plans constructifs validés.",
+    "en": "Visual generation platform for architecture and design, exploring renders and stylistic variations from references. Access through LookX AI Cloud, commercial plans and professional options depending on tier. Images are conceptual proposals, not validated construction drawings.",
+    "ar": "منصة للتوليد البصري مخصصة للعمارة والتصميم لاستكشاف التصييرات والبدائل الأسلوبية انطلاقًا من المراجع. تتاح عبر LookX AI Cloud بعروض تجارية وخيارات مهنية بحسب الخطة. الصور مقترحات تصورية وليست مخططات تنفيذ معتمدة.",
+    "officialSource": "https://www.lookx.ai/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "autodesk-forma": {
+    "fr": "Environnement cloud Autodesk pour la conception architecturale et urbaine préliminaire, notamment Forma Site Design et Forma Building Design. Analyses prédictives, modélisation conceptuelle et connexions avec Revit, Rhino et formats IFC ou OBJ selon le produit. Essai et abonnements professionnels, dont la collection AEC. Faire valider les analyses et contraintes réglementaires.",
+    "en": "Autodesk cloud environment for early architectural and urban design, including Forma Site Design and Forma Building Design. Predictive analysis, conceptual modeling and connections with Revit, Rhino and IFC or OBJ formats depending on product. Trial and professional subscriptions, including AEC Collection. Validate analysis and regulatory constraints.",
+    "ar": "بيئة سحابية من Autodesk للتصميم المعماري والحضري الأولي تشمل Forma Site Design وForma Building Design. توفر التحليلات التنبؤية والنمذجة التصورية والتكامل مع Revit وRhino وصيغ IFC أو OBJ بحسب المنتج. تتاح تجربة واشتراكات مهنية تشمل مجموعة AEC. ينبغي اعتماد التحليلات والتحقق من القيود التنظيمية.",
+    "officialSource": "https://www.autodesk.com/products/forma/buy",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "veras": {
+    "fr": "Application de visualisation générative d’EvolveLAB, désormais dans l’écosystème Chaos, exploitant la géométrie ou l’image d’un projet pour explorer des rendus architecturaux. Accès web et intégrations compatibles, notamment Revit et Forma ; licences commerciales et tarifs étudiants. Les rendus ne garantissent pas la fidélité géométrique ni la faisabilité technique.",
+    "en": "Generative visualization application from EvolveLAB, now in the Chaos ecosystem, using project geometry or imagery to explore architectural renders. Web access and compatible integrations including Revit and Forma; commercial licenses and student pricing. Renders do not guarantee geometric fidelity or technical feasibility.",
+    "ar": "تطبيق للتصور التوليدي من EvolveLAB ضمن منظومة Chaos يستخدم هندسة المشروع أو صوره لاستكشاف التصييرات المعمارية. يتاح عبر الويب والتكاملات المتوافقة ومنها Revit وForma، بتراخيص تجارية وأسعار للطلاب. لا تضمن التصييرات الدقة الهندسية أو قابلية التنفيذ التقنية.",
+    "officialSource": "https://www.evolvelab.io/veras",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
