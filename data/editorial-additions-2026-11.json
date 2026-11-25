@@ -5654,5 +5654,82 @@
     "ar": "منصة للأمن السيبراني تحلل السلوك وتربط إشارات التهديد لدعم الكشف والاستجابة. تنشر الحلول المهنية بحسب البيئات والعقود التجارية. ينبغي اختبار الإنذارات الكاذبة وضبط الاستجابات الآلية لتجنب التعطيل غير المبرر.",
     "officialSource": "https://www.darktrace.com/products",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "gptzero": {
+    "fr": "Service web de classification probabiliste des textes susceptibles d'être générés par IA, accessible également via extension et API. Accès gratuit limité et offres payantes. Les faux positifs et négatifs imposent une vérification humaine ; ne pas utiliser le score seul pour sanctionner un étudiant.",
+    "en": "Web service for probabilistic classification of potentially AI-generated text, also available through an extension and API. Limited free access and paid plans. False positives and negatives require human review; never use the score alone to penalize a student.",
+    "ar": "خدمة ويب للتصنيف الاحتمالي للنصوص التي قد تكون مولدة بالذكاء الاصطناعي، تتاح أيضًا عبر إضافة للمتصفح وواجهة برمجية. توفر وصولًا مجانيًا محدودًا وعروضًا مدفوعة. تستلزم الأخطاء الإيجابية والسلبية مراجعة بشرية؛ ولا يجوز الاعتماد على النتيجة وحدها لمعاقبة طالب.",
+    "officialSource": "https://gptzero.me/faq",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "copyleaks": {
+    "fr": "Plateforme de détection de similarités textuelles et de contenus potentiellement générés par IA, avec accès web, API et intégrations éducatives selon l'offre. Abonnements et contrats institutionnels. Distinguer correspondances documentaires et estimations probabilistes ; examiner les sources avant toute décision.",
+    "en": "Platform for textual similarity and potential AI-content detection, with web access, API and educational integrations depending on plan. Subscriptions and institutional contracts. Distinguish documentary matches from probabilistic estimates; review sources before decisions.",
+    "ar": "منصة لكشف التشابه النصي والمحتوى المحتمل توليده بالذكاء الاصطناعي، تتاح عبر الويب والواجهات البرمجية والتكاملات التعليمية بحسب العرض. توفر اشتراكات وعقودًا مؤسسية. ينبغي التمييز بين التطابقات الوثائقية والتقديرات الاحتمالية ومراجعة المصادر قبل اتخاذ القرارات.",
+    "officialSource": "https://copyleaks.com/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "c2pa": {
+    "fr": "Standard technique ouvert de provenance des médias numériques utilisant des manifestes signés et liés cryptographiquement aux fichiers. Les Content Credentials documentent les déclarations relatives à la création et aux modifications. Spécifications publiques ; coûts éventuels d'implémentation et de signature. Une provenance valide ne prouve pas la vérité du contenu.",
+    "en": "Open technical standard for digital media provenance using signed manifests cryptographically bound to assets. Content Credentials document assertions about creation and edits. Public specifications; implementation and signing may incur costs. Valid provenance does not prove content truthfulness.",
+    "ar": "معيار تقني مفتوح لتوثيق منشأ الوسائط الرقمية باستخدام بيانات وصفية موقعة ومرتبطة تشفيريًا بالملفات. توثق بيانات اعتماد المحتوى التصريحات المتعلقة بالإنشاء والتعديلات. المواصفات متاحة للعموم وقد تترتب تكاليف للتنفيذ والتوقيع. لا يثبت صحة المنشأ صدق المحتوى نفسه.",
+    "officialSource": "https://spec.c2pa.org/specifications/specifications/2.5/index.html",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "shopify-magic": {
+    "fr": "Ensemble de fonctions génératives intégrées à l'administration Shopify, notamment pour préparer des textes commerciaux et des visuels de boutique. Accès lié aux services Shopify, selon les fonctions et conditions de l'offre. Vérifier les caractéristiques des produits et les allégations avant publication.",
+    "en": "Generative features integrated into Shopify admin, notably for preparing commercial text and store visuals. Access depends on Shopify services, features and plan terms. Verify product specifications and claims before publication.",
+    "ar": "مجموعة وظائف توليدية مدمجة في لوحة إدارة Shopify، خصوصًا لإعداد النصوص التجارية والصور الخاصة بالمتجر. يرتبط الوصول بخدمات Shopify والوظائف وشروط الخطة. ينبغي مراجعة مواصفات المنتجات والادعاءات قبل النشر.",
+    "officialSource": "https://help.shopify.com/en/manual/ai-powered-tools",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "algolia": {
+    "fr": "Infrastructure de recherche hébergée pour sites et applications combinant indexation, recherche par mots-clés et recherche vectorielle hybride avec NeuralSearch selon l'offre. API et composants d'interface ; facturation selon le plan et les volumes. Tester la pertinence et protéger les données indexées.",
+    "en": "Hosted search infrastructure for sites and apps combining indexing, keyword search and hybrid vector search through NeuralSearch depending on plan. APIs and UI components; billing depends on plan and volume. Test relevance and protect indexed data.",
+    "ar": "بنية بحث مستضافة للمواقع والتطبيقات تجمع الفهرسة والبحث بالكلمات المفتاحية والبحث المتجهي الهجين عبر NeuralSearch بحسب الخطة. توفر واجهات برمجية ومكونات للواجهات؛ وتعتمد الفوترة على الخطة وحجم الاستخدام. ينبغي اختبار الملاءمة وحماية البيانات المفهرسة.",
+    "officialSource": "https://www.algolia.com/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "weights-et-biases": {
+    "fr": "Plateforme de suivi des expériences de machine learning permettant de consigner métriques, hyperparamètres, versions du code et artefacts de modèles. Intégration aux scripts via SDK et visualisation web. Offres gratuites ou payantes selon les besoins, avec services de calcul distincts. Documenter les données et conditions de reproductibilité.",
+    "en": "Machine learning experiment tracking platform recording metrics, hyperparameters, code versions and model artifacts. SDK integration and web dashboards. Free or paid offerings depending on needs, with separate compute services. Document data and reproducibility conditions.",
+    "ar": "منصة لتتبع تجارب التعلم الآلي تسجل المقاييس والمعلمات الفائقة وإصدارات الشيفرة ومخرجات النماذج. تتكامل مع البرامج عبر حزمة تطوير ولوحات ويب. توفر عروضًا مجانية أو مدفوعة بحسب الاحتياجات مع خدمات حوسبة منفصلة. ينبغي توثيق البيانات وشروط إعادة إنتاج التجارب.",
+    "officialSource": "https://wandb.ai/site/experiment-tracking/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "label-studio": {
+    "fr": "Outil d'annotation de données multimodales pour préparer des corpus d'entraînement et d'évaluation, avec interfaces configurables pour textes, images et autres médias. Édition libre auto-hébergeable et service Enterprise payant. Définir des consignes d'annotation et mesurer l'accord entre annotateurs.",
+    "en": "Multimodal data annotation tool for training and evaluation datasets, with configurable interfaces for text, images and other media. Open-source self-hosted edition and paid Enterprise service. Define annotation guidelines and measure inter-annotator agreement.",
+    "ar": "أداة لوسم البيانات متعددة الوسائط لإعداد مجموعات التدريب والتقييم، توفر واجهات قابلة للتخصيص للنصوص والصور والوسائط الأخرى. تتوفر نسخة مفتوحة المصدر قابلة للاستضافة الذاتية وخدمة Enterprise مدفوعة. ينبغي وضع إرشادات للوسم وقياس الاتفاق بين المعلقين.",
+    "officialSource": "https://labelstud.io/guide/get_started",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "roboflow": {
+    "fr": "Plateforme de vision artificielle pour organiser et annoter des images, entraîner des modèles et déployer des inférences. Accès web et API avec offres gratuites ou payantes et crédits selon le stockage, l'entraînement et le déploiement. Contrôler les biais des données et tester les modèles sur des images indépendantes.",
+    "en": "Computer vision platform for organizing and labeling images, training models and deploying inference. Web and API access with free or paid plans and credits for storage, training and deployment. Check data bias and test models on independent images.",
+    "ar": "منصة للرؤية الحاسوبية لتنظيم الصور ووسمها وتدريب النماذج ونشر الاستدلال. تتاح عبر الويب والواجهات البرمجية بخطط مجانية أو مدفوعة وأرصدة للتخزين والتدريب والنشر. ينبغي فحص تحيز البيانات واختبار النماذج على صور مستقلة.",
+    "officialSource": "https://roboflow.com/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "ultralytics-yolo": {
+    "fr": "Famille de modèles et outils de vision artificielle pour la détection d'objets et la segmentation, avec interfaces Python et ligne de commande. Code et modèles soumis aux conditions AGPL-3.0 ou à une licence Enterprise selon l'usage. Évaluer les performances sur des données représentatives et vérifier les obligations de licence.",
+    "en": "Computer vision model family and tools for object detection and segmentation, with Python and command-line interfaces. Code and models are subject to AGPL-3.0 or Enterprise licensing depending on use. Evaluate performance on representative data and verify license obligations.",
+    "ar": "عائلة نماذج وأدوات للرؤية الحاسوبية لكشف الأجسام وتجزئة الصور، مع واجهات Python وسطر الأوامر. تخضع الشيفرة والنماذج لشروط AGPL-3.0 أو ترخيص Enterprise بحسب الاستخدام. ينبغي تقييم الأداء على بيانات ممثلة والتحقق من التزامات الترخيص.",
+    "officialSource": "https://www.ultralytics.com/license",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "opencv": {
+    "fr": "Bibliothèque libre de vision artificielle et de traitement d'images proposant des algorithmes de filtrage, géométrie, vidéo et inférence de réseaux neuronaux. Accessible notamment via Python et C++, sous licence Apache 2.0 pour les versions actuelles. Vérifier les licences des modèles tiers et calibrer les mesures.",
+    "en": "Open-source computer vision and image processing library offering filtering, geometry, video and neural network inference algorithms. Available notably through Python and C++, under Apache 2.0 for current versions. Check third-party model licenses and calibrate measurements.",
+    "ar": "مكتبة مفتوحة المصدر للرؤية الحاسوبية ومعالجة الصور توفر خوارزميات الترشيح والهندسة والفيديو واستدلال الشبكات العصبية. تتاح خصوصًا عبر Python وC++ بموجب ترخيص Apache 2.0 للإصدارات الحالية. ينبغي مراجعة تراخيص النماذج الخارجية ومعايرة القياسات.",
+    "officialSource": "https://opencv.org/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "nvidia-isaac": {
+    "fr": "Ensemble de technologies NVIDIA pour développer des robots autonomes, comprenant Isaac Sim pour la simulation et les données synthétiques, Isaac Lab pour l'apprentissage et Isaac ROS pour les composants robotiques. Accès développeur selon les licences des composants ; coûts matériels et de calcul variables. Valider les comportements en conditions réelles.",
+    "en": "NVIDIA robotics development ecosystem including Isaac Sim for simulation and synthetic data, Isaac Lab for robot learning and Isaac ROS for robotics components. Developer access depends on component licenses; hardware and compute costs vary. Validate behavior in real-world conditions.",
+    "ar": "منظومة تقنيات NVIDIA لتطوير الروبوتات المستقلة تشمل Isaac Sim للمحاكاة والبيانات الاصطناعية وIsaac Lab لتعلم الروبوتات وIsaac ROS للمكونات الروبوتية. يخضع وصول المطورين لتراخيص المكونات وتختلف تكاليف المعدات والحوسبة. ينبغي التحقق من السلوك في الظروف الواقعية.",
+    "officialSource": "https://developer.nvidia.com/isaac",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
