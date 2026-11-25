@@ -6816,5 +6816,26 @@
     "ar": "أداة ذكاء أعمال دون برمجة لتحويل الجداول إلى تصورات ولوحات معلومات مع مساعد PolymerAI وتكامل برمجي. تتاح عبر الويب باشتراكات وحصص لإجابات الذكاء الاصطناعي بحسب الخطة. ينبغي مراجعة التجميعات وصلاحيات المشاركة.",
     "officialSource": "https://www.polymersearch.com/pricing",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "wanderlog": {
+    "fr": "Planificateur de voyages collaboratif réunissant cartes, itinéraires, budget et réservations. L'assistant IA aide à préparer les visites ; accès web et mobile, formule gratuite et abonnement Pro avec optimisation des trajets et accès hors ligne. Vérifier les horaires auprès des prestataires.",
+    "en": "Collaborative trip planner combining maps, itineraries, budget and bookings. AI assistant helps plan visits; web and mobile access, free tier and Pro subscription with route optimization and offline access. Verify schedules with providers.",
+    "ar": "مخطط رحلات تعاوني يجمع الخرائط والمسارات والميزانية والحجوزات. يساعد المساعد الذكي في إعداد الزيارات؛ يتاح عبر الويب والهاتف بخطة مجانية واشتراك Pro لتحسين المسارات والوصول دون اتصال. ينبغي التحقق من المواعيد لدى مقدمي الخدمات.",
+    "officialSource": "https://wanderlog.com/pro",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "wonderplan": {
+    "fr": "Planificateur web générant des itinéraires personnalisés selon les préférences du voyageur, avec possibilité de réorganiser, ajouter ou supprimer des étapes. Le service se présente actuellement comme gratuit. Vérifier les horaires, tarifs et conditions auprès des prestataires.",
+    "en": "Web trip planner generating personalized itineraries with options to reorder, add or remove stops. The service currently describes itself as free. Verify schedules, prices and conditions with providers.",
+    "ar": "مخطط رحلات عبر الويب يولد مسارات مخصصة حسب تفضيلات المسافر ويتيح إعادة ترتيب المحطات وإضافتها أو حذفها. تقدم الخدمة نفسها حاليًا على أنها مجانية. ينبغي التحقق من المواعيد والأسعار والشروط لدى مقدمي الخدمات.",
+    "officialSource": "https://wonderplan.ai/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "guidegeek": {
+    "fr": "Assistant touristique conversationnel de Matador Network proposant des recommandations et itinéraires via des canaux de messagerie compatibles. Gratuit pour les voyageurs ; solutions personnalisées pour les organismes touristiques selon contrat. Vérifier les renseignements pratiques avant le départ.",
+    "en": "Matador Network conversational travel assistant offering recommendations and itineraries through supported messaging channels. Free for travelers; customized solutions for tourism organizations under contract. Verify practical details before departure.",
+    "ar": "مساعد سفر حواري من Matador Network يقدم توصيات ومسارات عبر قنوات المراسلة المتوافقة. مجاني للمسافرين مع حلول مخصصة للهيئات السياحية بحسب العقد. ينبغي التحقق من المعلومات العملية قبل السفر.",
+    "officialSource": "https://guidegeek.com/social",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
