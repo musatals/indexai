@@ -7131,5 +7131,47 @@
     "ar": "عرض بحثي مستضاف على Hugging Face Spaces يستكشف الوكلاء القادرين على التفاعل مع واجهات الحاسوب. يتاح عبر مستودع العرض العام وقد تختلف إتاحة التنفيذ وتكاليف الحوسبة. لا ينبغي اعتباره خدمة تجارية مضمونة.",
     "officialSource": "https://huggingface.co/spaces/smolagents/computer-use-agent/blob/main/README.md",
     "sourceReviewedAt": "2026-11-26"
+  },
+  "aixploria": {
+    "fr": "Annuaire web d'outils IA organisé par catégories, popularité et nouveautés, avec sélections d'outils gratuits. Consultation publique ; vérifier les conditions de chaque produit auprès de son éditeur.",
+    "en": "Web directory of AI tools organized by category, popularity and recent additions, including free-tool selections. Public browsing; verify each product's terms with its vendor.",
+    "ar": "دليل ويب لأدوات الذكاء الاصطناعي مرتب حسب الفئة والشعبية والمستجدات، مع قوائم للأدوات المجانية. يتاح التصفح العام؛ ينبغي التحقق من شروط كل منتج لدى مزوده.",
+    "officialSource": "https://www.aixploria.com/en/",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "topai-tools": {
+    "fr": "Répertoire consultable d'applications IA avec collections thématiques et filtres tarifaires. Accès public au catalogue ; les classifications et conditions commerciales doivent être vérifiées auprès des éditeurs.",
+    "en": "Searchable AI application directory with thematic collections and pricing filters. Public catalog access; verify classifications and commercial terms with vendors.",
+    "ar": "دليل قابل للبحث لتطبيقات الذكاء الاصطناعي يضم مجموعات موضوعية ومرشحات للأسعار. يتاح الكتالوج علنًا؛ ينبغي التحقق من التصنيفات والشروط التجارية لدى المزودين.",
+    "officialSource": "https://topai.tools/free-ai-tools?pricing=free",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "huntscreens": {
+    "fr": "Portail de découverte de produits numériques et de jeunes entreprises, incluant des applications IA classées par thèmes. Consultation publique ; les sélections ne constituent pas des tests indépendants de chaque produit.",
+    "en": "Discovery portal for digital products and startups, including AI applications grouped by topic. Public browsing; listings do not constitute independent testing of each product.",
+    "ar": "بوابة لاكتشاف المنتجات الرقمية والشركات الناشئة، تشمل تطبيقات الذكاء الاصطناعي المصنفة حسب الموضوع. يتاح التصفح العام؛ ولا تعني القوائم اختبار كل منتج بصورة مستقلة.",
+    "officialSource": "https://huntscreens.com/topic/feature-discovery",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "allailists": {
+    "fr": "Annuaire généraliste d'applications, modèles et plateformes IA avec recherche, catégories, guides et nouveautés. Consultation publique du catalogue ; vérifier les tarifs et caractéristiques auprès des éditeurs avant adoption.",
+    "en": "General directory of AI applications, models and platforms with search, categories, guides and recent additions. Public catalog browsing; confirm prices and features with vendors before adoption.",
+    "ar": "دليل عام لتطبيقات ونماذج ومنصات الذكاء الاصطناعي يضم البحث والفئات والأدلة والمستجدات. يتاح تصفح الكتالوج علنًا؛ ينبغي تأكيد الأسعار والخصائص لدى المزودين قبل الاعتماد.",
+    "officialSource": "https://allailists.com/",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "exploreai-directory": {
+    "fr": "Répertoire All About AI proposant des fiches d'outils, comparaisons, alternatives et classement par catégorie, avec indication du modèle économique. Accès public aux fiches ; vérifier les informations tarifaires à la source.",
+    "en": "All About AI directory offering tool profiles, comparisons, alternatives and category browsing, with business-model labels. Public profiles; verify pricing at the original source.",
+    "ar": "دليل All About AI يقدم بطاقات الأدوات والمقارنات والبدائل والتصنيف حسب الفئات، مع بيان نموذج التسعير. تتاح البطاقات علنًا؛ ينبغي التحقق من الأسعار لدى المصدر الأصلي.",
+    "officialSource": "https://www.exploreai.directory/tools",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "curatedai": {
+    "fr": "Index éditorial de modèles et outils IA organisé par modalité, avec filtres de prix, familles de modèles et comparaisons. Consultation gratuite sans inscription selon le site ; distinguer les appréciations éditoriales des informations officielles.",
+    "en": "Editorial index of AI models and tools organized by modality, with pricing filters, model families and comparisons. Free browsing without registration according to the site; distinguish editorial judgments from official information.",
+    "ar": "فهرس تحريري لنماذج وأدوات الذكاء الاصطناعي مرتب حسب الوسائط، مع مرشحات الأسعار وعائلات النماذج والمقارنات. التصفح مجاني دون تسجيل وفق الموقع؛ ينبغي التمييز بين التقييم التحريري والمعلومات الرسمية.",
+    "officialSource": "https://www.curatedai.net/directory",
+    "sourceReviewedAt": "2026-11-26"
   }
 }
