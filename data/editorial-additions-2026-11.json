@@ -7054,5 +7054,54 @@
     "ar": "دليل ويب لأدوات الذكاء الاصطناعي يقدم مجموعات حسب الفئة ومرشحات للاكتشاف بما فيها الأدوات المجانية. لكل منتج شروط مستقلة عن الدليل. ينبغي التحقق من الأسعار والإتاحة وملاءمة التصنيفات بالرجوع إلى المصادر الأصلية.",
     "officialSource": "https://www.toolify.ai/",
     "sourceReviewedAt": "2026-11-26"
+  },
+  "robin-ai": {
+    "fr": "Plateforme juridique professionnelle pour rechercher des clauses, analyser des contrats et assister leur rédaction et leur révision, notamment dans Microsoft Word. Accès institutionnel selon contrat, sans tarif universel confirmé. Soumettre les résultats à un juriste et contrôler la confidentialité des documents.",
+    "en": "Professional legal platform for locating clauses, analyzing contracts and assisting drafting and review, including in Microsoft Word. Organizational access under contract; no universal rate confirmed. Require legal review and protect document confidentiality.",
+    "ar": "منصة قانونية مهنية للبحث عن البنود وتحليل العقود والمساعدة في صياغتها ومراجعتها، بما في ذلك داخل Microsoft Word. يتاح الوصول المؤسسي وفق عقد دون سعر موحد مؤكد. ينبغي إخضاع النتائج لمراجعة قانونية وحماية سرية الوثائق.",
+    "officialSource": "https://robinai.com/platform",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "yotpo": {
+    "fr": "Suite de commerce électronique pour recueillir des avis et contenus clients, gérer la fidélité et suivre la visibilité dans les recherches IA. Formules gratuites et payantes selon le module, avec coûts liés notamment au volume de commandes. Préserver l'authenticité des avis et signaler les incitations.",
+    "en": "E-commerce suite for collecting reviews and customer content, managing loyalty and monitoring visibility in AI search. Free and paid options vary by module, with fees partly tied to order volume. Preserve review authenticity and disclose incentives.",
+    "ar": "مجموعة للتجارة الإلكترونية لجمع التقييمات ومحتوى العملاء وإدارة الولاء ومتابعة الظهور في البحث بالذكاء الاصطناعي. تختلف الخيارات المجانية والمدفوعة بحسب الوحدة وترتبط بعض التكاليف بحجم الطلبات. ينبغي الحفاظ على مصداقية التقييمات والإفصاح عن الحوافز.",
+    "officialSource": "https://www.yotpo.com/pricing/",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "visenze": {
+    "fr": "Solution de Rezolve Ai destinée aux commerçants, combinant recherche par image, recommandations et enrichissement des attributs du catalogue. Accès professionnel par intégration, offres Light, Pro et Enterprise sur devis selon les besoins. Évaluer les résultats sur des données réelles et contrôler les règles de classement.",
+    "en": "Rezolve Ai retail solution combining image search, recommendations and catalog attribute enrichment. Business access through integrations, with Light, Pro and Enterprise options quoted according to needs. Evaluate results on real data and review ranking rules.",
+    "ar": "حل من Rezolve Ai للتجار يجمع البحث بالصور والتوصيات وإثراء سمات الكتالوج. يتاح مهنيًا عبر التكاملات مع خطط Light وPro وEnterprise بحسب الاحتياجات وعرض السعر. ينبغي تقييم النتائج على بيانات فعلية ومراجعة قواعد الترتيب.",
+    "officialSource": "https://www.visenze.com/why-visenze/our-pricing/",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "syte": {
+    "fr": "Plateforme de découverte de produits pour le commerce électronique, notamment la mode, combinant recherche visuelle, recommandations et étiquetage automatique des articles. Intégration au catalogue marchand ; conditions tarifaires à demander à l'éditeur. Tester la pertinence et respecter les préférences de confidentialité.",
+    "en": "E-commerce product discovery platform, notably for apparel, combining visual search, recommendations and automated item tagging. Integrates with retailer catalogs; request pricing terms from the vendor. Test relevance and respect privacy preferences.",
+    "ar": "منصة لاكتشاف المنتجات في التجارة الإلكترونية، خصوصًا الأزياء، تجمع البحث المرئي والتوصيات والوسم الآلي للسلع. تتكامل مع كتالوج المتجر ويجب طلب شروط التسعير من المزود. ينبغي اختبار ملاءمة النتائج واحترام تفضيلات الخصوصية.",
+    "officialSource": "https://www.syte.ai/lp/full-product-discovery-suite/",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "charisma-ai": {
+    "fr": "Éditeur de récits interactifs permettant de créer des personnages conversationnels, des embranchements narratifs et des réponses génératives. Accès par éditeur web et SDK pour applications ou jeux ; licences et crédits selon l'offre. Tester la cohérence narrative et la modération des dialogues.",
+    "en": "Interactive storytelling editor for conversational characters, branching narratives and generative responses. Access through a web editor and SDKs for apps or games; licenses and credits vary by plan. Test narrative consistency and dialogue moderation.",
+    "ar": "محرر للسرد التفاعلي يتيح إنشاء شخصيات حوارية ومسارات قصصية متفرعة وردود توليدية. يتاح عبر محرر ويب وحزم تطوير للتطبيقات والألعاب، مع تراخيص وأرصدة بحسب الخطة. ينبغي اختبار اتساق السرد والإشراف على الحوارات.",
+    "officialSource": "https://charisma.ai/pricing",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "roomgpt": {
+    "fr": "Service web de visualisation de nouvelles ambiances pour une pièce à partir d'une photographie. Permet d'explorer des pistes décoratives avant un aménagement ; conditions tarifaires actuelles non confirmées. Les images générées ne garantissent ni les dimensions ni la faisabilité technique des transformations.",
+    "en": "Web service for visualizing alternative room designs from a photograph. Useful for exploring decorative concepts before renovation; current pricing not confirmed. Generated images do not guarantee dimensions or technical feasibility.",
+    "ar": "خدمة ويب لتصور تصاميم بديلة للغرف انطلاقًا من صورة فوتوغرافية. تفيد في استكشاف أفكار الديكور قبل التهيئة، ولم تؤكد شروط التسعير الحالية. لا تضمن الصور المولدة الأبعاد أو الجدوى التقنية للتحويلات.",
+    "officialSource": "https://www.roomgpt.io/dream",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "autogpt": {
+    "fr": "Plateforme d'agents IA issue du projet AutoGPT, proposant des assistants spécialisés et un éditeur visuel pour construire des automatisations connectées à des applications. Accès web avec formules et crédits d'exécution selon l'offre ; distinguer la plateforme hébergée du projet historique. Limiter les permissions et surveiller les coûts et actions.",
+    "en": "AI agent platform originating from AutoGPT, offering specialized assistants and a visual builder for app-connected automations. Web access with plans and execution credits; distinguish the hosted platform from the original project. Limit permissions and monitor costs and actions.",
+    "ar": "منصة لوكلاء الذكاء الاصطناعي نشأت من مشروع AutoGPT، تقدم مساعدين متخصصين ومحررًا مرئيًا لبناء عمليات آلية مرتبطة بالتطبيقات. يتاح الوصول عبر الويب بخطط وأرصدة للتنفيذ؛ ينبغي التمييز بين المنصة المستضافة والمشروع الأصلي وتقييد الصلاحيات ومراقبة التكاليف والإجراءات.",
+    "officialSource": "https://agpt.co/pricing/",
+    "sourceReviewedAt": "2026-11-26"
   }
 }
