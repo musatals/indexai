@@ -5850,5 +5850,61 @@
     "ar": "ماسح مفتوح المصدر لثغرات تطبيقات النماذج اللغوية تديره NVIDIA. يتاح عبر شيفرة Python وتكاملات التطوير، وقد تترتب تكاليف للنماذج والحوسبة. ينبغي حصر التدقيق في الأنظمة المصرح بها والتحقق من النتائج قبل المعالجة.",
     "officialSource": "https://github.com/NVIDIA/garak",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "google-agent-development-kit": {
+    "fr": "Cadre open source de développement, d'évaluation et de déploiement d'agents, disponible en Python, Java, Go, Kotlin et TypeScript. Compatible avec différents modèles et infrastructures. Les coûts des modèles et de l'hébergement restent distincts. Tester les outils et limiter leurs permissions.",
+    "en": "Open-source framework for building, evaluating and deploying agents in Python, Java, Go, Kotlin and TypeScript. Supports different models and infrastructure. Model and hosting costs are separate. Test tools and limit their permissions.",
+    "ar": "إطار مفتوح المصدر لتطوير الوكلاء وتقييمهم ونشرهم بلغات Python وJava وGo وKotlin وTypeScript. يدعم نماذج وبنى تحتية متنوعة. تحسب تكاليف النماذج والاستضافة بصورة منفصلة. ينبغي اختبار الأدوات وتقييد صلاحياتها.",
+    "officialSource": "https://github.com/google/adk-docs",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "strands-agents": {
+    "fr": "SDK open source sous licence Apache 2.0 permettant de développer des agents en Python et TypeScript avec différents modèles et outils. Le projet est regroupé dans le dépôt harness-sdk. Les appels aux modèles et l'infrastructure peuvent être facturés séparément. Prévoir des tests et des limites d'exécution.",
+    "en": "Apache 2.0 open-source SDK for developing agents in Python and TypeScript with different models and tools. The project is consolidated in the harness-sdk repository. Model calls and infrastructure may incur separate costs. Define tests and execution limits.",
+    "ar": "حزمة تطوير مفتوحة المصدر بترخيص Apache 2.0 لإنشاء الوكلاء باستخدام Python وTypeScript ونماذج وأدوات متنوعة. يجمع المشروع في مستودع harness-sdk. قد تحسب تكاليف استدعاء النماذج والبنية التحتية بصورة منفصلة. ينبغي تحديد الاختبارات وحدود التنفيذ.",
+    "officialSource": "https://github.com/strands-agents/harness-sdk",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "haystack-agents": {
+    "fr": "Composant Agent du cadre Haystack permettant de combiner modèles linguistiques, outils de recherche documentaire et appels de fonctions dans une boucle avec état et conditions d'arrêt. Accessible par code Python ; prévoir les coûts des services connectés. Évaluer les réponses et les actions autorisées.",
+    "en": "Haystack Agent component combining language models, document retrieval and function calls in a stateful loop with stopping conditions. Available through Python code; account for connected service costs. Evaluate responses and permitted actions.",
+    "ar": "مكون Agent في إطار Haystack يجمع النماذج اللغوية واسترجاع الوثائق واستدعاء الوظائف ضمن حلقة ذات حالة وشروط توقف. يتاح عبر شيفرة Python مع مراعاة تكاليف الخدمات المتصلة. ينبغي تقييم الإجابات والإجراءات المسموح بها.",
+    "officialSource": "https://docs.haystack.deepset.ai/docs/agents",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "cloudflare-agents": {
+    "fr": "SDK pour construire des agents persistants exécutés sur Cloudflare Durable Objects, avec état propre et stockage SQLite. Accès développeur via Workers ; facturation des ressources selon les quotas et la consommation. Contrôler la conservation des données et les coûts des modèles externes.",
+    "en": "SDK for building persistent agents running on Cloudflare Durable Objects, with individual state and SQLite storage. Developer access through Workers; resource billing depends on quotas and usage. Govern data retention and external model costs.",
+    "ar": "حزمة تطوير لإنشاء وكلاء مستمرين يعملون على Cloudflare Durable Objects مع حالة خاصة وتخزين SQLite. يتاح الوصول للمطورين عبر Workers وتحسب تكلفة الموارد بحسب الحصص والاستهلاك. ينبغي ضبط الاحتفاظ بالبيانات وتكاليف النماذج الخارجية.",
+    "officialSource": "https://www.cloudflare.com/products/agents/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "amazon-bedrock-agentcore": {
+    "fr": "Ensemble de services cloud pour l'exécution et l'intégration d'agents, comprenant notamment Runtime, Gateway et Identity. Accès via AWS, avec facturation selon les composants et leur utilisation. Configurer les permissions et surveiller séparément les coûts de calcul et de modèles.",
+    "en": "Cloud services for running and integrating agents, including Runtime, Gateway and Identity. Available through AWS with component-based usage pricing. Configure permissions and monitor compute and model costs separately.",
+    "ar": "مجموعة خدمات سحابية لتشغيل الوكلاء ودمجهم تشمل Runtime وGateway وIdentity. تتاح عبر AWS بفوترة حسب المكونات والاستخدام. ينبغي ضبط الصلاحيات ومراقبة تكاليف الحوسبة والنماذج بصورة منفصلة.",
+    "officialSource": "https://aws.amazon.com/bedrock/agentcore/pricing/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "e2b": {
+    "fr": "Infrastructure de sandboxes cloud isolées permettant aux agents d'exécuter du code et de manipuler des fichiers dans des environnements dédiés. Accès via SDK ; offres et consommation liées aux ressources CPU, mémoire et durée. Limiter les secrets et permissions transmis aux environnements.",
+    "en": "Cloud sandbox infrastructure enabling agents to execute code and manipulate files in dedicated environments. SDK access; plans and usage depend on CPU, memory and runtime. Restrict secrets and permissions supplied to environments.",
+    "ar": "بنية تحتية لبيئات تنفيذ سحابية معزولة تتيح للوكلاء تشغيل الشيفرة والتعامل مع الملفات في بيئات مخصصة. تتاح عبر حزمة تطوير وتختلف العروض والاستهلاك بحسب المعالج والذاكرة ومدة التشغيل. ينبغي تقييد الأسرار والصلاحيات الممنوحة للبيئات.",
+    "officialSource": "https://e2b.dev/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "browserbase": {
+    "fr": "Infrastructure cloud de sessions de navigateur pour automatiser les interactions web depuis des applications et agents. Accès API avec offres gratuites limitées, abonnements et consommation supplémentaire selon le plan. Respecter les autorisations des sites et protéger les données de session.",
+    "en": "Cloud browser session infrastructure for automating web interactions from applications and agents. API access with limited free plans, subscriptions and additional usage depending on plan. Respect site permissions and protect session data.",
+    "ar": "بنية سحابية لجلسات المتصفح تتيح أتمتة التفاعلات عبر الويب من التطبيقات والوكلاء. تتاح عبر واجهة برمجية بخطط مجانية محدودة واشتراكات واستهلاك إضافي بحسب الخطة. ينبغي احترام أذونات المواقع وحماية بيانات الجلسات.",
+    "officialSource": "https://www.browserbase.com/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "stagehand": {
+    "fr": "Cadre de développement d'automatisations web associant commandes de navigateur et assistance de modèles linguistiques. Exécution avec navigateur local ou infrastructure Browserbase selon configuration ; coûts possibles des modèles et sessions hébergées. Tester les interactions et demander une confirmation pour les actions sensibles.",
+    "en": "Web automation framework combining browser commands and language-model assistance. Runs with local browsers or Browserbase infrastructure depending on configuration; models and hosted sessions may incur costs. Test interactions and require confirmation for sensitive actions.",
+    "ar": "إطار لتطوير أتمتة الويب يجمع أوامر المتصفح ومساعدة النماذج اللغوية. يعمل باستخدام متصفح محلي أو بنية Browserbase بحسب الإعداد، وقد تترتب تكاليف للنماذج والجلسات المستضافة. ينبغي اختبار التفاعلات وطلب التأكيد للإجراءات الحساسة.",
+    "officialSource": "https://github.com/browserbase/stagehand/blob/main/packages/docs/v4/configuration/browser.mdx",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
