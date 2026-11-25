@@ -7173,5 +7173,26 @@
     "ar": "فهرس تحريري لنماذج وأدوات الذكاء الاصطناعي مرتب حسب الوسائط، مع مرشحات الأسعار وعائلات النماذج والمقارنات. التصفح مجاني دون تسجيل وفق الموقع؛ ينبغي التمييز بين التقييم التحريري والمعلومات الرسمية.",
     "officialSource": "https://www.curatedai.net/directory",
     "sourceReviewedAt": "2026-11-26"
+  },
+  "muse-meta": {
+    "fr": "Agent personnel de Meta capable d'exécuter des tâches en plusieurs étapes sur le Web et dans les applications connectées. Une machine virtuelle isolée et persistante permet de superviser et d'interrompre les actions. Accès via les applications Muse sur mobile et Mac ou WhatsApp, selon disponibilité. Vérifier les autorisations, les conditions commerciales et les confirmations avant toute action sensible.",
+    "en": "Meta personal agent for multistep tasks on the web and connected apps. A persistent isolated virtual machine supports supervision and intervention. Access through Muse mobile and Mac apps or WhatsApp, subject to availability. Check permissions, commercial terms and confirmations before sensitive actions.",
+    "ar": "وكيل شخصي من Meta لتنفيذ مهام متعددة الخطوات عبر الويب والتطبيقات المتصلة. تتيح آلة افتراضية معزولة ودائمة الإشراف على الإجراءات والتدخل فيها. يتاح عبر تطبيقات Muse للهاتف وMac أو WhatsApp بحسب الإتاحة. ينبغي مراجعة الصلاحيات والشروط التجارية والتأكيدات قبل الإجراءات الحساسة.",
+    "officialSource": "https://ai.meta.com/muse/",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "xiaomi-miclaw": {
+    "fr": "Agent système de Xiaomi fondé sur le modèle MiMo, conçu pour interpréter les intentions et mobiliser des applications et appareils de l'écosystème Xiaomi avec autorisation. Une phase de test restreinte a été annoncée en mars 2026. Disponibilité générale et tarification non confirmées ; vérifier les appareils compatibles et les permissions.",
+    "en": "Xiaomi system-level agent based on MiMo, designed to interpret intent and invoke authorized applications and devices in the Xiaomi ecosystem. Limited testing was announced in March 2026. General availability and pricing are unconfirmed; check device compatibility and permissions.",
+    "ar": "وكيل على مستوى النظام من Xiaomi يعتمد على نموذج MiMo لفهم المقاصد واستدعاء التطبيقات والأجهزة المصرح بها ضمن منظومة Xiaomi. أُعلن عن اختبار محدود في مارس 2026. لم تؤكد الإتاحة العامة أو الأسعار؛ ينبغي التحقق من توافق الأجهزة والصلاحيات.",
+    "officialSource": "https://dev.mi.com/xiaomihyperos/announcement/detail?id=41",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "z-ai-autoglm": {
+    "fr": "Open-AutoGLM de Z.ai est un cadre de développement d'agents capables de manipuler des interfaces de téléphone à partir d'instructions. Le dépôt fournit des exemples de configuration et des modèles spécialisés, dont AutoGLM-Phone-9B. Accès au code public ; coûts de calcul ou d'API selon l'infrastructure. Superviser les actions et vérifier licences et autorisations.",
+    "en": "Z.ai's Open-AutoGLM is a development framework for agents that operate phone interfaces from instructions. Its repository provides setup examples and specialized models including AutoGLM-Phone-9B. Public code access; compute or API costs depend on infrastructure. Supervise actions and check licenses and permissions.",
+    "ar": "Open-AutoGLM من Z.ai إطار لتطوير وكلاء يتفاعلون مع واجهات الهاتف انطلاقًا من التعليمات. يقدم المستودع أمثلة للإعداد ونماذج متخصصة منها AutoGLM-Phone-9B. الشيفرة متاحة علنًا وتختلف تكاليف الحوسبة والواجهة البرمجية بحسب البنية التحتية. ينبغي الإشراف على الإجراءات ومراجعة التراخيص والصلاحيات.",
+    "officialSource": "https://github.com/zai-org/Open-AutoGLM",
+    "sourceReviewedAt": "2026-11-26"
   }
 }
