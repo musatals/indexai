@@ -6256,5 +6256,54 @@
     "ar": "منصة وكيلية للمؤسسات من Cohere للاستعلام عن الموارد الداخلية وأتمتة المهام وإنشاء الوكلاء عبر واجهة أو مسارات برمجية. يركز North 2 على خيارات النشر والتحكم في البيانات. يعتمد التسعير المهني على عروض مخصصة؛ ينبغي مراجعة مكان تخزين البيانات والصلاحيات.",
     "officialSource": "https://cohere.com/north",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "dots-openai": {
+    "fr": "Agent personnel persistant de ChatGPT capable de suivre des projets entre les conversations, d'exploiter les applications connectées et de déléguer des tâches à Work ou Codex. Accès web, bureau et mobile selon le déploiement et les conditions du compte. Vérifier les permissions et les modalités de facturation.",
+    "en": "Persistent ChatGPT personal agent that follows projects across conversations, uses connected apps and delegates tasks to Work or Codex. Web, desktop and mobile access depends on rollout and account conditions. Review permissions and billing terms.",
+    "ar": "وكيل شخصي مستمر في ChatGPT يتابع المشاريع بين المحادثات ويستخدم التطبيقات المتصلة ويفوض المهام إلى Work أو Codex. يتاح عبر الويب والحاسوب والهاتف بحسب مراحل الإطلاق وشروط الحساب. ينبغي مراجعة الصلاحيات وشروط الفوترة.",
+    "officialSource": "https://help.openai.com/en/articles/20001530-getting-started-with-your-dot",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "kimi-agent": {
+    "fr": "Mode agent de Kimi, initialement nommé OK Computer, permettant de planifier des tâches complexes et de produire des sites web, présentations et documents. Accès via le Web et les applications compatibles, avec limites selon l'offre. Contrôler les sources et tester les fichiers générés avant publication.",
+    "en": "Kimi agent mode, originally called OK Computer, for planning complex tasks and producing websites, presentations and documents. Web and compatible app access with plan-dependent limits. Review sources and test generated files before publishing.",
+    "ar": "نمط الوكيل في Kimi المعروف سابقًا باسم OK Computer لتخطيط المهام المعقدة وإنتاج المواقع والعروض والوثائق. يتاح عبر الويب والتطبيقات المتوافقة بحدود تختلف بحسب الخطة. ينبغي مراجعة المصادر واختبار الملفات المولدة قبل النشر.",
+    "officialSource": "https://www.kimi.com/en/help/agent/agent-features-and-limits",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "amazon-alexa": {
+    "fr": "Assistant vocal d'Amazon intégré aux appareils compatibles et aux applications Alexa. Alexa+ ajoute des capacités conversationnelles génératives ; aux États-Unis, l'offre complète est incluse dans Prime ou accessible par abonnement distinct, avec expérience gratuite limitée sur le Web et mobile. Vérifier la disponibilité régionale et les autorisations domotiques.",
+    "en": "Amazon voice assistant integrated with compatible devices and Alexa apps. Alexa+ adds generative conversational capabilities; in the US, full access is included with Prime or a separate subscription, with limited free web and mobile access. Check regional availability and smart-home permissions.",
+    "ar": "مساعد صوتي من Amazon مدمج في الأجهزة المتوافقة وتطبيقات Alexa. يضيف Alexa+ إمكانات حوارية توليدية؛ وفي الولايات المتحدة يتاح العرض الكامل ضمن Prime أو باشتراك منفصل مع تجربة مجانية محدودة عبر الويب والهاتف. ينبغي التحقق من التوفر الإقليمي وصلاحيات المنزل الذكي.",
+    "officialSource": "https://www.aboutamazon.com/news/devices/alexa-plus-available-free-prime-members-us",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "samsung-bixby": {
+    "fr": "Assistant vocal intégré aux appareils Samsung compatibles pour commander certaines fonctions et effectuer des tâches courantes. L'accès nécessite notamment un compte Samsung et une connexion de données. Service lié à l'écosystème matériel ; les fonctions disponibles varient selon les appareils, langues et régions.",
+    "en": "Voice assistant integrated into compatible Samsung devices for controlling selected functions and everyday tasks. Access requires a Samsung account and data connection. Service tied to the hardware ecosystem; available features vary by device, language and region.",
+    "ar": "مساعد صوتي مدمج في أجهزة Samsung المتوافقة للتحكم في بعض الوظائف وإنجاز المهام اليومية. يتطلب الوصول حساب Samsung واتصالًا بالبيانات. ترتبط الخدمة بمنظومة الأجهزة وتختلف الوظائف بحسب الجهاز واللغة والمنطقة.",
+    "officialSource": "https://www.samsung.com/us/apps/bixby/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "huawei-celia": {
+    "fr": "Assistant vocal intégré à certains appareils Huawei, permettant d'interagir avec les fonctions compatibles du téléphone et de ses accessoires. Accès lié aux appareils et régions pris en charge ; aucun abonnement autonome confirmé. Vérifier la langue et la compatibilité dans la documentation du modèle.",
+    "en": "Voice assistant integrated into selected Huawei devices for interacting with supported phone and accessory functions. Access depends on supported devices and regions; no standalone subscription confirmed. Check language and compatibility in model documentation.",
+    "ar": "مساعد صوتي مدمج في بعض أجهزة Huawei يتيح التفاعل مع وظائف الهاتف والملحقات المتوافقة. يعتمد الوصول على الأجهزة والمناطق المدعومة؛ ولم يتأكد وجود اشتراك مستقل. ينبغي مراجعة اللغة والتوافق في وثائق الجهاز.",
+    "officialSource": "https://consumer.huawei.com/ca/support/content/en-us00977131/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "qwen-app": {
+    "fr": "Assistant conversationnel grand public reposant sur la famille de modèles Qwen. Accessible via le portail Qwen et les applications compatibles ; distinguer les conditions du service grand public de celles des API et des modèles téléchargeables. Vérifier les limites d'accès et les réponses factuelles.",
+    "en": "Consumer conversational assistant powered by the Qwen model family. Accessible via the Qwen portal and compatible apps; distinguish consumer service terms from API and downloadable model terms. Check access limits and factual responses.",
+    "ar": "مساعد حواري موجه لعامة المستخدمين يعتمد على عائلة نماذج Qwen. يتاح عبر بوابة Qwen والتطبيقات المتوافقة؛ ينبغي التمييز بين شروط خدمة المستخدمين وشروط الواجهات البرمجية والنماذج القابلة للتنزيل. ينبغي مراجعة حدود الوصول ودقة الإجابات.",
+    "officialSource": "https://qwen.ai/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "perplexity-assistant": {
+    "fr": "Assistant intégré à l'application Perplexity, associant recherche et assistance aux tâches telles que la rédaction de courriels ou la préparation de rendez-vous. Accès mobile selon le système, les permissions et l'offre Perplexity. Vérifier les sources et confirmer les réservations et autres actions externes.",
+    "en": "Assistant within the Perplexity app combining search and task assistance such as email drafting and appointment preparation. Mobile access depends on operating system, permissions and Perplexity plan. Verify sources and confirm bookings and other external actions.",
+    "ar": "مساعد مدمج في تطبيق Perplexity يجمع البحث والمساعدة في مهام مثل صياغة الرسائل الإلكترونية وإعداد المواعيد. يعتمد الوصول عبر الهاتف على نظام التشغيل والصلاحيات وخطة Perplexity. ينبغي مراجعة المصادر وتأكيد الحجوزات والإجراءات الخارجية الأخرى.",
+    "officialSource": "https://apps.apple.com/us/app/perplexity-ai-search-chat/id1668000334",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
