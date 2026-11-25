@@ -5549,5 +5549,47 @@
     "ar": "منصة مستضافة للوكلاء الصوتيين للمكالمات الواردة والصادرة في مراكز الاتصال، مع تكامل هاتفي وتحويل إلى الموظفين. تعتمد الفوترة على دقائق الاستخدام والمكونات، مع عقود مخصصة للمؤسسات. ينبغي توفير الموافقة واختبارات الجودة والتحويل إلى الدعم البشري.",
     "officialSource": "https://www.retellai.com/pricing?rel=nofollow&target=blank",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "world-labs": {
+    "fr": "Éditeur de Marble, modèle multimodal générant des environnements tridimensionnels explorables à partir de textes ou d’images. Le studio web propose des fonctions de génération et de contrôle spatial, avec offres et crédits selon les opérations. Les espaces synthétiques ne constituent pas des relevés métriques du monde réel.",
+    "en": "Developer of Marble, a multimodal model generating explorable 3D environments from text or images. The web studio offers generation and spatial controls with plans and operation-based credits. Synthetic spaces are not measured surveys of real environments.",
+    "ar": "مطوّر Marble، وهو نموذج متعدد الوسائط يولد بيئات ثلاثية الأبعاد قابلة للاستكشاف انطلاقًا من النصوص أو الصور. يوفر الاستوديو عبر الويب أدوات للتوليد والتحكم المكاني باشتراكات وأرصدة بحسب العمليات. لا تمثل البيئات الاصطناعية قياسات ميدانية للعالم الحقيقي.",
+    "officialSource": "https://marble.worldlabs.ai/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "interior-ai": {
+    "fr": "Service web de visualisation d’aménagement intérieur à partir de photographies, avec choix de styles et mise en scène virtuelle de pièces. Abonnements assortis de quotas de rendus. Les propositions servent à explorer des idées décoratives et non à valider des dimensions ou des contraintes constructives.",
+    "en": "Web service for interior design visualization from photographs, with style selection and virtual room staging. Subscriptions include rendering quotas. Outputs help explore design ideas rather than validate dimensions or construction constraints.",
+    "ar": "خدمة عبر الويب لتصور التصميم الداخلي انطلاقًا من الصور الفوتوغرافية مع اختيار الأنماط والتأثيث الافتراضي للغرف. توفر اشتراكات بحصص للتصيير. تساعد النتائج على استكشاف الأفكار الجمالية ولا تصلح للتحقق من الأبعاد أو القيود الإنشائية.",
+    "officialSource": "https://interiorai.com/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "testfit": {
+    "fr": "Plateforme de faisabilité immobilière pour explorer des scénarios d’implantation, surfaces, nombre de logements et hypothèses financières. Des outils paramétriques facilitent la comparaison des variantes. Offre professionnelle payante selon les produits. Faire vérifier les règles d’urbanisme et les calculs par des spécialistes.",
+    "en": "Real estate feasibility platform for exploring site layouts, areas, unit counts and financial assumptions. Parametric tools facilitate scenario comparisons. Paid professional offerings vary by product. Have specialists verify planning regulations and calculations.",
+    "ar": "منصة لدراسة الجدوى العقارية تستكشف سيناريوهات توزيع المباني والمساحات وعدد الوحدات والافتراضات المالية. تسهل الأدوات البارامترية مقارنة البدائل. تتوفر عروض مهنية مدفوعة بحسب المنتج. ينبغي التحقق من لوائح التعمير والحسابات بمساعدة المختصين.",
+    "officialSource": "https://www.testfit.io/product/site-solver",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "matterport": {
+    "fr": "Plateforme de numérisation d’espaces physiques permettant de constituer des jumeaux numériques et des visites 3D à partir de captures compatibles. Accès cloud avec abonnements selon les espaces actifs, matériels et exports éventuellement facturés séparément. Vérifier la précision requise et les autorisations de captation.",
+    "en": "Physical space digitization platform for creating digital twins and 3D tours from compatible captures. Cloud access with subscriptions based on active spaces; hardware and exports may cost extra. Verify required accuracy and capture permissions.",
+    "ar": "منصة لرقمنة الأماكن المادية وإنشاء توائم رقمية وجولات ثلاثية الأبعاد من عمليات التقاط متوافقة. تتاح سحابيًا باشتراكات تعتمد على المساحات النشطة، وقد تحسب تكلفة المعدات والتصدير بصورة منفصلة. ينبغي التحقق من الدقة المطلوبة وأذونات التصوير.",
+    "officialSource": "https://matterport.com/plans",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "inworld-ai": {
+    "fr": "Infrastructure pour développeurs proposant des services d’inférence de modèles linguistiques et des composants vocaux destinés aux applications interactives. Accès via interfaces de développement avec crédits et abonnements selon la consommation. Vérifier la latence, les coûts par composant et la protection des données conversationnelles.",
+    "en": "Developer infrastructure offering language model inference and voice components for interactive applications. Developer interfaces with credits and subscriptions tied to usage. Check latency, component costs and conversation data protection.",
+    "ar": "بنية تحتية للمطورين تقدم خدمات استدلال النماذج اللغوية ومكونات صوتية للتطبيقات التفاعلية. تتاح عبر واجهات تطوير مع أرصدة واشتراكات مرتبطة بالاستهلاك. ينبغي التحقق من زمن الاستجابة وتكاليف المكونات وحماية بيانات المحادثات.",
+    "officialSource": "https://inworld.ai/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "convai": {
+    "fr": "Plateforme de création et de déploiement de personnages conversationnels et d’avatars pour jeux, Web et expériences XR. Personnalisation de la voix, des connaissances et du comportement avec interfaces d’intégration. Offres selon les interactions et capacités de déploiement. Encadrer les réponses et tester les comportements en situation immersive.",
+    "en": "Platform for creating and deploying conversational characters and avatars in games, web applications and XR experiences. Voice, knowledge and behavior customization with integration interfaces. Plans vary by interactions and deployment capacity. Set response boundaries and test behavior in immersive contexts.",
+    "ar": "منصة لإنشاء ونشر الشخصيات الحوارية والصور الرمزية في الألعاب وتطبيقات الويب وتجارب الواقع الممتد. تتيح تخصيص الصوت والمعرفة والسلوك عبر واجهات التكامل. تختلف الخطط بحسب التفاعلات وقدرات النشر. ينبغي ضبط حدود الإجابات واختبار السلوك في البيئات الغامرة.",
+    "officialSource": "https://convai.com/pricing",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
