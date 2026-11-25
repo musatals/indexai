@@ -6879,5 +6879,26 @@
     "ar": "مخطط رحلات سابق اندمج في Layla بعد الاستحواذ عليه عام 2024. تقدم وظائف التخطيط حاليًا عبر Layla التي استحوذت عليها Expedia Group في 31 يوليو 2026. يتاح الوصول عبر الويب والهاتف من خلال Layla، وتخضع الشروط التجارية للمنصة وشركاء الحجز.",
     "officialSource": "https://layla.ai/roamaround",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "prospera": {
+    "fr": "Technologie agricole du groupe Valmont utilisant la vision artificielle, des caméras et des capteurs pour surveiller les cultures, détecter des anomalies et soutenir les décisions d'irrigation. Accès professionnel via les solutions Valley et leurs distributeurs ; conditions commerciales selon équipement et contrat. Valider les alertes sur le terrain.",
+    "en": "Valmont agricultural technology using computer vision, cameras and sensors to monitor crops, detect anomalies and support irrigation decisions. Professional access through Valley solutions and dealers; commercial terms depend on equipment and contract. Validate alerts in the field.",
+    "ar": "تقنية زراعية تابعة لمجموعة Valmont تستخدم الرؤية الحاسوبية والكاميرات والمستشعرات لمراقبة المحاصيل واكتشاف الشذوذ ودعم قرارات الري. تتاح مهنيًا عبر حلول Valley وموزعيها؛ وتعتمد الشروط التجارية على المعدات والعقد. ينبغي التحقق ميدانيًا من التنبيهات.",
+    "officialSource": "https://irrigationtoday.org/news/smart-irrigation-month-qa-prospera-technologies/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "descartes-labs": {
+    "fr": "Plateforme d'intelligence géospatiale exploitant des images satellitaires et des données complémentaires pour des analyses destinées notamment à l'agriculture, aux assurances et aux ressources naturelles. Acquise par EarthDaily Analytics en octobre 2024. Solutions professionnelles selon contrat ; aucun tarif public autonome confirmé. Vérifier la résolution, la date et la qualité des données.",
+    "en": "Geospatial intelligence platform using satellite imagery and complementary data for agriculture, insurance and natural resource analysis. Acquired by EarthDaily Analytics in October 2024. Professional solutions under contract; no standalone public price confirmed. Verify data resolution, date and quality.",
+    "ar": "منصة للاستخبارات الجغرافية تستخدم صور الأقمار الصناعية والبيانات المكملة لتحليلات الزراعة والتأمين والموارد الطبيعية. استحوذت عليها EarthDaily Analytics في أكتوبر 2024. تقدم حلولًا مهنية بحسب العقد؛ لم يتأكد وجود سعر عام مستقل. ينبغي التحقق من دقة البيانات وتاريخها وجودتها.",
+    "officialSource": "https://www.prnewswire.com/news-releases/earthdaily-analytics-announces-acquisition-of-descartes-labs-302276388.html",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "pachama": {
+    "fr": "Technologie de suivi des projets forestiers et du carbone associant données satellitaires et apprentissage automatique pour soutenir la mesure, la notification et la vérification (MRV). Acquise par Carbon Direct le 10 novembre 2025 ; la plateforme rejoint ses services scientifiques. Accès professionnel selon projet et contrat, sans tarif public autonome confirmé. Les estimations ne remplacent pas une vérification indépendante.",
+    "en": "Forest and carbon project monitoring technology combining satellite data and machine learning to support measurement, reporting and verification (MRV). Acquired by Carbon Direct on November 10, 2025; the platform joins its scientific services. Professional access by project and contract, with no confirmed standalone public pricing. Estimates do not replace independent verification.",
+    "ar": "تقنية لمراقبة مشاريع الغابات والكربون تجمع بيانات الأقمار الصناعية والتعلم الآلي لدعم القياس والإبلاغ والتحقق (MRV). استحوذت عليها Carbon Direct في 10 نوفمبر 2025 لتدمج المنصة في خدماتها العلمية. يتاح الوصول المهني بحسب المشروع والعقد دون سعر عام مستقل مؤكد. لا تغني التقديرات عن التحقق المستقل.",
+    "officialSource": "https://www.carbon-direct.com/press/carbon-direct-acquires-pachama",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
