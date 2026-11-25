@@ -5360,5 +5360,33 @@
     "ar": "عائلة نماذج من Google DeepMind لتوليد الفيديو انطلاقًا من التعليمات النصية أو الصور. تولد الإصدارات المتوافقة صوتًا متزامنًا أيضًا. يتوقف الوصول والتسعير على الخدمة المدمجة والنموذج؛ ينبغي مراجعة استمرارية المشاهد ودقة الحوار.",
     "officialSource": "https://deepmind.google/models/veo/",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "genmo": {
+    "fr": "Éditeur du modèle de génération vidéo Mochi 1, dont les poids et le code sont distribués sous licence Apache 2.0. Le dépôt permet l'expérimentation locale avec des ressources GPU adaptées. Évaluer la fluidité du mouvement et le respect des consignes ; les coûts de calcul restent à la charge de l'utilisateur.",
+    "en": "Developer of the Mochi 1 video generation model, with weights and code released under Apache 2.0. The repository supports local experimentation with suitable GPU resources. Evaluate motion and prompt adherence; computing costs remain the user's responsibility.",
+    "ar": "مطوّر نموذج Mochi 1 لتوليد الفيديو، الذي تتاح أوزانه وشيفرته بموجب ترخيص Apache 2.0. يتيح المستودع التجارب المحلية باستخدام موارد معالجة رسومية مناسبة. ينبغي تقييم سلاسة الحركة والالتزام بالتعليمات؛ وتبقى تكاليف الحوسبة على عاتق المستخدم.",
+    "officialSource": "https://github.com/genmoai/mochi",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "open-sora": {
+    "fr": "Projet de recherche de HPC-AI Tech sur la génération vidéo, proposant des modèles, du code et des ressources d'entraînement et d'inférence. Accessible via le dépôt et une infrastructure de calcul adaptée. Vérifier la licence de chaque version et des poids associés avant un usage commercial.",
+    "en": "HPC-AI Tech research project on video generation providing models, code, training and inference resources. Accessible through the repository and suitable computing infrastructure. Check each release and associated weights' licensing before commercial use.",
+    "ar": "مشروع بحثي من HPC-AI Tech لتوليد الفيديو يوفر نماذج وشيفرة وموارد للتدريب والاستدلال. يتاح عبر المستودع وبنية حوسبة مناسبة. ينبغي مراجعة ترخيص كل إصدار والأوزان المرتبطة به قبل الاستخدام التجاري.",
+    "officialSource": "https://github.com/hpcaitech/Open-Sora",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "higgsfield": {
+    "fr": "Studio web de génération et d'édition audiovisuelle réunissant plusieurs modèles. Cinema Studio propose des réglages de caméra, d'objectif et d'éclairage ainsi que des références visuelles. Les abonnements et crédits varient selon les modèles ; vérifier la continuité des plans et les autorisations des personnes représentées.",
+    "en": "Web-based audiovisual creation and editing studio combining multiple models. Cinema Studio provides camera, lens and lighting settings plus visual references. Subscriptions and credits vary by model; check shot continuity and permissions of depicted individuals.",
+    "ar": "استوديو عبر الويب لإنشاء المحتوى السمعي البصري وتحريره باستخدام عدة نماذج. يوفر Cinema Studio إعدادات للكاميرا والعدسات والإضاءة ومراجع بصرية. تختلف الاشتراكات والأرصدة بحسب النموذج؛ ينبغي مراجعة استمرارية اللقطات وأذونات الأشخاص الممثلين فيها.",
+    "officialSource": "https://higgsfield.ai/creator-hub/help-center/tools/how-do-i-use-cinema-studio",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "pollo-ai": {
+    "fr": "Plateforme web de création vidéo assistée par IA combinant plusieurs modèles de génération à partir de texte ou d'images. Elle propose des outils pour préparer des clips promotionnels, des présentations et des contenus pour les réseaux sociaux. Les offres payantes et quotas varient ; vérifier les droits et les résultats avant diffusion.",
+    "en": "Web-based AI video creation platform combining multiple text-to-video and image-to-video models. Its tools support promotional clips, presentations and social media content. Paid plans and quotas vary; check usage rights and outputs before distribution.",
+    "ar": "منصة ويب لإنشاء الفيديو بالذكاء الاصطناعي تجمع عدة نماذج للتوليد انطلاقًا من النصوص أو الصور. توفر أدوات لإعداد المقاطع الترويجية والعروض ومحتوى الشبكات الاجتماعية. تختلف الاشتراكات المدفوعة والحصص؛ ينبغي مراجعة الحقوق والنتائج قبل النشر.",
+    "officialSource": "https://pollo.ai/hub/best-ai-video-generators",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
