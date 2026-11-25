@@ -5003,5 +5003,75 @@
     "ar": "محرك للمعرفة القابلة للحوسبة يستخدم البيانات المنظمة والخوارزميات لحل المسائل الرياضية والعلمية والكمية. يتوفر عبر الويب والواجهات البرمجية. ينبغي مراجعة الافتراضات والوحدات وتواريخ البيانات المستخدمة.",
     "officialSource": "https://www.wolframalpha.com/tour",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "inciteful": {
+    "fr": "Outil de découverte scientifique qui construit un réseau de citations à partir de publications de départ et utilise des algorithmes de graphe pour repérer des travaux apparentés. Compléter cette exploration par des recherches indépendantes afin de limiter les biais de couverture.",
+    "en": "Literature discovery tool building citation networks from seed publications and applying graph algorithms to identify related work. Complement exploration with independent searches to limit coverage bias.",
+    "ar": "أداة لاكتشاف الأدبيات العلمية تبني شبكة استشهادات انطلاقًا من منشورات مرجعية وتستخدم خوارزميات الرسوم البيانية لتحديد الأعمال المرتبطة. ينبغي استكمال الاستكشاف بعمليات بحث مستقلة للحد من تحيز التغطية.",
+    "officialSource": "https://incitefulmed.com/academic/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "undermind": {
+    "fr": "Assistant de recherche bibliographique conçu pour explorer des questions scientifiques complexes formulées en langage naturel. Il aide à identifier des études pertinentes et à approfondir la recherche. Documenter les critères de sélection et vérifier les résultats dans les articles originaux.",
+    "en": "Literature research assistant designed to investigate complex scientific questions expressed in natural language. Helps identify relevant studies and deepen searches. Document selection criteria and verify findings in original papers.",
+    "ar": "مساعد للبحث الببليوغرافي مصمم لاستكشاف الأسئلة العلمية المعقدة المصاغة باللغة الطبيعية. يساعد على تحديد الدراسات ذات الصلة وتعميق البحث. ينبغي توثيق معايير الاختيار والتحقق من النتائج في المقالات الأصلية.",
+    "officialSource": "https://www.undermind.ai/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "iris-ai": {
+    "fr": "Environnement RSpace pour explorer, filtrer, résumer et interroger des corpus scientifiques. Le module Extract structure des données issues de textes et tableaux selon des variables prédéfinies, avec harmonisation possible des unités. Vérifier les valeurs et leur contexte dans les sources.",
+    "en": "RSpace research workspace for exploring, filtering, summarizing and querying scientific corpora. Extract structures data from text and tables using predefined variables, with optional unit normalization. Verify values and context in original sources.",
+    "ar": "بيئة RSpace لاستكشاف المدونات العلمية وتصفيتها وتلخيصها والاستفسار عنها. تنظم أداة Extract البيانات من النصوص والجداول وفق متغيرات محددة مسبقًا مع إمكانية توحيد الوحدات. ينبغي التحقق من القيم وسياقها في المصادر الأصلية.",
+    "officialSource": "https://iris.ai/help-center/rspace/overview-of-the-extract-tool",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "dimensions": {
+    "fr": "Base d'information scientifique reliant publications, citations, financements, brevets, essais cliniques et données de recherche. Elle permet des analyses bibliométriques et institutionnelles. Vérifier la couverture, la désambiguïsation des auteurs et les limites des indicateurs.",
+    "en": "Research information database linking publications, citations, grants, patents, clinical trials and research datasets. Supports bibliometric and institutional analysis. Check coverage, author disambiguation and indicator limitations.",
+    "ar": "قاعدة معلومات علمية تربط المنشورات والاستشهادات والتمويلات وبراءات الاختراع والتجارب السريرية ومجموعات بيانات البحث. تتيح التحليل الببليومتري والمؤسسي. ينبغي مراجعة التغطية وتمييز المؤلفين وحدود المؤشرات.",
+    "officialSource": "https://www.dimensions.ai/dimensions-data/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "zotero": {
+    "fr": "Gestionnaire bibliographique libre permettant de collecter des références, organiser des bibliothèques, annoter des PDF et insérer des citations dans les traitements de texte. Il constitue une infrastructure documentaire plutôt qu'un LLM. Vérifier les métadonnées importées et les styles bibliographiques.",
+    "en": "Open-source reference manager for collecting references, organizing libraries, annotating PDFs and inserting citations into word processors. It is document infrastructure rather than an LLM. Verify imported metadata and citation styles.",
+    "ar": "مدير مراجع مفتوح المصدر لجمع المراجع وتنظيم المكتبات وإضافة التعليقات إلى ملفات PDF وإدراج الاستشهادات في معالجات النصوص. يمثل بنية وثائقية وليس نموذجًا لغويًا كبيرًا. ينبغي مراجعة البيانات الوصفية المستوردة وأنماط الاستشهاد.",
+    "officialSource": "https://www.zotero.org/support/quick_start_guide",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "nanonets": {
+    "fr": "Plateforme de traitement documentaire associant OCR, analyse de structure et extraction de données depuis textes, tableaux et formulaires. Les sorties peuvent alimenter des processus métiers par API. Contrôler les champs extraits et prévoir une validation des documents ambigus.",
+    "en": "Document processing platform combining OCR, layout analysis and extraction from text, tables and forms. Outputs can feed business workflows through APIs. Verify extracted fields and plan review of ambiguous documents.",
+    "ar": "منصة لمعالجة المستندات تجمع التعرف البصري على الحروف وتحليل البنية واستخراج البيانات من النصوص والجداول والنماذج. يمكن تغذية عمليات الأعمال بالمخرجات عبر API. ينبغي مراجعة الحقول المستخرجة والتحقق من المستندات الملتبسة.",
+    "officialSource": "https://nanonets.com/document-parsing-and-extraction",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "klippa": {
+    "fr": "Technologie de traitement intelligent des documents dont le produit DocHorizon est désormais nommé Doxis AI.dp. Elle associe OCR, classification, extraction et vérification de documents. Les alertes de fraude restent des indications à examiner, et non une preuve définitive.",
+    "en": "Intelligent document processing technology whose DocHorizon product is now called Doxis AI.dp. Combines OCR, classification, extraction and document verification. Fraud alerts require review and are not definitive proof.",
+    "ar": "تقنية للمعالجة الذكية للمستندات أصبح منتجها DocHorizon يحمل اسم Doxis AI.dp. تجمع التعرف البصري على الحروف والتصنيف والاستخراج والتحقق من الوثائق. تبقى تنبيهات الاحتيال مؤشرات تستلزم المراجعة وليست أدلة قاطعة.",
+    "officialSource": "https://www.klippa.com/en/dochorizon/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "google-document-ai": {
+    "fr": "Service Google Cloud de traitement documentaire proposant des processeurs OCR, de classification et d'extraction structurée selon les types de documents. Les fonctionnalités et langues varient par processeur. Tester les documents cibles et contrôler les régions de traitement et les permissions.",
+    "en": "Google Cloud document processing service with OCR, classification and structured extraction processors for different document types. Features and languages vary by processor. Test target documents and review processing regions and permissions.",
+    "ar": "خدمة من Google Cloud لمعالجة المستندات توفر معالجات للتعرف البصري على الحروف والتصنيف والاستخراج المنظم بحسب نوع الوثيقة. تختلف الوظائف واللغات حسب المعالج. ينبغي اختبار الوثائق المستهدفة ومراجعة مناطق المعالجة والصلاحيات.",
+    "officialSource": "https://docs.cloud.google.com/document-ai/docs/overview",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "mistral-ocr": {
+    "fr": "API de reconnaissance et d'analyse documentaire de Mistral AI pour transformer des PDF et images en contenus exploitables. OCR 4.1 fournit notamment des coordonnées de blocs et des scores de confiance. Vérifier les tableaux, formules, ordre de lecture et passages multilingues avant indexation.",
+    "en": "Mistral AI document recognition and analysis API transforming PDFs and images into usable content. OCR 4.1 includes block coordinates and confidence scores. Verify tables, formulas, reading order and multilingual passages before indexing.",
+    "ar": "واجهة برمجية من Mistral AI للتعرف على المستندات وتحليلها وتحويل ملفات PDF والصور إلى محتوى قابل للمعالجة. يوفر OCR 4.1 إحداثيات الكتل ودرجات الثقة. ينبغي مراجعة الجداول والصيغ وترتيب القراءة والمقاطع متعددة اللغات قبل الفهرسة.",
+    "officialSource": "https://docs.mistral.ai/studio/document-processing/basic-ocr",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "askyourpdf": {
+    "fr": "Assistant de lecture permettant d'interroger des documents importés et d'obtenir des réponses avec renvois aux passages sources. Il peut faciliter la comparaison et la synthèse de documents selon l'offre. Vérifier chaque citation dans le fichier original et les conditions de confidentialité.",
+    "en": "Reading assistant for querying uploaded documents and obtaining answers referencing source passages. Supports document comparison and synthesis depending on plan. Verify each citation in the original file and review privacy terms.",
+    "ar": "مساعد للقراءة يتيح الاستفسار عن المستندات المستوردة والحصول على إجابات مع إحالات إلى المقاطع الأصلية. يسهل مقارنة المستندات وتلخيصها بحسب الاشتراك. ينبغي التحقق من كل استشهاد في الملف الأصلي وشروط الخصوصية.",
+    "officialSource": "https://askyourpdf.com/chat-with-documents",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
