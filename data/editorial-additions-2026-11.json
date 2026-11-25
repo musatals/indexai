@@ -6207,5 +6207,54 @@
     "ar": "وكلاء للمؤسسات يستفيدون من المصادر الداخلية والأدوات المتصلة لاسترجاع المعلومات وأتمتة مسارات العمل. توفر Glean وكلاء مستقلين ووكلاء لمسارات العمل مع اختيار النماذج بحسب الإعداد. يقيس عرض Enterprise Flex عمليات التنفيذ بأرصدة FlexCredits وفق تعقيدها. ينبغي احترام صلاحيات الوثائق.",
     "officialSource": "https://docs.glean.com/administration/managing-agents/set-up-llms",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "mindstudio": {
+    "fr": "Plateforme web de conception et de déploiement d’agents sans code, avec accès à différents modèles et extension Chrome pour exécuter des agents. Les offres individuelles et professionnelles distinguent les capacités de création et les frais de modèles. Tester les workflows avant publication.",
+    "en": "Web platform for no-code agent building and deployment, with multiple models and a Chrome extension for running agents. Individual and business plans distinguish building capabilities and model charges. Test workflows before publishing.",
+    "ar": "منصة ويب لإنشاء الوكلاء ونشرهم دون برمجة، تتيح نماذج متعددة وإضافة Chrome لتشغيل الوكلاء. تميز الخطط الفردية والمهنية بين إمكانات الإنشاء وتكاليف النماذج. ينبغي اختبار مسارات العمل قبل النشر.",
+    "officialSource": "https://www.mindstudio.ai/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "agentops": {
+    "fr": "Service d’observabilité pour applications agentiques, avec SDK Python pour enregistrer les événements, suivre les coûts et examiner les sessions. Tableau de bord hébergé et facturation à l’usage selon l’offre. Éviter de transmettre des secrets dans les traces.",
+    "en": "Observability service for agentic applications, with a Python SDK for recording events, tracking costs and examining sessions. Hosted dashboard and usage-based billing depending on plan. Avoid transmitting secrets in traces.",
+    "ar": "خدمة لمراقبة التطبيقات الوكيلية توفر حزمة Python لتسجيل الأحداث وتتبع التكاليف وفحص الجلسات. تتاح لوحة متابعة مستضافة وفوترة بحسب الاستخدام والخطة. ينبغي تجنب إرسال الأسرار ضمن سجلات التنفيذ.",
+    "officialSource": "https://www.agentops.ai/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "agentuity": {
+    "fr": "Infrastructure cloud conçue pour déployer et exploiter des agents IA, avec outils de télémétrie et de diagnostic des sessions. Accès développeur et tarification selon les ressources et l’offre. Configurer la rétention des données et surveiller les coûts.",
+    "en": "Cloud infrastructure for deploying and operating AI agents with session telemetry and debugging tools. Developer access and pricing based on resources and plan. Configure data retention and monitor costs.",
+    "ar": "بنية سحابية لنشر وكلاء الذكاء الاصطناعي وتشغيلهم مع أدوات للقياس عن بعد وتشخيص الجلسات. تتاح للمطورين بتسعير يعتمد على الموارد والخطة. ينبغي ضبط الاحتفاظ بالبيانات ومراقبة التكاليف.",
+    "officialSource": "https://agentuity.com/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "stackai": {
+    "fr": "Plateforme web de conception visuelle d’agents et de workflows sans code, reliant modèles, sources documentaires et applications métiers. Propose des interfaces et points d’accès API, avec offres commerciales et contrats Enterprise. Tester la qualité des réponses et les permissions des connecteurs.",
+    "en": "Web-based visual no-code agent and workflow builder connecting models, document sources and business applications. Provides interfaces and API endpoints, with commercial plans and enterprise contracts. Test response quality and connector permissions.",
+    "ar": "منصة ويب مرئية لإنشاء الوكلاء ومسارات العمل دون برمجة تربط النماذج والمصادر الوثائقية وتطبيقات الأعمال. توفر واجهات ونقاط وصول برمجية مع عروض تجارية وعقود للمؤسسات. ينبغي اختبار جودة الإجابات وصلاحيات الموصلات.",
+    "officialSource": "https://www.stackai.com/platform/workflow",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "dust": {
+    "fr": "Plateforme collaborative de création d’agents personnalisés exploitant les connaissances internes, les outils MCP et différents modèles. Les workflows peuvent être déclenchés par des événements ou planifiés. Accès web avec crédits gratuits limités, abonnements par utilisateur et contrats Enterprise. Respecter les droits documentaires.",
+    "en": "Collaborative platform for custom agents using internal knowledge, MCP tools and multiple models. Workflows can be scheduled or event-triggered. Web access with limited free credits, per-user subscriptions and enterprise contracts. Respect document permissions.",
+    "ar": "منصة تعاونية لإنشاء وكلاء مخصصين يستخدمون المعرفة الداخلية وأدوات MCP ونماذج متعددة. يمكن جدولة مسارات العمل أو تشغيلها عند وقوع أحداث. تتاح عبر الويب بأرصدة مجانية محدودة واشتراكات لكل مستخدم وعقود للمؤسسات. ينبغي احترام صلاحيات الوثائق.",
+    "officialSource": "https://dust.tt/home/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "beam-ai": {
+    "fr": "Plateforme professionnelle d’automatisation agentique pour traiter des processus tels que le rapprochement de factures et commandes ou la gestion des demandes. Accès institutionnel sur offre commerciale, sans tarif public confirmé. Définir des règles de validation et de transfert humain.",
+    "en": "Enterprise agentic automation platform for processes such as invoice and purchase order matching or request handling. Institutional access under commercial terms, with no confirmed public price. Define validation and human handoff rules.",
+    "ar": "منصة مهنية للأتمتة الوكيلية لمعالجة عمليات مثل مطابقة الفواتير وأوامر الشراء وإدارة الطلبات. يتاح الوصول المؤسسي وفق عرض تجاري دون سعر عام مؤكد. ينبغي تحديد قواعد التحقق والتحويل إلى الموظفين.",
+    "officialSource": "https://beam.ai/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "cohere-north": {
+    "fr": "Plateforme agentique d’entreprise de Cohere pour interroger des ressources internes, automatiser des tâches et créer des agents via une interface ou des workflows API. North 2 met l’accent sur les options de déploiement et le contrôle des données. Tarification professionnelle personnalisée ; vérifier la résidence des données et les permissions.",
+    "en": "Cohere enterprise agentic platform for querying internal resources, automating tasks and creating agents through an interface or API workflows. North 2 emphasizes deployment options and data control. Custom enterprise pricing; review data residency and permissions.",
+    "ar": "منصة وكيلية للمؤسسات من Cohere للاستعلام عن الموارد الداخلية وأتمتة المهام وإنشاء الوكلاء عبر واجهة أو مسارات برمجية. يركز North 2 على خيارات النشر والتحكم في البيانات. يعتمد التسعير المهني على عروض مخصصة؛ ينبغي مراجعة مكان تخزين البيانات والصلاحيات.",
+    "officialSource": "https://cohere.com/north",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
