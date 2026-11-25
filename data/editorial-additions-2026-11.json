@@ -6018,5 +6018,40 @@
     "ar": "متصفح وكيلي تجريبي يجمع التصفح وأدوات الأتمتة. تتيح خطة مجانية ربط الوكلاء الخارجيين عبر MCP أو واجهة سطر أوامر المتصفح؛ وتخضع إمكانات الذكاء الاصطناعي المدمجة لعروض منفصلة. ينبغي مراجعة الإجراءات قبل إرسال البيانات أو إجراء المعاملات.",
     "officialSource": "https://blogs.opera.com/news/2026/08/your-ai-agents-can-use-opera-neon-free-of-charge/",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "claude-cowork": {
+    "fr": "Assistant agentique d’Anthropic pour réaliser des tâches à plusieurs étapes, analyser des fichiers et produire des livrables. Accessible sur le Web, sur ordinateur et sur mobile selon les abonnements payants et les paramètres d’organisation. Superviser les accès aux fichiers et aux applications connectées.",
+    "en": "Anthropic agentic assistant for completing multistep tasks, analyzing files and producing deliverables. Available on web, desktop and mobile depending on paid plans and organization settings. Supervise file and connected application access.",
+    "ar": "مساعد وكيلي من Anthropic لإنجاز المهام متعددة الخطوات وتحليل الملفات وإنتاج المخرجات. يتاح عبر الويب والحاسوب والهاتف بحسب الاشتراكات المدفوعة وإعدادات المؤسسة. ينبغي الإشراف على صلاحيات الوصول إلى الملفات والتطبيقات المتصلة.",
+    "officialSource": "https://support.claude.com/en/articles/15520349-use-claude-cowork-on-web-desktop-and-mobile",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "claude-in-chrome": {
+    "fr": "Intégration de Claude au navigateur Chrome pour naviguer, cliquer, saisir du texte et remplir des formulaires dans les tâches autorisées. Compatible avec certains workflows Cowork et Claude Code ; accès selon abonnement et paramètres administratifs. Vérifier les actions sensibles et les permissions des sites.",
+    "en": "Claude integration with Chrome for browsing, clicking, typing and filling forms in authorized tasks. Supports selected Cowork and Claude Code workflows; access depends on subscription and administrator settings. Review sensitive actions and site permissions.",
+    "ar": "تكامل Claude مع متصفح Chrome للتصفح والنقر وإدخال النصوص وملء النماذج ضمن المهام المصرح بها. يدعم بعض مسارات Cowork وClaude Code؛ ويعتمد الوصول على الاشتراك وإعدادات المسؤول. ينبغي مراجعة الإجراءات الحساسة وأذونات المواقع.",
+    "officialSource": "https://support.claude.com/en/articles/12012173-get-started-with-claude-in-chrome",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "gemini-spark": {
+    "fr": "Agent personnel intégré à Gemini pour déléguer des tâches à plusieurs étapes et automatiser certaines activités numériques, notamment via Chrome. Accessible aux abonnés Google AI Pro et Ultra dans les pays pris en charge. Définir les autorisations et vérifier les actions avant les engagements importants.",
+    "en": "Personal agent integrated into Gemini for delegating multistep tasks and automating selected digital activities, including through Chrome. Available to Google AI Pro and Ultra subscribers in supported countries. Define permissions and review actions before major commitments.",
+    "ar": "وكيل شخصي مدمج في Gemini لتفويض المهام متعددة الخطوات وأتمتة بعض الأنشطة الرقمية، ومنها التصفح عبر Chrome. يتاح لمشتركي Google AI Pro وUltra في البلدان المدعومة. ينبغي تحديد الصلاحيات ومراجعة الإجراءات قبل الالتزامات المهمة.",
+    "officialSource": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-july-2026/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "genspark-super-agent": {
+    "fr": "Assistant agentique par session orchestrant recherche, code, fichiers et outils spécialisés pour produire des livrables. Accessible via Genspark avec modes Standard et Ultra ; abonnements, quotas hebdomadaires admissibles et crédits selon l’usage. Contrôler les sources et les fichiers générés.",
+    "en": "Session-based agentic assistant orchestrating research, code, files and specialized tools to produce deliverables. Available through Genspark in Standard and Ultra modes; subscriptions, eligible weekly allowances and usage credits apply. Review sources and generated files.",
+    "ar": "مساعد وكيلي يعمل ضمن جلسات وينسق البحث والشيفرة والملفات والأدوات المتخصصة لإنتاج المخرجات. يتاح عبر Genspark بنمطي Standard وUltra مع اشتراكات وحصص أسبوعية مؤهلة وأرصدة بحسب الاستخدام. ينبغي مراجعة المصادر والملفات المولدة.",
+    "officialSource": "https://www.genspark.ai/helpcenter/super-agent",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "perplexity-comet": {
+    "fr": "Navigateur intégrant un assistant IA capable d’exploiter le contexte des onglets et d’aider à réaliser des tâches de navigation. Disponible notamment sur ordinateur et Android ; fonctions et limites selon l’offre Perplexity. Vérifier les autorisations et les informations transmises aux sites.",
+    "en": "Browser integrating an AI assistant that uses tab context and helps complete browsing tasks. Available notably on desktop and Android; features and limits depend on the Perplexity offering. Review permissions and information shared with websites.",
+    "ar": "متصفح يدمج مساعدًا للذكاء الاصطناعي يستفيد من سياق علامات التبويب ويساعد على إنجاز مهام التصفح. يتاح خصوصًا على الحاسوب وأندرويد، وتختلف الوظائف والحدود بحسب عرض Perplexity. ينبغي مراجعة الصلاحيات والمعلومات المرسلة إلى المواقع.",
+    "officialSource": "https://www.perplexity.ai/en-GB/hub/blog/comet-for-android-is-here",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
