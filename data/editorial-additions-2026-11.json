@@ -6564,5 +6564,572 @@
     "ar": "حل لتخصيص متاجر Shopify يوفر التوصيات وإدارة عروض السلة وعروض ما بعد الشراء واختبارات A/B. تختلف خدمة Rebuy Monetize المجانية عن الوحدات المدفوعة التي ترتبط تكلفتها جزئيًا بعدد الطلبات. ينبغي مراجعة ملاءمة العروض وتجنب الواجهات المضللة.",
     "officialSource": "https://www.rebuyengine.com/pricing",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "freepik-ai": {
+    "fr": "Suite créative Magnific, anciennement Freepik, réunissant génération et retouche d’images, vidéo, audio et bibliothèque de contenus. Accès web et API selon l’offre, avec accès gratuit limité, abonnements et crédits. Vérifier les licences et conditions d’attribution.",
+    "en": "Magnific creative suite, formerly Freepik, combining image generation and editing, video, audio and a stock library. Web and API access depending on plan, with limited free access, subscriptions and credits. Check licensing and attribution requirements.",
+    "ar": "مجموعة Magnific الإبداعية المعروفة سابقًا باسم Freepik تجمع توليد الصور وتحريرها والفيديو والصوت ومكتبة المحتوى. تتاح عبر الويب والواجهات البرمجية بحسب الخطة، مع وصول مجاني محدود واشتراكات وأرصدة. ينبغي مراجعة التراخيص وشروط نسب المحتوى.",
+    "officialSource": "https://www.freepik.com/ai/faq/freepik-subscriptions-plans",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "decktopus": {
+    "fr": "Outil web pour générer des présentations et modifier les diapositives à l’aide de l’IA, avec modèles et outils de partage. Propose des abonnements individuels et professionnels avec crédits d’IA, également utilisables via son serveur MCP. Vérifier les textes et la mise en page avant diffusion.",
+    "en": "Web tool for generating presentations and editing slides with AI, including templates and sharing tools. Individual and business subscriptions include AI credits, also usable through its MCP server. Review text and layout before distribution.",
+    "ar": "أداة ويب لتوليد العروض وتعديل الشرائح بالذكاء الاصطناعي مع قوالب وأدوات مشاركة. توفر اشتراكات فردية ومهنية بأرصدة للذكاء الاصطناعي يمكن استخدامها عبر خادم MCP أيضًا. ينبغي مراجعة النصوص والتنسيق قبل النشر.",
+    "officialSource": "https://www.decktopus.com/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "presentations-ai": {
+    "fr": "Générateur de présentations à partir d’instructions textuelles, avec modèles visuels, actualisation de données et suivi des présentations selon l’offre. Accès web et API ; crédits d’essai, abonnements et consommation par diapositive pour l’API. Vérifier les données et la cohérence graphique.",
+    "en": "Presentation generator using text instructions, visual templates, data refresh and presentation analytics depending on plan. Web and API access; trial credits, subscriptions and per-slide API usage. Review data and visual consistency.",
+    "ar": "مولد عروض تقديمية انطلاقًا من تعليمات نصية، مع قوالب مرئية وتحديث البيانات وتحليلات العروض بحسب الخطة. يتاح عبر الويب والواجهات البرمجية مع أرصدة تجريبية واشتراكات واستهلاك محسوب لكل شريحة عبر الواجهة البرمجية. ينبغي مراجعة البيانات والاتساق البصري.",
+    "officialSource": "https://docs.presentations.ai/docs/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "magicslides": {
+    "fr": "Assistant de création de diapositives depuis un sujet ou du contenu fourni, utilisable sur le Web et via une extension Google Slides. Les présentations peuvent être exportées en PPTX ou PDF selon l’offre. Plans avec quotas et fonctions premium. Contrôler la fidélité de l’export.",
+    "en": "Slide creation assistant using a topic or supplied content, available on the web and through a Google Slides add-on. Presentations can be exported to PPTX or PDF depending on plan. Plans include quotas and premium features. Check export fidelity.",
+    "ar": "مساعد لإنشاء الشرائح انطلاقًا من موضوع أو محتوى مقدم، يتاح عبر الويب وإضافة Google Slides. يمكن تصدير العروض بصيغتي PPTX وPDF بحسب الخطة. تتضمن العروض حصصًا ووظائف مميزة. ينبغي التحقق من دقة التنسيق بعد التصدير.",
+    "officialSource": "https://www.magicslides.app/addon",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "canva-presentations": {
+    "fr": "Fonctions de création de présentations dans Canva, notamment Magic Design pour proposer des structures et mises en page à partir d’instructions. Accès via Canva sur le Web et les applications compatibles ; utilisation gratuite limitée et quotas supérieurs selon l’abonnement. Vérifier les droits des éléments visuels.",
+    "en": "Canva presentation creation features, including Magic Design for suggesting structures and layouts from prompts. Access via Canva web and compatible apps; limited free use and higher allowances depending on subscription. Check visual asset rights.",
+    "ar": "وظائف إنشاء العروض في Canva ومنها Magic Design لاقتراح البنية والتنسيق بناءً على التعليمات. تتاح عبر الويب والتطبيقات المتوافقة مع استخدام مجاني محدود وحصص أكبر بحسب الاشتراك. ينبغي مراجعة حقوق العناصر البصرية.",
+    "officialSource": "https://www.canva.com/magic-design/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "slidespeak": {
+    "fr": "Assistant de création de présentations à partir de documents Word, PDF, Excel ou d’instructions textuelles. Édition et export PowerPoint ou PDF, avec API pour automatiser les rapports. Accès web par abonnement et crédits ; API facturée selon l’usage. Vérifier les données et le rendu des fichiers.",
+    "en": "Presentation assistant using Word, PDF, Excel documents or text prompts. Editing and PowerPoint or PDF export, with an API for automated reports. Web subscriptions and credits; usage-based API billing. Review data and file rendering.",
+    "ar": "مساعد لإنشاء العروض من مستندات Word وPDF وExcel أو التعليمات النصية. يوفر التحرير والتصدير إلى PowerPoint أو PDF وواجهة برمجية لأتمتة التقارير. يتاح عبر الويب باشتراكات وأرصدة وتحتسب رسوم الواجهة بحسب الاستخدام. ينبغي مراجعة البيانات ومظهر الملفات.",
+    "officialSource": "https://slidespeak.co/help/articles/how-credits-work-in-slidespeak",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "homestyler": {
+    "fr": "Plateforme de conception intérieure 3D accessible sur le Web. AI Planner génère des plans modifiables à partir des besoins en pièces et en surface ; import DWG, bibliothèques de mobilier et rendus selon l’offre. Formule gratuite et abonnements avec quotas de rendu et crédits IA. Vérifier dimensions et contraintes techniques.",
+    "en": "Web-based 3D interior design platform. AI Planner generates editable floor plans from room and area requirements; DWG import, furniture libraries and renders depend on plan. Free tier and subscriptions with rendering allowances and AI credits. Verify dimensions and technical constraints.",
+    "ar": "منصة ويب للتصميم الداخلي ثلاثي الأبعاد. يولد AI Planner مخططات قابلة للتعديل بناء على احتياجات الغرف والمساحة، مع استيراد DWG ومكتبات الأثاث والتصيير بحسب الخطة. تتوفر خطة مجانية واشتراكات بحصص للتصيير وأرصدة للذكاء الاصطناعي. ينبغي التحقق من الأبعاد والقيود التقنية.",
+    "officialSource": "https://www.homestyler.com/pricing?lang=en_US",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "planner-5d": {
+    "fr": "Logiciel de conception intérieure 2D et 3D avec reconnaissance de plans importés et création de modèles réutilisables à partir de photos. Accès web et applications compatibles ; offre gratuite et abonnements Premium ou Professional avec quotas IA et rendus. Vérifier les mesures et les coûts estimés.",
+    "en": "2D and 3D interior design software with uploaded floor plan recognition and reusable model creation from photos. Web and compatible apps; free tier and Premium or Professional subscriptions with AI and rendering allowances. Verify measurements and cost estimates.",
+    "ar": "برنامج للتصميم الداخلي ثنائي وثلاثي الأبعاد يتعرف على المخططات المستوردة وينشئ نماذج قابلة لإعادة الاستخدام من الصور. يتاح عبر الويب والتطبيقات المتوافقة مع خطة مجانية واشتراكات Premium وProfessional وحصص للذكاء الاصطناعي والتصيير. ينبغي التحقق من القياسات والتكاليف المقدرة.",
+    "officialSource": "https://planner5d.com/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "coohom": {
+    "fr": "Plateforme cloud de conception intérieure transformant des plans importés en projets 3D modifiables, avec catalogues d’objets, rendus et fonctions professionnelles de nomenclature et d’actifs paramétriques. Accès web, offre gratuite limitée et abonnements ou devis professionnels. Contrôler les dimensions et les données de production.",
+    "en": "Cloud interior design platform converting uploaded floor plans into editable 3D projects, with object libraries, rendering and professional bills of materials and parametric assets. Web access, limited free offering and subscriptions or enterprise quotes. Check dimensions and production data.",
+    "ar": "منصة سحابية للتصميم الداخلي تحول المخططات المستوردة إلى مشاريع ثلاثية الأبعاد قابلة للتعديل مع مكتبات العناصر والتصيير ووظائف مهنية لقوائم المواد والعناصر البارامترية. تتاح عبر الويب بخطة مجانية محدودة واشتراكات أو عروض أسعار مهنية. ينبغي مراجعة الأبعاد وبيانات الإنتاج.",
+    "officialSource": "https://www.coohom.com/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "foyr-neo": {
+    "fr": "Logiciel web de conception et présentation d’intérieurs associant plans 2D, scènes 3D, mobilier et rendus photoréalistes. Foyr propose également des fonctions de visualisation en réalité augmentée. Abonnements professionnels selon projets et capacités de rendu. Vérifier l’échelle, les matériaux et les mesures avant réalisation.",
+    "en": "Web interior design and presentation software combining 2D floor plans, 3D scenes, furniture and photorealistic renders. Foyr also offers augmented reality visualization features. Professional subscriptions vary by projects and rendering capacity. Verify scale, materials and measurements before construction.",
+    "ar": "برنامج ويب لتصميم المساحات الداخلية وعرضها يجمع المخططات الثنائية الأبعاد والمشاهد الثلاثية والأثاث والتصيير الواقعي. توفر Foyr أيضًا وظائف للعرض بالواقع المعزز. تختلف الاشتراكات المهنية بحسب المشاريع وقدرات التصيير. ينبغي التحقق من المقياس والمواد والقياسات قبل التنفيذ.",
+    "officialSource": "https://foyr.com/pricing/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "lookx-ai": {
+    "fr": "Plateforme de génération visuelle destinée à l’architecture et au design, permettant d’explorer des rendus et variantes stylistiques à partir de références. Accès via LookX AI Cloud, offres commerciales et options professionnelles selon la formule. Les images constituent des propositions conceptuelles, pas des plans constructifs validés.",
+    "en": "Visual generation platform for architecture and design, exploring renders and stylistic variations from references. Access through LookX AI Cloud, commercial plans and professional options depending on tier. Images are conceptual proposals, not validated construction drawings.",
+    "ar": "منصة للتوليد البصري مخصصة للعمارة والتصميم لاستكشاف التصييرات والبدائل الأسلوبية انطلاقًا من المراجع. تتاح عبر LookX AI Cloud بعروض تجارية وخيارات مهنية بحسب الخطة. الصور مقترحات تصورية وليست مخططات تنفيذ معتمدة.",
+    "officialSource": "https://www.lookx.ai/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "autodesk-forma": {
+    "fr": "Environnement cloud Autodesk pour la conception architecturale et urbaine préliminaire, notamment Forma Site Design et Forma Building Design. Analyses prédictives, modélisation conceptuelle et connexions avec Revit, Rhino et formats IFC ou OBJ selon le produit. Essai et abonnements professionnels, dont la collection AEC. Faire valider les analyses et contraintes réglementaires.",
+    "en": "Autodesk cloud environment for early architectural and urban design, including Forma Site Design and Forma Building Design. Predictive analysis, conceptual modeling and connections with Revit, Rhino and IFC or OBJ formats depending on product. Trial and professional subscriptions, including AEC Collection. Validate analysis and regulatory constraints.",
+    "ar": "بيئة سحابية من Autodesk للتصميم المعماري والحضري الأولي تشمل Forma Site Design وForma Building Design. توفر التحليلات التنبؤية والنمذجة التصورية والتكامل مع Revit وRhino وصيغ IFC أو OBJ بحسب المنتج. تتاح تجربة واشتراكات مهنية تشمل مجموعة AEC. ينبغي اعتماد التحليلات والتحقق من القيود التنظيمية.",
+    "officialSource": "https://www.autodesk.com/products/forma/buy",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "veras": {
+    "fr": "Application de visualisation générative d’EvolveLAB, désormais dans l’écosystème Chaos, exploitant la géométrie ou l’image d’un projet pour explorer des rendus architecturaux. Accès web et intégrations compatibles, notamment Revit et Forma ; licences commerciales et tarifs étudiants. Les rendus ne garantissent pas la fidélité géométrique ni la faisabilité technique.",
+    "en": "Generative visualization application from EvolveLAB, now in the Chaos ecosystem, using project geometry or imagery to explore architectural renders. Web access and compatible integrations including Revit and Forma; commercial licenses and student pricing. Renders do not guarantee geometric fidelity or technical feasibility.",
+    "ar": "تطبيق للتصور التوليدي من EvolveLAB ضمن منظومة Chaos يستخدم هندسة المشروع أو صوره لاستكشاف التصييرات المعمارية. يتاح عبر الويب والتكاملات المتوافقة ومنها Revit وForma، بتراخيص تجارية وأسعار للطلاب. لا تضمن التصييرات الدقة الهندسية أو قابلية التنفيذ التقنية.",
+    "officialSource": "https://www.evolvelab.io/veras",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "maket": {
+    "fr": "Outil web de conception résidentielle permettant de générer des plans par étage, dessiner ou importer un plan et explorer des rendus 3D. Accès gratuit limité et abonnements avec crédits consommés par génération. Faire valider les dimensions et la conformité par un professionnel.",
+    "en": "Web-based residential design tool generating floor plans by storey, supporting manual drawing or plan uploads and exploring 3D renders. Limited free access and subscriptions with generation credits. Have dimensions and compliance reviewed by a professional.",
+    "ar": "أداة ويب للتصميم السكني تتيح توليد المخططات لكل طابق ورسمها أو استيرادها واستكشاف التصييرات الثلاثية الأبعاد. تتوفر بخطة مجانية محدودة واشتراكات بأرصدة للتوليد. ينبغي عرض الأبعاد والمطابقة التنظيمية على مختص.",
+    "officialSource": "https://www.maket.ai/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "virtual-staging-ai": {
+    "fr": "Service web de mise en scène immobilière virtuelle ajoutant du mobilier aux photographies de pièces. Abonnements selon le volume de photographies traitées. Signaler les images modifiées dans les annonces et éviter de masquer les caractéristiques réelles du bien.",
+    "en": "Web virtual property staging service adding furniture to room photographs. Subscriptions depend on photo volume. Disclose edited listing images and avoid concealing actual property features.",
+    "ar": "خدمة ويب للتأثيث العقاري الافتراضي تضيف الأثاث إلى صور الغرف. تعتمد الاشتراكات على عدد الصور المعالجة. ينبغي الإفصاح عن الصور المعدلة في الإعلانات وتجنب إخفاء الخصائص الحقيقية للعقار.",
+    "officialSource": "https://www.virtualstaging.ai/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "restb-ai": {
+    "fr": "Service B2B de vision par ordinateur analysant les photos immobilières pour en extraire des caractéristiques et métadonnées structurées. Intégration aux plateformes et flux de données immobiliers ; tarification sur devis selon les biens analysés, modules et débit de requêtes. Vérifier les attributs inférés.",
+    "en": "B2B computer vision service extracting structured attributes and metadata from real estate photographs. Integrates with property platforms and data pipelines; custom pricing by analyzed properties, modules and request throughput. Validate inferred attributes.",
+    "ar": "خدمة رؤية حاسوبية للمؤسسات تستخرج الخصائص والبيانات الوصفية المهيكلة من الصور العقارية. تتكامل مع المنصات ومسارات البيانات العقارية؛ ويحدد السعر حسب العقارات المحللة والوحدات ومعدل الطلبات. ينبغي التحقق من الخصائص المستنتجة.",
+    "officialSource": "https://restb.ai/company/faq/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "scenario": {
+    "fr": "Plateforme de production créative pour les studios et artistes, générant images, vidéos, audio et modèles 3D avec entraînement de modèles personnalisés pour maintenir un style cohérent. Accès web et API, abonnements et unités de calcul consommées selon les modèles. Vérifier les droits sur les références et la qualité des actifs exportés.",
+    "en": "Creative production platform for studios and artists generating images, video, audio and 3D models, with custom model training for consistent styles. Web and API access, subscriptions and compute units consumed according to model. Check reference rights and exported asset quality.",
+    "ar": "منصة للإنتاج الإبداعي للفنانين والاستوديوهات تولد الصور والفيديو والصوت والنماذج الثلاثية الأبعاد مع تدريب نماذج مخصصة للحفاظ على اتساق الأسلوب. تتاح عبر الويب والواجهات البرمجية باشتراكات ووحدات حوسبة تستهلك بحسب النموذج. ينبغي مراجعة حقوق المراجع وجودة العناصر المصدرة.",
+    "officialSource": "https://www.scenario.com/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "ludo-ai": {
+    "fr": "Suite de création de ressources pour jeux vidéo : sprites animés, textures, interfaces, effets sonores et modèles 3D avec rigging et export GLB. Accès web, CLI, API, MCP et extension Unity ; essai et abonnements à crédits. Tester les performances et les licences dans le moteur cible.",
+    "en": "Game asset creation suite for animated sprites, textures, interfaces, sound effects and rigged 3D models with GLB export. Web, CLI, API, MCP and Unity plugin access; trial and credit-based subscriptions. Test performance and licenses in the target engine.",
+    "ar": "مجموعة لإنشاء عناصر ألعاب الفيديو تشمل الرسوم المتحركة ثنائية الأبعاد والخامات والواجهات والمؤثرات الصوتية والنماذج الثلاثية الأبعاد المزودة بهياكل تحريك وتصدير GLB. تتاح عبر الويب وسطر الأوامر والواجهات البرمجية وMCP وإضافة Unity، مع تجربة واشتراكات بالأرصدة. ينبغي اختبار الأداء والتراخيص في محرك الألعاب المستهدف.",
+    "officialSource": "https://ludo.ai/docs/game-asset-generation",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "rosebud-ai": {
+    "fr": "Plateforme web permettant de prototyper des jeux interactifs à partir d'instructions textuelles, avec génération de ressources et édition du code selon l'offre. Hébergement intégré, accès gratuit limité et abonnements à crédits ; droits commerciaux et projets privés selon la formule. Tester le code et les droits avant publication.",
+    "en": "Web platform for prototyping interactive games from text instructions, with asset generation and code editing depending on plan. Integrated hosting, limited free access and credit subscriptions; commercial rights and private projects depend on tier. Test code and rights before publishing.",
+    "ar": "منصة ويب لإنشاء نماذج أولية لألعاب تفاعلية من تعليمات نصية، مع توليد العناصر وتحرير الشيفرة بحسب الخطة. توفر استضافة مدمجة ووصولًا مجانيًا محدودًا واشتراكات بالأرصدة؛ وتعتمد الحقوق التجارية والمشاريع الخاصة على الخطة. ينبغي اختبار الشيفرة ومراجعة الحقوق قبل النشر.",
+    "officialSource": "https://www.play.rosebud.ai/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "layer-ai": {
+    "fr": "Plateforme de production visuelle pour studios de jeux, avec modèles personnalisés, ensembles de références, génération 3D et workflows créatifs. Accès web et intégrations notamment Photoshop, Premiere Pro et Figma. Facturation selon les Creative Units consommées par modèle, avec forfaits et achats supplémentaires. Vérifier les droits et la cohérence artistique.",
+    "en": "Visual production platform for game studios with custom models, reference sets, 3D generation and creative workflows. Web access and integrations including Photoshop, Premiere Pro and Figma. Billing through model-specific Creative Units, with plans and top-ups. Check rights and artistic consistency.",
+    "ar": "منصة للإنتاج البصري لاستوديوهات الألعاب توفر نماذج مخصصة ومجموعات مراجع وتوليدًا ثلاثي الأبعاد ومسارات إبداعية. تتاح عبر الويب وتتكامل مع Photoshop وPremiere Pro وFigma. تعتمد الفوترة على وحدات Creative Units بحسب النموذج مع خطط وشراء أرصدة إضافية. ينبغي مراجعة الحقوق والاتساق الفني.",
+    "officialSource": "https://layer.ai/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "ready-player-me": {
+    "fr": "Service historique de création d'avatars 3D personnalisables et d'intégration dans des applications immersives et jeux. Les partenaires ont confirmé la fermeture des services le 31 janvier 2026 ; les anciens SDK et API ne doivent plus être considérés comme opérationnels. Fiche conservée à titre documentaire ; prévoir une migration et vérifier les droits sur les avatars exportés.",
+    "en": "Historical service for customizable 3D avatars integrated into immersive applications and games. Partners confirmed service closure on January 31, 2026; legacy SDKs and APIs should no longer be considered operational. Retained for documentary purposes; plan migration and review exported avatar rights.",
+    "ar": "خدمة تاريخية لإنشاء صور رمزية ثلاثية الأبعاد قابلة للتخصيص ودمجها في التطبيقات الغامرة والألعاب. أكد الشركاء إغلاق الخدمات في 31 يناير 2026؛ ولا ينبغي اعتبار حزم التطوير والواجهات البرمجية السابقة عاملة. يحتفظ بالسجل لأغراض توثيقية؛ ينبغي التخطيط للانتقال ومراجعة حقوق الصور الرمزية المصدرة.",
+    "officialSource": "https://help.rooom.com/hc/en-us/articles/43089347158801-Switch-from-Ready-Player-Me-to-the-rooom-Avatar-System",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "replica-studios": {
+    "fr": "Ancien studio de synthèse vocale pour jeux vidéo et productions audiovisuelles. Le site officiel annonce la fermeture du service ; les anciens abonnements ne doivent plus être présentés comme disponibles. Fiche historique : vérifier les licences des enregistrements exportés.",
+    "en": "Former voice synthesis studio for games and audiovisual productions. The official website announces service closure; legacy subscriptions should no longer be presented as available. Historical entry: check licenses for exported recordings.",
+    "ar": "استوديو سابق لتوليد الأصوات لألعاب الفيديو والإنتاج السمعي البصري. يعلن الموقع الرسمي إغلاق الخدمة؛ ولا ينبغي تقديم الاشتراكات السابقة على أنها متاحة. سجل تاريخي مع ضرورة مراجعة تراخيص التسجيلات المصدرة.",
+    "officialSource": "https://www.replicastudios.com/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "unity-muse": {
+    "fr": "Ancienne suite IA de Unity pour la création de ressources et l’assistance au développement de jeux. Unity indique que Muse est déprécié et propose désormais Unity AI dans son éditeur, avec modèles tiers, essai et crédits selon abonnement. Consulter les conditions de migration et les droits sur les ressources.",
+    "en": "Former Unity AI suite for asset creation and game development assistance. Unity describes Muse as deprecated and now offers Unity AI in its editor, with third-party models, trial and subscription-dependent credits. Review migration terms and asset rights.",
+    "ar": "مجموعة سابقة من Unity لإنشاء عناصر الألعاب والمساعدة في تطويرها. تشير Unity إلى إهمال Muse وتوفر حاليًا Unity AI في محررها مع نماذج خارجية وتجربة وأرصدة بحسب الاشتراك. ينبغي مراجعة شروط الانتقال وحقوق العناصر.",
+    "officialSource": "https://unity.com/features/ai",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "papercup": {
+    "fr": "Technologie historique de doublage vidéo par IA visant à préserver le rythme, le ton et l’émotion des intervenants. RWS a acquis sa propriété intellectuelle en juin 2025. Pour les nouveaux projets, consulter les offres professionnelles de localisation RWS sur devis plutôt que les anciens tarifs Papercup. Vérifier consentement et qualité linguistique.",
+    "en": "Historical AI video dubbing technology designed to preserve speakers’ pacing, tone and emotion. RWS acquired its intellectual property in June 2025. For new projects consult RWS enterprise localization services by quotation rather than legacy Papercup pricing. Verify consent and linguistic quality.",
+    "ar": "تقنية تاريخية لدبلجة الفيديو بالذكاء الاصطناعي تهدف إلى الحفاظ على إيقاع المتحدث ونبرته وعاطفته. استحوذت RWS على ملكيتها الفكرية في يونيو 2025. للمشاريع الجديدة ينبغي الرجوع إلى خدمات التوطين المهنية لدى RWS وفق عرض سعر بدل الأسعار القديمة. ينبغي التحقق من الموافقة والجودة اللغوية.",
+    "officialSource": "https://www.rws.com/about/news/2025/rws-acquires-papercups-ip/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "amper-music": {
+    "fr": "Ancienne plateforme de composition musicale personnalisable exploitant des échantillons instrumentaux enregistrés. Shutterstock a annoncé l’acquisition de certains actifs en 2020. La disponibilité d’un abonnement Amper autonome n’est pas confirmée ; fiche documentaire. Vérifier les licences historiques avant réutilisation.",
+    "en": "Former customizable music composition platform using recorded instrumental samples. Shutterstock announced acquisition of selected assets in 2020. Availability of a standalone Amper subscription is unconfirmed; historical entry. Check legacy licenses before reuse.",
+    "ar": "منصة سابقة لتأليف الموسيقى القابلة للتخصيص باستخدام عينات آلات مسجلة. أعلنت Shutterstock الاستحواذ على بعض أصولها عام 2020. لم يتأكد توفر اشتراك مستقل في Amper؛ ويحتفظ بالسجل لأغراض توثيقية. ينبغي مراجعة التراخيص السابقة قبل إعادة الاستخدام.",
+    "officialSource": "https://investor.shutterstock.com/news-releases/news-release-details/shutterstock-announces-acquisition-amper-music",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "nvidia-ace": {
+    "fr": "Suite de technologies NVIDIA pour créer des personnages numériques interactifs avec reconnaissance et synthèse vocales, modèles linguistiques et animation faciale Audio2Face. Accès développeur par microservices NIM et workflows de référence ; coûts de calcul, licences et support professionnel selon déploiement. Tester la latence et la compatibilité matérielle.",
+    "en": "NVIDIA technology suite for interactive digital humans with speech recognition and synthesis, language models and Audio2Face facial animation. Developer access through NIM microservices and reference workflows; compute, licensing and enterprise support costs depend on deployment. Test latency and hardware compatibility.",
+    "ar": "مجموعة تقنيات من NVIDIA لإنشاء شخصيات رقمية تفاعلية تجمع التعرف على الكلام وتوليده والنماذج اللغوية وتحريك الوجه عبر Audio2Face. تتاح للمطورين عبر خدمات NIM المصغرة ومسارات مرجعية؛ وتعتمد تكاليف الحوسبة والتراخيص والدعم على النشر. ينبغي اختبار زمن الاستجابة وتوافق الأجهزة.",
+    "officialSource": "https://developer.nvidia.com/blog/build-lifelike-digital-humans-with-nvidia-ace-now-generally-available/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "listnr": {
+    "fr": "Studio web de synthèse vocale, traduction, création de podcasts et clonage vocal, avec API pour intégrer la parole aux applications. Offres commerciales selon volumes et fonctionnalités. Obtenir le consentement des personnes dont la voix est reproduite et vérifier les droits de diffusion.",
+    "en": "Web studio for text-to-speech, translation, podcast creation and voice cloning, with an API for integrating speech into applications. Commercial plans depend on volumes and features. Obtain consent from people whose voices are replicated and check distribution rights.",
+    "ar": "استوديو ويب لتحويل النص إلى كلام والترجمة وإنشاء المدونات الصوتية واستنساخ الأصوات، مع واجهة برمجية لدمج الكلام في التطبيقات. تعتمد العروض التجارية على الحجم والوظائف. ينبغي الحصول على موافقة أصحاب الأصوات ومراجعة حقوق النشر.",
+    "officialSource": "https://listnr.ai/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "choppity": {
+    "fr": "Éditeur vidéo web qui analyse des séquences longues pour proposer des clips courts, ajouter des sous-titres et faciliter le montage. Abonnements selon les heures d’analyse et les capacités d’édition. Vérifier les extraits et sous-titres avant diffusion.",
+    "en": "Web video editor analyzing long recordings to suggest short clips, add captions and simplify editing. Subscriptions depend on analysis hours and editing capabilities. Review excerpts and captions before publishing.",
+    "ar": "محرر فيديو عبر الويب يحلل التسجيلات الطويلة لاقتراح مقاطع قصيرة وإضافة التسميات التوضيحية وتسهيل المونتاج. تعتمد الاشتراكات على ساعات التحليل وقدرات التحرير. ينبغي مراجعة المقاطع والنصوص قبل النشر.",
+    "officialSource": "https://www.choppity.com/pricing/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "ecrett-music": {
+    "fr": "Générateur web de musique d’accompagnement de SOUNDRAW permettant de choisir une ambiance et un genre, puis de personnaliser la structure musicale. Abonnements et licences selon les usages autorisés. La musique libre de redevances reste soumise aux conditions de licence ; vérifier notamment les restrictions de redistribution.",
+    "en": "SOUNDRAW web background music generator allowing users to choose moods and genres and customize musical structure. Subscriptions and licenses depend on authorized uses. Royalty-free music remains subject to license terms; check redistribution restrictions.",
+    "ar": "مولد موسيقى مصاحبة عبر الويب من SOUNDRAW يتيح اختيار الأجواء والنوع وتخصيص البنية الموسيقية. تعتمد الاشتراكات والتراخيص على الاستخدامات المصرح بها. تظل الموسيقى المعفاة من الإتاوات خاضعة لشروط الترخيص؛ ينبغي مراجعة قيود إعادة التوزيع.",
+    "officialSource": "https://ecrettmusic.com/terms",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "lara-translate": {
+    "fr": "Service de traduction de Translated spécialisé dans les textes, documents, images et audio, avec adaptation stylistique et terminologique. Accès web, SDK, API et MCP ; offre gratuite limitée, abonnements et facturation API selon les caractères sources ou la durée audio. Faire relire les traductions sensibles.",
+    "en": "Translated's specialized translation service for text, documents, images and audio, with stylistic and terminology adaptation. Web, SDK, API and MCP access; limited free tier, subscriptions and API billing by source characters or audio duration. Have sensitive translations reviewed.",
+    "ar": "خدمة ترجمة من Translated متخصصة في النصوص والوثائق والصور والصوت مع تكييف الأسلوب والمصطلحات. تتاح عبر الويب وحزم التطوير والواجهات البرمجية وMCP، بخطة مجانية محدودة واشتراكات وفوترة بحسب حروف النص المصدر أو مدة الصوت. ينبغي مراجعة الترجمات الحساسة.",
+    "officialSource": "https://laratranslate.com/translate",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "playground-ai": {
+    "fr": "Éditeur graphique génératif pour créer et retoucher des compositions avec des calques de texte, images et formes. Accès web et application compatible, offre gratuite limitée et abonnements à crédits dont la consommation dépend du modèle. Vérifier les droits des ressources et les textes générés.",
+    "en": "Generative graphic editor for creating and editing designs with text, image and shape layers. Web and compatible app access, limited free tier and credit subscriptions with model-specific usage. Review asset rights and generated text.",
+    "ar": "محرر رسومي توليدي لإنشاء التصاميم وتعديلها باستخدام طبقات النص والصور والأشكال. يتاح عبر الويب والتطبيقات المتوافقة مع خطة مجانية محدودة واشتراكات بالأرصدة يختلف استهلاكها بحسب النموذج. ينبغي مراجعة حقوق العناصر والنصوص المولدة.",
+    "officialSource": "https://playgroundai.com/design/whats-new",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "mage-space": {
+    "fr": "Plateforme web multimodèle pour générer et modifier images, vidéos et audio, avec import de modèles LoRA selon l’offre. Propose API, SDK Python et TypeScript et serveur MCP. Accès gratuit limité, abonnements et unités Gems selon les opérations. Vérifier licences et confidentialité des créations.",
+    "en": "Multi-model web platform for generating and editing images, video and audio, with LoRA import depending on plan. Offers API, Python and TypeScript SDKs and MCP server. Limited free access, subscriptions and Gems for operations. Review licenses and creation privacy.",
+    "ar": "منصة ويب متعددة النماذج لتوليد الصور والفيديو والصوت وتعديلها، مع استيراد LoRA بحسب الخطة. توفر واجهة برمجية وحزم Python وTypeScript وخادم MCP. تتاح بخطة مجانية محدودة واشتراكات ووحدات Gems بحسب العمليات. ينبغي مراجعة التراخيص وخصوصية المخرجات.",
+    "officialSource": "https://www.mage.space/membership",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "clockwise": {
+    "fr": "Ancien assistant de calendrier qui réorganisait les réunions flexibles et réservait des plages de concentration. Le service a annoncé sa fermeture en mars 2026 et recommandé une transition vers Reclaim. Fiche historique : les anciens abonnements ne sont plus à présenter comme disponibles.",
+    "en": "Former calendar assistant that rescheduled flexible meetings and protected focus time. The service announced shutdown in March 2026 and recommended transition to Reclaim. Historical entry: legacy subscriptions should no longer be presented as available.",
+    "ar": "مساعد سابق للتقويم يعيد جدولة الاجتماعات المرنة ويحجز أوقات التركيز. أعلنت الخدمة إغلاقها في مارس 2026 وأوصت بالانتقال إلى Reclaim. سجل تاريخي؛ لا ينبغي تقديم الاشتراكات السابقة باعتبارها متاحة.",
+    "officialSource": "https://getclockwise.com/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "sunsama": {
+    "fr": "Planificateur quotidien combinant tâches, calendriers et organisation volontaire de la charge de travail. Accès web et applications compatibles avec intégrations aux outils professionnels. Essai puis abonnement individuel ; vérifier les autorisations des calendriers connectés.",
+    "en": "Daily planner combining tasks, calendars and intentional workload planning. Web and compatible apps with workplace integrations. Trial followed by individual subscription; review connected calendar permissions.",
+    "ar": "مخطط يومي يجمع المهام والتقويمات والتنظيم الواعي لعبء العمل. يتاح عبر الويب والتطبيقات المتوافقة مع تكاملات مهنية. تجربة ثم اشتراك فردي؛ ينبغي مراجعة صلاحيات التقويمات المتصلة.",
+    "officialSource": "https://help.sunsama.com/docs/billing/overview/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "obviously-ai": {
+    "fr": "Plateforme de science des données sans code pour entraîner des modèles prédictifs à partir de tableaux, notamment classification, régression et prévision temporelle. Accès web et intégrations API, offres commerciales et quotas de prédictions. Évaluer les modèles sur des données indépendantes.",
+    "en": "No-code data science platform for training predictive models from tabular data, including classification, regression and time-series forecasting. Web and API integrations, commercial plans and prediction quotas. Evaluate models on independent data.",
+    "ar": "منصة لعلوم البيانات دون برمجة لتدريب نماذج تنبؤية من البيانات الجدولية تشمل التصنيف والانحدار والتنبؤ الزمني. تتاح عبر الويب والتكاملات البرمجية بعروض تجارية وحصص للتنبؤات. ينبغي تقييم النماذج على بيانات مستقلة.",
+    "officialSource": "https://obviously.ai/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "polymer": {
+    "fr": "Outil de business intelligence sans code pour transformer des tableaux en visualisations et tableaux de bord, avec assistant PolymerAI et intégration API. Accès web, abonnements et quotas de réponses IA selon la formule. Contrôler les agrégations et les permissions de partage.",
+    "en": "No-code business intelligence tool turning spreadsheets into visualizations and dashboards, with PolymerAI assistant and API integration. Web access, subscriptions and plan-dependent AI response quotas. Review aggregations and sharing permissions.",
+    "ar": "أداة ذكاء أعمال دون برمجة لتحويل الجداول إلى تصورات ولوحات معلومات مع مساعد PolymerAI وتكامل برمجي. تتاح عبر الويب باشتراكات وحصص لإجابات الذكاء الاصطناعي بحسب الخطة. ينبغي مراجعة التجميعات وصلاحيات المشاركة.",
+    "officialSource": "https://www.polymersearch.com/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "wanderlog": {
+    "fr": "Planificateur de voyages collaboratif réunissant cartes, itinéraires, budget et réservations. L'assistant IA aide à préparer les visites ; accès web et mobile, formule gratuite et abonnement Pro avec optimisation des trajets et accès hors ligne. Vérifier les horaires auprès des prestataires.",
+    "en": "Collaborative trip planner combining maps, itineraries, budget and bookings. AI assistant helps plan visits; web and mobile access, free tier and Pro subscription with route optimization and offline access. Verify schedules with providers.",
+    "ar": "مخطط رحلات تعاوني يجمع الخرائط والمسارات والميزانية والحجوزات. يساعد المساعد الذكي في إعداد الزيارات؛ يتاح عبر الويب والهاتف بخطة مجانية واشتراك Pro لتحسين المسارات والوصول دون اتصال. ينبغي التحقق من المواعيد لدى مقدمي الخدمات.",
+    "officialSource": "https://wanderlog.com/pro",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "wonderplan": {
+    "fr": "Planificateur web générant des itinéraires personnalisés selon les préférences du voyageur, avec possibilité de réorganiser, ajouter ou supprimer des étapes. Le service se présente actuellement comme gratuit. Vérifier les horaires, tarifs et conditions auprès des prestataires.",
+    "en": "Web trip planner generating personalized itineraries with options to reorder, add or remove stops. The service currently describes itself as free. Verify schedules, prices and conditions with providers.",
+    "ar": "مخطط رحلات عبر الويب يولد مسارات مخصصة حسب تفضيلات المسافر ويتيح إعادة ترتيب المحطات وإضافتها أو حذفها. تقدم الخدمة نفسها حاليًا على أنها مجانية. ينبغي التحقق من المواعيد والأسعار والشروط لدى مقدمي الخدمات.",
+    "officialSource": "https://wonderplan.ai/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "guidegeek": {
+    "fr": "Assistant touristique conversationnel de Matador Network proposant des recommandations et itinéraires via des canaux de messagerie compatibles. Gratuit pour les voyageurs ; solutions personnalisées pour les organismes touristiques selon contrat. Vérifier les renseignements pratiques avant le départ.",
+    "en": "Matador Network conversational travel assistant offering recommendations and itineraries through supported messaging channels. Free for travelers; customized solutions for tourism organizations under contract. Verify practical details before departure.",
+    "ar": "مساعد سفر حواري من Matador Network يقدم توصيات ومسارات عبر قنوات المراسلة المتوافقة. مجاني للمسافرين مع حلول مخصصة للهيئات السياحية بحسب العقد. ينبغي التحقق من المعلومات العملية قبل السفر.",
+    "officialSource": "https://guidegeek.com/social",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "vacay": {
+    "fr": "Assistant web de voyage proposant des recherches personnalisées et un éditeur interactif d’itinéraires. Offre personnelle gratuite et abonnements premium et professionnels selon disponibilité. Vérifier tarifs et réservations auprès des prestataires.",
+    "en": "Web travel assistant offering personalized searches and an interactive itinerary editor. Free personal tier and premium and professional subscriptions subject to availability. Verify prices and bookings with providers.",
+    "ar": "مساعد سفر عبر الويب يقدم عمليات بحث مخصصة ومحررًا تفاعليًا لمسارات الرحلات. يوفر خطة شخصية مجانية واشتراكات مميزة ومهنية بحسب التوفر. ينبغي التحقق من الأسعار والحجوزات لدى مقدمي الخدمات.",
+    "officialSource": "https://www.usevacay.com/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "trip-planner-ai": {
+    "fr": "Portail web d’exploration de destinations et de préparation de voyages. Ses conditions orientent les utilisateurs vers Layla AI et des partenaires pour la planification détaillée et les réservations. Les frais éventuels relèvent des offres partenaires ; aucun tarif autonome confirmé.",
+    "en": "Web portal for destination exploration and trip preparation. Its terms direct users to Layla AI and partners for detailed planning and bookings. Applicable charges depend on partner offerings; no standalone price confirmed.",
+    "ar": "بوابة ويب لاستكشاف الوجهات وإعداد الرحلات. توجه شروطها المستخدمين إلى Layla AI والشركاء للتخطيط المفصل والحجز. تعتمد الرسوم المحتملة على عروض الشركاء؛ لم يتأكد وجود سعر مستقل.",
+    "officialSource": "https://tripplanner.ai/terms",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "google-maps-gemini": {
+    "fr": "Fonctions Gemini intégrées à Google Maps, dont Ask Maps pour explorer les lieux et préparer des itinéraires et l’assistance conversationnelle en navigation. Accès via les applications compatibles, sans abonnement spécifique annoncé pour ces fonctions grand public ; disponibilité variable selon régions et appareils. Vérifier les conditions réelles.",
+    "en": "Gemini features integrated into Google Maps, including Ask Maps for place discovery and itinerary planning and conversational navigation assistance. Compatible apps, with no dedicated subscription announced for these consumer features; availability varies by region and device. Verify actual conditions.",
+    "ar": "وظائف Gemini المدمجة في خرائط Google، ومنها Ask Maps لاستكشاف الأماكن وإعداد المسارات والمساعدة الحوارية أثناء التنقل. تتاح عبر التطبيقات المتوافقة دون إعلان اشتراك خاص بهذه الوظائف للمستهلكين؛ ويختلف التوفر بحسب المنطقة والجهاز. ينبغي التحقق من الظروف الفعلية.",
+    "officialSource": "https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "yummly": {
+    "fr": "Ancienne plateforme de recettes et de planification des repas avec recommandations personnalisées. L'éditeur a annoncé la fermeture définitive du site et des applications en décembre 2024. Fiche historique : aucun abonnement actif à recommander.",
+    "en": "Former recipe and meal planning platform with personalized recommendations. The publisher announced permanent closure of its website and apps in December 2024. Historical entry; no active subscription to recommend.",
+    "ar": "منصة سابقة للوصفات وتخطيط الوجبات مع توصيات مخصصة. أعلن الناشر الإغلاق النهائي للموقع والتطبيقات في ديسمبر 2024. سجل تاريخي؛ لا يوجد اشتراك نشط يمكن التوصية به.",
+    "officialSource": "https://milled.com/yummly.com/important-notice-yummly-discontinuation-sF5GpZgHP5VctzYY",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "chefgpt": {
+    "fr": "Assistant culinaire de MIU Digital proposant des recettes, des programmes de repas et un suivi des calories. Accessible sur les applications iOS et Android ; achats intégrés et abonnements Pro dont les tarifs varient. Vérifier les allergènes, les valeurs nutritionnelles et les températures de cuisson.",
+    "en": "MIU Digital cooking assistant offering recipes, meal plans and calorie tracking. Available on iOS and Android apps; in-app purchases and Pro subscriptions with variable pricing. Verify allergens, nutritional values and cooking temperatures.",
+    "ar": "مساعد طبخ من MIU Digital يقترح وصفات وبرامج للوجبات ويتابع السعرات الحرارية. يتاح عبر تطبيقات iOS وAndroid مع مشتريات داخل التطبيق واشتراكات Pro بأسعار متغيرة. ينبغي التحقق من مسببات الحساسية والقيم الغذائية ودرجات الطهي.",
+    "officialSource": "https://apps.apple.com/us/app/chefgpt-ai-calories-tracker/id6449961549",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "roam-around": {
+    "fr": "Ancien planificateur d'itinéraires touristiques intégré à Layla après son acquisition en 2024. Les fonctions de planification sont désormais proposées via Layla, acquise par Expedia Group le 31 juillet 2026. Accès web et mobile via Layla ; les conditions commerciales relèvent de cette plateforme et des partenaires de réservation.",
+    "en": "Former travel itinerary planner integrated into Layla after its acquisition in 2024. Planning features are now offered through Layla, acquired by Expedia Group on July 31, 2026. Web and mobile access through Layla; commercial terms depend on that platform and booking partners.",
+    "ar": "مخطط رحلات سابق اندمج في Layla بعد الاستحواذ عليه عام 2024. تقدم وظائف التخطيط حاليًا عبر Layla التي استحوذت عليها Expedia Group في 31 يوليو 2026. يتاح الوصول عبر الويب والهاتف من خلال Layla، وتخضع الشروط التجارية للمنصة وشركاء الحجز.",
+    "officialSource": "https://layla.ai/roamaround",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "prospera": {
+    "fr": "Technologie agricole du groupe Valmont utilisant la vision artificielle, des caméras et des capteurs pour surveiller les cultures, détecter des anomalies et soutenir les décisions d'irrigation. Accès professionnel via les solutions Valley et leurs distributeurs ; conditions commerciales selon équipement et contrat. Valider les alertes sur le terrain.",
+    "en": "Valmont agricultural technology using computer vision, cameras and sensors to monitor crops, detect anomalies and support irrigation decisions. Professional access through Valley solutions and dealers; commercial terms depend on equipment and contract. Validate alerts in the field.",
+    "ar": "تقنية زراعية تابعة لمجموعة Valmont تستخدم الرؤية الحاسوبية والكاميرات والمستشعرات لمراقبة المحاصيل واكتشاف الشذوذ ودعم قرارات الري. تتاح مهنيًا عبر حلول Valley وموزعيها؛ وتعتمد الشروط التجارية على المعدات والعقد. ينبغي التحقق ميدانيًا من التنبيهات.",
+    "officialSource": "https://irrigationtoday.org/news/smart-irrigation-month-qa-prospera-technologies/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "descartes-labs": {
+    "fr": "Plateforme d'intelligence géospatiale exploitant des images satellitaires et des données complémentaires pour des analyses destinées notamment à l'agriculture, aux assurances et aux ressources naturelles. Acquise par EarthDaily Analytics en octobre 2024. Solutions professionnelles selon contrat ; aucun tarif public autonome confirmé. Vérifier la résolution, la date et la qualité des données.",
+    "en": "Geospatial intelligence platform using satellite imagery and complementary data for agriculture, insurance and natural resource analysis. Acquired by EarthDaily Analytics in October 2024. Professional solutions under contract; no standalone public price confirmed. Verify data resolution, date and quality.",
+    "ar": "منصة للاستخبارات الجغرافية تستخدم صور الأقمار الصناعية والبيانات المكملة لتحليلات الزراعة والتأمين والموارد الطبيعية. استحوذت عليها EarthDaily Analytics في أكتوبر 2024. تقدم حلولًا مهنية بحسب العقد؛ لم يتأكد وجود سعر عام مستقل. ينبغي التحقق من دقة البيانات وتاريخها وجودتها.",
+    "officialSource": "https://www.prnewswire.com/news-releases/earthdaily-analytics-announces-acquisition-of-descartes-labs-302276388.html",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "pachama": {
+    "fr": "Technologie de suivi des projets forestiers et du carbone associant données satellitaires et apprentissage automatique pour soutenir la mesure, la notification et la vérification (MRV). Acquise par Carbon Direct le 10 novembre 2025 ; la plateforme rejoint ses services scientifiques. Accès professionnel selon projet et contrat, sans tarif public autonome confirmé. Les estimations ne remplacent pas une vérification indépendante.",
+    "en": "Forest and carbon project monitoring technology combining satellite data and machine learning to support measurement, reporting and verification (MRV). Acquired by Carbon Direct on November 10, 2025; the platform joins its scientific services. Professional access by project and contract, with no confirmed standalone public pricing. Estimates do not replace independent verification.",
+    "ar": "تقنية لمراقبة مشاريع الغابات والكربون تجمع بيانات الأقمار الصناعية والتعلم الآلي لدعم القياس والإبلاغ والتحقق (MRV). استحوذت عليها Carbon Direct في 10 نوفمبر 2025 لتدمج المنصة في خدماتها العلمية. يتاح الوصول المهني بحسب المشروع والعقد دون سعر عام مستقل مؤكد. لا تغني التقديرات عن التحقق المستقل.",
+    "officialSource": "https://www.carbon-direct.com/press/carbon-direct-acquires-pachama",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "zendesk-ai-agents": {
+    "fr": "Agents de service client intégrés à Zendesk, capables de traiter des demandes sur différents canaux à partir des connaissances et procédures de l'entreprise, avec transfert vers un conseiller humain. Accès via la plateforme professionnelle et ses intégrations. Facturation selon les résolutions automatisées, les niveaux de résultat et le contrat applicable. Configurer les permissions et les règles d'escalade.",
+    "en": "Customer service agents integrated into Zendesk that handle requests across channels using company knowledge and procedures, with human handoff. Access through the professional platform and integrations. Billing depends on automated resolutions, outcome tiers and applicable contract. Configure permissions and escalation rules.",
+    "ar": "وكلاء لخدمة العملاء مدمجون في Zendesk يعالجون الطلبات عبر قنوات متعددة بالاستناد إلى معرفة المؤسسة وإجراءاتها مع إمكانية التحويل إلى موظف بشري. يتاح الوصول عبر المنصة المهنية وتكاملاتها. تعتمد الفوترة على الحلول الآلية ومستويات النتائج والعقد المعمول به. ينبغي ضبط الصلاحيات وقواعد التصعيد.",
+    "officialSource": "https://www.zendesk.com/service/ai/ai-agents/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "ada-ai-agent": {
+    "fr": "Plateforme d'agents IA pour le service client multilingue par chat, courriel et voix, connectée aux bases de connaissances, CRM et workflows métiers. Accès professionnel via console web, API et intégrations de centres de contact. Tarification par conversation selon l'offre contractuelle. Contrôler les données personnelles, les actions autorisées et le transfert humain.",
+    "en": "AI agent platform for multilingual customer service across chat, email and voice, connected to knowledge bases, CRM and business workflows. Professional access through web console, APIs and contact center integrations. Conversation-based pricing under contract. Control personal data, authorized actions and human handoff.",
+    "ar": "منصة لوكلاء الذكاء الاصطناعي لخدمة العملاء بلغات متعددة عبر المحادثة والبريد الإلكتروني والصوت، تتصل بقواعد المعرفة وأنظمة إدارة العملاء وسير العمل. يتاح الوصول المهني عبر لوحة الويب والواجهات البرمجية وتكاملات مراكز الاتصال. تعتمد الفوترة على المحادثات وفق العقد. ينبغي ضبط البيانات الشخصية والإجراءات المصرح بها والتحويل إلى الموظفين.",
+    "officialSource": "https://www.ada.cx/platform/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "kore-ai-agents": {
+    "fr": "Plateforme d'IA agentique permettant de construire et orchestrer des agents conversationnels, d'automatiser le libre-service vocal et numérique et d'assister les conseillers des centres de contact. Accès professionnel via plateforme web et intégrations aux systèmes métiers. Conditions commerciales selon solution et contrat, sans prix universel confirmé. Tester les workflows, les droits et les mécanismes d'escalade.",
+    "en": "Agentic AI platform for building and orchestrating conversational agents, automating voice and digital self-service, and assisting contact center staff. Professional access through web platform and business system integrations. Commercial terms depend on solution and contract, with no confirmed universal price. Test workflows, permissions and escalation mechanisms.",
+    "ar": "منصة للذكاء الاصطناعي الوكيلي تتيح بناء الوكلاء الحواريين وتنسيقهم وأتمتة الخدمة الذاتية الصوتية والرقمية ومساعدة موظفي مراكز الاتصال. يتاح الوصول المهني عبر منصة الويب والتكامل مع أنظمة المؤسسة. تختلف الشروط التجارية بحسب الحل والعقد دون سعر موحد مؤكد. ينبغي اختبار سير العمل والصلاحيات وآليات التصعيد.",
+    "officialSource": "https://www.kore.ai/customer-experience",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "writer-action-agent": {
+    "fr": "Agent d'entreprise de WRITER capable de planifier et exécuter des tâches complexes, rechercher des informations, analyser des données et produire des livrables dans un environnement informatique isolé. Accès via WRITER Agent et la plateforme professionnelle, avec intégrations aux systèmes métiers. Abonnements selon formule et conditions d'entreprise. Définir les autorisations et superviser les actions sensibles.",
+    "en": "WRITER enterprise agent that plans and executes complex tasks, researches information, analyzes data and produces deliverables in an isolated computing environment. Access through WRITER Agent and the enterprise platform with business system integrations. Subscription plans and enterprise terms apply. Define permissions and supervise sensitive actions.",
+    "ar": "وكيل مؤسسي من WRITER يخطط للمهام المعقدة وينفذها ويبحث عن المعلومات ويحلل البيانات وينتج مخرجات في بيئة حوسبة معزولة. يتاح عبر WRITER Agent والمنصة المهنية مع تكاملات أنظمة المؤسسة. تعتمد الاشتراكات على الخطة والشروط المؤسسية. ينبغي تحديد الصلاحيات والإشراف على الإجراءات الحساسة.",
+    "officialSource": "https://writer.com/engineering/writer-action-agent/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "harvey-agents": {
+    "fr": "Agents spécialisés dans les travaux juridiques, notamment l'analyse documentaire, la diligence raisonnable et les procédures adaptées aux domaines de pratique. Bibliothèque d'agents et outil de création personnalisée, avec contrôles d'accès et journaux d'audit. Accès via la plateforme professionnelle Harvey ; conditions commerciales sur contrat, sans tarif public universel confirmé. Les résultats nécessitent une validation juridique humaine.",
+    "en": "Agents specialized in legal work, including document analysis, due diligence and practice-specific workflows. Agent library and custom builder with access controls and audit logs. Access through the Harvey enterprise platform; contractual pricing, with no confirmed universal public price. Outputs require human legal review.",
+    "ar": "وكلاء متخصصون في الأعمال القانونية ومنها تحليل الوثائق والعناية الواجبة وسير العمل المخصص لمجالات الممارسة. تتضمن المنصة مكتبة وكلاء وأداة لإنشاء وكلاء مخصصين مع ضوابط الوصول وسجلات التدقيق. يتاح الوصول عبر منصة Harvey المهنية بشروط تجارية تعاقدية دون سعر عام موحد مؤكد. تتطلب النتائج مراجعة قانونية بشرية.",
+    "officialSource": "https://www.harvey.ai/platform/agents",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "pega-agentic-ai": {
+    "fr": "Plateforme d'orchestration de processus métiers associant agents IA, règles déterministes, intégrations et interventions humaines, notamment via Pega Infinity 26. Accès professionnel via les solutions Pega. Pour les workflows éligibles, le modèle annoncé facture un montant fixe par dossier achevé, incluant les jetons des modèles gérés par Pega ; vérifier les conditions contractuelles. Configurer les contrôles, les audits et les escalades.",
+    "en": "Business process orchestration platform combining AI agents, deterministic rules, integrations and human intervention, including Pega Infinity 26. Professional access through Pega solutions. For eligible workflows, the announced model charges a flat fee per completed case, including tokens for Pega-managed models; verify contract terms. Configure controls, audits and escalations.",
+    "ar": "منصة لتنسيق عمليات الأعمال تجمع وكلاء الذكاء الاصطناعي والقواعد الحتمية والتكاملات والتدخل البشري، بما في ذلك Pega Infinity 26. يتاح الوصول المهني عبر حلول Pega. بالنسبة لسير العمل المؤهل، يعتمد النموذج المعلن رسومًا ثابتة لكل حالة مكتملة تشمل رموز النماذج التي تديرها Pega؛ ينبغي مراجعة شروط العقد. يجب ضبط الرقابة والتدقيق والتصعيد.",
+    "officialSource": "https://www.pega.com/ai-token-calculator",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "sierra": {
+    "fr": "Plateforme professionnelle de création et de déploiement d'agents IA pour la relation client, capable de connecter les systèmes métiers et de traiter les demandes par chat, voix, courriel et messagerie. Accès via la plateforme et ses intégrations. Facturation selon les résultats contractuellement définis, sans prix universel public. Prévoir des règles d'escalade humaine et des contrôles des actions.",
+    "en": "Enterprise platform for building and deploying customer service AI agents that connect business systems and handle requests through chat, voice, email and messaging. Access through the platform and integrations. Pricing based on contractually defined outcomes, with no universal public rate. Configure human escalation and action controls.",
+    "ar": "منصة مؤسسية لإنشاء ونشر وكلاء الذكاء الاصطناعي لخدمة العملاء وربط أنظمة الأعمال ومعالجة الطلبات عبر المحادثة والصوت والبريد الإلكتروني والمراسلة. يتاح الوصول عبر المنصة وتكاملاتها. تعتمد الفوترة على النتائج المحددة تعاقديًا دون سعر عام موحد. ينبغي ضبط التصعيد إلى الموظفين وضوابط الإجراءات.",
+    "officialSource": "https://sierra.ai/product",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "gemini-enterprise-agents": {
+    "fr": "Écosystème Google Cloud permettant de créer, déployer et gouverner des agents connectés aux données et outils de l'entreprise. L'application web Gemini Enterprise permet notamment de concevoir des agents sans code, tandis que Gemini Enterprise Agent Platform fournit aux développeurs des services de construction, d'exécution et de supervision. Les deux offres sont distinctes : abonnement par utilisateur pour l'application et facturation à la consommation pour la plateforme. Contrôler les accès aux données et aux outils.",
+    "en": "Google Cloud ecosystem for building, deploying and governing agents connected to enterprise data and tools. The Gemini Enterprise web app supports no-code agent design, while Gemini Enterprise Agent Platform provides developer services for building, running and monitoring agents. The offerings are separate: per-seat subscription for the app and consumption billing for the platform. Control data and tool access.",
+    "ar": "منظومة Google Cloud لإنشاء ونشر وحوكمة وكلاء مرتبطين ببيانات المؤسسة وأدواتها. يتيح تطبيق Gemini Enterprise عبر الويب تصميم وكلاء دون برمجة، بينما توفر Gemini Enterprise Agent Platform للمطورين خدمات البناء والتشغيل والمراقبة. العرضان منفصلان: اشتراك لكل مستخدم في التطبيق وفوترة حسب الاستهلاك للمنصة. ينبغي ضبط الوصول إلى البيانات والأدوات.",
+    "officialSource": "https://cloud.google.com/gemini-enterprise/faq",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "zoominfo-copilot": {
+    "fr": "Assistant d'intelligence commerciale B2B intégré à ZoomInfo, exploitant les données d'entreprises et de contacts ainsi que les signaux d'achat pour prioriser les comptes et préparer la prospection. Accès via la plateforme professionnelle et les intégrations CRM selon l'offre. Abonnement payant sur devis selon fonctionnalités, utilisateurs et volumes contractuels. Vérifier l'exactitude des coordonnées et les obligations de protection des données.",
+    "en": "B2B sales intelligence assistant integrated into ZoomInfo, using company and contact data and buying signals to prioritize accounts and prepare outreach. Access through the professional platform and plan-dependent CRM integrations. Paid subscription by quote according to features, users and contracted volumes. Verify contact accuracy and data protection obligations.",
+    "ar": "مساعد للاستخبارات التجارية بين الشركات مدمج في ZoomInfo، يستخدم بيانات المؤسسات وجهات الاتصال وإشارات الشراء لترتيب الحسابات حسب الأولوية وإعداد التواصل التجاري. يتاح عبر المنصة المهنية وتكاملات إدارة العملاء بحسب الخطة. اشتراك مدفوع وفق عرض سعر يعتمد على الوظائف والمستخدمين والأحجام التعاقدية. ينبغي التحقق من دقة بيانات الاتصال والالتزامات المتعلقة بحماية البيانات.",
+    "officialSource": "https://www.sec.gov/Archives/edgar/data/1794515/000179451526000038/zi-20260331.htm",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "hugging-face-spaces": {
+    "fr": "Plateforme d'hébergement et de découverte de démonstrations interactives de modèles IA, avec dépôts Git et environnements Gradio, Docker ou statiques. Accès web aux espaces publics ; ressources de calcul de base gratuites et matériel supérieur facturé. Vérifier les licences et la confidentialité de chaque espace.",
+    "en": "Platform for hosting and discovering interactive AI model demos using Git repositories and Gradio, Docker or static environments. Public Spaces are accessible on the web; basic compute is free and upgraded hardware is billed. Check each Space's licensing and privacy.",
+    "ar": "منصة لاستضافة واستكشاف عروض تفاعلية لنماذج الذكاء الاصطناعي باستخدام مستودعات Git وبيئات Gradio وDocker أو صفحات ثابتة. تتاح المساحات العامة عبر الويب مع موارد حوسبة أساسية مجانية وعتاد إضافي مدفوع. ينبغي مراجعة تراخيص كل مساحة وخصوصيتها.",
+    "officialSource": "https://huggingface.co/docs/hub/spaces-overview",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "sakana-ai-scientist": {
+    "fr": "Projet de recherche de Sakana AI automatisant la formulation d'idées, la programmation et l'exécution d'expériences ainsi que la rédaction et l'évaluation de rapports scientifiques. Code de recherche accessible via les liens du projet ; les coûts dépendent des modèles et du calcul utilisés. Les résultats exigent une validation scientifique indépendante.",
+    "en": "Sakana AI research project automating idea generation, experiment coding and execution, and scientific report writing and review. Research code is available through project links; costs depend on model and compute usage. Results require independent scientific validation.",
+    "ar": "مشروع بحثي من Sakana AI يؤتمت توليد الأفكار وبرمجة التجارب وتنفيذها وكتابة التقارير العلمية ومراجعتها. تتاح الشيفرة البحثية عبر روابط المشروع وتختلف التكاليف بحسب النماذج والحوسبة المستخدمة. تتطلب النتائج تحققًا علميًا مستقلًا.",
+    "officialSource": "https://sakana.ai/ai-scientist-nature/",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "lily-ai": {
+    "fr": "Solution professionnelle d'enrichissement des catalogues marchands par des attributs structurés et des descriptions adaptées à la recherche et aux systèmes de recommandation. Accès via la plateforme professionnelle ; conditions tarifaires à confirmer auprès de l'éditeur. Contrôler la fidélité des attributs aux produits réels et mesurer les effets sur la découverte.",
+    "en": "Enterprise solution enriching retail catalogs with structured attributes and descriptions for search and recommendation systems. Access through the professional platform; pricing terms should be confirmed with the vendor. Check attribute accuracy against actual products and measure discovery outcomes.",
+    "ar": "حل مؤسسي لإثراء كتالوجات البيع بالتجزئة بسمات منظمة وأوصاف ملائمة للبحث وأنظمة التوصية. يتاح عبر المنصة المهنية ويجب تأكيد شروط التسعير مع المزود. ينبغي مطابقة السمات مع المنتجات الفعلية وقياس أثرها على اكتشاف المنتجات.",
+    "officialSource": "https://www.lily.ai/topics/product-data",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "rep-ai": {
+    "fr": "Agent conversationnel pour boutiques Shopify combinant aide au choix des produits et assistance client. Accès via une intégration à la boutique ; offres payantes dont certaines dépendent du trafic et de la formule. Vérifier la synchronisation des prix et stocks ainsi que les possibilités de transfert vers un conseiller.",
+    "en": "Conversational agent for Shopify stores combining product discovery and customer support. Access through store integration; paid plans may depend on traffic and plan type. Check price and inventory synchronization and human handoff options.",
+    "ar": "وكيل محادثة لمتاجر Shopify يجمع المساعدة في اختيار المنتجات وخدمة العملاء. يتاح عبر التكامل مع المتجر، وتوجد خطط مدفوعة يرتبط بعضها بحجم الزيارات ونوع الاشتراك. ينبغي التحقق من مزامنة الأسعار والمخزون وإمكانات التحويل إلى مستشار بشري.",
+    "officialSource": "https://help.hellorep.ai/hc/en-us/articles/14990922497170-Upgrade-or-downgrade-your-plan",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "reimaginehome": {
+    "fr": "Service web de visualisation d'aménagement intérieur et de mise en scène virtuelle à partir d'images, avec possibilités de modification ciblée. Abonnements payants fondés sur des crédits selon la formule. Les visuels sont des propositions esthétiques, non des plans techniques validés.",
+    "en": "Web service for interior redesign and virtual staging from images, with targeted editing options. Paid subscriptions use plan-dependent credits. Images are aesthetic proposals, not validated technical plans.",
+    "ar": "خدمة عبر الويب لتصور التصميم الداخلي والتأثيث الافتراضي انطلاقًا من الصور مع إمكان تعديل عناصر محددة. تعتمد الاشتراكات المدفوعة على أرصدة تختلف بحسب الخطة. الصور مقترحات جمالية وليست مخططات تقنية معتمدة.",
+    "officialSource": "https://www.reimaginehome.ai/pricing",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "aiprm": {
+    "fr": "Bibliothèque de modèles de prompts réutilisables pour assistants conversationnels, avec modèles communautaires, variables et fonctions de gestion de modèles privés selon l'offre. Édition gratuite et abonnements premium. Vérifier les résultats et éviter d'insérer des données sensibles dans les modèles partagés.",
+    "en": "Reusable prompt-template library for conversational assistants, with community templates, variables and private-template management depending on plan. Free edition and premium subscriptions. Review outputs and avoid sensitive data in shared templates.",
+    "ar": "مكتبة لقوالب التعليمات القابلة لإعادة الاستخدام مع المساعدات الحوارية، تشمل قوالب المجتمع والمتغيرات وإدارة القوالب الخاصة بحسب الخطة. تتوفر نسخة مجانية واشتراكات مدفوعة. ينبغي مراجعة النتائج وتجنب البيانات الحساسة في القوالب المشتركة.",
+    "officialSource": "https://www.aiprm.com/pricing/",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "futurepedia": {
+    "fr": "Portail indépendant de découverte des outils IA, organisé par usages et catégories, complété par des ressources de formation. Consultation publique du répertoire ; les conditions des formations et des outils référencés sont distinctes. Vérifier les informations auprès des éditeurs.",
+    "en": "Independent AI discovery portal organized by use case and category, complemented by educational resources. Public directory browsing; training and listed tools have separate terms. Verify information with vendors.",
+    "ar": "بوابة مستقلة لاكتشاف أدوات الذكاء الاصطناعي حسب الاستخدام والفئة، مع موارد تعليمية. يمكن تصفح الدليل علنًا، وتختلف شروط التدريب والأدوات المدرجة. ينبغي التحقق من المعلومات لدى المزودين.",
+    "officialSource": "https://www.futurepedia.io/about-us",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "google-project-astra": {
+    "fr": "Projet de recherche de Google DeepMind explorant un assistant universel multimodal capable d'interpréter son environnement et d'interagir avec des services Google. Certaines capacités sont expérimentales : ne pas assimiler le prototype à un abonnement commercial autonome. Vérifier la disponibilité des fonctions dans les produits concernés.",
+    "en": "Google DeepMind research project exploring a universal multimodal assistant that interprets its surroundings and interacts with Google services. Some capabilities are experimental; the prototype is not a standalone commercial subscription. Check feature availability in the relevant products.",
+    "ar": "مشروع بحثي من Google DeepMind يستكشف مساعدًا عامًا متعدد الوسائط قادرًا على تفسير محيطه والتفاعل مع خدمات Google. بعض القدرات تجريبية ولا يمثل النموذج الأولي اشتراكًا تجاريًا مستقلًا. ينبغي التحقق من إتاحة الوظائف في المنتجات المعنية.",
+    "officialSource": "https://deepmind.google/models/project-astra/",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "google-project-mariner": {
+    "fr": "Projet de recherche de Google DeepMind consacré aux agents capables d'interagir avec les interfaces du navigateur pour réaliser des tâches. Distinguer les démonstrations de recherche des fonctions commerciales effectivement disponibles. Vérifier les conditions d'accès et superviser les actions sensibles.",
+    "en": "Google DeepMind research project investigating agents that interact with browser interfaces to perform tasks. Distinguish research demonstrations from available commercial features. Check access conditions and supervise sensitive actions.",
+    "ar": "مشروع بحثي من Google DeepMind يدرس الوكلاء القادرين على التفاعل مع واجهات المتصفح لإنجاز المهام. ينبغي التمييز بين العروض البحثية والوظائف التجارية المتاحة والتحقق من شروط الوصول والإشراف على الإجراءات الحساسة.",
+    "officialSource": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/google-gemini-ai-update-december-2024/",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "google-imagefx": {
+    "fr": "Outil expérimental de Google Labs pour générer des images à partir de descriptions textuelles, fondé sur les modèles Imagen. Accès et disponibilité à vérifier sur Labs selon le pays et les évolutions du service. Contrôler les droits et l'exactitude des représentations avant publication.",
+    "en": "Experimental Google Labs tool for generating images from text using Imagen models. Check current Labs access and availability by country and service changes. Review rights and visual accuracy before publishing.",
+    "ar": "أداة تجريبية من Google Labs لتوليد الصور انطلاقًا من الأوصاف النصية باستخدام نماذج Imagen. ينبغي التحقق من الوصول والإتاحة الحالية حسب البلد وتطور الخدمة ومراجعة الحقوق ودقة الصور قبل النشر.",
+    "officialSource": "https://blog.google/innovation-and-ai/models-and-research/google-labs/video-image-generation-update-december-2024/",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "product-hunt-ai": {
+    "fr": "Rubrique de Product Hunt dédiée à la découverte de nouveaux produits IA par catégories, lancements et évaluations communautaires. Consultation publique ; les conditions commerciales des produits sont propres aux éditeurs. La popularité communautaire ne remplace pas une évaluation indépendante.",
+    "en": "Product Hunt section for discovering AI products through categories, launches and community ratings. Public browsing; commercial terms vary by vendor. Community popularity is not a substitute for independent evaluation.",
+    "ar": "قسم من Product Hunt لاكتشاف منتجات الذكاء الاصطناعي عبر الفئات والإطلاقات وتقييمات المجتمع. التصفح متاح علنًا وتختلف الشروط التجارية بحسب المزود. لا تغني الشعبية عن التقييم المستقل.",
+    "officialSource": "https://www.producthunt.com/topics/artificial-intelligence",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "futuretools": {
+    "fr": "Portail web de veille et de découverte des outils IA associant une base consultable à des actualités sur les produits et l'écosystème. Consultation publique ; vérifier directement les tarifs et la disponibilité de chaque outil référencé. Distinguer actualités et évaluations approfondies.",
+    "en": "Web portal for AI monitoring and discovery combining a searchable tool database with ecosystem and product news. Public browsing; check pricing and availability directly with listed vendors. Distinguish news coverage from in-depth evaluations.",
+    "ar": "بوابة ويب لمتابعة واكتشاف أدوات الذكاء الاصطناعي تجمع قاعدة قابلة للبحث وأخبار المنتجات والمنظومة. التصفح متاح علنًا، وينبغي التحقق من الأسعار والإتاحة لدى المزودين والتمييز بين الأخبار والتقييمات المعمقة.",
+    "officialSource": "https://futuretools.io/",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "toolify": {
+    "fr": "Annuaire web d'outils IA proposant des sélections par catégorie et des filtres de découverte, notamment pour les outils gratuits. Les conditions de chaque produit restent indépendantes du répertoire. Vérifier les tarifs, la disponibilité et la pertinence des classements auprès des sources originales.",
+    "en": "Web directory of AI tools offering category collections and discovery filters, including free tools. Each product has its own terms independent of the directory. Verify pricing, availability and ranking relevance against original sources.",
+    "ar": "دليل ويب لأدوات الذكاء الاصطناعي يقدم مجموعات حسب الفئة ومرشحات للاكتشاف بما فيها الأدوات المجانية. لكل منتج شروط مستقلة عن الدليل. ينبغي التحقق من الأسعار والإتاحة وملاءمة التصنيفات بالرجوع إلى المصادر الأصلية.",
+    "officialSource": "https://www.toolify.ai/",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "robin-ai": {
+    "fr": "Plateforme juridique professionnelle pour rechercher des clauses, analyser des contrats et assister leur rédaction et leur révision, notamment dans Microsoft Word. Accès institutionnel selon contrat, sans tarif universel confirmé. Soumettre les résultats à un juriste et contrôler la confidentialité des documents.",
+    "en": "Professional legal platform for locating clauses, analyzing contracts and assisting drafting and review, including in Microsoft Word. Organizational access under contract; no universal rate confirmed. Require legal review and protect document confidentiality.",
+    "ar": "منصة قانونية مهنية للبحث عن البنود وتحليل العقود والمساعدة في صياغتها ومراجعتها، بما في ذلك داخل Microsoft Word. يتاح الوصول المؤسسي وفق عقد دون سعر موحد مؤكد. ينبغي إخضاع النتائج لمراجعة قانونية وحماية سرية الوثائق.",
+    "officialSource": "https://robinai.com/platform",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "yotpo": {
+    "fr": "Suite de commerce électronique pour recueillir des avis et contenus clients, gérer la fidélité et suivre la visibilité dans les recherches IA. Formules gratuites et payantes selon le module, avec coûts liés notamment au volume de commandes. Préserver l'authenticité des avis et signaler les incitations.",
+    "en": "E-commerce suite for collecting reviews and customer content, managing loyalty and monitoring visibility in AI search. Free and paid options vary by module, with fees partly tied to order volume. Preserve review authenticity and disclose incentives.",
+    "ar": "مجموعة للتجارة الإلكترونية لجمع التقييمات ومحتوى العملاء وإدارة الولاء ومتابعة الظهور في البحث بالذكاء الاصطناعي. تختلف الخيارات المجانية والمدفوعة بحسب الوحدة وترتبط بعض التكاليف بحجم الطلبات. ينبغي الحفاظ على مصداقية التقييمات والإفصاح عن الحوافز.",
+    "officialSource": "https://www.yotpo.com/pricing/",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "visenze": {
+    "fr": "Solution de Rezolve Ai destinée aux commerçants, combinant recherche par image, recommandations et enrichissement des attributs du catalogue. Accès professionnel par intégration, offres Light, Pro et Enterprise sur devis selon les besoins. Évaluer les résultats sur des données réelles et contrôler les règles de classement.",
+    "en": "Rezolve Ai retail solution combining image search, recommendations and catalog attribute enrichment. Business access through integrations, with Light, Pro and Enterprise options quoted according to needs. Evaluate results on real data and review ranking rules.",
+    "ar": "حل من Rezolve Ai للتجار يجمع البحث بالصور والتوصيات وإثراء سمات الكتالوج. يتاح مهنيًا عبر التكاملات مع خطط Light وPro وEnterprise بحسب الاحتياجات وعرض السعر. ينبغي تقييم النتائج على بيانات فعلية ومراجعة قواعد الترتيب.",
+    "officialSource": "https://www.visenze.com/why-visenze/our-pricing/",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "syte": {
+    "fr": "Plateforme de découverte de produits pour le commerce électronique, notamment la mode, combinant recherche visuelle, recommandations et étiquetage automatique des articles. Intégration au catalogue marchand ; conditions tarifaires à demander à l'éditeur. Tester la pertinence et respecter les préférences de confidentialité.",
+    "en": "E-commerce product discovery platform, notably for apparel, combining visual search, recommendations and automated item tagging. Integrates with retailer catalogs; request pricing terms from the vendor. Test relevance and respect privacy preferences.",
+    "ar": "منصة لاكتشاف المنتجات في التجارة الإلكترونية، خصوصًا الأزياء، تجمع البحث المرئي والتوصيات والوسم الآلي للسلع. تتكامل مع كتالوج المتجر ويجب طلب شروط التسعير من المزود. ينبغي اختبار ملاءمة النتائج واحترام تفضيلات الخصوصية.",
+    "officialSource": "https://www.syte.ai/lp/full-product-discovery-suite/",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "charisma-ai": {
+    "fr": "Éditeur de récits interactifs permettant de créer des personnages conversationnels, des embranchements narratifs et des réponses génératives. Accès par éditeur web et SDK pour applications ou jeux ; licences et crédits selon l'offre. Tester la cohérence narrative et la modération des dialogues.",
+    "en": "Interactive storytelling editor for conversational characters, branching narratives and generative responses. Access through a web editor and SDKs for apps or games; licenses and credits vary by plan. Test narrative consistency and dialogue moderation.",
+    "ar": "محرر للسرد التفاعلي يتيح إنشاء شخصيات حوارية ومسارات قصصية متفرعة وردود توليدية. يتاح عبر محرر ويب وحزم تطوير للتطبيقات والألعاب، مع تراخيص وأرصدة بحسب الخطة. ينبغي اختبار اتساق السرد والإشراف على الحوارات.",
+    "officialSource": "https://charisma.ai/pricing",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "roomgpt": {
+    "fr": "Service web de visualisation de nouvelles ambiances pour une pièce à partir d'une photographie. Permet d'explorer des pistes décoratives avant un aménagement ; conditions tarifaires actuelles non confirmées. Les images générées ne garantissent ni les dimensions ni la faisabilité technique des transformations.",
+    "en": "Web service for visualizing alternative room designs from a photograph. Useful for exploring decorative concepts before renovation; current pricing not confirmed. Generated images do not guarantee dimensions or technical feasibility.",
+    "ar": "خدمة ويب لتصور تصاميم بديلة للغرف انطلاقًا من صورة فوتوغرافية. تفيد في استكشاف أفكار الديكور قبل التهيئة، ولم تؤكد شروط التسعير الحالية. لا تضمن الصور المولدة الأبعاد أو الجدوى التقنية للتحويلات.",
+    "officialSource": "https://www.roomgpt.io/dream",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "autogpt": {
+    "fr": "Plateforme d'agents IA issue du projet AutoGPT, proposant des assistants spécialisés et un éditeur visuel pour construire des automatisations connectées à des applications. Accès web avec formules et crédits d'exécution selon l'offre ; distinguer la plateforme hébergée du projet historique. Limiter les permissions et surveiller les coûts et actions.",
+    "en": "AI agent platform originating from AutoGPT, offering specialized assistants and a visual builder for app-connected automations. Web access with plans and execution credits; distinguish the hosted platform from the original project. Limit permissions and monitor costs and actions.",
+    "ar": "منصة لوكلاء الذكاء الاصطناعي نشأت من مشروع AutoGPT، تقدم مساعدين متخصصين ومحررًا مرئيًا لبناء عمليات آلية مرتبطة بالتطبيقات. يتاح الوصول عبر الويب بخطط وأرصدة للتنفيذ؛ ينبغي التمييز بين المنصة المستضافة والمشروع الأصلي وتقييد الصلاحيات ومراقبة التكاليف والإجراءات.",
+    "officialSource": "https://agpt.co/pricing/",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "3dfy-ai": {
+    "fr": "Ancien service de génération de modèles 3D à partir de texte. Le domaine historique affiche désormais une page de vente de domaine ; aucun accès opérationnel ni tarif actuel confirmé. Référence conservée à titre historique, à ne pas recommander comme service actif sans nouvelle vérification.",
+    "en": "Former text-to-3D generation service. Its historical domain now displays a domain-sale page; current operational access and pricing are unconfirmed. Retained as a historical reference, not recommended as an active service without further verification.",
+    "ar": "خدمة سابقة لتوليد نماذج ثلاثية الأبعاد من النصوص. يعرض النطاق التاريخي حاليًا صفحة لبيع النطاق، ولم يؤكد الوصول التشغيلي أو التسعير الحالي. يُحتفظ بالمرجع لأغراض التوثيق التاريخي دون التوصية به كخدمة نشطة قبل التحقق مجددًا.",
+    "officialSource": "https://www.3dfy.ai/",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "air-ai": {
+    "fr": "Référence historique à un service d'agents conversationnels téléphoniques. Le domaine air.ai présente actuellement une plateforme différente de préparation opérationnelle des organisations. L'accès et les tarifs du service initial ne sont pas confirmés ; ne pas confondre les deux offres.",
+    "en": "Historical reference to a telephone conversational agent service. The air.ai domain currently presents a different organizational readiness platform. Access and pricing for the original service are unconfirmed; do not conflate the two offerings.",
+    "ar": "مرجع تاريخي لخدمة وكلاء المحادثة الهاتفية. يعرض نطاق air.ai حاليًا منصة مختلفة للجاهزية التشغيلية للمؤسسات. لم يؤكد الوصول إلى الخدمة الأصلية أو أسعارها، وينبغي عدم الخلط بين العرضين.",
+    "officialSource": "https://air.ai/",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "fellou": {
+    "fr": "Navigateur agentique intégrant recherche approfondie et automatisation de tâches dans des interfaces web. Application téléchargeable et page tarifaire dédiée ; vérifier les conditions de chaque formule. Superviser les actions, les autorisations et la transmission de données.",
+    "en": "Agentic browser combining deep search and automation of tasks in web interfaces. Downloadable application with a dedicated pricing page; check plan terms. Supervise actions, permissions and data transfers.",
+    "ar": "متصفح مزود بوكلاء يجمع البحث المعمق وأتمتة المهام داخل واجهات الويب. يتاح تطبيق قابل للتنزيل وصفحة مخصصة للأسعار؛ ينبغي مراجعة شروط الخطط والإشراف على الإجراءات والصلاحيات ونقل البيانات.",
+    "officialSource": "https://fellou.ai/",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "hugging-face-computer-agent": {
+    "fr": "Démonstration de recherche hébergée sur Hugging Face Spaces autour des agents capables d'interagir avec des interfaces informatiques. Accès via le dépôt public de démonstration ; disponibilité de l'exécution et coûts de calcul variables. Ne pas assimiler ce prototype à un service commercial garanti.",
+    "en": "Research demonstration hosted on Hugging Face Spaces exploring agents that interact with computer interfaces. Access via the public demo repository; execution availability and compute costs may vary. Do not treat the prototype as a guaranteed commercial service.",
+    "ar": "عرض بحثي مستضاف على Hugging Face Spaces يستكشف الوكلاء القادرين على التفاعل مع واجهات الحاسوب. يتاح عبر مستودع العرض العام وقد تختلف إتاحة التنفيذ وتكاليف الحوسبة. لا ينبغي اعتباره خدمة تجارية مضمونة.",
+    "officialSource": "https://huggingface.co/spaces/smolagents/computer-use-agent/blob/main/README.md",
+    "sourceReviewedAt": "2026-11-26"
   }
 }
