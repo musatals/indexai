@@ -6109,5 +6109,61 @@
     "ar": "إطار مفتوح المصدر تستضيفه Linux Foundation لبناء أنظمة متعددة الوكلاء تشمل الأدوات واسترجاع الوثائق وقيود التنفيذ. يتاح عبر وثائق المشروع وشيفرته؛ وقد تترتب تكاليف على النماذج وموارد النشر. ينبغي تحديد قواعد الرقابة وتقييم النتائج.",
     "officialSource": "https://i-am-bee.github.io/beeai-framework/introduction/welcome",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "openai-agents-api": {
+    "fr": "API d'exécution gérée d'agents chez OpenAI, distincte des Agents SDK Python et TypeScript qui exécutent l'orchestration dans l'application du développeur. Accès développeur et facturation selon les services utilisés. Vérifier les permissions, la persistance des états et les approbations.",
+    "en": "Managed agent execution API from OpenAI, distinct from the Python and TypeScript Agents SDKs that orchestrate agents within the developer's application. Developer access and service-based billing. Review permissions, state persistence and approvals.",
+    "ar": "واجهة برمجية من OpenAI لتشغيل الوكلاء ضمن خدمة مُدارة، تختلف عن حزم Agents SDK بلغتي Python وTypeScript التي تنسق الوكلاء داخل تطبيق المطور. يتاح الوصول للمطورين وتختلف الفوترة بحسب الخدمات المستخدمة. ينبغي مراجعة الصلاحيات وحفظ الحالة والموافقات.",
+    "officialSource": "https://developers.openai.com/api/docs/guides/agents/sdk",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "openai-agentkit": {
+    "fr": "Ensemble d'outils annoncé par OpenAI pour créer et intégrer des agents, comprenant historiquement Agent Builder et ChatKit. Le 3 juin 2026, OpenAI a annoncé l'arrêt progressif d'Agent Builder et Evals. Consulter la documentation de migration avant tout nouveau projet ; les coûts API dépendent des services utilisés.",
+    "en": "OpenAI toolkit announced for building and integrating agents, historically including Agent Builder and ChatKit. On June 3, 2026, OpenAI announced the wind-down of Agent Builder and Evals. Consult migration documentation before new projects; API costs depend on services used.",
+    "ar": "مجموعة أدوات أعلنت عنها OpenAI لإنشاء الوكلاء ودمجهم، شملت سابقًا Agent Builder وChatKit. في 3 يونيو 2026 أعلنت الشركة الإيقاف التدريجي لمنتجي Agent Builder وEvals. ينبغي مراجعة وثائق الانتقال قبل بدء مشروع جديد؛ وتختلف تكاليف الواجهات البرمجية بحسب الخدمات المستخدمة.",
+    "officialSource": "https://openai.com/index/introducing-agentkit/?rd=1",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "microsoft-foundry-agent-service": {
+    "fr": "Service cloud géré pour construire, déployer et mettre à l'échelle des agents, y compris des agents développés avec des frameworks externes. Fournit des points d'accès gérés, une identité Entra, la persistance des sessions et l'observabilité. Facturation Azure selon les ressources et services consommés. Contrôler les identités et accès.",
+    "en": "Managed cloud service for building, deploying and scaling agents, including those built with external frameworks. Provides managed endpoints, Entra identity, session persistence and observability. Azure billing depends on consumed resources and services. Govern identities and access.",
+    "ar": "خدمة سحابية مُدارة لإنشاء الوكلاء ونشرهم وتوسيع نطاقهم، بما في ذلك الوكلاء المطورون بأطر خارجية. توفر نقاط وصول مُدارة وهوية Entra وحفظ حالة الجلسات وقابلية مراقبة التنفيذ. تعتمد فوترة Azure على الموارد والخدمات المستهلكة. ينبغي ضبط الهويات وصلاحيات الوصول.",
+    "officialSource": "https://learn.microsoft.com/en-us/azure/foundry/agents/overview",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "microsoft-magentic-ui": {
+    "fr": "Projet de recherche de Microsoft Foundry Labs explorant l'interaction humain-agent pour réaliser des tâches sur des interfaces web et informatiques. Accessible via le dépôt de recherche et les options expérimentales Foundry. Les modèles et ressources d'exécution peuvent être facturés séparément. Superviser les actions externes.",
+    "en": "Microsoft Foundry Labs research project exploring human-agent interaction for tasks involving web and computer interfaces. Available through the research repository and experimental Foundry options. Models and runtime resources may incur separate charges. Supervise external actions.",
+    "ar": "مشروع بحثي من Microsoft Foundry Labs يستكشف التفاعل بين الإنسان والوكيل لإنجاز المهام عبر واجهات الويب والحاسوب. يتاح عبر المستودع البحثي والخيارات التجريبية في Foundry. قد تحسب تكلفة النماذج وموارد التنفيذ بصورة منفصلة. ينبغي الإشراف على الإجراءات الخارجية.",
+    "officialSource": "https://labs.ai.azure.com/innovations/magentic-ui/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "langsmith-agent-builder": {
+    "fr": "Interface sans code de LangSmith permettant de construire des agents à partir d'instructions et d'outils, de gérer leur contexte et de joindre des fichiers. Accès via LangSmith selon les offres et capacités disponibles ; les coûts d'exécution et de modèles sont à vérifier. Tester les agents avant usage métier.",
+    "en": "LangSmith no-code interface for constructing agents from instructions and tools, managing context and attaching files. Access through LangSmith depends on offerings and available capabilities; check runtime and model costs. Test agents before business use.",
+    "ar": "واجهة دون برمجة في LangSmith لإنشاء الوكلاء انطلاقًا من التعليمات والأدوات وإدارة السياق وإرفاق الملفات. يعتمد الوصول عبر LangSmith على العروض والوظائف المتاحة؛ ينبغي مراجعة تكاليف التنفيذ والنماذج واختبار الوكلاء قبل الاستخدام المهني.",
+    "officialSource": "https://www.langchain.com/blog/new-in-agent-builder-all-new-agent-chat-file-uploads-tool-registry",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "arcade-dev": {
+    "fr": "Infrastructure d'outils pour agents permettant de connecter des applications externes via des serveurs MCP, avec gestion de l'authentification et des permissions. Accès développeur via API et intégrations ; consulter les conditions commerciales et quotas en vigueur. Limiter les autorisations au strict nécessaire.",
+    "en": "Agent tool infrastructure connecting external applications through MCP servers with authentication and permission management. Developer access through APIs and integrations; consult current commercial terms and quotas. Apply least-privilege permissions.",
+    "ar": "بنية أدوات للوكلاء تربط التطبيقات الخارجية عبر خوادم MCP مع إدارة المصادقة والصلاحيات. يتاح الوصول للمطورين عبر الواجهات البرمجية والتكاملات؛ ينبغي مراجعة الشروط التجارية والحصص الحالية ومنح الحد الأدنى اللازم من الصلاحيات.",
+    "officialSource": "https://docs.arcade.dev/en/resources/tools",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "pipedream-ai-agents": {
+    "fr": "Infrastructure d'intégration et d'automatisation permettant aux applications agentiques de connecter des comptes externes et d'exécuter des workflows. Accès développeur via Pipedream Connect et interfaces de programmation ; tarification selon les utilisateurs connectés et la consommation selon l'offre. Protéger les identifiants et contrôler les actions.",
+    "en": "Integration and automation infrastructure enabling agentic applications to connect external accounts and execute workflows. Developer access through Pipedream Connect and APIs; pricing depends on connected users and usage under the selected plan. Protect credentials and review actions.",
+    "ar": "بنية للتكامل والأتمتة تتيح للتطبيقات الوكيلية ربط الحسابات الخارجية وتنفيذ مسارات العمل. يتاح الوصول للمطورين عبر Pipedream Connect والواجهات البرمجية؛ يعتمد التسعير على المستخدمين المتصلين والاستهلاك بحسب الخطة. ينبغي حماية بيانات الاعتماد ومراجعة الإجراءات.",
+    "officialSource": "https://pipedream.com/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "nvidia-nemo-agent-toolkit": {
+    "fr": "Bibliothèque NVIDIA pour connecter des agents à des outils et sources de données et instrumenter leurs workflows. Dépréciée depuis octobre 2026, avec fin de vie annoncée pour fin 2026. Code et documentation accessibles pour maintenance et référence historique ; privilégier une solution maintenue pour les nouveaux projets.",
+    "en": "NVIDIA library for connecting agents to tools and data sources and instrumenting their workflows. Deprecated since October 2026, with end of life announced for late 2026. Code and documentation remain available for maintenance and historical reference; prefer a maintained solution for new projects.",
+    "ar": "مكتبة من NVIDIA لربط الوكلاء بالأدوات ومصادر البيانات ومراقبة مسارات عملهم. أصبحت مهملة منذ أكتوبر 2026 مع إعلان نهاية دورة حياتها بنهاية 2026. تتاح الشيفرة والوثائق لأغراض الصيانة والمرجعية التاريخية؛ يفضل اختيار حل يحظى بالصيانة للمشروعات الجديدة.",
+    "officialSource": "https://docs.nvidia.com/nemo/agent-toolkit/1.9/components/agents/index.html",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
