@@ -6921,5 +6921,26 @@
     "ar": "منصة للذكاء الاصطناعي الوكيلي تتيح بناء الوكلاء الحواريين وتنسيقهم وأتمتة الخدمة الذاتية الصوتية والرقمية ومساعدة موظفي مراكز الاتصال. يتاح الوصول المهني عبر منصة الويب والتكامل مع أنظمة المؤسسة. تختلف الشروط التجارية بحسب الحل والعقد دون سعر موحد مؤكد. ينبغي اختبار سير العمل والصلاحيات وآليات التصعيد.",
     "officialSource": "https://www.kore.ai/customer-experience",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "writer-action-agent": {
+    "fr": "Agent d'entreprise de WRITER capable de planifier et exécuter des tâches complexes, rechercher des informations, analyser des données et produire des livrables dans un environnement informatique isolé. Accès via WRITER Agent et la plateforme professionnelle, avec intégrations aux systèmes métiers. Abonnements selon formule et conditions d'entreprise. Définir les autorisations et superviser les actions sensibles.",
+    "en": "WRITER enterprise agent that plans and executes complex tasks, researches information, analyzes data and produces deliverables in an isolated computing environment. Access through WRITER Agent and the enterprise platform with business system integrations. Subscription plans and enterprise terms apply. Define permissions and supervise sensitive actions.",
+    "ar": "وكيل مؤسسي من WRITER يخطط للمهام المعقدة وينفذها ويبحث عن المعلومات ويحلل البيانات وينتج مخرجات في بيئة حوسبة معزولة. يتاح عبر WRITER Agent والمنصة المهنية مع تكاملات أنظمة المؤسسة. تعتمد الاشتراكات على الخطة والشروط المؤسسية. ينبغي تحديد الصلاحيات والإشراف على الإجراءات الحساسة.",
+    "officialSource": "https://writer.com/engineering/writer-action-agent/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "harvey-agents": {
+    "fr": "Agents spécialisés dans les travaux juridiques, notamment l'analyse documentaire, la diligence raisonnable et les procédures adaptées aux domaines de pratique. Bibliothèque d'agents et outil de création personnalisée, avec contrôles d'accès et journaux d'audit. Accès via la plateforme professionnelle Harvey ; conditions commerciales sur contrat, sans tarif public universel confirmé. Les résultats nécessitent une validation juridique humaine.",
+    "en": "Agents specialized in legal work, including document analysis, due diligence and practice-specific workflows. Agent library and custom builder with access controls and audit logs. Access through the Harvey enterprise platform; contractual pricing, with no confirmed universal public price. Outputs require human legal review.",
+    "ar": "وكلاء متخصصون في الأعمال القانونية ومنها تحليل الوثائق والعناية الواجبة وسير العمل المخصص لمجالات الممارسة. تتضمن المنصة مكتبة وكلاء وأداة لإنشاء وكلاء مخصصين مع ضوابط الوصول وسجلات التدقيق. يتاح الوصول عبر منصة Harvey المهنية بشروط تجارية تعاقدية دون سعر عام موحد مؤكد. تتطلب النتائج مراجعة قانونية بشرية.",
+    "officialSource": "https://www.harvey.ai/platform/agents",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "pega-agentic-ai": {
+    "fr": "Plateforme d'orchestration de processus métiers associant agents IA, règles déterministes, intégrations et interventions humaines, notamment via Pega Infinity 26. Accès professionnel via les solutions Pega. Pour les workflows éligibles, le modèle annoncé facture un montant fixe par dossier achevé, incluant les jetons des modèles gérés par Pega ; vérifier les conditions contractuelles. Configurer les contrôles, les audits et les escalades.",
+    "en": "Business process orchestration platform combining AI agents, deterministic rules, integrations and human intervention, including Pega Infinity 26. Professional access through Pega solutions. For eligible workflows, the announced model charges a flat fee per completed case, including tokens for Pega-managed models; verify contract terms. Configure controls, audits and escalations.",
+    "ar": "منصة لتنسيق عمليات الأعمال تجمع وكلاء الذكاء الاصطناعي والقواعد الحتمية والتكاملات والتدخل البشري، بما في ذلك Pega Infinity 26. يتاح الوصول المهني عبر حلول Pega. بالنسبة لسير العمل المؤهل، يعتمد النموذج المعلن رسومًا ثابتة لكل حالة مكتملة تشمل رموز النماذج التي تديرها Pega؛ ينبغي مراجعة شروط العقد. يجب ضبط الرقابة والتدقيق والتصعيد.",
+    "officialSource": "https://www.pega.com/ai-token-calculator",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
