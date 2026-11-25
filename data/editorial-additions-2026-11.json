@@ -5787,5 +5787,68 @@
     "ar": "مزود للصور الفضائية لمتابعة تغيرات سطح الأرض، يتاح عبر منصة وواجهات برمجية. يسهل PlanetScope الرصد المتكرر للمناطق؛ وتختلف الاشتراكات بحسب المساحة وأرصدة الرصد وفق العرض. ينبغي مراجعة التراخيص والدقة وتواريخ التقاط الصور.",
     "officialSource": "https://docs.planet.com/platform/monitoring-credits/",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "tomorrow-io": {
+    "fr": "Plateforme d’intelligence météorologique pour intégrer prévisions et données météo aux décisions opérationnelles. Accès par API et offres professionnelles adaptées aux besoins. Vérifier les incertitudes des prévisions et consulter les alertes officielles en cas de danger.",
+    "en": "Weather intelligence platform integrating forecasts and weather data into operational decisions. API access and business plans tailored to needs. Check forecast uncertainty and consult official warnings in hazardous conditions.",
+    "ar": "منصة للذكاء الجوي تدمج التوقعات والبيانات الجوية في القرارات التشغيلية. تتاح عبر واجهة برمجية وعروض مهنية بحسب الاحتياجات. ينبغي مراعاة عدم اليقين في التوقعات والرجوع إلى التحذيرات الرسمية عند الخطر.",
+    "officialSource": "https://support.tomorrow.io/hc/en-us/articles/23554984091156-Tomorrow-io-Pricing-Overview",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "jupiter-intelligence": {
+    "fr": "Plateforme professionnelle d’analyse des risques climatiques physiques pour sites, infrastructures et portefeuilles d’actifs. Accès SaaS, API d’entreprise et accompagnement spécialisé sur offre commerciale. Interpréter les résultats selon les scénarios et horizons temporels retenus.",
+    "en": "Professional physical climate risk analytics platform for sites, infrastructure and asset portfolios. SaaS, enterprise API and specialist support under commercial terms. Interpret results according to selected scenarios and time horizons.",
+    "ar": "منصة مهنية لتحليل المخاطر المناخية المادية للمواقع والبنى التحتية ومحافظ الأصول. تتاح كخدمة سحابية وواجهة برمجية للمؤسسات ودعم متخصص وفق عرض تجاري. ينبغي تفسير النتائج بحسب السيناريوهات والآفاق الزمنية المختارة.",
+    "officialSource": "https://www.jupiterintel.com/products",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "mindtrip": {
+    "fr": "Assistant de voyage accessible sur le Web et sur mobile pour organiser itinéraires, lieux, réservations et alertes personnalisées. Application iOS gratuite ; les réservations sont effectuées auprès de partenaires et restent soumises à leurs tarifs et conditions. Vérifier les horaires et confirmations.",
+    "en": "Web and mobile travel assistant organizing itineraries, places, bookings and personalized alerts. Free iOS app; reservations are handled by partners under their own prices and conditions. Verify opening hours and booking confirmations.",
+    "ar": "مساعد سفر عبر الويب والهاتف لتنظيم المسارات والأماكن والحجوزات والتنبيهات المخصصة. تطبيق iOS مجاني؛ تتم الحجوزات لدى الشركاء وفق أسعارهم وشروطهم. ينبغي التحقق من ساعات العمل وتأكيدات الحجز.",
+    "officialSource": "https://mindtrip.ai/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "layla": {
+    "fr": "Assistant web de planification de voyages proposant des idées de destinations et des itinéraires selon les préférences exprimées. Vérifier les conditions d’accès et les tarifs des prestations avant réservation ; les suggestions ne garantissent pas la disponibilité.",
+    "en": "Web travel planning assistant suggesting destinations and itineraries based on stated preferences. Check access terms and service prices before booking; suggestions do not guarantee availability.",
+    "ar": "مساعد عبر الويب لتخطيط السفر يقترح الوجهات والمسارات بحسب التفضيلات المعلنة. ينبغي مراجعة شروط الوصول وأسعار الخدمات قبل الحجز؛ ولا تضمن الاقتراحات التوفر الفعلي.",
+    "officialSource": "https://layla.ai/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "be-my-eyes": {
+    "fr": "Service gratuit d’accessibilité pour personnes aveugles ou malvoyantes, associant appels vidéo avec des bénévoles et descriptions d’images par Be My AI. Accessible sur mobile et Windows ; offre professionnelle distincte. Ne pas utiliser les descriptions automatiques comme seule source pour une décision de sécurité.",
+    "en": "Free accessibility service for blind or low-vision users combining volunteer video calls and Be My AI image descriptions. Available on mobile and Windows, with a separate workplace offering. Do not rely on automated descriptions alone for safety decisions.",
+    "ar": "خدمة مجانية لإتاحة الوصول للمكفوفين وضعاف البصر تجمع مكالمات الفيديو مع المتطوعين ووصف الصور عبر Be My AI. تتاح على الهاتف وويندوز مع عرض مهني منفصل. لا ينبغي الاعتماد على الأوصاف الآلية وحدها في قرارات السلامة.",
+    "officialSource": "https://support.bemyeyes.com/hc/en-us/articles/360005528557-Getting-started-with-Be-My-Eyes",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "goblin-tools": {
+    "fr": "Collection d’outils simples pour décomposer des tâches, reformuler des textes et estimer des durées, pensée notamment pour les personnes neurodivergentes. Fonctions de base gratuites sur le Web ; applications mobiles et abonnement Pro facultatif pour des fonctions supplémentaires. Les estimations restent indicatives.",
+    "en": "Collection of simple tools for breaking down tasks, rewriting text and estimating durations, designed particularly for neurodivergent users. Core web features are free; mobile apps and optional Pro subscription offer additional access or features. Estimates remain approximate.",
+    "ar": "مجموعة أدوات بسيطة لتقسيم المهام وإعادة صياغة النصوص وتقدير المدد، صممت خصوصًا للأشخاص ذوي التنوع العصبي. الوظائف الأساسية مجانية عبر الويب، مع تطبيقات للهاتف واشتراك Pro اختياري لوظائف إضافية. تظل التقديرات تقريبية.",
+    "officialSource": "https://goblin.tools/terms",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "portkey": {
+    "fr": "Passerelle pour applications IA facilitant l’accès à plusieurs fournisseurs de modèles et le suivi des traces, erreurs et performances. Accès API et offres selon le volume et les besoins de déploiement. Vérifier les coûts des fournisseurs et la confidentialité des journaux.",
+    "en": "AI application gateway supporting multiple model providers and monitoring traces, errors and performance. API access and plans based on volume and deployment needs. Check provider costs and log confidentiality.",
+    "ar": "بوابة لتطبيقات الذكاء الاصطناعي تسهل الوصول إلى عدة مزودين للنماذج ومتابعة سجلات التنفيذ والأخطاء والأداء. تتاح عبر واجهة برمجية وعروض بحسب الحجم واحتياجات النشر. ينبغي مراجعة تكاليف المزودين وسرية السجلات.",
+    "officialSource": "https://portkey.ai/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "promptfoo": {
+    "fr": "Cadre libre d’évaluation des applications fondées sur des modèles linguistiques, avec bibliothèque et interface en ligne de commande pour comparer les réponses et effectuer des tests de sécurité autorisés. Coûts éventuels des modèles et du calcul. Documenter les jeux de tests et examiner les résultats manuellement.",
+    "en": "Open-source evaluation framework for language-model applications, with library and CLI for comparing outputs and authorized security testing. Model and compute costs may apply. Document test suites and manually review findings.",
+    "ar": "إطار مفتوح المصدر لتقييم تطبيقات النماذج اللغوية يوفر مكتبة وواجهة سطر أوامر لمقارنة الإجابات وإجراء اختبارات أمنية مصرح بها. قد تترتب تكاليف للنماذج والحوسبة. ينبغي توثيق مجموعات الاختبار ومراجعة النتائج يدويًا.",
+    "officialSource": "https://www.promptfoo.dev/docs/intro/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "garak": {
+    "fr": "Scanner libre de vulnérabilités des applications à modèles linguistiques maintenu par NVIDIA. Accessible via code Python et intégrations de développement ; coûts éventuels des modèles et ressources de calcul. Réserver les audits aux systèmes autorisés et confirmer les résultats avant remédiation.",
+    "en": "Open-source vulnerability scanner for language-model applications maintained by NVIDIA. Available through Python code and developer integrations; model and compute costs may apply. Restrict audits to authorized systems and confirm findings before remediation.",
+    "ar": "ماسح مفتوح المصدر لثغرات تطبيقات النماذج اللغوية تديره NVIDIA. يتاح عبر شيفرة Python وتكاملات التطوير، وقد تترتب تكاليف للنماذج والحوسبة. ينبغي حصر التدقيق في الأنظمة المصرح بها والتحقق من النتائج قبل المعالجة.",
+    "officialSource": "https://github.com/NVIDIA/garak",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
