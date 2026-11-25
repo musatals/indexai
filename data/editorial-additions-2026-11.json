@@ -5990,5 +5990,33 @@
     "ar": "بيئة لإنشاء وتقييم وحوكمة الوكلاء الذين يستفيدون من بيانات Databricks، مع واجهات تطوير وخدمات للنشر الفعلي. تعتمد الفوترة على استخدام منتجات Databricks الأساسية. ينبغي تقييم الإجابات على مجموعات اختبار وتطبيق ضوابط الوصول إلى البيانات.",
     "officialSource": "https://www.databricks.com/product/artificial-intelligence/agent-bricks",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "chatgpt-agent": {
+    "fr": "Fonction agentique de ChatGPT combinant recherche, navigation interactive et exécution de tâches à plusieurs étapes. Accès selon les abonnements et paramètres de l'espace de travail. Vérifier les permissions des applications connectées et superviser les actions sensibles.",
+    "en": "ChatGPT agentic feature combining research, interactive browsing and multistep task execution. Access depends on subscriptions and workspace settings. Review connected app permissions and supervise sensitive actions.",
+    "ar": "ميزة وكيلية في ChatGPT تجمع البحث والتصفح التفاعلي وتنفيذ المهام متعددة الخطوات. يعتمد الوصول على الاشتراكات وإعدادات مساحة العمل. ينبغي مراجعة صلاحيات التطبيقات المتصلة والإشراف على الإجراءات الحساسة.",
+    "officialSource": "https://help.openai.com/en/articles/11752874-chatgpt-agent",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "chatgpt-atlas": {
+    "fr": "Ancien navigateur intégrant ChatGPT et des fonctions de navigation agentique. OpenAI a annoncé son retrait et la transition de ses capacités vers ChatGPT et Codex. Fiche conservée à titre historique ; consulter les instructions officielles relatives aux données locales et à la migration.",
+    "en": "Former browser integrating ChatGPT and agentic browsing capabilities. OpenAI announced its retirement and the transition of capabilities to ChatGPT and Codex. Retained as a historical reference; consult official local data and migration guidance.",
+    "ar": "متصفح سابق يدمج ChatGPT ووظائف التصفح الوكيلي. أعلنت OpenAI إيقافه ونقل إمكاناته إلى ChatGPT وCodex. تحفظ هذه البطاقة كمرجع تاريخي؛ ينبغي الرجوع إلى الإرشادات الرسمية المتعلقة بالبيانات المحلية والانتقال.",
+    "officialSource": "https://help.openai.com/en/articles/20001371-chatgpt-atlas-retirement",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "openclaw": {
+    "fr": "Assistant personnel open source auto-hébergeable reliant des modèles linguistiques à des canaux de messagerie et outils externes. Le logiciel peut être installé sur une infrastructure personnelle ; les modèles, serveurs et services tiers peuvent engendrer des frais. Isoler les accès sensibles et examiner les extensions installées.",
+    "en": "Self-hostable open-source personal assistant connecting language models to messaging channels and external tools. Software can run on personal infrastructure; models, servers and third-party services may incur costs. Isolate sensitive access and review installed extensions.",
+    "ar": "مساعد شخصي مفتوح المصدر قابل للاستضافة الذاتية يربط النماذج اللغوية بقنوات المراسلة والأدوات الخارجية. يمكن تشغيل البرنامج على بنية تحتية شخصية؛ وقد تترتب تكاليف للنماذج والخوادم والخدمات الخارجية. ينبغي عزل الوصول الحساس ومراجعة الإضافات المثبتة.",
+    "officialSource": "https://docs.openclaw.ai/help/faq/what-is-openclaw",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "opera-neon": {
+    "fr": "Navigateur agentique expérimental associant navigation et outils d'automatisation. Une formule gratuite permet de connecter des agents externes via MCP ou l'interface de commande du navigateur ; les capacités IA intégrées relèvent d'offres distinctes. Vérifier les actions avant toute transmission de données ou transaction.",
+    "en": "Experimental agentic browser combining browsing and automation tools. A free plan supports external agents through MCP or the browser command-line interface; built-in AI capabilities have separate offerings. Review actions before sharing data or making transactions.",
+    "ar": "متصفح وكيلي تجريبي يجمع التصفح وأدوات الأتمتة. تتيح خطة مجانية ربط الوكلاء الخارجيين عبر MCP أو واجهة سطر أوامر المتصفح؛ وتخضع إمكانات الذكاء الاصطناعي المدمجة لعروض منفصلة. ينبغي مراجعة الإجراءات قبل إرسال البيانات أو إجراء المعاملات.",
+    "officialSource": "https://blogs.opera.com/news/2026/08/your-ai-agents-can-use-opera-neon-free-of-charge/",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
