@@ -7229,5 +7229,97 @@
     "ar": "خدمة لصناع البودكاست لإنشاء ملاحظات الحلقات وملخصاتها من المحتوى الصوتي. يوثق موقع المزود هذه الاستخدامات؛ لم يؤكد الوصول التشغيلي أو الأسعار الحالية. ينبغي مراجعة الملخصات وحقوق التسجيلات.",
     "officialSource": "https://hello.podium.page/feature/ai-generated-show-notes",
     "sourceReviewedAt": "2026-11-26"
+  },
+  "phind": {
+    "fr": "Moteur de réponses techniques historiquement destiné aux développeurs, combinant recherche et assistance à la programmation. Le domaine historique a renvoyé une erreur 404 lors du contrôle ; disponibilité et tarification actuelles non confirmées. Ne pas déduire une fermeture définitive de cette seule erreur.",
+    "en": "Historical technical answer engine for developers combining search and coding assistance. Its historical domain returned a 404 during review; current availability and pricing are unconfirmed. This error alone does not establish permanent closure.",
+    "ar": "محرك إجابات تقنية موجه تاريخيًا للمطورين يجمع البحث والمساعدة في البرمجة. أعاد النطاق التاريخي خطأ 404 أثناء الفحص؛ لم تؤكد الإتاحة والأسعار الحالية. لا يثبت هذا الخطأ وحده الإغلاق النهائي.",
+    "officialSource": "https://www.phind.com",
+    "sourceReviewedAt": "2026-11-26",
+    "verificationNote": "access-unconfirmed"
+  },
+  "tl": {
+    "fr": "Fragment d'importation du nom tl;dv, et non outil autonome. Consulter la fiche tl;dv (AI-0186) pour les fonctionnalités, l'accès et le modèle économique. Entrée conservée uniquement pour la traçabilité du catalogue.",
+    "en": "Import fragment of the name tl;dv, not a standalone tool. See the tl;dv profile (AI-0186) for features, access and pricing. Retained solely for catalog traceability.",
+    "ar": "جزء من اسم tl;dv نتج عن الاستيراد وليس أداة مستقلة. راجع بطاقة tl;dv (AI-0186) للوظائف والوصول والتسعير. يُحتفظ بهذا الإدخال لتتبع بيانات الفهرس فقط.",
+    "verificationNote": "catalog-correction"
+  },
+  "csm-ai": {
+    "fr": "Common Sense Machines : service historiquement consacré à la création de ressources 3D à partir de médias de référence. Le domaine a renvoyé une erreur 502 lors du contrôle. Accès, formats et tarifs actuels non confirmés ; vérifier le service avant tout projet.",
+    "en": "Common Sense Machines: a service historically focused on creating 3D assets from reference media. Its domain returned a 502 during review. Current access, formats and pricing are unconfirmed; check the service before use.",
+    "ar": "Common Sense Machines خدمة ارتبطت تاريخيًا بإنشاء أصول ثلاثية الأبعاد من وسائط مرجعية. أعاد نطاقها خطأ 502 أثناء الفحص. لم تؤكد الإتاحة والصيغ والأسعار الحالية؛ ينبغي التحقق من الخدمة قبل استخدامها.",
+    "officialSource": "https://www.csm.ai",
+    "sourceReviewedAt": "2026-11-26",
+    "verificationNote": "access-unconfirmed"
+  },
+  "satellier": {
+    "fr": "Référence du catalogue initial classée dans l'agriculture, le climat et le géospatial. Aucun éditeur ni site officiel n'a pu être identifié avec certitude. Les fonctionnalités, modalités d'accès et tarifs restent indéterminés ; ne pas assimiler cette entrée à un produit portant un nom voisin.",
+    "en": "Original catalog reference classified under agriculture, climate and geospatial tools. No vendor or official site has been identified with confidence. Features, access and pricing remain unknown; do not conflate it with similarly named products.",
+    "ar": "مرجع من الفهرس الأصلي مصنف ضمن الزراعة والمناخ والأدوات الجغرافية المكانية. لم تُحدد الجهة الناشرة أو الموقع الرسمي بثقة. تظل الوظائف والوصول والأسعار غير معروفة؛ لا ينبغي الخلط بينه وبين منتجات تحمل أسماء مشابهة.",
+    "verificationNote": "identity-unconfirmed"
+  },
+  "theres-an-ai-for-that": {
+    "fr": "Annuaire historiquement consacré à la découverte d'outils IA par tâche et besoin. L'accès au domaine officiel n'a pas pu être confirmé pendant ce contrôle. Vérifier la disponibilité du répertoire et les informations des outils directement auprès des éditeurs.",
+    "en": "Directory historically dedicated to discovering AI tools by task and need. Access to its official domain could not be confirmed during this review. Check directory availability and verify listed products directly with vendors.",
+    "ar": "دليل مخصص تاريخيًا لاكتشاف أدوات الذكاء الاصطناعي حسب المهمة والحاجة. تعذر تأكيد الوصول إلى نطاقه الرسمي أثناء الفحص. ينبغي التحقق من إتاحة الدليل ومعلومات المنتجات لدى المزودين مباشرة.",
+    "officialSource": "https://theresanaiforthat.com",
+    "sourceReviewedAt": "2026-11-26",
+    "verificationNote": "access-unconfirmed"
+  },
+  "ai-tools-radar": {
+    "fr": "Répertoire d'outils IA présentant des fiches, des sélections éditoriales, des plateformes compatibles et des indications de modèle économique. Il distingue certaines entrées contrôlées d'autres non vérifiées. Consultation publique ; confirmer les conditions auprès des éditeurs.",
+    "en": "AI tool directory with profiles, editorial selections, supported platforms and business-model labels. It distinguishes some reviewed listings from unverified ones. Public browsing; confirm terms with vendors.",
+    "ar": "دليل لأدوات الذكاء الاصطناعي يقدم بطاقات واختيارات تحريرية ومنصات متوافقة ومؤشرات لنموذج التسعير. يميز بين بعض الإدخالات المراجعة وغير المتحققة. يتاح التصفح العام؛ ينبغي تأكيد الشروط لدى المزودين.",
+    "officialSource": "https://aitoolsradar.com/en/tools",
+    "sourceReviewedAt": "2026-11-26",
+    "verificationNote": "source-reviewed"
+  },
+  "futuretoolai": {
+    "fr": "Annuaire multilingue d'outils IA avec recherche par mots-clés, catégories et filtres distinguant gratuité, freemium, abonnement, essai et code ouvert. Propose aussi des comparaisons et actualités. Consultation publique ; contrôler les tarifs et licences à la source.",
+    "en": "Multilingual AI directory with keyword search, categories and filters for free, freemium, paid, trial and open-source offerings. Also provides comparisons and news. Public browsing; check prices and licenses at the source.",
+    "ar": "دليل متعدد اللغات لأدوات الذكاء الاصطناعي يوفر البحث بالكلمات المفتاحية والفئات ومرشحات للمجاني والمختلط والمدفوع والتجريبي والمفتوح المصدر. يقدم أيضًا مقارنات وأخبارًا. يتاح التصفح العام؛ ينبغي التحقق من الأسعار والتراخيص لدى المصدر.",
+    "officialSource": "https://futuretoolai.com/ai-tools",
+    "sourceReviewedAt": "2026-11-26",
+    "verificationNote": "source-reviewed"
+  },
+  "navs-ai": {
+    "fr": "Annuaire NAVS pour découvrir des outils IA par domaine, notamment la création de médias, la productivité, le développement et les usages professionnels. Consultation publique par catégorie ; une inscription au catalogue ne garantit ni la qualité ni la disponibilité d'un produit.",
+    "en": "NAVS directory for discovering AI tools by domain, including media creation, productivity, development and professional uses. Public category browsing; listing does not guarantee product quality or availability.",
+    "ar": "دليل NAVS لاكتشاف أدوات الذكاء الاصطناعي حسب المجال، بما في ذلك إنشاء الوسائط والإنتاجية والتطوير والاستخدامات المهنية. يتاح التصفح العام حسب الفئة؛ لا يضمن الإدراج جودة المنتج أو إتاحته.",
+    "officialSource": "https://navs.site/discover-ai",
+    "sourceReviewedAt": "2026-11-26",
+    "verificationNote": "source-reviewed"
+  },
+  "the-ai-tool-bible": {
+    "fr": "Annuaire éditorial d'outils IA présentant des fiches, usages, catégories, indications tarifaires et évaluations. Le site indique employer une assistance IA dans sa rédaction. Consultation publique ; distinguer les appréciations du répertoire des faits vérifiés auprès des éditeurs.",
+    "en": "Editorial AI tool directory featuring profiles, use cases, categories, pricing labels and assessments. The site reports using AI assistance in its editorial work. Public browsing; distinguish directory assessments from vendor-verified facts.",
+    "ar": "دليل تحريري لأدوات الذكاء الاصطناعي يقدم بطاقات واستخدامات وفئات ومؤشرات للأسعار وتقييمات. يذكر الموقع استخدام الذكاء الاصطناعي في العمل التحريري. يتاح التصفح العام؛ ينبغي التمييز بين تقييمات الدليل والحقائق المؤكدة لدى المزودين.",
+    "officialSource": "https://theaitoolbible.com/about",
+    "sourceReviewedAt": "2026-11-26",
+    "verificationNote": "source-reviewed"
+  },
+  "ai-gear-base": {
+    "fr": "Répertoire de logiciels IA avec comparaisons tarifaires, classements, catégories et évaluations selon une grille éditoriale annoncée. Consultation publique ; vérifier les prix, promotions et critères de classement auprès des sources originales.",
+    "en": "AI software directory with pricing comparisons, rankings, categories and assessments based on a stated editorial rubric. Public browsing; verify prices, offers and ranking criteria against original sources.",
+    "ar": "دليل لبرمجيات الذكاء الاصطناعي يضم مقارنات الأسعار والتصنيفات والفئات والتقييمات وفق معايير تحريرية معلنة. يتاح التصفح العام؛ ينبغي مراجعة الأسعار والعروض ومعايير الترتيب لدى المصادر الأصلية.",
+    "officialSource": "https://aigearbase.com/",
+    "sourceReviewedAt": "2026-11-26",
+    "verificationNote": "source-reviewed"
+  },
+  "grok-bot": {
+    "fr": "Référence du catalogue à un agent personnel associé à Grok de xAI. L'identité d'une offre autonome portant précisément le nom Grok Bot, ses actions et ses tarifs n'ont pas été confirmés. Le domaine Grok a refusé l'accès automatisé lors du contrôle ; distinguer cette entrée de l'assistant Grok généraliste.",
+    "en": "Catalog reference to a personal agent associated with xAI's Grok. A standalone offering specifically called Grok Bot, its actions and pricing have not been confirmed. The Grok domain denied automated access during review; distinguish this entry from the general Grok assistant.",
+    "ar": "مرجع في الفهرس لوكيل شخصي مرتبط بـGrok من xAI. لم يؤكد وجود عرض مستقل باسم Grok Bot تحديدًا أو إجراءاته وأسعاره. رفض نطاق Grok الوصول الآلي أثناء الفحص؛ ينبغي التمييز بين هذا الإدخال ومساعد Grok العام.",
+    "officialSource": "https://grok.com/",
+    "sourceReviewedAt": "2026-11-26",
+    "verificationNote": "identity-unconfirmed"
+  },
+  "doubao": {
+    "fr": "Assistant IA de ByteDance accessible par une interface de conversation sur le Web. Le catalogue le rattache aux assistants personnels ; les fonctions d'exécution autonome, les applications compatibles, les restrictions géographiques et les tarifs n'ont pas été vérifiés en détail. Vérifier les conditions d'accès et les autorisations.",
+    "en": "ByteDance AI assistant accessible through a web conversation interface. The catalog groups it with personal assistants; autonomous actions, compatible apps, regional restrictions and pricing have not been verified in detail. Check access conditions and permissions.",
+    "ar": "مساعد ذكاء اصطناعي من ByteDance متاح عبر واجهة محادثة على الويب. يصنفه الفهرس ضمن المساعدات الشخصية؛ لم تُراجع بالتفصيل الإجراءات المستقلة والتطبيقات المتوافقة والقيود الجغرافية والأسعار. ينبغي التحقق من شروط الوصول والصلاحيات.",
+    "officialSource": "https://www.doubao.com/chat/",
+    "sourceReviewedAt": "2026-11-26",
+    "verificationNote": "partial-source-review"
   }
 }
