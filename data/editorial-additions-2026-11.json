@@ -5486,5 +5486,68 @@
     "ar": "مجموعة أدوات لمعالجة الصور تشمل التكبير وإزالة الضجيج وزيادة الحدة والترميم. تتاح عبر المتصفح وبعض المنتجات عبر برامج سطح المكتب. تعتمد تكلفة الأرصدة على العمليات؛ ينبغي مقارنة النتائج بالمصدر لاكتشاف التشوهات.",
     "officialSource": "https://vanceai.com/pricing/",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "salesforce-einstein": {
+    "fr": "Ensemble de fonctions d’IA intégrées au CRM Salesforce, notamment la notation prédictive des opportunités et l’assistance générative. Certaines fonctions sont désormais proposées sous Agentforce. Accès via les services cloud Salesforce, avec licences et crédits selon l’offre. Contrôler les droits d’accès aux données CRM.",
+    "en": "AI capabilities integrated into Salesforce CRM, including predictive opportunity scoring and generative assistance. Some capabilities are now offered under Agentforce. Available through Salesforce cloud services with plan-dependent licenses and credits. Review CRM data access permissions.",
+    "ar": "مجموعة وظائف ذكاء اصطناعي مدمجة في نظام Salesforce لإدارة علاقات العملاء، تشمل التقييم التنبؤي للفرص التجارية والمساعدة التوليدية. تقدم بعض الوظائف الآن تحت اسم Agentforce. تتاح عبر الخدمات السحابية بتراخيص وأرصدة تختلف بحسب الخطة. ينبغي ضبط صلاحيات الوصول إلى بيانات العملاء.",
+    "officialSource": "https://www.salesforce.com/sales/ai",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "gong": {
+    "fr": "Plateforme cloud d’intelligence commerciale qui analyse les échanges avec les clients et les données CRM pour suivre les opportunités, repérer les risques et accompagner les équipes de vente. Tarification professionnelle selon les modules, utilisateurs et certains usages à crédits. Encadrer l’enregistrement des conversations et vérifier les prévisions.",
+    "en": "Cloud revenue intelligence platform analyzing customer conversations and CRM data to track deals, identify risks and support sales coaching. Business pricing depends on modules, users and certain credit-metered uses. Govern conversation recording and validate forecasts.",
+    "ar": "منصة سحابية للذكاء التجاري تحلل محادثات العملاء وبيانات إدارة العلاقات لمتابعة الصفقات ورصد المخاطر وتدريب فرق المبيعات. تختلف التكلفة المهنية بحسب الوحدات والمستخدمين وبعض الاستخدامات المقاسة بالأرصدة. ينبغي تنظيم تسجيل المحادثات والتحقق من التوقعات.",
+    "officialSource": "https://www.gong.io/faqs",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "clay": {
+    "fr": "Espace web de prospection et d’enrichissement de données commerciales combinant plusieurs fournisseurs en cascade et recherche assistée par Claygent. Les plans gratuits et payants limitent notamment les actions et crédits de données. Vérifier l’exactitude des coordonnées et respecter les règles de prospection et de protection des données.",
+    "en": "Web workspace for sales prospecting and data enrichment combining sequential provider waterfalls with Claygent-assisted research. Free and paid plans impose action and data-credit limits. Validate contact details and comply with outreach and data protection rules.",
+    "ar": "مساحة عمل عبر الويب للتنقيب التجاري وإثراء البيانات تجمع مزودين متتابعين للبيانات والبحث بمساعدة Claygent. تفرض الخطط المجانية والمدفوعة حدودًا على الإجراءات وأرصدة البيانات. ينبغي التحقق من صحة بيانات الاتصال واحترام قواعد التواصل التجاري وحماية البيانات.",
+    "officialSource": "https://www.clay.com/pricing?external_link=true",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "intercom-fin": {
+    "fr": "Agent de service client qui exploite les ressources d’assistance pour traiter les demandes et transmettre les cas nécessitant une intervention humaine. Accessible via Intercom et ses intégrations ; facturation de Fin selon les résultats définis par l’éditeur, avec abonnements distincts selon la configuration. Tester les réponses et les règles de transfert.",
+    "en": "Customer support agent using help content to address requests and hand off cases needing human intervention. Available through Intercom and integrations; Fin is billed by provider-defined outcomes, with separate subscriptions depending on setup. Test answers and handoff rules.",
+    "ar": "وكيل لخدمة العملاء يستفيد من موارد الدعم لمعالجة الطلبات وتحويل الحالات التي تتطلب تدخلًا بشريًا. يتاح عبر Intercom وتكاملاته؛ تحتسب تكلفة Fin وفق النتائج التي يحددها المزود، مع اشتراكات منفصلة بحسب الإعداد. ينبغي اختبار الإجابات وقواعد التحويل.",
+    "officialSource": "https://www.intercom.com/help/en/articles/8205718-fin-ai-agent-outcomes",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "zendesk-ai": {
+    "fr": "Fonctions d’IA du service client Zendesk permettant de répondre aux demandes, automatiser des procédures et assister les équipes de support sur plusieurs canaux. Service cloud avec abonnements et quotas ou facturation de résolutions automatisées selon l’offre. Prévoir une intervention humaine pour les situations complexes.",
+    "en": "Zendesk customer service AI capabilities for responding to requests, automating procedures and supporting teams across channels. Cloud service with subscriptions and automated-resolution quotas or billing depending on plan. Provide human intervention for complex cases.",
+    "ar": "وظائف ذكاء اصطناعي في Zendesk لخدمة العملاء تتيح الرد على الطلبات وأتمتة الإجراءات ومساندة فرق الدعم عبر قنوات متعددة. خدمة سحابية باشتراكات وحصص أو فوترة لحل الطلبات تلقائيًا بحسب الخطة. ينبغي توفير تدخل بشري للحالات المعقدة.",
+    "officialSource": "https://www.zendesk.com/pricing/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "botpress": {
+    "fr": "Environnement visuel de conception d’agents conversationnels permettant d’organiser des workflows, relier des bases de connaissances et intégrer des API. Accès hébergé avec tarification selon les conversations et capacités de stockage ou de service. Tester les réponses hors base documentaire et limiter les permissions des intégrations.",
+    "en": "Visual conversational agent development environment for organizing workflows, connecting knowledge bases and integrating APIs. Hosted access with conversation-based pricing and storage or service capacity limits. Test responses beyond the knowledge base and restrict integration permissions.",
+    "ar": "بيئة مرئية لتطوير الوكلاء الحواريين تتيح تنظيم مسارات العمل وربط قواعد المعرفة ودمج الواجهات البرمجية. تتاح كخدمة مستضافة بتسعير يعتمد على المحادثات وسعات التخزين أو الخدمة. ينبغي اختبار الإجابات خارج قاعدة المعرفة وتقييد صلاحيات التكاملات.",
+    "officialSource": "https://botpress.com/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "voiceflow": {
+    "fr": "Plateforme collaborative pour concevoir, tester et déployer des agents textuels et vocaux reliés à des bases de connaissances et des outils externes. Accès web et API, avec offre gratuite et abonnements assortis de crédits d’usage. Simuler les parcours et prévoir des mécanismes de transfert.",
+    "en": "Collaborative platform for designing, testing and deploying chat and voice agents connected to knowledge bases and external tools. Web and API access with free and paid tiers plus usage credits. Simulate user journeys and provide handoff mechanisms.",
+    "ar": "منصة تعاونية لتصميم الوكلاء النصيين والصوتيين واختبارهم ونشرهم مع ربطهم بقواعد المعرفة والأدوات الخارجية. تتاح عبر الويب والواجهات البرمجية بخطة مجانية واشتراكات وأرصدة استخدام. ينبغي محاكاة مسارات المستخدمين وتوفير آليات التحويل.",
+    "officialSource": "https://www.voiceflow.com/ai-info",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "vapi": {
+    "fr": "Infrastructure API et SDK pour créer des agents vocaux destinés aux appels téléphoniques et applications web, en combinant reconnaissance vocale, modèles linguistiques et synthèse vocale. Facturation à la minute avec coûts éventuels des fournisseurs et de la téléphonie. Tester la latence, les interruptions et le consentement à l’enregistrement.",
+    "en": "API and SDK infrastructure for building voice agents for phone calls and web apps, combining speech recognition, language models and speech synthesis. Per-minute billing with potential provider and telephony costs. Test latency, interruptions and recording consent.",
+    "ar": "بنية للواجهات البرمجية وحزم التطوير لإنشاء وكلاء صوتيين للمكالمات وتطبيقات الويب تجمع التعرف على الكلام والنماذج اللغوية وتوليد الصوت. تحسب التكلفة بالدقيقة مع رسوم محتملة للمزودين والاتصالات. ينبغي اختبار زمن الاستجابة والمقاطعات والموافقة على التسجيل.",
+    "officialSource": "https://docs.vapi.ai/assistants/model-intelligence/understanding-cost",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "retell-ai": {
+    "fr": "Plateforme hébergée d’agents vocaux pour les appels entrants et sortants des centres de contact, avec intégration téléphonique et transfert vers des opérateurs. Facturation à l’usage par minute selon les composants, et contrats personnalisés pour les entreprises. Prévoir le consentement, les tests de qualité et l’escalade humaine.",
+    "en": "Hosted voice agent platform for inbound and outbound contact center calls, with telephony integration and transfer to operators. Usage-based per-minute billing varies by components, with custom enterprise contracts. Provide consent, quality testing and human escalation.",
+    "ar": "منصة مستضافة للوكلاء الصوتيين للمكالمات الواردة والصادرة في مراكز الاتصال، مع تكامل هاتفي وتحويل إلى الموظفين. تعتمد الفوترة على دقائق الاستخدام والمكونات، مع عقود مخصصة للمؤسسات. ينبغي توفير الموافقة واختبارات الجودة والتحويل إلى الدعم البشري.",
+    "officialSource": "https://www.retellai.com/pricing?rel=nofollow&target=blank",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
