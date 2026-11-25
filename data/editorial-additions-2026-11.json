@@ -5073,5 +5073,96 @@
     "ar": "مساعد للقراءة يتيح الاستفسار عن المستندات المستوردة والحصول على إجابات مع إحالات إلى المقاطع الأصلية. يسهل مقارنة المستندات وتلخيصها بحسب الاشتراك. ينبغي التحقق من كل استشهاد في الملف الأصلي وشروط الخصوصية.",
     "officialSource": "https://askyourpdf.com/chat-with-documents",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "whisper": {
+    "fr": "Modèles de reconnaissance vocale d'OpenAI distribués avec leur code d'inférence. Ils transcrivent plusieurs langues et certains modèles traduisent la parole vers l'anglais, mais pas Turbo. L'exécution locale facilite les usages confidentiels ; vérifier les hallucinations, accents et passages silencieux.",
+    "en": "OpenAI speech recognition models distributed with inference code. They transcribe multiple languages and selected models translate speech into English, but Turbo does not. Local execution supports confidential workflows; check hallucinations, accents and silent passages.",
+    "ar": "نماذج للتعرف على الكلام من OpenAI موزعة مع شيفرة الاستدلال. تنسخ عدة لغات وتترجم بعض النماذج الكلام إلى الإنجليزية باستثناء Turbo. يسهل التشغيل المحلي الاستخدامات السرية؛ ينبغي مراجعة الهلوسات واللهجات والمقاطع الصامتة.",
+    "officialSource": "https://github.com/openai/whisper",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "otter": {
+    "fr": "Assistant de réunion avec transcription, notes et recherche dans les conversations. L'extension linguistique annoncée le 10 novembre 2026 ajoute treize langues disponibles, en plus des quatre précédentes, et annonce quatorze autres. Vérifier la disponibilité réelle des langues et obtenir l'accord des participants.",
+    "en": "Meeting assistant with transcription, notes and conversation search. The November 10, 2026 expansion adds thirteen available languages to the previous four and announces fourteen more. Check actual language availability and obtain participant consent.",
+    "ar": "مساعد للاجتماعات يوفر النسخ النصي والملاحظات والبحث في المحادثات. يضيف التوسع اللغوي المعلن في 10 نوفمبر 2026 ثلاث عشرة لغة متاحة إلى اللغات الأربع السابقة ويعلن عن أربع عشرة لغة أخرى. ينبغي مراجعة الإتاحة الفعلية والحصول على موافقة المشاركين.",
+    "officialSource": "https://otter.ai/blog/otter-ai-announces-its-biggest-multilingual-leap-yet-27-new-languages-and-multilingual-capabilities",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "fireflies-ai": {
+    "fr": "Assistant de réunion générant transcriptions, résumés et actions à partir des échanges. Son mode multilingue en bêta détecte les changements de langue pendant une même réunion. Vérifier les noms propres, décisions et autorisations de partage avant diffusion.",
+    "en": "Meeting assistant generating transcripts, summaries and action items from conversations. Its beta multilingual mode detects language switches during a meeting. Check names, decisions and sharing permissions before distribution.",
+    "ar": "مساعد للاجتماعات يولد النصوص والملخصات والمهام من المحادثات. يكتشف وضعه متعدد اللغات التجريبي تغير اللغة أثناء الاجتماع نفسه. ينبغي مراجعة الأسماء والقرارات وصلاحيات المشاركة قبل التوزيع.",
+    "officialSource": "https://guide.fireflies.ai/articles/2585231364",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "avoma": {
+    "fr": "Assistant de réunion et d'intelligence commerciale qui produit des notes structurées, identifie les tâches et peut synchroniser les informations avec un CRM. Vérifier les engagements extraits et autoriser les mises à jour des dossiers clients.",
+    "en": "Meeting and sales intelligence assistant producing structured notes, identifying tasks and optionally synchronizing information with a CRM. Verify extracted commitments and authorize customer record updates.",
+    "ar": "مساعد للاجتماعات والذكاء التجاري ينتج ملاحظات منظمة ويحدد المهام ويمكنه مزامنة المعلومات مع نظام إدارة علاقات العملاء. ينبغي التحقق من الالتزامات المستخرجة والموافقة على تحديث سجلات العملاء.",
+    "officialSource": "https://www.avoma.com/ai-meeting-assistant",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "sembly": {
+    "fr": "Assistant de réunion enregistrant et transcrivant les conversations et produisant des notes. Sembly 3.0 ajoute des fonctions agentiques de création de documents et présentations. Vérifier la fidélité des livrables et les permissions d'accès aux enregistrements.",
+    "en": "Meeting assistant recording and transcribing conversations and producing notes. Sembly 3.0 adds agentic document and presentation creation. Check deliverable accuracy and recording access permissions.",
+    "ar": "مساعد للاجتماعات يسجل المحادثات وينسخها وينتج الملاحظات. يضيف Sembly 3.0 وظائف وكلاء لإنشاء الوثائق والعروض. ينبغي مراجعة دقة المخرجات وصلاحيات الوصول إلى التسجيلات.",
+    "officialSource": "https://help.sembly.ai/en/articles/193-sembly-30-overview",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "meetgeek": {
+    "fr": "Assistant de réunion qui produit des synthèses et met en évidence des moments clés et indicateurs à partir des conversations. Les résumés et extraits peuvent être modifiés et partagés. Contrôler les citations, les décisions et les destinataires.",
+    "en": "Meeting assistant producing summaries and highlighting key moments and indicators from conversations. Summaries and highlights can be edited and shared. Review quotations, decisions and recipients.",
+    "ar": "مساعد للاجتماعات ينتج الملخصات ويبرز اللحظات والمؤشرات الرئيسية من المحادثات. يمكن تعديل الملخصات والمقتطفات ومشاركتها. ينبغي مراجعة الاقتباسات والقرارات والمستلمين.",
+    "officialSource": "https://support.meetgeek.ai/en/articles/6021900-highlights-summaries",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "krisp": {
+    "fr": "Outil de communication associant réduction du bruit et assistant de prise de notes pour réunions en ligne ou en présentiel. Il transcrit et résume les échanges. Vérifier les modalités de traitement audio et informer les participants avant capture.",
+    "en": "Communication tool combining noise reduction and a note-taking assistant for online and in-person meetings. Transcribes and summarizes conversations. Check audio processing terms and inform participants before capture.",
+    "ar": "أداة اتصال تجمع تقليل الضوضاء ومساعد تدوين الملاحظات للاجتماعات عن بعد والحضورية. تنسخ المحادثات وتلخصها. ينبغي مراجعة شروط معالجة الصوت وإبلاغ المشاركين قبل التسجيل.",
+    "officialSource": "https://krisp.ai/ai-note-taker/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "supernormal": {
+    "fr": "Assistant de réunion intégré à un espace de travail IA collaboratif, permettant de capturer des conversations et de produire des notes. La capture mobile par un seul microphone peut ne pas distinguer les intervenants. Vérifier les attributions et les décisions.",
+    "en": "Meeting assistant integrated into a collaborative AI workspace, capturing conversations and producing notes. Mobile capture through one microphone may not distinguish speakers. Verify attribution and decisions.",
+    "ar": "مساعد للاجتماعات مدمج في مساحة عمل تعاونية بالذكاء الاصطناعي يتيح التقاط المحادثات وإنتاج الملاحظات. قد لا يميز التسجيل المحمول بميكروفون واحد بين المتحدثين. ينبغي مراجعة نسب الأقوال والقرارات.",
+    "officialSource": "https://help.supernormal.com/en/articles/14288799-capturing-in-person-mobile-conversations",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "notta": {
+    "fr": "Service de transcription et traduction de fichiers audio et réunions, avec modes monolingue et bilingue. La liste officielle comprend notamment l'arabe égyptien et des Émirats arabes unis. Tester séparément les dialectes et les combinaisons linguistiques avant usage.",
+    "en": "Audio and meeting transcription and translation service with monolingual and bilingual modes. Its official list includes Egyptian and UAE Arabic. Test dialects and language combinations separately before use.",
+    "ar": "خدمة لنسخ وترجمة الملفات الصوتية والاجتماعات بأوضاع أحادية وثنائية اللغة. تشمل قائمتها الرسمية العربية المصرية والإماراتية. ينبغي اختبار اللهجات والتركيبات اللغوية بصورة مستقلة قبل الاستخدام.",
+    "officialSource": "https://support.notta.ai/hc/en-us/articles/4403155631131-What-languages-does-Notta-support-for-transcription-and-translation",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "sonix": {
+    "fr": "Plateforme de transcription et de sous-titrage de fichiers audio et vidéo, prenant notamment en charge l'arabe. Elle propose un éditeur de texte synchronisé et des exports documentaires ou sous-titres. Relire les noms propres et vérifier le minutage avant publication.",
+    "en": "Audio and video transcription and captioning platform supporting Arabic among other languages. Offers a synchronized text editor and document or subtitle exports. Review names and timing before publication.",
+    "ar": "منصة لنسخ الملفات الصوتية والمرئية وإنشاء الترجمات النصية تدعم العربية ضمن لغات أخرى. توفر محرر نصوص متزامنًا وتصدير المستندات أو الترجمات النصية. ينبغي مراجعة الأسماء والتوقيت قبل النشر.",
+    "officialSource": "https://sonix.ai/convert-arabic-mp4-files-to-text",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "trint": {
+    "fr": "Atelier de transcription collaborative de contenus audio et vidéo, avec sélection des langues, traduction et outils de révision. Adapté aux entretiens et productions éditoriales. Vérifier les citations avec l'enregistrement original et les options linguistiques du forfait.",
+    "en": "Collaborative audio and video transcription workspace with language selection, translation and review tools. Suitable for interviews and editorial production. Verify quotes against the original recording and plan-specific language options.",
+    "ar": "بيئة تعاونية لنسخ المحتوى الصوتي والمرئي مع اختيار اللغة والترجمة وأدوات المراجعة. تناسب المقابلات والإنتاج التحريري. ينبغي التحقق من الاقتباسات بالرجوع إلى التسجيل الأصلي وخيارات اللغة بحسب الاشتراك.",
+    "officialSource": "https://info.trint.com/knowledge/what-languages-does-trint-support-trint-help-center",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "deepgram": {
+    "fr": "API de reconnaissance vocale pour transcriptions de fichiers et flux audio, avec modèles Nova et options de langue. Nova-3 propose un modèle arabe et des variantes dialectales. Mesurer la qualité sur les accents et conditions acoustiques cibles avant intégration.",
+    "en": "Speech recognition API for file and streaming transcription with Nova models and language options. Nova-3 offers an Arabic model and dialect variants. Measure quality on target accents and acoustic conditions before integration.",
+    "ar": "واجهة برمجية للتعرف على الكلام ونسخ الملفات والتدفقات الصوتية باستخدام نماذج Nova وخيارات اللغة. يقدم Nova-3 نموذجًا عربيًا ومتغيرات لهجية. ينبغي قياس الجودة على اللهجات والظروف الصوتية المستهدفة قبل الدمج.",
+    "officialSource": "https://developers.deepgram.com/changelog/2026/1/27",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "gladia": {
+    "fr": "API de transcription audio en direct et différée, avec choix de modèles et options de détection linguistique. Les possibilités de changement de langue et de traduction varient selon le modèle. Vérifier la couverture des langues, la latence et le traitement des données.",
+    "en": "API for live and batch audio transcription with model selection and language detection options. Code switching and translation capabilities vary by model. Check language coverage, latency and data processing.",
+    "ar": "واجهة برمجية للنسخ الصوتي المباشر والمؤجل مع اختيار النماذج وخيارات اكتشاف اللغة. تختلف إمكانات تبديل اللغة والترجمة بحسب النموذج. ينبغي مراجعة التغطية اللغوية وزمن الاستجابة ومعالجة البيانات.",
+    "officialSource": "https://eu1.docs.gladia.io/languages/supported-languages/",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
