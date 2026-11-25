@@ -6165,5 +6165,47 @@
     "ar": "مكتبة من NVIDIA لربط الوكلاء بالأدوات ومصادر البيانات ومراقبة مسارات عملهم. أصبحت مهملة منذ أكتوبر 2026 مع إعلان نهاية دورة حياتها بنهاية 2026. تتاح الشيفرة والوثائق لأغراض الصيانة والمرجعية التاريخية؛ يفضل اختيار حل يحظى بالصيانة للمشروعات الجديدة.",
     "officialSource": "https://docs.nvidia.com/nemo/agent-toolkit/1.9/components/agents/index.html",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "vertex-ai-agent-builder": {
+    "fr": "Suite Google Cloud pour créer, déployer et gouverner des agents en production. Accès par console et interfaces de développement ; les coûts dépendent des modèles et services cloud mobilisés. Consulter également la documentation de Gemini Enterprise Agent Platform pour les évolutions de l'offre.",
+    "en": "Google Cloud suite for building, deploying and governing production agents. Console and developer interface access; costs depend on underlying models and cloud services. Consult Gemini Enterprise Agent Platform documentation for product evolution.",
+    "ar": "مجموعة خدمات من Google Cloud لإنشاء الوكلاء ونشرهم وحوكمتهم في بيئات الإنتاج. تتاح عبر لوحة التحكم وواجهات التطوير؛ وتعتمد التكاليف على النماذج والخدمات السحابية المستخدمة. ينبغي مراجعة وثائق Gemini Enterprise Agent Platform لمتابعة تطور العرض.",
+    "officialSource": "https://docs.cloud.google.com/agent-builder",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "amazon-bedrock-agents": {
+    "fr": "Service AWS permettant de configurer des agents associant instructions, modèles, bases de connaissances et groupes d'actions API. Des agents superviseurs peuvent coordonner plusieurs collaborateurs. Accès cloud et facturation des ressources consommées ; limiter les autorisations IAM.",
+    "en": "AWS service for configuring agents combining instructions, models, knowledge bases and API action groups. Supervisor agents can coordinate multiple collaborators. Cloud access and resource-based billing; restrict IAM permissions.",
+    "ar": "خدمة من AWS لإعداد وكلاء يجمعون التعليمات والنماذج وقواعد المعرفة ومجموعات إجراءات الواجهات البرمجية. يمكن لوكيل مشرف تنسيق عدة وكلاء متعاونين. تتاح سحابيًا وتحتسب تكلفة الموارد المستهلكة؛ ينبغي تقييد صلاحيات IAM.",
+    "officialSource": "https://docs.aws.amazon.com/bedrock/latest/userguide/agents-how.html",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "zapier-agents": {
+    "fr": "Service web de création d'agents reliés aux applications et sources de connaissances de Zapier. Les agents réalisent des actions et recherches selon des instructions configurées. Offres gratuites limitées et payantes avec quotas d'activités ; surveiller la consommation et les autorisations.",
+    "en": "Web service for creating agents connected to Zapier applications and knowledge sources. Agents perform actions and searches based on configured instructions. Limited free and paid plans with activity quotas; monitor usage and permissions.",
+    "ar": "خدمة ويب لإنشاء وكلاء مرتبطين بتطبيقات Zapier ومصادر المعرفة. ينفذ الوكلاء الإجراءات وعمليات البحث وفق التعليمات المحددة. توفر خططًا مجانية محدودة ومدفوعة بحصص للأنشطة؛ ينبغي مراقبة الاستهلاك والصلاحيات.",
+    "officialSource": "https://help.zapier.com/hc/en-us/articles/26559132765325-How-is-Zapier-Agents-usage-measured",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "notion-agent": {
+    "fr": "Assistant intégré à Notion pour rechercher et synthétiser des informations et réaliser des tâches dans l'espace de travail. Les Custom Agents peuvent recevoir des instructions, outils et permissions propres. L'accès dépend du plan et certaines exécutions consomment des crédits individuels ou partagés. Définir des budgets et contrôler les accès.",
+    "en": "Notion assistant for retrieving and synthesizing information and performing workspace tasks. Custom Agents can have distinct instructions, tools and permissions. Access depends on plan and some runs consume individual or shared credits. Set budgets and review access.",
+    "ar": "مساعد مدمج في Notion للبحث عن المعلومات وتلخيصها وإنجاز المهام في مساحة العمل. يمكن تزويد الوكلاء المخصصين بتعليمات وأدوات وصلاحيات خاصة. يعتمد الوصول على الخطة وتستهلك بعض العمليات أرصدة فردية أو مشتركة. ينبغي تحديد الميزانيات وضبط الوصول.",
+    "officialSource": "https://www.notion.com/help/notion-agent",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "asana-ai-teammates": {
+    "fr": "Agents collaboratifs intégrés aux projets Asana, configurables pour des rôles tels que le suivi de campagne ou la synthèse des activités. Ils peuvent produire des brouillons et des sous-tâches soumis à revue. Accès selon les plans Asana, avec requêtes IA mesurées et possibilités d'achat de capacités supplémentaires.",
+    "en": "Collaborative agents integrated into Asana projects, configurable for roles such as campaign coordination or activity reporting. They can produce drafts and subtasks for review. Access depends on Asana plans, with metered AI requests and options to purchase additional capacity.",
+    "ar": "وكلاء تعاونيون مدمجون في مشاريع Asana يمكن إعدادهم لأدوار مثل تنسيق الحملات وتلخيص الأنشطة. يمكنهم إعداد مسودات ومهام فرعية للمراجعة. يعتمد الوصول على خطط Asana مع قياس طلبات الذكاء الاصطناعي وإمكان شراء سعة إضافية.",
+    "officialSource": "https://asana.com/product/ai/ai-teammates",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "glean-agents": {
+    "fr": "Agents d'entreprise exploitant les sources internes et les outils connectés pour rechercher des informations et automatiser des workflows. Glean propose des agents autonomes et des agents de workflow, avec choix de modèles selon configuration. L'offre Enterprise Flex mesure notamment les exécutions en FlexCredits selon leur complexité. Respecter les permissions documentaires.",
+    "en": "Enterprise agents using internal sources and connected tools to retrieve information and automate workflows. Glean provides autonomous and workflow agents, with configurable model choices. Enterprise Flex measures agent runs in FlexCredits based on complexity. Respect document permissions.",
+    "ar": "وكلاء للمؤسسات يستفيدون من المصادر الداخلية والأدوات المتصلة لاسترجاع المعلومات وأتمتة مسارات العمل. توفر Glean وكلاء مستقلين ووكلاء لمسارات العمل مع اختيار النماذج بحسب الإعداد. يقيس عرض Enterprise Flex عمليات التنفيذ بأرصدة FlexCredits وفق تعقيدها. ينبغي احترام صلاحيات الوثائق.",
+    "officialSource": "https://docs.glean.com/administration/managing-agents/set-up-llms",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
