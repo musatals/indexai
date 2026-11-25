@@ -5731,5 +5731,61 @@
     "ar": "منظومة تقنيات NVIDIA لتطوير الروبوتات المستقلة تشمل Isaac Sim للمحاكاة والبيانات الاصطناعية وIsaac Lab لتعلم الروبوتات وIsaac ROS للمكونات الروبوتية. يخضع وصول المطورين لتراخيص المكونات وتختلف تكاليف المعدات والحوسبة. ينبغي التحقق من السلوك في الظروف الواقعية.",
     "officialSource": "https://developer.nvidia.com/isaac",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "plantix": {
+    "fr": "Application mobile gratuite de diagnostic des cultures à partir de photographies, avec identification probable des maladies et ravageurs. Des API professionnelles permettent l’intégration dans d’autres services. Confirmer les résultats sur le terrain avant tout traitement.",
+    "en": "Free mobile crop diagnosis app using photographs to identify likely diseases and pests. Professional APIs support integration into other services. Confirm results in the field before treatment.",
+    "ar": "تطبيق مجاني للهواتف لتشخيص المحاصيل انطلاقًا من الصور وتحديد الأمراض والآفات المحتملة. تتيح واجهات برمجية مهنية دمج الوظائف في خدمات أخرى. ينبغي التحقق ميدانيًا من النتائج قبل أي معالجة.",
+    "officialSource": "https://www.plantix.net/en/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "google-earth-engine": {
+    "fr": "Infrastructure cloud d’analyse géospatiale combinant catalogues de données satellitaires et calcul distribué. Accessible via JavaScript et Python dans un projet Google Cloud enregistré. Accès non commercial gratuit sous conditions et quotas ; offres commerciales payantes. Documenter les résolutions et périodes des données.",
+    "en": "Cloud geospatial analysis infrastructure combining satellite data catalogs and distributed computing. Accessible through JavaScript and Python in a registered Google Cloud project. Eligible noncommercial access is free subject to quotas; commercial plans are paid. Document data resolutions and dates.",
+    "ar": "بنية سحابية للتحليل الجغرافي المكاني تجمع فهارس البيانات الفضائية والحوسبة الموزعة. تتاح عبر JavaScript وPython ضمن مشروع Google Cloud مسجل. الوصول غير التجاري مجاني للمشاريع المؤهلة ضمن حصص محددة، والعروض التجارية مدفوعة. ينبغي توثيق دقة البيانات وفتراتها.",
+    "officialSource": "https://developers.google.com/earth-engine/guides/access",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "cropin": {
+    "fr": "Plateforme professionnelle associant données de terrain, observations satellitaires, météo et modèles agronomiques. OrbitAI permet d’interroger ces ressources pour appuyer les décisions agricoles et logistiques. Accès cloud et déploiement institutionnel selon contrat ; vérifier les recommandations auprès des agronomes.",
+    "en": "Enterprise platform combining field data, satellite observations, weather and agronomic models. OrbitAI supports querying these resources for agricultural and supply decisions. Cloud access and institutional deployment under contract; validate recommendations with agronomists.",
+    "ar": "منصة مهنية تجمع بيانات الحقول والرصد الفضائي والطقس والنماذج الزراعية. يتيح OrbitAI الاستعلام عن هذه الموارد لدعم القرارات الزراعية واللوجستية. تتاح سحابيًا وبنشر مؤسسي بحسب العقد؛ ينبغي مراجعة التوصيات مع المختصين الزراعيين.",
+    "officialSource": "https://www.cropin.com/products/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "taranis": {
+    "fr": "Service d’intelligence agricole combinant images aériennes détaillées, analyse automatisée et expertise agronomique pour repérer les anomalies des cultures. Offre professionnelle dont les conditions dépendent du déploiement. Confirmer les observations par inspection au sol.",
+    "en": "Agricultural intelligence service combining detailed aerial imagery, automated analysis and agronomic expertise to identify crop anomalies. Professional terms depend on deployment. Confirm observations through ground inspection.",
+    "ar": "خدمة للذكاء الزراعي تجمع الصور الجوية المفصلة والتحليل الآلي والخبرة الزراعية لرصد مشكلات المحاصيل. تختلف شروط العرض المهني بحسب النشر. ينبغي تأكيد الملاحظات بالفحص الميداني.",
+    "officialSource": "https://www.taranis.com/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "onesoil": {
+    "fr": "Plateforme web et mobile de suivi des parcelles par imagerie satellitaire et indices de végétation NDVI. Les fonctions de base sont gratuites ; l’historique mobile étendu et les cartes d’application à dose variable relèvent d’offres payantes. Tenir compte des nuages et des limites des indices.",
+    "en": "Web and mobile field monitoring platform using satellite imagery and NDVI vegetation indices. Basic features are free; extended mobile history and variable-rate application maps require paid offerings. Account for clouds and index limitations.",
+    "ar": "منصة ويب وهاتف لمراقبة الحقول بالصور الفضائية ومؤشر الغطاء النباتي NDVI. الوظائف الأساسية مجانية، بينما يتطلب السجل الموسمي الموسع على الهاتف وخرائط التطبيق بمعدلات متغيرة عروضًا مدفوعة. ينبغي مراعاة السحب وحدود المؤشرات.",
+    "officialSource": "https://help.onesoil.ai/en/articles/5237584-how-the-onesoil-web-and-mobile-apps-differ",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "climate-fieldview": {
+    "fr": "Plateforme d’agriculture numérique permettant de cartographier les opérations et de comparer les rendements selon les parcelles, semences et pratiques. Accès via applications et équipements compatibles, avec formule de base et offres payantes selon le marché. Vérifier la qualité des données et des recommandations.",
+    "en": "Digital farming platform for mapping operations and comparing yields across fields, seed types and practices. Access through apps and compatible equipment, with basic and paid plans varying by market. Check data quality and recommendations.",
+    "ar": "منصة للزراعة الرقمية تتيح رسم خرائط العمليات ومقارنة الغلة بحسب الحقول والبذور والممارسات. تتاح عبر تطبيقات ومعدات متوافقة، مع خطة أساسية وعروض مدفوعة تختلف بحسب السوق. ينبغي مراجعة جودة البيانات والتوصيات.",
+    "officialSource": "https://climate.com/en-us/pricing.html",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "eosda-crop-monitoring": {
+    "fr": "Service web de suivi des cultures par satellite, associant indices de végétation, météo, stades de croissance et limites de parcelles. Les offres Essential et Professional donnent accès à des fonctions supplémentaires, avec capacité de suivi dépendant notamment de la superficie. Vérifier les dates et la couverture nuageuse.",
+    "en": "Web-based satellite crop monitoring service combining vegetation indices, weather, growth stages and field boundaries. Essential and Professional plans unlock additional features, with monitoring capacity depending partly on area. Check acquisition dates and cloud cover.",
+    "ar": "خدمة ويب لمراقبة المحاصيل بالأقمار الصناعية تجمع مؤشرات الغطاء النباتي والطقس ومراحل النمو وحدود الحقول. تتيح خطتا Essential وProfessional وظائف إضافية، وتعتمد سعة المتابعة جزئيًا على المساحة. ينبغي مراجعة تواريخ التقاط الصور والغطاء السحابي.",
+    "officialSource": "https://eos.com/user-guide/crop-monitoring/account-and-pricing/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "planet-labs": {
+    "fr": "Fournisseur d’imagerie satellitaire pour observer les changements terrestres, avec accès par plateforme et API. PlanetScope facilite le suivi répété des zones ; abonnements par superficie et crédits de surveillance selon l’offre. Vérifier les licences, la résolution et les dates d’acquisition.",
+    "en": "Satellite imagery provider for monitoring land changes, accessible through a platform and APIs. PlanetScope supports repeated area monitoring; area-based subscriptions and monitoring credits vary by offering. Check licenses, resolution and acquisition dates.",
+    "ar": "مزود للصور الفضائية لمتابعة تغيرات سطح الأرض، يتاح عبر منصة وواجهات برمجية. يسهل PlanetScope الرصد المتكرر للمناطق؛ وتختلف الاشتراكات بحسب المساحة وأرصدة الرصد وفق العرض. ينبغي مراجعة التراخيص والدقة وتواريخ التقاط الصور.",
+    "officialSource": "https://docs.planet.com/platform/monitoring-credits/",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
