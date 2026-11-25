@@ -6431,5 +6431,138 @@
     "ar": "منصة مهنية لنشر الوكلاء الصوتيين لأتمتة مكالمات العملاء مع تكاملات الاتصالات وأنظمة الأعمال. يسعر النشر الجديد وفق عقد يعتمد على الحجم والتكاملات ومتطلبات الأمن. ينبغي توفير الموافقة والتحويل إلى الدعم البشري.",
     "officialSource": "https://synthflow.ai//pricing",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "bland-ai": {
+    "fr": "Plateforme cloud de création d’agents téléphoniques entrants et sortants, avec éditeur visuel et API. Facturation à la consommation et offres professionnelles sur devis. Vérifier le consentement, les règles de démarchage et les transferts humains.",
+    "en": "Cloud platform for inbound and outbound phone agents, with visual builder and API. Usage-based billing and custom enterprise plans. Review consent, outreach rules and human handoff.",
+    "ar": "منصة سحابية لإنشاء وكلاء للمكالمات الواردة والصادرة، مع محرر مرئي وواجهة برمجية. تعتمد الفوترة على الاستهلاك مع عروض مؤسسية مخصصة. ينبغي مراعاة الموافقة وقواعد الاتصال التجاري والتحويل إلى موظف بشري.",
+    "officialSource": "https://www.bland.ai/enterprise-ai-voice-agents",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "vocode": {
+    "fr": "Bibliothèque open source pour développer des applications vocales fondées sur des modèles linguistiques, en combinant transcription, génération de réponses et synthèse vocale. Installation Python et intégrations téléphoniques ; coûts éventuels des services tiers. Tester la latence et la confidentialité.",
+    "en": "Open-source library for voice applications combining transcription, language-model responses and speech synthesis. Python installation and telephony integrations; third-party services may incur costs. Test latency and privacy.",
+    "ar": "مكتبة مفتوحة المصدر لتطوير التطبيقات الصوتية تجمع التفريغ النصي وإجابات النماذج اللغوية وتوليد الكلام. تتاح عبر Python وتكاملات الاتصالات، وقد تترتب تكاليف للخدمات الخارجية. ينبغي اختبار زمن الاستجابة والخصوصية.",
+    "officialSource": "https://github.com/vocodedev/vocode-core",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "twilio-ai": {
+    "fr": "Services de communication programmables comprenant Conversation Relay pour intégrer des agents vocaux et Conversation Intelligence pour transcrire et analyser les échanges. Accès API avec tarification à la minute et selon les opérations. Encadrer l’enregistrement et la conservation des conversations.",
+    "en": "Programmable communications services including Conversation Relay for voice agents and Conversation Intelligence for transcription and analysis. API access with per-minute and operation-based charges. Govern recording and retention.",
+    "ar": "خدمات اتصالات قابلة للبرمجة تشمل Conversation Relay لدمج الوكلاء الصوتيين وConversation Intelligence لتفريغ المحادثات وتحليلها. تتاح عبر واجهات برمجية بفوترة حسب الدقائق والعمليات. ينبغي ضبط التسجيل والاحتفاظ بالمحادثات.",
+    "officialSource": "https://www.twilio.com/en-us/products/conversational-ai/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "outreach": {
+    "fr": "Plateforme agentique pour équipes commerciales, couvrant prospection, suivi des opportunités, analyse des échanges et prévisions. Le site historique redirige vers outreach.ai. Accès professionnel sur devis ; contrôler les données CRM et les messages sortants.",
+    "en": "Agentic platform for sales teams spanning prospecting, deal management, conversation analysis and forecasting. The legacy website redirects to outreach.ai. Professional access by quotation; review CRM data and outbound messages.",
+    "ar": "منصة وكيلية لفرق المبيعات تشمل التنقيب التجاري ومتابعة الفرص وتحليل المحادثات والتوقعات. يعيد الموقع السابق التوجيه إلى outreach.ai. يتاح الوصول المهني وفق عرض سعر؛ ينبغي مراجعة بيانات العملاء والرسائل الصادرة.",
+    "officialSource": "https://www.outreach.ai/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "salesloft": {
+    "fr": "Plateforme d’orchestration commerciale associée à Clari, combinant suivi des opportunités, analyse des conversations, prévisions et workflows de vente. Accès cloud professionnel selon contrat. Vérifier les signaux prédictifs et les droits sur les enregistrements.",
+    "en": "Revenue orchestration platform associated with Clari, combining deal tracking, conversation analysis, forecasting and sales workflows. Professional cloud access under contract. Validate predictive signals and recording permissions.",
+    "ar": "منصة لتنسيق العمليات التجارية مرتبطة بـ Clari تجمع متابعة الفرص وتحليل المحادثات والتوقعات ومسارات المبيعات. تتاح سحابيًا وفق عقد مهني. ينبغي التحقق من المؤشرات التنبؤية وأذونات التسجيل.",
+    "officialSource": "https://www.salesloft.com/company/newsroom/salesloft-conversation-intelligence",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "regie-ai": {
+    "fr": "Plateforme RegieGO de prospection commerciale assistée par IA, permettant de rechercher des comptes et contacts selon des critères, analyser les signaux d’intérêt et préparer des messages. Accès web professionnel ; conditions commerciales à confirmer. Respecter les règles de prospection.",
+    "en": "RegieGO AI sales prospecting platform for finding accounts and contacts by criteria, analyzing buying signals and preparing messages. Professional web access; confirm commercial terms. Follow outreach rules.",
+    "ar": "منصة RegieGO للتنقيب التجاري بالذكاء الاصطناعي تتيح البحث عن الشركات وجهات الاتصال وفق معايير وتحليل مؤشرات الاهتمام وإعداد الرسائل. تتاح مهنيًا عبر الويب؛ ينبغي مراجعة الشروط التجارية واحترام قواعد التواصل.",
+    "officialSource": "https://regie.ai/platform/prospecting",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "conversica": {
+    "fr": "Agents conversationnels professionnels pour engager les prospects, assurer des relances et traiter certaines interactions de service client. Déploiement cloud selon contrat ; vérifier les règles d’envoi, les réponses et la transmission aux équipes humaines.",
+    "en": "Professional conversational agents for engaging prospects, following up and handling selected customer service interactions. Cloud deployment under contract; review sending rules, responses and human handoff.",
+    "ar": "وكلاء حواريون مهنيون للتواصل مع العملاء المحتملين ومتابعتهم ومعالجة بعض تفاعلات خدمة العملاء. يتاح النشر السحابي وفق عقد؛ ينبغي مراجعة قواعد الإرسال والإجابات والتحويل إلى الفرق البشرية.",
+    "officialSource": "https://www.conversica.com/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "people-ai": {
+    "fr": "Plateforme d’intelligence commerciale dont le site redirige désormais vers Backstory. Elle rapproche les signaux commerciaux pour analyser les risques des opportunités, les relations avec les parties prenantes et la santé du pipeline. Accès professionnel sur devis ; valider les données et conclusions.",
+    "en": "Revenue intelligence platform whose website now redirects to Backstory. It combines sales signals to analyze deal risk, stakeholder relationships and pipeline health. Professional access by quotation; validate data and conclusions.",
+    "ar": "منصة للذكاء التجاري يعيد موقعها التوجيه الآن إلى Backstory. تجمع المؤشرات التجارية لتحليل مخاطر الصفقات وعلاقات الأطراف المعنية وحالة مسار المبيعات. يتاح الوصول المهني وفق عرض سعر؛ ينبغي التحقق من البيانات والاستنتاجات.",
+    "officialSource": "https://www.backstory.ai/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "reply-io": {
+    "fr": "Service de prospection multicanale permettant de gérer des séquences de contact, avec agent Jason AI SDR proposé séparément selon l’offre. Abonnements et options variables selon les volumes et canaux. Respecter le consentement et les désinscriptions.",
+    "en": "Multichannel prospecting service managing outreach sequences, with Jason AI SDR offered separately depending on plan. Subscriptions and options vary by volume and channel. Respect consent and opt-outs.",
+    "ar": "خدمة للتنقيب التجاري متعدد القنوات تدير تسلسلات التواصل، مع وكيل Jason AI SDR المتاح بصورة منفصلة بحسب الخطة. تختلف الاشتراكات والخيارات بحسب الحجم والقنوات. ينبغي احترام الموافقة وطلبات إلغاء الاشتراك.",
+    "officialSource": "https://reply.io/pricing/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "instantly": {
+    "fr": "Plateforme web de prospection par courriel, gestion des contacts et CRM, avec agents de réponse et enrichissement des données selon l’offre. Abonnements distincts et crédits pour certaines fonctions IA. Vérifier les coordonnées et respecter les règles anti-spam.",
+    "en": "Web platform for email prospecting, contact management and CRM, with reply agents and data enrichment depending on plan. Separate subscriptions and credits for selected AI features. Verify contact details and follow anti-spam rules.",
+    "ar": "منصة ويب للتنقيب بالبريد الإلكتروني وإدارة جهات الاتصال وعلاقات العملاء، مع وكلاء للرد وإثراء البيانات بحسب الخطة. توفر اشتراكات منفصلة وأرصدة لبعض وظائف الذكاء الاصطناعي. ينبغي التحقق من بيانات الاتصال واحترام قواعد مكافحة الرسائل المزعجة.",
+    "officialSource": "https://instantly.ai/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "amplemarket": {
+    "fr": "Plateforme commerciale B2B combinant recherche de prospects, signaux d’intention, séquences multicanales et assistant Duo. Accès web par abonnement professionnel avec crédits selon les fonctions. Vérifier la pertinence des données et les autorisations de communication.",
+    "en": "B2B sales platform combining prospect research, intent signals, multichannel sequences and Duo assistant. Professional web subscription with feature-specific credits. Verify data relevance and communication permissions.",
+    "ar": "منصة للمبيعات بين المؤسسات تجمع البحث عن العملاء المحتملين ومؤشرات نية الشراء وتسلسلات التواصل متعددة القنوات ومساعد Duo. تتاح عبر الويب باشتراك مهني وأرصدة بحسب الوظائف. ينبغي التحقق من ملاءمة البيانات وأذونات التواصل.",
+    "officialSource": "https://www.amplemarket.com/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "shopify-sidekick": {
+    "fr": "Assistant conversationnel intégré à l’administration Shopify pour expliquer les fonctions de la boutique et aider à accomplir des tâches commerciales complexes. Accès lié au compte Shopify et aux fonctionnalités disponibles. Vérifier les changements proposés avant application.",
+    "en": "Conversational assistant integrated into Shopify admin to explain store functions and assist with complex commerce tasks. Access tied to Shopify account and available features. Review proposed changes before applying them.",
+    "ar": "مساعد حواري مدمج في لوحة إدارة Shopify يشرح وظائف المتجر ويساعد على إنجاز المهام التجارية المعقدة. يرتبط الوصول بحساب Shopify والوظائف المتاحة. ينبغي مراجعة التغييرات المقترحة قبل تطبيقها.",
+    "officialSource": "https://help.shopify.com/en/manual/ai-powered-tools/sidekick",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "klaviyo-ai": {
+    "fr": "Fonctions IA de marketing et de service client de Klaviyo, dont Composer pour les workflows marketing et Customer Agent pour les conversations. Accès cloud selon abonnement, crédits Composer et résolutions facturées selon l’offre. Vérifier la segmentation et les messages avant diffusion.",
+    "en": "Klaviyo marketing and customer service AI features, including Composer for marketing workflows and Customer Agent for conversations. Cloud access through subscriptions, Composer credits and plan-dependent resolution charges. Review segmentation and messages before distribution.",
+    "ar": "وظائف ذكاء اصطناعي للتسويق وخدمة العملاء في Klaviyo، منها Composer لمسارات التسويق وCustomer Agent للمحادثات. تتاح سحابيًا باشتراكات وأرصدة Composer وفوترة لحل الطلبات بحسب الخطة. ينبغي مراجعة تقسيم الجمهور والرسائل قبل النشر.",
+    "officialSource": "https://www.klaviyo.com/solutions/ai/ai-agent-pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "octane-ai": {
+    "fr": "Outil de création de questionnaires pour boutiques en ligne, permettant de recueillir les préférences déclarées et recommander des produits. Smart Copy aide à rédiger les textes. Abonnements et crédits selon l’utilisation des questionnaires et fonctions IA. Informer les utilisateurs sur la collecte des données.",
+    "en": "Online-store quiz builder collecting declared preferences and recommending products. Smart Copy assists with copywriting. Subscriptions and credits depend on quiz and AI feature usage. Inform users about data collection.",
+    "ar": "أداة لإنشاء استبيانات المتاجر الإلكترونية تجمع التفضيلات المعلنة وتوصي بالمنتجات. تساعد Smart Copy في صياغة النصوص. تعتمد الاشتراكات والأرصدة على استخدام الاستبيانات ووظائف الذكاء الاصطناعي. ينبغي إبلاغ المستخدمين بجمع البيانات.",
+    "officialSource": "https://help.octaneai.com/en/articles/2404075-octane-ai-plans-and-pricing-credits-system",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "nosto": {
+    "fr": "Plateforme de personnalisation du commerce électronique associant recherche, recommandations de produits, merchandising et tests A/B. Intégrations avec plusieurs plateformes de boutique et services professionnels selon contrat. Mesurer la pertinence des recommandations et respecter les choix de confidentialité.",
+    "en": "E-commerce personalization platform combining search, product recommendations, merchandising and A/B tests. Integrations with multiple storefront platforms and professional services under contract. Measure recommendation relevance and respect privacy choices.",
+    "ar": "منصة لتخصيص التجارة الإلكترونية تجمع البحث وتوصيات المنتجات وإدارة العرض التجاري واختبارات A/B. تتكامل مع منصات متاجر متعددة وتوفر خدمات مهنية وفق عقد. ينبغي قياس ملاءمة التوصيات واحترام خيارات الخصوصية.",
+    "officialSource": "https://www.nosto.com/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "bloomreach": {
+    "fr": "Plateforme de personnalisation commerciale combinant recherche de produits, marketing multicanal, recommandations et agents Loomi. Accès cloud professionnel selon modules et volumes. Vérifier les données clients, la pertinence des résultats et les consentements.",
+    "en": "Commerce personalization platform combining product search, multichannel marketing, recommendations and Loomi agents. Professional cloud access depending on modules and volumes. Review customer data, result relevance and consent.",
+    "ar": "منصة لتخصيص التجارة تجمع البحث عن المنتجات والتسويق متعدد القنوات والتوصيات ووكلاء Loomi. تتاح سحابيًا للمؤسسات بحسب الوحدات والأحجام. ينبغي مراجعة بيانات العملاء وملاءمة النتائج والموافقات.",
+    "officialSource": "https://www.bloomreach.com/en",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "constructor": {
+    "fr": "Plateforme de recherche et découverte de produits pour commerces en ligne, utilisant le comportement et le contexte pour personnaliser les résultats, catégories et recommandations. Propose aussi un assistant d’achat en langage naturel. Offre professionnelle selon contrat ; tester pertinence et biais du classement.",
+    "en": "E-commerce search and product discovery platform using behavior and context to personalize results, categories and recommendations. Also offers a natural-language shopping assistant. Contract-based enterprise offering; test relevance and ranking bias.",
+    "ar": "منصة للبحث واكتشاف المنتجات في المتاجر الإلكترونية تستخدم السلوك والسياق لتخصيص النتائج والفئات والتوصيات. توفر أيضًا مساعد تسوق باللغة الطبيعية. تتاح بعقود مهنية؛ ينبغي اختبار الملاءمة وتحيز ترتيب النتائج.",
+    "officialSource": "https://constructor.com/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "dynamic-yield": {
+    "fr": "Solution Mastercard de personnalisation des expériences numériques, permettant de configurer et tester des recommandations et contenus selon les segments et comportements. Accès professionnel sur contrat et intégrations aux canaux numériques. Mesurer les effets par expérimentation et respecter les préférences de confidentialité.",
+    "en": "Mastercard digital experience personalization solution for configuring and testing recommendations and content based on segments and behavior. Contract-based professional access and digital channel integrations. Measure effects through experiments and respect privacy preferences.",
+    "ar": "حل من Mastercard لتخصيص التجارب الرقمية وإعداد واختبار التوصيات والمحتوى بحسب الشرائح والسلوك. يتاح مهنيًا وفق عقد ويتكامل مع القنوات الرقمية. ينبغي قياس الأثر بالتجارب واحترام تفضيلات الخصوصية.",
+    "officialSource": "https://www.mastercard.com/us/en/business/consumer-acquisition-and-engagement/personalization/dynamic-yield.html",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "rebuy": {
+    "fr": "Solution de personnalisation pour Shopify proposant recommandations, merchandising du panier, offres après achat et tests A/B. Offre gratuite Rebuy Monetize distincte des modules payants dont les coûts dépendent notamment du nombre de commandes. Vérifier la pertinence des offres et éviter les interfaces trompeuses.",
+    "en": "Shopify personalization solution offering recommendations, cart merchandising, post-purchase offers and A/B tests. Free Rebuy Monetize is distinct from paid modules priced partly by order volume. Review offer relevance and avoid misleading interfaces.",
+    "ar": "حل لتخصيص متاجر Shopify يوفر التوصيات وإدارة عروض السلة وعروض ما بعد الشراء واختبارات A/B. تختلف خدمة Rebuy Monetize المجانية عن الوحدات المدفوعة التي ترتبط تكلفتها جزئيًا بعدد الطلبات. ينبغي مراجعة ملاءمة العروض وتجنب الواجهات المضللة.",
+    "officialSource": "https://www.rebuyengine.com/pricing",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
