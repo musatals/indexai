@@ -6942,5 +6942,26 @@
     "ar": "منصة لتنسيق عمليات الأعمال تجمع وكلاء الذكاء الاصطناعي والقواعد الحتمية والتكاملات والتدخل البشري، بما في ذلك Pega Infinity 26. يتاح الوصول المهني عبر حلول Pega. بالنسبة لسير العمل المؤهل، يعتمد النموذج المعلن رسومًا ثابتة لكل حالة مكتملة تشمل رموز النماذج التي تديرها Pega؛ ينبغي مراجعة شروط العقد. يجب ضبط الرقابة والتدقيق والتصعيد.",
     "officialSource": "https://www.pega.com/ai-token-calculator",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "sierra": {
+    "fr": "Plateforme professionnelle de création et de déploiement d'agents IA pour la relation client, capable de connecter les systèmes métiers et de traiter les demandes par chat, voix, courriel et messagerie. Accès via la plateforme et ses intégrations. Facturation selon les résultats contractuellement définis, sans prix universel public. Prévoir des règles d'escalade humaine et des contrôles des actions.",
+    "en": "Enterprise platform for building and deploying customer service AI agents that connect business systems and handle requests through chat, voice, email and messaging. Access through the platform and integrations. Pricing based on contractually defined outcomes, with no universal public rate. Configure human escalation and action controls.",
+    "ar": "منصة مؤسسية لإنشاء ونشر وكلاء الذكاء الاصطناعي لخدمة العملاء وربط أنظمة الأعمال ومعالجة الطلبات عبر المحادثة والصوت والبريد الإلكتروني والمراسلة. يتاح الوصول عبر المنصة وتكاملاتها. تعتمد الفوترة على النتائج المحددة تعاقديًا دون سعر عام موحد. ينبغي ضبط التصعيد إلى الموظفين وضوابط الإجراءات.",
+    "officialSource": "https://sierra.ai/product",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "gemini-enterprise-agents": {
+    "fr": "Écosystème Google Cloud permettant de créer, déployer et gouverner des agents connectés aux données et outils de l'entreprise. L'application web Gemini Enterprise permet notamment de concevoir des agents sans code, tandis que Gemini Enterprise Agent Platform fournit aux développeurs des services de construction, d'exécution et de supervision. Les deux offres sont distinctes : abonnement par utilisateur pour l'application et facturation à la consommation pour la plateforme. Contrôler les accès aux données et aux outils.",
+    "en": "Google Cloud ecosystem for building, deploying and governing agents connected to enterprise data and tools. The Gemini Enterprise web app supports no-code agent design, while Gemini Enterprise Agent Platform provides developer services for building, running and monitoring agents. The offerings are separate: per-seat subscription for the app and consumption billing for the platform. Control data and tool access.",
+    "ar": "منظومة Google Cloud لإنشاء ونشر وحوكمة وكلاء مرتبطين ببيانات المؤسسة وأدواتها. يتيح تطبيق Gemini Enterprise عبر الويب تصميم وكلاء دون برمجة، بينما توفر Gemini Enterprise Agent Platform للمطورين خدمات البناء والتشغيل والمراقبة. العرضان منفصلان: اشتراك لكل مستخدم في التطبيق وفوترة حسب الاستهلاك للمنصة. ينبغي ضبط الوصول إلى البيانات والأدوات.",
+    "officialSource": "https://cloud.google.com/gemini-enterprise/faq",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "zoominfo-copilot": {
+    "fr": "Assistant d'intelligence commerciale B2B intégré à ZoomInfo, exploitant les données d'entreprises et de contacts ainsi que les signaux d'achat pour prioriser les comptes et préparer la prospection. Accès via la plateforme professionnelle et les intégrations CRM selon l'offre. Abonnement payant sur devis selon fonctionnalités, utilisateurs et volumes contractuels. Vérifier l'exactitude des coordonnées et les obligations de protection des données.",
+    "en": "B2B sales intelligence assistant integrated into ZoomInfo, using company and contact data and buying signals to prioritize accounts and prepare outreach. Access through the professional platform and plan-dependent CRM integrations. Paid subscription by quote according to features, users and contracted volumes. Verify contact accuracy and data protection obligations.",
+    "ar": "مساعد للاستخبارات التجارية بين الشركات مدمج في ZoomInfo، يستخدم بيانات المؤسسات وجهات الاتصال وإشارات الشراء لترتيب الحسابات حسب الأولوية وإعداد التواصل التجاري. يتاح عبر المنصة المهنية وتكاملات إدارة العملاء بحسب الخطة. اشتراك مدفوع وفق عرض سعر يعتمد على الوظائف والمستخدمين والأحجام التعاقدية. ينبغي التحقق من دقة بيانات الاتصال والالتزامات المتعلقة بحماية البيانات.",
+    "officialSource": "https://www.sec.gov/Archives/edgar/data/1794515/000179451526000038/zi-20260331.htm",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
