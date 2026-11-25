@@ -6711,5 +6711,61 @@
     "ar": "خدمة تاريخية لإنشاء صور رمزية ثلاثية الأبعاد قابلة للتخصيص ودمجها في التطبيقات الغامرة والألعاب. أكد الشركاء إغلاق الخدمات في 31 يناير 2026؛ ولا ينبغي اعتبار حزم التطوير والواجهات البرمجية السابقة عاملة. يحتفظ بالسجل لأغراض توثيقية؛ ينبغي التخطيط للانتقال ومراجعة حقوق الصور الرمزية المصدرة.",
     "officialSource": "https://help.rooom.com/hc/en-us/articles/43089347158801-Switch-from-Ready-Player-Me-to-the-rooom-Avatar-System",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "replica-studios": {
+    "fr": "Ancien studio de synthèse vocale pour jeux vidéo et productions audiovisuelles. Le site officiel annonce la fermeture du service ; les anciens abonnements ne doivent plus être présentés comme disponibles. Fiche historique : vérifier les licences des enregistrements exportés.",
+    "en": "Former voice synthesis studio for games and audiovisual productions. The official website announces service closure; legacy subscriptions should no longer be presented as available. Historical entry: check licenses for exported recordings.",
+    "ar": "استوديو سابق لتوليد الأصوات لألعاب الفيديو والإنتاج السمعي البصري. يعلن الموقع الرسمي إغلاق الخدمة؛ ولا ينبغي تقديم الاشتراكات السابقة على أنها متاحة. سجل تاريخي مع ضرورة مراجعة تراخيص التسجيلات المصدرة.",
+    "officialSource": "https://www.replicastudios.com/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "unity-muse": {
+    "fr": "Ancienne suite IA de Unity pour la création de ressources et l’assistance au développement de jeux. Unity indique que Muse est déprécié et propose désormais Unity AI dans son éditeur, avec modèles tiers, essai et crédits selon abonnement. Consulter les conditions de migration et les droits sur les ressources.",
+    "en": "Former Unity AI suite for asset creation and game development assistance. Unity describes Muse as deprecated and now offers Unity AI in its editor, with third-party models, trial and subscription-dependent credits. Review migration terms and asset rights.",
+    "ar": "مجموعة سابقة من Unity لإنشاء عناصر الألعاب والمساعدة في تطويرها. تشير Unity إلى إهمال Muse وتوفر حاليًا Unity AI في محررها مع نماذج خارجية وتجربة وأرصدة بحسب الاشتراك. ينبغي مراجعة شروط الانتقال وحقوق العناصر.",
+    "officialSource": "https://unity.com/features/ai",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "papercup": {
+    "fr": "Technologie historique de doublage vidéo par IA visant à préserver le rythme, le ton et l’émotion des intervenants. RWS a acquis sa propriété intellectuelle en juin 2025. Pour les nouveaux projets, consulter les offres professionnelles de localisation RWS sur devis plutôt que les anciens tarifs Papercup. Vérifier consentement et qualité linguistique.",
+    "en": "Historical AI video dubbing technology designed to preserve speakers’ pacing, tone and emotion. RWS acquired its intellectual property in June 2025. For new projects consult RWS enterprise localization services by quotation rather than legacy Papercup pricing. Verify consent and linguistic quality.",
+    "ar": "تقنية تاريخية لدبلجة الفيديو بالذكاء الاصطناعي تهدف إلى الحفاظ على إيقاع المتحدث ونبرته وعاطفته. استحوذت RWS على ملكيتها الفكرية في يونيو 2025. للمشاريع الجديدة ينبغي الرجوع إلى خدمات التوطين المهنية لدى RWS وفق عرض سعر بدل الأسعار القديمة. ينبغي التحقق من الموافقة والجودة اللغوية.",
+    "officialSource": "https://www.rws.com/about/news/2025/rws-acquires-papercups-ip/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "amper-music": {
+    "fr": "Ancienne plateforme de composition musicale personnalisable exploitant des échantillons instrumentaux enregistrés. Shutterstock a annoncé l’acquisition de certains actifs en 2020. La disponibilité d’un abonnement Amper autonome n’est pas confirmée ; fiche documentaire. Vérifier les licences historiques avant réutilisation.",
+    "en": "Former customizable music composition platform using recorded instrumental samples. Shutterstock announced acquisition of selected assets in 2020. Availability of a standalone Amper subscription is unconfirmed; historical entry. Check legacy licenses before reuse.",
+    "ar": "منصة سابقة لتأليف الموسيقى القابلة للتخصيص باستخدام عينات آلات مسجلة. أعلنت Shutterstock الاستحواذ على بعض أصولها عام 2020. لم يتأكد توفر اشتراك مستقل في Amper؛ ويحتفظ بالسجل لأغراض توثيقية. ينبغي مراجعة التراخيص السابقة قبل إعادة الاستخدام.",
+    "officialSource": "https://investor.shutterstock.com/news-releases/news-release-details/shutterstock-announces-acquisition-amper-music",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "nvidia-ace": {
+    "fr": "Suite de technologies NVIDIA pour créer des personnages numériques interactifs avec reconnaissance et synthèse vocales, modèles linguistiques et animation faciale Audio2Face. Accès développeur par microservices NIM et workflows de référence ; coûts de calcul, licences et support professionnel selon déploiement. Tester la latence et la compatibilité matérielle.",
+    "en": "NVIDIA technology suite for interactive digital humans with speech recognition and synthesis, language models and Audio2Face facial animation. Developer access through NIM microservices and reference workflows; compute, licensing and enterprise support costs depend on deployment. Test latency and hardware compatibility.",
+    "ar": "مجموعة تقنيات من NVIDIA لإنشاء شخصيات رقمية تفاعلية تجمع التعرف على الكلام وتوليده والنماذج اللغوية وتحريك الوجه عبر Audio2Face. تتاح للمطورين عبر خدمات NIM المصغرة ومسارات مرجعية؛ وتعتمد تكاليف الحوسبة والتراخيص والدعم على النشر. ينبغي اختبار زمن الاستجابة وتوافق الأجهزة.",
+    "officialSource": "https://developer.nvidia.com/blog/build-lifelike-digital-humans-with-nvidia-ace-now-generally-available/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "listnr": {
+    "fr": "Studio web de synthèse vocale, traduction, création de podcasts et clonage vocal, avec API pour intégrer la parole aux applications. Offres commerciales selon volumes et fonctionnalités. Obtenir le consentement des personnes dont la voix est reproduite et vérifier les droits de diffusion.",
+    "en": "Web studio for text-to-speech, translation, podcast creation and voice cloning, with an API for integrating speech into applications. Commercial plans depend on volumes and features. Obtain consent from people whose voices are replicated and check distribution rights.",
+    "ar": "استوديو ويب لتحويل النص إلى كلام والترجمة وإنشاء المدونات الصوتية واستنساخ الأصوات، مع واجهة برمجية لدمج الكلام في التطبيقات. تعتمد العروض التجارية على الحجم والوظائف. ينبغي الحصول على موافقة أصحاب الأصوات ومراجعة حقوق النشر.",
+    "officialSource": "https://listnr.ai/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "choppity": {
+    "fr": "Éditeur vidéo web qui analyse des séquences longues pour proposer des clips courts, ajouter des sous-titres et faciliter le montage. Abonnements selon les heures d’analyse et les capacités d’édition. Vérifier les extraits et sous-titres avant diffusion.",
+    "en": "Web video editor analyzing long recordings to suggest short clips, add captions and simplify editing. Subscriptions depend on analysis hours and editing capabilities. Review excerpts and captions before publishing.",
+    "ar": "محرر فيديو عبر الويب يحلل التسجيلات الطويلة لاقتراح مقاطع قصيرة وإضافة التسميات التوضيحية وتسهيل المونتاج. تعتمد الاشتراكات على ساعات التحليل وقدرات التحرير. ينبغي مراجعة المقاطع والنصوص قبل النشر.",
+    "officialSource": "https://www.choppity.com/pricing/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "ecrett-music": {
+    "fr": "Générateur web de musique d’accompagnement de SOUNDRAW permettant de choisir une ambiance et un genre, puis de personnaliser la structure musicale. Abonnements et licences selon les usages autorisés. La musique libre de redevances reste soumise aux conditions de licence ; vérifier notamment les restrictions de redistribution.",
+    "en": "SOUNDRAW web background music generator allowing users to choose moods and genres and customize musical structure. Subscriptions and licenses depend on authorized uses. Royalty-free music remains subject to license terms; check redistribution restrictions.",
+    "ar": "مولد موسيقى مصاحبة عبر الويب من SOUNDRAW يتيح اختيار الأجواء والنوع وتخصيص البنية الموسيقية. تعتمد الاشتراكات والتراخيص على الاستخدامات المصرح بها. تظل الموسيقى المعفاة من الإتاوات خاضعة لشروط الترخيص؛ ينبغي مراجعة قيود إعادة التوزيع.",
+    "officialSource": "https://ecrettmusic.com/terms",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
