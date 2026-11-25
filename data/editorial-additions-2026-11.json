@@ -3910,5 +3910,1259 @@
     "ar": "مساعد لمراجعة النصوص يقترح التصحيحات وتحسين الوضوح والإيجاز والنبرة. يفيد في الكتابة المهنية والأكاديمية. ينبغي التأكد من حفاظ الاقتراحات على المعنى وأسلوب المؤلف؛ تختلف الوظائف بحسب الاشتراك.",
     "officialSource": "https://www.grammarly.com/blog/writing-process/writing-strategies/",
     "sourceReviewedAt": "2026-11-24"
+  },
+  "jasper": {
+    "fr": "Plateforme d’IA pour les équipes marketing, combinant agents spécialisés, gestion du ton de marque, guides stylistiques et base de connaissances interne. Elle aide à décliner des campagnes sur plusieurs canaux. Vérifier les affirmations commerciales et la cohérence des contenus avant diffusion.",
+    "en": "AI platform for marketing teams combining specialized agents, brand voice management, style guides and an internal knowledge base. It supports campaign adaptation across channels. Verify commercial claims and content consistency before publication.",
+    "ar": "منصة ذكاء اصطناعي لفرق التسويق تجمع الوكلاء المتخصصين وإدارة نبرة العلامة التجارية وأدلة الأسلوب وقاعدة المعرفة الداخلية. تساعد على تكييف الحملات مع قنوات متعددة. ينبغي التحقق من الادعاءات التجارية واتساق المحتوى قبل النشر.",
+    "officialSource": "https://www.jasper.ai/jasper-iq",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "rytr": {
+    "fr": "Assistant de rédaction proposant des modèles pour courriels, publications, publicités, descriptions de produits et sections d’articles. Il permet de préciser le contexte et le ton du texte. L’offre actuelle comprend aussi des fonctions de suivi relationnel. Vérifier les données utilisées et relire les messages avant envoi.",
+    "en": "Writing assistant with templates for emails, posts, advertisements, product descriptions and article sections. Users can specify context and tone. The current offering also includes relationship follow-up features. Check data usage and review messages before sending.",
+    "ar": "مساعد للكتابة يقدم قوالب للبريد الإلكتروني والمنشورات والإعلانات وأوصاف المنتجات وأجزاء المقالات. يتيح تحديد سياق النص ونبرته. يشمل العرض الحالي أيضًا وظائف لمتابعة العلاقات المهنية. ينبغي مراجعة استخدام البيانات والرسائل قبل إرسالها.",
+    "officialSource": "https://rytr.me/create-features/writing-use-cases",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "quillbot": {
+    "fr": "Suite d’assistance rédactionnelle regroupant reformulation, correction, synthèse et traduction. Les langues disponibles diffèrent selon la fonction : l’arabe figure dans le traducteur mais pas dans la liste officielle du reformulateur. Vérifier que les reformulations conservent le sens et les citations des textes sources.",
+    "en": "Writing assistance suite combining paraphrasing, grammar checking, summarization and translation. Supported languages vary by feature: Arabic is listed for the translator but not in the official paraphraser list. Ensure rewrites preserve meaning and source citations.",
+    "ar": "مجموعة أدوات للمساعدة في الكتابة تجمع إعادة الصياغة والتصحيح والتلخيص والترجمة. تختلف اللغات المتاحة بحسب الوظيفة؛ ترد العربية ضمن المترجم لكنها لا تظهر في القائمة الرسمية لأداة إعادة الصياغة. ينبغي التأكد من الحفاظ على المعنى والاستشهادات بالمصادر.",
+    "officialSource": "https://help.quillbot.com/hc/en-us/articles/4541525640727-What-languages-does-Quillbot-work-in",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "wordtune": {
+    "fr": "Assistant de reformulation permettant de modifier le ton, la clarté et la fluidité d’un texte, principalement en anglais. Il accepte notamment des entrées en arabe pour proposer une traduction reformulée en anglais. La génération dans d’autres langues n’est pas garantie ; vérifier la fidélité sémantique des suggestions.",
+    "en": "Rewriting assistant for adjusting tone, clarity and fluency, primarily in English. It accepts Arabic among input languages for translated English rewrites. Output in other languages is not guaranteed; verify semantic fidelity of suggestions.",
+    "ar": "مساعد لإعادة الصياغة يتيح تعديل النبرة والوضوح والسلاسة، خصوصًا باللغة الإنجليزية. يقبل نصوصًا عربية ضمن لغات الإدخال ليقترح ترجمة معاد صياغتها بالإنجليزية. لا يضمن توليد النصوص بلغات أخرى؛ ينبغي التحقق من أمانة المعنى في الاقتراحات.",
+    "officialSource": "https://support.wordtune.com/en/articles/5856755-translate-with-rewrite-which-languages-does-wordtune-support",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "sudowrite": {
+    "fr": "Atelier d’écriture créative destiné notamment aux romanciers, avec génération et révision de passages, planification narrative et Story Bible pour organiser personnages, univers et intrigue. Les suggestions servent de matière à retravailler ; préserver la cohérence du récit, la voix de l’auteur et l’originalité du manuscrit.",
+    "en": "Creative writing workspace for novelists, with passage generation and revision, narrative planning and a Story Bible for characters, setting and plot. Treat suggestions as material for revision; preserve narrative consistency, authorial voice and manuscript originality.",
+    "ar": "ورشة للكتابة الإبداعية موجهة خصوصًا للروائيين، تتيح توليد المقاطع ومراجعتها والتخطيط السردي وتنظيم الشخصيات والعالم والحبكة عبر Story Bible. ينبغي التعامل مع الاقتراحات كمادة قابلة للمراجعة والحفاظ على اتساق السرد وأسلوب المؤلف وأصالة المخطوط.",
+    "officialSource": "https://feedback.sudowrite.com/en/help/articles/1671191-what-is-story-bible",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "novelai": {
+    "fr": "Environnement de génération littéraire interactive permettant de poursuivre des récits et d’organiser les informations sur les personnages et univers dans un Lorebook. Les paramètres de contexte influencent les textes générés. Relire les passages pour contrôler la continuité et distinguer les créations fictives des faits documentés.",
+    "en": "Interactive literary generation environment for continuing stories and organizing character and world information in a Lorebook. Context settings influence generated text. Review passages for continuity and distinguish fictional creations from documented facts.",
+    "ar": "بيئة للتوليد الأدبي التفاعلي تتيح مواصلة القصص وتنظيم معلومات الشخصيات والعوالم في Lorebook. تؤثر إعدادات السياق في النصوص المولدة. ينبغي مراجعة المقاطع للتحقق من الاستمرارية والتمييز بين الإبداعات التخيلية والوقائع الموثقة.",
+    "officialSource": "https://docs.novelai.net/en/text/lorebook/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "copy-ai": {
+    "fr": "Plateforme d’automatisation des processus marketing et commerciaux (GTM) associant workflows, rédaction et profils de ton de marque adaptés aux publics. Elle facilite la production coordonnée de contenus et les opérations répétitives. Contrôler les données clients, les affirmations et les messages avant diffusion.",
+    "en": "Go-to-market automation platform combining workflows, writing and audience-specific brand voice profiles. It supports coordinated content production and repetitive business processes. Review customer data, claims and messages before release.",
+    "ar": "منصة لأتمتة عمليات التسويق والمبيعات تجمع مسارات العمل والكتابة وملفات نبرة العلامة التجارية المخصصة للجمهور. تسهّل إنتاج المحتوى المتناسق والعمليات المتكررة. ينبغي مراجعة بيانات العملاء والادعاءات والرسائل قبل النشر.",
+    "officialSource": "https://www.copy.ai/platform/brand-voice",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "writesonic": {
+    "fr": "Plateforme de visibilité numérique associant production de contenus, SEO et optimisation pour les moteurs génératifs (GEO). Elle suit les mentions et citations de marques dans les réponses IA, propose des audits et des améliorations éditoriales. Les indicateurs observés ne garantissent pas un classement futur.",
+    "en": "Digital visibility platform combining content production, SEO and generative engine optimization (GEO). Tracks brand mentions and citations in AI answers and proposes audits and editorial improvements. Observed metrics do not guarantee future rankings.",
+    "ar": "منصة للظهور الرقمي تجمع إنتاج المحتوى وتحسين محركات البحث وتحسين الظهور في المحركات التوليدية GEO. تتابع ذكر العلامات التجارية والاستشهاد بها في إجابات الذكاء الاصطناعي وتقترح عمليات تدقيق وتحسينات تحريرية. لا تضمن المؤشرات المرصودة ترتيبًا مستقبليًا.",
+    "officialSource": "https://docs.writesonic.com/docs/what-is-writesonic",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "hyperwrite": {
+    "fr": "Assistant personnel de rédaction et de recherche proposant des suggestions, reformulations et aides à la préparation de documents. Il peut accompagner des tâches professionnelles mais les références et les informations générées nécessitent une vérification indépendante. Éviter de transmettre des données confidentielles sans autorisation.",
+    "en": "Personal writing and research assistant offering suggestions, rewrites and document preparation support. It can assist professional tasks, but generated information and references require independent verification. Avoid sharing confidential data without authorization.",
+    "ar": "مساعد شخصي للكتابة والبحث يقدم اقتراحات وإعادة صياغة ودعمًا لإعداد المستندات. يمكنه المساعدة في المهام المهنية، لكن المعلومات والمراجع المولدة تحتاج إلى تحقق مستقل. ينبغي تجنب مشاركة البيانات السرية دون إذن.",
+    "officialSource": "https://www.hyperwriteai.com/personal-assistant",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "writer": {
+    "fr": "Plateforme d’agents IA pour les entreprises, dotée d’un Knowledge Graph permettant d’ancrer les réponses dans les sources internes par RAG. Les profils d’agents et les autorisations encadrent les accès. Vérifier la provenance des réponses et appliquer une validation humaine aux actions sensibles.",
+    "en": "Enterprise AI agent platform with a Knowledge Graph for grounding responses in internal sources through RAG. Agent profiles and permissions govern access. Verify response provenance and require human review for sensitive actions.",
+    "ar": "منصة للوكلاء الأذكياء في المؤسسات تضم رسمًا بيانيًا معرفيًا لإسناد الإجابات إلى المصادر الداخلية عبر التوليد المعزز بالاسترجاع RAG. تضبط ملفات الوكلاء والصلاحيات الوصول إلى البيانات. ينبغي التحقق من مصادر الإجابات وإخضاع الإجراءات الحساسة للمراجعة البشرية.",
+    "officialSource": "https://support.writer.com/articles/5542422490-building-enterprise-brain",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "anyword": {
+    "fr": "Assistant marketing qui génère et compare des variantes de textes selon le public, le canal et l’objectif. Son score prédictif exploite des données de performance et des profils de marque ; une API permet certaines intégrations. Les scores restent des estimations à confronter aux résultats de tests réels.",
+    "en": "Marketing assistant generating and comparing copy variants by audience, channel and goal. Its predictive score uses performance data and brand profiles, with API integration options. Scores remain estimates to validate against actual test results.",
+    "ar": "مساعد تسويقي يولد صيغًا نصية متعددة ويقارنها بحسب الجمهور والقناة والهدف. تعتمد درجاته التنبؤية على بيانات الأداء وملفات العلامة التجارية، مع خيارات للتكامل عبر واجهة برمجية. تظل الدرجات تقديرات ينبغي مقارنتها بنتائج الاختبارات الفعلية.",
+    "officialSource": "https://www.anyword.com/api",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "textcortex": {
+    "fr": "Assistant de rédaction et de recherche qui combine profils personnalisés, modèles de tâches et bases de connaissances alimentées par des fichiers ou des pages web. Les contenus web importés ne sont pas nécessairement synchronisés en temps réel. Vérifier la fraîcheur des sources et les permissions.",
+    "en": "Writing and research assistant combining custom personas, task templates and knowledge bases populated with files or web pages. Imported web content is not necessarily synchronized in real time. Check source freshness and permissions.",
+    "ar": "مساعد للكتابة والبحث يجمع الشخصيات المخصصة وقوالب المهام وقواعد المعرفة المستندة إلى الملفات أو صفحات الويب. لا تُزامن محتويات الويب المستوردة بالضرورة في الوقت الفعلي. ينبغي مراجعة حداثة المصادر والصلاحيات.",
+    "officialSource": "https://help.textcortex.com/hc/en-us/articles/21889436807825-TextCortex-User-Handbook",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "prowritingaid": {
+    "fr": "Assistant de révision littéraire et stylistique proposant des rapports sur la qualité rédactionnelle, ainsi que des analyses de chapitres, de manuscrits, d’intrigue et de personnages. Ces retours complètent le travail éditorial sans remplacer un lecteur humain. Les quotas des rapports avancés varient selon l’offre.",
+    "en": "Literary and stylistic editing assistant providing writing reports and chapter, manuscript, plot and character analyses. Feedback complements editorial work rather than replacing human readers. Advanced report quotas vary by plan.",
+    "ar": "مساعد للمراجعة الأدبية والأسلوبية يقدم تقارير عن جودة الكتابة وتحليلات للفصول والمخطوطات والحبكة والشخصيات. تكمل الملاحظات العمل التحريري ولا تحل محل القارئ البشري. تختلف حصص التقارير المتقدمة بحسب الاشتراك.",
+    "officialSource": "https://help.prowritingaid.com/article/297-does-prowritingaid-use-ai",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "lex": {
+    "fr": "Éditeur de texte en ligne conçu pour la rédaction et la révision dans une interface épurée, avec assistance IA intégrée pour améliorer progressivement les brouillons. Adapté aux articles et documents de travail. Vérifier les propositions et conserver la maîtrise de la version finale.",
+    "en": "Online text editor designed for writing and revision in a minimalist interface, with integrated AI assistance for iteratively improving drafts. Suitable for articles and working documents. Review suggestions and retain control of the final version.",
+    "ar": "محرر نصوص عبر الويب مصمم للكتابة والمراجعة في واجهة بسيطة، مع مساعدة ذكية مدمجة لتحسين المسودات تدريجيًا. يناسب المقالات ومستندات العمل. ينبغي مراجعة الاقتراحات والحفاظ على التحكم في النسخة النهائية.",
+    "officialSource": "https://lex.page/trial",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "simplified": {
+    "fr": "Suite de création de contenus associant rédaction assistée, conception graphique, vidéo et planification des publications sociales. Les modèles et ressources de marque aident à décliner un message sur plusieurs supports. Contrôler les droits des médias et valider les publications programmées.",
+    "en": "Content creation suite combining assisted writing, graphic design, video and social publishing schedules. Templates and brand assets support adaptation across formats. Check media rights and review scheduled publications.",
+    "ar": "مجموعة أدوات لإنشاء المحتوى تجمع الكتابة المدعومة بالذكاء الاصطناعي والتصميم والفيديو وجدولة منشورات التواصل الاجتماعي. تساعد القوالب وموارد العلامة التجارية على تكييف الرسالة مع صيغ متعددة. ينبغي التحقق من حقوق الوسائط ومراجعة المنشورات المجدولة.",
+    "officialSource": "https://simplified.com/ai-writer",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "superhuman": {
+    "fr": "Assistant de messagerie pour Gmail et Outlook, proposant tri automatique, brouillons de réponses, recherche dans les échanges et suivi des conversations. Vérifier les autorisations accordées et relire les messages avant envoi.",
+    "en": "Email assistant for Gmail and Outlook offering automated triage, reply drafts, message search and conversation follow-up. Review granted permissions and check messages before sending.",
+    "ar": "مساعد للبريد الإلكتروني في Gmail وOutlook يتيح فرز الرسائل آليًا وإعداد مسودات الردود والبحث في المراسلات ومتابعة المحادثات. ينبغي مراجعة الصلاحيات الممنوحة والرسائل قبل إرسالها.",
+    "officialSource": "https://superhuman.com/mail",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "shortwave": {
+    "fr": "Client de messagerie doté d’un assistant IA capable de rechercher des informations dans les courriels et pièces jointes, synthétiser les échanges et préparer des réponses contextualisées. La profondeur de recherche dépend de l’offre ; vérifier les sources et la confidentialité.",
+    "en": "Email client with an AI assistant that searches messages and attachments, summarizes conversations and drafts contextual replies. Search depth depends on the plan; verify sources and privacy settings.",
+    "ar": "عميل بريد إلكتروني يضم مساعدًا ذكيًا للبحث في الرسائل والمرفقات وتلخيص المحادثات وإعداد ردود تستند إلى السياق. يعتمد نطاق البحث على الاشتراك؛ ينبغي التحقق من المصادر وإعدادات الخصوصية.",
+    "officialSource": "https://www.shortwave.com/docs/guides/ai-assistant/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "flowrite": {
+    "fr": "Ancien assistant de rédaction de courriels acquis par Maestro Labs en janvier 2025 et intégré à MailMaestro. Consulter le produit successeur pour connaître les fonctions de rédaction, de réponse et les modalités d’intégration à la messagerie.",
+    "en": "Former email writing assistant acquired by Maestro Labs in January 2025 and integrated into MailMaestro. Consult the successor product for current drafting, reply and email integration features.",
+    "ar": "مساعد سابق لكتابة البريد الإلكتروني استحوذت عليه Maestro Labs في يناير 2025 ودمجته في MailMaestro. ينبغي الرجوع إلى المنتج الحالي لمعرفة وظائف الصياغة والرد والتكامل مع البريد الإلكتروني.",
+    "officialSource": "https://www.maestrolabs.com/flowrite",
+    "sourceReviewedAt": "2026-11-24",
+    "currentName": "MailMaestro (ex-Flowrite)"
+  },
+  "adcreative-ai": {
+    "fr": "Plateforme de création publicitaire proposant génération de visuels et textes, variantes créatives et estimation de performances. Les scores prédictifs peuvent guider la sélection des annonces, mais ne remplacent pas les tests comparatifs ni les mesures réelles de conversion.",
+    "en": "Advertising creation platform offering visual and text generation, creative variants and performance estimates. Predictive scores can guide ad selection but do not replace comparative testing or actual conversion measurements.",
+    "ar": "منصة لإنشاء الإعلانات توفر توليد الصور والنصوص وتنويعات التصاميم وتقديرات الأداء. تساعد الدرجات التنبؤية في اختيار الإعلانات، لكنها لا تغني عن الاختبارات المقارنة وقياس التحويلات الفعلية.",
+    "officialSource": "https://help.adcreative.ai/en/articles/8885776-what-is-creative-scoring-ai-and-how-to-use-it",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "hootsuite-owlywriter": {
+    "fr": "Assistant rédactionnel intégré à Hootsuite pour préparer des légendes et idées de publications sociales, notamment autour d’événements du calendrier éditorial. Adapter le ton au public et contrôler les faits et les droits avant programmation.",
+    "en": "Writing assistant integrated into Hootsuite for drafting social media captions and post ideas, including editorial calendar events. Adapt tone to the audience and check facts and rights before scheduling.",
+    "ar": "مساعد للكتابة مدمج في Hootsuite لإعداد نصوص وأفكار منشورات الشبكات الاجتماعية، بما فيها المناسبات المدرجة في التقويم التحريري. ينبغي تكييف النبرة مع الجمهور والتحقق من الحقائق والحقوق قبل الجدولة.",
+    "officialSource": "https://help.hootsuite.com/s/article/create-and-schedule?language=en_US",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "lumen5": {
+    "fr": "Studio de création vidéo permettant de transformer articles et textes importés en scripts, puis en séquences visuelles à partir de modèles et de médias. Il propose également des narrations vocales. Vérifier la fidélité du résumé, les licences des médias et la lisibilité avant publication.",
+    "en": "Video creation studio converting imported articles and text into scripts and visual sequences using templates and media. Voiceover options are also available. Check summary fidelity, media licenses and readability before publication.",
+    "ar": "استوديو لإنشاء الفيديو يحول المقالات والنصوص المستوردة إلى سيناريوهات ومقاطع بصرية باستخدام القوالب والوسائط. يوفر أيضًا خيارات التعليق الصوتي. ينبغي مراجعة دقة الملخص وتراخيص الوسائط ووضوح العرض قبل النشر.",
+    "officialSource": "https://help.lumen5.com/en/article/how-do-i-select-a-template-start-creating-a-video-in-lumen5-11aod0v/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "lavender": {
+    "fr": "Coach de rédaction commerciale qui analyse les courriels de prospection et propose des améliorations de clarté, de personnalisation et de concision. Ses recommandations aident à préparer des messages individuels, sans garantir un taux de réponse. Vérifier les données utilisées et respecter le consentement des destinataires.",
+    "en": "Sales email coach analyzing outreach messages and suggesting improvements to clarity, personalization and concision. Its recommendations support individual messaging without guaranteeing replies. Review data use and respect recipient consent.",
+    "ar": "مدرب للكتابة التجارية يحلل رسائل التواصل مع العملاء المحتملين ويقترح تحسينات للوضوح والتخصيص والإيجاز. تساعد توصياته على إعداد رسائل فردية دون ضمان الردود. ينبغي مراجعة استخدام البيانات واحترام موافقة المستلمين.",
+    "officialSource": "https://lavender.ai/coach",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "hubspot-ai-email": {
+    "fr": "Fonctions de rédaction et de reformulation de courriels marketing et commerciaux dans HubSpot. Breeze Assistant peut exploiter les données du CRM et le fil de discussion dans Gmail via l’extension compatible. Vérifier les informations, les autorisations et les messages avant envoi.",
+    "en": "Email drafting and rewriting features within HubSpot for marketing and sales. Breeze Assistant can use CRM data and the current Gmail thread through the compatible extension. Check information, permissions and messages before sending.",
+    "ar": "وظائف لصياغة رسائل التسويق والمبيعات وإعادة صياغتها داخل HubSpot. يستطيع Breeze Assistant الاستفادة من بيانات إدارة علاقات العملاء وسلسلة الرسائل الحالية في Gmail عبر الإضافة المتوافقة. ينبغي مراجعة المعلومات والصلاحيات والرسائل قبل الإرسال.",
+    "officialSource": "https://knowledge.hubspot.com/website-pages/generate-content-with-breeze",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "hubspot-breeze": {
+    "fr": "Couche d’intelligence artificielle intégrée à HubSpot, associant assistant conversationnel et agents pour les équipes de vente, marketing et service client. Elle utilise le contexte du CRM pour préparer des contenus, synthétiser des dossiers et automatiser certaines tâches. Contrôler les accès, les crédits et les actions des agents.",
+    "en": "AI layer integrated into HubSpot, combining a conversational assistant and agents for sales, marketing and customer service. It uses CRM context to draft content, summarize records and automate selected tasks. Review permissions, credits and agent actions.",
+    "ar": "طبقة ذكاء اصطناعي مدمجة في HubSpot تجمع مساعدًا حواريًا ووكلاء لفرق المبيعات والتسويق وخدمة العملاء. تستخدم سياق بيانات إدارة علاقات العملاء لإعداد المحتوى وتلخيص السجلات وأتمتة بعض المهام. ينبغي مراقبة الصلاحيات والأرصدة وإجراءات الوكلاء.",
+    "officialSource": "https://www.hubspot.com/products/artificial-intelligence/breeze-ai-assistant",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "mutiny": {
+    "fr": "Assistant IA pour les équipes commerciales, historiquement centré sur la personnalisation marketing par compte. Le produit actuel aide à préparer les rendez-vous, synthétiser les échanges et rédiger des relances et propositions adaptées aux clients. Contrôler les données commerciales et les engagements avant diffusion.",
+    "en": "AI assistant for sales teams, historically focused on account-based marketing personalization. The current product helps prepare meetings, summarize discussions and draft tailored follow-ups and proposals. Verify commercial data and commitments before sharing.",
+    "ar": "مساعد ذكاء اصطناعي لفرق المبيعات ركز سابقًا على تخصيص التسويق بحسب الحسابات. يساعد المنتج الحالي على إعداد الاجتماعات وتلخيص المناقشات وصياغة رسائل المتابعة والمقترحات المخصصة للعملاء. ينبغي التحقق من البيانات التجارية والالتزامات قبل المشاركة.",
+    "officialSource": "https://www.mutinyhq.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "lately-ai": {
+    "fr": "Plateforme de gestion de contenus sociaux qui transforme des ressources existantes en publications adaptées aux canaux de communication. Son agent Kately accompagne la planification, la création et la gestion des campagnes organiques. Vérifier la fidélité aux sources, le ton éditorial et les résultats mesurés.",
+    "en": "Social content management platform repurposing existing assets into posts adapted to communication channels. Its Kately agent supports planning, creation and management of organic campaigns. Check source fidelity, editorial tone and measured results.",
+    "ar": "منصة لإدارة محتوى الشبكات الاجتماعية تعيد توظيف الموارد الموجودة في منشورات ملائمة لقنوات التواصل. يساعد وكيل Kately على تخطيط الحملات غير المدفوعة وإنشاء محتواها وإدارتها. ينبغي مراجعة الأمانة للمصادر والنبرة التحريرية والنتائج المقاسة.",
+    "officialSource": "https://www.lately.ai/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "promo-com": {
+    "fr": "Studio vidéo en ligne destiné aux entreprises, avec modèles de vidéos publicitaires et sociales, outils de montage et fonctionnalités PromoAI de création et planification. Adapter les formats aux canaux de diffusion et vérifier les licences des médias et les affirmations publicitaires.",
+    "en": "Online video studio for businesses, offering advertising and social video templates, editing tools and PromoAI creation and planning features. Adapt formats to distribution channels and check media licenses and advertising claims.",
+    "ar": "استوديو فيديو عبر الإنترنت للمؤسسات يوفر قوالب للإعلانات ومقاطع التواصل الاجتماعي وأدوات التحرير ووظائف PromoAI للإنشاء والتخطيط. ينبغي تكييف الصيغ مع قنوات النشر والتحقق من تراخيص الوسائط والادعاءات الإعلانية.",
+    "officialSource": "https://promo.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "semrush": {
+    "fr": "Suite de référencement et d'analyse concurrentielle associant recherche de mots-clés, liens entrants et suivi de visibilité. AI Visibility Toolkit analyse les mentions et sources dans les réponses génératives. Ses estimations ne constituent pas des mesures directes du trafic réel.",
+    "en": "SEO and competitive intelligence suite combining keyword research, backlinks and visibility tracking. AI Visibility Toolkit analyzes mentions and sources in generated answers. Estimates are not direct measurements of actual traffic.",
+    "ar": "مجموعة أدوات لتحسين الظهور في محركات البحث وتحليل المنافسة تجمع البحث عن الكلمات المفتاحية والروابط الواردة وتتبع الظهور. تحلل AI Visibility Toolkit الإشارات والمصادر في الإجابات التوليدية. لا تمثل التقديرات قياسات مباشرة للزيارات الفعلية.",
+    "officialSource": "https://www.semrush.com/kb/1607-semrush-ai-visibility-data",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "ahrefs": {
+    "fr": "Plateforme d'analyse SEO pour explorer les liens entrants, les mots-clés et les problèmes techniques. Brand Radar étend l'analyse aux réponses IA et aux sources qui les influencent. Distinguer les mentions observées des impressions et visites réellement mesurées.",
+    "en": "SEO analysis platform for exploring backlinks, keywords and technical issues. Brand Radar extends analysis to AI answers and their influencing sources. Distinguish observed mentions from measured impressions and visits.",
+    "ar": "منصة لتحليل تحسين محركات البحث واستكشاف الروابط الواردة والكلمات المفتاحية والمشكلات التقنية. يوسع Brand Radar التحليل ليشمل إجابات الذكاء الاصطناعي ومصادرها المؤثرة. ينبغي التمييز بين الإشارات المرصودة ومرات الظهور والزيارات المقاسة.",
+    "officialSource": "https://ahrefs.com/brand-radar/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "surfer-seo": {
+    "fr": "Éditeur de contenu proposant des recommandations de structure et de couverture thématique à partir de données de recherche. Il fournit des scores SEO et de recherche IA. Utiliser ces indicateurs comme aides éditoriales, sans sacrifier la précision ni la lisibilité.",
+    "en": "Content editor offering structural and topical coverage recommendations based on search data. It provides SEO and AI search scores. Use these as editorial aids without sacrificing accuracy or readability.",
+    "ar": "محرر محتوى يقترح تحسينات للبنية والتغطية الموضوعية بناء على بيانات البحث. يقدم مؤشرات لتحسين محركات البحث والبحث بالذكاء الاصطناعي. ينبغي استخدامها كأدوات مساعدة دون التضحية بالدقة أو سهولة القراءة.",
+    "officialSource": "https://docs.surferseo.com/en/articles/5700347-content-editor-overview",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "neuronwriter": {
+    "fr": "Éditeur d'optimisation sémantique qui propose des termes et indicateurs de couverture des sujets. Ses scores de contenu et d'optimisation IA orientent la révision. Ils ne garantissent pas le classement ni la qualité scientifique des textes.",
+    "en": "Semantic optimization editor suggesting terms and topic coverage indicators. Content and AI optimization scores guide revisions. They do not guarantee rankings or scholarly quality.",
+    "ar": "محرر للتحسين الدلالي يقترح المصطلحات ومؤشرات تغطية الموضوعات. تساعد درجات المحتوى والتحسين بالذكاء الاصطناعي على المراجعة، لكنها لا تضمن ترتيب النتائج أو الجودة العلمية للنصوص.",
+    "officialSource": "https://neuronwriter.com/faq-category/content-editor/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "outranking": {
+    "fr": "Plateforme de stratégie éditoriale et de rédaction assistée pour préparer et optimiser des articles destinés aux moteurs de recherche. Vérifier les recommandations, les sources et les affirmations avant publication.",
+    "en": "Content strategy and assisted writing platform for preparing and optimizing articles for search engines. Review recommendations, sources and claims before publishing.",
+    "ar": "منصة للاستراتيجية التحريرية والكتابة المساعدة لإعداد المقالات وتحسينها لمحركات البحث. ينبغي مراجعة التوصيات والمصادر والادعاءات قبل النشر.",
+    "officialSource": "https://outranking.io/onboarding/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "scalenut": {
+    "fr": "Plateforme de SEO et GEO dont Cruise Mode associe recherche de sujets, mots-clés, questions et rédaction assistée. Les scores et suggestions facilitent la préparation d'articles, sans garantir leur visibilité dans les réponses génératives.",
+    "en": "SEO and GEO platform whose Cruise Mode combines topic research, keywords, questions and assisted writing. Scores and suggestions support article preparation without guaranteeing visibility in generated answers.",
+    "ar": "منصة لتحسين الظهور في محركات البحث والمحركات التوليدية تجمع فيها Cruise Mode البحث عن الموضوعات والكلمات المفتاحية والأسئلة والكتابة المساعدة. تسهل المؤشرات إعداد المقالات دون ضمان ظهورها في الإجابات التوليدية.",
+    "officialSource": "https://www.scalenut.com/features/cruise-mode",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "contentshake-ai": {
+    "fr": "Ancien nom du Content Toolkit de Semrush, consacré à la recherche de sujets et à la création et optimisation de contenus. Vérifier les faits, les références et les modalités actuelles d'abonnement avant utilisation.",
+    "en": "Former name of Semrush Content Toolkit, focused on topic research, content creation and optimization. Verify facts, references and current subscription terms before use.",
+    "ar": "الاسم السابق لأداة Content Toolkit من Semrush، المخصصة للبحث عن الموضوعات وإنشاء المحتوى وتحسينه. ينبغي التحقق من الحقائق والمراجع وشروط الاشتراك الحالية قبل الاستخدام.",
+    "officialSource": "https://sv.semrush.com/semrush-questions/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "alli-ai": {
+    "fr": "Solution d'automatisation du référencement technique et sur page pouvant déployer des modifications sur les sites compatibles. Elle propose également des fonctions de visibilité IA. Tester les changements, conserver une possibilité de retour arrière et contrôler les pages indexables.",
+    "en": "Technical and on-page SEO automation solution capable of deploying changes to compatible websites. Also offers AI visibility features. Test changes, retain rollback options and review indexable pages.",
+    "ar": "حل لأتمتة التحسين التقني وتحسين صفحات المواقع المتوافقة مع إمكانية نشر التعديلات. يوفر أيضًا وظائف الظهور في البحث بالذكاء الاصطناعي. ينبغي اختبار التغييرات وإتاحة التراجع ومراجعة الصفحات القابلة للفهرسة.",
+    "officialSource": "https://www.alliai.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "rank-math": {
+    "fr": "Extension SEO pour WordPress intégrant Content AI pour la rédaction et l'optimisation des contenus. Les recommandations complètent les réglages de référencement ; contrôler les métadonnées et les données structurées avant publication.",
+    "en": "WordPress SEO plugin integrating Content AI for writing and content optimization. Recommendations complement SEO settings; verify metadata and structured data before publishing.",
+    "ar": "إضافة لتحسين محركات البحث في WordPress تدمج Content AI للكتابة وتحسين المحتوى. تكمل التوصيات إعدادات التحسين؛ ينبغي التحقق من البيانات الوصفية والبيانات المنظمة قبل النشر.",
+    "officialSource": "https://rankmath.com/kb/content-ai-setup/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "yoast-seo": {
+    "fr": "Extension de référencement proposant analyse de contenu, réglages techniques et fonctions IA selon l'offre. Certaines capacités WordPress permettent aux assistants compatibles de consulter ou modifier des paramètres SEO. Vérifier les autorisations et les modifications avant leur application.",
+    "en": "SEO plugin offering content analysis, technical settings and plan-dependent AI features. Selected WordPress abilities allow compatible assistants to inspect or update SEO settings. Review permissions and changes before applying them.",
+    "ar": "إضافة لتحسين محركات البحث تقدم تحليل المحتوى والإعدادات التقنية ووظائف الذكاء الاصطناعي بحسب الاشتراك. تتيح بعض قدرات WordPress للمساعدين المتوافقين مراجعة إعدادات التحسين أو تعديلها. ينبغي مراجعة الصلاحيات والتغييرات قبل تطبيقها.",
+    "officialSource": "https://yoast.com/help/faq-ai-in-yoast-seo/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "otterly-ai": {
+    "fr": "Service de veille de la visibilité dans les moteurs de recherche génératifs, reposant sur le suivi de requêtes et de mentions de marques. Les résultats varient selon les formulations, les moteurs et les dates ; documenter le protocole de suivi.",
+    "en": "Generative search visibility monitoring service based on tracked prompts and brand mentions. Results vary by wording, engine and date; document the monitoring protocol.",
+    "ar": "خدمة لمراقبة الظهور في محركات البحث التوليدية تعتمد على تتبع الاستعلامات والإشارات إلى العلامات التجارية. تختلف النتائج بحسب الصياغة والمحرك والتاريخ؛ ينبغي توثيق منهجية المتابعة.",
+    "officialSource": "https://help.otterly.ai/which-ai-searches-does-otterlyai-support",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "peec-ai": {
+    "fr": "Plateforme d'analyse des réponses IA qui suit la visibilité des marques, leurs concurrents et les sources citées. Elle propose aussi l'analyse des robots et des visites provenant d'assistants IA. Distinguer les mentions, les accès des robots et les conversions mesurées.",
+    "en": "AI answer analytics platform tracking brand visibility, competitors and cited sources. It also offers bot and AI referral analytics. Distinguish mentions, crawler visits and measured conversions.",
+    "ar": "منصة لتحليل إجابات الذكاء الاصطناعي تتتبع ظهور العلامات التجارية والمنافسين والمصادر المستشهد بها. تقدم أيضًا تحليل روبوتات الزحف والزيارات القادمة من المساعدين. ينبغي التمييز بين الإشارات وزيارات الروبوتات والتحويلات المقاسة.",
+    "officialSource": "https://peec.ai/ai-instructions",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "github-copilot": {
+    "fr": "Assistant de développement intégré aux IDE et à GitHub, associant suggestions de code, dialogue contextuel, revue et fonctions agentiques. Selon le mode, il peut modifier plusieurs fichiers et lancer des commandes. Examiner les différences, les dépendances et les tests avant fusion.",
+    "en": "Development assistant integrated into IDEs and GitHub, combining code suggestions, contextual chat, review and agentic features. Depending on mode, it can edit multiple files and run commands. Review diffs, dependencies and tests before merging.",
+    "ar": "مساعد تطوير مدمج في بيئات البرمجة وGitHub يجمع اقتراحات الشيفرة والحوار السياقي والمراجعة ووظائف الوكلاء. يمكنه بحسب الوضع تعديل ملفات متعددة وتنفيذ أوامر. ينبغي مراجعة الفروق والتبعيات والاختبارات قبل الدمج.",
+    "officialSource": "https://docs.github.com/en/copilot/concepts/copilot-surfaces/copilot-in-ides",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "cursor": {
+    "fr": "Éditeur de code assisté par IA proposant recherche dans le dépôt, modifications multifichiers, exécution de commandes et agents distants. Il aide à réaliser des fonctionnalités et refactorisations. Limiter les permissions et examiner les changements avant intégration.",
+    "en": "AI-assisted code editor offering repository search, multi-file edits, command execution and remote agents. Supports feature implementation and refactoring. Restrict permissions and review changes before integration.",
+    "ar": "محرر شيفرة مدعوم بالذكاء الاصطناعي يوفر البحث في المستودع وتعديل ملفات متعددة وتنفيذ الأوامر ووكلاء عن بعد. يساعد على تطوير الوظائف وإعادة هيكلة الشيفرة. ينبغي تقييد الصلاحيات ومراجعة التغييرات قبل الدمج.",
+    "officialSource": "https://cursor.com/docs/agent/overview",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "windsurf": {
+    "fr": "Environnement de développement agentique historiquement nommé Windsurf, dont la documentation Cascade redirige vers Devin Desktop. Cascade associe dialogue, modifications de code, appels d'outils et points de restauration. Vérifier les offres actuelles et les autorisations d'exécution.",
+    "en": "Agentic development environment historically named Windsurf, whose Cascade documentation redirects to Devin Desktop. Cascade combines chat, code changes, tool calls and restoration checkpoints. Check current offerings and execution permissions.",
+    "ar": "بيئة تطوير بالوكلاء عرفت باسم Windsurf وتحيل وثائق Cascade الخاصة بها إلى Devin Desktop. يجمع Cascade الحوار وتعديل الشيفرة واستدعاء الأدوات ونقاط الاستعادة. ينبغي مراجعة العروض الحالية وصلاحيات التنفيذ.",
+    "officialSource": "https://docs.devin.ai/desktop/cascade/cascade",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "claude-code": {
+    "fr": "Agent de programmation utilisable dans le terminal et dans des environnements distants. Il explore les dépôts, modifie les fichiers et exécute des outils selon les autorisations configurées. Prévoir des règles de projet, des tests et une revue humaine des actions sensibles.",
+    "en": "Coding agent available in terminals and remote environments. It explores repositories, edits files and executes tools according to configured permissions. Establish project rules, tests and human review of sensitive actions.",
+    "ar": "وكيل برمجة يعمل في الطرفية والبيئات البعيدة. يستكشف المستودعات ويعدل الملفات وينفذ الأدوات وفق الصلاحيات المحددة. ينبغي وضع قواعد للمشروع واختبارات ومراجعة بشرية للإجراءات الحساسة.",
+    "officialSource": "https://code.claude.com/docs/en/settings",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "openai-codex": {
+    "fr": "Agent de développement d'OpenAI destiné à l'implémentation de fonctionnalités, à la correction de défauts et à la refactorisation. Il prend en charge des tâches parallèles et des environnements distants, ainsi que la revue de code. Vérifier les résultats des tests et les droits d'accès au dépôt.",
+    "en": "OpenAI development agent for feature implementation, bug fixing and refactoring. Supports parallel tasks, remote environments and code review. Verify test results and repository access permissions.",
+    "ar": "وكيل تطوير من OpenAI لتنفيذ الوظائف وإصلاح الأخطاء وإعادة هيكلة الشيفرة. يدعم المهام المتوازية والبيئات البعيدة ومراجعة الشيفرة. ينبغي التحقق من نتائج الاختبارات وصلاحيات الوصول إلى المستودع.",
+    "officialSource": "https://openai.com/codex/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "sourcegraph-cody": {
+    "fr": "Assistant de programmation reposant sur le contexte du code accessible via Sourcegraph. Il propose dialogue, explications et complétion dans des IDE compatibles et sur le web. La documentation actuelle décrit notamment Cody Enterprise ; vérifier les conditions d'accès avant adoption.",
+    "en": "Coding assistant using code context accessible through Sourcegraph. Offers chat, explanations and completion in compatible IDEs and on the web. Current documentation notably describes Cody Enterprise; check access conditions before adoption.",
+    "ar": "مساعد برمجة يستفيد من سياق الشيفرة المتاح عبر Sourcegraph. يقدم الحوار والشروح والإكمال في بيئات التطوير المتوافقة وعلى الويب. تتناول الوثائق الحالية خصوصا Cody Enterprise؛ ينبغي مراجعة شروط الوصول قبل الاعتماد.",
+    "officialSource": "https://sourcegraph.com/docs/cody/quickstart",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "continue": {
+    "fr": "Ensemble d'extensions à code source ouvert pour VS Code et JetBrains et d'outils en ligne de commande, permettant de configurer des agents de développement et des modèles. Le mode agent peut modifier le dépôt et exécuter des commandes. Contrôler les modèles, les secrets et les autorisations.",
+    "en": "Open-source extensions for VS Code and JetBrains and command-line tools for configuring development agents and models. Agent mode can edit repositories and run commands. Review model selection, secrets and permissions.",
+    "ar": "مجموعة إضافات مفتوحة المصدر لبيئتي VS Code وJetBrains وأدوات سطر الأوامر لتكوين وكلاء التطوير والنماذج. يستطيع وضع الوكيل تعديل المستودع وتنفيذ الأوامر. ينبغي مراقبة اختيار النماذج والأسرار والصلاحيات.",
+    "officialSource": "https://docs.continue.dev/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "aider": {
+    "fr": "Assistant de programmation en binôme dans le terminal, compatible avec des modèles locaux ou distants. Il construit une carte du dépôt, intègre Git et peut lancer les tests et contrôles de style. Les commits facilitent la revue et le retour arrière, sans dispenser de vérifier le code.",
+    "en": "Terminal-based pair programming assistant supporting local and remote models. It maps repositories, integrates Git and can run tests and lint checks. Commits support review and rollback but do not replace code validation.",
+    "ar": "مساعد للبرمجة الثنائية في الطرفية يدعم النماذج المحلية والبعيدة. يبني خريطة للمستودع ويتكامل مع Git ويمكنه تشغيل الاختبارات وفحص أسلوب الشيفرة. تسهل عمليات الإيداع المراجعة والتراجع لكنها لا تغني عن التحقق من الشيفرة.",
+    "officialSource": "https://aider.chat/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "cline": {
+    "fr": "Agent de programmation disponible notamment dans VS Code, JetBrains et le terminal. Il peut consulter et modifier des fichiers, exécuter des commandes et utiliser un navigateur. Configurer soigneusement les approbations et vérifier les opérations touchant aux données ou à la production.",
+    "en": "Coding agent available in VS Code, JetBrains and terminals. It can inspect and edit files, execute commands and use a browser. Configure approvals carefully and review operations affecting data or production.",
+    "ar": "وكيل برمجة متاح في VS Code وJetBrains والطرفية. يمكنه قراءة الملفات وتعديلها وتنفيذ الأوامر واستخدام المتصفح. ينبغي ضبط الموافقات بعناية ومراجعة العمليات التي تؤثر على البيانات أو بيئة الإنتاج.",
+    "officialSource": "https://docs.cline.bot/cline-overview",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "roo-code": {
+    "fr": "Ancien environnement agentique de programmation dont le site renvoie désormais à Roomote, produit des mêmes créateurs. Roomote propose des agents distants, des environnements isolés et des demandes de fusion avec prévisualisations. Distinguer l'extension historique du service actuel et vérifier leurs conditions respectives.",
+    "en": "Historical agentic coding environment whose website now redirects to Roomote, a product from the same creators. Roomote offers remote agents, isolated environments and pull requests with previews. Distinguish the historical extension from the current service and check their respective terms.",
+    "ar": "بيئة برمجة سابقة بالوكلاء يحيل موقعها الآن إلى Roomote من المطورين أنفسهم. يقدم Roomote وكلاء عن بعد وبيئات معزولة وطلبات دمج مع معاينات. ينبغي التمييز بين الإضافة السابقة والخدمة الحالية والتحقق من شروط كل منهما.",
+    "officialSource": "https://roomote.dev/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "openhands": {
+    "fr": "Écosystème de développement agentique comprenant un client web à code source ouvert, un SDK et des services hébergés ou auto-hébergés. Les agents peuvent contribuer aux corrections, tests et migrations. Isoler leur environnement et limiter les identifiants et accès aux systèmes sensibles.",
+    "en": "Agentic development ecosystem including an open-source web client, SDK and hosted or self-hosted services. Agents can assist with fixes, tests and migrations. Isolate their environment and restrict credentials and access to sensitive systems.",
+    "ar": "منظومة تطوير بالوكلاء تضم عميل ويب مفتوح المصدر وحزمة تطوير وخدمات مستضافة أو ذاتية الاستضافة. يمكن للوكلاء المساعدة في الإصلاحات والاختبارات والترحيل. ينبغي عزل بيئتهم وتقييد بيانات الاعتماد والوصول إلى الأنظمة الحساسة.",
+    "officialSource": "https://docs.openhands.dev/overview/introduction",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "greptile": {
+    "fr": "Service de revue de code qui indexe les relations entre fichiers, fonctions et dépendances pour analyser les demandes de fusion au-delà des seules lignes modifiées. Les observations automatisées complètent les tests et la revue humaine ; vérifier les faux positifs et la confidentialité du dépôt.",
+    "en": "Code review service indexing relationships between files, functions and dependencies to analyze pull requests beyond changed lines. Automated findings complement tests and human review; check false positives and repository confidentiality.",
+    "ar": "خدمة لمراجعة الشيفرة تفهرس العلاقات بين الملفات والدوال والتبعيات لتحليل طلبات الدمج بما يتجاوز الأسطر المعدلة. تكمل الملاحظات الآلية الاختبارات والمراجعة البشرية؛ ينبغي التحقق من الإنذارات الخاطئة وسرية المستودع.",
+    "officialSource": "https://www.greptile.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "google-jules": {
+    "fr": "Agent de développement asynchrone de Google connecté à GitHub. Il clone le dépôt dans une machine virtuelle, installe les dépendances et prépare des corrections, tests ou fonctionnalités. Examiner les différences et les résultats avant fusion.",
+    "en": "Google asynchronous coding agent connected to GitHub. It clones a repository into a virtual machine, installs dependencies and prepares fixes, tests or features. Review diffs and results before merging.",
+    "ar": "وكيل برمجة غير متزامن من Google يتصل بـ GitHub ويستنسخ المستودع داخل آلة افتراضية ويثبت التبعيات ويعد الإصلاحات والاختبارات والوظائف. ينبغي مراجعة الفروق والنتائج قبل الدمج.",
+    "officialSource": "https://jules.google/docs/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "cursor-agent": {
+    "fr": "Agent intégré à Cursor capable d'explorer un projet, modifier plusieurs fichiers et exécuter des commandes. Les Cloud Agents travaillent à distance et peuvent être déclenchés par des événements. Limiter les accès et contrôler les modifications.",
+    "en": "Agent integrated into Cursor that explores projects, edits multiple files and runs commands. Cloud Agents run remotely and can be triggered by events. Restrict access and review changes.",
+    "ar": "وكيل مدمج في Cursor يستكشف المشاريع ويعدل ملفات متعددة وينفذ الأوامر. تعمل الوكلاء السحابية عن بعد ويمكن تشغيلها استجابة للأحداث. ينبغي تقييد الوصول ومراجعة التعديلات.",
+    "officialSource": "https://cursor.com/docs/agent/overview",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "jetbrains-junie": {
+    "fr": "Agent de programmation JetBrains conçu pour planifier et réaliser des tâches complexes dans les IDE compatibles et le terminal. Il peut collaborer avec le développeur lors des modifications. Vérifier les résultats et configurer les permissions.",
+    "en": "JetBrains coding agent designed to plan and execute complex tasks in compatible IDEs and terminals. It can collaborate with developers during changes. Verify results and configure permissions.",
+    "ar": "وكيل برمجة من JetBrains مصمم لتخطيط المهام المعقدة وتنفيذها في بيئات التطوير المتوافقة والطرفية. يمكنه التعاون مع المطور أثناء التعديلات. ينبغي التحقق من النتائج وضبط الصلاحيات.",
+    "officialSource": "https://www.jetbrains.com/help/ai-assistant/junie-agent.html",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "goose-block": {
+    "fr": "Agent généraliste à code source ouvert exécuté sur la machine de l'utilisateur. Il peut mobiliser des outils et sources de données grâce aux extensions MCP, notamment pour le développement. L'exécution locale ne garantit pas que le modèle ou les services connectés soient locaux.",
+    "en": "Open-source general-purpose agent running on the user's machine. MCP extensions connect tools and data sources, including development workflows. Local execution does not guarantee that models or connected services run locally.",
+    "ar": "وكيل عام مفتوح المصدر يعمل على جهاز المستخدم. تتيح إضافات MCP ربط الأدوات ومصادر البيانات بما فيها مسارات التطوير. لا يضمن التنفيذ المحلي أن النماذج أو الخدمات المتصلة تعمل محليًا.",
+    "officialSource": "https://block.github.io/goose/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "gemini-cli": {
+    "fr": "Agent de terminal open source de Google capable d'utiliser des outils de développement et d'exécuter des commandes. Google a annoncé la transition vers Antigravity CLI, avec maintien de certains accès à Gemini CLI. Vérifier les modes d'authentification encore disponibles et les permissions.",
+    "en": "Google open-source terminal agent capable of using development tools and running commands. Google announced a transition to Antigravity CLI while retaining selected Gemini CLI access options. Check current authentication methods and permissions.",
+    "ar": "وكيل طرفية مفتوح المصدر من Google يستطيع استخدام أدوات التطوير وتنفيذ الأوامر. أعلنت Google الانتقال إلى Antigravity CLI مع الإبقاء على بعض طرق الوصول إلى Gemini CLI. ينبغي مراجعة طرق المصادقة المتاحة والصلاحيات.",
+    "officialSource": "https://github.com/google-gemini/gemini-cli/discussions/27274",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "qwen-code": {
+    "fr": "Agent de programmation open source pour le terminal, développé autour des modèles Qwen et évoluant vers plusieurs protocoles et plateformes. Il permet notamment de déléguer des tâches à des sous-agents. Vérifier les fournisseurs de modèles, les permissions et les coûts.",
+    "en": "Open-source terminal coding agent developed around Qwen models and evolving toward multiple protocols and platforms. Supports delegation to subagents. Check model providers, permissions and costs.",
+    "ar": "وكيل برمجة مفتوح المصدر للطرفية طور حول نماذج Qwen ويتطور نحو دعم بروتوكولات ومنصات متعددة. يتيح تفويض المهام إلى وكلاء فرعيين. ينبغي مراجعة مزودي النماذج والصلاحيات والتكاليف.",
+    "officialSource": "https://github.com/QwenLM/qwen-code",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "zed-agent": {
+    "fr": "Agent natif de l'éditeur Zed utilisant les modèles configurés par l'utilisateur et les outils du projet, du terminal et du protocole MCP. Zed permet également de connecter des agents externes. Contrôler les modifications et les accès aux données.",
+    "en": "Native Zed editor agent using user-configured models, project and terminal tools and MCP. Zed also supports external agents. Review changes and data access.",
+    "ar": "وكيل أصلي في محرر Zed يستخدم النماذج التي يضبطها المستخدم وأدوات المشروع والطرفية وبروتوكول MCP. يتيح Zed أيضًا ربط وكلاء خارجيين. ينبغي مراجعة التعديلات والوصول إلى البيانات.",
+    "officialSource": "https://zed.dev/docs/ai/agents",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "github-copilot-coding-agent": {
+    "fr": "Fonctions agentiques de GitHub Copilot permettant d'étudier une tâche, préparer des modifications et collaborer autour des demandes de fusion. Les sessions de recherche et de planification ne créent pas systématiquement une pull request. Appliquer les protections de branche et la revue humaine.",
+    "en": "GitHub Copilot agent capabilities for investigating tasks, preparing changes and collaborating on pull requests. Research and planning sessions do not necessarily create a pull request. Apply branch protections and human review.",
+    "ar": "وظائف وكلاء GitHub Copilot لدراسة المهام وإعداد التعديلات والتعاون في طلبات الدمج. لا تنشئ جلسات البحث والتخطيط طلب دمج بالضرورة. ينبغي تطبيق حماية الفروع والمراجعة البشرية.",
+    "officialSource": "https://docs.github.com/en/copilot/how-tos/copilot-on-github/use-copilot-agents/research-plan-iterate",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "factory-droids": {
+    "fr": "Agents de développement de Factory destinés à réaliser des tâches de programmation dans les projets logiciels. Ils assistent les développeurs dans l'exécution de travaux délégués. Définir des critères d'acceptation et contrôler les modifications avant intégration.",
+    "en": "Factory development agents designed to perform coding tasks in software projects. They assist developers with delegated work. Define acceptance criteria and review changes before integration.",
+    "ar": "وكلاء تطوير من Factory مصممون لتنفيذ مهام البرمجة في المشاريع البرمجية. يساعدون المطورين على إنجاز الأعمال المفوضة. ينبغي تحديد معايير القبول ومراجعة التعديلات قبل الدمج.",
+    "officialSource": "https://factory.ai/product/droids",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "codeium": {
+    "fr": "Ancienne marque d'assistance au code, dont le site redirige vers Devin Desktop. L'environnement actuel réunit édition de code, complétion et gestion d'agents locaux ou distants. Vérifier les conditions des anciennes extensions.",
+    "en": "Former coding assistance brand whose website redirects to Devin Desktop. The current environment combines code editing, completion and local or remote agent management. Check legacy extension availability.",
+    "ar": "علامة سابقة للمساعدة في البرمجة يحيل موقعها إلى Devin Desktop. تجمع البيئة الحالية تحرير الشيفرة والإكمال وإدارة الوكلاء المحليين والبعيدين. ينبغي مراجعة إتاحة الإضافات السابقة.",
+    "officialSource": "https://devin.ai/desktop",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "jetbrains-ai": {
+    "fr": "Assistant intégré aux IDE JetBrains pour expliquer, générer et améliorer le code avec des modèles configurables. Il peut accueillir des agents et outils MCP. Contrôler les données contextuelles transmises au fournisseur.",
+    "en": "Assistant integrated into JetBrains IDEs for explaining, generating and improving code with configurable models. Supports agents and MCP tools. Review contextual data sent to providers.",
+    "ar": "مساعد مدمج في بيئات JetBrains لشرح الشيفرة وتوليدها وتحسينها باستخدام نماذج قابلة للضبط. يدعم الوكلاء وأدوات MCP. ينبغي مراجعة بيانات السياق المرسلة إلى المزود.",
+    "officialSource": "https://www.jetbrains.com/help/ai-assistant/about-ai-assistant.html",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "augment-code": {
+    "fr": "Plateforme de développement pour équipes logicielles réunissant intelligence contextuelle du dépôt, agents, revue de code et automatisation. Les interfaces incluent Auggie CLI et des intégrations IDE. Définir les accès aux dépôts et contrôler les résultats.",
+    "en": "Software engineering platform combining repository context intelligence, agents, code review and automation. Interfaces include Auggie CLI and IDE integrations. Define repository access and review results.",
+    "ar": "منصة تطوير برمجيات تجمع فهم سياق المستودعات والوكلاء ومراجعة الشيفرة والأتمتة. تشمل واجهاتها Auggie CLI وتكاملات بيئات التطوير. ينبغي تحديد صلاحيات المستودعات ومراجعة النتائج.",
+    "officialSource": "https://docs.augmentcode.com/introduction",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "swe-agent": {
+    "fr": "Projet de recherche et agent de programmation open source destiné notamment à résoudre des problèmes GitHub. Il utilise un modèle linguistique et un environnement d'exécution configurable. Isoler les commandes et vérifier les correctifs produits.",
+    "en": "Open-source research coding agent designed in particular to solve GitHub issues. Uses a language model and configurable execution environment. Isolate commands and validate patches.",
+    "ar": "مشروع بحثي ووكيل برمجة مفتوح المصدر لمعالجة مشكلات GitHub خصوصًا. يستخدم نموذجًا لغويًا وبيئة تنفيذ قابلة للضبط. ينبغي عزل الأوامر والتحقق من الإصلاحات.",
+    "officialSource": "https://swe-agent.com/latest/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "devin-cognition": {
+    "fr": "Agent de développement de Cognition capable de travailler sur des dépôts, de préparer des modifications et de tester des applications dans des sessions dédiées. Les travaux peuvent être délégués à des agents distants. Vérifier les tests et demandes de fusion.",
+    "en": "Cognition coding agent that works on repositories, prepares changes and tests applications in dedicated sessions. Work can be delegated to remote agents. Review tests and pull requests.",
+    "ar": "وكيل تطوير من Cognition يعمل على المستودعات ويعد التعديلات ويختبر التطبيقات في جلسات مخصصة. يمكن تفويض العمل لوكلاء بعيدين. ينبغي مراجعة الاختبارات وطلبات الدمج.",
+    "officialSource": "https://docs.devin.ai/get-started/devin-intro",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "windsurf-cascade": {
+    "fr": "Agent intégré à Devin Desktop, anciennement Windsurf, proposant dialogue, modification du code, appels d'outils et points de restauration. Il prend en charge les règles de projet et MCP. Contrôler les permissions et les changements.",
+    "en": "Agent integrated into Devin Desktop, formerly Windsurf, offering chat, code edits, tool calls and checkpoints. Supports project rules and MCP. Review permissions and changes.",
+    "ar": "وكيل مدمج في Devin Desktop المعروف سابقًا باسم Windsurf يوفر الحوار وتعديل الشيفرة واستدعاء الأدوات ونقاط الاستعادة. يدعم قواعد المشروع وMCP. ينبغي مراقبة الصلاحيات والتعديلات.",
+    "officialSource": "https://docs.devin.ai/desktop/cascade/cascade",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "kiro": {
+    "fr": "Environnement de développement agentique orienté spécifications, plans de travail et automatisations déclenchées par des événements. Accessible notamment dans un IDE et une CLI. Utiliser les spécifications comme critères de validation et limiter les permissions des agents.",
+    "en": "Agentic development environment centered on specifications, work plans and event-triggered automations. Available through an IDE and CLI among other interfaces. Use specifications as acceptance criteria and restrict agent permissions.",
+    "ar": "بيئة تطوير بالوكلاء تركز على المواصفات وخطط العمل والأتمتة المرتبطة بالأحداث. تتوفر عبر بيئة تطوير وطرفية ضمن واجهات أخرى. ينبغي استخدام المواصفات كمعايير قبول وتقييد صلاحيات الوكلاء.",
+    "officialSource": "https://kiro.dev/docs/getting-started/first-project/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "opencode": {
+    "fr": "Agent de programmation open source disponible dans le terminal, sur desktop et sur le web. Il permet de configurer fournisseurs de modèles, agents, outils et serveurs MCP. Vérifier les coûts des modèles et les règles d'accès aux fichiers.",
+    "en": "Open-source coding agent available in terminal, desktop and web interfaces. Supports configurable model providers, agents, tools and MCP servers. Check model costs and file access policies.",
+    "ar": "وكيل برمجة مفتوح المصدر متاح في الطرفية وتطبيق سطح المكتب والويب. يتيح ضبط مزودي النماذج والوكلاء والأدوات وخوادم MCP. ينبغي مراجعة تكاليف النماذج وقواعد الوصول للملفات.",
+    "officialSource": "https://opencode.ai/docs/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "amp-sourcegraph": {
+    "fr": "Agent de programmation Amp proposant une interface en ligne de commande, des sous-agents et des sessions partageables. Il aide à explorer, modifier et tester des projets. Vérifier les paramètres de partage et les changements avant intégration.",
+    "en": "Amp coding agent offering a command-line interface, subagents and shareable sessions. Helps explore, edit and test projects. Review sharing settings and changes before integration.",
+    "ar": "وكيل برمجة Amp يوفر واجهة سطر الأوامر ووكلاء فرعيين وجلسات قابلة للمشاركة. يساعد في استكشاف المشاريع وتعديلها واختبارها. ينبغي مراجعة إعدادات المشاركة والتغييرات قبل الدمج.",
+    "officialSource": "https://ampcode.com/manual",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "augment-agent": {
+    "fr": "Agent de développement de la plateforme Augment, utilisant le contexte du dépôt pour réaliser des tâches logicielles. L'écosystème comprend Cosmos et Auggie CLI. Vérifier les modifications, les droits d'accès et les critères de livraison.",
+    "en": "Development agent within Augment using repository context for software tasks. The ecosystem includes Cosmos and Auggie CLI. Review changes, access rights and acceptance criteria.",
+    "ar": "وكيل تطوير ضمن منصة Augment يستفيد من سياق المستودع لإنجاز المهام البرمجية. تشمل المنظومة Cosmos وAuggie CLI. ينبغي مراجعة التعديلات والصلاحيات ومعايير التسليم.",
+    "officialSource": "https://docs.augmentcode.com/introduction",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "tabnine-agent": {
+    "fr": "Agents de programmation de Tabnine destinés aux équipes, avec contexte organisationnel et flux de développement dans les IDE et le terminal. Tabnine annonce son acquisition par Tricentis. Vérifier les options de confidentialité et de déploiement.",
+    "en": "Tabnine coding agents for teams, with organizational context and IDE or terminal workflows. Tabnine announces its acquisition by Tricentis. Check privacy and deployment options.",
+    "ar": "وكلاء برمجة من Tabnine للفرق مع سياق مؤسسي ومسارات عمل في بيئات التطوير والطرفية. تعلن Tabnine استحواذ Tricentis عليها. ينبغي مراجعة خيارات الخصوصية والنشر.",
+    "officialSource": "https://www.tabnine.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "plandex": {
+    "fr": "Agent de programmation open source conçu pour des projets importants et des tâches complexes. Le dépôt officiel reste une référence documentaire ; le site principal n'a pas répondu lors de la revue. Vérifier la maintenance et les modalités d'installation.",
+    "en": "Open-source coding agent designed for large projects and complex tasks. Its official repository remains a documentation reference; the main website did not respond during review. Check maintenance and installation options.",
+    "ar": "وكيل برمجة مفتوح المصدر مصمم للمشاريع الكبيرة والمهام المعقدة. يظل المستودع الرسمي مرجعًا توثيقيًا؛ لم يستجب الموقع الرئيسي أثناء المراجعة. ينبغي التحقق من الصيانة وخيارات التثبيت.",
+    "officialSource": "https://github.com/plandex-ai/plandex",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "amazon-q-developer-agent": {
+    "fr": "Agent AWS d'assistance au développement, accessible notamment dans les IDE et GitHub. Il peut exploiter une issue et le dépôt pour préparer un correctif et une demande de fusion. Limiter les permissions IAM et contrôler les modifications.",
+    "en": "AWS development agent accessible through IDEs and GitHub among other interfaces. It can use an issue and repository context to prepare a patch and pull request. Restrict IAM permissions and review changes.",
+    "ar": "وكيل تطوير من AWS متاح في بيئات التطوير وGitHub ضمن واجهات أخرى. يمكنه استخدام سياق المشكلة والمستودع لإعداد إصلاح وطلب دمج. ينبغي تقييد صلاحيات IAM ومراجعة التعديلات.",
+    "officialSource": "https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/github-feature-development.html",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "lovable": {
+    "fr": "Plateforme de création d'applications web par dialogue avec un agent IA, combinant interface, backend, intégrations API et synchronisation Git. Elle propose des outils de test, de sécurité et de publication. Vérifier les règles d'accès aux données et les secrets avant déploiement.",
+    "en": "Conversational web app builder combining interface, backend, API integrations and Git synchronization. Includes testing, security and publishing tools. Review data access rules and secrets before deployment.",
+    "ar": "منصة لإنشاء تطبيقات الويب عبر الحوار مع وكيل ذكاء اصطناعي تجمع الواجهات والخلفية البرمجية وتكاملات API ومزامنة Git. توفر أدوات للاختبار والأمان والنشر. ينبغي مراجعة قواعد الوصول إلى البيانات والأسرار قبل النشر.",
+    "officialSource": "https://docs.lovable.dev/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "bolt-new": {
+    "fr": "Atelier de développement dans le navigateur permettant de décrire une application, modifier son code et visualiser son fonctionnement. Les modes de planification et les outils de sécurité facilitent les itérations. Tester les dépendances et les fonctionnalités avant publication.",
+    "en": "Browser-based development workspace for describing applications, editing code and previewing behavior. Planning modes and security tools support iteration. Test dependencies and features before publishing.",
+    "ar": "بيئة تطوير في المتصفح تتيح وصف التطبيق وتعديل شيفرته ومعاينة عمله. تسهل أوضاع التخطيط وأدوات الأمان التحسين التدريجي. ينبغي اختبار التبعيات والوظائف قبل النشر.",
+    "officialSource": "https://support.bolt.new/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "v0": {
+    "fr": "Agent de création d'interfaces et d'applications full-stack de Vercel. Il génère du code, propose des prévisualisations, des intégrations de bases de données et une synchronisation GitHub. Examiner les accès serveur, les variables d'environnement et les tests avant déploiement.",
+    "en": "Vercel agent for building interfaces and full-stack applications. Generates code and provides previews, database integrations and GitHub synchronization. Review server access, environment variables and tests before deployment.",
+    "ar": "وكيل من Vercel لإنشاء الواجهات والتطبيقات المتكاملة. يولد الشيفرة ويوفر المعاينات وتكامل قواعد البيانات ومزامنة GitHub. ينبغي مراجعة الوصول إلى الخادم ومتغيرات البيئة والاختبارات قبل النشر.",
+    "officialSource": "https://v0.app/docs",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "replit": {
+    "fr": "Environnement de développement hébergé avec agent IA, éditeur, prévisualisation, tests et publication. Il permet de créer des applications à partir de descriptions et de gérer bases de données et authentification. Distinguer données de test et de production et surveiller les coûts.",
+    "en": "Hosted development environment with an AI agent, editor, previews, testing and publishing. Supports prompt-based app creation, databases and authentication. Separate test and production data and monitor costs.",
+    "ar": "بيئة تطوير مستضافة تضم وكيل ذكاء اصطناعي ومحررًا ومعاينات واختبارات ونشرًا. تتيح إنشاء التطبيقات من الأوصاف وإدارة قواعد البيانات والمصادقة. ينبغي فصل بيانات الاختبار عن الإنتاج ومراقبة التكاليف.",
+    "officialSource": "https://docs.replit.com/features/agent/overview",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "firebase-studio": {
+    "fr": "Environnement cloud de développement et de prototypage de Google dont la fermeture est annoncée pour le 22 mars 2027. Les espaces existants restent utilisables jusqu'à cette date selon la documentation. Préparer la migration vers les outils recommandés ; les services Firebase principaux ne sont pas concernés.",
+    "en": "Google cloud development and prototyping environment scheduled to sunset on March 22, 2027. Existing workspaces remain usable until that date according to documentation. Prepare migration to recommended tools; core Firebase services are unaffected.",
+    "ar": "بيئة تطوير ونمذجة أولية سحابية من Google تقرر إيقافها في 22 مارس 2027. تظل مساحات العمل القائمة قابلة للاستخدام حتى ذلك التاريخ وفق الوثائق. ينبغي إعداد الترحيل إلى الأدوات الموصى بها؛ لا يشمل الإيقاف خدمات Firebase الأساسية.",
+    "officialSource": "https://firebase.google.com/docs/studio/migrating-project",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "framer": {
+    "fr": "Éditeur visuel de sites web associant conception, CMS, publication et agents IA travaillant sur le contenu et les interfaces. Adapté aux portails éditoriaux et portfolios. Vérifier l'accessibilité, les mises en page mobiles et les possibilités de portabilité.",
+    "en": "Visual website editor combining design, CMS, publishing and AI agents working on content and interfaces. Suitable for editorial sites and portfolios. Check accessibility, mobile layouts and portability options.",
+    "ar": "محرر مرئي لمواقع الويب يجمع التصميم ونظام إدارة المحتوى والنشر ووكلاء الذكاء الاصطناعي العاملين على المحتوى والواجهات. يناسب المواقع التحريرية ومعارض الأعمال. ينبغي مراجعة إمكانية الوصول وتنسيقات الهاتف وقابلية النقل.",
+    "officialSource": "https://www.framer.com/ai/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "webflow-ai": {
+    "fr": "Fonctions IA intégrées à Webflow pour générer des sites multipages, thèmes et contenus CMS, puis les modifier dans un éditeur visuel. Des outils SEO et AEO complètent la conception. Vérifier les limites d'export, l'accessibilité et les contenus générés.",
+    "en": "AI features integrated into Webflow for generating multipage sites, themes and CMS content and refining them visually. SEO and AEO tools complement design. Check export limitations, accessibility and generated content.",
+    "ar": "وظائف ذكاء اصطناعي مدمجة في Webflow لإنشاء مواقع متعددة الصفحات وسمات ومحتوى CMS وتعديلها بصريًا. تكمل أدوات SEO وAEO عملية التصميم. ينبغي مراجعة قيود التصدير وإمكانية الوصول والمحتوى المولد.",
+    "officialSource": "https://help.webflow.com/hc/en-us/articles/38840145286035-Build-a-site-with-Webflow-s-AI-site-builder",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "durable": {
+    "fr": "Générateur de sites web sans code destiné notamment aux petites entreprises. Il produit une première structure et des contenus à partir de renseignements sur l'activité, modifiables ensuite. Vérifier les textes commerciaux, les domaines et les conditions d'hébergement.",
+    "en": "No-code website builder aimed particularly at small businesses. Produces an initial structure and editable content from business information. Review commercial copy, domains and hosting terms.",
+    "ar": "منشئ مواقع دون برمجة موجه خصوصًا للمؤسسات الصغيرة. ينتج بنية أولية ومحتوى قابلًا للتعديل انطلاقًا من معلومات النشاط. ينبغي مراجعة النصوص التجارية والنطاقات وشروط الاستضافة.",
+    "officialSource": "https://durable.com/ai-website-builder",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "appy-pie": {
+    "fr": "Plateforme de création d'applications à partir de descriptions, avec éditeur visuel et parcours de publication mobile. Elle propose aussi des outils de création de sites, formulaires et quiz. Vérifier les exigences des boutiques d'applications et les frais de publication.",
+    "en": "Prompt-based application creation platform with a visual editor and mobile publishing workflow. Also offers website, form and quiz builders. Check app store requirements and publishing fees.",
+    "ar": "منصة لإنشاء التطبيقات من الأوصاف مع محرر مرئي ومسار للنشر على الهواتف. توفر أيضًا أدوات لإنشاء المواقع والنماذج والاختبارات. ينبغي مراجعة متطلبات متاجر التطبيقات ورسوم النشر.",
+    "officialSource": "https://www.appypie.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "glide": {
+    "fr": "Plateforme de création d'applications métiers à partir de données, évoluant vers GlideOS avec agents IA, projets, bases de données et gestion des accès. Adaptée aux outils internes. Vérifier les autorisations par utilisateur et les limites de synchronisation.",
+    "en": "Business app platform built around data, evolving toward GlideOS with AI agents, projects, databases and access management. Suited to internal tools. Review per-user permissions and synchronization limits.",
+    "ar": "منصة لإنشاء تطبيقات الأعمال انطلاقًا من البيانات تتطور نحو GlideOS مع وكلاء ذكاء اصطناعي ومشاريع وقواعد بيانات وإدارة الوصول. تناسب الأدوات الداخلية. ينبغي مراجعة صلاحيات المستخدمين وحدود المزامنة.",
+    "officialSource": "https://www.glideapps.com/docs/os/what-is-glide-os",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "create": {
+    "fr": "Service anciennement identifié comme Create.xyz et désormais présenté sous le nom Anything. Il transforme des descriptions en applications mobiles, sites et outils fondés sur du code, avec des intégrations externes. Contrôler l'authentification, la portabilité et les coûts.",
+    "en": "Service formerly identified as Create.xyz and now presented as Anything. Turns prompts into code-based mobile apps, sites and tools with external integrations. Review authentication, portability and costs.",
+    "ar": "خدمة عرفت سابقًا باسم Create.xyz وتقدم الآن باسم Anything. تحول الأوصاف إلى تطبيقات هاتفية ومواقع وأدوات قائمة على الشيفرة مع تكاملات خارجية. ينبغي مراجعة المصادقة وقابلية النقل والتكاليف.",
+    "officialSource": "https://www.anything.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "base44": {
+    "fr": "Plateforme de création d'applications et sites par conversation avec une IA. Elle associe éditeur, gestion de données, branches, intégrations et fonctions de test. Examiner les règles de sécurité des données, les sauvegardes et les droits d'accès avant publication.",
+    "en": "Conversational AI platform for building apps and websites. Combines editor, data management, branches, integrations and testing features. Review data security rules, backups and access permissions before publishing.",
+    "ar": "منصة لإنشاء التطبيقات والمواقع عبر الحوار مع الذكاء الاصطناعي. تجمع المحرر وإدارة البيانات والفروع والتكاملات ووظائف الاختبار. ينبغي مراجعة قواعد أمان البيانات والنسخ الاحتياطية وصلاحيات الوصول قبل النشر.",
+    "officialSource": "https://docs.base44.com/",
+    "sourceReviewedAt": "2026-11-24"
+  },
+  "manus": {
+    "fr": "Agent généraliste hébergé qui réalise des tâches complexes à partir d'instructions, notamment recherche, création de présentations et sites web. Les livrables doivent être contrôlés et les accès aux services externes limités aux besoins de la tâche.",
+    "en": "Hosted general-purpose agent performing complex tasks from instructions, including research, slide creation and websites. Review deliverables and restrict external service access to task requirements.",
+    "ar": "وكيل عام مستضاف ينفذ مهام معقدة انطلاقًا من التعليمات، منها البحث وإنشاء العروض والمواقع. ينبغي مراجعة المخرجات وتقييد الوصول إلى الخدمات الخارجية بحسب الحاجة.",
+    "officialSource": "https://manus.im/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "crewai": {
+    "fr": "Framework Python pour organiser des agents spécialisés en équipes et orchestrer des workflows avec mémoire, connaissances et observabilité. Distinguer les décisions des agents des étapes programmées et tester les outils et conditions d'arrêt.",
+    "en": "Python framework for organizing specialized agents into crews and orchestrating workflows with memory, knowledge and observability. Distinguish agent decisions from programmed steps and test tools and stopping conditions.",
+    "ar": "إطار عمل بلغة Python لتنظيم الوكلاء المتخصصين في فرق وتنسيق مسارات العمل مع الذاكرة والمعرفة وقابلية الرصد. ينبغي التمييز بين قرارات الوكلاء والخطوات المبرمجة واختبار الأدوات وشروط التوقف.",
+    "officialSource": "https://docs.crewai.com/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "langchain": {
+    "fr": "Framework de développement d'applications fondées sur des modèles linguistiques, avec interfaces pour modèles, outils et agents. Il permet de composer des systèmes de recherche documentaire et d'action. Évaluer la pertinence des réponses et limiter les permissions des outils.",
+    "en": "Framework for language model applications with interfaces for models, tools and agents. Supports composing retrieval and action systems. Evaluate answer relevance and restrict tool permissions.",
+    "ar": "إطار لتطوير تطبيقات النماذج اللغوية بواجهات للنماذج والأدوات والوكلاء. يتيح تركيب أنظمة الاسترجاع وتنفيذ الإجراءات. ينبغي تقييم ملاءمة الإجابات وتقييد صلاحيات الأدوات.",
+    "officialSource": "https://docs.langchain.com/oss/python/learn",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "langgraph": {
+    "fr": "Bibliothèque d'orchestration agentique organisant les traitements en graphes de nœuds et transitions avec état persistant et points de reprise. Elle facilite les workflows longs et les interventions humaines. Prévoir la reprise sur erreur et les conditions de terminaison.",
+    "en": "Agent orchestration library organizing processing into graphs of nodes and transitions with persistent state and checkpoints. Supports long workflows and human intervention. Design error recovery and termination conditions.",
+    "ar": "مكتبة لتنسيق الوكلاء تنظم المعالجة في رسوم بيانية من العقد والانتقالات مع حالة مستمرة ونقاط استئناف. تسهل مسارات العمل الطويلة والتدخل البشري. ينبغي إعداد استعادة العمل عند الأخطاء وشروط الإنهاء.",
+    "officialSource": "https://docs.langchain.com/oss/javascript/langgraph/thinking-in-langgraph",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "llamaindex": {
+    "fr": "Framework Python et TypeScript pour relier modèles linguistiques et sources de données, construire des index documentaires, des systèmes RAG et des workflows agentiques. Tester la qualité du découpage, de la récupération et des citations ainsi que les droits d'accès.",
+    "en": "Python and TypeScript framework connecting language models and data sources, building document indexes, RAG systems and agentic workflows. Test chunking, retrieval, citation quality and access rights.",
+    "ar": "إطار بلغة Python وTypeScript لربط النماذج اللغوية بمصادر البيانات وبناء الفهارس الوثائقية وأنظمة RAG ومسارات الوكلاء. ينبغي اختبار جودة التجزئة والاسترجاع والاستشهادات وصلاحيات الوصول.",
+    "officialSource": "https://developers.llamaindex.ai/python/framework/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "dify": {
+    "fr": "Plateforme de création d'applications IA et d'agents, associant workflows visuels, bases de connaissances, outils externes, publication et suivi des exécutions. Vérifier les quotas, les secrets et les conditions de licence de l'édition choisie.",
+    "en": "AI application and agent development platform combining visual workflows, knowledge bases, external tools, publishing and execution monitoring. Check quotas, secrets and licensing terms for the selected edition.",
+    "ar": "منصة لإنشاء تطبيقات الذكاء الاصطناعي والوكلاء تجمع مسارات العمل المرئية وقواعد المعرفة والأدوات الخارجية والنشر ومراقبة التنفيذ. ينبغي مراجعة الحصص والأسرار وشروط ترخيص الإصدار المختار.",
+    "officialSource": "https://docs.dify.ai/en/home",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "flowise": {
+    "fr": "Plateforme open source de développement visuel de workflows LLM et d'agents. Elle permet de relier modèles, outils et composants documentaires et de tester les parcours. Sécuriser les points d'accès et les identifiants des services connectés.",
+    "en": "Open-source visual development platform for LLM workflows and agents. Connects models, tools and document components and supports workflow testing. Secure endpoints and connected service credentials.",
+    "ar": "منصة مفتوحة المصدر للتطوير المرئي لمسارات النماذج اللغوية والوكلاء. تتيح ربط النماذج والأدوات والمكونات الوثائقية واختبار المسارات. ينبغي تأمين نقاط الوصول وبيانات اعتماد الخدمات المتصلة.",
+    "officialSource": "https://docs.flowiseai.com/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "autogen": {
+    "fr": "Framework de recherche Microsoft pour systèmes multi-agents et communications événementielles. Sa documentation actuelle avertit de l'absence de maintenance continue et recommande la migration vers Microsoft Agent Framework. Examiner les risques des dépendances pour les projets existants.",
+    "en": "Microsoft research framework for multi-agent systems and event-driven communication. Current documentation warns of absent ongoing maintenance and recommends migration to Microsoft Agent Framework. Review dependency risks for existing projects.",
+    "ar": "إطار بحثي من Microsoft للأنظمة متعددة الوكلاء والتواصل القائم على الأحداث. تحذر وثائقه الحالية من غياب الصيانة المستمرة وتوصي بالانتقال إلى Microsoft Agent Framework. ينبغي مراجعة مخاطر التبعيات في المشاريع القائمة.",
+    "officialSource": "https://microsoft.github.io/autogen/stable/index.html",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "semantic-kernel": {
+    "fr": "SDK Microsoft pour intégrer des modèles, fonctions et agents dans les applications. Microsoft Agent Framework est présenté comme son successeur et un guide de migration documente les changements d'API. Évaluer la compatibilité des projets avant migration.",
+    "en": "Microsoft SDK for integrating models, functions and agents into applications. Microsoft Agent Framework is presented as its successor, with an official API migration guide. Evaluate project compatibility before migration.",
+    "ar": "حزمة تطوير من Microsoft لدمج النماذج والدوال والوكلاء في التطبيقات. يقدم Microsoft Agent Framework بوصفه خليفته مع دليل رسمي لترحيل الواجهات البرمجية. ينبغي تقييم توافق المشاريع قبل الترحيل.",
+    "officialSource": "https://learn.microsoft.com/en-us/agent-framework/migration-guide/from-semantic-kernel/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "pydantic-ai": {
+    "fr": "Framework Python de création d'agents utilisant des types et schémas validés pour les entrées, dépendances et sorties structurées. Utile pour intégrer les résultats aux applications métier. La validation de structure ne garantit pas la vérité des contenus.",
+    "en": "Python agent framework using validated types and schemas for inputs, dependencies and structured outputs. Useful for integrating results into business applications. Schema validation does not guarantee factual accuracy.",
+    "ar": "إطار Python لإنشاء الوكلاء باستخدام الأنواع والمخططات المتحقق منها للمدخلات والتبعيات والمخرجات المنظمة. يفيد في دمج النتائج بتطبيقات الأعمال. لا يضمن التحقق البنيوي صحة المحتوى.",
+    "officialSource": "https://pydantic.dev/docs/ai/overview/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "relevance-ai": {
+    "fr": "Plateforme de création d'agents métier et d'équipes coordonnées, avec outils, déclencheurs, tables de connaissances et évaluations. Elle permet de construire des automatisations commerciales et opérationnelles. Limiter les accès aux données et valider les décisions sensibles.",
+    "en": "Business agent and coordinated workforce platform with tools, triggers, knowledge tables and evaluations. Supports sales and operational automation. Restrict data access and validate sensitive decisions.",
+    "ar": "منصة لإنشاء وكلاء الأعمال والفرق المنسقة مع أدوات ومحفزات وجداول معرفة وتقييمات. تتيح أتمتة المبيعات والعمليات. ينبغي تقييد الوصول إلى البيانات ومراجعة القرارات الحساسة.",
+    "officialSource": "https://relevanceai.com/docs/changelog",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "lindy": {
+    "fr": "Assistant agentique hébergé destiné aux tâches professionnelles, notamment suivi de courriels, préparation de réunions et mise à jour de systèmes connectés. Configurer les intégrations et les approbations avant les actions externes et contrôler les résultats.",
+    "en": "Hosted agentic assistant for professional tasks including email follow-up, meeting preparation and connected system updates. Configure integrations and approvals before external actions and review results.",
+    "ar": "مساعد بالوكلاء مستضاف للمهام المهنية مثل متابعة البريد وإعداد الاجتماعات وتحديث الأنظمة المتصلة. ينبغي ضبط التكاملات والموافقات قبل الإجراءات الخارجية ومراجعة النتائج.",
+    "officialSource": "https://www.lindy.ai/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "taskade": {
+    "fr": "Espace de travail associant projets, agents IA personnalisables, applications et automatisations. Il permet de structurer des tâches et des processus collaboratifs. Vérifier les droits de partage et les déclencheurs avant d'automatiser des actions.",
+    "en": "Workspace combining projects, customizable AI agents, applications and automation. Supports structured tasks and collaborative processes. Review sharing permissions and triggers before automating actions.",
+    "ar": "مساحة عمل تجمع المشاريع ووكلاء الذكاء الاصطناعي القابلين للتخصيص والتطبيقات والأتمتة. تتيح تنظيم المهام والعمليات التعاونية. ينبغي مراجعة صلاحيات المشاركة والمحفزات قبل أتمتة الإجراءات.",
+    "officialSource": "https://www.taskade.com/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "browser-use": {
+    "fr": "Outils de navigation agentique permettant de piloter un navigateur et d'exécuter des tâches web à partir d'instructions, avec offre d'agents et de navigateurs hébergés. Limiter les sessions authentifiées et demander une approbation pour les transactions et publications.",
+    "en": "Agentic browsing tools for controlling a browser and performing web tasks from instructions, including hosted agents and browsers. Restrict authenticated sessions and require approval for transactions and publication.",
+    "ar": "أدوات لتصفح الويب بالوكلاء تتيح التحكم في المتصفح وتنفيذ المهام من التعليمات مع خدمات للوكلاء والمتصفحات المستضافة. ينبغي تقييد الجلسات المصادق عليها وطلب الموافقة للمعاملات والنشر.",
+    "officialSource": "https://docs.browser-use.com/cloud/quickstart",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "zapier": {
+    "fr": "Plateforme d'intégration reliant des applications par déclencheurs et actions, avec étapes IA et agents. Utiliser des règles déterministes pour les opérations répétables et des validations humaines pour les actions sensibles.",
+    "en": "Integration platform connecting apps through triggers and actions, with AI steps and agents. Use deterministic rules for repeatable operations and human approvals for sensitive actions.",
+    "ar": "منصة تكامل تربط التطبيقات عبر المحفزات والإجراءات مع خطوات ووكلاء للذكاء الاصطناعي. ينبغي استخدام قواعد حتمية للعمليات المتكررة وموافقات بشرية للإجراءات الحساسة.",
+    "officialSource": "https://zapier.com/blog/agentic-workflows/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "make": {
+    "fr": "Éditeur visuel de scénarios reliant applications, API et agents IA. Les scénarios peuvent traiter des données et servir d'outils aux agents. Prévoir des routes d'erreur et contrôler les opérations facturées.",
+    "en": "Visual scenario editor connecting applications, APIs and AI agents. Scenarios can process data and serve as agent tools. Design error routes and monitor billable operations.",
+    "ar": "محرر مرئي للسيناريوهات يربط التطبيقات وواجهات API والوكلاء. يمكن للسيناريوهات معالجة البيانات والعمل كأدوات للوكلاء. ينبغي إعداد مسارات الأخطاء ومراقبة العمليات المدفوعة.",
+    "officialSource": "https://help.make.com/make-ai-agents-the-next-step-in-automation",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "n8n": {
+    "fr": "Plateforme de workflows à nœuds, disponible en hébergement géré ou auto-hébergé, avec connecteurs, code et composants IA. Vérifier les conditions de licence, sécuriser les identifiants et tester les reprises sur erreur.",
+    "en": "Node-based workflow platform available as managed or self-hosted deployment, with connectors, code and AI components. Check licensing, secure credentials and test error recovery.",
+    "ar": "منصة لمسارات العمل القائمة على العقد متاحة باستضافة مُدارة أو ذاتية، مع موصلات وشيفرة ومكونات ذكاء اصطناعي. ينبغي مراجعة الترخيص وتأمين بيانات الاعتماد واختبار استعادة العمل عند الخطأ.",
+    "officialSource": "https://docs.n8n.io/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "bardeen": {
+    "fr": "Outil d'automatisation des tâches répétitives dans le navigateur et entre applications, notamment collecte et transfert de données. Vérifier les autorisations, les conditions des sites et la fiabilité des données extraites.",
+    "en": "Automation tool for repetitive browser and cross-app tasks, including data collection and transfer. Check permissions, website terms and extracted data reliability.",
+    "ar": "أداة لأتمتة المهام المتكررة في المتصفح وبين التطبيقات، ومنها جمع البيانات ونقلها. ينبغي مراجعة الصلاحيات وشروط المواقع وموثوقية البيانات المستخرجة.",
+    "officialSource": "https://www.bardeen.ai/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "gumloop": {
+    "fr": "Plateforme visuelle d'automatisation intégrant modèles IA, traitements de données et services externes. Elle permet de composer des chaînes de traitement sans écrire toute l'intégration. Tester les entrées atypiques et les coûts par exécution.",
+    "en": "Visual automation platform integrating AI models, data processing and external services. Supports composing processing pipelines without coding every integration. Test unusual inputs and per-run costs.",
+    "ar": "منصة مرئية للأتمتة تدمج نماذج الذكاء الاصطناعي ومعالجة البيانات والخدمات الخارجية. تتيح تركيب سلاسل المعالجة دون برمجة جميع التكاملات. ينبغي اختبار المدخلات غير المعتادة وتكاليف التنفيذ.",
+    "officialSource": "https://www.gumloop.com/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "relay-app": {
+    "fr": "Plateforme de workflows reliant applications et étapes IA, avec possibilités d'intervention humaine. Utile pour les processus nécessitant une approbation avant envoi ou modification. Définir responsables et conditions de reprise.",
+    "en": "Workflow platform connecting apps and AI steps with human intervention options. Useful for processes requiring approval before sending or modifying data. Define reviewers and resumption conditions.",
+    "ar": "منصة لمسارات العمل تربط التطبيقات وخطوات الذكاء الاصطناعي مع إمكانات التدخل البشري. تفيد في العمليات التي تستلزم الموافقة قبل الإرسال أو التعديل. ينبغي تحديد المسؤولين وشروط الاستئناف.",
+    "officialSource": "https://www.relay.app/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "activepieces": {
+    "fr": "Plateforme d'automatisation avec édition communautaire open source, connecteurs et éditeur visuel. Elle permet de construire des workflows déclenchés par événements et d'intégrer des modèles IA. Vérifier les différences entre éditions et sécuriser l'hébergement.",
+    "en": "Automation platform with an open-source community edition, connectors and visual editor. Supports event-triggered workflows and AI model integration. Check edition differences and secure hosting.",
+    "ar": "منصة أتمتة بإصدار مجتمعي مفتوح المصدر وموصلات ومحرر مرئي. تتيح إنشاء مسارات تستجيب للأحداث ودمج نماذج الذكاء الاصطناعي. ينبغي مراجعة اختلافات الإصدارات وتأمين الاستضافة.",
+    "officialSource": "https://www.activepieces.com/blog/activepieces-tutorial-for-building-your-first-workflow",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "latenode": {
+    "fr": "Environnement low-code pour relier services web, API et étapes JavaScript dans des scénarios automatisés. Utile lorsque les connecteurs standards exigent un traitement personnalisé. Tester les délais, les erreurs et les secrets.",
+    "en": "Low-code environment connecting web services, APIs and JavaScript steps in automated scenarios. Useful when standard connectors require custom processing. Test timeouts, errors and secret handling.",
+    "ar": "بيئة منخفضة البرمجة تربط خدمات الويب وواجهات API وخطوات JavaScript ضمن سيناريوهات آلية. تفيد عندما تتطلب الموصلات معالجة مخصصة. ينبغي اختبار المهلات والأخطاء والتعامل مع الأسرار.",
+    "officialSource": "https://latenode.com/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "uipath": {
+    "fr": "Suite d'automatisation de processus combinant RPA, intégrations et agents IA. Maestro Orchestrate coordonne robots, agents et interventions humaines dans les processus métiers. Définir les règles d'escalade et contrôler les journaux d'exécution.",
+    "en": "Process automation suite combining RPA, integrations and AI agents. Maestro Orchestrate coordinates robots, agents and human interventions in business processes. Define escalation rules and review execution logs.",
+    "ar": "مجموعة لأتمتة العمليات تجمع RPA والتكاملات ووكلاء الذكاء الاصطناعي. ينسق Maestro Orchestrate الروبوتات والوكلاء والتدخلات البشرية في عمليات الأعمال. ينبغي تحديد قواعد التصعيد ومراجعة سجلات التنفيذ.",
+    "officialSource": "https://docs.uipath.com/maestro/automation-cloud/latest/user-guide/overview",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "automation-anywhere": {
+    "fr": "Plateforme d'automatisation d'entreprise associant robots logiciels, traitements documentaires et capacités agentiques. Elle vise les processus transversaux impliquant applications et données. Contrôler les permissions, les exceptions et la traçabilité.",
+    "en": "Enterprise automation platform combining software robots, document processing and agentic capabilities. Targets cross-application business processes. Review permissions, exceptions and auditability.",
+    "ar": "منصة لأتمتة المؤسسات تجمع الروبوتات البرمجية ومعالجة المستندات وقدرات الوكلاء. تستهدف عمليات الأعمال الممتدة عبر التطبيقات. ينبغي مراقبة الصلاحيات والاستثناءات وقابلية التدقيق.",
+    "officialSource": "https://www.automationanywhere.com/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "axiom-ai": {
+    "fr": "Outil d'automatisation du navigateur pour reproduire des interactions web et extraire des données, avec interfaces sans code ou programmables. Vérifier les conditions des sites, la stabilité des sélecteurs et les autorisations des sessions.",
+    "en": "Browser automation tool for reproducing web interactions and extracting data through no-code or programmable interfaces. Check website terms, selector stability and session permissions.",
+    "ar": "أداة لأتمتة المتصفح لتكرار التفاعلات واستخراج البيانات عبر واجهات دون برمجة أو قابلة للبرمجة. ينبغي مراجعة شروط المواقع وثبات المحددات وصلاحيات الجلسات.",
+    "officialSource": "https://axiom.ai/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "robocorp": {
+    "fr": "Écosystème d'automatisation Python utilisant notamment RCC pour gérer des environnements reproductibles et des robots logiciels. Les ressources actuelles sont documentées par Sema4.ai. Examiner les licences de chaque composant et isoler les exécutions.",
+    "en": "Python automation ecosystem using RCC to manage reproducible environments and software robots. Current resources are documented by Sema4.ai. Review each component's license and isolate executions.",
+    "ar": "منظومة أتمتة Python تستخدم RCC لإدارة البيئات القابلة لإعادة الإنتاج والروبوتات البرمجية. توثق Sema4.ai الموارد الحالية. ينبغي مراجعة ترخيص كل مكون وعزل عمليات التنفيذ.",
+    "officialSource": "https://sema4.ai/docs/automation/quickstart-guide",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "lm-studio": {
+    "fr": "Application de bureau pour télécharger et exécuter des modèles linguistiques localement, avec serveur API et fonctionnement hors ligne après téléchargement. Distinguer les modèles locaux des offres cloud et vérifier la mémoire disponible et la sécurité du serveur.",
+    "en": "Desktop application for downloading and running language models locally, with an API server and offline operation after download. Distinguish local models from cloud offerings and check available memory and server security.",
+    "ar": "تطبيق لسطح المكتب لتنزيل النماذج اللغوية وتشغيلها محليًا مع خادم API وإمكانية العمل دون اتصال بعد التنزيل. ينبغي التمييز بين النماذج المحلية والخدمات السحابية والتحقق من الذاكرة المتاحة وأمان الخادم.",
+    "officialSource": "https://lmstudio.ai/docs/app/offline",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "llama-cpp": {
+    "fr": "Moteur d'inférence C/C++ pour modèles linguistiques et multimodaux, notamment au format GGUF. La quantification permet d'adapter les besoins en mémoire au matériel. Tester la qualité des modèles quantifiés et respecter leurs licences.",
+    "en": "C/C++ inference engine for language and multimodal models, notably in GGUF format. Quantization helps adapt memory requirements to hardware. Test quantized model quality and comply with model licenses.",
+    "ar": "محرك استدلال بلغة C/C++ للنماذج اللغوية ومتعددة الوسائط، خصوصًا بصيغة GGUF. يساعد التكميم على ملاءمة متطلبات الذاكرة مع الأجهزة. ينبغي اختبار جودة النماذج المكممة واحترام تراخيصها.",
+    "officialSource": "https://github.com/ggml-org/llama.cpp",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "text-generation-inference": {
+    "fr": "Serveur d'inférence de Hugging Face pour distribuer des modèles linguistiques, notamment sur GPU. Le dépôt officiel indique un passage en mode maintenance. Pour un nouveau déploiement, comparer les moteurs activement développés et vérifier les mises à jour de sécurité.",
+    "en": "Hugging Face inference server for serving language models, notably on GPUs. Its official repository indicates maintenance mode. For new deployments, compare actively developed engines and check security updates.",
+    "ar": "خادم استدلال من Hugging Face لتقديم النماذج اللغوية خصوصًا على وحدات GPU. يشير المستودع الرسمي إلى الانتقال إلى وضع الصيانة. للمشاريع الجديدة ينبغي مقارنة المحركات النشطة والتحقق من تحديثات الأمان.",
+    "officialSource": "https://github.com/huggingface/text-generation-inference",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "llamafile": {
+    "fr": "Projet Mozilla permettant de distribuer des modèles linguistiques sous forme d'exécutables portables. Il simplifie les expérimentations locales sans serveur distant obligatoire. Vérifier la compatibilité du système, la provenance des fichiers et les ressources matérielles.",
+    "en": "Mozilla project distributing language models as portable executables. Simplifies local experiments without a mandatory remote server. Check operating system compatibility, file provenance and hardware resources.",
+    "ar": "مشروع من Mozilla يتيح توزيع النماذج اللغوية كملفات تنفيذية قابلة للنقل. يسهل التجارب المحلية دون خادم بعيد إلزامي. ينبغي مراجعة توافق النظام ومصدر الملفات والموارد المادية.",
+    "officialSource": "https://github.com/mozilla-ai/llamafile",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "weaviate": {
+    "fr": "Base de données vectorielle proposant recherche sémantique et hybride associant vecteurs et mots-clés BM25. Adaptée à l'indexation de corpus pour le RAG. Évaluer la pertinence des résultats, les filtres et les autorisations sur les collections.",
+    "en": "Vector database supporting semantic and hybrid search combining vectors and BM25 keywords. Suitable for indexing RAG corpora. Evaluate retrieval relevance, filters and collection permissions.",
+    "ar": "قاعدة بيانات متجهية تدعم البحث الدلالي والهجين الذي يجمع المتجهات والكلمات المفتاحية BM25. تناسب فهرسة المدونات الوثائقية لأنظمة RAG. ينبغي تقييم ملاءمة النتائج والمرشحات وصلاحيات المجموعات.",
+    "officialSource": "https://docs.weaviate.io/weaviate/concepts/search/hybrid-search",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "qdrant": {
+    "fr": "Base vectorielle proposant recherche par similarité, filtres sur métadonnées et combinaison de recherches lexicales et sémantiques. Utile pour les systèmes RAG nécessitant une sélection fine des documents. Tester la qualité de récupération et isoler les données des utilisateurs.",
+    "en": "Vector database offering similarity search, metadata filtering and combined lexical and semantic retrieval. Useful for RAG systems requiring precise document selection. Test retrieval quality and isolate user data.",
+    "ar": "قاعدة بيانات متجهية توفر البحث بالتشابه وتصفية البيانات الوصفية والجمع بين الاسترجاع المعجمي والدلالي. تفيد أنظمة RAG التي تتطلب اختيارًا دقيقًا للوثائق. ينبغي اختبار جودة الاسترجاع وعزل بيانات المستخدمين.",
+    "officialSource": "https://qdrant.tech/documentation/search/text-search/hybrid-search/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "faiss": {
+    "fr": "Bibliothèque de recherche de similarité et de regroupement de vecteurs denses, sous licence MIT. Elle propose différents index et compromis entre vitesse, mémoire et précision. Ce n'est pas une base de données complète ; prévoir la persistance et la gestion des métadonnées.",
+    "en": "MIT-licensed library for similarity search and clustering of dense vectors. Offers index choices and trade-offs between speed, memory and accuracy. Not a complete database; design persistence and metadata management separately.",
+    "ar": "مكتبة للبحث بالتشابه وتجميع المتجهات الكثيفة بترخيص MIT. توفر فهارس متنوعة ومفاضلات بين السرعة والذاكرة والدقة. ليست قاعدة بيانات متكاملة؛ ينبغي إعداد التخزين الدائم وإدارة البيانات الوصفية بصورة مستقلة.",
+    "officialSource": "https://github.com/facebookresearch/faiss",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "pgvector": {
+    "fr": "Extension open source de PostgreSQL pour stocker et interroger des vecteurs avec SQL. Elle propose une recherche exacte et des index approximatifs HNSW et IVFFlat. Utile pour associer données relationnelles et recherche sémantique ; mesurer les compromis de rappel et latence.",
+    "en": "Open-source PostgreSQL extension for storing and querying vectors with SQL. Supports exact search and approximate HNSW and IVFFlat indexes. Useful for combining relational data and semantic search; measure recall and latency trade-offs.",
+    "ar": "إضافة مفتوحة المصدر لـ PostgreSQL لتخزين المتجهات والاستعلام عنها باستخدام SQL. تدعم البحث الدقيق وفهارس HNSW وIVFFlat التقريبية. تفيد في الجمع بين البيانات العلائقية والبحث الدلالي؛ ينبغي قياس المفاضلة بين الاسترجاع وزمن الاستجابة.",
+    "officialSource": "https://github.com/pgvector/pgvector",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "ollama": {
+    "fr": "Environnement d'exécution de modèles linguistiques et multimodaux proposant une bibliothèque de modèles, une CLI et une API. Il distingue modèles locaux et modèles cloud. Pour les corpus confidentiels, vérifier le mode d'exécution, les flux réseau et les licences.",
+    "en": "Environment for running language and multimodal models with a model library, CLI and API. Distinguishes local and cloud models. For confidential corpora, verify execution mode, network traffic and licenses.",
+    "ar": "بيئة لتشغيل النماذج اللغوية ومتعددة الوسائط توفر مكتبة نماذج وواجهة أوامر وواجهة برمجية. تميز بين النماذج المحلية والسحابية. للمدونات السرية ينبغي التحقق من نمط التنفيذ وحركة الشبكة والتراخيص.",
+    "officialSource": "https://docs.ollama.com/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "vllm": {
+    "fr": "Moteur d'inférence et de service de modèles conçu pour optimiser le débit des requêtes, avec serveur HTTP compatible avec plusieurs interfaces OpenAI. Adapté aux déploiements mutualisés sur accélérateurs. Mesurer latence, débit, mémoire et compatibilité du modèle.",
+    "en": "Inference and serving engine designed to optimize request throughput, with an HTTP server compatible with several OpenAI interfaces. Suitable for shared accelerator deployments. Measure latency, throughput, memory and model compatibility.",
+    "ar": "محرك استدلال وتقديم نماذج مصمم لتحسين معدل معالجة الطلبات، مع خادم HTTP متوافق مع عدة واجهات OpenAI. يناسب النشر المشترك على المسرعات. ينبغي قياس زمن الاستجابة والإنتاجية والذاكرة وتوافق النموذج.",
+    "officialSource": "https://docs.vllm.ai/en/latest/serving/online_serving/openai_compatible_server/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "pinecone": {
+    "fr": "Service de base vectorielle gérée pour indexer et rechercher des contenus, avec recherche sémantique, hybride, filtrage et espaces de noms. Utile pour les architectures RAG multi-utilisateurs. Contrôler les droits d'accès, l'isolation et les coûts des index.",
+    "en": "Managed vector database for indexing and searching content, with semantic and hybrid search, filtering and namespaces. Useful for multi-tenant RAG architectures. Review access rights, isolation and index costs.",
+    "ar": "خدمة قاعدة بيانات متجهية مُدارة لفهرسة المحتوى والبحث فيه مع البحث الدلالي والهجين والتصفية ونطاقات الأسماء. تفيد في بنى RAG متعددة المستأجرين. ينبغي مراقبة صلاحيات الوصول والعزل وتكاليف الفهارس.",
+    "officialSource": "https://docs.pinecone.io/guides/index-data/implement-multitenancy",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "openai-api": {
+    "fr": "Plateforme d'API pour intégrer les modèles OpenAI dans des applications, notamment génération multimodale, sorties structurées, appels d'outils et embeddings selon le modèle. L'API Responses facilite les parcours agentiques. Contrôler les clés, les coûts, la conservation des données et la validité des résultats.",
+    "en": "API platform integrating OpenAI models into applications, including multimodal generation, structured outputs, tool calls and embeddings depending on the model. The Responses API supports agentic workflows. Review keys, costs, data retention and output validity.",
+    "ar": "منصة واجهات برمجية لدمج نماذج OpenAI في التطبيقات، تشمل التوليد متعدد الوسائط والمخرجات المنظمة واستدعاء الأدوات والتضمينات بحسب النموذج. تدعم واجهة Responses مسارات الوكلاء. ينبغي مراقبة المفاتيح والتكاليف والاحتفاظ بالبيانات وصحة النتائج.",
+    "officialSource": "https://platform.openai.com/overview",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "anthropic-api": {
+    "fr": "Plateforme développeur donnant accès aux modèles Claude par API, avec messages, appels d'outils, traitement de fichiers et services d'agents selon les capacités disponibles. Vérifier les limites de contexte, les autorisations et les politiques de données avant intégration.",
+    "en": "Developer platform providing API access to Claude models, with messages, tool calls, file processing and agent services depending on available capabilities. Check context limits, permissions and data policies before integration.",
+    "ar": "منصة للمطورين تتيح الوصول إلى نماذج Claude عبر واجهة برمجية، مع الرسائل واستدعاء الأدوات ومعالجة الملفات وخدمات الوكلاء بحسب الإمكانات المتاحة. ينبغي مراجعة حدود السياق والصلاحيات وسياسات البيانات قبل الدمج.",
+    "officialSource": "https://platform.claude.com/docs/en/api/overview",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "google-gemini-api": {
+    "fr": "API de Google pour intégrer les modèles Gemini dans des applications de génération et d'analyse multimodale. Elle propose des sorties structurées, des appels de fonctions et des outils selon le modèle. Vérifier les quotas, les conditions de traitement et les schémas de sortie.",
+    "en": "Google API for integrating Gemini models into generative and multimodal analysis applications. Supports structured outputs, function calling and tools depending on the model. Check quotas, processing terms and output schemas.",
+    "ar": "واجهة Google البرمجية لدمج نماذج Gemini في تطبيقات التوليد والتحليل متعدد الوسائط. تدعم المخرجات المنظمة واستدعاء الدوال والأدوات بحسب النموذج. ينبغي مراجعة الحصص وشروط المعالجة ومخططات المخرجات.",
+    "officialSource": "https://ai.google.dev/gemini-api/docs/get-started",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "mistral-ai": {
+    "fr": "Fournisseur de modèles linguistiques, multimodaux, d'embeddings et d'extraction documentaire. Son API propose notamment des fonctions OCR et des modèles de génération. Distinguer les modèles accessibles par API des poids téléchargeables et vérifier les licences de chaque version.",
+    "en": "Provider of language, multimodal, embedding and document extraction models. Its API includes OCR and generation capabilities. Distinguish API-accessible models from downloadable weights and check each version's license.",
+    "ar": "مزود للنماذج اللغوية ومتعددة الوسائط والتضمينات واستخراج المستندات. تشمل واجهته البرمجية التعرف البصري على الحروف والتوليد. ينبغي التمييز بين النماذج المتاحة عبر API والأوزان القابلة للتنزيل ومراجعة ترخيص كل إصدار.",
+    "officialSource": "https://docs.mistral.ai/models",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "cohere": {
+    "fr": "Fournisseur de modèles et API pour la génération, les embeddings et le reclassement de résultats avec Rerank. Ces fonctions permettent de construire des systèmes RAG multilingues et des outils de recherche d'entreprise. Tester la pertinence sur les corpus et langues cibles.",
+    "en": "Model and API provider for generation, embeddings and result reranking with Rerank. These functions support multilingual RAG and enterprise search tools. Test relevance on target corpora and languages.",
+    "ar": "مزود نماذج وواجهات برمجية للتوليد والتضمينات وإعادة ترتيب النتائج باستخدام Rerank. تدعم هذه الوظائف أنظمة RAG متعددة اللغات وأدوات البحث المؤسسي. ينبغي اختبار الملاءمة على المدونات واللغات المستهدفة.",
+    "officialSource": "https://docs.cohere.com/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "hugging-face": {
+    "fr": "Plateforme de partage et de collaboration autour des modèles, jeux de données et démonstrations Spaces, avec dépôts versionnés et outils de déploiement. Vérifier les fiches de modèles, licences, provenance et révisions avant téléchargement ou réutilisation.",
+    "en": "Collaboration and sharing platform for models, datasets and Spaces demos, with versioned repositories and deployment tools. Check model cards, licenses, provenance and revisions before downloading or reuse.",
+    "ar": "منصة للتعاون ومشاركة النماذج ومجموعات البيانات والعروض التجريبية Spaces مع مستودعات ذات إصدارات وأدوات نشر. ينبغي مراجعة بطاقات النماذج والتراخيص والمصادر والإصدارات قبل التنزيل أو إعادة الاستخدام.",
+    "officialSource": "https://huggingface.co/docs/hub/main/index",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "sambanova-cloud": {
+    "fr": "Service d'inférence hébergé donnant accès à plusieurs modèles avec des interfaces compatibles OpenAI et Anthropic selon les fonctions. Il propose génération, embeddings et intégrations RAG. Vérifier les modèles disponibles, limites de débit, coûts et conditions de confidentialité.",
+    "en": "Hosted inference service providing access to several models with OpenAI- and Anthropic-compatible interfaces depending on features. Supports generation, embeddings and RAG integrations. Check model availability, rate limits, costs and privacy terms.",
+    "ar": "خدمة استدلال مستضافة تتيح الوصول إلى نماذج متعددة عبر واجهات متوافقة مع OpenAI وAnthropic بحسب الوظائف. تدعم التوليد والتضمينات وتكاملات RAG. ينبغي مراجعة النماذج المتاحة وحدود الطلبات والتكاليف وشروط الخصوصية.",
+    "officialSource": "https://docs.sambanova.ai/docs/en/get-started/overview",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "chatgpt": {
+    "fr": "Assistant multimodal d'OpenAI pour la rédaction, l'analyse de fichiers, la recherche web, la programmation et les échanges vocaux. Les projets permettent de regrouper documents et conversations. Les capacités dépendent de l'offre ; vérifier les sources et les paramètres de données.",
+    "en": "OpenAI multimodal assistant for writing, file analysis, web research, coding and voice conversations. Projects organize documents and conversations. Capabilities vary by plan; verify sources and data settings.",
+    "ar": "مساعد متعدد الوسائط من OpenAI للكتابة وتحليل الملفات والبحث على الويب والبرمجة والمحادثات الصوتية. تتيح المشاريع تنظيم الوثائق والمحادثات. تختلف الإمكانات بحسب الاشتراك؛ ينبغي مراجعة المصادر وإعدادات البيانات.",
+    "officialSource": "https://help.openai.com/en/articles/9260256-chatgpt-capabilities-overview",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "claude": {
+    "fr": "Assistant d'Anthropic pour analyser des documents, rédiger et programmer. Les projets réunissent des ressources contextuelles et les artefacts permettent de créer des documents, interfaces et outils interactifs. Contrôler les résultats et les permissions des intégrations.",
+    "en": "Anthropic assistant for document analysis, writing and coding. Projects organize contextual resources and artifacts enable documents, interfaces and interactive tools. Review outputs and integration permissions.",
+    "ar": "مساعد من Anthropic لتحليل الوثائق والكتابة والبرمجة. تجمع المشاريع الموارد السياقية وتتيح المصنوعات إنشاء الوثائق والواجهات والأدوات التفاعلية. ينبغي مراجعة النتائج وصلاحيات التكاملات.",
+    "officialSource": "https://support.claude.com/en/articles/17153992-what-are-artifacts-and-how-do-i-use-them",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "gemini": {
+    "fr": "Assistant multimodal de Google pour la rédaction, l'analyse et la recherche. Deep Research permet de préparer des rapports à partir du Web et de sources connectées autorisées. Vérifier les citations et les paramètres de partage des documents.",
+    "en": "Google multimodal assistant for writing, analysis and research. Deep Research prepares reports using the web and authorized connected sources. Verify citations and document sharing settings.",
+    "ar": "مساعد متعدد الوسائط من Google للكتابة والتحليل والبحث. تتيح Deep Research إعداد تقارير من الويب والمصادر المتصلة المصرح بها. ينبغي التحقق من الاستشهادات وإعدادات مشاركة الوثائق.",
+    "officialSource": "https://support.google.com/gemini/answer/15719111",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "perplexity": {
+    "fr": "Moteur de réponses conversationnelles qui recherche des informations et présente des synthèses accompagnées de références. Les modes avancés permettent de choisir certains modèles et d'approfondir les recherches. Consulter les documents originaux avant de reprendre une affirmation.",
+    "en": "Conversational answer engine that retrieves information and presents referenced summaries. Advanced modes support model selection and deeper searches. Consult original documents before reusing claims.",
+    "ar": "محرك إجابات حواري يبحث عن المعلومات ويقدم ملخصات مصحوبة بالمراجع. تتيح الأوضاع المتقدمة اختيار بعض النماذج وتعميق البحث. ينبغي الرجوع إلى الوثائق الأصلية قبل إعادة استخدام الادعاءات.",
+    "officialSource": "https://www.perplexity.ai/help-center/en/articles/10352903-what-is-pro-search",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "le-chat-mistral": {
+    "fr": "Assistant conversationnel de Mistral AI, désormais intégré à Mistral Vibe sous l'appellation Vibe for work. Il associe rédaction, recherche web et exploitation de documents ou outils connectés. Vérifier les sources et distinguer ce service de Vibe for code.",
+    "en": "Mistral AI conversational assistant now integrated into Mistral Vibe as Vibe for work. Combines writing, web research and use of documents or connected tools. Verify sources and distinguish it from Vibe for code.",
+    "ar": "مساعد حواري من Mistral AI مدمج الآن في Mistral Vibe باسم Vibe for work. يجمع الكتابة والبحث على الويب واستعمال الوثائق والأدوات المتصلة. ينبغي مراجعة المصادر وتمييزه عن Vibe for code.",
+    "officialSource": "https://mistral.ai/fr/products/vibe/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "poe": {
+    "fr": "Plateforme de Quora réunissant des assistants alimentés par différents fournisseurs de modèles et des bots personnalisés. Elle permet de comparer les réponses et de composer des workflows. Les quotas, capacités et traitements de données varient selon les bots.",
+    "en": "Quora platform bringing together assistants powered by different model providers and custom bots. Supports response comparison and workflow composition. Quotas, capabilities and data processing vary by bot.",
+    "ar": "منصة من Quora تجمع مساعدين يعتمدون على مزودي نماذج مختلفين وروبوتات مخصصة. تتيح مقارنة الإجابات وتركيب مسارات العمل. تختلف الحصص والإمكانات ومعالجة البيانات بحسب الروبوت.",
+    "officialSource": "https://help.poe.com/hc/en-us/articles/19944206309524-Poe-FAQs",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "duck-ai": {
+    "fr": "Interface conversationnelle de DuckDuckGo donnant accès à plusieurs modèles tiers. Selon sa politique officielle, les conversations ne sont pas conservées par défaut ni utilisées pour entraîner les modèles. Vérifier les modalités propres aux fonctions et fournisseurs sélectionnés.",
+    "en": "DuckDuckGo chat interface providing access to multiple third-party models. Its official policy states chats are not stored by default or used for model training. Check terms for selected features and providers.",
+    "ar": "واجهة حوارية من DuckDuckGo تتيح الوصول إلى نماذج متعددة من جهات خارجية. وفق سياستها الرسمية لا تحفظ المحادثات افتراضيًا ولا تستخدم لتدريب النماذج. ينبغي مراجعة شروط الوظائف والمزودين المختارين.",
+    "officialSource": "https://duckduckgo.com/duckduckgo-help-pages/duckai/ai-chat-privacy",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "qwen-chat": {
+    "fr": "Assistant conversationnel fondé sur les modèles Qwen, destiné aux tâches de rédaction, d'explication et d'assistance technique. Distinguer l'application hébergée des modèles téléchargeables de la famille Qwen et vérifier les capacités et licences de chaque version.",
+    "en": "Conversational assistant powered by Qwen models for writing, explanation and technical assistance. Distinguish the hosted application from downloadable Qwen models and check each version's capabilities and licenses.",
+    "ar": "مساعد حواري قائم على نماذج Qwen للكتابة والشرح والمساعدة التقنية. ينبغي التمييز بين التطبيق المستضاف والنماذج القابلة للتنزيل من عائلة Qwen ومراجعة إمكانات كل إصدار وتراخيصه.",
+    "officialSource": "https://qwen.ai/home",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "microsoft-copilot": {
+    "fr": "Assistant Microsoft pour la rédaction, les échanges multimodaux et l'analyse de fichiers. Les fonctions et les données accessibles diffèrent entre comptes personnels et professionnels Microsoft 365. Vérifier les autorisations et les informations générées.",
+    "en": "Microsoft assistant for writing, multimodal conversations and file analysis. Features and accessible data differ between personal and Microsoft 365 business accounts. Review permissions and generated information.",
+    "ar": "مساعد من Microsoft للكتابة والمحادثات متعددة الوسائط وتحليل الملفات. تختلف الوظائف والبيانات المتاحة بين الحسابات الشخصية وحسابات Microsoft 365 المهنية. ينبغي مراجعة الصلاحيات والمعلومات المولدة.",
+    "officialSource": "https://support.microsoft.com/en-us/privacy/microsoft-copilot/transparency-note",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "grok": {
+    "fr": "Assistant conversationnel de xAI proposant rédaction, recherche, raisonnement, voix et génération d'images selon le mode utilisé. Vérifier les sources originales, notamment lorsque les réponses reposent sur des publications sociales, et contrôler les conditions d'utilisation des médias.",
+    "en": "Conversational assistant from xAI offering writing, search, reasoning, voice and image generation depending on mode. Check original sources, especially when answers rely on social posts, and review media usage terms.",
+    "ar": "مساعد حواري من xAI يقدم الكتابة والبحث والاستدلال والصوت وتوليد الصور بحسب الوضع. ينبغي مراجعة المصادر الأصلية خصوصًا عند الاعتماد على منشورات التواصل الاجتماعي والتحقق من شروط استخدام الوسائط.",
+    "officialSource": "https://x.ai/grok",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "deepseek-chat": {
+    "fr": "Interface conversationnelle des modèles DeepSeek pour les questions, le raisonnement et les tâches de programmation. Distinguer le service web et mobile des modèles distribués et de l'API développeur. Vérifier les réponses, les licences et les conditions de traitement des données.",
+    "en": "Conversational interface for DeepSeek models supporting questions, reasoning and coding tasks. Distinguish the web and mobile service from distributed models and the developer API. Check answers, licenses and data processing terms.",
+    "ar": "واجهة حوارية لنماذج DeepSeek تدعم الأسئلة والاستدلال ومهام البرمجة. ينبغي التمييز بين خدمة الويب والهاتف والنماذج الموزعة وواجهة المطورين، ومراجعة الإجابات والتراخيص وشروط معالجة البيانات.",
+    "officialSource": "https://www.deepseek.com/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "kimi": {
+    "fr": "Assistant de Moonshot AI combinant conversation, analyse de documents, recherche approfondie et agents de création de présentations, feuilles de calcul et sites. Les capacités varient selon le modèle et le mode. Vérifier les références et les fichiers produits.",
+    "en": "Moonshot AI assistant combining chat, document analysis, deep research and agents for creating slides, spreadsheets and websites. Capabilities vary by model and mode. Verify references and generated files.",
+    "ar": "مساعد من Moonshot AI يجمع الحوار وتحليل المستندات والبحث المعمق ووكلاء لإنشاء العروض وجداول البيانات والمواقع. تختلف الإمكانات بحسب النموذج والوضع. ينبغي مراجعة المراجع والملفات المنتجة.",
+    "officialSource": "https://www.kimi.com/en/help/new-user-guide/overview",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "meta-ai": {
+    "fr": "Assistant de Meta accessible via plusieurs applications de son écosystème, proposant conversation, recherche, voix et création visuelle selon les marchés et services. Les modèles Muse alimentent certaines fonctions. Vérifier la disponibilité régionale et les paramètres de confidentialité.",
+    "en": "Meta assistant available across several ecosystem apps, offering chat, search, voice and visual creation depending on market and service. Muse models power selected features. Check regional availability and privacy settings.",
+    "ar": "مساعد من Meta متاح عبر عدة تطبيقات في منظومتها ويقدم الحوار والبحث والصوت والإنشاء البصري بحسب السوق والخدمة. تشغل نماذج Muse بعض الوظائف. ينبغي التحقق من الإتاحة الإقليمية وإعدادات الخصوصية.",
+    "officialSource": "https://about.fb.com/news/2026/04/introducing-muse-spark-meta-superintelligence-labs/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "pi": {
+    "fr": "Assistant conversationnel d'Inflection AI axé sur les échanges en langage naturel et la voix, utile pour réfléchir à des idées et organiser des tâches quotidiennes. Il ne remplace pas un professionnel de santé ni les relations humaines. Éviter de communiquer des informations sensibles.",
+    "en": "Inflection AI conversational assistant focused on natural dialogue and voice, useful for exploring ideas and organizing everyday tasks. It does not replace healthcare professionals or human relationships. Avoid sharing sensitive information.",
+    "ar": "مساعد حواري من Inflection AI يركز على الحوار الطبيعي والصوت ويفيد في استكشاف الأفكار وتنظيم المهام اليومية. لا يحل محل مختصي الصحة أو العلاقات الإنسانية. ينبغي تجنب مشاركة المعلومات الحساسة.",
+    "officialSource": "https://hey.pi.ai/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "you-com": {
+    "fr": "Plateforme historiquement orientée vers la recherche conversationnelle, désormais centrée sur des API de recherche web, récupération de contenus, réponses documentées et inférence multimodèle. Vérifier les offres accessibles aux particuliers et distinguer citations et validation factuelle.",
+    "en": "Platform historically focused on conversational search, now centered on APIs for web search, content retrieval, referenced answers and multi-model inference. Check consumer availability and distinguish citations from factual validation.",
+    "ar": "منصة ركزت سابقًا على البحث الحواري وتتجه الآن نحو واجهات البحث على الويب واسترجاع المحتوى والإجابات الموثقة والاستدلال متعدد النماذج. ينبغي مراجعة إتاحة الخدمات للأفراد والتمييز بين الاستشهاد والتحقق من الحقائق.",
+    "officialSource": "https://you.com/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "huggingchat": {
+    "fr": "Interface de dialogue de Hugging Face permettant d'expérimenter des modèles ouverts hébergés. La disponibilité des modèles peut évoluer et le service ne constitue pas une exécution locale. Consulter les fiches et licences des modèles avant réutilisation.",
+    "en": "Hugging Face chat interface for experimenting with hosted open models. Model availability can change and the service does not constitute local execution. Consult model cards and licenses before reuse.",
+    "ar": "واجهة حوارية من Hugging Face لتجربة النماذج المفتوحة المستضافة. قد تتغير إتاحة النماذج ولا تعد الخدمة تنفيذًا محليًا. ينبغي مراجعة بطاقات النماذج وتراخيصها قبل إعادة الاستخدام.",
+    "officialSource": "https://huggingface.co/chat/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "character-ai": {
+    "fr": "Plateforme de création et de dialogue avec des personnages fictifs configurables, destinée notamment au jeu de rôle et à l'écriture narrative. Les conversations ouvertes avec les personnages ne sont plus proposées aux moins de 18 ans selon l'éditeur. Ne pas assimiler les propos des personnages à des faits.",
+    "en": "Platform for creating and chatting with configurable fictional characters, particularly for roleplay and narrative writing. According to the provider, open-ended character chat is no longer available to under-18s. Do not treat character statements as facts.",
+    "ar": "منصة لإنشاء شخصيات خيالية قابلة للتخصيص والتحدث معها، خصوصًا لتقمص الأدوار والكتابة السردية. وفق المزود لم تعد المحادثات المفتوحة مع الشخصيات متاحة لمن هم دون 18 عامًا. لا ينبغي اعتبار أقوال الشخصيات حقائق.",
+    "officialSource": "https://blog.character.ai/continuing-to-build-upon-our-safety-priorities/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "replika": {
+    "fr": "Compagnon conversationnel virtuel avec personnalisation d'avatar, mémoire des échanges et fonctions vocales. Destiné aux interactions sociales simulées, il ne possède pas de sentiments humains et ne remplace ni les relations humaines ni un accompagnement professionnel. Vérifier les paramètres de confidentialité.",
+    "en": "Virtual conversational companion with avatar customization, conversation memory and voice features. Designed for simulated social interactions, it does not have human feelings or replace human relationships or professional support. Review privacy settings.",
+    "ar": "رفيق حواري افتراضي مع تخصيص الصورة الرمزية وذاكرة المحادثات ووظائف صوتية. صمم للتفاعلات الاجتماعية المحاكاة ولا يمتلك مشاعر بشرية ولا يحل محل العلاقات الإنسانية أو الدعم المهني. ينبغي مراجعة إعدادات الخصوصية.",
+    "officialSource": "https://replika.com/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "brave-search-ai": {
+    "fr": "Moteur de recherche proposant des réponses synthétiques avec références aux pages retrouvées. Son API permet aussi d'intégrer des réponses documentées aux applications. Vérifier les sources originales et distinguer les extraits des synthèses générées.",
+    "en": "Search engine offering summarized answers with references to retrieved pages. Its API also integrates grounded answers into applications. Check original sources and distinguish extracts from generated summaries.",
+    "ar": "محرك بحث يقدم إجابات موجزة مع إحالات إلى الصفحات المسترجعة. تتيح واجهته البرمجية دمج الإجابات المستندة إلى المصادر في التطبيقات. ينبغي مراجعة المصادر الأصلية والتمييز بين المقتطفات والملخصات المولدة.",
+    "officialSource": "https://api-dashboard.search.brave.com/documentation/services/answers",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "andi": {
+    "fr": "Moteur de recherche conversationnel proposant des réponses plutôt qu'une simple liste de liens. Il facilite l'exploration initiale d'un sujet. Vérifier les documents originaux et compléter la recherche avec des bases spécialisées.",
+    "en": "Conversational search engine offering answers rather than just lists of links. Useful for initial topic exploration. Verify original documents and supplement searches with specialist databases.",
+    "ar": "محرك بحث حواري يقدم إجابات بدل الاكتفاء بقوائم الروابط. يفيد في الاستكشاف الأولي للموضوعات. ينبغي مراجعة الوثائق الأصلية واستكمال البحث بقواعد البيانات المتخصصة.",
+    "officialSource": "https://andisearch.com/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "komo": {
+    "fr": "Service historiquement consacré à la recherche conversationnelle, dont le site présente désormais un projet d'automatisation des cycles opérationnels d'entreprise sur liste d'attente. La disponibilité de l'ancien moteur n'est pas confirmée. Vérifier l'accès avant adoption.",
+    "en": "Service historically focused on conversational search whose website now presents a waitlisted business process automation project. Availability of the former search engine is unconfirmed. Verify access before adoption.",
+    "ar": "خدمة ركزت سابقًا على البحث الحواري ويعرض موقعها الآن مشروعًا لأتمتة دورات العمليات المؤسسية بقائمة انتظار. لم تتأكد إتاحة محرك البحث السابق. ينبغي التحقق من الوصول قبل الاعتماد.",
+    "officialSource": "https://komo.ai/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "exa": {
+    "fr": "API de recherche web destinée aux applications IA, avec récupération de contenus, recherche à différents niveaux de profondeur et intégrations MCP. Utile pour alimenter les agents et systèmes RAG. Évaluer la couverture, la fraîcheur et la pertinence des documents retrouvés.",
+    "en": "Web search API for AI applications, with content retrieval, varying search depths and MCP integrations. Useful for grounding agents and RAG systems. Evaluate coverage, freshness and relevance of retrieved documents.",
+    "ar": "واجهة برمجية للبحث على الويب موجهة لتطبيقات الذكاء الاصطناعي، توفر استرجاع المحتوى ومستويات مختلفة من عمق البحث وتكاملات MCP. تفيد في تغذية الوكلاء وأنظمة RAG. ينبغي تقييم التغطية وحداثة الوثائق وملاءمتها.",
+    "officialSource": "https://exa.ai/docs/reference/search-api-guide",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "tavily": {
+    "fr": "Ensemble d'API pour rechercher sur le Web, extraire le contenu de pages, explorer des sites et cartographier leurs liens. Les SDK Python et JavaScript facilitent l'intégration dans des agents. Contrôler les domaines consultés, les coûts et la qualité des sources.",
+    "en": "APIs for web search, page content extraction, website crawling and link mapping. Python and JavaScript SDKs support agent integration. Review queried domains, costs and source quality.",
+    "ar": "مجموعة واجهات برمجية للبحث على الويب واستخراج محتوى الصفحات والزحف في المواقع ورسم خرائط روابطها. تسهل حزم Python وJavaScript دمجها في الوكلاء. ينبغي مراقبة النطاقات والتكاليف وجودة المصادر.",
+    "officialSource": "https://docs.tavily.com/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "genspark": {
+    "fr": "Plateforme de recherche et de production assistée par IA dont Super Agent coordonne des outils dans un environnement cloud. Elle permet de consulter le Web, traiter des fichiers, exécuter du code et créer des documents. Vérifier les références et autoriser séparément les actions externes.",
+    "en": "AI-assisted research and production platform whose Super Agent coordinates tools in a cloud environment. Supports web research, file processing, code execution and document creation. Verify references and separately authorize external actions.",
+    "ar": "منصة للبحث والإنتاج المدعوم بالذكاء الاصطناعي ينسق فيها Super Agent الأدوات داخل بيئة سحابية. تتيح البحث على الويب ومعالجة الملفات وتنفيذ الشيفرة وإنشاء الوثائق. ينبغي مراجعة المراجع والموافقة منفصلًا على الإجراءات الخارجية.",
+    "officialSource": "https://www.genspark.ai/helpcenter/super-agent",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "felo": {
+    "fr": "Plateforme de recherche IA multilingue et de création de contenus, proposant des modes de recherche approfondie et des fonctions de présentation. Utile pour explorer des ressources dans différentes langues. Vérifier les traductions, les références et les crédits consommés.",
+    "en": "Multilingual AI search and content creation platform offering research modes and presentation features. Useful for exploring resources across languages. Verify translations, references and credit usage.",
+    "ar": "منصة متعددة اللغات للبحث بالذكاء الاصطناعي وإنشاء المحتوى توفر أوضاع البحث المعمق ووظائف العروض التقديمية. تفيد في استكشاف الموارد بلغات مختلفة. ينبغي مراجعة الترجمات والمراجع والأرصدة المستهلكة.",
+    "officialSource": "https://felo.ai/en/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "kagi-assistant": {
+    "fr": "Assistant multimodèle associé au moteur Kagi, pouvant intégrer les résultats de recherche, les préférences de classement et les filtres thématiques Lenses. Il aide à documenter des questions et analyser des pages. Vérifier les citations et les conditions d'accès aux modèles.",
+    "en": "Multi-model assistant connected to Kagi Search, optionally using search results, ranking preferences and thematic Lenses. Supports research and page analysis. Verify citations and model access terms.",
+    "ar": "مساعد متعدد النماذج مرتبط بمحرك Kagi يمكنه استخدام نتائج البحث وتفضيلات الترتيب والمرشحات الموضوعية Lenses. يساعد في البحث وتحليل الصفحات. ينبغي مراجعة الاستشهادات وشروط الوصول إلى النماذج.",
+    "officialSource": "https://help.kagi.com/kagi/ai/assistant.html",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "wolfram-alpha": {
+    "fr": "Moteur de connaissances calculables exploitant des données structurées et des algorithmes pour résoudre des problèmes mathématiques, scientifiques et quantitatifs. Accessible sur le Web et par API. Vérifier les hypothèses, unités et dates des données utilisées.",
+    "en": "Computational knowledge engine using structured data and algorithms to solve mathematical, scientific and quantitative problems. Available on the web and through APIs. Check assumptions, units and dates of underlying data.",
+    "ar": "محرك للمعرفة القابلة للحوسبة يستخدم البيانات المنظمة والخوارزميات لحل المسائل الرياضية والعلمية والكمية. يتوفر عبر الويب والواجهات البرمجية. ينبغي مراجعة الافتراضات والوحدات وتواريخ البيانات المستخدمة.",
+    "officialSource": "https://www.wolframalpha.com/tour",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "inciteful": {
+    "fr": "Outil de découverte scientifique qui construit un réseau de citations à partir de publications de départ et utilise des algorithmes de graphe pour repérer des travaux apparentés. Compléter cette exploration par des recherches indépendantes afin de limiter les biais de couverture.",
+    "en": "Literature discovery tool building citation networks from seed publications and applying graph algorithms to identify related work. Complement exploration with independent searches to limit coverage bias.",
+    "ar": "أداة لاكتشاف الأدبيات العلمية تبني شبكة استشهادات انطلاقًا من منشورات مرجعية وتستخدم خوارزميات الرسوم البيانية لتحديد الأعمال المرتبطة. ينبغي استكمال الاستكشاف بعمليات بحث مستقلة للحد من تحيز التغطية.",
+    "officialSource": "https://incitefulmed.com/academic/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "undermind": {
+    "fr": "Assistant de recherche bibliographique conçu pour explorer des questions scientifiques complexes formulées en langage naturel. Il aide à identifier des études pertinentes et à approfondir la recherche. Documenter les critères de sélection et vérifier les résultats dans les articles originaux.",
+    "en": "Literature research assistant designed to investigate complex scientific questions expressed in natural language. Helps identify relevant studies and deepen searches. Document selection criteria and verify findings in original papers.",
+    "ar": "مساعد للبحث الببليوغرافي مصمم لاستكشاف الأسئلة العلمية المعقدة المصاغة باللغة الطبيعية. يساعد على تحديد الدراسات ذات الصلة وتعميق البحث. ينبغي توثيق معايير الاختيار والتحقق من النتائج في المقالات الأصلية.",
+    "officialSource": "https://www.undermind.ai/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "iris-ai": {
+    "fr": "Environnement RSpace pour explorer, filtrer, résumer et interroger des corpus scientifiques. Le module Extract structure des données issues de textes et tableaux selon des variables prédéfinies, avec harmonisation possible des unités. Vérifier les valeurs et leur contexte dans les sources.",
+    "en": "RSpace research workspace for exploring, filtering, summarizing and querying scientific corpora. Extract structures data from text and tables using predefined variables, with optional unit normalization. Verify values and context in original sources.",
+    "ar": "بيئة RSpace لاستكشاف المدونات العلمية وتصفيتها وتلخيصها والاستفسار عنها. تنظم أداة Extract البيانات من النصوص والجداول وفق متغيرات محددة مسبقًا مع إمكانية توحيد الوحدات. ينبغي التحقق من القيم وسياقها في المصادر الأصلية.",
+    "officialSource": "https://iris.ai/help-center/rspace/overview-of-the-extract-tool",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "dimensions": {
+    "fr": "Base d'information scientifique reliant publications, citations, financements, brevets, essais cliniques et données de recherche. Elle permet des analyses bibliométriques et institutionnelles. Vérifier la couverture, la désambiguïsation des auteurs et les limites des indicateurs.",
+    "en": "Research information database linking publications, citations, grants, patents, clinical trials and research datasets. Supports bibliometric and institutional analysis. Check coverage, author disambiguation and indicator limitations.",
+    "ar": "قاعدة معلومات علمية تربط المنشورات والاستشهادات والتمويلات وبراءات الاختراع والتجارب السريرية ومجموعات بيانات البحث. تتيح التحليل الببليومتري والمؤسسي. ينبغي مراجعة التغطية وتمييز المؤلفين وحدود المؤشرات.",
+    "officialSource": "https://www.dimensions.ai/dimensions-data/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "zotero": {
+    "fr": "Gestionnaire bibliographique libre permettant de collecter des références, organiser des bibliothèques, annoter des PDF et insérer des citations dans les traitements de texte. Il constitue une infrastructure documentaire plutôt qu'un LLM. Vérifier les métadonnées importées et les styles bibliographiques.",
+    "en": "Open-source reference manager for collecting references, organizing libraries, annotating PDFs and inserting citations into word processors. It is document infrastructure rather than an LLM. Verify imported metadata and citation styles.",
+    "ar": "مدير مراجع مفتوح المصدر لجمع المراجع وتنظيم المكتبات وإضافة التعليقات إلى ملفات PDF وإدراج الاستشهادات في معالجات النصوص. يمثل بنية وثائقية وليس نموذجًا لغويًا كبيرًا. ينبغي مراجعة البيانات الوصفية المستوردة وأنماط الاستشهاد.",
+    "officialSource": "https://www.zotero.org/support/quick_start_guide",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "nanonets": {
+    "fr": "Plateforme de traitement documentaire associant OCR, analyse de structure et extraction de données depuis textes, tableaux et formulaires. Les sorties peuvent alimenter des processus métiers par API. Contrôler les champs extraits et prévoir une validation des documents ambigus.",
+    "en": "Document processing platform combining OCR, layout analysis and extraction from text, tables and forms. Outputs can feed business workflows through APIs. Verify extracted fields and plan review of ambiguous documents.",
+    "ar": "منصة لمعالجة المستندات تجمع التعرف البصري على الحروف وتحليل البنية واستخراج البيانات من النصوص والجداول والنماذج. يمكن تغذية عمليات الأعمال بالمخرجات عبر API. ينبغي مراجعة الحقول المستخرجة والتحقق من المستندات الملتبسة.",
+    "officialSource": "https://nanonets.com/document-parsing-and-extraction",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "klippa": {
+    "fr": "Technologie de traitement intelligent des documents dont le produit DocHorizon est désormais nommé Doxis AI.dp. Elle associe OCR, classification, extraction et vérification de documents. Les alertes de fraude restent des indications à examiner, et non une preuve définitive.",
+    "en": "Intelligent document processing technology whose DocHorizon product is now called Doxis AI.dp. Combines OCR, classification, extraction and document verification. Fraud alerts require review and are not definitive proof.",
+    "ar": "تقنية للمعالجة الذكية للمستندات أصبح منتجها DocHorizon يحمل اسم Doxis AI.dp. تجمع التعرف البصري على الحروف والتصنيف والاستخراج والتحقق من الوثائق. تبقى تنبيهات الاحتيال مؤشرات تستلزم المراجعة وليست أدلة قاطعة.",
+    "officialSource": "https://www.klippa.com/en/dochorizon/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "google-document-ai": {
+    "fr": "Service Google Cloud de traitement documentaire proposant des processeurs OCR, de classification et d'extraction structurée selon les types de documents. Les fonctionnalités et langues varient par processeur. Tester les documents cibles et contrôler les régions de traitement et les permissions.",
+    "en": "Google Cloud document processing service with OCR, classification and structured extraction processors for different document types. Features and languages vary by processor. Test target documents and review processing regions and permissions.",
+    "ar": "خدمة من Google Cloud لمعالجة المستندات توفر معالجات للتعرف البصري على الحروف والتصنيف والاستخراج المنظم بحسب نوع الوثيقة. تختلف الوظائف واللغات حسب المعالج. ينبغي اختبار الوثائق المستهدفة ومراجعة مناطق المعالجة والصلاحيات.",
+    "officialSource": "https://docs.cloud.google.com/document-ai/docs/overview",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "mistral-ocr": {
+    "fr": "API de reconnaissance et d'analyse documentaire de Mistral AI pour transformer des PDF et images en contenus exploitables. OCR 4.1 fournit notamment des coordonnées de blocs et des scores de confiance. Vérifier les tableaux, formules, ordre de lecture et passages multilingues avant indexation.",
+    "en": "Mistral AI document recognition and analysis API transforming PDFs and images into usable content. OCR 4.1 includes block coordinates and confidence scores. Verify tables, formulas, reading order and multilingual passages before indexing.",
+    "ar": "واجهة برمجية من Mistral AI للتعرف على المستندات وتحليلها وتحويل ملفات PDF والصور إلى محتوى قابل للمعالجة. يوفر OCR 4.1 إحداثيات الكتل ودرجات الثقة. ينبغي مراجعة الجداول والصيغ وترتيب القراءة والمقاطع متعددة اللغات قبل الفهرسة.",
+    "officialSource": "https://docs.mistral.ai/studio/document-processing/basic-ocr",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "askyourpdf": {
+    "fr": "Assistant de lecture permettant d'interroger des documents importés et d'obtenir des réponses avec renvois aux passages sources. Il peut faciliter la comparaison et la synthèse de documents selon l'offre. Vérifier chaque citation dans le fichier original et les conditions de confidentialité.",
+    "en": "Reading assistant for querying uploaded documents and obtaining answers referencing source passages. Supports document comparison and synthesis depending on plan. Verify each citation in the original file and review privacy terms.",
+    "ar": "مساعد للقراءة يتيح الاستفسار عن المستندات المستوردة والحصول على إجابات مع إحالات إلى المقاطع الأصلية. يسهل مقارنة المستندات وتلخيصها بحسب الاشتراك. ينبغي التحقق من كل استشهاد في الملف الأصلي وشروط الخصوصية.",
+    "officialSource": "https://askyourpdf.com/chat-with-documents",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "whisper": {
+    "fr": "Modèles de reconnaissance vocale d'OpenAI distribués avec leur code d'inférence. Ils transcrivent plusieurs langues et certains modèles traduisent la parole vers l'anglais, mais pas Turbo. L'exécution locale facilite les usages confidentiels ; vérifier les hallucinations, accents et passages silencieux.",
+    "en": "OpenAI speech recognition models distributed with inference code. They transcribe multiple languages and selected models translate speech into English, but Turbo does not. Local execution supports confidential workflows; check hallucinations, accents and silent passages.",
+    "ar": "نماذج للتعرف على الكلام من OpenAI موزعة مع شيفرة الاستدلال. تنسخ عدة لغات وتترجم بعض النماذج الكلام إلى الإنجليزية باستثناء Turbo. يسهل التشغيل المحلي الاستخدامات السرية؛ ينبغي مراجعة الهلوسات واللهجات والمقاطع الصامتة.",
+    "officialSource": "https://github.com/openai/whisper",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "otter": {
+    "fr": "Assistant de réunion avec transcription, notes et recherche dans les conversations. L'extension linguistique annoncée le 10 novembre 2026 ajoute treize langues disponibles, en plus des quatre précédentes, et annonce quatorze autres. Vérifier la disponibilité réelle des langues et obtenir l'accord des participants.",
+    "en": "Meeting assistant with transcription, notes and conversation search. The November 10, 2026 expansion adds thirteen available languages to the previous four and announces fourteen more. Check actual language availability and obtain participant consent.",
+    "ar": "مساعد للاجتماعات يوفر النسخ النصي والملاحظات والبحث في المحادثات. يضيف التوسع اللغوي المعلن في 10 نوفمبر 2026 ثلاث عشرة لغة متاحة إلى اللغات الأربع السابقة ويعلن عن أربع عشرة لغة أخرى. ينبغي مراجعة الإتاحة الفعلية والحصول على موافقة المشاركين.",
+    "officialSource": "https://otter.ai/blog/otter-ai-announces-its-biggest-multilingual-leap-yet-27-new-languages-and-multilingual-capabilities",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "fireflies-ai": {
+    "fr": "Assistant de réunion générant transcriptions, résumés et actions à partir des échanges. Son mode multilingue en bêta détecte les changements de langue pendant une même réunion. Vérifier les noms propres, décisions et autorisations de partage avant diffusion.",
+    "en": "Meeting assistant generating transcripts, summaries and action items from conversations. Its beta multilingual mode detects language switches during a meeting. Check names, decisions and sharing permissions before distribution.",
+    "ar": "مساعد للاجتماعات يولد النصوص والملخصات والمهام من المحادثات. يكتشف وضعه متعدد اللغات التجريبي تغير اللغة أثناء الاجتماع نفسه. ينبغي مراجعة الأسماء والقرارات وصلاحيات المشاركة قبل التوزيع.",
+    "officialSource": "https://guide.fireflies.ai/articles/2585231364",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "avoma": {
+    "fr": "Assistant de réunion et d'intelligence commerciale qui produit des notes structurées, identifie les tâches et peut synchroniser les informations avec un CRM. Vérifier les engagements extraits et autoriser les mises à jour des dossiers clients.",
+    "en": "Meeting and sales intelligence assistant producing structured notes, identifying tasks and optionally synchronizing information with a CRM. Verify extracted commitments and authorize customer record updates.",
+    "ar": "مساعد للاجتماعات والذكاء التجاري ينتج ملاحظات منظمة ويحدد المهام ويمكنه مزامنة المعلومات مع نظام إدارة علاقات العملاء. ينبغي التحقق من الالتزامات المستخرجة والموافقة على تحديث سجلات العملاء.",
+    "officialSource": "https://www.avoma.com/ai-meeting-assistant",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "sembly": {
+    "fr": "Assistant de réunion enregistrant et transcrivant les conversations et produisant des notes. Sembly 3.0 ajoute des fonctions agentiques de création de documents et présentations. Vérifier la fidélité des livrables et les permissions d'accès aux enregistrements.",
+    "en": "Meeting assistant recording and transcribing conversations and producing notes. Sembly 3.0 adds agentic document and presentation creation. Check deliverable accuracy and recording access permissions.",
+    "ar": "مساعد للاجتماعات يسجل المحادثات وينسخها وينتج الملاحظات. يضيف Sembly 3.0 وظائف وكلاء لإنشاء الوثائق والعروض. ينبغي مراجعة دقة المخرجات وصلاحيات الوصول إلى التسجيلات.",
+    "officialSource": "https://help.sembly.ai/en/articles/193-sembly-30-overview",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "meetgeek": {
+    "fr": "Assistant de réunion qui produit des synthèses et met en évidence des moments clés et indicateurs à partir des conversations. Les résumés et extraits peuvent être modifiés et partagés. Contrôler les citations, les décisions et les destinataires.",
+    "en": "Meeting assistant producing summaries and highlighting key moments and indicators from conversations. Summaries and highlights can be edited and shared. Review quotations, decisions and recipients.",
+    "ar": "مساعد للاجتماعات ينتج الملخصات ويبرز اللحظات والمؤشرات الرئيسية من المحادثات. يمكن تعديل الملخصات والمقتطفات ومشاركتها. ينبغي مراجعة الاقتباسات والقرارات والمستلمين.",
+    "officialSource": "https://support.meetgeek.ai/en/articles/6021900-highlights-summaries",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "krisp": {
+    "fr": "Outil de communication associant réduction du bruit et assistant de prise de notes pour réunions en ligne ou en présentiel. Il transcrit et résume les échanges. Vérifier les modalités de traitement audio et informer les participants avant capture.",
+    "en": "Communication tool combining noise reduction and a note-taking assistant for online and in-person meetings. Transcribes and summarizes conversations. Check audio processing terms and inform participants before capture.",
+    "ar": "أداة اتصال تجمع تقليل الضوضاء ومساعد تدوين الملاحظات للاجتماعات عن بعد والحضورية. تنسخ المحادثات وتلخصها. ينبغي مراجعة شروط معالجة الصوت وإبلاغ المشاركين قبل التسجيل.",
+    "officialSource": "https://krisp.ai/ai-note-taker/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "supernormal": {
+    "fr": "Assistant de réunion intégré à un espace de travail IA collaboratif, permettant de capturer des conversations et de produire des notes. La capture mobile par un seul microphone peut ne pas distinguer les intervenants. Vérifier les attributions et les décisions.",
+    "en": "Meeting assistant integrated into a collaborative AI workspace, capturing conversations and producing notes. Mobile capture through one microphone may not distinguish speakers. Verify attribution and decisions.",
+    "ar": "مساعد للاجتماعات مدمج في مساحة عمل تعاونية بالذكاء الاصطناعي يتيح التقاط المحادثات وإنتاج الملاحظات. قد لا يميز التسجيل المحمول بميكروفون واحد بين المتحدثين. ينبغي مراجعة نسب الأقوال والقرارات.",
+    "officialSource": "https://help.supernormal.com/en/articles/14288799-capturing-in-person-mobile-conversations",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "notta": {
+    "fr": "Service de transcription et traduction de fichiers audio et réunions, avec modes monolingue et bilingue. La liste officielle comprend notamment l'arabe égyptien et des Émirats arabes unis. Tester séparément les dialectes et les combinaisons linguistiques avant usage.",
+    "en": "Audio and meeting transcription and translation service with monolingual and bilingual modes. Its official list includes Egyptian and UAE Arabic. Test dialects and language combinations separately before use.",
+    "ar": "خدمة لنسخ وترجمة الملفات الصوتية والاجتماعات بأوضاع أحادية وثنائية اللغة. تشمل قائمتها الرسمية العربية المصرية والإماراتية. ينبغي اختبار اللهجات والتركيبات اللغوية بصورة مستقلة قبل الاستخدام.",
+    "officialSource": "https://support.notta.ai/hc/en-us/articles/4403155631131-What-languages-does-Notta-support-for-transcription-and-translation",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "sonix": {
+    "fr": "Plateforme de transcription et de sous-titrage de fichiers audio et vidéo, prenant notamment en charge l'arabe. Elle propose un éditeur de texte synchronisé et des exports documentaires ou sous-titres. Relire les noms propres et vérifier le minutage avant publication.",
+    "en": "Audio and video transcription and captioning platform supporting Arabic among other languages. Offers a synchronized text editor and document or subtitle exports. Review names and timing before publication.",
+    "ar": "منصة لنسخ الملفات الصوتية والمرئية وإنشاء الترجمات النصية تدعم العربية ضمن لغات أخرى. توفر محرر نصوص متزامنًا وتصدير المستندات أو الترجمات النصية. ينبغي مراجعة الأسماء والتوقيت قبل النشر.",
+    "officialSource": "https://sonix.ai/convert-arabic-mp4-files-to-text",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "trint": {
+    "fr": "Atelier de transcription collaborative de contenus audio et vidéo, avec sélection des langues, traduction et outils de révision. Adapté aux entretiens et productions éditoriales. Vérifier les citations avec l'enregistrement original et les options linguistiques du forfait.",
+    "en": "Collaborative audio and video transcription workspace with language selection, translation and review tools. Suitable for interviews and editorial production. Verify quotes against the original recording and plan-specific language options.",
+    "ar": "بيئة تعاونية لنسخ المحتوى الصوتي والمرئي مع اختيار اللغة والترجمة وأدوات المراجعة. تناسب المقابلات والإنتاج التحريري. ينبغي التحقق من الاقتباسات بالرجوع إلى التسجيل الأصلي وخيارات اللغة بحسب الاشتراك.",
+    "officialSource": "https://info.trint.com/knowledge/what-languages-does-trint-support-trint-help-center",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "deepgram": {
+    "fr": "API de reconnaissance vocale pour transcriptions de fichiers et flux audio, avec modèles Nova et options de langue. Nova-3 propose un modèle arabe et des variantes dialectales. Mesurer la qualité sur les accents et conditions acoustiques cibles avant intégration.",
+    "en": "Speech recognition API for file and streaming transcription with Nova models and language options. Nova-3 offers an Arabic model and dialect variants. Measure quality on target accents and acoustic conditions before integration.",
+    "ar": "واجهة برمجية للتعرف على الكلام ونسخ الملفات والتدفقات الصوتية باستخدام نماذج Nova وخيارات اللغة. يقدم Nova-3 نموذجًا عربيًا ومتغيرات لهجية. ينبغي قياس الجودة على اللهجات والظروف الصوتية المستهدفة قبل الدمج.",
+    "officialSource": "https://developers.deepgram.com/changelog/2026/1/27",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "gladia": {
+    "fr": "API de transcription audio en direct et différée, avec choix de modèles et options de détection linguistique. Les possibilités de changement de langue et de traduction varient selon le modèle. Vérifier la couverture des langues, la latence et le traitement des données.",
+    "en": "API for live and batch audio transcription with model selection and language detection options. Code switching and translation capabilities vary by model. Check language coverage, latency and data processing.",
+    "ar": "واجهة برمجية للنسخ الصوتي المباشر والمؤجل مع اختيار النماذج وخيارات اكتشاف اللغة. تختلف إمكانات تبديل اللغة والترجمة بحسب النموذج. ينبغي مراجعة التغطية اللغوية وزمن الاستجابة ومعالجة البيانات.",
+    "officialSource": "https://eu1.docs.gladia.io/languages/supported-languages/",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
