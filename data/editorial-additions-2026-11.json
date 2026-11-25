@@ -5304,5 +5304,33 @@
     "ar": "برنامج لتحسين الصور يجمع نماذج إزالة الضجيج وزيادة الحدة وترميم الوجوه ورفع الدقة. تتيح الإعدادات تكييف المعالجة؛ ينبغي مقارنة النتيجة بالملف الأصلي بصورة منهجية.",
     "officialSource": "https://docs.topazlabs.com/topaz-photo/enhancements/wonder",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "nightcafe": {
+    "fr": "Studio web de création visuelle proposant plusieurs familles de modèles génératifs, avec des réglages de qualité et des coûts en crédits variables selon le modèle. Comparer les résultats et les conditions de partage avant publication.",
+    "en": "Web-based creative studio offering several generative model families, with quality settings and model-dependent credit costs. Compare outputs and sharing conditions before publishing.",
+    "ar": "استوديو ويب للإبداع البصري يوفر عدة عائلات من النماذج التوليدية مع إعدادات للجودة وتكاليف بالأرصدة تختلف بحسب النموذج. ينبغي مقارنة النتائج وشروط المشاركة قبل النشر.",
+    "officialSource": "https://help.nightcafe.studio/portal/en/kb/articles/nightcafe-ai-models-guide",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "canva-magic-media": {
+    "fr": "Fonctions génératives intégrées à Canva pour produire des images, illustrations et clips à partir de descriptions, puis les insérer dans une composition graphique. Les limites d'utilisation dépendent de l'offre et des fonctions choisies.",
+    "en": "Generative tools integrated into Canva for creating images, graphics and clips from descriptions and incorporating them into designs. Usage limits depend on the plan and selected features.",
+    "ar": "أدوات توليدية مدمجة في كانفا لإنشاء الصور والرسوم والمقاطع انطلاقًا من أوصاف نصية وإدراجها في التصاميم. تختلف حدود الاستخدام بحسب الاشتراك والوظائف المختارة.",
+    "officialSource": "https://www.canva.com/en_gb/help/using-magic-media/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "adobe-photoshop": {
+    "fr": "Éditeur photographique intégrant le remplissage génératif et l'extension générative pour modifier des zones sélectionnées ou prolonger une composition. Le traitement non destructif facilite la comparaison avec l'original. Vérifier les droits et les crédits associés à l'offre Adobe.",
+    "en": "Photo editor integrating generative fill and expansion to modify selected regions or extend a composition. Non-destructive editing supports comparison with the original. Check licensing and credits associated with the Adobe plan.",
+    "ar": "محرر للصور يدمج التعبئة التوليدية والتوسيع التوليدي لتعديل مناطق محددة أو تمديد التكوين البصري. يسهل التحرير غير المتلف مقارنة النتيجة بالأصل. ينبغي مراجعة الحقوق والأرصدة المرتبطة باشتراك أدوبي.",
+    "officialSource": "https://helpx.adobe.com/photoshop/desktop/generative-ai/generative-ai-features-overview.html",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "imagineart": {
+    "fr": "Plateforme de création visuelle proposant plusieurs modèles de génération d'images. Le choix du modèle et des paramètres permet d'adapter la production à des besoins de composition, de typographie ou de cohérence visuelle. Vérifier les limites et droits propres à chaque modèle.",
+    "en": "Visual creation platform offering multiple image-generation models. Model and parameter selection helps tailor outputs to composition, typography or visual consistency requirements. Check model-specific limits and usage rights.",
+    "ar": "منصة للإبداع البصري توفر عدة نماذج لتوليد الصور. يساعد اختيار النموذج والإعدادات على تكييف النتائج مع متطلبات التكوين والطباعة والاتساق البصري. ينبغي التحقق من حدود كل نموذج وحقوق استخدامه.",
+    "officialSource": "https://www.imagine.art/models/kling/kling-image-4-0",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
