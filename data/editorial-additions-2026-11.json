@@ -7103,5 +7103,33 @@
     "ar": "منصة لوكلاء الذكاء الاصطناعي نشأت من مشروع AutoGPT، تقدم مساعدين متخصصين ومحررًا مرئيًا لبناء عمليات آلية مرتبطة بالتطبيقات. يتاح الوصول عبر الويب بخطط وأرصدة للتنفيذ؛ ينبغي التمييز بين المنصة المستضافة والمشروع الأصلي وتقييد الصلاحيات ومراقبة التكاليف والإجراءات.",
     "officialSource": "https://agpt.co/pricing/",
     "sourceReviewedAt": "2026-11-26"
+  },
+  "3dfy-ai": {
+    "fr": "Ancien service de génération de modèles 3D à partir de texte. Le domaine historique affiche désormais une page de vente de domaine ; aucun accès opérationnel ni tarif actuel confirmé. Référence conservée à titre historique, à ne pas recommander comme service actif sans nouvelle vérification.",
+    "en": "Former text-to-3D generation service. Its historical domain now displays a domain-sale page; current operational access and pricing are unconfirmed. Retained as a historical reference, not recommended as an active service without further verification.",
+    "ar": "خدمة سابقة لتوليد نماذج ثلاثية الأبعاد من النصوص. يعرض النطاق التاريخي حاليًا صفحة لبيع النطاق، ولم يؤكد الوصول التشغيلي أو التسعير الحالي. يُحتفظ بالمرجع لأغراض التوثيق التاريخي دون التوصية به كخدمة نشطة قبل التحقق مجددًا.",
+    "officialSource": "https://www.3dfy.ai/",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "air-ai": {
+    "fr": "Référence historique à un service d'agents conversationnels téléphoniques. Le domaine air.ai présente actuellement une plateforme différente de préparation opérationnelle des organisations. L'accès et les tarifs du service initial ne sont pas confirmés ; ne pas confondre les deux offres.",
+    "en": "Historical reference to a telephone conversational agent service. The air.ai domain currently presents a different organizational readiness platform. Access and pricing for the original service are unconfirmed; do not conflate the two offerings.",
+    "ar": "مرجع تاريخي لخدمة وكلاء المحادثة الهاتفية. يعرض نطاق air.ai حاليًا منصة مختلفة للجاهزية التشغيلية للمؤسسات. لم يؤكد الوصول إلى الخدمة الأصلية أو أسعارها، وينبغي عدم الخلط بين العرضين.",
+    "officialSource": "https://air.ai/",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "fellou": {
+    "fr": "Navigateur agentique intégrant recherche approfondie et automatisation de tâches dans des interfaces web. Application téléchargeable et page tarifaire dédiée ; vérifier les conditions de chaque formule. Superviser les actions, les autorisations et la transmission de données.",
+    "en": "Agentic browser combining deep search and automation of tasks in web interfaces. Downloadable application with a dedicated pricing page; check plan terms. Supervise actions, permissions and data transfers.",
+    "ar": "متصفح مزود بوكلاء يجمع البحث المعمق وأتمتة المهام داخل واجهات الويب. يتاح تطبيق قابل للتنزيل وصفحة مخصصة للأسعار؛ ينبغي مراجعة شروط الخطط والإشراف على الإجراءات والصلاحيات ونقل البيانات.",
+    "officialSource": "https://fellou.ai/",
+    "sourceReviewedAt": "2026-11-26"
+  },
+  "hugging-face-computer-agent": {
+    "fr": "Démonstration de recherche hébergée sur Hugging Face Spaces autour des agents capables d'interagir avec des interfaces informatiques. Accès via le dépôt public de démonstration ; disponibilité de l'exécution et coûts de calcul variables. Ne pas assimiler ce prototype à un service commercial garanti.",
+    "en": "Research demonstration hosted on Hugging Face Spaces exploring agents that interact with computer interfaces. Access via the public demo repository; execution availability and compute costs may vary. Do not treat the prototype as a guaranteed commercial service.",
+    "ar": "عرض بحثي مستضاف على Hugging Face Spaces يستكشف الوكلاء القادرين على التفاعل مع واجهات الحاسوب. يتاح عبر مستودع العرض العام وقد تختلف إتاحة التنفيذ وتكاليف الحوسبة. لا ينبغي اعتباره خدمة تجارية مضمونة.",
+    "officialSource": "https://huggingface.co/spaces/smolagents/computer-use-agent/blob/main/README.md",
+    "sourceReviewedAt": "2026-11-26"
   }
 }
