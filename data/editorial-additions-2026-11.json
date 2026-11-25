@@ -6837,5 +6837,26 @@
     "ar": "مساعد سفر حواري من Matador Network يقدم توصيات ومسارات عبر قنوات المراسلة المتوافقة. مجاني للمسافرين مع حلول مخصصة للهيئات السياحية بحسب العقد. ينبغي التحقق من المعلومات العملية قبل السفر.",
     "officialSource": "https://guidegeek.com/social",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "vacay": {
+    "fr": "Assistant web de voyage proposant des recherches personnalisées et un éditeur interactif d’itinéraires. Offre personnelle gratuite et abonnements premium et professionnels selon disponibilité. Vérifier tarifs et réservations auprès des prestataires.",
+    "en": "Web travel assistant offering personalized searches and an interactive itinerary editor. Free personal tier and premium and professional subscriptions subject to availability. Verify prices and bookings with providers.",
+    "ar": "مساعد سفر عبر الويب يقدم عمليات بحث مخصصة ومحررًا تفاعليًا لمسارات الرحلات. يوفر خطة شخصية مجانية واشتراكات مميزة ومهنية بحسب التوفر. ينبغي التحقق من الأسعار والحجوزات لدى مقدمي الخدمات.",
+    "officialSource": "https://www.usevacay.com/pricing",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "trip-planner-ai": {
+    "fr": "Portail web d’exploration de destinations et de préparation de voyages. Ses conditions orientent les utilisateurs vers Layla AI et des partenaires pour la planification détaillée et les réservations. Les frais éventuels relèvent des offres partenaires ; aucun tarif autonome confirmé.",
+    "en": "Web portal for destination exploration and trip preparation. Its terms direct users to Layla AI and partners for detailed planning and bookings. Applicable charges depend on partner offerings; no standalone price confirmed.",
+    "ar": "بوابة ويب لاستكشاف الوجهات وإعداد الرحلات. توجه شروطها المستخدمين إلى Layla AI والشركاء للتخطيط المفصل والحجز. تعتمد الرسوم المحتملة على عروض الشركاء؛ لم يتأكد وجود سعر مستقل.",
+    "officialSource": "https://tripplanner.ai/terms",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "google-maps-gemini": {
+    "fr": "Fonctions Gemini intégrées à Google Maps, dont Ask Maps pour explorer les lieux et préparer des itinéraires et l’assistance conversationnelle en navigation. Accès via les applications compatibles, sans abonnement spécifique annoncé pour ces fonctions grand public ; disponibilité variable selon régions et appareils. Vérifier les conditions réelles.",
+    "en": "Gemini features integrated into Google Maps, including Ask Maps for place discovery and itinerary planning and conversational navigation assistance. Compatible apps, with no dedicated subscription announced for these consumer features; availability varies by region and device. Verify actual conditions.",
+    "ar": "وظائف Gemini المدمجة في خرائط Google، ومنها Ask Maps لاستكشاف الأماكن وإعداد المسارات والمساعدة الحوارية أثناء التنقل. تتاح عبر التطبيقات المتوافقة دون إعلان اشتراك خاص بهذه الوظائف للمستهلكين؛ ويختلف التوفر بحسب المنطقة والجهاز. ينبغي التحقق من الظروف الفعلية.",
+    "officialSource": "https://blog.google/products-and-platforms/products/maps/ask-maps-immersive-navigation/",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
