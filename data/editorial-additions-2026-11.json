@@ -6900,5 +6900,26 @@
     "ar": "تقنية لمراقبة مشاريع الغابات والكربون تجمع بيانات الأقمار الصناعية والتعلم الآلي لدعم القياس والإبلاغ والتحقق (MRV). استحوذت عليها Carbon Direct في 10 نوفمبر 2025 لتدمج المنصة في خدماتها العلمية. يتاح الوصول المهني بحسب المشروع والعقد دون سعر عام مستقل مؤكد. لا تغني التقديرات عن التحقق المستقل.",
     "officialSource": "https://www.carbon-direct.com/press/carbon-direct-acquires-pachama",
     "sourceReviewedAt": "2026-11-25"
+  },
+  "zendesk-ai-agents": {
+    "fr": "Agents de service client intégrés à Zendesk, capables de traiter des demandes sur différents canaux à partir des connaissances et procédures de l'entreprise, avec transfert vers un conseiller humain. Accès via la plateforme professionnelle et ses intégrations. Facturation selon les résolutions automatisées, les niveaux de résultat et le contrat applicable. Configurer les permissions et les règles d'escalade.",
+    "en": "Customer service agents integrated into Zendesk that handle requests across channels using company knowledge and procedures, with human handoff. Access through the professional platform and integrations. Billing depends on automated resolutions, outcome tiers and applicable contract. Configure permissions and escalation rules.",
+    "ar": "وكلاء لخدمة العملاء مدمجون في Zendesk يعالجون الطلبات عبر قنوات متعددة بالاستناد إلى معرفة المؤسسة وإجراءاتها مع إمكانية التحويل إلى موظف بشري. يتاح الوصول عبر المنصة المهنية وتكاملاتها. تعتمد الفوترة على الحلول الآلية ومستويات النتائج والعقد المعمول به. ينبغي ضبط الصلاحيات وقواعد التصعيد.",
+    "officialSource": "https://www.zendesk.com/service/ai/ai-agents/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "ada-ai-agent": {
+    "fr": "Plateforme d'agents IA pour le service client multilingue par chat, courriel et voix, connectée aux bases de connaissances, CRM et workflows métiers. Accès professionnel via console web, API et intégrations de centres de contact. Tarification par conversation selon l'offre contractuelle. Contrôler les données personnelles, les actions autorisées et le transfert humain.",
+    "en": "AI agent platform for multilingual customer service across chat, email and voice, connected to knowledge bases, CRM and business workflows. Professional access through web console, APIs and contact center integrations. Conversation-based pricing under contract. Control personal data, authorized actions and human handoff.",
+    "ar": "منصة لوكلاء الذكاء الاصطناعي لخدمة العملاء بلغات متعددة عبر المحادثة والبريد الإلكتروني والصوت، تتصل بقواعد المعرفة وأنظمة إدارة العملاء وسير العمل. يتاح الوصول المهني عبر لوحة الويب والواجهات البرمجية وتكاملات مراكز الاتصال. تعتمد الفوترة على المحادثات وفق العقد. ينبغي ضبط البيانات الشخصية والإجراءات المصرح بها والتحويل إلى الموظفين.",
+    "officialSource": "https://www.ada.cx/platform/",
+    "sourceReviewedAt": "2026-11-25"
+  },
+  "kore-ai-agents": {
+    "fr": "Plateforme d'IA agentique permettant de construire et orchestrer des agents conversationnels, d'automatiser le libre-service vocal et numérique et d'assister les conseillers des centres de contact. Accès professionnel via plateforme web et intégrations aux systèmes métiers. Conditions commerciales selon solution et contrat, sans prix universel confirmé. Tester les workflows, les droits et les mécanismes d'escalade.",
+    "en": "Agentic AI platform for building and orchestrating conversational agents, automating voice and digital self-service, and assisting contact center staff. Professional access through web platform and business system integrations. Commercial terms depend on solution and contract, with no confirmed universal price. Test workflows, permissions and escalation mechanisms.",
+    "ar": "منصة للذكاء الاصطناعي الوكيلي تتيح بناء الوكلاء الحواريين وتنسيقهم وأتمتة الخدمة الذاتية الصوتية والرقمية ومساعدة موظفي مراكز الاتصال. يتاح الوصول المهني عبر منصة الويب والتكامل مع أنظمة المؤسسة. تختلف الشروط التجارية بحسب الحل والعقد دون سعر موحد مؤكد. ينبغي اختبار سير العمل والصلاحيات وآليات التصعيد.",
+    "officialSource": "https://www.kore.ai/customer-experience",
+    "sourceReviewedAt": "2026-11-25"
   }
 }
